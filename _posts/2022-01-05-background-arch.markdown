@@ -19,6 +19,33 @@ Good background readings...
 
 <img src="assets/images/software-architecture-elevator.webp" style="width: 178px">
 
+"Staying grounded in reality and receiving feedback on decisions from real project implementations is vital for
+architects. Otherwise, control remains an illusion"
+
+"Many companies are penny-wise and pound-foolish by not placing sufficient emphasis on nurturing their
+architects. They fear that any distraction from daily project work will be unproductive. However, they miss out
+on growing world-class architects."
+
+"The worst-case scenario materializes when people holding relevant information or expertise aren’t empowered
+to make decisions, whereas the decision makers lack relevant information."
+
+"It’s about designing software and solving problems within a specific organizational context, and being aware of
+what’s happening around you, so that you can successfully navigate and influence that context where necessary.
+It’s crucial, therefore, that architects realize they need to communicate and influence at different levels, with
+different audiences, both inside and outside of their immediate team environment."
+
+"To transform an organization, you don’t need to solve mathematical equations. You need to move people"
+
+"architects should be part of a trusted but diverse network of experts, which can provide unbiased information"
+
+"When asked to characterize the seniority of an architect, I apply a simple framework: a successful architect must
+stand on three “legs”: Skill The foundation for practicing architects. It requires knowledge and the ability to
+apply it to solve real problems. Impact The measure of how well an architect applies his or her skill to benefit
+the company. Leadership Determines whether an architect advances the state of the practice."
+
+"Lastly, sharing openly and demonstrating thought leadership offers another huge benefit: it can give you access
+to a powerful community of other thought leaders, which in turn makes you a better architect."
+
 
 
 ## Scaling the Practice of Architecture
