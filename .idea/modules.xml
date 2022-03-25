@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../design-instability/.idea/design-instability.iml" filepath="$PROJECT_DIR$/../design-instability/.idea/design-instability.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/hybrid-architecture.iml" filepath="$PROJECT_DIR$/.idea/hybrid-architecture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../underthehood/.idea/underthehood.iml" filepath="$PROJECT_DIR$/../underthehood/.idea/underthehood.iml" />
+    </modules>
+  </component>
+</project>

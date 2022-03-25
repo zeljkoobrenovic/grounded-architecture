@@ -1,0 +1,41 @@
+---
+layout: post
+title: "A Hybrid Approach (AHA)"
+startSection: "A Hybrid Approach (AHA)"
+position: 2009
+date:   2021-10-21 21:12:01 +0100
+author: by Željko Obrenović (obren.io)
+permalink: hybrid-model
+icon: hybrid.png
+timetoread: 15 min
+excerpt: ...
+
+
+---
+![](assets/images/640px-2014_Porsche_919_Hybrid_Race_Car_(73530205).jpeg)
+
+> *"Most of us think successful people have more willpower. But all they do is build systems to make hard things easier to do."* - Chris Hladczuk
+
+![](assets/images/aha-model.png)
+***Figure 1:** A Hybrid Approach (AHA) for Scaling Architecture Practice and impact of its elements of key opportunities.*
+
+
+## Less control function, more strategic impact
+
+![](assets/images/pillars.png)
+
+
+## A True Hybrid: Flexibility and Resilience
+
+VAT crucial in man over board!
+
+GAT crucial in transformation phase
+
+
+![](assets/images/realities.png)
+
+
+<br>
+#### [Cover Art]
+
+[Porsche 919 Hybrid Race Car](https://commons.wikimedia.org/wiki/File:2014_Porsche_919_Hybrid_Race_Car_(73530205).jpeg). Credit: Doug Fawley / Wikimedia Commons.

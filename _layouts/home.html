@@ -1,0 +1,50 @@
+---
+layout: default
+---
+{% include google-analytics.html %}
+
+<img src="{{ site.baseurl }}/assets/images/Porsche_Cayenne_S_Hybrid_Concept_IMG_0840.jpeg"
+     style="box-shadow: 0 2px 4px 0 rgb(0 0 0 / 20%), 0 3px 10px 0 rgb(0 0 0 / 19%);">
+<br>
+<br>
+
+<div class="home">
+    {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+    {%- endif -%}
+
+    {{ content }}
+
+    {%- if site.posts.size > 0 -%}
+    <ul class="post-list">
+        {%- assign sortedPosts = site.posts | sort: 'position' -%}
+        {%- for post in sortedPosts -%}
+        {%- if post.title contains '[WIP]' -%}
+        {%- else -%}
+        {%- if post.startSection -%}
+        <h1 class="page-heading" style="text-align: center">{{ post.startSection }}</h1>
+        {%- endif -%}
+        <li>
+
+            <table style="border: none;">
+                <tr>
+                    <td style="width: 100px; border: none;">
+                        <img src="{{ site.baseurl }}/assets/icons/{{ post.icon }}" style="width: 100px;">
+                    </td>
+                    <td style="border: none;">
+                        <h3>
+                            <a class="post-link" href="{{ post.url | relative_url }}">
+                                {{ post.title | escape }}
+                            </a>
+                        </h3>
+                        <i>{{ post.excerpt }}</i>
+                    </td>
+                </tr>
+            </table>
+        </li>
+        {%- endif -%}
+        {%- endfor -%}
+    </ul>
+    {%- endif -%}
+
+</div>

@@ -1,0 +1,61 @@
+---
+layout: post
+title: "Introduction"
+position: 1
+startSection: "Introduction"
+date:   2021-10-21 21:12:01 +0100
+author: by Željko Obrenović (obren.io)
+permalink: intro
+icon: intro.png
+timetoread: 15 min
+excerpt: The articles presented on this site generalize lessons learned in scaling architecture in big organizations. The lessons build on my experience as a Principal Architect, CTO, and Consultant.
+
+
+---
+![](assets/images/car-engine-g0d5843075_1920.jpg)
+
+
+## Intro
+
+In these articles, I will explain one approach to scaling practice in bigger organizations. By scaling architecture practice, I mean leveraging architectural practices at lower levels of the organization and adding additional central architectural elements. I will present a hybrid model of  IT architecture consisting of a central architecture team, distributed virtual architecture team, and architecture data platform. I call this model hybrid because it combines bottom-up and top-down approaches to architecture.
+
+The articles presented on this site generalize lessons learned in scaling architecture in big organizations. The lessons build on my experience as a Principal Architect, CTO, and Consultant.
+
+
+## A Bit of History
+
+The work presented in these articles builds on several years of my experience. Most of this work results from two years of being a principal Architect of eBay classifieds and Adevinta. As a principal architect, I led a distributed virtual architecture team while working with business stakeholders to define technology roadmaps and support several strategic initiatives, such as defining a cloud strategy, platform, and data strategy. I learned the value of being strongly connected to all levels of the organization and the limitations of a fully distributed model.
+
+Another vital part of my experience that shaped these articles was my experience as a consultant at the Software Improvement Group. I've learned the value and pragmatics of data-informed decision-making. As a spin-off of this work, I've also built tools called Sokrates, which enables efficient and pragmatic extraction of data about technology and organization from source code. This work has directly influenced my view on the architecture data platform.
+
+Lastly, my experience as a CTO of a start-up has helped me understand the difficulties of running ethnological organizations.
+
+
+## Why These Articles?
+
+These articles generalize my experiences in a written form. I have written these articles for two reasons. Firstly, the act of writing has helped me to clarify and improve my ideas (Figure 1). Borrowing from Gregor Hohpe, I feel I free up some brain cells to learn new things with every sentence I write. As nicely described by Gregor Hohpe written word has distinct advantages over the spoken word:
+
+* it scales: you can address a broad audience without gathering them all in one (virtual) room at the same time
+* it’s fast to process: people read 2-3 times faster than they can listen
+* it can be easily searched or versioned.
+
+
+![](assets/images/writing.png)
+***Figure 1:** Writing a book helped me organize ideas, obtain new insights, improve principles and the tools, and share the lessons learned.*
+
+Second, by generalizing and putting down on paper my experiences, I hope to create more usable materials to help others in similar situations. Ultimately, I also expect to get helpful feedback from a broader community by sharing these materials.
+
+
+
+## Who Should Read This Articles?
+
+When writing these articles, I had a broad audience in my mind. The article should be helpful to both technical and non-technical people. I hope the article can help developers and IT architects better understand their value and place in a broader organization and the possibilities of collaboration with peers. I also hope the articles can show the non-technical audience such as finance, marketing, and C-level management the benefits of close cooperation with technical people.
+
+
+## The Structure of the Site
+
+I have organized articles into three sections. The first section presents the principles behind a hybrid approach to scaling architectural practice. In the second part, I explain the hybrid approach describing its elements and interactions in more detail. In the last part, I added discussion and response to some common objections.
+
+## About Cover Art
+
+In most posts on this site, I use the theme on hybrid car as a cover art. This post features a photo of a hybrid car engine, credit [paulbr75 / Pixabay](https://pixabay.com/photos/car-engine-motor-clean-customized-1548434/).
