@@ -41,7 +41,21 @@ challenge: not naturally connected to other architects outside their units, uncl
 
 Creating a (Virtual) Talent Density
 
-## Embrace the Scale, Beware Intuition
+## Increase Talent Density Via Virtual Architecture Teams 
+
+## Open Up the Books: Ruthless Transparency
+
+## Make Decisions in Best Organizational Interest
+
+The basic principle
+
+You should feel comfortable defending at all levels why your architectural decision is in your organization best interest.
+
+Transparency and review after.
+
+Side effect: more awareness about what is the organizational interest and how your work fit in it.
+
+## Embrace the Scale with Data and Automation
 
 Maintain complete oversights at Adevinta scale and fast changes
 
@@ -57,7 +71,6 @@ Intuition and manual input in Excel sheets do not work at this scale
 > *“A lot of cheap seats in the arena are filled with people who never venture onto the floor. They just hurl mean-spirited criticisms and put-downs from a safe distance. The problem is, when we stop caring what people think and stop feeling hurt by cruelty, we lose our ability to connect. But when we’re defined by what people think, we lose the courage to be vulnerable. Therefore, we need to be selective about the feedback we let into our lives. For me, if you’re not in the arena getting your ass kicked, I’m not interested in your feedback.”* — Brené Brown, Rising Strong: The Reckoning. The Rumble. The Revolution
 
 ## Eyes On, Hands Off: Low-Context Transparency
-
 
 ##  Preserving Autonomy of Teams, Nudging Their Alignment
 
@@ -78,15 +91,7 @@ Perserver decision culture
 
 ### Governing with Nudges Rather than Mandates and Bans
 
-Choice-perseving appraoches
-
-
-## Support Strategic Transformations
-
-
-Provide focused tech strategy leadership to support strategic transformations
-
-Aligning organizations, technology, product, and business functions
+Choice-preserving approaches
 
 
 

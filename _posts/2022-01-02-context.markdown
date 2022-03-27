@@ -81,7 +81,7 @@ Diversity has many impacts on architectural activities, primarily:
 
 # Dynamic
 
-Lastly, complex organizations are frequently very dynamic. In a trivial sense, any organization is dynamic. But a reference organization I use in this section grows (or shrinks) and reorganizes frequently and significantly.
+Complex organizations are frequently very dynamic. In a trivial sense, any organization is dynamic. But a reference organization I use in this section grows (or shrinks) and reorganizes frequently and significantly.
 
 They change both organically and inorganically. Organic growth is internal growth the company sees from its operations. Inorganic growth is growth from buying other businesses or opening new locations. Another direction is also happening, for instance, divestments to increase focus.
 
@@ -91,6 +91,18 @@ Dynamic aspects  have several influences on architectural activities:
 * How to onboard new markets
 * How to increase synergies after the acquisition
 * How to architecture for synergies but stay flexible when the organization decides to divest a part of the organization
+
+
+## Synergies and Strategic Transformations
+
+Lastly, complex organizations do not grow just to be bigger. Rather benefits, like cost synergies or increased capacity for innovation are expected. 
+
+Provide focused tech strategy leadership to support strategic transformations
+
+Aligning organizations, technology, product, and business functions
+
+
+
 
 <br>
 #### [Cover Art]
