@@ -24,7 +24,7 @@ A hybrid approach to scaling architecture generalizes my experiences in several 
 
 In the following sections, I discuss these characteristics and some of the challenges they bring in more detail.
 
-# A global, multi-cultural organization
+## A Global Scale
 
 The first characteristic of our context is that we developed our approach in a truly global and multicultural organization. Globality and multiculturality come from two sources:
 
@@ -44,8 +44,6 @@ The global and multicultural nature of our context poses several interesting cha
 * Different meeting styles
 * Different ways of dealing with feedback
 
-# Massive Size
-
 Another characteristic of the context that developed the hybrid approach is massive scale. By massive scale, we mean all specific aspects of scale:
 * Millions of active daily users
 * Billions of monthly user visits
@@ -60,12 +58,18 @@ The massive scale has many challenges for architectural activities:
 * Limitations of manual processes, such as diagram drawing to create an overview of the technology landscape
 
 
-# Multi-Dimensional Diversity
+## Multi-Dimensional Diversity
 
 The organization we use as a reference context is not only operating on a global, massive scale but is very diverse. The diversity has multiple dimensions:
 * Cultures and market characteristics
+
+Product diversity
 * Products and features
+
+Technical Infrastraucture:
 * Cloud providers (AWS, GCP, Azure) in combination with custom build private data centers
+
+Application technology diversity
 * Database technologies (e.g., MySQL, Postgress, MongoDB, Cassandra, AWS RDS)
 * Backend programming languages (e.g., Java, C#, Go, Scala, PHP, Node.js, Kotlin)
 * Mobile apps programming languages (e.g., Swift, Objective-C, Java, Kotlin, Flutter/Dart)
@@ -79,7 +83,7 @@ Diversity has many impacts on architectural activities, primarily:
 * Limited flexibility and reorganization possibilities as expertize is split among many domains and technologies
 
 
-# Dynamic
+## Disruptive Dynamic
 
 Complex organizations are frequently very dynamic. In a trivial sense, any organization is dynamic. But a reference organization I use in this section grows (or shrinks) and reorganizes frequently and significantly.
 
@@ -93,7 +97,7 @@ Dynamic aspects  have several influences on architectural activities:
 * How to architecture for synergies but stay flexible when the organization decides to divest a part of the organization
 
 
-## Synergies and Strategic Transformations
+## Synergies and Strategic Transformations Pressures
 
 Lastly, complex organizations do not grow just to be bigger. Rather benefits, like cost synergies or increased capacity for innovation are expected. 
 

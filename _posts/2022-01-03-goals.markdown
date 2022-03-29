@@ -1,41 +1,109 @@
 ---
 layout: post
-title: "Goals of A Hybrid Model"
+title: "What: Goals"
 position: 3
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 permalink: goals
-icon: superglue.png
+icon: goals.png
 timetoread: 15 min
 excerpt: ...
 
 ---
 Three main goals:
-1. Breaking Up the Ivory Tower: Developing Architecture As a Cross-Organizational Superglue
+1. Breaking Up the Ivory Tower: Positioning Architecture As a Cross-Organizational Superglue
 2. Growing and Connecting Architectural Talent Across Organization
-3. Execute At Full Scale and All Levels
+3. Promote Data-Informed Decision-Making
+4. Supporting Strategic Transformations by Leveraging Superglue
 
-## Goal 1: Breaking Up the Ivory Tower: Architecture As a Cross-Organizational Superglue
+![](assets/images/goals.png)
 
-![](assets/images/triangle.png)
+## Goal 1: Break Up the Ivory Tower: Position Architecture As a Cross-Organizational Superglue
+
+The Problem:
+
+![](assets/images/tension.png)
+Magic between global strategy and implementation.
+
+* Ensuring that conversations happen between the technical, product, organizational, and business functions.
+* Proactively being technical conscience of the organization
 
 
-conversations 
+Two problems:
+* Complexity
+* Missed opportunities
 
 In my view, architects in IT organizations should develop as "superglue." I borrow this view from [Adam Bar-Niv and Amir Shenhav from Intel](https://resources.sei.cmu.edu/library/asset-view.cfm?assetID=454541). They pointed out that instead of the superhero, we need "super glue" architects - the fellows who hold architecture, technical details, business needs, and people together across a large organization or complex projects.
 
 The superglue characteristics mean serving as the organizational connective tissue, linking the "business wheelhouse" and the "engine room." Architects, of course, need to be technically strong. But their unique strengths should stem from being able to relate, or glue, technical issues with business and broader issues.
 
+![](assets/images/arch-position.png)
+
+In practice, I expect architects to be in continuous motion through organization layers and interact with diverse stakeholders (Figure 5). We need to work with business functions to define strategy, with other architects to define shared guiding principles, and with developers to ensure consistency among their practical decisions.
+
+Cloud Strategy
+Data Strategy
+Platform Strategy
+Global / local services
+
+
+
+<br>
+## Goal 2: Move Away From An Opinion-Based to A Data-Informed Decision-Making
+> *"If we have data, let's look at data. If all we have are opinions, let's go with mine."* -— Jim Barksdale
+
+We cannot centrally make all decisions. One-size-fits-all solutions do not work for everyone, and central decision-making does not scale. But we can at least make sure that the quality of decision-making is high.
+
+In line with becoming more data-driven, we need to create shared frameworks to move from opinion-based decisions to data-driven economic risk modeling. Such frameworks should achieve the following:
+* dismantle the buzzwords, present the problem in clear terms, understandable to a broader audience
+* identify the real drivers behind buzzwords based on internal and external research
+* bring internal data and external trends
+* translate drivers into an economic risk model, and use the model to find the best spot for the given business context
+
+I genuinely believe that we should make our decision process as much as possible data-drive. Consequently, I see it as one of the most critical tasks to maintain high-quality data on relevant technology development, both internally and externally, providing fuel for data-driven decision-making.
+
+One of the problems we face is that we have lots of data on technology, but they are not well-connected, and manual data input and gathering are still frequent. For that reason, we need to work on developing automated tools that facilitate insights into technology and business.
+
+<br>
+## Goal 3: Distribute Decision-Making, Centralize Alignment
+
+
+<br>
+## Goal 4: Maximizing Organizational Learnings
+
+> *" I expect you to learn to be better each day. I challenge you to look at each working day as an opportunity to learn more, and by doing so, to grow as a person."* -- L. David Marquet
+>
+> *"Good judgment comes from experience, and experience comes from bad judgment."* -- Fred Brooks
+
+One of our primary daily tasks is learning. We need to discover new things about our domain, teams, new tools, and technologies. As individual architects, we need to use each day as an opportunity to learn something new. We need to maximize personal learnings, transforming individual lessons learned into shared guidelines.
+
+One of the problems I frequently see in organizations, particularly complex and international ones, is that they may not have natural spaces for group knowledge sharing. Consequently, architects' superglue attributes may uniquely position them to work together to create spaces for sharing knowledge about architecture and technology. These spaces include but are not limited to regular update calls, knowledge sharing sessions, or conferences.
+
+In addition to creating spaces, as a community, we can further increase our learnings' value by deriving generalized insights from cross-group cases.
+
+I also believe that learning should also have an external component. We need to expose our knowledge externally. With external exposure, we promote what we are doing, and we get valuable external feedback. We need to look for opportunities to give talks, blog, or organize meetups.
+
+
+> *"The world is moving so fast these days that the man who says it can't be done is generally interrupted by someone doing it."* --Elbert Hubbard
+
+Learning should not be only about our internal activities. We need to know what is going in the world and bring new ideas back home. One of the problems that many organizations face is that due to their complexity and size, they have more challenges in introducing new technologies compared to their disruptors (Figure 3). We have less time to understand and utilize new technology developments while the number of new technologies is increasing due to, e.g., continuous and accelerating evolution of cloud and mobile products.
+
+As architects, we need to be proactive in the identification of relevant new technology developments. Based on our understanding of these developments, we need to create pragmatic technology recommendations for concrete platforms and across the organization.
+
+
+![](assets/images/superglue/internalizing-tech-trends.png)
+***Figure 3:** One crucial aspect of Architects' work is following external trends and finding pragmatic ways to introduce these trends in the organization. Credit: [thoughtworks.com/insights/blog/whats-hurry-building-digital-enterprise](https://www.thoughtworks.com/insights/blog/whats-hurry-building-digital-enterprise)*
+
+<br>
+## Goal 4: Growing Architectural Talent
+
+### Goal 4a: Identify and Develop Architects
 From discussions I've had with our technology leaders, engineers, architects, the picture below has crystallized as a representation of the "superglue" metaphor for architects (Figure 1).
 
 ![](assets/images/superglue/architect-as-superglue.png)
 ***Figure 1:** Architects serve as a superglue, connecting development teams with business stakeholders while also linking their teams with the internal communities and the external world.*
 
 IT organizations need persons who look broader, linking architecture, technical details, business needs, and people together. These persons may not necessarily have a title of an architect. But they need to have good working relationships with developer teams and the local business stakeholders and functions. Simultaneously, such a person is well connected with the internal communities and has external visibility. They promote what we are doing, and on the other hand, they bring back the ideas from the outside.
-
-
-## Goal 2: Growing and Connecting Architectural Talent
-
 
 Setting the architects' goals to be "superglue" also requires some thought on developing as a superglue. Borrowing from Gregor Hohpe's view on architect development from his book Software Architecture Elevator, I share the view that our architects should stand on three legs:
 
@@ -46,25 +114,36 @@ Setting the architects' goals to be "superglue" also requires some thought on de
 ![](assets/images/superglue/architect-skills.png)
 ***Figure 2:** Architect Profile: Skils + Impact + Thought Leadership.*
 
-#### Skills 
-Architects have to have proper skill sets. By skills, I mean possessing knowledge and the ability to apply relevant knowledge in practice. These skills should include both technical (e.g., cloud architecture or Kubernetes technology) as well as communication and influence skills.  
+**Skills:** Architects have to have proper skill sets. By skills, I mean possessing knowledge and the ability to apply relevant knowledge in practice. These skills should include both technical (e.g., cloud architecture or Kubernetes technology) as well as communication and influence skills.  
 
-#### Impact
+**Impact:** Impact should be measured as a benefit for the business. Architects need to ensure that what they are doing profits the business. New architects start as students or trainees having skills but little impact. But sooner than later, fresh architects need to get out into the world and make an impact. Architects that do not make an impact do not have a place in a for-profit business.
 
-Impact should be measured as a benefit for the business. Architects need to ensure that what they are doing profits the business. New architects start as students or trainees having skills but little impact. But sooner than later, fresh architects need to get out into the world and make an impact. Architects that do not make an impact do not have a place in a for-profit business.
-
-#### Though leadership
-
-Thought leadership acknowledges that experienced architects should do more than make architecture. This "more" can have different forms but should include at least some of the following activities: mentoring junior architects and engineers, publishing articles, giving talks, starting initiatives, and driving decisions.
+**Though leadership:** Thought leadership acknowledges that experienced architects should do more than make architecture. This "more" can have different forms but should include at least some of the following activities: mentoring junior architects and engineers, publishing articles, giving talks, starting initiatives, and driving decisions.
 
 Architects need to have minimal "length" of all of these "legs" to be successful. For instance, having skills and impact without leadership frequently leads to hitting a glass ceiling. Such architects plateau at an intermediate level and cannot lead the company to innovative or transformative solutions. Leadership without impact lacks foundation and may signal that you have become an ivory tower architect with a weak relation to reality.
 
 In all scenarios, it is crucial for an organization that a senior architect mentors junior architects. Feedback cycles in (software) architecture are inherently slow. Mentoring can save new architects many years of learning by doing and making mistakes [Hohpe 2020]. 
 
+<br>
+### Goal 4b: Increasing Talent Density Through Virtual Communities
+
+Superglue requires embeddiment, leaving architect alone or in a small group of similar people
+
+Architects are always a part of some team, where they may be the only architects. But they can and should collaborate globally with architects in other units. For instance, I work with a virtual team of architects. In this peer-to-peer community, we were collectively responsible for identifying and growing architectural talent, mentoring, and helping each other.
+
+While the exact structure of communities may differ per organization and change over time, it is crucial to keep developing such groups as a vibrant, diverse community where they can leverage and build on each other's work.
+
+As a strong community, such a group can transform individual experiences into collective knowledge that can benefit the whole organization.
 
 
-## Goal 3: Execute At Full Scale and All Levels
+![](assets/images/superglue/community.png)
+***Figure 1:** Architects work together as community of peers helping each other in their architectural activities.*
 
 
+## Footnotes
 
+![](assets/images/hulk-strategy.jpeg)
+
+Hulk on strategy. Source: [Alistair Ruff's tweet, December 13, 2021](https://twitter.com/Alistairuff/status/1470320771331407875)
+![](assets/images/triangle.png)
 
