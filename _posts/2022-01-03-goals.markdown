@@ -12,7 +12,8 @@ excerpt: ...
 ---
 Three main goals:
 1. Breaking Up the Ivory Tower: Positioning Architecture As a Cross-Organizational Superglue
-2. Growing and Connecting Architectural Talent Across Organization
+2. Identify, Grow, and Connect Architectural Talent Across Organization
+3. Promote Data-Informed Decision-Making
 3. Promote Data-Informed Decision-Making
 4. Supporting Strategic Transformations by Leveraging Superglue
 
@@ -65,8 +66,11 @@ I genuinely believe that we should make our decision process as much as possible
 One of the problems we face is that we have lots of data on technology, but they are not well-connected, and manual data input and gathering are still frequent. For that reason, we need to work on developing automated tools that facilitate insights into technology and business.
 
 <br>
-## Goal 3: Distribute Decision-Making, Centralize Alignment
+## Goal 3: Distribute Decision-Making, Turbo-Charged With Centralized Support & Alignment
 
+Spikes
+Distribution
+Alignment
 
 <br>
 ## Goal 4: Maximizing Organizational Learnings
