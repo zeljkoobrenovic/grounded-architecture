@@ -4,7 +4,7 @@ title: "The Context: A Fast Moving Global Organization"
 position: 2
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
-permalink: problem
+permalink: context
 icon: global.png
 timetoread: 15 min
 excerpt: A hybrid approach to scaling architecture generalizes my experiences in several complex organizations. These organizations were global and truly multicultural; they operated on a massive scale; they were very diverse; and dynamic.
@@ -15,58 +15,92 @@ excerpt: A hybrid approach to scaling architecture generalizes my experiences in
 
 > *"My purpose is to exhibit philosophy as an integral part of social and political life: not as the isolated speculations of remarkable individuals, but as both an effect and a cause of the character of the various communities in which different systems flourished."* --Berrand Russel, The History of Western Philosophy
 
-To better understand any idea and or a solution, it is good to understand the context in which these ideas developed. The solutions discussed later are not out-of-blue abstract ideas but are the results of generalizing solutions to specific problems in particular types of contexts.
 
-A hybrid approach to scaling architecture generalizes my experiences in several complex organizations. These organizations were global and truly multicultural; they operated on a massive scale; they were very diverse; and dynamic (Figure 1). 
+To better understand any idea and or a solution, it is crucial to understand the context in which these ideas developed.
+
+Our hybrid approach to creating a global architecture function is not an abstract idea. Instead, it is the generalization of many lessons learned while solving specific problems in a particular context.
+
+In this section, we discuss critical characteristics of the organizational context that have had an impact on our defining our hybrid approach:
+* **global scale**: operating across multiple countries and continents
+* **decentralized, loosely-coupled organizational units**: organizational units are decentralized and have significant autonomy, while central functions exist but are limited (everyone is a minority)
+* **multi-dimensional diversity**: due to historical reasons, our organizations were very diverse at all levels, including customers, workforce, business model, team topologies, technology stacks
+* **non-linear growth dynamics**: in addition to organic growth, our organizations frequently change the portfolio both by mergers and acquisitions of new businesses and as well as by divestments
+* **synergies and transformation pressures**: our organizations wanted to exploit the benefits from the economies of scale and to reduce duplication of efforts
+
 
 <div style="text-align: center"><img src="assets/images/context.png"></div>
 ***Figure 1:** The Context of an organizations suitable for a Hybrid Approach: Global & Multi-Cultural + Massive Scale + Diverse + Dynamic.* 
 
-In the following sections, I discuss these characteristics and some of the challenges they bring in more detail.
+In the following sub-sections, I discuss these characteristics and some of the challenges and opportunities they introduce.
 
-## A Global Scale
+<br>
 
-The first characteristic of our context is that we developed our approach in a truly global and multicultural organization. Globality and multiculturality come from two sources:
+## Characteristic 1: Global Scale
 
-* Markets in which our organization operates. For example, Adevinta operates in more than 15 countries on four continents.
-* Workforce building our products. In addition to the crew in each active market, we also had people working from countries we do not operate.
+The first characteristic of our context is that we developed our approach in genuinely global and multicultural organizations. Globality and multiculturality come from two sources:
 
-At some point, I interacted with people from more than 20 countries on five continents.
+* Markets in which our organization operates. For example, Adevinta operates in more than 15 countries on five continents.
+* Workforce building our products. In addition to the crew in each active market, we also had people working from countries we do not operate. There were practically no limitations to where our workforce could be from with remote working.
 
+Another characteristic of the context that developed the hybrid approach is massive scale:
+* Billions of monthly user visits
+* Thousands of active software developers
+* Hundreds of product and development teams
+* Hundreds of millions of lines of source code
 
 ![](assets/images/adevinta-website.png)
 ***Figure 2:** A snapshot from [www.adevinta.com](https://www.adevinta.com/) (taken on March 24, 2022) showing the countries with Adevinta marketplaces.*
 
+
+**Opportunities**
+
+The global scale introduces several exciting opportunities:
+
+* Increasing effectiveness: possibilities to reducing effort duplication by centralizing shared activities
+* Leveraging economies of scale: achieving cost advantages, for instance, by increasing effectiveness or reducing unit prices of technology
+* Increased business resilience and flexibility: possibility to compensate for negative local market changes with global resources
+* Bigger talent pool to support any local or global effort
+* Possibility for non-linear growth by mergers and acquisitions (M&As)
+
+
+**Challenges**
+
+The global and massive scale has many challenges for architectural activities:
+* Organizational complexity (e.g., thousands of possible communication channels)
+* Complex technology landscape (e.g., the number of services and interconnections)
+* Continuously high costs of workforce
+* Continuously high cost of computing resources
+* Complexity of running operations with high customer demands
+* Huge attack surface, many points on the boundary of our systems where an attacker can try to enter, cause an effect on, or extract data.
+* Limitations of any manual process, such as diagram drawing, to create an overview of the organizational or technology landscape
+
+
+<br>
+
+## Characteristic 2: Loosely Coupled Units
+
+Due to historical and strategic reasons most of the organizational units are loosely coupled.
+
+Main consequenceof loose coumpling is that we have limited possibilites to control the units centrally. Alignment is the best we can hope for. But loose coupling is also an opportunity.
+
+
+<br>
+
+## Characteristic 3: Multi-Dimensional Diversity
 
 The global and multicultural nature of our context poses several interesting challenges that any approach to scaling architecture needs to address:
 * Different decision-making styles
 * Different organizational styles and hierarchies
 * Different meeting styles
 * Different ways of dealing with feedback
-
-Another characteristic of the context that developed the hybrid approach is massive scale. By massive scale, we mean all specific aspects of scale:
-* Millions of active daily users
-* Billions of monthly user visits
-* Thousands of active software developers
-* Hundreds of product and development teams
-* Hundreds of millions of lines of source code
-
-The massive scale has many challenges for architectural activities:
-* The high complexity of the technology landscape (number of components and interconnections)
-* The increased complexity of communication between teams (impossible to have all people in the same room, thousands of communication channels)
-* Limitations of manual data collection (e.g., sending a sheet to feel in the data)
-* Limitations of manual processes, such as diagram drawing to create an overview of the technology landscape
-
-
-## Multi-Dimensional Diversity
-
+* 
 The organization we use as a reference context is not only operating on a global, massive scale but is very diverse. The diversity has multiple dimensions:
 * Cultures and market characteristics
 
 Product diversity
 * Products and features
 
-Technical Infrastraucture:
+Technical infrastructure:
 * Cloud providers (AWS, GCP, Azure) in combination with custom build private data centers
 
 Application technology diversity
@@ -82,8 +116,10 @@ Diversity has many impacts on architectural activities, primarily:
 * High amount of technical debt due to many legacy components
 * Limited flexibility and reorganization possibilities as expertize is split among many domains and technologies
 
+<br>
 
-## Disruptive Dynamic
+
+## Characteristic 4: Non-Linear Growth Dynamics
 
 Complex organizations are frequently very dynamic. In a trivial sense, any organization is dynamic. But a reference organization I use in this section grows (or shrinks) and reorganizes frequently and significantly.
 
@@ -97,7 +133,7 @@ Dynamic aspects  have several influences on architectural activities:
 * How to architecture for synergies but stay flexible when the organization decides to divest a part of the organization
 
 
-## Synergies and Strategic Transformations Pressures
+## Characteristic 5: Synergies and Transformations Pressures
 
 Lastly, complex organizations do not grow just to be bigger. Rather benefits, like cost synergies or increased capacity for innovation are expected. 
 

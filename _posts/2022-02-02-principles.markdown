@@ -40,7 +40,19 @@ future Chief Architects, CTOs, heads of engineering
 challenge: not naturally connected to other architects outside their units, unclear career path
 
 <br>
-## Be Inclusive, But Limit Cheap Sits<br><span style="font-size: 80%">Have Skin In The Game
+## No Architect Left Behind<br><span style="font-size: 80%">Global, includive operational model
+
+> *“A lot of cheap seats in the arena are filled with people who never venture onto the floor. They just hurl mean-spirited criticisms and put-downs from a safe distance. ... we need to be selective about the feedback we let into our lives. For me, if you’re not in the arena getting your ass kicked, I’m not interested in your feedback.”* — Brené Brown, Rising Strong: The Reckoning. The Rumble. The Revolution
+
+Separation between community and team activities
+
+Architecture is tough, critique is easy
+
+Talent density
+
+
+<br>
+## Limit Cheap Sits<br><span style="font-size: 80%">Have Skin In The Game
 
 > *“A lot of cheap seats in the arena are filled with people who never venture onto the floor. They just hurl mean-spirited criticisms and put-downs from a safe distance. ... we need to be selective about the feedback we let into our lives. For me, if you’re not in the arena getting your ass kicked, I’m not interested in your feedback.”* — Brené Brown, Rising Strong: The Reckoning. The Rumble. The Revolution
 

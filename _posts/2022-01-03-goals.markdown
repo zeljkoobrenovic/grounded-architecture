@@ -10,16 +10,14 @@ timetoread: 15 min
 excerpt: ...
 
 ---
+![](assets/images/Misalignment-1024x523.png)
+Credit: [Henrik Kniberg](https://blog.crisp.se/2016/05/30/henrikkniberg/misalignment).
+
 Three main goals:
-1. Breaking Up the Ivory Tower: Positioning Architecture As a Cross-Organizational Superglue
-2. Identify, Grow, and Connect Architectural Talent Across Organization
-3. Promote Data-Informed Decision-Making
-3. Promote Data-Informed Decision-Making
-4. Supporting Strategic Transformations by Leveraging Superglue
 
 ![](assets/images/goals.png)
 
-## Goal 1: Break Up the Ivory Tower: Position Architecture As a Cross-Organizational Superglue
+## Goal 1: Break Up the Ivory Towers: Position Architecture As a Cross-Organizational Superglue
 
 The Problem:
 
@@ -48,32 +46,30 @@ Platform Strategy
 Global / local services
 
 
-
 <br>
-## Goal 2: Move Away From An Opinion-Based to A Data-Informed Decision-Making
-> *"If we have data, let's look at data. If all we have are opinions, let's go with mine."* -— Jim Barksdale
+## Goal 2: Maximize Organizational Alignment
 
-We cannot centrally make all decisions. One-size-fits-all solutions do not work for everyone, and central decision-making does not scale. But we can at least make sure that the quality of decision-making is high.
-
-In line with becoming more data-driven, we need to create shared frameworks to move from opinion-based decisions to data-driven economic risk modeling. Such frameworks should achieve the following:
-* dismantle the buzzwords, present the problem in clear terms, understandable to a broader audience
-* identify the real drivers behind buzzwords based on internal and external research
-* bring internal data and external trends
-* translate drivers into an economic risk model, and use the model to find the best spot for the given business context
-
-I genuinely believe that we should make our decision process as much as possible data-drive. Consequently, I see it as one of the most critical tasks to maintain high-quality data on relevant technology development, both internally and externally, providing fuel for data-driven decision-making.
-
-One of the problems we face is that we have lots of data on technology, but they are not well-connected, and manual data input and gathering are still frequent. For that reason, we need to work on developing automated tools that facilitate insights into technology and business.
-
-<br>
-## Goal 3: Distribute Decision-Making, Turbo-Charged With Centralized Support & Alignment
 
 Spikes
 Distribution
 Alignment
 
+
+Superglue requires embeddiment, leaving architect alone or in a small group of similar people
+
+Architects are always a part of some team, where they may be the only architects. But they can and should collaborate globally with architects in other units. For instance, I work with a virtual team of architects. In this peer-to-peer community, we were collectively responsible for identifying and growing architectural talent, mentoring, and helping each other.
+
+While the exact structure of communities may differ per organization and change over time, it is crucial to keep developing such groups as a vibrant, diverse community where they can leverage and build on each other's work.
+
+As a strong community, such a group can transform individual experiences into collective knowledge that can benefit the whole organization.
+
+
+![](assets/images/superglue/community.png)
+***Figure 1:** Architects work together as community of peers helping each other in their architectural activities.*
+
+
 <br>
-## Goal 4: Maximizing Organizational Learnings
+## Goal 3: Maximize Organizational Learnings
 
 > *" I expect you to learn to be better each day. I challenge you to look at each working day as an opportunity to learn more, and by doing so, to grow as a person."* -- L. David Marquet
 >
@@ -98,10 +94,36 @@ As architects, we need to be proactive in the identification of relevant new tec
 ![](assets/images/superglue/internalizing-tech-trends.png)
 ***Figure 3:** One crucial aspect of Architects' work is following external trends and finding pragmatic ways to introduce these trends in the organization. Credit: [thoughtworks.com/insights/blog/whats-hurry-building-digital-enterprise](https://www.thoughtworks.com/insights/blog/whats-hurry-building-digital-enterprise)*
 
-<br>
-## Goal 4: Growing Architectural Talent
 
-### Goal 4a: Identify and Develop Architects
+
+
+<br>
+## Goal 4: Move Away From Opinions-Based to Data-Informed Decision-Making
+> *"If we have data, let's look at data. If all we have are opinions, let's go with mine."* -— Jim Barksdale
+
+We cannot centrally make all decisions. One-size-fits-all solutions do not work for everyone, and central decision-making does not scale. But we can at least make sure that the quality of decision-making is high.
+
+In line with becoming more data-driven, we need to create shared frameworks to move from opinion-based decisions to data-driven economic risk modeling. Such frameworks should achieve the following:
+* dismantle the buzzwords, present the problem in clear terms, understandable to a broader audience
+* identify the real drivers behind buzzwords based on internal and external research
+* bring internal data and external trends
+* translate drivers into an economic risk model, and use the model to find the best spot for the given business context
+
+I genuinely believe that we should make our decision process as much as possible data-drive. Consequently, I see it as one of the most critical tasks to maintain high-quality data on relevant technology development, both internally and externally, providing fuel for data-driven decision-making.
+
+One of the problems we face is that we have lots of data on technology, but they are not well-connected, and manual data input and gathering are still frequent. For that reason, we need to work on developing automated tools that facilitate insights into technology and business.
+
+
+
+<br>
+## Goal 5: Grow Architectural Talent
+
+Superglue as a flavor all architects should aim at adoptin while keeping their original architecture style (i.e., architecture topology)
+
+![](https://esilva.net/assets/team-architecture-topologies.png)
+
+A nudge how to further develop as architect
+
 From discussions I've had with our technology leaders, engineers, architects, the picture below has crystallized as a representation of the "superglue" metaphor for architects (Figure 1).
 
 ![](assets/images/superglue/architect-as-superglue.png)
@@ -127,22 +149,6 @@ Setting the architects' goals to be "superglue" also requires some thought on de
 Architects need to have minimal "length" of all of these "legs" to be successful. For instance, having skills and impact without leadership frequently leads to hitting a glass ceiling. Such architects plateau at an intermediate level and cannot lead the company to innovative or transformative solutions. Leadership without impact lacks foundation and may signal that you have become an ivory tower architect with a weak relation to reality.
 
 In all scenarios, it is crucial for an organization that a senior architect mentors junior architects. Feedback cycles in (software) architecture are inherently slow. Mentoring can save new architects many years of learning by doing and making mistakes [Hohpe 2020]. 
-
-<br>
-### Goal 4b: Increasing Talent Density Through Virtual Communities
-
-Superglue requires embeddiment, leaving architect alone or in a small group of similar people
-
-Architects are always a part of some team, where they may be the only architects. But they can and should collaborate globally with architects in other units. For instance, I work with a virtual team of architects. In this peer-to-peer community, we were collectively responsible for identifying and growing architectural talent, mentoring, and helping each other.
-
-While the exact structure of communities may differ per organization and change over time, it is crucial to keep developing such groups as a vibrant, diverse community where they can leverage and build on each other's work.
-
-As a strong community, such a group can transform individual experiences into collective knowledge that can benefit the whole organization.
-
-
-![](assets/images/superglue/community.png)
-***Figure 1:** Architects work together as community of peers helping each other in their architectural activities.*
-
 
 ## Footnotes
 
