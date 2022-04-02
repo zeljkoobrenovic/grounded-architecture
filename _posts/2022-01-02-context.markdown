@@ -79,9 +79,23 @@ The global and massive scale has many challenges for architectural activities:
 
 ## Characteristic 2: Loosely Coupled Units
 
+Researcher Karl Weick developed the concepts of tight and loose coupling to describe the organizational structure in educational institutions, but the same concept can be applied to businesses. According to Weick, a tightly coupled organization has a set of mutually understood rules enforced by an inspection and feedback system. In tightly coupled organizations, management can more directly coordinate all the activities of different departments according to a central strategy. 
+
+In a loosely coupled organization, some of the elements of a tightly coupled organization are not in effect. Employees have more autonomy, and different departments may operate without much coordination.
+
 Due to historical and strategic reasons most of the organizational units are loosely coupled.
 
-Main consequenceof loose coumpling is that we have limited possibilites to control the units centrally. Alignment is the best we can hope for. But loose coupling is also an opportunity.
+**Opportunities**
+
+Flexibility
+Speed
+Innovation
+
+**Challenges**
+
+* Duplication of effort
+* Increase in accidental diversity
+* Limited possibilites to control the units centrally.
 
 
 <br>
