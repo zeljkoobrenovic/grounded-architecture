@@ -19,7 +19,9 @@ excerpt: ...
 Two options:
 - a central team or architects
 - architects in teams matrix
-- 
+
+Hybrid organization
+Hybrid Governance
 
 ![](assets/images/aha-model.png)
 ***Figure 1:** A Hybrid Approach (AHA) for Scaling Architecture Practice and impact of its elements of key opportunities.*
@@ -39,6 +41,23 @@ GAT crucial in transformation phase
 
 ![](assets/images/realities.png)
 
+<br>
+
+## Combine Multiple Governance Approaches<br><span style="font-size: 80%">Define broader scope with mandates, steer with "taxes" and nudges</span>
+
+### Mandates and Bans
+
+### Taxes
+
+### Nudges
+
+Choice-preserving approaches
+
+Best practices
+
+Golden paths
+
+Principles
 
 <br>
 #### [Cover Art]

@@ -18,6 +18,7 @@ Three main goals:
 ![](assets/images/goals.png)
 
 ## Goal 1: Break Up the Ivory Towers: Position Architecture As a Cross-Organizational Superglue
+> Embrace diversity, but align on a shared vision on architecture across all departments
 
 The Problem:
 
@@ -46,8 +47,50 @@ Platform Strategy
 Global / local services
 
 
+
 <br>
-## Goal 2: Maximize Organizational Alignment
+## Goal 2: Strengthen Architectural Decision Muscle Across the Organization
+
+### Goal 2a: Turbo-Charge Distributed Decision-Making by Leading by Context and Candour
+
+### Goal 2b: Grow Architectural Talent
+
+Superglue as a flavor all architects should aim at adoptin while keeping their original architecture style (i.e., architecture topology)
+
+![](https://esilva.net/assets/team-architecture-topologies.png)
+
+A nudge how to further develop as architect
+
+From discussions I've had with our technology leaders, engineers, architects, the picture below has crystallized as a representation of the "superglue" metaphor for architects (Figure 1).
+
+![](assets/images/superglue/architect-as-superglue.png)
+***Figure 1:** Architects serve as a superglue, connecting development teams with business stakeholders while also linking their teams with the internal communities and the external world.*
+
+IT organizations need persons who look broader, linking architecture, technical details, business needs, and people together. These persons may not necessarily have a title of an architect. But they need to have good working relationships with developer teams and the local business stakeholders and functions. Simultaneously, such a person is well connected with the internal communities and has external visibility. They promote what we are doing, and on the other hand, they bring back the ideas from the outside.
+
+Setting the architects' goals to be "superglue" also requires some thought on developing as a superglue. Borrowing from Gregor Hohpe's view on architect development from his book Software Architecture Elevator, I share the view that our architects should stand on three legs:
+
+* Skills
+* Impact
+* Thought leadership
+
+![](assets/images/superglue/architect-skills.png)
+***Figure 2:** Architect Profile: Skills + Impact + Thought Leadership.*
+
+**Skills:** Architects have to have proper skill sets. By skills, I mean possessing knowledge and the ability to apply relevant knowledge in practice. These skills should include both technical (e.g., cloud architecture or Kubernetes technology) as well as communication and influence skills.
+
+**Impact:** Impact should be measured as a benefit for the business. Architects need to ensure that what they are doing profits the business. New architects start as students or trainees having skills but little impact. But sooner than later, fresh architects need to get out into the world and make an impact. Architects that do not make an impact do not have a place in a for-profit business.
+
+**Though leadership:** Thought leadership acknowledges that experienced architects should do more than make architecture. This "more" can have different forms but should include at least some of the following activities: mentoring junior architects and engineers, publishing articles, giving talks, starting initiatives, and driving decisions.
+
+Architects need to have minimal "length" of all of these "legs" to be successful. For instance, having skills and impact without leadership frequently leads to hitting a glass ceiling. Such architects plateau at an intermediate level and cannot lead the company to innovative or transformative solutions. Leadership without impact lacks foundation and may signal that you have become an ivory tower architect with a weak relation to reality.
+
+In all scenarios, it is crucial for an organization that a senior architect mentors junior architects. Feedback cycles in (software) architecture are inherently slow. Mentoring can save new architects many years of learning by doing and making mistakes [Hohpe 2020].
+
+
+
+<br>
+## Goal 3: Maximize Organizational Alignment
 
 
 Spikes
@@ -66,6 +109,24 @@ As a strong community, such a group can transform individual experiences into co
 
 ![](assets/images/superglue/community.png)
 ***Figure 1:** Architects work together as community of peers helping each other in their architectural activities.*
+
+<br>
+## Goal 4: Move Away From Opinions-Based to Data-Informed Decision-Making
+> *"If we have data, let's look at data. If all we have are opinions, let's go with mine."* -— Jim Barksdale
+
+We cannot centrally make all decisions. One-size-fits-all solutions do not work for everyone, and central decision-making does not scale. But we can at least make sure that the quality of decision-making is high.
+
+In line with becoming more data-driven, we need to create shared frameworks to move from opinion-based decisions to data-driven economic risk modeling. Such frameworks should achieve the following:
+* dismantle the buzzwords, present the problem in clear terms, understandable to a broader audience
+* identify the real drivers behind buzzwords based on internal and external research
+* bring internal data and external trends
+* translate drivers into an economic risk model, and use the model to find the best spot for the given business context
+
+I genuinely believe that we should make our decision process as much as possible data-drive. Consequently, I see it as one of the most critical tasks to maintain high-quality data on relevant technology development, both internally and externally, providing fuel for data-driven decision-making.
+
+One of the problems we face is that we have lots of data on technology, but they are not well-connected, and manual data input and gathering are still frequent. For that reason, we need to work on developing automated tools that facilitate insights into technology and business.
+
+
 
 
 <br>
@@ -97,58 +158,6 @@ As architects, we need to be proactive in the identification of relevant new tec
 
 
 
-<br>
-## Goal 4: Move Away From Opinions-Based to Data-Informed Decision-Making
-> *"If we have data, let's look at data. If all we have are opinions, let's go with mine."* -— Jim Barksdale
-
-We cannot centrally make all decisions. One-size-fits-all solutions do not work for everyone, and central decision-making does not scale. But we can at least make sure that the quality of decision-making is high.
-
-In line with becoming more data-driven, we need to create shared frameworks to move from opinion-based decisions to data-driven economic risk modeling. Such frameworks should achieve the following:
-* dismantle the buzzwords, present the problem in clear terms, understandable to a broader audience
-* identify the real drivers behind buzzwords based on internal and external research
-* bring internal data and external trends
-* translate drivers into an economic risk model, and use the model to find the best spot for the given business context
-
-I genuinely believe that we should make our decision process as much as possible data-drive. Consequently, I see it as one of the most critical tasks to maintain high-quality data on relevant technology development, both internally and externally, providing fuel for data-driven decision-making.
-
-One of the problems we face is that we have lots of data on technology, but they are not well-connected, and manual data input and gathering are still frequent. For that reason, we need to work on developing automated tools that facilitate insights into technology and business.
-
-
-
-<br>
-## Goal 5: Grow Architectural Talent
-
-Superglue as a flavor all architects should aim at adoptin while keeping their original architecture style (i.e., architecture topology)
-
-![](https://esilva.net/assets/team-architecture-topologies.png)
-
-A nudge how to further develop as architect
-
-From discussions I've had with our technology leaders, engineers, architects, the picture below has crystallized as a representation of the "superglue" metaphor for architects (Figure 1).
-
-![](assets/images/superglue/architect-as-superglue.png)
-***Figure 1:** Architects serve as a superglue, connecting development teams with business stakeholders while also linking their teams with the internal communities and the external world.*
-
-IT organizations need persons who look broader, linking architecture, technical details, business needs, and people together. These persons may not necessarily have a title of an architect. But they need to have good working relationships with developer teams and the local business stakeholders and functions. Simultaneously, such a person is well connected with the internal communities and has external visibility. They promote what we are doing, and on the other hand, they bring back the ideas from the outside.
-
-Setting the architects' goals to be "superglue" also requires some thought on developing as a superglue. Borrowing from Gregor Hohpe's view on architect development from his book Software Architecture Elevator, I share the view that our architects should stand on three legs:
-
-* Skills
-* Impact
-* Thought leadership
-
-![](assets/images/superglue/architect-skills.png)
-***Figure 2:** Architect Profile: Skils + Impact + Thought Leadership.*
-
-**Skills:** Architects have to have proper skill sets. By skills, I mean possessing knowledge and the ability to apply relevant knowledge in practice. These skills should include both technical (e.g., cloud architecture or Kubernetes technology) as well as communication and influence skills.  
-
-**Impact:** Impact should be measured as a benefit for the business. Architects need to ensure that what they are doing profits the business. New architects start as students or trainees having skills but little impact. But sooner than later, fresh architects need to get out into the world and make an impact. Architects that do not make an impact do not have a place in a for-profit business.
-
-**Though leadership:** Thought leadership acknowledges that experienced architects should do more than make architecture. This "more" can have different forms but should include at least some of the following activities: mentoring junior architects and engineers, publishing articles, giving talks, starting initiatives, and driving decisions.
-
-Architects need to have minimal "length" of all of these "legs" to be successful. For instance, having skills and impact without leadership frequently leads to hitting a glass ceiling. Such architects plateau at an intermediate level and cannot lead the company to innovative or transformative solutions. Leadership without impact lacks foundation and may signal that you have become an ivory tower architect with a weak relation to reality.
-
-In all scenarios, it is crucial for an organization that a senior architect mentors junior architects. Feedback cycles in (software) architecture are inherently slow. Mentoring can save new architects many years of learning by doing and making mistakes [Hohpe 2020]. 
 
 ## Footnotes
 
