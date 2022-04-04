@@ -23,6 +23,11 @@ Paradigm:
 * Global Architecture Team as Race Track Engineers
 * Chief Architect as a Race Engineer
 
+* Curator
+* Role-model
+* Catalyst
+* Decision Maker
+
 
 <br>
 #### [Cover Art]

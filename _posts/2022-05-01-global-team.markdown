@@ -46,6 +46,11 @@ External thought leadership
 
 Vendor relationships and roadmap alignment
 
+
+## Less control function, more strategic impact
+
+![](assets/images/pillars.png)
+
 <br>
 #### [Cover Art]
 

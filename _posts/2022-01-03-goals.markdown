@@ -49,15 +49,15 @@ Global / local services
 
 
 <br>
-## Goal 2: Strengthen Architectural Decision Muscle Across the Organization
+## Goal 2: Strengthen Architectural Muscle Across the Organization
 
-### Goal 2a: Turbo-Charge Distributed Decision-Making by Leading by Context and Candour
-
-### Goal 2b: Grow Architectural Talent
-
-Superglue as a flavor all architects should aim at adoptin while keeping their original architecture style (i.e., architecture topology)
+### Goal 2b: Embrace Architectural Diversity
 
 ![](https://esilva.net/assets/team-architecture-topologies.png)
+
+### Goal 2b: Collectively Grow Architectural Talent
+
+Superglue as a flavor all architects should aim at adoptin while keeping their original architecture style (i.e., architecture topology)
 
 A nudge how to further develop as architect
 
@@ -87,10 +87,12 @@ Architects need to have minimal "length" of all of these "legs" to be successful
 
 In all scenarios, it is crucial for an organization that a senior architect mentors junior architects. Feedback cycles in (software) architecture are inherently slow. Mentoring can save new architects many years of learning by doing and making mistakes [Hohpe 2020].
 
+### Goal 2a: Centrally Turbo-Charge Distributed Decision-Making (Context + Leverage)
+
 
 
 <br>
-## Goal 3: Maximize Organizational Alignment
+## Goal 3: Maximize Organizational Alignment & Learning
 
 
 Spikes
@@ -126,11 +128,6 @@ I genuinely believe that we should make our decision process as much as possible
 
 One of the problems we face is that we have lots of data on technology, but they are not well-connected, and manual data input and gathering are still frequent. For that reason, we need to work on developing automated tools that facilitate insights into technology and business.
 
-
-
-
-<br>
-## Goal 3: Maximize Organizational Learnings
 
 > *" I expect you to learn to be better each day. I challenge you to look at each working day as an opportunity to learn more, and by doing so, to grow as a person."* -- L. David Marquet
 >

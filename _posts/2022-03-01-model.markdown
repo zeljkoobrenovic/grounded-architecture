@@ -16,27 +16,29 @@ excerpt: ...
 
 > *"Most of us think successful people have more willpower. But all they do is build systems to make hard things easier to do."* - Chris Hladczuk
 
-Two options:
-- a central team or architects
-- architects in teams matrix
+In this section I will describe how we have approached reaching our goals. We were considering several options on how to define cross organizational double architecture operating model. One approach could be to have a central team or architects, working together as a team define principles used by the rest of organization. Another approach I will still keep architect in local teams either in a form off a matrix organization where architects will report centrally but work with local teams, or report locally but indirectly align with global and another architects. 
 
-Hybrid organization
-Hybrid Governance
+We have decided not to follow exclusively one of the two approaches. Rather we have to find a hybrid approach borrowing some elements of the previously to mentioned approaches (Figure 1). Furthermore we introduced a self service data platform providing elaborate near real-time insights about the state of technology and architecture in our orientation. A chief architect in this model is an orchestrator of synergic usage of all these elements, and a gardener making sure that each of these elements is strong and sufficiently developed.
+
+In the following sections we will describe each of these elements in more detail concluding wait modes of operation off these elements.
+
+* Hybrid Architecture Teams (Central + Distributed)
+* Hybrid Governance Model (Mandates & Bans + Taxes + Leading by Context)
 
 ![](assets/images/aha-model.png)
 ***Figure 1:** A Hybrid Approach (AHA) for Scaling Architecture Practice and impact of its elements of key opportunities.*
 
+## Teams
 
-## Less control function, more strategic impact
+Both central and distrubuted teams follow the superglue idea
 
-![](assets/images/pillars.png)
 
 
 ## A True Hybrid: Flexibility and Resilience
 
 VAT crucial in man over board!
 
-GAT crucial in transformation phase
+VAT crucial in transformation phase
 
 
 ![](assets/images/realities.png)
