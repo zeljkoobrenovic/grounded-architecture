@@ -105,6 +105,7 @@ Our organization was very divers accross several dimensions:
 * Cultural diversity
 * Organizational diversity
 * Product diversity
+* Architectural diversity
 * Technical diversity
 
 The global and multicultural nature of our context poses several interesting challenges that any approach to scaling architecture needs to address:
@@ -121,6 +122,10 @@ Another dimension of diversity is organisational styles. We were organised in se
 
 Product diversity
 * Products and features
+
+Architectural diversity:
+* Old Monoliths
+* Modern Microservices and serverless
 
 
 Each part of the organization has a different history and a different legacy.

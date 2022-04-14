@@ -27,6 +27,11 @@ Paradigm:
 * Role-model
 * Catalyst
 * Decision Maker
+* 
+  Cloud Strategy
+  Data Strategy
+  Platform Strategy
+  Global / local services
 
 
 <br>

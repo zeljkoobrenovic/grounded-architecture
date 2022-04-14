@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Central Architecture Team (CAT)"
+title: "(Optional) Central Architecture Team (CAT)"
 position: 5000
 date:   2021-10-21 21:12:01 +0100
 categories: vat
@@ -47,7 +47,6 @@ External thought leadership
 Vendor relationships and roadmap alignment
 
 
-## Less control function, more strategic impact
 
 ![](assets/images/pillars.png)
 

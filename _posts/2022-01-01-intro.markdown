@@ -17,7 +17,7 @@ excerpt: The articles presented on this site generalize lessons learned in scali
 
 ## Intro
 
-In these articles, I will explain one approach to scaling practice in bigger organizations. By scaling architecture practice, I mean leveraging architectural practices at lower levels of the organization and adding additional central architectural elements. I will present a hybrid model of  IT architecture consisting of a central architecture team, distributed virtual architecture team, and architecture data platform. I call this model hybrid because it combines bottom-up and top-down approaches to architecture.
+In these articles, I will explain one approach to scaling practice in bigger organizations. By scaling architecture practice, I mean leveraging architectural practices at lower levels of the organization and adding additional central architectural elements. I will present a hybrid operating model of IT architecture consisting of a central architecture team, distributed virtual architecture team, and architecture data platform. I call this model hybrid because it combines bottom-up and top-down approaches to architecture operations.
 
 The articles presented on this site generalize lessons learned in scaling architecture in big organizations. The lessons build on my experience as a Principal Architect, CTO, and Consultant.
 
