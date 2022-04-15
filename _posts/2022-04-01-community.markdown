@@ -17,6 +17,22 @@ excerpt: "People, People, People: Strong Architecture = Strong Architects"
 
 One of the central premises off our work is that we should not take our architecture talent for granted. Architects are bridging local business, product, organisational and technology issues. Architects are difficult to hire talent as, to operate properly, they need both, the in-depth technical knowledge as well as domain-specific and organizational knowledge.
 
+## Central vs. Federated
+
+The architecture function is generally based on one of two fundamental models: central and federated ([McKinsey 2022](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/tech-forward/crafting-the-optimal-model-for-the-it-architecture-organization)).
+
+![](assets/images/SVG-crafting-model.svg)
+
+The central model involves a large-scale central architecture team that defines the process and artifacts required for approval of new work and ensures adherence by development teams. In this model, development teams themselves may have few or no qualified solution architects, as this role is consolidated within the central architecture team. Further, centralized teams for related roles, such as infrastructure, operations, and security, are also held apart from the development function. Control and governance are typically the primary concerns of the central enterprise architecture team.
+
+By contrast, the federated model generally relies upon a guild or “community of practice” of solution architects embedded into individual development teams. The guild may be complemented by a small central architecture team or architecture center of excellence (CoE). The federated model’s enterprise architects facilitate only the most high-level planning and artifact creation and act as on-demand service providers to support distributed teams.
+
+In this model, which is more commonly associated with cross-functional DevOps culture, the roles of solution and enterprise architects are generally broader in an effort to integrate the related concerns of infrastructure, operations, and security in product-oriented teams. This kind of architect role is focused more on facilitation and enablement than control, as the number of solution architects in a federated environment typically dwarfs the number of enterprise architects.
+
+Today, we see modern agile organizations most commonly adopt the federated model. This approach increases the likelihood that the central architecture team will spend its time where it should, staying closely involved with the remediation of challenges identified in the teams, such as infrastructure or development. In addition, the concept of central standards and maintaining a chapter of architects is much more closely aligned with the principles of agile than the models where most of the capacity is hosted in a central team. In addition, the model ensures that the architects will be evaluated against the goals of the individual products they support, thereby ensuring they really focus on improving practical performance and reducing complexity.
+
+
+
 To operate in our complex context, we have invested effort to make sure that we have right people at the right places. We have opted for a hybrid organizational morning combining elements of Central and federated orientation structures. Consequently we have free key elements of our people dimension
 * Virtual Architectural Teams (VATs),
 * Central Architectural Teams (CATs), and
