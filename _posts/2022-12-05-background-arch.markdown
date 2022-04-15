@@ -7,7 +7,7 @@ author: by Željko Obrenović (obren.io)
 permalink: background-it-architecture
 icon: books.png
 timetoread: 15 min
-excerpt: ...
+excerpt: The Software Architect Elevator, Scaling Architecture.
 
 
 ---

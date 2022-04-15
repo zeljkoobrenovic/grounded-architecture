@@ -8,7 +8,7 @@ author: by Željko Obrenović (obren.io)
 permalink: intro
 icon: intro.png
 timetoread: 15 min
-excerpt: The articles presented on this site generalize lessons learned in scaling architecture in big organizations. The lessons build on my experience as a Principal Architect, CTO, and Consultant.
+excerpt: The articles presented on this site generalize lessons learned running architecture function in global, fast moving organizations. The lessons build on my experience as a Principal Architect in eBay Classifieds and Adevinta.
 
 
 ---

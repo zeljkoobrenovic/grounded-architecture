@@ -8,13 +8,13 @@ author: by Željko Obrenović (obren.io)
 permalink: background-overview
 icon: books.png
 timetoread: 15 min
-excerpt: ...
+excerpt: Overview of the background to probe further. External evidence, supporting and inspiring some of our practices.
 
 
 ---
 ![](assets/images/hybrid-vehicles-a-short-history-of-the-alternative-drive_4.jpeg)
 
-The following categroies:
+The following categories:
 * Existing Work in the IT Architecture Field
 * Esiting Work for Socilogy
 * Common ground we expect people to have

@@ -7,7 +7,7 @@ author: by Željko Obrenović (obren.io)
 permalink: context
 icon: global.png
 timetoread: 15 min
-excerpt: A hybrid approach to scaling architecture generalizes my experiences in several complex organizations. These organizations were global and truly multicultural; they operated on a massive scale; they were very diverse; and dynamic.
+excerpt: The architecture function has developd in the context of organizations that were global, loosely coupled, very diverse, under syndergy and transformation pressures, and with non-linear growth dynamics.
 
 
 ---

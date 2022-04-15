@@ -7,7 +7,7 @@ author: by Željko Obrenović (obren.io)
 permalink: background-social-sciences
 icon: books.png
 timetoread: 15 min
-excerpt: ...
+excerpt: "Nudge, The Culture Map, No Rules Rules, Dare To Lead" 
 
 ---
 ![](assets/images/hybrid-vehicles-a-short-history-of-the-alternative-drive_4.jpeg)

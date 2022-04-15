@@ -7,7 +7,7 @@ author: by Željko Obrenović (obren.io)
 permalink: hybrid-model
 icon: hybrid.png
 timetoread: 15 min
-excerpt: "Our model combines elements of central and federated architecture functions, adding a new element of data platform. Our model for architecture operations has three components:  architectural data platform, people (organised in central and virtual teams), and different governance practices. "
+excerpt: "The hybrid architecture model combines elements of central and federated architecture functions, adding a new element of a data platform. Our model for architecture operations has three components:  architectural data platform, people (organised in central and virtual teams), and different governance practices. "
 
 
 ---
