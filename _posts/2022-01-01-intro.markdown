@@ -23,6 +23,7 @@ The articles presented on this site generalize lessons learned in scaling archit
 
 
 ## A Bit of History
+> "I am a mapmaker and a traveler." Brené Brown
 
 The work presented in these articles builds on several years of my experience. Most of this work results from two years of being a principal Architect of eBay classifieds and Adevinta. As a principal architect, I led a distributed virtual architecture team while working with business stakeholders to define technology roadmaps and support several strategic initiatives, such as defining a cloud strategy, platform, and data strategy. I learned the value of being strongly connected to all levels of the organization and the limitations of a fully distributed model.
 

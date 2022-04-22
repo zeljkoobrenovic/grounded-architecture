@@ -1,0 +1,27 @@
+---
+layout: post
+title: "Increasing the Quality of Decision-Making with Data"
+position: 9001
+date:   2021-10-21 21:12:01 +0100
+author: by Željko Obrenović (obren.io)
+permalink: operations
+icon: quality.png
+timetoread: 15 min
+excerpt: "There are great benefits of making our decision process as much as possible data-driven. I see it as one of the most critical tasks for any architect to maintain high-quality data on relevant technology developments, both internal and external, providing fuel for data-driven decision-making."
+
+---
+![](assets/images/cars-g303f74db8_1920.jpg)
+
+
+> *"If we have data, let's look at data. If all we have are opinions, let's go with mine."* -— Jim Barksdale
+
+There are great benefits of making our decision process as much as possible data-driven. I see it as one of the most critical tasks for any architect to maintain high-quality data on relevant technology developments, both internal and external, providing fuel for data-driven decision-making.
+
+One of the problems we face is that we have lots of data on technology, but they are not well-connected, and manual data input and gathering are still frequent. For that reason, we need to work on developing automated tools that facilitate insights into technology and business.
+
+In line with becoming more data-driven, we need to create shared frameworks to move from opinion-based decisions to data-driven economic risk modeling. Such frameworks should achieve the following:
+* dismantle the buzzwords, present the problem in clear terms, understandable to a broader audience
+* identify the real drivers behind buzzwords based on internal and external research
+* bring internal data and external trends
+* translate drivers into an economic risk model, and use the model to find the best spot for the given business context
+

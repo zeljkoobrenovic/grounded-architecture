@@ -1,13 +1,14 @@
 ---
 layout: post
-title: "Hybrid Architecture: An Overview"
+title: "Hybrid Architecture Overview"
+startSection: "Hybrid Architecture"
 position: 2009
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 permalink: hybrid-model
 icon: hybrid.png
 timetoread: 15 min
-excerpt: "The hybrid architecture model combines elements of central and federated architecture functions, adding a new element of a data platform. Our model for architecture operations has three components:  architectural data platform, people (organised in central and virtual teams), and different governance practices. "
+excerpt: "Our hybrid architecture model combines central and federated architecture functions elements, adding a new aspect of a data platform."
 
 
 ---
@@ -17,7 +18,7 @@ excerpt: "The hybrid architecture model combines elements of central and federat
 
 We were considering several options for defining a cross-organizational architecture operating model. One approach is to have a central team of architects working together to define principles used by the rest of the organization. Another method could have been to keep architects distributed in local groups but align them centrally.
 
-Our organization's global, loosely coupled character makes the federated architecture organizatinal model an interesting choice. However, having synergy and transformational pressures in mind, the central theme may provide more focus and support well aligned with key strategic initiatives.
+Our organization's global, loosely coupled character makes the federated architecture organizational model an interesting choice. However, having synergy and transformational pressures in mind, the central theme may provide more focus and support aligned with key strategic initiatives.
 
 ![](assets/images/model.jpg)
 
@@ -27,27 +28,9 @@ We have decided not to follow exclusively one of the two approaches. Instead, we
 
 We call our approach a hybrid approach as we have a mixed architectural team structure combining an (optional) central architecture team and local architects distributed across groups in the organization.
 
-Our approach to implementing a cross-organizational architectural model was to have two teams of architects: an (optional) central architecture team and a distributed virtual architecture team. An (option) central architecture team consists of architects reporting to the global part of an organization. A distributed virtual architecture team consists of architects working and reporting in different organizational units but committed to spending a part of the time in a virtual team to get more alignments with peers and looking for synergies in a bottom-up fashion. Section # elaborates more on the central architecture team.
+Our approach to implementing a cross-organizational architectural model was to have two teams of architects: an (optional) central architecture team and a distributed virtual architecture team. An (option) central architecture team consists of architects reporting to the global part of an organization. A distributed virtual architecture team consists of architects working and reporting in different organizational units but committed to spending an amount of the time in a virtual team to get more alignments with peers and looking for synergies in a bottom-up fashion. Section # elaborates more on the central architecture team.
 
 The main goal of the central team is to be an enabler for the rest of the organization, helping accelerate strategic transformations. Distributed virtual architecture team provided the connection across the organization, increasing the visibility of all parts of the organization, making it easier to implement change across the organization. Section # elaborates more on the distributed virtual architecture team.
-
-![](assets/images/realities.png)
-
-<br>
-
-Reaching goals:
-
-<br>
-### Eyes On, Hands Off<br><span style="font-size: 80%">Preserve Autonomy of Teams, No Secrets</span>
-> *“Rather than inject itself in every decision loop, architecture should design mechanisms for teams to make better decisions - they'll know better anyhow, and slowing them down carries a high cost.”*
-
-
-Organizational structures
-Grow and develop talent
-
-
-“Autonomy does not mean you're all alone and don't align with anyone, don't get feedback from anyone and just do whatever you want.”
-
 
 
 <br>

@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "Data Platform (Dashboard)"
-startSection: "Foundations"
+title: "Data Platform"
 position: 3000
 date:   2021-10-21 21:12:01 +0100
 categories: architecture
@@ -13,13 +12,7 @@ excerpt: The architecture data platform serves as a medium to create a complete,
 
 
 ---
-![](assets/images/640px-Instrument_Cluster,_Mercedes-Benz_S350_Bluetec_4Matic_(US)_-_Flickr_-_skinnylawyer.jpeg)
-
-![](assets/images/model-data-platform.png)
-
-## The Problem
-
-> "I am a mapmaker and a traveler." Brené Brown
+<img src="assets/images/640px-Instrument_Cluster,_Mercedes-Benz_S350_Bluetec_4Matic_(US)_-_Flickr_-_skinnylawyer.jpeg" style="width: 100%">
 
 The architecture data platform serves as a medium to create a complete, up-to-date picture of critical elements of technology landscapes of big organizations. I mean organizations with hundreds or thousands of developers organized in dozens or hundreds of teams by big organizations. Manual documentation does not scale in such an organizational context. 
 

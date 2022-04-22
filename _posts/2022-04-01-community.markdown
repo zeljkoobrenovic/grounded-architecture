@@ -1,36 +1,39 @@
 ---
 layout: post
-title: "People (Engine)"
-position: 4002
+title: "People"
+position: 3002
 date:   2021-10-21 21:12:01 +0100
 categories: vat
 author: by Željko Obrenović (obren.io)
-permalink: superglue-communities
+permalink: people
 icon: community.png
 timetoread: 15 min
-excerpt: "People, People, People: Strong Architecture = Strong Architects"
+excerpt: "One of the central premises of our work is that we should not take our architectural talent for granted. Architects are bridging local business, product, organizational, and technology issues. Architects are difficult to hire talent as, to operate correctly, they need in-depth technical knowledge and domain-specific and organizational knowledge."
 
 ---
 ![](assets/images/Mercedes_W05Hybrid_Boxenstopp.jpeg)
 
 > *”Architecture is not so much about the software, but about the people who write the software. The core principles of architecture, such as coupling and cohesion, aren't about the code. The code doesn't 'care' about how cohesive or decoupled it is; ... But people do care about their coupling to other team members.”* - James O. Coplien
 
-One of the central premises off our work is that we should not take our architecture talent for granted. Architects are bridging local business, product, organisational and technology issues. Architects are difficult to hire talent as, to operate properly, they need both, the in-depth technical knowledge as well as domain-specific and organizational knowledge.
+One of the central premises of our work is that we should not take our architectural talent for granted. Architects are bridging local business, product, organizational, and technology issues. Architects are difficult to hire talent as, to operate correctly, they need in-depth technical knowledge and domain-specific and organizational knowledge.
 
-## Central vs. Federated
+## Background: Central vs. Federated Architecture Function
 
-The architecture function is generally based on one of two fundamental models: central and federated ([McKinsey 2022](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/tech-forward/crafting-the-optimal-model-for-the-it-architecture-organization)).
+The architecture function generally follows one of two fundamental models: central or federated.
+ ([McKinsey 2022](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/tech-forward/crafting-the-optimal-model-for-the-it-architecture-organization)).
 
 ![](assets/images/SVG-crafting-model.svg)
 
-The central model involves a large-scale central architecture team that defines the process and artifacts required for approval of new work and ensures adherence by development teams. In this model, development teams themselves may have few or no qualified solution architects, as this role is consolidated within the central architecture team. Further, centralized teams for related roles, such as infrastructure, operations, and security, are also held apart from the development function. Control and governance are typically the primary concerns of the central enterprise architecture team.
+The central model involves a large-scale central architecture team. The central team defines the process for approval of new work and assures adherence by development teams. In this model, development teams have few or no qualified solution architects that are typically a part of the central architecture team. In this model, centralized teams for infrastructure, operations, and security, are also held apart from the development function. Control and governance are typically the primary concerns of the central architecture team.
 
-By contrast, the federated model generally relies upon a guild or “community of practice” of solution architects embedded into individual development teams. The guild may be complemented by a small central architecture team or architecture center of excellence (CoE). The federated model’s enterprise architects facilitate only the most high-level planning and artifact creation and act as on-demand service providers to support distributed teams.
+The federated model generally relies upon a guild or "community of practice" of solution architects embedded into individual development teams. A small central architecture team or an architecture center of excellence (CoE) may complement such a guild. The federated model's architects facilitate high-level planning and act as on-demand service providers for distributed teams.
 
-In this model, which is more commonly associated with cross-functional DevOps culture, the roles of solution and enterprise architects are generally broader in an effort to integrate the related concerns of infrastructure, operations, and security in product-oriented teams. This kind of architect role is focused more on facilitation and enablement than control, as the number of solution architects in a federated environment typically dwarfs the number of enterprise architects.
+The federated model is more commonly associated with cross-functional DevOps culture. The roles of solution and enterprise architects are generally broader in scope to integrate infrastructure, operations, and security concerns in product-oriented teams. The architect's role focuses on facilitation and enablement rather than control. The number of solution architects in a federated environment typically outnumbers the number of enterprise architects.
 
-Today, we see modern agile organizations most commonly adopt the federated model. This approach increases the likelihood that the central architecture team will spend its time where it should, staying closely involved with the remediation of challenges identified in the teams, such as infrastructure or development. In addition, the concept of central standards and maintaining a chapter of architects is much more closely aligned with the principles of agile than the models where most of the capacity is hosted in a central team. In addition, the model ensures that the architects will be evaluated against the goals of the individual products they support, thereby ensuring they really focus on improving practical performance and reducing complexity.
+Today, modern agile organizations mainly adopt the federated model. This approach increases the likelihood that the central architecture team will spend its time closely involved with the challenges identified in the teams. The model ensures that the architects will be evaluated against the goals of the individual products they support, thereby focusing on improving performance and reducing complexity.
 
+
+## Our Federated Model
 
 
 To operate in our complex context, we have invested effort to make sure that we have right people at the right places. We have opted for a hybrid organizational morning combining elements of Central and federated orientation structures. Consequently we have free key elements of our people dimension

@@ -7,7 +7,7 @@ author: by Željko Obrenović (obren.io)
 permalink: context
 icon: global.png
 timetoread: 15 min
-excerpt: The architecture function has developd in the context of organizations that were global, loosely coupled, very diverse, under syndergy and transformation pressures, and with non-linear growth dynamics.
+excerpt: "The hybrid architecture has developed in the context of global, loosely coupled organizations that are diverse, with non-linear growth dynamics, and under transformation pressures."
 
 
 ---
@@ -17,16 +17,14 @@ excerpt: The architecture function has developd in the context of organizations 
 
 To better understand any idea and or a solution, it is crucial to understand the context in which these ideas developed. Our hybrid approach to creating a global architecture function is not an abstract idea. Instead, it is the generalization of many lessons learned while solving specific problems in a particular context.
 
-The work I present here is a reflection on my as a Principal Architect at eBay Classifieds and Adevinta. After a year working for eBay Classifeids, Adevinta and eBay Classifies merged, where I continued the same work on a bigger scale. In this section, we discuss critical characteristics of the organizational context that have had an impact on our defining our hybrid approach:
+The work I present here reflects my as a Principal Architect at eBay Classifieds and Adevinta. After a year of working for eBay Classifieds, Adevinta and eBay Classify merged, where I continued the same work on a bigger scale. In this section, we discuss critical characteristics of the organizational context that have had an impact on our defining our hybrid approach:
 * **global scale**: operating across multiple countries and continents
 * **decentralized, loosely-coupled organizational units**: organizational units are decentralized and have significant autonomy, while central functions exist but are limited (everyone is a minority)
 * **multi-dimensional diversity**: due to historical reasons, our organizations were very diverse at all levels, including customers, workforce, business model, team topologies, technology stacks
-* **synergies and transformation pressures**: our organizations wanted to exploit the benefits from the economies of scale and to reduce duplication of efforts
 * **non-linear growth dynamics**: in addition to organic growth, our organizations frequently changed the portfolio both by mergers and acquisitions of new businesses and as well as by divestments
+* **synergies and transformation pressures**: our organizations wanted to exploit the benefits from the economies of scale and reduce duplication of efforts
 
 
-<div style="text-align: center"><img src="assets/images/context.png"></div>
-***Figure 1:** The Context of an organizations suitable for a Hybrid Approach: Global & Multi-Cultural + Massive Scale + Diverse + Dynamic.* 
 
 In the following sub-sections, I discuss these characteristics and some of the challenges and opportunities they introduce.
 
@@ -37,13 +35,14 @@ In the following sub-sections, I discuss these characteristics and some of the c
 The first characteristic of the context is that we developed our approach in genuinely global and multicultural organizations. Globality and multiculturality come from two sources:
 
 * Markets in which our organization operates. For example, Adevinta operates in more than 15 countries on five continents.
-* Workforce building our products. In addition to the people in each of our active market, we also had people working from countries we do not operate in. With possibility for remote working, there were practically no limitations to where our workforce could be from .
+* Workforce building our products. In addition to the people in each active market, we also had people working from many other countries. With the possibility of remote working, there were practically no limitations on the location of our workforce.
 
-Global context also led to massive scale:
+Global context also led to a massive scale:
 * Billions of monthly user visits
 * Thousands of active software developers
 * Hundreds of product and development teams
 * Hundreds of millions of lines of source code
+
 
 ![](assets/images/adevinta-website.png)
 ***Figure 2:** A snapshot from [www.adevinta.com](https://www.adevinta.com/) (taken on March 24, 2022) showing the countries with Adevinta marketplaces.*
@@ -57,14 +56,14 @@ The global scale introduces several exciting opportunities:
 * Leveraging economies of scale: achieving cost advantages, for instance, by increasing effectiveness or reducing unit prices of technology
 * Increased business resilience and flexibility: possibility to compensate for negative local market changes with global resources
 * Bigger talent pool to support any local or global effort
-* Possibility for non-linear growth by mergers and acquisitions (M&As)
+* Possibility for investments to support non-linear growth by mergers and acquisitions (M&As)
 
 
 **Challenges**
 
-The global and massive scale has many challenges for architectural activities:
+The global and massive scale has many challenges:
 * Organizational complexity (e.g., thousands of possible communication channels)
-* Complex technology landscape (e.g., the number of services and interconnections)
+* Complex technology landscape (e.g., the high number of services and interconnections)
 * Continuously high costs of workforce
 * Continuously high cost of computing resources
 * Complexity of running operations with high customer demands
@@ -72,140 +71,131 @@ The global and massive scale has many challenges for architectural activities:
 * Limitations of any manual process, such as diagram drawing, to create an overview of the organizational or technology landscape
 
 
+
 <br>
 
 ## Characteristic 2: Loose Coupling
 
-Researcher Karl Weick developed the concepts of tight and loose coupling to describe the organizational structure in educational institutions, but the same concept can be applied to businesses. According to Weick, a tightly coupled organization has a set of mutually understood rules enforced by an inspection and feedback systems. In tightly coupled organizations, management can more directly coordinate all the activities of different departments according to a central strategy. 
+Researcher Karl Weick developed the concepts of tight and loose coupling to describe the organizational structure in educational institutions, but others have later applied the same concept to diverse businesses. According to Weick, a tightly coupled organization has a set of mutually understood rules enforced by inspection and feedback systems. In tightly coupled organizations, management can more directly coordinate all the activities of different departments according to a central strategy.
 
 In a loosely coupled organization, some of the elements of a tightly coupled organization are not in effect. Employees have more autonomy, and different departments may operate without much coordination.
 
-Due to historical and strategic reasons most of the organizational units are loosely coupled. Our companies frequently grow by acquisition of key player in different marketplaces. Our strategy promotes more independent evolution of each marketplace to better and faster address local market needs. That means that each of our marketplaces has a high level of autonomy, with their own development teams, C(P)TOs, CFOs, CMOs, or CEOs. 
+Due to historical and strategic reasons, most organizational units are loosely coupled. Our companies frequently grow by acquisitions of key players in different marketplaces. Our strategy promotes a more independent evolution of each marketplace to better and faster address local market needs. Each marketplace has a high level of autonomy, frequently with its development teams, C(P)TOs, CFOs, CMOs, or CEOs.
 
 **Opportunities**
 
 Loose coupling offers several advantages:
-* Higher flexibility: as marketplaces can keep developing independetly addressing specifc needs without the need to synchronize with other marketplaces.
-* High development speed, faster time-to-market: less dependecies makes it much easier for marketplaces to change and evolve their products for specific local needs.
-* Innovation
+* Higher flexibility: as marketplaces can keep developing independently, addressing specific needs without the need to synchronize with other marketplaces.
+* High development speed, faster time-to-market: fewer dependencies make it much easier for marketplaces to change and evolve their products for local needs.
+* Innovation, due to possibilities to quicker explore ideas in smaller contexts
 
 **Challenges**
 
-Loose coupling also has aseveral disadvanteges:
-* Duplication of effort: while local maket needs are diffeerent, there is a significant overlap in domains, produce features and technology. This leads to duplcaiton of effort as each marketplace creates their own solution for essentially the same problems.
-* Increase in accidental diversity: lasck of synchronization offer flexibility, but may lead to significantly different design choices, making it difficult to consoldate soltuions, move people between teams, or benefit from the economy of scale.
-* Limited possibilities for central control: due to less dependcies and different goals, it is difficult to introduce changes accross the whoel portfolio.
+Loose coupling also has several disadvantages:
+* Duplication of effort: while local market needs are different, there is a significant overlap in domains, product features, and technology. This overlap leads to duplication of effort as each marketplace creates its solution for the same problems.
+* Increase in accidental diversity: lack of synchronization offers flexibility but may lead to significantly different design choices, making it challenging to consolidate solutions, move people between teams, or benefit from the economy of scale.
+* Limited possibilities for central control: due to fewer dependencies and different goals, it is difficult to introduce changes across the portfolio.
 
 
 <br>
 
 ## Characteristic 3: Multi-Dimensional Diversity
 
-Our organization was very divers accross several dimensions:
-* Cultural diversity
-* Organizational diversity
-* Product diversity
-* Architectural diversity
-* Technical diversity
+Our organization was very diverse across several dimensions:
+* Cultural
+* Organizational
+* Product
+* Architecture
+* Technology
 
-The global and multicultural nature of our context poses several interesting challenges that any approach to scaling architecture needs to address:
+The global and multi-cultural nature of our context poses several interesting challenges that any approach to scaling architecture needs to address:
 * Diversity of decision-making styles
 * Diversity of organizational styles and hierarchies
 * Diversity of meeting styles
 * Diversity of ways of dealing with feedback
 
-Another dimension of diversity is organisational styles. We were organised in several units including marketplaces (each with their own structures) global capabilities, enterprise IT teams, data capabilities, infrastructure. In addition to thier loose coupling, these organisational units differed in multiple ways:
+Another dimension of diversity is an organizational style. Our organization has many units, including marketplaces (each with its sub-structures), global capabilities, enterprise IT teams, data capabilities, and generic IT infrastructure. In addition to their loose coupling, these organizational units differed in multiple ways:
 * Sizes, groups having hundreds of developers to groups having only a dozen
-* Team topologies, some organisations having one team other dozens
-* Position of architecture, with some organisations having architecture teams and lead architects, smaller units have their team members conducting architecture activities by in addition to other responsibilities
+* Team topologies, some organizations having one team, others many teams organized hierarchically or in internal tribes
+* Position of architecture, with some organizations having architecture teams and lead architects, smaller units have their team members conducting architecture activities in addition to other responsibilities
 
+With more than 20 brands, we also have significant product diversity.
 
-Product diversity
-* Products and features
+We had many architectural styles in active production systems, ranging from legacy monoliths applications to complex modern Microservices and serverless ecosystems. Each part of the organization has a different history and a different legacy.
 
-Architectural diversity:
-* Old Monoliths
-* Modern Microservices and serverless
+Our basic technical infrastructure included several public cloud providers (AWS, GCP, Azure) in combination with custom build private data centers.
 
-
-Each part of the organization has a different history and a different legacy.
-
-Technical infrastructure:
-* Cloud providers (AWS, GCP, Azure) in combination with custom build private data centers
-
-Application technology diversity
+Our systems also employed diverse application technologies, such as:
 * Database technologies (e.g., MySQL, Postgress, MongoDB, Cassandra, AWS RDS)
 * Backend programming languages (e.g., Java, C#, Go, Scala, PHP, Node.js, Kotlin)
 * Mobile apps programming languages (e.g., Swift, Objective-C, Java, Kotlin, Flutter/Dart)
 * Frontend programming languages and frameworks (e.g., React, Android, AndroidJS, Vue, jQuery)
 
 
+**Opportunities**
 
-Diversity has many impacts on architectural activities, primarily:
+Diversity offers several opportunities:
+* Increasing innovation due to diverse workforce, possibilities to creatively explore more technologies and tools.
+* Addressing specific needs better by using the appropriate resources.
+* Risk reduction due to redundancy.
+
+**Challenges**
+
+Diversity also poses several challenges:
 * Increasing complexity and cognitive load of teams
 * High amount of technical debt due to many legacy components
 * Limited flexibility and reorganization possibilities as expertize is split among many domains and technologies
 
-**Opportunities**
 
-* Innovation
-* Addressing local needs better
-
-**Challenges**
-
-* Complexity
-* More expensive:
-* Less talent density arround key topics
 
 <br>
 
 
 
-## Characteristic 4: Synergies and Transformations Pressures
+## Characteristic 4: Non-Linear Growth Dynamics
 
-Complex organizations do not grow just to be bigger. Rather benefits, like cost synergies or increased capacity for innovation are expected. 
+Complex organizations like ours are frequently very dynamic. Such organizations grow (or shrink) and reorganize often and significantly. They change both organically and inorganically. Organic growth is internal growth the company sees from its operations. Inorganic growth is growth from buying other businesses or opening new locations. Another direction is also happening, for instance, divestments to increase focus.
 
-Provide focused tech strategy leadership to support strategic transformations
+Furthermore, due to their global nature, such organizations are more likely to be affected by international events and many local events.
 
-Aligning organizations, technology, product, and business functions
+**Opportunities**
 
+Possibilities for organic growth may be helpful in several scenarios:
+* Faster growth due to acquisitions of markets segments.
+* Speeding up innovation due to acquisition of new technologies or services.
 
-** Opportunities**
-
-* Cost reduction
-* Acceleration due to more resource available for specific work
-* Innovation
-* Scaling
 
 **Challenges**
 
-* Up-front investments
-* High costs and risks of change
-* Slowing down the teams during the synergy transfomrations
-* Slowing down the teams due to more dependencies
+Nonlinear dynamics have several influences on architectural activities:
+* Increased complexity due to new organizational unit
+* Increased complexity to the potentially more diverse organization, process, and technology
+* How to increase synergies after the acquisition
+* How to architecture for synergies but stay flexible when the organization decides to divest a part of the organization
 
 
-## Characteristic 5: Non-Linear Growth Dynamics
+## Characteristic 5: Synergies and Transformations Pressures
 
-Complex organizations are frequently very dynamic, and in a trivial sense, any organization is dynamic. But a reference organization I use in this section grows (or shrinks) and reorganizes frequently and significantly.
-
-They change both organically and inorganically. Organic growth is internal growth the company sees from its operations. Inorganic growth is growth from buying other businesses or opening new locations. Another direction is also happening, for instance, divestments to increase focus.
-
-Furthermore, due to its global nature, such organizations are more likely to be affected by international events and many local events.
+Complex organizations do not just grow. Instead, we wanted to leverage economies of scale, cost synergies, or increase capacity for innovation to become more efficient and generate more value. In other words, our organization is not an investment portfolio with diverse independent players. Our investors expect us to transform to become more efficient.
 
 
 **Opportunities**
 
-* Faster growth
-* Speeding up innovation
+Exploring synergies and transforming to be more efficient can provide several benefits:
 
+* Overal cost reductions
+* Acceleration due to more resources available
+* Innovation to both more capacity and possibility for reuse and sharing
+* Increased capacity for scaling due to more efficiencies and cost reductions
 
 **Challenges**
- Nonlinear dynamics have several influences on architectural activities:
-* Increased complexity due to new organizational unit
-* Increased complexity to potentially more diverse organization, process and technology
-* How to increase synergies after the acquisition
-* How to architecture for synergies but stay flexible when the organization decides to divest a part of the organization
+
+Pressure to be more synergic and efficient as a whole has its challenges:
+
+* Up-front investment is needed to gain any benefit
+* Such investment typically brings high costs and risks
+* Productivity of some teams may (temporary) drop  during the split effort between transformation activities and their main work
+* After transformations, the complexity of the organization and technology landscape may increase to more dependencies, e.g., to central services.
 
 
 
