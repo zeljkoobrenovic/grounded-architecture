@@ -12,7 +12,7 @@ excerpt: The architecture data platform serves as a medium to create a complete,
 
 
 ---
-<img src="assets/images/640px-Instrument_Cluster,_Mercedes-Benz_S350_Bluetec_4Matic_(US)_-_Flickr_-_skinnylawyer.jpeg" style="width: 100%">
+<img src="assets/images/arch/architecture-1857175_1920.jpg" style="width: 100%">
 
 The architecture data platform serves as a medium to create a complete, up-to-date picture of critical elements of technology landscapes of big organizations. I mean organizations with hundreds or thousands of developers organized in dozens or hundreds of teams by big organizations. Manual documentation does not scale in such an organizational context. 
 
@@ -133,4 +133,4 @@ I consider the data and transparency, together with architects, to be two main p
 <br>
 #### [Cover Art]
 
-[Instrument Cluster, Mercedes-Benz S350](https://commons.wikimedia.org/wiki/File:Instrument_Cluster,_Mercedes-Benz_S350_Bluetec_4Matic_(US)_-_Flickr_-_skinnylawyer.jpg). Credit: skinnylawyer / Wikimedia Commons. 
+Image by <a href="https://pixabay.com/users/3844328-3844328/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1857175">Lorenzo Cafaro</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1857175">Pixabay</a>

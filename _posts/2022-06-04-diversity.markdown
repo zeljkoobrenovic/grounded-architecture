@@ -10,7 +10,7 @@ timetoread: 15 min
 excerpt: "Our aim was to keep architectural decision-making distributed across the organization embedded in the local units. Local units traditionally have the best insights and most information relevant for making a decision. As Gregor Hohpe mentioned, the worst case of organizational decision-making happens when people with relevant information do not have the mandate to make decisions, while people who lack sufficient information can make all decisions."
 
 ---
-![](assets/images/two_cars_race.jpeg)
+![](assets/images/arch/city-4991094_1920.jpg)
 
 
 
@@ -29,4 +29,4 @@ We wanted to make explicit that every unit needs to have some attention or ways 
 
 ## Cover Art
 
-Credit: https://www.flickr.com/photos/davehamster/30104579344
+Image by <a href="https://pixabay.com/users/barbaracascao-15841899/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4991094">Bárbara Cascão</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4991094">Pixabay</a>

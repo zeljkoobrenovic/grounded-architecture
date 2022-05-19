@@ -10,7 +10,7 @@ timetoread: 15 min
 excerpt: "Nudge, The Culture Map, No Rules Rules, Dare To Lead" 
 
 ---
-![](assets/images/hybrid-vehicles-a-short-history-of-the-alternative-drive_4.jpeg)
+![](assets/images/arch/street-3453557_1920.jpg)
 
 Good background readings...
 
@@ -242,4 +242,4 @@ three broad categories of collaborative interactions (exhibit):
 
 ## Cover Art
 
-The [Lohner–Porsche Mixed Hybrid](https://en.wikipedia.org/wiki/Lohner%E2%80%93Porsche) 1900. Credit: Wikimedia Commons.
+Image by <a href="https://pixabay.com/users/tama66-1032521/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3453557">Peter H</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3453557">Pixabay</a>

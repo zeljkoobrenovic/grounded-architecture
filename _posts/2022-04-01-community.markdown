@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "People"
+title: "People Platform"
 position: 3002
 date:   2021-10-21 21:12:01 +0100
 categories: vat
@@ -11,7 +11,7 @@ timetoread: 15 min
 excerpt: "One of the central premises of our work is that we should not take our architectural talent for granted. Architects are bridging local business, product, organizational, and technology issues. Architects are difficult to hire talent as, to operate correctly, they need in-depth technical knowledge and domain-specific and organizational knowledge."
 
 ---
-![](assets/images/Mercedes_W05Hybrid_Boxenstopp.jpeg)
+![](assets/images/arch/construction-4939383_1920.jpg)
 
 > *”Architecture is not so much about the software, but about the people who write the software. The core principles of architecture, such as coupling and cohesion, aren't about the code. The code doesn't 'care' about how cohesive or decoupled it is; ... But people do care about their coupling to other team members.”* - James O. Coplien
 
@@ -99,6 +99,6 @@ Lastly, our model has a role of chief architect. The Chief Architect has two mai
 
 
 <br>
-#### [Cover Art]
+## [Cover Art]
 
-[DOST Hybrid Electric Train](https://commons.wikimedia.org/wiki/Category:DOST_Hybrid_Electric_Train#/media/File:DOST_Hybrid_Electric_Train_at_the_PNR_Alabang_Station.jpg). Credit: JC John Sese Cuneta / Wikimedia Commons.
+Image by <a href="https://pixabay.com/users/mostafa_meraji-13551092/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4939383">mostafa meraji</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4939383">Pixabay</a>

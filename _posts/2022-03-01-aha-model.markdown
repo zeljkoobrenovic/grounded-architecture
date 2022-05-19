@@ -1,18 +1,18 @@
 ---
 layout: post
-title: "Hybrid Architecture Overview"
-startSection: "Hybrid Architecture"
+title: "Grounded Architecture Overview"
+startSection: "Grounded Architecture"
 position: 2009
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 permalink: hybrid-model
-icon: hybrid.png
+icon: bridge.png
 timetoread: 15 min
 excerpt: "Our hybrid architecture model combines central and federated architecture functions elements, adding a new aspect of a data platform."
 
 
 ---
-![](assets/images/640px-2014_Porsche_919_Hybrid_Race_Car_(73530205).jpeg)
+![](assets/images/arch/buildings-205986_1920.jpg)
 
 > *"Most of us think successful people have more willpower. But all they do is build systems to make hard things easier to do."* - Chris Hladczuk
 
@@ -33,7 +33,6 @@ Our approach to implementing a cross-organizational architectural model was to h
 The main goal of the central team is to be an enabler for the rest of the organization, helping accelerate strategic transformations. Distributed virtual architecture team provided the connection across the organization, increasing the visibility of all parts of the organization, making it easier to implement change across the organization. Section # elaborates more on the distributed virtual architecture team.
 
 
-<br>
-#### [Cover Art]
+## [Cover Art]
 
-[Porsche 919 Hybrid Race Car](https://commons.wikimedia.org/wiki/File:2014_Porsche_919_Hybrid_Race_Car_(73530205).jpeg). Credit: Doug Fawley / Wikimedia Commons.
+Image by <a href="https://pixabay.com/users/ichigo121212-11728/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=205986">Ichigo121212</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=205986">Pixabay</a>

@@ -10,7 +10,7 @@ timetoread: 15 min
 excerpt: "When we have teams of architects, such groups can transform individual experiences into collective knowledge that can benefit the whole organization."
 
 ---
-<img src="assets/images/DOST_Hybrid_Electric_Train_Car_Connections.jpeg">
+<img src="assets/images/arch/road-4598095_1920.jpg">
 
 <br>
 When we have teams of architects, such groups can transform individual experiences into collective knowledge that can benefit the whole organization.
@@ -48,3 +48,6 @@ One of the problems that many organizations face is that due to their complexity
 As architects, we need to be proactive in the identification of relevant new technology developments. Based on our understanding of these developments, we need to create pragmatic technology recommendations for concrete platforms and across the organization.
 
 
+## Cover Art
+
+Image by <a href="https://pixabay.com/users/mufaddalap-14141833/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4598095">mufaddalap</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4598095">Pixabay</a>

@@ -11,7 +11,7 @@ excerpt: The Software Architect Elevator, Scaling Architecture.
 
 
 ---
-![](assets/images/hybrid-vehicles-a-short-history-of-the-alternative-drive_4.jpeg)
+![](assets/images/arch/palace-4781577_1920.jpg)
 
 Good background readings...
 
@@ -136,4 +136,4 @@ THE TRAP: DRIFT TO LOW PERFORMANCE Allowing performance standards to be influenc
 
 ## Cover Art
 
-The [Lohner–Porsche Mixed Hybrid](https://en.wikipedia.org/wiki/Lohner%E2%80%93Porsche) 1900. Credit: Wikimedia Commons.
+Image by <a href="https://pixabay.com/users/fda54-145996/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=274614">fda54</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=274614">Pixabay</a>

@@ -11,7 +11,7 @@ timetoread: 15 min
 excerpt: "While we wanted to embrace diversity, we found it crucial to align on a shared vision on architecture across all departments. In particular, we wanted to prevent positioning of architecture as an ivory tower exercize, disconnected from realities of complex organization."
 
 ---
-![](assets/images/Rob_Smedley_Canada_2010.png)
+![](assets/images/arch/fantasy-782001_1920.jpg)
 
 
 
@@ -32,3 +32,7 @@ Architecture should ensure that conversations happen between the technical, prod
 As a guiding principle, we promoted a view that senior architects in our organization should develop as "superglue." We borrow this view from [Adam Bar-Niv and Amir Shenhav from Intel](https://resources.sei.cmu.edu/library/asset-view.cfm?assetID=454541). They pointed out that instead of the superhero, we need "super glue" architects - the fellows who hold architecture, technical details, business needs, and people together across a large organization or complex projects.
 
 The superglue characteristics mean serving as the organizational connective tissue, linking the "business wheelhouse" and the "engine room." 
+
+## Cover Art
+
+Image by <a href="https://pixabay.com/users/dlee-271284/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=782001">Donna Kirby</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=782001">Pixabay</a>

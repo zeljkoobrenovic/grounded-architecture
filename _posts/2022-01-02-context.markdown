@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "The Context: A Fast Moving Global Organization"
+title: "The Context: Fast Moving Global Organizations"
 position: 2
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 permalink: context
-icon: global.png
+icon: roller-coaster.png
 timetoread: 15 min
 excerpt: "The hybrid architecture has developed in the context of global, loosely coupled organizations that are diverse, with non-linear growth dynamics, and under transformation pressures."
 
 
 ---
-![](assets/images/Mercedes_F1_StarsAndCars_2015_4_amk.jpeg)
+![](assets/images/arch/roller-coaster-3605743_1920.jpg)
 
 > *"My purpose is to exhibit philosophy as an integral part of social and political life: not as the isolated speculations of remarkable individuals, but as both an effect and a cause of the character of the various communities in which different systems flourished."* --Berrand Russel, The History of Western Philosophy
 
@@ -202,6 +202,4 @@ Pressure to be more synergic and efficient as a whole has its challenges:
 <br>
 #### [Cover Art]
 
-[Mercedes F1 W06 Hybrid at Stars and Cars 2015](https://commons.wikimedia.org/wiki/File:Mercedes_F1_StarsAndCars_2015_4_amk.jpg). Credit: AngMoKio / Wikimedia Commons. 
-
-
+Image by <a href="https://pixabay.com/users/paulbr75-2938186/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3605743">Paul Brennan</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3605743">Pixabay</a>

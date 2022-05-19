@@ -6,13 +6,13 @@ startSection: "Introduction"
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 permalink: intro
-icon: intro.png
+icon: spiral-stairs.png
 timetoread: 15 min
 excerpt: The articles presented on this site generalize lessons learned running architecture function in global, fast moving organizations. The lessons build on my experience as a Principal Architect in eBay Classifieds and Adevinta.
 
 
 ---
-![](assets/images/car-engine-g0d5843075_1920.jpg)
+![](assets/images/arch/staircase-274614_1920.jpg)
 
 
 ## Intro
@@ -57,6 +57,6 @@ When writing these articles, I had a broad audience in my mind. The article shou
 
 I have organized articles into three sections. The first section presents the principles behind a hybrid approach to scaling architectural practice. In the second part, I explain the hybrid approach describing its elements and interactions in more detail. In the last part, I added discussion and response to some common objections.
 
-## About Cover Art
+## ![img.png](img.png)Cover Art
 
-In most posts on this site, I use the theme on hybrid car as a cover art. This post features a photo of a hybrid car engine, credit [paulbr75 / Pixabay](https://pixabay.com/photos/car-engine-motor-clean-customized-1548434/).
+Image by <a href="https://pixabay.com/users/fda54-145996/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=274614">fda54</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=274614">Pixabay</a>
