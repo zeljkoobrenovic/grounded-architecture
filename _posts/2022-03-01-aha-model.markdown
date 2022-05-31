@@ -8,7 +8,7 @@ author: by Željko Obrenović (obren.io)
 permalink: hybrid-model
 icon: bridge.png
 timetoread: 15 min
-excerpt: "Our hybrid architecture model combines central and federated architecture functions elements, adding a new aspect of a data platform."
+excerpt: "The grounded architecture model combines central and federated architecture functions elements, adding a new aspect of a data platform."
 
 
 ---
@@ -16,21 +16,27 @@ excerpt: "Our hybrid architecture model combines central and federated architect
 
 > *"Most of us think successful people have more willpower. But all they do is build systems to make hard things easier to do."* - Chris Hladczuk
 
-We were considering several options for defining a cross-organizational architecture operating model. One approach is to have a central team of architects working together to define principles used by the rest of the organization. Another method could have been to keep architects distributed in local groups but align them centrally.
+To operate effectivelly in our context, we were considering several options for defining a cross-organizational architecture operating model. The main goal of our approach is to avoid becoming disconnected from the organization, which is fast moving, global and diverse settings is a real danger. In other words, we wanted to have an architecture function that is well-grounded in the organization. 
+
+
+
+![](assets/images/model.jpg)
+One approach is to have a central team of architects working together to define principles used by the rest of the organization. Another method could have been to keep architects distributed in local groups but align them centrally.
 
 Our organization's global, loosely coupled character makes the federated architecture organizational model an interesting choice. However, having synergy and transformational pressures in mind, the central theme may provide more focus and support aligned with key strategic initiatives.
 
-![](assets/images/model.jpg)
+We have decided not to follow exclusively one of the global or federated directions. Instead, we have opted for a hybrid approach, borrowing some elements of the central, more top-down approach and a distributed, more bottom-up approach (Figure 1). Furthermore, we introduced a self-service data platform providing elaborate near real-time insights about the state of technology and architecture in our organization.
 
-We have decided not to follow exclusively one of the two approaches. Instead, we have opted for a hybrid approach, borrowing some elements of the central, more top-down approach and a distributed, more bottom-up approach (Figure 1). Furthermore, we introduced a self-service data platform providing elaborate near real-time insights about the state of technology and architecture in our organization. The last element of this model is a chief architect, who in this model is not a mighty decision-maker but an orchestrator of synergic usage of all these elements, and a gardener making sure that each of these elements is strong and sufficiently developed.
+The resulting model is presented in Figure 1. It has three elements:
+* Data Platform,
+* People Platform,
+* Strategy and Governance Platform.  
 
-![](assets/images/aha-model.png)
+The Data Platform: the transparency pillar, grounding the architecture in the organization by ensuring near real-time and complete overview of the state of the technology.
 
-We call our approach a hybrid approach as we have a mixed architectural team structure combining an (optional) central architecture team and local architects distributed across groups in the organization.
+The People Platform:  Our approach to implementing a cross-organizational architectural model was to have two teams of architects: an (optional) central architecture team and a distributed virtual architecture team. An (option) central architecture team consists of architects reporting to the global part of an organization. A distributed virtual architecture team consists of architects working and reporting in different organizational units but committed to spending an amount of the time in a virtual team to get more alignments with peers and looking for synergies in a bottom-up fashion. The main goal of the central team is to be an enabler for the rest of the organization, helping accelerate strategic transformations. Distributed virtual architecture team provided the connection (grounding) across the organization, increasing the visibility of all parts of the organization, making it easier to implement change across the organization. Section # elaborates more on the distributed virtual architecture team. 
 
-Our approach to implementing a cross-organizational architectural model was to have two teams of architects: an (optional) central architecture team and a distributed virtual architecture team. An (option) central architecture team consists of architects reporting to the global part of an organization. A distributed virtual architecture team consists of architects working and reporting in different organizational units but committed to spending an amount of the time in a virtual team to get more alignments with peers and looking for synergies in a bottom-up fashion. Section # elaborates more on the central architecture team.
-
-The main goal of the central team is to be an enabler for the rest of the organization, helping accelerate strategic transformations. Distributed virtual architecture team provided the connection across the organization, increasing the visibility of all parts of the organization, making it easier to implement change across the organization. Section # elaborates more on the distributed virtual architecture team.
+Lastly, the Strategy and Governance Platform does all the things that architecure typically does, leveraging data and people platform to create data-informed, organization-wide impact.    
 
 
 ## [Cover Art]
