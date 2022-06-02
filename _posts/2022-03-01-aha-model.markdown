@@ -16,27 +16,21 @@ excerpt: "The grounded architecture model combines central and federated archite
 
 > *"Most of us think successful people have more willpower. But all they do is build systems to make hard things easier to do."* - Chris Hladczuk
 
-To operate effectivelly in our context, we were considering several options for defining a cross-organizational architecture operating model. The main goal of our approach is to avoid becoming disconnected from the organization, which is fast moving, global and diverse settings is a real danger. In other words, we wanted to have an architecture function that is well-grounded in the organization. 
+To operate effectively in [our context](context), we were considering several options for defining a cross-organizational architecture operating model. The main goal of our approach is to avoid becoming disconnected from the organization, which is a fast moving, global and diverse settings is a real danger. In other words, we wanted to have an architecture function that is well-grounded in the organization. 
 
+Figure 1 illustrates the Grounded Architecture model, consisting of three elements:
+* The Data Platform,
+* The People Platform,
+* The Strategy and Governance Platform.
 
 
 ![](assets/images/model.jpg)
-One approach is to have a central team of architects working together to define principles used by the rest of the organization. Another method could have been to keep architects distributed in local groups but align them centrally.
 
-Our organization's global, loosely coupled character makes the federated architecture organizational model an interesting choice. However, having synergy and transformational pressures in mind, the central theme may provide more focus and support aligned with key strategic initiatives.
+The **Data Platform** represents the transparency pillar. The data platform grounds the architecture in the organization by ensuring that any decisions are based on real-time and complete overview of the state of the technology. The [separate section](data-platform) provides more details of this platform. 
 
-We have decided not to follow exclusively one of the global or federated directions. Instead, we have opted for a hybrid approach, borrowing some elements of the central, more top-down approach and a distributed, more bottom-up approach (Figure 1). Furthermore, we introduced a self-service data platform providing elaborate near real-time insights about the state of technology and architecture in our organization.
+The **People Platform** is another essential element of Grounded architecture. As noted by Gregor Hohpe, to transform an organization, you do not need to solve mathematical equations. You need to move people. Consequently, having a strong network of people doing architecture across the organization is crucial to ensure that architecture function has any tangible impact. In my work in past few years, I was working by combining, in different forms, two teams of architects: a small central architecture team, as well as a cross-organizational distributed virtual team. A central architecture team serves as an enabler for the rest of the organization, helping accelerate strategic transformations. A distributed virtual architecture team consists of architects (or other people making architecture decisions in their teams) working in local organizational units but spending some time (e.g. 10-20%) in a virtual team with peers from other teams. I found that such a distributed virtual architecture team is a crucial element of an architecture function, as it provides the connection (grounding) across the all parts and levels of the organization, increasing the visibility and connections, and making it easier to implement change across the organization. [This section](people) elaborates more on the distributed virtual architecture team. 
 
-The resulting model is presented in Figure 1. It has three elements:
-* Data Platform,
-* People Platform,
-* Strategy and Governance Platform.  
-
-The Data Platform: the transparency pillar, grounding the architecture in the organization by ensuring near real-time and complete overview of the state of the technology.
-
-The People Platform:  Our approach to implementing a cross-organizational architectural model was to have two teams of architects: an (optional) central architecture team and a distributed virtual architecture team. An (option) central architecture team consists of architects reporting to the global part of an organization. A distributed virtual architecture team consists of architects working and reporting in different organizational units but committed to spending an amount of the time in a virtual team to get more alignments with peers and looking for synergies in a bottom-up fashion. The main goal of the central team is to be an enabler for the rest of the organization, helping accelerate strategic transformations. Distributed virtual architecture team provided the connection (grounding) across the organization, increasing the visibility of all parts of the organization, making it easier to implement change across the organization. Section # elaborates more on the distributed virtual architecture team. 
-
-Lastly, the Strategy and Governance Platform does all the things that architecure typically does, leveraging data and people platform to create data-informed, organization-wide impact.    
+Lastly, the **Strategy and Governance Platform** does all the things that architecture typically does, leveraging data and people platform to create data-informed, organization-wide impact. [This section](governance) provides more details on Technology Strategy and Governance platform. While the Strategy and Governance platform by name looks most like a typical architecture function, I coinsider such platform is useless without the strong Data and People platforms. With data and propper connections with key individuals, and Strategy and Governance becomes a typical ivory tower, generating opinion-based decisions disconnected from reality.     
 
 
 ## [Cover Art]

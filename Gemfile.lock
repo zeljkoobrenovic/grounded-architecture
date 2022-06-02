@@ -66,6 +66,7 @@ GEM
     unicode-display_width (1.8.0)
 
 PLATFORMS
+  universal-darwin-21
   x86_64-darwin-18
   x86_64-darwin-19
 
@@ -79,4 +80,4 @@ DEPENDENCIES
   wdm (~> 0.1.1)
 
 BUNDLED WITH
-   2.3.10
+   2.3.14

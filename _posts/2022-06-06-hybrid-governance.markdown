@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Flexible Governance"
+title: "Technology Strategy and Governance"
 position: 3004
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
@@ -12,9 +12,20 @@ excerpt: "We wanted to create a governance model that acknowledges the complexit
 ---
 ![](assets/images/arch/parliament-366199_1920.jpg)
 
-We wanted to create a governance model that acknowledges the complexity and diversity of our organization. By governing, we mean guiding technology choices in the organization in a particular direction aligned with the technology strategies. We tried to prevent a simplistic view of architecture as defining directives for the rest of the organization.
 
 ![](assets/images/model-governance.jpg)
+
+## Typical Technology Strategy and Governance Actvities
+
+* Supporting merger and acquisitions (M&A) activities with expertize and analyses
+* Defining vision and direction of technology, frequently in collaboration with CTOs
+* Performing SWOT and other analyses of platforms and system
+* Cloud Strategy, Data Strategy, Platform Strategy
+* ...
+
+## Flexible Governance
+
+We wanted to create a governance model that acknowledges the complexity and diversity of our organization. By governing, we mean guiding technology choices in the organization in a particular direction aligned with the technology strategies. We tried to prevent a simplistic view of architecture as defining directives for the rest of the organization.
 
 Consequently, we aimed at promoting a technology governance model as a well-balanced hybrid of three different ways of governing:
 * mandates and bans,

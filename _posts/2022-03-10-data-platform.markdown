@@ -14,18 +14,18 @@ excerpt: The architecture data platform serves as a medium to create a complete,
 ---
 <img src="assets/images/arch/architecture-1857175_1920.jpg" style="width: 100%">
 
-The architecture data platform serves as a medium to create a complete, up-to-date picture of critical elements of technology landscapes of big organizations. I mean organizations with hundreds or thousands of developers organized in dozens or hundreds of teams by big organizations. Manual documentation does not scale in such an organizational context. 
+In every place I worked on creating any architectural functions, I put a strong emphasis on data. In past several years, I was also working on creating open-source tools, such as [Sokrates](https://sokrates.dev), that can help obtaining useful architectural insights from data sources, such as source code repositories, or public cloud usage. Consequently, I as one of the first steps I make in any architecure role is to create an architecture data platform serves as a medium to create a complete, up-to-date picture of critical elements of technology landscapes of an organization. Manual documentation does not scale in [our context](context), and relying on data ensure reliability and scalability. 
 
 ![](assets/images/model-transparency.jpg)
-***Figure 6:** IT architecture relies on two pillars: transparency and community. Data and transparency provide a basis for data-informed decision-making. People enable governance to have an impact. Without these two strong pillars, the architecture becomes an abstract ivory tower exercise. This article focuses on transparency.*
+***Figure 1:** IT architecture relies on two pillars: transparency and community. Data and transparency provide a basis for data-informed decision-making. People enable governance to have an impact. Without these two strong pillars, the architecture becomes an abstract ivory tower exercise. This article focuses on transparency.*
 
-But, more often than not, big organizations have lots of data that, if used wisely, can provide an excellent basis for architectural documentation. With some automation, and curation, getting a good overview of the technology landscape may be closer than it initially appears.   
+Good news is that big organizations have lots of data that, if used wisely, can provide an excellent basis for an architectural data platform. With some automation, and curation, getting a good overview of the technology landscape may be closer than it initially appears.
 
 ![](assets/images/archdata/recipe.png)
 <br>
 **Figure 1:** *The recipe for architecture data platform: data + automation + curation = useful documentation.*
 
-The main inspiration for my work is mapmaking (see [Atlas of the Heart](https://brenebrown.com/book/atlas-of-the-heart/) for a discussion on a mapmaking metaphor). As noted by Brené Brown, maps are the one of the most important documents in human history. They give us tools to store and exchange knowledge about space and place. While there are differences between maps and layers they show, the one thing that all maps do is provide readers with orientation. A sense of place is central to meaning-making. Maps are also composed from multiple layers. Similalry, the architecture data platform provide layers of data about our systems, describing their size, connections, quality, security, or human activity.
+The main inspiration for my work is map-making. As noted by Brené Brown, maps are the one of the most important documents in human history (see [Atlas of the Heart](https://brenebrown.com/book/atlas-of-the-heart/) for a discussion on a mapmaking metaphor). They give us tools to store and exchange knowledge about space and place. While there are differences between maps and layers they show, the one thing that all maps do is provide readers with orientation. A sense of place is central to meaning-making. Maps are also composed from multiple layers. Similalry, the architecture data platform provides layers of data about our systems, describing their size, connections, quality, security, or human activity.
 
 
 ## Examples of Data-Driven Architecture Documents
@@ -121,9 +121,7 @@ Architecture data platform can provide lots of data. Sometimes, as in an ordinar
 
 ## Summary
 
-This article summarized my experiences in replacing classical architectural documentation with curated data-driven architecture documents. I presented some of my lessons learned in solving the problem of getting a complete, up-to-date picture of critical elements of technology landscapes of big organizations. Architecture data platform generate multiple views on relevant architectural topics based on data sources such as source code, commit history, public cloud billing reports, and finance reports.
-
-To summarize, the architecture data platform offer an efficient, scalable, and pragmatic way to keep a complete overview of the organizational technology landscape. But as with many tools, they are not the panacea. They need to be a part of processes and activities to impact the organization positively.
+The architecture data platform offer an efficient, scalable, and pragmatic way to keep a complete overview of the organizational technology landscape. But as with many tools, they are not the panacea. They need to be a part of processes and activities to impact the organization positively.
 
 I consider the data and transparency, together with architects, to be two main pillars of any technology governance (Figure 6). Data and transparency provide a basis for data-informed decision-making. People and communities enable governance to have an impact ([read more about this pillar in another post](../superglue)). Without these two strong pillars, the architecture becomes an abstract ivory tower exercise.
 
