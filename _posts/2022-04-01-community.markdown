@@ -96,6 +96,7 @@ Lastly, our model has a role of chief architect. The Chief Architect has two mai
 * to make other architect work well. Rather than inject itself in every decision loop, architecture should design mechanisms for teams to make better decisions - they'll know better anyhow, and slowing them down carries a high cost. In this context, CA is a Curator, Role-model, and Catalyst
 * working on the most important strategic initiatives: strategix, M&As
 
+![](assets/images/chief-architect-flexibility.png)
 
 
 <br>

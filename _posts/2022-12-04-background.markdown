@@ -1,11 +1,11 @@
 ---
 layout: post
+startSection: "To Probe Further"
 title: "Background"
-startSection: "Background"
-position: 10000
+position: 10002
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
-permalink: background-overview
+permalink: background
 icon: books.png
 timetoread: 15 min
 excerpt: Overview of the background to probe further. External evidence, supporting and inspiring some of our practices.
