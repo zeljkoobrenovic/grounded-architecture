@@ -25,7 +25,7 @@ Grounding the architecture with data and people connections, also makes the work
 
 Lastly, the structure of our architecture model enables a more sustainable architecture function. With an established data platform and well-connected architect, even without a strong central team, the architecture can still provide a valuable impact on the organization.
 
-## Example 1: Changing Architecture During Significant Reorganizations
+## Example: Changing Architecture During Significant Reorganizations
 
 The Figure 1 illustrates the framework that we have used to change the architecure funtion during several big re-organiztions.  
 
@@ -42,12 +42,6 @@ In the "Man Overboard" phase, we focused on grounding, both in data and people s
 In the "Turn That Ship Around Phase", the focus shifted on strengthening the central architecture team and focusin it to support implementation of key strategies. The data plafrom was now also used to support diferent scenario analyses and to serve as a feedback mechanism on the impact of transfomrational activiteis.
 
 In the "Full Speed Ahead" phase, the focus was in further strengthening anf fine tuning all the elements, and optimizing ways of working to maximize learning, and alignment.
-
-## Example 2: Less Control, More Innovation
-
-Another element of flexibility of the grounded architecture originates from the possibility to spend more time working on big and important problems rather than with governance. As data platform provides a solid basis to understand the state across the organization, less time is needed to do clerical tasks related to data collection. And as people are encouraged to take initiatives, more governance happens in a distributed manner. The positionin gof architecure as superglue, also enables delegating part of governance to other parts of organization. 
-
-![](assets/images/arch-in-context.png)
 
 <br>
 <br>
