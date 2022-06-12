@@ -1,0 +1,20 @@
+<table style="border: none; font-size: 80%; margin: 0; padding: 0;">
+    <tr style="border: none; margin: 0; padding: 0">
+        <td style="border: none; margin: 0; padding: 0">
+            {%- if page.previous -%}
+            <a class="u-url" href="{{ page.previous.permalink }}">← {{ page.previous.title }}</a>
+            {%- endif -%}
+            {%- if page.previous.endSection -%}
+            &nbsp;/ <b>{{ page.previous.endSection }}</b>
+            {%- endif -%}
+        </td>
+        <td style="border: none; text-align: right; margin: 0; padding: 0">
+            {%- if page.next -%}
+            {%- if page.next.startSection -%}
+            <b>{{ page.next.startSection }}</b> /&nbsp;
+            {%- endif -%}
+            <a class="u-url" href="{{ page.next.permalink }}">{{ page.next.title }} →</a>
+            {%- endif -%}
+        </td>
+    </tr>
+</table>

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Context: Fast Moving Global Organizations"
+endSection: "Introduction"
 position: 2
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)

@@ -35,7 +35,7 @@ We also propagated the philosophy of zooming in and out at all of our tools. On 
 
 Our hybrid team structure all supported etiquette Nick scale. The virtual architecture team supported execution both by increasing number of people involved in architectural activities and increasing efficiency of our work by better alignment. By having members official technical team representing diverse organizational units we were able to have much more impact across the board. And having some capacity on central level serve as a catalyst helping people local levels to do their job while being aligned and better connected with overall strategic goals and other teams working with similar topics.
 
-
+<br>
 ## Cover Art
 
 Image by <a href="https://pixabay.com/users/anikinearthwalker-21956000/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=6921297">Dimitry Anikin</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=6921297">Pixabay</a>

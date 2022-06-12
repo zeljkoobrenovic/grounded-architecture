@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "People Platform"
+endSection: "Overview"
 position: 3002
 date:   2021-10-21 21:12:01 +0100
 categories: vat

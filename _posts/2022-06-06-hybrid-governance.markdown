@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Technology Strategy and Governance"
+endSection: "Operating Principles"
 position: 3004
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
@@ -48,6 +49,6 @@ Governing with taxes is a form of guiding in which people are not forbidden to m
 Leading the context is a form of governing in which we do not forbid people to make some choices, nor do they need to pay taxes. Instead, we wanted to create a shared context that can facilitate people making informed decisions. Such contexts should include sharing of lessons learned by others, both good and bad, and places to get feedback on ideas and plans. The role of the architecture in this form of governing should be to create mechanisms for sharing experiences and obtaining feedback on plans and decisions. It should also include mechanisms to capture artifacts that can help people to make informed decisions, such as architecture decision resources (ADRs), principles, golden paths, or best practices.
 
 <br>
-#### Cover Art
+## Cover Art
 
 Image by <a href="https://pixabay.com/users/cocoparisienne-127419/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=366199">Anja-#pray for ukraine# #helping hands# stop the war</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=366199">Pixabay</a>

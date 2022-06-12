@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Adaptivity"
+endSection: "Impact"
 position: 9004
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
