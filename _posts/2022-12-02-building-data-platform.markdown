@@ -1,7 +1,7 @@
 ---
 layout: post
-startSection: "Pragmatics"
-title: "Building Data Platform"
+section: "Pragmatics"
+title: "Data Platform Pragmatics"
 position: 11001
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)

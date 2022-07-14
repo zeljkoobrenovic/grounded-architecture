@@ -1,5 +1,6 @@
 ---
 layout: post
+section: "Impact"
 title: "Adaptivity"
 endSection: "Impact"
 position: 9004

@@ -1,5 +1,6 @@
 ---
 layout: post
+section: "Pragmatics"
 title: "Positioning Archtecture in Organization"
 position: 11003
 endSection: "Pragmatics"

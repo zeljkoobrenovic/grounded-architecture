@@ -1,14 +1,14 @@
 ---
 layout: post
+section: "Introduction"
 title: "Introduction"
 position: 1
-startSection: "Introduction"
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 permalink: intro
 icon: spiral-stairs.png
 timetoread: 15 min
-excerpt: The articles presented on this site generalize lessons learned running an architecture function in global, fast moving organizations. The lessons build on my experience as a Principal Architect in eBay Classifieds and Adevinta.
+excerpt: The articles presented on this site generalize lessons learned running an architecture function in global, fast moving organizations. The lessons build on my experience as a Chief Architect AVIV Group. eBay Classifieds and Adevinta.
 
 
 ---
@@ -19,11 +19,26 @@ excerpt: The articles presented on this site generalize lessons learned running 
 
 > "I am a mapmaker and a traveler." Brené Brown
 
-In this collection of articles, I will explain an approach to running an architecture practice in bigger organizations. I called my approach "the grounded architecture" approach, highlighting the need for any architecture function to stay well connected to all levels of an organization, and led by data. 
+In this collection of articles, I will explain an approach to running an architecture practice in bigger organizations. I called my approach "the grounded architecture" approach, highlighting the need for any architecture function to stay well connected to all levels of an organization, and led by data. The following figure illustrates the Grounded Architecture model, consisting of three elements:
+* The Data Platform,
+* The People Platform,
+* The Strategy and Governance Platform.
 
-The work presented in these articles builds on several years of my experience. Most of this work results from two years of being a principal Architect of eBay classifieds and Adevinta. As a principal architect, I led a distributed virtual architecture team while working with business stakeholders to define technology roadmaps and support several strategic initiatives, such as defining a cloud strategy, platform, and data strategy. I learned the value of being strongly connected to all levels of the organization and the limitations of a fully distributed model.
+![](assets/images/model.jpg)
 
-Another vital part of my experience that shaped these articles was my experience as a consultant at the Software Improvement Group. I've learned the value and pragmatics of data-informed decision-making. As a spin-off of this work, I've also built tools called [Sokrates](https://spkrates.dev), which enables efficient and pragmatic extraction of data about technology and organization from source code. This work has directly influenced my view on the architecture data platform.
+The **Data Platform** represents the transparency pillar. The data platform grounds the architecture in the organization by ensuring that any decisions are based on real-time and complete overview of the state of the technology.
+
+The **People Platform** is another essential pillar of Grounded Architecture. Having a strong network of people doing architecture across the organization is crucial to ensure that architecture function has any tangible impact.
+
+Lastly, the **Strategy and Governance Platform** does all the things that architecture typically does, leveraging data and people platform to create data-informed, organization-wide impact.
+
+The rest of this site will explain in detail the grounded architectreu approach. In this secition I would like to tell a few things about my personal motivation to write these articles.
+
+## A Bit of Personal History
+
+The work presented in these articles builds on many years of my experience. Most of this work results from my current work as a Chief architect at AVIV Group and from being a Chief Architect of AVIV Group, eBay classifieds and Adevinta. As a chief architect in these organizations, I led central as well as distributed virtual architecture teams while working with business stakeholders to define technology roadmaps and support several strategic initiatives, such as defining a cloud strategy, platform, and data strategy.
+
+Another vital part of my experience that shaped these articles was my experience as a consultant at the Software Improvement Group. I’ve learned the value and pragmatics of data-informed decision-making. As a spin-off of this work, I’ve also built tools called [Sokrates](sokrates.dev), which enable efficient and pragmatic extraction of data about technology and organization from source code. This work has directly influenced my view on the architecture data platform.
 
 Lastly, my experience as a CTO of a start-up has helped me understand the difficulties and pragmatics of creating and running an IT organization.
 

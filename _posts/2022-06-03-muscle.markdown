@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Strengthening Architectural Muscle Across Organization"
+section: "Operating Principles"
+title: "Strengthening Architectural Muscle"
 position: 6003
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)

@@ -1,7 +1,7 @@
 ---
 layout: post
+section: "Grounded Architecture"
 title: "Technology Strategy and Governance"
-endSection: "Operating Principles"
 position: 3004
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)

@@ -1,7 +1,7 @@
 ---
 layout: post
+section: "Impact"
 title: "Executing at Scale"
-startSection: "Impact"
 position: 9001
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)

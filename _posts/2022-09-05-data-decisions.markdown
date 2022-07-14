@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Increasing the Quality of Decision-Making with Data"
+section: "Impact"
+title: "Increasing Decision Quality with Data"
 position: 9001
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)

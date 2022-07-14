@@ -16,13 +16,15 @@ layout: default
     {{ content }}
 
     {%- if site.posts.size > 0 -%}
+    {% assign prev_section = "" %}
     <ul class="post-list">
         {%- assign sortedPosts = site.posts | sort: 'position' -%}
         {%- for post in sortedPosts -%}
         {%- if post.title contains '[WIP]' -%}
         {%- else -%}
-        {%- if post.startSection -%}
-        <h1 class="page-heading" style="text-align: center">{{ post.startSection }}</h1>
+        {%- if post.section <> prev_section -%}
+        <h1 class="page-heading" style="text-align: center">{{ post.section }}</h1>
+        {% assign prev_section = post.section %}
         {%- endif -%}
         <li>
 

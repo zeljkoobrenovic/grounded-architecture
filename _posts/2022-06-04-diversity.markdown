@@ -1,5 +1,6 @@
 ---
 layout: post
+section: "Operating Principles"
 title: "Embracing Diversity, Distributing Decision-Making"
 position: 6004
 date:   2021-10-21 21:12:01 +0100

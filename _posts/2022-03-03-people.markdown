@@ -1,10 +1,9 @@
 ---
 layout: post
+section: "Grounded Architecture"
 title: "People Platform"
-endSection: "Overview"
 position: 3002
 date:   2021-10-21 21:12:01 +0100
-categories: vat
 author: by Željko Obrenović (obren.io)
 permalink: people
 icon: community.png
@@ -17,6 +16,8 @@ excerpt: "One of the central premises of our work is that we should not take our
 > *”Architecture is not so much about the software, but about the people who write the software. The core principles of architecture, such as coupling and cohesion, aren't about the code. The code doesn't 'care' about how cohesive or decoupled it is; ... But people do care about their coupling to other team members.”* - James O. Coplien
 
 One of the central premises of our work is that we should not take our architectural talent for granted. Architects are bridging local business, product, organizational, and technology issues. Architects are difficult to hire talent as, to operate correctly, they need in-depth technical knowledge and domain-specific and organizational knowledge.
+
+The **People Platform** is another essential element of Grounded architecture. As noted by Gregor Hohpe, to transform an organization, you do not need to solve mathematical equations. You need to move people. Consequently, having a strong network of people doing architecture across the organization is crucial to ensure that architecture function has any tangible impact. In my work in past few years, I was working by combining, in different forms, two teams of architects: a small central architecture team, as well as a cross-organizational distributed virtual team. A central architecture team serves as an enabler for the rest of the organization, helping accelerate strategic transformations. A distributed virtual architecture team consists of architects (or other people making architecture decisions in their teams) working in local organizational units but spending some time (e.g. 10-20%) in a virtual team with peers from other teams. I found that such a distributed virtual architecture team is a crucial element of an architecture function, as it provides the connection (grounding) across the all parts and levels of the organization, increasing the visibility and connections, and making it easier to implement change across the organization. [This section](people) elaborates more on the distributed virtual architecture team.
 
 ## Background: Central vs. Federated Architecture Function
 

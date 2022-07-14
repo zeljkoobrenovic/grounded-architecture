@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Data Platform"
+section: "Grounded Architecture"
 position: 3000
 date:   2021-10-21 21:12:01 +0100
 categories: architecture

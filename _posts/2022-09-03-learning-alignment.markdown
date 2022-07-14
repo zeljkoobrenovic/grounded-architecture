@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Maximizing Organizational Alignment & Learning"
+section: "Impact"
+title: "Maximizing Alignment & Learning"
 position: 9003
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)

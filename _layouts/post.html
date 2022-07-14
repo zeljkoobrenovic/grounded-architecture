@@ -31,12 +31,11 @@ layout: default
 </style>
 
 
-<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
-    <div style="margin-bottom: 18px; margin-top: -18px">
-        {%- include navigator.html -%}
-    </div>
-
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting" style="margin-top: -12px">
     <header class="post-header">
+        {%- if page.section -%}
+        <div style="margin-bottom: 4px; margin-top: 10px">{{ page.section }}</div>
+        {%- endif -%}
         <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
         <p class="post-meta">
             {%- if page.author -%}

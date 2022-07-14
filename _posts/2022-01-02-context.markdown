@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "The Context: Fast Moving Global Organizations"
-endSection: "Introduction"
+title: "Context: Fast Moving Global Organizations"
+section: "Introduction"
 position: 2
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
@@ -18,7 +18,7 @@ excerpt: "The hybrid architecture has developed in the context of global, loosel
 
 To better understand any idea and or a solution, it is crucial to understand the context in which these ideas developed. My approach to creating a running an architecture function is not an abstract idea. Instead, it is the generalization of many lessons learned while solving specific problems in a particular context.
 
-The work I present here reflects my as a Principal Architect at eBay Classifieds and Adevinta. After a year of working for eBay Classifieds, Adevinta and eBay Classify merged, where I continued the same work on a bigger scale. In this section, we discuss critical characteristics of the organizational context that have had an impact on my definition of the grounded architecture approach:
+The work I present here reflects my as a Chief Architect at AVIV Group, eBay Classifieds and Adevinta. After a year of working for eBay Classifieds, Adevinta and eBay Classify merged, where I continued the same work on a bigger scale. In this section, we discuss critical characteristics of the organizational context that have had an impact on my definition of the grounded architecture approach:
 * **global scale**: operating across multiple countries and continents
 * **decentralized, loosely-coupled organizational units**: organizational units are decentralized and have significant autonomy, while central functions exist but are limited (everyone is a minority)
 * **multi-dimensional diversity**: due to historical reasons, the organizations I worked in were very diverse at all levels, including customer base, workforce, business model, team topologies, technology stacks

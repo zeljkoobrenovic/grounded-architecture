@@ -2,18 +2,18 @@
     <tr style="border: none; margin: 0; padding: 0">
         <td style="border: none; margin: 0; padding: 0">
             {%- if page.previous -%}
-            <a class="u-url" href="{{ page.previous.permalink }}">← {{ page.previous.title }}</a>
-            {%- endif -%}
-            {%- if page.previous.endSection -%}
-            &nbsp;/ <b>{{ page.previous.endSection }}</b>
+                {%- if page.previous.section -%}
+                    <div style="font-size: 90%; color: #898989">{{ page.previous.section }}</div>
+                {%- endif -%}
+                <a class="u-url" href="{{ page.previous.permalink }}">← {{ page.previous.title }}</a>
             {%- endif -%}
         </td>
         <td style="border: none; text-align: right; margin: 0; padding: 0">
             {%- if page.next -%}
-            {%- if page.next.startSection -%}
-            <b>{{ page.next.startSection }}</b> /&nbsp;
-            {%- endif -%}
-            <a class="u-url" href="{{ page.next.permalink }}">{{ page.next.title }} →</a>
+                {%- if page.next.section -%}
+                    <div style="font-size: 90%; color: #898989">{{ page.next.section }}</div>
+                {%- endif -%}
+                <a class="u-url" href="{{ page.next.permalink }}">{{ page.next.title }} →</a>
             {%- endif -%}
         </td>
     </tr>
