@@ -24,7 +24,7 @@ Each organization will have different architectural needs and context.
 
 ## Connecting Strategy and Implementation Building Blocks
 
-* Be part of defining the strategy, rather then on the execution.
+* Be part of defining the strategy, rather than on the execution.
 * Position architecture more towards innovation rather then control.
 * Avoid a pure project-management role.
 
