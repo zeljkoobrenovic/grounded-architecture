@@ -12,6 +12,8 @@ excerpt: "When we have teams of architects, such groups can transform individual
 
 ---
 <img src="assets/images/arch/road-4598095_1920.jpg">
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+</div>
 
 <br>
 When we have teams of architects, such groups can transform individual experiences into collective knowledge that can benefit the whole organization.
@@ -24,8 +26,7 @@ Our next goals was to create mechanisms to leverage and accelerate local decisio
 * After making a decision, we want to make sure that we make other parts of the organization aware of it and that the distributes or lessons learned so that organization can profit from lessons learned in one unit. Get all the experiences and lessons learned from other parts of organization working with similar issues.
 
 ![](assets/images/Misalignment-1024x523.png)
-Credit: [Henrik Kniberg](https://blog.crisp.se/2016/05/30/henrikkniberg/misalignment).
-
+Image by <a href="https://pixabay.com/users/mufaddalap-14141833/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4598095">mufaddalap</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4598095">Pixabay</a>
 
 <br>
 ## Maximizing Learning
@@ -47,8 +48,3 @@ One of the problems that many organizations face is that due to their complexity
 ***Figure 3:** One crucial aspect of Architects' work is following external trends and finding pragmatic ways to introduce these trends in the organization. Credit: [thoughtworks.com/insights/blog/whats-hurry-building-digital-enterprise](https://www.thoughtworks.com/insights/blog/whats-hurry-building-digital-enterprise)*
 
 As architects, we need to be proactive in the identification of relevant new technology developments. Based on our understanding of these developments, we need to create pragmatic technology recommendations for concrete platforms and across the organization.
-
-
-## Cover Art
-
-Image by <a href="https://pixabay.com/users/mufaddalap-14141833/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4598095">mufaddalap</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4598095">Pixabay</a>

@@ -1,18 +1,20 @@
 ---
 layout: post
 section: "Operating Principles"
-title: "Strengthening Architectural Muscle"
-position: 6003
+title: "Strengthening Architectural Muscle: Architects as Superglue"
+position: 6001
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
-permalink: muscle
+permalink: superglue
 icon: muscles.png
 timetoread: 15 min
 excerpt: "We want to invest additional efforts to ensure that all parts of the organization have proper people to make informed decisions, while keeping a high level of autonomy and accountability. To do this, we defined two subgoals: collectively grow architectural talent, and increase architectural talent density via virtual communities."
 
 ---
 
-<img src="assets/images/arch/buildings-4839276_1920.jpg" style="width: 100%;">
+<img src="assets/images/superglue/superglue.png" style="width: 100%;">
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+</div>
 
 
 Our next goal was to strengthen the architecture muscle across the organization. We want to invest additional efforts to ensure that all parts of the organization have proper people to make informed decisions, while keeping a high level of autonomy and accountability. To do this, we defined two subgoals:
@@ -58,11 +60,3 @@ More specifically, we wanted to create virtual architecture teams as peer-to-pee
 
 ![](assets/images/superglue/community.png)
 ***Figure 1:** Architects work together as community of peers helping each other in their architectural activities.*
-
-## Cover Art
-
-Image by <a href="https://pixabay.com/users/ds_30-1795490/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4839276">ds_30</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4839276">Pixabay</a>
-
-
-
-

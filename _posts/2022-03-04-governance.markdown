@@ -1,20 +1,23 @@
 ---
 layout: post
 section: "Grounded Architecture"
-title: "Technology Strategy and Governance"
+title: "Tech Strategy and Governance Platform"
 position: 3004
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
-permalink: governance
+permalink: strategy
 icon: goals.png
 timetoread: 15 min
 excerpt: "We wanted to create a governance model that acknowledges the complexity and diversity of our organization. We aimed at promoting a technology governance model as a well-balanced hybrid of three different ways of governing: mandates and bans, taxes, and leading by context."
 
 ---
 ![](assets/images/arch/parliament-366199_1920.jpg)
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by <a href="https://pixabay.com/users/cocoparisienne-127419/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=366199">Anja-#pray for ukraine# #helping hands# stop the war</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=366199">Pixabay</a>
+</div>
 
 
-![](assets/images/model-governance.jpg)
+![](assets/images/model-strategy.png)
 
 ## Typical Technology Strategy and Governance Actvities
 
@@ -47,8 +50,3 @@ Governing with taxes is a form of guiding in which people are not forbidden to m
 ## Leading by Context
 
 Leading the context is a form of governing in which we do not forbid people to make some choices, nor do they need to pay taxes. Instead, we wanted to create a shared context that can facilitate people making informed decisions. Such contexts should include sharing of lessons learned by others, both good and bad, and places to get feedback on ideas and plans. The role of the architecture in this form of governing should be to create mechanisms for sharing experiences and obtaining feedback on plans and decisions. It should also include mechanisms to capture artifacts that can help people to make informed decisions, such as architecture decision resources (ADRs), principles, golden paths, or best practices.
-
-<br>
-## Cover Art
-
-Image by <a href="https://pixabay.com/users/cocoparisienne-127419/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=366199">Anja-#pray for ukraine# #helping hands# stop the war</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=366199">Pixabay</a>

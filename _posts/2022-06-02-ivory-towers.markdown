@@ -1,17 +1,20 @@
 ---
 layout: post
 section: "Operating Principles"
-title: "Aligning Culture: Breaking Up Ivory Towers"
-position: 6001
+title: "Breaking Up Ivory Towers"
+position: 6002
 date: 2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
-permalink: superglue
+permalink: ivory-towers
 icon: tower.png
 timetoread: 15 min
 excerpt: "While we wanted to embrace diversity, we found it crucial to align on a shared vision on architecture across all departments. In particular, we wanted to prevent positioning of architecture as an ivory tower exercize, disconnected from realities of complex organization."
 
 ---
 ![](assets/images/arch/fantasy-782001_1920.jpg)
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by <a href="https://pixabay.com/users/dlee-271284/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=782001">Donna Kirby</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=782001">Pixabay</a>
+</div>
 
 
 
@@ -33,14 +36,8 @@ As a guiding principle, we promoted a view that senior architects in our organiz
 
 The superglue characteristics mean serving as the organizational connective tissue, linking the "business wheelhouse" and the "engine room."
 
-## Essential Complexity
-
 There are all sources of reason for described tension. Firstly, it is tough to get this product/technology/organizational/business alignment right, and this is one of the main problems of architecture and software engineering. It is "soft" area without clear external constraints, and we are constantly experimenting and changing our domain boundaries. Numerous acquisition (e.g. Leboncoin and Spain) have made such problems worse as you have many completely different architectures and technologies stacks, built by different people that you need to combine in one platform.
 
 Second, legacy structures and monoliths are difficult to change once in place. It can take several years to rebuild a monolith from scratch as a microservices ecosystem. For that reason more pragmatic approach is to gradually "strangulate" monolith by minimizing changes to it , and incrementally extracting pieces of it into separate microservices. But such approach takes years.
 
 Third, there is always some essential tension between system architecture, team organization, and product organization. Ideally these structures would all change at the same time and stay in perfect sync. But in practice these structures change and move with different speeds. For instance, product may quickly take a pivot in another direction, e.g. starting to experiment with payments and other transactional services. If such experiments are successful, it may take months or a year to get teams reorganised to have these new elements as separate domains with clear ownership. And then it may take several years to reorganize code and services to get microservices well aligned with new team structures. In the meantime, the company may acquire two other companies that need to be integrated in the ecosystems, product is already pushing in another direction, and we may have churn of 30%.
-
-## Cover Art
-
-Image by <a href="https://pixabay.com/users/dlee-271284/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=782001">Donna Kirby</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=782001">Pixabay</a>

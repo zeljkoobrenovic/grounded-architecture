@@ -1,7 +1,7 @@
 ---
 layout: post
 section: "Impact"
-title: "Adaptivity"
+title: "Higher Adaptivity"
 endSection: "Impact"
 position: 9004
 date:   2021-10-21 21:12:01 +0100
@@ -13,6 +13,8 @@ excerpt: "The structure of our model allowed for high level of adaptivity of the
 
 ---
 ![](assets/images/arch/child-1864718_1920.jpg)
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+</div>
 
 *“It is not the strongest of the species that survives, nor the most intelligent; it is the one most adaptable to change.”* — Charles Darwin
 
@@ -32,6 +34,7 @@ Lastly, the structure of our architecture model enables a more sustainable archi
 The Figure 1 illustrates the framework that we have used to change the architecure funtion during several big re-organiztions.  
 
 ![](assets/images/org-phases.png)
+Image by <a href="https://pixabay.com/users/feeloona-694250/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1864718">Esi Grünhagen</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1864718">Pixabay</a>
 
 The framweork has three phases: 
 
@@ -44,9 +47,3 @@ In the "Man Overboard" phase, we focused on grounding, both in data and people s
 In the "Turn That Ship Around Phase", the focus shifted on strengthening the central architecture team and focusin it to support implementation of key strategies. The data plafrom was now also used to support diferent scenario analyses and to serve as a feedback mechanism on the impact of transfomrational activiteis.
 
 In the "Full Speed Ahead" phase, the focus was in further strengthening anf fine tuning all the elements, and optimizing ways of working to maximize learning, and alignment.
-
-<br>
-<br>
-<hr>
-
-Image by <a href="https://pixabay.com/users/feeloona-694250/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1864718">Esi Grünhagen</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1864718">Pixabay</a>

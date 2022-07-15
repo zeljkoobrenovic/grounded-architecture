@@ -1,12 +1,11 @@
 ---
 layout: post
-section: "Pragmatics"
-title: "Positioning Archtecture in Organization"
-position: 11003
-endSection: "Pragmatics"
+section: "Lessons Learned"
+title: "Lessons Learned: Positioning Architecture in Organization"
+position: 8004
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
-permalink: positioning
+permalink: lessons-strategy-governance
 icon: positioning.png
 timetoread: 15 min
 excerpt: Overview of the background to probe further. External evidence, supporting and inspiring some of our practices.
@@ -14,6 +13,9 @@ excerpt: Overview of the background to probe further. External evidence, support
 
 ---
 ![](assets/images/arch/architecture-4097265_1920.jpg)
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by <a href="https://pixabay.com/users/652234-652234/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4097265">Hands off my tags! Michael Gaida</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4097265">Pixabay</a>
+</div>
 
 When forming architecture functions, I use as a starting point these [two pieces of advice from Gregor Hohpe](https://architectelevator.com/architecture/organizing-architecture/):
  * "Your architecture team’s job is to solve your biggest problems. The best setup is the one that allows it to accomplish that."
@@ -44,8 +46,3 @@ Another element of flexibility of the grounded architecture originates from the 
 TOGAF
 
 Not against, but insists on grounding in data and people and with engineering bias and pragmatism. Against the ivory tower, but many of the conventional modeling and other tools are useful.
-
-
-## Cover Art
-
-Image by <a href="https://pixabay.com/users/652234-652234/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4097265">Hands off my tags! Michael Gaida</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4097265">Pixabay</a>

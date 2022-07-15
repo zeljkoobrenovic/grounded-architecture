@@ -1,25 +1,31 @@
 ---
 layout: post
 section: "Grounded Architecture"
-title: "People Platform"
+title: "The People Pillar"
 position: 3002
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
-permalink: people
+permalink: people-pillar
 icon: community.png
 timetoread: 15 min
 excerpt: "One of the central premises of our work is that we should not take our architectural talent for granted. Architects are bridging local business, product, organizational, and technology issues. Architects are difficult to hire talent as, to operate correctly, they need in-depth technical knowledge and domain-specific and organizational knowledge."
 
 ---
 ![](assets/images/arch/construction-4939383_1920.jpg)
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by <a href="https://pixabay.com/users/mostafa_meraji-13551092/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4939383">mostafa meraji</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4939383">Pixabay</a>
+</div>
 
 > *”Architecture is not so much about the software, but about the people who write the software. The core principles of architecture, such as coupling and cohesion, aren't about the code. The code doesn't 'care' about how cohesive or decoupled it is; ... But people do care about their coupling to other team members.”* - James O. Coplien
 
 One of the central premises of our work is that we should not take our architectural talent for granted. Architects are bridging local business, product, organizational, and technology issues. Architects are difficult to hire talent as, to operate correctly, they need in-depth technical knowledge and domain-specific and organizational knowledge.
 
-The **People Platform** is another essential element of Grounded architecture. As noted by Gregor Hohpe, to transform an organization, you do not need to solve mathematical equations. You need to move people. Consequently, having a strong network of people doing architecture across the organization is crucial to ensure that architecture function has any tangible impact. In my work in past few years, I was working by combining, in different forms, two teams of architects: a small central architecture team, as well as a cross-organizational distributed virtual team. A central architecture team serves as an enabler for the rest of the organization, helping accelerate strategic transformations. A distributed virtual architecture team consists of architects (or other people making architecture decisions in their teams) working in local organizational units but spending some time (e.g. 10-20%) in a virtual team with peers from other teams. I found that such a distributed virtual architecture team is a crucial element of an architecture function, as it provides the connection (grounding) across the all parts and levels of the organization, increasing the visibility and connections, and making it easier to implement change across the organization. [This section](people) elaborates more on the distributed virtual architecture team.
+The **People Pillar** is an essential element of Grounded Architecture. As noted by Gregor Hohpe, to transform an organization, you do not need to solve mathematical equations. You need to move people. Consequently, having a strong network of people doing architecture across the organization is crucial to ensure that architecture function has any tangible impact.
+![](assets/images/model-people.png)
 
-## Background: Central vs. Federated Architecture Function
+In my work in past few years, I was working by combining, in different forms, two teams of architects: a small central architecture team, as well as a cross-organizational distributed virtual team. A central architecture team serves as an enabler for the rest of the organization, helping accelerate strategic transformations. A distributed virtual architecture team consists of architects (or other people making architecture decisions in their teams) working in local organizational units but spending some time (e.g. 10-20%) in a virtual team with peers from other teams. I found that such a distributed virtual architecture team is a crucial element of an architecture function, as it provides the connection (grounding) across the all parts and levels of the organization, increasing the visibility and connections, and making it easier to implement change across the organization. [This section](people) elaborates more on the distributed virtual architecture team.
+
+## Central and/or Federated Architecture Function
 
 The architecture function generally follows one of two fundamental models: central or federated.
  ([McKinsey 2022](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/tech-forward/crafting-the-optimal-model-for-the-it-architecture-organization)).
@@ -35,16 +41,31 @@ The federated model is more commonly associated with cross-functional DevOps cul
 Today, modern agile organizations mainly adopt the federated model. This approach increases the likelihood that the central architecture team will spend its time closely involved with the challenges identified in the teams. The model ensures that the architects will be evaluated against the goals of the individual products they support, thereby focusing on improving performance and reducing complexity.
 
 
-## Our Federated Model
-
+## The Hybrid Model
 
 To operate in our complex context, we have invested effort to make sure that we have right people at the right places. We have opted for a hybrid organizational morning combining elements of Central and federated orientation structures. Consequently we have free key elements of our people dimension
-* Virtual Architectural Teams (VATs),
 * Central Architectural Teams (CATs), and
+* Virtual Architectural Teams (VATs),
 * A Chief Architect (CA)
 
-![](assets/images/model-people.jpg)
+## Central Architecture Team
 
+In a central teams, we aimed at having a small number (less than 5) of people with droad experience, including hands on technical experiences. People who are well connected in the organization and externally, good communicators, and have a political acumen.
+
+![](assets/images/global-architect-profile.png)
+
+While the roles of people in central teams may differ, in general we aim at the following types of responsibilities:
+* Identify, connect and maintain relationships with all relevant domain stakeholders
+* Domain concept ownership: clarity, communication, resources
+* Promotes data-informed domain decisions: identify, collect, use relevant data about the domain
+* Influence all significant project in the domain (but no project management responsibilities)
+* Internal community building around the domain
+* External thought leadership
+* Vendor relationships and roadmap alignment
+
+Pros:
+
+Cons:
 
 ## Virtual Architecture Team (VAT)
 
@@ -73,25 +94,6 @@ Cons:
 While we have provided some basic support, we found it critical that all communities take initiative and engage as much as possible people during these events. We wanted to prevent people just being passive receivers of information, but to actively engage.
 
 
-## Central Architecture Team
-
-In a central teams, we aimed at having a small number (less than 5) of people with droad experience, including hands on technical experiences. People who are well connected in the organization and externally, good communicators, and have a political acumen.
-
-![](assets/images/global-architect-profile.png)
-
-While the roles of people in central teams may differ, in general we aim at the following types of responsibilities:
-* Identify, connect and maintain relationships with all relevant domain stakeholders
-* Domain concept ownership: clarity, communication, resources
-* Promotes data-informed domain decisions: identify, collect, use relevant data about the domain
-* Influence all significant project in the domain (but no project management responsibilities)
-* Internal community building around the domain
-* External thought leadership
-* Vendor relationships and roadmap alignment
-
-Pros:
-
-Cons:
-
 ## Chief Architect
 
 Lastly, our model has a role of chief architect. The Chief Architect has two main areas of responsibilities:
@@ -99,9 +101,3 @@ Lastly, our model has a role of chief architect. The Chief Architect has two mai
 * working on the most important strategic initiatives: strategix, M&As
 
 ![](assets/images/chief-architect-flexibility.png)
-
-
-<br>
-## [Cover Art]
-
-Image by <a href="https://pixabay.com/users/mostafa_meraji-13551092/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4939383">mostafa meraji</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4939383">Pixabay</a>
