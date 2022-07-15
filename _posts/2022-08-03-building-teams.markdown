@@ -12,7 +12,8 @@ excerpt: While each organization will need it own approach, here are some tips I
 
 
 ---
-![](assets/images/arch/construction-271873_1920.jpg)
+<img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
+     src="assets/images/arch/construction-271873_1920.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/cegoh-94852/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=271873">Jason Goh</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=271873">Pixabay</a>
 </div>

@@ -12,7 +12,8 @@ excerpt: "We want to invest additional efforts to ensure that all parts of the o
 
 ---
 
-<img src="assets/images/superglue/superglue.png" style="width: 100%;">
+<img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
+     src="assets/images/superglue/superglue.png">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 </div>
 

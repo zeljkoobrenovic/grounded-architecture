@@ -11,7 +11,8 @@ timetoread: 15 min
 excerpt: ""
 
 ---
-![](assets/images/arch/drop-of-water-578897_1920.jpg)
+<img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
+     src="assets/images/arch/drop-of-water-578897_1920.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/ronymichaud-647623/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=578897">rony michaud</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=578897">Pixabay</a>
 </div>

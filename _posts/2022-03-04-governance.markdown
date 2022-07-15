@@ -11,7 +11,8 @@ timetoread: 15 min
 excerpt: "We wanted to create a governance model that acknowledges the complexity and diversity of our organization. We aimed at promoting a technology governance model as a well-balanced hybrid of three different ways of governing: mandates and bans, taxes, and leading by context."
 
 ---
-![](assets/images/arch/parliament-366199_1920.jpg)
+<img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
+     src="assets/images/arch/parliament-366199_1920.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/cocoparisienne-127419/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=366199">Anja-#pray for ukraine# #helping hands# stop the war</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=366199">Pixabay</a>
 </div>

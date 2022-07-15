@@ -12,7 +12,8 @@ excerpt: Remember the term “Grounded Architecture” highlights the primary go
 
 
 ---
-![](assets/images/arch/runners-2365067_1920.jpg)
+<img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
+     src="assets/images/arch/runners-2365067_1920.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/farmama-5525727/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2365067">farmama</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2365067">Pixabay</a>
 </div>

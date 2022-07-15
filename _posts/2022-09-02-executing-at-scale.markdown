@@ -12,7 +12,8 @@ excerpt: "One of the main impacts of our hybrid architecture model was ability t
 
 ---
 <div style="text-align: center">
-<img src="assets/images/arch/chicago-6921297_1920.jpg" style="width: 100%">
+<img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
+     src="assets/images/arch/chicago-6921297_1920.jpg">
 Image by <a href="https://pixabay.com/users/anikinearthwalker-21956000/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=6921297">Dimitry Anikin</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=6921297">Pixabay</a>
 </div>
 

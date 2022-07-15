@@ -11,7 +11,8 @@ timetoread: 15 min
 excerpt: "When we have teams of architects, such groups can transform individual experiences into collective knowledge that can benefit the whole organization."
 
 ---
-<img src="assets/images/arch/road-4598095_1920.jpg">
+<img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
+     src="assets/images/arch/road-4598095_1920.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 </div>
 

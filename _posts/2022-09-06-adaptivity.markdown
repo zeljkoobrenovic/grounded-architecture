@@ -12,7 +12,8 @@ timetoread: 15 min
 excerpt: "The structure of our model allowed for high level of adaptivity of the architecture function, needed in fast changing organizations."
 
 ---
-![](assets/images/arch/child-1864718_1920.jpg)
+<img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
+     src="assets/images/arch/child-1864718_1920.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 </div>
 

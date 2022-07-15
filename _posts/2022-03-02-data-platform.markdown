@@ -12,7 +12,8 @@ excerpt: The architecture data pillar serves as a medium to create a complete, u
 
 
 ---
-<img src="assets/images/arch/architecture-1857175_1920.jpg" style="width: 100%">
+<img src="assets/images/arch/architecture-1857175_1920.jpg" 
+style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/3844328-3844328/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1857175">Lorenzo Cafaro</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1857175">Pixabay</a>
 </div>
