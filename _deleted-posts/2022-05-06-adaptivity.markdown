@@ -3,7 +3,7 @@ layout: post
 section: "Impact"
 title: "Higher Adaptivity"
 endSection: "Impact"
-position: 9004
+position: 5004
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 permalink: adaptivity
@@ -37,7 +37,7 @@ The Figure 1 illustrates the framework that we have used to change the architecu
 ![](assets/images/org-phases.png)
 Image by <a href="https://pixabay.com/users/feeloona-694250/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1864718">Esi Grünhagen</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1864718">Pixabay</a>
 
-The framweork has three phases: 
+The framework has three phases: 
 
 * "Man Overboard", immediatelly after a significant reorganization people can fill disoriented.
 * "Turn That Ship Around", a focus period of consolidations and transfomrations

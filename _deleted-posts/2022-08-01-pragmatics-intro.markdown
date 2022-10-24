@@ -2,7 +2,7 @@
 layout: post
 section: "Lessons Learned"
 title: "Lessons Learned Intro"
-position: 8001
+position: 4001
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 permalink: lessons-learned

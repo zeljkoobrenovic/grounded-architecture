@@ -1,7 +1,7 @@
 ---
 layout: post
-section: "Operating Principles"
-title: "Embracing Diversity, Distributing Decisions"
+section: "Principles & Lessons Learned"
+title: "Embrace Diversity, Distribute & Align Decisions"
 position: 6004
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)

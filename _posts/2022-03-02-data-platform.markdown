@@ -102,11 +102,7 @@ Lastly, curation, the act of selecting, organizing, and looking after the data, 
 
 
 
-## How To Build Architecture Data Pillar?
 
-While I do not want to prescribe the best technology, I can tell what I use in daily work. I build most architecture data pillar as single-page web applications, taking data from JSON files hosted on a static web server. I usually use the latest version of Angular and the Material framework in my current work, hosting the app and data via GitHub pages.
-
-See some of [my public tools](https://obren.io/tools) to illustrate how I build such simple web apps.
 
 ## Using Architecture Data Pillar
 
@@ -119,8 +115,18 @@ Architecture data pillar can provide lots of data. Sometimes, as in an ordinary 
 * Do we work on the things we want? We may want to focus more on innovations, but in reality, we may spend too much time on legacy maintenance.
 
 
-## Summary
 
-The architecture data pillar offer an efficient, scalable, and pragmatic way to keep a complete overview of the organizational technology landscape. But as with many tools, they are not the panacea. They need to be a part of processes and activities to impact the organization positively.
+## How To Build Architecture Data Pillar?
 
-I consider the data and transparency, together with architects, to be two main pillars of any technology governance (Figure 6). Data and transparency provide a basis for data-informed decision-making. People and communities enable governance to have an impact ([read more about this pillar in another post](../superglue)). Without these two strong pillars, the architecture becomes an abstract ivory tower exercise.
+While each organization will need it own approach and unique sets of data that you can use, here are some tips I found useful in my approach to form the architecture data platform:
+
+* Start with the source code. My motto is "Talk is expensive. Show me the code." I scan as soon as possible all source code using tools as [Sokrates](https://sokrates.dev). I highly recommend [Sokrates](https://sokrates.dev) as the basis for the data platform, but other simples analyses could also provide good starting point. Modern IT enterprises store almost everything as a code. It is the richest and most up-to-date documentation on most things happening in an IT enterprise.
+* Connect with finance and governance teams to get exports of their data. Cloud billing reports, and data about vibrancy or revenue streams are collected anyway. By extracting more technology oriented data connecting (e.g., public cloud technology usage trends) and connecting them to other data, many new insights may be obtained without starting any new processes or asking people to provide more details. First leverage what you have, squeez all the value from it, then ask people for any missing elements.
+* Use simple and easy to maintain infrastructures. For example, I publish results of Sokrates analyses and other simple data Web apps as static resources in our enterprise GithHub pages. Configuring more complex infrastructure swith complex databases, and backend software resuires more maintenance.
+* Maintain the culture of transparency. It is much simpler an more effecting to share less data with everyone, than to have more data but with a complex authorization.
+* Own the curation. People need to be able to trust your data. Spend enough time to understand data sets, curate them, and ensure presentation consistency. I consider myself to be a master curator and chief UX designer of a data platform.
+* Build maps, not control units. The main inspiration for my work is map-making. As noted by Brené Brown, maps are the one of the most important documents in human history (see [Atlas of the Heart](https://brenebrown.com/book/atlas-of-the-heart/) for a discussion on a mapmaking metaphor). They give us tools to store and exchange knowledge about space and place. While there are differences between maps and layers they show, the one thing that all maps do is provide readers with orientation. A sense of place is central to meaning-making. Maps are also composed from multiple layers. Similalry, the architecture data pillar provides layers of data about our systems, describing their size, connections, quality, security, or human activity.
+
+While I do not want to prescribe the best technology, I can tell what I use in daily work. I build most architecture data pillar as single-page web applications, taking data from JSON files hosted on a static web server. I usually use the latest version of Angular and the Material framework in my current work, hosting the app and data via GitHub pages.
+
+See some of [my public tools](https://obren.io/tools) to illustrate how I build such simple web apps.

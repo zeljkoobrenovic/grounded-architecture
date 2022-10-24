@@ -2,7 +2,7 @@
 layout: post
 section: "Impact"
 title: "Increasing Decision Quality with Data"
-position: 9001
+position: 5001
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 permalink: decisions-quality

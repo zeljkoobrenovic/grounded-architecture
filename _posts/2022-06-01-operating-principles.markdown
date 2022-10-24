@@ -1,12 +1,12 @@
 ---
 layout: post
-section: "Operating Principles"
-title: "Operating Principles Overview"
+section: "Principles & Lessons Learned"
+title: "Principles & Lessons Learned: Intro"
 position: 6000
 date: 2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 permalink: principles
-icon: operating-principles.png
+icon: principles.png
 timetoread: 15 min
 excerpt: "I have identified the following operating principles that can help put these ideas into practice and get things done: Breaking Up Ivory Towers, Strengthening Architectural Muscle Across Organization, and Embracing Diversity, Distributing Decision-Making."
 
@@ -18,6 +18,7 @@ Image by <a href="https://pixabay.com/users/darksouls1-2189876/?utm_source=link-
 </div>
 
 The previous part described the structure and ideas of Grounded Architecture. But thoughts are not enough. They need to be implemented and embedded in daily work in the organization. I have identified the following operating principles that can help put these ideas into practice and get things done:
-* [Breaking Up Ivory Towers: Architects as Superglue](superglue),
-* [Strengthening Architectural Muscle Across Organization](muscle), and
-* [Embracing Diversity, Distributing Decision-Making](diversity).
+* [Architects as Superglue](superglue),
+* [Breaking Up Ivory Towers](ivory-towers),
+* [Embrace Diversity, Distribute & Align Decisions](diversity),
+* [Flexible Governance](governance).

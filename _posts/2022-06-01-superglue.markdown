@@ -1,12 +1,12 @@
 ---
 layout: post
-section: "Operating Principles"
-title: "Strengthening Architectural Muscle: Architects as Superglue"
+section: "Principles & Lessons Learned"
+title: "Architects as Superglue"
 position: 6001
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 permalink: superglue
-icon: muscles.png
+icon: superglue.png
 timetoread: 15 min
 excerpt: "We want to invest additional efforts to ensure that all parts of the organization have proper people to make informed decisions, while keeping a high level of autonomy and accountability. To do this, we defined two subgoals: collectively grow architectural talent, and increase architectural talent density via virtual communities."
 

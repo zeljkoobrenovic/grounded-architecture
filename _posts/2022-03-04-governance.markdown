@@ -20,7 +20,18 @@ Image by <a href="https://pixabay.com/users/cocoparisienne-127419/?utm_source=li
 
 ![](assets/images/model-strategy.png)
 
-## Typical Technology Strategy and Governance Actvities
+In the following sections, we will describe three styles of governance and the role of Data and People platforms in them. In the end, I will also describe some other activities in which the architecture functions I was guiding were involved, again emphasizing the role of Data and People platforms in them.
+
+In general, I would sumarize my appraoch with three principles: 
+* Use Data and People pillars to facilitate data-informed decision-making with broader involvements
+* Be flexible in governance, 
+* Keep enough quality time to work on the most important strategic initiatives
+
+
+
+## Quality Time for Strategic Activities
+
+In addition to governnance activities, 
 
 * Supporting merger and acquisitions (M&A) activities with expertize and analyses
 * Defining vision and direction of technology, frequently in collaboration with CTOs
@@ -28,26 +39,32 @@ Image by <a href="https://pixabay.com/users/cocoparisienne-127419/?utm_source=li
 * Cloud Strategy, Data Strategy, Platform Strategy
 * ...
 
-## Flexible Governance
+When forming architecture functions, I use as a starting point these [two pieces of advice from Gregor Hohpe](https://architectelevator.com/architecture/organizing-architecture/):
+ * "Your architecture team’s job is to solve your biggest problems. The best setup is the one that allows it to accomplish that."
+ * "Your organization has to earn its way to an effective architecture function. You can’t just plug some architects into the current mess and expect it to solve all your problems."
 
-We wanted to create a governance model that acknowledges the complexity and diversity of our organization. By governing, we mean guiding technology choices in the organization in a particular direction aligned with the technology strategies. We tried to prevent a simplistic view of architecture as defining directives for the rest of the organization.
-
-Consequently, we aimed at promoting a technology governance model as a well-balanced hybrid of three different ways of governing:
-* mandates and bans,
-* taxes, and
-* leading by context.
+<br>
+Each organization will have different architectural needs and context.  
 
 
-## Mandates and Bans
+## Connecting Strategy and Implementation Building Blocks
 
-Governing with mandates and bans means defining what people should or should not do. In our context, such mandates and bans have a place to define broader strategic boundaries of choices that people can make. For instance, limiting the usage of public cloud providers to specific vendors or following strict security procedures should be explicitly defined and controlled. The role of architecture in this form of governing should be to participate in defining manates and bans with strategic stakeholders and to create clarity about mandates and bans and create transparency.
+* Be part of defining the strategy, rather than on the execution.
+* Position architecture more towards innovation rather then control.
+* Avoid a pure project-management role.
 
+![](assets/images/triangle.png)
 
-## Taxation
+## In Constant Motion
 
-Governing with taxes is a form of guiding in which people are not forbidden to make some decisions but need to pay some form of taxes on used resources. For instance, costs of the public cloud usage could be cross-charged across the organization, providing a helpful feedback loop to optimize our systems and avoid unnecessary resource consumption, avoiding "tragedy of commons" which frequently happens when there are not limits or significant costs of increasing shared resource consumption (e.g., public cloud budget). The role of architecture in this form of governance should be to create efficient feedback loops on key metrics related to taxes.
+![](assets/images/superglue/strategy-principles-decisions.png)
 
+## Less Control, More Innovation and Strategic Impact
 
-## Leading by Context
+Another element of flexibility of the grounded architecture originates from the possibility to spend more time working on big and important problems rather than with governance. As data platform provides a solid basis to understand the state across the organization, less time is needed to do clerical tasks related to data collection. And as people are encouraged to take initiatives, more governance happens in a distributed manner. The positionin gof architecure as superglue, also enables delegating part of governance to other parts of organization. 
 
-Leading the context is a form of governing in which we do not forbid people to make some choices, nor do they need to pay taxes. Instead, we wanted to create a shared context that can facilitate people making informed decisions. Such contexts should include sharing of lessons learned by others, both good and bad, and places to get feedback on ideas and plans. The role of the architecture in this form of governing should be to create mechanisms for sharing experiences and obtaining feedback on plans and decisions. It should also include mechanisms to capture artifacts that can help people to make informed decisions, such as architecture decision resources (ADRs), principles, golden paths, or best practices.
+![](assets/images/arch-in-context.png)
+
+TOGAF
+
+Not against, but insists on grounding in data and people and with engineering bias and pragmatism. Against the ivory tower, but many of the conventional modeling and other tools are useful.

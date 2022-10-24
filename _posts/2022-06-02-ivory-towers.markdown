@@ -1,12 +1,12 @@
 ---
 layout: post
-section: "Operating Principles"
-title: "Breaking Up Ivory Towers"
+section: "Principles & Lessons Learned"
+title: "In the Eye of the Storm"
 position: 6002
 date: 2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
-permalink: ivory-towers
-icon: tower.png
+permalink: storm
+icon: storm.png
 timetoread: 15 min
 excerpt: "While we wanted to embrace diversity, we found it crucial to align on a shared vision on architecture across all departments. In particular, we wanted to prevent positioning of architecture as an ivory tower exercize, disconnected from realities of complex organization."
 

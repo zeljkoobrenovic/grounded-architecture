@@ -2,7 +2,7 @@
 layout: post
 section: "Impact"
 title: "Maximizing Alignment & Learning"
-position: 9003
+position: 5003
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 permalink: alignment
@@ -16,10 +16,8 @@ excerpt: "When we have teams of architects, such groups can transform individual
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 </div>
 
-<br>
 When we have teams of architects, such groups can transform individual experiences into collective knowledge that can benefit the whole organization.
 
-<br>
 ## Increasing Alignment
 
 Our next goals was to create mechanisms to leverage and accelerate local decision-making while not taking autonomy and accountability for decisions from local units. In particular, we aim to develop global structures that can help people before and after they make an architectural decision:
