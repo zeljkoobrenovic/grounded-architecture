@@ -1,8 +1,8 @@
 ---
 layout: post
-section: "Grounded Architecture"
+section: "Summary"
 title: "Impact of Grounded Architecture"
-position: 5000
+position: 11000
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 permalink: impact
@@ -22,7 +22,7 @@ When Grounded Architecture is in place, it can have a significant positive impac
 * Increasing the Quality of Decision-Making with Data,
 * Executing At Scale,
 * Maximizing Organizational Alignment & Learning, and
-* Higher Adaptivity.
+* High Adaptivity.
 
 The following sections elaborate on these impact categories.
 

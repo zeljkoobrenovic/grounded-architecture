@@ -12,9 +12,9 @@ excerpt: "While we wanted to embrace diversity, we found it crucial to align on 
 
 ---
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
-     src="assets/images/arch/fantasy-782001_1920.jpg">
+     src="assets/images/arch/storm-g90b7263c8_1920.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by <a href="https://pixabay.com/users/dlee-271284/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=782001">Donna Kirby</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=782001">Pixabay</a>
+Image by <a href="https://pixabay.com/users/fiquetdidier1-25748628/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=7018311">Didier</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=7018311">Pixabay</a>
 </div>
 
 

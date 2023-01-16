@@ -49,16 +49,6 @@ The following categories:
 <img src="assets/icons/notes.png" class="icon"><div>reading notes</div>
 </td>
 </tr>
-<tr>
-<td>
-<img src="assets/images/andrew_harmel-law.png" class="book">
-</td>
-<td>
-
- <a href="https://martinfowler.com/articles/scaling-architecture-conversationally.html">Scaling the Practice of Architecture, Conversationally</a> describes a way to do architecture as a series of conversations, driven by a decentralised and empowering decision-making technique, and supported by four learning and alignment mechanisms: Decision Records, Advisory Forum, Team-Sourced Principles, and a Technology Radar.
- 
-</td>
-</tr>
 </table>
 
 ## Sociology, Teams, Leadership
