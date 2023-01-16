@@ -39,7 +39,7 @@ I've always aimed to get reliable data about technology with as much as possible
 
 In the following sections, I give more details on several of these architecture data pillar.
 
-![](assets/images/apps.jpg)
+![](assets/images/apps.png)
 <br>
 **Figure 2:** *Examples of data-driven architecture documents I've built currently use.*
 
