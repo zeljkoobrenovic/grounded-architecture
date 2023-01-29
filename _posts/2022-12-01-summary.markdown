@@ -1,11 +1,11 @@
 ---
 layout: post
 section: "Summary"
-title: "Take-Away Message"
+title: "Summary: Key Take-Away Message"
 position: 12000
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
-permalink: intro
+permalink: summary
 icon: take-away.png
 timetoread: 15 min
 excerpt: This series of articles generalize my lessons learned while running an architecture function in global, fast-moving organizations, based on my experience as a Chief Architect at AVIV Group, eBay Classifieds, and Adevinta.
