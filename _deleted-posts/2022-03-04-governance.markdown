@@ -23,16 +23,47 @@ Each organization will have different architectural needs and context. When form
 
 ![](assets/images/model-strategy.png)
 
-Having in mind the previous two points, each organization will need to find set of activities and operating model to enable architecture to work on most important problems. Here are some examples of activities that I've been a part of in organizations I led Architecture functions:
-* Supporting teams in their daily work
-* Supporting planned new initiatives and projects
-* Supporting teams in dealing with legacy landscape
-* Tracking tech debt, defining tech debt reduction programs
-* Technical due diligences
-* Standardization of processes and documentation
+Having in mind the previous two points, each organization will need to find set of activities and operating model to enable architecture to work on most important problems.
+
+
+
+## Connecting Strategy and Implementation Building Blocks
+
+The biggest issues that many organization face is not a lack of business strategy nor the lack of developers and technology resources. Rather, the main problem is that these two elements are frequently note explicitelly connected.
+
+Activities: Planned Initiatives Support	
+Activities: Ad-Hoc Activites	
+Activities: New Planning Cycle Support
+Activities: Other AVIV Activities
+Activities: WL Capabilities Map Definition	83 items
+Activities: Important Regular Meetings	18 items
+Activities: Legacy Projects Knowledge Support
+Activities: Strategic Recommendations
+Activities: Technical Due Diligences
+Activities: Design Authority
+
+![](assets/images/triangle.png)
+
+
+![](assets/images/arch/architecture-system.png)
+
+## Less Control, More Innovation and Strategic Impact
+
+Another element of flexibility of the grounded architecture originates from the possibility to spend more time working on big and important problems rather than with governance. As data platform provides a solid basis to understand the state across the organization, less time is needed to do clerical tasks related to data collection. And as people are encouraged to take initiatives, more governance happens in a distributed manner. The positionin gof architecure as superglue, also enables delegating part of governance to other parts of organization. 
+
+![](assets/images/arch-in-context.png)
+
+## Supporting Key Strategic Activities
+
+In addition to governance activities, 
+
 * Supporting merger and acquisitions (M&A) activities with expertize and analyses
 * Defining vision and direction of technology, frequently in collaboration with CTOs
 * Performing SWOT and other analyses of platforms and system
-* Defining Cloud, Data, and Platform strategies
+* Cloud Strategy, Data Strategy, Platform Strategy
+* ...
 
-In all of these activities, data and people pillars provide foundations for data-informed decision-making that is well-embedded in tbe organization.
+
+
+<br>
+

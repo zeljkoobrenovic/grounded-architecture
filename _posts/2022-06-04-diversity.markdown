@@ -32,3 +32,14 @@ As a part of distributed decision-making goal, we also wanted to embrace archite
 
 We wanted to make explicit that every unit needs to have some attention or ways of making architectural decisions rather than having them simply happen. If no one is consciously performing the task of architecture, the result is often excessive complexity and reduced velocity, meaning the teams come to a grinding halt.
 
+Inspired by Gregor Hohpe's model, I tried to apply the following model:
+
+![](assets/images/arch/architecture-system.png)
+
+* Most of the decisions should dbe mad by individual teams, who should be a part of the people pillar via different communities, such as architecture guilds
+* Architecture function should provide 
+  * data to inform these decisions via data platform
+  * decisions boundaries to enable minimal level of compatibility and strategic alignment (e.g., cloud provider)
+  * principles to facilitate consistency in decision-making
+* Global architects should then spend their time in constant motion between daily work of the teams and strategic topics, helping organization to achieve alignment between strategy and implementation
+
