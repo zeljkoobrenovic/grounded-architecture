@@ -1,7 +1,7 @@
 ---
 layout: post
 section: "Summary"
-title: "Summary: Key Take-Away Message"
+title: "Summary: Key Take-Away Messages"
 position: 12000
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
@@ -16,10 +16,10 @@ excerpt: This series of articles generalize my lessons learned while running an 
 Image by <a href="https://pixabay.com/users/yuri_b-2216431/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3173047">Yuri</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3173047">Pixabay</a>
 </div>
 
-In this collection of articles, I explained my approach to running an architecture practice in bigger organizations. I called this approach "grounded architecture," highlighting the need for any architecture function to stay well-connected to all levels of an organization and led by data. The following figure illustrates the Grounded Architecture model, consisting of three elements:
+In this collection of articles, I explained my approach to running an architecture practice in bigger organizations. I called this approach "grounded architecture," highlighting the need for any architecture function to stay well-connected to all levels of an organization and led by data. The Grounded Architecture model consists of three elements:
 * The Data Pillar,
 * The People Pillar,
-* The Strategy and Governance Platform.
+* The Architecture Activities Platform.
 
 ![](assets/images/model.png)
 
@@ -27,22 +27,23 @@ The *Data Pillar* ensures that decisions architects can make data-informed decis
 
 The *People Pillar* is another essential elements of Grounded Architecture. A strong network of people doing architecture across the organization is crucial to ensure that architecture function has any tangible impact.
 
-Lastly, the *Strategy and Governance Platform* leverages data and people to create a data-informed, deep, and broad impact.
+Lastly, the *Architecture Activities Platform* leverages data and people to create a data-informed, deep, and broad impact.
 
-I have identified the following operating principles that can help put these ideas into practice and get things done:
+I have identified the following [guiding principles](principles) that can help put these ideas into practice and get things done:
 * [Architects as Superglue](superglue),
 * [Breaking Up Ivory Towers](ivory-towers),
 * [Embrace Diversity, Distribute & Align Decisions](diversity),
 * [Flexible Governance](governance).
 
-When Grounded Architecture is in place, it can have a significant positive impact on the functioning of an organization:
+When Grounded Architecture is in place, it can have a significant [positive impact](impact) on the functioning of an organization:
 
-* Increasing the Quality of Decision-Making with Data,
-* Executing At Scale,
-* Maximizing Organizational Alignment & Learning, and
-* Higher Adaptivity.
+* Increase Architecture Function Adaptivity,
+* Increase the Quality of Decision-Making with Data,
+* Enable Execution of Architecture Function At Scale,
+* Maximize Organizational Alignment,
+* Maximize Organizational Learning.
 
-Remember that while you may borrow some ideas from my approach, in the end every organization is different and your approach will need to adapt to your context. When forming architecture functions, I always advice not to forget these [two pieces of advice from Gregor Hohpe](https://architectelevator.com/architecture/organizing-architecture/):
+Remember that while you may borrow ideas from others, in the end every organization is different and your approach will need to adapt to your context. When forming architecture functions, I always advice not to forget these [two pieces of advice from Gregor Hohpe](https://architectelevator.com/architecture/organizing-architecture/):
  * "*Your architecture team’s job is to solve your biggest problems. The best setup is the one that allows it to accomplish that.*"
  * "*Your organization has to earn its way to an effective architecture function. You can’t just plug some architects into the current mess and expect it to solve all your problems.*"
 

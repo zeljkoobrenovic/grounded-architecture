@@ -1,6 +1,6 @@
 ---
 layout: post
-section: "Principles & Lessons Learned"
+section: "Guiding Principles"
 title: "Architects as Superglue"
 position: 6001
 date:   2021-10-21 21:12:01 +0100
@@ -8,7 +8,7 @@ author: by Željko Obrenović (obren.io)
 permalink: superglue
 icon: superglue.png
 timetoread: 15 min
-excerpt: "We want to invest additional efforts to ensure that all parts of the organization have proper people to make informed decisions, while keeping a high level of autonomy and accountability. To do this, we defined two subgoals: collectively grow architectural talent, and increase architectural talent density via virtual communities."
+excerpt: "Architects in IT organizations should develop as “superglue.” people who hold architecture, technical details, business needs, and people together across a large organization or complex projects."
 
 ---
 
@@ -17,15 +17,19 @@ excerpt: "We want to invest additional efforts to ensure that all parts of the o
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 </div>
 
+The People Pillar part of grounded architecture considers the people the central and the essential part of architecture activities. In other words, Strong Architecture = Strong Architects. Developing architecture as a discipline in an IT organization requires having competent, empowered, and motivated architects.
 
-Our next goal was to strengthen the architecture muscle across the organization. We want to invest additional efforts to ensure that all parts of the organization have proper people to make informed decisions, while keeping a high level of autonomy and accountability. To do this, we defined two subgoals:
-* collectively grow architectural talent, and
-* increase architectural talent density via virtual communities.
+<blockquote style="font-size: 150%; margin-top: 42px; margin-bottom: 42px;">
+Strong Architecture = Strong Architects.
+</blockquote>
 
+I found that Grounded Architecture is more effective if architects being a part of People Pillar view themselves as “superglue.” I borrow this view from Adam Bar-Niv and Amir Shenhav from Intel. They pointed out that instead of the superhero, we need “superglue” architects - people who hold architecture, technical details, business needs, and people together across a large organization or complex projects.
 
-#### Growing Individual Architectural Talent
+The superglue characteristics mean serving as the organizational connective tissue, linking the “business wheelhouse” and the “engine room.” Architects, of course, need to be technically strong. But their unique strengths should stem from being able to relate, or glue, technical issues with business and broader issues.
 
-The superglue characteristics we use defined as a view on the function of architecture, mean serving as the organizational connective tissue, linking the "business wheelhouse" and the "engine room." In terms of individual architects, we expected them to be technically strong but their unique strengths should stem from being able to relate, or glue, technical issues with business and broader issues.
+<blockquote style="font-size: 150%; margin-top: 42px; margin-bottom: 42px;">
+Architects, of course, need to be technically strong. But their unique strengths should stem from being able to relate technical issues with business and broader issues.
+</blockquote>
 
 From discussions I've had with our technology leaders, engineers, architects, the picture below has crystallized as a representation of the "superglue" metaphor for architects (Figure 1).
 
@@ -34,7 +38,7 @@ From discussions I've had with our technology leaders, engineers, architects, th
 
 IT organizations need persons who look broader, linking architecture, technical details, business needs, and people together. These persons may not necessarily have a title of an architect. But they need to have good working relationships with developer teams and the local business stakeholders and functions. Simultaneously, such a person is well connected with the internal communities and has external visibility. They promote what we are doing, and on the other hand, they bring back the ideas from the outside.
 
-Setting the architects' goals to be "superglue" also requires some thought on developing as a superglue. Borrowing from Gregor Hohpe's view on architect development from his book Software Architecture Elevator, I share the view that our architects should stand on three legs:
+Setting the architects' goals to be "superglue" also requires some thought on developing architects as a superglue. Borrowing from Gregor Hohpe's view on architect development from his book Software Architecture Elevator, I share the view that our architects should stand on three legs:
 
 * Skills
 * Impact
@@ -51,13 +55,4 @@ Setting the architects' goals to be "superglue" also requires some thought on de
 
 Architects need to have minimal "length" of all of these "legs" to be successful. For instance, having skills and impact without leadership frequently leads to hitting a glass ceiling. Such architects plateau at an intermediate level and cannot lead the company to innovative or transformative solutions. Leadership without impact lacks foundation and may signal that you have become an ivory tower architect with a weak relation to reality.
 
-In all scenarios, it is crucial for an organization that a senior architect mentors junior architects. Feedback cycles in (software) architecture are inherently slow. Mentoring can save new architects many years of learning by doing and making mistakes [Hohpe 2020]. We looked at multiple opportunities to create coaching opportunities.
-
-#### Increasing Talent Density Via Virtual Communities
-
-With our goal of distributed decision-making, architects are always a part of some team, where they may be the only architects. We wanted to create spaces and opportunities for architects from all units to collaborate globally with architects in other units.
-
-More specifically, we wanted to create virtual architecture teams as peer-to-peer communities, working part-time on shared issues. We wnated to support and make architects collectively responsible for identifying and growing architectural talent, mentoring, and helping each other. We wanted to create vibrant, diverse communities where architects can leverage and build on each other's work.
-
-![](assets/images/superglue/community.png)
-***Figure 1:** Architects work together as community of peers helping each other in their architectural activities.*
+In all scenarios, it is crucial for an organization that a senior architect mentors junior architects. Feedback cycles in (software) architecture are inherently slow. Mentoring can save new architects many years of learning by doing and making mistakes [Hohpe 2020]. The [People Pillar](people-pillar) should create spaces for such coaching and collaborations.

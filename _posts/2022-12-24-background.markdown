@@ -29,13 +29,8 @@ Image by <a href="https://pixabay.com/users/olivergotting-18505948/?utm_source=l
     }
 </style>
 
-
-The following categories:
-* Existing Work in the IT Architecture Field
-* Existing Work for Sociology
-* Common ground we expect people to have
-
-## Mandatory Readings
+<br>
+## Introduction
 
 <table>
 <tr>
@@ -46,7 +41,68 @@ The following categories:
 <b>The Software Architect Elevator: Redefining the Architect's Role</b> by Gregor Hohpe defines architects as people that can fill an important void in large enterprises: they work and communicate closely with technical staff on projects, but are also able to convey technical topics to upper management without losing the essence of the message. Conversely, they understand the company’s business strategy and can translate it into technical decisions that support it.
 </td>
 <td style="font-size: 50%; line-height: 12px; text-align: center">
+<div>
+<a target="_blank" href="https://obren.io/tools/catalogs/index.html?id=it-37-things">
+<img src="assets/icons/notes.png" class="icon"><div>summary</div>
+</a>
+</div>
+<div>
+<a target="_blank" href="https://obren.io/tools/reading-notes-pro/notes/The%20Software%20Architect%20Elevator_%20Redefining%20the%20Architect's%20Role%20in%20the%20Digital%20Enterprise-Notebook.pdf">
 <img src="assets/icons/notes.png" class="icon"><div>reading notes</div>
+</a>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<img src="assets/images/books/spotify.png" class="book">
+</td>
+<td>
+<b>SE Radio: On Architecture</b>: for those interested in IT Architecture, I've created a curated Spotify playlist of Software Engineering Radio Episodes focusing on Architecture.
+</td>
+<td style="font-size: 50%; line-height: 12px; text-align: center">
+<div>
+<a target="_blank" href="https://open.spotify.com/playlist/7GVD86edcILnVPjsZFTy28?si=f44d0bef360e4818">
+<img src="assets/icons/playlist.png" class="icon"><div>playlist</div>
+</a>
+</div>
+</td>
+</tr>
+</table>
+
+## Tools
+
+<table>
+<tr>
+<td style="width: 80px">
+<img src="assets/images/books/sokrates.png" class="book">
+</td>
+<td>
+<b>Sokrates</b>: Sokrates is a tool built I built to implement my vision on how to document and analyze software architectures of complex systems.
+Sokrates is provides a pragmatic, inexpensive way to extract rich data from any source code repositories.
+Sokrates can help you to understand your code by making visible the size, complexity, and coupling of software, as well all people interactions and team topologies.
+</td>
+<td style="font-size: 50%; line-height: 12px; text-align: center">
+<div>
+<a target="_blank" href="https://sokrates.dev">
+<img src="assets/icons/web.png" class="icon"><div>sokrates.dev</div>
+</a>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<img src="assets/images/books/productivity_tools.png" class="book">
+</td>
+<td>
+<b>Tools</b>: a collection of online tools I built to help me in my daily work as architect. I reuse these tools and lessons learned in building these tools when designing data pillar parts of grounded architecture.
+</td>
+<td style="font-size: 50%; line-height: 12px; text-align: center">
+<div>
+<a target="_blank" href="https://obren.io/tools">
+<img src="assets/icons/web.png" class="icon"><div>obren.io/tools</div>
+</a>
+</div>
 </td>
 </tr>
 </table>
@@ -60,6 +116,32 @@ The following categories:
 <td>
 <b>Team Topologies</b> by Manuel Pais and Matthew Skelton describes four foundamental topologies (stream-aligned teams, enabling teams, complicated subsystem teams, and platform teams), and three fundamental interacition modes (collaboration, X-as-a-Service, and facilitation).
 </td>
+<td style="font-size: 50%; line-height: 12px; text-align: center">
+<a target="_blank" href="https://obren.io/tools/reading-notes-pro/notes/Team%20Topologies_%20Organizing%20Business%20and%20Technology%20%20Teams%20for%20Fast%20Flow-Notebook.pdf">
+<img src="assets/icons/notes.png" class="icon"><div>reading notes</div>
+</a>
+</td>
+</tr>
+
+<tr>
+<td>
+<img src="assets/images/books/culture-maps.jpeg" class="book" style="border: 1px solid lightgrey">
+</td>
+<td>
+<b>The Culture Map: Decoding How People Think, Lead, and Get Things Done Across Cultures</b>: provides a framework for handling intercultural differences in business and illustrates how different cultures perceive the world. Awareness of intercultural diferences is crucial for success of an architect in an international setting. It helps us understand these differences, and in doing so improves our ability to react to certain behaviors that might have once seemed strange.
+</td>
+<td style="font-size: 50%; line-height: 12px; text-align: center">
+<div>
+<a target="_blank" href="https://obren.io/tools/reading-notes-pro/notes/The%20Culture%20Map%20(INTL%20ED)_%20Decoding%20How%20People%20Think_%20%20Lead_%20and%20Get%20Things%20Done%20Across%20Cultures-Notebook.pdf">
+<img src="assets/icons/notes.png" class="icon"><div>reading notes</div>
+</a>
+</div>
+<div>
+<a target="_blank" href="https://docs.google.com/presentation/d/1yn-IHK9iXJ1Qgxj_uw16WKQ1Qp9uXKGSSUbJg0xT9eE/edit#slide=id.p">
+<img src="assets/icons/notes.png" class="icon"><div>summary</div>
+</a>
+</div>
+</td>
 </tr>
 
 <tr>
@@ -69,13 +151,24 @@ The following categories:
 <td>
 <b>Nudge</b> by Richard Thaler draws on research in psychology and behavioral economics to define libertarian paternalism as an active engineering of choice architecture. The book also popularised the concept of a nudge, a choice architecture that alters people's behaviour in a predictable way without restricting options or significantly changing their economic incentives.
 </td>
+<td style="font-size: 50%; line-height: 12px; text-align: center">
+<a target="_blank" href="">
+<img src="assets/icons/notes.png" class="icon"><div>reading notes</div>
+</a>
+</td>
 </tr>
+
 <tr>
 <td>
 <img src="assets/images/books/no-rules-rules.webp" class="book">
 </td>
 <td>
-<b>No Rules Rules</b> by Erin Meyer and Reed Hastings provides insights in Netflix culture. Relevanmt for our appraoch, we used the idea that when you give low-level employees access to information that is generally reserved for high-level executives, they get more done on their own. They work faster without stopping to ask for information and approval. They make better decisions without needing input from the top.
+<b>No Rules Rules</b> by Erin Meyer and Reed Hastings provides insights in Netflix culture. When you give low-level employees access to information that is generally reserved for high-level executives, they get more done on their own. They work faster without stopping to ask for information and approval. They make better decisions without needing input from the top.
+</td>
+<td style="font-size: 50%; line-height: 12px; text-align: center">
+<a target="_blank" href="https://obren.io/tools/reading-notes-pro/notes/No%20Rules%20Rules_%20Netflix%20and%20the%20Culture%20of%20Reinvention-Notebook.pdf">
+<img src="assets/icons/notes.png" class="icon"><div>reading notes</div>
+</a>
 </td>
 </tr>
 <tr>
@@ -84,6 +177,11 @@ The following categories:
 </td>
 <td>
 <b>Dare To Lead</b> by Brene Brow, defines a leader is anyone who takes responsibility for finding the potential in people and processes and has the courage to develop that potential.
+</td>
+<td style="font-size: 50%; line-height: 12px; text-align: center">
+<a target="_blank" href="https://obren.io/tools/reading-notes-pro/notes/Dare%20to%20Lead_%20Brave%20Work_%20Tough%20Conversations_%20Whole%20%20Hearts_-Notebook.pdf">
+<img src="assets/icons/notes.png" class="icon"><div>reading notes</div>
+</a>
 </td>
 </tr>
 </table>
@@ -98,7 +196,12 @@ This section is heavily influnced by Gregor Hohpe's article [The Architect’s P
 <img src="assets/images/books/clean-code.jpeg" class="book">
 </td>
 <td>
-<b>Clean Code</b> by “Uncle” Bob Martin. Good software starts with good code, and good code is clean. Here we start with the basics of naming, functions that do one thing well, and formatting.
+<b>Clean Code</b> by Bob Martin. Good software starts with good code, and good code is clean. The basics of naming, functions that do one thing well, and formatting.
+</td>
+<td style="font-size: 50%; line-height: 12px; text-align: center">
+<a target="_blank" href="https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29">
+<img src="assets/icons/notes.png" class="icon"><div>summary</div>
+</a>
 </td>
 </tr>
 
@@ -107,7 +210,12 @@ This section is heavily influnced by Gregor Hohpe's article [The Architect’s P
 <img src="assets/images/books/refactoring.jpeg" class="book">
 </td>
 <td>
-<b>Refactoring</b> by Martin Fowler. Good software doesn’t just happen - it evolves, gains entropy, and is then restructured. The book’s subtitle reveals that this is a book about design.
+<b>Refactoring: Improving the Design of Existing Code</b> by Martin Fowler. Good software evolves, gains entropy, and is then restructured. Refactoring is a disciplined technique for restructuring an existing body of code, altering its internal structure without changing its external behavior.
+</td>
+<td style="font-size: 50%; line-height: 12px; text-align: center">
+<a target="_blank" href="https://refactoring.com/">
+<img src="assets/icons/web.png" class="icon"><div>website</div>
+</a>
 </td>
 </tr>
 
@@ -117,7 +225,12 @@ This section is heavily influnced by Gregor Hohpe's article [The Architect’s P
 </td>
 <td>
 
-<b>Design Patterns</b> by Gamma, Helm, Johnson, Vlissides. Going ever so slightly more abstract, design patterns help us make balanced decisions on the design of our code. This title must be close to 1/2 million copies sold by now.
+<b>Design Patterns</b> by Gamma, Helm, Johnson, Vlissides. Design patterns help us make balanced decisions on the design of our code.
+</td>
+<td style="font-size: 50%; line-height: 12px; text-align: center">
+<a target="_blank" href="https://refactoring.guru/design-patterns/catalog">
+<img src="assets/icons/notes.png" class="icon"><div>summary</div>
+</a>
 </td>
 </tr>
 
@@ -127,7 +240,7 @@ This section is heavily influnced by Gregor Hohpe's article [The Architect’s P
 </td>
 <td>
 
-<b>Building Microservices</b> (2nd Edition) by Sam Newman is really a book about architectural trade-offs and considerations in distributed system design rather than a pitch for one specific solution. That’s why it’s a great book for architects. It’s also very accessible.
+<b>Building Microservices</b> (2nd Edition) by Sam Newman is a book about architectural trade-offs and considerations in distributed system design. Very accessible.
 </td>
 </tr>
 
@@ -137,8 +250,14 @@ This section is heavily influnced by Gregor Hohpe's article [The Architect’s P
 </td>
 <td>
 
-<b>Fundamentals of Software Architecture</b> by Neal and Mark, although also covering soft skills, dedicates the majority of the book to modularity, component-based thinking, and architectural styles. Just what an architect needs to wire things together in the right way.
+<b>Fundamentals of Software Architecture</b> by Neal and Mark, covers soft skills, modularity, component-based thinking, and architectural styles.
 </td>
+<td style="font-size: 50%; line-height: 12px; text-align: center">
+<a target="_blank" href="http://fundamentalsofsoftwarearchitecture.com/images.html">
+<img src="assets/icons/web.png" class="icon"><div>website</div>
+</a>
+</td>
+
 </tr>
 
 <tr>
@@ -147,7 +266,12 @@ This section is heavily influnced by Gregor Hohpe's article [The Architect’s P
 </td>
 <td>
 
-<b>Enterprise Integration Patterns</b> is still relevant 17 years after publication (OK, minus the funny MSMQ examples and Java 1.4) for anyone trying to connect systems without coupling them too tightly. Several modern examples are available on-line.
+<b>Enterprise Integration Patterns</b> for anyone trying to connect systems without coupling them too tightly.
+</td>
+<td style="font-size: 50%; line-height: 12px; text-align: center">
+<a target="_blank" href="https://www.enterpriseintegrationpatterns.com/patterns/messaging/index.html">
+<img src="assets/icons/web.png" class="icon"><div>website</div>
+</a>
 </td>
 </tr>
 
@@ -157,7 +281,7 @@ This section is heavily influnced by Gregor Hohpe's article [The Architect’s P
 </td>
 <td>
 
-<b>Pattern-Oriented Software Architecture</b>—inching towards conceptual, this tome from the same “POSA” series is a tougher read, but is one of the most comprehensive references for distributed system design.
+<b>Pattern-Oriented Software Architecture</b>: one of the most comprehensive references for distributed system design.
 </td>
 </tr>
 
@@ -167,7 +291,7 @@ This section is heavily influnced by Gregor Hohpe's article [The Architect’s P
 </td>
 <td>
 
-<b>Just Enough Software Architecture</b> by George Fairbanks is a very approachable, yet quite comprehensive title that’ll make a good addition to any architect’s bookshelf.
+<b>Just Enough Software Architecture</b> by George Fairbanks is an approachable and comprehensive book.
 </td>
 </tr>
 
@@ -177,7 +301,7 @@ This section is heavily influnced by Gregor Hohpe's article [The Architect’s P
 </td>
 <td>
 
-<b>Software Systems Architecture</b> by Nick and Eóin covers a similar scope to George with a slightly stronger emphasis on viewpoints and perspectives. Written by hands-on architects, it shares pearls of wisdom on most every page. The only suggestion for improvement would be to condense the content down a tiny bit—almost 700 pages require a lot of discipline and patience.
+<b>Software Systems Architecture</b> by Nick and Eóin is a practitioner-oriented guide to designing and implementing effective architectures for information systems.
 </td>
 </tr>
 
@@ -187,7 +311,7 @@ This section is heavily influnced by Gregor Hohpe's article [The Architect’s P
 </td>
 <td>
 
-<b>Technology Strategy Patterns</b> by Eben Hewitt is a nice catalog of all the stuff that appears in consultants’ fancy slide decks that you as an architect afterwards have to deal with. So, it behooves you to understand what’s going on there.
+<b>Technology Strategy Patterns</b> by Eben Hewitt provides a shared language—in the form of repeatable, practical patterns and templates—to produce great technology strategies.
 </td>
 </tr>
 
@@ -197,7 +321,7 @@ This section is heavily influnced by Gregor Hohpe's article [The Architect’s P
 </td>
 <td>
 
-<b>The Phoenix Project</b> and it’s buddy The Unicorn Project</b> by Gene Kim and his tribe are standard reading to better understand the interface between business and IT and what can all go wrong there.
+<b>The Phoenix Project</b> and The Unicorn Project by Gene Kim The Phoenix Project is a best-selling novel about DevOps. The book's characters reveal through their actions why it's so important for organizations to put security first and tear down the silos that have traditionally existed between development and operations teams.
 </td>
 </tr>
 
@@ -207,7 +331,7 @@ This section is heavily influnced by Gregor Hohpe's article [The Architect’s P
 </td>
 <td>
 
-<b>Continuous Delivery</b>—software comes into being because it is being delivered. If you are concerned with rate of change, this is something you’d want to be doing continuously. This book just celebrated its 10th anniversary and is as relevant as ever.
+<b>Continuous Delivery</b>— through automation of the build, deployment, and testing process, and improved collaboration between developers, testers, and operations, delivery teams can get changes released in a matter of hours-sometimes even minutes-no matter what the size of a project or the complexity of its code base. 
 </td>
 </tr>
 
@@ -219,6 +343,13 @@ This section is heavily influnced by Gregor Hohpe's article [The Architect’s P
 
 <b>Accelerate</b>—acceleration is the second derivative of position (speed being the first), so if you want to move faster you need to accelerate. Sometimes, you need to jerk the system a bit, which in fact the proper term for the third derivative.
 </td>
+<td style="font-size: 50%; line-height: 12px; text-align: center">
+<div>
+<a target="_blank" href="https://obren.io/tools/catalogs/?id=design-tactics-high-performing-technology-organizations">
+<img src="assets/icons/notes.png" class="icon"><div>summary</div>
+</a>
+</div>
+</td>
 </tr>
 
 <tr>
@@ -226,7 +357,6 @@ This section is heavily influnced by Gregor Hohpe's article [The Architect’s P
 <img src="assets/images/books/evolutionary-achitectures.jpeg" class="book">
 </td>
 <td>
-
 <b>Building Evolutionary Architectures</b> describes how to use fitness functions to guide architectural change over time. I thought the authors could have gotten a bit more our of this topic - perhaps we’ll see a second edition.
 </td>
 </tr>
@@ -238,6 +368,11 @@ This section is heavily influnced by Gregor Hohpe's article [The Architect’s P
 <td>
 
 <b>Software Architecture for Developers</b> by Simon Brown is a practical, pragmatic and lightweight guide to software architecture, specifically aimed at software developers.
+</td>
+<td style="font-size: 50%; line-height: 12px; text-align: center">
+<a target="_blank" href="https://softwarearchitecturefordevelopers.com/">
+<img src="assets/icons/web.png" class="icon"><div>website</div>
+</a>
 </td>
 </tr>
 
@@ -287,6 +422,11 @@ This section is heavily influnced by Gregor Hohpe's article [The Architect’s P
 </td>
 <td>
 <b>Thinking in Systems</b> by Donella Meadows describes a system is more than the sum of its parts. It may exhibit adaptive, dynamic, goal-seeking, self-preserving, and sometimes evolutionary behavior.
+</td>
+<td style="font-size: 50%; line-height: 12px; text-align: center">
+<a target="_blank" href="https://obren.io/tools/reading-notes-pro/notes/Thinking%20in%20Systems_%20International%20%20Bestseller-Notebook.pdf">
+<img src="assets/icons/notes.png" class="icon"><div>reading notes</div>
+</a>
 </td>
 </tr>
 </table>

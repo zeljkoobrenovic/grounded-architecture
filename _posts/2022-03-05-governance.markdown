@@ -1,14 +1,14 @@
 ---
 layout: post
 section: "Grounded Architecture"
-title: "Tech Strategy and Governance Platform"
-position: 3004
+title: "Architecture Activities Platform"
+position: 3006
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
-permalink: strategy
+permalink: activities-platform
 icon: goals.png
 timetoread: 15 min
-excerpt: "We wanted to create a governance model that acknowledges the complexity and diversity of our organization. We aimed at promoting a technology governance model as a well-balanced hybrid of three different ways of governing: mandates and bans, taxes, and leading by context."
+excerpt: "Here are some examples of activities that I've been a part of in organizations I led Architecture functions: supporting teams in their daily work; tracking tech debt, defining tech debt reduction programs; performing technical due diligence; standardization of processes and documentation; defining Cloud, Data, and Platform strategies."
 
 ---
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
@@ -23,16 +23,17 @@ Each organization will have different architectural needs and context. When form
 
 ![](assets/images/model-strategy.png)
 
-Having in mind the previous two points, each organization will need to find set of activities and operating model to enable architecture to work on most important problems. Here are some examples of activities that I've been a part of in organizations I led Architecture functions:
+Considering the previous two points from Gregor Hohpe, each organization must find activities and operating models to enable architecture to work on the most important problems. Here are some examples of activities that I've been a part of in organizations I led Architecture functions:
+* Design mechanisms for teams to make better decisions 
 * Supporting teams in their daily work
 * Supporting planned new initiatives and projects
 * Supporting teams in dealing with legacy landscape
 * Tracking tech debt, defining tech debt reduction programs
-* Technical due diligences
+* Performing technical due diligence
 * Standardization of processes and documentation
-* Supporting merger and acquisitions (M&A) activities with expertize and analyses
+* Supporting merger and acquisitions (M&A) activities with expertise and analyses
 * Defining vision and direction of technology, frequently in collaboration with CTOs
 * Performing SWOT and other analyses of platforms and system
 * Defining Cloud, Data, and Platform strategies
 
-In all of these activities, data and people pillars provide foundations for data-informed decision-making that is well-embedded in tbe organization.
+In all of these activities, data and people pillars provide foundations for data-informed decision-making well-embedded in the organization.

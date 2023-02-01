@@ -20,9 +20,9 @@ Image by <a href="https://pixabay.com/users/paulbr75-2938186/?utm_source=link-at
 
 > *"My purpose is to exhibit philosophy as an integral part of social and political life: not as the isolated speculations of remarkable individuals, but as both an effect and a cause of the character of the various communities in which different systems flourished."* --Berrand Russel, The History of Western Philosophy
 
-To better understand any idea or solution, it is crucial to understand the context in which these ideas developed. My approach to creating a running an architecture function is not an abstract idea. Instead, it is the generalization of many lessons learned while solving specific problems in a particular context.
+To better understand any idea or solution, it is crucial to understand the context in which these ideas developed. My approach to creating and running an architecture function is not an abstract idea. Instead, it is the generalization of many lessons learned while solving specific problems in a particular context.
 
-The work I present here reflects my as a Chief Architect at AVIV Group, eBay Classifieds, and Adevinta. After a year of working for eBay Classifieds, Adevinta and eBay Classifieds merged, where I continued the same work on a bigger scale. In this section, we discuss critical characteristics of the organizational context that have had an impact on my definition of the grounded architecture approach:
+The work I present here reflects my experiences as a Chief or Principal Architect at AVIV Group, eBay Classifieds, and Adevinta. In this section, I discuss critical characteristics of the organizational context that have had an impact on my definition of the grounded architecture approach:
 * **global scale**: operating across multiple countries and continents
 * **decentralized, loosely-coupled organizational units**: organizational units are decentralized and have significant autonomy, while central functions exist but are limited (everyone is a minority)
 * **multi-dimensional diversity**: due to historical reasons, the organizations I worked in were very diverse at all levels, including customer base, workforce, business model, team topologies, technology stacks
@@ -30,26 +30,23 @@ The work I present here reflects my as a Chief Architect at AVIV Group, eBay Cla
 * **synergies and transformation pressures**: our organizations wanted to exploit the benefits from the economies of scale and reduce duplication of efforts
 
 
-In the following sub-sections, I discuss these characteristics and some of the challenges and opportunities they introduce.
+In the following sub-sections, I discuss these characteristics from an architecture viewpoint, looking at both challenges and opportunities.
 
 <br>
 
 ## Characteristic 1: Global Scale
 
-The first characteristic of the context is that I was lucky to develop my approach in genuinely global and multicultural organizations. Globality and multiculturality come from two sources:
+I was lucky to develop my approach in genuinely global and multicultural organizations. Globality and multiculturality come from two sources:
 
-* Markets in which our organization operates. For example, AVIV Group is active in five countries, and Adevinta operates in more than 15 countries on five continents.
+* Markets in which our organization operates.
 * Workforce building our products. In addition to the people we serve in each active market, we also have people working from many other countries. With the possibility of remote working, there were practically no limitations on the location of our workforce.
 
-Global context also led to a massive scale:
+Global context also leds to a massive scale:
 
 * Billions of monthly user visits
 * Thousands of active software developers
 * Hundreds of product and development teams
 * Hundreds of millions of lines of source code
-
-
-**Opportunities**
 
 The global scale introduces several compelling opportunities:
 
@@ -59,8 +56,6 @@ The global scale introduces several compelling opportunities:
 * Bigger talent pool to support any local or global effort.
 * Possibility for investments to support non-linear growth by mergers and acquisitions (M&As).
 
-
-**Challenges**
 
 The global and massive scale has many challenges:
 
@@ -84,15 +79,11 @@ In a loosely coupled organization, some of the elements of a tightly coupled org
 
 Due to historical and strategic reasons, most organizational units I worked with were loosely coupled. Our companies frequently grow by acquisitions of key players in different marketplaces. The strategies also frequently promoted a more independent evolution of each marketplace to better and faster address local market needs. Marketplaces often have a high level of autonomy, frequently with their development teams, C(P)TOs, CFOs, CMOs, or CEOs.
 
-**Opportunities**
-
 Loose coupling offers several advantages:
 
 * Higher flexibility: units can keep developing independently, addressing specific needs without the need to synchronize with other marketplaces.
 * High development speed / faster time-to-market: fewer dependencies make it much easier for marketplaces to change and evolve their products for local needs.
 * Innovation: possibilities to quickly explore ideas in smaller contexts.
-
-**Challenges**
 
 Loose coupling also has several disadvantages:
 
@@ -122,7 +113,7 @@ The global and multi-cultural nature of our context leads to diversity and multi
 
 The organizations I worked with had many units, such as marketplaces (each with its sub-structures), global capabilities, enterprise IT teams, data capabilities, and generic IT infrastructure. In addition to their loose coupling, these organizational units differed in multiple ways:
 
-* Size: for instance, dome units had hundreds of developers, and some units only a dozen.
+* Size: for instance, some units had hundreds of developers, and some units only a dozen.
 * Team topologies: some organizations had one team, others many teams organized hierarchically.
 * Position of architecture: with some organizations having local architecture teams and local lead architects, smaller units have their team members conducting architecture activities in addition to other responsibilities
 
@@ -140,21 +131,16 @@ The systems also employed diverse application technologies, such as:
 * Frontend programming languages and frameworks (e.g., React, Android, AndroidJS, Vue, jQuery).
 
 
-**Opportunities**
-
-Diversity offers several opportunities:
+From an architecture perspective, diversity offers several opportunities:
 
 * Increasing innovation due to diverse workforce, possibilities to creatively explore more technologies and tools.
-* Addressing specific needs better by using the appropriate resources.
-* Risk reduction due to redundancy.
-
-**Challenges**
+* Addressing specific needs better by choosing from bigger and more diverse pool of resources.
 
 Diversity also poses several challenges:
 
 * Increasing complexity and cognitive load of teams.
 * Limited flexibility and reorganization possibilities as expertise is split among many domains and technologies.
-* Higher technical debt due to many legacy components in outdated technologies.
+* Higher technical debt due to many legacy components in many (outdated) technologies.
 
 <br>
 
@@ -164,15 +150,10 @@ Diversity also poses several challenges:
 
 Complex organizations like the one I have worked in are frequently very dynamic. Such organizations grow (or shrink) and reorganize often and significantly. They change both organically and inorganically. Organic growth is internal growth the company sees from its operations. Inorganic change comes from buying other businesses, opening new locations, or divesting.
 
-**Opportunities**
-
 Possibilities for nonlinear growth may be helpful in several scenarios:
 
 * Faster growth due to acquisitions of market segments.
 * Speeding up innovation due to acquisition of new technologies or services.
-
-
-**Challenges**
 
 Nonlinear dynamics have several influences on architectural activities:
 
@@ -180,22 +161,17 @@ Nonlinear dynamics have several influences on architectural activities:
 * Increased complexity to the potentially more diverse organization, process, and technology.
 * More complex architecture to stay flexible if the organization decides to divest a part of the organization.
 
-
+<br>
 ## Characteristic 5: Synergies and Transformations Pressures
 
 Complex organizations do not just grow. Instead, they want to be more efficient and leverage economies of scale, cost synergies, or increase capacity for innovation. In other words, such organizations are not an investment portfolio with diverse independent players. Our investors expect us to transform to be more than a sum of our original parts.
-
-
-**Opportunities**
 
 Pressure for synergies and transformations can provide several benefits:
 
 * Cost reductions.
 * Acceleration due to more resources available when synergies happen.
 * Innovation through more capacity and possibility for reuse and sharing.
-* Faster scaling up or operations due to more efficiencies and lower unit costs.
-
-**Challenges**
+* Faster scaling up of operations due to more efficiencies and lower unit costs.
 
 Pressure to be more synergic and efficient has its challenges:
 
