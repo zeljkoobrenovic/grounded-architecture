@@ -30,10 +30,10 @@ The *People Pillar* is another essential elements of Grounded Architecture. A st
 Lastly, the *Architecture Activities Platform* leverages data and people to create a data-informed, deep, and broad impact.
 
 I have identified the following [guiding principles](principles) that can help put these ideas into practice and get things done:
-* [Architects as Superglue](superglue),
-* [Breaking Up Ivory Towers](ivory-towers),
-* [Embrace Diversity, Distribute & Align Decisions](diversity),
-* [Flexible Governance](governance).
+* [Developing Architects as Superglue](superglue),
+* [Being in the Eye of the Storm](storm),
+* [Embracing Diversity, Distribute & Align Decisions](diversity), and
+* [Having Flexible Governance](flexible-governance).
 
 When Grounded Architecture is in place, it can have a significant [positive impact](impact) on the functioning of an organization:
 

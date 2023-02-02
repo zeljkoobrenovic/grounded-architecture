@@ -19,7 +19,7 @@ Image by <a href="https://pixabay.com/users/darksouls1-2189876/?utm_source=link-
 
 The following guiding principles have helped me make grounded architecture more effective:
 
-* [Architects as Superglue](superglue),
+* [Developing Architects as Superglue](superglue),
 * [Being in the Eye of the Storm](storm),
-* [Embrace Diversity, Distribute & Align Decisions](diversity), and
-* [Flexible Governance](flexible-governance).
+* [Embracing Diversity, Distribute & Align Decisions](diversity), and
+* [Having Flexible Governance](flexible-governance).
