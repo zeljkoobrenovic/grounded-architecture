@@ -8,7 +8,7 @@ author: by Željko Obrenović (obren.io)
 permalink: activities-platform
 icon: goals.png
 timetoread: 15 min
-excerpt: "Here are some examples of activities that I've been a part of in organizations I led Architecture functions: supporting teams in their daily work; tracking tech debt, defining tech debt reduction programs; performing technical due diligence; standardization of processes and documentation; defining Cloud, Data, and Platform strategies."
+excerpt: "The Architecture Activities Platform is the place where, by leveraging data and people pillars, we performed activities that help an organization to reach it goals. Here are some examples: supporting teams in their daily work; tracking tech debt, defining tech debt reduction programs; performing technical due diligence; standardization of processes and documentation; defining cloud, data, and platform strategies."
 
 ---
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
@@ -23,7 +23,9 @@ Each organization will have different architectural needs and context. When form
 
 ![](assets/images/model-strategy.png)
 
-Considering the previous two points from Gregor Hohpe, each organization must find activities and operating models to enable architecture to work on the most important problems. Here are some examples of activities that I've been a part of in organizations I led Architecture functions:
+Considering the previous two points from Gregor Hohpe, each organization must find activities and operating models to enable architecture to work on the most important problems. 
+
+The Architecture Activities Platform is the place where we have been performing activities that could help an organization to reach it goals. Here are some examples of activities:
 * Design mechanisms for teams to make better decisions 
 * Supporting teams in their daily work
 * Supporting planned new initiatives and projects

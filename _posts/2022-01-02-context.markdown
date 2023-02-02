@@ -8,7 +8,7 @@ author: by Željko Obrenović (obren.io)
 permalink: context
 icon: roller-coaster.png
 timetoread: 15 min
-excerpt: "The grounded architecture approach has developed in the context of global, loosely coupled organizations that are diverse, with non-linear growth dynamics, and under transformation pressures."
+excerpt: "The grounded architecture approach has developed in the context of global, loosely coupled organizations that are diverse, with non-linear growth dynamics, and under transformation pressures. The work I present here reflects my experiences as a Chief or Principal Architect at AVIV Group, eBay Classifieds, and Adevinta."
 
 
 ---

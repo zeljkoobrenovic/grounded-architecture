@@ -8,7 +8,7 @@ author: by Željko Obrenović (obren.io)
 permalink: data-pillar
 icon: curation.png
 timetoread: 15 min
-excerpt: The architecture data pillar serves as a medium to create a complete, up-to-date picture of critical elements of technology landscapes of big organizations. The platform provides an architecture-centric view on data about our technology landscape based on source code analyse, public cloud billing reports, vibrancy reports, or incident tickets.
+excerpt: The architecture data pillar serves as a medium to create a complete, up-to-date picture of critical elements of technology landscapes of big organizations. The platform provides an architecture-centric view on data about our technology landscape based on source code analyses, public cloud billing reports, vibrancy reports, or incident tickets.
 
 
 ---
