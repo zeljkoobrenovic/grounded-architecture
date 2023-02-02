@@ -16,7 +16,7 @@ excerpt: This series of articles generalize my lessons learned while running an 
 Image by <a href="https://pixabay.com/users/yuri_b-2216431/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3173047">Yuri</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3173047">Pixabay</a>
 </div>
 
-In this collection of articles, I explained my approach to running an architecture practice in bigger organizations. I called this approach "grounded architecture," highlighting the need for any architecture function to stay well-connected to all levels of an organization and led by data. The Grounded Architecture model consists of three elements:
+In this collection of articles, I explained my approach to running an architecture practice in larger organizations. I called this approach "grounded architecture," highlighting the need for any architecture function to stay well-connected to all levels of an organization and led by data. The Grounded Architecture model consists of three elements:
 * The Data Pillar,
 * The People Pillar,
 * The Architecture Activities Platform.
