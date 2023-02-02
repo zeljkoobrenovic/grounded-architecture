@@ -8,7 +8,7 @@ author: by Željko Obrenović (obren.io)
 permalink: grounded-architecture
 icon: bridge.png
 timetoread: 15 min
-excerpt: "I introduce three elements of Grounded Architecture: The Data Platform, The People Platform, The Architecture Activities Platform."
+excerpt: "I introduce three elements of Grounded Architecture: The Data Pillar, The People Pillar, The Architecture Activities Platform."
 
 
 ---

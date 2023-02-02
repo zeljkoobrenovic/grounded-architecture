@@ -38,12 +38,40 @@ In the following sections, I give more details on several of these architecture 
 
 ![](assets/images/apps.png)
 <br>
-**Figure 1:** *Examples of data-driven architecture documents I've built currently use.*
+**Figure 1:** *Examples of data-driven architecture documents I've built and used at AVIV Group.*
 
 <br>
 ### Example 1: Source Code and Commit History As A Source of Data
 
-I have repeatably found the source code to be an incredible source for creating data-driven architecture documentation. Source code and its commit history include an astonishing amount of information about technology, people activity, team dependencies, and the quality of software systems. I've started and still actively maintain the project [Sokrates](https://sokrates.dev), with the idea to help further extract data from source code that can help my work as an architect. Figure 3 shows some of the insights from source code generated with Sokrates. I use Sokrates daily, improving it on the way.
+I have repeatably found the source code to be an incredible source for creating data-driven architecture documentation. Source code and its commit history include an astonishing amount of information about technology, people activity, team dependencies, and the quality of software systems. I've started and still actively maintain the project [Sokrates](https://sokrates.dev), with the idea to help further extract data from source code that can help my work as an architect. I use Sokrates daily, improving it on the way.
+
+Figures 2 to 6 show some of the insights from source code generated with Sokrates. 
+
+<br>
+![](assets/images/archdata/src_1.png)
+**Figure 2**: *Sokrates can instantly create a helicopter view of the technology landscape, programming languages, active contributors, and commit trends.*
+<br>
+<br>
+
+![](assets/images/archdata/src_2.png)
+**Figure 3**: *Sokrates can show detailed code and contributors' trends per repository, enabling zooming in each repository up to the code level.*
+<br>
+<br>
+ 
+![](assets/images/archdata/src_5.png)
+**Figure 4**: *Sokrates can create a tech radar by tagging projects with identified technologies.*
+<br>
+<br>
+
+![](assets/images/archdata/src_3.png)
+**Figure 5**: *Sokrates can show contributor trends, distribution of "veterans" and "rookies," and dependencies between people and repositories, enabling zooming in into patterns of the contribution of individual contributors.*
+<br>
+<br>
+ 
+![](assets/images/arch/sokrates_teams.png)
+**Figure 6**: *Sokrates can reveal the team topologies by plotting 2D and 3D graphs of dependencies that people create through working on the same repositories in the same period.*
+<br>
+<br>
 
 I've designed Sokrates from an architect's point of view, enabling quick zooming in and out into source code landscapes. On the one hand, Sokrates provides a complete abstracted view of the whole landscape summarizing data from all teams and groups. At the same time, you can zoom in on the details of particular systems, even to the code level. That means that I could use the same tools to have CTO-level discussions looking at overall trends in our technology usage and costs. At the same time I could engage with developers and discuss concrete code fragments and potential improvements in the code level (e.g., duplicated blocks, complex units, dependencies).
 
@@ -52,23 +80,16 @@ In addition to standard source code and commit history analyses (see [Apache Sof
 * Dockerfile scan to create a tech radar of runtime technologies.
 * GitHub API pull requests analyses to identify deployment frequency.
 
-
-![](assets/images/archdata/src_1.png)
-![](assets/images/archdata/src_2.png)
-![](assets/images/archdata/src_3.png)
-<br>
-***Figure 3:**Examples of insights from source code generated with my open-source project [Sokrates](https://sokrates.dev).*
-
 <br>
 ### Example 2: Public Cloud Usage
 
 Migrating to the public cloud can dramatically increase transparency thanks to uniform automation and monitoring. The public cloud transparency offers increadible amount of useful data out-of-box.
 
-Figure 4 shows the anonymous screenshot of the Cloud usage explorer, a tool I built to visualize automatically-collected data from standard Google Cloud Platform (GCP) usage reports.
+Figure 7 shows the anonymous screenshot of the Cloud usage explorer, a tool I built to visualize automatically-collected data from standard Google Cloud Platform (GCP) usage reports.
 
 ![](assets/images/archdata/cloud-usage-explorer.png)
 <br>
-***Figure 4:** An example of an cloud usage explorer.*
+***Figure 7:** An example of an cloud usage explorer.*
 
 Google, AWS, Azure, and other Public Cloud Providers give detailed data about which platform uses which services, resource family, budget. You can also understand which people and teams have access to each service. It is possible to get real-time information about our cloud usages and understand the trends in a fully automated fashion.
 
@@ -80,11 +101,11 @@ Finance departments are very data-driven and have high-quality data that could b
 <br>
 ## Principles Behind Architecture Data Pillar
 
-The main idea behind my vision on architecture data pillar is "reducing subjectivity by use of data and insights." I follow several guiding principles (Figure 5).
+The main idea behind my vision on architecture data pillar is "reducing subjectivity by use of data and insights." I follow several guiding principles (Figure 8).
 
 ![](assets/images/archdata/principles.png)
 <br>
-**Figure 5:** *Design principles behind architecture data pillar.*
+**Figure 8:** *Design principles behind architecture data pillar.*
 
 Firstly, my goal is to move architectural discussion as far as possible from opinion battles to the domain of data-informed decision-making. Opinions have their value, but we do not need to debate which cloud resources or programming languages we use. We have reliable data for it.
 
@@ -101,11 +122,11 @@ Six, I always build architecture data pillar as explorative applications, enabli
 Lastly, curation, the act of selecting, organizing, and looking after the data, is the crucial ingredient of the process to prevent creating useless, too detailed views. Curation means choosing what to include and exclude, ensuring data correctness and completeness, and engaging users to make documents helpful. Instead of carelessly bringing together all data we can find, we can add much more value by carefully choosing data and thoughtfully organizing documents. For example, source code analysis can automatically scan all repositories. Curation can increase the value of these analyses by grouping or tagging repositories to create sub-views, e.g., per technology or domain.
 
 
-The resulting winning formula for architecture data pillar is (Figure 2): data + automation + curation = useful data-driven documentation.
+The resulting winning formula for architecture data pillar is (Figure 9): data + automation + curation = useful data-driven documentation.
 
 ![](assets/images/archdata/recipe.png)
 <br>
-**Figure 2:** *The formula for architecture data pillar: data + automation + curation = useful data-driven documentation.*
+**Figure 9:** *The formula for architecture data pillar: data + automation + curation = useful data-driven documentation.*
 
 <br>
 ## Using Architecture Data Pillar
@@ -122,7 +143,7 @@ Architecture data pillar can provide lots of data. Sometimes, as in an ordinary 
 <br>
 ## How To Build Architecture Data Pillar?
 
-While each organization will have its unique sets of data, here are some tips I found useful in my approach to form the architecture data platform:
+While each organization will have its unique sets of data, here are some tips I found useful in my approach to form the architecture data pillar:
 
 * Start with the source code. My motto is "Talk is expensive. Show me the code." I scan as soon as possible all source code using tools such as [Sokrates](https://sokrates.dev). I highly recommend [Sokrates](https://sokrates.dev) as the basis for the data platform, but other simples analyses could also provide a good starting point. Modern IT enterprises store almost everything as a code. It is the richest and most up-to-date documentation on most things happening in an IT enterprise.
 * Connect with finance and governance teams to get exports of their data (without sensitive parts, such as revenue projections). Cloud billing reports, and data about vibrancy or revenue streams are collected anyway. By extracting more technology oriented data (e.g., public cloud technology usage trends) and connecting them to other data, many new insights may be obtained without starting any new processes or asking people to provide more details. First leverage what you have, squeez all the value from it, then ask people for any missing elements.

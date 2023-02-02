@@ -62,7 +62,7 @@ Grounded Architecture aims to enable architecture functions to operate at scale 
 Image by <a href="https://pixabay.com/users/wikiimages-1897/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=11595">WikiImages</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=11595">Pixabay</a>
 </div>
 
-The architecture data platform aims to support working at scale with automation and self-service. Our People Pillar aims to help execution at scale by developing connections at all levels of the organization, increasing transparency, and through a strong network speeding up the execution of shared decisions.
+The architecture data pillar aims to support working at scale with automation and self-service. Our People Pillar aims to help execution at scale by developing connections at all levels of the organization, increasing transparency, and through a strong network speeding up the execution of shared decisions.
 
 <br>
 
@@ -106,10 +106,10 @@ The grounded architecture aims to accelerate the adoption of new technology and 
 The three elements of the grounded Architecture model, data, people, and strategy/governance platforms, provide a highly flexible and adaptive setting. 
 
 This adaptivity is driven by the independence of elements and the possibility of using the elements in different combinations. Here are some of the critical drivers of flexibility:
-* The data platform, if implemented with a high level of automation, allows for quick extensions and reconfigurations to provide data for any change of direction. Extending the platform with new data should be easy after acquisitions or mergers. And the ability to group data at multiple levels supported both the what-if scenario analysis (e.g., impact of different reorganization scenarios) and quick baseline for any change in the organization.
+* The data pillar, if implemented with a high level of automation, allows for quick extensions and reconfigurations to provide data for any change of direction. Extending the platform with new data should be easy after acquisitions or mergers. And the ability to group data at multiple levels supported both the what-if scenario analysis (e.g., impact of different reorganization scenarios) and quick baseline for any change in the organization.
 * A strong data pillar provides crucial connections and feedback on the daily reality of each part of the organization.
 * Grounding the architecture with data and people connections also makes the work of a Chief Architect much more flexible. As most architectural decisions can be delegated to well-aligned teams, a Chief Architect, the most experienced technologist, can spend more time on crucial strategic initiatives, such as defining cloud, data, or platform strategies or supporting decisions on mergers and acquisitions.
-* Lastly, the structure of our architectural model enables a more sustainable architectural function. With an established data platform and a well-connected architect, the architecture can still provide a valuable impact on the organization even without a strong central team.
+* Lastly, the structure of our architectural model enables a more sustainable architectural function. With an established data pillar and a well-connected architect, the architecture can still provide a valuable impact on the organization even without a strong central team.
 
 <br>
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
