@@ -57,10 +57,6 @@ Image by <a href="https://pixabay.com/users/stevepb-282134/?utm_source=link-attr
 
 The role of architecture in this form of governance should be to ensure that "taxation" is data driven and transaprent, and to create efficient feedback loops on key metrics related to "taxes."
 
-* Visibility
-* Being a part of budgeting process
-* OKRs, Tech Debt Tracking, Balanced scorecard
-
 Data platform should include and provide all data regarding taxes. People platform should align processes, golas and ways of working to ensure that taxation leads to desired and meaningful change.
 
 <br>
