@@ -23,16 +23,16 @@ Image by <a href="https://pixabay.com/users/barbaracascao-15841899/?utm_source=l
 
 > *“Autonomy does not mean you're all alone and don't align with anyone, don't get feedback from anyone and just do whatever you want.”
 
-My aim was to keep architectural decision-making distributed across the organization embedded in the development teams. Development teams units traditionally have the best insights and most information relevant for making a decision. The worst case of organizational decision-making happens when people with relevant information do not have the mandate to make decisions, while people who lack sufficient information can make all decisions. Grounded architecture aims to make relevant information more readily available to a broader audience and better connect people when making decisions.
+I aimed to keep architectural decision-making distributed across the organization and embedded in the development teams. Development teams traditionally have the best insights and most information relevant for making a decision. As noted by Gregor Hohpe, the worst case of organizational decision-making happens when people with relevant information are not allowed to make decisions, while people who lack sufficient information make all decisions. Grounded architecture aims to make relevant information more readily available to a broader audience and better connect people when making decisions.
 
-Organizational units have very diverse structures and sizes. There is no one-fit-all solution about how departments should assign architecture responsibilities. I generally worked three types of architectural structures in line with Gregor Hohpe's view of architects and their teams' relationships. That means that some units have lead architects coordinating or leading multiple teams. We often have cases where an architect was a full-time member of a team working over specific products or other features. We also have themes that did not have an architect but several senior developers making architectural decisions.
+Organizational units have very diverse structures and sizes. There is no one-fit-all solution about how departments should assign architecture responsibilities. I generally worked on three types of team-architect structures in line with Gregor Hohpe's view of architects and their teams' relationships. That means that some units have lead architects coordinating or leading multiple teams. We often have cases where an architect was a full-time member of a team working on specific products or other features. I also worked with teams that did not have an architect but several senior developers making architectural decisions.
 
 ![](https://esilva.net/assets/team-architecture-topologies.png)
 ***Figure 1:** A model for organizing (local) architects. Credit: [Gregor Hohpe](https://architectelevator.com/architecture/organizing-architecture/).*
 
 <br>
 In daily work, we aimed to implement the following operational model:
-* Most of the decisions should be made by individual teams, which should be a part of the people pillar via different communities, such as architecture guilds
+* Most of the decisions should be made by individual teams, which should be a part of the People Pillar via different communities, such as architecture guilds
 * Architecture function should provide 
   * data to inform these decisions via the data pillar
   * decisions boundaries to enable the minimal level of compatibility and strategic alignment (e.g., cloud provider)
@@ -40,6 +40,7 @@ In daily work, we aimed to implement the following operational model:
 * Global architects should then spend their time in constant motion between the daily work of the teams and strategic topics, helping the organization to achieve alignment between strategy and implementation
 
 Inspired by Gregor Hohpe's strategy-principles-decisions model, the following picture illustrates the process:
+
 
 ![](assets/images/arch/architecture-system.png)
 

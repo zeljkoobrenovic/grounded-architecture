@@ -18,23 +18,23 @@ style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover">
 Image by <a href="https://pixabay.com/users/3844328-3844328/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1857175">Lorenzo Cafaro</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1857175">Pixabay</a>
 </div>
 
-In every place I worked on creating any architectural functions, I put a strong emphasis on data. In past several years, I was also working on creating open-source tools, such as [Sokrates](https://sokrates.dev), that can help obtaining useful architectural insights from data sources, such as source code repositories, or public cloud billing reports. Consequently, as one of the first steps I make in any architecture role is to create an architecture data pillar as a medium to create a complete, up-to-date picture of critical elements of technology landscapes of an organization. Manual documentation does not scale in [our context](context), and relying on data ensure reliability and scalability. 
+In every place I worked on creating architectural functions, I strongly emphasized data. In the past several years, I have been working on creating open-source tools, such as [Sokrates](https://sokrates.dev), that can help obtain valuable architectural insights from data sources, such as source code repositories or public cloud billing reports. Consequently, one of the first steps I make in any architecture role is to create an architecture data pillar to get a complete, up-to-date picture of critical elements of the technology landscapes of an organization. Manual documentation does not scale in [our context](context), and relying on data ensures reliability and scalability. 
 
 ![](assets/images/model-data.png)
 
-Good news is that big organizations have lots of data that, if used wisely, can provide an excellent basis for an architectural data pillar. With some automation, and curation, getting a good overview of the technology landscape may be closer than it initially appears.
+The good news is that big organizations have lots of data that, if used wisely, can provide an excellent basis for an architectural data pillar. With some automation and curation, getting a good overview of the technology landscape may be closer than it initially appears.
 
 <br>
 ## Examples of Data Sources and Tools
 
 I've always aimed to get reliable data about technology with as much as possible automation (see Figure 1 for illustrations). Some examples of data I used include:
-* Source code contains an incredible amount of information about technology, people activity, team dependencies, and the quality of software systems.
-* Public cloud billing reports provide overview and trends on which projects uses which services, in which regions, on what budgets.
+* Source code contains an incredible amount of information about technology, people's activity, team dependencies, and the quality of software systems.
+* Public cloud billing reports provide an overview and trends on which projects use which services, in which regions, and on what budgets.
 * Incident reports can reveal trends and dependencies among incidents.
 * Key business metrics, like vibrancy.
-* Slack activity reports can help understanding topics of discussion and team interactions.
+* Slack activity reports can help understand discussion topics and team interactions.
 
-In the following sections, I give more details on several of these architecture data pillar.
+In the following sections, I detail several of these architectural data-driven tools.
 
 ![](assets/images/apps.png)
 <br>
@@ -45,7 +45,7 @@ In the following sections, I give more details on several of these architecture 
 
 I have repeatably found the source code to be an incredible source for creating data-driven architecture documentation. Source code and its commit history include an astonishing amount of information about technology, people activity, team dependencies, and the quality of software systems. I've started and still actively maintain the project [Sokrates](https://sokrates.dev), with the idea to help further extract data from source code that can help my work as an architect. I use Sokrates daily, improving it on the way.
 
-Figures 2 to 6 show some of the insights from source code generated with Sokrates. 
+Figures 2 to 6 show some insights from source code analyses with Sokrates. 
 
 <br>
 ![](assets/images/archdata/src_1.png)
@@ -73,9 +73,9 @@ Figures 2 to 6 show some of the insights from source code generated with Sokrate
 <br>
 <br>
 
-I've designed Sokrates from an architect's point of view, enabling quick zooming in and out into source code landscapes. On the one hand, Sokrates provides a complete abstracted view of the whole landscape summarizing data from all teams and groups. At the same time, you can zoom in on the details of particular systems, even to the code level. That means that I could use the same tools to have CTO-level discussions looking at overall trends in our technology usage and costs. At the same time I could engage with developers and discuss concrete code fragments and potential improvements in the code level (e.g., duplicated blocks, complex units, dependencies).
+I've designed Sokrates from an architect's point of view, enabling quick zooming in and out into source code landscapes. On the one hand, Sokrates provides a high-level view of the landscape, summarizing data from all teams and groups. At the same time, you can zoom in on the details of particular systems, even to the code level. That means I could use the same tools to have CTO-level discussions looking at overall trends in our technology usage and costs. At the same time, I could engage with developers and discuss concrete code fragments and potential improvements in the code level (e.g., duplicated blocks, complex units, dependencies).
 
-In addition to standard source code and commit history analyses (see [Apache Software Foundation Sokrates analysis](https://www.sokrates.dev/) for examples), I also have built several special source code analysis to get further details:
+In addition to standard source code and commit history analyses (see [Apache Software Foundation Sokrates analysis](https://www.sokrates.dev/) for examples), I also have built several special source code analyses to get further details:
 * Travis and Jenkins files analyzers to understand how teams build CI/CD pipelines.
 * Dockerfile scan to create a tech radar of runtime technologies.
 * GitHub API pull requests analyses to identify deployment frequency.
@@ -83,43 +83,45 @@ In addition to standard source code and commit history analyses (see [Apache Sof
 <br>
 ### Example 2: Public Cloud Usage
 
-Migrating to the public cloud can dramatically increase transparency thanks to uniform automation and monitoring. The public cloud transparency offers increadible amount of useful data out-of-box.
+Migrating to the public cloud can dramatically increase transparency thanks to uniform automation and monitoring. The public cloud transparency offers an incredible amount of valuable data out-of-box.
 
 Figure 7 shows the anonymous screenshot of the Cloud usage explorer, a tool I built to visualize automatically-collected data from standard Google Cloud Platform (GCP) usage reports.
 
 ![](assets/images/archdata/cloud-usage-explorer.png)
 <br>
-***Figure 7:** An example of an cloud usage explorer.*
+***Figure 7:** An example of a cloud usage explorer.*
 
-Google, AWS, Azure, and other Public Cloud Providers give detailed data about which platform uses which services, resource family, budget. You can also understand which people and teams have access to each service. It is possible to get real-time information about our cloud usages and understand the trends in a fully automated fashion.
+[Amazon Web Services (AWS)](https://aws.amazon.com), [Google Cloud Platform (GCP)](https://cloud.google.com/), [Microsoft Azure](https://azure.microsoft.com/), and other Public Cloud Providers give detailed data about which platform uses which services, resource family, and budget. You can also understand which people and teams have access to each service. It is possible to get real-time information about our cloud usage and understand the trends fully automatically.
 
 <br>
 ### Example 3: Financial and Vibrancy Data
 
-Finance departments are very data-driven and have high-quality data that could be very relevant for architects. In addition to standard costs, budgets, and other pure financial data types, I frequently found that finance teams also have different data sources such as vibrancy or usage levels. These teams need such data to, for instance, correlate finance performance with usage levels. Such usage data are beneficial for architecture discussions. For example, linking usage levels and vibrancy of systems with their public cloud usage can identify areas of improvement and inefficiencies.
+Finance departments are very data-driven and have high-quality data that could be relevant for architects. In addition to standard costs, budgets, and other pure financial data types, I frequently found that finance teams also have different data sources, such as vibrancy or usage levels. These teams need such data to, for instance, correlate finance performance with usage levels. Such usage data are beneficial for architecture discussions. For example, linking usage levels and vibrancy of systems with their public cloud usage can identify areas of improvement and inefficiencies.
 
 <br>
 ## Principles Behind Architecture Data Pillar
 
-The main idea behind my vision on architecture data pillar is "reducing subjectivity by use of data and insights." I follow several guiding principles (Figure 8).
+My motto for the architecture data pillar is "**reducing subjectivity by use of data and insights**." More specifically, I follow several guiding principles (Figure 8).
 
 ![](assets/images/archdata/principles.png)
 <br>
 **Figure 8:** *Design principles behind architecture data pillar.*
 
-Firstly, my goal is to move architectural discussion as far as possible from opinion battles to the domain of data-informed decision-making. Opinions have their value, but we do not need to debate which cloud resources or programming languages we use. We have reliable data for it.
+Firstly, I aim to move architectural discussion as far as possible from opinion battles to data-informed decision-making. Opinions are valuable, but we do not need to debate which cloud resources or programming languages we use. We have reliable data for it.
 
-Second, automation is the key to keeping documentation up to date and getting the data repeatable and reliable. While some manual actions may be required, most architecture data pillar tools I created to automatically update all views on a daily or weekly basis.
+Second, automation is the key to keeping documentation up-to-date. While some manual actions may be required, most architecture data tools I created automatically updated all views daily or weekly.
 
-Third, I build the apps as self-service web applications to enable people to get any data themselves, rather than scheduling meetings and workshops to get and align the data. Whenever I created some of these apps, my schedule became more relaxed.
+Third, I build the apps as self-service web applications to enable people to get data rather than scheduling meetings and workshops to get and align the data. Whenever I created some of these apps, my schedule became more relaxed.
 
-Fourth, documents must be as complete as possible, based on high-quality and curated data sets. On a scale of big organizations, a sample of data, e.g., cloud usage of one team, may not be representative and is practically useless and misleading.
+Fourth, documents must be complete and based on high-quality, curated data sets. On a scale of big organizations, a sample of data, e.g., cloud usage of several teams, may need to be more representative and can lead to wrong conclusions.
 
-Fifth, my goal is to use architecture data pillar to make architecture function an economic-risk modeling exercise. We should look at data to understand the current situation and create models to simulate scenarios. In this way, I want to make architecture less heroics, in the sense that architects jump in the last moment to prevent disasters based on their internal knowledge and insight. That heroic typically means that we have not looked at the data on time.
+Fifth, I aim to use the architecture data tools to make architecture function an economic-risk modeling exercise. We should look at data to understand the current situation and create simulation models. In this way, I want to make architecture less heroic, replacing cold data architects jumping in at the last moment to prevent disasters based on their unique internal knowledge and insights. Such heroics typically means we have not looked at the data.
 
-Six, I always build architecture data pillar as explorative applications, enabling filtering of data and zooming in and out of details. Different stakeholders have different needs, and the one-fits-all model cannot help everyone. Having exploration abilities enables a broader set of stakeholders to get relevant insights. For example, source code analyses can point our some CTO-level insights, such as programming languages trends and inter-team collaborations. At the same time, these tools enable individual developers to zoom into details of their systems and, for instance, get refactoring recommendations and code samples of complex or duplicated code.
+Six, I always build architecture data tools as explorative applications, enabling filtering of data and zooming in and out of details. Stakeholders have different needs, and the one-fits-all model can only help some. Having exploration abilities allows a broader set of stakeholders to get relevant insights. For example, source code analyses can highlight some CTO-level insights, such as trends in programming languages and inter-team collaborations. At the same time, these tools enable individual developers to zoom into the details of their systems and, for instance, get refactoring recommendations and code samples of complex or duplicated code.
 
-Lastly, curation, the act of selecting, organizing, and looking after the data, is the crucial ingredient of the process to prevent creating useless, too detailed views. Curation means choosing what to include and exclude, ensuring data correctness and completeness, and engaging users to make documents helpful. Instead of carelessly bringing together all data we can find, we can add much more value by carefully choosing data and thoughtfully organizing documents. For example, source code analysis can automatically scan all repositories. Curation can increase the value of these analyses by grouping or tagging repositories to create sub-views, e.g., per technology or domain.
+Lastly, curation, the act of selecting, organizing, and looking after the data, is the crucial ingredient of the process to prevent creating useless, too-detailed views. Curation means choosing what to include and exclude, ensuring data correctness and completeness, and engaging users to make documents helpful. Instead of carelessly bringing together all data we can find, we can add much more value by carefully choosing data and thoughtfully organizing documents. For example, source code analysis can automatically scan all repositories. Curation can increase the value of these analyses by grouping or tagging repositories to create sub-views, e.g., per technology or domain.
+
+The resulting winning formula for the architecture data tools is (Figure 9): data + automation + curation = useful data-driven documentation.
 
 
 The resulting winning formula for architecture data pillar is (Figure 9): data + automation + curation = useful data-driven documentation.
@@ -131,25 +133,24 @@ The resulting winning formula for architecture data pillar is (Figure 9): data +
 <br>
 ## Using Architecture Data Pillar
 
-Architecture data pillar can provide lots of data. Sometimes, as in an ordinary map or atlas, such data could directly be helpful for those who want to orient themselves and understand the context. More insights could be obtained from such data. However, it requires active effort to find ways to interpret and use data. In other words, the data can give you the answers, but [we may not know the questions](https://en.wikipedia.org/wiki/42_(number)#The_Hitchhiker's_Guide_to_the_Galaxy). Here are some of the questions I frequently ask and answers with data from the documents:
-* Are we going in the same direction? Tools such as source code overviews, public cloud usage explorers, or tech radars can point out differences and trigger discussions.
+The architecture data pillar can provide lots of data. Sometimes, as in an ordinary map or atlas, such data could be helpful for those who want to orient themselves and understand the context. But you could obtain more insights from such data. However, finding the right ways to interpret and use data requires active effort. In other words, the data can give you the answers, but [we may not know the questions](https://en.wikipedia.org/wiki/42_(number)#The_Hitchhiker's_Guide_to_the_Galaxy). Here are some of the questions I frequently ask and answers with data from the documents:
+* Are we going in the same direction? Tools such as source code overviews, public cloud usage explorers, or tech radars can highlight differences and trigger discussions.
 * Are we using technology optimally? Comparing usage trends between teams can show interesting outliners (both positive and negative).
-* Are there indicators of poor code quality? Too big systems, duplication, long units, long files.
-* Productivity: is more more or is more less. For instance, comparing the number of git merges with the number of developers can indicate if our dev processes are scalable. When we scale up teams, we want to speed up our delivery (but if team structure is not right, it can easily be the opposite as people "step on each other toes").
+* Are there indicators of poor code quality? Too big systems, duplication, long units, or long files.
+* Productivity: is more really more or is more actually less. For instance, comparing the number of git merges with the number of developers can indicate if our dev processes are scalable. When we scale up teams, we want to speed up our delivery (but if team structure is not proper, it can easily be the opposite as people "step on each other toes").
 * Do we collaborate in the way we want? Repository analysis can point out team topologies and (un)desired dependencies.
 * Do we work on the things we want? We may want to focus more on innovations, but in reality, we may spend too much time on legacy maintenance.
-
 
 <br>
 ## How To Build Architecture Data Pillar?
 
-While each organization will have its unique sets of data, here are some tips I found useful in my approach to form the architecture data pillar:
+While each organization will have its unique sets of data, here are some tips I found helpful in my approach to forming the architecture data pillar:
 
-* Start with the source code. My motto is "Talk is expensive. Show me the code." I scan as soon as possible all source code using tools such as [Sokrates](https://sokrates.dev). I highly recommend [Sokrates](https://sokrates.dev) as the basis for the data platform, but other simples analyses could also provide a good starting point. Modern IT enterprises store almost everything as a code. It is the richest and most up-to-date documentation on most things happening in an IT enterprise.
-* Connect with finance and governance teams to get exports of their data (without sensitive parts, such as revenue projections). Cloud billing reports, and data about vibrancy or revenue streams are collected anyway. By extracting more technology oriented data (e.g., public cloud technology usage trends) and connecting them to other data, many new insights may be obtained without starting any new processes or asking people to provide more details. First leverage what you have, squeez all the value from it, then ask people for any missing elements.
-* Use simple and easy to maintain infrastructures. For example, I publish results of Sokrates analyses and other simple data Web apps as static resources in our enterprise GithHub pages. Configuring more complex infrastructure swith complex databases, and backend software resuires more maintenance.
-* Maintain the culture of transparency. It is much simpler a more effective to share less data with everyone, than to have more data but with a complex authorization is needed.
-* Own the curation. People need to be able to trust your data. Spend enough time to understand data sets, curate them, and ensure presentation consistency. I consider myself to be a master curator and chief UX designer of a data pillar.
-* Build maps, not control units. The main inspiration for my work is map-making. As noted by Brené Brown, maps are the one of the most important documents in human history (see [Atlas of the Heart](https://brenebrown.com/book/atlas-of-the-heart/) for a discussion on a mapmaking metaphor). They give us tools to store and exchange knowledge about space and place. While there are differences between maps and layers they show, the one thing that all maps do is provide readers with orientation. A sense of place is central to meaning-making. Maps are also composed from multiple layers. Similalry, the architecture data pillar provides layers of data about our systems, describing their size, connections, quality, security, or human activity.
+* Start with the source code. My motto is "Talk is expensive. Show me the code." I scan as soon as possible all source code using tools such as [Sokrates](https://sokrates.dev). I highly recommend [Sokrates](https://sokrates.dev) as the basis for the data platform, but other simple analyses could also provide a good starting point. Modern IT enterprises store almost everything as a code. It is the richest and most up-to-date documentation on most things happening in an IT enterprise.
+* Connect with finance and governance teams to get exports of their data (without sensitive parts, such as revenue projections). Cloud billing reports and data about vibrancy or revenue streams are collected anyway. By extracting more technology-oriented data (e.g., public cloud technology usage trends) and connecting them to other data, many new insights may be obtained without starting new processes or asking people to provide more details. First, leverage what you have, squeeze all the value from it, then ask people for any missing elements.
+* Use simple and easy-to-maintain infrastructures. For example, I publish the results of Sokrates analyses and other simple data Web apps as static resources in our enterprise GithHub pages. Configuring more complex infrastructure with complex databases and backend software requires more maintenance.
+* Maintain a culture of transparency. It is much simpler a more effective to share fewer data with everyone than to have more data, but complex authorization is needed.
+* Own the curation. People need to be able to trust your data. Spend enough time to understand data sets, curate them, and ensure presentation consistency. I am a master curator and chief UX designer of a data pillar.
+* Build maps, not control units. The main inspiration for my work is map-making. As noted by Brené Brown, maps are one of the most critical documents in human history (see [Atlas of the Heart](https://brenebrown.com/book/atlas-of-the-heart/) for a discussion on a mapmaking metaphor). They give us tools to store and exchange knowledge about space and place. While there are differences between maps and the layers they show, the one thing that all maps do is provide readers with orientation. A sense of place is central to meaning-making. Maps are also composed of multiple layers. Similarly, the architecture data pillar offers data layers about our systems, describing their size, connections, quality, security, or human activity.
 
-While I do not want to prescribe the best technology, I can tell what I use in daily work. I build most architecture data pillar as simple web applications, taking data from JSON files hosted on a static web server. See some of [my public tools](https://obren.io/tools) to illustrate how I build such simple data-driven web apps.
+While I do not want to prescribe the best technology, I can tell what I use in daily work. I build most architecture data tools as simple web applications, taking data from JSON files hosted on a static web server. See some of [my public tools](https://obren.io/tools) to illustrate how I build such simple data-driven web apps.

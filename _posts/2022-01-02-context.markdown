@@ -22,15 +22,15 @@ Image by <a href="https://pixabay.com/users/paulbr75-2938186/?utm_source=link-at
 
 To better understand any idea or solution, it is crucial to understand the context in which these ideas developed. My approach to creating and running an architecture function is not an abstract idea. Instead, it is the generalization of many lessons learned while solving specific problems in a particular context.
 
-The work I present here reflects my experiences as a Chief or Principal Architect at AVIV Group, eBay Classifieds, and Adevinta. In this section, I discuss critical characteristics of the organizational context that have had an impact on my definition of the grounded architecture approach:
+I base my ideas on my experiences as a Chief and Principal Architect at AVIV Group, eBay Classifieds, and Adevinta. In this section, I discuss critical characteristics of the organizational context that have had an impact on my definition of the grounded architecture approach:
 * **global scale**: operating across multiple countries and continents
 * **decentralized, loosely-coupled organizational units**: organizational units are decentralized and have significant autonomy, while central functions exist but are limited (everyone is a minority)
 * **multi-dimensional diversity**: due to historical reasons, the organizations I worked in were very diverse at all levels, including customer base, workforce, business model, team topologies, technology stacks
-* **non-linear growth dynamics**: in addition to organic growth, our organizations frequently changed the portfolio both by mergers and acquisitions of new businesses and as well as by divestments
+* **nonlinear growth dynamics**: in addition to organic growth, our organizations frequently changed the portfolio both by mergers and acquisitions of new businesses and as well as by divestments
 * **synergies and transformation pressures**: our organizations wanted to exploit the benefits from the economies of scale and reduce duplication of efforts
 
 
-In the following sub-sections, I discuss these characteristics from an architecture viewpoint, looking at both challenges and opportunities.
+In the following sub-sections, I discuss these characteristics from an architectural viewpoint, looking at challenges and opportunities.
 
 <br>
 
@@ -41,7 +41,7 @@ I was lucky to develop my approach in genuinely global and multicultural organiz
 * Markets in which our organization operates.
 * Workforce building our products. In addition to the people we serve in each active market, we also have people working from many other countries. With the possibility of remote working, there were practically no limitations on the location of our workforce.
 
-Global context also leds to a massive scale:
+Global context also leads to a massive scale:
 
 * Billions of monthly user visits
 * Thousands of active software developers
@@ -50,17 +50,17 @@ Global context also leds to a massive scale:
 
 The global scale introduces several compelling opportunities:
 
-* Increasing effectiveness: possibilities to reducing  duplication of effort by centralizing shared activities.
+* Increasing effectiveness: possibilities to reduce duplication of effort by centralizing shared activities.
 * Leveraging economies of scale: achieving cost advantages, for instance, by reducing unit prices of used technologies.
 * Increased business resilience and flexibility: possibility to compensate for negative local market changes with global resources.
 * Bigger talent pool to support any local or global effort.
-* Possibility for investments to support non-linear growth by mergers and acquisitions (M&As).
+* Possibility for investments to support nonlinear growth by mergers and acquisitions (M&As).
 
 
 The global and massive scale has many challenges:
 
 * Organizational complexity (e.g., thousands of possible communication channels).
-* Complex technology landscape (e.g., the high number of services and interconnections).
+* Complex technology landscape (e.g., many services and interconnections).
 * Continuously high costs of workforce.
 * Continuously high cost of computing resources.
 * Complexity of running operations with high customer demands.
@@ -73,15 +73,15 @@ The global and massive scale has many challenges:
 
 ## Characteristic 2: Loose Coupling
 
-Researcher Karl Weick developed the concepts of tight and loose coupling to describe the organizational structure first in educational institutions, later applied to diverse businesses. According to Weick, a tightly coupled organization has a set of mutually understood rules enforced by *inspection and feedback* systems. In tightly coupled organizations, management can more directly coordinate different departments' activities according to a central strategy.
+Researcher Karl Weick developed the concepts of tight and loose coupling to describe the organizational structure first in educational institutions and later applied to diverse businesses. According to Weick, a tightly coupled organization has mutually understood rules enforced by *inspection and feedback* systems. In tightly coupled organizations, management can more directly coordinate different departments' activities according to a central strategy.
 
-In a loosely coupled organization, some of the elements of a tightly coupled organization are not in effect. Employees have more autonomy, and different departments may operate without much coordination.
+In a loosely coupled organization, some of the elements of a tightly coupled organization are absent. Employees have more autonomy, and different departments may operate with little coordination.
 
-Due to historical and strategic reasons, most organizational units I worked with were loosely coupled. Our companies frequently grow by acquisitions of key players in different marketplaces. The strategies also frequently promoted a more independent evolution of each marketplace to better and faster address local market needs. Marketplaces often have a high level of autonomy, frequently with their development teams, C(P)TOs, CFOs, CMOs, or CEOs.
+Due to historical and strategic reasons, most organizational units I worked with were loosely coupled. Our companies frequently grow through acquisitions of companies in different marketplaces. The strategies also continually promoted a more independent evolution of each marketplace to better and faster address local market needs. Marketplaces often have a high level of autonomy, frequently with their development teams and sometimes with local C(P)TOs, CFOs, CMOs, or CEOs.
 
 Loose coupling offers several advantages:
 
-* Higher flexibility: units can keep developing independently, addressing specific needs without the need to synchronize with other marketplaces.
+* Higher flexibility: units can keep developing independently, addressing specific needs without synchronizing with other marketplaces.
 * High development speed / faster time-to-market: fewer dependencies make it much easier for marketplaces to change and evolve their products for local needs.
 * Innovation: possibilities to quickly explore ideas in smaller contexts.
 
@@ -104,7 +104,7 @@ The organizations I worked on were very diverse across several dimensions:
 * Architecture
 * Technology
 
-The global and multi-cultural nature of our context leads to diversity and multiple levels:
+The global and multicultural nature of our context leads to diversity and multiple levels:
 
 * Diversity of decision-making styles
 * Diversity of organizational styles and hierarchies
@@ -113,8 +113,8 @@ The global and multi-cultural nature of our context leads to diversity and multi
 
 The organizations I worked with had many units, such as marketplaces (each with its sub-structures), global capabilities, enterprise IT teams, data capabilities, and generic IT infrastructure. In addition to their loose coupling, these organizational units differed in multiple ways:
 
-* Size: for instance, some units had hundreds of developers, and some units only a dozen.
-* Team topologies: some organizations had one team, others many teams organized hierarchically.
+* Size: for instance, some units had hundreds of developers, and some units had only a dozen.
+* Team topologies: some organizations had one team, while other teams were organized hierarchically.
 * Position of architecture: with some organizations having local architecture teams and local lead architects, smaller units have their team members conducting architecture activities in addition to other responsibilities
 
 With many brands, we also have significant product diversity.
@@ -125,16 +125,16 @@ The primary technical infrastructure included several public cloud providers (AW
 
 The systems also employed diverse application technologies, such as:
 
-* Database technologies (e.g., MySQL, Postgress, MongoDB, Cassandra, AWS RDS).
-* Backend programming languages (e.g., Java, C#, Go, Scala, PHP, Node.js, Kotlin).
-* Mobile app programming languages (e.g., Swift, Objective-C, Java, Kotlin, Flutter/Dart).
-* Frontend programming languages and frameworks (e.g., React, Android, AndroidJS, Vue, jQuery).
+* Database technologies (e.g., MySQL, Postgress, MongoDB, Cassandra, AWS RDS...).
+* Backend programming languages (e.g., Java, C#, Go, Scala, PHP, Node.js, Kotlin...).
+* Mobile app programming languages (e.g., Swift, Objective-C, Java, Kotlin, Flutter/Dart...).
+* Frontend programming languages and frameworks (e.g., React, Android, AndroidJS, Vue, jQuery...).
 
 
-From an architecture perspective, diversity offers several opportunities:
+From an architectural perspective, diversity offers several opportunities:
 
-* Increasing innovation due to diverse workforce, possibilities to creatively explore more technologies and tools.
-* Addressing specific needs better by choosing from bigger and more diverse pool of resources.
+* Increasing innovation due to a diverse workforce and possibilities to creatively explore more technologies and tools.
+* Addressing specific needs better by choosing from a more extensive and diverse pool of resources.
 
 Diversity also poses several challenges:
 
@@ -146,14 +146,14 @@ Diversity also poses several challenges:
 
 
 
-## Characteristic 4: Non-Linear Growth Dynamics
+## Characteristic 4: Nonlinear Growth Dynamics
 
 Complex organizations like the one I have worked in are frequently very dynamic. Such organizations grow (or shrink) and reorganize often and significantly. They change both organically and inorganically. Organic growth is internal growth the company sees from its operations. Inorganic change comes from buying other businesses, opening new locations, or divesting.
 
 Possibilities for nonlinear growth may be helpful in several scenarios:
 
 * Faster growth due to acquisitions of market segments.
-* Speeding up innovation due to acquisition of new technologies or services.
+* Speeding up innovation due to the acquisition of new technologies or services.
 
 Nonlinear dynamics have several influences on architectural activities:
 
@@ -177,5 +177,5 @@ Pressure to be more synergic and efficient has its challenges:
 
 * Up-front investment is needed to gain any benefit.
 * Such investment typically brings high risks.
-* Productivity of some teams may (temporary) drop due to the need to split effort between transformation activities and other work.
+* Productivity of some teams may (temporarily) drop due to the need to split effort between transformation activities and other work.
 * After transformations, the complexity of the organization and technology landscape may increase due to more dependencies, e.g., reusing central services.

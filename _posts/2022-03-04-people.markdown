@@ -21,12 +21,12 @@ Image by <a href="https://pixabay.com/users/mostafa_meraji-13551092/?utm_source=
 > 
 > *"Software design is an exercise in human relationships."* Kent Beck
 
-One of the central premises of our work is that we should not take our architectural talent for granted. Architects are bridging local business, product, organizational, and technology issues. Architects are difficult to hire talent as they need in-depth technical knowledge and domain-specific and organizational knowledge.
+One of the central premises of our work is that we should not take our architectural talent for granted. Architects are bridging local business, product, organizational, and technology issues. Architects are difficult to hire talent as they need not only in-depth technical knowledge but also domain-specific and organizational knowledge.
 
-The **People Pillar** is an essential element of Grounded Architecture. As noted by Gregor Hohpe, to transform an organization, you do not need to solve mathematical equations. You need to move people. Consequently, having a strong network of people doing architecture across the organization is crucial to ensure that architecture function has any tangible impact.
+The **People Pillar** is an essential element of Grounded Architecture. As noted by Gregor Hohpe, to transform an organization, you do not need to solve mathematical equations. You need to move people. Consequently, having a strong network of people doing architecture across the organization is crucial to ensure that the architecture function has any tangible impact.
 ![](assets/images/model-people.png)
 
-In my work in past few years, I was working by combining, in different forms, two teams of architects: a small central architecture team, as well as a cross-organizational distributed virtual team. A central architecture team serves as an enabler for the rest of the organization, supporting teams and addresssing global strategic topics. A distributed virtual architecture team consists of architects (or other people making architecture decisions in their teams) working in local organizational units but spending some time in a virtual team with peers from other teams. I found that such a distributed virtual architecture team is a crucial element of an architecture function. It provides the connection (grounding) across the all parts and levels of the organization, increasing transparency, building people networks, and making it easier to implement change across the organization.
+In my work in the past few years, I was working by combining, in different forms, two teams of architects: a small central architecture team and a cross-organizational distributed virtual team. A central architecture team is an enabler for the rest of the organization, supporting teams and addressing global strategic topics. A distributed virtual architecture team consists of architects (or other people making architecture decisions in their teams) working in local organizational units but spending some time in a virtual team with peers from other teams. Such a distributed virtual architecture team is a crucial element of an architecture function. It provides the connection (grounding) across all parts and levels of the organization, increasing transparency, building people networks, and making it easier to implement change.
 
 <br>
 ## Background: Central and/or Federated Architecture Function
@@ -39,32 +39,30 @@ The architecture function generally follows one of two fundamental models: centr
 Credit: <a href="https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/tech-forward/crafting-the-optimal-model-for-the-it-architecture-organization">mckinsey.com/.../crafting-the-optimal-model-for-the-it-architecture-organization</a>
 </div>
 
-The central model involves a large-scale central architecture team. The central team typically defines the process for approval of new work and assures adherence by development teams. In this model, development teams have few or no qualified solution architects that are typically a part of the central architecture team. In this model, centralized infrastructure, operations, and security teams are also held apart from the development function. Control and governance are typically the primary concerns of the central architecture team.
+The central model involves a large-scale central architecture team. The central team typically defines the process for approval of new work and assures adherence by development teams. In this model, development teams have few or no qualified solution architects that are typically a part of the central architecture team. This model also holds centralized infrastructure, operations, and security teams apart from the development function. Control and governance are typically the primary concerns of the central architecture team.
 
 The federated model generally relies upon a guild or "community of practice" of solution architects embedded into individual development teams. A small central architecture team or an architecture center of excellence (CoE) may complement such a guild. The federated model's architects facilitate high-level planning and act as on-demand service providers for distributed teams.
 
 The federated model is more commonly associated with cross-functional DevOps culture. The roles of solution and enterprise architects are generally broader in scope to integrate infrastructure, operations, and security concerns in product-oriented teams. The architect's role focuses on facilitation and enablement rather than control. The number of solution architects in a federated environment typically outnumbers the number of enterprise architects.
 
-Today, modern agile organizations mainly adopt the federated model. This approach increases the likelihood that the central architecture team will spend its time closely involved with the challenges identified in the teams. The model ensures that the architects will be evaluated against the goals of the individual products they support, thereby focusing on improving performance and reducing complexity.
+Today, modern agile organizations mainly adopt the federated model. This approach increases the likelihood that the central architecture team will spend time closely involved with the challenges identified in the teams. The model ensures that the architects will be evaluated against the goals of the individual products they support, thereby focusing on improving performance and reducing complexity.
 
 <br>
 ## The Hybrid Model
 
-To operate in our complex context, we have invested effort to ensure we have the right people at the right places. In the end, the adopted model was a hybrid organizational combining elements of central and federated orientation structures:
+To operate in our complex context, we have invested effort to ensure we have the right people at the right places. In the end, the adopted model was a hybrid organization combining elements of central and federated orientation structures:
 * Central Architectural Teams, and
 * Architecture Guilds & Virtual Architectural Teams.
 
-Our hybrid team structure all supported well our goals of being able to execute at scale. Guilds and virtual architecture teams supported execution both by increasing number of people involved in architectural activities and increasing efficiency of our work by better alignment. By having members representing diverse organizational units we were able to have much more impact across the board. And having some capacity on central level serve as a catalyst helping people local levels to do their job while being aligned and better connected with overall strategic goals and other teams working with similar topics.
-
-
+Our hybrid team structure supported well our goals of being able to execute at scale. Guilds and virtual architecture teams supported execution by increasing the number of people involved in architectural activities and increasing the efficiency of our work through better alignment. By having members representing various organizational units, we were able to have much more impact across the board. And having some capacity on the central level serves as a catalyst helping people at local levels to do their job while being aligned and better connected with overall strategic goals and other teams working on similar topics.
 
 ### Central Architecture Team
 
 I aimed to have several people with broad experience in a central team. Such people should be well-connected in the organization and externally, be good communicators, and have political acumen. While the roles of people in central teams may differ, in general, we aim at the following types of responsibilities:
-* Build and maintain the architecture [Data Pillar](data-pillar).
+* Build and maintain the architecture [Data Pillar](data-pillar). Building a data pillar requires clear ownership, curation, and full-time support.
 * Promote data-informed domain decisions: identify, collect, and use relevant data about the domain
-* Identify, connect and maintain relationships with all relevant stakeholders
-* Building internal architecture communities and guilds
+* Identify, connect, and maintain relationships with all relevant stakeholders
+* Build internal architecture communities and guilds
 * External thought leadership
 * Vendor relationships and roadmap alignment
 
@@ -81,7 +79,7 @@ When having many guilds and teams, we have organized architects in several sub-a
 * Specialist teams focus on a particular part of the technology stack. Examples include native mobile apps, web frontends, public cloud infrastructure, etc. 
 * Strategic initiatives teams. For instance, data strategy, public cloud strategy, transactions, or verticalization.
 
-It is important to have places and events ton connect central and distributed teams. Such events can transform individual experiences into collective knowledge that can benefit the whole organization.
+Having places and events to connect central and distributed teams is essential. Such events can transform individual experiences into collective knowledge that can benefit the whole organization.
 
 In most organizations I worked in, distributed teams followed a similar pattern of rituals:
 * regular (e.g., bi-weekly) forums, with updates, announcements of architectural spikes, and sharing or architectural decisions (similar to Andrew Harmel-Law's [Advice Process](https://martinfowler.com/articles/scaling-architecture-conversationally.html))
@@ -94,9 +92,9 @@ While we have provided some essential support, we found it critical that all com
 ## Getting Started
 
 While each organization will need its unique approach, here are some tips I found helpful in my approach to forming architecture teams or "[People Pillar](people-pillar)":
-* Before making grandiose plans for reorganizations, connect with the people already doing some architectural work in an organization, creating a community of practices or a virtual team. Being inclusive and connecting all key tech leaders, regardless of their actual position and title, is vital. Being well-connected to these people will be crucial in any architecture organization, so you will always benefit from this effort. 
-* If creating a virtual team is a part of your architecture strategy, move away from creating an informal community of practice towards creating a team with more accountability and responsibility. It was helpful to get buy-in from key stakeholders, e.g., Engineering Leaders who should want to get their people to work together with other architects.
-* Connect with as many non-architecture stakeholders as possible in the early stages. Again, in any architecture organization, being well-connected to these stakeholders will be crucial.
+* Before making grandiose plans for reorganizations, connect with the people already doing architectural work in an organization, creating a community of practices or a virtual team. Being inclusive and connecting all key tech leaders, regardless of their actual position and title, is vital. Being well-connected to these people will be crucial in any architecture organization, so you will always benefit from this effort.  
+* If creating a virtual team is a part of your architecture strategy, move away from making an informal community of practice towards building a team with more accountability and responsibility. It was helpful to get buy-in from key stakeholders, e.g., Engineering Leaders who should want to get their people to work together with other architects.
+* Connect with as many non-architecture stakeholders as possible in the early stages. Again, being well-connected to these stakeholders will be crucial in any architecture organization.
 * Align the architecture vision and other [guiding principles](principles) with all stakeholders.
 * Avoid hiring [digital hitman](https://architectelevator.com/transformation/dont-hire-hitman/). Invest in growing internal candidates. Architects require knowledge of technology, domain, and organization. Finding such a person outside the organization is challenging.
 * Externalize. Reach out and connect. Participate in external events. Publish. Being strong externally can help you to both grow and attract architectural talent.

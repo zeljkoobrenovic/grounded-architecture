@@ -17,9 +17,9 @@ excerpt: "I tried to prevent a simplistic view of architecture as defining direc
 Image by nonbirinonko/Pixabay
 </div>
 
-With Grounded Architecture it is possible to have flexible governance models that acknowledge the complexity and diversity of our organization. By governing, I mean guiding technology choices in the organization in a particular direction aligned with the technology strategy. 
+With Grounded Architecture, it is possible to have flexible governance models that acknowledge the complexity and diversity of our organization. By governing, I mean guiding technology choices in the organization in a particular direction aligned with the technology strategy. 
 
-I tried to prevent a simplistic view of architecture as defining directives for the rest of the organization. Consequently, we aimed at promoting a technology governance model as a well-balanced hybrid of three different styles of governing:
+I tried to prevent a simplistic view of architecture as defining directives for the rest of the organization. Consequently, I aimed to promote a technology governance model as a well-balanced hybrid of three different styles of governing:
 * mandates and bans,
 * taxes, and
 * leading by context.
@@ -28,7 +28,7 @@ I tried to prevent a simplistic view of architecture as defining directives for 
 <br>
 ## Mandates and Bans
 
-By governing with mandates and bans I mean guiding people by explicitly defining what they should or should not do. In places I worked in, such mandates and bans have had a limited by important place to define broader strategic boundaries of choices that people can make. For instance, limiting the usage of public cloud providers to specific vendors or following strict privacy and security procedures needs to be explicitly defined and controlled. 
+By governing with mandates and bans, I mean guiding people by explicitly defining what they should or should not do. In places I worked in, such mandates and bans have had a limited by important place to define broader strategic boundaries of choices people can make. For instance, restricting the usage of public cloud providers to specific vendors or following strict privacy and security procedures needs to be explicitly defined and controlled.
 
 <br>
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
@@ -37,16 +37,16 @@ By governing with mandates and bans I mean guiding people by explicitly defining
 Image by <a href="https://pixabay.com/users/tumisu-148124/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2991600">Tumisu</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2991600">Pixabay</a>
 </div>
 
-The role of architecture in this form of governing should be to be a stakeholder but not a sole owner of in defining mandates and bans. Mandates and basn frequelty need to be defined in collaboration with others, such as security and legal functions. The architecture can help in creating clarity, and providing transparency.
+The role of architecture in this form of governing should be to be a stakeholder but not a sole owner in defining mandates and bans. Mandates and bans frequently need to be defined in collaboration with others, such as security and legal functions. The Grounded Architecture can help by creating clarity and providing transparency.
 
 The Data pillar was a helpful element in creating clarity and transparency. For instance, we have created different maps of areas in source code or infrastructure that needed to be monitored and controlled based on privacy or security requirements.
 
-The People pillar helps propagate the decision and ensure its positive impact. You should never order or forbid people to do some things routinely. Spending enough time with all stakeholders to explain the reasons and motivations behind introducing some limitations is crucial to ensure the effective working of mandates and bans. Having a strong People pillar ensures that you already have strong connections with key stakeholders and can leverage them to change ways of working more smoothly.
+The People Pillar helps propagate the decision and ensure its positive impact. You should never order or forbid people to do some things routinely. Spending enough time with all stakeholders to explain the reasons and motivations behind introducing some limitations is crucial to ensure the effective working of mandates and bans. A strong People pillar ensures that you already have strong connections with key stakeholders and can leverage them to change ways of working more smoothly.
 
 <br>
 ## Taxation
 
-Governing with taxes is a form of guiding in which people are not forbidden to make some decisions but need to "pay" some form of taxes on used resources. For instance, costs of the public cloud usage could be cross-charged across the organization, providing a helpful feedback loop to optimize our systems and avoid unnecessary resource consumption, avoiding "tragedy of commons" which frequently happens when there are no limits or significant costs of increasing shared resource consumption (e.g., public cloud budget). 
+Governing with taxes is a form of guiding in which people are not forbidden to make some decisions but need to "pay" some form of taxes on used resources. For instance, costs of public cloud usage could be cross-charged across the organization, providing a helpful feedback loop to optimize our systems and avoid unnecessary resource consumption, avoiding the "tragedy of commons" which frequently happens when there are no limits or high costs of increasing shared resource consumption (e.g., public cloud budget). 
 
 <br>
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
@@ -55,14 +55,14 @@ Governing with taxes is a form of guiding in which people are not forbidden to m
 Image by <a href="https://pixabay.com/users/stevepb-282134/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=522549">Steve Buissinne</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=522549">Pixabay</a>
 </div>
 
-The role of architecture in this form of governance should be to ensure that "taxation" is data driven and transaprent, and to create efficient feedback loops on key metrics related to "taxes."
+The role of Grounded Architecture in this form of governance should be to ensure that "taxation" is data-driven and transparent and to create efficient feedback loops on key metrics related to "taxes."
 
-Data pillar should include and provide all data regarding taxes. People platform should align processes, golas and ways of working to ensure that taxation leads to desired and meaningful change.
+The Data Pillar should include and provide all data regarding taxes. The People Pillar should align processes, goals, and working methods to ensure that taxation leads to desired and meaningful change.
 
 <br>
 ## Leading by Context
 
-Leading the context is a form of governing in which we do not forbid people to make some choices, nor do they need to "pay" taxes. Instead, we wanted to create a shared context that can facilitate people making informed decisions. Such contexts should include sharing of lessons learned by others, both good and bad, and places to get feedback on ideas and plans. The role of the architecture in this form of governing should be to create mechanisms for sharing experiences and obtaining feedback on plans and decisions. It should also include mechanisms to capture artifacts that can help people to make informed decisions, such as architecture decision resources (ADRs), principles, golden paths, or best practices.
+Leading the context is a form of governing in which we do not forbid people to make some choices, nor do they need to "pay" taxes. Instead, we wanted to create a shared context to facilitate people making informed decisions. Such contexts should include sharing lessons learned by others, good and bad, and places to get feedback on ideas and plans. The role of the architecture in this form of governing should be to create mechanisms for sharing experiences and obtaining input on plans and decisions. It should also include means to capture artifacts that can help people to make informed decisions, such as architecture decision resources (ADRs), principles, golden paths, or best practices.
 
 <br>
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 

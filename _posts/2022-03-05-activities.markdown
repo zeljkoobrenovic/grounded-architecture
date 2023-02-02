@@ -17,15 +17,17 @@ excerpt: "The Architecture Activities Platform is the place where, by leveraging
 Image by <a href="https://pixabay.com/users/cocoparisienne-127419/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=366199">Anja-#pray for ukraine# #helping hands# stop the war</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=366199">Pixabay</a>
 </div>
 
-Each organization will have different architectural needs and context. When forming architecture functions, I use as a starting point these [two pieces of advice from Gregor Hohpe](https://architectelevator.com/architecture/organizing-architecture/):
+Each organization will have different architectural needs and contexts. When forming architecture functions, I use as a starting point these [two pieces of advice from Gregor Hohpe](https://architectelevator.com/architecture/organizing-architecture/):
  * *"Your architecture team’s job is to solve your biggest problems. The best setup is the one that allows it to accomplish that."*
  * *"Your organization has to earn its way to an effective architecture function. You can’t just plug some architects into the current mess and expect it to solve all your problems."*
 
 ![](assets/images/model-strategy.png)
 
-Considering the previous two points from Gregor Hohpe, each organization must find activities and operating models to enable architecture to work on the most important problems. 
+Considering the previous two points from Gregor Hohpe, each organization must find activities and operating models to enable architecture to work on the most critical problems. 
 
-The Architecture Activities Platform is the place where we have been performing activities that could help an organization to reach it goals. Here are some examples of activities:
+The Architecture Activities Platform is where we have to perform activities that help an organization reach its goals. In all of these activities, data and people pillars provide foundations for data-informed decision-making well-embedded in the organization.
+
+Here are some examples of activities:
 * Design mechanisms for teams to make better decisions 
 * Supporting teams in their daily work
 * Supporting planned new initiatives and projects
@@ -37,5 +39,3 @@ The Architecture Activities Platform is the place where we have been performing 
 * Defining vision and direction of technology, frequently in collaboration with CTOs
 * Performing SWOT and other analyses of platforms and system
 * Defining Cloud, Data, and Platform strategies
-
-In all of these activities, data and people pillars provide foundations for data-informed decision-making well-embedded in the organization.

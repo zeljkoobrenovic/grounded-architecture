@@ -8,7 +8,7 @@ author: by Željko Obrenović (obren.io)
 permalink: background
 icon: books.png
 timetoread: 15 min
-excerpt: Overview of the background to probe further. External evidence, supporting and inspiring some of our practices.
+excerpt: Overview of the background to probe further. External resources inspiring my work.
 
 
 ---
@@ -38,7 +38,7 @@ Image by <a href="https://pixabay.com/users/olivergotting-18505948/?utm_source=l
 <img src="assets/images/software-architecture-elevator.webp" class="book">
 </td>
 <td>
-<b>The Software Architect Elevator: Redefining the Architect's Role</b> by Gregor Hohpe defines architects as people that can fill an important void in large enterprises: they work and communicate closely with technical staff on projects, but are also able to convey technical topics to upper management without losing the essence of the message. Conversely, they understand the company’s business strategy and can translate it into technical decisions that support it.
+<b>The Software Architect Elevator: Redefining the Architect's Role</b> by Gregor Hohpe defines architects as people that can fill a void in large enterprises: they work and communicate closely with technical staff on projects but are also able to convey technical topics to upper management without losing the essence of the message. Conversely, they understand the company's business strategy and can translate it into technical decisions that support it.
 </td>
 <td style="font-size: 50%; line-height: 12px; text-align: center">
 <div>
@@ -78,9 +78,9 @@ Image by <a href="https://pixabay.com/users/olivergotting-18505948/?utm_source=l
 <img src="assets/images/books/sokrates.png" class="book">
 </td>
 <td>
-<b>Sokrates</b>: Sokrates is a tool built I built to implement my vision on how to document and analyze software architectures of complex systems.
-Sokrates is provides a pragmatic, inexpensive way to extract rich data from any source code repositories.
-Sokrates can help you to understand your code by making visible the size, complexity, and coupling of software, as well all people interactions and team topologies.
+<b>Sokrates</b>: Sokrates is a tool I built to implement my vision of documenting and analyzing software architectures of complex systems.
+Sokrates provides a pragmatic, inexpensive way to extract rich data from source code repositories.
+Sokrates can help you understand your code by making visible the size, complexity, and coupling of software and all people interactions and team topologies.
 </td>
 <td style="font-size: 50%; line-height: 12px; text-align: center">
 <div>
@@ -95,7 +95,7 @@ Sokrates can help you to understand your code by making visible the size, comple
 <img src="assets/images/books/productivity_tools.png" class="book">
 </td>
 <td>
-<b>Tools</b>: a collection of online tools I built to help me in my daily work as architect. I reuse these tools and lessons learned in building these tools when designing data pillar parts of grounded architecture.
+<b>Productivity Tools</b>: a collection of online tools I built to help me in my daily work as an architect. I reuse these tools and lessons learned in building these tools when designing data pillar parts of the grounded architecture.
 </td>
 <td style="font-size: 50%; line-height: 12px; text-align: center">
 <div>
@@ -114,7 +114,7 @@ Sokrates can help you to understand your code by making visible the size, comple
 <img src="assets/images/books/team-topologies.webp" class="book">
 </td>
 <td>
-<b>Team Topologies</b> by Manuel Pais and Matthew Skelton describes four foundamental topologies (stream-aligned teams, enabling teams, complicated subsystem teams, and platform teams), and three fundamental interacition modes (collaboration, X-as-a-Service, and facilitation).
+<b>Team Topologies</b> by Manuel Pais and Matthew Skelton describes four fundamental topologies (stream-aligned teams, enabling teams, complicated subsystem teams, and platform teams), and three fundamental interaction modes (collaboration, X-as-a-Service, and facilitation).
 </td>
 <td style="font-size: 50%; line-height: 12px; text-align: center">
 <a target="_blank" href="https://obren.io/tools/reading-notes-pro/notes/Team%20Topologies_%20Organizing%20Business%20and%20Technology%20%20Teams%20for%20Fast%20Flow-Notebook.pdf">
@@ -128,7 +128,7 @@ Sokrates can help you to understand your code by making visible the size, comple
 <img src="assets/images/books/culture-maps.jpeg" class="book" style="border: 1px solid lightgrey">
 </td>
 <td>
-<b>The Culture Map: Decoding How People Think, Lead, and Get Things Done Across Cultures</b>: provides a framework for handling intercultural differences in business and illustrates how different cultures perceive the world. Awareness of intercultural diferences is crucial for success of an architect in an international setting. It helps us understand these differences, and in doing so improves our ability to react to certain behaviors that might have once seemed strange.
+<b>The Culture Map: Decoding How People Think, Lead, and Get Things Done Across Cultures</b>: provides a framework for handling intercultural differences in business and illustrates how different cultures perceive the world. Awareness of intercultural differences is crucial for the success of an architect in an international setting. It helps us understand these differences and, in doing so, improves our ability to react to specific behaviors that might have once seemed strange.
 </td>
 <td style="font-size: 50%; line-height: 12px; text-align: center">
 <div>
@@ -149,7 +149,7 @@ Sokrates can help you to understand your code by making visible the size, comple
 <img src="assets/images/books/nudge.webp" class="book">
 </td>
 <td>
-<b>Nudge</b> by Richard Thaler draws on research in psychology and behavioral economics to define libertarian paternalism as an active engineering of choice architecture. The book also popularised the concept of a nudge, a choice architecture that alters people's behaviour in a predictable way without restricting options or significantly changing their economic incentives.
+<b>Nudge</b> by Richard Thaler draws on research in psychology and behavioral economics to define libertarian paternalism as an active engineering of choice architecture. The book also popularised the concept of a nudge, a choice architecture that predictably alters people's behavior without restricting options or significantly changing their economic incentives.
 </td>
 <td style="font-size: 50%; line-height: 12px; text-align: center">
 <a target="_blank" href="">
@@ -163,7 +163,7 @@ Sokrates can help you to understand your code by making visible the size, comple
 <img src="assets/images/books/no-rules-rules.webp" class="book">
 </td>
 <td>
-<b>No Rules Rules</b> by Erin Meyer and Reed Hastings provides insights in Netflix culture. When you give low-level employees access to information that is generally reserved for high-level executives, they get more done on their own. They work faster without stopping to ask for information and approval. They make better decisions without needing input from the top.
+<b>No Rules Rules</b> by Erin Meyer and Reed Hastings provides insights into Netflix culture. When you give low-level employees access to information that is generally reserved for high-level executives, they get more done on their own. They work faster without stopping to ask for information and approval. They make better decisions without needing input from the top.
 </td>
 <td style="font-size: 50%; line-height: 12px; text-align: center">
 <a target="_blank" href="https://obren.io/tools/reading-notes-pro/notes/No%20Rules%20Rules_%20Netflix%20and%20the%20Culture%20of%20Reinvention-Notebook.pdf">
@@ -176,7 +176,7 @@ Sokrates can help you to understand your code by making visible the size, comple
 <img src="assets/images/books/dare-to-lead.webp" class="book">
 </td>
 <td>
-<b>Dare To Lead</b> by Brene Brow, defines a leader is anyone who takes responsibility for finding the potential in people and processes and has the courage to develop that potential.
+<b>Dare To Lead</b> by Brené Brown, defines a leader as anyone who takes responsibility for finding the potential in people and processes and has the courage to develop that potential.
 </td>
 <td style="font-size: 50%; line-height: 12px; text-align: center">
 <a target="_blank" href="https://obren.io/tools/reading-notes-pro/notes/Dare%20to%20Lead_%20Brave%20Work_%20Tough%20Conversations_%20Whole%20%20Hearts_-Notebook.pdf">

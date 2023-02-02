@@ -23,9 +23,9 @@ In this collection of articles, I explained my approach to running an architectu
 
 ![](assets/images/model.png)
 
-The *Data Pillar* ensures that decisions architects can make data-informed decisions based on a real-time and complete overview of the state of the organization's technology.
+The *Data Pillar* ensures that architects can make data-informed decisions based on a real-time and complete overview of the organization's technology landscape.
 
-The *People Pillar* is another essential elements of Grounded Architecture. A strong network of people doing architecture across the organization is crucial to ensure that architecture function has any tangible impact.
+The *People Pillar* is another essential element of Grounded Architecture. A strong network of people doing architecture across the organization is crucial to ensure that architecture function has any tangible impact.
 
 Lastly, the *Architecture Activities Platform* leverages data and people to create a data-informed, deep, and broad impact.
 
@@ -37,13 +37,13 @@ I have identified the following [guiding principles](principles) that can help p
 
 When Grounded Architecture is in place, it can have a significant [positive impact](impact) on the functioning of an organization:
 
-* Increase Architecture Function Adaptivity,
-* Increase the Quality of Decision-Making with Data,
 * Enable Execution of Architecture Function At Scale,
+* Increase the Quality of Decision-Making with Data,
 * Maximize Organizational Alignment,
-* Maximize Organizational Learning.
+* Maximize Organizational Learning, and
+* Increase Architecture Function Adaptivity.
 
-Remember that while you may borrow ideas from others, in the end every organization is different and your approach will need to adapt to your context. When forming architecture functions, I always advice not to forget these [two pieces of advice from Gregor Hohpe](https://architectelevator.com/architecture/organizing-architecture/):
+Remember that while you may borrow ideas from others, every organization is different in the end, and your approach must adapt to your context. When forming architecture functions, I always advise not to forget these [two pieces of advice from Gregor Hohpe](https://architectelevator.com/architecture/organizing-architecture/):
  * "*Your architecture team’s job is to solve your biggest problems. The best setup is the one that allows it to accomplish that.*"
  * "*Your organization has to earn its way to an effective architecture function. You can’t just plug some architects into the current mess and expect it to solve all your problems.*"
 
