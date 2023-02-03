@@ -29,18 +29,3 @@ Organizational units have very diverse structures and sizes. There is no one-fit
 
 ![](https://esilva.net/assets/team-architecture-topologies.png)
 ***Figure 1:** A model for organizing (local) architects. Credit: [Gregor Hohpe](https://architectelevator.com/architecture/organizing-architecture/).*
-
-<br>
-In daily work, we aimed to implement the following operational model:
-* Most of the decisions should be made by individual teams, which should be a part of the People Pillar via different communities, such as architecture guilds
-* Architecture function should provide 
-  * data to inform these decisions via the data pillar
-  * decisions boundaries to enable the minimal level of compatibility and strategic alignment (e.g., cloud provider)
-  * principles to facilitate consistency in decision-making
-* Global architects should then spend their time in constant motion between the daily work of the teams and strategic topics, helping the organization to achieve alignment between strategy and implementation
-
-Inspired by Gregor Hohpe's strategy-principles-decisions model, the following picture illustrates the process:
-
-
-![](assets/images/arch/architecture-system.png)
-
