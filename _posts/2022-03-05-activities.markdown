@@ -54,7 +54,11 @@ While exact activities and their scope will depend on an organization setting an
 Inspired by Gregor Hohpe's strategy-principles-decisions model, the following picture illustrates the process:
 
 
-![](assets/images/arch/architecture-system.png)
+<div>
+<a href="assets/images/arch/architecture-system.png" target="_blank">
+    <img src="assets/images/arch/architecture-system.png">
+</a>
+</div>
 
 
 
