@@ -36,9 +36,9 @@ I've always aimed to get reliable data about technology with as much as possible
 
 In the following sections, I detail several of these architectural data-driven tools.
 
-![](assets/images/apps.png)
+<img src="assets/images/apps.png" style="border: 1px solid lightgrey; padding-top: 8px; padding-bottom: 8px">
 <br>
-**Figure 1:** *Examples of data-driven architecture documents I've built and used at AVIV Group.*
+**Figure 1:** *A screenshot of the start page of the architecture data dashboard we've built and used at AVIV Group.*
 
 <br>
 ### Example 1: Source Code and Commit History As A Source of Data
