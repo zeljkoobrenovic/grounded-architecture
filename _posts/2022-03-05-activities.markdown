@@ -43,16 +43,16 @@ Here are some examples of activities:
 <br>
 While exact activities and their scope will depend on an organization setting and will change over time, in daily work, we aimed to implement the common operational model:
 
-* Architects engage with stakeholders and product and project teams in a **collaborative and supportive manner**
-* Architects aimed at **empowering the teams** so that they make and document most of the decisions.
+* Architects engage with stakeholders and product and project teams in a **collaborative and supportive manner**.
+* Architects are **empowering the teams** so that they make most of the decisions.
 * In all activities, the architecture function provided: 
   * **data** to inform decisions leveraging the [Data Pillar](data-pillar)
   * **decisions boundaries** to enable the minimal level of compatibility and strategic alignment (e.g., public cloud provider, tech stack constraints)
   * **principles** to facilitate consistency in decision-making
+  * **sharing** and generalization of lessons learned
 * Architects then spend their time in **constant motion** between supporting teams' **daily work** and working on **strategic topics**, helping the organization achieve alignment between strategy and implementation.
 
 Inspired by Gregor Hohpe's strategy-principles-decisions model, the following picture illustrates the process:
-
 
 <div>
 <a href="assets/images/arch/architecture-system.png" target="_blank">
