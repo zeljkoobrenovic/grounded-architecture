@@ -28,7 +28,7 @@ Considering the previous two points from Gregor Hohpe, each organization must fi
 The Architecture Activities Platform is where we have to perform activities that help an organization reach its goals. In all of these activities, data and people pillars provide foundations for data-informed decision-making well-embedded in the organization.
 
 <br>
-## Examples
+## Examples of Architecture Activities
 
 Here are some examples of activities I have been performing with architects:
 * **Design mechanisms for teams to make better decisions.** This includes creating global decision-support mechanisms, such as advisory forums, formal design authority (for compliance-sensitive projects), and team-specific mechanisms, such as escalation paths in case of decision conflicts (e.g., teams cannot align on a common messaging middleware). 
@@ -50,10 +50,10 @@ While exact activities and their scope will depend on an organization setting an
 * Architects engage with stakeholders and product and project teams in a **collaborative and supportive manner**.
 * Architects are **empowering the teams** so that they make most of the decisions.
 * In all activities, the architecture function and architects: 
-  * **bring data** to inform decisions leveraging the [Data Pillar](data-pillar)
-  * **define decision boundaries** to enable the minimal level of compatibility and strategic alignment (e.g., public cloud provider, tech stack constraints)
-  * **define key principles** to facilitate consistency in decision-making
-  * **share and generalize** lessons learned
+  * **Bring relevant data** to inform decisions leveraging the [Data Pillar](data-pillar).
+  * **Define decision boundaries** to enable the minimal level of compatibility and strategic alignment (e.g., public cloud provider, tech stack constraints).
+  * **Define key principles** to facilitate consistency in decision-making.
+  * **Share and generalize** lessons learned.
 * Architects then spend their time in **constant motion** between supporting teams' **daily work** and working on **strategic topics**, helping the organization achieve alignment between strategy and implementation.
 
 Inspired by Gregor Hohpe's strategy-principles-decisions model Figure 1 illustrates the process.
