@@ -31,7 +31,7 @@ The Architecture Activities Platform is where we have to perform activities that
 ## Examples of Architecture Activities
 
 Here are some examples of activities I have been performing with architects:
-* **Design mechanisms for teams to make better decisions.** This includes creating global decision-support mechanisms, such as advisory forums, formal design authority (for compliance-sensitive projects), and team-specific mechanisms, such as escalation paths in case of decision conflicts (e.g., teams cannot align on a common messaging middleware). 
+* **Design mechanisms for teams to make better decisions.** This includes creating global decision-support mechanisms, such as [advisory forums](https://martinfowler.com/articles/scaling-architecture-conversationally.html), formal design authority (for compliance-sensitive projects), and team-specific mechanisms, such as escalation paths in case of decision conflicts (e.g., teams cannot align on a common messaging middleware). 
 * **Supporting teams in their daily work.** Being part of key team activities, aligning architectural work with team rituals to provide timely support, and supporting the team in all crucial phases of their work (e.g., reviewing architecture proposals early before the project or sprint start).
 * **Supporting planned new initiatives and projects.** Ensuring alignment between projects that require multi-team collaboration.
 * **Supporting teams in dealing with the legacy landscape.** Providing data and knowledge regarding legacy landscape, identifying hotspots (e.g., frequently changed, low-quality untested pieces of legacy code), defining scenarios and roadmap for legacy modernization.
