@@ -8,7 +8,7 @@ author: by Željko Obrenović (obren.io)
 permalink: requirements
 icon: requirements.png
 timetoread: 15 min
-excerpt: "When Grounded Architecture is in place, it can have a significant positive impact on the functioning of an organization: Executing At Scale, Increasing the Quality of Decision-Making with Data, Maximizing Organizational Alignment & Learning, Higher Adaptivity."
+excerpt: "I identified the following needs that an architecture function should support: Executing At Scale, Increasing the Quality of Decision-Making with Data, Maximizing Organizational Alignment & Learning, Higher Adaptivity."
 
 ---
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 

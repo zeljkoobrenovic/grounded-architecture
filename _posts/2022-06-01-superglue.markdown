@@ -8,7 +8,7 @@ author: by Željko Obrenović (obren.io)
 permalink: superglue
 icon: superglue.png
 timetoread: 15 min
-excerpt: "Architects in IT organizations should develop as “superglue.” people who hold architecture, technical details, business needs, and people together across a large organization or complex projects."
+excerpt: "Architects in IT organizations should develop as “superglue,” people who hold architecture, technical details, business needs, and people together across a large organization or complex projects."
 
 ---
 

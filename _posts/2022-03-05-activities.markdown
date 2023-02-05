@@ -27,38 +27,44 @@ Considering the previous two points from Gregor Hohpe, each organization must fi
 
 The Architecture Activities Platform is where we have to perform activities that help an organization reach its goals. In all of these activities, data and people pillars provide foundations for data-informed decision-making well-embedded in the organization.
 
-Here are some examples of activities:
-* Design mechanisms for teams to make better decisions 
-* Supporting teams in their daily work
-* Supporting planned new initiatives and projects
-* Supporting teams in dealing with legacy landscape
-* Tracking tech debt, defining tech debt reduction programs
-* Performing technical due diligence
-* Standardization of processes and documentation
-* Supporting merger and acquisitions (M&A) activities with expertise and analyses
-* Defining vision and direction of technology, frequently in collaboration with CTOs
-* Performing SWOT and other analyses of platforms and system
-* Defining Cloud, Data, and Platform strategies
+<br>
+## Examples
+
+Here are some examples of activities I have been performing with architects:
+* **Design mechanisms for teams to make better decisions.** This includes creating global decision-support mechanisms, such as advisory forums, formal design authority (for compliance-sensitive projects), and team-specific mechanisms, such as escalation paths in case of decision conflicts (e.g., teams cannot align on a common messaging middleware). 
+* **Supporting teams in their daily work.** Being part of key team activities, aligning architectural work with team rituals to provide timely support, and supporting the team in all crucial phases of their work (e.g., reviewing architecture proposals early before the project or sprint start).
+* **Supporting planned new initiatives and projects.** Ensuring alignment between projects that require multi-team collaboration.
+* **Supporting teams in dealing with the legacy landscape.** Providing data and knowledge regarding legacy landscape, identifying hotspots (e.g., frequently changed, low-quality untested pieces of legacy code), defining scenarios and roadmap for legacy modernization.
+* **Tracking tech debt, defining tech debt reduction programs.** Defining a centrally aligned backlog of technology depth, defining programs for its reduction and integration in planning processes.
+* **Performing SWOT and other analyses of platforms and systems.** Doing deep dives to better understand some areas of the technology landscape and create plans and roadmaps for improvement.
+* **Standardization of processes and documentation**. Defining common templates for documents such as Architectural Decision Records (ADRs), Technical Design Reviews (TDRs), or common diagrams.
+* **Supporting merger and acquisitions (M&A) activities with expertise and analyses.** Support analyses, recommendations, and integration planning regarding mergers and acquisitions.
+* **Defining key technology strategies.** Examples include Cloud, Data, and Platform strategies.
+* **Defining vision and direction of technology, frequently collaborating with Engineering Leaders.** Working with managers to create a sustainable organizational setting aligned with technology strategies.
+
 
 <br>
+## Operating Model
 While exact activities and their scope will depend on an organization setting and will change over time, in daily work, we aimed to implement the common operational model:
 
 * Architects engage with stakeholders and product and project teams in a **collaborative and supportive manner**.
 * Architects are **empowering the teams** so that they make most of the decisions.
-* In all activities, the architecture function provided: 
-  * **data** to inform decisions leveraging the [Data Pillar](data-pillar)
-  * **decisions boundaries** to enable the minimal level of compatibility and strategic alignment (e.g., public cloud provider, tech stack constraints)
-  * **principles** to facilitate consistency in decision-making
-  * **sharing** and generalization of lessons learned
+* In all activities, the architecture function and architects: 
+  * **bring data** to inform decisions leveraging the [Data Pillar](data-pillar)
+  * **define decision boundaries** to enable the minimal level of compatibility and strategic alignment (e.g., public cloud provider, tech stack constraints)
+  * **define key principles** to facilitate consistency in decision-making
+  * **share and generalize** lessons learned
 * Architects then spend their time in **constant motion** between supporting teams' **daily work** and working on **strategic topics**, helping the organization achieve alignment between strategy and implementation.
 
-Inspired by Gregor Hohpe's strategy-principles-decisions model, the following picture illustrates the process:
+Inspired by Gregor Hohpe's strategy-principles-decisions model Figure 1 illustrates the process.
 
 <div>
 <a href="assets/images/arch/architecture-system.png" target="_blank">
     <img src="assets/images/arch/architecture-system.png">
 </a>
 </div>
+**Figure 1:** *A common operating model I typically use for Grounded Architecture activities.*
+
 
 
 

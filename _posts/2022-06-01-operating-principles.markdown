@@ -8,7 +8,7 @@ author: by Željko Obrenović (obren.io)
 permalink: principles
 icon: principles.png
 timetoread: 15 min
-excerpt: "I have identified the following operating principles that can help put these ideas into practice and get things done: Breaking Up Ivory Towers, Strengthening Architectural Muscle Across Organization, and Embracing Diversity, Distributing Decision-Making."
+excerpt: "I have identified the following operating principles that can help put the ideas of Grounded Architecture into practice and get things done: Breaking Up Ivory Towers, Strengthening Architectural Muscle Across Organization, and Embracing Diversity, Distributing Decision-Making."
 
 ---
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
