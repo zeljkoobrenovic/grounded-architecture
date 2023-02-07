@@ -142,7 +142,7 @@ The architecture data pillar can provide lots of data. Sometimes, as in an ordin
 * Do we work on the things we want? We may want to focus more on innovations, but in reality, we may spend too much time on legacy maintenance.
 
 <br>
-## How To Build Architecture Data Pillar?
+## Building Data Pillar
 
 While each organization will have its unique sets of data, here are some tips I found helpful in my approach to forming the architecture data pillar:
 
