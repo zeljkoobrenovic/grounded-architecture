@@ -20,7 +20,7 @@ Image by <a href="https://pixabay.com/users/ichigo121212-11728/?utm_source=link-
 
 > *"Most of us think successful people have more willpower. But all they do is build systems to make hard things easier to do."* - Chris Hladczuk
 
-In this part of my reflections, I will describe the elements of Grounded Architecture. I chose the term "Grounded Architecture" to highlight that the primary goal of my approach is to avoid having an "ivory tower" architecture function disconnected from the organization, which is a [fast-moving, global, and diverse setting](context) is a real danger. In other words, I wanted to create an architectural function that is well-grounded in the organization.
+In this part of my playbook, I will describe the elements of Grounded Architecture. I chose the term "Grounded Architecture" to highlight that the primary goal of my approach is to avoid having an "ivory tower" architecture function disconnected from the organization, which is a [fast-moving, global, and diverse setting](context) is a real danger. In other words, I wanted to create an architectural function that is well-grounded in the organization.
 
 Grounded Architecture has three elements:
 * The Data Pillar,
