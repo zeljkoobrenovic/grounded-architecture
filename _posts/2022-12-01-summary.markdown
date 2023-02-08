@@ -16,7 +16,13 @@ excerpt: This playbook generalize my lessons learned while running an architectu
 Image by <a href="https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=908176">Gerd Altmann</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=908176">Pixabay</a>
 </div>
 
-In this playbook, I explained my approach to running an architecture practice in larger organizations. I called this approach "grounded architecture," highlighting the need for any architecture function to stay well-connected to all levels of an organization and led by data. The Grounded Architecture model consists of three elements:
+In this playbook, I explained my approach to running an architecture practice in larger organizations. I called this approach "grounded architecture," highlighting the need for any architecture function to stay well-connected to all levels of an organization and led by data. 
+
+Grounded Architecture has two main parts:
+* **Structure**, defining elements you need to have to run Grounded Architecture practice, and
+* **Guiding Principles**, that can help put the ideas of Grounded Architecture into practice and build the right culture
+
+The following figure illustrates the structure of the Grounded Architecture consisting of three elements:
 * The Data Pillar,
 * The People Pillar,
 * The Architecture Activities Platform.
@@ -29,7 +35,7 @@ The *People Pillar* is another essential element of Grounded Architecture. A str
 
 Lastly, the *Architecture Activities Platform* leverages data and people to create a data-informed, deep, and broad impact.
 
-I have identified the following [guiding principles](principles) that can help put these ideas into practice and get things done:
+I have identified the following [guiding principles](principles) that can help put the ideas of Grounded Architecture into practice and get things done:
 * [Developing Architects as Superglue](superglue),
 * [Being in the Eye of the Storm](storm),
 * [Embracing Diversity, Distribute & Align Decisions](diversity),
