@@ -5,8 +5,8 @@ title: "Flexible Governance"
 position: 6005
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
-permalink: flexible-governance
 icon: pragmatics.png
+permalink: flexible-governance
 timetoread: 15 min
 excerpt: "I tried to prevent a simplistic view of architecture as defining directives for the rest of the organization. I promote a technology governance model as a well-balanced hybrid of three different styles of governing: mandates and bans, taxes, and leading by context."
 

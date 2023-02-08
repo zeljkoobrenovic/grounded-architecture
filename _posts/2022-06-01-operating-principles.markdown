@@ -21,5 +21,6 @@ The following guiding principles have helped me make grounded architecture more 
 
 * [Developing Architects as Superglue](superglue),
 * [Being in the Eye of the Storm](storm),
-* [Embracing Diversity, Distribute & Align Decisions](diversity), and
-* [Having Flexible Governance](flexible-governance).
+* [Embracing Diversity, Distribute & Align Decisions](diversity),
+* [Having Flexible Governance](flexible-governance), and
+* [Applying Economic Modeling](economics).
