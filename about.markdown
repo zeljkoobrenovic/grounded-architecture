@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-This playbook generalize my lessons learned while running an architecture function in global, fast-moving organizations. Based on my experience as a Chief Architect at AVIV Group, eBay Classifieds, and Adevinta.
+This playbook generalize my lessons learned while running an architecture function in global, fast-moving organizations. Based on my experience as a Chief and Principal Architect at AVIV Group, eBay Classifieds, and Adevinta.
 
 --Željko Obrenović ([obren.io](https://obren.io/))
 

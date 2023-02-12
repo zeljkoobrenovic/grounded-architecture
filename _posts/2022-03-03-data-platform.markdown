@@ -27,85 +27,69 @@ The good news is that big organizations have lots of data that, if used wisely, 
 <br>
 ## Examples of Data Sources and Tools
 
-I've always aimed to get reliable data about technology with as much as possible automation (see Figure 1 for illustrations). Some examples of data I used include:
-* Source code contains an incredible amount of information about technology, people's activity, team dependencies, and the quality of software systems.
-* Public cloud billing reports provide an overview and trends on which projects use which services, in which regions, and on what budgets.
-* Incident reports can reveal trends and dependencies among incidents.
-* Key business metrics, like vibrancy.
-* Slack activity reports can help understand discussion topics and team interactions.
+I've always aimed to get reliable data about technology with as much as possible automation. Some examples of data I used include:
+* Source code, which contains an incredible amount of information about technology, people's activity, team dependencies, and the quality of software systems.
+* Public cloud billing reports, which provide an overview and trends on which projects use which services, in which regions, and on what budgets.
+* Incident reports, which can reveal trends and dependencies among incidents.
+* Key business metrics, like vibrancy, which can show user activity on our systems.
+* Slack activity reports, which can help understand discussion topics and team interactions.
 
 In the following sections, I detail several of these architectural data-driven tools.
 
+<!---
 <img src="assets/images/apps.png" style="padding: 4px; padding-top: 8px; padding-bottom: 8px; box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px; margin-bottom: 6px">
 <br>
 **Figure 1:** *A screenshot of the start page of the architecture data dashboard we've built and used at AVIV Group.*
+--->
 
 <br>
-### Example 1: Source Code and Commit History As A Source of Data
+### Source Code and Commit History
 
 I have repeatably found the source code to be an incredible source for creating data-driven architecture documentation. Source code and its commit history include an astonishing amount of information about technology, people activity, team dependencies, and the quality of software systems. I've started and still actively maintain the project [Sokrates](https://sokrates.dev), with the idea to help further extract data from source code that can help my work as an architect. I use Sokrates daily, improving it on the way.
 
-Figures 2 to 6 show some insights from source code analyses with Sokrates. 
-
-<br>
-![](assets/images/archdata/src_1.png)
-**Figure 2**: *Sokrates can instantly create a helicopter view of the technology landscape, programming languages, active contributors, and commit trends.*
-<br>
-<br>
-
-![](assets/images/archdata/src_2.png)
-**Figure 3**: *Sokrates can show detailed code and contributors' trends per repository, enabling zooming in each repository up to the code level.*
-<br>
-<br>
- 
-![](assets/images/archdata/src_5.png)
-**Figure 4**: *Sokrates can create a tech radar by tagging projects with identified technologies.*
-<br>
-<br>
-
-![](assets/images/archdata/src_3.png)
-**Figure 5**: *Sokrates can show contributor trends, distribution of "veterans" and "rookies," and dependencies between people and repositories, enabling zooming in into patterns of the contribution of individual contributors.*
-<br>
-<br>
- 
-![](assets/images/arch/sokrates_teams.png)
-**Figure 6**: *Sokrates can reveal the team topologies by plotting 2D and 3D graphs of dependencies that people create through working on the same repositories in the same period.*
-<br>
-<br>
-
 I've designed Sokrates from an architect's point of view, enabling quick zooming in and out into source code landscapes. On the one hand, Sokrates provides a high-level view of the landscape, summarizing data from all teams and groups. At the same time, you can zoom in on the details of particular systems, even to the code level. That means I could use the same tools to have CTO-level discussions looking at overall trends in our technology usage and costs. At the same time, I could engage with developers and discuss concrete code fragments and potential improvements in the code level (e.g., duplicated blocks, complex units, dependencies).
 
-In addition to standard source code and commit history analyses (see [Apache Software Foundation Sokrates analysis](https://www.sokrates.dev/) for examples), I also have built several special source code analyses to get further details:
+The Appendix at the end of this section shows some insights from source code analyses with Sokrates. For more complex examples of insights that Sokrates generates from source code, take a look at [Sokrates examples](https://www.sokrates.dev/), with analysis of complex open-source landscapes, such as:
+* [**Apache Software Foundation Repositories**](https://d3axxy9bcycpv7.cloudfront.net/asf/_sokrates_landscape/index.html), with aggregated multi-level analysis of more than 1,000 repositories with more than 180 million lines of code, more than 22,000 historical contributors, and 2.4 million commits.
+* [**Facebook/Meta OSS Repositories**](https://d3axxy9bcycpv7.cloudfront.net/meta/_sokrates_landscape/index.html), with aggregated multi-level analysis of around 800 repositories with 120 million lines of code, more than 20,000 historical contributors, and more than 2 million commits.
+* [**Microsoft OSS Repositories**](https://d3axxy9bcycpv7.cloudfront.net/microsoft/_sokrates_landscape/index.html), with aggregated multi-level analysis of more than 2,400 repositories with more than 100 million lines of code, more than 18,000 historical contributors, and more than 1.2 million commits.
+* [**Google OSS Repositories**](https://d3axxy9bcycpv7.cloudfront.net/google/_sokrates_landscape/index.html), with aggregated multi-level analysis of more than 1,600 repositories with more than 200 million lines of code, more than 27,000 historical contributors, and more than 2.4 million commits.
+* [**Linux Source Code**](https://d3axxy9bcycpv7.cloudfront.net/asf/_sokrates_landscape/index.html), with aggregated multi-level analysis of 178 Linux repository sub-folders with more than 23 million lines of code, more than 17,000 historical contributors, and more than 1.7 million commits.
+* [**Amazon OSS Repositories**](https://d3axxy9bcycpv7.cloudfront.net/amzn/_sokrates_landscape/index.html), with aggregated multi-level analysis of more than 2,700 repositories with more than 130 million lines of code, more than 13,000 historical contributors, and more than 600,000 commits.
+
+
+In addition to standard source code and commit history analyses, I also have built several special source code analyses to get further details:
 * Travis and Jenkins files analyzers to understand how teams build CI/CD pipelines.
 * Dockerfile scan to create a tech radar of runtime technologies.
 * GitHub API pull requests analyses to identify deployment frequency.
 
 <br>
-### Example 2: Public Cloud Usage
+### Public Cloud Usage 
 
 Migrating to the public cloud can dramatically increase transparency thanks to uniform automation and monitoring. The public cloud transparency offers an incredible amount of valuable data out-of-box.
 
-Figure 7 shows the anonymous screenshot of the Cloud usage explorer, a tool I built to visualize automatically-collected data from standard Google Cloud Platform (GCP) usage reports.
+Figure 1 shows the anonymous screenshot of the Cloud usage explorer, a tool I built to visualize automatically-collected data from standard Google Cloud Platform (GCP) usage reports.
 
 ![](assets/images/archdata/cloud-usage-explorer.png)
 <br>
-***Figure 7:** An example of a cloud usage explorer.*
+***Figure 1:** An example of a cloud usage explorer.*
 
 [Amazon Web Services (AWS)](https://aws.amazon.com), [Google Cloud Platform (GCP)](https://cloud.google.com/), [Microsoft Azure](https://azure.microsoft.com/), and other Public Cloud Providers give detailed data about which platform uses which services, resource family, and budget. You can also understand which people and teams have access to each service. It is possible to get real-time information about our cloud usage and understand the trends fully automatically.
 
 <br>
-### Example 3: Financial and Vibrancy Data
+### Financial and Vibrancy Data
 
 Finance departments are very data-driven and have high-quality data that could be relevant for architects. In addition to standard costs, budgets, and other pure financial data types, I frequently found that finance teams also have different data sources, such as vibrancy or usage levels. These teams need such data to, for instance, correlate finance performance with usage levels. Such usage data are beneficial for architecture discussions. For example, linking usage levels and vibrancy of systems with their public cloud usage can identify areas of improvement and inefficiencies.
 
 <br>
+<br>
 ## Principles Behind Architecture Data Pillar
 
-My motto for the architecture data pillar is "**reducing subjectivity by use of data and insights**." More specifically, I follow several guiding principles (Figure 8).
+My motto for the architecture data pillar is "**reducing subjectivity by use of data and insights**." More specifically, I follow several guiding principles (Figure 2).
 
 ![](assets/images/archdata/principles.png)
 <br>
-**Figure 8:** *Design principles behind architecture data pillar.*
+**Figure 2:** *Design principles behind architecture data pillar.*
 
 Firstly, I aim to move architectural discussion as far as possible from opinion battles to data-informed decision-making. Opinions are valuable, but we do not need to debate which cloud resources or programming languages we use. We have reliable data for it.
 
@@ -121,14 +105,11 @@ Six, I always build architecture data tools as explorative applications, enablin
 
 Lastly, curation, the act of selecting, organizing, and looking after the data, is the crucial ingredient of the process to prevent creating useless, too-detailed views. Curation means choosing what to include and exclude, ensuring data correctness and completeness, and engaging users to make documents helpful. Instead of carelessly bringing together all data we can find, we can add much more value by carefully choosing data and thoughtfully organizing documents. For example, source code analysis can automatically scan all repositories. Curation can increase the value of these analyses by grouping or tagging repositories to create sub-views, e.g., per technology or domain.
 
-The resulting winning formula for the architecture data tools is (Figure 9): data + automation + curation = useful data-driven documentation.
-
-
-The resulting winning formula for architecture data pillar is (Figure 9): data + automation + curation = useful data-driven documentation.
+The resulting winning formula for the architecture data tools is (Figure 3): data + automation + curation = useful data-driven documentation.
 
 ![](assets/images/archdata/recipe.png)
 <br>
-**Figure 9:** *The formula for architecture data pillar: data + automation + curation = useful data-driven documentation.*
+**Figure 3:** *The formula for architecture data pillar: data + automation + curation = useful data-driven documentation.*
 
 <br>
 ## Using Architecture Data Pillar
@@ -154,3 +135,34 @@ While each organization will have its unique sets of data, here are some tips I 
 * Build maps, not control units. The main inspiration for my work is map-making. As noted by Brené Brown, maps are one of the most critical documents in human history (see [Atlas of the Heart](https://brenebrown.com/book/atlas-of-the-heart/) for a discussion on a mapmaking metaphor). They give us tools to store and exchange knowledge about space and place. While there are differences between maps and the layers they show, the one thing that all maps do is provide readers with orientation. A sense of place is central to meaning-making. Maps are also composed of multiple layers. Similarly, the architecture data pillar offers data layers about our systems, describing their size, connections, quality, security, or human activity.
 
 While I do not want to prescribe the best technology, I can tell what I use in daily work. I build most architecture data tools as simple web applications, taking data from JSON files hosted on a static web server. See some of [my public tools](https://obren.io/tools) to illustrate how I build such simple data-driven web apps.
+
+<br>
+## Appendix: Examples of Insights From Source Code Analyses with Sokrates
+
+Figures 4 to 8 show some insights from source code analyses with Sokrates. 
+
+<br>
+![](assets/images/archdata/src_1.png)
+**Figure 4**: *Sokrates can instantly create a helicopter view of the technology landscape, programming languages, active contributors, and commit trends.*
+<br>
+<br>
+
+![](assets/images/archdata/src_2.png)
+**Figure 5**: *Sokrates can show detailed code and contributors' trends per repository, enabling zooming in each repository up to the code level.*
+<br>
+<br>
+ 
+![](assets/images/archdata/src_5.png)
+**Figure 6**: *Sokrates can create a tech radar by tagging projects with identified technologies.*
+<br>
+<br>
+
+![](assets/images/archdata/src_3.png)
+**Figure 7**: *Sokrates can show contributor trends, distribution of "veterans" and "rookies," and dependencies between people and repositories, enabling zooming in into patterns of the contribution of individual contributors.*
+<br>
+<br>
+ 
+![](assets/images/arch/sokrates_teams.png)
+**Figure 8**: *Sokrates can reveal the team topologies by plotting 2D and 3D graphs of dependencies that people create through working on the same repositories in the same period.*
+<br>
+<br>
