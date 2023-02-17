@@ -21,7 +21,6 @@
 title: "Grounded Architecture: The Chief Architect's Playbook"
 email: zeljko.obren@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This series of articles generalize my lessons learned while running an architecture function in global, fast-moving organizations. Based on my experience as a Chief Architect at AVIV Group, eBay Classifieds, and Adevinta.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: zeljko_obren
