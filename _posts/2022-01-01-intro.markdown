@@ -8,7 +8,7 @@ author: by Željko Obrenović (obren.io)
 permalink: intro
 icon: spiral-stairs.png
 timetoread: 15 min
-excerpt: "This playbook will explain explain my approach to running an IT architecture practice in larger organizations. I called this approach \"Grounded Architecture,\" highlighting the need for any IT architecture function to stay well-connected to all levels of an organization and led by data."
+excerpt: "This playbook will explain my approach to running an IT architecture practice in larger organizations. I called this approach \"Grounded Architecture,\" highlighting the need for any IT architecture function to stay well-connected to all levels of an organization and led by data."
 
 ---
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/staircase-274614_1920.jpg">
