@@ -36,11 +36,9 @@ I've always aimed to get reliable data about technology with as much as possible
 
 In the following sections, I detail several of these architectural data-driven tools.
 
-<!---
 <img src="assets/images/apps.png" style="padding: 4px; padding-top: 8px; padding-bottom: 8px; box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px; margin-bottom: 6px">
 <br>
 **Figure 1:** *A screenshot of the start page of the architecture data dashboard we've built and used at AVIV Group.*
---->
 
 <br>
 ### Source Code and Commit History
