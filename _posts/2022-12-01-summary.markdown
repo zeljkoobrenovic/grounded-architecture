@@ -1,7 +1,7 @@
 ---
 layout: post
 section: "Summary"
-title: "Summary: Key Take-Away Messages"
+title: "Summary"
 position: 12000
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
