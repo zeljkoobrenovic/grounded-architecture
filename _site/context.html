@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Context: Fast Moving Global Organizations | Grounded Architecture: The Chief Architect’s Playbook</title>
+<meta name="generator" content="Jekyll v4.2.2" />
+<meta property="og:title" content="Context: Fast Moving Global Organizations" />
+<meta name="author" content="by Željko Obrenović (obren.io)" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="The grounded architecture approach has developed in the context of global, loosely coupled organizations that are diverse, with non-linear growth dynamics, and under transformation pressures. The work I present here reflects my experiences as a Chief or Principal Architect at AVIV Group, eBay Classifieds, and Adevinta." />
+<meta property="og:description" content="The grounded architecture approach has developed in the context of global, loosely coupled organizations that are diverse, with non-linear growth dynamics, and under transformation pressures. The work I present here reflects my experiences as a Chief or Principal Architect at AVIV Group, eBay Classifieds, and Adevinta." />
+<link rel="canonical" href="http://localhost:4000/context" />
+<meta property="og:url" content="http://localhost:4000/context" />
+<meta property="og:site_name" content="Grounded Architecture: The Chief Architect’s Playbook" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2021-10-21T22:12:01+02:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Context: Fast Moving Global Organizations" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"by Željko Obrenović (obren.io)"},"dateModified":"2021-10-21T22:12:01+02:00","datePublished":"2021-10-21T22:12:01+02:00","description":"The grounded architecture approach has developed in the context of global, loosely coupled organizations that are diverse, with non-linear growth dynamics, and under transformation pressures. The work I present here reflects my experiences as a Chief or Principal Architect at AVIV Group, eBay Classifieds, and Adevinta.","headline":"Context: Fast Moving Global Organizations","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/context"},"url":"http://localhost:4000/context"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Grounded Architecture: The Chief Architect's Playbook" /></head>
+<body><header class="site-header">
+    <div class="wrapper"><a class="site-title" rel="author" href="/" style="margin-bottom: 0; color: grey; white-space: nowrap; overflow: none; max-width: 100%">
+        <div style="height: 30px">Grounded Architecture: The Chief Architect&#39;s Playbook</div>
+        <div style="color: #a0a0a0; font-size: 13px;">Version 0.9</div>
+        </a><nav class="site-nav">
+            <input type="checkbox" id="nav-trigger" class="nav-trigger"/>
+            <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+            </label>
+
+            <div class="trigger"><a class="page-link" href="/about/" style="color: #b0b0b0">About</a></div>
+        </nav><table style="border: none; font-size: 80%; margin: 0; padding: 0;">
+    <tr style="border: none; margin: 0; padding: 0">
+        <td style="border: none; margin: 0; padding: 0"><div style="font-size: 90%; color: #898989">Introduction</div><a class="u-url" href="intro">← Introduction</a></td>
+        <td style="border: none; text-align: right; margin: 0; padding: 0"><div style="font-size: 90%; color: #898989">Introduction</div><a class="u-url" href="requirements">Requirements →</a></td>
+    </tr>
+</table>
+</div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-129891352-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+    gtag('config', 'UA-129891352-1');
+</script>
+
+
+<style>
+
+    #markdown-toc::before {
+        content: "Contents";
+        font-weight: bold;
+        font-size: 110%;
+        margin-left: 176px;
+        padding-bottom: 30px;
+        text-align: center;
+        width: 100%;
+    }
+
+
+    #markdown-toc ul {
+        list-style: decimal;
+    }
+
+    #markdown-toc {
+        border: 1px solid #aaa;
+        padding: 1.5em;
+        padding-left: 2.5em;
+        list-style: decimal;
+        display: inline-block;
+        margin: 0;
+    }
+</style>
+
+
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting" style="margin-top: -12px">
+    <header class="post-header"><div style="margin-bottom: 4px; margin-top: 10px">Introduction</div><h1 class="post-title p-name" itemprop="name headline">Context: Fast Moving Global Organizations</h1>
+        <p class="post-meta"><span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card"
+                                                                                        itemprop="name">by Željko Obrenović (obren.io)</span></span></p>
+    </header>
+
+    <div class="post-content e-content" itemprop="articleBody" style="font-size: 110%">
+        <p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/roller-coaster-3605743_1920.jpg" /></p>
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by <a href="https://pixabay.com/users/paulbr75-2938186/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3605743">Paul Brennan</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3605743">Pixabay</a>
+</div>
+
+<blockquote>
+  <p><em>“My purpose is to exhibit philosophy as an integral part of social and political life: not as the isolated speculations of remarkable individuals, but as both an effect and a cause of the character of the various communities in which different systems flourished.”</em> –Berrand Russel, The History of Western Philosophy</p>
+</blockquote>
+
+<p>To better understand any idea or solution, it is crucial to understand the context in which these ideas developed. My approach to creating and running an architecture function is not an abstract idea. Instead, it is the generalization of many lessons learned while solving specific problems in a particular context.</p>
+
+<p>I base my ideas on my experiences as a Chief and Principal Architect at AVIV Group, eBay Classifieds, and Adevinta. In this section, I discuss critical characteristics of the organizational context that have had an impact on my definition of the grounded architecture approach:</p>
+<ul>
+  <li><strong>global scale</strong>: operating across multiple countries and continents</li>
+  <li><strong>decentralized, loosely-coupled organizational units</strong>: organizational units are decentralized and have significant autonomy, while central functions exist but are limited (everyone is a minority)</li>
+  <li><strong>multi-dimensional diversity</strong>: due to historical reasons, the organizations I worked in were very diverse at all levels, including customer base, workforce, business model, team topologies, technology stacks</li>
+  <li><strong>nonlinear growth dynamics</strong>: in addition to organic growth, our organizations frequently changed the portfolio both by mergers and acquisitions of new businesses and as well as by divestments</li>
+  <li><strong>synergies and transformation pressures</strong>: our organizations wanted to exploit the benefits from the economies of scale and reduce duplication of efforts</li>
+</ul>
+
+<p>In the following sub-sections, I discuss these characteristics from an architectural viewpoint, looking at challenges and opportunities.</p>
+
+<p><br /></p>
+
+<h2 id="characteristic-1-global-scale">Characteristic 1: Global Scale</h2>
+
+<p>I was lucky to develop my approach in genuinely global and multicultural organizations. Globality and multiculturality come from two sources:</p>
+
+<ul>
+  <li>Markets in which our organization operates.</li>
+  <li>Workforce building our products. In addition to the people we serve in each active market, we also have people working from many other countries. With the possibility of remote working, there were practically no limitations on the location of our workforce.</li>
+</ul>
+
+<p>Global context also leads to a massive scale:</p>
+
+<ul>
+  <li>Billions of monthly user visits</li>
+  <li>Thousands of active software developers</li>
+  <li>Hundreds of product and development teams</li>
+  <li>Hundreds of millions of lines of source code</li>
+</ul>
+
+<p>The global scale introduces several compelling opportunities:</p>
+
+<ul>
+  <li>Increasing effectiveness: possibilities to reduce duplication of effort by centralizing shared activities.</li>
+  <li>Leveraging economies of scale: achieving cost advantages, for instance, by reducing unit prices of used technologies.</li>
+  <li>Increased business resilience and flexibility: possibility to compensate for negative local market changes with global resources.</li>
+  <li>Bigger talent pool to support any local or global effort.</li>
+  <li>Possibility for investments to support nonlinear growth by mergers and acquisitions (M&amp;As).</li>
+</ul>
+
+<p>The global and massive scale has many challenges:</p>
+
+<ul>
+  <li>Organizational complexity (e.g., thousands of possible communication channels).</li>
+  <li>Complex technology landscape (e.g., many services and interconnections).</li>
+  <li>Continuously high costs of workforce.</li>
+  <li>Continuously high cost of computing resources.</li>
+  <li>Complexity of running operations with high customer demands.</li>
+  <li>Huge attack surface, many points on the boundary of our systems where an attacker can try to enter, cause an effect on, or extract data.</li>
+  <li>Limitations of any manual process, such as diagram drawing, to create an overview of the organizational or technology landscape.</li>
+</ul>
+
+<p><br /></p>
+
+<h2 id="characteristic-2-loose-coupling">Characteristic 2: Loose Coupling</h2>
+
+<p>Researcher Karl Weick developed the concepts of tight and loose coupling to describe the organizational structure first in educational institutions and later applied to diverse businesses. According to Weick, a tightly coupled organization has mutually understood rules enforced by <em>inspection and feedback</em> systems. In tightly coupled organizations, management can more directly coordinate different departments’ activities according to a central strategy.</p>
+
+<p>In a loosely coupled organization, some of the elements of a tightly coupled organization are absent. Employees have more autonomy, and different departments may operate with little coordination.</p>
+
+<p>Due to historical and strategic reasons, most organizational units I worked with were loosely coupled. Our companies frequently grow through acquisitions of companies in different marketplaces. The strategies also continually promoted a more independent evolution of each marketplace to better and faster address local market needs. Marketplaces often have a high level of autonomy, frequently with their development teams and sometimes with local C(P)TOs, CFOs, CMOs, or CEOs.</p>
+
+<p>Loose coupling offers several advantages:</p>
+
+<ul>
+  <li>Higher flexibility: units can keep developing independently, addressing specific needs without synchronizing with other marketplaces.</li>
+  <li>High development speed / faster time-to-market: fewer dependencies make it much easier for marketplaces to change and evolve their products for local needs.</li>
+  <li>Innovation: possibilities to quickly explore ideas in smaller contexts.</li>
+</ul>
+
+<p>Loose coupling also has several disadvantages:</p>
+
+<ul>
+  <li>Duplication of effort: while local market needs differ, there is frequently a significant overlap in product features and technology. This overlap leads to duplication of effort as each marketplace creates solutions for the same problems.</li>
+  <li>Increased accidental diversity: limited synchronization offers flexibility but may lead to significantly different design choices, making it challenging to consolidate solutions, move people between teams, or benefit from the economy of scale.</li>
+  <li>Limited possibilities for central control: due to fewer dependencies and different goals, it is more difficult to introduce changes across the portfolio.</li>
+</ul>
+
+<p><br /></p>
+
+<h2 id="characteristic-3-multi-dimensional-diversity">Characteristic 3: Multi-Dimensional Diversity</h2>
+
+<p>The organizations I worked on were very diverse across several dimensions:</p>
+
+<ul>
+  <li>Cultural</li>
+  <li>Organizational</li>
+  <li>Product</li>
+  <li>Architecture</li>
+  <li>Technology</li>
+</ul>
+
+<p>The global and multicultural nature of our context leads to diversity and multiple levels:</p>
+
+<ul>
+  <li>Diversity of decision-making styles</li>
+  <li>Diversity of organizational styles and hierarchies</li>
+  <li>Diversity of meeting styles</li>
+  <li>Diversity of ways of dealing with feedback</li>
+</ul>
+
+<p>The organizations I worked with had many units, such as marketplaces (each with its sub-structures), global capabilities, enterprise IT teams, data capabilities, and generic IT infrastructure. In addition to their loose coupling, these organizational units differed in multiple ways:</p>
+
+<ul>
+  <li>Size: for instance, some units had hundreds of developers, and some units had only a dozen.</li>
+  <li>Team topologies: some organizations had one team, while other teams were organized hierarchically.</li>
+  <li>Position of architecture: with some organizations having local architecture teams and local lead architects, smaller units have their team members conducting architecture activities in addition to other responsibilities</li>
+</ul>
+
+<p>With many brands, we also have significant product diversity.</p>
+
+<p>We had many architectural styles in active production systems, ranging from legacy monolith applications to complex modern Microservices and serverless ecosystems. Each part of the organization has a different history and a different legacy.</p>
+
+<p>The primary technical infrastructure included several public cloud providers (AWS, GCP, Azure) and custom-built private data centers.</p>
+
+<p>The systems also employed diverse application technologies, such as:</p>
+
+<ul>
+  <li>Database technologies (e.g., MySQL, Postgress, MongoDB, Cassandra, AWS RDS…).</li>
+  <li>Backend programming languages (e.g., Java, C#, Go, Scala, PHP, Node.js, Kotlin…).</li>
+  <li>Mobile app programming languages (e.g., Swift, Objective-C, Java, Kotlin, Flutter/Dart…).</li>
+  <li>Frontend programming languages and frameworks (e.g., React, Android, AndroidJS, Vue, jQuery…).</li>
+</ul>
+
+<p>From an architectural perspective, diversity offers several opportunities:</p>
+
+<ul>
+  <li>Increasing innovation due to a diverse workforce and possibilities to creatively explore more technologies and tools.</li>
+  <li>Addressing specific needs better by choosing from a more extensive and diverse pool of resources.</li>
+</ul>
+
+<p>Diversity also poses several challenges:</p>
+
+<ul>
+  <li>Increasing complexity and cognitive load of teams.</li>
+  <li>Limited flexibility and reorganization possibilities as expertise is split among many domains and technologies.</li>
+  <li>Higher technical debt due to many legacy components in many (outdated) technologies.</li>
+</ul>
+
+<p><br /></p>
+
+<h2 id="characteristic-4-nonlinear-growth-dynamics">Characteristic 4: Nonlinear Growth Dynamics</h2>
+
+<p>Complex organizations like the one I have worked in are frequently very dynamic. Such organizations grow (or shrink) and reorganize often and significantly. They change both organically and inorganically. Organic growth is internal growth the company sees from its operations. Inorganic change comes from buying other businesses, opening new locations, or divesting.</p>
+
+<p>Possibilities for nonlinear growth may be helpful in several scenarios:</p>
+
+<ul>
+  <li>Faster growth due to acquisitions of market segments.</li>
+  <li>Speeding up innovation due to the acquisition of new technologies or services.</li>
+</ul>
+
+<p>Nonlinear dynamics have several influences on architectural activities:</p>
+
+<ul>
+  <li>Increased complexity due to many new organizational units.</li>
+  <li>Increased complexity to the potentially more diverse organization, process, and technology.</li>
+  <li>More complex architecture to stay flexible if the organization decides to divest a part of the organization.</li>
+</ul>
+
+<p><br /></p>
+<h2 id="characteristic-5-synergies-and-transformations-pressures">Characteristic 5: Synergies and Transformations Pressures</h2>
+
+<p>Complex organizations do not just grow. Instead, they want to be more efficient and leverage economies of scale, cost synergies, or increase capacity for innovation. In other words, such organizations are not an investment portfolio with diverse independent players. Our investors expect us to transform to be more than a sum of our original parts.</p>
+
+<p>Pressure for synergies and transformations can provide several benefits:</p>
+
+<ul>
+  <li>Cost reductions.</li>
+  <li>Acceleration due to more resources available when synergies happen.</li>
+  <li>Innovation through more capacity and possibility for reuse and sharing.</li>
+  <li>Faster scaling up of operations due to more efficiencies and lower unit costs.</li>
+</ul>
+
+<p>Pressure to be more synergic and efficient has its challenges:</p>
+
+<ul>
+  <li>Up-front investment is needed to gain any benefit.</li>
+  <li>Such investment typically brings high risks.</li>
+  <li>Productivity of some teams may (temporarily) drop due to the need to split effort between transformation activities and other work.</li>
+  <li>After transformations, the complexity of the organization and technology landscape may increase due to more dependencies, e.g., reusing central services.</li>
+</ul>
+
+        <div style="margin-bottom: -32px; margin-top: 28px"><table style="border: none; font-size: 80%; margin: 0; padding: 0;">
+    <tr style="border: none; margin: 0; padding: 0">
+        <td style="border: none; margin: 0; padding: 0"><div style="font-size: 90%; color: #898989">Introduction</div><a class="u-url" href="intro">← Introduction</a></td>
+        <td style="border: none; text-align: right; margin: 0; padding: 0"><div style="font-size: 90%; color: #898989">Introduction</div><a class="u-url" href="requirements">Requirements →</a></td>
+    </tr>
+</table>
+</div>
+    </div><a class="u-url" href="/context" hidden></a>
+</article>
+
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">Grounded Architecture: The Chief Architect&#39;s Playbook</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">Grounded Architecture: The Chief Architect&#39;s Playbook</li><li><a class="u-email" href="mailto:zeljko.obren@gmail.com">zeljko.obren@gmail.com</a></li></ul>
+      </div>
+
+      <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a href="https://github.com/zeljkoobrenovic"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg> <span class="username">zeljkoobrenovic</span></a></li><li><a href="https://www.twitter.com/zeljko_obren"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#twitter"></use></svg> <span class="username">zeljko_obren</span></a></li></ul>
+</div>
+
+      <div class="footer-col footer-col-3">
+        <p></p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+</body>
+
+</html>

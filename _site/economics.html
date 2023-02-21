@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Economic Modeling | Grounded Architecture: The Chief Architect’s Playbook</title>
+<meta name="generator" content="Jekyll v4.2.2" />
+<meta property="og:title" content="Economic Modeling" />
+<meta name="author" content="by Željko Obrenović (obren.io)" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="In this post, I sketch two answers to the question of the economic value of technology investments and architecture: the return on investment metaphor, and the financial options metaphor." />
+<meta property="og:description" content="In this post, I sketch two answers to the question of the economic value of technology investments and architecture: the return on investment metaphor, and the financial options metaphor." />
+<link rel="canonical" href="http://localhost:4000/economics" />
+<meta property="og:url" content="http://localhost:4000/economics" />
+<meta property="og:site_name" content="Grounded Architecture: The Chief Architect’s Playbook" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2021-10-21T22:12:01+02:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Economic Modeling" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"by Željko Obrenović (obren.io)"},"dateModified":"2021-10-21T22:12:01+02:00","datePublished":"2021-10-21T22:12:01+02:00","description":"In this post, I sketch two answers to the question of the economic value of technology investments and architecture: the return on investment metaphor, and the financial options metaphor.","headline":"Economic Modeling","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/economics"},"url":"http://localhost:4000/economics"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Grounded Architecture: The Chief Architect's Playbook" /></head>
+<body><header class="site-header">
+    <div class="wrapper"><a class="site-title" rel="author" href="/" style="margin-bottom: 0; color: grey; white-space: nowrap; overflow: none; max-width: 100%">
+        <div style="height: 30px">Grounded Architecture: The Chief Architect&#39;s Playbook</div>
+        <div style="color: #a0a0a0; font-size: 13px;">Version 0.9</div>
+        </a><nav class="site-nav">
+            <input type="checkbox" id="nav-trigger" class="nav-trigger"/>
+            <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+            </label>
+
+            <div class="trigger"><a class="page-link" href="/about/" style="color: #b0b0b0">About</a></div>
+        </nav><table style="border: none; font-size: 80%; margin: 0; padding: 0;">
+    <tr style="border: none; margin: 0; padding: 0">
+        <td style="border: none; margin: 0; padding: 0"><div style="font-size: 90%; color: #898989">Guiding Principles & Stories</div><a class="u-url" href="flexible-governance">← Flexible Governance</a></td>
+        <td style="border: none; text-align: right; margin: 0; padding: 0"><div style="font-size: 90%; color: #898989">Guiding Principles & Stories</div><a class="u-url" href="compass">Architect's Compass →</a></td>
+    </tr>
+</table>
+</div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-129891352-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+    gtag('config', 'UA-129891352-1');
+</script>
+
+
+<style>
+
+    #markdown-toc::before {
+        content: "Contents";
+        font-weight: bold;
+        font-size: 110%;
+        margin-left: 176px;
+        padding-bottom: 30px;
+        text-align: center;
+        width: 100%;
+    }
+
+
+    #markdown-toc ul {
+        list-style: decimal;
+    }
+
+    #markdown-toc {
+        border: 1px solid #aaa;
+        padding: 1.5em;
+        padding-left: 2.5em;
+        list-style: decimal;
+        display: inline-block;
+        margin: 0;
+    }
+</style>
+
+
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting" style="margin-top: -12px">
+    <header class="post-header"><div style="margin-bottom: 4px; margin-top: 10px">Guiding Principles & Stories</div><h1 class="post-title p-name" itemprop="name headline">Economic Modeling</h1>
+        <p class="post-meta"><span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card"
+                                                                                        itemprop="name">by Željko Obrenović (obren.io)</span></span></p>
+    </header>
+
+    <div class="post-content e-content" itemprop="articleBody" style="font-size: 110%">
+        <p><img src="assets/images/arch/money-g45f6788de_1920.jpg" alt="" /></p>
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by <a href="https://pixabay.com/users/nattanan23-6312362/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2724241">Nattanan Kanchanaprat</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2724241">Pixabay</a>
+</div>
+
+<p>Architects frequently need to answer questions about (economic) value of technology investments and architecture. Answering this question is a crucial skill for any senior architect. But it may be difficult to answer this seemingly harmless question concisely and convincingly to a non-technical audience.</p>
+
+<h2 id="why-do-we-need-to-explain-the-economics">Why Do We Need to Explain the Economics?</h2>
+
+<p>Having good architecture requires some investment. This investment is time and effort spent implementing some architecture pattern, reducing technical debt, or refactoring code to align with our architecture. Consequently, we need to explain the expected value of this investment.</p>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Martin Fowler at <a href="https://twitter.com/hashtag/oop2014?src=hash&amp;ref_src=twsrc%5Etfw">#oop2014</a>: &quot;If you use the arguments on the left to justify refactoring, you&#39;re screwed.&quot; <a href="http://t.co/b9ffsudckr">pic.twitter.com/b9ffsudckr</a></p>&mdash; Matthias Bohlen (@mbohlende) <a href="https://twitter.com/mbohlende/status/431446680874258433?ref_src=twsrc%5Etfw">February 6, 2014</a></blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<p>In this post, I sketch two answers to the question of the economic value of architecture:</p>
+<ul>
+  <li>the return on investment metaphor</li>
+  <li>the financial options metaphor</li>
+</ul>
+
+<p><img src="assets/images/economics/two-metaphors.png" alt="" />
+<strong>Figure 1:</strong> <em>Two metaphors for explaining the economic value of architecture: return on investment (ROI) and financial options.</em></p>
+
+<h2 id="the-return-on-investment-metaphor">The Return-on-Investment Metaphor</h2>
+
+<p>In economic terms, return on investment (ROI) is a ratio between profits and costs over some period. In other words, ROI shows how much you get back from your investment. A high ROI means the investment’s gains compare favorably to its cost. As a performance measure, ROI is used to evaluate an investment’s efficiency or compare the efficiencies of several different investments.</p>
+
+<p><img src="assets/images/economics/roi-model.png" alt="" />
+<strong>Figure 2:</strong> <em>An illustration of the ROI metaphor. Investment leads to lower costs or higher value. It takes some time to reach a break-even point, a point when additional value has compensated for the investment. After the break-even point, we start to earn more profit than without the investment.</em></p>
+
+<p>An investment in good architecture can help increase ROI of the IT. An excellent example of using the ROI metaphor to argue for investing in architecture is the port of Martin Fowler, who uses this argument to argue for the importance of <a href="https://martinfowler.com/articles/is-quality-worth-cost.html">investing in improving internal quality</a>. Figure 3 summarizes his argument.</p>
+
+<p>Well-architect systems are typically much easier to understand and change. As our systems continuously evolve, the return on investing in making a system easier to understand and change can be significant. The primary value of such investment comes from generating fewer errors and bugs, more straightforward modifications, short time-to-market, and improved developer satisfaction.</p>
+
+<p><img src="assets/images/economics/roi-internal-quality.png" alt="" />
+<strong>Figure 3:</strong> <em>Software with high internal quality gets a short initial slow down, but deliveres more rabidally and cheply later (source martinfowler.com/articles/is-quality-worth-cost.html).</em></p>
+
+<p>An ROI metaphor is easy to understand by a non-technical audience, but it has its limitations to describe the value of architecture. The first limitation lies in that it is challenging to measure architecture, quality, and productivity. Consequently, too much focus on ROI can lead to an obsession with cost-cutting. Costs are easy to measure, but the value of attributes like shorter time-to-market is much more difficult to quantify. Second, ROI is a good measure, but not every investment in architecture will increase profit. That is because we frequently have to make decisions with lots of uncertainty. Nevertheless, that does not mean that we should not make such investments. The following section explains why.</p>
+
+<h2 id="the-financial-options-metaphor">The Financial Options Metaphor</h2>
+
+<p>Gregor Hohpe has frequently argued that the best way to explain architecture to non-technical people is by using a financial option metaphor. A financial option is a right, but not an obligation, to buy or sell financial instruments at a future point in time with some predefined price. As such, a financial option is a way to defer a decision: instead of deciding to buy or sell a stock today, you have the right to make that decision in the future at a known price.</p>
+
+<p>Options are not free, and there is a complex market for buying and selling financial options. Fischer Black and Myron Scholes managed to compute the value of an option with the <a href="https://en.wikipedia.org/wiki/Black%E2%80%93Scholes_model">Black-Scholes Formula</a>. A critical parameter in establishing the option’s value is the price at which you can purchase the stock in the future, the so-called strike price. The lower this strike price, the higher the value of the option.</p>
+
+<p><img src="assets/images/economics/options-model.png" alt="" />
+<strong>Figure 4:</strong> <em>An illustration of the financial option metaphor. Options have a price, leading to higher initial costs. However, if an opportunity can generate more value, we gain additional profit (or lose it if we do not invest).</em></p>
+
+<p>Applying the financial option metaphor to IT architecture, we can argue that buying options gives the business and IT a way to defer decisions. Gregor Hohpe gives an example of the server’s size that you need to purchase for a system. If your application is architected to be horizontally scalable, you can defer this decision: additional (virtual) servers can be ordered later at a known unit cost.</p>
+
+<p>Another example of an IT option is architecting your system to clearly separate concerns. For instance, it may be challenging to decide early what authentication mechanism an application should use? A system that properly separates concerns allows changes to be localized so that updating one aspect of a system does not require expensive changing the whole system. Such isolation will enable you to change a decision late in the project or even after go-live, at a nominal cost. For example, if authentication is a well-isolated concern, you will need to refactor only a minimal part of the system to use another authentication system.</p>
+
+<p>The option’s value originates from being able to defer the decision until you have more information while fixing the price. In times of uncertainty, the value of the options that architecture sells only increases.</p>
+
+<p>As with any analogy, the financial options analogy has its limits. Again, it isn’t easy to quantify architecture values and have metrics for the value of separation of concerns or horizontal scaling. Second, while the metaphor may be easy to grasp for an economic audience, it may require explaining to other stakeholders, who may be less familiar with financial options markets.</p>
+
+<h2 id="to-probe-further">To Probe Further</h2>
+
+<ul>
+  <li>Martin Fowler (2019): <a href="https://martinfowler.com/articles/is-quality-worth-cost.html">Is High Quality Software Worth the Cost?</a>.</li>
+  <li>Martin Fowler (2011): <a href="https://martinfowler.com/bliki/TradableQualityHypothesis.html">Tradable Quality Hypothesis</a>.</li>
+  <li>Gregor Hohpe (2016): <a href="https://architectelevator.com/architecture/architecture-options/">Architecture: Selling Options</a>.</li>
+</ul>
+
+        <div style="margin-bottom: -32px; margin-top: 28px"><table style="border: none; font-size: 80%; margin: 0; padding: 0;">
+    <tr style="border: none; margin: 0; padding: 0">
+        <td style="border: none; margin: 0; padding: 0"><div style="font-size: 90%; color: #898989">Guiding Principles & Stories</div><a class="u-url" href="flexible-governance">← Flexible Governance</a></td>
+        <td style="border: none; text-align: right; margin: 0; padding: 0"><div style="font-size: 90%; color: #898989">Guiding Principles & Stories</div><a class="u-url" href="compass">Architect's Compass →</a></td>
+    </tr>
+</table>
+</div>
+    </div><a class="u-url" href="/economics" hidden></a>
+</article>
+
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">Grounded Architecture: The Chief Architect&#39;s Playbook</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">Grounded Architecture: The Chief Architect&#39;s Playbook</li><li><a class="u-email" href="mailto:zeljko.obren@gmail.com">zeljko.obren@gmail.com</a></li></ul>
+      </div>
+
+      <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a href="https://github.com/zeljkoobrenovic"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg> <span class="username">zeljkoobrenovic</span></a></li><li><a href="https://www.twitter.com/zeljko_obren"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#twitter"></use></svg> <span class="username">zeljko_obren</span></a></li></ul>
+</div>
+
+      <div class="footer-col footer-col-3">
+        <p></p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+</body>
+
+</html>

@@ -1,0 +1,390 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Grounded Architecture: The Chief Architect’s Playbook</title>
+<meta name="generator" content="Jekyll v4.2.2" />
+<meta property="og:title" content="Grounded Architecture: The Chief Architect’s Playbook" />
+<meta property="og:locale" content="en_US" />
+<link rel="canonical" href="http://localhost:4000/" />
+<meta property="og:url" content="http://localhost:4000/" />
+<meta property="og:site_name" content="Grounded Architecture: The Chief Architect’s Playbook" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Grounded Architecture: The Chief Architect’s Playbook" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","headline":"Grounded Architecture: The Chief Architect’s Playbook","name":"Grounded Architecture: The Chief Architect’s Playbook","url":"http://localhost:4000/"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Grounded Architecture: The Chief Architect's Playbook" /></head>
+<body><header class="site-header">
+    <div class="wrapper"><a class="site-title" rel="author" href="/" style="margin-bottom: 0; color: grey; white-space: nowrap; overflow: none; max-width: 100%">
+        <div style="height: 30px">Grounded Architecture: The Chief Architect&#39;s Playbook</div>
+        <div style="color: #a0a0a0; font-size: 13px;">Version 0.9</div>
+        </a><nav class="site-nav">
+            <input type="checkbox" id="nav-trigger" class="nav-trigger"/>
+            <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+            </label>
+
+            <div class="trigger"><a class="page-link" href="/about/" style="color: #b0b0b0">About</a></div>
+        </nav><table style="border: none; font-size: 80%; margin: 0; padding: 0;">
+    <tr style="border: none; margin: 0; padding: 0">
+        <td style="border: none; margin: 0; padding: 0"></td>
+        <td style="border: none; text-align: right; margin: 0; padding: 0"></td>
+    </tr>
+</table>
+</div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-129891352-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+    gtag('config', 'UA-129891352-1');
+</script>
+
+
+<img src="/assets/images/arch/architecture-3357028_1920.jpg"
+     style="box-shadow: 0 2px 4px 0 rgb(0 0 0 / 20%), 0 3px 10px 0 rgb(0 0 0 / 19%);">
+<br>
+<br>
+
+
+<div class="home">
+
+    <ul class="post-list"><h1 class="page-heading" style="text-align: center">Introduction</h1>
+        <li>
+
+            <table style="border: none;">
+                <tr>
+                    <td style="width: 100px; border: none;">
+                        <img src="/assets/icons/spiral-stairs.png" style="width: 100px;">
+                    </td>
+                    <td style="border: none;">
+                        <h3>
+                            <a class="post-link" href="/intro">
+                                Introduction
+                            </a>
+                        </h3>
+                        <i>This playbook will explain my approach to running an IT architecture practice in larger organizations. I called this approach "Grounded Architecture," highlighting the need for any IT architecture function to stay well-connected to all levels of an organization and led by data.</i>
+                    </td>
+                </tr>
+            </table>
+        </li><li>
+
+            <table style="border: none;">
+                <tr>
+                    <td style="width: 100px; border: none;">
+                        <img src="/assets/icons/roller-coaster.png" style="width: 100px;">
+                    </td>
+                    <td style="border: none;">
+                        <h3>
+                            <a class="post-link" href="/context">
+                                Context: Fast Moving Global Organizations
+                            </a>
+                        </h3>
+                        <i>The grounded architecture approach has developed in the context of global, loosely coupled organizations that are diverse, with non-linear growth dynamics, and under transformation pressures. The work I present here reflects my experiences as a Chief or Principal Architect at AVIV Group, eBay Classifieds, and Adevinta.</i>
+                    </td>
+                </tr>
+            </table>
+        </li><li>
+
+            <table style="border: none;">
+                <tr>
+                    <td style="width: 100px; border: none;">
+                        <img src="/assets/icons/requirements.png" style="width: 100px;">
+                    </td>
+                    <td style="border: none;">
+                        <h3>
+                            <a class="post-link" href="/requirements">
+                                Requirements
+                            </a>
+                        </h3>
+                        <i>I identified the following needs that an architecture function should support: Executing At Scale, Increasing the Quality of Decision-Making with Data, Maximizing Organizational Alignment & Learning, Higher Adaptivity.</i>
+                    </td>
+                </tr>
+            </table>
+        </li><h1 class="page-heading" style="text-align: center">Grounded Architecture</h1>
+        <li>
+
+            <table style="border: none;">
+                <tr>
+                    <td style="width: 100px; border: none;">
+                        <img src="/assets/icons/bridge.png" style="width: 100px;">
+                    </td>
+                    <td style="border: none;">
+                        <h3>
+                            <a class="post-link" href="/grounded-architecture">
+                                Grounded Architecture: An Overview
+                            </a>
+                        </h3>
+                        <i>I introduce three elements of Grounded Architecture: The Data Pillar, The People Pillar, The Architecture Activities Platform.</i>
+                    </td>
+                </tr>
+            </table>
+        </li><li>
+
+            <table style="border: none;">
+                <tr>
+                    <td style="width: 100px; border: none;">
+                        <img src="/assets/icons/curation.png" style="width: 100px;">
+                    </td>
+                    <td style="border: none;">
+                        <h3>
+                            <a class="post-link" href="/data-pillar">
+                                Data Pillar
+                            </a>
+                        </h3>
+                        <i>The architecture data pillar serves as a medium to create a complete, up-to-date picture of critical elements of technology landscapes of big organizations. The platform provides an architecture-centric view on data about our technology landscape based on source code analyses, public cloud billing reports, vibrancy reports, or incident tickets.</i>
+                    </td>
+                </tr>
+            </table>
+        </li><li>
+
+            <table style="border: none;">
+                <tr>
+                    <td style="width: 100px; border: none;">
+                        <img src="/assets/icons/community.png" style="width: 100px;">
+                    </td>
+                    <td style="border: none;">
+                        <h3>
+                            <a class="post-link" href="/people-pillar">
+                                People Pillar
+                            </a>
+                        </h3>
+                        <i>We should not take our architectural talent for granted. Architects are bridging local business, product, organizational, and technology issues. Architects are difficult to hire talent as they need in-depth technical knowledge and domain-specific and organizational knowledge. Therefore, we need to make sure to support, organize, and leverage architecture talent.</i>
+                    </td>
+                </tr>
+            </table>
+        </li><li>
+
+            <table style="border: none;">
+                <tr>
+                    <td style="width: 100px; border: none;">
+                        <img src="/assets/icons/goals.png" style="width: 100px;">
+                    </td>
+                    <td style="border: none;">
+                        <h3>
+                            <a class="post-link" href="/activities-platform">
+                                Architecture Activities Platform
+                            </a>
+                        </h3>
+                        <i>The Architecture Activities Platform is the place where, by leveraging data and people pillars, we performed activities that help an organization to reach it goals. Here are some examples: supporting teams in their daily work; tracking tech debt, defining tech debt reduction programs; performing technical due diligence; standardization of processes and documentation; defining cloud, data, and platform strategies.</i>
+                    </td>
+                </tr>
+            </table>
+        </li><li>
+
+            <table style="border: none;">
+                <tr>
+                    <td style="width: 100px; border: none;">
+                        <img src="/assets/icons/impact-droplet.png" style="width: 100px;">
+                    </td>
+                    <td style="border: none;">
+                        <h3>
+                            <a class="post-link" href="/impact">
+                                Value of Grounded Architecture
+                            </a>
+                        </h3>
+                        <i>When Grounded Architecture is in place, it can have a significant positive impact on the functioning of an organization: Executing At Scale, Increasing the Quality of Decision-Making with Data, Maximizing Organizational Alignment & Learning, Higher Adaptivity.</i>
+                    </td>
+                </tr>
+            </table>
+        </li><h1 class="page-heading" style="text-align: center">Guiding Principles & Stories</h1>
+        <li>
+
+            <table style="border: none;">
+                <tr>
+                    <td style="width: 100px; border: none;">
+                        <img src="/assets/icons/principles.png" style="width: 100px;">
+                    </td>
+                    <td style="border: none;">
+                        <h3>
+                            <a class="post-link" href="/principles">
+                                Guiding Principles &amp; Stories
+                            </a>
+                        </h3>
+                        <i>I have identified the following operating principles that can help put the ideas of Grounded Architecture into practice and get things done: Breaking Up Ivory Towers, Strengthening Architectural Muscle Across Organization, and Embracing Diversity, Distributing Decision-Making.</i>
+                    </td>
+                </tr>
+            </table>
+        </li><li>
+
+            <table style="border: none;">
+                <tr>
+                    <td style="width: 100px; border: none;">
+                        <img src="/assets/icons/superglue.png" style="width: 100px;">
+                    </td>
+                    <td style="border: none;">
+                        <h3>
+                            <a class="post-link" href="/superglue">
+                                Architects as Superglue
+                            </a>
+                        </h3>
+                        <i>Architects in IT organizations should develop as “superglue,” people who hold architecture, technical details, business needs, and people together across a large organization or complex projects.</i>
+                    </td>
+                </tr>
+            </table>
+        </li><li>
+
+            <table style="border: none;">
+                <tr>
+                    <td style="width: 100px; border: none;">
+                        <img src="/assets/icons/storm.png" style="width: 100px;">
+                    </td>
+                    <td style="border: none;">
+                        <h3>
+                            <a class="post-link" href="/storm">
+                                In the Eye of the Storm
+                            </a>
+                        </h3>
+                        <i>I found it crucial to align on a shared vision on architecture across all departments. In particular, I wanted to prevent positioning of architecture as an ivory tower, disconnected from realities of complex organization.</i>
+                    </td>
+                </tr>
+            </table>
+        </li><li>
+
+            <table style="border: none;">
+                <tr>
+                    <td style="width: 100px; border: none;">
+                        <img src="/assets/icons/diversity.png" style="width: 100px;">
+                    </td>
+                    <td style="border: none;">
+                        <h3>
+                            <a class="post-link" href="/diversity">
+                                Embrace Diversity, Distribute &amp; Align Decisions
+                            </a>
+                        </h3>
+                        <i>My aim was to keep architectural decision-making distributed across the organization embedded in the development teams. Development teams units traditionally have the best insights and most information relevant for making a decision. The worst case of organizational decision-making happens when people with relevant information do not have the mandate to make decisions, while people who lack sufficient information can make all decisions.</i>
+                    </td>
+                </tr>
+            </table>
+        </li><li>
+
+            <table style="border: none;">
+                <tr>
+                    <td style="width: 100px; border: none;">
+                        <img src="/assets/icons/pragmatics.png" style="width: 100px;">
+                    </td>
+                    <td style="border: none;">
+                        <h3>
+                            <a class="post-link" href="/flexible-governance">
+                                Flexible Governance
+                            </a>
+                        </h3>
+                        <i>I tried to prevent a simplistic view of architecture as defining directives for the rest of the organization. I promote a technology governance model as a well-balanced hybrid of three different styles of governing: mandates and bans, taxes, and leading by context.</i>
+                    </td>
+                </tr>
+            </table>
+        </li><li>
+
+            <table style="border: none;">
+                <tr>
+                    <td style="width: 100px; border: none;">
+                        <img src="/assets/icons/economics.png" style="width: 100px;">
+                    </td>
+                    <td style="border: none;">
+                        <h3>
+                            <a class="post-link" href="/economics">
+                                Economic Modeling
+                            </a>
+                        </h3>
+                        <i>In this post, I sketch two answers to the question of the economic value of technology investments and architecture: the return on investment metaphor, and the financial options metaphor.</i>
+                    </td>
+                </tr>
+            </table>
+        </li><li>
+
+            <table style="border: none;">
+                <tr>
+                    <td style="width: 100px; border: none;">
+                        <img src="/assets/icons/compass.png" style="width: 100px;">
+                    </td>
+                    <td style="border: none;">
+                        <h3>
+                            <a class="post-link" href="/compass">
+                                Architect&#39;s Compass
+                            </a>
+                        </h3>
+                        <i>Architecture work as being driven by four main motivators: Curiosity and wonder, where we follow our strong interests and desires to learn new things; Doubt, where we want to obtain deeper and more certain understanding; Belief and vision, where we set or follow vision and ideals; and Skepticism, where we question the possibility of reaching some goals.</i>
+                    </td>
+                </tr>
+            </table>
+        </li><h1 class="page-heading" style="text-align: center">Summary</h1>
+        <li>
+
+            <table style="border: none;">
+                <tr>
+                    <td style="width: 100px; border: none;">
+                        <img src="/assets/icons/summary.png" style="width: 100px;">
+                    </td>
+                    <td style="border: none;">
+                        <h3>
+                            <a class="post-link" href="/summary">
+                                Summary
+                            </a>
+                        </h3>
+                        <i>This playbook generalize my lessons learned while running an architecture function in global, fast-moving organizations, based on my experience as a Chief Architect at AVIV Group, eBay Classifieds, and Adevinta.</i>
+                    </td>
+                </tr>
+            </table>
+        </li><h1 class="page-heading" style="text-align: center">To Probe Further</h1>
+        <li>
+
+            <table style="border: none;">
+                <tr>
+                    <td style="width: 100px; border: none;">
+                        <img src="/assets/icons/books.png" style="width: 100px;">
+                    </td>
+                    <td style="border: none;">
+                        <h3>
+                            <a class="post-link" href="/background">
+                                Background
+                            </a>
+                        </h3>
+                        <i>Overview of the background to probe further. External resources inspiring my work.</i>
+                    </td>
+                </tr>
+            </table>
+        </li></ul></div>
+
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">Grounded Architecture: The Chief Architect&#39;s Playbook</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">Grounded Architecture: The Chief Architect&#39;s Playbook</li><li><a class="u-email" href="mailto:zeljko.obren@gmail.com">zeljko.obren@gmail.com</a></li></ul>
+      </div>
+
+      <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a href="https://github.com/zeljkoobrenovic"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg> <span class="username">zeljkoobrenovic</span></a></li><li><a href="https://www.twitter.com/zeljko_obren"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#twitter"></use></svg> <span class="username">zeljko_obren</span></a></li></ul>
+</div>
+
+      <div class="footer-col footer-col-3">
+        <p></p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+</body>
+
+</html>
