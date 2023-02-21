@@ -39,8 +39,9 @@ I have identified the following [guiding principles](principles) that can help p
 * [Developing Architects as Superglue](superglue),
 * [Being in the Eye of the Storm](storm),
 * [Embracing Diversity, Distribute & Align Decisions](diversity),
-* [Having Flexible Governance](flexible-governance), and
-* [Applying Economic Modeling](economics).
+* [Having Flexible Governance](flexible-governance),
+* [Applying Economic Modeling](economics), and
+* [Following Archtect's Compass](compass).
 
 When Grounded Architecture is in place, it can have a significant [positive impact](impact) on the functioning of an organization:
 

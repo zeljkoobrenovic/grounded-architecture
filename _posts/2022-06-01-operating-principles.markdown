@@ -1,7 +1,7 @@
 ---
 layout: post
-section: "Guiding Principles"
-title: "Guiding Principles"
+section: "Guiding Principles & Stories"
+title: "Guiding Principles & Stories"
 position: 6000
 date: 2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
@@ -22,5 +22,6 @@ The following guiding principles have helped me make grounded architecture more 
 * [Developing Architects as Superglue](superglue),
 * [Being in the Eye of the Storm](storm),
 * [Embracing Diversity, Distribute & Align Decisions](diversity),
-* [Having Flexible Governance](flexible-governance), and
-* [Applying Economic Modeling](economics).
+* [Having Flexible Governance](flexible-governance),
+* [Applying Economic Modeling](economics), and
+* [Following Archtect's Compass](compass).

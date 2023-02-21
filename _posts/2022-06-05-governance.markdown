@@ -1,6 +1,6 @@
 ---
 layout: post
-section: "Guiding Principles"
+section: "Guiding Principles & Stories"
 title: "Flexible Governance"
 position: 6005
 date:   2021-10-21 21:12:01 +0100

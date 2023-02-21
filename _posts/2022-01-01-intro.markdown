@@ -41,8 +41,9 @@ I have identified the following [guiding principles](principles) that can help p
 * [Developing Architects as Superglue](superglue),
 * [Being in the Eye of the Storm](storm),
 * [Embracing Diversity, Distribute & Align Decisions](diversity),
-* [Having Flexible Governance](flexible-governance), and
-* [Applying Economic Modeling](economics).
+* [Having Flexible Governance](flexible-governance),
+* [Applying Economic Modeling](economics), and
+* [Following Archtect's Compass](compass).
 
 The rest of this site will explain in detail the grounded architecture approach. In this section, I want to tell a few things about my motivation to write this playbook.
 
