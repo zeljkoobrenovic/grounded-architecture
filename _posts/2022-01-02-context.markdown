@@ -23,25 +23,20 @@ Image by <a href="https://pixabay.com/users/paulbr75-2938186/?utm_source=link-at
 To better understand any idea or solution, it is crucial to understand the context in which these ideas developed. My approach to creating and running an architecture function is not an abstract idea. Instead, it is the generalization of many lessons learned while solving specific problems in a particular context.
 
 I base my ideas on my experiences as a Chief and Principal Architect at AVIV Group, eBay Classifieds, and Adevinta. In this section, I discuss critical characteristics of the organizational context that have had an impact on my definition of the grounded architecture approach:
-* **global scale**: operating across multiple countries and continents
-* **decentralized, loosely-coupled organizational units**: organizational units are decentralized and have significant autonomy, while central functions exist but are limited (everyone is a minority)
-* **multi-dimensional diversity**: due to historical reasons, the organizations I worked in were very diverse at all levels, including customer base, workforce, business model, team topologies, technology stacks
-* **nonlinear growth dynamics**: in addition to organic growth, our organizations frequently changed the portfolio both by mergers and acquisitions of new businesses and as well as by divestments
-* **synergies and transformation pressures**: our organizations wanted to exploit the benefits from the economies of scale and reduce duplication of efforts
+* **global scale**: operating across multiple countries and continents with millions of users,
+* **decentralized, loosely-coupled organizational units**: organizational units have significant autonomy,
+* **multi-dimensional diversity**: the organizations I worked in were very diverse at all levels, including customer base, workforce, business model, team topologies, technology stacks,
+* **nonlinear growth dynamics**: in addition to organic growth, big organizations frequently change the portfolio both by mergers and acquisitions of new businesses and as well as by divestments,
+* **synergies and transformation pressures**: big organizations do not want just to be bing, they want to exploit the benefits of the economies of scale and reduce duplication of efforts.
 
 
-In the following sub-sections, I discuss these characteristics from an architectural viewpoint, looking at challenges and opportunities.
+In the following sub-sections, I discuss these characteristics in more detail from an architectural viewpoint.
 
 <br>
 
 ## Characteristic 1: Global Scale
 
-I was lucky to develop my approach in genuinely global and multicultural organizations. Globality and multiculturality come from two sources:
-
-* Markets in which our organization operates.
-* Workforce building our products. In addition to the people we serve in each active market, we also have people working from many other countries. With the possibility of remote working, there were practically no limitations on the location of our workforce.
-
-Global context also leads to a massive scale:
+I was lucky to develop my approach in genuinely global and multicultural organizations. Global context leads to a massive scale:
 
 * Billions of monthly user visits
 * Thousands of active software developers
@@ -85,7 +80,7 @@ Loose coupling offers several advantages:
 * High development speed / faster time-to-market: fewer dependencies make it much easier for marketplaces to change and evolve their products for local needs.
 * Innovation: possibilities to quickly explore ideas in smaller contexts.
 
-Loose coupling also has several disadvantages:
+Loose coupling also has several challenges:
 
 * Duplication of effort: while local market needs differ, there is frequently a significant overlap in product features and technology. This overlap leads to duplication of effort as each marketplace creates solutions for the same problems.
 * Increased accidental diversity: limited synchronization offers flexibility but may lead to significantly different design choices, making it challenging to consolidate solutions, move people between teams, or benefit from the economy of scale.
@@ -111,13 +106,11 @@ The global and multicultural nature of our context leads to diversity and multip
 * Diversity of meeting styles
 * Diversity of ways of dealing with feedback
 
-The organizations I worked with had many units, such as marketplaces (each with its sub-structures), global capabilities, enterprise IT teams, data capabilities, and generic IT infrastructure. In addition to their loose coupling, these organizational units differed in multiple ways:
+The organizations have many units, such as marketplaces (each with its sub-structures), global capabilities, enterprise IT teams, data capabilities, and generic IT infrastructure. In addition to their loose coupling, these organizational units differed in multiple ways:
 
 * Size: for instance, some units had hundreds of developers, and some units had only a dozen.
 * Team topologies: some organizations had one team, while other teams were organized hierarchically.
 * Position of architecture: with some organizations having local architecture teams and local lead architects, smaller units have their team members conducting architecture activities in addition to other responsibilities
-
-With many brands, we also have significant product diversity.
 
 We had many architectural styles in active production systems, ranging from legacy monolith applications to complex modern Microservices and serverless ecosystems. Each part of the organization has a different history and a different legacy.
 
@@ -164,9 +157,9 @@ Nonlinear dynamics have several influences on architectural activities:
 <br>
 ## Characteristic 5: Synergies and Transformations Pressures
 
-Complex organizations do not just grow. Instead, they want to be more efficient and leverage economies of scale, cost synergies, or increase capacity for innovation. In other words, such organizations are not an investment portfolio with diverse independent players. Our investors expect us to transform to be more than a sum of our original parts.
+Complex organizations do not just grow. Instead, they want to be more efficient and leverage economies of scale, cost synergies, or increase capacity for innovation. Our investors expect us to transform to be more than a sum of our original parts.
 
-Pressure for synergies and transformations can provide several benefits:
+Pressure for synergies and transformations can provide several opportunities:
 
 * Cost reductions.
 * Acceleration due to more resources available when synergies happen.

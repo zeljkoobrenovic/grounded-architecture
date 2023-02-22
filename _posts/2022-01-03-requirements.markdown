@@ -18,8 +18,9 @@ Image by <a href="https://pixabay.com/users/geralt-9301/?utm_source=link-attribu
 </div>
 
 Considering the scale and complexity of the organizational context I operated in, it was apparent that conventional approaches of doing architecture that rely on manual processes need to be revised. More specifically, I identified the following needs that an architecture function should support:
+
 * **Executing At Scale**: we needed to find a way to support hundreds of teams, and thousands of projects, with significant complexity and diversity.
-* **Improving Quality of Decision-Making with Data**: intuition does not work at our scale; we need tools and mechanisms to make a decision process more data-informed and less dependent on opinions.
+* **Improving Quality of Decision-Making with Data**: intuition does not work at scale; we need tools and mechanisms to make a decision process more data-informed and less dependent on opinions.
 * **Maximize Organizational Alignment**: in a global, diverse, fast-moving organization, misalignment is a natural state; the architecture function should be a cohesive factor in minimizing such misalignments.
 * **Maximize Organizational Learning**: in complex organizations with lots of effort needed to maintain legacy systems, learning and following new technology developments takes work; architecture should help organizations to learn fast, stay up-to-date with emerging technologies and industry trends and recommend technology upgrades.
 * **Adaptivity**: significant organic and inorganic changes are frequent and expected; the architecture function must adapt quickly to stay relevant in a new context.

@@ -21,7 +21,7 @@ Image by <a href="https://pixabay.com/users/fda54-145996/?utm_source=link-attrib
 This playbook will explain my approach to running an IT architecture practice in larger organizations. I called this approach "grounded architecture," highlighting the need for any IT architecture function to stay well-connected to all levels of an organization and led by data. 
 
 Grounded Architecture has two main parts:
-* **Structure**, defining elements you need to have to run Grounded Architecture practice, and
+* **Structure**, elements you need to have to run Grounded Architecture practice, and
 * **Guiding Principles**, that can help put the ideas of Grounded Architecture into practice and build the right culture
 
 The following figure illustrates the structure of the Grounded Architecture consisting of three elements:
@@ -31,9 +31,9 @@ The following figure illustrates the structure of the Grounded Architecture cons
 
 ![](assets/images/model.png)
 
-The *[Data Pillar](data-pillar)* ensures that architects' decisions are data-informed, based on a real-time and complete overview of the organization's technology.
+The *[Data Pillar](data-pillar)* ensures that architects' decisions are data-informed, based on a up-to-date and complete overview of the organization's technology landscape.
 
-The *[People Pillar](people-pillar)* is another essential element of Grounded Architecture. A strong network of people doing architecture across the organization is crucial to ensure that architecture function has any tangible impact.
+The *[People Pillar](people-pillar)* represents a strong network of people doing architecture across the organization that is crucial to ensure that architecture function has any tangible impact.
 
 Lastly, the *[Architecture Activities Platform](activities-platform)* leverages data and people to create a data-informed, deep, and broad impact.
 

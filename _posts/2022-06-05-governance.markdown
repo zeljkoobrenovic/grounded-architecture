@@ -17,9 +17,9 @@ excerpt: "I tried to prevent a simplistic view of architecture as defining direc
 Image by nonbirinonko/Pixabay
 </div>
 
-With Grounded Architecture, it is possible to have flexible governance models that acknowledge the complexity and diversity of our organization. By governing, I mean guiding technology choices in the organization in a particular direction aligned with the technology strategy. 
+With Grounded Architecture, it is possible to have flexible governance models that acknowledge the complexity and diversity of organizations. 
 
-I tried to prevent a simplistic view of architecture as defining directives for the rest of the organization. Consequently, I aimed to promote a technology governance model as a well-balanced hybrid of three different styles of governing:
+By governing, I mean guiding technology choices in the organization in a particular direction aligned with the technology strategy. I tried to prevent a simplistic view of architecture as defining directives for the rest of the organization. Consequently, I aimed to promote a technology governance model as a well-balanced hybrid of three different styles of governing:
 * mandates and bans,
 * taxes, and
 * leading by context.

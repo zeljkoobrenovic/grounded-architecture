@@ -108,27 +108,20 @@ Image by <a href="https://pixabay.com/users/paulbr75-2938186/?utm_source=link-at
 
 <p>I base my ideas on my experiences as a Chief and Principal Architect at AVIV Group, eBay Classifieds, and Adevinta. In this section, I discuss critical characteristics of the organizational context that have had an impact on my definition of the grounded architecture approach:</p>
 <ul>
-  <li><strong>global scale</strong>: operating across multiple countries and continents</li>
-  <li><strong>decentralized, loosely-coupled organizational units</strong>: organizational units are decentralized and have significant autonomy, while central functions exist but are limited (everyone is a minority)</li>
-  <li><strong>multi-dimensional diversity</strong>: due to historical reasons, the organizations I worked in were very diverse at all levels, including customer base, workforce, business model, team topologies, technology stacks</li>
-  <li><strong>nonlinear growth dynamics</strong>: in addition to organic growth, our organizations frequently changed the portfolio both by mergers and acquisitions of new businesses and as well as by divestments</li>
-  <li><strong>synergies and transformation pressures</strong>: our organizations wanted to exploit the benefits from the economies of scale and reduce duplication of efforts</li>
+  <li><strong>global scale</strong>: operating across multiple countries and continents with millions of users,</li>
+  <li><strong>decentralized, loosely-coupled organizational units</strong>: organizational units have significant autonomy,</li>
+  <li><strong>multi-dimensional diversity</strong>: the organizations I worked in were very diverse at all levels, including customer base, workforce, business model, team topologies, technology stacks,</li>
+  <li><strong>nonlinear growth dynamics</strong>: in addition to organic growth, big organizations frequently change the portfolio both by mergers and acquisitions of new businesses and as well as by divestments,</li>
+  <li><strong>synergies and transformation pressures</strong>: big organizations do not want just to be bing, they want to exploit the benefits of the economies of scale and reduce duplication of efforts.</li>
 </ul>
 
-<p>In the following sub-sections, I discuss these characteristics from an architectural viewpoint, looking at challenges and opportunities.</p>
+<p>In the following sub-sections, I discuss these characteristics in more detail from an architectural viewpoint.</p>
 
 <p><br /></p>
 
 <h2 id="characteristic-1-global-scale">Characteristic 1: Global Scale</h2>
 
-<p>I was lucky to develop my approach in genuinely global and multicultural organizations. Globality and multiculturality come from two sources:</p>
-
-<ul>
-  <li>Markets in which our organization operates.</li>
-  <li>Workforce building our products. In addition to the people we serve in each active market, we also have people working from many other countries. With the possibility of remote working, there were practically no limitations on the location of our workforce.</li>
-</ul>
-
-<p>Global context also leads to a massive scale:</p>
+<p>I was lucky to develop my approach in genuinely global and multicultural organizations. Global context leads to a massive scale:</p>
 
 <ul>
   <li>Billions of monthly user visits</li>
@@ -177,7 +170,7 @@ Image by <a href="https://pixabay.com/users/paulbr75-2938186/?utm_source=link-at
   <li>Innovation: possibilities to quickly explore ideas in smaller contexts.</li>
 </ul>
 
-<p>Loose coupling also has several disadvantages:</p>
+<p>Loose coupling also has several challenges:</p>
 
 <ul>
   <li>Duplication of effort: while local market needs differ, there is frequently a significant overlap in product features and technology. This overlap leads to duplication of effort as each marketplace creates solutions for the same problems.</li>
@@ -208,15 +201,13 @@ Image by <a href="https://pixabay.com/users/paulbr75-2938186/?utm_source=link-at
   <li>Diversity of ways of dealing with feedback</li>
 </ul>
 
-<p>The organizations I worked with had many units, such as marketplaces (each with its sub-structures), global capabilities, enterprise IT teams, data capabilities, and generic IT infrastructure. In addition to their loose coupling, these organizational units differed in multiple ways:</p>
+<p>The organizations have many units, such as marketplaces (each with its sub-structures), global capabilities, enterprise IT teams, data capabilities, and generic IT infrastructure. In addition to their loose coupling, these organizational units differed in multiple ways:</p>
 
 <ul>
   <li>Size: for instance, some units had hundreds of developers, and some units had only a dozen.</li>
   <li>Team topologies: some organizations had one team, while other teams were organized hierarchically.</li>
   <li>Position of architecture: with some organizations having local architecture teams and local lead architects, smaller units have their team members conducting architecture activities in addition to other responsibilities</li>
 </ul>
-
-<p>With many brands, we also have significant product diversity.</p>
 
 <p>We had many architectural styles in active production systems, ranging from legacy monolith applications to complex modern Microservices and serverless ecosystems. Each part of the organization has a different history and a different legacy.</p>
 
@@ -270,9 +261,9 @@ Image by <a href="https://pixabay.com/users/paulbr75-2938186/?utm_source=link-at
 <p><br /></p>
 <h2 id="characteristic-5-synergies-and-transformations-pressures">Characteristic 5: Synergies and Transformations Pressures</h2>
 
-<p>Complex organizations do not just grow. Instead, they want to be more efficient and leverage economies of scale, cost synergies, or increase capacity for innovation. In other words, such organizations are not an investment portfolio with diverse independent players. Our investors expect us to transform to be more than a sum of our original parts.</p>
+<p>Complex organizations do not just grow. Instead, they want to be more efficient and leverage economies of scale, cost synergies, or increase capacity for innovation. Our investors expect us to transform to be more than a sum of our original parts.</p>
 
-<p>Pressure for synergies and transformations can provide several benefits:</p>
+<p>Pressure for synergies and transformations can provide several opportunities:</p>
 
 <ul>
   <li>Cost reductions.</li>
