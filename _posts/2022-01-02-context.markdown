@@ -65,7 +65,7 @@ The global and massive scale has many challenges:
 * Huge attack surface, many points on the boundary of our systems where an attacker can try to enter, cause an effect on, or extract data.
 * Limitations of any manual process, such as diagram drawing, to create an overview of the organizational or technology landscape.
 
-
+Balancing opportunities and challenges on a global scale is one of the most challenging and rewarding aspects of architectural work.
 
 <br>
 
@@ -89,9 +89,9 @@ Loose coupling also has several challenges:
 * Increased accidental diversity: limited synchronization offers flexibility but may lead to significantly different design choices, making it challenging to consolidate solutions, move people between teams, or benefit from the economy of scale.
 * Limited possibilities for central control: due to fewer dependencies and different goals, it is more difficult to introduce changes across the portfolio.
 
+Loose coupling is architecture-wise challenging as it frequently leads to a conflict between global alignment and control and local autonomy.
 
 <br>
-
 ## Characteristic 3: Multi-Dimensional Diversity
 
 The organizations I worked on were very diverse across several dimensions:
@@ -138,10 +138,9 @@ Diversity also poses several challenges:
 * Limited flexibility and reorganization possibilities as expertise is split among many domains and technologies.
 * Higher technical debt due to many legacy components in many (outdated) technologies.
 
+From an architectural perspective, diversity is an excellent source of new possibilities but comes with changes in controlling complexity.
+
 <br>
-
-
-
 ## Characteristic 4: Nonlinear Growth Dynamics
 
 Complex organizations like the one I have worked in are frequently very dynamic. Such organizations grow (or shrink) and reorganize often and significantly. They change both organically and inorganically. Organic growth is internal growth the company sees from its operations. Inorganic change comes from buying other businesses, opening new locations, or divesting.
@@ -156,6 +155,8 @@ Nonlinear dynamics have several influences on architectural activities:
 * Increased complexity due to many new organizational units.
 * Increased complexity to the potentially more diverse organization, process, and technology.
 * More complex architecture to stay flexible if the organization decides to divest a part of the organization.
+
+Non-linear growth dynamics open up many challenges as they can lead to many surprises. And in business [there are no good surprises](https://www.linkedin.com/pulse/good-surprises-business-clemens-rettich/).
 
 <br>
 ## Characteristic 5: Synergies and Transformations Pressures
@@ -175,3 +176,5 @@ Pressure to be more synergic and efficient has its challenges:
 * Such investment typically brings high risks.
 * Productivity of some teams may (temporarily) drop due to the need to split effort between transformation activities and other work.
 * After transformations, the complexity of the organization and technology landscape may increase due to more dependencies, e.g., reusing central services.
+
+Synergies and transformation pressures can lead to high expectations and pressure that complicate regular architecture work.
