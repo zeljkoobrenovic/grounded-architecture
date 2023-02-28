@@ -17,6 +17,10 @@ style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/3844328-3844328/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1857175">Lorenzo Cafaro</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1857175">Pixabay</a>
 </div>
+> **KEY POINTS:**
+>
+> * The architecture data pillar serves as a medium to create a complete, up-to-date picture of critical elements of technology landscapes of big organizations. 
+> * The data pillar provides an architecture-centric view on data about our technology landscape based on source code analyses, public cloud billing reports, vibrancy reports, or incident tickets.
 
 In every place I worked on creating architectural functions, I strongly emphasized data. In the past several years, I have been working on creating open-source tools, such as [Sokrates](https://sokrates.dev), that can help obtain valuable architectural insights from data sources, such as source code repositories or public cloud billing reports. Consequently, one of the first steps I make in any architecture role is to create an architecture data pillar to get a complete, up-to-date picture of critical elements of the technology landscapes of an organization. Manual documentation does not scale in [our context](context), and relying on data ensures reliability and scalability. 
 
@@ -125,7 +129,7 @@ The architecture data pillar can provide lots of data. Sometimes, as in an ordin
 
 While each organization will have its unique sets of data, here are some tips I found helpful in my approach to forming the architecture data pillar:
 
-* Start with the source code. My motto is "Talk is expensive. Show me the code." I scan as soon as possible all source code using tools such as [Sokrates](https://sokrates.dev). I highly recommend [Sokrates](https://sokrates.dev) as the basis for the data platform, but other simple analyses could also provide a good starting point. Modern IT enterprises store almost everything as a code. It is the richest and most up-to-date documentation on most things happening in an IT enterprise.
+* Start with the source code. My motto is "Talk is expensive. Show me the code." I scan as soon as possible all source code using tools such as [Sokrates](https://sokrates.dev). I highly recommend [Sokrates](https://sokrates.dev) as the basis for the data pillar, but other simple analyses could also provide a good starting point. Modern IT enterprises store almost everything as a code. It is the richest and most up-to-date documentation on most things happening in an IT enterprise.
 * Connect with finance and governance teams to get exports of their data (without sensitive parts, such as revenue projections). Cloud billing reports and data about vibrancy or revenue streams are collected anyway. By extracting more technology-oriented data (e.g., public cloud technology usage trends) and connecting them to other data, many new insights may be obtained without starting new processes or asking people to provide more details. First, leverage what you have, squeeze all the value from it, then ask people for any missing elements.
 * Use simple and easy-to-maintain infrastructures. For example, I publish the results of Sokrates analyses and other simple data Web apps as static resources in our enterprise GithHub pages. Configuring more complex infrastructure with complex databases and backend software requires more maintenance.
 * Maintain a culture of transparency. It is much simpler a more effective to share fewer data with everyone than to have more data, but complex authorization is needed.

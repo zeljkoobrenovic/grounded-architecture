@@ -16,6 +16,10 @@ excerpt: "I tried to prevent a simplistic view of architecture as defining direc
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by nonbirinonko/Pixabay
 </div>
+> **KEY POINTS:**
+>
+> * I promote a technology governance model as a well-balanced hybrid of three different styles of governing: mandates and bans, taxes, and leading by context.
+> * I want to prevent a simplistic view of architecture as defining directives for the rest of the organization. 
 
 With Grounded Architecture, it is possible to have flexible governance models that acknowledge the complexity and diversity of organizations. 
 

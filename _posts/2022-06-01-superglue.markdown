@@ -16,6 +16,11 @@ excerpt: "Architects in IT organizations should develop as “superglue,” peop
      src="assets/images/superglue/superglue.png">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 </div>
+> **KEY POINTS:**
+>
+> * Architects in IT organizations should develop as “superglue,” people who hold architecture, technical details, business needs, and people together across a large organization or complex projects.
+> * Strong Architecture = Strong Architects.
+> * Architects should stand on three legs: Skills, Impact, Thought leadership.
 
 The People Pillar part of grounded architecture considers the people the central and essential part of architectural activities. In other words, Strong Architecture = Strong Architects. Developing the architecture function requires having competent, empowered, and motivated architects.
 

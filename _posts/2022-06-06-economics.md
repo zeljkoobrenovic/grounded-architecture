@@ -8,13 +8,18 @@ author: by Željko Obrenović (obren.io)
 icon: economics.png
 permalink: economics
 timetoread: 11 min
-excerpt: "In this post, I sketch two answers to the question of the economic value of technology investments and architecture: the return on investment metaphor, and the financial options metaphor."
+excerpt: "I sketch two answers to the question of the economic value of technology investments and architecture: the return on investment metaphor, and the financial options metaphor."
 
 ---
 ![](assets/images/arch/money-g45f6788de_1920.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/nattanan23-6312362/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2724241">Nattanan Kanchanaprat</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2724241">Pixabay</a>
 </div>
+> **KEY POINTS:**
+>
+> * Architects are frequently asked about the (economic) value of architecture or technology investments.
+> * Answering this question is a crucial skill for any senior architect. But it may be difficult to answer this seemingly harmless question concisely and convincingly to a non-technical audience.
+> * Borrowing from existing literature, I sketch two answers to the question of the economic value of architecture: the return on investment metaphor and the selling options metaphor.
 
 Architects frequently need to answer questions about (economic) value of technology investments and architecture. Answering this question is a crucial skill for any senior architect. But it may be difficult to answer this seemingly harmless question concisely and convincingly to a non-technical audience.
 

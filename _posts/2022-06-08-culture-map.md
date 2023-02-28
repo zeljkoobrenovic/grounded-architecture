@@ -16,7 +16,10 @@ excerpt: "In multinational organizations, architects will need to work with many
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/mailanmaik-4340251/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2494518">Maik</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2494518">Pixabay</a>
 </div>
-
+> **KEY POINTS:**
+>
+> * I have found the work of Erin Meyer, The Culture Map, to be a very helpful tool for architects to work harmoniously with people from a broad array of different cultures and backgrounds.
+> * Meyer’s model contains eight scales, each representing a key area, showing how cultures vary from extreme to extreme: Communicating, Evaluating, Persuading, Leading, Deciding, Trusting, Disagreeing, and Scheduling.
 
 
 In multinational organizations, architects will need to work with many different cultures. I have found the work of Erin Meyer, The Culture Map, to be a very helpful tool for architects to work harmoniously with people from a broad array of different cultures and backgrounds.

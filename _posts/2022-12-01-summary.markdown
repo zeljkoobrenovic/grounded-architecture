@@ -15,6 +15,11 @@ excerpt: This playbook generalize my lessons learned while running an architectu
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=908176">Gerd Altmann</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=908176">Pixabay</a>
 </div>
+> **KEY POINTS:**
+>
+> * This playbook explained my approach to running an IT architecture practice in larger organizations. 
+> * I called this approach \"Grounded Architecture,\" highlighting the need for any IT architecture function to stay well-connected to all levels of an organization and led by data.
+> * In this section, I summarize the key points from the playbook.
 
 In this playbook, I explained my approach to running an architecture practice in larger organizations. I called this approach "grounded architecture," highlighting the need for any architecture function to stay well-connected to all levels of an organization and led by data. 
 

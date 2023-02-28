@@ -8,7 +8,7 @@ author: by Željko Obrenović (obren.io)
 permalink: storm
 icon: storm.png
 timetoread: 15 min
-excerpt: "I found it crucial to align on a shared vision on architecture across all departments. In particular, I wanted to prevent positioning of architecture as an ivory tower, disconnected from realities of complex organization."
+excerpt: "To ensure that organizations maximally benefit from Grounded Architecture, I want architecture always to address one of the most challenging problems our organization faces: a tension between technology, product, organization, and business functions"
 
 ---
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
@@ -16,7 +16,11 @@ excerpt: "I found it crucial to align on a shared vision on architecture across 
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/fiquetdidier1-25748628/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=7018311">Didier</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=7018311">Pixabay</a>
 </div>
-
+> **KEY POINTS:**
+>
+> * I want architecture always to address one of the most challenging problems our organization faces: a tension between technology, product, organization, and business functions.
+> * While technology, product, organization, and business function face challenges, additional problems occur when there is tension among them.
+> *  Architecture should ensure that conversations happen between the technical, product, organizational, and business functions. 
 
 To ensure that organizations maximally benefit from Grounded Architecture, I want architecture always to address one of the most challenging problems our organization faces: a tension between technology, product, organization, and business functions (Figure 1). 
 
