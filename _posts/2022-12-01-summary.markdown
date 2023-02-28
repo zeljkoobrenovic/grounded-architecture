@@ -40,8 +40,9 @@ I have identified the following [guiding principles](principles) that can help p
 * [Being in the Eye of the Storm](storm),
 * [Embracing Diversity, Distribute & Align Decisions](diversity),
 * [Having Flexible Governance](flexible-governance),
-* [Applying Economic Modeling](economics), and
-* [Following Archtect's Compass](compass).
+* [Applying Economic Modeling](economics),
+* [Curisity, Doubt, Vision, Scepticism: Architect's Personal Compass](compass), and
+* [Culture Map: Architects' Culture Mindfield Compass](culture).
 
 When Grounded Architecture is in place, it can have a significant [positive impact](impact) on the functioning of an organization:
 

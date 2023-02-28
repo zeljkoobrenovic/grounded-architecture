@@ -1,6 +1,6 @@
 ---
 layout: post
-section: "Guiding Principles & Stories"
+section: "Guiding Principles"
 title: "Architects as Superglue"
 position: 6001
 date:   2021-10-21 21:12:01 +0100

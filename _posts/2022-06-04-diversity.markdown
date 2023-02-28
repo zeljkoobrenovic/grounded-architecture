@@ -1,6 +1,6 @@
 ---
 layout: post
-section: "Guiding Principles & Stories"
+section: "Guiding Principles"
 title: "Embrace Diversity, Distribute & Align Decisions"
 position: 6004
 date:   2021-10-21 21:12:01 +0100

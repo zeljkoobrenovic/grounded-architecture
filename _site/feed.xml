@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-02-22T22:39:26+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: The Chief Architect’s Playbook</title><subtitle></subtitle><entry><title type="html">Background</title><link href="http://localhost:4000/background" rel="alternate" type="text/html" title="Background" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/background</id><content type="html" xml:base="http://localhost:4000/background"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/library-5641389_1920.jpg" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-02-28T17:11:51+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: The Chief Architect’s Playbook</title><subtitle></subtitle><entry><title type="html">Background</title><link href="http://localhost:4000/background" rel="alternate" type="text/html" title="Background" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/background</id><content type="html" xml:base="http://localhost:4000/background"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/library-5641389_1920.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/olivergotting-18505948/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5641389">Oli Götting</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5641389">Pixabay</a>
 </div>
@@ -107,7 +107,86 @@ Sokrates can help you understand your code by making visible the size, complexit
 </tr>
 </table>
 
-<h2 id="fundamentals">Fundamentals</h2>
+<h2 id="soft-skills">Soft Skills</h2>
+<table>
+<tr>
+<td>
+<img src="assets/images/books/team-topologies.webp" class="book" />
+</td>
+<td>
+<b>Team Topologies</b> by Manuel Pais and Matthew Skelton describes four fundamental topologies (stream-aligned teams, enabling teams, complicated subsystem teams, and platform teams), and three fundamental interaction modes (collaboration, X-as-a-Service, and facilitation).
+</td>
+<td style="font-size: 50%; line-height: 12px; text-align: center">
+<a target="_blank" href="https://obren.io/tools/reading-notes-pro/notes/Team%20Topologies_%20Organizing%20Business%20and%20Technology%20%20Teams%20for%20Fast%20Flow-Notebook.pdf">
+<img src="assets/icons/notes.png" class="icon" /><div>reading notes</div>
+</a>
+</td>
+</tr>
+
+<tr>
+<td>
+<img src="assets/images/books/culture-maps.jpeg" class="book" style="border: 1px solid lightgrey" />
+</td>
+<td>
+<b>The Culture Map: Decoding How People Think, Lead, and Get Things Done Across Cultures</b>: provides a framework for handling intercultural differences in business and illustrates how different cultures perceive the world. Awareness of intercultural differences is crucial for the success of an architect in an international setting. It helps us understand these differences and, in doing so, improves our ability to react to specific behaviors that might have once seemed strange.
+</td>
+<td style="font-size: 50%; line-height: 12px; text-align: center">
+<div>
+<a target="_blank" href="https://obren.io/tools/reading-notes-pro/notes/The%20Culture%20Map%20(INTL%20ED)_%20Decoding%20How%20People%20Think_%20%20Lead_%20and%20Get%20Things%20Done%20Across%20Cultures-Notebook.pdf">
+<img src="assets/icons/notes.png" class="icon" /><div>reading notes</div>
+</a>
+</div>
+<div>
+<a target="_blank" href="https://docs.google.com/presentation/d/1yn-IHK9iXJ1Qgxj_uw16WKQ1Qp9uXKGSSUbJg0xT9eE/edit#slide=id.p">
+<img src="assets/icons/notes.png" class="icon" /><div>summary</div>
+</a>
+</div>
+</td>
+</tr>
+
+<tr>
+<td>
+<img src="assets/images/books/nudge.webp" class="book" />
+</td>
+<td>
+<b>Nudge</b> by Richard Thaler draws on research in psychology and behavioral economics to define libertarian paternalism as an active engineering of choice architecture. The book also popularised the concept of a nudge, a choice architecture that predictably alters people's behavior without restricting options or significantly changing their economic incentives.
+</td>
+<td style="font-size: 50%; line-height: 12px; text-align: center">
+<a target="_blank" href="">
+<img src="assets/icons/notes.png" class="icon" /><div>reading notes</div>
+</a>
+</td>
+</tr>
+
+<tr>
+<td>
+<img src="assets/images/books/no-rules-rules.webp" class="book" />
+</td>
+<td>
+<b>No Rules Rules</b> by Erin Meyer and Reed Hastings provides insights into Netflix culture. When you give low-level employees access to information that is generally reserved for high-level executives, they get more done on their own. They work faster without stopping to ask for information and approval. They make better decisions without needing input from the top.
+</td>
+<td style="font-size: 50%; line-height: 12px; text-align: center">
+<a target="_blank" href="https://obren.io/tools/reading-notes-pro/notes/No%20Rules%20Rules_%20Netflix%20and%20the%20Culture%20of%20Reinvention-Notebook.pdf">
+<img src="assets/icons/notes.png" class="icon" /><div>reading notes</div>
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<img src="assets/images/books/dare-to-lead.webp" class="book" />
+</td>
+<td>
+<b>Dare To Lead</b> by Brené Brown, defines a leader as anyone who takes responsibility for finding the potential in people and processes and has the courage to develop that potential.
+</td>
+<td style="font-size: 50%; line-height: 12px; text-align: center">
+<a target="_blank" href="https://obren.io/tools/reading-notes-pro/notes/Dare%20to%20Lead_%20Brave%20Work_%20Tough%20Conversations_%20Whole%20%20Hearts_-Notebook.pdf">
+<img src="assets/icons/notes.png" class="icon" /><div>reading notes</div>
+</a>
+</td>
+</tr>
+</table>
+
+<h2 id="hard-skills">Hard Skills</h2>
 
 <p>This section is heavily influnced by Gregor Hohpe’s article <a href="https://architectelevator.com/architecture/architect-bookshelf/">The Architect’s Path (Part 2 - Bookshelf)</a></p>
 
@@ -346,85 +425,6 @@ Sokrates can help you understand your code by making visible the size, complexit
 </td>
 <td style="font-size: 50%; line-height: 12px; text-align: center">
 <a target="_blank" href="https://obren.io/tools/reading-notes-pro/notes/Thinking%20in%20Systems_%20International%20%20Bestseller-Notebook.pdf">
-<img src="assets/icons/notes.png" class="icon" /><div>reading notes</div>
-</a>
-</td>
-</tr>
-</table>
-
-<h2 id="sociology-teams-leadership">Sociology, Teams, Leadership</h2>
-<table>
-<tr>
-<td>
-<img src="assets/images/books/team-topologies.webp" class="book" />
-</td>
-<td>
-<b>Team Topologies</b> by Manuel Pais and Matthew Skelton describes four fundamental topologies (stream-aligned teams, enabling teams, complicated subsystem teams, and platform teams), and three fundamental interaction modes (collaboration, X-as-a-Service, and facilitation).
-</td>
-<td style="font-size: 50%; line-height: 12px; text-align: center">
-<a target="_blank" href="https://obren.io/tools/reading-notes-pro/notes/Team%20Topologies_%20Organizing%20Business%20and%20Technology%20%20Teams%20for%20Fast%20Flow-Notebook.pdf">
-<img src="assets/icons/notes.png" class="icon" /><div>reading notes</div>
-</a>
-</td>
-</tr>
-
-<tr>
-<td>
-<img src="assets/images/books/culture-maps.jpeg" class="book" style="border: 1px solid lightgrey" />
-</td>
-<td>
-<b>The Culture Map: Decoding How People Think, Lead, and Get Things Done Across Cultures</b>: provides a framework for handling intercultural differences in business and illustrates how different cultures perceive the world. Awareness of intercultural differences is crucial for the success of an architect in an international setting. It helps us understand these differences and, in doing so, improves our ability to react to specific behaviors that might have once seemed strange.
-</td>
-<td style="font-size: 50%; line-height: 12px; text-align: center">
-<div>
-<a target="_blank" href="https://obren.io/tools/reading-notes-pro/notes/The%20Culture%20Map%20(INTL%20ED)_%20Decoding%20How%20People%20Think_%20%20Lead_%20and%20Get%20Things%20Done%20Across%20Cultures-Notebook.pdf">
-<img src="assets/icons/notes.png" class="icon" /><div>reading notes</div>
-</a>
-</div>
-<div>
-<a target="_blank" href="https://docs.google.com/presentation/d/1yn-IHK9iXJ1Qgxj_uw16WKQ1Qp9uXKGSSUbJg0xT9eE/edit#slide=id.p">
-<img src="assets/icons/notes.png" class="icon" /><div>summary</div>
-</a>
-</div>
-</td>
-</tr>
-
-<tr>
-<td>
-<img src="assets/images/books/nudge.webp" class="book" />
-</td>
-<td>
-<b>Nudge</b> by Richard Thaler draws on research in psychology and behavioral economics to define libertarian paternalism as an active engineering of choice architecture. The book also popularised the concept of a nudge, a choice architecture that predictably alters people's behavior without restricting options or significantly changing their economic incentives.
-</td>
-<td style="font-size: 50%; line-height: 12px; text-align: center">
-<a target="_blank" href="">
-<img src="assets/icons/notes.png" class="icon" /><div>reading notes</div>
-</a>
-</td>
-</tr>
-
-<tr>
-<td>
-<img src="assets/images/books/no-rules-rules.webp" class="book" />
-</td>
-<td>
-<b>No Rules Rules</b> by Erin Meyer and Reed Hastings provides insights into Netflix culture. When you give low-level employees access to information that is generally reserved for high-level executives, they get more done on their own. They work faster without stopping to ask for information and approval. They make better decisions without needing input from the top.
-</td>
-<td style="font-size: 50%; line-height: 12px; text-align: center">
-<a target="_blank" href="https://obren.io/tools/reading-notes-pro/notes/No%20Rules%20Rules_%20Netflix%20and%20the%20Culture%20of%20Reinvention-Notebook.pdf">
-<img src="assets/icons/notes.png" class="icon" /><div>reading notes</div>
-</a>
-</td>
-</tr>
-<tr>
-<td>
-<img src="assets/images/books/dare-to-lead.webp" class="book" />
-</td>
-<td>
-<b>Dare To Lead</b> by Brené Brown, defines a leader as anyone who takes responsibility for finding the potential in people and processes and has the courage to develop that potential.
-</td>
-<td style="font-size: 50%; line-height: 12px; text-align: center">
-<a target="_blank" href="https://obren.io/tools/reading-notes-pro/notes/Dare%20to%20Lead_%20Brave%20Work_%20Tough%20Conversations_%20Whole%20%20Hearts_-Notebook.pdf">
 <img src="assets/icons/notes.png" class="icon" /><div>reading notes</div>
 </a>
 </td>
@@ -1073,7 +1073,7 @@ Image by <a href="https://pixabay.com/users/mufaddalap-14141833/?utm_source=link
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/duplo-g6563105c1_1920.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/bru-no-1161770/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1981724">Bruno /Germany</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1981724">Pixabay</a>
-</div>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[When Grounded Architecture is in place, it can have a significant positive impact on the functioning of an organization: Executing At Scale, Increasing the Quality of Decision-Making with Data, Maximizing Organizational Alignment & Learning, Higher Adaptivity.]]></summary></entry><entry><title type="html">Guiding Principles &amp;amp; Stories</title><link href="http://localhost:4000/principles" rel="alternate" type="text/html" title="Guiding Principles &amp;amp; Stories" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/operating-principles</id><content type="html" xml:base="http://localhost:4000/principles"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/steampunk-3006650_1920.jpg" /></p>
+</div>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[When Grounded Architecture is in place, it can have a significant positive impact on the functioning of an organization: Executing At Scale, Increasing the Quality of Decision-Making with Data, Maximizing Organizational Alignment & Learning, Higher Adaptivity.]]></summary></entry><entry><title type="html">Guiding Principles</title><link href="http://localhost:4000/principles" rel="alternate" type="text/html" title="Guiding Principles" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/operating-principles</id><content type="html" xml:base="http://localhost:4000/principles"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/steampunk-3006650_1920.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/darksouls1-2189876/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3006650">Enrique Meseguer</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3006650">Pixabay</a>
 </div>
@@ -1085,9 +1085,10 @@ Image by <a href="https://pixabay.com/users/darksouls1-2189876/?utm_source=link-
   <li><a href="storm">Being in the Eye of the Storm</a>,</li>
   <li><a href="diversity">Embracing Diversity, Distribute &amp; Align Decisions</a>,</li>
   <li><a href="flexible-governance">Having Flexible Governance</a>,</li>
-  <li><a href="economics">Applying Economic Modeling</a>, and</li>
-  <li><a href="compass">Following Archtect’s Compass</a>.</li>
-</ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[I have identified the following operating principles that can help put the ideas of Grounded Architecture into practice and get things done: Breaking Up Ivory Towers, Strengthening Architectural Muscle Across Organization, and Embracing Diversity, Distributing Decision-Making.]]></summary></entry><entry><title type="html">Architects as Superglue</title><link href="http://localhost:4000/superglue" rel="alternate" type="text/html" title="Architects as Superglue" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/superglue</id><content type="html" xml:base="http://localhost:4000/superglue"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/superglue/superglue.png" /></p>
+  <li><a href="economics">Applying Economic Modeling</a>,</li>
+  <li><a href="compass">Curisity, Doubt, Vision, Scepticism: Architect’s Personal Compass</a>, and</li>
+  <li><a href="culture">Culture Map: Architects’ Culture Mindfield Compass</a>.</li>
+</ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[I have identified the following operating principles that can help put the ideas of Grounded Architecture into practice and get things done: Developing Architects as Superglue, Being in the Eye of the Storm, Embracing Diversity, Distribute & Align Decisions, Having Flexible Governance, Applying Economic Modeling, Curisity, Doubt, Vision, Scepticism: Architect’s Personal Compass, and Culture Map: Architects’ Culture Mindfield Compass.]]></summary></entry><entry><title type="html">Architects as Superglue</title><link href="http://localhost:4000/superglue" rel="alternate" type="text/html" title="Architects as Superglue" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/superglue</id><content type="html" xml:base="http://localhost:4000/superglue"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/superglue/superglue.png" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 </div>
 

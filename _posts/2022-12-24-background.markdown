@@ -122,7 +122,86 @@ Sokrates can help you understand your code by making visible the size, complexit
 </tr>
 </table>
 
-## Fundamentals
+## Soft Skills
+<table>
+<tr>
+<td>
+<img src="assets/images/books/team-topologies.webp" class="book">
+</td>
+<td>
+<b>Team Topologies</b> by Manuel Pais and Matthew Skelton describes four fundamental topologies (stream-aligned teams, enabling teams, complicated subsystem teams, and platform teams), and three fundamental interaction modes (collaboration, X-as-a-Service, and facilitation).
+</td>
+<td style="font-size: 50%; line-height: 12px; text-align: center">
+<a target="_blank" href="https://obren.io/tools/reading-notes-pro/notes/Team%20Topologies_%20Organizing%20Business%20and%20Technology%20%20Teams%20for%20Fast%20Flow-Notebook.pdf">
+<img src="assets/icons/notes.png" class="icon"><div>reading notes</div>
+</a>
+</td>
+</tr>
+
+<tr>
+<td>
+<img src="assets/images/books/culture-maps.jpeg" class="book" style="border: 1px solid lightgrey">
+</td>
+<td>
+<b>The Culture Map: Decoding How People Think, Lead, and Get Things Done Across Cultures</b>: provides a framework for handling intercultural differences in business and illustrates how different cultures perceive the world. Awareness of intercultural differences is crucial for the success of an architect in an international setting. It helps us understand these differences and, in doing so, improves our ability to react to specific behaviors that might have once seemed strange.
+</td>
+<td style="font-size: 50%; line-height: 12px; text-align: center">
+<div>
+<a target="_blank" href="https://obren.io/tools/reading-notes-pro/notes/The%20Culture%20Map%20(INTL%20ED)_%20Decoding%20How%20People%20Think_%20%20Lead_%20and%20Get%20Things%20Done%20Across%20Cultures-Notebook.pdf">
+<img src="assets/icons/notes.png" class="icon"><div>reading notes</div>
+</a>
+</div>
+<div>
+<a target="_blank" href="https://docs.google.com/presentation/d/1yn-IHK9iXJ1Qgxj_uw16WKQ1Qp9uXKGSSUbJg0xT9eE/edit#slide=id.p">
+<img src="assets/icons/notes.png" class="icon"><div>summary</div>
+</a>
+</div>
+</td>
+</tr>
+
+<tr>
+<td>
+<img src="assets/images/books/nudge.webp" class="book">
+</td>
+<td>
+<b>Nudge</b> by Richard Thaler draws on research in psychology and behavioral economics to define libertarian paternalism as an active engineering of choice architecture. The book also popularised the concept of a nudge, a choice architecture that predictably alters people's behavior without restricting options or significantly changing their economic incentives.
+</td>
+<td style="font-size: 50%; line-height: 12px; text-align: center">
+<a target="_blank" href="">
+<img src="assets/icons/notes.png" class="icon"><div>reading notes</div>
+</a>
+</td>
+</tr>
+
+<tr>
+<td>
+<img src="assets/images/books/no-rules-rules.webp" class="book">
+</td>
+<td>
+<b>No Rules Rules</b> by Erin Meyer and Reed Hastings provides insights into Netflix culture. When you give low-level employees access to information that is generally reserved for high-level executives, they get more done on their own. They work faster without stopping to ask for information and approval. They make better decisions without needing input from the top.
+</td>
+<td style="font-size: 50%; line-height: 12px; text-align: center">
+<a target="_blank" href="https://obren.io/tools/reading-notes-pro/notes/No%20Rules%20Rules_%20Netflix%20and%20the%20Culture%20of%20Reinvention-Notebook.pdf">
+<img src="assets/icons/notes.png" class="icon"><div>reading notes</div>
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<img src="assets/images/books/dare-to-lead.webp" class="book">
+</td>
+<td>
+<b>Dare To Lead</b> by Brené Brown, defines a leader as anyone who takes responsibility for finding the potential in people and processes and has the courage to develop that potential.
+</td>
+<td style="font-size: 50%; line-height: 12px; text-align: center">
+<a target="_blank" href="https://obren.io/tools/reading-notes-pro/notes/Dare%20to%20Lead_%20Brave%20Work_%20Tough%20Conversations_%20Whole%20%20Hearts_-Notebook.pdf">
+<img src="assets/icons/notes.png" class="icon"><div>reading notes</div>
+</a>
+</td>
+</tr>
+</table>
+
+## Hard Skills
 
 This section is heavily influnced by Gregor Hohpe's article [The Architect’s Path (Part 2 - Bookshelf)](https://architectelevator.com/architecture/architect-bookshelf/)
 
@@ -367,81 +446,4 @@ This section is heavily influnced by Gregor Hohpe's article [The Architect’s P
 </tr>
 </table>
 
-## Sociology, Teams, Leadership
-<table>
-<tr>
-<td>
-<img src="assets/images/books/team-topologies.webp" class="book">
-</td>
-<td>
-<b>Team Topologies</b> by Manuel Pais and Matthew Skelton describes four fundamental topologies (stream-aligned teams, enabling teams, complicated subsystem teams, and platform teams), and three fundamental interaction modes (collaboration, X-as-a-Service, and facilitation).
-</td>
-<td style="font-size: 50%; line-height: 12px; text-align: center">
-<a target="_blank" href="https://obren.io/tools/reading-notes-pro/notes/Team%20Topologies_%20Organizing%20Business%20and%20Technology%20%20Teams%20for%20Fast%20Flow-Notebook.pdf">
-<img src="assets/icons/notes.png" class="icon"><div>reading notes</div>
-</a>
-</td>
-</tr>
 
-<tr>
-<td>
-<img src="assets/images/books/culture-maps.jpeg" class="book" style="border: 1px solid lightgrey">
-</td>
-<td>
-<b>The Culture Map: Decoding How People Think, Lead, and Get Things Done Across Cultures</b>: provides a framework for handling intercultural differences in business and illustrates how different cultures perceive the world. Awareness of intercultural differences is crucial for the success of an architect in an international setting. It helps us understand these differences and, in doing so, improves our ability to react to specific behaviors that might have once seemed strange.
-</td>
-<td style="font-size: 50%; line-height: 12px; text-align: center">
-<div>
-<a target="_blank" href="https://obren.io/tools/reading-notes-pro/notes/The%20Culture%20Map%20(INTL%20ED)_%20Decoding%20How%20People%20Think_%20%20Lead_%20and%20Get%20Things%20Done%20Across%20Cultures-Notebook.pdf">
-<img src="assets/icons/notes.png" class="icon"><div>reading notes</div>
-</a>
-</div>
-<div>
-<a target="_blank" href="https://docs.google.com/presentation/d/1yn-IHK9iXJ1Qgxj_uw16WKQ1Qp9uXKGSSUbJg0xT9eE/edit#slide=id.p">
-<img src="assets/icons/notes.png" class="icon"><div>summary</div>
-</a>
-</div>
-</td>
-</tr>
-
-<tr>
-<td>
-<img src="assets/images/books/nudge.webp" class="book">
-</td>
-<td>
-<b>Nudge</b> by Richard Thaler draws on research in psychology and behavioral economics to define libertarian paternalism as an active engineering of choice architecture. The book also popularised the concept of a nudge, a choice architecture that predictably alters people's behavior without restricting options or significantly changing their economic incentives.
-</td>
-<td style="font-size: 50%; line-height: 12px; text-align: center">
-<a target="_blank" href="">
-<img src="assets/icons/notes.png" class="icon"><div>reading notes</div>
-</a>
-</td>
-</tr>
-
-<tr>
-<td>
-<img src="assets/images/books/no-rules-rules.webp" class="book">
-</td>
-<td>
-<b>No Rules Rules</b> by Erin Meyer and Reed Hastings provides insights into Netflix culture. When you give low-level employees access to information that is generally reserved for high-level executives, they get more done on their own. They work faster without stopping to ask for information and approval. They make better decisions without needing input from the top.
-</td>
-<td style="font-size: 50%; line-height: 12px; text-align: center">
-<a target="_blank" href="https://obren.io/tools/reading-notes-pro/notes/No%20Rules%20Rules_%20Netflix%20and%20the%20Culture%20of%20Reinvention-Notebook.pdf">
-<img src="assets/icons/notes.png" class="icon"><div>reading notes</div>
-</a>
-</td>
-</tr>
-<tr>
-<td>
-<img src="assets/images/books/dare-to-lead.webp" class="book">
-</td>
-<td>
-<b>Dare To Lead</b> by Brené Brown, defines a leader as anyone who takes responsibility for finding the potential in people and processes and has the courage to develop that potential.
-</td>
-<td style="font-size: 50%; line-height: 12px; text-align: center">
-<a target="_blank" href="https://obren.io/tools/reading-notes-pro/notes/Dare%20to%20Lead_%20Brave%20Work_%20Tough%20Conversations_%20Whole%20%20Hearts_-Notebook.pdf">
-<img src="assets/icons/notes.png" class="icon"><div>reading notes</div>
-</a>
-</td>
-</tr>
-</table>
