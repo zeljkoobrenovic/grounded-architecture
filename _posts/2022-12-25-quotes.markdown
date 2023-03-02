@@ -38,7 +38,7 @@ Architecture is <b>not so much about the software</b>, <b>but about the people</
 </div>
 
 <div class="quote">
-Software design is an exercise in human relationships.
+Software design is <b>an exercise in human relationships</b>.
 <div class="author">-Kent Beck</div>
 </div>
 
