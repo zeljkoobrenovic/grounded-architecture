@@ -33,6 +33,8 @@ Image by <a href="https://pixabay.com/users/prettysleepy-2973588/?utm_source=lin
  }
 </style>
 
+## People, People, People
+
 <div class="quote">
 Architecture is <b>not so much about the software</b>, <b>but about the people</b> who write the software. The core principles of architecture, such as <b>coupling and cohesion</b>, aren't about the code. The code doesn't 'care' about how cohesive or decoupled it is; … But people do care about their coupling to other team members. <div class="author">-James O. Coplien</div>
 </div>
@@ -43,9 +45,16 @@ Software design is <b>an exercise in human relationships</b>.
 </div>
 
 <div class="quote">
-Architectural decisions are design decisions that are <b>hard to make</b> or <b>costly to change</b>.
-<div class="author">-Olaf Zimmermann</div>
+Bad software architecture is a people problem. When <b>people don't work well together they make bad decisions</b>.
+<div class="author">-Kate Matsudaira</div>
 </div>
+
+<div class="quote">
+To change the architecture of a software-intensive system ensconced in a large organization, you often have to change the architecture of the organization. And ultimately, that is <b>a political problem, not just a technical one</b>.
+<div class="author">-Grady Booch</div>
+</div>
+
+## Changing Role of Architecture
 
 <div class="quote">
 The role of architects has changed from trying to be the smartest person to <b>making everyone else smarter</b>.
@@ -72,14 +81,23 @@ Your organization has to <b>earn its way to an effective architecture function</
 <div class="author">-Gregor Hophe</div>
 </div>
 
+## Decisions
+
 <div class="quote">
-To change the architecture of a software-intensive system ensconced in a large organization, you often have to change the architecture of the organization. And ultimately, that is <b>a political problem, not just a technical one</b>.
-<div class="author">-Grady Booch</div>
+Architectural decisions are design decisions that are <b>hard to make</b> or <b>costly to change</b>.
+<div class="author">-Olaf Zimmermann</div>
 </div>
 
 <div class="quote">
-Excessive complexity is nature’s punishment for <b>organizations that are unable to make decisions</b>.
+Excessive complexity is nature’s punishment for <b>organizations that are unable to make decisions.</b>.
 <div class="author">-Gregor Hohpe</div>
+</div>
+
+## Other
+ 
+<div class="quote">
+Architecture is just a collective hunch, a <b>shared hallucination</b>, an assertion by a set of stakeholders on the nature of their observable world, be it a world that is or a world as they wish it to be.
+<div class="author">-Grady Booch</div>
 </div>
 
 

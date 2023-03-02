@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-03-02T22:02:04+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: The Chief Architect’s Playbook</title><subtitle></subtitle><entry><title type="html">Favorite Quotes</title><link href="http://localhost:4000/background" rel="alternate" type="text/html" title="Favorite Quotes" /><published>2021-10-25T22:12:01+02:00</published><updated>2021-10-25T22:12:01+02:00</updated><id>http://localhost:4000/quotes</id><content type="html" xml:base="http://localhost:4000/background"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/books-g1b2675255_1920.jpg" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-03-02T22:18:17+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: The Chief Architect’s Playbook</title><subtitle></subtitle><entry><title type="html">Favorite Quotes</title><link href="http://localhost:4000/background" rel="alternate" type="text/html" title="Favorite Quotes" /><published>2021-10-25T22:12:01+02:00</published><updated>2021-10-25T22:12:01+02:00</updated><id>http://localhost:4000/quotes</id><content type="html" xml:base="http://localhost:4000/background"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/books-g1b2675255_1920.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/prettysleepy-2973588/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5430104">Amy</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5430104">Pixabay</a>
 </div>
@@ -18,6 +18,8 @@ Image by <a href="https://pixabay.com/users/prettysleepy-2973588/?utm_source=lin
  }
 </style>
 
+<h2 id="people-people-people">People, People, People</h2>
+
 <div class="quote">
 Architecture is <b>not so much about the software</b>, <b>but about the people</b> who write the software. The core principles of architecture, such as <b>coupling and cohesion</b>, aren't about the code. The code doesn't 'care' about how cohesive or decoupled it is; … But people do care about their coupling to other team members. <div class="author">-James O. Coplien</div>
 </div>
@@ -28,9 +30,16 @@ Software design is <b>an exercise in human relationships</b>.
 </div>
 
 <div class="quote">
-Architectural decisions are design decisions that are <b>hard to make</b> or <b>costly to change</b>.
-<div class="author">-Olaf Zimmermann</div>
+Bad software architecture is a people problem. When <b>people don't work well together they make bad decisions</b>.
+<div class="author">-Kate Matsudaira</div>
 </div>
+
+<div class="quote">
+To change the architecture of a software-intensive system ensconced in a large organization, you often have to change the architecture of the organization. And ultimately, that is <b>a political problem, not just a technical one</b>.
+<div class="author">-Grady Booch</div>
+</div>
+
+<h2 id="changing-role-of-architecture">Changing Role of Architecture</h2>
 
 <div class="quote">
 The role of architects has changed from trying to be the smartest person to <b>making everyone else smarter</b>.
@@ -57,14 +66,23 @@ Your organization has to <b>earn its way to an effective architecture function</
 <div class="author">-Gregor Hophe</div>
 </div>
 
+<h2 id="decisions">Decisions</h2>
+
 <div class="quote">
-To change the architecture of a software-intensive system ensconced in a large organization, you often have to change the architecture of the organization. And ultimately, that is <b>a political problem, not just a technical one</b>.
-<div class="author">-Grady Booch</div>
+Architectural decisions are design decisions that are <b>hard to make</b> or <b>costly to change</b>.
+<div class="author">-Olaf Zimmermann</div>
 </div>
 
 <div class="quote">
-Excessive complexity is nature’s punishment for <b>organizations that are unable to make decisions</b>.
+Excessive complexity is nature’s punishment for <b>organizations that are unable to make decisions.</b>.
 <div class="author">-Gregor Hohpe</div>
+</div>
+
+<h2 id="other">Other</h2>
+
+<div class="quote">
+Architecture is just a collective hunch, a <b>shared hallucination</b>, an assertion by a set of stakeholders on the nature of their observable world, be it a world that is or a world as they wish it to be.
+<div class="author">-Grady Booch</div>
 </div>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[My favorite quotes about archotecture.]]></summary></entry><entry><title type="html">Context: Fast Moving Global Organizations</title><link href="http://localhost:4000/context" rel="alternate" type="text/html" title="Context: Fast Moving Global Organizations" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/context</id><content type="html" xml:base="http://localhost:4000/context"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/roller-coaster-3605743_1920.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/paulbr75-2938186/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3605743">Paul Brennan</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3605743">Pixabay</a>
