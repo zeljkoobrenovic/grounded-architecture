@@ -1,443 +1,71 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-03-01T09:59:16+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: The Chief Architect’s Playbook</title><subtitle></subtitle><entry><title type="html">Bookshelf</title><link href="http://localhost:4000/background" rel="alternate" type="text/html" title="Bookshelf" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/background</id><content type="html" xml:base="http://localhost:4000/background"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/library-5641389_1920.jpg" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-03-02T21:54:13+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: The Chief Architect’s Playbook</title><subtitle></subtitle><entry><title type="html">Favorite Quotes</title><link href="http://localhost:4000/background" rel="alternate" type="text/html" title="Favorite Quotes" /><published>2021-10-25T22:12:01+02:00</published><updated>2021-10-25T22:12:01+02:00</updated><id>http://localhost:4000/quotes</id><content type="html" xml:base="http://localhost:4000/background"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/books-g1b2675255_1920.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by <a href="https://pixabay.com/users/olivergotting-18505948/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5641389">Oli Götting</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5641389">Pixabay</a>
+Image by <a href="https://pixabay.com/users/prettysleepy-2973588/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5430104">Amy</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5430104">Pixabay</a>
 </div>
-<blockquote>
-  <p><strong>KEY POINTS:</strong></p>
-
-  <ul>
-    <li>I provide an overview of the background work for you to probe further, linking several external resources inspiring my work.</li>
-    <li>I grouped the resources in the following sections: Introduction, Tools, Soft Skills, and Hard Skills.</li>
-  </ul>
-</blockquote>
 
 <style>
-    .book {
-        min-width: 100px;
-        width: 100px;
-    }
-    .icon {
-        min-width: 30px;
-        width: 30px;
-    }
+ .quote {
+     border-left: 8px solid skyblue;
+     padding-left: 12px;
+     margin-top: 20px;
+     margin-bottom: 40px;
+     font-size: 120%;
+     font-style: italic;
+ }
+ .author {
+     margin-top: 8px;
+     font-size: 80%;
+ }
 </style>
 
-<p><br /></p>
-<h2 id="introduction">Introduction</h2>
-
-<table>
-<tr>
-<td>
-<img src="assets/images/software-architecture-elevator.webp" class="book" />
-</td>
-<td>
-<b>The Software Architect Elevator: Redefining the Architect's Role</b> by Gregor Hohpe defines architects as people that can fill a void in large enterprises: they work and communicate closely with technical staff on projects but are also able to convey technical topics to upper management without losing the essence of the message. Conversely, they understand the company's business strategy and can translate it into technical decisions that support it.
-</td>
-<td style="font-size: 50%; line-height: 12px; text-align: center">
-<div>
-<a target="_blank" href="https://obren.io/tools/catalogs/index.html?id=it-37-things">
-<img src="assets/icons/notes.png" class="icon" /><div>summary</div>
-</a>
+<div class="quote">
+Architecture is <b>not so much about the software</b>, <b>but about the people</b> who write the software. The core principles of architecture, such as <b>coupling and cohesion</b>, aren't about the code. The code doesn't 'care' about how cohesive or decoupled it is; … But people do care about their coupling to other team members. <div class="author">-James O. Coplien</div>
 </div>
-<div>
-<a target="_blank" href="https://obren.io/tools/reading-notes-pro/notes/The%20Software%20Architect%20Elevator_%20Redefining%20the%20Architect's%20Role%20in%20the%20Digital%20Enterprise-Notebook.pdf">
-<img src="assets/icons/notes.png" class="icon" /><div>reading notes</div>
-</a>
+
+<div class="quote">
+Software design is an exercise in human relationships.
+<div class="author">-Kent Beck</div>
 </div>
-</td>
-</tr>
-<tr>
-<td>
-<img src="assets/images/books/spotify.png" class="book" />
-</td>
-<td>
-<b>SE Radio: On Architecture</b>: for those interested in IT Architecture, I've created a curated Spotify playlist of Software Engineering Radio Episodes focusing on Architecture.
-</td>
-<td style="font-size: 50%; line-height: 12px; text-align: center">
-<div>
-<a target="_blank" href="https://open.spotify.com/playlist/7GVD86edcILnVPjsZFTy28?si=f44d0bef360e4818">
-<img src="assets/icons/playlist.png" class="icon" /><div>playlist</div>
-</a>
+
+<div class="quote">
+Architectural decisions are design decisions that are <b>hard to make</b> or <b>costly to change</b>.
+<div class="author">-Olaf Zimmermann</div>
 </div>
-</td>
-</tr>
-</table>
 
-<h2 id="tools">Tools</h2>
-
-<table>
-<tr>
-<td style="width: 80px">
-<img src="assets/images/books/sokrates.png" class="book" />
-</td>
-<td>
-<b>Sokrates</b>: Sokrates is a tool I built to implement my vision of documenting and analyzing software architectures of complex systems.
-Sokrates provides a pragmatic, inexpensive way to extract rich data from source code repositories.
-Sokrates can help you understand your code by making visible the size, complexity, and coupling of software and all people interactions and team topologies.
-</td>
-<td style="font-size: 50%; line-height: 12px; text-align: center">
-<div>
-<a target="_blank" href="https://sokrates.dev">
-<img src="assets/icons/web.png" class="icon" /><div>sokrates.dev</div>
-</a>
+<div class="quote">
+The role of architects has changed from trying to be the smartest person to <b>making everyone else smarter</b>.
+<div class="author">-Gregor Hohpe</div>
 </div>
-</td>
-</tr>
-<tr>
-<td>
-<img src="assets/images/books/productivity_tools.png" class="book" />
-</td>
-<td>
-<b>Productivity Tools</b>: a collection of online tools I built to help me in my daily work as an architect. I reuse these tools and lessons learned in building these tools when designing data pillar parts of the grounded architecture.
-</td>
-<td style="font-size: 50%; line-height: 12px; text-align: center">
-<div>
-<a target="_blank" href="https://obren.io/tools">
-<img src="assets/icons/web.png" class="icon" /><div>obren.io/tools</div>
-</a>
+
+<div class="quote">
+The architect's role is changing from being primarily a decision maker to being a coordinator, advisor, and knowledge manager ... <b>a central knowledge hub</b>.
+<div class="author">-Rainer Weinreich &amp; Iris Groher</div>
 </div>
-</td>
-</tr>
-<tr>
-<td>
-<img src="assets/images/arch/obren359.jpeg" class="book" />
-</td>
-<td>
-<b>obren359.com</b>: I've created a curated collections and high-quality IT resources (articles, videos, podcasts).
-</td>
-<td style="font-size: 50%; line-height: 12px; text-align: center">
-<div>
-<a target="_blank" href="https://www.obren359.com/">
-<img src="assets/icons/web.png" class="icon" /><div>website</div>
-</a>
+
+<div class="quote">
+Rather than inject itself in every decision loop, <b>architecture should design mechanisms for teams to make better decisions</b> - they’ll know better anyhow, and slowing them down carries a high cost..
+<div class="author">-Gregor Hohpe</div>
 </div>
-</td>
-</tr>
-</table>
 
-<h2 id="soft-skills">Soft Skills</h2>
-<table>
-<tr>
-<td>
-<img src="assets/images/books/team-topologies.webp" class="book" />
-</td>
-<td>
-<b>Team Topologies</b> by Manuel Pais and Matthew Skelton describes four fundamental topologies (stream-aligned teams, enabling teams, complicated subsystem teams, and platform teams), and three fundamental interaction modes (collaboration, X-as-a-Service, and facilitation).
-</td>
-<td style="font-size: 50%; line-height: 12px; text-align: center">
-<a target="_blank" href="https://obren.io/tools/reading-notes-pro/notes/Team%20Topologies_%20Organizing%20Business%20and%20Technology%20%20Teams%20for%20Fast%20Flow-Notebook.pdf">
-<img src="assets/icons/notes.png" class="icon" /><div>reading notes</div>
-</a>
-</td>
-</tr>
-
-<tr>
-<td>
-<img src="assets/images/books/culture-maps.jpeg" class="book" style="border: 1px solid lightgrey" />
-</td>
-<td>
-<b>The Culture Map: Decoding How People Think, Lead, and Get Things Done Across Cultures</b>: provides a framework for handling intercultural differences in business and illustrates how different cultures perceive the world. Awareness of intercultural differences is crucial for the success of an architect in an international setting. It helps us understand these differences and, in doing so, improves our ability to react to specific behaviors that might have once seemed strange.
-</td>
-<td style="font-size: 50%; line-height: 12px; text-align: center">
-<div>
-<a target="_blank" href="https://obren.io/tools/reading-notes-pro/notes/The%20Culture%20Map%20(INTL%20ED)_%20Decoding%20How%20People%20Think_%20%20Lead_%20and%20Get%20Things%20Done%20Across%20Cultures-Notebook.pdf">
-<img src="assets/icons/notes.png" class="icon" /><div>reading notes</div>
-</a>
+<div class="quote">
+Your architecture team’s job is to <b>solve your biggest problems</b>. The best setup is the one that allows it to accomplish that.
+<div class="author">-Gregor Hohpe</div>
 </div>
-<div>
-<a target="_blank" href="https://docs.google.com/presentation/d/1yn-IHK9iXJ1Qgxj_uw16WKQ1Qp9uXKGSSUbJg0xT9eE/edit#slide=id.p">
-<img src="assets/icons/notes.png" class="icon" /><div>summary</div>
-</a>
+
+<div class="quote">
+Your organization has to <b>earn its way to an effective architecture function</b>. You can’t just plug some architects into the current mess and expect it to solve all your problems.
+<div class="author">-Gregor Hophe</div>
 </div>
-</td>
-</tr>
 
-<tr>
-<td>
-<img src="assets/images/books/nudge.webp" class="book" />
-</td>
-<td>
-<b>Nudge</b> by Richard Thaler draws on research in psychology and behavioral economics to define libertarian paternalism as an active engineering of choice architecture. The book also popularised the concept of a nudge, a choice architecture that predictably alters people's behavior without restricting options or significantly changing their economic incentives.
-</td>
-<td style="font-size: 50%; line-height: 12px; text-align: center">
-<a target="_blank" href="">
-<img src="assets/icons/notes.png" class="icon" /><div>reading notes</div>
-</a>
-</td>
-</tr>
-
-<tr>
-<td>
-<img src="assets/images/books/no-rules-rules.webp" class="book" />
-</td>
-<td>
-<b>No Rules Rules</b> by Erin Meyer and Reed Hastings provides insights into Netflix culture. When you give low-level employees access to information that is generally reserved for high-level executives, they get more done on their own. They work faster without stopping to ask for information and approval. They make better decisions without needing input from the top.
-</td>
-<td style="font-size: 50%; line-height: 12px; text-align: center">
-<a target="_blank" href="https://obren.io/tools/reading-notes-pro/notes/No%20Rules%20Rules_%20Netflix%20and%20the%20Culture%20of%20Reinvention-Notebook.pdf">
-<img src="assets/icons/notes.png" class="icon" /><div>reading notes</div>
-</a>
-</td>
-</tr>
-<tr>
-<td>
-<img src="assets/images/books/dare-to-lead.webp" class="book" />
-</td>
-<td>
-<b>Dare To Lead</b> by Brené Brown, defines a leader as anyone who takes responsibility for finding the potential in people and processes and has the courage to develop that potential.
-</td>
-<td style="font-size: 50%; line-height: 12px; text-align: center">
-<a target="_blank" href="https://obren.io/tools/reading-notes-pro/notes/Dare%20to%20Lead_%20Brave%20Work_%20Tough%20Conversations_%20Whole%20%20Hearts_-Notebook.pdf">
-<img src="assets/icons/notes.png" class="icon" /><div>reading notes</div>
-</a>
-</td>
-</tr>
-</table>
-
-<h2 id="hard-skills">Hard Skills</h2>
-
-<p>This section is heavily influnced by Gregor Hohpe’s article <a href="https://architectelevator.com/architecture/architect-bookshelf/">The Architect’s Path (Part 2 - Bookshelf)</a></p>
-
-<table>
-<tr>
-<td>
-<img src="assets/images/books/clean-code.jpeg" class="book" />
-</td>
-<td>
-<b>Clean Code</b> by Bob Martin. Good software starts with good code, and good code is clean. The basics of naming, functions that do one thing well, and formatting.
-</td>
-<td style="font-size: 50%; line-height: 12px; text-align: center">
-<a target="_blank" href="https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29">
-<img src="assets/icons/notes.png" class="icon" /><div>summary</div>
-</a>
-</td>
-</tr>
-
-<tr>
-<td>
-<img src="assets/images/books/refactoring.jpeg" class="book" />
-</td>
-<td>
-<b>Refactoring: Improving the Design of Existing Code</b> by Martin Fowler. Good software evolves, gains entropy, and is then restructured. Refactoring is a disciplined technique for restructuring an existing body of code, altering its internal structure without changing its external behavior.
-</td>
-<td style="font-size: 50%; line-height: 12px; text-align: center">
-<a target="_blank" href="https://refactoring.com/">
-<img src="assets/icons/web.png" class="icon" /><div>website</div>
-</a>
-</td>
-</tr>
-
-<tr>
-<td>
-<img src="assets/images/books/design-patterns.webp" class="book" />
-</td>
-<td>
-
-<b>Design Patterns</b> by Gamma, Helm, Johnson, Vlissides. Design patterns help us make balanced decisions on the design of our code.
-</td>
-<td style="font-size: 50%; line-height: 12px; text-align: center">
-<a target="_blank" href="https://refactoring.guru/design-patterns/catalog">
-<img src="assets/icons/notes.png" class="icon" /><div>summary</div>
-</a>
-</td>
-</tr>
-
-<tr>
-<td>
-<img src="assets/images/books/building-microservices.webp" class="book" />
-</td>
-<td>
-
-<b>Building Microservices</b> (2nd Edition) by Sam Newman is a book about architectural trade-offs and considerations in distributed system design. Very accessible.
-</td>
-</tr>
-
-<tr>
-<td>
-<img src="assets/images/books/fundamentals-of-software-architecture.jpeg" class="book" />
-</td>
-<td>
-
-<b>Fundamentals of Software Architecture</b> by Neal and Mark, covers soft skills, modularity, component-based thinking, and architectural styles.
-</td>
-<td style="font-size: 50%; line-height: 12px; text-align: center">
-<a target="_blank" href="http://fundamentalsofsoftwarearchitecture.com/images.html">
-<img src="assets/icons/web.png" class="icon" /><div>website</div>
-</a>
-</td>
-
-</tr>
-
-<tr>
-<td>
-<img src="assets/images/books/eip.webp" class="book" />
-</td>
-<td>
-
-<b>Enterprise Integration Patterns</b> for anyone trying to connect systems without coupling them too tightly.
-</td>
-<td style="font-size: 50%; line-height: 12px; text-align: center">
-<a target="_blank" href="https://www.enterpriseintegrationpatterns.com/patterns/messaging/index.html">
-<img src="assets/icons/web.png" class="icon" /><div>website</div>
-</a>
-</td>
-</tr>
-
-<tr>
-<td>
-<img src="assets/images/books/pattern-oriented-software-architecture.jpeg" class="book" />
-</td>
-<td>
-
-<b>Pattern-Oriented Software Architecture</b>: one of the most comprehensive references for distributed system design.
-</td>
-</tr>
-
-<tr>
-<td>
-<img src="assets/images/books/just-enough-software-architecture.jpeg" class="book" />
-</td>
-<td>
-
-<b>Just Enough Software Architecture</b> by George Fairbanks is an approachable and comprehensive book.
-</td>
-</tr>
-
-<tr>
-<td>
-<img src="assets/images/books/ssa.jpeg" class="book" />
-</td>
-<td>
-
-<b>Software Systems Architecture</b> by Nick and Eóin is a practitioner-oriented guide to designing and implementing effective architectures for information systems.
-</td>
-</tr>
-
-<tr>
-<td>
-<img src="assets/images/books/tsp.jpeg" class="book" />
-</td>
-<td>
-
-<b>Technology Strategy Patterns</b> by Eben Hewitt provides a shared language—in the form of repeatable, practical patterns and templates—to produce great technology strategies.
-</td>
-</tr>
-
-<tr>
-<td>
-<img src="assets/images/books/the-phoenix-project.jpeg" class="book" />
-</td>
-<td>
-
-<b>The Phoenix Project</b> and The Unicorn Project by Gene Kim The Phoenix Project is a best-selling novel about DevOps. The book's characters reveal through their actions why it's so important for organizations to put security first and tear down the silos that have traditionally existed between development and operations teams.
-</td>
-</tr>
-
-<tr>
-<td>
-<img src="assets/images/books/cd.jpeg" class="book" />
-</td>
-<td>
-
-<b>Continuous Delivery</b>— through automation of the build, deployment, and testing process, and improved collaboration between developers, testers, and operations, delivery teams can get changes released in a matter of hours-sometimes even minutes-no matter what the size of a project or the complexity of its code base. 
-</td>
-</tr>
-
-<tr>
-<td>
-<img src="assets/images/books/accelerate.jpeg" class="book" />
-</td>
-<td>
-
-<b>Accelerate</b>—acceleration is the second derivative of position (speed being the first), so if you want to move faster you need to accelerate. Sometimes, you need to jerk the system a bit, which in fact the proper term for the third derivative.
-</td>
-<td style="font-size: 50%; line-height: 12px; text-align: center">
-<div>
-<a target="_blank" href="https://obren.io/tools/catalogs/?id=design-tactics-high-performing-technology-organizations">
-<img src="assets/icons/notes.png" class="icon" /><div>summary</div>
-</a>
+<div class="quote">
+To change the architecture of a software-intensive system ensconced in a large organization, you often have to change the architecture of the organization. And ultimately, that is <b>a political problem, not just a technical one</b>.
+<div class="author">-Grady Booch</div>
 </div>
-</td>
-</tr>
 
-<tr>
-<td>
-<img src="assets/images/books/evolutionary-achitectures.jpeg" class="book" />
-</td>
-<td>
-<b>Building Evolutionary Architectures</b> describes how to use fitness functions to guide architectural change over time. I thought the authors could have gotten a bit more our of this topic - perhaps we’ll see a second edition.
-</td>
-</tr>
-
-<tr>
-<td>
-<img src="assets/images/books/for-developers.png" class="book" />
-</td>
-<td>
-
-<b>Software Architecture for Developers</b> by Simon Brown is a practical, pragmatic and lightweight guide to software architecture, specifically aimed at software developers.
-</td>
-<td style="font-size: 50%; line-height: 12px; text-align: center">
-<a target="_blank" href="https://softwarearchitecturefordevelopers.com/">
-<img src="assets/icons/web.png" class="icon" /><div>website</div>
-</a>
-</td>
-</tr>
-
-<tr>
-<td>
-<img src="assets/images/books/hard-parts.jpg" class="book" />
-</td>
-<td>
-
-<b>Software Architecture: The Hard Parts</b> is structured as a narrative about a team breaking down a faulty outdated monolithic application into a modern microservices-based architecture. The authors compare different aspects of how a monolithic architecture might have been written to do something in the past, then how a modern microservice architecture could do the same thing today, offering advice and approaches for effective tradeoff analysis when refactoring a large monolith app.
-</td>
-</tr>
-
-
-<tr>
-<td>
-<img src="assets/images/books/ddd.png" class="book" />
-</td>
-<td>
-
-<b>Domain-Driven Design</b> by Eric Evans promotes the idea that that to develop software for a complex domain, we need to build Ubiquitous Language that embeds domain terminology into the software systems that we build. DDD stresses defining models in software, and evolving them during the life of the software product.
-</td>
-</tr>
-
-<tr>
-<td>
-<img src="assets/images/books/release-it.jpg" class="book" />
-</td>
-<td>
-
-<b>Release It!</b> (2nd Edition) by Mike Nygard’s is about architecture design and decisions regarding stability and how to build "cynical" software. Besides the well known stability patterns like circuit breakers and bulkheads the book introduces foundational knowledge about running systems in production, from processes to network to security, also covering more process oriented questions like deployments or handling security.
-</td>
-</tr>
-
-<tr>
-<td>
-<img src="assets/images/books/data-intensive.png" class="book" />
-</td>
-<td>
-
-<b>Designing Data Intensive Systems</b> by Martin Kleppmann is a mini-encyclopedia of modern data engineering. Not a practice or a cookbook for a particular Big Data, NoSQL or newSQL product, the book lays down the principles of current distributed big data systems. Covers replication, partitioning, linearizability, locking, write skew, phantoms, transactions, event logs, and much more.
-</td>
-</tr>
-<tr>
-<td>
-<img src="assets/images/books/thinking-in-systems.png" class="book" />
-</td>
-<td>
-<b>Thinking in Systems</b> by Donella Meadows describes a system is more than the sum of its parts. It may exhibit adaptive, dynamic, goal-seeking, self-preserving, and sometimes evolutionary behavior.
-</td>
-<td style="font-size: 50%; line-height: 12px; text-align: center">
-<a target="_blank" href="https://obren.io/tools/reading-notes-pro/notes/Thinking%20in%20Systems_%20International%20%20Bestseller-Notebook.pdf">
-<img src="assets/icons/notes.png" class="icon" /><div>reading notes</div>
-</a>
-</td>
-</tr>
-</table>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[Overview of the background to probe further. External resources inspiring my work.]]></summary></entry><entry><title type="html">Context: Fast Moving Global Organizations</title><link href="http://localhost:4000/context" rel="alternate" type="text/html" title="Context: Fast Moving Global Organizations" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/context</id><content type="html" xml:base="http://localhost:4000/context"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/roller-coaster-3605743_1920.jpg" /></p>
+<div class="quote">
+Excessive complexity is nature’s punishment for <b>organizations that are unable to make decisions</b>.
+<div class="author">-Gregor Hohpe</div>
+</div>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[My favorite quotes about archotecture.]]></summary></entry><entry><title type="html">Context: Fast Moving Global Organizations</title><link href="http://localhost:4000/context" rel="alternate" type="text/html" title="Context: Fast Moving Global Organizations" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/context</id><content type="html" xml:base="http://localhost:4000/context"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/roller-coaster-3605743_1920.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/paulbr75-2938186/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3605743">Paul Brennan</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3605743">Pixabay</a>
 </div>
@@ -685,7 +313,7 @@ Image by <a href="https://pixabay.com/users/ichigo121212-11728/?utm_source=link-
 
 <p>The <em>People Pillar</em> is a strong network of people doing architecture across the organization. This pillar is crucial to ensure that architecture function has any tangible impact. As noted by Gregor Hohpe, to transform an organization, you do not need to solve mathematical equations; you need to move people. The <a href="people-pillar">People Pillar</a> section provides more details.</p>
 
-<p>Lastly, the <em>Architecture Activities Platform</em> does everything that architecture typically does, leveraging data and people pillars to create a data-informed, organization-wide impact. The <a href="activities-platform">Architecture Activites Platform</a> provides more details on Technology Architecture Activities Platform. While the Architecture Activities Platform looks most like a typical architecture function, I consider such a platform only valid with the healthy Data and People pillars. Without data and people connections, an Architecture Activities Platform becomes an ivory tower institution, generating opinion-based decisions disconnected from reality.</p>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[I introduce three elements of Grounded Architecture: The Data Pillar, The People Pillar, The Architecture Activities Platform.]]></summary></entry><entry><title type="html">Data Pillar</title><link href="http://localhost:4000/data-pillar" rel="alternate" type="text/html" title="Data Pillar" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/data-platform</id><content type="html" xml:base="http://localhost:4000/data-pillar"><![CDATA[<p><img src="assets/images/arch/architecture-1857175_1920.jpg" style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" /></p>
+<p>Lastly, the <em>Architecture Activities Platform</em> does everything that architecture typically does, leveraging data and people pillars to create a data-informed, organization-wide impact. The <a href="activities-platform">Architecture Activites Platform</a> provides more details on Technology Architecture Activities Platform. While the Architecture Activities Platform looks most like a typical architecture function, I consider such a platform only valid with the healthy Data and People pillars. Without data and people connections, an Architecture Activities Platform becomes an ivory tower institution, generating opinion-based decisions disconnected from reality.</p>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[I introduce three elements of Grounded Architecture: The Data Pillar, The People Pillar, The Architecture Activities Platform.]]></summary></entry><entry><title type="html">Data Pillar</title><link href="http://localhost:4000/quotes" rel="alternate" type="text/html" title="Data Pillar" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/data-platform</id><content type="html" xml:base="http://localhost:4000/quotes"><![CDATA[<p><img src="assets/images/arch/architecture-1857175_1920.jpg" style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/3844328-3844328/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1857175">Lorenzo Cafaro</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1857175">Pixabay</a>
 </div>
