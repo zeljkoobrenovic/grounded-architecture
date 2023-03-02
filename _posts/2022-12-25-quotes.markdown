@@ -99,6 +99,11 @@ Excessive complexity is nature’s punishment for <b>organizations that are unab
 Architecture is just a collective hunch, a <b>shared hallucination</b>, an assertion by a set of stakeholders on the nature of their observable world, be it a world that is or a world as they wish it to be.
 <div class="author">-Grady Booch</div>
 </div>
+ 
+<div class="quote">
+Architects code, but not to deliver code. Rather, to understand the ramifications of the decisions that they're making.
+<div class="author">-Gregor Hohpe, Dave Farley</div>
+</div>
 
 
 
