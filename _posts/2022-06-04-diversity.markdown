@@ -29,13 +29,20 @@ I aimed to keep architectural decision-making distributed across the organizatio
 
 While I aim to create a mechanism to give teams autonomy, autonomy does not mean that teams are alone and do not align with anyone, do not get feedback from anyone, and do whatever they want. Autonomy needs to be complemented with high transparency and proactivity in alignment with other teams. 
 
+I have sometimes implemented the concept of a decision pyramid to give maximal autonomy to the teams while maintaining a minimal level of global alignment and compatibility (Figure 1).
+
+![](assets/images/arch/decision-pyramid.jpg)
+***Figure 1:** A decision pyramid. Most of decisions should be made by the development teams. However, several strategic and domain-level decisions may provide a decision boundaries for teams (e.g., cloud provider).*
+
+Development teams should make most of the decisions. However, several strategic and domain-level choices may provide team decision boundaries. For example, selecting the public cloud provider is typically a CTO-level strategic decision. Similarly, domain engineering leaders may want to limit some choices, such as the number of programming languages, to more easily train new people, maintain code, and support moves between teams.
+
 <br>
 ##  Embracing Diverse Team Structures 
 
-Organizational units have very diverse structures and sizes. There is no one-fit-all solution about how departments should assign architecture responsibilities. I generally worked on three types of team-architect structures in line with Gregor Hohpe's view of architects and their teams' relationships. That means that some units have lead architects coordinating or leading multiple teams. We often have cases where an architect was a full-time member of a team working on specific products or other features. I also worked with teams that did not have an architect but several senior developers making architectural decisions.
+Organizational units have very diverse structures and sizes. There is no one-fit-all solution about how departments should assign architecture responsibilities. I generally worked on three types of team-architect structures in line with Gregor Hohpe's view of architects and their teams' relationships (Figure 2). That means that some units have lead architects coordinating or leading multiple teams. We often have cases where an architect was a full-time member of a team working on specific products or other features. I also worked with teams that did not have an architect but several senior developers making architectural decisions.
 
 ![](https://esilva.net/assets/team-architecture-topologies.png)
-***Figure 1:** A model for organizing (local) architects. Credit: [Gregor Hohpe](https://architectelevator.com/architecture/organizing-architecture/).*
+***Figure 2:** A model for organizing (local) architects. Credit: [Gregor Hohpe](https://architectelevator.com/architecture/organizing-architecture/).*
 
 In big organization, embracing diversity is a pre-requirements to have any broad impact.
 

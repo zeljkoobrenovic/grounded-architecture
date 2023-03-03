@@ -28,7 +28,14 @@ To ensure that organizations maximally benefit from Grounded Architecture, I wan
 <br>
 ## The Tension
 
-While technology, product, organization, and business function face challenges, additional problems occur when there is tension among them. For example, we may organize teams according to a well-defined domain model. Still, if our system is a monolith, our teams will collaborate in a different pattern than domain splits would suggest. On the other hand, if our teams are well aligned with the technology implementation (e.g., clear ownership of microservices) but the product architecture is different from the microservice domain split, we may end up changing dozens of microservices when we need to introduce relatively simple product features. Similarly, business objectives must be better aligned with product or technology; otherwise, tense interactions will happen (e.g., try reducing short-term costs while adding new features and migrating to the public cloud). Too frequently, architecture sits on the side, shouting principles and abstract ideals that everyone ignores.
+While technology, product, organization, and business function face challenges, additional problems occur when there is tension among them. 
+
+
+For example, we may organize teams according to a well-defined domain model. Still, if our system is a monolith, our teams will collaborate in a different pattern than domain splits would suggest. 
+
+On the other hand, if our teams are well aligned with the technology implementation (e.g., clear ownership of microservices) but the product architecture is different from the microservice domain split, we may end up changing dozens of microservices when we need to introduce relatively simple product features. Similarly, business objectives must be better aligned with product or technology; otherwise, tense interactions will happen (e.g., try reducing short-term costs while adding new features and migrating to the public cloud). 
+
+Too frequently, architecture sits on the side, shouting principles and abstract ideals that everyone ignores.
 
 ![](assets/images/tension.png)
 ***Figure 1:** The tensions between technology, product, organization, and business functions.*
