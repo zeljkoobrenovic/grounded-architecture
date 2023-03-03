@@ -22,19 +22,14 @@ excerpt: "Architects in IT organizations should develop as “superglue,” peop
 > * Strong Architecture = Strong Architects.
 > * Architects should stand on three legs: Skills, Impact, Thought leadership.
 
-The People Pillar part of grounded architecture considers the people the central and essential part of architectural activities. In other words, Strong Architecture = Strong Architects. Developing the architecture function requires having competent, empowered, and motivated architects.
+<br>
+## Superglue Vision
 
-<blockquote style="font-size: 150%; margin-top: 42px; margin-bottom: 42px;">
-Strong Architecture = Strong Architects.
-</blockquote>
+The People Pillar part of grounded architecture considers the people the central and essential part of architectural activities. In other words, Strong Architecture = Strong Architects. Developing the architecture function requires having competent, empowered, and motivated architects.
 
 I found that Grounded Architecture is more effective if architects being a part of the People Pillar, view themselves as "superglue." I borrow this view from Adam Bar-Niv and Amir Shenhav from Intel. They pointed out that instead of the superhero, we need "superglue" architects - the people who hold architecture, technical details, business needs, and people together across large organizations or complex projects.
 
 The superglue characteristics mean serving as the organizational connective tissue, linking the "business wheelhouse" and the "engine room." Architects, of course, need to be technically strong. But their unique strengths should stem from being able to relate, or glue, technical issues with business and broader issues.
-
-<blockquote style="font-size: 150%; margin-top: 42px; margin-bottom: 42px;">
-Architects, of course, need to be technically strong. But their unique strengths should stem from being able to relate technical issues with business and broader issues.
-</blockquote>
 
 From discussions I've had with our technology leaders, engineers, and architects, the picture below has crystallized as a representation of the "superglue" metaphor for architects (Figure 1).
 
@@ -42,6 +37,9 @@ From discussions I've had with our technology leaders, engineers, and architects
 ***Figure 1:** Architects serve as a superglue, connecting development teams with business stakeholders while linking teams with the internal communities and the external world.*
 
 IT organizations need persons who look broader, linking architecture, technical details, business needs, and people together. These persons may not necessarily have a title of an architect. But they must have good working relationships with developer teams and the local business stakeholders and functions. Simultaneously, such a person is well-connected with the internal communities and has external visibility. They promote what we are doing, and on the other hand, they bring back ideas from the outside.
+
+<br>
+## Superglue Skills
 
 Setting the architects' goals to be "superglue" also requires some thought on developing architects as a superglue. Borrowing from Gregor Hohpe's view on architect development from his book Software Architecture Elevator, I share the view that our architects should stand on three legs:
 
