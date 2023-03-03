@@ -12,8 +12,8 @@ excerpt: Overview of the background to probe further. External resources inspiri
 
 
 ---
-<img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
-     src="assets/images/arch/library-5641389_1920.jpg">
+<img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover"
+src="assets/images/arch/library-5641389_1920.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/olivergotting-18505948/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5641389">Oli Götting</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5641389">Pixabay</a>
 </div>
@@ -31,6 +31,16 @@ Image by <a href="https://pixabay.com/users/olivergotting-18505948/?utm_source=l
         min-width: 30px;
         width: 30px;
     }
+
+    .icon-container {
+    
+    }
+
+    @media only screen and (max-width: 768px) {
+        [class="icon-container"] {
+            display: none;
+        }
+    }
 </style>
 
 <br>
@@ -38,7 +48,7 @@ Image by <a href="https://pixabay.com/users/olivergotting-18505948/?utm_source=l
 
 <table>
 <tr>
-<td>
+<td class="icon-container">
 <img src="assets/images/software-architecture-elevator.webp" class="book">
 </td>
 <td>
@@ -58,7 +68,7 @@ Image by <a href="https://pixabay.com/users/olivergotting-18505948/?utm_source=l
 </td>
 </tr>
 <tr>
-<td>
+<td class="icon-container">
 <img src="assets/images/books/spotify.png" class="book">
 </td>
 <td>
@@ -77,7 +87,7 @@ Image by <a href="https://pixabay.com/users/olivergotting-18505948/?utm_source=l
 ## Tools
 
 <table>
-<tr>
+<tr class="icon-container">
 <td style="width: 80px">
 <img src="assets/images/books/sokrates.png" class="book">
 </td>
@@ -95,7 +105,7 @@ Sokrates can help you understand your code by making visible the size, complexit
 </td>
 </tr>
 <tr>
-<td>
+<td class="icon-container">
 <img src="assets/images/books/productivity_tools.png" class="book">
 </td>
 <td>
@@ -110,7 +120,7 @@ Sokrates can help you understand your code by making visible the size, complexit
 </td>
 </tr>
 <tr>
-<td>
+<td class="icon-container">
 <img src="assets/images/arch/obren359.jpeg" class="book">
 </td>
 <td>
@@ -127,9 +137,10 @@ Sokrates can help you understand your code by making visible the size, complexit
 </table>
 
 ## Soft Skills
+
 <table>
 <tr>
-<td>
+<td class="icon-container">
 <img src="assets/images/books/team-topologies.webp" class="book">
 </td>
 <td>
@@ -143,7 +154,7 @@ Sokrates can help you understand your code by making visible the size, complexit
 </tr>
 
 <tr>
-<td>
+<td class="icon-container">
 <img src="assets/images/books/culture-maps.jpeg" class="book" style="border: 1px solid lightgrey">
 </td>
 <td>
@@ -164,7 +175,7 @@ Sokrates can help you understand your code by making visible the size, complexit
 </tr>
 
 <tr>
-<td>
+<td class="icon-container">
 <img src="assets/images/books/nudge.webp" class="book">
 </td>
 <td>
@@ -178,7 +189,7 @@ Sokrates can help you understand your code by making visible the size, complexit
 </tr>
 
 <tr>
-<td>
+<td class="icon-container">
 <img src="assets/images/books/no-rules-rules.webp" class="book">
 </td>
 <td>
@@ -191,7 +202,7 @@ Sokrates can help you understand your code by making visible the size, complexit
 </td>
 </tr>
 <tr>
-<td>
+<td class="icon-container">
 <img src="assets/images/books/dare-to-lead.webp" class="book">
 </td>
 <td>
@@ -204,7 +215,7 @@ Sokrates can help you understand your code by making visible the size, complexit
 </td>
 </tr>
 <tr>
-<td>
+<td class="icon-container">
 <img src="assets/images/books/staff-engineer.jpeg" class="book">
 </td>
 <td>
@@ -217,7 +228,7 @@ Sokrates can help you understand your code by making visible the size, complexit
 </td>
 </tr>
 <tr>
-<td>
+<td class="icon-container">
 <img src="assets/images/books/staff-engineer-or.jpg" class="book">
 </td>
 <td>
@@ -233,11 +244,12 @@ Sokrates can help you understand your code by making visible the size, complexit
 
 ## Hard Skills
 
-This section is heavily influenced by Gregor Hohpe's article [The Architect’s Path (Part 2 - Bookshelf)](https://architectelevator.com/architecture/architect-bookshelf/)
+This section is heavily influenced by Gregor Hohpe's
+article [The Architect’s Path (Part 2 - Bookshelf)](https://architectelevator.com/architecture/architect-bookshelf/)
 
 <table>
 <tr>
-<td>
+<td class="icon-container">
 <img src="assets/images/books/clean-code.jpeg" class="book">
 </td>
 <td>
@@ -251,7 +263,7 @@ This section is heavily influenced by Gregor Hohpe's article [The Architect’s 
 </tr>
 
 <tr>
-<td>
+<td class="icon-container">
 <img src="assets/images/books/refactoring.jpeg" class="book">
 </td>
 <td>
@@ -265,12 +277,13 @@ This section is heavily influenced by Gregor Hohpe's article [The Architect’s 
 </tr>
 
 <tr>
-<td>
+<td class="icon-container">
 <img src="assets/images/books/design-patterns.webp" class="book">
 </td>
 <td>
 
-<b>Design Patterns</b> by Gamma, Helm, Johnson, Vlissides. Design patterns help us make balanced decisions on the design of our code.
+<b>Design Patterns</b> by Gamma, Helm, Johnson, Vlissides. Design patterns help us make balanced decisions on the design
+of our code.
 </td>
 <td style="font-size: 50%; line-height: 12px; text-align: center">
 <a target="_blank" href="https://refactoring.guru/design-patterns/catalog">
@@ -280,22 +293,24 @@ This section is heavily influenced by Gregor Hohpe's article [The Architect’s 
 </tr>
 
 <tr>
-<td>
+<td class="icon-container">
 <img src="assets/images/books/building-microservices.webp" class="book">
 </td>
 <td>
 
-<b>Building Microservices</b> (2nd Edition) by Sam Newman is a book about architectural trade-offs and considerations in distributed system design. Very accessible.
+<b>Building Microservices</b> (2nd Edition) by Sam Newman is a book about architectural trade-offs and considerations in
+distributed system design. Very accessible.
 </td>
 </tr>
 
 <tr>
-<td>
+<td class="icon-container">
 <img src="assets/images/books/fundamentals-of-software-architecture.jpeg" class="book">
 </td>
 <td>
 
-<b>Fundamentals of Software Architecture</b> by Neal and Mark, covers soft skills, modularity, component-based thinking, and architectural styles.
+<b>Fundamentals of Software Architecture</b> by Neal and Mark, covers soft skills, modularity, component-based thinking,
+and architectural styles.
 </td>
 <td style="font-size: 50%; line-height: 12px; text-align: center">
 <a target="_blank" href="http://fundamentalsofsoftwarearchitecture.com/images.html">
@@ -306,7 +321,7 @@ This section is heavily influenced by Gregor Hohpe's article [The Architect’s 
 </tr>
 
 <tr>
-<td>
+<td class="icon-container">
 <img src="assets/images/books/eip.webp" class="book">
 </td>
 <td>
@@ -321,7 +336,7 @@ This section is heavily influenced by Gregor Hohpe's article [The Architect’s 
 </tr>
 
 <tr>
-<td>
+<td class="icon-container">
 <img src="assets/images/books/pattern-oriented-software-architecture.jpeg" class="book">
 </td>
 <td>
@@ -331,7 +346,7 @@ This section is heavily influenced by Gregor Hohpe's article [The Architect’s 
 </tr>
 
 <tr>
-<td>
+<td class="icon-container">
 <img src="assets/images/books/just-enough-software-architecture.jpeg" class="book">
 </td>
 <td>
@@ -341,52 +356,60 @@ This section is heavily influenced by Gregor Hohpe's article [The Architect’s 
 </tr>
 
 <tr>
-<td>
+<td class="icon-container">
 <img src="assets/images/books/ssa.jpeg" class="book">
 </td>
 <td>
 
-<b>Software Systems Architecture</b> by Nick and Eóin is a practitioner-oriented guide to designing and implementing effective architectures for information systems.
+<b>Software Systems Architecture</b> by Nick and Eóin is a practitioner-oriented guide to designing and implementing
+effective architectures for information systems.
 </td>
 </tr>
 
 <tr>
-<td>
+<td class="icon-container">
 <img src="assets/images/books/tsp.jpeg" class="book">
 </td>
 <td>
 
-<b>Technology Strategy Patterns</b> by Eben Hewitt provides a shared language—in the form of repeatable, practical patterns and templates—to produce great technology strategies.
+<b>Technology Strategy Patterns</b> by Eben Hewitt provides a shared language—in the form of repeatable, practical
+patterns and templates—to produce great technology strategies.
 </td>
 </tr>
 
 <tr>
-<td>
+<td class="icon-container">
 <img src="assets/images/books/the-phoenix-project.jpeg" class="book">
 </td>
 <td>
 
-<b>The Phoenix Project</b> and The Unicorn Project by Gene Kim The Phoenix Project is a best-selling novel about DevOps. The book's characters reveal through their actions why it's so important for organizations to put security first and tear down the silos that have traditionally existed between development and operations teams.
+<b>The Phoenix Project</b> and The Unicorn Project by Gene Kim The Phoenix Project is a best-selling novel about DevOps.
+The book's characters reveal through their actions why it's so important for organizations to put security first and
+tear down the silos that have traditionally existed between development and operations teams.
 </td>
 </tr>
 
 <tr>
-<td>
+<td class="icon-container">
 <img src="assets/images/books/cd.jpeg" class="book">
 </td>
 <td>
 
-<b>Continuous Delivery</b>— through automation of the build, deployment, and testing process, and improved collaboration between developers, testers, and operations, delivery teams can get changes released in a matter of hours-sometimes even minutes-no matter what the size of a project or the complexity of its code base. 
+<b>Continuous Delivery</b>— through automation of the build, deployment, and testing process, and improved collaboration
+between developers, testers, and operations, delivery teams can get changes released in a matter of hours-sometimes even
+minutes-no matter what the size of a project or the complexity of its code base.
 </td>
 </tr>
 
 <tr>
-<td>
+<td class="icon-container">
 <img src="assets/images/books/accelerate.jpeg" class="book">
 </td>
 <td>
 
-<b>Accelerate</b>—acceleration is the second derivative of position (speed being the first), so if you want to move faster you need to accelerate. Sometimes, you need to jerk the system a bit, which in fact the proper term for the third derivative.
+<b>Accelerate</b>—acceleration is the second derivative of position (speed being the first), so if you want to move
+faster you need to accelerate. Sometimes, you need to jerk the system a bit, which in fact the proper term for the third
+derivative.
 </td>
 <td style="font-size: 50%; line-height: 12px; text-align: center">
 <div>
@@ -398,7 +421,7 @@ This section is heavily influenced by Gregor Hohpe's article [The Architect’s 
 </tr>
 
 <tr>
-<td>
+<td class="icon-container">
 <img src="assets/images/books/evolutionary-achitectures.jpeg" class="book">
 </td>
 <td>
@@ -407,12 +430,13 @@ This section is heavily influenced by Gregor Hohpe's article [The Architect’s 
 </tr>
 
 <tr>
-<td>
+<td class="icon-container">
 <img src="assets/images/books/for-developers.png" class="book">
 </td>
 <td>
 
-<b>Software Architecture for Developers</b> by Simon Brown is a practical, pragmatic and lightweight guide to software architecture, specifically aimed at software developers.
+<b>Software Architecture for Developers</b> by Simon Brown is a practical, pragmatic and lightweight guide to software
+architecture, specifically aimed at software developers.
 </td>
 <td style="font-size: 50%; line-height: 12px; text-align: center">
 <a target="_blank" href="https://softwarearchitecturefordevelopers.com/">
@@ -421,48 +445,60 @@ This section is heavily influenced by Gregor Hohpe's article [The Architect’s 
 </td>
 </tr>
 
-<tr>
+<tr class="icon-container">
 <td>
 <img src="assets/images/books/hard-parts.jpg" class="book">
 </td>
 <td>
 
-<b>Software Architecture: The Hard Parts</b> is structured as a narrative about a team breaking down a faulty outdated monolithic application into a modern microservices-based architecture. The authors compare different aspects of how a monolithic architecture might have been written to do something in the past, then how a modern microservice architecture could do the same thing today, offering advice and approaches for effective tradeoff analysis when refactoring a large monolith app.
+<b>Software Architecture: The Hard Parts</b> is structured as a narrative about a team breaking down a faulty outdated
+monolithic application into a modern microservices-based architecture. The authors compare different aspects of how a
+monolithic architecture might have been written to do something in the past, then how a modern microservice architecture
+could do the same thing today, offering advice and approaches for effective tradeoff analysis when refactoring a large
+monolith app.
 </td>
 </tr>
 
 
 <tr>
-<td>
+<td class="icon-container">
 <img src="assets/images/books/ddd.png" class="book">
 </td>
 <td>
 
-<b>Domain-Driven Design</b> by Eric Evans promotes the idea that that to develop software for a complex domain, we need to build Ubiquitous Language that embeds domain terminology into the software systems that we build. DDD stresses defining models in software, and evolving them during the life of the software product.
+<b>Domain-Driven Design</b> by Eric Evans promotes the idea that that to develop software for a complex domain, we need
+to build Ubiquitous Language that embeds domain terminology into the software systems that we build. DDD stresses
+defining models in software, and evolving them during the life of the software product.
 </td>
 </tr>
 
 <tr>
-<td>
+<td class="icon-container">
 <img src="assets/images/books/release-it.jpg" class="book">
 </td>
 <td>
 
-<b>Release It!</b> (2nd Edition) by Mike Nygard’s is about architecture design and decisions regarding stability and how to build "cynical" software. Besides the well known stability patterns like circuit breakers and bulkheads the book introduces foundational knowledge about running systems in production, from processes to network to security, also covering more process oriented questions like deployments or handling security.
+<b>Release It!</b> (2nd Edition) by Mike Nygard’s is about architecture design and decisions regarding stability and how
+to build "cynical" software. Besides the well known stability patterns like circuit breakers and bulkheads the book
+introduces foundational knowledge about running systems in production, from processes to network to security, also
+covering more process oriented questions like deployments or handling security.
 </td>
 </tr>
 
 <tr>
-<td>
+<td class="icon-container">
 <img src="assets/images/books/data-intensive.png" class="book">
 </td>
 <td>
 
-<b>Designing Data Intensive Systems</b> by Martin Kleppmann is a mini-encyclopedia of modern data engineering. Not a practice or a cookbook for a particular Big Data, NoSQL or newSQL product, the book lays down the principles of current distributed big data systems. Covers replication, partitioning, linearizability, locking, write skew, phantoms, transactions, event logs, and much more.
+<b>Designing Data Intensive Systems</b> by Martin Kleppmann is a mini-encyclopedia of modern data engineering. Not a
+practice or a cookbook for a particular Big Data, NoSQL or newSQL product, the book lays down the principles of current
+distributed big data systems. Covers replication, partitioning, linearizability, locking, write skew, phantoms,
+transactions, event logs, and much more.
 </td>
 </tr>
 <tr>
-<td>
+<td class="icon-container">
 <img src="assets/images/books/thinking-in-systems.png" class="book">
 </td>
 <td>

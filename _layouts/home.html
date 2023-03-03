@@ -8,6 +8,19 @@ layout: default
 <br>
 <br>
 
+<style>
+    .icon-image {
+        width: 100px;
+        border: none;
+    }
+
+    @media only screen and (max-width: 768px) {
+        [class="icon-image"] {
+            display: none;
+        }
+    }
+</style>
+
 
 <div class="home">
     {%- if page.title -%}
@@ -31,7 +44,7 @@ layout: default
 
             <table style="border: none;">
                 <tr>
-                    <td style="width: 100px; border: none;">
+                    <td class="icon-image">
                         <img src="{{ site.baseurl }}/assets/icons/{{ post.icon }}" style="width: 100px;">
                     </td>
                     <td style="border: none;">
