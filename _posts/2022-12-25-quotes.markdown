@@ -8,7 +8,7 @@ author: by Željko Obrenović (obren.io)
 permalink: background
 icon: quotes.png
 timetoread: 15 min
-excerpt: My favorite quotes about archotecture.
+excerpt: My favorite quotes about architecture.
 
 
 ---
