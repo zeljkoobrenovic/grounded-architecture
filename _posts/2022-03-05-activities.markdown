@@ -49,16 +49,7 @@ Here are some examples of activities I have been performing with architects:
 
 <br>
 ## Operating Model
-While exact activities and their scope will depend on an organization setting and will change over time, in daily work, we aimed to implement the common operational model:
-
-* Architects engage with stakeholders and product and project teams in a **collaborative and supportive manner**.
-* Architects are **empowering the teams** so that they make most of the decisions.
-* In all activities, the architecture function and architects: 
-  * **Bring relevant data** to inform decisions leveraging the [Data Pillar](data-pillar).
-  * **Define decision boundaries** to enable the minimal level of compatibility and strategic alignment (e.g., public cloud provider, tech stack constraints).
-  * **Define key principles** to facilitate consistency in decision-making.
-  * **Share and generalize** lessons learned.
-* Architects then spend their time in **constant motion** between supporting teams' **daily work** and working on **strategic topics**, helping the organization achieve alignment between strategy and implementation.
+While exact activities and their scope will depend on an organization setting and will change over time, in daily work, we aimed to implement the common operational model.
 
 Inspired by Gregor Hohpe's strategy-principles-decisions model Figure 1 illustrates the process.
 
@@ -69,6 +60,15 @@ Inspired by Gregor Hohpe's strategy-principles-decisions model Figure 1 illustra
 </div>
 **Figure 1:** *A common operating model I typically use for Grounded Architecture activities.*
 
+A common operating model I typically use for Grounded Architecture activities is as follows:
+* Architects engage with stakeholders and product and project teams in a **collaborative and supportive manner**.
+* Architects are **empowering the teams** so that they make most of the decisions.
+* In all activities, the architecture function and architects: 
+  * **Bring relevant data** to inform decisions leveraging the [Data Pillar](data-pillar).
+  * **Define decision boundaries** to enable the minimal level of compatibility and strategic alignment (e.g., public cloud provider, tech stack constraints).
+  * **Define key principles** to facilitate consistency in decision-making.
+  * **Share and generalize** lessons learned.
+* Architects then spend their time in **constant motion** between supporting teams' **daily work** and working on **strategic topics**, helping the organization achieve alignment between strategy and implementation.
 
 
 

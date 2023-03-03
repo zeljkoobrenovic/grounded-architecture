@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-03-03T20:01:52+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: The Chief Architect’s Playbook</title><subtitle></subtitle><entry><title type="html">Favorite Quotes</title><link href="http://localhost:4000/background" rel="alternate" type="text/html" title="Favorite Quotes" /><published>2021-10-25T22:12:01+02:00</published><updated>2021-10-25T22:12:01+02:00</updated><id>http://localhost:4000/quotes</id><content type="html" xml:base="http://localhost:4000/background"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/books-g1b2675255_1920.jpg" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-03-03T22:33:04+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: The Chief Architect’s Playbook</title><subtitle></subtitle><entry><title type="html">Favorite Quotes</title><link href="http://localhost:4000/background" rel="alternate" type="text/html" title="Favorite Quotes" /><published>2021-10-25T22:12:01+02:00</published><updated>2021-10-25T22:12:01+02:00</updated><id>http://localhost:4000/quotes</id><content type="html" xml:base="http://localhost:4000/background"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/books-g1b2675255_1920.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/prettysleepy-2973588/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5430104">Amy</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5430104">Pixabay</a>
 </div>
@@ -633,11 +633,6 @@ Credit: <a href="https://www.mckinsey.com/business-functions/mckinsey-digital/ou
 
 <p><br /></p>
 <h2 id="building-people-pillar">Building People Pillar</h2>
-<blockquote>
-  <p><em>”Architecture is not so much about the software, but about the people who write the software. The core principles of architecture, such as coupling and cohesion, aren’t about the code. The code doesn’t ‘care’ about how cohesive or decoupled it is; … But people do care about their coupling to other team members.”</em> - James O. Coplien</p>
-
-  <p><em>“Software design is an exercise in human relationships.”</em> Kent Beck</p>
-</blockquote>
 
 <p>While each organization will need its unique approach, here are some tips I found helpful in my approach to forming architecture teams or “<a href="people-pillar">People Pillar</a>”:</p>
 <ul>
@@ -691,8 +686,18 @@ Image by <a href="https://pixabay.com/users/cocoparisienne-127419/?utm_source=li
 
 <p><br /></p>
 <h2 id="operating-model">Operating Model</h2>
-<p>While exact activities and their scope will depend on an organization setting and will change over time, in daily work, we aimed to implement the common operational model:</p>
+<p>While exact activities and their scope will depend on an organization setting and will change over time, in daily work, we aimed to implement the common operational model.</p>
 
+<p>Inspired by Gregor Hohpe’s strategy-principles-decisions model Figure 1 illustrates the process.</p>
+
+<div>
+<a href="assets/images/arch/architecture-system.png" target="_blank">
+    <img src="assets/images/arch/architecture-system.png" />
+</a>
+</div>
+<p><strong>Figure 1:</strong> <em>A common operating model I typically use for Grounded Architecture activities.</em></p>
+
+<p>A common operating model I typically use for Grounded Architecture activities is as follows:</p>
 <ul>
   <li>Architects engage with stakeholders and product and project teams in a <strong>collaborative and supportive manner</strong>.</li>
   <li>Architects are <strong>empowering the teams</strong> so that they make most of the decisions.</li>
@@ -705,16 +710,7 @@ Image by <a href="https://pixabay.com/users/cocoparisienne-127419/?utm_source=li
     </ul>
   </li>
   <li>Architects then spend their time in <strong>constant motion</strong> between supporting teams’ <strong>daily work</strong> and working on <strong>strategic topics</strong>, helping the organization achieve alignment between strategy and implementation.</li>
-</ul>
-
-<p>Inspired by Gregor Hohpe’s strategy-principles-decisions model Figure 1 illustrates the process.</p>
-
-<div>
-<a href="assets/images/arch/architecture-system.png" target="_blank">
-    <img src="assets/images/arch/architecture-system.png" />
-</a>
-</div>
-<p><strong>Figure 1:</strong> <em>A common operating model I typically use for Grounded Architecture activities.</em></p>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[The Architecture Activities Platform is the place where, by leveraging data and people pillars, we performed activities that help an organization to reach it goals. Here are some examples: supporting teams in their daily work; tracking tech debt, defining tech debt reduction programs; performing technical due diligence; standardization of processes and documentation; defining cloud, data, and platform strategies.]]></summary></entry><entry><title type="html">Value of Grounded Architecture: Addressing the Requirements</title><link href="http://localhost:4000/impact" rel="alternate" type="text/html" title="Value of Grounded Architecture: Addressing the Requirements" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/value</id><content type="html" xml:base="http://localhost:4000/impact"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/drop-of-water-578897_1920.jpg" /></p>
+</ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[The Architecture Activities Platform is the place where, by leveraging data and people pillars, we performed activities that help an organization to reach it goals. Here are some examples: supporting teams in their daily work; tracking tech debt, defining tech debt reduction programs; performing technical due diligence; standardization of processes and documentation; defining cloud, data, and platform strategies.]]></summary></entry><entry><title type="html">Value of Grounded Architecture: Addressing the Requirements</title><link href="http://localhost:4000/impact" rel="alternate" type="text/html" title="Value of Grounded Architecture: Addressing the Requirements" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/value</id><content type="html" xml:base="http://localhost:4000/impact"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/drop-of-water-578897_1920.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/ronymichaud-647623/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=578897">rony michaud</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=578897">Pixabay</a>
 </div>
@@ -889,11 +885,50 @@ Image by <a href="https://pixabay.com/users/darksouls1-2189876/?utm_source=link-
 <p><img src="assets/images/superglue/architect-skills.png" alt="" />
 <em><strong>Figure 2:</strong> Architect Profile: Skills + Impact + Thought Leadership.</em></p>
 
-<p><strong>Skills:</strong> Architects have to have proper skill sets. By skills, I mean possessing knowledge and the ability to apply relevant knowledge in practice. These skills should include both technical (e.g., cloud architecture or Kubernetes technology) as well as communication and influence skills.</p>
+<p><br /></p>
+<h3 id="skills">Skills</h3>
 
-<p><strong>Impact:</strong> Impact should be measured as a benefit for the business. Architects need to ensure that what they are doing profits the business. New architects start as students or trainees having skills but little impact. But sooner than later, fresh architects need to get out into the world and make an impact. Architects that do not make an impact do not have a place in a for-profit business.</p>
+<p>Architects have to have proper skill sets. By skills, I mean possessing knowledge and the ability to apply relevant knowledge in practice. These skills should include both technical (e.g., cloud architecture or Kubernetes technology) as well as communication and influence skills.</p>
 
-<p><strong>Though leadership:</strong> Thought leadership acknowledges that experienced architects should do more than make architecture. This “more” can have different forms but should include at least some of the following activities: mentoring junior architects and engineers, publishing articles, giving talks, starting initiatives, and driving decisions.</p>
+<p>A typical skillset of an architects includes:</p>
+
+<ul>
+  <li><strong>Technical skills</strong>, including extensive knowledge of engineering processes, structural design, and system optimization, both for new technology and legacy technology stacks.</li>
+  <li><strong>Communication skills</strong>, written, verbal (presentation), and listening skills.</li>
+  <li><strong>Networking and collaboration skills</strong>, including partnering with others, peers, more junior and senior people, managers and excutives.</li>
+  <li><strong>Organizational</strong> and <strong>time management skills</strong>.</li>
+  <li><strong>Analytical, strategic thinking, and problem-solving skills</strong>.</li>
+</ul>
+
+<p><br /></p>
+<h3 id="impact">Impact</h3>
+
+<p>Impact should be measured as a benefit for the business. Architects need to ensure that what they are doing profits the business. New architects start as students or trainees having skills but little impact. But sooner than later, fresh architects need to get out into the world and make an impact. Architects that do not make an impact do not have a place in a for-profit business.</p>
+
+<p>Examples of such impact may include:</p>
+<ul>
+  <li><strong>Process</strong> optimizations and improvements,</li>
+  <li><strong>Cost</strong> optimizations of systems,</li>
+  <li>Developing pragmatic <strong>technology strategies</strong>,</li>
+  <li>Driving <strong>delivery of products</strong>,</li>
+  <li>Supporting <strong>business innovation</strong>.</li>
+</ul>
+
+<p><br /></p>
+<h3 id="though-leadership">Though Leadership</h3>
+
+<p>Thought leadership acknowledges that experienced architects should do more than make architecture. This “more” can have different forms but should include at least some of the following activities:</p>
+
+<ul>
+  <li><strong>Mentoring</strong> junior architects and engineers,</li>
+  <li><strong>Publishing</strong> articles,</li>
+  <li>Giving <strong>talks</strong>,</li>
+  <li>Starting <strong>initiatives</strong>, and</li>
+  <li>Driving strategic <strong>decisions</strong>.</li>
+</ul>
+
+<p><br /></p>
+<h3 id="balanced-development">Balanced Development</h3>
 
 <p>Architects need to have a minimal “length” of all of these “legs” to be successful. For instance, having skills and impact without leadership frequently leads to hitting a glass ceiling. Such architects plateau at an intermediate level and cannot lead the company to innovative or transformative solutions. Leadership without impact lacks foundation and may signal that you have become an ivory tower architect with a weak relation to reality.</p>
 

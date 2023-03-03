@@ -88,14 +88,8 @@ Having places and events to connect central and distributed teams is essential. 
 
 While the central team can provide some essential support, all communities must take the initiative and engage as many people as possible during these events. People should be active receivers of information rather than passive participants to ensure more involvement and commitment.
 
-
-
 <br>
 ## Building People Pillar
-> *”Architecture is not so much about the software, but about the people who write the software. The core principles of architecture, such as coupling and cohesion, aren't about the code. The code doesn't 'care' about how cohesive or decoupled it is; ... But people do care about their coupling to other team members.”* - James O. Coplien
-> 
-> *"Software design is an exercise in human relationships."* Kent Beck
-
 
 While each organization will need its unique approach, here are some tips I found helpful in my approach to forming architecture teams or "[People Pillar](people-pillar)":
 * Before making grandiose plans for reorganizations, connect with the people already doing architectural work in an organization, creating a community of practices or a virtual team. Being inclusive and connecting all key tech leaders, regardless of their actual position and title, is vital. Being well-connected to these people will be crucial in any architecture organization, so you will always benefit from this effort.  

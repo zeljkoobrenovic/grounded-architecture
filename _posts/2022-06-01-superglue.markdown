@@ -50,11 +50,44 @@ Setting the architects' goals to be "superglue" also requires some thought on de
 ![](assets/images/superglue/architect-skills.png)
 ***Figure 2:** Architect Profile: Skills + Impact + Thought Leadership.*
 
-**Skills:** Architects have to have proper skill sets. By skills, I mean possessing knowledge and the ability to apply relevant knowledge in practice. These skills should include both technical (e.g., cloud architecture or Kubernetes technology) as well as communication and influence skills.
+<br>
+### Skills 
 
-**Impact:** Impact should be measured as a benefit for the business. Architects need to ensure that what they are doing profits the business. New architects start as students or trainees having skills but little impact. But sooner than later, fresh architects need to get out into the world and make an impact. Architects that do not make an impact do not have a place in a for-profit business.
+Architects have to have proper skill sets. By skills, I mean possessing knowledge and the ability to apply relevant knowledge in practice. These skills should include both technical (e.g., cloud architecture or Kubernetes technology) as well as communication and influence skills.
 
-**Though leadership:** Thought leadership acknowledges that experienced architects should do more than make architecture. This "more" can have different forms but should include at least some of the following activities: mentoring junior architects and engineers, publishing articles, giving talks, starting initiatives, and driving decisions.
+A typical skillset of an architects includes:
+
+* **Technical skills**, including extensive knowledge of engineering processes, structural design, and system optimization, both for new technology and legacy technology stacks.
+* **Communication skills**, written, verbal (presentation), and listening skills.
+* **Networking and collaboration skills**, including partnering with others, peers, more junior and senior people, managers and excutives.
+* **Organizational** and **time management skills**.
+* **Analytical, strategic thinking, and problem-solving skills**.
+
+<br>
+### Impact 
+
+Impact should be measured as a benefit for the business. Architects need to ensure that what they are doing profits the business. New architects start as students or trainees having skills but little impact. But sooner than later, fresh architects need to get out into the world and make an impact. Architects that do not make an impact do not have a place in a for-profit business.
+
+Examples of such impact may include:
+* **Process** optimizations and improvements,
+* **Cost** optimizations of systems,
+* Developing pragmatic **technology strategies**, 
+* Driving **delivery of products**, 
+* Supporting **business innovation**. 
+
+<br>
+### Though Leadership
+
+Thought leadership acknowledges that experienced architects should do more than make architecture. This "more" can have different forms but should include at least some of the following activities: 
+
+* **Mentoring** junior architects and engineers, 
+* **Publishing** articles, 
+* Giving **talks**, 
+* Starting **initiatives**, and 
+* Driving strategic **decisions**.
+
+<br>
+### Balanced Development
 
 Architects need to have a minimal "length" of all of these "legs" to be successful. For instance, having skills and impact without leadership frequently leads to hitting a glass ceiling. Such architects plateau at an intermediate level and cannot lead the company to innovative or transformative solutions. Leadership without impact lacks foundation and may signal that you have become an ivory tower architect with a weak relation to reality.
 
