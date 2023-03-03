@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-03-02T22:18:17+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: The Chief Architect’s Playbook</title><subtitle></subtitle><entry><title type="html">Favorite Quotes</title><link href="http://localhost:4000/background" rel="alternate" type="text/html" title="Favorite Quotes" /><published>2021-10-25T22:12:01+02:00</published><updated>2021-10-25T22:12:01+02:00</updated><id>http://localhost:4000/quotes</id><content type="html" xml:base="http://localhost:4000/background"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/books-g1b2675255_1920.jpg" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-03-03T13:34:49+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: The Chief Architect’s Playbook</title><subtitle></subtitle><entry><title type="html">Favorite Quotes</title><link href="http://localhost:4000/background" rel="alternate" type="text/html" title="Favorite Quotes" /><published>2021-10-25T22:12:01+02:00</published><updated>2021-10-25T22:12:01+02:00</updated><id>http://localhost:4000/quotes</id><content type="html" xml:base="http://localhost:4000/background"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/books-g1b2675255_1920.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/prettysleepy-2973588/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5430104">Amy</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5430104">Pixabay</a>
 </div>
@@ -83,6 +83,11 @@ Excessive complexity is nature’s punishment for <b>organizations that are unab
 <div class="quote">
 Architecture is just a collective hunch, a <b>shared hallucination</b>, an assertion by a set of stakeholders on the nature of their observable world, be it a world that is or a world as they wish it to be.
 <div class="author">-Grady Booch</div>
+</div>
+
+<div class="quote">
+<b>Architects code</b>, but not to deliver code. Rather, to understand the ramifications of the decisions that they're making.
+<div class="author">-Gregor Hohpe, Dave Farley</div>
 </div>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[My favorite quotes about archotecture.]]></summary></entry><entry><title type="html">Context: Fast Moving Global Organizations</title><link href="http://localhost:4000/context" rel="alternate" type="text/html" title="Context: Fast Moving Global Organizations" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/context</id><content type="html" xml:base="http://localhost:4000/context"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/roller-coaster-3605743_1920.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/paulbr75-2938186/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3605743">Paul Brennan</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3605743">Pixabay</a>
@@ -102,10 +107,10 @@ Image by <a href="https://pixabay.com/users/paulbr75-2938186/?utm_source=link-at
 <p>I base my ideas on my experiences as a Chief and Principal Architect at AVIV Group, eBay Classifieds, and Adevinta. In this section, I discuss critical characteristics of the organizational context that have had an impact on my definition of the grounded architecture approach:</p>
 <ul>
   <li><strong>global scale</strong>: operating across multiple countries and continents with millions of users,</li>
-  <li><strong>decentralized, loosely-coupled organizational units</strong>: organizational units have significant autonomy,</li>
   <li><strong>multi-dimensional diversity</strong>: the organizations I worked in were very diverse at all levels, including customer base, workforce, business model, team topologies, technology stacks,</li>
   <li><strong>nonlinear growth dynamics</strong>: in addition to organic growth, big organizations frequently change the portfolio both by mergers and acquisitions of new businesses and as well as by divestments,</li>
-  <li><strong>synergies and transformation pressures</strong>: big organizations do not want just to be bing, they want to exploit the benefits of the economies of scale and reduce duplication of efforts.</li>
+  <li><strong>synergies and transformation pressures</strong>: big organizations do not want just to be bing, they want to exploit the benefits of the economies of scale and reduce duplication of efforts,</li>
+  <li><strong>decentralized, loosely-coupled organizational units</strong>: organizational units have significant autonomy.</li>
 </ul>
 
 <p>In the following sub-sections, I discuss these characteristics in more detail from an architectural viewpoint.</p>
@@ -121,7 +126,13 @@ Image by <a href="https://pixabay.com/users/paulbr75-2938186/?utm_source=link-at
   <li>Thousands of active software developers</li>
   <li>Hundreds of product and development teams</li>
   <li>Hundreds of millions of lines of source code</li>
+  <li>Many geographies, cultures, and languages</li>
 </ul>
+
+<p><img src="assets/images/arch/earth-g217b5730b_1920.jpg" alt="" /></p>
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by <a href="https://pixabay.com/users/thedigitalartist-202249/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2254769">Pete Linforth</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2254769">Pixabay</a>
+</div>
 
 <p>The global scale introduces several compelling opportunities:</p>
 
@@ -148,35 +159,7 @@ Image by <a href="https://pixabay.com/users/paulbr75-2938186/?utm_source=link-at
 <p>Balancing opportunities and challenges on a global scale is one of the most challenging and rewarding aspects of architectural work.</p>
 
 <p><br /></p>
-
-<h2 id="characteristic-2-loose-coupling">Characteristic 2: Loose Coupling</h2>
-
-<p>Researcher Karl Weick developed the concepts of tight and loose coupling to describe the organizational structure first in educational institutions and later applied to diverse businesses. According to Weick, a tightly coupled organization has mutually understood rules enforced by <em>inspection and feedback</em> systems. In tightly coupled organizations, management can more directly coordinate different departments’ activities according to a central strategy.</p>
-
-<p>In a loosely coupled organization, some of the elements of a tightly coupled organization are absent. Employees have more autonomy, and different departments may operate with little coordination.</p>
-
-<p>Due to historical and strategic reasons, most organizational units I worked with were loosely coupled. Our companies frequently grow through acquisitions of companies in different marketplaces. The strategies also continually promoted a more independent evolution of each marketplace to better and faster address local market needs. Marketplaces often have a high level of autonomy, frequently with their development teams and sometimes with local C(P)TOs, CFOs, CMOs, or CEOs.</p>
-
-<p>Loose coupling offers several advantages:</p>
-
-<ul>
-  <li>Higher flexibility: units can keep developing independently, addressing specific needs without synchronizing with other marketplaces.</li>
-  <li>High development speed / faster time-to-market: fewer dependencies make it much easier for marketplaces to change and evolve their products for local needs.</li>
-  <li>Innovation: possibilities to quickly explore ideas in smaller contexts.</li>
-</ul>
-
-<p>Loose coupling also has several challenges:</p>
-
-<ul>
-  <li>Duplication of effort: while local market needs differ, there is frequently a significant overlap in product features and technology. This overlap leads to duplication of effort as each marketplace creates solutions for the same problems.</li>
-  <li>Increased accidental diversity: limited synchronization offers flexibility but may lead to significantly different design choices, making it challenging to consolidate solutions, move people between teams, or benefit from the economy of scale.</li>
-  <li>Limited possibilities for central control: due to fewer dependencies and different goals, it is more difficult to introduce changes across the portfolio.</li>
-</ul>
-
-<p>Loose coupling is architecture-wise challenging as it frequently leads to a conflict between global alignment and control and local autonomy.</p>
-
-<p><br /></p>
-<h2 id="characteristic-3-multi-dimensional-diversity">Characteristic 3: Multi-Dimensional Diversity</h2>
+<h2 id="characteristic-2-multi-dimensional-diversity">Characteristic 2: Multi-Dimensional Diversity</h2>
 
 <p>The organizations I worked on were very diverse across several dimensions:</p>
 
@@ -196,6 +179,11 @@ Image by <a href="https://pixabay.com/users/paulbr75-2938186/?utm_source=link-at
   <li>Diversity of meeting styles</li>
   <li>Diversity of ways of dealing with feedback</li>
 </ul>
+
+<p><img src="assets/images/arch/pictures-g139ff7ebb_1280.jpg" alt="" /></p>
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by <a href="https://pixabay.com/users/simon-3/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=381937">Simon</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=381937">Pixabay</a>
+</div>
 
 <p>The organizations have many units, such as marketplaces (each with its sub-structures), global capabilities, enterprise IT teams, data capabilities, and generic IT infrastructure. In addition to their loose coupling, these organizational units differed in multiple ways:</p>
 
@@ -236,9 +224,15 @@ Image by <a href="https://pixabay.com/users/paulbr75-2938186/?utm_source=link-at
 <p>From an architectural perspective, diversity is an excellent source of new possibilities but comes with changes in controlling complexity.</p>
 
 <p><br /></p>
-<h2 id="characteristic-4-nonlinear-growth-dynamics">Characteristic 4: Nonlinear Growth Dynamics</h2>
+
+<h2 id="characteristic-3-nonlinear-growth-dynamics">Characteristic 3: Nonlinear Growth Dynamics</h2>
 
 <p>Complex organizations like the one I have worked in are frequently very dynamic. Such organizations grow (or shrink) and reorganize often and significantly. They change both organically and inorganically. Organic growth is internal growth the company sees from its operations. Inorganic change comes from buying other businesses, opening new locations, or divesting.</p>
+
+<p><img src="assets/images/arch/blur-g6bc6ee2cc_1920.jpg" alt="" /></p>
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by <a href="https://pixabay.com/users/pexels-2286921/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1853262">Pexels</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1853262">Pixabay</a>
+</div>
 
 <p>Possibilities for nonlinear growth may be helpful in several scenarios:</p>
 
@@ -258,9 +252,14 @@ Image by <a href="https://pixabay.com/users/paulbr75-2938186/?utm_source=link-at
 <p>Non-linear growth dynamics open up many challenges as they can lead to many surprises. And in business <a href="https://www.linkedin.com/pulse/good-surprises-business-clemens-rettich/">there are no good surprises</a>.</p>
 
 <p><br /></p>
-<h2 id="characteristic-5-synergies-and-transformations-pressures">Characteristic 5: Synergies and Transformations Pressures</h2>
+<h2 id="characteristic-4-synergy-and-transformation-pressures">Characteristic 4: Synergy and Transformation Pressures</h2>
 
 <p>Complex organizations do not just grow. Instead, they want to be more efficient and leverage economies of scale, cost synergies, or increase capacity for innovation. Our investors expect us to transform to be more than a sum of our original parts.</p>
+
+<p><img src="assets/images/arch/gears-g06fe4e9a5_1920.jpg" alt="" /></p>
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by <a href="https://pixabay.com/users/mustangjoe-2162920/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1236578">MustangJoe</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1236578">Pixabay</a>
+</div>
 
 <p>Pressure for synergies and transformations can provide several opportunities:</p>
 
@@ -280,7 +279,40 @@ Image by <a href="https://pixabay.com/users/paulbr75-2938186/?utm_source=link-at
   <li>After transformations, the complexity of the organization and technology landscape may increase due to more dependencies, e.g., reusing central services.</li>
 </ul>
 
-<p>Synergies and transformation pressures can lead to high expectations and pressure that complicate regular architecture work.</p>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[The grounded architecture approach has developed in the context of global, loosely coupled organizations that are diverse, with non-linear growth dynamics, and under transformation pressures. The work I present here reflects my experiences as a Chief or Principal Architect at AVIV Group, eBay Classifieds, and Adevinta.]]></summary></entry><entry><title type="html">Requirements</title><link href="http://localhost:4000/requirements" rel="alternate" type="text/html" title="Requirements" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/requirements</id><content type="html" xml:base="http://localhost:4000/requirements"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/stress-gc7a712a2f_1920.jpg" /></p>
+<p>Synergies and transformation pressures can lead to high expectations and pressure that complicate regular architecture work. On a apoitive side, such pressures could create many new opportunities.</p>
+
+<p><br /></p>
+
+<h2 id="characteristic-5-decentralization-and-loose-coupling">Characteristic 5: Decentralization and Loose Coupling</h2>
+
+<p>Researcher Karl Weick developed the concepts of tight and loose coupling to describe the organizational structure first in educational institutions and later applied to diverse businesses. According to Weick, a tightly coupled organization has mutually understood rules enforced by <em>inspection and feedback</em> systems. In tightly coupled organizations, management can more directly coordinate different departments’ activities according to a central strategy.</p>
+
+<p>In a loosely coupled organization, some of the elements of a tightly coupled organization are absent. Employees have more autonomy, and different departments may operate with little coordination.</p>
+
+<p><img src="assets/images/arch/world-trade-center-g707209d17_1920.jpg" alt="" /></p>
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by <a href="https://pixabay.com/users/shire777-19410672/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5889199">Shire777</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5889199">Pixabay</a>
+</div>
+
+<p>Due to historical and strategic reasons, most organizational units I worked with were loosely coupled. Our companies frequently grow through acquisitions of companies in different marketplaces. The strategies also continually promoted a more independent evolution of each marketplace to better and faster address local market needs. Marketplaces often have a high level of autonomy, frequently with their development teams and sometimes with local C(P)TOs, CFOs, CMOs, or CEOs.</p>
+
+<p>Loose coupling offers several advantages:</p>
+
+<ul>
+  <li>Higher flexibility: units can keep developing independently, addressing specific needs without synchronizing with other marketplaces.</li>
+  <li>High development speed / faster time-to-market: fewer dependencies make it much easier for marketplaces to change and evolve their products for local needs.</li>
+  <li>Innovation: possibilities to quickly explore ideas in smaller contexts.</li>
+</ul>
+
+<p>Loose coupling also has several challenges:</p>
+
+<ul>
+  <li>Duplication of effort: while local market needs differ, there is frequently a significant overlap in product features and technology. This overlap leads to duplication of effort as each marketplace creates solutions for the same problems.</li>
+  <li>Increased accidental diversity: limited synchronization offers flexibility but may lead to significantly different design choices, making it challenging to consolidate solutions, move people between teams, or benefit from the economy of scale.</li>
+  <li>Limited possibilities for central control: due to fewer dependencies and different goals, it is more difficult to introduce changes across the portfolio.</li>
+</ul>
+
+<p>Loose coupling is architecture-wise challenging as it frequently leads to a conflict between global alignment and control and local autonomy.</p>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[The grounded architecture approach has developed in the context of global, loosely coupled organizations that are diverse, with non-linear growth dynamics, and under transformation pressures. The work I present here reflects my experiences as a Chief or Principal Architect at AVIV Group, eBay Classifieds, and Adevinta.]]></summary></entry><entry><title type="html">Goals</title><link href="http://localhost:4000/goals" rel="alternate" type="text/html" title="Goals" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/requirements</id><content type="html" xml:base="http://localhost:4000/goals"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/stress-gc7a712a2f_1920.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=7446584">Gerd Altmann</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=7446584">Pixabay</a>
 </div>
@@ -293,15 +325,27 @@ Image by <a href="https://pixabay.com/users/geralt-9301/?utm_source=link-attribu
   </ul>
 </blockquote>
 
-<p>Considering the scale and complexity of the organizational context I operated in, it was apparent that conventional approaches of doing architecture that rely on manual processes need to be revised. More specifically, I identified the following needs that an architecture function should support:</p>
+<p>Considering the scale and complexity of the organizational context I operated in, it was apparent that conventional approaches of doing architecture that rely on manual processes need to be revised. More specifically, I identified the following needs that an architecture function should support.</p>
 
-<ul>
-  <li><strong>Executing At Scale</strong>: we needed to find a way to support hundreds of teams, and thousands of projects, with significant complexity and diversity.</li>
-  <li><strong>Improving Quality of Decision-Making with Data</strong>: intuition does not work at scale; we need tools and mechanisms to make a decision process more data-informed and less dependent on opinions.</li>
-  <li><strong>Maximize Organizational Alignment</strong>: in a global, diverse, fast-moving organization, misalignment is a natural state; the architecture function should be a cohesive factor in minimizing such misalignments.</li>
-  <li><strong>Maximize Organizational Learning</strong>: in complex organizations with lots of effort needed to maintain legacy systems, learning and following new technology developments takes work; architecture should help organizations to learn fast, stay up-to-date with emerging technologies and industry trends and recommend technology upgrades.</li>
-  <li><strong>Adaptivity</strong>: significant organic and inorganic changes are frequent and expected; the architecture function must adapt quickly to stay relevant in a new context.</li>
-</ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[I identified the following needs that an architecture function should support: Executing At Scale, Increasing the Quality of Decision-Making with Data, Maximizing Organizational Alignment & Learning, Higher Adaptivity.]]></summary></entry><entry><title type="html">Grounded Architecture: An Overview</title><link href="http://localhost:4000/grounded-architecture" rel="alternate" type="text/html" title="Grounded Architecture: An Overview" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/grounded-architecture</id><content type="html" xml:base="http://localhost:4000/grounded-architecture"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/buildings-205986_1920.jpg" /></p>
+<h2 id="goal-1-executing-at-scale">Goal 1: Executing At Scale</h2>
+
+<p>we needed to find a way to support hundreds of teams, and thousands of projects, with significant complexity and diversity.</p>
+
+<h2 id="goal-2-increasing-quality-of-decisions-with-data">Goal 2: Increasing Quality of Decisions with Data</h2>
+
+<p>Intuition does not work at scale. We need tools and mechanisms to make a decision process more data-informed and less dependent on opinions.</p>
+
+<h2 id="goal-3-maximizing-organizational-alignment">Goal 3: Maximizing Organizational Alignment</h2>
+
+<p>In a global, diverse, fast-moving organization, misalignment is a natural state. The architecture function should be a cohesive factor in minimizing such misalignments.</p>
+
+<h2 id="goal-4-maximizing-organizational-learning">Goal 4: Maximizing Organizational Learning</h2>
+
+<p>In complex organizations with lots of effort needed to maintain legacy systems, learning and following new technology developments takes work. Architecture should help organizations to learn fast, stay up-to-date with emerging technologies and industry trends and recommend technology upgrades.</p>
+
+<h2 id="goal-5-adaptivity">Goal 5: Adaptivity</h2>
+
+<p>Significant organic and inorganic changes are frequent and expected. The architecture function must adapt quickly to stay relevant in a new context.</p>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[I identified the following needs that an architecture function should support: Executing At Scale, Increasing the Quality of Decision-Making with Data, Maximizing Organizational Alignment & Learning, Higher Adaptivity.]]></summary></entry><entry><title type="html">Grounded Architecture: An Overview</title><link href="http://localhost:4000/grounded-architecture" rel="alternate" type="text/html" title="Grounded Architecture: An Overview" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/grounded-architecture</id><content type="html" xml:base="http://localhost:4000/grounded-architecture"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/buildings-205986_1920.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/ichigo121212-11728/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=205986">Ichigo121212</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=205986">Pixabay</a>
 </div>
@@ -855,4 +899,4 @@ Architects, of course, need to be technically strong. But their unique strengths
 
 <p>Architects need to have a minimal “length” of all of these “legs” to be successful. For instance, having skills and impact without leadership frequently leads to hitting a glass ceiling. Such architects plateau at an intermediate level and cannot lead the company to innovative or transformative solutions. Leadership without impact lacks foundation and may signal that you have become an ivory tower architect with a weak relation to reality.</p>
 
-<p>In all scenarios, it is crucial for an organization that a senior architect mentors junior architects. Feedback cycles in (software) architecture are inherently slow. Mentoring can save new architects many years of learning by doing and making mistakes [Hohpe 2020]. The <a href="people-pillar">People Pillar</a> should create spaces for such coaching and collaborations.</p>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[Architects in IT organizations should develop as “superglue,” people who hold architecture, technical details, business needs, and people together across a large organization or complex projects.]]></summary></entry></feed>
+<p>In all scenarios, it is crucial for an organization that a senior architect mentors junior architects. Feedback cycles in (software) architecture are inherently slow. Mentoring can save new architects many years of learning by doing and making mistakes. The <a href="people-pillar">People Pillar</a> should create spaces for such coaching and collaborations.</p>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[Architects in IT organizations should develop as “superglue,” people who hold architecture, technical details, business needs, and people together across a large organization or complex projects.]]></summary></entry></feed>

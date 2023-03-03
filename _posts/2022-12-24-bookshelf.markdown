@@ -203,11 +203,37 @@ Sokrates can help you understand your code by making visible the size, complexit
 </a>
 </td>
 </tr>
+<tr>
+<td>
+<img src="assets/images/books/staff-engineer.jpeg" class="book">
+</td>
+<td>
+<b>Staff Engineer</b> by Will Larson, defined technical leadership beyond the management track. I share many of the views presented in this book regarding development and skills of architects. 
+</td>
+<td style="font-size: 50%; line-height: 12px; text-align: center">
+<a target="_blank" href="https://staffeng.com/">
+<img src="assets/icons/web.png" class="icon"><div>reading notes</div>
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<img src="assets/images/books/staff-engineer-or.jpg" class="book">
+</td>
+<td>
+<b>The Staff Engineer's Path</b> by Tanya Reilly. Similar to my view of architects the staff engineer's path allows engineers to contribute at a high level as role models, driving big projects, determining technical strategy, and raising everyone's skills.
+</td>
+<td style="font-size: 50%; line-height: 12px; text-align: center">
+<a target="_blank" href="https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/">
+<img src="assets/icons/web.png" class="icon"><div>website</div>
+</a>
+</td>
+</tr>
 </table>
 
 ## Hard Skills
 
-This section is heavily influnced by Gregor Hohpe's article [The Architect’s Path (Part 2 - Bookshelf)](https://architectelevator.com/architecture/architect-bookshelf/)
+This section is heavily influenced by Gregor Hohpe's article [The Architect’s Path (Part 2 - Bookshelf)](https://architectelevator.com/architecture/architect-bookshelf/)
 
 <table>
 <tr>

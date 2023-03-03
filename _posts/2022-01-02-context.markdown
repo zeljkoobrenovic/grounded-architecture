@@ -27,10 +27,10 @@ To better understand any idea or solution, it is crucial to understand the conte
 
 I base my ideas on my experiences as a Chief and Principal Architect at AVIV Group, eBay Classifieds, and Adevinta. In this section, I discuss critical characteristics of the organizational context that have had an impact on my definition of the grounded architecture approach:
 * **global scale**: operating across multiple countries and continents with millions of users,
-* **decentralized, loosely-coupled organizational units**: organizational units have significant autonomy,
 * **multi-dimensional diversity**: the organizations I worked in were very diverse at all levels, including customer base, workforce, business model, team topologies, technology stacks,
 * **nonlinear growth dynamics**: in addition to organic growth, big organizations frequently change the portfolio both by mergers and acquisitions of new businesses and as well as by divestments,
-* **synergies and transformation pressures**: big organizations do not want just to be bing, they want to exploit the benefits of the economies of scale and reduce duplication of efforts.
+* **synergies and transformation pressures**: big organizations do not want just to be bing, they want to exploit the benefits of the economies of scale and reduce duplication of efforts,
+* **decentralized, loosely-coupled organizational units**: organizational units have significant autonomy.
 
 
 In the following sub-sections, I discuss these characteristics in more detail from an architectural viewpoint.
@@ -45,6 +45,12 @@ I was lucky to develop my approach in genuinely global and multicultural organiz
 * Thousands of active software developers
 * Hundreds of product and development teams
 * Hundreds of millions of lines of source code
+* Many geographies, cultures, and languages
+
+![](assets/images/arch/earth-g217b5730b_1920.jpg)
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by <a href="https://pixabay.com/users/thedigitalartist-202249/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2254769">Pete Linforth</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2254769">Pixabay</a>
+</div>
 
 The global scale introduces several compelling opportunities:
 
@@ -68,31 +74,7 @@ The global and massive scale has many challenges:
 Balancing opportunities and challenges on a global scale is one of the most challenging and rewarding aspects of architectural work.
 
 <br>
-
-## Characteristic 2: Loose Coupling
-
-Researcher Karl Weick developed the concepts of tight and loose coupling to describe the organizational structure first in educational institutions and later applied to diverse businesses. According to Weick, a tightly coupled organization has mutually understood rules enforced by *inspection and feedback* systems. In tightly coupled organizations, management can more directly coordinate different departments' activities according to a central strategy.
-
-In a loosely coupled organization, some of the elements of a tightly coupled organization are absent. Employees have more autonomy, and different departments may operate with little coordination.
-
-Due to historical and strategic reasons, most organizational units I worked with were loosely coupled. Our companies frequently grow through acquisitions of companies in different marketplaces. The strategies also continually promoted a more independent evolution of each marketplace to better and faster address local market needs. Marketplaces often have a high level of autonomy, frequently with their development teams and sometimes with local C(P)TOs, CFOs, CMOs, or CEOs.
-
-Loose coupling offers several advantages:
-
-* Higher flexibility: units can keep developing independently, addressing specific needs without synchronizing with other marketplaces.
-* High development speed / faster time-to-market: fewer dependencies make it much easier for marketplaces to change and evolve their products for local needs.
-* Innovation: possibilities to quickly explore ideas in smaller contexts.
-
-Loose coupling also has several challenges:
-
-* Duplication of effort: while local market needs differ, there is frequently a significant overlap in product features and technology. This overlap leads to duplication of effort as each marketplace creates solutions for the same problems.
-* Increased accidental diversity: limited synchronization offers flexibility but may lead to significantly different design choices, making it challenging to consolidate solutions, move people between teams, or benefit from the economy of scale.
-* Limited possibilities for central control: due to fewer dependencies and different goals, it is more difficult to introduce changes across the portfolio.
-
-Loose coupling is architecture-wise challenging as it frequently leads to a conflict between global alignment and control and local autonomy.
-
-<br>
-## Characteristic 3: Multi-Dimensional Diversity
+## Characteristic 2: Multi-Dimensional Diversity
 
 The organizations I worked on were very diverse across several dimensions:
 
@@ -108,6 +90,12 @@ The global and multicultural nature of our context leads to diversity and multip
 * Diversity of organizational styles and hierarchies
 * Diversity of meeting styles
 * Diversity of ways of dealing with feedback
+
+
+![](assets/images/arch/pictures-g139ff7ebb_1280.jpg)
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by <a href="https://pixabay.com/users/simon-3/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=381937">Simon</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=381937">Pixabay</a>
+</div>
 
 The organizations have many units, such as marketplaces (each with its sub-structures), global capabilities, enterprise IT teams, data capabilities, and generic IT infrastructure. In addition to their loose coupling, these organizational units differed in multiple ways:
 
@@ -126,7 +114,6 @@ The systems also employed diverse application technologies, such as:
 * Mobile app programming languages (e.g., Swift, Objective-C, Java, Kotlin, Flutter/Dart...).
 * Frontend programming languages and frameworks (e.g., React, Android, AndroidJS, Vue, jQuery...).
 
-
 From an architectural perspective, diversity offers several opportunities:
 
 * Increasing innovation due to a diverse workforce and possibilities to creatively explore more technologies and tools.
@@ -141,9 +128,17 @@ Diversity also poses several challenges:
 From an architectural perspective, diversity is an excellent source of new possibilities but comes with changes in controlling complexity.
 
 <br>
-## Characteristic 4: Nonlinear Growth Dynamics
+
+## Characteristic 3: Nonlinear Growth Dynamics
 
 Complex organizations like the one I have worked in are frequently very dynamic. Such organizations grow (or shrink) and reorganize often and significantly. They change both organically and inorganically. Organic growth is internal growth the company sees from its operations. Inorganic change comes from buying other businesses, opening new locations, or divesting.
+
+
+![](assets/images/arch/blur-g6bc6ee2cc_1920.jpg)
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by <a href="https://pixabay.com/users/pexels-2286921/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1853262">Pexels</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1853262">Pixabay</a>
+</div>
+
 
 Possibilities for nonlinear growth may be helpful in several scenarios:
 
@@ -159,9 +154,14 @@ Nonlinear dynamics have several influences on architectural activities:
 Non-linear growth dynamics open up many challenges as they can lead to many surprises. And in business [there are no good surprises](https://www.linkedin.com/pulse/good-surprises-business-clemens-rettich/).
 
 <br>
-## Characteristic 5: Synergies and Transformations Pressures
+## Characteristic 4: Synergy and Transformation Pressures
 
 Complex organizations do not just grow. Instead, they want to be more efficient and leverage economies of scale, cost synergies, or increase capacity for innovation. Our investors expect us to transform to be more than a sum of our original parts.
+
+![](assets/images/arch/gears-g06fe4e9a5_1920.jpg)
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by <a href="https://pixabay.com/users/mustangjoe-2162920/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1236578">MustangJoe</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1236578">Pixabay</a>
+</div>
 
 Pressure for synergies and transformations can provide several opportunities:
 
@@ -177,4 +177,34 @@ Pressure to be more synergic and efficient has its challenges:
 * Productivity of some teams may (temporarily) drop due to the need to split effort between transformation activities and other work.
 * After transformations, the complexity of the organization and technology landscape may increase due to more dependencies, e.g., reusing central services.
 
-Synergies and transformation pressures can lead to high expectations and pressure that complicate regular architecture work.
+Synergies and transformation pressures can lead to high expectations and pressure that complicate regular architecture work. On a apoitive side, such pressures could create many new opportunities.
+
+<br>
+
+## Characteristic 5: Decentralization and Loose Coupling
+
+Researcher Karl Weick developed the concepts of tight and loose coupling to describe the organizational structure first in educational institutions and later applied to diverse businesses. According to Weick, a tightly coupled organization has mutually understood rules enforced by *inspection and feedback* systems. In tightly coupled organizations, management can more directly coordinate different departments' activities according to a central strategy.
+
+In a loosely coupled organization, some of the elements of a tightly coupled organization are absent. Employees have more autonomy, and different departments may operate with little coordination.
+
+![](assets/images/arch/world-trade-center-g707209d17_1920.jpg)
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by <a href="https://pixabay.com/users/shire777-19410672/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5889199">Shire777</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5889199">Pixabay</a>
+</div>
+
+
+Due to historical and strategic reasons, most organizational units I worked with were loosely coupled. Our companies frequently grow through acquisitions of companies in different marketplaces. The strategies also continually promoted a more independent evolution of each marketplace to better and faster address local market needs. Marketplaces often have a high level of autonomy, frequently with their development teams and sometimes with local C(P)TOs, CFOs, CMOs, or CEOs.
+
+Loose coupling offers several advantages:
+
+* Higher flexibility: units can keep developing independently, addressing specific needs without synchronizing with other marketplaces.
+* High development speed / faster time-to-market: fewer dependencies make it much easier for marketplaces to change and evolve their products for local needs.
+* Innovation: possibilities to quickly explore ideas in smaller contexts.
+
+Loose coupling also has several challenges:
+
+* Duplication of effort: while local market needs differ, there is frequently a significant overlap in product features and technology. This overlap leads to duplication of effort as each marketplace creates solutions for the same problems.
+* Increased accidental diversity: limited synchronization offers flexibility but may lead to significantly different design choices, making it challenging to consolidate solutions, move people between teams, or benefit from the economy of scale.
+* Limited possibilities for central control: due to fewer dependencies and different goals, it is more difficult to introduce changes across the portfolio.
+
+Loose coupling is architecture-wise challenging as it frequently leads to a conflict between global alignment and control and local autonomy.

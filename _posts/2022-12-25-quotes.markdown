@@ -101,7 +101,7 @@ Architecture is just a collective hunch, a <b>shared hallucination</b>, an asser
 </div>
  
 <div class="quote">
-Architects code, but not to deliver code. Rather, to understand the ramifications of the decisions that they're making.
+<b>Architects code</b>, but not to deliver code. Rather, to understand the ramifications of the decisions that they're making.
 <div class="author">-Gregor Hohpe, Dave Farley</div>
 </div>
 
