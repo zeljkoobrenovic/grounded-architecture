@@ -1,6 +1,6 @@
 ---
 layout: post
-section: "Grounded Architecture"
+section: "Structure"
 title: "People Pillar"
 position: 3005
 date:   2021-10-21 21:12:01 +0100
@@ -87,6 +87,18 @@ Having places and events to connect central and distributed teams is essential. 
 * ad-hoc workshops focusing on some explicit topic
 
 While the central team can provide some essential support, all communities must take the initiative and engage as many people as possible during these events. People should be active receivers of information rather than passive participants to ensure more involvement and commitment.
+
+###  Embracing Diverse Team Structures 
+
+When building architecture guilds and virtual architecture teams, it is essential to acknowledge that organizational units have very diverse structures and sizes. There is no one-fit-all solution about how departments should assign architecture responsibilities. I generally worked on three types of team-architect systems per Gregor Hohpe's view of architects and their teams' relationships (Figure 1). That means that some units have lead architects coordinating or leading multiple teams. We often have cases where an architect was a full-time member of a team working on specific products or other features. I also worked with teams that needed an architect but several senior developers making architectural decisions.
+
+
+![](https://esilva.net/assets/team-architecture-topologies.png)
+***Figure 1:** A model for organizing (local) architects. Credit: [Gregor Hohpe](https://architectelevator.com/architecture/organizing-architecture/).*
+
+In big organization, embracing diversity is a pre-requirements to have any broad impact.
+
+
 
 <br>
 ## Building People Pillar

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Grounded Architecture: An Overview"
-section: "Grounded Architecture"
+section: "Structure"
 position: 3000
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
@@ -9,7 +9,6 @@ permalink: grounded-architecture
 icon: bridge.png
 timetoread: 15 min
 excerpt: "I introduce three elements of Grounded Architecture: The Data Pillar, The People Pillar, The Architecture Activities Platform."
-
 
 ---
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 

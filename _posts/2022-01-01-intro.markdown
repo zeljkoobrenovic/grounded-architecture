@@ -43,11 +43,10 @@ The *[People Pillar](people-pillar)* represents a strong network of people doing
 Lastly, the *[Architecture Activities Platform](activities-platform)* leverages data and people to create a data-informed, deep, and broad impact.
 
 I have identified the following [guiding principles](principles) that can help put the ideas into practice and build the right culture:
-* [Developing Architects as Superglue](superglue),
-* [Being in the Eye of the Storm](storm),
-* [Embracing Diversity, Distribute & Align Decisions](diversity),
-* [Having Flexible Governance](flexible-governance),
-* [Applying Economic Modeling](economics),
+* [Architects as Superglue](superglue),
+* [In the Eye of the Storm](storm),
+* [Flexible Governance](flexible-governance),
+* [Economic Modeling](economics),
 * [Curisity, Doubt, Vision, Scepticism: Architect's Personal Compass](compass), and
 * [Culture Map: Architects' Culture Mindfield Compass](culture).
 

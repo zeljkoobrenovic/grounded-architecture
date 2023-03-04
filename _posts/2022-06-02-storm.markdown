@@ -8,7 +8,7 @@ author: by Željko Obrenović (obren.io)
 permalink: storm
 icon: storm.png
 timetoread: 15 min
-excerpt: "To ensure that organizations maximally benefit from Grounded Architecture, I want architecture always to address one of the most challenging problems our organization faces: a tension between technology, product, organization, and business functions"
+excerpt: "To ensure that organizations maximally benefit from Grounded Architecture, I want architecture always to address one of the most challenging problems our organization faces: a tension between technology, product, organization, and business functions."
 
 ---
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 

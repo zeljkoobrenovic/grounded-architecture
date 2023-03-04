@@ -1,7 +1,7 @@
 ---
 layout: post
 section: "Guiding Principles"
-title: "Culture Map: Architects' Culture Mindfield Compass"
+title: "The Culture Map: Architects' Culture Mindfield Compass"
 position: 6008
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)

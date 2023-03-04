@@ -1,6 +1,6 @@
 ---
 layout: post
-section: "Grounded Architecture"
+section: "Structure"
 title: "Architecture Activities Platform"
 position: 3006
 date:   2021-10-21 21:12:01 +0100
@@ -71,4 +71,19 @@ A common operating model I typically use for Grounded Architecture activities is
 * Architects then spend their time in **constant motion** between supporting teams' **daily work** and working on **strategic topics**, helping the organization achieve alignment between strategy and implementation.
 
 
+### Distributing Decisions
 
+With proposed operating model, I aimed to keep architectural decision-making distributed across the organization and embedded in the development teams. Development teams traditionally have the best insights and most information relevant for making a decision. 
+
+As noted by Gregor Hohpe, the worst case of organizational decision-making happens when people with relevant information are not allowed to make decisions, while people who lack sufficient information make all decisions. Grounded architecture aims to make relevant information more readily available to a broader audience and better connect people when making decisions.
+
+### Autonomy and Alignment 
+
+While I aim to create a mechanism to give teams autonomy, autonomy does not mean that teams are alone and do not align with anyone, do not get feedback from anyone, and do whatever they want. Autonomy needs to be complemented with high transparency and proactivity in alignment with other teams. 
+
+I have sometimes implemented the concept of a **decision pyramid** to give maximal autonomy to the teams while maintaining a **minimal** level of global **alignment and compatibility** (Figure 1).
+
+![](assets/images/arch/decision-pyramid.jpg)
+***Figure 1:** A decision pyramid. Most of decisions should be made by the development teams. However, several strategic and domain-level decisions may provide a decision boundaries for teams (e.g., cloud provider).*
+
+Development teams should make most of the decisions. However, several strategic and domain-level choices may provide team decision boundaries. For example, selecting the public cloud provider is typically a CTO-level strategic decision. Similarly, domain engineering leaders may want to limit some choices, such as the number of programming languages, to more easily train new people, maintain code, and support moves between teams.

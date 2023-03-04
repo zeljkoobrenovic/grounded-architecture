@@ -19,10 +19,9 @@ Image by <a href="https://pixabay.com/users/darksouls1-2189876/?utm_source=link-
 
 The following guiding principles have helped me make grounded architecture more effective:
 
-* [Developing Architects as Superglue](superglue),
-* [Being in the Eye of the Storm](storm),
-* [Embracing Diversity, Distribute & Align Decisions](diversity),
-* [Having Flexible Governance](flexible-governance),
-* [Applying Economic Modeling](economics),
-* [Curisity, Doubt, Vision, Scepticism: Architect's Personal Compass](compass), and
-* [Culture Map: Architects' Culture Mindfield Compass](culture).
+* **[Architects as Superglue](superglue)**: architects in IT organizations should develop as “superglue,” people who hold architecture, technical details, business needs, and people together across a large organization or complex projects.
+* **[In the Eye of the Storm](storm)**: I want architecture always to address one of the most challenging problems our organization faces: a tension between technology, product, organization, and business functions.
+* **[Flexible Governance](flexible-governance)**: I tried to prevent a simplistic view of architecture as defining directives for the rest of the organization. I promote a technology governance model as a well-balanced hybrid of three different styles of governing: mandates and bans, taxes, and leading by context (nudge).
+* **[Economic Modeling](economics)**: I sketch two answers to the question of the economic value of technology investments and architecture: the return on investment metaphor, and the financial options metaphor.
+* **[Curisity, Doubt, Vision, Scepticism: Architect's Personal Compass](compass)**: Architecture work can be being driven by four main motivators: Curiosity, where we follow our strong interests and desires to learn new things; Doubt, where we want to obtain deeper and more certain understanding; Belief and vision, where we set or follow vision and ideals; and Skepticism, where we question the possibility of reaching some goals.
+* **[Culture Map: Architects' Culture Mindfield Compass](culture)**: In multinational organizations, architects will need to work with many different cultures. I have found the work of Erin Meyer, The Culture Map, to be a very helpful tool for architects to work harmoniously with people from a broad array of different cultures and backgrounds.
