@@ -59,9 +59,9 @@ A typical skillset of an architects includes:
 
 * **Technical skills**, including extensive knowledge of engineering processes, structural design, and system optimization, both for new technology and legacy technology stacks.
 * **Communication skills**, written, verbal (presentation), and listening skills.
-* **Networking and collaboration skills**, including partnering with others, peers, more junior and senior people, managers and excutives.
-* **Organizational** and **time management skills**.
-* **Analytical, strategic thinking, and problem-solving skills**.
+* **Networking and collaboration skills**, including partnering with others, including peers, more junior and senior people, managers and excutives.
+* **Organizational** and **time management skills**, including prioritization, goal-setting, task management, delegation.
+* **Analytical, strategic thinking, and problem-solving skills**, such us finding and developing unique opportunities, to create value within an organization.
 
 <br>
 ### Impact 
