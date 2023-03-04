@@ -69,11 +69,12 @@ A typical skillset of an architects includes:
 Impact should be measured as a benefit for the business. Architects need to ensure that what they are doing profits the business. New architects start as students or trainees having skills but little impact. But sooner than later, fresh architects need to get out into the world and make an impact. Architects that do not make an impact do not have a place in a for-profit business.
 
 Examples of such impact may include:
-* **Process** optimizations and improvements,
-* **Cost** optimizations of systems,
-* Developing pragmatic **technology strategies**, 
-* Driving **delivery of products**, 
-* Supporting **business innovation**. 
+* **Aligning** business, product, technology and organizatinal strategies (see the [next section](storm) for more details),
+* **Process** optimizations and improvements, with real measurable impact on work of an organization,
+* **Cost** optimizations of systems, based on data informed decisions,
+* Developing pragmatic **technology strategies**, helping business reach goals in a sustainable way,
+* Driving **delivery of products**, supporting teams to increase quality and speed of delivery,
+* Supporting **business innovation**, bringing new ideas in a pragmatic way aligned with business strategy and goals.
 
 <br>
 ### Though Leadership
@@ -86,9 +87,13 @@ Thought leadership acknowledges that experienced architects should do more than 
 * Starting **initiatives**, and 
 * Driving strategic **decisions**.
 
+It is crucial for an organization that a senior architect mentors junior architects. Feedback cycles in (software) architecture are inherently slow. Mentoring can save new architects many years of learning by doing and making mistakes. The [People Pillar](people-pillar) should create spaces for such coaching and collaborations.
+
 <br>
 ### Balanced Development
 
-Architects need to have a minimal "length" of all of these "legs" to be successful. For instance, having skills and impact without leadership frequently leads to hitting a glass ceiling. Such architects plateau at an intermediate level and cannot lead the company to innovative or transformative solutions. Leadership without impact lacks foundation and may signal that you have become an ivory tower architect with a weak relation to reality.
+Architects need to have a minimal "length" of all of these "legs" to be successful (Figure 3). For instance, having skills and impact without leadership frequently leads to hitting a glass ceiling. Such architects plateau at an intermediate level and cannot lead the company to innovative or transformative solutions. Leadership without impact lacks foundation and may signal that you have become an ivory tower architect with a weak relation to reality. And having impact and leadership qualities but no skills leads to impractical decisions not informed by in-depth knowledge.
 
-In all scenarios, it is crucial for an organization that a senior architect mentors junior architects. Feedback cycles in (software) architecture are inherently slow. Mentoring can save new architects many years of learning by doing and making mistakes. The [People Pillar](people-pillar) should create spaces for such coaching and collaborations.
+![](assets/images/arch/architect-legs.png)
+***Figure 3:** Architects need to have a minimal "length" of all of these "legs" to be successful.*
+

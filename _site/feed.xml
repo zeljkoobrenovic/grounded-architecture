@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-03-03T23:13:26+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: The Chief Architect’s Playbook</title><subtitle></subtitle><entry><title type="html">Favorite Quotes</title><link href="http://localhost:4000/background" rel="alternate" type="text/html" title="Favorite Quotes" /><published>2021-10-25T22:12:01+02:00</published><updated>2021-10-25T22:12:01+02:00</updated><id>http://localhost:4000/quotes</id><content type="html" xml:base="http://localhost:4000/background"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/books-g1b2675255_1920.jpg" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-03-04T09:39:39+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: The Chief Architect’s Playbook</title><subtitle></subtitle><entry><title type="html">Favorite Quotes</title><link href="http://localhost:4000/background" rel="alternate" type="text/html" title="Favorite Quotes" /><published>2021-10-25T22:12:01+02:00</published><updated>2021-10-25T22:12:01+02:00</updated><id>http://localhost:4000/quotes</id><content type="html" xml:base="http://localhost:4000/background"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/books-g1b2675255_1920.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/prettysleepy-2973588/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5430104">Amy</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5430104">Pixabay</a>
 </div>
@@ -907,11 +907,12 @@ Image by <a href="https://pixabay.com/users/darksouls1-2189876/?utm_source=link-
 
 <p>Examples of such impact may include:</p>
 <ul>
-  <li><strong>Process</strong> optimizations and improvements,</li>
-  <li><strong>Cost</strong> optimizations of systems,</li>
-  <li>Developing pragmatic <strong>technology strategies</strong>,</li>
-  <li>Driving <strong>delivery of products</strong>,</li>
-  <li>Supporting <strong>business innovation</strong>.</li>
+  <li><strong>Aligning</strong> business, product, technology and organizatinal strategies (see the <a href="storm">next section</a> for more details),</li>
+  <li><strong>Process</strong> optimizations and improvements, with real measurable impact on work of an organization,</li>
+  <li><strong>Cost</strong> optimizations of systems, based on data informed decisions,</li>
+  <li>Developing pragmatic <strong>technology strategies</strong>, helping business reach goals in a sustainable way,</li>
+  <li>Driving <strong>delivery of products</strong>, supporting teams to increase quality and speed of delivery,</li>
+  <li>Supporting <strong>business innovation</strong>, bringing new ideas in a pragmatic way aligned with business strategy and goals.</li>
 </ul>
 
 <p><br /></p>
@@ -927,9 +928,12 @@ Image by <a href="https://pixabay.com/users/darksouls1-2189876/?utm_source=link-
   <li>Driving strategic <strong>decisions</strong>.</li>
 </ul>
 
+<p>It is crucial for an organization that a senior architect mentors junior architects. Feedback cycles in (software) architecture are inherently slow. Mentoring can save new architects many years of learning by doing and making mistakes. The <a href="people-pillar">People Pillar</a> should create spaces for such coaching and collaborations.</p>
+
 <p><br /></p>
 <h3 id="balanced-development">Balanced Development</h3>
 
-<p>Architects need to have a minimal “length” of all of these “legs” to be successful. For instance, having skills and impact without leadership frequently leads to hitting a glass ceiling. Such architects plateau at an intermediate level and cannot lead the company to innovative or transformative solutions. Leadership without impact lacks foundation and may signal that you have become an ivory tower architect with a weak relation to reality.</p>
+<p>Architects need to have a minimal “length” of all of these “legs” to be successful (Figure 3). For instance, having skills and impact without leadership frequently leads to hitting a glass ceiling. Such architects plateau at an intermediate level and cannot lead the company to innovative or transformative solutions. Leadership without impact lacks foundation and may signal that you have become an ivory tower architect with a weak relation to reality. And having impact and leadership qualities but no skills leads to impractical decisions not informed by in-depth knowledge.</p>
 
-<p>In all scenarios, it is crucial for an organization that a senior architect mentors junior architects. Feedback cycles in (software) architecture are inherently slow. Mentoring can save new architects many years of learning by doing and making mistakes. The <a href="people-pillar">People Pillar</a> should create spaces for such coaching and collaborations.</p>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[Architects in IT organizations should develop as “superglue,” people who hold architecture, technical details, business needs, and people together across a large organization or complex projects.]]></summary></entry></feed>
+<p><img src="assets/images/arch/architect-legs.png" alt="" />
+<em><strong>Figure 3:</strong> Architects need to have a minimal “length” of all of these “legs” to be successful.</em></p>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[Architects in IT organizations should develop as “superglue,” people who hold architecture, technical details, business needs, and people together across a large organization or complex projects.]]></summary></entry></feed>
