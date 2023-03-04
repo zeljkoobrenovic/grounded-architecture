@@ -42,7 +42,7 @@ Based on surveys and interviews, the Culture Map shows positions along these eig
 <br>
 ## 1. Communicating
 
-Architects need to be good communicators. But what do we mean when saying someone is a good communicator? The responses differ wildly from society to society. 
+Architects need to be [good communicators](https://architectelevator.com/strategy/complex-topics-stick/). But what do we mean when saying someone is a good communicator? The responses differ wildly from society to society. 
 
 <img src="assets/images/culturemap/presenting.jpg" style="width: 100%">
 <div style="text-align: center; font-size: 70%; color: grey; margin-bottom: 12px; margin-top: -12px;">Credit: Getty Images.</div>
@@ -53,6 +53,8 @@ Meyer compares cultures along the Communicating scale by measuring the degree to
 In low-context cultures, good communication is precise, simple, explicit, and clear. People take messages at face value. Repetition, clarification, and putting messages in writing are appreciated. 
 
 In high-context cultures, communication is sophisticated, nuanced, and layered. Statements are often not plainly stated but implied. People put less in writing, more is left open to interpretation, and understanding may depend on reading between the lines.
+
+Architects should be able to understand and adapt to different communication styles. But when communicating, they should be able to provide low-context explanations to diverse audiences. They are bridging different cultures and domains (technology, business, domain, organization).
 
 <img src="assets/images/culturemap/communication.jpg" style="">
 <div style="text-align: center; font-size: 70%; color: grey; margin-bottom: 12px">Countries on the Communicating scale. Source: Erin Meyer.</div>
