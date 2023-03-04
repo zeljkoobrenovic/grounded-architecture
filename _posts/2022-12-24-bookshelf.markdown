@@ -209,8 +209,28 @@ Sokrates can help you understand your code by making visible the size, complexit
 <b>Dare To Lead</b> by Brené Brown, defines a leader as anyone who takes responsibility for finding the potential in people and processes and has the courage to develop that potential.
 </td>
 <td style="font-size: 50%; line-height: 12px; text-align: center">
+<a target="_blank" href="https://brenebrown.com/hubs/dare-to-lead/">
+<img src="assets/icons/site.png" class="icon"><div>website</div>
+</a>
 <a target="_blank" href="https://obren.io/tools/reading-notes-pro/notes/Dare%20to%20Lead_%20Brave%20Work_%20Tough%20Conversations_%20Whole%20%20Hearts_-Notebook.pdf">
 <img src="assets/icons/notes.png" class="icon"><div>reading notes</div>
+</a>
+</td>
+</tr>
+<tr>
+<td class="icon-container">
+<img src="assets/images/books/sowhat.webp" class="book">
+</td>
+<td>
+<b>The So What Strategy</b> by Davina Stanley and Gerard Castles. Any architect has been caught at the end of a presentation when thier audience, perhaps a leadership team or a Steering Committee, looks at them blankly and asks this most uncomfortable question: ‘So what?' How does that help? The book provides a pragmatic approach to answer that question in one single, powerful sentence. Or how to set yourself up so nobody asks it.
+                                                  
+</td>
+<td style="font-size: 50%; line-height: 12px; text-align: center">
+<a target="_blank" href="https://www.sowhatstrategy.com/">
+<img src="assets/icons/web.png" class="icon"><div>website</div>
+</a>
+<a target="_blank" href="https://obren.io/tools/sowhat/">
+<img src="assets/icons/web.png" class="icon"><div>tool</div>
 </a>
 </td>
 </tr>
