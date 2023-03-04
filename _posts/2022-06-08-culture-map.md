@@ -22,7 +22,7 @@ Image by <a href="https://pixabay.com/users/mailanmaik-4340251/?utm_source=link-
 > * Meyer’s model contains eight scales, each representing a key area, showing how cultures vary from extreme to extreme: Communicating, Evaluating, Persuading, Leading, Deciding, Trusting, Disagreeing, and Scheduling.
 
 
-In multinational organizations, architects will need to work with many different cultures. I have found the work of Erin Meyer, The Culture Map, to be a very helpful tool for architects to work harmoniously with people from a broad array of different cultures and backgrounds.
+In multinational organizations, architects will need to work with many different cultures. I have found the work of Erin Meyer, The Culture Map, to be a beneficial tool for architects to work harmoniously with people from a broad array of different cultures and backgrounds. Awareness of cultural differences is even more important for architects, as they are bridging diverse cultures and domains (technology, business, domain, organization).
 
 Meyer’s model contains eight scales, each representing a key area, showing how cultures vary from extreme to extreme. The eight scales describe a continuum between the two ends which are diametric opposite or competing positions:
 
@@ -54,7 +54,7 @@ In low-context cultures, good communication is precise, simple, explicit, and cl
 
 In high-context cultures, communication is sophisticated, nuanced, and layered. Statements are often not plainly stated but implied. People put less in writing, more is left open to interpretation, and understanding may depend on reading between the lines.
 
-Architects should be able to understand and adapt to different communication styles. But when communicating, they should be able to provide low-context explanations to diverse audiences. They are bridging different cultures and domains (technology, business, domain, organization).
+Architects should be able to understand and adapt to different communication styles. But when communicating, they should be able to provide low-context explanations to diverse audiences (culture sensitive and buzzword free).
 
 <img src="assets/images/culturemap/communication.jpg" style="">
 <div style="text-align: center; font-size: 70%; color: grey; margin-bottom: 12px">Countries on the Communicating scale. Source: Erin Meyer.</div>
