@@ -1,7 +1,7 @@
 ---
 layout: post
 section: "Structure"
-title: "Value of Grounded Architecture: Addressing the Requirements"
+title: "Value of Grounded Architecture"
 position: 3009
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
@@ -29,7 +29,7 @@ When Grounded Architecture is in place, it can have a significant positive impac
 * Maximize Organizational Learning, and
 * Increase Architecture Function Adaptivity,
 
-The following sections elaborate on these categories in line with the [requirements](requirements).
+The following sections elaborate on these categories in line with the [goals](goals).
 
 <br>
 ## Executing at Scale
