@@ -57,7 +57,7 @@ Architects have to have proper skill sets. By skills, I mean possessing knowledg
 
 A typical skillset of an architects includes (I provide links to some of my [tools](https://obren.io/tools) I found useful for obtaining these skills):
 
-* **Hard (Technical) skills**, including extensive knowledge of (for both [new technology and legacy technology stacks](https://obren.io/tools?tag=technologies)):
+* **Hard (technical) skills**, including extensive knowledge of (for both [new technology and legacy technology stacks](https://obren.io/tools?tag=technologies)):
     * [Engineering **processes**](https://obren.io/tools/catalogs/?id=design-tactics-high-performing-technology-organizations), 
     * [**Design patterns**](https://obren.io/tools?tag=design_patterns) and [**tactics**](https://obren.io/tools?tag=design_tactics),  
     * [**Security and privacy**](https://obren.io/tools?tag=security) by design,
@@ -71,6 +71,8 @@ A typical skillset of an architects includes (I provide links to some of my [too
     * [**Networking and collaboration skills**](https://obren.io/tools?tag=leadership), including partnering with others, including peers, more junior and senior people, managers and excutives.
     * [**Organizational** and **time management skills**](https://obren.io/tools?tag=reflect), including prioritization, goal-setting, task management, delegation.
     * **[Analytical, strategic thinking, and problem-solving skills](https://obren.io/tools?tag=it)**, such us finding and developing unique opportunities, to create value within an organization.
+
+* **Domain knowledge**, it is impossible to be successful as architect without deep understanding of [business domains](https://obren.io/tools?tag=domain_models) of the organization. 
 
 <br>
 ### Impact 
