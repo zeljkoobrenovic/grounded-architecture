@@ -39,7 +39,7 @@ From discussions I've had with our technology leaders, engineers, and architects
 IT organizations need persons who look broader, linking architecture, technical details, business needs, and people together. These persons may not necessarily have a title of an architect. But they must have good working relationships with developer teams and the local business stakeholders and functions. Simultaneously, such a person is well-connected with the internal communities and has external visibility. They promote what we are doing, and on the other hand, they bring back ideas from the outside.
 
 <br>
-## Superglue Skills
+## Superglue Abilities
 
 Setting the architects' goals to be "superglue" also requires some thought on developing architects as a superglue. Borrowing from Gregor Hohpe's view on architect development from his book Software Architecture Elevator, I share the view that our architects should stand on three legs:
 
@@ -72,7 +72,8 @@ A typical skillset of an architects includes (I provide links to some of my [too
     * [**Organizational** and **time management skills**](https://obren.io/tools?tag=reflect), including prioritization, goal-setting, task management, delegation.
     * **[Analytical, strategic thinking, and problem-solving skills](https://obren.io/tools?tag=it)**, such us finding and developing unique opportunities, to create value within an organization.
 
-* **Domain knowledge**, it is impossible to be successful as architect without deep understanding of [business domains](https://obren.io/tools?tag=domain_models) of the organization. 
+* **Domain knowledge**:
+    * It is impossible to be successful as architect without deep understanding of [**business domains**](https://obren.io/tools?tag=domain_models) of the organization. 
 
 <br>
 ### Impact 

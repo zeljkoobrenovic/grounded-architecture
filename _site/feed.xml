@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-03-05T17:26:23+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: The Chief Architect’s Playbook</title><subtitle></subtitle><entry><title type="html">Favorite Quotes</title><link href="http://localhost:4000/background" rel="alternate" type="text/html" title="Favorite Quotes" /><published>2021-10-25T22:12:01+02:00</published><updated>2021-10-25T22:12:01+02:00</updated><id>http://localhost:4000/quotes</id><content type="html" xml:base="http://localhost:4000/background"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/books-g1b2675255_1920.jpg" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-03-05T17:30:02+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: The Chief Architect’s Playbook</title><subtitle></subtitle><entry><title type="html">Favorite Quotes</title><link href="http://localhost:4000/background" rel="alternate" type="text/html" title="Favorite Quotes" /><published>2021-10-25T22:12:01+02:00</published><updated>2021-10-25T22:12:01+02:00</updated><id>http://localhost:4000/quotes</id><content type="html" xml:base="http://localhost:4000/background"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/books-g1b2675255_1920.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/prettysleepy-2973588/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5430104">Amy</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5430104">Pixabay</a>
 </div>
@@ -897,7 +897,7 @@ Image by <a href="https://pixabay.com/users/darksouls1-2189876/?utm_source=link-
 <p>IT organizations need persons who look broader, linking architecture, technical details, business needs, and people together. These persons may not necessarily have a title of an architect. But they must have good working relationships with developer teams and the local business stakeholders and functions. Simultaneously, such a person is well-connected with the internal communities and has external visibility. They promote what we are doing, and on the other hand, they bring back ideas from the outside.</p>
 
 <p><br /></p>
-<h2 id="superglue-skills">Superglue Skills</h2>
+<h2 id="superglue-abilities">Superglue Abilities</h2>
 
 <p>Setting the architects’ goals to be “superglue” also requires some thought on developing architects as a superglue. Borrowing from Gregor Hohpe’s view on architect development from his book Software Architecture Elevator, I share the view that our architects should stand on three legs:</p>
 
@@ -937,7 +937,11 @@ Image by <a href="https://pixabay.com/users/darksouls1-2189876/?utm_source=link-
       <li><strong><a href="https://obren.io/tools?tag=it">Analytical, strategic thinking, and problem-solving skills</a></strong>, such us finding and developing unique opportunities, to create value within an organization.</li>
     </ul>
   </li>
-  <li><strong>Domain knowledge</strong>, it is impossible to be successful as architect without deep understanding of <a href="https://obren.io/tools?tag=domain_models">business domains</a> of the organization.</li>
+  <li><strong>Domain knowledge</strong>:
+    <ul>
+      <li>It is impossible to be successful as architect without deep understanding of <a href="https://obren.io/tools?tag=domain_models"><strong>business domains</strong></a> of the organization.</li>
+    </ul>
+  </li>
 </ul>
 
 <p><br /></p>
