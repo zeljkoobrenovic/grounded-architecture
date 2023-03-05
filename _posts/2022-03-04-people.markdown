@@ -52,11 +52,11 @@ Today, modern agile organizations mainly adopt the federated model. This approac
 <br>
 ## The Hybrid Model
 
-To operate in a complex context, you need to invested effort to ensure we have the right people at the right places. In the end, I usually found in best to adopted model of a hybrid organization combining elements of central and federated orientation structures:
+To operate in a complex context, you need to invested effort to ensure we have the right people at the right places. In the end, I usually found it best to adopted model of a hybrid organization combining elements of central and federated orientation structures:
 * Central Architectural Teams, and
 * Architecture Guilds & Virtual Architectural Teams.
 
-Our hybrid team structure supported well our goals of being able to execute at scale. Guilds and virtual architecture teams supported execution by increasing the number of people involved in architectural activities and increasing the efficiency of our work through better alignment. By having members representing various organizational units, we were able to have much more impact across the board. And having some capacity on the central level serves as a catalyst helping people at local levels to do their job while being aligned and better connected with overall strategic goals and other teams working on similar topics.
+The hybrid team structure supported well our [goals](goals) of being able to execute at scale. Guilds and virtual architecture teams supported execution by increasing the number of people involved in architectural activities and increasing the efficiency of work through better alignment. By having members representing various organizational units, we were able to have much more impact across the board. And having some capacity on the central level serves as a catalyst helping people at local levels to do their job while being aligned and better connected with overall strategic goals and other teams working on similar topics.
 
 ### Central Architecture Team
 
