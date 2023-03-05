@@ -55,13 +55,22 @@ Setting the architects' goals to be "superglue" also requires some thought on de
 
 Architects have to have proper skill sets. By skills, I mean possessing knowledge and the ability to apply relevant knowledge in practice. These skills should include both technical (e.g., cloud architecture or Kubernetes technology) as well as communication and influence skills.
 
-A typical skillset of an architects includes:
+A typical skillset of an architects includes (I provide links to some of my [tools](https://obren.io/tools) I found useful for obtaining these skills):
 
-* **Technical skills**, including extensive knowledge of engineering processes, structural design, and system optimization, both for new technology and legacy technology stacks.
-* **Communication skills**, written, verbal (presentation), and listening skills.
-* **Networking and collaboration skills**, including partnering with others, including peers, more junior and senior people, managers and excutives.
-* **Organizational** and **time management skills**, including prioritization, goal-setting, task management, delegation.
-* **Analytical, strategic thinking, and problem-solving skills**, such us finding and developing unique opportunities, to create value within an organization.
+* **Hard (Technical) skills**, including extensive knowledge of (for both [new technology and legacy technology stacks](https://obren.io/tools?tag=technologies)):
+    * [Engineering **processes**](https://obren.io/tools/catalogs/?id=design-tactics-high-performing-technology-organizations), 
+    * [**Design patterns**](https://obren.io/tools?tag=design_patterns) and [**tactics**](https://obren.io/tools?tag=design_tactics),  
+    * [**Security and privacy**](https://obren.io/tools?tag=security) by design,
+    * [System **optimizations**](https://obren.io/tools/catalogs/?id=design-tactics-sig-performance),
+    * [ **Source code** structures and maintainability](https://obren.io/tools/catalogs/?id=design-tactics-sig-maintainability),
+    * [**Reliability and stability** (anti)patterns](https://obren.io/tools/catalogs/?id=releaseit-stability-awareness) and [tactics](https://obren.io/tools/catalogs/?id=releaseit-stability-tactics),
+    * [**Usability**](https://obren.io/tools?q=usability).
+
+* **Soft skills**:
+    * [**Communication skills**](https://obren.io/tools?tag=consultancy), [written](https://obren.io/tools/sowhat/), [visual](https://obren.io/tools?tag=visuals), verbal (presentation), and listening skills.
+    * [**Networking and collaboration skills**](https://obren.io/tools?tag=leadership), including partnering with others, including peers, more junior and senior people, managers and excutives.
+    * [**Organizational** and **time management skills**](https://obren.io/tools?tag=reflect), including prioritization, goal-setting, task management, delegation.
+    * **[Analytical, strategic thinking, and problem-solving skills](https://obren.io/tools?tag=it)**, such us finding and developing unique opportunities, to create value within an organization.
 
 <br>
 ### Impact 

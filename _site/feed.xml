@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-03-04T23:24:54+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: The Chief Architect’s Playbook</title><subtitle></subtitle><entry><title type="html">Favorite Quotes</title><link href="http://localhost:4000/background" rel="alternate" type="text/html" title="Favorite Quotes" /><published>2021-10-25T22:12:01+02:00</published><updated>2021-10-25T22:12:01+02:00</updated><id>http://localhost:4000/quotes</id><content type="html" xml:base="http://localhost:4000/background"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/books-g1b2675255_1920.jpg" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-03-05T13:47:15+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: The Chief Architect’s Playbook</title><subtitle></subtitle><entry><title type="html">Favorite Quotes</title><link href="http://localhost:4000/background" rel="alternate" type="text/html" title="Favorite Quotes" /><published>2021-10-25T22:12:01+02:00</published><updated>2021-10-25T22:12:01+02:00</updated><id>http://localhost:4000/quotes</id><content type="html" xml:base="http://localhost:4000/background"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/books-g1b2675255_1920.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/prettysleepy-2973588/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5430104">Amy</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5430104">Pixabay</a>
 </div>
@@ -915,14 +915,28 @@ Image by <a href="https://pixabay.com/users/darksouls1-2189876/?utm_source=link-
 
 <p>Architects have to have proper skill sets. By skills, I mean possessing knowledge and the ability to apply relevant knowledge in practice. These skills should include both technical (e.g., cloud architecture or Kubernetes technology) as well as communication and influence skills.</p>
 
-<p>A typical skillset of an architects includes:</p>
+<p>A typical skillset of an architects includes (I provide links to some of my <a href="https://obren.io/tools">tools</a> I found useful for obtaining these skills):</p>
 
 <ul>
-  <li><strong>Technical skills</strong>, including extensive knowledge of engineering processes, structural design, and system optimization, both for new technology and legacy technology stacks.</li>
-  <li><strong>Communication skills</strong>, written, verbal (presentation), and listening skills.</li>
-  <li><strong>Networking and collaboration skills</strong>, including partnering with others, including peers, more junior and senior people, managers and excutives.</li>
-  <li><strong>Organizational</strong> and <strong>time management skills</strong>, including prioritization, goal-setting, task management, delegation.</li>
-  <li><strong>Analytical, strategic thinking, and problem-solving skills</strong>, such us finding and developing unique opportunities, to create value within an organization.</li>
+  <li><strong>Hard (Technical) skills</strong>, including extensive knowledge of (for both <a href="https://obren.io/tools?tag=technologies">new technology and legacy technology stacks</a>):
+    <ul>
+      <li><a href="https://obren.io/tools/catalogs/?id=design-tactics-high-performing-technology-organizations">Engineering <strong>processes</strong></a>,</li>
+      <li><a href="https://obren.io/tools?tag=design_patterns"><strong>Design patterns</strong></a> and <a href="https://obren.io/tools?tag=design_tactics"><strong>tactics</strong></a>,</li>
+      <li><a href="https://obren.io/tools?tag=security"><strong>Security and privacy</strong></a> by design,</li>
+      <li><a href="https://obren.io/tools/catalogs/?id=design-tactics-sig-performance">System <strong>optimizations</strong></a>,</li>
+      <li><a href="https://obren.io/tools/catalogs/?id=design-tactics-sig-maintainability"> <strong>Source code</strong> structures and maintainability</a>,</li>
+      <li><a href="https://obren.io/tools/catalogs/?id=releaseit-stability-awareness"><strong>Reliability and stability</strong> (anti)patterns</a> and <a href="https://obren.io/tools/catalogs/?id=releaseit-stability-tactics">tactics</a>,</li>
+      <li><a href="https://obren.io/tools?q=usability"><strong>Usability</strong></a>.</li>
+    </ul>
+  </li>
+  <li><strong>Soft skills</strong>:
+    <ul>
+      <li><a href="https://obren.io/tools?tag=consultancy"><strong>Communication skills</strong></a>, <a href="https://obren.io/tools/sowhat/">written</a>, <a href="https://obren.io/tools?tag=visuals">visual</a>, verbal (presentation), and listening skills.</li>
+      <li><a href="https://obren.io/tools?tag=leadership"><strong>Networking and collaboration skills</strong></a>, including partnering with others, including peers, more junior and senior people, managers and excutives.</li>
+      <li><a href="https://obren.io/tools?tag=reflect"><strong>Organizational</strong> and <strong>time management skills</strong></a>, including prioritization, goal-setting, task management, delegation.</li>
+      <li><strong><a href="https://obren.io/tools?tag=it">Analytical, strategic thinking, and problem-solving skills</a></strong>, such us finding and developing unique opportunities, to create value within an organization.</li>
+    </ul>
+  </li>
 </ul>
 
 <p><br /></p>
