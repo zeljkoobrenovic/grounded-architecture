@@ -546,6 +546,19 @@ transactions, event logs, and much more.
 </a>
 </td>
 </tr>
+<tr>
+<td class="icon-container">
+<img src="assets/images/books/do-not-make-me-think.webp" class="book">
+</td>
+<td>
+<b>Don't make me think, revisited: a common sense approach to Web usability</b> by Steve Krug provides a practical guide for understanding web usability and user experience.
+</td>
+<td style="font-size: 50%; line-height: 12px; text-align: center">
+<a target="_blank" href="https://www.smallbizgeek.co.uk/dont-make-me-think-revisited-steve-krug-book-review/">
+<img src="assets/icons/notes.png" class="icon"><div>review</div>
+</a>
+</td>
+</tr>
 </table>
 
 
