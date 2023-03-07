@@ -179,7 +179,8 @@ Sokrates can help you understand your code by making visible the size, complexit
 <img src="assets/images/books/six-simple-rules.webp" class="book" style="border: 1px solid lightgrey">
 </td>
 <td>
-<b>Six Simple Rules: How to Manage Complexity without Getting Complicated</b> by  Yves Morieux and Peter Tollman: the book emphasis that in today’s complicated business environment, you need to setup organisational structures based on cooperation.
+<b>Six Simple Rules: How to Manage Complexity without Getting Complicated</b> by  Yves Morieux and Peter Tollman: the book emphasis that in today’s complicated business environment, you need to setup organisational structures based on cooperation. To deal with complexity, organizations should depend on the judgment of their people, which requires giving them more autonomy to act. It also depends on these people cooperating to utilize the organization's capabilities to cope with complex problems. 
+
 </td>
 <td style="font-size: 50%; line-height: 12px; text-align: center">
 <div>
