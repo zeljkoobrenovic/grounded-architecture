@@ -21,7 +21,7 @@ Image by <a href="https://pixabay.com/users/geralt-9301/?utm_source=link-attribu
 > * I called this approach \"Grounded Architecture,\" highlighting the need for any IT architecture function to stay well-connected to all levels of an organization and led by data.
 > * In this section, I summarize the key points from the playbook.
 
-In this playbook, I explained an approach to running an running an architecture practice in larger organizations. I called this approach "grounded architecture," highlighting the need for any architecture function to stay well-connected to all levels of an organization and led by data. 
+In this playbook, I explained an approach to running an architecture practice in larger organizations. I called this approach "grounded architecture," highlighting the need for any architecture function to stay well-connected to all levels of an organization and led by data. 
 
 Grounded Architecture has two main parts:
 * **Structure**, defining elements you need to have to run Grounded Architecture practice, and
