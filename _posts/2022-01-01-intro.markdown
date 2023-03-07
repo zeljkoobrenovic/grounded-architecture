@@ -8,7 +8,7 @@ author: by Željko Obrenović (obren.io)
 permalink: intro
 icon: spiral-stairs.png
 timetoread: 15 min
-excerpt: "This playbook describes the lessons I learned in running an IT architecture practice in larger organizations. I called this approach \"Grounded Architecture,\" highlighting the need for any IT architecture function to stay well-connected to all levels of an organization and led by data."
+excerpt: "This playbook describes an approach to running an running an IT architecture practice in larger organizations. I called this approach \"Grounded Architecture,\" highlighting the need for any IT architecture function to stay well-connected to all levels of an organization and led by data."
 
 ---
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/staircase-274614_1920.jpg">
@@ -17,13 +17,13 @@ Image by <a href="https://pixabay.com/users/fda54-145996/?utm_source=link-attrib
 </div>
 > **KEY POINTS:**
 >
-> * This playbook describes the lessons I learned in running an IT architecture practice in larger organizations. 
+> * This playbook describes an approach to running an IT architecture practice in larger organizations. 
 > * I called this approach \"Grounded Architecture,\" highlighting the need for any IT architecture function to stay well-connected to all levels of an organization and led by data.
 > * In this section, I want to tell a few things about my motivation to write this playbook.
 
 ## Intro
 
-This playbook describes the lessons I learned in running an IT architecture practice in larger organizations. I called this approach "grounded architecture," highlighting the need for any IT architecture function to stay well-connected to all levels of an organization and led by data. 
+This playbook describes an approach to running an running an IT architecture practice in larger organizations. I called this approach "grounded architecture," highlighting the need for any IT architecture function to stay well-connected to all levels of an organization and led by data. 
 
 Grounded Architecture has two main parts:
 * **Structure**, elements you need to have to run Grounded Architecture practice, and
