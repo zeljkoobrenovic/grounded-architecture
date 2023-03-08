@@ -17,7 +17,7 @@ Image by <a href="https://pixabay.com/users/geralt-9301/?utm_source=link-attribu
 </div>
 > **KEY POINTS:**
 >
-> * This playbook an approach to running an an IT architecture practice in larger organizations. 
+> * This playbook described an approach to running an an IT architecture practice in larger organizations. 
 > * I called this approach \"Grounded Architecture,\" highlighting the need for any IT architecture function to stay well-connected to all levels of an organization and led by data.
 > * In this section, I summarize the key points from the playbook.
 
