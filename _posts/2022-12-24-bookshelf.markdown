@@ -20,7 +20,7 @@ Image by <a href="https://pixabay.com/users/olivergotting-18505948/?utm_source=l
 > **KEY POINTS:**
 >
 > * I provide an overview of the background work for you to probe further, linking several external resources inspiring my work.
-> * I grouped the resources in the following sections: Introduction, Tools, Soft Skills, and Hard Skills.
+> * I grouped the resources in the following sections: Introductions, Soft Skills, Business & Strategy, and Hard Skills.
 
 <style>
     .book {
@@ -44,7 +44,7 @@ Image by <a href="https://pixabay.com/users/olivergotting-18505948/?utm_source=l
 </style>
 
 <br>
-## Introduction
+## Introductions
 
 <table>
 <tr>
@@ -133,57 +133,6 @@ effective architectures for information systems.
 </tr>
 </table>
 
-## Tools
-
-<table>
-<tr class="icon-container">
-<td style="width: 80px">
-<img src="assets/images/books/sokrates.png" class="book">
-</td>
-<td>
-<b>Sokrates</b>: Sokrates is a tool I built to implement my vision of documenting and analyzing software architectures of complex systems.
-Sokrates provides a pragmatic, inexpensive way to extract rich data from source code repositories.
-Sokrates can help you understand your code by making visible the size, complexity, and coupling of software and all people interactions and team topologies.
-</td>
-<td style="font-size: 50%; line-height: 12px; text-align: center">
-<div>
-<a target="_blank" href="https://sokrates.dev">
-<img src="assets/icons/web.png" class="icon"><div>sokrates.dev</div>
-</a>
-</div>
-</td>
-</tr>
-<tr>
-<td class="icon-container">
-<img src="assets/images/books/productivity_tools.png" class="book">
-</td>
-<td>
-<b>Productivity Tools</b>: a collection of online tools I built to help me in my daily work as an architect. I reuse these tools and lessons learned in building these tools when designing data pillar parts of the grounded architecture.
-</td>
-<td style="font-size: 50%; line-height: 12px; text-align: center">
-<div>
-<a target="_blank" href="https://obren.io/tools">
-<img src="assets/icons/web.png" class="icon"><div>obren.io/tools</div>
-</a>
-</div>
-</td>
-</tr>
-<tr>
-<td class="icon-container">
-<img src="assets/images/arch/obren359.jpeg" class="book">
-</td>
-<td>
-<b>obren359.com</b>: I've created a curated collections and high-quality IT resources (articles, videos, podcasts).
-</td>
-<td style="font-size: 50%; line-height: 12px; text-align: center">
-<div>
-<a target="_blank" href="https://www.obren359.com/">
-<img src="assets/icons/web.png" class="icon"><div>website</div>
-</a>
-</div>
-</td>
-</tr>
-</table>
 
 ## Soft Skills
 
