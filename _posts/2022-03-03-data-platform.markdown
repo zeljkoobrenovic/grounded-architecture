@@ -88,7 +88,7 @@ Finance departments are very data-driven and have high-quality data that could b
 <br>
 ## Principles Behind Architecture Data Pillar
 
-My motto for the architecture data pillar is "**reducing subjectivity by use of data and insights**." More specifically, I follow several guiding principles (Figure 2).
+My motto for the architecture data pillar is "**reducing subjectivity by use of data and insights**." More specifically, I follow several Reflections (Figure 2).
 
 ![](assets/images/archdata/principles.png)
 <br>

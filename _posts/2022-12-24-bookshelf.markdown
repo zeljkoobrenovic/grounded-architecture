@@ -82,6 +82,55 @@ Image by <a href="https://pixabay.com/users/olivergotting-18505948/?utm_source=l
 </div>
 </td>
 </tr>
+<tr>
+<td class="icon-container">
+<img src="assets/images/books/for-developers.png" class="book">
+</td>
+<td>
+
+<b>Software Architecture for Developers</b> by Simon Brown is a practical, pragmatic and lightweight guide to software
+architecture, specifically aimed at software developers.
+</td>
+<td style="font-size: 50%; line-height: 12px; text-align: center">
+<a target="_blank" href="https://softwarearchitecturefordevelopers.com/">
+<img src="assets/icons/web.png" class="icon"><div>website</div>
+</a>
+</td>
+</tr>
+
+<tr class="icon-container">
+<td>
+<img src="assets/images/books/hard-parts.jpg" class="book">
+</td>
+<td>
+
+<b>Software Architecture: The Hard Parts</b> is structured as a narrative about a team breaking down a faulty outdated
+monolithic application into a modern microservices-based architecture. The authors compare different aspects of how a
+monolithic architecture might have been written to do something in the past, then how a modern microservice architecture
+could do the same thing today, offering advice and approaches for effective tradeoff analysis when refactoring a large
+monolith app.
+</td>
+</tr>
+<tr>
+<td class="icon-container">
+<img src="assets/images/books/just-enough-software-architecture.jpeg" class="book">
+</td>
+<td>
+
+<b>Just Enough Software Architecture</b> by George Fairbanks is an approachable and comprehensive book.
+</td>
+</tr>
+
+<tr>
+<td class="icon-container">
+<img src="assets/images/books/ssa.jpeg" class="book">
+</td>
+<td>
+
+<b>Software Systems Architecture</b> by Nick and Eóin is a practitioner-oriented guide to designing and implementing
+effective architectures for information systems.
+</td>
+</tr>
 </table>
 
 ## Tools
@@ -174,22 +223,6 @@ Sokrates can help you understand your code by making visible the size, complexit
 </td>
 </tr>
 
-<tr>
-<td class="icon-container">
-<img src="assets/images/books/six-simple-rules.webp" class="book" style="border: 1px solid lightgrey">
-</td>
-<td>
-<b>Six Simple Rules: How to Manage Complexity without Getting Complicated</b> by  Yves Morieux and Peter Tollman: the book emphasis that in today’s complicated business environment, you need to setup organisational structures based on cooperation. To deal with complexity, organizations should depend on the judgment of their people, which requires giving them more autonomy to act. It also depends on these people cooperating to utilize the organization's capabilities to cope with complex problems. 
-
-</td>
-<td style="font-size: 50%; line-height: 12px; text-align: center">
-<div>
-<a target="_blank" href="https://www.bcg.com/capabilities/organization/smart-simplicity/six-rules-overcoming-complexity">
-<img src="assets/icons/web.png" class="icon"><div>summary</div>
-</a>
-</div>
-</td>
-</tr>
 
 <tr>
 <td class="icon-container">
@@ -278,6 +311,55 @@ Sokrates can help you understand your code by making visible the size, complexit
 </td>
 </tr>
 </table>
+
+## Business Functions and Strategy
+<table>
+<tr>
+<td class="icon-container">
+<img src="assets/images/books/six-simple-rules.webp" class="book" style="border: 1px solid lightgrey">
+</td>
+<td>
+<b>Six Simple Rules: How to Manage Complexity without Getting Complicated</b> by  Yves Morieux and Peter Tollman: the book emphasis that in today’s complicated business environment, you need to setup organisational structures based on cooperation. To deal with complexity, organizations should depend on the judgment of their people, which requires giving them more autonomy to act. It also depends on these people cooperating to utilize the organization's capabilities to cope with complex problems. 
+</td>
+<td style="font-size: 50%; line-height: 12px; text-align: center">
+<div>
+<a target="_blank" href="https://www.bcg.com/capabilities/organization/smart-simplicity/six-rules-overcoming-complexity">
+<img src="assets/icons/web.png" class="icon"><div>summary</div>
+</a>
+</div>
+</td>
+</tr>
+
+<tr>
+<td class="icon-container">
+<img src="assets/images/books/personal-mba.webp" class="book">
+</td>
+<td>
+
+<b>The Personal MBA 10th Anniversary Edition</b> by Josh Kaufman provides an overview of the essentials of every major business topic: entrepreneurship, product development, marketing, sales, negotiation, accounting, finance, productivity, communication, psychology, leadership, systems design, analysis, and operations management.
+</td>
+<td style="font-size: 50%; line-height: 12px; text-align: center">
+<div>
+<a target="_blank" href="https://personalmba.com/">
+<img src="assets/icons/web.png" class="icon"><div>website</div>
+</a>
+</div>
+</td>
+
+</tr>
+
+<tr>
+<td class="icon-container">
+<img src="assets/images/books/tsp.jpeg" class="book">
+</td>
+<td>
+
+<b>Technology Strategy Patterns</b> by Eben Hewitt provides a shared language—in the form of repeatable, practical
+patterns and templates—to produce great technology strategies.
+</td>
+</tr>
+</table>
+
 
 ## Hard Skills
 
@@ -382,37 +464,6 @@ and architectural styles.
 </td>
 </tr>
 
-<tr>
-<td class="icon-container">
-<img src="assets/images/books/just-enough-software-architecture.jpeg" class="book">
-</td>
-<td>
-
-<b>Just Enough Software Architecture</b> by George Fairbanks is an approachable and comprehensive book.
-</td>
-</tr>
-
-<tr>
-<td class="icon-container">
-<img src="assets/images/books/ssa.jpeg" class="book">
-</td>
-<td>
-
-<b>Software Systems Architecture</b> by Nick and Eóin is a practitioner-oriented guide to designing and implementing
-effective architectures for information systems.
-</td>
-</tr>
-
-<tr>
-<td class="icon-container">
-<img src="assets/images/books/tsp.jpeg" class="book">
-</td>
-<td>
-
-<b>Technology Strategy Patterns</b> by Eben Hewitt provides a shared language—in the form of repeatable, practical
-patterns and templates—to produce great technology strategies.
-</td>
-</tr>
 
 <tr>
 <td class="icon-container">
@@ -466,35 +517,7 @@ derivative.
 </td>
 </tr>
 
-<tr>
-<td class="icon-container">
-<img src="assets/images/books/for-developers.png" class="book">
-</td>
-<td>
 
-<b>Software Architecture for Developers</b> by Simon Brown is a practical, pragmatic and lightweight guide to software
-architecture, specifically aimed at software developers.
-</td>
-<td style="font-size: 50%; line-height: 12px; text-align: center">
-<a target="_blank" href="https://softwarearchitecturefordevelopers.com/">
-<img src="assets/icons/web.png" class="icon"><div>website</div>
-</a>
-</td>
-</tr>
-
-<tr class="icon-container">
-<td>
-<img src="assets/images/books/hard-parts.jpg" class="book">
-</td>
-<td>
-
-<b>Software Architecture: The Hard Parts</b> is structured as a narrative about a team breaking down a faulty outdated
-monolithic application into a modern microservices-based architecture. The authors compare different aspects of how a
-monolithic architecture might have been written to do something in the past, then how a modern microservice architecture
-could do the same thing today, offering advice and approaches for effective tradeoff analysis when refactoring a large
-monolith app.
-</td>
-</tr>
 
 
 <tr>
