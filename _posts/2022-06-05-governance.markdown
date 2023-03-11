@@ -8,7 +8,7 @@ author: by Željko Obrenović (obren.io)
 icon: pragmatics.png
 permalink: flexible-governance
 timetoread: 15 min
-excerpt: "I tried to prevent a simplistic view of architecture as defining directives for the rest of the organization. I promote a technology governance model as a well-balanced hybrid of three different styles of governing: mandates and bans, taxes, and leading by context."
+excerpt: "I promote a technology governance model as a well-balanced hybrid of three different styles of governing: mandates and bans, taxes, and leading by context."
 
 ---
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
