@@ -19,11 +19,13 @@ Image by nonbirinonko/Pixabay
 > **KEY POINTS:**
 >
 > * I promote a technology governance model as a well-balanced hybrid of three different styles of governing: mandates and bans, taxes, and leading by context.
-> * I want to prevent a simplistic view of architecture as defining directives for the rest of the organization. 
+> * By governing with mandates and bans, I mean guiding people by explicitly defining what they should or should not do.
+> * Governing with taxes is a form of guiding in which people are not forbidden to make some decisions but need to "pay" some form of taxes on used resources.
+> * Leading the context is a form of governing in which we do not forbid people to make some choices, nor do they need to "pay" taxes. Instead, we wanted to create a shared context to facilitate people making informed decisions.
 
 With Grounded Architecture, it is possible to have flexible governance models that acknowledge the complexity and diversity of organizations. 
 
-By governing, I mean guiding technology choices in the organization in a particular direction aligned with the technology strategy. I tried to prevent a simplistic view of architecture as defining directives for the rest of the organization. Consequently, I aimed to promote a technology governance model as a well-balanced hybrid of three different styles of governing:
+By governing, I mean guiding technology choices in the organization in a particular direction aligned with the technology strategy. I aimed to promote a technology governance model as a well-balanced hybrid of three different styles of governing:
 * mandates and bans,
 * taxes, and
 * leading by context.
