@@ -20,6 +20,7 @@ Image by <a href="https://pixabay.com/users/darksouls1-2189876/?utm_source=link-
 The following considerations and guiding principles  have helped me make grounded architecture more effective:
 
 * **[Architects as Superglue](superglue)**: I promote a view that architects in IT organizations should develop as “superglue,” people who hold architecture, technical details, business needs, and people together across a large organization or complex projects.
+* **[Six Simple Rules](six-simple-rules)**: Six Simple Rules emphasis that in today’s complicated business environment, you need to setup organisational structures based on cooperation. To deal with complexity, organizations should depend on the judgment of their people and on these people cooperating to utilize the organization's capabilities to cope with complex problems. This view is well aligned with the ideas of Grounded Architecture.
 * **[In the Eye of the Storm](storm)**: I want architecture always to address one of the most challenging problems our organization faces: a tension between technology, product, organization, and business functions.
 * **[Flexible Governance](flexible-governance)**: I promote a technology governance model as a well-balanced hybrid of three different styles of governing: mandates and bans, taxes, and leading by context (nudge).
 * **[Economic Modeling](economics)**: I sketch two answers to the question of the economic value of technology investments and architecture: the return on investment metaphor, and the financial options metaphor.

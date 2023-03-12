@@ -42,6 +42,7 @@ Lastly, the *Architecture Activities Platform* leverages data and people to crea
 
 I have identified the following [Reflections](reflections) that can help put the ideas of Grounded Architecture into practice and get things done:
 * [Architects as Superglue](superglue),
+* [Six Simple Rules](six-simple-rules),
 * [In the Eye of the Storm](storm),
 * [Flexible Governance](flexible-governance),
 * [Economic Modeling](economics),
