@@ -72,8 +72,9 @@ A typical skillset of an architects includes (I provide links to some of my [too
     * [**Organizational** and **time management skills**](https://obren.io/tools?tag=reflect), including prioritization, goal-setting, task management, delegation.
     * **[Analytical, strategic thinking, and problem-solving skills](https://obren.io/tools?tag=it)**, such us finding and developing unique opportunities, to create value within an organization.
 
-* **Domain knowledge**:
-    * It is impossible to be successful as architect without deep understanding of [**business domains**](https://obren.io/tools?tag=domain_models) of the organization. 
+* **Business Domain knowledge**:
+    * **General business concepts knowledge** ([The Personal MBA](https://personalmba.com/) book being my favorite resource to get familiar with such concepts). 
+    * [**Specific business domains**](https://obren.io/tools?tag=domain_models) of the organization. 
 
 <br>
 ### Impact 
