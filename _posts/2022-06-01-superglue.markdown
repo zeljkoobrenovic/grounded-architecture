@@ -21,6 +21,8 @@ excerpt: "Architects in IT organizations should develop as “superglue,” peop
 > * Architects in IT organizations should develop as “superglue,” people who hold architecture, technical details, business needs, and people together across a large organization or complex projects.
 > * Strong Architecture = Strong Architects.
 > * Architects should stand on three legs: Skills, Impact, Thought leadership.
+> * Architects' career paths ideally stem from a strong engineering background.
+> * Hiring architects requires constantly raising the bar to ensure a strong and diverse team structure.  
 
 <br>
 ## Superglue Vision
@@ -110,3 +112,63 @@ Architects need to have a minimal "length" of all of these "legs" to be successf
 ![](assets/images/arch/architect-legs.png)
 ***Figure 3:** Architects need to have a minimal "length" of all of these "legs" to be successful.*
 
+<br>
+## Superglue Architect's Career Paths
+
+My view of architecture has a strong engineering bias. Architects' career paths ideally stem from a strong engineering background. While they may be exceptions, without significant real-world exposure to software engineering challenges, an architect cannot obtain enough practical knowledge to make technology decisions and build relations with developer teams. 
+
+Figure 4 shows an example of architecture career paths in relation to engineering. Stepping from an engineering positions to an architecture requires three changes:
+* Broader scope of work,
+* Higher diversity of work, and 
+* Communication and influencer skills becoming a crucial aspect of success.
+
+
+<!-- ![](assets/images/aRCH/Female-Pole-Vault.jpg)
+![](assets/images/arch/athletics-symbols.jpg)
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Credit: dreamstime.com
+</div> -->
+
+![](assets/images/arch/career-paths.jpg)
+***Figure 4:** An example of architecture career paths in relation to engineering.*
+
+<br>
+## Hiring Superglue Architects: Rising The Bar
+
+Hiring architects requires constantly raising the bar to ensure a strong and diverse team structure. Having more architects does not necessarily leads to a better team. Having good alignment and diversity of perspective is even more important for an architecture team than for other groups.
+
+<!-- ![](assets/images/aRCH/Female-Pole-Vault.jpg) -->
+![](assets/images/aRCH/d844ac2c-c890-42b9-b0f1-fbb952a452cd-JM.polevaulting.071520.001.jpg)
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Sandi Morris attempts to clear the bar during a pole vaulting competition. Credit: Josh Morgan, greenvilleonline.com.
+</div>
+
+The superglue aspects of architects also require a hiring process that can identify enough potential candidates to operate well according to such a vision. While you will need to design your hiring process, I typically have worked with some version of the following process:
+
+* **Step 1: Initial Screening Interview with Chief Architect or EA, covering topics including:**
+    * General ways of working and background discussion
+    * I typically look for culture adds, not a mere culture fit, to ensure the sharpness and diversification of the group. 
+* **Step 2: In-Depth Interview with Senior (Enterprise) Architects, including topics:**
+    * Customer focus
+    * Frugality
+    * Bias for action
+    * Ownership
+    * Innovation
+* **Step 4: In-Depth Interview with Solution Architects:**
+    * Preparation:
+        * A document describing a recent solution architecture of a candidate, providing the content for discussion and helping estimate the candidate's written skills.
+    * (Optional) open-source code review of a candidate
+    * Cloud design patterns
+    * Domain-Driven Design
+    * Security
+    * Privacy
+    * Performance efficiency
+    * Reliability
+    * A range of other technical topics depending on the position  
+* **Step 5 (for senior positions):**
+    * Interview with Engineering Leaders (Senior Solution Architects, Enterprise Architects, Principal Architect)
+    * Interview with Product and Business Function Leaders (e.g., CPO, CMO, CFO)
+    * Interview with CTO (Enterprise Architect or Principal Architect)
+
+Lastly, it is vital to take more active ownership of hiring architects. Due to the vast diversity of how different companies define the architect's role, recruiters may need help understanding the role's requirements.
+ 
