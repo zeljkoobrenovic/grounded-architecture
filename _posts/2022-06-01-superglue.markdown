@@ -115,13 +115,9 @@ Architects need to have a minimal "length" of all of these "legs" to be successf
 <br>
 ## Superglue Architect's Career Paths
 
-My view of architecture has a strong engineering bias. Architects' career paths ideally stem from a strong engineering background. While they may be exceptions, without significant real-world exposure to software engineering challenges, an architect cannot obtain enough practical knowledge to make technology decisions and build relations with developer teams. 
+My view of architecture has a strong engineering bias. Architects' career paths ideally stem from a strong engineering background. While they may be exceptions, without significant real-world exposure to software engineering challenges, an architect cannot obtain enough practical knowledge to make technology decisions and build relations with developer teams. I also use Staff Engineering roles as an inspiration for the development of architects. For instance, Will Larson's book [Staff Engineer: Leadership beyond the management track](https://staffeng.com/guides/staff-archetypes/) is a helpful guide in defining the responsibilities of modern architects.
 
-Figure 4 shows an example of architecture career paths in relation to engineering. Stepping from an engineering positions to an architecture requires three changes:
-* Broader scope of work,
-* Higher diversity of work, and 
-* Communication and influencer skills becoming a crucial aspect of success.
-
+In terms of career progression, Figure 4 shows an example of architecture career paths in relation to engineering. 
 
 <!-- ![](assets/images/aRCH/Female-Pole-Vault.jpg)
 ![](assets/images/arch/athletics-symbols.jpg)
@@ -131,6 +127,17 @@ Credit: dreamstime.com
 
 ![](assets/images/arch/career-paths.jpg)
 ***Figure 4:** An example of architecture career paths in relation to engineering.*
+
+Stepping from an engineering position to an architecture requires three changes:
+* Getting a broader scope of work,
+* Having a higher diversity of work, and 
+* Changing skills, as communication and influencer skills become crucial aspects of success.
+
+After becoming Architects, I usually envision three tracks of progression:
+* **Senior Architect**, a generalist with a broader set of responsibilities,
+* **Principal Architect**, a world-class expert in some area of strategic interest for an organization (e.g., data, distributed systems, frontend).
+* **Enterprise Architect**, being closer to product, management, strategy, and business functions, frequently serves as senior engineering leaders' right hand. 
+
 
 <br>
 ## Hiring Superglue Architects: Rising The Bar

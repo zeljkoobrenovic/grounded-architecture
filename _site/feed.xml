@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-03-18T17:48:16+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: The Chief Architect’s Playbook</title><subtitle></subtitle><entry><title type="html">Favorite Quotes</title><link href="http://localhost:4000/background" rel="alternate" type="text/html" title="Favorite Quotes" /><published>2021-10-25T22:12:01+02:00</published><updated>2021-10-25T22:12:01+02:00</updated><id>http://localhost:4000/quotes</id><content type="html" xml:base="http://localhost:4000/background"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/books-g1b2675255_1920.jpg" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-03-18T21:51:25+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: The Chief Architect’s Playbook</title><subtitle></subtitle><entry><title type="html">Favorite Quotes</title><link href="http://localhost:4000/background" rel="alternate" type="text/html" title="Favorite Quotes" /><published>2021-10-25T22:12:01+02:00</published><updated>2021-10-25T22:12:01+02:00</updated><id>http://localhost:4000/quotes</id><content type="html" xml:base="http://localhost:4000/background"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/books-g1b2675255_1920.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/prettysleepy-2973588/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5430104">Amy</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5430104">Pixabay</a>
 </div>
@@ -999,14 +999,9 @@ Image by <a href="https://pixabay.com/users/darksouls1-2189876/?utm_source=link-
 <p><br /></p>
 <h2 id="superglue-architects-career-paths">Superglue Architect’s Career Paths</h2>
 
-<p>My view of architecture has a strong engineering bias. Architects’ career paths ideally stem from a strong engineering background. While they may be exceptions, without significant real-world exposure to software engineering challenges, an architect cannot obtain enough practical knowledge to make technology decisions and build relations with developer teams.</p>
+<p>My view of architecture has a strong engineering bias. Architects’ career paths ideally stem from a strong engineering background. While they may be exceptions, without significant real-world exposure to software engineering challenges, an architect cannot obtain enough practical knowledge to make technology decisions and build relations with developer teams. I also use Staff Engineering roles as an inspiration for the development of architects. For instance, Will Larson’s book <a href="https://staffeng.com/guides/staff-archetypes/">Staff Engineer: Leadership beyond the management track</a> is a helpful guide in defining the responsibilities of modern architects.</p>
 
-<p>Figure 4 shows an example of architecture career paths in relation to engineering. Stepping from an engineering positions to an architecture requires three changes:</p>
-<ul>
-  <li>Broader scope of work,</li>
-  <li>Higher diversity of work, and</li>
-  <li>Communication and influencer skills becoming a crucial aspect of success.</li>
-</ul>
+<p>In terms of career progression, Figure 4 shows an example of architecture career paths in relation to engineering.</p>
 
 <!-- ![](assets/images/aRCH/Female-Pole-Vault.jpg)
 ![](assets/images/arch/athletics-symbols.jpg)
@@ -1016,6 +1011,20 @@ Credit: dreamstime.com
 
 <p><img src="assets/images/arch/career-paths.jpg" alt="" />
 <em><strong>Figure 4:</strong> An example of architecture career paths in relation to engineering.</em></p>
+
+<p>Stepping from an engineering position to an architecture requires three changes:</p>
+<ul>
+  <li>Getting a broader scope of work,</li>
+  <li>Having a higher diversity of work, and</li>
+  <li>Changing skills, as communication and influencer skills become crucial aspects of success.</li>
+</ul>
+
+<p>After becoming Architects, I usually envision three tracks of progression:</p>
+<ul>
+  <li><strong>Senior Architect</strong>, a generalist with a broader set of responsibilities,</li>
+  <li><strong>Principal Architect</strong>, a world-class expert in some area of strategic interest for an organization (e.g., data, distributed systems, frontend).</li>
+  <li><strong>Enterprise Architect</strong>, being closer to product, management, strategy, and business functions, frequently serves as senior engineering leaders’ right hand.</li>
+</ul>
 
 <p><br /></p>
 <h2 id="hiring-superglue-architects-rising-the-bar">Hiring Superglue Architects: Rising The Bar</h2>

@@ -145,7 +145,7 @@ effective architectures for information systems.
 <b>Staff Engineer</b> by Will Larson, defined technical leadership beyond the management track. I share many of the views presented in this book regarding development and skills of architects. 
 </td>
 <td style="font-size: 50%; line-height: 12px; text-align: center">
-<a target="_blank" href="https://staffeng.com/">
+<a target="_blank" href="https://staffeng.com/guides/">
 <img src="assets/icons/web.png" class="icon"><div>reading notes</div>
 </a>
 </td>
