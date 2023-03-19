@@ -77,6 +77,20 @@ This playbook generalize my experiences in a written form. I have written these 
 
 Second, by generalizing and putting my experiences on paper, I hope to create more usable materials to help others in similar situations. I also expect helpful feedback from a broader community by sharing these materials.
 
+## A Part of the Bigger Picture: A Trilogy in Four Parts
+
+This book is a part of the [collection of open-source tools and resources](https://obren.io/) I have built in the past ten years to help me in architectural work (Figure 2).
+
+![](assets/images/arch/obren_io_vertical.png)
+***Figure 2:** Grounded Architecture is a part of the collection of open-source tools and resources I have built in the past ten years to help me in architectural work.*
+
+ The other three tools include:
+
+* [**Sokrates**](https://sokrates.dev): is an open-source source code analysis tool that implements my vision of documenting and analyzing software architectures of complex systems. Sokrates provides a pragmatic, inexpensive way to extract rich data from source code repositories—no need for lengthy interviews and workshops. Just bring the code. Sokrates can help you understand your code by making visible the size, complexity, and coupling of software and all people interactions and team topologies.
+* [**Productivity Tools**](https://obren.io/tools): for years I have been building simple personal productivity and other tools. This site organizes and shares them for free.
+* [**359° Overview of Tech Trends**](https://www.obren359.com/) is my collection of knowledge resources with the most recent articles, podcasts, and videos from over 20 authoritative, high-quality sources (IEEE, ACM, GOTO Conf, SE Radio, Martin Fowler's site, Ph.D. Theses).
+
+You can find more details about these tools at my homepage **[obren.io](https://obren.io/)**.
 
 ## Who Should Read This Playbook?
 
