@@ -2,7 +2,7 @@
 layout: post
 section: "Reflections"
 title: "Six Simple Rules"
-position: 6002
+position: 6004
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 icon: six.png

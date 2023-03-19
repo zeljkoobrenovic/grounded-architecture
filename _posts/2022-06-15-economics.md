@@ -2,7 +2,7 @@
 layout: post
 section: "Reflections"
 title: "Economic Modeling"
-position: 6006
+position: 6007
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 icon: economics.png

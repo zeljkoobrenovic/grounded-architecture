@@ -2,7 +2,7 @@
 layout: post
 section: "Reflections"
 title: "The Culture Map: Architects' Culture Mindfield Compass"
-position: 6008
+position: 6009
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 icon: culture.png

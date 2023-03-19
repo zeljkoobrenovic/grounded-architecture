@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-03-19T21:10:37+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: The Chief Architect’s Playbook</title><subtitle></subtitle><entry><title type="html">Favorite Quotes</title><link href="http://localhost:4000/background" rel="alternate" type="text/html" title="Favorite Quotes" /><published>2021-10-25T22:12:01+02:00</published><updated>2021-10-25T22:12:01+02:00</updated><id>http://localhost:4000/quotes</id><content type="html" xml:base="http://localhost:4000/background"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/books-g1b2675255_1920.jpg" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-03-20T00:00:52+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: The Chief Architect’s Playbook</title><subtitle></subtitle><entry><title type="html">Favorite Quotes</title><link href="http://localhost:4000/background" rel="alternate" type="text/html" title="Favorite Quotes" /><published>2021-10-25T22:12:01+02:00</published><updated>2021-10-25T22:12:01+02:00</updated><id>http://localhost:4000/quotes</id><content type="html" xml:base="http://localhost:4000/background"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/books-g1b2675255_1920.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/prettysleepy-2973588/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5430104">Amy</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5430104">Pixabay</a>
 </div>
@@ -863,7 +863,7 @@ Image by <a href="https://pixabay.com/users/mufaddalap-14141833/?utm_source=link
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/duplo-g6563105c1_1920.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/bru-no-1161770/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1981724">Bruno /Germany</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1981724">Pixabay</a>
-</div>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[When Grounded Architecture is in place, it can have a significant positive impact on the functioning of an organization: Executing At Scale, Increasing the Quality of Decision-Making with Data, Maximizing Organizational Alignment & Learning, Higher Adaptivity.]]></summary></entry><entry><title type="html">Reflections Overview</title><link href="http://localhost:4000/reflections" rel="alternate" type="text/html" title="Reflections Overview" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/reflections</id><content type="html" xml:base="http://localhost:4000/reflections"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/steampunk-3006650_1920.jpg" /></p>
+</div>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[When Grounded Architecture is in place, it can have a significant positive impact on the functioning of an organization: Executing At Scale, Increasing the Quality of Decision-Making with Data, Maximizing Organizational Alignment & Learning, Higher Adaptivity.]]></summary></entry><entry><title type="html">Reflections</title><link href="http://localhost:4000/reflections" rel="alternate" type="text/html" title="Reflections" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/reflections</id><content type="html" xml:base="http://localhost:4000/reflections"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/steampunk-3006650_1920.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/darksouls1-2189876/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3006650">Enrique Meseguer</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3006650">Pixabay</a>
 </div>
@@ -872,6 +872,8 @@ Image by <a href="https://pixabay.com/users/darksouls1-2189876/?utm_source=link-
 
 <ul>
   <li><strong><a href="superglue">Architects as Superglue</a></strong>: I promote a view that architects in IT organizations should develop as “superglue,” people who hold architecture, technical details, business needs, and people together across a large organization or complex projects.</li>
+  <li><strong><a href="career">Rising the Bar: Architets’ Career Paths</a></strong>: Architects’ career paths ideally stem from a strong engineering background. Hiring architects requires constantly raising the bar to ensure a strong and diverse team structure.</li>
+  <li><strong><a href="behaviors">Architects’ Behavioral Traits</a></strong>: Netflix’s overview of their valued behaviors is a good inspiration for coaching and developing architects. Borrowing from Netflix’s original values and rearranging the order I see as more relevant for architects, the following behavioral traits are crucial for architects are: communication, judgment, impact, inclusion, selflessness, courage, integrity, curiosity, innovation, and passion.</li>
   <li><strong><a href="six-simple-rules">Six Simple Rules</a></strong>: Six Simple Rules emphasis that in today’s complicated business environment, you need to setup organisational structures based on cooperation. To deal with complexity, organizations should depend on the judgment of their people and on these people cooperating to utilize the organization’s capabilities to cope with complex problems. This view is well aligned with the ideas of Grounded Architecture.</li>
   <li><strong><a href="storm">In the Eye of the Storm</a></strong>: I want architecture always to address one of the most challenging problems our organization faces: a tension between technology, product, organization, and business functions.</li>
   <li><strong><a href="flexible-governance">Flexible Governance</a></strong>: I promote a technology governance model as a well-balanced hybrid of three different styles of governing: mandates and bans, taxes, and leading by context (nudge).</li>
@@ -888,8 +890,6 @@ Image by <a href="https://pixabay.com/users/darksouls1-2189876/?utm_source=link-
     <li>Architects in IT organizations should develop as “superglue,” people who hold architecture, technical details, business needs, and people together across a large organization or complex projects.</li>
     <li>Strong Architecture = Strong Architects.</li>
     <li>Architects should stand on three legs: Skills, Impact, Thought leadership.</li>
-    <li>Architects’ career paths ideally stem from a strong engineering background.</li>
-    <li>Hiring architects requires constantly raising the bar to ensure a strong and diverse team structure.</li>
   </ul>
 </blockquote>
 
@@ -994,91 +994,4 @@ Image by <a href="https://pixabay.com/users/darksouls1-2189876/?utm_source=link-
 <p>Architects need to have a minimal “length” of all of these “legs” to be successful (Figure 3). For instance, having skills and impact without leadership frequently leads to hitting a glass ceiling. Such architects plateau at an intermediate level and cannot lead the company to innovative or transformative solutions. Leadership without impact lacks foundation and may signal that you have become an ivory tower architect with a weak relation to reality. And having impact and leadership qualities but no skills leads to impractical decisions not informed by in-depth knowledge.</p>
 
 <p><img src="assets/images/arch/architect-legs.png" alt="" />
-<em><strong>Figure 3:</strong> Architects need to have a minimal “length” of all of these “legs” to be successful.</em></p>
-
-<p><br /></p>
-<h2 id="superglue-architects-career-paths">Superglue Architect’s Career Paths</h2>
-
-<p>My view of architecture has a strong engineering bias. Architects’ career paths ideally stem from a strong engineering background. While they may be exceptions, without significant real-world exposure to software engineering challenges, an architect cannot obtain enough practical knowledge to make technology decisions and build relations with developer teams. I also use Staff Engineering roles as an inspiration for the development of architects. For instance, Will Larson’s book <a href="https://staffeng.com/guides/staff-archetypes/">Staff Engineer: Leadership beyond the management track</a> is a helpful guide in defining the responsibilities of modern architects.</p>
-
-<p>In terms of career progression, Figure 4 shows an example of architecture career paths in relation to engineering.</p>
-
-<!-- ![](assets/images/aRCH/Female-Pole-Vault.jpg)
-![](assets/images/arch/athletics-symbols.jpg)
-<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Credit: dreamstime.com
-</div> -->
-
-<p><img src="assets/images/arch/career-paths.jpg" alt="" />
-<em><strong>Figure 4:</strong> An example of architecture career paths in relation to engineering.</em></p>
-
-<p>Stepping from an engineering position to an architecture requires three changes:</p>
-<ul>
-  <li>Getting a broader scope of work,</li>
-  <li>Having a higher diversity of work, and</li>
-  <li>Changing skills, as communication and influencer skills become crucial aspects of success.</li>
-</ul>
-
-<p>After becoming Architects, I usually envision three tracks of progression:</p>
-<ul>
-  <li><strong>Senior Architect</strong>, a generalist with a broader set of responsibilities,</li>
-  <li><strong>Principal Architect</strong>, a world-class expert in some area of strategic interest for an organization (e.g., data, distributed systems, frontend).</li>
-  <li><strong>Enterprise Architect</strong>, being closer to product, management, strategy, and business functions, frequently serves as senior engineering leaders’ right hand.</li>
-</ul>
-
-<p><br /></p>
-<h2 id="hiring-superglue-architects-rising-the-bar">Hiring Superglue Architects: Rising The Bar</h2>
-
-<p>Hiring architects requires constantly raising the bar to ensure a strong and diverse team structure. Having more architects does not necessarily leads to a better team. Having good alignment and diversity of perspective is even more important for an architecture team than for other groups.</p>
-
-<!-- ![](assets/images/aRCH/Female-Pole-Vault.jpg) -->
-<p><img src="assets/images/aRCH/d844ac2c-c890-42b9-b0f1-fbb952a452cd-JM.polevaulting.071520.001.jpg" alt="" /></p>
-<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Sandi Morris attempts to clear the bar during a pole vaulting competition. Credit: Josh Morgan, greenvilleonline.com.
-</div>
-
-<p>The superglue aspects of architects also require a hiring process that can identify enough potential candidates to operate well according to such a vision. While you will need to design your hiring process, I typically have worked with some version of the following process:</p>
-
-<ul>
-  <li><strong>Step 1: Initial Screening Interview with Chief Architect or EA, covering topics including:</strong>
-    <ul>
-      <li>General ways of working and background discussion</li>
-      <li>I typically look for culture adds, not a mere culture fit, to ensure the sharpness and diversification of the group.</li>
-    </ul>
-  </li>
-  <li><strong>Step 2: In-Depth Interview with Senior (Enterprise) Architects, including topics:</strong>
-    <ul>
-      <li>Customer focus</li>
-      <li>Frugality</li>
-      <li>Bias for action</li>
-      <li>Ownership</li>
-      <li>Innovation</li>
-    </ul>
-  </li>
-  <li><strong>Step 4: In-Depth Interview with Solution Architects:</strong>
-    <ul>
-      <li>Preparation:
-        <ul>
-          <li>A document describing a recent solution architecture of a candidate, providing the content for discussion and helping estimate the candidate’s written skills.</li>
-        </ul>
-      </li>
-      <li>(Optional) open-source code review of a candidate</li>
-      <li>Cloud design patterns</li>
-      <li>Domain-Driven Design</li>
-      <li>Security</li>
-      <li>Privacy</li>
-      <li>Performance efficiency</li>
-      <li>Reliability</li>
-      <li>A range of other technical topics depending on the position</li>
-    </ul>
-  </li>
-  <li><strong>Step 5 (for senior positions):</strong>
-    <ul>
-      <li>Interview with Engineering Leaders (Senior Solution Architects, Enterprise Architects, Principal Architect)</li>
-      <li>Interview with Product and Business Function Leaders (e.g., CPO, CMO, CFO)</li>
-      <li>Interview with CTO (Enterprise Architect or Principal Architect)</li>
-    </ul>
-  </li>
-</ul>
-
-<p>Lastly, it is vital to take more active ownership of hiring architects. Due to the vast diversity of how different companies define the architect’s role, recruiters may need help understanding the role’s requirements.</p>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[Architects in IT organizations should develop as “superglue,” people who hold architecture, technical details, business needs, and people together across a large organization or complex projects.]]></summary></entry></feed>
+<em><strong>Figure 3:</strong> Architects need to have a minimal “length” of all of these “legs” to be successful.</em></p>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[Architects in IT organizations should develop as “superglue,” people who hold architecture, technical details, business needs, and people together across a large organization or complex projects.]]></summary></entry></feed>

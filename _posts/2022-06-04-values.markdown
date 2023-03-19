@@ -1,15 +1,14 @@
 ---
 layout: post
 section: "Reflections"
-title: "Architect's Behavioral Traits"
-position: 6002
+title: "Architects' Behavioral Traits"
+position: 6003
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 permalink: behaviors
 icon: traits.png
 timetoread: 15 min
-excerpt: "Netflix's overview of their valued behaviors is a good inspiration for coaching and developing architects. Borrowing from Netflix's original values and rearranging the order I see as more relevant for architects, the following behavioral traits are crucial for architects are: communication, judgment, impact, inclusion, selflessness, courage, integrity, curiosity, innovation, and passion.
-"
+excerpt: "Netflix's overview of their valued behaviors is a good inspiration for coaching and developing architects. Borrowing from Netflix's original values and rearranging the order I see as more relevant for architects, the following behavioral traits are crucial for architects are: communication, judgment, impact, inclusion, selflessness, courage, integrity, curiosity, innovation, and passion."
 
 ---
 
@@ -22,7 +21,11 @@ excerpt: "Netflix's overview of their valued behaviors is a good inspiration for
 > * Netflix's overview of their valued behaviors is a good inspiration for coaching and developing architects. 
 > * Borrowing from Netflix's original values and rearranging the order I see as more relevant for architects, the following behavioral traits are crucial for architects are: communication, judgment, impact, inclusion, selflessness, courage, integrity, curiosity, innovation, and passion.
 
-
+<style>
+h2 {
+    margin-top: 40px
+}
+</style>
 <br>
 
 I have found the [Netflix overview of their valued behaviors](jobs.netflix.com/culture) to be a leading inspiration for how I coach and develop architects according to the superglue version. The following sections summarize these behaviors, borrowing from the Netflix original values but rearranging them in the order I see as more relevant for architects. 
@@ -49,7 +52,7 @@ People frequently call architects to be objective judges when others cannot agre
 
 ## Impact
 
-As discussed in the [previous section](superglue), the architect's impact should be measured as a benefit for the business. Architects need to ensure that what they are making profits the company. As an architect, you need to show the following impact traits:
+As discussed in the [Architects as Superglue](superglue), the architect's impact should be measured as a benefit for the business. Architects need to ensure that what they are making profits the company. As an architect, you need to show the following impact traits:
 
 * You accomplish significant amounts of **important work**
 * You **make your colleagues better**

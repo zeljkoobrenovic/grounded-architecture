@@ -2,7 +2,7 @@
 layout: post
 section: "Reflections"
 title: "Flexible Governance"
-position: 6005
+position: 6006
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 icon: pragmatics.png
