@@ -17,7 +17,7 @@ excerpt: "I have identified the following a set of considerations and guiding pr
 Image by <a href="https://pixabay.com/users/darksouls1-2189876/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3006650">Enrique Meseguer</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3006650">Pixabay</a>
 </div>
 
-The following considerations and guiding principles  have helped me make grounded architecture more effective:
+The following considerations and guiding principles have helped me make grounded architecture more effective:
 
 * **[Architects as Superglue](superglue)**: I promote a view that architects in IT organizations should develop as “superglue,” people who hold architecture, technical details, business needs, and people together across a large organization or complex projects.
 * **[Six Simple Rules](six-simple-rules)**: Six Simple Rules emphasis that in today’s complicated business environment, you need to setup organisational structures based on cooperation. To deal with complexity, organizations should depend on the judgment of their people and on these people cooperating to utilize the organization's capabilities to cope with complex problems. This view is well aligned with the ideas of Grounded Architecture.

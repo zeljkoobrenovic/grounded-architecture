@@ -27,7 +27,7 @@ This playbook describes an approach to running an IT architecture practice in la
 
 Grounded Architecture has two main parts:
 * **Structure**, elements you need to have to run Grounded Architecture practice, and
-* **Reflections**, a set of considerations and guiding principles that can help put the ideas of Grounded Architecture into practice and build the right culture
+* **Reflections**, a set of my considerations and guiding principles that can help put the ideas of Grounded Architecture into practice.
 
 The following figure illustrates the structure of the Grounded Architecture consisting of three elements:
 * [Data Pillar](data-pillar),
