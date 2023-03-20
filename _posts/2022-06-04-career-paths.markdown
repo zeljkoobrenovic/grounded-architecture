@@ -57,19 +57,19 @@ It is vital to take more active ownership of hiring architects. Due to the vast 
 
 The superglue aspects of architects also require a hiring process that can identify enough potential candidates to operate well according to such a vision. While you will need to design your hiring process, I typically have worked with some version of the following process:
 
-* **Step 1: Initial Screening Interview with Chief Architect or EA, covering topics including:**
-    * General ways of working and background discussion
+* **Step 1: Initial Screening Interview with Chief Architect:**
     * I typically look for culture adds, not a mere culture fit, to ensure the sharpness and diversification of the group. 
+    * General interests, ways of working and background discussion
 * **Step 2: In-Depth Interview with Senior (Enterprise) Architects, including topics:**
     * Customer focus
     * Frugality
     * Bias for action
     * Ownership
     * Innovation
-* **Step 4: In-Depth Interview with Architects:**
+* **Step 3: In-Depth Interview with Architects:**
     * Preparation:
         * A document describing a recent solution architecture of a candidate, providing the content for discussion and helping estimate the candidate's written skills.
-    * (Optional) open-source code review of a candidate
+        * (Optional) open-source code review of a candidate
     * Cloud design patterns
     * Domain-Driven Design
     * Security
@@ -79,7 +79,7 @@ The superglue aspects of architects also require a hiring process that can ident
     * A range of other technical topics depending on the position  
  
  For senior positions, I typically introduce an additional step of meeting additional senior leadership:
- * **Step 5:**
+ * **Step 4:**
     * Interview with Engineering Leaders (Senior Solution Architects, Enterprise Architects, Principal Architect)
     * Interview with Product and Business Function Leaders (e.g., CPO, CMO, CFO)
     * Interview with CTO (Enterprise Architect or Principal Architect)
