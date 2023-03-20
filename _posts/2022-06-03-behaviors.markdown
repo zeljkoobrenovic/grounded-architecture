@@ -38,16 +38,15 @@ Architects can only be successful if they are effective communicators. More spec
 * You **listen well** and **seek to understand** before reacting
 * You maintain **calm poise in stressful situations** to draw out the clearest thinking
 * You **adapt your communication style** to work well with people from around the world who may not share your native language
-* You provide **candid, timely feedback** to colleagues
 
 ## Judgment
 
 People frequently call architects to be objective judges when others cannot agree or need an objective second opinion. As an architect, you'll be able to make sound judgments if:
 
 * You are good at using **data to inform your intuition**
+* You make wise **decisions** despite **ambiguity**
 * You identify **root causes**, and go beyond treating symptoms
 * You make decisions based on **the long term**, not near term
-* You make wise **decisions** despite **ambiguity**
 * You **think strategically**, and **can articulate** what you are, and are not, trying to do
 
 ## Impact
@@ -57,7 +56,7 @@ As discussed in the [Architects as Superglue](superglue), the architect's impact
 * You accomplish significant amounts of **important work**
 * You **make your colleagues better**
 * You focus on **results over process**
-* You demonstrate consistently strong performance so **colleagues can rely upon you**
+* You demonstrate **consistently** strong performance so **colleagues can rely upon you**
 
 ## Inclusion
 
@@ -67,8 +66,6 @@ As superglue, architects need to work with many different people and groups incl
 * You nurture and **embrace differing perspectives** to make better decisions
 * You **focus on talent and values**, rather than a person’s similarity to yourself
 * You are **curious about how our different backgrounds affect us** at work, rather than pretending they don’t affect us
-* You **recognize we all have biases**, and work to grow past them
-* **You intervene** if someone else is being marginalized
 
 ## Selflessness
 
@@ -104,19 +101,18 @@ Architects need to operate as trusted advisors. Integrity is essential for such 
 As architects, we must proactively identify relevant new technology developments. Based on our understanding of these developments, we must create pragmatic technology recommendations for concrete platforms across the organization. That means that as architect, you need to stay curious:
 
 * You **learn rapidly and eagerly**
-* You **contribute effectively** outside of your specialty
 * You **make connections** that others miss
-* You seek to **understand people** around the world, and how to help them
 * You seek **alternate perspectives**
+* You **contribute effectively** outside of your specialty
 
 ## Innovation
 
 More than curiosity is required. To make an impact, you need to create useful innovations:
 
 * You create **new ideas** that **prove useful**
+* You keep your organization nimble by **minimizing complexity** and finding time to simplify
 * You **re-conceptualize issues** to discover solutions to **hard problems**
 * You **challenge prevailing assumptions**, and suggest better approaches
-* You keep us nimble by **minimizing complexity** and finding time to simplify
 * You **thrive on change**
 
 ## Passion

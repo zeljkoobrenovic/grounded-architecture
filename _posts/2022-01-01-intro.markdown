@@ -44,8 +44,8 @@ Lastly, the *[Architecture Activities Platform](activities-platform)* leverages 
 
 I have identified the following [Reflections](reflections) that can help put the ideas into practice and build the right culture:
 * [Architects as Superglue](superglue),
-* [Rising the Bar: Architets' Career Paths](career),
 * [Architects' Behavioral Traits](behaviors),
+* [Rising the Bar: Architets' Career Paths](career),
 * [Six Simple Rules](six-simple-rules),
 * [In the Eye of the Storm](storm),
 * [Flexible Governance](flexible-governance),

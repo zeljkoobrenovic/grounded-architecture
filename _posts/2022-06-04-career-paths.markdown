@@ -2,7 +2,7 @@
 layout: post
 section: "Reflections"
 title: " Rising The Bar: Architects' Career Paths"
-position: 6002
+position: 6004
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 permalink: career
@@ -84,3 +84,4 @@ The superglue aspects of architects also require a hiring process that can ident
     * Interview with Product and Business Function Leaders (e.g., CPO, CMO, CFO)
     * Interview with CTO (Enterprise Architect or Principal Architect)
 
+With the described steps, you can get a solid overview of all critical aspects of superglue architects. In particular, the involvement of people outside architecture or engineering is crucial to minimize risk related to a lack of interest and ability to engage with all relevant stakeholders.
