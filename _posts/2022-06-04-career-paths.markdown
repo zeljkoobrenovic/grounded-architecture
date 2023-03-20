@@ -60,6 +60,7 @@ The superglue aspects of architects also require a hiring process that can ident
 * **Step 1: Initial Screening Interview with Chief Architect:**
     * I typically look for culture adds, not a mere culture fit, to ensure the sharpness and diversification of the group. 
     * General interests, ways of working and background discussion
+    * Behavioral traits
 * **Step 2: In-Depth Interview with Senior (Enterprise) Architects, including topics:**
     * Customer focus
     * Frugality
