@@ -63,6 +63,7 @@ The superglue aspects of architects also require a hiring process that can ident
     * Behavioral traits
 * **Step 2: In-Depth Interview with Senior (Enterprise) Architects, including topics:**
     * Customer focus
+    * Legacy
     * Frugality
     * Bias for action
     * Ownership
