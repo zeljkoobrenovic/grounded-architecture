@@ -329,12 +329,75 @@ patterns and templates—to produce great technology strategies.
 </table>
 
 
+## Organization and Processes
+
+
+<table>
+<tr>
+<td class="icon-container">
+<img src="assets/images/books/accelerate.jpeg" class="book">
+</td>
+<td>
+
+<b>Accelerate</b>—acceleration is the second derivative of position (speed being the first), so if you want to move
+faster you need to accelerate. Sometimes, you need to jerk the system a bit, which in fact the proper term for the third
+derivative.
+</td>
+<td style="font-size: 50%; line-height: 12px; text-align: center">
+<div>
+<a target="_blank" href="https://obren.io/tools/catalogs/?id=design-tactics-high-performing-technology-organizations">
+<img src="assets/icons/notes.png" class="icon"><div>summary</div>
+</a>
+</div>
+</td>
+</tr>
+
+<tr>
+<td class="icon-container">
+<img src="assets/images/books/the-phoenix-project.jpeg" class="book">
+</td>
+<td>
+
+<b>The Phoenix Project</b> and The Unicorn Project by Gene Kim The Phoenix Project is a best-selling novel about DevOps.
+The book's characters reveal through their actions why it's so important for organizations to put security first and
+tear down the silos that have traditionally existed between development and operations teams.
+</td>
+</tr>
+
+<tr>
+<td class="icon-container">
+<img src="assets/images/books/cd.jpeg" class="book">
+</td>
+<td>
+
+<b>Continuous Delivery</b>— through automation of the build, deployment, and testing process, and improved collaboration
+between developers, testers, and operations, delivery teams can get changes released in a matter of hours-sometimes even
+minutes-no matter what the size of a project or the complexity of its code base.
+</td>
+</tr>
+</table>
+
+
 ## Hard Skills
 
 This section is heavily influenced by Gregor Hohpe's
 article [The Architect’s Path (Part 2 - Bookshelf)](https://architectelevator.com/architecture/architect-bookshelf/)
 
 <table>
+<tr>
+<td class="icon-container">
+<img src="assets/images/books/system-design-1.jpeg" class="book">
+</td>
+<td>
+<b>ystem Design Interview</b> (Volume 1 & 2) by Alex Xu. A "real-world" systems design books, not just for preparing for the systems design interview, but to strengthen your systems design muscle for the day-to-day architectural work.
+</td>
+<td style="font-size: 50%; line-height: 12px; text-align: center">
+<a target="_blank" href="https://blog.pragmaticengineer.com/system-design-interview-an-insiders-guide-review/">
+<img src="assets/icons/notes.png" class="icon"><div>summary</div>
+</a>
+</td>
+</tr>
+
 <tr>
 <td class="icon-container">
 <img src="assets/images/books/clean-code.jpeg" class="book">
@@ -432,49 +495,6 @@ and architectural styles.
 </td>
 </tr>
 
-
-<tr>
-<td class="icon-container">
-<img src="assets/images/books/the-phoenix-project.jpeg" class="book">
-</td>
-<td>
-
-<b>The Phoenix Project</b> and The Unicorn Project by Gene Kim The Phoenix Project is a best-selling novel about DevOps.
-The book's characters reveal through their actions why it's so important for organizations to put security first and
-tear down the silos that have traditionally existed between development and operations teams.
-</td>
-</tr>
-
-<tr>
-<td class="icon-container">
-<img src="assets/images/books/cd.jpeg" class="book">
-</td>
-<td>
-
-<b>Continuous Delivery</b>— through automation of the build, deployment, and testing process, and improved collaboration
-between developers, testers, and operations, delivery teams can get changes released in a matter of hours-sometimes even
-minutes-no matter what the size of a project or the complexity of its code base.
-</td>
-</tr>
-
-<tr>
-<td class="icon-container">
-<img src="assets/images/books/accelerate.jpeg" class="book">
-</td>
-<td>
-
-<b>Accelerate</b>—acceleration is the second derivative of position (speed being the first), so if you want to move
-faster you need to accelerate. Sometimes, you need to jerk the system a bit, which in fact the proper term for the third
-derivative.
-</td>
-<td style="font-size: 50%; line-height: 12px; text-align: center">
-<div>
-<a target="_blank" href="https://obren.io/tools/catalogs/?id=design-tactics-high-performing-technology-organizations">
-<img src="assets/icons/notes.png" class="icon"><div>summary</div>
-</a>
-</div>
-</td>
-</tr>
 
 <tr>
 <td class="icon-container">
