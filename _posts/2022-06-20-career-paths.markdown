@@ -33,7 +33,7 @@ My view of architecture has a strong engineering bias. Architects' career paths 
 
 In terms of career progression, Figure 1 shows an example of architecture career paths in relation to engineering. 
 
-![](assets/images/arch/career-paths.jpg)
+![](assets/images/arch/career-paths.png)
 ***Figure 1:** An example of architecture career paths in relation to engineering.*
 
 Stepping from an engineering position to an architecture requires three changes:
@@ -43,7 +43,7 @@ Stepping from an engineering position to an architecture requires three changes:
 
 After becoming Architects, I usually envision three tracks of progression:
 * **Senior Architect**, a generalist with a broader set of responsibilities,
-* **Principal Architect**, a world-class expert in some area of strategic interest for an organization (e.g., data, distributed systems, frontend).
+* **Principal Architect**, a special track for world-class experts in some area of strategic interest for an organization (e.g., data, distributed systems, frontend).
 * **Enterprise Architect**, being closer to product, management, strategy, and business functions, frequently serves as senior engineering leaders' right hand. 
 
 
