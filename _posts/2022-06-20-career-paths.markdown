@@ -46,6 +46,7 @@ After becoming Architects, I usually envision three tracks of progression:
 * **Principal Architect**, a special track for world-class experts in some area of strategic interest for an organization (e.g., data, distributed systems, frontend).
 * **Enterprise Architect**, being closer to product, management, strategy, and business functions, frequently serves as senior engineering leaders' right hand. 
 
+But an architect's path can take many different directions and have many other names. More important than a formal title is a continuous search for staying relevant and making an impact as a [superglue](superglue).
 
 <br>
 ## Hiring Superglue Architects
