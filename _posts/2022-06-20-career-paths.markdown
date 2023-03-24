@@ -13,9 +13,9 @@ excerpt: "Architects' career paths ideally stem from a strong engineering backgr
 ---
 
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
-     src="assets/images/aRCH/d844ac2c-c890-42b9-b0f1-fbb952a452cd-JM.polevaulting.071520.001.jpg">
+     src="assets/images/arch/pole-vault.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Sandi Morris attempts to clear the bar during a pole vaulting competition. Credit: Josh Morgan, greenvilleonline.com.
+Credit: <a href="https://flic.kr/p/8zKRAU">tableatny</a> (CC BY 2.0)
 </div>> **KEY POINTS:**
 >
 > * Architects' career paths ideally stem from a strong engineering background.
