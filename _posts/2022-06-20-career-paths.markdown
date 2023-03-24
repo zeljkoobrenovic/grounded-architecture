@@ -90,3 +90,6 @@ The superglue aspects of architects also require a hiring process that can ident
 With the described steps, you can get a solid overview of all critical aspects of superglue architects. In particular, the involvement of people outside architecture or engineering is crucial to minimize risk related to a lack of interest and ability to engage with all relevant stakeholders.
 
 ![](assets/images/arch/USATF_day_4_2018_(42992533101).jpg)
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Sandi Morris. (2022, March 1). In Wikipedia. https://nl.wikipedia.org/wiki/Sandi_Morris
+</div>
