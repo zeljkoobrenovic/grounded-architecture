@@ -72,7 +72,7 @@ The superglue aspects of architects also require a hiring process that can ident
     * Bias for action
     * Ownership
     * Innovation
-* **Step 3: In-Depth (System Design) Interview with Architects:**
+* **Step 3: In-Depth (System Design) Interview with Architects and Senior Engineers:**
     * Preparation:
         * A document describing a recent solution architecture of a candidate, providing the content for discussion and helping estimate the candidate's written skills.
         * (Optional) open-source code review of a candidate
