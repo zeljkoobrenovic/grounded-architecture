@@ -82,9 +82,9 @@ When having many guilds and teams, we have organized architects in several sub-a
 * Strategic initiatives teams. For instance, data strategy, public cloud strategy, transactions, or verticalization.
 
 Having places and events to connect central and distributed teams is essential. Such events can transform individual experiences into collective knowledge that can benefit the whole organization. In most organizations I worked in, distributed teams followed a similar pattern of rituals:
-* regular (e.g., bi-weekly) forums, with updates, announcements of architectural spikes, and sharing or architectural decisions (similar to Andrew Harmel-Law's [Advice Process](https://martinfowler.com/articles/scaling-architecture-conversationally.html))
-* annual or bi-annual summit, with several days of intensive knowledge sharing and workshops
-* ad-hoc workshops focusing on some explicit topic
+* Regular (e.g., bi-weekly) forums, with updates, announcements of architectural spikes, and sharing or architectural decisions (similar to Andrew Harmel-Law's [Advice Process](https://martinfowler.com/articles/scaling-architecture-conversationally.html))
+* Annual or bi-annual summit, with several days of intensive knowledge sharing and workshops
+* Ad-hoc workshops focusing on some explicit topic
 
 While the central team can provide some essential support, all communities must take the initiative and engage as many people as possible during these events. People should be active receivers of information rather than passive participants to ensure more involvement and commitment.
 

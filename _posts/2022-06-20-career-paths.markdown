@@ -29,7 +29,7 @@ Developing and hiring architects requires constantly raising the bar to ensure a
 <br>
 ## Typical Superglue Architect's Career Paths
 
-My view of architecture has a strong engineering bias. Architects' career paths ideally stem from a strong engineering background. While they may be exceptions, without significant real-world exposure to software engineering challenges, an architect cannot obtain enough practical knowledge to make technology decisions and build relations with developer teams. I also use Staff Engineering roles as an inspiration for the development of architects. For instance, Will Larson's book [Staff Engineer: Leadership beyond the management track](https://staffeng.com/guides/staff-archetypes/) is a helpful guide in defining the responsibilities of modern architects.
+My view of architecture has a strong engineering bias. Architects' career paths ideally stem from a strong engineering background. While there may be exceptions, without significant real-world exposure to software engineering challenges, an architect cannot obtain enough practical knowledge to make technology decisions and build relations with developer teams. I also use Staff Engineering roles as an inspiration for the development of architects. For instance, Will Larson's book [Staff Engineer: Leadership beyond the management track](https://staffeng.com/guides/staff-archetypes/) is a helpful guide in defining the responsibilities of modern architects.
 
 In terms of career progression, Figure 1 shows an example of architecture career paths in relation to engineering. 
 
@@ -41,9 +41,11 @@ Stepping from an engineering position to an architecture requires three changes:
 * Having a higher diversity of work, and 
 * Changing skills, as communication and influencer skills become crucial aspects of success.
 
-After becoming Architects, I usually envision three tracks of progression:
-* **Senior Architect**, a generalist with a broader set of responsibilities,
-* **Principal Architect**, a special track for world-class experts in some area of strategic interest for an organization (e.g., data, distributed systems, frontend).
+All architect are responsible for the direction, quality, and approach within a critical area. They need to combine in-depth knowledge of technical constraints, user needs, and organization level leadership.
+
+After the role of an Architect, I usually envision three tracks of progression:
+* **Senior Architect**, a generalist with broader responsibilities to, who digs deep into complex issues and identifies a suitable course of action. They often navigate from one critical area to another, guided by the organization's direction.
+* **Principal Architect**, a senior architect on a special focus on some area of strategic interest for an organization (e.g., data, distributed systems, frontend).
 * **Enterprise Architect**, being closer to product, management, strategy, and business functions, frequently serves as senior engineering leaders' right hand. 
 
 But an architect's path can take many different directions and have many other names. More important than a formal title is a continuous search for staying relevant and making an impact as a [superglue](superglue).
@@ -54,38 +56,40 @@ But an architect's path can take many different directions and have many other n
 
 <!-- ![](assets/images/aRCH/Female-Pole-Vault.jpg) -->
 
-It is vital to take more active ownership of hiring architects. Due to the vast diversity of how different companies define the architect's role, recruiters may need help understanding the role's requirements.
+In my experiences, it is vital to take more active ownership of hiring architects. Due to the vast diversity of how different companies define the architect's role, recruiters may need help understanding the role's requirements.
 
-The superglue aspects of architects also require a hiring process that can identify enough potential candidates to operate well according to such a vision. While you will need to design your hiring process, I typically have worked with some version of the following process:
+The superglue aspects of architects also require a hiring process that can identify candidates that can operate well according to such a vision. While you will need to design your hiring process, I typically have worked with some version of the following process (after standard recruitment screening):
 
 * **Step 1: Initial Screening Interview with Chief Architect:**
-    * I typically look for culture adds, not a mere culture fit, to ensure the sharpness and diversification of the group. 
-    * General interests, ways of working and background discussion
-    * Behavioral traits
+    * Look for culture adds, not a mere culture fit, to ensure the sharpness and diversification of the group. 
+    * Check general interests, ways of working and background
+    * Key [behavioral traits](behavior) match
+    * Some system design topics
 * **Step 2: In-Depth Interview with Senior (Enterprise) Architects, including topics:**
     * Customer focus
-    * Legacy
+    * Working with Legacy
     * Frugality
     * Bias for action
     * Ownership
     * Innovation
-* **Step 3: In-Depth Interview with Architects:**
+* **Step 3: In-Depth (System Design) Interview with Architects:**
     * Preparation:
         * A document describing a recent solution architecture of a candidate, providing the content for discussion and helping estimate the candidate's written skills.
         * (Optional) open-source code review of a candidate
-    * Cloud design patterns
-    * Domain-Driven Design
-    * Security
-    * Privacy
-    * Performance efficiency
-    * Reliability
-    * A range of other technical topics depending on the position  
+    * Topics may incude:
+        * Cloud design patterns
+        * Domain-Driven Design
+        * Security
+        * Privacy
+        * Performance efficiency
+        * Reliability
+        * A range of other technical topics depending on the position  
  
- For senior positions, I typically introduce an additional step of meeting additional senior leadership:
+ For senior positions, I typically introduce an additional step of meeting senior leadership:
  * **Step 4:**
-    * Interview with Engineering Leaders (Senior Solution Architects, Enterprise Architects, Principal Architect)
+    * Interview with Engineering Leaders
     * Interview with Product and Business Function Leaders (e.g., CPO, CMO, CFO)
-    * Interview with CTO (Enterprise Architect or Principal Architect)
+    * Interview with a CTO
 
 With the described steps, you can get a solid overview of all critical aspects of superglue architects. In particular, the involvement of people outside architecture or engineering is crucial to minimize risk related to a lack of interest and ability to engage with all relevant stakeholders.
 

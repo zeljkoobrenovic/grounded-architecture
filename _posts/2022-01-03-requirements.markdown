@@ -25,7 +25,7 @@ Considering the scale and complexity of the organizational context I operated in
 
 ## Goal 1: Executing At Scale
 
-we needed to find a way to support hundreds of teams, and thousands of projects, with significant complexity and diversity.
+We needed to find a way to support hundreds of teams, and thousands of projects, with significant complexity and diversity.
 
 ## Goal 2: Increasing Quality of Decisions with Data
 

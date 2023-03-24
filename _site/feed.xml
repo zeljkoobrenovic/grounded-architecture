@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-03-24T19:46:44+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: The Chief Architect’s Playbook</title><subtitle></subtitle><entry><title type="html">Favorite Quotes</title><link href="http://localhost:4000/quotes" rel="alternate" type="text/html" title="Favorite Quotes" /><published>2021-10-25T22:12:01+02:00</published><updated>2021-10-25T22:12:01+02:00</updated><id>http://localhost:4000/quotes</id><content type="html" xml:base="http://localhost:4000/quotes"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/books-g1b2675255_1920.jpg" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-03-24T23:40:20+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: The Chief Architect’s Playbook</title><subtitle></subtitle><entry><title type="html">Favorite Quotes</title><link href="http://localhost:4000/quotes" rel="alternate" type="text/html" title="Favorite Quotes" /><published>2021-10-25T22:12:01+02:00</published><updated>2021-10-25T22:12:01+02:00</updated><id>http://localhost:4000/quotes</id><content type="html" xml:base="http://localhost:4000/quotes"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/books-g1b2675255_1920.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/prettysleepy-2973588/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5430104">Amy</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5430104">Pixabay</a>
 </div>
@@ -339,7 +339,7 @@ Image by <a href="https://pixabay.com/users/geralt-9301/?utm_source=link-attribu
 
 <h2 id="goal-1-executing-at-scale">Goal 1: Executing At Scale</h2>
 
-<p>we needed to find a way to support hundreds of teams, and thousands of projects, with significant complexity and diversity.</p>
+<p>We needed to find a way to support hundreds of teams, and thousands of projects, with significant complexity and diversity.</p>
 
 <h2 id="goal-2-increasing-quality-of-decisions-with-data">Goal 2: Increasing Quality of Decisions with Data</h2>
 
@@ -410,11 +410,11 @@ Image by <a href="https://pixabay.com/users/3844328-3844328/?utm_source=link-att
 
 <p>I’ve always aimed to get reliable data about technology with as much as possible automation. Some examples of data I used include:</p>
 <ul>
-  <li>Source code, which contains an incredible amount of information about technology, people’s activity, team dependencies, and the quality of software systems.</li>
-  <li>Public cloud billing reports, which provide an overview and trends on which projects use which services, in which regions, and on what budgets.</li>
-  <li>Incident reports, which can reveal trends and dependencies among incidents.</li>
-  <li>Key business metrics, like vibrancy, which can show user activity on our systems.</li>
-  <li>Slack activity reports, which can help understand discussion topics and team interactions.</li>
+  <li><strong>Source code</strong>, which contains an incredible amount of information about technology, people’s activity, team dependencies, and the quality of software systems.</li>
+  <li><strong>Public cloud billing reports</strong>, which provide an overview and trends on which projects use which services, in which regions, and on what budgets.</li>
+  <li><strong>Incident reports</strong>, which can reveal trends and dependencies among incidents.</li>
+  <li><strong>Key business metrics</strong>, like vibrancy, which can show user activity on our systems.</li>
+  <li><strong>Slack activity reports</strong>, which can help understand discussion topics and team interactions.</li>
 </ul>
 
 <p>In the following sections, I detail several of these architectural data-driven tools.</p>
@@ -639,9 +639,9 @@ Credit: <a href="https://www.mckinsey.com/business-functions/mckinsey-digital/ou
 
 <p>Having places and events to connect central and distributed teams is essential. Such events can transform individual experiences into collective knowledge that can benefit the whole organization. In most organizations I worked in, distributed teams followed a similar pattern of rituals:</p>
 <ul>
-  <li>regular (e.g., bi-weekly) forums, with updates, announcements of architectural spikes, and sharing or architectural decisions (similar to Andrew Harmel-Law’s <a href="https://martinfowler.com/articles/scaling-architecture-conversationally.html">Advice Process</a>)</li>
-  <li>annual or bi-annual summit, with several days of intensive knowledge sharing and workshops</li>
-  <li>ad-hoc workshops focusing on some explicit topic</li>
+  <li>Regular (e.g., bi-weekly) forums, with updates, announcements of architectural spikes, and sharing or architectural decisions (similar to Andrew Harmel-Law’s <a href="https://martinfowler.com/articles/scaling-architecture-conversationally.html">Advice Process</a>)</li>
+  <li>Annual or bi-annual summit, with several days of intensive knowledge sharing and workshops</li>
+  <li>Ad-hoc workshops focusing on some explicit topic</li>
 </ul>
 
 <p>While the central team can provide some essential support, all communities must take the initiative and engage as many people as possible during these events. People should be active receivers of information rather than passive participants to ensure more involvement and commitment.</p>
@@ -878,18 +878,18 @@ Image by <a href="https://pixabay.com/users/bru-no-1161770/?utm_source=link-attr
 Image by <a href="https://pixabay.com/users/darksouls1-2189876/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3006650">Enrique Meseguer</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3006650">Pixabay</a>
 </div>
 
-<p>The following considerations and guiding principles have helped me make grounded architecture more effective:</p>
+<p>The following reflections provide some ideas and key lessons I learned while developing ideas of Grounded Architecture in practice:</p>
 
 <ul>
   <li><strong><a href="superglue">Architects as Superglue</a></strong>: I promote a view that architects in IT organizations should develop as “superglue,” people who hold architecture, technical details, business needs, and people together across a large organization or complex projects.</li>
-  <li><strong><a href="behaviors">Architects’ Behavioral Traits</a></strong>: Netflix’s overview of their valued behaviors is a good inspiration for coaching and developing architects. Borrowing from Netflix’s original values and rearranging the order I see as more relevant for architects, the following behavioral traits are crucial for architects are: communication, judgment, impact, inclusion, selflessness, courage, integrity, curiosity, innovation, and passion.</li>
-  <li><strong><a href="career">Rising the Bar: Architets’ Career Paths</a></strong>: Architects’ career paths ideally stem from a strong engineering background. Hiring architects requires constantly raising the bar to ensure a strong and diverse team structure.</li>
+  <li><strong><a href="behaviors">Architects’ Behavioral Traits</a></strong>: Netflix’s overview of their valued behaviors is a good inspiration for coaching and developing architects. Borrowing from Netflix’s original values and reorganizing them from an architectural perspective, I consider the following behavioral traits to be crucial for architects: communication, judgment, impact, inclusion, selflessness, courage, integrity, curiosity, innovation, and passion.</li>
+  <li><strong><a href="culture">Culture Map: Architects’ Culture Mindfield Compass</a></strong>: In multinational organizations, architects will need to work with many different cultures. I have found the work of Erin Meyer, The Culture Map, to be a very helpful tool for architects to work harmoniously with people from a broad array of different cultures and backgrounds.</li>
   <li><strong><a href="six-simple-rules">Six Simple Rules</a></strong>: Six Simple Rules emphasis that in today’s complicated business environment, you need to setup organisational structures based on cooperation. To deal with complexity, organizations should depend on the judgment of their people and on these people cooperating to utilize the organization’s capabilities to cope with complex problems. This view is well aligned with the ideas of Grounded Architecture.</li>
   <li><strong><a href="storm">In the Eye of the Storm</a></strong>: I want architecture always to address one of the most challenging problems our organization faces: a tension between technology, product, organization, and business functions.</li>
   <li><strong><a href="flexible-governance">Flexible Governance</a></strong>: I promote a technology governance model as a well-balanced hybrid of three different styles of governing: mandates and bans, taxes, and leading by context (nudge).</li>
   <li><strong><a href="economics">Economic Modeling</a></strong>: I sketch two answers to the question of the economic value of technology investments and architecture: the return on investment metaphor, and the financial options metaphor.</li>
   <li><strong><a href="compass">Curisity, Doubt, Vision, Scepticism: Architect’s Personal Compass</a></strong>: Architecture work can be being driven by four main motivators: Curiosity, where we follow our strong interests and desires to learn new things; Doubt, where we want to obtain deeper and more certain understanding; Belief and vision, where we set or follow vision and ideals; and Skepticism, where we question the possibility of reaching some goals.</li>
-  <li><strong><a href="culture">Culture Map: Architects’ Culture Mindfield Compass</a></strong>: In multinational organizations, architects will need to work with many different cultures. I have found the work of Erin Meyer, The Culture Map, to be a very helpful tool for architects to work harmoniously with people from a broad array of different cultures and backgrounds.</li>
+  <li><strong><a href="career">Rising the Bar: Architets’ Career Paths</a></strong>: Architects’ career paths ideally stem from a strong engineering background. Hiring architects requires constantly raising the bar to ensure a strong and diverse team structure.</li>
 </ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[I have identified the following a set of considerations and guiding principles that can help put the ideas of Grounded Architecture into practice and get things done: Developing Architects as Superglue, Being in the Eye of the Storm, Embracing Diversity, Distribute & Align Decisions, Having Flexible Governance, Applying Economic Modeling, Curisity, Doubt, Vision, Scepticism: Architect’s Personal Compass, and Culture Map: Architects’ Culture Mindfield Compass.]]></summary></entry><entry><title type="html">Architects as Superglue</title><link href="http://localhost:4000/superglue" rel="alternate" type="text/html" title="Architects as Superglue" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/superglue</id><content type="html" xml:base="http://localhost:4000/superglue"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/superglue/superglue.png" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 </div>

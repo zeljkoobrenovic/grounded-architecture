@@ -40,16 +40,16 @@ The *People Pillar* is another essential element of Grounded Architecture. A str
 
 Lastly, the *Architecture Activities Platform* leverages data and people to create a data-informed, deep, and broad impact.
 
-I have identified the following [Reflections](reflections) that can help put the ideas of Grounded Architecture into practice and get things done:
+The following [reflections](reflections) provide some ideas and key lessons I learned while developing ideas of Grounded Architecture in practice:
 * [Architects as Superglue](superglue),
 * [Architects' Behavioral Traits](behaviors),
-* [Rising the Bar: Architets' Career Paths](career),
+* [Culture Map: Architects' Culture Mindfield Compass](culture),
 * [Six Simple Rules](six-simple-rules),
 * [In the Eye of the Storm](storm),
 * [Flexible Governance](flexible-governance),
 * [Economic Modeling](economics),
 * [Curisity, Doubt, Vision, Scepticism: Architect's Personal Compass](compass), and
-* [Culture Map: Architects' Culture Mindfield Compass](culture).
+* [Rising the Bar: Architets' Career Paths](career).
 
 When Grounded Architecture is in place, it can have a significant [positive impact](impact) on the functioning of an organization:
 

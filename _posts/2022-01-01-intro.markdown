@@ -42,16 +42,16 @@ The *[People Pillar](people-pillar)* represents a strong network of people doing
 
 Lastly, the *[Architecture Activities Platform](activities-platform)* leverages data and people to create a data-informed, deep, and broad impact.
 
-I have identified the following [Reflections](reflections) that can help put the ideas into practice and build the right culture:
+The following [reflections](reflections) provide some ideas and key lessons I learned while developing ideas of Grounded Architecture in practice:
 * [Architects as Superglue](superglue),
 * [Architects' Behavioral Traits](behaviors),
-* [Rising the Bar: Architets' Career Paths](career),
+* [Culture Map: Architects' Culture Mindfield Compass](culture),
 * [Six Simple Rules](six-simple-rules),
 * [In the Eye of the Storm](storm),
 * [Flexible Governance](flexible-governance),
 * [Economic Modeling](economics),
 * [Curisity, Doubt, Vision, Scepticism: Architect's Personal Compass](compass), and
-* [Culture Map: Architects' Culture Mindfield Compass](culture).
+* [Rising the Bar: Architets' Career Paths](career).
 
 The rest of this site will explain in detail the grounded architecture approach. In this section, I want to tell a few things about my motivation to write this playbook.
 

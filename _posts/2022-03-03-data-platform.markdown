@@ -33,11 +33,11 @@ The good news is that big organizations have lots of data that, if used wisely, 
 ## Examples of Data Sources and Tools
 
 I've always aimed to get reliable data about technology with as much as possible automation. Some examples of data I used include:
-* Source code, which contains an incredible amount of information about technology, people's activity, team dependencies, and the quality of software systems.
-* Public cloud billing reports, which provide an overview and trends on which projects use which services, in which regions, and on what budgets.
-* Incident reports, which can reveal trends and dependencies among incidents.
-* Key business metrics, like vibrancy, which can show user activity on our systems.
-* Slack activity reports, which can help understand discussion topics and team interactions.
+* **Source code**, which contains an incredible amount of information about technology, people's activity, team dependencies, and the quality of software systems.
+* **Public cloud billing reports**, which provide an overview and trends on which projects use which services, in which regions, and on what budgets.
+* **Incident reports**, which can reveal trends and dependencies among incidents.
+* **Key business metrics**, like vibrancy, which can show user activity on our systems.
+* **Slack activity reports**, which can help understand discussion topics and team interactions.
 
 In the following sections, I detail several of these architectural data-driven tools.
 
