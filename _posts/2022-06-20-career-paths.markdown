@@ -2,7 +2,7 @@
 layout: post
 section: "Reflections"
 title: " Rising The Bar: Architects' Career Paths"
-position: 6004
+position: 6020
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 permalink: career
@@ -13,9 +13,9 @@ excerpt: "Architects' career paths ideally stem from a strong engineering backgr
 ---
 
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
-     src="assets/images/aRCH/d844ac2c-c890-42b9-b0f1-fbb952a452cd-JM.polevaulting.071520.001.jpg">
+     src="assets/images/arch/pole-vault.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Sandi Morris attempts to clear the bar during a pole vaulting competition. Credit: Josh Morgan, greenvilleonline.com.
+Credit: <a href="https://flic.kr/p/8zKRAU">tableatny</a> (CC BY 2.0)
 </div>> **KEY POINTS:**
 >
 > * Architects' career paths ideally stem from a strong engineering background.
@@ -33,7 +33,7 @@ My view of architecture has a strong engineering bias. Architects' career paths 
 
 In terms of career progression, Figure 1 shows an example of architecture career paths in relation to engineering. 
 
-![](assets/images/arch/career-paths.jpg)
+![](assets/images/arch/career-paths.png)
 ***Figure 1:** An example of architecture career paths in relation to engineering.*
 
 Stepping from an engineering position to an architecture requires three changes:
@@ -43,9 +43,10 @@ Stepping from an engineering position to an architecture requires three changes:
 
 After becoming Architects, I usually envision three tracks of progression:
 * **Senior Architect**, a generalist with a broader set of responsibilities,
-* **Principal Architect**, a world-class expert in some area of strategic interest for an organization (e.g., data, distributed systems, frontend).
+* **Principal Architect**, a special track for world-class experts in some area of strategic interest for an organization (e.g., data, distributed systems, frontend).
 * **Enterprise Architect**, being closer to product, management, strategy, and business functions, frequently serves as senior engineering leaders' right hand. 
 
+But an architect's path can take many different directions and have many other names. More important than a formal title is a continuous search for staying relevant and making an impact as a [superglue](superglue).
 
 <br>
 ## Hiring Superglue Architects
@@ -87,3 +88,5 @@ The superglue aspects of architects also require a hiring process that can ident
     * Interview with CTO (Enterprise Architect or Principal Architect)
 
 With the described steps, you can get a solid overview of all critical aspects of superglue architects. In particular, the involvement of people outside architecture or engineering is crucial to minimize risk related to a lack of interest and ability to engage with all relevant stakeholders.
+
+![](assets/images/arch/USATF_day_4_2018_(42992533101).jpg)

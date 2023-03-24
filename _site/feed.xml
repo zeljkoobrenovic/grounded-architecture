@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-03-20T13:25:12+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: The Chief Architect’s Playbook</title><subtitle></subtitle><entry><title type="html">Favorite Quotes</title><link href="http://localhost:4000/background" rel="alternate" type="text/html" title="Favorite Quotes" /><published>2021-10-25T22:12:01+02:00</published><updated>2021-10-25T22:12:01+02:00</updated><id>http://localhost:4000/quotes</id><content type="html" xml:base="http://localhost:4000/background"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/books-g1b2675255_1920.jpg" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-03-24T19:17:08+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: The Chief Architect’s Playbook</title><subtitle></subtitle><entry><title type="html">Favorite Quotes</title><link href="http://localhost:4000/quotes" rel="alternate" type="text/html" title="Favorite Quotes" /><published>2021-10-25T22:12:01+02:00</published><updated>2021-10-25T22:12:01+02:00</updated><id>http://localhost:4000/quotes</id><content type="html" xml:base="http://localhost:4000/quotes"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/books-g1b2675255_1920.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/prettysleepy-2973588/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5430104">Amy</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5430104">Pixabay</a>
 </div>
@@ -66,16 +66,21 @@ Your organization has to <b>earn its way to an effective architecture function</
 <div class="author">-Gregor Hophe</div>
 </div>
 
-<h2 id="decisions">Decisions</h2>
+<h2 id="complexity">Complexity</h2>
 
 <div class="quote">
-Architectural decisions are design decisions that are <b>hard to make</b> or <b>costly to change</b>.
-<div class="author">-Olaf Zimmermann</div>
+Excessive complexity is nature’s punishment for <b>organizations that are unable to make decisions.</b>
+<div class="author">-Gregor Hohpe</div>
 </div>
 
 <div class="quote">
-Excessive complexity is nature’s punishment for <b>organizations that are unable to make decisions.</b>.
-<div class="author">-Gregor Hohpe</div>
+<b>Metawork is more interesting than work</b>. ... we love complicated little puzzles to solve, so we keep overengineering everything.
+<div class="author">-Neal Ford</div>
+</div>
+
+<div class="quote">
+Developers are <b>drawn to complexity like moths to a flame</b> often with the same result.
+<div class="author">-Neal Ford</div>
 </div>
 
 <h2 id="other">Other</h2>
@@ -88,6 +93,11 @@ Architecture is just a collective hunch, a <b>shared hallucination</b>, an asser
 <div class="quote">
 <b>Architects code</b>, but not to deliver code. Rather, to understand the ramifications of the decisions that they're making.
 <div class="author">-Gregor Hohpe, Dave Farley</div>
+</div>
+
+<div class="quote">
+Architectural decisions are design decisions that are <b>hard to make</b> or <b>costly to change</b>.
+<div class="author">-Olaf Zimmermann</div>
 </div>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[My favorite quotes about architecture.]]></summary></entry><entry><title type="html">Context: Fast Moving Global Organizations</title><link href="http://localhost:4000/context" rel="alternate" type="text/html" title="Context: Fast Moving Global Organizations" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/context</id><content type="html" xml:base="http://localhost:4000/context"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/roller-coaster-3605743_1920.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/paulbr75-2938186/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3605743">Paul Brennan</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3605743">Pixabay</a>
@@ -375,7 +385,7 @@ Image by <a href="https://pixabay.com/users/ichigo121212-11728/?utm_source=link-
 
 <p>The <em>People Pillar</em> is a strong network of people doing architecture across the organization. This pillar is crucial to ensure that architecture function has any tangible impact. As noted by Gregor Hohpe, to transform an organization, you do not need to solve mathematical equations; you need to move people. The <a href="people-pillar">People Pillar</a> section provides more details.</p>
 
-<p>Lastly, the <em>Architecture Activities Platform</em> does everything that architecture typically does, leveraging data and people pillars to create a data-informed, organization-wide impact. The <a href="activities-platform">Architecture Activites Platform</a> provides more details on Technology Architecture Activities Platform. While the Architecture Activities Platform looks most like a typical architecture function, I consider such a platform only valid with the healthy Data and People pillars. Without data and people connections, an Architecture Activities Platform becomes an ivory tower institution, generating opinion-based decisions disconnected from reality.</p>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[I introduce three elements of Grounded Architecture: The Data Pillar, The People Pillar, The Architecture Activities Platform.]]></summary></entry><entry><title type="html">Data Pillar</title><link href="http://localhost:4000/quotes" rel="alternate" type="text/html" title="Data Pillar" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/data-platform</id><content type="html" xml:base="http://localhost:4000/quotes"><![CDATA[<p><img src="assets/images/arch/architecture-1857175_1920.jpg" style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" /></p>
+<p>Lastly, the <em>Architecture Activities Platform</em> does everything that architecture typically does, leveraging data and people pillars to create a data-informed, organization-wide impact. The <a href="activities-platform">Architecture Activites Platform</a> provides more details on Technology Architecture Activities Platform. While the Architecture Activities Platform looks most like a typical architecture function, I consider such a platform only valid with the healthy Data and People pillars. Without data and people connections, an Architecture Activities Platform becomes an ivory tower institution, generating opinion-based decisions disconnected from reality.</p>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[I introduce three elements of Grounded Architecture: The Data Pillar, The People Pillar, The Architecture Activities Platform.]]></summary></entry><entry><title type="html">Data Pillar</title><link href="http://localhost:4000/data-platform" rel="alternate" type="text/html" title="Data Pillar" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/data-platform</id><content type="html" xml:base="http://localhost:4000/data-platform"><![CDATA[<p><img src="assets/images/arch/architecture-1857175_1920.jpg" style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/3844328-3844328/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1857175">Lorenzo Cafaro</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1857175">Pixabay</a>
 </div>
@@ -933,6 +943,7 @@ Image by <a href="https://pixabay.com/users/darksouls1-2189876/?utm_source=link-
 <ul>
   <li><strong>Hard (technical) skills</strong>, including extensive knowledge of (for both <a href="https://obren.io/tools?tag=technologies">new technology and legacy technology stacks</a>):
     <ul>
+      <li><a href="https://blog.pragmaticengineer.com/system-design-interview-an-insiders-guide-review/"><strong>System design</strong></a>,</li>
       <li><a href="https://obren.io/tools/catalogs/?id=design-tactics-high-performing-technology-organizations">Engineering <strong>processes</strong></a>,</li>
       <li><a href="https://obren.io/tools?tag=design_patterns"><strong>Design patterns</strong></a> and <a href="https://obren.io/tools?tag=design_tactics"><strong>tactics</strong></a>,</li>
       <li><a href="https://obren.io/tools?tag=security"><strong>Security and privacy</strong></a> by design,</li>

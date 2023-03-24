@@ -58,6 +58,7 @@ Architects have to have proper skill sets. By skills, I mean possessing knowledg
 A typical skillset of an architects includes (I provide links to some of my [tools](https://obren.io/tools) I found useful for obtaining these skills):
 
 * **Hard (technical) skills**, including extensive knowledge of (for both [new technology and legacy technology stacks](https://obren.io/tools?tag=technologies)):
+    * [**System design**](https://blog.pragmaticengineer.com/system-design-interview-an-insiders-guide-review/), 
     * [Engineering **processes**](https://obren.io/tools/catalogs/?id=design-tactics-high-performing-technology-organizations), 
     * [**Design patterns**](https://obren.io/tools?tag=design_patterns) and [**tactics**](https://obren.io/tools?tag=design_tactics),  
     * [**Security and privacy**](https://obren.io/tools?tag=security) by design,

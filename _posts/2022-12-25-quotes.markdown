@@ -5,7 +5,7 @@ title: "Favorite Quotes"
 position: 12101
 date:   2021-10-25 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
-permalink: background
+permalink: quotes
 icon: quotes.png
 timetoread: 15 min
 excerpt: My favorite quotes about architecture.
@@ -81,17 +81,23 @@ Your organization has to <b>earn its way to an effective architecture function</
 <div class="author">-Gregor Hophe</div>
 </div>
 
-## Decisions
+## Complexity
 
 <div class="quote">
-Architectural decisions are design decisions that are <b>hard to make</b> or <b>costly to change</b>.
-<div class="author">-Olaf Zimmermann</div>
-</div>
-
-<div class="quote">
-Excessive complexity is nature’s punishment for <b>organizations that are unable to make decisions.</b>.
+Excessive complexity is nature’s punishment for <b>organizations that are unable to make decisions.</b>
 <div class="author">-Gregor Hohpe</div>
 </div>
+
+<div class="quote">
+<b>Metawork is more interesting than work</b>. ... we love complicated little puzzles to solve, so we keep overengineering everything.
+<div class="author">-Neal Ford</div>
+</div>
+
+<div class="quote">
+Developers are <b>drawn to complexity like moths to a flame</b> often with the same result.
+<div class="author">-Neal Ford</div>
+</div>
+
 
 ## Other
  
@@ -105,5 +111,8 @@ Architecture is just a collective hunch, a <b>shared hallucination</b>, an asser
 <div class="author">-Gregor Hohpe, Dave Farley</div>
 </div>
 
-
+<div class="quote">
+Architectural decisions are design decisions that are <b>hard to make</b> or <b>costly to change</b>.
+<div class="author">-Olaf Zimmermann</div>
+</div>
 
