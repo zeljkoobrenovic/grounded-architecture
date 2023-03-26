@@ -335,6 +335,13 @@ patterns and templates—to produce great technology strategies.
 
 <b>Escaping the Build Trap</b> by Melissa Perri is a practical guide to product management, product strategy, and ensuring product success.
 </td>
+<td style="font-size: 50%; line-height: 12px; text-align: center">
+<div>
+<a target="_blank" href="https://produxlabs.com/product-thinking">
+<img src="assets/icons/playlist.png" class="icon"><div>playlist</div>
+</a>
+</div>
+</td>
 </tr>
 </table>
 
