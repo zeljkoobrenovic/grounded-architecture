@@ -280,7 +280,7 @@ effective architectures for information systems.
 </tr>
 </table>
 
-## Business and Strategy
+## Business, Product, Strategy
 <table>
 <tr>
 <td class="icon-container">
@@ -324,6 +324,16 @@ effective architectures for information systems.
 
 <b>Technology Strategy Patterns</b> by Eben Hewitt provides a shared language—in the form of repeatable, practical
 patterns and templates—to produce great technology strategies.
+</td>
+</tr>
+
+<tr>
+<td class="icon-container">
+<img src="assets/images/books/build-trap.jpg" class="book">
+</td>
+<td>
+
+<b>Escaping the Build Trap</b> by Melissa Perri is a practical guide to product management, product strategy, and ensuring product success.
 </td>
 </tr>
 </table>
