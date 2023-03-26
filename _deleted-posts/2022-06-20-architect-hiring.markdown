@@ -2,7 +2,7 @@
 layout: post
 section: "Reflections"
 title: " Rising The Bar: Architects' Career Paths"
-position: 6020
+position: 16105
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 permalink: career

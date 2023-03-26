@@ -80,7 +80,12 @@ A typical skillset of an architects includes (I provide links to some of my [too
 <br>
 ### Impact 
 
-Impact should be measured as a benefit for the business. Architects need to ensure that what they are doing profits the business. New architects start as students or trainees having skills but little impact. But sooner than later, fresh architects need to get out into the world and make an impact. Architects that do not make an impact do not have a place in a for-profit business.
+Impact should be measured as a benefit for the business. Architects need to ensure that what they are doing profits the business:
+* They identify, tackle and deliver on **strategic problems** at the organization and area level.
+* They have a **track record of deep and/or broad impact** on a product or technology area. 
+* They **deliver solutions that few others can**, either by your **heavy lifting** or the **ability to orchestrate large group efforts**.
+
+New architects start as students or trainees having skills but little impact. But sooner than later, fresh architects need to get out into the world and make an impact. **Architects that do not make an impact do not have a place in a for-profit business**. 
 
 Examples of such impact may include:
 * **Aligning** business, product, technology and organizatinal strategies (see the [next section](storm) for more details),
@@ -93,13 +98,12 @@ Examples of such impact may include:
 <br>
 ### Though Leadership
 
-Thought leadership acknowledges that experienced architects should do more than make architecture. This "more" can have different forms but should include at least some of the following activities: 
-
-* **Mentoring** junior architects and engineers, 
-* **Publishing** articles, 
-* Giving **talks**, 
-* Starting **initiatives**, and 
-* Driving strategic **decisions**.
+Thought leadership acknowledges that experienced architects should do more than make architecture: 
+* They are a **role model for others** in the company on both the **technical** and **cultural** front.  
+* Their **technical influence** may extend **beyond you organization and reach the industry at large**. 
+* They **lead efforts** that **solve important problems** at the engineering area level. 
+* They may **contribute to the broader technical community** through **tech talks**, **education**, **publications**, **open source projects**, etc. 
+* They **raise the bar of the engineering culture** across the company.
 
 It is crucial for an organization that a senior architect mentors junior architects. Feedback cycles in (software) architecture are inherently slow. Mentoring can save new architects many years of learning by doing and making mistakes. The [People Pillar](people-pillar) should create spaces for such coaching and collaborations.
 
