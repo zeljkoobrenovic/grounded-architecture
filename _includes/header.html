@@ -4,7 +4,7 @@
         {%- assign page_paths = site.header_pages | default: default_paths -%}
         {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
         <a class="site-title" rel="author" href="{{ "/" | relative_url }}" style="margin-bottom: 0; color: grey; white-space: nowrap; overflow: none; max-width: 100%">
-        <div style="height: 30px">{{ site.title | escape }}</div>
+        <div style="height: 40px; white-space: nowrap; overflow: hidden; margin-bottom: -10px">{{ site.title | escape }}</div>
         <div style="color: #a0a0a0; font-size: 13px;">Version 0.9</div>
         </a>
 
