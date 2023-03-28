@@ -48,8 +48,7 @@ The following [reflections](reflections) provide some ideas and key lessons I le
 * [In the Eye of the Storm](storm),
 * [Flexible Governance](flexible-governance),
 * [Economic Modeling](economics),
-* [Curisity, Doubt, Vision, Scepticism: Architect's Personal Compass](compass), and
-* [Rising the Bar: Architets' Career Paths](career).
+* [Raising the Bar: Architets' Career Paths](career).
 
 When Grounded Architecture is in place, it can have a significant [positive impact](impact) on the functioning of an organization:
 

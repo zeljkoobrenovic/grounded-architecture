@@ -139,19 +139,6 @@ effective architectures for information systems.
 <table>
 <tr>
 <td class="icon-container">
-<img src="assets/images/books/staff-engineer.jpeg" class="book">
-</td>
-<td>
-<b>Staff Engineer</b> by Will Larson, defined technical leadership beyond the management track. I share many of the views presented in this book regarding development and skills of architects. 
-</td>
-<td style="font-size: 50%; line-height: 12px; text-align: center">
-<a target="_blank" href="https://staffeng.com/guides/">
-<img src="assets/icons/web.png" class="icon"><div>reading notes</div>
-</a>
-</td>
-</tr>
-<tr>
-<td class="icon-container">
 <img src="assets/images/books/staff-engineer-or.jpg" class="book">
 </td>
 <td>
@@ -160,6 +147,19 @@ effective architectures for information systems.
 <td style="font-size: 50%; line-height: 12px; text-align: center">
 <a target="_blank" href="https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/">
 <img src="assets/icons/web.png" class="icon"><div>website</div>
+</a>
+</td>
+</tr>
+<tr>
+<td class="icon-container">
+<img src="assets/images/books/staff-engineer.jpeg" class="book">
+</td>
+<td>
+<b>Staff Engineer</b> by Will Larson, defined technical leadership beyond the management track. I share many of the views presented in this book regarding development and skills of architects. 
+</td>
+<td style="font-size: 50%; line-height: 12px; text-align: center">
+<a target="_blank" href="https://staffeng.com/guides/">
+<img src="assets/icons/web.png" class="icon"><div>reading notes</div>
 </a>
 </td>
 </tr>
