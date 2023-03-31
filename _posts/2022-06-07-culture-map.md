@@ -1,8 +1,8 @@
 ---
 layout: post
-section: "Reflections"
+section: "Doing Architecture"
 title: "The Culture Map: Architects' Culture Mindfield Compass"
-position: 6004
+position: 6007
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 icon: culture.png
@@ -22,7 +22,7 @@ Image by <a href="https://pixabay.com/users/mailanmaik-4340251/?utm_source=link-
 > * Meyer’s model contains eight scales, each representing a key area, showing how cultures vary from extreme to extreme: Communicating, Evaluating, Persuading, Leading, Deciding, Trusting, Disagreeing, and Scheduling.
 
 
-In multinational organizations, architects will need to work with many different cultures. I have found the work of Erin Meyer, The Culture Map, to be a beneficial tool for architects to work harmoniously with people from a broad array of different cultures and backgrounds. Awareness of cultural differences is even more important for architects, as they are bridging diverse cultures and domains (technology, business, domain, organization).
+In multinational organizations, architects will need to work with many different cultures. I have found the work of Erin Meyer, The Culture Map, to be a beneficial tool to work harmoniously with people from a broad array of different cultures and backgrounds. Awareness of cultural differences is even more important for architects, as they are bridging diverse cultures and domains (technology, business, domain, organization).
 
 Meyer’s model contains eight scales, each representing a key area, showing how cultures vary from extreme to extreme. The eight scales describe a continuum between the two ends which are diametric opposite or competing positions:
 
@@ -173,4 +173,3 @@ I also found Erin Meyer's four rules on how to bridge the cultural gaps:
 * [Navigating the Cultural Minefield](https://hbr.org/2014/05/navigating-the-cultural-minefield), by Erin Meyer, Harvard Business Review, 2014
 * [Increase Your Team’s Performance with The Culture Map](https://awarenessagents.wordpress.com/2019/06/07/increase-your-teams-performance-with-the-culture-map/), by Andreea, 2019
 * [The Culture Map Lecture Notes](https://docs.google.com/presentation/d/1yn-IHK9iXJ1Qgxj_uw16WKQ1Qp9uXKGSSUbJg0xT9eE/edit?usp=sharing), 2023
-

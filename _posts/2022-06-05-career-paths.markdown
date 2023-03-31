@@ -1,8 +1,8 @@
 ---
 layout: post
-section: "Reflections"
-title: " Raising The Bar: Architects' Career Paths"
-position: 6020
+section: "Being Architect"
+title: "Architects' Career Paths: Raising the Bar"
+position: 6004
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 permalink: career
@@ -23,13 +23,11 @@ Credit: <a href="https://flic.kr/p/8zKRAU">tableatny</a> (CC BY 2.0)
 
 
 <br>
-<br>
-Developing and hiring architects requires constantly raising the bar to ensure a strong and diverse team structure. Having more architects does not necessarily leads to a better team. Having good alignment and diversity of perspective is even more important for an architecture team than for other groups.
 
 <br>
 ## Typical Architect's Career Paths
 
-My view of architecture has a strong engineering bias. Architects' career paths ideally stem from a strong engineering background. While there may be exceptions, without significant real-world exposure to software engineering challenges, an architect cannot obtain enough practical knowledge to make technology decisions and build relations with developer teams. I also use Staff Engineering roles as an inspiration for the development of architects. For instance, Will Larson's book [Staff Engineer: Leadership beyond the management track](https://staffeng.com/guides/staff-archetypes/) is a helpful guide in defining the responsibilities of modern architects.
+My view of architecture has a strong engineering bias. Architects' career paths ideally stem from a strong engineering background. While there may be exceptions, without significant real-world exposure to software engineering challenges, an architect cannot obtain enough practical knowledge to make technology decisions and build relations with developer teams. 
 
 In terms of career progression, Figure 1 shows an example of architecture career paths in relation to engineering. 
 
@@ -57,44 +55,22 @@ But an architect's path can take many different directions and have many other n
 
 <!-- ![](assets/images/aRCH/Female-Pole-Vault.jpg) -->
 
+Developing and hiring architects requires constantly raising the bar to ensure a strong and diverse team structure. Having more architects does not necessarily leads to a better team. Having good alignment and diversity of perspective is even more important for an architecture team than for other groups.
+
 In my experiences, it is vital to take more active ownership of hiring architects. Due to the vast diversity of how different companies define the architect's role, recruiters may need help understanding the role's requirements.
 
 The superglue aspects of architects also require a hiring process that can identify candidates that can operate well according to such a vision. While you will need to design your hiring process, I typically have worked with some version of the following process (after standard recruitment screening):
 
 * **Step 1: Initial Screening Interview with Chief Architect:**
-    * Look for culture adds, not a mere culture fit, to ensure the sharpness and diversification of the group. 
-    * Check general interests, ways of working and background
-    * Key [behavioral traits](behavior) match
-    * Some system design topics
-* **Step 2: In-Depth Interview with Senior (Enterprise) Architects, including topics:**
-    * Customer focus
-    * Working with Legacy
-    * Frugality
-    * Bias for action
-    * Ownership
-    * Innovation
+* **Step 2: In-Depth Interview with Senior/Principle/Enterprise Architects:**
 * **Step 3: In-Depth (System Design) Interview with Architects and Senior Engineers:**
     * Preparation:
         * A document describing a recent solution architecture of a candidate, providing the content for discussion and helping estimate the candidate's written skills.
         * (Optional) open-source code review of a candidate
-    * Topics may incude:
-        * Cloud design patterns
-        * Domain-Driven Design
-        * Security
-        * Privacy
-        * Performance efficiency
-        * Reliability
-        * A range of other technical topics depending on the position  
- 
- For senior positions, I typically introduce an additional step of meeting senior leadership:
- * **Step 4:**
+For senior positions, I typically introduce an additional step of meeting senior leadership:
+* **Step 4:**
     * Interview with Engineering Leaders
     * Interview with Product and Business Function Leaders (e.g., CPO, CMO, CFO)
     * Interview with a CTO
 
 With the described steps, you can get a solid overview of all critical aspects of superglue architects. In particular, the involvement of people outside architecture or engineering is crucial to minimize risk related to a lack of interest and ability to engage with all relevant stakeholders.
-
-![](assets/images/arch/USATF_day_4_2018_(42992533101).jpg)
-<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Sandi Morris. (2022, March 1). In Wikipedia. https://nl.wikipedia.org/wiki/Sandi_Morris
-</div>

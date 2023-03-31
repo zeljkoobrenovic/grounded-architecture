@@ -1,8 +1,8 @@
 ---
 layout: post
-section: "Reflections"
+section: "Being Architect"
 title: "Architects as Superglue"
-position: 6001
+position: 6002
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 permalink: superglue
@@ -106,6 +106,9 @@ Thought leadership acknowledges that experienced architects should do more than 
 * They **raise the bar of the engineering culture** across the company.
 
 It is crucial for an organization that a senior architect mentors junior architects. Feedback cycles in (software) architecture are inherently slow. Mentoring can save new architects many years of learning by doing and making mistakes. The [People Pillar](people-pillar) should create spaces for such coaching and collaborations.
+
+
+
 
 <br>
 ### Balanced Development

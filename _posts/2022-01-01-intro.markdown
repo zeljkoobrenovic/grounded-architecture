@@ -42,15 +42,19 @@ The *[People Pillar](people-pillar)* represents a strong network of people doing
 
 Lastly, the *[Architecture Activities Platform](activities-platform)* leverages data and people to create a data-informed, deep, and broad impact.
 
-The following [reflections](reflections) provide some ideas and key lessons I learned while developing ideas of Grounded Architecture in practice:
-* [Architects as Superglue](superglue),
-* [Architects' Behavioral Traits](behaviors),
-* [Culture Map: Architects' Culture Mindfield Compass](culture),
-* [Six Simple Rules](six-simple-rules),
-* [In the Eye of the Storm](storm),
-* [Flexible Governance](flexible-governance),
-* [Economic Modeling](economics),
-* [Architets' Career Paths](career).
+As a part of my work on Grounded Architecture, I also provide key lessons I learned while developing ideas of Grounded Architecture in practice, grouped into two parts:
+
+* [Being an Architect](being-architect):
+  * [Architects as Superglue](superglue),
+  * [Architects' Behavioral Traits](behaviors),
+  * [Making an Impact as an Architect](making-impact),
+  * [Architets' Career Paths](career).
+* [Doing Architecture](doing-architecture):
+  * [Culture Map: Architects' Culture Mindfield Compass](culture),
+  * [Six Simple Rules](six-simple-rules),
+  * [In the Eye of the Storm](storm),
+  * [Flexible Governance](flexible-governance),
+  * [Economic Modeling](economics),
 
 The rest of this site will explain in detail the grounded architecture approach. In this section, I want to tell a few things about my motivation to write this playbook.
 
@@ -78,7 +82,7 @@ This playbook generalize my experiences in a written form. I have written these 
 
 Second, by generalizing and putting my experiences on paper, I hope to create more usable materials to help others in similar situations. I also expect helpful feedback from a broader community by sharing these materials.
 
-## A Part of the Bigger Picture: A Trilogy in Four Parts
+## A Part of the Bigger Picture: A Trilogy in Five Parts
 
 This book is a part of the [collection of open-source tools and resources](https://obren.io/) I have built in the past ten years to help me in architectural work (Figure 2).
 
@@ -87,9 +91,11 @@ This book is a part of the [collection of open-source tools and resources](https
 
  The other three tools include:
 
-* [**Sokrates**](https://sokrates.dev): is an open-source source code analysis tool that implements my vision of documenting and analyzing software architectures of complex systems. Sokrates provides a pragmatic, inexpensive way to extract rich data from source code repositories—no need for lengthy interviews and workshops. Just bring the code. Sokrates can help you understand your code by making visible the size, complexity, and coupling of software and all people interactions and team topologies.
+* [**Sokrates**](https://sokrates.dev): is an open-source source code analysis tool that implements my vision of documenting and analyzing software architectures of complex systems. Sokrates provides a pragmatic, inexpensive way to extract rich data from source code repositories—no need for lengthy interviews and workshops. Just bring the code. Sokrates can help you understand your code by making the size, complexity, and coupling of software and all people interactions and team topologies visible.
 * [**Productivity Tools**](https://obren.io/tools): for years I have been building simple personal productivity and other tools. This site organizes and shares them for free. I use many of them in my daily work as an architect.
 * [**359° Overview of Tech Trends**](https://www.obren359.com/) is my collection of knowledge resources with the most recent articles, podcasts, and videos from over 20 authoritative, high-quality sources (IEEE, ACM, GOTO Conf, SE Radio, Martin Fowler's site, Ph.D. Theses). Architects need to learn fast, and finding good knowledge sources in the see of articles and posts takes work.
+* [**Design Instability**](https://design-instability.com/) co-authored with Erik Stolterman, is a collection of essays where we connected experiences of designing/architecting in three disciplines: classical design, UX design, and software engineering. This work has helped me better relate to and learn from non-technical disicplines, which is necessary for architecture work.
+
 
 You can find more details about these tools at my homepage **[obren.io](https://obren.io/)**.
 

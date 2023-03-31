@@ -1,6 +1,6 @@
 ---
 layout: post
-section: "Reflections"
+section: "Doing Architecture"
 title: "Economic Modeling"
 position: 6015
 date:   2021-10-21 21:12:01 +0100

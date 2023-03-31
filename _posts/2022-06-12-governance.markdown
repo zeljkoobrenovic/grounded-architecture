@@ -1,6 +1,6 @@
 ---
 layout: post
-section: "Reflections"
+section: "Doing Architecture"
 title: "Flexible Governance"
 position: 6012
 date:   2021-10-21 21:12:01 +0100

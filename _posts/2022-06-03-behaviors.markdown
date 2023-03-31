@@ -1,6 +1,6 @@
 ---
 layout: post
-section: "Reflections"
+section: "Being Architect"
 title: "Architects' Behavioral Traits"
 position: 6003
 date:   2021-10-21 21:12:01 +0100

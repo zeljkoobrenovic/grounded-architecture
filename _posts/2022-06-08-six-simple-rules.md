@@ -1,8 +1,8 @@
 ---
 layout: post
-section: "Reflections"
+section: "Doing Architecture"
 title: "Six Simple Rules"
-position: 6006
+position: 6008
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 icon: six.png
