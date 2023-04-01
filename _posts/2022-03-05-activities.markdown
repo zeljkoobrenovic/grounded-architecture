@@ -18,7 +18,7 @@ Image by <a href="https://pixabay.com/users/cocoparisienne-127419/?utm_source=li
 </div>
 > **KEY POINTS:**
 >
-> * The Architecture Activities Platform is the place where, by leveraging data and people pillars, we performed activities that help an organization to reach it goals. 
+> * The Architecture Activities Platform is the place where, by leveraging data and people pillars, we perform activities that help an organization to reach it goals. 
 > * Some examples include: supporting teams in their daily work; tracking tech debt, defining tech debt reduction programs; performing technical due diligence; standardization of processes and documentation; defining cloud, data, and platform strategies.
 
 Each organization will have different architectural needs and contexts. When forming architecture functions, I use as a starting point these [two pieces of advice from Gregor Hohpe](https://architectelevator.com/architecture/organizing-architecture/):
@@ -29,7 +29,7 @@ Each organization will have different architectural needs and contexts. When for
 
 Considering the previous two points from Gregor Hohpe, each organization must find activities and operating models to enable architecture to work on the most critical problems. 
 
-The Architecture Activities Platform is where we have to perform activities that help an organization reach its goals. In all of these activities, data and people pillars provide foundations for data-informed decision-making well-embedded in the organization.
+The Architecture Activities Platform is where we have to perform activities that help an organization reach its goals. In all of these activities, data and people pillars provide foundations for data-informed decision-making well-embedded in the organization. 
 
 <br>
 ## Examples of Architecture Activities
