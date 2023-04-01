@@ -19,7 +19,7 @@ Image by <a href="https://pixabay.com/users/cocoparisienne-127419/?utm_source=li
 > **KEY POINTS:**
 >
 > * The Architecture Activities Platform is the place where, by leveraging data and people pillars, we perform activities that help an organization to reach it goals. 
-> * Some examples include: supporting teams in their daily work; tracking tech debt, defining tech debt reduction programs; performing technical due diligence; standardization of processes and documentation; defining cloud, data, and platform strategies.
+> * Examples include: supporting teams in their daily work; tracking tech debt, defining tech debt reduction programs; performing technical due diligence; standardization of processes and documentation; defining cloud, data, and platform strategies.
 
 Each organization will have different architectural needs and contexts. When forming architecture functions, I use as a starting point these [two pieces of advice from Gregor Hohpe](https://architectelevator.com/architecture/organizing-architecture/):
  * *"Your architecture team’s job is to solve your biggest problems. The best setup is the one that allows it to accomplish that."*
@@ -49,7 +49,8 @@ Here are some examples of activities I have been performing with architects:
 
 <br>
 ## Operating Model
-While exact activities and their scope will depend on an organization setting and will change over time, in daily work, we aimed to implement the common operational model.
+
+While exact activities and their scope will depend on an organization setting and will change over time, I aimed to implement the common operational model in daily work.
 
 Inspired by Gregor Hohpe's strategy-principles-decisions model Figure 1 illustrates the process.
 
@@ -79,11 +80,12 @@ As noted by Gregor Hohpe, the worst case of organizational decision-making happe
 
 ### Autonomy and Alignment 
 
-While I aim to create a mechanism to give teams autonomy, autonomy does not mean that teams are alone and do not align with anyone, do not get feedback from anyone, and do whatever they want. Autonomy needs to be complemented with high transparency and proactivity in alignment with other teams. 
+While I aim to create a mechanism to give teams autonomy, autonomy does not mean that teams are alone and do not align with anyone, do not get feedback from anyone, and do whatever they want. Autonomy must be complemented with high transparency and proactivity in alignment with other teams. 
 
 I have sometimes implemented the concept of a **decision pyramid** to give maximal autonomy to the teams while maintaining a **minimal** level of global **alignment and compatibility** (Figure 2).
 
 ![](assets/images/arch/decision-pyramid.jpg)
-***Figure 2:** A decision pyramid. Most of decisions should be made by the development teams. However, several strategic and domain-level decisions may provide a decision boundaries for teams (e.g., a public cloud provider).*
+***Figure 2:** A decision pyramid. The development teams should make most decisions. However, several strategic and area-level decisions may provide decision boundaries for teams (e.g., a public cloud provider).*
 
-Development teams should make most of the decisions. However, several strategic and domain-level choices may provide team decision boundaries. For example, selecting the public cloud provider is typically a CTO-level strategic decision. Similarly, domain engineering leaders may want to limit some choices, such as the number of programming languages, to more easily train new people, maintain code, and support moves between teams.
+Development teams should make most of the decisions. However, several strategic and area-level choices may provide team decision boundaries. For example, selecting the public cloud provider is typically a CTO-level strategic decision. Similarly, engineering leaders may want to limit some choices, such as the number of programming languages, to more easily train new people, maintain code, and support moves between teams.
+
