@@ -66,7 +66,11 @@ The role of Grounded Architecture in this form of governance should be to ensure
 The Data Pillar should include and provide all data regarding taxes. The People Pillar should align processes, goals, and working methods to ensure that taxation leads to desired and meaningful change.
 
 <br>
-## Leading by Context
+## Leading by Context (Nudge)
+
+<!--
+The book also popularised the concept of a nudge, a choice architecture that predictably alters people's behavior without restricting options or significantly changing their economic incentives.
+-->
 
 Leading the context is a form of governing in which we do not forbid people to make some choices, nor do they need to "pay" taxes. Instead, we wanted to create a shared context to facilitate people making informed decisions. Such contexts should include sharing lessons learned by others, good and bad, and places to get feedback on ideas and plans. The role of the architecture in this form of governing should be to create mechanisms for sharing experiences and obtaining input on plans and decisions. It should also include means to capture artifacts that can help people to make informed decisions, such as architecture decision resources (ADRs), principles, golden paths, or best practices.
 

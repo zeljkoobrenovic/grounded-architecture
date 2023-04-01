@@ -103,9 +103,9 @@ Image by <a href="https://pixabay.com/users/fda54-145996/?utm_source=link-attrib
   <p><strong>KEY POINTS:</strong></p>
 
   <ul>
-    <li>This playbook describes an approach to running an IT architecture practice in larger organizations.</li>
-    <li>I called this approach "Grounded Architecture," highlighting the need for any IT architecture function to stay well-connected to all levels of an organization and led by data.</li>
-    <li>In this section, I want to tell a few things about my motivation to write this playbook.</li>
+    <li>This playbook describes an approach to running an IT architecture practice in larger organizations, generalizing lessons I learned as Chief Architect at  AVIV Group, eBay Classifieds, and Adevinta.</li>
+    <li>I called this approach “Grounded Architecture,” highlighting the need for any IT architecture function to stay well-connected to all levels of an organization and led by data.</li>
+    <li>In this section, I explain my motivation to write this playbook.</li>
   </ul>
 </blockquote>
 
@@ -115,7 +115,7 @@ Image by <a href="https://pixabay.com/users/fda54-145996/?utm_source=link-attrib
 
 <p>Grounded Architecture has two main parts:</p>
 <ul>
-  <li><strong>Structure</strong>, elements you need to have to run Grounded Architecture practice, and</li>
+  <li><strong>Structure</strong>, elements you need to create in an organization to run Grounded Architecture practice, and</li>
   <li><strong>Reflections</strong>, a set of my considerations and guiding principles that can help put the ideas of Grounded Architecture into practice.</li>
 </ul>
 
@@ -162,13 +162,13 @@ Image by <a href="https://pixabay.com/users/fda54-145996/?utm_source=link-attrib
 
 <p>The work presented in this playbook builds on several years of my experience. Most of this results from my current work as a Chief Architect at AVIV Group and previous works as a Principal Architect for eBay Classifieds and Adevinta.</p>
 
-<p>Another vital part of my experience that shaped this playbook was my earlier experience as a consultant and analyst at the Software Improvement Group. I’ve learned the value and pragmatics of data-informed decision-making. As a spin-off of this work, I’ve also built tools called <a href="sokrates.dev">Sokrates</a>, which enable efficient and pragmatic extraction of data about technology and organization from source code. This work has directly influenced my view on the architecture <a href="data-pillar">data pillar</a>.</p>
+<p>Another vital part of my experience that shaped this playbook was my earlier experience as a consultant and analyst at the Software Improvement Group. I’ve learned the value and pragmatics of data-informed decision-making. As a spin-off of this work, I’ve also built a tool called <a href="sokrates.dev">Sokrates</a>, which enable efficient and pragmatic extraction of data about technology and organization from source code. This work has directly influenced my view on the architecture <a href="data-pillar">data pillar</a>.</p>
 
 <p>Lastly, my experience as a CTO of <a href="https://incision.care">Incision</a>, a startup, has helped me better understand the difficulties and pragmatics of creating and running an IT organization.</p>
 
 <h2 id="why-this-playbook">Why This Playbook?</h2>
 
-<p>This playbook generalize my experiences in a written form. I have written these articles for two reasons. Firstly, the act of writing helps me to clarify and improve my ideas (Figure 1). Borrowing from Gregor Hohpe, I free up some brain cells to learn new things with every sentence I write. As nicely described by Hohpe written word has distinct advantages over the spoken word:</p>
+<p>This playbook generalizes my experiences in a written form. I have written these articles for two reasons. Firstly, the act of writing helps me to clarify and improve my ideas (Figure 1). As Gregor Hohpe once noted, I free up some brain cells to learn new things with every sentence I write. As nicely described by Hohpe written word has distinct advantages over the spoken word:</p>
 
 <ul>
   <li>it scales: you can address a broad audience without gathering them all in one (virtual) room at the same time</li>
@@ -188,36 +188,45 @@ Image by <a href="https://pixabay.com/users/fda54-145996/?utm_source=link-attrib
 <p><img src="assets/images/arch/obren_io_vertical.png" alt="" />
 <em><strong>Figure 2:</strong> Grounded Architecture is a part of the collection of open-source tools and resources I have built in the past ten years to help me in architectural work.</em></p>
 
-<p>The other three tools include:</p>
+<p>The other resources include:</p>
 
 <ul>
   <li><a href="https://sokrates.dev"><strong>Sokrates</strong></a>: is an open-source source code analysis tool that implements my vision of documenting and analyzing software architectures of complex systems. Sokrates provides a pragmatic, inexpensive way to extract rich data from source code repositories—no need for lengthy interviews and workshops. Just bring the code. Sokrates can help you understand your code by making the size, complexity, and coupling of software and all people interactions and team topologies visible.</li>
-  <li><a href="https://obren.io/tools"><strong>Productivity Tools</strong></a>: for years I have been building simple personal productivity and other tools. This site organizes and shares them for free. I use many of them in my daily work as an architect.</li>
-  <li><a href="https://www.obren359.com/"><strong>359° Overview of Tech Trends</strong></a> is my collection of knowledge resources with the most recent articles, podcasts, and videos from over 20 authoritative, high-quality sources (IEEE, ACM, GOTO Conf, SE Radio, Martin Fowler’s site, Ph.D. Theses). Architects need to learn fast, and finding good knowledge sources in the see of articles and posts takes work.</li>
-  <li><a href="https://design-instability.com/"><strong>Design Instability</strong></a> co-authored with Erik Stolterman, is a collection of essays where we connected experiences of designing/architecting in three disciplines: classical design, UX design, and software engineering. This work has helped me better relate to and learn from non-technical disicplines, which is necessary for architecture work.</li>
+  <li><a href="https://obren.io/tools"><strong>Productivity Tools</strong></a>: for years I have been building simple personal productivity tools.</li>
+  <li><a href="https://www.obren359.com/"><strong>359° Overview of Tech Trends</strong></a> is my collection of knowledge resources with the most recent articles, podcasts, and videos from over 20 authoritative, high-quality sources (IEEE, ACM, GOTO Conf, SE Radio, Martin Fowler’s site, Ph.D. Theses). Architects need to learn fast, and finding good knowledge sources is difficult.</li>
+  <li><a href="https://design-instability.com/"><strong>Design Instability</strong></a> co-authored with Erik Stolterman, is a collection of essays where we connected experiences of designing/architecting in three disciplines: classical design, UX design, and software engineering. This work has helped me better relate to and learn from non-technical fields necessary for architecture work.</li>
 </ul>
 
 <p>You can find more details about these tools at my homepage <strong><a href="https://obren.io/">obren.io</a></strong>.</p>
 
 <h2 id="who-should-read-this-playbook">Who Should Read This Playbook?</h2>
 
-<p>When writing this playbook, I had a broad audience in my mind. The article should be helpful to both technical and non-technical people. I hope the article can help developers and IT architects better understand their value and place in a broader organization and collaboration possibilities with peers. I also hope the articles can show the non-technical audience, such as people with finance, marketing, and C-level management backgrounds, the benefits of staying close to and well-connected with the “engine room.”</p>
+<p>When writing this playbook, I had a broad audience in my mind. The article should be helpful to both technical and non-technical people. The report can help software engineers and architects understand their value and place in a broader organization. I also hope the articles show the less-technical audience the benefits of staying close to and well-connected with the technologists.</p>
 
 <h2 id="the-structure-of-the-site">The Structure of the Site</h2>
 
-<p>I have organized the playbook into several main parts. In this introductory part, I describe the context in which my ideas have developed.</p>
+<p>I have organized the playbook into several main parts. In this introductory part, I have described the context in which my ideas have developed.</p>
 
 <p>In the second part, I discuss the Grounded Architecture approach describing its three elements: the data pillar, the people pillar, and the technology Architecture Activities Platform.</p>
 
-<p>In the third part, I talk about the Reflections of Grounded Architecture.</p>
+<p>In the third part, I talk about the Reflections of Grounded Architecture, grouped int to sections: Being Architect and Doing Architecture.</p>
 
 <p>I conclude with a summary and pointers to external resources for those who want to explore more.</p>
 
-<h2 id="acknowledgments">Acknowledgments</h2>
+<h2 id="influences">Influences</h2>
 
 <p>Gregor Hohpe’s <a href="https://architectelevator.com/">Architecture Elevator</a> view of architecture has heavily inspired my work. In many ways, my work reflects the lessons learned from blindly implementing Gregor’s ideas in practice.</p>
 
-<p>I want to help all eBay Classifieds Virtual Architecture Team (VAT) members and AVIV Group’s Architecture Center of Excellence members who gave me invaluable feedback and discussions. Lastly, thank Peter Maas and Brent McLean for sponsoring and pushing for developing data-informed architecture in our organizations.</p>
+<p>I use Staff Engineering roles as an inspiration for the development of architects. Tanya Reilly’s
+book <a href="https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/">The Staff Engineer’s Path</a> and Will
+Larson’s book <a href="https://staffeng.com/guides/staff-archetypes/">Staff Engineer: Leadership beyond the management track</a>
+are a helpful guide in defining the responsibilities of architects.</p>
+
+<p>The <a href="bookshelf">bookshelf</a> section shows many other books and resources that have influenced my approach and ideas.</p>
+
+<h2 id="acknowledgments">Acknowledgments</h2>
+
+<p>Thank all eBay Classifieds Virtual Architecture Team (VAT) members and AVIV Group’s Architecture Center of Excellence members who gave me invaluable feedback and discussions. Lastly, thank Peter Maas and Brent McLean for sponsoring and pushing for developing data-informed architecture in our organizations.</p>
 
         <div style="margin-bottom: -32px; margin-top: 28px"><table style="border: none; font-size: 80%; margin: 0; padding: 0;">
     <tr style="border: none; margin: 0; padding: 0">
