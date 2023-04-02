@@ -33,9 +33,9 @@ Meyer’s model contains eight scales, each representing a key area, showing how
 * **Deciding** – Are decisions made in consensus or made top-down?
 * **Trusting** – Do people base trust on how well they know each other or how well they work together?
 * **Disagreeing** – Are disagreements tackled directly, or do people prefer to avoid confrontations?
-* **Scheduling** – Do people perceive time as absolute linear points or consider it a flexible range?
+* **Scheduling** – Do people see time as absolute linear points or consider it a flexible range?
 
-Based on surveys and interviews, the Culture Map shows positions along these eight scales for many countries. These profiles reflect, of course, the value systems of a society at large, not those of all the individuals in it, so if you plot yourself on the map, you might find that some of your preferences differ from those of your culture.
+The Culture Map shows positions along these eight scales for many countries. These profiles reflect the value systems of a society at large, not those of all the individuals in it, so if you plot yourself on the map, you might find that some of your preferences differ from those of your culture.
 
 ![](assets/images/culturemap/overview.webp)
 
@@ -69,7 +69,7 @@ Architects need to provide constructive criticism of the plans and ideas of othe
 Image by <a href="https://pixabay.com/users/rickey123-5041749/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2961955">rickey123</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2961955">Pixabay</a>
 </div>
 
-The Evaluating scale measures a preference for frank versus diplomatic negative feedback. Evaluating is different that the Communicating scale and many countries have different positions on the two scales. The French, for example, are high-context (implicit) communicators relative to Americans. Yet they are more direct in their criticism. Spaniards and Mexicans are at the same context level, but the Spanish is much franker when providing negative feedback.
+The Evaluating scale measures a preference for frank versus diplomatic negative feedback. Evaluating is different than the Communicating scale and many countries have different positions on the two scales. The French, for example, are high-context (implicit) communicators relative to Americans. Yet they are more direct in their criticism. Spaniards and Mexicans are at the same context level, but the Spanish is much franker when providing negative feedback.
 
 <img src="assets/images/culturemap/negative-feedback.jpg" style="">
 <div style="text-align: center; font-size: 70%; color: grey; margin-bottom: 12px">Countries on the Evaluating scale. Source: Erin Meyer.</div>
@@ -82,7 +82,8 @@ Architects frequently need to persuade others. How you influence others and the 
 <img src="assets/images/culturemap/influence.jpeg" style="width: 100%">
 <div style="text-align: center; font-size: 70%; color: grey; margin-bottom: 12px; margin-top: -12px;">Credit: Getty Images.</div>
 
-One way to compare countries along this scale is to assess how they balance holistic and specific thought patterns. Typically, a Western executive will break down an argument into a sequence of distinct components (specific thinking). At the same time, Asian managers tend to show how the pieces all fit together (holistic thinking). Beyond that, people from southern European and Germanic cultures tend to find deductive arguments (principles-first arguments) most persuasive. In contrast, American and British managers are more likely to be influenced by inductive logic (applications-first logic). 
+One way to compare countries along this scale is to assess how they balance holistic and specific thought patterns. Typically, a Western executive will break down an argument into a sequence of distinct components (specific thinking). At the same time, Asian managers tend to show how the pieces fit together (holistic thinking). Beyond that, people from southern European and Germanic cultures tend to find deductive arguments (principles-first arguments, building the conclusion from basic premises) most persuasive. In contrast, American and British managers are more likely to be influenced by inductive logic (applications-first logic, "get to the point, stick to the point"). 
+
 
 <img src="assets/images/culturemap/persuading.jpg" style="">
 <div style="text-align: center; font-size: 70%; color: grey; margin-bottom: 12px">Countries on the Persuading scale. Source: Erin Meyer.</div>
@@ -91,7 +92,10 @@ One way to compare countries along this scale is to assess how they balance holi
 <br>
 ## 4. Leading
 
-Architects have informal and sometimes formal authority. The leading scale measures the degree of respect and deference shown to authority figures, placing countries on a spectrum from egalitarian to hierarchical. 
+Architects have informal and sometimes formal authority. The leading scale measures the degree of respect and deference shown to authority figures. 
+
+Thhis scale places countries on a spectrum from egalitarian to hierarchical. Egalitarian cultures expect leading to be in a democratic fashion. Hierarchical cultures expect leading to be from top to bottom.
+
 
 <img src="assets/images/culturemap/decision-maker.jpg" style="width: 100%">
 <div style="text-align: center; font-size: 70%; color: grey; margin-bottom: 12px; margin-top: -12px;">Credit: Getty Images.</div>
