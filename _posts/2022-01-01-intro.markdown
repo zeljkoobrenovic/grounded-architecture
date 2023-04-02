@@ -41,7 +41,7 @@ The *[Data Pillar](data-pillar)* ensures that architects' decisions are data-inf
 
 The *[People Pillar](people-pillar)* represents a strong network of people doing architecture across the organization that is crucial to ensure that architecture function has any tangible impact.
 
-Lastly, the *[Architecture Activities Platform](activities-platform)* leverages data and people to create a data-informed, deep, and broad impact.
+Lastly, the *[Architecture Activities Platform](activities-platform)* defines a set of processes and agreements enabling architects to do everything architecture typically does, leveraging data and people pillars to create a data-informed, organization-wide impact.
 
 As a part of my work on Grounded Architecture, I also provide key lessons I learned while developing ideas of Grounded Architecture in practice, grouped into two parts:
 
@@ -66,7 +66,11 @@ The work presented in this playbook builds on several years of my experience. Mo
 
 Another vital part of my experience that shaped this playbook was my earlier experience as a consultant and analyst at the Software Improvement Group. I've learned the value and pragmatics of data-informed decision-making. As a spin-off of this work, I've also built a tool called [Sokrates](sokrates.dev), which enable efficient and pragmatic extraction of data about technology and organization from source code. This work has directly influenced my view on the architecture [data pillar](data-pillar).
 
-Lastly, my experience as a CTO of [Incision](https://incision.care), a startup, has helped me better understand the difficulties and pragmatics of creating and running an IT organization.
+My experience as a CTO of [Incision](https://incision.care), a startup, has helped me better understand the difficulties and pragmatics of creating and running an IT organization.
+
+Lastly, 
+
+* [**Design Instability**](https://design-instability.com/) co-authored with Erik Stolterman, is a collection of essays where we connected experiences of designing/architecting in three disciplines: classical design, UX design, and software engineering. This work has helped me better relate to and learn from non-technical fields necessary for architecture work.
 
 
 ## Why This Playbook?
@@ -95,8 +99,6 @@ The other resources include:
 * [**Sokrates**](https://sokrates.dev): is an open-source source code analysis tool that implements my vision of documenting and analyzing software architectures of complex systems. Sokrates provides a pragmatic, inexpensive way to extract rich data from source code repositories—no need for lengthy interviews and workshops. Just bring the code. Sokrates can help you understand your code by making the size, complexity, and coupling of software and all people interactions and team topologies visible.
 * [**Productivity Tools**](https://obren.io/tools): for years I have been building simple personal productivity tools.
 * [**359° Overview of Tech Trends**](https://www.obren359.com/) is my collection of knowledge resources with the most recent articles, podcasts, and videos from over 20 authoritative, high-quality sources (IEEE, ACM, GOTO Conf, SE Radio, Martin Fowler's site, Ph.D. Theses). Architects need to learn fast, and finding good knowledge sources is difficult.
-* [**Design Instability**](https://design-instability.com/) co-authored with Erik Stolterman, is a collection of essays where we connected experiences of designing/architecting in three disciplines: classical design, UX design, and software engineering. This work has helped me better relate to and learn from non-technical fields necessary for architecture work.
-
 
 You can find more details about these tools at my homepage **[obren.io](https://obren.io/)**.
 

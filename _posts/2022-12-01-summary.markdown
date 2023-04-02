@@ -38,7 +38,7 @@ The *Data Pillar* ensures that architects can make data-informed decisions based
 
 The *People Pillar* is another essential element of Grounded Architecture. A strong network of people doing architecture across the organization is crucial to ensure that architecture function has any tangible impact.
 
-Lastly, the *Architecture Activities Platform* leverages data and people to create a data-informed, deep, and broad impact.
+Lastly, the *Architecture Activities Platform*  defines a set of processes and agreements enabling architects to do everything architecture typically does, leveraging data and people pillars to create a data-informed, organization-wide impact.
 
 As a part of my work on Grounded Architecture, I also provided key lessons I learned while developing ideas of Grounded Architecture in practice, grouped into two parts:
 
