@@ -29,7 +29,7 @@ Credit: <a href="https://flic.kr/p/8zKRAU">tableatny</a> (CC BY 2.0)
 
 My view of architecture has a strong engineering bias. Architects' career paths ideally stem from a strong engineering background. While there may be exceptions, without significant real-world exposure to software engineering challenges, an architect cannot obtain enough practical knowledge to make technology decisions and build relations with developer teams. 
 
-In terms of career progression, Figure 1 shows an example of architecture career paths in relation to engineering. 
+Regarding career progression, Figure 1 shows an example of architectural career paths in relation to the engineering paths I have been using. 
 
 ![](assets/images/arch/career-paths.png)
 ***Figure 1:** An example of architecture career paths in relation to engineering.*
@@ -39,14 +39,14 @@ Stepping from an engineering position to an architecture requires three changes:
 * Having a higher diversity of work, and 
 * Changing skills, as communication and influencer skills become crucial aspects of success.
 
-All architect are responsible for the direction, quality, and approach within a critical area. They need to combine in-depth knowledge of technical constraints, user needs, and organization level leadership.
+All architect are responsible for the direction, quality, and approach within some critical area. They need to combine in-depth knowledge of technical constraints, user needs, and organization level leadership.
 
 After the role of an Architect, I usually envision three tracks of progression:
-* **Senior Architect**, a generalist with broader responsibilities to, who digs deep into complex issues and identifies a suitable course of action. They often navigate from one critical area to another, guided by the organization's direction.
-* **Principal Architect**, a senior architect on a special focus on some area of strategic interest for an organization (e.g., data, distributed systems, frontend).
+* **Senior Architect**, a generalist with broader responsibilities who digs deep into complex issues and identifies a suitable course of action. They often navigate from one critical area to another, guided by the organization's direction.
+* **Principal Architect**, a senior architect with a special focus on some area of strategic interest for an organization (e.g., data, distributed systems, frontend).
 * **Enterprise Architect**, being closer to product, management, strategy, and business functions, frequently serves as senior engineering leaders' right hand. 
 
-But an architect's path can take many different directions and have many other names. More important than a formal title is a continuous search for staying relevant and making an impact as a [superglue](superglue).
+But an architect's path can take many different directions and have many other names. More important than a formal title is a continuous search for staying relevant and making an impact.
 
 
 <br>
@@ -61,9 +61,9 @@ In my experiences, it is vital to take more active ownership of hiring architect
 
 The superglue aspects of architects also require a hiring process that can identify candidates that can operate well according to such a vision. While you will need to design your hiring process, I typically have worked with some version of the following process (after standard recruitment screening):
 
-* **Step 1: Initial Screening Interview with Chief Architect:**
-* **Step 2: In-Depth Interview with Senior/Principle/Enterprise Architects:**
-* **Step 3: In-Depth (System Design) Interview with Architects and Senior Engineers:**
+* **Step 1: Initial Screening Interview with Chief Architect**
+* **Step 2: In-Depth Interview with Senior/Principle/Enterprise Architects**
+* **Step 3: In-Depth (System Design) Interview with Architects and Senior Engineers**
     * Preparation:
         * A document describing a recent solution architecture of a candidate, providing the content for discussion and helping estimate the candidate's written skills.
         * (Optional) open-source code review of a candidate
