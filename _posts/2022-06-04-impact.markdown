@@ -79,7 +79,7 @@ help organizations in multiple ways:
 <br>
 ### Execution
 
-As execution-fouces practitioners, architects need to be able to help deliver results, and improve collaboration.
+As execution-focused practitioners, architects need to be able to help deliver results, and improve collaboration.
 
 Architects can help delivering results by combining their skills with high dose of pragmatism:
 * **Create meaningful solutions**, rather than theorietical ideals and models.

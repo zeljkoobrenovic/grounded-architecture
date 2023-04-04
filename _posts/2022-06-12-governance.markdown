@@ -8,7 +8,7 @@ author: by Željko Obrenović (obren.io)
 icon: pragmatics.png
 permalink: flexible-governance
 timetoread: 15 min
-excerpt: "I promote a technology governance model as a well-balanced hybrid of three different styles of governing: mandates and bans, taxes, and nudging."
+excerpt: "Grounded Architecture supports governance models that are adaptable to the complex and diverse needs of organizations. I see a technology governance model as a well-balanced hybrid of three different styles of governing: mandates and bans, taxes, and nudging."
 
 ---
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
@@ -18,18 +18,17 @@ Image by nonbirinonko/Pixabay
 </div>
 > **KEY POINTS:**
 >
-> * I promote a technology governance model as a well-balanced hybrid of three different styles of governing: mandates and bans, taxes, and nudging.
+> * Grounded Architecture supports governance models adaptable to organizations' complex and diverse needs. I see a technology governance model as a well-balanced hybrid of three different styles of governing: mandates and bans, taxes, and nudging.
 > * By governing with mandates and bans, I mean guiding people by explicitly defining what they should or should not do.
 > * Governing with taxes is a form of guiding in which people are not forbidden to make some decisions but need to "pay" some form of taxes on used resources.
 > * Nudging is a form of governing where we create subtle or indirect suggestion** influencing someone's behavior or decision-making without forcing them or limiting their freedom of choice.
 
-With Grounded Architecture, it is possible to have flexible governance models that acknowledge the complexity and diversity of organizations. 
-
-By governing, I mean guiding technology choices in the organization in a particular direction aligned with the technology strategy. I aimed to promote a technology governance model as a well-balanced hybrid of three different styles of governing:
+Grounded Architecture supports governance models adaptable to organizations' complex and diverse needs. By governing, I mean guiding technology choices in the organization in a particular direction aligned with the technology strategy. I see a technology governance model as a well-balanced hybrid of three different styles of governing:
 * mandates and bans,
 * taxes, and
 * nudging.
 
+Grounded Architecture supports governance models that are adaptable to the complex and diverse needs of organizations.
 
 <br>
 ## Mandates and Bans
