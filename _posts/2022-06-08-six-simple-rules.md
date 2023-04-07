@@ -23,9 +23,9 @@ Image by <a href="https://pixabay.com/users/nataliaaggiato-470329/?utm_source=li
 >* To deal with complexity, organizations should depend on the judgment of their people and on these people cooperating to utilize the organization's capabilities to cope with complex problems. 
 >* This view is well aligned with the ideas of Grounded Architecture.
 
-The book [Six Simple Rules: How to Manage Complexity without Getting Complicated](https://www.bcg.com/capabilities/organization/smart-simplicity/six-rules-overcoming-complexity), by  Yves Morieux and Peter Tollman, is another source of inspiration for my vision on the Architecture function. Morieux and Tollman introduced a concept of Smart Simplicity with six simple rules or strategies based on economics, game theory, and organizational sociology. These rules enable organizations to promote new behaviors and improve performance.
+The book [Six Simple Rules: How to Manage Complexity without Getting Complicated](https://www.bcg.com/capabilities/organization/smart-simplicity/six-rules-overcoming-complexity), by  Yves Morieux and Peter Tollman, is another source of inspiration for my vision on the Architecture function. Morieux and Tollman introduced a concept of Smart Simplicity with six rules or strategies that enable organizations to promote new behaviors and improve performance.
 
-The book emphasis that in today’s complicated business environment, you **need to setup organisational structures based on cooperation**. To deal with complexity, organizations should depend on the judgment of their people, which requires giving them more autonomy to act. It also depends on these people cooperating to utilize the organization's capabilities to cope with complex problems.
+Six Simple Rules emphasis that in today’s complicated business environment, you **need to setup organisational structures based on cooperation**. To deal with complexity, organizations should depend on the judgment of their people, which requires giving them more autonomy to act. It also depends on these people cooperating to utilize the organization's capabilities to cope with complex problems.
 
 This view is well aligned with the ideas of Grounded Architecture. In this section, I will explore the connection between the ideas of Grounded Architecture and Six Simple Rules.
 
@@ -39,7 +39,7 @@ The **hard approach** rests on two fundamental assumptions:
  
  When the company needs to meet new performance requirements, the **hard response is to add new structures, processes, and systems** to help satisfy those requirements, hence, the introduction of the innovation czar, the risk management team, the compliance unit, the customer-centricity leader, and the cohort of coordinators and interfaces that have become so common in companies.
 
-According to the **soft approach**, an organization is a set of **interpersonal relationships and the sentiments** that govern them. 
+On the other end, we have a soft management approach. According to the **soft approach**, an organization is a set of **interpersonal relationships and the sentiments** that govern them. 
 * **Good performance is the by-product of good interpersonal relationships**. Personal traits, psychological needs, and mindsets predetermine people's actions. 
 * To change behavior at work, you need to **change the mindset (or change the people)**. 
 
@@ -52,12 +52,12 @@ Both approaches are limited in today's world and are harmful to cooperation. A *
 Six Simple rules cover two areas: **autonomy** and **cooperation**. The first three rules create the conditions for **individual autonomy and empowerment** to improve performance.
 
 * **Understand what your people do**. Trace performance back to behaviors and how they influence overall results. Understand the context of goals, resources, and constraints. Determine how an organization’s elements shape goals, resources, and constraints.
-* **Reinforce integrators**. Identify integrators—those individuals or units whose influence makes a difference in the work of others—by looking for points of tension where people are doing the hard work of cooperating. Integrators bring others together and drive processes. They work at the nexus where constraints and requirements often meet. Give integrators the power and interest to foster cooperation in dealing with complexity. Remove managerial layers that don’t add value.
-* **Increase the total quantity of power**. When creating new roles in the organization, empower them to make decisions without taking power away from others. Providing a few tools simultaneously is more effective than offering many tools sequentially. Regularly enrich power bases to ensure agility, flexibility, and adaptability.
+* **Reinforce integrators**. Identify integrators—those individuals or units whose influence makes a difference in the work of others—by looking for points of tension where people are doing the hard work of cooperating. Integrators bring others together and drive processes.
+* **Increase the total quantity of power**. When creating new roles in the organization, empower them to make decisions without taking power away from others.
 
-The book's authors emphasize the difference between Autonomy and Self-Sufficiency. **Autonomy** is about fully mobilizing our intelligence and energy to **influence outcomes**, including those **we do not entirely control**. **Self-sufficiency** is about **limiting our efforts** only to those **outcomes that we control entirely without having to depend on others**. Autonomy is essential for coping with complexity; **self-sufficiency is an obstacle** because it **hinders the cooperation** needed to make autonomy effective. 
+The Six Simple Rules' authors emphasize the difference between Autonomy and Self-Sufficiency. **Autonomy** is about fully mobilizing our intelligence and energy to **influence outcomes**, including those **we do not entirely control**. **Self-sufficiency** is about **limiting our efforts** only to those **outcomes that we control entirely without having to depend on others**. Autonomy is essential for coping with complexity; **self-sufficiency is an obstacle** because it **hinders the cooperation** needed to make autonomy effective. 
 
-This difference between Autonomy and Self-Sufficiency leads us to the second set of rules compels people to confront complexity and use their newfound autonomy to cooperate with others so that **overall performance, not just individual performance**, is radically improved.
+This difference between **Autonomy** and **Self-Sufficiency** leads us to the second set of rules that compels people to confront complexity and use their newfound autonomy to cooperate with others so that **overall performance, not just individual performance**, is radically improved.
 * **Increase reciprocity**. Set clear objectives that stimulate mutual interest to cooperate. Make each person’s success dependent on the success of others. Eliminate monopolies, reduce resources, and create new networks of interaction.
 * **Extend the shadow of the future**. Have people experience the consequences that result from their behavior and decisions. Tighten feedback loops. Shorten the duration of projects. Enable people to see how their success is aided by contributing to the success of others.
 * **Reward those who cooperate**. Increase the payoff for all when they cooperate in a beneficial way. Establish penalties for those who fail to cooperate.
@@ -127,7 +127,7 @@ Image by <a href="https://pixabay.com/users/flashbuddy-97638/?utm_source=link-at
 
 ### General Guidelines
  
-To increase the quantiyy of power consoder the following actions:
+To increase the quantity of power, the Six Simple Rules approach recommends the following actions:
 * Whenever you are going to make a design decision that will **swing the pendulum—between center and units**, between functions and line managers, and so on—see if making some parts of the organization **benefit from new power bases** could satisfy more requirements in dealing with complexity so that you don’t have to swing the pendulum in the other direction in the future (which would only compound complicatedness with the mechanical frictions and disruptions inherent to these changes). 
 * When you have to create new functions, make sure you give them the power to play their role and that this **power does not come at the expense of the power needed by others** to play theirs. 
 * When you **create new tools** for managers (planning, or evaluation systems, for instance), ask yourself if these constitute **resources or constraints**. Providing a few tools simultaneously is more effective (because it creates a critical mass of power) than many tools sequentially, one after the other. 
@@ -160,7 +160,7 @@ Reciprocity is the recognition by people or units in an organization that they *
 ### Grounded Architecture
 
 Grounded Architecture is directly related to increasing reciprocity. 
-* The success of architecture depends on **[their superglue impact](superglue)** and success of units architects support.  People from developer teams that architects support have an impact on architects' performance evaluations.  Likewise, the developer teams depend on architecture support.
+* The success of architecture depends on **[their superglue impact](superglue)** and success of architects support.  People from developer teams that architects support have an impact on architects' performance evaluations.  Likewise, the developer teams depend on architecture support.
 * In addition, the **[People Pillar](people-pillar)** directly supports one of the ways of reinforcing reciprocity: **creating new networks of interactions**.
 
 
@@ -177,7 +177,7 @@ Image by <a href="https://pixabay.com/users/jplenio-7645255/?utm_source=link-att
 
 ### General Guidelines
 
-You can extend the shadow of the future in four ways: 
+The Six Simple Rules approach identifies four ways to extend the shadow of the future: 
 * Tighten the feedback loop by making **more frequent the moments when people experience the consequence** of the fit between their contributions. 
 * **Bring the end point forward**, notably, by shortening the duration of projects. 
 * **Tie futures together** so that successful moves are conditioned by contributing to the successful move of others. 
@@ -193,7 +193,7 @@ Grounded Architecture can extend the shadow of the future in multiple ways.
 <br>
 ## Simple Rule 6: Reward Those Who Cooperate
 
-When you cannot create direct feedback loops embedded in people’s tasks, you need **management’s intervention to close the loop**. Managers must then use the familiar tool of performance evaluation, but in a very different way. 
+Lastly, the Six Simple Rules approach recommends that when you cannot create direct feedback loops embedded in people’s tasks, you need **management’s intervention to close the loop**. Managers must then use the familiar performance evaluation tool but in a very different way. 
 
 
 ![](assets/images/arch/people-gac98109e9_1920.jpg)

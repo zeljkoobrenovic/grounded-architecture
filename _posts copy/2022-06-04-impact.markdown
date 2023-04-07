@@ -1,0 +1,121 @@
+---
+layout: post
+section: "Being Architect"
+title: "Making an Impact as an Architect"
+position: 6004
+date:   2021-10-21 21:12:01 +0100
+author: by Željko Obrenović (obren.io)
+permalink: making-impact
+icon: superglue.png
+timetoread: 15 min
+excerpt: "Architects' work is evaluated based the impact they've had on the organization. They must demonstrate that they identify, tackle, and deliver on strategic problems, have a deep and/or broad influence, and deliver solutions that few others can."
+
+---
+
+<img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
+     src="assets/images/arch/USATF_day_4.jpg">
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Sandi Morris. (2022, March 1). In Wikipedia. https://nl.wikipedia.org/wiki/Sandi_Morris
+</div>
+
+> **KEY POINTS:**
+>
+> * Architects' work is evaluated based the impact they've had on the organization. 
+> * Architects key competency enabling them to make impact include: Big-Picture Thinking, Execution, and Leveling-Up.
+
+<br>
+Architects' work is **evaluated based the impact** they've had on the organization. Architect typically make impact by:
+
+* **Identifying, tackling, and delivering on strategic problems** at the organizationd and area levels (domain or technical
+  areas). Architects' work needs to be prioritized based on global strategic objectives.
+* **Having a deep and/or broad influence** on a domain, product, or technology area. Architects sometimes need to go deep,
+  addressing specific critical issues in one area. And frequently that need to look broad, creating impact by leveraging
+  the results across multiple teams.
+* **Delivering solutions that few others can**, sometimes by their heavy lifting but more often by their ability to 
+  orchestrate large group efforts. Architects can help move the organization forward by leveraging their "hard"
+  technical skills and "soft" strategic, execution, and people skills.
+
+To make this impact, architect need a few key competencies.
+
+<br>
+## Key Competencies
+
+The competency development of architects should be driven by the impact they need to have rather than mere skills development. I typically coach architects in the context of concrete activities, guiding their development via involvement in the right set of actions and crafting skills developments based on challenges in making an expected impact in practice. 
+
+I use Staff Engineering roles as an inspiration for the development of architects. Tanya Reilly's
+book [The Staff Engineer's Path](https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/) and Will
+Larson's book [Staff Engineer: Leadership beyond the management track](https://staffeng.com/guides/staff-archetypes/)
+were helpful guides in defining the responsibilities of architects.
+
+
+<div style="width: 100%; text-align: center">
+<img src="assets/images/arch/pillars.png" style="width: 80%">
+</div>
+<div style="font-size: 80%; color: grey; margin-bottom: 12px; text-align: center">
+<b>Figure 1</b>: Key competencies of architects. Credit: inspired by The Staff Engineer's Path by Tanya Reilly.
+</div>
+
+ Inspired by The Staff Engineer's Path by Tanya Reilly, I group architects' competencies in three groups (Figure 1):
+
+* Big-picture thinking,
+* Execution, and
+* Leveling up.
+
+<br>
+### Big-Picture Thinking 
+
+Architects are frequently the only people in the organization with a "helicopter view," overseeing vast domains and 
+being able to foresee the consequences of decisions in a broader context. As big-picture thinkers, architects can
+help organizations in multiple ways:
+
+* Seeing the **big picture** can identify high leverage points for maximum impact.
+* **Helping others to see the big picture** and create tools (e.g., [Data Pillar](data-pillar)) that facilitate big-picture thinking.
+* Being able to **zoom in and out**, having a strategic overview, but being able to go deep and engage with implementaiton details.
+* Using big-picture thinking to **consistently root out inefficiencies** and lead the adoption of technologies and
+  processes that **make multiple teams more efficient**.
+
+<br>
+### Execution
+
+As execution-fouces practitioners, architects need to be able to help deliver results, and improve collaboration.
+
+Architects can help delivering results by combining their skills with high dose of pragmatism:
+* **Create meaningful solutions**, rather than theorietical ideals and models.
+* **Break down complex problems** to enable delivery of impactful results.
+* **Craft pragmatic plans** by considering technical, logistical, and organizational constraints.
+
+Architects also can help execution by finding ways to enable others to collaborate and work better:
+
+* **Creating alignment** and **improving collaboration** within their areas or the wider engineering organization.
+* **Collaborate meaningfully across groups** in a way that builds trust and incresses execution speed.
+
+<br>
+### Leveling Up
+
+Architects are frequently seen and leaders and role models that should help organizations to raise 
+the bar on the technical and cultural fronts. I group such role of architect in three categories:
+citizenship, design and architecture, and software engineering.
+
+#### <u>Citizenship</u>
+
+* **Contribute to the broader technical community** through tech talks, education, publications, open source projects,
+  etc.
+* **Have influence that extends** beyond their organization and reach the industry at large.
+* **Lead efforts** that solve **important problems** in their areas.
+* **Raise the bar** of the engineering culture across the company.
+
+#### <u>Design and Architecture</u>
+
+Architects are leading authority for systematic and strategic design and architecture topics:
+
+* **Identify and solve systemic architectural problems**. Architects quickly
+  recognize systemic problems and can **articulate possible solutions** to them.
+* **Improve the definition of best practices** and architecture with deep domain knowledge.
+
+#### <u>Software Engineering</u>
+
+Lastly, architects can help by staying well-connected to software engineering practice, leveraging their experience to:
+
+* **Promote and/or demonstrate best-in-class** of code, documentation, testing, and monitoring practices.
+* **Solve challenging technical and/or execution problems** that few others can.
+

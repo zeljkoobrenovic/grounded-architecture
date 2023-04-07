@@ -1,0 +1,132 @@
+---
+layout: post
+section: "Introduction"
+title: "Introduction"
+position: 1
+date:   2021-10-21 21:12:01 +0100
+author: by Željko Obrenović (obren.io)
+permalink: intro
+icon: spiral-stairs.png
+timetoread: 15 min
+excerpt: "This playbook describes an approach to running an IT architecture practice in larger organizations. I called this approach \"Grounded Architecture,\" highlighting the need for any IT architecture function to stay well-connected to all levels of an organization and led by data."
+
+---
+<img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/staircase-274614_1920.jpg">
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by <a href="https://pixabay.com/users/fda54-145996/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=274614">fda54</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=274614">Pixabay</a>
+</div>
+> **KEY POINTS:**
+>
+> * This playbook describes an approach to running an IT architecture practice in larger organizations, generalizing lessons I learned as Chief Architect at  AVIV Group, eBay Classifieds, and Adevinta. 
+> * I called this approach "Grounded Architecture," highlighting the need for any IT architecture function to stay well-connected to all levels of an organization and led by data.
+> * In this section, I explain my motivation to write this playbook.
+
+
+## Intro
+
+This playbook describes an approach to running an IT architecture practice in larger organizations. I called this approach "grounded architecture," highlighting the need for any IT architecture function to stay well-connected to all levels of an organization and led by data. 
+
+Grounded Architecture has two main parts:
+* **Structure**, elements you need to create in an organization to run Grounded Architecture practice, and
+* **Reflections**, a set of my considerations and guiding principles that can help put the ideas of Grounded Architecture into practice.
+
+The following figure illustrates the structure of the Grounded Architecture consisting of three elements:
+* [Data Pillar](data-pillar),
+* [People Pillar](people-pillar),
+* [Architecture Activities Platform](activities-platform).
+
+![](assets/images/model.png)
+
+The *[Data Pillar](data-pillar)* ensures that architects' decisions are data-informed, based on a up-to-date and complete overview of the organization's technology landscape.
+
+The *[People Pillar](people-pillar)* represents a strong network of people doing architecture across the organization that is crucial to ensure that architecture function has any tangible impact.
+
+Lastly, the *[Architecture Activities Platform](activities-platform)* leverages data and people to create a data-informed, deep, and broad impact.
+
+As a part of my work on Grounded Architecture, I also provide key lessons I learned while developing ideas of Grounded Architecture in practice, grouped into two parts:
+
+* [Being an Architect](being-architect):
+  * [Architects as Superglue](superglue),
+  * [Architects' Behavioral Traits](behaviors),
+  * [Making an Impact as an Architect](making-impact),
+  * [Architets' Career Paths](career).
+* [Doing Architecture](doing-architecture):
+  * [Culture Map: Architects' Culture Mindfield Compass](culture),
+  * [Six Simple Rules](six-simple-rules),
+  * [In the Eye of the Storm](storm),
+  * [Flexible Governance](flexible-governance),
+  * [Economic Modeling](economics),
+
+The rest of this site will explain in detail the grounded architecture approach. In this section, I want to tell a few things about my motivation to write this playbook.
+
+
+## A Bit of Personal History
+
+The work presented in this playbook builds on several years of my experience. Most of this results from my current work as a Chief Architect at AVIV Group and previous works as a Principal Architect for eBay Classifieds and Adevinta.
+
+Another vital part of my experience that shaped this playbook was my earlier experience as a consultant and analyst at the Software Improvement Group. I've learned the value and pragmatics of data-informed decision-making. As a spin-off of this work, I've also built a tool called [Sokrates](sokrates.dev), which enable efficient and pragmatic extraction of data about technology and organization from source code. This work has directly influenced my view on the architecture [data pillar](data-pillar).
+
+Lastly, my experience as a CTO of [Incision](https://incision.care), a startup, has helped me better understand the difficulties and pragmatics of creating and running an IT organization.
+
+
+## Why This Playbook?
+
+This playbook generalizes my experiences in a written form. I have written these articles for two reasons. Firstly, the act of writing helps me to clarify and improve my ideas (Figure 1). As Gregor Hohpe once noted, I free up some brain cells to learn new things with every sentence I write. As nicely described by Hohpe written word has distinct advantages over the spoken word:
+
+* it scales: you can address a broad audience without gathering them all in one (virtual) room at the same time
+* it's fast to process: people read 2-3 times faster than they can listen
+* it can be easily searched or versioned.
+
+
+![](assets/images/writing.png)
+***Figure 1:** Writing a book helped me organize ideas, obtain new insights, improve principles and tools, and share the lessons learned.*
+
+Second, by generalizing and putting my experiences on paper, I hope to create more usable materials to help others in similar situations. I also expect helpful feedback from a broader community by sharing these materials.
+
+## A Part of the Bigger Picture: A Trilogy in Five Parts
+
+This book is a part of the [collection of open-source tools and resources](https://obren.io/) I have built in the past ten years to help me in architectural work (Figure 2).
+
+![](assets/images/arch/obren_io_vertical.png)
+***Figure 2:** Grounded Architecture is a part of the collection of open-source tools and resources I have built in the past ten years to help me in architectural work.*
+
+The other resources include:
+
+* [**Sokrates**](https://sokrates.dev): is an open-source source code analysis tool that implements my vision of documenting and analyzing software architectures of complex systems. Sokrates provides a pragmatic, inexpensive way to extract rich data from source code repositories—no need for lengthy interviews and workshops. Just bring the code. Sokrates can help you understand your code by making the size, complexity, and coupling of software and all people interactions and team topologies visible.
+* [**Productivity Tools**](https://obren.io/tools): for years I have been building simple personal productivity tools.
+* [**359° Overview of Tech Trends**](https://www.obren359.com/) is my collection of knowledge resources with the most recent articles, podcasts, and videos from over 20 authoritative, high-quality sources (IEEE, ACM, GOTO Conf, SE Radio, Martin Fowler's site, Ph.D. Theses). Architects need to learn fast, and finding good knowledge sources is difficult.
+* [**Design Instability**](https://design-instability.com/) co-authored with Erik Stolterman, is a collection of essays where we connected experiences of designing/architecting in three disciplines: classical design, UX design, and software engineering. This work has helped me better relate to and learn from non-technical fields necessary for architecture work.
+
+
+You can find more details about these tools at my homepage **[obren.io](https://obren.io/)**.
+
+## Who Should Read This Playbook?
+
+When writing this playbook, I had a broad audience in my mind. The article should be helpful to both technical and non-technical people. The report can help software engineers and architects understand their value and place in a broader organization. I also hope the articles show the less-technical audience the benefits of staying close to and well-connected with the technologists.
+
+
+## The Structure of the Site
+
+I have organized the playbook into several main parts. In this introductory part, I have described the context in which my ideas have developed. 
+
+In the second part, I discuss the Grounded Architecture approach describing its three elements: the data pillar, the people pillar, and the technology Architecture Activities Platform. 
+
+In the third part, I talk about the Reflections of Grounded Architecture, grouped int to sections: Being Architect and Doing Architecture. 
+
+I conclude with a summary and pointers to external resources for those who want to explore more.
+
+## Influences
+
+Gregor Hohpe's [Architecture Elevator](https://architectelevator.com/) view of architecture has heavily inspired my work. In many ways, my work reflects the lessons learned from blindly implementing Gregor's ideas in practice.
+
+I use Staff Engineering roles as an inspiration for the development of architects. Tanya Reilly's
+book [The Staff Engineer's Path](https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/) and Will
+Larson's book [Staff Engineer: Leadership beyond the management track](https://staffeng.com/guides/staff-archetypes/)
+are a helpful guide in defining the responsibilities of architects.
+
+The [bookshelf](bookshelf) section shows many other books and resources that have influenced my approach and ideas. 
+
+
+## Acknowledgments
+
+Thank all eBay Classifieds Virtual Architecture Team (VAT) members and AVIV Group's Architecture Center of Excellence members who gave me invaluable feedback and discussions. Lastly, thank Peter Maas and Brent McLean for sponsoring and pushing for developing data-informed architecture in our organizations.

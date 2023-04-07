@@ -18,10 +18,7 @@ Image by <a href="https://pixabay.com/users/ichigo121212-11728/?utm_source=link-
 </div>
 > **KEY POINTS:**
 >
-> * Grounded Architecture structure has three elements: The Data Pillar, The People Pillar, and The Architecture Activities Platform.
-> * The Data Pillar enables architects to make data-informed decisions based on a real-time and complete overview of the organization's technology landscape.
-> * The People Pillar is a strong network of people doing architecture across the organization, ensuring that the architecture function has a tangible impact. 
-> * The Architecture Activities Platform defines a set of processes and agreements enabling architects to do everything architecture typically does, leveraging data and people pillars to create a data-informed, organization-wide impact. 
+> * I introduce three elements of Grounded Architecture: The Data Pillar, The People Pillar, The Architecture Activities Platform.
 
 In this part of my playbook, I will describe the structure of Grounded Architecture. I chose the term "Grounded Architecture" to highlight that the primary goal of my approach is to avoid having an "ivory tower" architecture function disconnected from the organization, which in a [fast-moving, global, and diverse setting](context) is a real danger. In other words, I wanted to create an architectural function that is well-grounded in the organization.
 

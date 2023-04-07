@@ -17,6 +17,10 @@ excerpt: "I have identified the following a set of considerations and guiding pr
 Image by <a href="https://pixabay.com/users/borevina-9505414/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3979490">Borko Manigoda</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3979490">Pixabay</a>
 </div>
 
+> **KEY POINTS:**
+>
+> * I introduce ideas and key lessons I learned about what is means to be an architect in practice.
+
 The following reflections provide some ideas and key lessons I learned about what is means to be an architect in practice:
 
 * **[Architects as Superglue](superglue)**: I promote a view that architects in IT organizations should develop as “superglue,” people who hold architecture, technical details, business needs, and people together across a large organization or complex projects.

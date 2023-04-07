@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-04-01T17:11:03+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: The Chief Architect’s Playbook</title><subtitle></subtitle><entry><title type="html">Favorite Quotes</title><link href="http://localhost:4000/quotes" rel="alternate" type="text/html" title="Favorite Quotes" /><published>2021-10-25T22:12:01+02:00</published><updated>2021-10-25T22:12:01+02:00</updated><id>http://localhost:4000/quotes</id><content type="html" xml:base="http://localhost:4000/quotes"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/books-g1b2675255_1920.jpg" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-04-07T08:50:23+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: The Chief Architect’s Playbook</title><subtitle></subtitle><entry><title type="html">Favorite Quotes</title><link href="http://localhost:4000/quotes" rel="alternate" type="text/html" title="Favorite Quotes" /><published>2021-10-25T22:12:01+02:00</published><updated>2021-10-25T22:12:01+02:00</updated><id>http://localhost:4000/quotes</id><content type="html" xml:base="http://localhost:4000/quotes"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/books-g1b2675255_1920.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/prettysleepy-2973588/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5430104">Amy</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5430104">Pixabay</a>
 </div>
@@ -362,10 +362,7 @@ Image by <a href="https://pixabay.com/users/ichigo121212-11728/?utm_source=link-
   <p><strong>KEY POINTS:</strong></p>
 
   <ul>
-    <li>Grounded Architecture structure has three elements: The Data Pillar, The People Pillar, and The Architecture Activities Platform.</li>
-    <li>The Data Pillar enables architects to make data-informed decisions based on a real-time and complete overview of the organization’s technology landscape.</li>
-    <li>The People Pillar is a strong network of people doing architecture across the organization, ensuring that the architecture function has a tangible impact.</li>
-    <li>The Architecture Activities Platform defines a set of processes and agreements enabling architects to do everything architecture typically does, leveraging data and people pillars to create a data-informed, organization-wide impact.</li>
+    <li>I introduce three elements of Grounded Architecture: The Data Pillar, The People Pillar, The Architecture Activities Platform.</li>
   </ul>
 </blockquote>
 
@@ -537,8 +534,8 @@ Image by <a href="https://pixabay.com/users/mostafa_meraji-13551092/?utm_source=
   <p><strong>KEY POINTS:</strong></p>
 
   <ul>
-    <li>We should not take our architectural talent for granted. Architects are bridging local business, product, organizational, and technology issues.</li>
-    <li>Architects are difficult to hire talent as they need in-depth technical knowledge and domain-specific and organizational knowledge.</li>
+    <li>Architects are bridging local business, product, organizational, and technology issues.</li>
+    <li>We should not take our architectural talent for granted. Architects are difficult to hire talent as they need in-depth technical knowledge and domain-specific and organizational knowledge.</li>
     <li>We need to make sure to support, organize, and leverage architecture talent.</li>
   </ul>
 </blockquote>
@@ -725,8 +722,8 @@ Image by <a href="https://pixabay.com/users/cocoparisienne-127419/?utm_source=li
   <p><strong>KEY POINTS:</strong></p>
 
   <ul>
-    <li>The Architecture Activities Platform is the place where, by leveraging data and people pillars, we perform activities that help an organization to reach it goals.</li>
-    <li>Examples include: supporting teams in their daily work; tracking tech debt, defining tech debt reduction programs; performing technical due diligence; standardization of processes and documentation; defining cloud, data, and platform strategies.</li>
+    <li>The Architecture Activities Platform defines a set of processes and agreements enabling architects to do everything architecture typically does, leveraging data and people pillars to create a data-informed, organization-wide impact.</li>
+    <li>Examples of activities include: supporting teams in their daily work; tracking tech debt, defining tech debt reduction programs; performing technical due diligence; standardization of processes and documentation; defining cloud, data, and platform strategies.</li>
   </ul>
 </blockquote>
 
@@ -740,7 +737,7 @@ Image by <a href="https://pixabay.com/users/cocoparisienne-127419/?utm_source=li
 
 <p>Considering the previous two points from Gregor Hohpe, each organization must find activities and operating models to enable architecture to work on the most critical problems.</p>
 
-<p>The Architecture Activities Platform is where we have to perform activities that help an organization reach its goals. In all of these activities, data and people pillars provide foundations for data-informed decision-making well-embedded in the organization.</p>
+<p>The Architecture Activities Platform is where we have to perform activities that help an organization reach its goals. The Architecture Activities Platform defines a set of processes and agreements enabling architects to do everything architecture typically does, leveraging data and people pillars to create a data-informed, organization-wide impact. In all these activities, data and people posts provide foundations for data-informed decision-making well-embedded in the organization.</p>
 
 <p><br /></p>
 <h2 id="examples-of-architecture-activities">Examples of Architecture Activities</h2>
@@ -787,6 +784,8 @@ Image by <a href="https://pixabay.com/users/cocoparisienne-127419/?utm_source=li
   </li>
   <li>Architects then spend their time in <strong>constant motion</strong> between supporting teams’ <strong>daily work</strong> and working on <strong>strategic topics</strong>, helping the organization achieve alignment between strategy and implementation.</li>
 </ul>
+
+<p>Another characteristic of this operating model is <strong>shifting left</strong> the architecture work. My goal was to avoid formal bureaucratic approval processes, where architects appear too late and are frequently busy approving trivial decisions. Instead, my goal was to have architects involved early in any of the processes, such as during the planning and preparation stages, where it is possible to make more significant changes.</p>
 
 <h3 id="distributing-decisions">Distributing Decisions</h3>
 
@@ -839,7 +838,7 @@ Image by <a href="https://pixabay.com/users/ronymichaud-647623/?utm_source=link-
 Image by <a href="https://pixabay.com/users/wikiimages-1897/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=11595">WikiImages</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=11595">Pixabay</a>
 </div>
 
-<p>The architecture data pillar aims to support working at scale with automation and self-service. Our People Pillar aims to help execution at scale by developing connections at all levels of the organization, increasing transparency, and through a strong network speeding up the execution of shared decisions.</p>
+<p>The architecture data pillar aims to support working at scale with automation and self-service. Our People Pillar aims to help execution at scale by developing connections at all levels of the organization, increasing transparency, and through a strong network speeding up alignment and the execution of shared decisions.</p>
 
 <p><br /></p>
 <h2 id="increasing-the-quality-of-decision-making-with-data">Increasing the Quality of Decision-Making with Data</h2>
@@ -882,15 +881,16 @@ Image by <a href="https://pixabay.com/users/mufaddalap-14141833/?utm_source=link
 
 <h2 id="maximizing-organizational-learning">Maximizing Organizational Learning</h2>
 <blockquote>
-  <p><em>“Good judgment comes from experience, and experience comes from bad judgment.”</em> – Fred Brooks
-<em>” I expect you to learn to be better each day. I challenge you to look at each working day as an opportunity to learn more, and by doing so, to grow as a person.”</em> – L. David Marquet</p>
+  <p><em>“Good judgment comes from experience, and experience comes from bad judgment.”</em> – Fred Brooks</p>
+
+  <p><em>” I expect you to learn to be better each day. I challenge you to look at each working day as an opportunity to learn more, and by doing so, to grow as a person.”</em> – L. David Marquet</p>
 </blockquote>
 
 <p>When we have teams of well-connected architects and other stakeholders, such groups can transform individual experiences into collective knowledge to benefit the whole organization.</p>
 
-<p>One of our primary daily tasks is learning. We must discover new things about our domain, teams, tools, and technologies. As individual architects, we need to use each day to learn something new. We must maximize personal learning, transforming individual lessons learned into shared guidelines.</p>
+<p>One of architects’ primary daily tasks is learning. We must discover new things about our domain, teams, tools, and technologies. As individual architects, we need to use each day to learn something new. We must maximize personal learning, transforming individual lessons learned into shared guidelines.</p>
 
-<p>One of the problems I frequently see in organizations, particularly complex and international ones, is that they may need more natural spaces for group knowledge sharing. Consequently, the people pillar aims at creating spaces for sharing knowledge about architecture and technology. These spaces include but are not limited to regular update calls, knowledge-sharing sessions, or conferences.</p>
+<p>One of the problems I frequently see in organizations, particularly complex and international ones, is that they may need more natural spaces for group knowledge sharing. Consequently, the <a href="people-pillar">People Pillar</a> aims at creating spaces for sharing knowledge about architecture and technology. These spaces include but are not limited to regular update calls, knowledge-sharing sessions, or conferences.</p>
 
 <p>In addition to creating spaces, as a community, we can further increase our learning value by deriving generalized insights from cross-group cases.</p>
 
@@ -912,8 +912,8 @@ Image by <a href="https://pixabay.com/users/mufaddalap-14141833/?utm_source=link
 <ul>
   <li>The data pillar, if implemented with a high level of automation, allows for quick extensions and reconfigurations to provide data for any change of direction. Extending the platform with new data should be easy after acquisitions or mergers. And the ability to group data at multiple levels supported the what-if scenario analysis (e.g., the impact of different reorganization scenarios). It defined a baseline to track changes in the organization.</li>
   <li>A strong data pillar provides crucial connections and feedback on the daily reality of each part of the organization.</li>
-  <li>Grounding the architecture with data and people connections also makes the work of a Chief Architect much more flexible. As most architectural decisions can be delegated to well-aligned teams, a Chief Architect, the most experienced technologist, can spend more time on crucial strategic initiatives, such as defining cloud, data, or platform strategies or supporting decisions on mergers and acquisitions.</li>
-  <li>Lastly, the structure of our architectural model enables a more sustainable architectural function. With an established data pillar and a well-connected architect, the architecture can still benefit the organization even without a strong central team.</li>
+  <li>Grounding the architecture with data and people connections also makes the work of a Chief Architect much more flexible. As most architectural decisions can be delegated to well-aligned teams, a Chief Architect, typically the most experienced technologist, can spend more time on crucial strategic initiatives, such as defining cloud, data, or platform strategies or supporting decisions on mergers and acquisitions.</li>
+  <li>Lastly, the structure of our architectural model enables a more sustainable architectural function. With an established <a href="data-pillar">Data Pillar</a> and a well-connected architect, the architecture can still benefit the organization even without a strong central team.</li>
 </ul>
 
 <p><br />
@@ -924,6 +924,14 @@ Image by <a href="https://pixabay.com/users/bru-no-1161770/?utm_source=link-attr
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/borevina-9505414/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3979490">Borko Manigoda</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3979490">Pixabay</a>
 </div>
+
+<blockquote>
+  <p><strong>KEY POINTS:</strong></p>
+
+  <ul>
+    <li>I introduce ideas and key lessons I learned about what is means to be an architect in practice.</li>
+  </ul>
+</blockquote>
 
 <p>The following reflections provide some ideas and key lessons I learned about what is means to be an architect in practice:</p>
 
@@ -950,7 +958,7 @@ Image by <a href="https://pixabay.com/users/borevina-9505414/?utm_source=link-at
 
 <p>The People Pillar part of grounded architecture considers the people the central and essential part of architectural activities. In other words, Strong Architecture = Strong Architects. Developing the architecture function requires having competent, empowered, and motivated architects.</p>
 
-<p>I found that Grounded Architecture is more effective if architects being a part of the People Pillar, view themselves as “superglue.” I borrow this view from Adam Bar-Niv and Amir Shenhav from Intel. They pointed out that instead of the superhero, we need “superglue” architects - the people who hold architecture, technical details, business needs, and people together across large organizations or complex projects.</p>
+<p>I found that Grounded Architecture is more effective if architects being a part of the People Pillar, view themselves as “super glue.” I borrow this view from <a href="https://saturn2016.sched.com/event/63m9/cant-find-superheroes-to-help-you-out-of-a-crisis-how-about-some-architecture-and-lots-of-superglue">Adam Bar-Niv and Amir Shenhav from Intel</a>. They pointed out that instead of the superhero, we need “superglue” architects - the people who hold architecture, technical details, business needs, and people together across large organizations or complex projects. More recently, Tanya Reilly presented a similar <a href="https://noidea.dog/glue">being glue</a> view concerning software engineering positions.</p>
 
 <p>The superglue characteristics mean serving as the organizational connective tissue, linking the “business wheelhouse” and the “engine room.” Architects, of course, need to be technically strong. But their unique strengths should stem from being able to relate, or glue, technical issues with business and broader issues.</p>
 
@@ -1045,7 +1053,7 @@ Image by <a href="https://pixabay.com/users/borevina-9505414/?utm_source=link-at
   <li>They <strong>raise the bar of the engineering culture</strong> across the company.</li>
 </ul>
 
-<p>It is crucial for an organization that a senior architect mentors junior architects. Feedback cycles in (software) architecture are inherently slow. Mentoring can save new architects many years of learning by doing and making mistakes. The <a href="people-pillar">People Pillar</a> should create spaces for such coaching and collaborations.</p>
+<p>Mentoring junior architects is the most crucial aspect of senior architects’ leadership. Feedback cycles in (software) architecture are inherently slow. Mentoring can save new architects many years of learning by doing and making mistakes. The <a href="people-pillar">People Pillar</a> should create spaces for such coaching and collaborations.</p>
 
 <p><br /></p>
 <h3 id="balanced-development">Balanced Development</h3>
