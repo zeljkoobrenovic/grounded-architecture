@@ -1,7 +1,7 @@
 ---
 layout: post
 section: "Doing Architecture"
-title: "Six Simple Rules"
+title: "Managing Complexity: Six Simple Rules"
 position: 6008
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
@@ -23,12 +23,14 @@ Image by <a href="https://pixabay.com/users/nataliaaggiato-470329/?utm_source=li
 >* To deal with complexity, organizations should depend on the judgment of their people and on these people cooperating to utilize the organization's capabilities to cope with complex problems. 
 >* This view is well aligned with the ideas of Grounded Architecture.
 
+<br>
 The book [Six Simple Rules: How to Manage Complexity without Getting Complicated](https://www.bcg.com/capabilities/organization/smart-simplicity/six-rules-overcoming-complexity), by  Yves Morieux and Peter Tollman, is another source of inspiration for my vision on the Architecture function. Morieux and Tollman introduced a concept of Smart Simplicity with six rules or strategies that enable organizations to promote new behaviors and improve performance.
 
 Six Simple Rules emphasis that in today’s complicated business environment, you **need to setup organisational structures based on cooperation**. To deal with complexity, organizations should depend on the judgment of their people, which requires giving them more autonomy to act. It also depends on these people cooperating to utilize the organization's capabilities to cope with complex problems.
 
 This view is well aligned with the ideas of Grounded Architecture. In this section, I will explore the connection between the ideas of Grounded Architecture and Six Simple Rules.
 
+<br>
 ## Background: Limitations of Hard and Soft Management Approaches
 
 One of the book's central premises is that conventional management approaches, which the authors split into hard and soft, are neither sufficient nor appropriate for the complexity of organizations nowadays.  
@@ -76,15 +78,15 @@ Image by <a href="https://pixabay.com/users/noname_13-2364555/?utm_source=link-a
 
 ### General Guidelines
 
-You can truly understand performance by:
+The Six Simple Rules approach states that you can truly understand performance by:
 * Tracing **performance back to behaviors** and how they influence and combine to produce overall results. 
 * Using **observation, mapping, measurement, and discussion** to do this. 
 * **Understand the context of goals, resources, and constraints** within which the current behaviors constitute rational strategies for people. 
 * Finding out how your **organization’s elements** (structure, scorecards, systems, incentives, and so on) shape these goals, resources, and constraints. 
 
-### Grounded Architecture
+### The Role of Architecture
 
-Grounded Architecture can help understand what people really do in organizations in two ways: 
+I have found architecture function can be very helpful in understand what people really do in organizations in two ways: 
 * Using the **[Data Pillar](data-pillar)** to provide a complete **overview of various data sources** that can show where activities are happening, what trends are visible, and how people cooperate. One of the principles of the Data Pillar **build maps, not control units** supports understanding and orientation rather than being a simple metric tool.
 * Leveraging the **[People Pillar](people-pillar)** to **connect people** and enables them to **learn what is happening** in different parts of the organization.
 
@@ -106,10 +108,10 @@ You can reinforce integrators by:
 * Finding **operational units** those that can be **integrators among peer units** because of some particular interest or power. 
 * **Removing managerial layers who cannot add value** and reinforce others as integrators by eliminating some rules and relying on observation and judgment rather than metrics whenever cooperation is involved.
 
-### Grounded Architecture
+### The Role of Architecture
 
-Grounded Architecture is related to reinforcing integrators. 
-* My view on architects as **[superglue](superglue)** positions architect them as **critical integrators** and **integrator role-models** in an organization. 
+Architecture function, in my view, is strongly related to reinforcing integrators: 
+* My view on architects as **[superglue](superglue)** defines architects as **critical integrators** and **integrator role-models** in an organization. 
 * Via the **[People Pillar](people-pillar)**, Grounded Architecture can **help identify integrators** and connect them to leverage their work. 
 * The **[Data Pillar](data-pillar)** can **support integrators with data and insights**.
 
@@ -133,9 +135,9 @@ To increase the quantity of power, the Six Simple Rules approach recommends the 
 * When you **create new tools** for managers (planning, or evaluation systems, for instance), ask yourself if these constitute **resources or constraints**. Providing a few tools simultaneously is more effective (because it creates a critical mass of power) than many tools sequentially, one after the other. 
 * **Regularly enrich power bases** to ensure agility, flexibility, and adaptiveness
 
-### Grounded Architecture 
+### The Role of Architecture
 
-Grounded Architecture supports increasing power quantity with its **[operating model](activities)**. 
+Architecture supports increasing power quantity with the **[operating model](activities)** that promotes distributing decision-making: 
 * I aimed to increase the quantity of the **decision-making power** and keep architectural decision-making **distributed across the organization** and embedded in the development teams. Development teams traditionally have the best insights and most information relevant for making a decision. 
 * Additionally, the **[Data Platform](data-platform)** opens many people in the organization, giving them **data in insights that can increase their power in daily work**.
 
@@ -157,10 +159,10 @@ Reciprocity is the recognition by people or units in an organization that they *
  * **reducing resources**, and 
  * **creating new networks of interaction**.
 
-### Grounded Architecture
+### The Role of Architecture
 
-Grounded Architecture is directly related to increasing reciprocity. 
-* The success of architecture depends on **[their superglue impact](superglue)** and success of architects support.  People from developer teams that architects support have an impact on architects' performance evaluations.  Likewise, the developer teams depend on architecture support.
+Architecture function is directly related to increasing reciprocity: 
+* I consider the success of architecture dependent on **[architects' superglue impact](superglue)**. Likewise, the developer teams support depends on architecture support. I also integrate feedback of people from teams that architects support in architects' performance evaluations.  
 * In addition, the **[People Pillar](people-pillar)** directly supports one of the ways of reinforcing reciprocity: **creating new networks of interactions**.
 
 
@@ -183,9 +185,9 @@ The Six Simple Rules approach identifies four ways to extend the shadow of the f
 * **Tie futures together** so that successful moves are conditioned by contributing to the successful move of others. 
 * Make people **walk in the shoes they make** for others.
 
-### Grounded Architecture
+### The Role of Architecture
 
-Grounded Architecture can extend the shadow of the future in multiple ways. 
+The architecture can extend the shadow of the future in multiple ways: 
 * The **[Data Pillar](data-pillar)** creates **transparency** and provides data necessary to **model the future**. I've used such data to create many **simulations and roadmap** options. 
 * The principle of applying **[economic modeling](economics)** to architecture decision-making directly supports describing what happens tomorrow as a consequence of what they do today. 
 
@@ -208,10 +210,11 @@ To reward those who cooperate managers:
 * They must not blame failure, but **blame failing to help or ask for help**. 
 * Instead of the elusive sophistication of balance scorecards and other counterproductive cumbersome systems and procedures, they can **use simple questions** to change the terms of the managerial conversation so that **transparency and ambitious targets become resources rather than constraints** for the individual. Managers then act as integrators by obtaining from others the cooperation that will leverage the rich information allowed by this transparency and help achieve superior results.
 
-### Grounded Architecture
-**Grounded Architecture** can help rewarding cooperation by **helping people to ask for help or help others**. 
-* The **[People pillar](people-pillar)** provides the context and **networks of people** to more easily collaborate. 
-* And various data sources in the **[Data Pillar](data-pillar)** can help creating **transparency about cooperation** opportunities and problems.
+### The Role of Architecture
+
+**Architecture** can help rewarding cooperation by making it easier for everyone to **help other people and ask for help**. 
+* I try to organize the **[People Pillar](people-pillar)** so that it provides the context and **networks of people** to more easily collaborate. 
+* Various data sources in the **[Data Pillar](data-pillar)** can help creating **transparency about cooperation** opportunities and problems.
 
 <br>
 ## To Probe Further

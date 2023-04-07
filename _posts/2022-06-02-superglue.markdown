@@ -88,7 +88,7 @@ Impact should be measured as a benefit for the business. Architects need to ensu
 New architects start as students or trainees having skills but little impact. But sooner than later, fresh architects need to get out into the world and make an impact. **Architects that do not make an impact do not have a place in a for-profit business**. 
 
 Examples of such impact may include:
-* **Aligning** business, product, technology and organizatinal strategies (see the [next section](storm) for more details),
+* **Aligning** business, product, technology and organizatinal strategies (see [this section](storm) for more details),
 * **Process** optimizations and improvements, with real measurable impact on work of an organization,
 * **Cost** optimizations of systems, based on data informed decisions,
 * Developing pragmatic **technology strategies**, helping business reach goals in a sustainable way,
