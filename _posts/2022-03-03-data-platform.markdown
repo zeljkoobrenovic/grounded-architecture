@@ -110,11 +110,6 @@ While each organization will have its unique sets of data, here are some tips I 
 * **Build maps, not control units**. The main inspiration for my work is map-making. As noted by Brené Brown, maps are one of the most critical documents in human history (see [Atlas of the Heart](https://brenebrown.com/book/atlas-of-the-heart/) for a discussion on a mapmaking metaphor). They give us tools to store and exchange knowledge about space and place. While there are differences between maps and the layers they show, the one thing that all maps do is provide readers with orientation. A sense of place is central to meaning-making. Maps are also composed of multiple layers. Similarly, the architecture data pillar offers data layers about systems, describing their size, connections, quality, security, or human activity.
 
 
-![](assets/images/arch/eiffel-tower-construction-stages.webp)
-<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Credit: <a href="https://en.wikipedia.org/wiki/Eiffel_Tower">Wikipedia</a>
-</div>
-
 
 While I do not want to prescribe the best technology, I can tell what I use in daily work. I build most architecture data tools as simple web applications, taking data from JSON files hosted on a static web server. See some of [my public tools](https://obren.io/tools) to illustrate how I build such simple data-driven web apps.
 
