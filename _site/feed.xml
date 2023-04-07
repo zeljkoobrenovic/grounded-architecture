@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-04-07T16:49:35+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: The Chief Architect’s Playbook</title><subtitle></subtitle><entry><title type="html">Favorite Quotes</title><link href="http://localhost:4000/quotes" rel="alternate" type="text/html" title="Favorite Quotes" /><published>2021-10-25T22:12:01+02:00</published><updated>2021-10-25T22:12:01+02:00</updated><id>http://localhost:4000/quotes</id><content type="html" xml:base="http://localhost:4000/quotes"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/books-g1b2675255_1920.jpg" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-04-07T16:56:29+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: The Chief Architect’s Playbook</title><subtitle></subtitle><entry><title type="html">Favorite Quotes</title><link href="http://localhost:4000/quotes" rel="alternate" type="text/html" title="Favorite Quotes" /><published>2021-10-25T22:12:01+02:00</published><updated>2021-10-25T22:12:01+02:00</updated><id>http://localhost:4000/quotes</id><content type="html" xml:base="http://localhost:4000/quotes"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/books-g1b2675255_1920.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/prettysleepy-2973588/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5430104">Amy</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5430104">Pixabay</a>
 </div>
@@ -112,7 +112,8 @@ Image by <a href="https://pixabay.com/users/paulbr75-2938186/?utm_source=link-at
   </ul>
 </blockquote>
 
-<p>To better understand any idea or solution, it is crucial to understand the context in which these ideas developed. My approach to creating and running an architecture function is not an abstract idea. Instead, it is the generalization of many lessons learned while solving specific problems in a particular context.</p>
+<p><br />
+To better understand any idea or solution, it is crucial to understand the context in which these ideas developed. My approach to creating and running an architecture function is not an abstract idea. Instead, it is the generalization of many lessons learned while solving specific problems in a particular context.</p>
 
 <p>I base my ideas on my experiences as a Chief and Principal Architect at AVIV Group, eBay Classifieds, and Adevinta. In this section, I discuss critical characteristics of the organizational context that have had an impact on my definition of the grounded architecture approach:</p>
 <ul>
@@ -334,7 +335,8 @@ Image by <a href="https://pixabay.com/users/geralt-9301/?utm_source=link-attribu
   </ul>
 </blockquote>
 
-<p>Considering the scale and complexity of the organizational context I operated in, it was apparent that conventional approaches of doing architecture that rely on manual processes need to be revised. More specifically, I identified the following needs that an architecture function should support.</p>
+<p><br />
+Considering the scale and complexity of the organizational context I operated in, it was apparent that conventional approaches of doing architecture that rely on manual processes need to be revised. More specifically, I identified the following needs that an architecture function should support.</p>
 
 <h2 id="goal-1-executing-at-scale">Goal 1: Executing At Scale</h2>
 
@@ -366,7 +368,8 @@ Image by <a href="https://pixabay.com/users/ichigo121212-11728/?utm_source=link-
   </ul>
 </blockquote>
 
-<p>In this part of my playbook, I will describe the structure of Grounded Architecture. I chose the term “Grounded Architecture” to highlight that the primary goal of my approach is to avoid having an “ivory tower” architecture function disconnected from the organization, which in a <a href="context">fast-moving, global, and diverse setting</a> is a real danger. In other words, I wanted to create an architectural function that is well-grounded in the organization.</p>
+<p><br />
+In this part of my playbook, I will describe the structure of Grounded Architecture. I chose the term “Grounded Architecture” to highlight that the primary goal of my approach is to avoid having an “ivory tower” architecture function disconnected from the organization, which in a <a href="context">fast-moving, global, and diverse setting</a> is a real danger. In other words, I wanted to create an architectural function that is well-grounded in the organization.</p>
 
 <p>Grounded Architecture has three elements:</p>
 <ul>
@@ -395,7 +398,8 @@ Image by <a href="https://pixabay.com/users/3844328-3844328/?utm_source=link-att
   </ul>
 </blockquote>
 
-<p>In every place I worked on creating architectural functions, I strongly emphasized data. In the past several years, I have been working on creating open-source tools, such as <a href="https://sokrates.dev">Sokrates</a>, that can help obtain valuable architectural insights from data sources, such as source code repositories or public cloud billing reports. Consequently, one of the first steps I make in any architecture role is to create an architecture data pillar to get a complete, up-to-date picture of critical elements of the technology landscapes of an organization. Manual documentation does not scale in <a href="context">our context</a>, and relying on data ensures reliability and scalability.</p>
+<p><br />
+In every place I worked on creating architectural functions, I strongly emphasized data. In the past several years, I have been working on creating open-source tools, such as <a href="https://sokrates.dev">Sokrates</a>, that can help obtain valuable architectural insights from data sources, such as source code repositories or public cloud billing reports. Consequently, one of the first steps I make in any architecture role is to create an architecture data pillar to get a complete, up-to-date picture of critical elements of the technology landscapes of an organization. Manual documentation does not scale in <a href="context">our context</a>, and relying on data ensures reliability and scalability.</p>
 
 <p><img src="assets/images/model-data.png" alt="" /></p>
 
@@ -535,7 +539,8 @@ Image by <a href="https://pixabay.com/users/mostafa_meraji-13551092/?utm_source=
   </ul>
 </blockquote>
 
-<p>One of the central premises of our work is that we should not take our architectural talent for granted. Architects are
+<p><br />
+One of the central premises of our work is that we should not take our architectural talent for granted. Architects are
 bridging local business, product, organizational, and technology issues. Architects are difficult to hire talent as they
 need not only in-depth technical knowledge but also domain-specific and organizational knowledge.</p>
 
@@ -722,7 +727,8 @@ Image by <a href="https://pixabay.com/users/cocoparisienne-127419/?utm_source=li
   </ul>
 </blockquote>
 
-<p>Each organization will have different architectural needs and contexts. When forming architecture functions, I use as a starting point these <a href="https://architectelevator.com/architecture/organizing-architecture/">two pieces of advice from Gregor Hohpe</a>:</p>
+<p><br />
+Each organization will have different architectural needs and contexts. When forming architecture functions, I use as a starting point these <a href="https://architectelevator.com/architecture/organizing-architecture/">two pieces of advice from Gregor Hohpe</a>:</p>
 <ul>
   <li><em>“Your architecture team’s job is to solve your biggest problems. The best setup is the one that allows it to accomplish that.”</em></li>
   <li><em>“Your organization has to earn its way to an effective architecture function. You can’t just plug some architects into the current mess and expect it to solve all your problems.”</em></li>
@@ -810,7 +816,8 @@ Image by <a href="https://pixabay.com/users/ronymichaud-647623/?utm_source=link-
   </ul>
 </blockquote>
 
-<p>When Grounded Architecture is in place, it can have a significant positive impact on the functioning of an organization:</p>
+<p><br />
+When Grounded Architecture is in place, it can have a significant positive impact on the functioning of an organization:</p>
 
 <ul>
   <li>Enable Execution of Architecture Function At Scale,</li>
@@ -928,7 +935,8 @@ Image by <a href="https://pixabay.com/users/borevina-9505414/?utm_source=link-at
   </ul>
 </blockquote>
 
-<p>The following reflections provide some ideas and key lessons I learned about what is means to be an architect in practice:</p>
+<p><br />
+The following reflections provide some ideas and key lessons I learned about what is means to be an architect in practice:</p>
 
 <ul>
   <li><strong><a href="superglue">Architects as Superglue</a></strong>: I promote a view that architects in IT organizations should develop as “superglue,” people who hold architecture, technical details, business needs, and people together across a large organization or complex projects.</li>
@@ -948,12 +956,11 @@ Image by <a href="https://pixabay.com/users/borevina-9505414/?utm_source=link-at
   </ul>
 </blockquote>
 
-<p><br /></p>
-<h2 id="superglue-vision">Superglue Vision</h2>
+<p><br />
+People are always the central and essential part of architectural activities. In other words, Strong Architecture = Strong Architects. Developing the architecture function requires having competent, empowered, and motivated architects. I found that work of architects is much more effective if architects view themselves as “superglue.”</p>
 
-<p>The People Pillar part of grounded architecture considers the people the central and essential part of architectural activities. In other words, Strong Architecture = Strong Architects. Developing the architecture function requires having competent, empowered, and motivated architects.</p>
-
-<p>I found that Grounded Architecture is more effective if architects being a part of the People Pillar, view themselves as “super glue.” I borrow this view from <a href="https://saturn2016.sched.com/event/63m9/cant-find-superheroes-to-help-you-out-of-a-crisis-how-about-some-architecture-and-lots-of-superglue">Adam Bar-Niv and Amir Shenhav from Intel</a>. They pointed out that instead of the superhero, we need “superglue” architects - the people who hold architecture, technical details, business needs, and people together across large organizations or complex projects. More recently, Tanya Reilly presented a similar <a href="https://noidea.dog/glue">being glue</a> view concerning software engineering positions.</p>
+<h2 id="the-superglue-vision">The Superglue Vision</h2>
+<p>I borrow the “superglue” view from <a href="https://saturn2016.sched.com/event/63m9/cant-find-superheroes-to-help-you-out-of-a-crisis-how-about-some-architecture-and-lots-of-superglue">Adam Bar-Niv and Amir Shenhav from Intel</a>. They pointed out that instead of the superhero, we need “superglue” architects - the people who hold architecture, technical details, business needs, and people together across large organizations or complex projects. More recently, Tanya Reilly presented a <a href="https://noidea.dog/glue">similar view</a> concerning software engineering positions.</p>
 
 <p>The superglue characteristics mean serving as the organizational connective tissue, linking the “business wheelhouse” and the “engine room.” Architects, of course, need to be technically strong. But their unique strengths should stem from being able to relate, or glue, technical issues with business and broader issues.</p>
 

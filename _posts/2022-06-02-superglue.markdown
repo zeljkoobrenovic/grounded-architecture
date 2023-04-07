@@ -23,11 +23,10 @@ excerpt: "Architects in IT organizations should develop as “superglue,” peop
 > * Architects should stand on three legs: Skills, Impact, Thought leadership.
 
 <br>
-## Superglue Vision
+People are always the central and essential part of architectural activities. In other words, Strong Architecture = Strong Architects. Developing the architecture function requires having competent, empowered, and motivated architects. I found that work of architects is much more effective if architects view themselves as "superglue." 
 
-The People Pillar part of grounded architecture considers the people the central and essential part of architectural activities. In other words, Strong Architecture = Strong Architects. Developing the architecture function requires having competent, empowered, and motivated architects.
-
-I found that Grounded Architecture is more effective if architects being a part of the People Pillar, view themselves as "super glue." I borrow this view from [Adam Bar-Niv and Amir Shenhav from Intel](https://saturn2016.sched.com/event/63m9/cant-find-superheroes-to-help-you-out-of-a-crisis-how-about-some-architecture-and-lots-of-superglue). They pointed out that instead of the superhero, we need "superglue" architects - the people who hold architecture, technical details, business needs, and people together across large organizations or complex projects. More recently, Tanya Reilly presented a similar [being glue](https://noidea.dog/glue) view concerning software engineering positions.
+## The Superglue Vision
+I borrow the "superglue" view from [Adam Bar-Niv and Amir Shenhav from Intel](https://saturn2016.sched.com/event/63m9/cant-find-superheroes-to-help-you-out-of-a-crisis-how-about-some-architecture-and-lots-of-superglue). They pointed out that instead of the superhero, we need "superglue" architects - the people who hold architecture, technical details, business needs, and people together across large organizations or complex projects. More recently, Tanya Reilly presented a [similar view](https://noidea.dog/glue) concerning software engineering positions.
 
 The superglue characteristics mean serving as the organizational connective tissue, linking the "business wheelhouse" and the "engine room." Architects, of course, need to be technically strong. But their unique strengths should stem from being able to relate, or glue, technical issues with business and broader issues.
 
