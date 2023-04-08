@@ -13,9 +13,9 @@ excerpt: "My view of architecture leadership is inspired by David Marquet’s wo
 ---
 
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
-     src="assets/images/arch/justice-gb089b5171_1920.jpg">
+     src="assets/images/arch/submarine-gcc865d4ee_1920.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by <a href="https://pixabay.com/users/ajel-676477/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2071539">Edward Lich</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2071539">Pixabay</a>
+Afbeelding van <a href="https://pixabay.com/nl/users/12019-12019/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=168884">David Mark</a> via <a href="https://pixabay.com/nl//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=168884">Pixabay</a>
 </div>
 > **KEY POINTS:**
 > * My view of architecture leadership is inspired by David Marquet's work and the Netflix's valued behaviors.
