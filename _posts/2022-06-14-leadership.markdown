@@ -1,14 +1,14 @@
 ---
 layout: post
 section: "Being Architect"
-title: "Developing Leaderships Skills: Behavioral Traits"
+title: "Leadership"
 position: 6014
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
-permalink: behaviors
+permalink: leadership
 icon: traits.png
 timetoread: 15 min
-excerpt: "Netflix's overview of their valued behaviors is a good inspiration for coaching and developing architects. Borrowing from Netflix's original values and rearranging the order I see as more relevant for architects, the following behavioral traits are crucial for architects are: communication, judgment, impact, inclusion, selflessness, courage, integrity, curiosity, innovation, and passion."
+excerpt: "My view of architecture leadership is inspired by David Marquet’s work and the Netflix’s valued behaviors."
 
 ---
 
@@ -18,9 +18,9 @@ excerpt: "Netflix's overview of their valued behaviors is a good inspiration for
 Image by <a href="https://pixabay.com/users/ajel-676477/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2071539">Edward Lich</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2071539">Pixabay</a>
 </div>
 > **KEY POINTS:**
->
-> * Netflix's overview of their valued behaviors is a good inspiration for coaching and developing architects. 
-> * Borrowing from Netflix's original values and rearranging the order I see as more relevant for architects, the following behavioral traits are crucial for architects are: communication, judgment, impact, inclusion, selflessness, courage, integrity, curiosity, innovation, and passion.
+> * My view of architecture leadership is inspired by David Marquet's work and the Netflix's valued behaviors.
+> * Marquet focused on leadership and organizational management, with a particular emphasis on the principles of Intent-Based Leadership.
+> * Borrowing from Netflix's original values the following behavioral traits are crucial for architects are: communication, judgment, impact, inclusion, selflessness, courage, integrity, curiosity, innovation, and passion.
 
 <style>
 h2 {
@@ -32,23 +32,27 @@ h3 {
 </style>
 <br>
 
-## Leader-Leader Model
+My view of architecture leadership is inspired by David Marquet's work and the Netflix's valued behaviors. [David Marquet's work](https://davidmarquet.com/)  (e.g., "Turn the Ship Around!") developes ideas of empowerment, clarity, decentralization, continuous improvement, and servant leadership. [Netflix overview of their valued behaviors](https://jobs.netflix.com/culture) is a helpful guide for how I coach and develop architects according to the superglue version.
 
-A leader-leader model is a leadership approach where authority is shared across a team or organization rather than being concentrated at the top. Everyone on the team has something valuable to offer and can contribute to the group's success.
+## David Marquet's Work: The Leader-Leader Model
+
+Marquet's work is closely related to the Leader-Leader model, which is a leadership approach where authority is shared across a team or organization rather than being concentrated at the top. Everyone on the team has something valuable to offer and can contribute to the group's success.
 
 The leader-leader model empowers individuals to take ownership of their work and collaborate with others to achieve common goals. Instead of relying on a single leader to make all the decisions, authority and responsibility are distributed across the team.
 
-The leader-leader model is an excellent standard for architecture work. Like managers in a leader-leader model, architects act more as facilitators, coaches, and mentors than traditional top-down decision-makers. They provide team members guidance, support, or resources to help them achieve their goals and reach their full potential.
+The leader-leader model is an excellent standard for architect's leadership vision. Like managers in a leader-leader model, architects should act more as facilitators, coaches, and mentors than traditional top-down decision-makers. They provide team members guidance, support, or resources to help them achieve their goals and reach their full potential.
 
 One of the key benefits of a leader-leader model is that it creates a more collaborative and inclusive work environment. It allows individuals to contribute their unique perspectives, experiences, and skills to the group and promotes a sense of ownership and accountability for the team's success. This model also helps build trust and stronger relationships within the team, leading to increased productivity, creativity, and innovation.
 
-
+David Marquet’s view from “Leadership is Language” can also help introducing the leader-leader model in the architecture work. This work emphasizes the importance of language and communication in leadership and provides practical advice for leaders looking to create a more collaborative, innovative, and inclusive organizational culture. David Marquet introduced the phrase “I intend to” as a powerful tool for clarifying intent and empowering team members. Rather than requiring team members to ask an architect for instructions or permission to take a specific course of action, allowing them to tell or document (e.g., via ADRs) what they intend to do is better. When team members give intent, the psychological ownership of those actions shifts to them. They become the originators of thought and direction as opposed to passive followers. The figure bellow illustrates this language shift.
+ 
 ![](assets/images/arch/leader-leader.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Credit: Based on Intent-Based Leadership, by David Marquet.
 </div>
 
-## Leadership Behaviors
+<br>
+## Netflix Valued Behaviors: Leadership Behaviors
 
 I have found the [Netflix overview of their valued behaviors](https://jobs.netflix.com/culture) to be a leading inspiration for how I coach and develop architects according to the superglue version. The following sections summarize these behaviors, borrowing from the Netflix original values but rearranging them in the order I see as more relevant for architects. 
 

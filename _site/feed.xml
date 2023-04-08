@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-04-08T14:51:38+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: The Chief Architect’s Playbook</title><subtitle></subtitle><entry><title type="html">Favorite Quotes</title><link href="http://localhost:4000/quotes" rel="alternate" type="text/html" title="Favorite Quotes" /><published>2021-10-25T22:12:01+02:00</published><updated>2021-10-25T22:12:01+02:00</updated><id>http://localhost:4000/quotes</id><content type="html" xml:base="http://localhost:4000/quotes"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/books-g1b2675255_1920.jpg" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-04-08T16:56:31+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: The Chief Architect’s Playbook</title><subtitle></subtitle><entry><title type="html">Favorite Quotes</title><link href="http://localhost:4000/quotes" rel="alternate" type="text/html" title="Favorite Quotes" /><published>2021-10-25T22:12:01+02:00</published><updated>2021-10-25T22:12:01+02:00</updated><id>http://localhost:4000/quotes</id><content type="html" xml:base="http://localhost:4000/quotes"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/books-g1b2675255_1920.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/prettysleepy-2973588/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5430104">Amy</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5430104">Pixabay</a>
 </div>
@@ -803,7 +803,7 @@ Each organization will have different architectural needs and contexts. When for
 <p><img src="assets/images/arch/decision-pyramid.jpg" alt="" />
 <em><strong>Figure 2:</strong> A decision pyramid. The development teams should make most decisions. However, several strategic and area-level decisions may provide decision boundaries for teams (e.g., a public cloud provider).</em></p>
 
-<p>Development teams should make most of the decisions. However, several strategic and area-level choices may provide team decision boundaries. For example, selecting the public cloud provider is typically a CTO-level strategic decision. Similarly, engineering leaders may want to limit some choices, such as the number of programming languages, to more easily train new people, maintain code, and support moves between teams.</p>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[The Architecture Activities Platform is the place where, by leveraging data and people pillars, we performed activities that help an organization to reach it goals. Here are some examples: supporting teams in their daily work; tracking tech debt, defining tech debt reduction programs; performing technical due diligence; standardization of processes and documentation; defining cloud, data, and platform strategies.]]></summary></entry><entry><title type="html">Value of Grounded Architecture</title><link href="http://localhost:4000/impact" rel="alternate" type="text/html" title="Value of Grounded Architecture" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/value</id><content type="html" xml:base="http://localhost:4000/impact"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/drop-of-water-578897_1920.jpg" /></p>
+<p>Development teams should make most of the decisions. However, several strategic and area-level choices may provide team decision boundaries. For example, selecting the public cloud provider is typically a CTO-level strategic decision. Similarly, engineering leaders may want to limit some choices, such as the number of programming languages, to more easily train new people, maintain code, and support moves between teams.</p>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[The Architecture Activities Platform is the place where, by leveraging data and people pillars, we performed activities that help an organization to reach it goals. Here are some examples: supporting teams in their daily work; tracking tech debt, defining tech debt reduction programs; performing technical due diligence; standardization of processes and documentation; defining cloud, data, and platform strategies.]]></summary></entry><entry><title type="html">Value of Grounded Architecture</title><link href="http://localhost:4000/value" rel="alternate" type="text/html" title="Value of Grounded Architecture" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/value</id><content type="html" xml:base="http://localhost:4000/value"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/drop-of-water-578897_1920.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/ronymichaud-647623/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=578897">rony michaud</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=578897">Pixabay</a>
 </div>
@@ -945,7 +945,16 @@ The following reflections provide some ideas and key lessons I learned about wha
   <li><strong><a href="making-impact">Making an Impact as an Architect</a></strong>: Architects’ work is evaluated based the impact they’ve had on the organization. They must demonstrate that they identify, tackle, and deliver on strategic problems, have a deep and/or broad influence, and deliver solutions that few others can.</li>
   <li><strong><a href="behaviors">Architects’ Behavioral Traits</a></strong>: Netflix’s overview of their valued behaviors is a good inspiration for coaching and developing architects. Borrowing from Netflix’s original values and reorganizing them from an architectural perspective, I consider the following behavioral traits to be crucial for architects: communication, judgment, impact, inclusion, selflessness, courage, integrity, curiosity, innovation, and passion.</li>
   <li><strong><a href="career">Architets’ Career Paths: Raising the Bar</a></strong>: Architects’ career paths ideally stem from a strong engineering background. Hiring architects requires constantly raising the bar to ensure a strong and diverse team structure.</li>
-</ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[I have identified the following a set of considerations and guiding principles that can help put the ideas of Grounded Architecture into practice and get things done: Developing Architects as Superglue, Being in the Eye of the Storm, Embracing Diversity, Distribute & Align Decisions, Having Flexible Governance, Applying Economic Modeling, Curisity, Doubt, Vision, Scepticism: Architect’s Personal Compass, and Culture Map: Architects’ Culture Mindfield Compass.]]></summary></entry><entry><title type="html">Architects as Superglue</title><link href="http://localhost:4000/superglue" rel="alternate" type="text/html" title="Architects as Superglue" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/superglue</id><content type="html" xml:base="http://localhost:4000/superglue"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/superglue/superglue.png" /></p>
+</ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[I have identified the following a set of considerations and guiding principles that can help put the ideas of Grounded Architecture into practice and get things done: Developing Architects as Superglue, Being in the Eye of the Storm, Embracing Diversity, Distribute & Align Decisions, Having Flexible Governance, Applying Economic Modeling, Curisity, Doubt, Vision, Scepticism: Architect’s Personal Compass, and Culture Map: Architects’ Culture Mindfield Compass.]]></summary></entry><entry><title type="html">Architects as Superglue</title><link href="http://localhost:4000/superglue" rel="alternate" type="text/html" title="Architects as Superglue" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/superglue</id><content type="html" xml:base="http://localhost:4000/superglue"><![CDATA[<style>
+     h2 {
+          margin-top: 40px;
+     }
+     h3 {
+          margin-top: 40px;
+     }
+</style>
+
+<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/superglue/superglue.png" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 </div>
 <blockquote>
@@ -954,7 +963,7 @@ The following reflections provide some ideas and key lessons I learned about wha
   <ul>
     <li>Architects in IT organizations should develop as “superglue,” people who hold architecture, technical details, business needs, and people together across a large organization or complex projects.</li>
     <li>Strong Architecture = Strong Architects.</li>
-    <li>Architects should stand on three legs: Skills, Impact, Thought leadership.</li>
+    <li>Architects should stand on three legs: Skills, Impact, leadership.</li>
   </ul>
 </blockquote>
 
@@ -985,14 +994,22 @@ People are always the central and essential part of architectural activities. In
 </ul>
 
 <p><img src="assets/images/superglue/architect-skills.png" alt="" />
-<em><strong>Figure 2:</strong> Architect Profile: Skills + Impact + Thought Leadership.</em></p>
+<em><strong>Figure 2:</strong> Architect Profile: Skills + Impact + Leadership.</em></p>
 
-<p><br /></p>
 <h3 id="skills">Skills</h3>
 
 <p>Architects have to have proper skill sets. By skills, I mean possessing knowledge and the ability to apply relevant knowledge in practice. These skills should include both technical (e.g., cloud architecture or Kubernetes technology) as well as communication and influence skills.</p>
 
-<p><br /></p>
+<p>A typical skillset of an architects includes:</p>
+<ul>
+  <li><strong>Hard (technical) skills</strong>, including extensive knowledge of for both new technology and legacy technology stacks,</li>
+  <li><strong>Soft skills</strong>, and</li>
+  <li>
+    <p><strong>Business Domain knowledge</strong>.</p>
+  </li>
+  <li>The section <a href="skills">Skills</a> provides more details.</li>
+</ul>
+
 <h3 id="impact">Impact</h3>
 
 <p>Impact should be measured as a benefit for the business. Architects need to ensure that what they are doing profits the business:</p>
@@ -1002,7 +1019,7 @@ People are always the central and essential part of architectural activities. In
   <li>They <strong>deliver solutions that few others can</strong>, either by your <strong>heavy lifting</strong> or the <strong>ability to orchestrate large group efforts</strong>.</li>
 </ul>
 
-<p>New architects start as students or trainees having skills but little impact. But sooner than later, fresh architects need to get out into the world and make an impact. <strong>Architects that do not make an impact do not have a place in a for-profit business</strong>.</p>
+<p>Architects need to get out into the world and make an impact. Architects that do not make an impact <strong>do not have a place in a for-profit business</strong>.</p>
 
 <p>Examples of such impact may include:</p>
 <ul>
@@ -1014,10 +1031,11 @@ People are always the central and essential part of architectural activities. In
   <li>Supporting <strong>business innovation</strong>, bringing new ideas in a pragmatic way aligned with business strategy and goals.</li>
 </ul>
 
-<p><br /></p>
+<p>The section <a href="impact">Impact</a> provides more details.</p>
+
 <h3 id="leadership">Leadership</h3>
 
-<p>Thought leadership acknowledges that experienced architects should do more than make architecture:</p>
+<p>Lleadership acknowledges that experienced architects should do more than make architecture:</p>
 <ul>
   <li>They are a <strong>role model for others</strong> in the company on both the <strong>technical</strong> and <strong>cultural</strong> front.</li>
   <li>Their <strong>technical influence</strong> may extend <strong>beyond you organization and reach the industry at large</strong>.</li>
@@ -1028,8 +1046,9 @@ People are always the central and essential part of architectural activities. In
 
 <p>Mentoring junior architects is the most crucial aspect of senior architects’ leadership. Feedback cycles in (software) architecture are inherently slow. Mentoring can save new architects many years of learning by doing and making mistakes. The <a href="people-pillar">People Pillar</a> should create spaces for such coaching and collaborations.</p>
 
-<p><br /></p>
-<h3 id="balanced-development">Balanced Development</h3>
+<p>The section <a href="leadership">Leadership</a> provides more details.</p>
+
+<h2 id="balanced-development">Balanced Development</h2>
 
 <p>Architects need to have a minimal “length” of all of these “legs” to be successful (Figure 3). For instance, having skills and impact without leadership frequently leads to hitting a glass ceiling. Such architects plateau at an intermediate level and cannot lead the company to innovative or transformative solutions. Leadership without impact lacks foundation and may signal that you have become an ivory tower architect with a weak relation to reality. And having impact and leadership qualities but no skills leads to impractical decisions not informed by in-depth knowledge.</p>
 

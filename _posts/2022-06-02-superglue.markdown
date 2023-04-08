@@ -11,7 +11,14 @@ timetoread: 15 min
 excerpt: "Architects in IT organizations should develop as “superglue,” people who hold architecture, technical details, business needs, and people together across a large organization or complex projects."
 
 ---
-
+<style>
+     h2 {
+          margin-top: 40px;
+     }
+     h3 {
+          margin-top: 40px;
+     }
+</style>
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
      src="assets/images/superglue/superglue.png">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
@@ -20,7 +27,7 @@ excerpt: "Architects in IT organizations should develop as “superglue,” peop
 >
 > * Architects in IT organizations should develop as “superglue,” people who hold architecture, technical details, business needs, and people together across a large organization or complex projects.
 > * Strong Architecture = Strong Architects.
-> * Architects should stand on three legs: Skills, Impact, Thought leadership.
+> * Architects should stand on three legs: Skills, Impact, leadership.
 
 <br>
 People are always the central and essential part of architectural activities. In other words, Strong Architecture = Strong Architects. Developing the architecture function requires having competent, empowered, and motivated architects. I found that work of architects is much more effective if architects view themselves as "superglue." 
@@ -47,15 +54,20 @@ Setting the architects' goals to be "superglue" also requires some thought on de
 * leadership
 
 ![](assets/images/superglue/architect-skills.png)
-***Figure 2:** Architect Profile: Skills + Impact + Thought Leadership.*
+***Figure 2:** Architect Profile: Skills + Impact + Leadership.*
 
-<br>
 ### Skills 
 
 Architects have to have proper skill sets. By skills, I mean possessing knowledge and the ability to apply relevant knowledge in practice. These skills should include both technical (e.g., cloud architecture or Kubernetes technology) as well as communication and influence skills.
 
+A typical skillset of an architects includes:
+* **Hard (technical) skills**, including extensive knowledge of for both new technology and legacy technology stacks,
+* **Soft skills**, and
+* **Business Domain knowledge**.
 
-<br>
+* The section [Skills](skills) provides more details.
+
+
 ### Impact 
 
 Impact should be measured as a benefit for the business. Architects need to ensure that what they are doing profits the business:
@@ -63,7 +75,7 @@ Impact should be measured as a benefit for the business. Architects need to ensu
 * They have a **track record of deep and/or broad impact** on a product or technology area. 
 * They **deliver solutions that few others can**, either by your **heavy lifting** or the **ability to orchestrate large group efforts**.
 
-New architects start as students or trainees having skills but little impact. But sooner than later, fresh architects need to get out into the world and make an impact. **Architects that do not make an impact do not have a place in a for-profit business**. 
+Architects need to get out into the world and make an impact. Architects that do not make an impact **do not have a place in a for-profit business**. 
 
 Examples of such impact may include:
 * **Aligning** business, product, technology and organizatinal strategies (see [this section](storm) for more details),
@@ -73,10 +85,11 @@ Examples of such impact may include:
 * Driving **delivery of products**, supporting teams to increase quality and speed of delivery,
 * Supporting **business innovation**, bringing new ideas in a pragmatic way aligned with business strategy and goals.
 
-<br>
+The section [Impact](impact) provides more details.
+
 ### Leadership
 
-Thought leadership acknowledges that experienced architects should do more than make architecture: 
+Lleadership acknowledges that experienced architects should do more than make architecture: 
 * They are a **role model for others** in the company on both the **technical** and **cultural** front.  
 * Their **technical influence** may extend **beyond you organization and reach the industry at large**. 
 * They **lead efforts** that **solve important problems** at the engineering area level. 
@@ -86,10 +99,10 @@ Thought leadership acknowledges that experienced architects should do more than 
 Mentoring junior architects is the most crucial aspect of senior architects' leadership. Feedback cycles in (software) architecture are inherently slow. Mentoring can save new architects many years of learning by doing and making mistakes. The [People Pillar](people-pillar) should create spaces for such coaching and collaborations.
 
 
+The section [Leadership](leadership) provides more details.
 
 
-<br>
-### Balanced Development
+## Balanced Development
 
 Architects need to have a minimal "length" of all of these "legs" to be successful (Figure 3). For instance, having skills and impact without leadership frequently leads to hitting a glass ceiling. Such architects plateau at an intermediate level and cannot lead the company to innovative or transformative solutions. Leadership without impact lacks foundation and may signal that you have become an ivory tower architect with a weak relation to reality. And having impact and leadership qualities but no skills leads to impractical decisions not informed by in-depth knowledge.
 

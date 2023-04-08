@@ -1,0 +1,69 @@
+---
+layout: post
+section: "Being Architect"
+title: "Skills"
+position: 6003
+date:   2021-10-21 21:12:01 +0100
+author: by Željko Obrenović (obren.io)
+permalink: skills
+icon: superglue.png
+timetoread: 15 min
+excerpt: "A typical skillset of an architects includes: hard (technical) skills, soft (people & social) skills, and business skills."
+
+---
+<style>
+     h2 {
+          margin-top: 40px;
+     }
+     h3 {
+          margin-top: 40px;
+     }
+</style>
+<img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
+     src="assets/images/arch/skills.jpg">
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Credit: Getty Images / iStock / MuchMania.
+</div>
+
+> **KEY POINTS:**
+>
+> * A typical skillset of an architects includes: hard (technical) skills, soft (people & social) skills, and business skills.
+
+Architects have to have proper skill sets. By skills, I mean possessing knowledge and the ability to apply relevant knowledge in practice. These skills should include both technical (e.g., cloud architecture or Kubernetes technology) as well as communication and influence skills.
+
+A typical skillset of an architects includes (I provide links to some of my [tools](https://obren.io/tools) I found useful for obtaining these skills):
+* **Hard (technical) skills**, including extensive knowledge of for both new technology and legacy technology stacks,
+* **Soft skills**, and
+* **Business Domain knowledge**.
+
+## Hard Skills (Technical Architecture)
+
+Hard (technical) skills are the most fundamental architectural skills and tehy should include extensive knowledge of both [new technology and legacy technology stacks](https://obren.io/tools?tag=technologies)). Here are some of typical technical skills that architects need in their work:
+
+* [**System design**](https://blog.pragmaticengineer.com/system-design-interview-an-insiders-guide-review/), 
+* [Engineering **processes**](https://obren.io/tools/catalogs/?id=design-tactics-high-performing-technology-organizations), 
+* [**Design patterns**](https://obren.io/tools?tag=design_patterns) and [**tactics**](https://obren.io/tools?tag=design_tactics),  
+* [**Security and privacy**](https://obren.io/tools?tag=security) by design,
+* [System **optimizations**](https://obren.io/tools/catalogs/?id=design-tactics-sig-performance),
+* [ **Source code** structures and maintainability](https://obren.io/tools/catalogs/?id=design-tactics-sig-maintainability),
+* [**Reliability and stability** (anti)patterns](https://obren.io/tools/catalogs/?id=releaseit-stability-awareness) and [tactics](https://obren.io/tools/catalogs/?id=releaseit-stability-tactics),
+* [**Usability**](https://obren.io/tools?q=usability).
+
+## Soft Skills  (Social Architecture)
+
+Soft skills relate to a range of people and socila skills, including:
+
+* [**Communication skills**](https://obren.io/tools?tag=consultancy), [written](https://obren.io/tools/sowhat/), [visual](https://obren.io/tools?tag=visuals), verbal (presentation), and listening skills.
+* [**Networking and collaboration skills**](https://obren.io/tools?tag=leadership), including partnering with others, including peers, more junior and senior people, managers and excutives.
+* [**Organizational** and **time management skills**](https://obren.io/tools?tag=reflect), including prioritization, goal-setting, task management, delegation.
+* **[Analytical, strategic thinking, and problem-solving skills](https://obren.io/tools?tag=it)**, such us finding and developing unique opportunities, to create value within an organization.
+
+## Business Skills  (Business Architecture)
+
+Lastly, architects need to understand business and have a solid knowledge about:
+
+* **General business concepts knowledge** ([The Personal MBA](https://personalmba.com/) book being my favorite resource to get familiar with such concepts). 
+* [**Specific business domains**](https://obren.io/tools?tag=domain_models) of the organization. 
+
+
+ 

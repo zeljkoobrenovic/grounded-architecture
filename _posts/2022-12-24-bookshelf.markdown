@@ -203,6 +203,37 @@ effective architectures for information systems.
 </td>
 </tr>
 
+<tr>
+<td class="icon-container">
+<img src="assets/images/books/turn-ship-around.jpeg" class="book" style="border: 1px solid lightgrey">
+</td>
+<td>
+<b>Turn the Ship Around!</b> by L. David Marquet:  Around reveals the story of how one United States Navy captain managed to turn a dissatisfied submarine crew into a formidable and respected team. But how did he do it? By changing the way we think about leadership, this story will show you that inside, we all have the power to be leaders.
+</td>
+<td style="font-size: 50%; line-height: 12px; text-align: center">
+<div>
+<a target="_blank" href="https://davidmarquet.com/turn-the-ship-around-book/">
+<img src="assets/icons/web.png" class="icon"><div>website</div>
+</a>
+</div>
+</td>
+</tr>
+
+<tr>
+<td class="icon-container">
+<img src="assets/images/books/leadership-is-language.jpeg" class="book" style="border: 1px solid lightgrey">
+</td>
+<td>
+<b>Leadership is Language</b> by L. David Marquet is a playbook for successful team management. Written by a former US Navy captain, it teaches leaders how they can change their language and mindsets in order to improve decision-making, empower workers, and achieve better results..
+</td>
+<td style="font-size: 50%; line-height: 12px; text-align: center">
+<div>
+<a target="_blank" href="https://intentbasedleadership.com/leadership-is-language-book/">
+<img src="assets/icons/web.png" class="icon"><div>website</div>
+</a>
+</div>
+</td>
+</tr>
 
 <tr>
 <td class="icon-container">

@@ -1,11 +1,11 @@
 ---
 layout: post
 section: "Being Architect"
-title: "Making an Impact as an Architect"
+title: "Impact"
 position: 6010
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
-permalink: making-impact
+permalink: impact
 icon: making-impact.png
 timetoread: 15 min
 excerpt: "Architects' work is evaluated based the impact they've had on the organization. They must demonstrate that they identify, tackle, and deliver on strategic problems, have a deep and/or broad influence, and deliver solutions that few others can."
@@ -21,7 +21,7 @@ Credit: Sandi Morris in <a href="https://nl.wikipedia.org/wiki/Sandi_Morris">Wik
 > **KEY POINTS:**
 >
 > * Architects' work is evaluated based the impact they've had on the organization. 
-> * Architects key competency enabling them to make impact include: Big-Picture Thinking, Execution, and Leveling-Up.
+> * Architects can make an impact via three pillars: Big-Picture Thinking, Execution, and Leveling-Up.
 
 <br>
 Architects' work is **evaluated based the impact** they've had on the organization. Architect typically make impact by:
@@ -38,9 +38,9 @@ Architects' work is **evaluated based the impact** they've had on the organizati
 To make this impact, architect need a few key competencies.
 
 <br>
-## Key Competencies
+## Pillars of Impact
 
-Architects must have strong technical, people, and business skills, ideally obtained through years of practice. On top of this strong foundation, architects need to develop competencies that enable them to use their experiences and abilities to impact organizational performance positively. The more senior architects become, the more their competency development should be driven by the impact they need to have rather than mere skills development. I typically coach architects in the context of concrete activities, guiding their development via involvement in the right set of actions and crafting skills developments based on challenges in making an expected impact in practice.
+Architects must have [strong technical, people, and business skills](skills), ideally obtained through years of practice. On top of this strong foundation, architects need to develop competencies that enable them to use their experiences and abilities to impact organizational performance positively. The more senior architects become, the more their competency development should be driven by the impact they need to have rather than mere skills development. I typically coach architects in the context of concrete activities, guiding their development via involvement in the right set of actions and crafting skills developments based on challenges in making an expected impact in practice.
 
 I use Staff Engineering roles as an inspiration for the development of architects. Tanya Reilly's
 book [The Staff Engineer's Path](https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/) and Will
