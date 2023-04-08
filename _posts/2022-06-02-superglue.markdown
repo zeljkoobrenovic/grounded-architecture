@@ -35,7 +35,7 @@ From discussions I've had with our technology leaders, engineers, and architects
 ![](assets/images/superglue/architect-as-superglue.png)
 ***Figure 1:** Architects serve as a superglue, connecting development teams with business stakeholders while linking teams with the internal communities and the external world.*
 
-IT organizations need persons who look broader, linking architecture, technical details, business needs, and people together. These persons may not necessarily have a title of an architect. But they must have good working relationships with developer teams and the local business stakeholders and functions. Simultaneously, such a person is well-connected with the internal communities and has external visibility. They promote what we are doing, and on the other hand, they bring back ideas from the outside.
+Architects must have good relationships with developer teams, local business stakeholders, and functions. Simultaneously, such a person needs to be well-connected with broader internal communities. External visibility is essential for architects, who can bring ideas from outside into the organization and promote the organization to the outside world. 
 
 <br>
 ## Superglue Abilities
@@ -44,7 +44,7 @@ Setting the architects' goals to be "superglue" also requires some thought on de
 
 * Skills
 * Impact
-* Thought leadership
+* leadership
 
 ![](assets/images/superglue/architect-skills.png)
 ***Figure 2:** Architect Profile: Skills + Impact + Thought Leadership.*
@@ -54,27 +54,6 @@ Setting the architects' goals to be "superglue" also requires some thought on de
 
 Architects have to have proper skill sets. By skills, I mean possessing knowledge and the ability to apply relevant knowledge in practice. These skills should include both technical (e.g., cloud architecture or Kubernetes technology) as well as communication and influence skills.
 
-A typical skillset of an architects includes (I provide links to some of my [tools](https://obren.io/tools) I found useful for obtaining these skills):
-
-* **Hard (technical) skills**, including extensive knowledge of (for both [new technology and legacy technology stacks](https://obren.io/tools?tag=technologies)):
-    * [**System design**](https://blog.pragmaticengineer.com/system-design-interview-an-insiders-guide-review/), 
-    * [Engineering **processes**](https://obren.io/tools/catalogs/?id=design-tactics-high-performing-technology-organizations), 
-    * [**Design patterns**](https://obren.io/tools?tag=design_patterns) and [**tactics**](https://obren.io/tools?tag=design_tactics),  
-    * [**Security and privacy**](https://obren.io/tools?tag=security) by design,
-    * [System **optimizations**](https://obren.io/tools/catalogs/?id=design-tactics-sig-performance),
-    * [ **Source code** structures and maintainability](https://obren.io/tools/catalogs/?id=design-tactics-sig-maintainability),
-    * [**Reliability and stability** (anti)patterns](https://obren.io/tools/catalogs/?id=releaseit-stability-awareness) and [tactics](https://obren.io/tools/catalogs/?id=releaseit-stability-tactics),
-    * [**Usability**](https://obren.io/tools?q=usability).
-
-* **Soft skills**:
-    * [**Communication skills**](https://obren.io/tools?tag=consultancy), [written](https://obren.io/tools/sowhat/), [visual](https://obren.io/tools?tag=visuals), verbal (presentation), and listening skills.
-    * [**Networking and collaboration skills**](https://obren.io/tools?tag=leadership), including partnering with others, including peers, more junior and senior people, managers and excutives.
-    * [**Organizational** and **time management skills**](https://obren.io/tools?tag=reflect), including prioritization, goal-setting, task management, delegation.
-    * **[Analytical, strategic thinking, and problem-solving skills](https://obren.io/tools?tag=it)**, such us finding and developing unique opportunities, to create value within an organization.
-
-* **Business Domain knowledge**:
-    * **General business concepts knowledge** ([The Personal MBA](https://personalmba.com/) book being my favorite resource to get familiar with such concepts). 
-    * [**Specific business domains**](https://obren.io/tools?tag=domain_models) of the organization. 
 
 <br>
 ### Impact 
@@ -95,7 +74,7 @@ Examples of such impact may include:
 * Supporting **business innovation**, bringing new ideas in a pragmatic way aligned with business strategy and goals.
 
 <br>
-### Though Leadership
+### Leadership
 
 Thought leadership acknowledges that experienced architects should do more than make architecture: 
 * They are a **role model for others** in the company on both the **technical** and **cultural** front.  

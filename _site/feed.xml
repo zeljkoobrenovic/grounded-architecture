@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-04-07T16:56:29+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: The Chief Architect’s Playbook</title><subtitle></subtitle><entry><title type="html">Favorite Quotes</title><link href="http://localhost:4000/quotes" rel="alternate" type="text/html" title="Favorite Quotes" /><published>2021-10-25T22:12:01+02:00</published><updated>2021-10-25T22:12:01+02:00</updated><id>http://localhost:4000/quotes</id><content type="html" xml:base="http://localhost:4000/quotes"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/books-g1b2675255_1920.jpg" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-04-08T14:51:38+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: The Chief Architect’s Playbook</title><subtitle></subtitle><entry><title type="html">Favorite Quotes</title><link href="http://localhost:4000/quotes" rel="alternate" type="text/html" title="Favorite Quotes" /><published>2021-10-25T22:12:01+02:00</published><updated>2021-10-25T22:12:01+02:00</updated><id>http://localhost:4000/quotes</id><content type="html" xml:base="http://localhost:4000/quotes"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/books-g1b2675255_1920.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/prettysleepy-2973588/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5430104">Amy</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5430104">Pixabay</a>
 </div>
@@ -876,9 +876,11 @@ Image by <a href="https://pixabay.com/users/qimono-1962238/?utm_source=link-attr
   <li>After making a decision, Grounded Architecture can make all organizations aware of it and distribute it so everyone can profit from lessons learned in one unit.</li>
 </ul>
 
-<p><img src="assets/images/Misalignment-1024x523.png" alt="" />
-Image by <a href="https://pixabay.com/users/mufaddalap-14141833/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4598095">mufaddalap</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4598095">Pixabay</a>
-<br />
+<p><img style="width: 100%;" src="assets/images/Misalignment-1024x523.png" /></p>
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Credit: <a href="https://blog.crisp.se/2016/05/30/henrikkniberg/misalignment">Henrik Kniberg</a>
+</div>
+<p><br />
 <br /></p>
 
 <h2 id="maximizing-organizational-learning">Maximizing Organizational Learning</h2>
@@ -922,7 +924,7 @@ Image by <a href="https://pixabay.com/users/mufaddalap-14141833/?utm_source=link
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/duplo-g6563105c1_1920.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/bru-no-1161770/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1981724">Bruno /Germany</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1981724">Pixabay</a>
-</div>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[When Grounded Architecture is in place, it can have a significant positive impact on the functioning of an organization: Executing At Scale, Increasing the Quality of Decision-Making with Data, Maximizing Organizational Alignment & Learning, Higher Adaptivity.]]></summary></entry><entry><title type="html">Being Architect</title><link href="http://localhost:4000/being-architect" rel="alternate" type="text/html" title="Being Architect" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/reflections</id><content type="html" xml:base="http://localhost:4000/being-architect"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/architect-3979490_1920.jpg" /></p>
+</div>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[When Grounded Architecture is in place, it can have a significant positive impact on the functioning of an organization: Executing At Scale, Increasing the Quality of Decision-Making with Data, Maximizing Organizational Alignment & Learning, Higher Adaptivity.]]></summary></entry><entry><title type="html">Being Architect</title><link href="http://localhost:4000/being-architect" rel="alternate" type="text/html" title="Being Architect" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/being-architect</id><content type="html" xml:base="http://localhost:4000/being-architect"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/architect-3979490_1920.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/borevina-9505414/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3979490">Borko Manigoda</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3979490">Pixabay</a>
 </div>
@@ -969,7 +971,7 @@ People are always the central and essential part of architectural activities. In
 <p><img src="assets/images/superglue/architect-as-superglue.png" alt="" />
 <em><strong>Figure 1:</strong> Architects serve as a superglue, connecting development teams with business stakeholders while linking teams with the internal communities and the external world.</em></p>
 
-<p>IT organizations need persons who look broader, linking architecture, technical details, business needs, and people together. These persons may not necessarily have a title of an architect. But they must have good working relationships with developer teams and the local business stakeholders and functions. Simultaneously, such a person is well-connected with the internal communities and has external visibility. They promote what we are doing, and on the other hand, they bring back ideas from the outside.</p>
+<p>Architects must have good relationships with developer teams, local business stakeholders, and functions. Simultaneously, such a person needs to be well-connected with broader internal communities. External visibility is essential for architects, who can bring ideas from outside into the organization and promote the organization to the outside world.</p>
 
 <p><br /></p>
 <h2 id="superglue-abilities">Superglue Abilities</h2>
@@ -979,7 +981,7 @@ People are always the central and essential part of architectural activities. In
 <ul>
   <li>Skills</li>
   <li>Impact</li>
-  <li>Thought leadership</li>
+  <li>leadership</li>
 </ul>
 
 <p><img src="assets/images/superglue/architect-skills.png" alt="" />
@@ -989,37 +991,6 @@ People are always the central and essential part of architectural activities. In
 <h3 id="skills">Skills</h3>
 
 <p>Architects have to have proper skill sets. By skills, I mean possessing knowledge and the ability to apply relevant knowledge in practice. These skills should include both technical (e.g., cloud architecture or Kubernetes technology) as well as communication and influence skills.</p>
-
-<p>A typical skillset of an architects includes (I provide links to some of my <a href="https://obren.io/tools">tools</a> I found useful for obtaining these skills):</p>
-
-<ul>
-  <li><strong>Hard (technical) skills</strong>, including extensive knowledge of (for both <a href="https://obren.io/tools?tag=technologies">new technology and legacy technology stacks</a>):
-    <ul>
-      <li><a href="https://blog.pragmaticengineer.com/system-design-interview-an-insiders-guide-review/"><strong>System design</strong></a>,</li>
-      <li><a href="https://obren.io/tools/catalogs/?id=design-tactics-high-performing-technology-organizations">Engineering <strong>processes</strong></a>,</li>
-      <li><a href="https://obren.io/tools?tag=design_patterns"><strong>Design patterns</strong></a> and <a href="https://obren.io/tools?tag=design_tactics"><strong>tactics</strong></a>,</li>
-      <li><a href="https://obren.io/tools?tag=security"><strong>Security and privacy</strong></a> by design,</li>
-      <li><a href="https://obren.io/tools/catalogs/?id=design-tactics-sig-performance">System <strong>optimizations</strong></a>,</li>
-      <li><a href="https://obren.io/tools/catalogs/?id=design-tactics-sig-maintainability"> <strong>Source code</strong> structures and maintainability</a>,</li>
-      <li><a href="https://obren.io/tools/catalogs/?id=releaseit-stability-awareness"><strong>Reliability and stability</strong> (anti)patterns</a> and <a href="https://obren.io/tools/catalogs/?id=releaseit-stability-tactics">tactics</a>,</li>
-      <li><a href="https://obren.io/tools?q=usability"><strong>Usability</strong></a>.</li>
-    </ul>
-  </li>
-  <li><strong>Soft skills</strong>:
-    <ul>
-      <li><a href="https://obren.io/tools?tag=consultancy"><strong>Communication skills</strong></a>, <a href="https://obren.io/tools/sowhat/">written</a>, <a href="https://obren.io/tools?tag=visuals">visual</a>, verbal (presentation), and listening skills.</li>
-      <li><a href="https://obren.io/tools?tag=leadership"><strong>Networking and collaboration skills</strong></a>, including partnering with others, including peers, more junior and senior people, managers and excutives.</li>
-      <li><a href="https://obren.io/tools?tag=reflect"><strong>Organizational</strong> and <strong>time management skills</strong></a>, including prioritization, goal-setting, task management, delegation.</li>
-      <li><strong><a href="https://obren.io/tools?tag=it">Analytical, strategic thinking, and problem-solving skills</a></strong>, such us finding and developing unique opportunities, to create value within an organization.</li>
-    </ul>
-  </li>
-  <li><strong>Business Domain knowledge</strong>:
-    <ul>
-      <li><strong>General business concepts knowledge</strong> (<a href="https://personalmba.com/">The Personal MBA</a> book being my favorite resource to get familiar with such concepts).</li>
-      <li><a href="https://obren.io/tools?tag=domain_models"><strong>Specific business domains</strong></a> of the organization.</li>
-    </ul>
-  </li>
-</ul>
 
 <p><br /></p>
 <h3 id="impact">Impact</h3>
@@ -1044,7 +1015,7 @@ People are always the central and essential part of architectural activities. In
 </ul>
 
 <p><br /></p>
-<h3 id="though-leadership">Though Leadership</h3>
+<h3 id="leadership">Leadership</h3>
 
 <p>Thought leadership acknowledges that experienced architects should do more than make architecture:</p>
 <ul>
