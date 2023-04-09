@@ -6,7 +6,7 @@ position: 6003
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 permalink: skills
-icon: superglue.png
+icon: skills.png
 timetoread: 15 min
 excerpt: "A typical skillset of an architects includes: hard (technical) skills, soft (people & social) skills, and business skills."
 
