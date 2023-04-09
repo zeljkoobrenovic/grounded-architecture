@@ -21,10 +21,9 @@ Credit: <a href="https://flic.kr/p/8zKRAU">tableatny</a> (CC BY 2.0)
 > * Architects' career paths ideally stem from a strong engineering background.
 > * Hiring architects requires constantly raising the bar to ensure a strong and diverse team structure.  
 
-
 <br>
+Hiring and developing architects will differ significantly per organization. Nevertheless, here I share some of the ideas and lessons learned here.
 
-<br>
 ## Typical Architect's Career Paths
 
 My view of architecture has a strong engineering bias. Architects' career paths ideally stem from a strong engineering background. While there may be exceptions, without significant real-world exposure to software engineering challenges, an architect cannot obtain enough practical knowledge to make technology decisions and build relations with developer teams. 

@@ -8,7 +8,7 @@ author: by Željko Obrenović (obren.io)
 permalink: doing-architecture
 icon: doing.png
 timetoread: 15 min
-excerpt: "I have identified the following a set of considerations and guiding principles that can help put the ideas of Grounded Architecture into practice and get things done: Developing Architects as Superglue, Being in the Eye of the Storm, Embracing Diversity, Distribute & Align Decisions, Having Flexible Governance, Applying Economic Modeling, Curisity, Doubt, Vision, Scepticism: Architect’s Personal Compass, and Culture Map: Architects’ Culture Mindfield Compass."
+excerpt: "I introduce ideas and key lessons I learned while developing ideas of Grounded Architecture in practice."
 
 ---
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
