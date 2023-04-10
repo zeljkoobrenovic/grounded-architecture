@@ -43,16 +43,17 @@ Lastly, the *Architecture Activities Platform*  defines a set of processes and a
 As a part of my work on Grounded Architecture, I also provided key lessons I learned while developing ideas of Grounded Architecture in practice, grouped into two parts:
 
 * [Being an Architect](being-architect):
-  * [Architects as Superglue](superglue),
-  * [Architects' Behavioral Traits](behaviors),
-  * [Making an Impact as an Architect](making-impact),
-  * [Architets' Career Paths](career).
+  * [Architects as Superglue](superglue)
+  * [Skills](skills)
+  * [Impact](impact)
+  * [Leadership](leadership)
+  * [Architets' Career Paths](career)
 * [Doing Architecture](doing-architecture):
-  * [Culture Map: Architects' Culture Mindfield Compass](culture),
-  * [Six Simple Rules](six-simple-rules),
-  * [In the Eye of the Storm](storm),
-  * [Flexible Governance](flexible-governance),
-  * [Economic Modeling](economics),
+  * [Culture Map: Architects' Culture Mindfield Compass](culture-map)
+  * [Managing Complexity: Six Simple Rules](six-simple-rules)
+  * [In the Eye of the Storm: Aligning Business, Product, Technology and Organization](storm)
+  * [Flexible Governance](flexible-governance)
+  * [Economic Modeling](economics)
 
 When Grounded Architecture is in place, it can have a significant [positive impact](impact) on the functioning of an organization:
 
