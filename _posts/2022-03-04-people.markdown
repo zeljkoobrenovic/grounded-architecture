@@ -26,14 +26,19 @@ Image by <a href="https://pixabay.com/users/mostafa_meraji-13551092/?utm_source=
 > * We need to make sure to support, organize, and leverage architecture talent.
 
 <br>
-One of the central premises of our work is that we should not take our architectural talent for granted. Architects are
-bridging local business, product, organizational, and technology issues. Architects are difficult to hire talent as they
-need not only in-depth technical knowledge but also domain-specific and organizational knowledge.
 
 The **People Pillar** is an essential element of Grounded Architecture. As noted by Gregor Hohpe, to transform an
 organization, you do not need to solve mathematical equations. You need to move people. Consequently, having a strong
 network of people doing architecture across the organization is crucial to ensure that the architecture function has any
-tangible impact.
+tangible impact. In other words, Strong Architecture =
+Strong Architects.
+
+Developing the architecture function requires having competent, empowered, and motivated architects. We should not take
+architectural talent for granted. Architects are bridging local business, product, organizational, and technology
+issues. Architects are difficult to hire talent as they need not only in-depth technical knowledge but also
+domain-specific and organizational knowledge. Consequently, any architecture function must carefully organize, empower,
+and leverage scarce architecture talent.
+
 ![](assets/images/model-people.png)
 
 In my work in the past few years, I was working by combining, in different forms, two teams of architects: a small
@@ -186,7 +191,6 @@ architecture teams or "[People Pillar](people-pillar)":
   outside the organization is challenging.
 * Externalize. Reach out and connect. Participate in external events. Publish. Being strong externally can help you to
   both grow and attract architectural talent.
-
 
 ![](assets/images/arch/pyramid-g88f894074_1920.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">

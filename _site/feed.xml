@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-04-10T14:14:08+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: The Chief Architect’s Playbook</title><subtitle></subtitle><entry><title type="html">Favorite Quotes</title><link href="http://localhost:4000/quotes" rel="alternate" type="text/html" title="Favorite Quotes" /><published>2021-10-25T22:12:01+02:00</published><updated>2021-10-25T22:12:01+02:00</updated><id>http://localhost:4000/quotes</id><content type="html" xml:base="http://localhost:4000/quotes"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/books-g1b2675255_1920.jpg" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-04-11T12:32:35+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: The Chief Architect’s Playbook</title><subtitle></subtitle><entry><title type="html">Favorite Quotes</title><link href="http://localhost:4000/quotes" rel="alternate" type="text/html" title="Favorite Quotes" /><published>2021-10-25T22:12:01+02:00</published><updated>2021-10-25T22:12:01+02:00</updated><id>http://localhost:4000/quotes</id><content type="html" xml:base="http://localhost:4000/quotes"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/books-g1b2675255_1920.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/prettysleepy-2973588/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5430104">Amy</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5430104">Pixabay</a>
 </div>
@@ -539,16 +539,21 @@ Image by <a href="https://pixabay.com/users/mostafa_meraji-13551092/?utm_source=
   </ul>
 </blockquote>
 
-<p><br />
-One of the central premises of our work is that we should not take our architectural talent for granted. Architects are
-bridging local business, product, organizational, and technology issues. Architects are difficult to hire talent as they
-need not only in-depth technical knowledge but also domain-specific and organizational knowledge.</p>
+<p><br /></p>
 
 <p>The <strong>People Pillar</strong> is an essential element of Grounded Architecture. As noted by Gregor Hohpe, to transform an
 organization, you do not need to solve mathematical equations. You need to move people. Consequently, having a strong
 network of people doing architecture across the organization is crucial to ensure that the architecture function has any
-tangible impact.
-<img src="assets/images/model-people.png" alt="" /></p>
+tangible impact. In other words, Strong Architecture =
+Strong Architects.</p>
+
+<p>Developing the architecture function requires having competent, empowered, and motivated architects. We should not take
+architectural talent for granted. Architects are bridging local business, product, organizational, and technology
+issues. Architects are difficult to hire talent as they need not only in-depth technical knowledge but also
+domain-specific and organizational knowledge. Consequently, any architecture function must carefully organize, empower,
+and leverage scarce architecture talent.</p>
+
+<p><img src="assets/images/model-people.png" alt="" /></p>
 
 <p>In my work in the past few years, I was working by combining, in different forms, two teams of architects: a small
 central architecture team and a cross-organizational distributed virtual team. A central architecture team is an enabler
@@ -921,9 +926,9 @@ Credit: <a href="https://blog.crisp.se/2016/05/30/henrikkniberg/misalignment">He
 </ul>
 
 <p><br />
-<img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/duplo-g6563105c1_1920.jpg" /></p>
+<img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/lego-g7d6cf2046_1920.png" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by <a href="https://pixabay.com/users/bru-no-1161770/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1981724">Bruno /Germany</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1981724">Pixabay</a>
+Image by <a href="https://pixabay.com/users/painter06-3732158/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3388163">Francis Ray</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3388163">Pixabay</a>
 </div>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[When Grounded Architecture is in place, it can have a significant positive impact on the functioning of an organization: Executing At Scale, Increasing the Quality of Decision-Making with Data, Maximizing Organizational Alignment & Learning, Higher Adaptivity.]]></summary></entry><entry><title type="html">Being Architect</title><link href="http://localhost:4000/being-architect" rel="alternate" type="text/html" title="Being Architect" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/being-architect</id><content type="html" xml:base="http://localhost:4000/being-architect"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/architect-3979490_1920.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/borevina-9505414/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3979490">Borko Manigoda</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3979490">Pixabay</a>
@@ -962,16 +967,12 @@ The following reflections provide some ideas and key lessons I learned about wha
 
   <ul>
     <li>Architects in IT organizations should develop as “superglue,” people who hold architecture, technical details, business needs, and people together across a large organization or complex projects.</li>
-    <li>Strong Architecture = Strong Architects.</li>
     <li>Architects should stand on three legs: Skills, Impact, leadership.</li>
   </ul>
 </blockquote>
 
 <p><br />
-People are always the central and essential part of architectural activities. In other words, Strong Architecture = Strong Architects. Developing the architecture function requires having competent, empowered, and motivated architects. I found that work of architects is much more effective if architects view themselves as “superglue.”</p>
-
-<h2 id="the-superglue-vision">The Superglue Vision</h2>
-<p>I borrow the “superglue” view from <a href="https://saturn2016.sched.com/event/63m9/cant-find-superheroes-to-help-you-out-of-a-crisis-how-about-some-architecture-and-lots-of-superglue">Adam Bar-Niv and Amir Shenhav from Intel</a>. They pointed out that instead of the superhero, we need “superglue” architects - the people who hold architecture, technical details, business needs, and people together across large organizations or complex projects. More recently, Tanya Reilly presented a <a href="https://noidea.dog/glue">similar view</a> concerning software engineering positions.</p>
+In my view, architects in IT organizations should develop as “superglue.” I borrow the “superglue” view from <a href="https://saturn2016.sched.com/event/63m9/cant-find-superheroes-to-help-you-out-of-a-crisis-how-about-some-architecture-and-lots-of-superglue">Adam Bar-Niv and Amir Shenhav from Intel</a>. They pointed out that instead of the superhero, we need “superglue” architects - the people who hold architecture, technical details, business needs, and people together across large organizations or complex projects. More recently, Tanya Reilly presented a <a href="https://noidea.dog/glue">similar view</a> concerning software engineering positions.</p>
 
 <p>The superglue characteristics mean serving as the organizational connective tissue, linking the “business wheelhouse” and the “engine room.” Architects, of course, need to be technically strong. But their unique strengths should stem from being able to relate, or glue, technical issues with business and broader issues.</p>
 
@@ -1004,11 +1005,10 @@ People are always the central and essential part of architectural activities. In
 <ul>
   <li><strong>Hard (technical) skills</strong>, including extensive knowledge of for both new technology and legacy technology stacks,</li>
   <li><strong>Soft skills</strong>, and</li>
-  <li>
-    <p><strong>Business Domain knowledge</strong>.</p>
-  </li>
-  <li>The section <a href="skills">Skills</a> provides more details.</li>
+  <li><strong>Business Domain knowledge</strong>.</li>
 </ul>
+
+<p>The section <a href="skills">Skills</a> provides more details.</p>
 
 <h3 id="impact">Impact</h3>
 
@@ -1031,7 +1031,8 @@ People are always the central and essential part of architectural activities. In
   <li>Supporting <strong>business innovation</strong>, bringing new ideas in a pragmatic way aligned with business strategy and goals.</li>
 </ul>
 
-<p>The section <a href="impact">Impact</a> provides more details.</p>
+<p>The section <a href="impact">Impact</a> provides more details.
+In my view, architects in IT organizations should develop as “superglue.”</p>
 
 <h3 id="leadership">Leadership</h3>
 

@@ -26,14 +26,10 @@ excerpt: "Architects in IT organizations should develop as “superglue,” peop
 > **KEY POINTS:**
 >
 > * Architects in IT organizations should develop as “superglue,” people who hold architecture, technical details, business needs, and people together across a large organization or complex projects.
-> * Strong Architecture = Strong Architects.
 > * Architects should stand on three legs: Skills, Impact, leadership.
 
 <br>
-People are always the central and essential part of architectural activities. In other words, Strong Architecture = Strong Architects. Developing the architecture function requires having competent, empowered, and motivated architects. I found that work of architects is much more effective if architects view themselves as "superglue." 
-
-## The Superglue Vision
-I borrow the "superglue" view from [Adam Bar-Niv and Amir Shenhav from Intel](https://saturn2016.sched.com/event/63m9/cant-find-superheroes-to-help-you-out-of-a-crisis-how-about-some-architecture-and-lots-of-superglue). They pointed out that instead of the superhero, we need "superglue" architects - the people who hold architecture, technical details, business needs, and people together across large organizations or complex projects. More recently, Tanya Reilly presented a [similar view](https://noidea.dog/glue) concerning software engineering positions.
+In my view, architects in IT organizations should develop as “superglue.” I borrow the "superglue" view from [Adam Bar-Niv and Amir Shenhav from Intel](https://saturn2016.sched.com/event/63m9/cant-find-superheroes-to-help-you-out-of-a-crisis-how-about-some-architecture-and-lots-of-superglue). They pointed out that instead of the superhero, we need "superglue" architects - the people who hold architecture, technical details, business needs, and people together across large organizations or complex projects. More recently, Tanya Reilly presented a [similar view](https://noidea.dog/glue) concerning software engineering positions.
 
 The superglue characteristics mean serving as the organizational connective tissue, linking the "business wheelhouse" and the "engine room." Architects, of course, need to be technically strong. But their unique strengths should stem from being able to relate, or glue, technical issues with business and broader issues.
 
@@ -65,7 +61,7 @@ A typical skillset of an architects includes:
 * **Soft skills**, and
 * **Business Domain knowledge**.
 
-* The section [Skills](skills) provides more details.
+The section [Skills](skills) provides more details.
 
 
 ### Impact 
@@ -86,6 +82,7 @@ Examples of such impact may include:
 * Supporting **business innovation**, bringing new ideas in a pragmatic way aligned with business strategy and goals.
 
 The section [Impact](impact) provides more details.
+In my view, architects in IT organizations should develop as “superglue.”
 
 ### Leadership
 
