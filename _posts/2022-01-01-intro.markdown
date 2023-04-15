@@ -52,10 +52,10 @@ As a part of my work on Grounded Architecture, I also provide key lessons I lear
   * [Architects' Career Paths](career)
 * [Doing Architecture](doing-architecture):
   * [Culture Map: Architects' Culture Mindfield Compass](culture-map)
-  * [Managing Complexity: Six Simple Rules](six-simple-rules)
-  * [In the Eye of the Storm: Aligning Business, Product, Technology and Organization](storm)
-  * [Flexible Governance](flexible-governance)
-  * [Economic Modeling](economics)
+  * [Managing Organization Complexity: Six Simple Rules](six-simple-rules)
+  * [In the Eye of the Storm: Aligning Business, Product, Technology and Organization Strategies](storm)
+  * [Flexible Governance: Mandates, Taxation, Nudge](flexible-governance)
+  * [Economic Modeling: ROI and Financial Options](economics)
 
 The rest of this site will explain in detail the grounded architecture approach. In this section, I want to tell a few things about my motivation to write this playbook.
 

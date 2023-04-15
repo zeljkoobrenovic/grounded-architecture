@@ -1,7 +1,7 @@
 ---
 layout: post
 section: "Doing Architecture"
-title: "Flexible Governance"
+title: "Flexible Governance: Mandates, Taxation, Nudge"
 position: 7012
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)

@@ -1,7 +1,7 @@
 ---
 layout: post
 section: "Doing Architecture"
-title: "Economic Modeling"
+title: "Economic Modeling: ROI and Financial Options"
 position: 7015
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
