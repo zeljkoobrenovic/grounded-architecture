@@ -47,7 +47,7 @@ As a part of my work on Grounded Architecture, I also provided key lessons I lea
   * [Skills](skills)
   * [Impact](impact)
   * [Leadership](leadership)
-  * [Architets' Career Paths](career)
+  * [Architects' Career Paths](career)
 * [Doing Architecture](doing-architecture):
   * [Culture Map: Architects' Culture Mindfield Compass](culture-map)
   * [Managing Complexity: Six Simple Rules](six-simple-rules)
