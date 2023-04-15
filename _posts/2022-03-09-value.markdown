@@ -6,7 +6,7 @@ position: 3009
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 permalink: value
-icon: impact-droplet.png
+icon: value.png
 timetoread: 15 min
 excerpt: "When Grounded Architecture is in place, it can have a significant positive impact on the functioning of an organization: Executing At Scale, Increasing the Quality of Decision-Making with Data, Maximizing Organizational Alignment & Learning, Higher Adaptivity."
 

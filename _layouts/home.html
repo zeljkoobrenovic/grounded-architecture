@@ -11,6 +11,8 @@ layout: default
     .icon-image {
         width: 100px;
         border: none;
+        vertical-align: top;
+        padding-top: 18px;
     }
 
     @media only screen and (max-width: 768px) {
@@ -46,7 +48,7 @@ layout: default
                     <td class="icon-image">
                         <img src="{{ site.baseurl }}/assets/icons/{{ post.icon }}" style="width: 100px;">
                     </td>
-                    <td style="border: none;">
+                    <td style="vertical-align: top; border: none;">
                         <h3>
                             <a class="post-link" href="{{ post.url | relative_url }}">
                                 {{ post.title | escape }}
