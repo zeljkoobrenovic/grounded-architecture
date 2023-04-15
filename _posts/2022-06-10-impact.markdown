@@ -69,7 +69,7 @@ being able to foresee the consequences of decisions in a broader context. As big
 help organizations in multiple ways:
 
 * Seeing the **big picture** can identify high leverage points for maximum impact.
-* **Helping others to see the big picture** and create tools (e.g., [Data Pillar](data-pillar)) that facilitate big-picture thinking.
+* **Helping others to see the big picture** and create tools (e.g., [Data Pillar](data)) that facilitate big-picture thinking.
 * Being able to **zoom in and out**, having a strategic overview, but being able to go deep and engage with implementaiton details.
 * Using big-picture thinking to **consistently root out inefficiencies** and lead the adoption of technologies and
   processes that **make multiple teams more efficient**.

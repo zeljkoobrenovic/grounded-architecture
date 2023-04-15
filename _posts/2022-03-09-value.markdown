@@ -72,7 +72,7 @@ The Data Pillar enables architects to move away from opinion-based decisions to 
 
 ## Maximizing Organizational Alignment
 
-Misalignment frequently happens in big organizations. The [Data Pillar](data-pillar) can increase organizational alignment by creating transparency. The [People Pillar](people-pillar) develops global structures that can help people before and after they make an architectural decision:
+Misalignment frequently happens in big organizations. The [Data Pillar](data) can increase organizational alignment by creating transparency. The [People Pillar](people) develops global structures that can help people before and after they make an architectural decision:
 * Before people decide, people starting to work simultaneously on the same topics can decide to work together, minimize effort duplication, and in that way, save time and resources.
 * After making a decision, Grounded Architecture can make all organizations aware of it and distribute it so everyone can profit from lessons learned in one unit.
 
@@ -93,7 +93,7 @@ When we have teams of well-connected architects and other stakeholders, such gro
 
 One of architects' primary daily tasks is learning. We must discover new things about our domain, teams, tools, and technologies. As individual architects, we need to use each day to learn something new. We must maximize personal learning, transforming individual lessons learned into shared guidelines.
 
-One of the problems I frequently see in organizations, particularly complex and international ones, is that they may need more natural spaces for group knowledge sharing. Consequently, the [People Pillar](people-pillar) aims at creating spaces for sharing knowledge about architecture and technology. These spaces include but are not limited to regular update calls, knowledge-sharing sessions, or conferences.
+One of the problems I frequently see in organizations, particularly complex and international ones, is that they may need more natural spaces for group knowledge sharing. Consequently, the [People Pillar](people) aims at creating spaces for sharing knowledge about architecture and technology. These spaces include but are not limited to regular update calls, knowledge-sharing sessions, or conferences.
 
 In addition to creating spaces, as a community, we can further increase our learning value by deriving generalized insights from cross-group cases.
 
@@ -117,7 +117,7 @@ This adaptivity is driven by the independence of elements and the possibility of
 * The data pillar, if implemented with a high level of automation, allows for quick extensions and reconfigurations to provide data for any change of direction. Extending the platform with new data should be easy after acquisitions or mergers. And the ability to group data at multiple levels supported the what-if scenario analysis (e.g., the impact of different reorganization scenarios). It defined a baseline to track changes in the organization.
 * A strong data pillar provides crucial connections and feedback on the daily reality of each part of the organization.
 * Grounding the architecture with data and people connections also makes the work of a Chief Architect much more flexible. As most architectural decisions can be delegated to well-aligned teams, a Chief Architect, typically the most experienced technologist, can spend more time on crucial strategic initiatives, such as defining cloud, data, or platform strategies or supporting decisions on mergers and acquisitions.
-* Lastly, the structure of our architectural model enables a more sustainable architectural function. With an established [Data Pillar](data-pillar) and a well-connected architect, the architecture can still benefit the organization even without a strong central team.
+* Lastly, the structure of our architectural model enables a more sustainable architectural function. With an established [Data Pillar](data) and a well-connected architect, the architecture can still benefit the organization even without a strong central team.
 
 <br>
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 

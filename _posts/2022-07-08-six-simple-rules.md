@@ -20,8 +20,8 @@ Image by <a href="https://pixabay.com/users/nataliaaggiato-470329/?utm_source=li
 > **KEY POINTS:**
 >
 > * Six Simple Rules emphasis that in today’s complicated business environment, you need to setup organisational structures based on cooperation. 
->* To deal with complexity, organizations should depend on the judgment of their people and on these people cooperating to utilize the organization's capabilities to cope with complex problems. 
->* This view is well aligned with the ideas of Grounded Architecture.
+> * To deal with complexity, organizations should depend on the judgment of their people and on these people cooperating to utilize the organization's capabilities to cope with complex problems. 
+> * This view is well aligned with the ideas of Grounded Architecture.
 
 <br>
 The book [Six Simple Rules: How to Manage Complexity without Getting Complicated](https://www.bcg.com/capabilities/organization/smart-simplicity/six-rules-overcoming-complexity), by  Yves Morieux and Peter Tollman, is another source of inspiration for my vision on the Architecture function. Morieux and Tollman introduced a concept of Smart Simplicity with six rules or strategies that enable organizations to promote new behaviors and improve performance.
@@ -87,8 +87,8 @@ The Six Simple Rules approach states that you can truly understand performance b
 ### The Role of Architecture
 
 I have found architecture function can be very helpful in understand what people really do in organizations in two ways: 
-* Using the **[Data Pillar](data-pillar)** to provide a complete **overview of various data sources** that can show where activities are happening, what trends are visible, and how people cooperate. One of the principles of the Data Pillar **build maps, not control units** supports understanding and orientation rather than being a simple metric tool.
-* Leveraging the **[People Pillar](people-pillar)** to **connect people** and enables them to **learn what is happening** in different parts of the organization.
+* Using the **[Data Pillar](data)** to provide a complete **overview of various data sources** that can show where activities are happening, what trends are visible, and how people cooperate. One of the principles of the Data Pillar **build maps, not control units** supports understanding and orientation rather than being a simple metric tool.
+* Leveraging the **[People Pillar](people)** to **connect people** and enables them to **learn what is happening** in different parts of the organization.
 
 
 <br>
@@ -112,8 +112,8 @@ You can reinforce integrators by:
 
 Architecture function, in my view, is strongly related to reinforcing integrators: 
 * My view on architects as **[superglue](superglue)** defines architects as **critical integrators** and **integrator role-models** in an organization. 
-* Via the **[People Pillar](people-pillar)**, Grounded Architecture can **help identify integrators** and connect them to leverage their work. 
-* The **[Data Pillar](data-pillar)** can **support integrators with data and insights**.
+* Via the **[People Pillar](people)**, Grounded Architecture can **help identify integrators** and connect them to leverage their work. 
+* The **[Data Pillar](data)** can **support integrators with data and insights**.
 
 
 <br>
@@ -139,7 +139,7 @@ To increase the quantity of power, the Six Simple Rules approach recommends the 
 
 Architecture supports increasing power quantity with the **[operating model](activities)** that promotes distributing decision-making: 
 * I aimed to increase the quantity of the **decision-making power** and keep architectural decision-making **distributed across the organization** and embedded in the development teams. Development teams traditionally have the best insights and most information relevant for making a decision. 
-* Additionally, the **[Data Platform](data-platform)** opens many people in the organization, giving them **data in insights that can increase their power in daily work**.
+* Additionally, the **[Data Platform](data)** opens many people in the organization, giving them **data in insights that can increase their power in daily work**.
 
 
 <br>
@@ -163,7 +163,7 @@ Reciprocity is the recognition by people or units in an organization that they *
 
 Architecture function is directly related to increasing reciprocity: 
 * I consider the success of architecture dependent on **[architects' superglue impact](superglue)**. Likewise, the developer teams support depends on architecture support. I also integrate feedback of people from teams that architects support in architects' performance evaluations.  
-* In addition, the **[People Pillar](people-pillar)** directly supports one of the ways of reinforcing reciprocity: **creating new networks of interactions**.
+* In addition, the **[People Pillar](people)** directly supports one of the ways of reinforcing reciprocity: **creating new networks of interactions**.
 
 
 <br>
@@ -188,7 +188,7 @@ The Six Simple Rules approach identifies four ways to extend the shadow of the f
 ### The Role of Architecture
 
 The architecture can extend the shadow of the future in multiple ways: 
-* The **[Data Pillar](data-pillar)** creates **transparency** and provides data necessary to **model the future**. I've used such data to create many **simulations and roadmap** options. 
+* The **[Data Pillar](data)** creates **transparency** and provides data necessary to **model the future**. I've used such data to create many **simulations and roadmap** options. 
 * The principle of applying **[economic modeling](economics)** to architecture decision-making directly supports describing what happens tomorrow as a consequence of what they do today. 
 
 
@@ -213,8 +213,8 @@ To reward those who cooperate managers:
 ### The Role of Architecture
 
 **Architecture** can help rewarding cooperation by making it easier for everyone to **help other people and ask for help**. 
-* I try to organize the **[People Pillar](people-pillar)** so that it provides the context and **networks of people** to more easily collaborate. 
-* Various data sources in the **[Data Pillar](data-pillar)** can help creating **transparency about cooperation** opportunities and problems.
+* I try to organize the **[People Pillar](people)** so that it provides the context and **networks of people** to more easily collaborate. 
+* Various data sources in the **[Data Pillar](data)** can help creating **transparency about cooperation** opportunities and problems.
 
 <br>
 ## To Probe Further

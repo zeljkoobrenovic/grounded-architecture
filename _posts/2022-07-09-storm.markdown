@@ -19,7 +19,7 @@ Image by <a href="https://pixabay.com/users/fiquetdidier1-25748628/?utm_source=l
 > **KEY POINTS:**
 >
 > * I want architecture always to address one of the most challenging problems our organization faces: a tension between technology, product, organization, and business functions.
-> *  Architecture should ensure that conversations happen between the technical, product, organizational, and business functions. 
+> * Architecture should ensure that conversations happen between the technical, product, organizational, and business functions. 
 
 <br>
 In this section, I elaborate on one type of impact architecture can have in an organization: aligning business, product, technology, and organizational functions. 

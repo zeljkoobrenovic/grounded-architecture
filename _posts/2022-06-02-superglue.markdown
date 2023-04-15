@@ -26,7 +26,8 @@ excerpt: "Architects in IT organizations should develop as “superglue,” peop
 > **KEY POINTS:**
 >
 > * Architects in IT organizations should develop as “superglue,” people who hold architecture, technical details, business needs, and people together across a large organization or complex projects.
-> * Architects should stand on three legs: Skills, Impact, leadership.
+> * Architects need to be technically strong. But their unique strengths should stem from being able to relate, or glue, technical issues with business and broader issues.
+> * Architects should stand on three legs: Skills, Impact, Leadership.
 
 <br>
 In my view, architects in IT organizations should develop as “superglue.” I borrow the "superglue" view from [Adam Bar-Niv and Amir Shenhav from Intel](https://saturn2016.sched.com/event/63m9/cant-find-superheroes-to-help-you-out-of-a-crisis-how-about-some-architecture-and-lots-of-superglue). They pointed out that instead of the superhero, we need "superglue" architects - the people who hold architecture, technical details, business needs, and people together across large organizations or complex projects. More recently, Tanya Reilly presented a [similar view](https://noidea.dog/glue) concerning software engineering positions.
@@ -93,7 +94,7 @@ Lleadership acknowledges that experienced architects should do more than make ar
 * They may **contribute to the broader technical community** through **tech talks**, **education**, **publications**, **open source projects**, etc. 
 * They **raise the bar of the engineering culture** across the company.
 
-Mentoring junior architects is the most crucial aspect of senior architects' leadership. Feedback cycles in (software) architecture are inherently slow. Mentoring can save new architects many years of learning by doing and making mistakes. The [People Pillar](people-pillar) should create spaces for such coaching and collaborations.
+Mentoring junior architects is the most crucial aspect of senior architects' leadership. Feedback cycles in (software) architecture are inherently slow. Mentoring can save new architects many years of learning by doing and making mistakes. The [People Pillar](people) should create spaces for such coaching and collaborations.
 
 
 The section [Leadership](leadership) provides more details.

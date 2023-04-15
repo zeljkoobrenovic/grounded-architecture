@@ -5,7 +5,7 @@ title: "People Pillar"
 position: 3005
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
-permalink: people-pillar
+permalink: people
 icon: community.png
 timetoread: 15 min
 excerpt: "We should not take our architectural talent for granted. Architects are bridging local business, product,
@@ -21,9 +21,12 @@ Image by <a href="https://pixabay.com/users/mostafa_meraji-13551092/?utm_source=
 </div>
 > **KEY POINTS:**
 >
-> * Architects are bridging local business, product, organizational, and technology issues.  
-> * We should not take our architectural talent for granted. Architects are difficult to hire talent as they need in-depth technical knowledge and domain-specific and organizational knowledge. 
-> * We need to make sure to support, organize, and leverage architecture talent.
+> * Developing the architecture function requires having competent, empowered, and motivated architects. 
+> * Any architecture function must carefully organize, empower,
+    and leverage scarce architecture talent.
+> * We should not take architectural talent for granted. Architects are bridging local business, product, 
+    organizational, and technology issues. Architects are difficult to hire talent as they need not only 
+    in-depth technical knowledge but also domain-specific and organizational knowledge. 
 
 <br>
 
@@ -103,7 +106,7 @@ similar topics.
 The roles of people in central teams may differ depending on the organization. In addition to doing typical architecture
 work, I found it helpful to be able to have people that can cover the following types of responsibilities:
 
-* **Build and maintain the architecture [Data Pillar](data-pillar).** Building a data pillar will not happen by
+* **Build and maintain the architecture [Data Pillar](data).** Building a data pillar will not happen by
   accident. It requires clear ownership, curation, and technical support.
 * **Promote data-informed decision-making.** identify, collect, and use relevant data. Only some people are used to
   applying data in their decision-making. Architects should provide support and be a role-model for data-informed
@@ -174,7 +177,7 @@ In big organization, embracing diversity is a pre-requirements to have any broad
 ## Building People Pillar
 
 While each organization will need its unique approach, here are some tips I found helpful in my approach to forming
-architecture teams or "[People Pillar](people-pillar)":
+architecture teams or "[People Pillar](people)":
 
 * Before making grandiose plans for reorganizations, connect with the people already doing architectural work in an
   organization, creating a community of practices or a virtual team. Being inclusive and connecting all key tech

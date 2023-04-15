@@ -30,15 +30,15 @@ Grounded Architecture has two main parts:
 * **Reflections**, a set of my considerations and guiding principles that can help put the ideas of Grounded Architecture into practice.
 
 The figure bellow shows the structure of the Grounded Architecture consisting of three elements:
-* [Data Pillar](data-pillar),
-* [People Pillar](people-pillar),
+* [Data Pillar](data),
+* [People Pillar](people),
 * [Architecture Activities Platform](activities-platform).
 
 ![](assets/images/model.png)
 
-The *[Data Pillar](data-pillar)* ensures that architects' decisions are data-informed, based on a up-to-date and complete overview of the organization's technology landscape.
+The *[Data Pillar](data)* ensures that architects' decisions are data-informed, based on a up-to-date and complete overview of the organization's technology landscape.
 
-The *[People Pillar](people-pillar)* represents a strong network of people doing architecture across the organization that is crucial to ensure that architecture function has any tangible impact.
+The *[People Pillar](people)* represents a strong network of people doing architecture across the organization that is crucial to ensure that architecture function has any tangible impact.
 
 Lastly, the *[Architecture Activities Platform](activities-platform)* defines a set of processes and agreements enabling architects to do everything architecture typically does, leveraging data and people pillars to create a data-informed, organization-wide impact.
 
@@ -64,7 +64,7 @@ The rest of this site will explain in detail the grounded architecture approach.
 
 The work presented in this playbook builds on several years of my experience. Most of this results from my current work as a Chief Architect at AVIV Group and previous works as a Principal Architect for eBay Classifieds and Adevinta.
 
-Another vital part of my experience that shaped this playbook was my earlier experience as a consultant and analyst at the Software Improvement Group. I've learned the value and pragmatics of data-informed decision-making. As a spin-off of this work, I've also built a tool called [Sokrates](sokrates.dev), which enable efficient and pragmatic extraction of data about technology and organization from source code. This work has directly influenced my view on the architecture [data pillar](data-pillar).
+Another vital part of my experience that shaped this playbook was my earlier experience as a consultant and analyst at the Software Improvement Group. I've learned the value and pragmatics of data-informed decision-making. As a spin-off of this work, I've also built a tool called [Sokrates](sokrates.dev), which enable efficient and pragmatic extraction of data about technology and organization from source code. This work has directly influenced my view on the architecture [data pillar](data).
 
 My experience as a CTO of [Incision](https://incision.care), a startup, has helped me better understand the difficulties and pragmatics of creating and running an IT organization.
 

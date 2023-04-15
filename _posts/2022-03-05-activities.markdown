@@ -66,7 +66,7 @@ A common operating model I typically use for Grounded Architecture activities is
 * Architects engage with stakeholders and product and project teams in a **collaborative and supportive manner**.
 * Architects are **empowering the teams** so that they make most of the decisions.
 * In all activities, the architecture function and architects: 
-  * **Bring relevant data** to inform decisions leveraging the [Data Pillar](data-pillar).
+  * **Bring relevant data** to inform decisions leveraging the [Data Pillar](data).
   * **Define decision boundaries** to enable the minimal level of compatibility and strategic alignment (e.g., public cloud provider, tech stack constraints).
   * **Define key principles** to facilitate consistency in decision-making.
   * **Share and generalize** lessons learned.
