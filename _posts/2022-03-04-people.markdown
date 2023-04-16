@@ -27,6 +27,8 @@ Image by <a href="https://pixabay.com/users/mostafa_meraji-13551092/?utm_source=
 > * We should not take architectural talent for granted. Architects are bridging local business, product, 
     organizational, and technology issues. Architects are difficult to hire talent as they need not only 
     in-depth technical knowledge but also domain-specific and organizational knowledge. 
+> * In my work in the past few years, I was working by combining, in different forms, two teams of architects: a small
+central architecture team and a cross-organizational distributed virtual team. 
 
 <br>
 

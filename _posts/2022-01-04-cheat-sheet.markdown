@@ -68,7 +68,9 @@ Image by iStock / Tashulia.
     and leverage scarce architecture talent.
 > * We should not take architectural talent for granted. Architects are bridging local business, product, 
     organizational, and technology issues. Architects are difficult to hire talent as they need not only 
-    in-depth technical knowledge but also domain-specific and organizational knowledge. 
+    in-depth technical knowledge but also domain-specific and organizational knowledge.
+> * In my work in the past few years, I was working by combining, in different forms, two teams of architects: a small 
+    central architecture team and a cross-organizational distributed virtual team. 
 
 ### [Activities Platform](activities-platform)
 > * The Architecture Activities Platform defines a set of processes and agreements enabling architects to do everything architecture typically does, leveraging data and people pillars to create a data-informed, organization-wide impact.
