@@ -118,6 +118,12 @@ Image by iStock / Tashulia.
 > * I want architecture always to address one of the most challenging problems our organization faces: a tension between technology, product, organization, and business functions.
 > * Architecture should ensure that conversations happen between the technical, product, organizational, and business functions. 
 
+### [Product Development and The Build Trap](product-development)
+> * The product trap occurs when businesses focus too much on their product’s features and functionalities, overlooking their customers’ actual needs and preferences.
+> * There are three bad product-development organizations: sales, visionary, and technology led companies, .
+> * There are several bad product manager archetypes: Mini-CEO, Waiter, and Former Project Manager.
+> * Critical elements of successful product-led companies include: Understanding Customer Needs, Adopting a Customer-Centric Approach, Executing Iterative Product Development, Aligning Business Goals with Customer Needs, Embracing Innovation and Agility, and Measuring Success.
+
 ### [Flexible Governance: Mandates, Taxation, Nudge](governance)
 > * Grounded Architecture supports governance models adaptable to organizations' complex and diverse needs. I see a technology governance model as a well-balanced hybrid of three different styles of governing: mandates and bans, taxes, and nudging.
 > * By governing with mandates and bans, I mean guiding people by explicitly defining what they should or should not do.

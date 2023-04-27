@@ -8,7 +8,7 @@ author: by Željko Obrenović (obren.io)
 icon: trap.png
 permalink: product-development
 timetoread: 11 min
-excerpt: "Recognize bad product-development approaches. Recognize bad product manager archetypes. Know how a good product development process looks like."
+excerpt: "The product trap occurs when businesses focus too much on their product’s features and functionalities, overlooking their customers’ actual needs and preferences. There are three bad product-development organizations: sales, visionary, and technology led companies. There are several bad product manager archetypes: Mini-CEO, Waiter, and Former Project Manager. Critical elements of successful product-led companies include: Understanding Customer Needs, Adopting a Customer-Centric Approach, Executing Iterative Product Development, Aligning Business Goals with Customer Needs, Embracing Innovation and Agility, and Measuring Success."
 
 ---
 
@@ -19,9 +19,10 @@ Afbeelding van <a href="https://pixabay.com/nl/users/efraimstochter-12351/?utm_s
 </div>
 
 > **KEY POINTS:**
-> * Recognize bad product-development approaches.
-> * Recognize bad product manager archetypes.
-> * Know how a good product development process looks like.
+> * The product trap occurs when businesses focus too much on their product’s features and functionalities, overlooking their customers’ actual needs and preferences.
+> * There are three bad product-development organizations: sales, visionary, and technology led companies, .
+> * There are several bad product manager archetypes: Mini-CEO, Waiter, and Former Project Manager.
+> * Critical elements of successful product-led companies include: Understanding Customer Needs, Adopting a Customer-Centric Approach, Executing Iterative Product Development, Aligning Business Goals with Customer Needs, Embracing Innovation and Agility, and Measuring Success.
 
 <style>
     h2 {
@@ -38,7 +39,7 @@ In addition to numerous insights for architects, the book provides the following
 * Recognizing bad product manager archetypes
 * Know how a good product development process looks like
 
-## Bad Product-Development Approaches
+## Bad Product-Development Organizations
 
 The product trap occurs when businesses focus too much on their product's features and functionalities, overlooking their customers' actual needs and preferences. Value, from a business perspective, is pretty straightforward. It can fuel your business: money, data, knowledge capital, or promotion. Every feature you build, and any initiative you take as a company should result in some outcome that is tied back to that business value.
 
@@ -51,6 +52,8 @@ Many companies are, instead, led by sales, visionaries, or technology. All of th
 ## Bad Product Manager Archetypes
 
 The fundamental role of the product manager in the organization is to work with a team to create the right product that balances meeting business needs with solving user problems. Product managers connect the dots. They take input from customer research, expert information, market research, business direction, experiment results, and data analysis.
+
+To better understand the role of a product manager, it is useful to understand three bad product manager archetypes:
 
 * **The Mini-CEO:** Product managers are not the mini-CEOs of a product, yet most job postings for product managers describe them as the mini-CEO. CEOs have sole authority over many things. Product managers can’t change many things a CEO can do in an organization. They especially don’t have authority over people because they are not people managers at the team level. Instead, they must influence them to move in a specific direction. Out of this wonderful CEO myth emerged an archetype of a very arrogant product manager who thinks they rule the world.
 * **The Waiter:** The waiter is a product manager who, at heart, is an order taker. They go to their stakeholders, customers, or managers, ask for what they want, and turn those desires into a list of items to be developed. There is no goal, vision, or decision-making involved. More often than not, the most important person gets their features prioritized. Instead of discovering problems, waiters ask, “What do you want?” The customer asks for a specific solution, which these product managers implement. The waiter approach leads to what David J. Bland is calling the Product Death Cycle.
@@ -65,7 +68,7 @@ The fundamental role of the product manager in the organization is to work with 
 
 Product-led companies understand that the success of their products is the primary driver of growth and value for their company. They prioritize, organize, and strategize around product success. 
 
-Critical elements of successful product companies include:
+Critical elements of successful product-led companies include:
 
 2. **Understanding Customer Needs**: Successful companies understand customer needs, desires, and expectations to develop successful products. Businesses can gain valuable insights and tailor their products by conducting thorough market research and engaging with customers.
 
