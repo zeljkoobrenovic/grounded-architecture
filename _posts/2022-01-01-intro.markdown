@@ -21,9 +21,28 @@ Image by <a href="https://pixabay.com/users/fda54-145996/?utm_source=link-attrib
 > * I called this approach "Grounded Architecture," highlighting the need for any IT architecture function to stay well-connected to all levels of an organization and led by data.
 > * In this section, I explain my motivation to write this playbook.
 
-
+<style>
+ .quote {
+     border-left: 8px solid skyblue;
+     padding-left: 36px;
+     margin-top: 30px;
+     margin-bottom: 40px;
+     font-size: 130%;
+     font-style: normal;
+     color:#888;
+ }
+    @media only screen and (max-width: 768px) {
+        [class="quote"] {
+            display: none;
+        }
+    }
+</style>
 <br>
 This playbook describes an approach to running an IT architecture practice in larger organizations. I called this approach "grounded architecture," highlighting the need for any IT architecture function to stay well-connected to all levels of an organization and led by data. This playbook aims to share my approach to running an IT architecture practice in larger organizations based on my experience as Chief Architect at AVIV Group, eBay Classifieds, and Adevinta.
+
+<div class="quote">
+I called my approach "grounded architecture," highlighting the need for any IT architecture function to stay well-connected to all levels of an organization and led by data.
+</div>
 
 Grounded Architecture has two main parts:
 * **Structure**, elements you need to create in an organization to run Grounded Architecture practice, and

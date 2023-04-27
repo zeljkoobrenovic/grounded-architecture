@@ -28,7 +28,24 @@ Image by <a href="https://pixabay.com/users/mostafa_meraji-13551092/?utm_source=
     organizational, and technology issues. Architects are difficult to hire talent as they need not only 
     in-depth technical knowledge but also domain-specific and organizational knowledge. 
 > * In my work in the past few years, I was working by combining, in different forms, two teams of architects: a small
-central architecture team and a cross-organizational distributed virtual team. 
+central architecture team and a cross-organizational distributed virtual team.
+ 
+<style>
+ .quote {
+     border-left: 8px solid skyblue;
+     padding-left: 36px;
+     margin-top: 30px;
+     margin-bottom: 40px;
+     font-size: 140%;
+     font-style: normal;
+     color:#888;
+ }
+    @media only screen and (max-width: 768px) {
+        [class="quote"] {
+            display: none;
+        }
+    }
+</style>
 
 <br>
 
@@ -37,6 +54,10 @@ organization, you do not need to solve mathematical equations. You need to move 
 network of people doing architecture across the organization is crucial to ensure that the architecture function has any
 tangible impact. In other words, Strong Architecture =
 Strong Architects.
+
+<div class="quote">
+Strong Architecture = Strong Architects.
+</div>
 
 Developing the architecture function requires having competent, empowered, and motivated architects. We should not take
 architectural talent for granted. Architects are bridging local business, product, organizational, and technology
@@ -173,7 +194,9 @@ Credit: [Gregor Hohpe](https://architectelevator.com/architecture/organizing-arc
 
 In big organization, embracing diversity is a pre-requirements to have any broad impact.
 
-
+<div class="quote">
+In big organization, embracing diversity is a pre-requirements to have any broad impact.
+</div>
 
 <br>
 ## Building People Pillar

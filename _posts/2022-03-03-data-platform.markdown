@@ -22,6 +22,22 @@ Image by <a href="https://pixabay.com/users/3844328-3844328/?utm_source=link-att
 > * The architecture data pillar serves as a medium to create a complete, up-to-date picture of critical elements of technology landscapes of big organizations. 
 > * The data pillar provides an architecture-centric view on data about a technology landscape based on source code analyses, public cloud billing reports, vibrancy reports, or incident tickets.
 > * To facilitate creation of data pillars, I have been working on creating open-source tools, such as [Sokrates](https://sokrates.dev), that can help obtain valuable architectural insights from data sources, such as source code repositories.
+<style>
+ .quote {
+     border-left: 8px solid skyblue;
+     padding-left: 36px;
+     margin-top: 30px;
+     margin-bottom: 40px;
+     font-size: 140%;
+     font-style: normal;
+     color:#888;
+ }
+    @media only screen and (max-width: 768px) {
+        [class="quote"] {
+            display: none;
+        }
+    }
+</style>
 
 <br>
 In every place I worked on creating architectural functions, I strongly emphasized data. In the past several years, I have been working on creating open-source tools, such as [Sokrates](https://sokrates.dev), that can help obtain valuable architectural insights from data sources, such as source code repositories or public cloud billing reports. Consequently, one of the first steps I make in any architecture role is to create an architecture data pillar to get a complete, up-to-date picture of critical elements of the technology landscapes of an organization. Manual documentation does not scale in [our context](context), and relying on data ensures reliability and scalability. 
@@ -30,7 +46,10 @@ In every place I worked on creating architectural functions, I strongly emphasiz
 
 The good news is that big organizations have lots of data that, if used wisely, can provide an excellent basis for an architectural data pillar. With some automation and curation, getting a good overview of the technology landscape may be closer than it initially appears.
 
-<br>
+<div class="quote">
+ Manual documentation does not scale, and relying on data ensures reliability and scalability.
+</div>
+
 ## Examples of Data Sources and Tools
 
 I've always aimed to get reliable data about technology with as much as possible automation. Some examples of data I used include:
@@ -50,6 +69,10 @@ In the following sections, I detail several of these architectural data-driven t
 ### Example 1: Source Code and Commit History
 
 I have repeatably found the source code to be an incredible source for creating data-driven architecture documentation. Source code and its commit history include an astonishing amount of information about technology, people activity, team dependencies, and the quality of software systems. I've started and still actively maintain the project [Sokrates](https://sokrates.dev), with the idea to help further extract data from source code that can help my work as an architect. I use Sokrates daily, improving it on the way.
+
+<div class="quote">
+Source code and its commit history include an astonishing amount of information about technology, people activity, team dependencies, and the quality of software systems.
+</div>
 
 I have designed Sokrates from an architect's point of view, enabling quick zooming in and out into source code landscapes. On the one hand, Sokrates provides a high-level view of the landscape, summarizing data from all teams and groups. At the same time, you can zoom in on the details of particular systems to the code level. That means you can use the same tools to have CTO-level discussions looking at overall trends in our technology usage and costs. At the same time, I could engage with developers and discuss concrete code fragments and potential improvements in the code level (e.g., duplicated blocks, complex units, dependencies).
 

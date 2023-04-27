@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-04-27T09:20:59+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: The Chief Architect’s Playbook</title><subtitle></subtitle><entry><title type="html">Favorite Quotes</title><link href="http://localhost:4000/quotes" rel="alternate" type="text/html" title="Favorite Quotes" /><published>2021-10-25T22:12:01+02:00</published><updated>2021-10-25T22:12:01+02:00</updated><id>http://localhost:4000/quotes</id><content type="html" xml:base="http://localhost:4000/quotes"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/books-g1b2675255_1920.jpg" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-04-27T18:08:12+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: The Chief Architect’s Playbook</title><subtitle></subtitle><entry><title type="html">Favorite Quotes</title><link href="http://localhost:4000/quotes" rel="alternate" type="text/html" title="Favorite Quotes" /><published>2021-10-25T22:12:01+02:00</published><updated>2021-10-25T22:12:01+02:00</updated><id>http://localhost:4000/quotes</id><content type="html" xml:base="http://localhost:4000/quotes"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/books-g1b2675255_1920.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/prettysleepy-2973588/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5430104">Amy</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5430104">Pixabay</a>
 </div>
@@ -111,9 +111,29 @@ Image by <a href="https://pixabay.com/users/paulbr75-2938186/?utm_source=link-at
     <li>More specifically, the work I present here reflects my experiences as a Chief or Principal Architect at AVIV Group, eBay Classifieds, and Adevinta.</li>
   </ul>
 </blockquote>
+<style>
+ .quote {
+     border-left: 8px solid skyblue;
+     padding-left: 36px;
+     margin-top: 30px;
+     margin-bottom: 40px;
+     font-size: 130%;
+     font-style: normal;
+     color:#888;
+ }
+    @media only screen and (max-width: 768px) {
+        [class="quote"] {
+            display: none;
+        }
+    }
+</style>
 
 <p><br />
 To better understand any idea or solution, it is crucial to understand the context in which these ideas developed. My approach to creating and running an architecture function is not an abstract idea. Instead, it is the generalization of many lessons learned while solving specific problems in a particular context.</p>
+
+<div class="quote">
+My approach to creating and running an architecture function is not an abstract idea. Instead, it is the generalization of many lessons learned while solving specific problems in a particular context.
+</div>
 
 <p>I base my ideas on my experiences as a Chief and Principal Architect at AVIV Group, eBay Classifieds, and Adevinta. In this section, I discuss critical characteristics of the organizational context that have had an impact on my definition of the grounded architecture approach:</p>
 <ul>
@@ -389,6 +409,8 @@ Image by iStock / Tashulia.
 
 <h2 id="introduction">Introduction</h2>
 
+<p>This simple cheatsheet serves as a reference guide for topics discussed in follow-up sections.</p>
+
 <h3 id="context-fast-moving-global-organizations"><a href="context">Context: Fast Moving Global Organizations</a></h3>
 <blockquote>
   <ul>
@@ -579,6 +601,22 @@ Image by <a href="https://pixabay.com/users/3844328-3844328/?utm_source=link-att
     <li>To facilitate creation of data pillars, I have been working on creating open-source tools, such as <a href="https://sokrates.dev">Sokrates</a>, that can help obtain valuable architectural insights from data sources, such as source code repositories.</li>
   </ul>
 </blockquote>
+<style>
+ .quote {
+     border-left: 8px solid skyblue;
+     padding-left: 36px;
+     margin-top: 30px;
+     margin-bottom: 40px;
+     font-size: 140%;
+     font-style: normal;
+     color:#888;
+ }
+    @media only screen and (max-width: 768px) {
+        [class="quote"] {
+            display: none;
+        }
+    }
+</style>
 
 <p><br />
 In every place I worked on creating architectural functions, I strongly emphasized data. In the past several years, I have been working on creating open-source tools, such as <a href="https://sokrates.dev">Sokrates</a>, that can help obtain valuable architectural insights from data sources, such as source code repositories or public cloud billing reports. Consequently, one of the first steps I make in any architecture role is to create an architecture data pillar to get a complete, up-to-date picture of critical elements of the technology landscapes of an organization. Manual documentation does not scale in <a href="context">our context</a>, and relying on data ensures reliability and scalability.</p>
@@ -587,7 +625,10 @@ In every place I worked on creating architectural functions, I strongly emphasiz
 
 <p>The good news is that big organizations have lots of data that, if used wisely, can provide an excellent basis for an architectural data pillar. With some automation and curation, getting a good overview of the technology landscape may be closer than it initially appears.</p>
 
-<p><br /></p>
+<div class="quote">
+ Manual documentation does not scale, and relying on data ensures reliability and scalability.
+</div>
+
 <h2 id="examples-of-data-sources-and-tools">Examples of Data Sources and Tools</h2>
 
 <p>I’ve always aimed to get reliable data about technology with as much as possible automation. Some examples of data I used include:</p>
@@ -609,6 +650,10 @@ In every place I worked on creating architectural functions, I strongly emphasiz
 <h3 id="example-1-source-code-and-commit-history">Example 1: Source Code and Commit History</h3>
 
 <p>I have repeatably found the source code to be an incredible source for creating data-driven architecture documentation. Source code and its commit history include an astonishing amount of information about technology, people activity, team dependencies, and the quality of software systems. I’ve started and still actively maintain the project <a href="https://sokrates.dev">Sokrates</a>, with the idea to help further extract data from source code that can help my work as an architect. I use Sokrates daily, improving it on the way.</p>
+
+<div class="quote">
+Source code and its commit history include an astonishing amount of information about technology, people activity, team dependencies, and the quality of software systems.
+</div>
 
 <p>I have designed Sokrates from an architect’s point of view, enabling quick zooming in and out into source code landscapes. On the one hand, Sokrates provides a high-level view of the landscape, summarizing data from all teams and groups. At the same time, you can zoom in on the details of particular systems to the code level. That means you can use the same tools to have CTO-level discussions looking at overall trends in our technology usage and costs. At the same time, I could engage with developers and discuss concrete code fragments and potential improvements in the code level (e.g., duplicated blocks, complex units, dependencies).</p>
 
@@ -726,6 +771,23 @@ central architecture team and a cross-organizational distributed virtual team.</
   </ul>
 </blockquote>
 
+<style>
+ .quote {
+     border-left: 8px solid skyblue;
+     padding-left: 36px;
+     margin-top: 30px;
+     margin-bottom: 40px;
+     font-size: 140%;
+     font-style: normal;
+     color:#888;
+ }
+    @media only screen and (max-width: 768px) {
+        [class="quote"] {
+            display: none;
+        }
+    }
+</style>
+
 <p><br /></p>
 
 <p>The <strong>People Pillar</strong> is an essential element of Grounded Architecture. As noted by Gregor Hohpe, to transform an
@@ -733,6 +795,10 @@ organization, you do not need to solve mathematical equations. You need to move 
 network of people doing architecture across the organization is crucial to ensure that the architecture function has any
 tangible impact. In other words, Strong Architecture =
 Strong Architects.</p>
+
+<div class="quote">
+Strong Architecture = Strong Architects.
+</div>
 
 <p>Developing the architecture function requires having competent, empowered, and motivated architects. We should not take
 architectural talent for granted. Architects are bridging local business, product, organizational, and technology
@@ -878,6 +944,10 @@ architectural decisions.</p>
 Credit: <a href="https://architectelevator.com/architecture/organizing-architecture/">Gregor Hohpe</a>.</em></p>
 
 <p>In big organization, embracing diversity is a pre-requirements to have any broad impact.</p>
+
+<div class="quote">
+In big organization, embracing diversity is a pre-requirements to have any broad impact.
+</div>
 
 <p><br /></p>
 <h2 id="building-people-pillar">Building People Pillar</h2>

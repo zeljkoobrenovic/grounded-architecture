@@ -45,6 +45,8 @@ Image by iStock / Tashulia.
 
 ## Introduction
 
+This simple cheatsheet serves as a reference guide for topics discussed in follow-up sections.
+ 
 ### [Context: Fast Moving Global Organizations](context)
 > * To better understand any idea or solution, it is crucial to understand the context in which these ideas developed. 
 > * The grounded architecture approach has developed in the context of global, loosely coupled organizations that are diverse, with non-linear growth dynamics, and under transformation pressures. 
