@@ -107,6 +107,22 @@ Image by <a href="https://pixabay.com/users/fiquetdidier1-25748628/?utm_source=l
     <li>Architecture should ensure that conversations happen between the technical, product, organizational, and business functions.</li>
   </ul>
 </blockquote>
+<style>
+ .quote {
+     border-left: 8px solid skyblue;
+     padding-left: 36px;
+     margin-top: 30px;
+     margin-bottom: 40px;
+     font-size: 140%;
+     font-style: normal;
+     color:#888;
+ }
+    @media only screen and (max-width: 768px) {
+        [class="quote"] {
+            display: none;
+        }
+    }
+</style>
 
 <p><br />
 In this section, I elaborate on one type of impact architecture can have in an organization: aligning business, product, technology, and organizational functions.</p>
@@ -115,6 +131,10 @@ In this section, I elaborate on one type of impact architecture can have in an o
 <h2 id="the-tension">The Tension</h2>
 
 <p>While technology, product, organization, and business function face challenges, additional problems occur when there is tension among them. For example, we may organize teams according to a well-defined domain model. Still, if our system is a monolith, our teams will collaborate in a different pattern than domain splits would suggest. On the other hand, if our teams are well aligned with the technology implementation (e.g., clear ownership of microservices) but the product architecture is different from the microservice domain split, we may end up changing dozens of microservices when we need to introduce relatively simple product features. Similarly, business objectives must be better aligned with product or technology; otherwise, tense interactions will happen (e.g., try reducing short-term costs while adding new features and migrating to the public cloud).</p>
+
+<div class="quote">
+While technology, product, organization, and business function face challenges, additional problems occur when there is tension among them.
+</div>
 
 <p>The main problem of these tensions is that they slow things down due to miscommunications and misalignment, lead to bad decisions due to lack of information, introduce unnecessary complexity, and lead to many missed opportunities.</p>
 
@@ -135,7 +155,7 @@ In this section, I elaborate on one type of impact architecture can have in an o
 
 <p>There will always be essential tension between system architecture, team organization, and product organization. Ideally, these structures all change simultaneously and stay in perfect sync. But in practice, these structures change and move at different speeds. For instance, the product may quickly pivot in another direction, but it may take months to reorganize teams to have new product elements as separate domains with clear ownership. It may take several years to reorganize code and services to align microservices well with new team structures. In the meantime, the organization may acquire two other companies that need to be integrated with the organization’s ecosystems, and the product is already pushing in another direction.</p>
 
-<p>My vision of Grounded Architecture is driven by the need to help reduce the tensions. We can use the data from Data Pillar to make more data-informed decisions when tensions exist and People Pillar to ensure critical cross-organizational people connections and create spaces for conversations. For example, legacy structures and monoliths are challenging to change once in place. It can take several years to rebuild a monolith from scratch as a microservices ecosystem. Therefore, a more pragmatic approach is gradually “ strangulating” the monolith by minimizing changes and incrementally extracting pieces into separate microservices. But such an approach takes years. Grounded architecture can provide data about legacy landscapes and connect people to share scarce legacy knowledge to define pragmatic roadmaps to make necessary changes and compromises.</p>
+<p>My vision of Grounded Architecture is driven by the need to help reduce the tensions. We can use the data from <a href="data">Data Pillar</a> to make more data-informed decisions when tensions exist and <a href="people">People Pillar</a> to ensure critical cross-organizational people connections and create spaces for conversations. For example, legacy structures and monoliths are challenging to change once in place. It can take several years to rebuild a monolith from scratch as a microservices ecosystem. Therefore, a more pragmatic approach is gradually “ strangulating” the monolith by minimizing changes and incrementally extracting pieces into separate microservices. But such an approach takes years. Grounded architecture can provide data about legacy landscapes and connect people to share scarce legacy knowledge to define pragmatic roadmaps to make necessary changes and compromises.</p>
 
 
         <div style="margin-bottom: -32px; margin-top: 28px"><table style="border: none; font-size: 80%; margin: 0; padding: 0;">

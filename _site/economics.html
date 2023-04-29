@@ -38,7 +38,7 @@
             <div class="trigger"><a class="page-link" href="/about/" style="color: #b0b0b0">About</a></div>
         </nav><table style="border: none; font-size: 80%; margin: 0; padding: 0;">
     <tr style="border: none; margin: 0; padding: 0">
-        <td style="border: none; margin: 0; padding: 0"><div style="font-size: 90%; color: #898989">Doing Architecture</div><a class="u-url" href="governance">← Flexible Governance: Mandates, Taxation, Nudge</a></td>
+        <td style="border: none; margin: 0; padding: 0"><div style="font-size: 90%; color: #898989">Doing Architecture</div><a class="u-url" href="governance">← Architecture Governance: Mandates, Taxation, Nudge</a></td>
         <td style="border: none; text-align: right; margin: 0; padding: 0"><div style="font-size: 90%; color: #898989">Summary</div><a class="u-url" href="summary">Summary →</a></td>
     </tr>
 </table>
@@ -108,6 +108,22 @@ Image by <a href="https://pixabay.com/users/nattanan23-6312362/?utm_source=link-
     <li>Borrowing from existing literature, I sketch two answers to the question of the economic value of architecture: the return on investment metaphor and the selling options metaphor.</li>
   </ul>
 </blockquote>
+<style>
+ .quote {
+     border-left: 8px solid skyblue;
+     padding-left: 36px;
+     margin-top: 30px;
+     margin-bottom: 40px;
+     font-size: 140%;
+     font-style: normal;
+     color:#888;
+ }
+    @media only screen and (max-width: 768px) {
+        [class="quote"] {
+            display: none;
+        }
+    }
+</style>
 
 <p>Architects frequently need to answer questions about (economic) value of technology investments and architecture. Answering this question is a crucial skill for any senior architect. But it may be difficult to answer this seemingly harmless question concisely and convincingly to a non-technical audience.</p>
 
@@ -136,6 +152,10 @@ Image by <a href="https://pixabay.com/users/nattanan23-6312362/?utm_source=link-
 
 <p>An investment in good architecture can help increase ROI of the IT. An excellent example of using the ROI metaphor to argue for investing in architecture is the port of Martin Fowler, who uses this argument to argue for the importance of <a href="https://martinfowler.com/articles/is-quality-worth-cost.html">investing in improving internal quality</a>. Figure 3 summarizes his argument.</p>
 
+<div class="quote">
+An investment in good architecture can help increase ROI of the IT. Well-architect systems are typically much easier to understand and change.
+</div>
+
 <p>Well-architect systems are typically much easier to understand and change. As our systems continuously evolve, the return on investing in making a system easier to understand and change can be significant. The primary value of such investment comes from generating fewer errors and bugs, more straightforward modifications, short time-to-market, and improved developer satisfaction.</p>
 
 <p><img src="assets/images/economics/roi-internal-quality.png" alt="" />
@@ -154,6 +174,10 @@ Image by <a href="https://pixabay.com/users/nattanan23-6312362/?utm_source=link-
 
 <p>Applying the financial option metaphor to IT architecture, we can argue that buying options gives the business and IT a way to defer decisions. Gregor Hohpe gives an example of the server’s size that you need to purchase for a system. If your application is architected to be horizontally scalable, you can defer this decision: additional (virtual) servers can be ordered later at a known unit cost.</p>
 
+<div class="quote">
+Applying the financial option metaphor to IT architecture, buying options gives the business and IT a way to defer decisions.
+</div>
+
 <p>Another example of an IT option is architecting your system to clearly separate concerns. For instance, it may be challenging to decide early what authentication mechanism an application should use? A system that properly separates concerns allows changes to be localized so that updating one aspect of a system does not require expensive changing the whole system. Such isolation will enable you to change a decision late in the project or even after go-live, at a nominal cost. For example, if authentication is a well-isolated concern, you will need to refactor only a minimal part of the system to use another authentication system.</p>
 
 <p>The option’s value originates from being able to defer the decision until you have more information while fixing the price. In times of uncertainty, the value of the options that architecture sells only increases.</p>
@@ -170,7 +194,7 @@ Image by <a href="https://pixabay.com/users/nattanan23-6312362/?utm_source=link-
 
         <div style="margin-bottom: -32px; margin-top: 28px"><table style="border: none; font-size: 80%; margin: 0; padding: 0;">
     <tr style="border: none; margin: 0; padding: 0">
-        <td style="border: none; margin: 0; padding: 0"><div style="font-size: 90%; color: #898989">Doing Architecture</div><a class="u-url" href="governance">← Flexible Governance: Mandates, Taxation, Nudge</a></td>
+        <td style="border: none; margin: 0; padding: 0"><div style="font-size: 90%; color: #898989">Doing Architecture</div><a class="u-url" href="governance">← Architecture Governance: Mandates, Taxation, Nudge</a></td>
         <td style="border: none; text-align: right; margin: 0; padding: 0"><div style="font-size: 90%; color: #898989">Summary</div><a class="u-url" href="summary">Summary →</a></td>
     </tr>
 </table>

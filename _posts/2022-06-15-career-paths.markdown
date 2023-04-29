@@ -20,6 +20,22 @@ Credit: <a href="https://flic.kr/p/8zKRAU">tableatny</a> (CC BY 2.0)
 >
 > * Architects' career paths ideally stem from a strong engineering background.
 > * Hiring architects requires constantly raising the bar to ensure a strong and diverse team structure.  
+<style>
+ .quote {
+     border-left: 8px solid skyblue;
+     padding-left: 36px;
+     margin-top: 30px;
+     margin-bottom: 40px;
+     font-size: 140%;
+     font-style: normal;
+     color:#888;
+ }
+    @media only screen and (max-width: 768px) {
+        [class="quote"] {
+            display: none;
+        }
+    }
+</style>
 
 <br>
 Hiring and developing architects will differ significantly per organization. Nevertheless, here I share some of the ideas and lessons learned here.
@@ -27,6 +43,10 @@ Hiring and developing architects will differ significantly per organization. Nev
 ## Typical Architect's Career Paths
 
 My view of architecture has a strong engineering bias. Architects' career paths ideally stem from a strong engineering background. While there may be exceptions, without significant real-world exposure to software engineering challenges, an architect cannot obtain enough practical knowledge to make technology decisions and build relations with developer teams. 
+
+<div class="quote">
+My view of architecture has a strong engineering bias. Architects' career paths ideally stem from a strong engineering background. 
+</div>
 
 Regarding career progression, Figure 1 shows an example of architecture career paths in relation to engineering, which I used to define architecture career paths. 
 
@@ -55,6 +75,10 @@ But an architect's path can take many different directions and have many other n
 <!-- ![](assets/images/aRCH/Female-Pole-Vault.jpg) -->
 
 Developing and hiring architects requires constantly raising the bar to ensure a strong and diverse team structure. Having more architects does not necessarily leads to a better team. Having good alignment and diversity of perspective is even more important for an architecture team than for other groups.
+
+<div class="quote">
+It is vital to take more active ownership of hiring architects. Due to the vast diversity of how  companies define the architect's role, recruiters may need help understanding the role's requirements. 
+</div>
 
 It is vital to take more active ownership of hiring architects. Due to the vast diversity of how different companies define the architect's role, recruiters may need help understanding the role's requirements.
 

@@ -20,6 +20,22 @@ Image by <a href="https://pixabay.com/users/geralt-9301/?utm_source=link-attribu
 > * This playbook aims to share my approach to running an IT architecture practice in larger organizations based on my experience as Chief Architect at AVIV Group, eBay Classifieds, and Adevinta. 
 > * I called this approach "Grounded Architecture," highlighting the need for any IT architecture function to stay well-connected to all levels of an organization and led by data.
 > * In this section, I summarize the key points from the playbook.
+<style>
+ .quote {
+     border-left: 8px solid skyblue;
+     padding-left: 36px;
+     margin-top: 30px;
+     margin-bottom: 40px;
+     font-size: 140%;
+     font-style: normal;
+     color:#888;
+ }
+    @media only screen and (max-width: 768px) {
+        [class="quote"] {
+            display: none;
+        }
+    }
+</style>
 
 In this playbook, I explained an approach to running an architecture practice in larger organizations. This playbook aims to share my approach to running an IT architecture practice in larger organizations based on my experience as Chief Architect at AVIV Group, eBay Classifieds, and Adevinta. I called this approach "grounded architecture," highlighting the need for any architecture function to stay well-connected to all levels of an organization and led by data. 
 
@@ -53,7 +69,7 @@ As a part of my work on Grounded Architecture, I also provided key lessons I lea
   * [Managing Organization Complexity: Six Simple Rules](six-simple-rules)
   * [In the Eye of the Storm: Aligning Business, Product, Technology and Organization Strategies](storm)
   * [Product Development and The Build Trap](product-development)
-  * [Flexible Governance: Mandates, Taxation, Nudge](flexible-governance)
+  * [Architecture Governance: Mandates, Taxation, Nudge](flexible-governance)
   * [Economic Modeling: ROI and Financial Options](economics)
 
 When Grounded Architecture is in place, it can have a significant [positive impact](impact) on the functioning of an organization:
@@ -63,6 +79,10 @@ When Grounded Architecture is in place, it can have a significant [positive impa
 * Maximize Organizational Alignment,
 * Maximize Organizational Learning, and
 * Increase Architecture Function Adaptivity.
+
+<div class="quote">
+Remember that while you may borrow ideas from others, every organization is different, and your approach must adapt to your context.
+</div>
 
 Remember that while you may borrow ideas from others, every organization is different in the end, and your approach must adapt to your context. When forming architecture functions, I always advise not to forget these [two pieces of advice from Gregor Hohpe](https://architectelevator.com/architecture/organizing-architecture/):
  * "*Your architecture team’s job is to solve your biggest problems. The best setup is the one that allows it to accomplish that.*"

@@ -1,7 +1,7 @@
 ---
 layout: post
 section: "Doing Architecture"
-title: "Flexible Governance: Mandates, Taxation, Nudge"
+title: "Architecture Governance: Mandates, Taxation, Nudge"
 position: 7012
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
@@ -21,6 +21,22 @@ Afbeelding van <a href="https://pixabay.com/nl/users/nonbirinonko-3101900/?utm_s
 > * By governing with mandates and bans, I mean guiding people by explicitly defining what they should or should not do.
 > * Governing with taxes is a form of guiding in which people are not forbidden to make some decisions but need to "pay" some form of taxes on used resources.
 > * Nudging is a form of governing where we create subtle or indirect suggestion influencing someone's behavior or decision-making without forcing them or limiting their freedom of choice.
+<style>
+ .quote {
+     border-left: 8px solid skyblue;
+     padding-left: 36px;
+     margin-top: 30px;
+     margin-bottom: 40px;
+     font-size: 140%;
+     font-style: normal;
+     color:#888;
+ }
+    @media only screen and (max-width: 768px) {
+        [class="quote"] {
+            display: none;
+        }
+    }
+</style>
 
 Grounded Architecture supports governance models adaptable to organizations' complex and diverse needs. By governing, I mean guiding technology choices in the organization in a particular direction aligned with the technology strategy. I see a technology governance model as a well-balanced hybrid of three different styles of governing:
 * mandates and bans,
@@ -34,7 +50,12 @@ Grounded Architecture supports governance models that are adaptable to the compl
 
 By governing with mandates and bans, I mean guiding people by **explicitly defining what they should or should not do**. In places I worked in, such mandates and bans have had a limited by important place to **define broader strategic boundaries of choices** people can make. For instance, restricting the usage of public cloud providers to specific vendors or following **strict privacy and security procedures** needs to be explicitly defined and controlled.
 
+
+<div class="quote">
+By governing with mandates and bans, I mean guiding people by explicitly defining what they should or should not do.
+</div>
 <br>
+
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
      src="assets/images/arch/ethics-g277df4183_1920.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
@@ -51,6 +72,10 @@ The [People Pillar](people) can help propagate the decision and ensure its posit
 ## Taxation
 
 Governing with taxes is a form of guiding in which people are not forbidden to make some decisions but **need to "pay" some form of taxes on used resources**. For instance, costs of public cloud usage could be **cross-charged across the organization**, providing a helpful feedback loop to optimize our systems and avoid unnecessary resource consumption, avoiding the "tragedy of commons" which frequently happens when there are no limits on shared resource consumption (e.g., public cloud budget). 
+
+<div class="quote">
+Governing with taxes is a form of guiding in which people are not forbidden to make some decisions but need to "pay" some form of taxes on used resources.
+</div>
 
 <br>
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
@@ -71,6 +96,10 @@ The book also popularised the concept of a nudge, a choice architecture that pre
 -->
 
 In behavioral economics and psychology, a nudge is a **subtle or indirect suggestion** influencing someone's behavior or decision-making **without forcing them or limiting their freedom of choice**. Nudges can be applied in various settings, such as policy-making, marketing, and personal interactions, to encourage people to make better choices, improve their well-being, or achieve specific goals.
+
+<div class="quote">
+A nudge is a subtle or indirect suggestion influencing someone's behavior or decision-making without forcing them or limiting their freedom of choice.
+</div>
 
 A nudge can take many forms, such as a **small change in the environment**, a **gentle reminder**, a **positive reinforcement**, or a **default option**. For example, placing healthy food options at eye level in a cafeteria can nudge people to choose healthier meals. Or setting a default option for organ donation can increase the number of donors.
 

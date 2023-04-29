@@ -20,6 +20,22 @@ Image by <a href="https://pixabay.com/nl/users/mwewering-185784/?utm_source=link
 >
 > * When Grounded Architecture is in place, it can have a significant positive impact on the functioning of an organization.
 > * These categories of impact are: Executing At Scale, Increasing the Quality of Decision-Making with Data, Maximizing Organizational Alignment & Learning, Higher Adaptivity.
+<style>
+ .quote {
+     border-left: 8px solid skyblue;
+     padding-left: 36px;
+     margin-top: 30px;
+     margin-bottom: 40px;
+     font-size: 140%;
+     font-style: normal;
+     color:#888;
+ }
+    @media only screen and (max-width: 768px) {
+        [class="quote"] {
+            display: none;
+        }
+    }
+</style>
 
 <br>
 When Grounded Architecture is in place, it can have a significant positive impact on the functioning of an organization:

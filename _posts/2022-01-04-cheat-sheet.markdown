@@ -126,7 +126,7 @@ This simple cheatsheet serves as a reference guide for topics discussed in follo
 > * There are several bad product manager archetypes: Mini-CEO, Waiter, and Former Project Manager.
 > * Critical elements of successful product-led companies include: Understanding Customer Needs, Adopting a Customer-Centric Approach, Executing Iterative Product Development, Aligning Business Goals with Customer Needs, Embracing Innovation and Agility, and Measuring Success.
 
-### [Flexible Governance: Mandates, Taxation, Nudge](governance)
+### [Architecture Governance: Mandates, Taxation, Nudge](governance)
 > * Grounded Architecture supports governance models adaptable to organizations' complex and diverse needs. I see a technology governance model as a well-balanced hybrid of three different styles of governing: mandates and bans, taxes, and nudging.
 > * By governing with mandates and bans, I mean guiding people by explicitly defining what they should or should not do.
 > * Governing with taxes is a form of guiding in which people are not forbidden to make some decisions but need to "pay" some form of taxes on used resources.

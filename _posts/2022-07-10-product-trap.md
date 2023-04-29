@@ -17,6 +17,22 @@ excerpt: "The product trap occurs when businesses focus too much on their produc
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Afbeelding van <a href="https://pixabay.com/nl/users/efraimstochter-12351/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=413397">M W</a> via <a href="https://pixabay.com/nl//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=413397">Pixabay</a>
 </div>
+<style>
+ .quote {
+     border-left: 8px solid skyblue;
+     padding-left: 36px;
+     margin-top: 30px;
+     margin-bottom: 40px;
+     font-size: 140%;
+     font-style: normal;
+     color:#888;
+ }
+    @media only screen and (max-width: 768px) {
+        [class="quote"] {
+            display: none;
+        }
+    }
+</style>
 
 > **KEY POINTS:**
 > * The product trap occurs when businesses focus too much on their product’s features and functionalities, overlooking their customers’ actual needs and preferences.
@@ -31,6 +47,10 @@ Afbeelding van <a href="https://pixabay.com/nl/users/efraimstochter-12351/?utm_s
 </style>
 
 When it comes to product development, I generally recommend the book "[Escaping the Build Trap: How Effective Product Management Creates Real Value](https://www.goodreads.com/book/show/42611483-escaping-the-build-trap)" by Melissa Perri. This book is a guide intended to help organizations shift their focus from simply building and shipping products to creating value for their customers. The "build trap" refers to the common pitfall where companies become fixated on building more features and products without considering whether they meet customer needs or generate desired outcomes.
+
+<div class="quote">
+The "build trap" refers to the common pitfall where companies become fixated on building more features and products without considering whether they meet customer needs or generate desired outcomes.
+</div>
 
 Perri explores the reasons behind the build trap and provides practical strategies to help businesses escape it by adopting a value-centric, customer-focused approach. The main message is that by understanding customer needs, adopting a customer-centric approach, and embracing innovation and agility, companies can increase their chances of developing successful products that stand out in the market.
 

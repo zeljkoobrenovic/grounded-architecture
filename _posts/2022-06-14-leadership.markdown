@@ -21,6 +21,22 @@ Afbeelding van <a href="https://pixabay.com/nl/users/12019-12019/?utm_source=lin
 > * My view of architecture leadership is inspired by David Marquet's work and the Netflix's valued behaviors.
 > * Marquet focused on leadership and organizational management, with a particular emphasis on the principles of Intent-Based Leadership.
 > * Borrowing from Netflix's original values the following behavioral traits are crucial for architects are: communication, judgment, impact, inclusion, selflessness, courage, integrity, curiosity, innovation, and passion.
+<style>
+ .quote {
+     border-left: 8px solid skyblue;
+     padding-left: 36px;
+     margin-top: 30px;
+     margin-bottom: 40px;
+     font-size: 140%;
+     font-style: normal;
+     color:#888;
+ }
+    @media only screen and (max-width: 768px) {
+        [class="quote"] {
+            display: none;
+        }
+    }
+</style>
 
 <style>
 h2 {
@@ -41,6 +57,10 @@ Marquet's work is closely tied to the Leader-Leader model of leadership, a style
 
 This leadership approach empowers individuals to take ownership of their work and collaborate with others to achieve common goals. Instead of relying on a single leader to make all decisions, authority, and responsibility are distributed across the team.
 
+<div class="quote">
+The leader-leader model is an excellent standard for architects' leadership vision. Like managers in a leader-leader model, architects should act more as facilitators, coaches, and mentors than traditional top-down decision-makers.
+</div>
+
 The leader-leader model is an excellent standard for architects' leadership vision. Like managers in a leader-leader model, architects should act more as facilitators, coaches, and mentors than traditional top-down decision-makers. They provide team members guidance, support, or resources to help them achieve their goals and reach their full potential.
 
 One of the key benefits of a leader-leader model is that it creates a more collaborative and inclusive work environment. It allows individuals to contribute their unique perspectives, experiences, and skills to the group, promoting a sense of ownership and accountability for the team's success. This model also helps build trust and stronger relationships within the team, leading to increased productivity, creativity, and innovation.
@@ -52,11 +72,15 @@ David Marquet's book "Leadership is Language" provides practical advice for lead
 Credit: Based on Intent-Based Leadership, by David Marquet.
 </div>
 <br>
-I have found a phase "I intend to" to be a powerful catalyst for positioning architecture work according to the superglue vision. The phrase helps describe the work architect as someone others expect to take the initiative and lead efforts. But also to describe the desired interaction of architects with the teams they work with, where we hope teams share their intentions which architects can help improve.
+I have found a phase "I intend to" to be a powerful catalyst for positioning architecture work. The phrase helps describe the work architect as someone others expect to take the initiative and lead efforts. But also to describe the desired interaction of architects with the teams they work with, where we hope teams share their intentions which architects can help improve.
+
+<div class="quote">
+I have found a phase "I intend to" to be a powerful catalyst for positioning architecture work.
+</div>
  
 ## Netflix Valued Behaviors: Leadership Behaviors
 
-I have found the [Netflix overview of their valued behaviors](https://jobs.netflix.com/culture) to be a leading inspiration for how I coach and develop architects according to the superglue version. The following sections summarize these behaviors, borrowing from the Netflix original values but rearranging them in the order I see as more relevant for architects. 
+I have found the [Netflix overview of their valued behaviors](https://jobs.netflix.com/culture) to be a leading inspiration for how I coach and develop architects according. The following sections summarize these behaviors, borrowing from the Netflix original values but rearranging them in the order I see as more relevant for architects. 
 
 ### Communication
 
