@@ -59,7 +59,7 @@ In addition to numerous insights for architects, the book provides the following
 * Recognizing bad product manager archetypes
 * Know how a good product development process looks like
 
-## Bad Product-Development Organizations
+## Bad Product Companies Archetypes
 
 The product trap occurs when businesses focus too much on their product's features and functionalities, overlooking their customers' actual needs and preferences. Value, from a business perspective, is pretty straightforward. It can fuel your business: money, data, knowledge capital, or promotion. Every feature you build, and any initiative you take as a company should result in some outcome that is tied back to that business value.
 
