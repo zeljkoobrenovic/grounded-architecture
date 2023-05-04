@@ -1,7 +1,7 @@
 ---
 layout: post
 section: "The Future of Architecture"
-title: "ChatGPT and Evolution of Software Engineering: Patterns, Anti-Patterns, and Quality Imperative"
+title: "[DRAFT] ChatGPT and Evolution of Software Engineering"
 date:   2023-04-16 21:12:01 +0100
 position: 9006
 date:   2021-10-21 21:12:01 +0100
@@ -37,13 +37,6 @@ Image by <a href="https://pixabay.com/users/sasint-3639875/?utm_source=link-attr
 > * Ideally, we should be able to produce better software faster, not by AI replacing developers but by having developers employ productivity gains from AI to spend more time improving products’ quality.
 
 
-
-&nbsp;
-
-* TOC
-{:toc}
-
-&nbsp;
 
 ## Intro
 

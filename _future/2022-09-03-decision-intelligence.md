@@ -1,7 +1,7 @@
 ---
 layout: post
 section: "The Future of Architecture"
-title: "Decision Intelligence"
+title: "[DRAFT] Decision Intelligence"
 position: 9001
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
@@ -36,7 +36,9 @@ Image by iStock
     }
 </style>
 
-The work of Cassie Kozyrkov inspires my view of decision intelligence. In her articles, Cassie Kozyrkov explores the concept of decision intelligence as an emerging academic discipline that aims to encompass various aspects of decision-making. It combines data science, social science, and managerial science to enable people to harness data to enhance their lives, businesses, and the world. As a crucial science for the AI era, it addresses the skills required to responsibly manage AI projects and design objectives, metrics, and safety measures for large-scale automation.
+White the hype around AI is trong, it is important to rember that AI is a tools, and we need a framwerok to defing how to use it for our work. I found the area of decision intelligence ot be a good direction for development of my view of architecture.
+
+The work of Cassie Kozyrkov inspires my view of decision intelligence. In her articles, Cassie Kozyrkov explores the concept of decision intelligence as an emerging discipline that aims to encompass various aspects of decision-making. It combines data science, social science, and managerial science to enable people to harness data to enhance their lives, businesses, and the world. As a crucial science for the AI era, it addresses the skills required to responsibly manage AI projects and design objectives, metrics, and safety measures for large-scale automation.
 
 In the more AI driven era, decision intelligence is vital in addressing the challenges associated with AI adoption and deployment. As AI systems become more complex and powerful, it is increasingly essential for architects to have a strong understanding of how to design and manage AI projects responsibly. Decision intelligence equips architects with the necessary skills to create well-defined objectives, metrics, and safeguards for AI applications, ensuring they are ethical, transparent, and aligned with organizational goals. By fostering responsible AI practices, decision intelligence helps maximize the benefits of AI while minimizing potential risks and unintended consequences.
 

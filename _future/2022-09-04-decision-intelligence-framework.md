@@ -1,7 +1,7 @@
 ---
 layout: post
 section: "The Future of Architecture"
-title: "Architecture Decision Intelligence Framework (ArDIF)"
+title: "[DRAFT] Architecture Decision Intelligence Framework (ArDIF)"
 position: 9001
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
