@@ -36,45 +36,43 @@ Image by iStock
     }
 </style>
 
-White the hype around AI is trong, it is important to rember that AI is a tools, and we need a framwerok to defing how to use it for our work. I found the area of decision intelligence ot be a good direction for development of my view of architecture.
+I expect that in coming years, IT architecture discipline will move closer to the field of data science, and more specifically decision intelligence. The work of Cassie Kozyrkov inspires my view of decision intelligence. In her articles, Cassie Kozyrkov explores the concept of decision intelligence as an emerging discipline that aims to encompass various aspects of decision-making. It combines data science, social science, and managerial science to enable people to harness data to enhance their lives, businesses, and the world. As a crucial science for the AI era, it addresses the skills required to responsibly manage AI projects and design objectives, metrics, and safety measures for large-scale automation.
 
-The work of Cassie Kozyrkov inspires my view of decision intelligence. In her articles, Cassie Kozyrkov explores the concept of decision intelligence as an emerging discipline that aims to encompass various aspects of decision-making. It combines data science, social science, and managerial science to enable people to harness data to enhance their lives, businesses, and the world. As a crucial science for the AI era, it addresses the skills required to responsibly manage AI projects and design objectives, metrics, and safety measures for large-scale automation.
+Architecture is always related to decision-making. Like with my view on Grounded Architecture, basing these decsions in data is powerful tool. With new advances in data science and related disciplines, I expect that architectuer field will incresingly more rely on new tools and techniques.
 
 In the more AI driven era, decision intelligence is vital in addressing the challenges associated with AI adoption and deployment. As AI systems become more complex and powerful, it is increasingly essential for architects to have a strong understanding of how to design and manage AI projects responsibly. Decision intelligence equips architects with the necessary skills to create well-defined objectives, metrics, and safeguards for AI applications, ensuring they are ethical, transparent, and aligned with organizational goals. By fostering responsible AI practices, decision intelligence helps maximize the benefits of AI while minimizing potential risks and unintended consequences.
 
+In this secion I will introduce few key concepts from decision sciences.
+
 ## Background 
 
-Decision intelligence combines elements from applied data science, social science, and managerial sciences.
+Decision intelligence is an interdisciplinary field that combines elements from applied data science, social science, and managerial science.
 
-**Applied data science** focuses on extracting insights from data and applying those insights to real-world problems. Data scientists use machine learning, statistics, and data visualization techniques to analyze complex data sets, uncover patterns, and make predictions. By incorporating these techniques, decision intelligence can *help decision-makers better understand the data* and make more informed choices.
+**Applied data science** emphasizes deriving insights from data and applying them to real-life challenges. Data scientists utilize machine learning, statistics, and data visualization to analyze complex data sets, identify patterns, and make predictions. By incorporating these techniques, decision intelligence can *assist decision-makers in better comprehending data* and making more informed decisions.
 
-**Social science** is another critical element of decision intelligence. It deals with studying human behavior, society, and social relationships. By integrating concepts from psychology, sociology, and economics, decision intelligence considers the various factors influencing decision-making, such as cognitive biases, cultural norms, and individual motivations. This diversity of views allows for *a more comprehensive understanding of the decision-making process* and helps create more effective strategies for implementing data-driven solutions.
+**Social science** plays a crucial role in decision intelligence, as it explores human behavior, societal dynamics, and social interactions. By incorporating ideas from psychology, sociology, and economics, decision intelligence takes into account various factors that influence decision-making, such as cognitive biases, cultural norms, and individual motivations. This diverse perspective allows for *a holistic understanding of the decision-making process* and facilitates the development of more effective, data-driven solutions.
 
-**Managerial science** contributes to decision intelligence by providing the tools and techniques necessary for effective organizational decision-making. These tools and techniques include operations research, management information systems, and organizational behavior. Managerial science helps decision-makers identify the most efficient and effective ways to allocate resources, set priorities, and implement change. In the context of decision intelligence, it *ensures that data-driven insights are translated into actionable strategies* that can be successfully applied in organizations.
+**Managerial science** contributes to decision intelligence by offering tools and techniques for efficient organizational decision-making. These methods encompass operations research, management information systems, and organizational behavior. Managerial science aids decision-makers in determining the best ways to allocate resources, establish priorities, and execute change. Within the realm of decision intelligence, it *guarantees that data-driven insights are converted into practical strategies* that can be effectively implemented in organizations.
 
 ## Key Concepts 
 
 ### Decision
 
-Data are beautiful, but it’s decisions that are important. It’s through our decisions — our actions — that we affect the world around us.
+Data may be captivating, but it's the decisions that truly matter. Our choices and actions have a significant impact on the world surrounding us.
 
-We define the word “decision” to mean any selection between options by any entity, so the conversation is broader than MBA-style dilemmas (like whether to open a branch of your business in London).
+We interpret "decision" as any choice made among alternatives by any entity, broadening the scope beyond typical business-related conundrums (such as deciding whether to establish a branch of your company in London).
 
 
 ### Decision Maker
 
-In our parlance, a “decision-maker” is not that stakeholder or investor who swoops in to veto the machinations of the project team, but rather the person who is responsible for decision architecture and context framing. In other words, a creator of meticulously-phrased objectives as opposed to their destroyer.
+In decision intelligence terminology, a "decision-maker" is not an individual such as a stakeholder or investor who intervenes to override the project team's efforts. Instead, the decision-maker is someone accountable for establishing the decision framework and contextualizing the situation. This person is more of a strategist, carefully crafting well-defined objectives, rather than dismantling them.
 
 ### Decision Making
 
-Decision-making is a word that is used differently by different disciplines, so it can refer to:
+The term "decision-making" is interpreted differently across various fields, and can encompass:
 
-taking an action when there were alternative options (in this sense it’s possible to talk about decision-making by a computer or a lizard).
-performing the function of a (human) decision-maker, part of which is taking responsibility for decisions. Even though a computer system can execute a decision, it will not be called a decision-maker because it does not bear responsibility for its outputs — that responsibility rests squarely on the shoulders of the humans who created it.
-
-### Calculation vs. Decision
-
-Not all outputs/suggestions are decisions. In decision analysis terminology, a decision is only made once an irrevocable allocation of resources takes place. As long as you can change your mind for free, no decision has been made yet.
+1. Choosing an action from available alternatives, which can be applied to entities like computers or lizards.
+2. Fulfilling the role of a human decision-maker, which entails taking responsibility for decisions. Although a computer system can carry out a decision, it is not deemed a decision-maker since it does not assume responsibility for its outcomes. This responsibility lies solely with the humans who developed the system.
 
 ### Decision Sciences
 
