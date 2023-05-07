@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-05-07T10:21:30+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: The Chief Architect’s Playbook</title><subtitle></subtitle><entry><title type="html">Favorite Quotes</title><link href="http://localhost:4000/quotes" rel="alternate" type="text/html" title="Favorite Quotes" /><published>2021-10-25T22:12:01+02:00</published><updated>2021-10-25T22:12:01+02:00</updated><id>http://localhost:4000/quotes</id><content type="html" xml:base="http://localhost:4000/quotes"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/books-g1b2675255_1920.jpg" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-05-07T18:38:10+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: The Chief Architect’s Playbook</title><subtitle></subtitle><entry><title type="html">Favorite Quotes</title><link href="http://localhost:4000/quotes" rel="alternate" type="text/html" title="Favorite Quotes" /><published>2021-10-25T22:12:01+02:00</published><updated>2021-10-25T22:12:01+02:00</updated><id>http://localhost:4000/quotes</id><content type="html" xml:base="http://localhost:4000/quotes"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/books-g1b2675255_1920.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/prettysleepy-2973588/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5430104">Amy</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5430104">Pixabay</a>
 </div>
@@ -397,191 +397,7 @@ Considering the scale and complexity of the organizational context I operated in
 
 <h2 id="goal-5-adaptivity">Goal 5: Adaptivity</h2>
 
-<p>Significant organic and inorganic changes are frequent and expected. The architecture function must adapt quickly to stay relevant in a new context.</p>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[I identified the following needs that an architecture function should support: Executing At Scale, Increasing the Quality of Decision-Making with Data, Maximizing Organizational Alignment & Learning, Higher Adaptivity.]]></summary></entry><entry><title type="html">Cheat Sheet</title><link href="http://localhost:4000/cheat-sheet" rel="alternate" type="text/html" title="Cheat Sheet" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/cheat-sheet</id><content type="html" xml:base="http://localhost:4000/cheat-sheet"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/istockphoto-1182643171-612x612.jpg" /></p>
-<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by iStock / Tashulia.
-</div>
-
-<style>
- blockquote {
-     border-left: 6px dotted #454545;
-     padding-left: 2px;
-     margin-top: -10px;
-     margin-bottom: 40px;
-     margin-left: 2px;
-     font-size: 100%;
-     font-style: italic;
-     color: #767676;
-     width: 600px;
- }
- ul {
-   list-style-type: "→   ";
- }
- h2 {
-    margin-top: 62px;
-    margin-bottom: 22px;
- }
- h3 {
- }
- li {
-    margin-bottom: 4px;
- }
-</style>
-
-<h2 id="introduction">Introduction</h2>
-
-<p>This simple cheatsheet serves as a reference guide for topics discussed in follow-up sections.</p>
-
-<h3 id="context-fast-moving-global-organizations"><a href="context">Context: Fast Moving Global Organizations</a></h3>
-<blockquote>
-  <ul>
-    <li>To better understand any idea or solution, it is crucial to understand the context in which these ideas developed.</li>
-    <li>The grounded architecture approach has developed in the context of global, loosely coupled organizations that are diverse, with non-linear growth dynamics, and under transformation pressures.</li>
-    <li>More specifically, the work I present here reflects my experiences as a Chief or Principal Architect at AVIV Group, eBay Classifieds, and Adevinta.</li>
-  </ul>
-</blockquote>
-
-<h3 id="goals"><a href="goals">Goals</a></h3>
-<blockquote>
-  <ul>
-    <li>I identified the following needs that an architecture function should support: Executing At Scale, Increasing the Quality of Decision-Making with Data, Maximizing Organizational Alignment &amp; Learning, Higher Adaptivity.</li>
-  </ul>
-</blockquote>
-
-<h2 id="grounded-architecture-structure">Grounded Architecture Structure</h2>
-
-<h3 id="data-pillar"><a href="data">Data Pillar</a></h3>
-
-<blockquote>
-  <ul>
-    <li>The architecture data pillar serves as a medium to create a complete, up-to-date picture of critical elements of technology landscapes of big organizations.</li>
-    <li>The data pillar provides an architecture-centric view on data about a technology landscape based on source code analyses, public cloud billing reports, vibrancy reports, or incident tickets.</li>
-    <li>To facilitate creation of data pillars, I have been working on development open-source tools, such as <a href="https://sokrates.dev">Sokrates</a>, that can help obtain valuable architectural insights from data sources, such as source code repositories.</li>
-  </ul>
-</blockquote>
-
-<h3 id="people-pillar"><a href="people">People Pillar</a></h3>
-<blockquote>
-  <ul>
-    <li>Developing the architecture function requires having competent, empowered, and motivated architects. Any architecture function must carefully organize, empower,
-  and leverage scarce architecture talent.</li>
-    <li>We should not take architectural talent for granted. Architects are bridging local business, product, 
-  organizational, and technology issues. Architects are difficult to hire talent as they need not only 
-  in-depth technical knowledge but also domain-specific and organizational knowledge.</li>
-    <li>In my work in the past few years, I was working by combining, in different forms, two teams of architects: a small 
-  central architecture team and a cross-organizational distributed virtual team.</li>
-  </ul>
-</blockquote>
-
-<h3 id="activities-platform"><a href="activities-platform">Activities Platform</a></h3>
-<blockquote>
-  <ul>
-    <li>The Architecture Activities Platform defines a set of processes and agreements enabling architects to do everything architecture typically does, leveraging data and people pillars to create a data-informed, organization-wide impact.</li>
-    <li>Examples of activities include: supporting teams in their daily work; tracking tech debt, defining tech debt reduction programs; performing technical due diligence; standardization of processes and documentation; defining cloud, data, and platform strategies.</li>
-  </ul>
-</blockquote>
-
-<h2 id="being-architect">Being Architect</h2>
-
-<h3 id="architects-as-superglue"><a href="superglue">Architects as Superglue</a></h3>
-
-<blockquote>
-  <ul>
-    <li>Architects in IT organizations should develop as “superglue,” people who hold architecture, technical details, business needs, and people together across a large organization or complex projects.</li>
-    <li>Architects need to be technically strong. But their unique strengths should stem from being able to relate, or glue, technical issues with business and broader issues.</li>
-    <li>Superglue architects should stand on three legs: Skills, Impact, Leadership.</li>
-  </ul>
-</blockquote>
-
-<h3 id="skills"><a href="skills">Skills</a></h3>
-
-<blockquote>
-  <ul>
-    <li>A typical skillset of an architects includes: hard (technical) skills, soft (people &amp; social) skills, and business skills.</li>
-  </ul>
-</blockquote>
-
-<h3 id="impact"><a href="impact">Impact</a></h3>
-<blockquote>
-  <ul>
-    <li>Architects’ work is evaluated based the impact they’ve had on the organization.</li>
-    <li>Architects can make an impact via three pillars: Big-Picture Thinking, Execution, and Leveling-Up.</li>
-  </ul>
-</blockquote>
-
-<h3 id="leadership"><a href="leadership">Leadership</a></h3>
-<blockquote>
-  <ul>
-    <li>My view of architecture leadership is inspired by David Marquet’s work and the Netflix’s valued behaviors.</li>
-    <li>Marquet focused on leadership and organizational management, with a particular emphasis on the principles of Intent-Based Leadership.</li>
-    <li>Borrowing from Netflix’s original values the following behavioral traits are crucial for architects are: communication, judgment, impact, inclusion, selflessness, courage, integrity, curiosity, innovation, and passion.</li>
-  </ul>
-</blockquote>
-
-<h3 id="architects-career-paths"><a href="career">Architects’ Career Paths</a></h3>
-<blockquote>
-  <ul>
-    <li>Architects’ career paths ideally stem from a strong engineering background.</li>
-    <li>I usually envision three tracks of seniority progression: Senior Architect, Principal Architect, and Enterprise Architect.</li>
-    <li>Hiring architects requires constantly raising the bar to ensure a strong and diverse team structure.</li>
-  </ul>
-</blockquote>
-
-<h2 id="doing-architecture">Doing Architecture</h2>
-
-<h3 id="the-culture-map-architects-culture-mindfield-compass"><a href="culture-map">The Culture Map: Architects’ Culture Mindfield Compass</a></h3>
-<blockquote>
-  <ul>
-    <li>I have found the work of Erin Meyer, The Culture Map, to be a very helpful tool for architects to work harmoniously with people from a broad array of different cultures and backgrounds.</li>
-    <li>Meyer’s model contains eight scales, each representing a key area, showing how cultures vary from extreme to extreme: Communicating, Evaluating, Persuading, Leading, Deciding, Trusting, Disagreeing, and Scheduling.</li>
-  </ul>
-</blockquote>
-
-<h3 id="managing-organizational-complexity-six-simple-rules"><a href="six-simple-rules">Managing Organizational Complexity: Six Simple Rules</a></h3>
-<blockquote>
-  <ul>
-    <li>Six Simple Rules emphasis that in today’s complicated business environment, you need to setup organisational structures based on cooperation.</li>
-    <li>To deal with complexity, organizations should depend on the judgment of their people and on these people cooperating to utilize the organization’s capabilities to cope with complex problems.</li>
-    <li>This view is well aligned with the ideas of Grounded Architecture.</li>
-  </ul>
-</blockquote>
-
-<h3 id="in-the-eye-of-the-storm-aligning-business-product-technology-and-organization-strategies"><a href="storm">In the Eye of the Storm: Aligning Business, Product, Technology and Organization Strategies</a></h3>
-<blockquote>
-  <ul>
-    <li>I want architecture always to address one of the most challenging problems our organization faces: a tension between technology, product, organization, and business functions.</li>
-    <li>Architecture should ensure that conversations happen between the technical, product, organizational, and business functions.</li>
-  </ul>
-</blockquote>
-
-<h3 id="product-development-and-the-build-trap"><a href="product-development">Product Development and The Build Trap</a></h3>
-<blockquote>
-  <ul>
-    <li>The product trap occurs when businesses focus too much on their product’s features and functionalities, overlooking their customers’ actual needs and preferences.</li>
-    <li>There are three bad product-development organizations: sales, visionary, and technology led companies, .</li>
-    <li>There are several bad product manager archetypes: Mini-CEO, Waiter, and Former Project Manager.</li>
-    <li>Critical elements of successful product-led companies include: Understanding Customer Needs, Adopting a Customer-Centric Approach, Executing Iterative Product Development, Aligning Business Goals with Customer Needs, Embracing Innovation and Agility, and Measuring Success.</li>
-  </ul>
-</blockquote>
-
-<h3 id="architecture-governance-mandates-taxation-nudge"><a href="governance">Architecture Governance: Mandates, Taxation, Nudge</a></h3>
-<blockquote>
-  <ul>
-    <li>Grounded Architecture supports governance models adaptable to organizations’ complex and diverse needs. I see a technology governance model as a well-balanced hybrid of three different styles of governing: mandates and bans, taxes, and nudging.</li>
-    <li>By governing with mandates and bans, I mean guiding people by explicitly defining what they should or should not do.</li>
-    <li>Governing with taxes is a form of guiding in which people are not forbidden to make some decisions but need to “pay” some form of taxes on used resources.</li>
-    <li>Nudging is a form of governing where we create subtle or indirect suggestion influencing someone’s behavior or decision-making without forcing them or limiting their freedom of choice.</li>
-  </ul>
-</blockquote>
-
-<h3 id="economic-modeling-roi-and-financial-options"><a href="economics">Economic Modeling: ROI and Financial Options</a></h3>
-<blockquote>
-  <ul>
-    <li>Architects are frequently asked about the (economic) value of architecture or technology investments.</li>
-    <li>Answering this question is a crucial skill for any senior architect. But it may be difficult to answer this seemingly harmless question concisely and convincingly to a non-technical audience.</li>
-    <li>Borrowing from existing literature, I sketch two answers to the question of the economic value of architecture: the return on investment metaphor and the selling options metaphor.</li>
-  </ul>
-</blockquote>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[Key points from all sections in one place.]]></summary></entry><entry><title type="html">Grounded Architecture: An Overview</title><link href="http://localhost:4000/grounded-architecture" rel="alternate" type="text/html" title="Grounded Architecture: An Overview" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/grounded-architecture</id><content type="html" xml:base="http://localhost:4000/grounded-architecture"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/buildings-205986_1920.jpg" /></p>
+<p>Significant organic and inorganic changes are frequent and expected. The architecture function must adapt quickly to stay relevant in a new context.</p>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[I identified the following needs that an architecture function should support: Executing At Scale, Increasing the Quality of Decision-Making with Data, Maximizing Organizational Alignment & Learning, Higher Adaptivity.]]></summary></entry><entry><title type="html">Grounded Architecture: An Overview</title><link href="http://localhost:4000/grounded-architecture" rel="alternate" type="text/html" title="Grounded Architecture: An Overview" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/grounded-architecture</id><content type="html" xml:base="http://localhost:4000/grounded-architecture"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/buildings-205986_1920.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/ichigo121212-11728/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=205986">Ichigo121212</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=205986">Pixabay</a>
 </div>
@@ -1301,7 +1117,7 @@ Image by <a href="https://pixabay.com/users/borevina-9505414/?utm_source=link-at
 </blockquote>
 
 <p><br />
-The following reflections provide some ideas and key lessons I learned about what is means to be an architect in practice:</p>
+The following reflections provide some resources, ideas and key lessons I learned about what is means to be an architect in practice:</p>
 
 <ul>
   <li><strong><a href="superglue">Architects as Superglue</a></strong>: Architects in IT organizations should develop as “superglue,” people who hold architecture, technical details, business needs, and people together across a large organization or complex projects.</li>
@@ -1309,4 +1125,129 @@ The following reflections provide some ideas and key lessons I learned about wha
   <li><strong><a href="impact">Impact</a></strong>: Architects’ work is evaluated based the impact they’ve had on the organization. They must demonstrate that they identify, tackle, and deliver on strategic problems, have a deep and/or broad influence, and deliver solutions that few others can.</li>
   <li><strong><a href="behaviors">Leadership</a></strong>: My view of architecture leadership is inspired by David Marquet’s work and the Netflix’s valued behaviors.</li>
   <li><strong><a href="career">Architects’ Career Paths: Raising the Bar</a></strong>: Architects’ career paths ideally stem from a strong engineering background. Hiring architects requires constantly raising the bar to ensure a strong and diverse team structure.</li>
-</ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[I introduce ideas and key lessons I learned about what is means to be an architect in practice.]]></summary></entry></feed>
+</ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[I introduce ideas and key lessons I learned about what is means to be an architect in practice.]]></summary></entry><entry><title type="html">Architects as Superglue</title><link href="http://localhost:4000/superglue" rel="alternate" type="text/html" title="Architects as Superglue" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/superglue</id><content type="html" xml:base="http://localhost:4000/superglue"><![CDATA[<style>
+     h2 {
+          margin-top: 40px;
+     }
+     h3 {
+          margin-top: 40px;
+     }
+</style>
+
+<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/superglue/superglue.png" /></p>
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+</div>
+<blockquote>
+  <p><strong>KEY POINTS:</strong></p>
+
+  <ul>
+    <li>Architects in IT organizations should develop as “superglue,” people who hold architecture, technical details, business needs, and people together across a large organization or complex projects.</li>
+    <li>Architects need to be technically strong. But their unique strengths should stem from being able to relate, or glue, technical issues with business and broader issues.</li>
+    <li>Architects should stand on three legs: Skills, Impact, Leadership.</li>
+  </ul>
+</blockquote>
+<style>
+ .quote {
+     border-left: 8px solid skyblue;
+     padding-left: 36px;
+     margin-top: 30px;
+     margin-bottom: 40px;
+     font-size: 140%;
+     font-style: normal;
+     color:#888;
+ }
+    @media only screen and (max-width: 768px) {
+        [class="quote"] {
+            display: none;
+        }
+    }
+</style>
+
+<p><br />
+In my view, architects in IT organizations should develop as “superglue.” I borrow the “superglue” view from <a href="https://saturn2016.sched.com/event/63m9/cant-find-superheroes-to-help-you-out-of-a-crisis-how-about-some-architecture-and-lots-of-superglue">Adam Bar-Niv and Amir Shenhav from Intel</a>. They pointed out that instead of the superhero, we need “superglue” architects - the people who hold architecture, technical details, business needs, and people together across large organizations or complex projects. More recently, Tanya Reilly presented a <a href="https://noidea.dog/glue">similar view</a> concerning software engineering positions.</p>
+
+<p>The superglue characteristics mean serving as the organizational connective tissue, linking the “business wheelhouse” and the “engine room.” Architects, of course, need to be technically strong. But their unique strengths should stem from being able to relate, or glue, technical issues with business and broader issues.</p>
+
+<div class="quote">
+Architects, of course, need to be technically strong. But their unique strengths should stem from being able to relate, or glue, technical issues with business and broader issues.
+</div>
+
+<p>From discussions I’ve had with our technology leaders, engineers, and architects, the picture below has crystallized as a representation of the “superglue” metaphor for architects (Figure 1).</p>
+
+<p><img src="assets/images/superglue/architect-as-superglue.png" alt="" />
+<em><strong>Figure 1:</strong> Architects serve as a superglue, connecting development teams with business stakeholders while linking teams with the internal communities and the external world.</em></p>
+
+<p>Architects must have good relationships with developer teams, local business stakeholders, and functions. Simultaneously, such a person needs to be well-connected with broader internal communities. External visibility is essential for architects, who can bring ideas from outside into the organization and promote the organization to the outside world.</p>
+
+<p><br /></p>
+<h2 id="superglue-abilities">Superglue Abilities</h2>
+
+<p>Setting the architects’ goals to be “superglue” also requires some thought on developing architects as a superglue. Borrowing from Gregor Hohpe’s view on architect development from his book Software Architecture Elevator, I share the view that our architects should stand on three legs:</p>
+
+<ul>
+  <li>Skills</li>
+  <li>Impact</li>
+  <li>leadership</li>
+</ul>
+
+<p><img src="assets/images/superglue/architect-skills.png" alt="" />
+<em><strong>Figure 2:</strong> Architect Profile: Skills + Impact + Leadership.</em></p>
+
+<h3 id="skills">Skills</h3>
+
+<p>Architects have to have proper skill sets. By skills, I mean possessing knowledge and the ability to apply relevant knowledge in practice. These skills should include both technical (e.g., cloud architecture or Kubernetes technology) as well as communication and influence skills.</p>
+
+<p>A typical skillset of an architects includes:</p>
+<ul>
+  <li><strong>Hard (technical) skills</strong>, including extensive knowledge of for both new technology and legacy technology stacks,</li>
+  <li><strong>Soft skills</strong>, and</li>
+  <li><strong>Business Domain knowledge</strong>.</li>
+</ul>
+
+<p>The section <a href="skills">Skills</a> provides more details.</p>
+
+<h3 id="impact">Impact</h3>
+
+<p>Impact should be measured as a benefit for the business. Architects need to ensure that what they are doing profits the business:</p>
+<ul>
+  <li>They identify, tackle and deliver on <strong>strategic problems</strong> at the organization and area level.</li>
+  <li>They have a <strong>track record of deep and/or broad impact</strong> on a product or technology area.</li>
+  <li>They <strong>deliver solutions that few others can</strong>, either by your <strong>heavy lifting</strong> or the <strong>ability to orchestrate large group efforts</strong>.</li>
+</ul>
+
+<p>Architects need to get out into the world and make an impact. Architects that do not make an impact <strong>do not have a place in a for-profit business</strong>.</p>
+
+<p>Examples of such impact may include:</p>
+<ul>
+  <li><strong>Aligning</strong> business, product, technology and organizatinal strategies (see <a href="storm">this section</a> for more details),</li>
+  <li><strong>Process</strong> optimizations and improvements, with real measurable impact on work of an organization,</li>
+  <li><strong>Cost</strong> optimizations of systems, based on data informed decisions,</li>
+  <li>Developing pragmatic <strong>technology strategies</strong>, helping business reach goals in a sustainable way,</li>
+  <li>Driving <strong>delivery of products</strong>, supporting teams to increase quality and speed of delivery,</li>
+  <li>Supporting <strong>business innovation</strong>, bringing new ideas in a pragmatic way aligned with business strategy and goals.</li>
+</ul>
+
+<p>The section <a href="impact">Impact</a> provides more details.
+In my view, architects in IT organizations should develop as “superglue.”</p>
+
+<h3 id="leadership">Leadership</h3>
+
+<p>Lleadership acknowledges that experienced architects should do more than make architecture:</p>
+<ul>
+  <li>They are a <strong>role model for others</strong> in the company on both the <strong>technical</strong> and <strong>cultural</strong> front.</li>
+  <li>Their <strong>technical influence</strong> may extend <strong>beyond you organization and reach the industry at large</strong>.</li>
+  <li>They <strong>lead efforts</strong> that <strong>solve important problems</strong> at the engineering area level.</li>
+  <li>They may <strong>contribute to the broader technical community</strong> through <strong>tech talks</strong>, <strong>education</strong>, <strong>publications</strong>, <strong>open source projects</strong>, etc.</li>
+  <li>They <strong>raise the bar of the engineering culture</strong> across the company.</li>
+</ul>
+
+<p>Mentoring junior architects is the most crucial aspect of senior architects’ leadership. Feedback cycles in (software) architecture are inherently slow. Mentoring can save new architects many years of learning by doing and making mistakes. The <a href="people">People Pillar</a> should create spaces for such coaching and collaborations.</p>
+
+<p>The section <a href="leadership">Leadership</a> provides more details.</p>
+
+<h2 id="balanced-development">Balanced Development</h2>
+
+<p>Architects need to have a minimal “length” of all of these “legs” to be successful (Figure 3). For instance, having skills and impact without leadership frequently leads to hitting a glass ceiling. Such architects plateau at an intermediate level and cannot lead the company to innovative or transformative solutions. Leadership without impact lacks foundation and may signal that you have become an ivory tower architect with a weak relation to reality. And having impact and leadership qualities but no skills leads to impractical decisions not informed by in-depth knowledge.</p>
+
+<p><img src="assets/images/arch/architect-legs.png" alt="" />
+<em><strong>Figure 3:</strong> Architects need to have a minimal “length” of all of these “legs” to be successful.</em></p>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[Architects in IT organizations should develop as “superglue,” people who hold architecture, technical details, business needs, and people together across a large organization or complex projects.]]></summary></entry></feed>

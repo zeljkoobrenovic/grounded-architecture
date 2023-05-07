@@ -1,8 +1,8 @@
 ---
 layout: post
-section: "Introduction"
+section: "Summary"
 title: "Cheat Sheet"
-position: 1009
+position: 12004
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 permalink: cheat-sheet
