@@ -16,6 +16,8 @@ excerpt: "I introduce three elements of Grounded Architecture: The Data Pillar, 
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/ichigo121212-11728/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=205986">Ichigo121212</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=205986">Pixabay</a>
 </div>
+> **IN THIS SECTION, YOU WILL:** Get an overview of the Grounded Architecture structure.
+>
 > **KEY POINTS:**
 >
 > * I introduce three elements of Grounded Architecture: The Data Pillar, The People Pillar, The Architecture Activities Platform.

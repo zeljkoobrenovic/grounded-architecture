@@ -19,6 +19,8 @@ src="assets/images/arch/construction-4939383_1920.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/mostafa_meraji-13551092/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4939383">mostafa meraji</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4939383">Pixabay</a>
 </div>
+> **IN THIS SECTION, YOU WILL:**  Understand that architecture is about people and get hints and tips on creating organizational structures that support practical architecture functions.
+>
 > **KEY POINTS:**
 >
 > * Developing the architecture function requires having competent, empowered, and motivated architects. 
