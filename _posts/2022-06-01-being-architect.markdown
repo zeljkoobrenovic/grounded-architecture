@@ -32,7 +32,7 @@ Image by <a href="https://pixabay.com/users/borevina-9505414/?utm_source=link-at
         }
     }
 </style>
-> **IN THIS SECTION, YOU WILL:**  Get an overview of topics covered in this chapter.
+> **IN THIS SECTION, YOU WILL:**  Get an overview of topics related to what it means to be an architect, covered in this chapter.
 >
 > **KEY POINTS:**
 >

@@ -16,7 +16,11 @@ excerpt: "Architects' career paths ideally stem from a strong engineering backgr
      src="assets/images/arch/pole-vault.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Credit: <a href="https://flic.kr/p/8zKRAU">tableatny</a> (CC BY 2.0)
-</div>> **KEY POINTS:**
+</div>
+
+> **IN THIS SECTION, YOU WILL:**  Get ideas and tips about architects' career paths.
+> 
+> **KEY POINTS:**
 >
 > * Architects' career paths ideally stem from a strong engineering background.
 > * Hiring architects requires constantly raising the bar to ensure a strong and diverse team structure.  
