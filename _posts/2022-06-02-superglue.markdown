@@ -23,6 +23,8 @@ excerpt: "Architects in IT organizations should develop as “superglue,” peop
      src="assets/images/superglue/superglue.png">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 </div>
+> **IN THIS SECTION, YOU WILL:**  Understand the importance of the superglue role of architects and get valuable tips on developing "superglue" abilities.
+>
 > **KEY POINTS:**
 >
 > * Architects in IT organizations should develop as “superglue,” people who hold architecture, technical details, business needs, and people together across a large organization or complex projects.

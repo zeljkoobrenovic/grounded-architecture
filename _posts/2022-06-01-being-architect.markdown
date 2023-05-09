@@ -32,7 +32,8 @@ Image by <a href="https://pixabay.com/users/borevina-9505414/?utm_source=link-at
         }
     }
 </style>
-
+> **IN THIS SECTION, YOU WILL:**  Get an overview of topics covered in this chapter.
+>
 > **KEY POINTS:**
 >
 > * I introduce ideas and key lessons I learned about what is means to be an architect in practice.
