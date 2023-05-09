@@ -168,11 +168,8 @@ Architecture supports increasing power quantity with the **[operating model](act
 
 In the face of business complexity, work is becoming more inter-dependent. To meet multiple and often contradictory performance requirements, **people need to rely more on each other**. They need to **cooperate directly** instead of relying on dedicated interfaces, coordination structures or procedures that only add to complicatedness. 
 
-<img src="assets/images/arch/climbing.jpeg" style="width: 100%">
-<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Gettiy Images.
-</div>
-
+<img src="assets/images/arch/iStock-1072898930.jpg" style="width: 100%">
+<div style="text-align: center; font-size: 70%; color: grey; margin-bottom: 12px; margin-top: -12px;">Credit: Getty Images / iStock / Natnan Srisuwan.</div>
 ### General Guidelines
 
 Reciprocity is the recognition by people or units in an organization that they **have a mutual interest in cooperation** and that the success of one depends on the success of others (and vice versa). The way to create that reciprocity is by setting rich objectives and reinforcing them by:
