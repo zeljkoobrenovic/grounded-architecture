@@ -39,7 +39,6 @@ def copy_post(post):
                     if (covers.get(post)):
                         content += '![](' +covers[post] + ')\n\n{pagebreak}\n\n'
                     content += '# ' + line.replace('title:', '').replace('"', '').strip()
-                    content += '# ' + line.replace('title:', '').replace('"', '').strip()
                 elif line.startswith('permalink:'):
                     content += ' {#' + line.replace('permalink:', '').replace('"', '').strip() + '}\n\n'
 
