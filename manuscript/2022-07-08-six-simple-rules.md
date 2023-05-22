@@ -1,9 +1,10 @@
 
 
-# Managing Organizational Complexity: Six Simple Rules# Managing Organizational Complexity: Six Simple Rules {#six-simple-rules}
+# Managing Organizational Complexity: Six Simple Rules {#six-simple-rules}
 
 
 
+![](assets/images/arch/spices-g253b7ca36_1920.jpg)
 
 
 
@@ -132,6 +133,7 @@ Architecture supports increasing power quantity with the **[operating model](act
 In the face of business complexity, work is becoming more inter-dependent. To meet multiple and often contradictory performance requirements, **people need to rely more on each other**. They need to **cooperate directly** instead of relying on dedicated interfaces, coordination structures or procedures that only add to complicatedness. 
 
 
+![](assets/images/arch/iStock-1072898930.jpg)
 
 
 

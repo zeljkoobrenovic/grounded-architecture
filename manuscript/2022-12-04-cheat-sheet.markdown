@@ -1,8 +1,9 @@
 
 
-# Cheat Sheet# Cheat Sheet {#cheat-sheet}
+# Cheat Sheet {#cheat-sheet}
 
 
+![](assets/images/istockphoto-1182643171-612x612.jpg)
 
 
 

@@ -1,9 +1,10 @@
 
 
-# Product Development and The Build Trap# Product Development and The Build Trap {#product-development}
+# Product Development and The Build Trap {#product-development}
 
 
 
+![](assets/images/arch/bear-trap-413397_1920.jpg)
 
 
 

@@ -1,20 +1,17 @@
 
 
+# Introduction {#intro}
+
+
 ![](assets/images/arch/staircase-274614_1920.jpg)
 
-{pagebreak}
-
-# Introduction# Introduction {#intro}
-
-
-
-> **IN THIS SECTION, YOU WILL:** Understand what this playbook is about and how to use it.
+> ***IN THIS SECTION, YOU WILL:** Understand what this playbook is about and how to use it.*
 >
-> **KEY POINTS:**
+> ***KEY POINTS:***
 >
-> * This playbook aims to share my approach to running an IT architecture practice in larger organizations based on my experience as Chief Architect at AVIV Group, eBay Classifieds, and Adevinta.
-> * I called this approach "Grounded Architecture," highlighting the need for any IT architecture function to stay well-connected to all levels of an organization and led by data.
-> * In this section, I explain my motivation to write this playbook.
+> * *This playbook aims to share my approach to running an IT architecture practice in larger organizations based on my experience as Chief Architect at AVIV Group, eBay Classifieds, and Adevinta.*
+> * *I called this approach "Grounded Architecture," highlighting the need for any IT architecture function to stay well-connected to all levels of an organization and led by data.*
+> * *I also explain my motivation to write this playbook.*
 
 
 

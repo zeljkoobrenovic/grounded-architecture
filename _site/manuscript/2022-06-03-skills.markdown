@@ -1,0 +1,63 @@
+
+
+# Skills# Skills {#skills}
+
+
+
+
+
+
+> **IN THIS SECTION, YOU WILL:**  Understand that architects' skills should include technical, communication, and business skills, and get valuable pointers to resources for developing these skills.
+>
+> **KEY POINTS:**
+>
+> * A typical skillset of an architects includes: hard (technical) skills, soft (people & social) skills, and business skills.
+
+
+
+Architects have to have proper skill sets. By skills, I mean possessing knowledge and the ability to apply relevant knowledge in practice. These skills should include both technical (e.g., cloud architecture or Kubernetes technology) as well as communication and influence skills.
+
+
+
+
+A typical skillset of an architects includes (I provide links to some of my [tools](https://obren.io/tools) I found useful for obtaining these skills):
+* **Hard (technical) skills**, including extensive knowledge of for both new technology and legacy technology stacks,
+* **Soft skills**, and
+* **Business Domain knowledge**.
+
+## Hard Skills (Technical Architecture)
+
+Hard skills, also known as technical skills, are the abilities and knowledge needed to perform specific tasks in a professional setting. In the context of technical architecture, these skills are essential for designing, implementing, and maintaining various aspects of an organization's technology infrastructure. Some typical hard skills that architects need in their work include:
+
+* [**System design**](https://blog.pragmaticengineer.com/system-design-interview-an-insiders-guide-review/):  System design refers to the process of defining and developing the architecture of a complex system. An architect with this skill set is capable of creating comprehensive system designs that incorporate various components and sub-systems to achieve the desired functionality. 
+* [**Engineering processes**](https://obren.io/tools/catalogs/?id=design-tactics-high-performing-technology-organizations): An architect needs to have an in-depth understanding of engineering processes, including software development life cycle, Agile development, DevOps, and continuous delivery. 
+* **[Design patterns](https://obren.io/tools?tag=design_patterns) and [tactics](https://obren.io/tools?tag=design_tactics)**: A good architect should be familiar with design patterns and tactics such as Cloud Design Patterns, Model-View-Controller (MVC), Service-Oriented Architecture (SOA), and Microservices. These patterns help architects to design systems that are modular, scalable, and maintainable.  
+* [**Security and privacy by design**](https://obren.io/tools?tag=security): In today's world of cybersecurity threats, architects need to have a deep understanding of security and privacy best practices. They must ensure that the systems they design are secure and comply with data protection regulations.
+* [**System optimizations**](https://obren.io/tools/catalogs/?id=design-tactics-sig-performance): An architect should know how to optimize systems for performance and scalability. They should be familiar with tools and techniques for profiling and tuning systems to achieve optimal performance.
+* [ **Source code structures and maintainability**](https://obren.io/tools/catalogs/?id=design-tactics-sig-maintainability): Architects should have a good understanding of software engineering principles such as clean code, code maintainability, and refactoring. They should be able to design systems that are easy to maintain and modify.
+* **[Reliability and stability (anti)patterns](https://obren.io/tools/catalogs/?id=releaseit-stability-awareness) and [tactics](https://obren.io/tools/catalogs/?id=releaseit-stability-tactics)**: An architect should be aware of the common reliability and stability issues that can arise in complex systems. They should be able to identify and address potential problems by using patterns and tactics such as redundancy, failover, and graceful degradation.
+* [**Usability**](https://obren.io/tools?q=usability): An architect should have a good understanding of usability principles. They should design systems that are easy to use and provide a good user experience.
+
+
+## Soft Skills  (Social Architecture)
+> To change the architecture of a software-intensive system ensconced in a large organization, you often have to change the architecture of the organization. And ultimately, that is a political problem, not just a technical one. 
+>
+>--Grady Booch
+
+Social Architecture refers to the design and management of social systems, interactions, and relationships within an organization or community. Soft skills, often described as non-technical or interpersonal skills, are an integral part of social architecture, as they enable individuals to effectively navigate and contribute to these systems. By developing and refining soft skills, individuals can more easily adapt to changes, collaborate with others, and foster a positive work environment. Key soft skills related to social architecture include:
+
+* [**Communication skills**](https://obren.io/tools?tag=consultancy), [written](https://obren.io/tools/sowhat/), [visual](https://obren.io/tools?tag=visuals), verbal (presentation), and listening skills: Effective communication involves not only expressing oneself clearly, but also being able to understand and empathize with others. This includes written, visual, verbal (presentation), and listening skills, which are crucial for building and maintaining relationships, as well as for conveying ideas and facilitating discussions.
+* [**Networking and collaboration skills**](https://obren.io/tools?tag=leadership): Networking involves building and maintaining a diverse range of professional connections, which can be useful for personal growth and career development. Collaboration skills encompass the ability to work effectively with others, regardless of their role or seniority. This includes partnering with peers, junior and senior colleagues, managers, and executives to achieve common goals.
+* [**Organizational** and **time management skills**](https://obren.io/tools?tag=reflect): These skills involve the ability to efficiently plan, prioritize, and manage tasks, resources, and time. Effective organization and time management are crucial for meeting deadlines, achieving goals, and maintaining a healthy work-life balance. Key aspects of these skills include prioritization, goal-setting, task management, and delegation.
+* **[Analytical, strategic thinking, and problem-solving skills](https://obren.io/tools?tag=it)**: Analytical skills involve the ability to assess and interpret complex information to make informed decisions. Strategic thinking is the capacity to envision and plan for long-term success, while problem-solving skills involve identifying and addressing challenges creatively and effectively. These skills are essential for recognizing and capitalizing on unique opportunities and creating value within an organization..
+
+## Business Skills  (Business Architecture)
+
+Business Architecture refers to the strategic design and alignment of an organization's business processes, structures, and systems to achieve its objectives and create value. Architects, regardless of their technical or design expertise, must possess a solid understanding of business skills to effectively contribute to an organization's success. Key business skills for architects include:
+
+* **General business concepts knowledge** ([The Personal MBA](https://personalmba.com/) book being my favorite resource to get familiar with such concepts): A fundamental understanding of general business concepts is essential for architects to make informed decisions and effectively communicate with stakeholders. Familiarity with concepts such as finance, marketing, sales, operations, and strategy can provide a strong foundation for architects to engage with various aspects of an organization. 
+* [**Specific business domains**](https://obren.io/tools?tag=domain_models) of the organization: In addition to general business concepts, architects should also develop a deep understanding of the specific business domain in which their organization operates. This may include knowledge of industry-specific regulations, market trends, customer preferences, competitive landscape, and more. Gaining insights into the specific business domain enables architects to better align their work with the organization's goals, strategies, and priorities.
+* **Business analysis and requirements gathering**: Architects should be adept at analyzing business needs and gathering requirements from various stakeholders. This skill involves understanding the organization's objectives and translating them into functional and technical specifications that can guide the design and development of solutions. 
+
+
+ 

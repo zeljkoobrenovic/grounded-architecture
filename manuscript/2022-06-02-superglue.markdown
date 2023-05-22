@@ -1,10 +1,11 @@
 
 
-# Architects as Superglue# Architects as Superglue {#superglue}
+# Architects as Superglue {#superglue}
 
 
 
 
+![](assets/images/superglue/superglue.png)
 
 > **IN THIS SECTION, YOU WILL:**  Understand the importance of the superglue role of architects and get valuable tips on developing "superglue" abilities.
 >

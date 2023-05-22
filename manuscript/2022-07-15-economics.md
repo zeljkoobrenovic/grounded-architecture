@@ -1,8 +1,9 @@
 
 
-# Economic Modeling: ROI and Financial Options# Economic Modeling: ROI and Financial Options {#economics}
+# Economic Modeling: ROI and Financial Options {#economics}
 
 
+![](assets/images/arch/money-g45f6788de_1920.jpg)
 
 > **KEY POINTS:**
 >
