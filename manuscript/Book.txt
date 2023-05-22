@@ -20,3 +20,5 @@
 2022-07-12-governance.markdown
 2022-07-15-economics.md
 2022-12-01-summary.markdown
+2022-12-04-cheat-sheet.markdown
+2022-12-25-quotes.markdown
