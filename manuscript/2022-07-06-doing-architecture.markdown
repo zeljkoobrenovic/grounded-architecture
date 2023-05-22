@@ -1,6 +1,6 @@
 
 
-# Doing Architecture {#doing-architecture}
+# Doing Architecture# Doing Architecture {#doing-architecture}
 
 
 

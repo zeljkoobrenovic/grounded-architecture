@@ -1,6 +1,6 @@
 
 
-# Architects' Career Paths: Raising the Bar {#career}
+# Architects' Career Paths: Raising the Bar# Architects' Career Paths: Raising the Bar {#career}
 
 
 

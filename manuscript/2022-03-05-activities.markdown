@@ -1,6 +1,6 @@
 
 
-# Architecture Activities Platform {#activities-platform}
+# Architecture Activities Platform# Architecture Activities Platform {#activities-platform}
 
 
 

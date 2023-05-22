@@ -1,6 +1,6 @@
 
 
-# Economic Modeling: ROI and Financial Options {#economics}
+# Economic Modeling: ROI and Financial Options# Economic Modeling: ROI and Financial Options {#economics}
 
 
 

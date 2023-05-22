@@ -1,6 +1,6 @@
 
 
-# Managing Organizational Complexity: Six Simple Rules {#six-simple-rules}
+# Managing Organizational Complexity: Six Simple Rules# Managing Organizational Complexity: Six Simple Rules {#six-simple-rules}
 
 
 

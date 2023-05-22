@@ -1,6 +1,6 @@
 
 
-# Architecture Governance: Mandates, Taxation, Nudge {#governance}
+# Architecture Governance: Mandates, Taxation, Nudge# Architecture Governance: Mandates, Taxation, Nudge {#governance}
 
 
 

@@ -1,8 +1,7 @@
 
 
-# Data Pillar {#data}
+# Data Pillar# Data Pillar {#data}
 
-style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover">
 
 
 > **IN THIS SECTION, YOU WILL:**  Understand how to use available data in architecture decision processes and hints and tips on creating architecture-centric data tools.

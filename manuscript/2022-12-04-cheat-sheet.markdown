@@ -1,6 +1,6 @@
 
 
-# Cheat Sheet {#cheat-sheet}
+# Cheat Sheet# Cheat Sheet {#cheat-sheet}
 
 
 

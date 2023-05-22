@@ -1,6 +1,6 @@
 
 
-# Being Architect {#being-architect}
+# Being Architect# Being Architect {#being-architect}
 
 
 

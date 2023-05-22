@@ -1,6 +1,6 @@
 
 
-# Grounded Architecture: An Overview {#grounded-architecture}
+# Grounded Architecture: An Overview# Grounded Architecture: An Overview {#grounded-architecture}
 
 
 
