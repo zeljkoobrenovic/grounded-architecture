@@ -14,7 +14,6 @@
 > * To deal with complexity, organizations should depend on the judgment of their people and on these people cooperating to utilize the organization's capabilities to cope with complex problems. 
 > * This view is well aligned with the ideas of Grounded Architecture.
 
-<br>
 The book [Six Simple Rules: How to Manage Complexity without Getting Complicated](https://www.bcg.com/capabilities/organization/smart-simplicity/six-rules-overcoming-complexity), by  Yves Morieux and Peter Tollman, is another source of inspiration for my vision on the Architecture function. Morieux and Tollman introduced a concept of Smart Simplicity with six rules or strategies that enable organizations to promote new behaviors and improve performance.
 
 
@@ -24,7 +23,6 @@ Six Simple Rules emphasis that in today’s complicated business environment, yo
 
 This view is well aligned with the ideas of Grounded Architecture. In this section, I will explore the connection between the ideas of Grounded Architecture and Six Simple Rules.
 
-<br>
 ## Background: Limitations of Hard and Soft Management Approaches
 
 One of the book's central premises is that conventional management approaches, which the authors split into hard and soft, are neither sufficient nor appropriate for the complexity of organizations nowadays.  
@@ -42,7 +40,6 @@ On the other end, we have a soft management approach. According to the **soft ap
 Both approaches are limited in today's world and are harmful to cooperation. A **hard approach introduces complicated mechanisms** and compliance and "checking the box" behaviors instead of the engagement and initiative to make things work. The **soft approach's emphasis on good interpersonal feelings creates cooperation obstacles** as people do not want to ruin good feelings.
 
 
-<br>
 ## Six Simple Rules Overview 
 
 Six Simple rules cover two areas: **autonomy** and **cooperation**. The first three rules create the conditions for **individual autonomy and empowerment** to improve performance.
@@ -60,7 +57,6 @@ This difference between **Autonomy** and **Self-Sufficiency** leads us to the se
 
 
 
-<br>
 ## Simple Rule 1: Understand What Your People Do
 
 First rule states that you need to truly understand performance: **what people do** and **why they do it**. When you understand why people do what they do and how it drives performance, you can define the **minimum sufficient set of interventions with surgical accuracy**. 
@@ -84,7 +80,6 @@ I have found architecture function can be very helpful in understand what people
 * Leveraging the **[People Pillar](#people)** to **connect people** and enables them to **learn what is happening** in different parts of the organization.
 
 
-<br>
 ## Simple Rule 2: Reinforce Integrators
 
 Reinforce integrators by looking at those **directly involved in the work**, giving them **power and interest to foster cooperation in dealing with complexity** instead of resorting to the paraphernalia of overarching hierarchies, overlays, dedicated interfaces, balanced scorecards, or coordination procedures.
@@ -108,7 +103,6 @@ Architecture function, in my view, is strongly related to reinforcing integrator
 * The **[Data Pillar](#data)** can **support integrators with data and insights**.
 
 
-<br>
 ## Simple Rule 3: Increase the Total Quantity of Power
 
 Whenever you consider an **addition to** your organization’s **structure, processes, and systems**, think about **increasing the quantity of power**. Doing so may **save you from increasing complicatedness** and enable you to achieve a more significant impact with less cost. You can increase the quantity of power by enabling some functions to have an influence on new stakes that matter to others and performance. 
@@ -133,7 +127,6 @@ Architecture supports increasing power quantity with the **[operating model](act
 * Additionally, the **[Data Platform](#data)** opens many people in the organization, giving them **data in insights that can increase their power in daily work**.
 
 
-<br>
 ## Simple Rule 4: Increase Reciprocity
 
 In the face of business complexity, work is becoming more inter-dependent. To meet multiple and often contradictory performance requirements, **people need to rely more on each other**. They need to **cooperate directly** instead of relying on dedicated interfaces, coordination structures or procedures that only add to complicatedness. 
@@ -157,7 +150,6 @@ The architecture can extend the shadow of the future in multiple ways:
 * The principle of applying **[economic modeling](#economics)** to architecture decision-making directly supports describing what happens tomorrow as a consequence of what they do today. 
 
 
-<br>
 ## Simple Rule 6: Reward Those Who Cooperate
 
 Lastly, the Six Simple Rules approach recommends that when you cannot create direct feedback loops embedded in people’s tasks, you need **management’s intervention to close the loop**. Managers must then use the familiar performance evaluation tool but in a very different way. 
@@ -180,7 +172,6 @@ To reward those who cooperate managers:
 * I try to organize the **[People Pillar](#people)** so that it provides the context and **networks of people** to more easily collaborate. 
 * Various data sources in the **[Data Pillar](#data)** can help creating **transparency about cooperation** opportunities and problems.
 
-<br>
 ## To Probe Further
 
 * [Six Simple Rules: How to Manage Complexity without Getting Complicated](https://www.bcg.com/capabilities/organization/smart-simplicity/six-rules-overcoming-complexity), by  Yves Morieux and Peter Tollman, 2014.

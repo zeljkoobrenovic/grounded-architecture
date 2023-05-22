@@ -12,7 +12,6 @@
 
 
 
-<br>
 Considering the scale and complexity of the organizational context I operated in, it was apparent that conventional approaches of doing architecture that rely on manual processes need to be revised. 
 
 

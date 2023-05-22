@@ -13,7 +13,6 @@
 
 
 
-<br>
 Each organization will have different architectural needs and contexts. When forming architecture functions, I use as a starting point these [two pieces of advice from Gregor Hohpe](https://architectelevator.com/architecture/organizing-architecture/):
  * *"Your architecture team’s job is to solve your biggest problems. The best setup is the one that allows it to accomplish that."*
  * *"Your organization has to earn its way to an effective architecture function. You can’t just plug some architects into the current mess and expect it to solve all your problems."*
@@ -27,7 +26,6 @@ Considering the previous two points from Gregor Hohpe, there is no one-size-fits
 
 The Architecture Activities Platform is where we have to perform activities that help an organization reach its goals. The Architecture Activities Platform defines a set of processes and agreements enabling architects to do everything architecture typically does, leveraging data and people pillars to create a data-informed, organization-wide impact. In all these activities, data and people posts provide foundations for data-informed decision-making well-embedded in the organization.
 
-<br>
 ## Examples of Architecture Activities
 
 Here are some examples of activities I have been performing with architects:
@@ -43,7 +41,6 @@ Here are some examples of activities I have been performing with architects:
 * **Defining vision and direction of technology, frequently collaborating with Engineering Leaders.** Working with managers to create a sustainable organizational setting aligned with technology strategies.
 
 
-<br>
 ## Operating Model
 
 While exact activities and their scope will depend on an organization setting and will change over time, I aimed to implement the common operational model in daily work.

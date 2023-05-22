@@ -14,7 +14,7 @@ def copy_post(post):
                 if line.startswith('---') or line.startswith('<style') or line.startswith('<div'):
                     in_header = True
                     content += '\n\n'
-                elif not line.strip().startswith('<img') and not line.strip().startswith('src='):
+                elif not line.strip().startswith('<img') and not line.strip().startswith('src=') and not line.strip().startswith('<br'):
                     line = line.replace('](data)', '](#data)')
                     line = line.replace('](people)', '](#people)')
                     line = line.replace('](activities-platform)', '](#activities-platform)')

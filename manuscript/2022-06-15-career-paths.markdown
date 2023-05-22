@@ -15,7 +15,6 @@
 
 
 
-<br>
 Hiring and developing architects will differ significantly per organization. Nevertheless, here I share some of the ideas and lessons learned here.
 
 ## Typical Architect's Career Paths
@@ -45,7 +44,6 @@ After the role of an Architect, I usually envision three tracks of progression:
 But an architect's path can take many different directions and have many other names. More important than a formal title is a continuous search for staying relevant and making an impact as a [superglue](#superglue).
 
 
-<br>
 ## Hiring Architects
 
 

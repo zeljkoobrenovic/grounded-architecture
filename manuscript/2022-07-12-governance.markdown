@@ -12,7 +12,6 @@ Grounded Architecture supports governance models adaptable to organizations' com
 
 Grounded Architecture supports governance models that are adaptable to the complex and diverse needs of organizations.
 
-<br>
 ## Mandates and Bans
 
 By governing with mandates and bans, I mean guiding people by **explicitly defining what they should or should not do**. In places I worked in, such mandates and bans have had a limited by important place to **define broader strategic boundaries of choices** people can make. For instance, restricting the usage of public cloud providers to specific vendors or following **strict privacy and security procedures** needs to be explicitly defined and controlled.
@@ -20,7 +19,6 @@ By governing with mandates and bans, I mean guiding people by **explicitly defin
 
 
 
-<br>
 
 
 
@@ -31,7 +29,6 @@ The [Data Pillar](#data) is crucial in creating clarity and transparency, for in
 
 The [People Pillar](#people) can help propagate the decision and ensure its positive impact and acceptance. You should never order or forbid people to do some things routinely. Spending enough time with all stakeholders to explain the reasons and motivations behind introducing some limitations is crucial to ensure the effective working of mandates and bans. A strong People pillar ensures that you already have strong connections with key stakeholders and can leverage them to change ways of working more smoothly.
 
-<br>
 ## Taxation
 
 Governing with taxes is a form of guiding in which people are not forbidden to make some decisions but **need to "pay" some form of taxes on used resources**. For instance, costs of public cloud usage could be **cross-charged across the organization**, providing a helpful feedback loop to optimize our systems and avoid unnecessary resource consumption, avoiding the "tragedy of commons" which frequently happens when there are no limits on shared resource consumption (e.g., public cloud budget). 
@@ -39,7 +36,6 @@ Governing with taxes is a form of guiding in which people are not forbidden to m
 
 
 
-<br>
 
 
 
@@ -47,7 +43,6 @@ The role of Grounded Architecture in this form of governance should be to ensure
 
 The [Data Pillar](#data) can include and provide all data regarding "taxes," for instance, via insights based on public cloud cost reports. The People Pillar can facilitate aligning processes, goals, and working methods to ensure that taxation leads to desired and meaningful change.
 
-<br>
 ## Nudging
 
 <!--
@@ -79,6 +74,5 @@ In my experience, nudges can frequently lead to better alignment and more harmon
 
 Grounded Architecture is well aligned with ideas of nudging. I frequently designed many of the [Data Pillar](#data) to highlight areas and issues we wanted people to improve. And the [People Pillar](#people) can create mechanisms for sharing experiences, promoting positive examples, and capturing lessons learned to help people to make better, more informed decisions. And in the [Architecture Activities Platform] I use the operating model that stimulates people to make decisions autonomously but nudges them to stay well-aligned and connected to the organizational strategic direction.
 
-<br>
 
 

@@ -14,7 +14,6 @@
 
 
 
-<br>
 In recent years, we have witnessed several shifts in the role of IT architects. IT architects' role has changed, and Gregor Hohpe's book, The [Software Architect Elevator](https://architectelevator.com/book/), highlights this shift. The book emphasizes the importance of the architect's ability to bridge the gap between high-level decision-making and low-level technical implementation. Hohpe compares the architect's role to an elevator, moving between different levels of the organization and translating goals and requirements between business executives and technical developers.
 
 While there is significant consensus about the Software Architecture vision, there are very few practical guidelines about how to do it in practice. How to define new roles closer to a modern view of architecture? How to form teams? What tools to use or build? How do we grow and develop architects?

@@ -1,10 +1,6 @@
 
-![](assets/images/arch/staircase-274614_1920.jpg)
 {pagebreak}
 2022-01-01-intro.markdown
-
-{pagebreak}
-![](assets/images/arch/staircase-274614_1920.jpg)
 {pagebreak}
 2022-01-02-context.markdown
 {pagebreak}

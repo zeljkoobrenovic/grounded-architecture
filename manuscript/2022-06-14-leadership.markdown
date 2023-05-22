@@ -16,7 +16,6 @@
 
 
 
-<br>
 
 
 My approach to architecture leadership draws inspiration from two sources: [David Marquet's](https://davidmarquet.com/) leadership principles, as articulated in his book "Turn the Ship Around!" and Netflix's valued behaviors. Marquet's ideas emphasize empowering team members, providing clarity, decentralizing decision-making, striving for continuous improvement, and practicing servant leadership. Meanwhile, [Netflix valued behaviors](https://jobs.netflix.com/culture) offer useful guidance for coaching and developing architects aligned with the "superglue" version.
@@ -39,7 +38,6 @@ David Marquet's book "Leadership is Language" provides practical advice for lead
 ![](assets/images/arch/leader-leader.jpg)
 
 
-<br>
 I have found a phase "I intend to" to be a powerful catalyst for positioning architecture work. The phrase helps describe the work architect as someone others expect to take the initiative and lead efforts. But also to describe the desired interaction of architects with the teams they work with, where we hope teams share their intentions which architects can help improve.
 
 

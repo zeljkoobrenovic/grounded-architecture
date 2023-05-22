@@ -20,7 +20,6 @@ central architecture team and a cross-organizational distributed virtual team.
 
 
 
-<br>
 
 The **People Pillar** is an essential element of Grounded Architecture. As noted by Gregor Hohpe, to transform an
 organization, you do not need to solve mathematical equations. You need to move people. Consequently, having a strong
@@ -48,7 +47,6 @@ architecture team is a crucial element of an architecture function. It provides 
 parts and levels of the organization, increasing transparency, building people networks, and making it easier to
 implement change.
 
-<br>
 ## Background: Central and/or Federated Architecture Function
 
 The architecture function generally follows one of two fundamental models: central or federated.
@@ -78,7 +76,6 @@ central architecture team will spend time closely involved with the challenges i
 ensures that the architects will be evaluated against the goals of the individual products they support, thereby
 focusing on improving performance and reducing complexity.
 
-<br>
 ## The Hybrid Model
 
 To operate in a complex [context](context), you need to invested effort to ensure we have the right people at the right
@@ -168,7 +165,6 @@ In big organization, embracing diversity is a pre-requirements to have any broad
 
 
 
-<br>
 ## Building People Pillar
 
 While each organization will need its unique approach, here are some tips I found helpful in my approach to forming

@@ -14,7 +14,6 @@
 
 
 
-<br>
 To better understand any idea or solution, it is crucial to understand the context in which these ideas developed. My approach to creating and running an architecture function is not an abstract idea. Instead, it is the generalization of many lessons learned while solving specific problems in a particular context.
 
 
@@ -30,7 +29,6 @@ I base my ideas on my experiences as a Chief and Principal Architect at AVIV Gro
 
 In the following sub-sections, I discuss these characteristics in more detail from an architectural viewpoint.
 
-<br>
 
 ## Characteristic 1: Global Scale
 
@@ -67,7 +65,6 @@ The global and massive scale has many challenges:
 
 Balancing opportunities and challenges on a global scale is one of the most challenging and rewarding aspects of my architectural work.
 
-<br>
 ## Characteristic 2: Multi-Dimensional Diversity
 
 The organizations I worked on were very diverse across several dimensions:
@@ -119,7 +116,6 @@ Diversity also poses several challenges:
 
 From an architectural perspective, diversity is an excellent source of new possibilities but comes with challenges in controlling complexity.
 
-<br>
 
 ## Characteristic 3: Nonlinear Growth Dynamics
 
@@ -145,7 +141,6 @@ Nonlinear dynamics have several influences on architectural activities:
 Non-linear growth dynamics open up many challenges as they can lead to many surprises. And in business of IT 
 [there are no good surprises](https://www.linkedin.com/pulse/good-surprises-business-clemens-rettich/).
 
-<br>
 ## Characteristic 4: Synergy and Transformation Pressures
 
 Complex organizations do not just grow. Instead, they want to be more efficient and leverage economies of scale, cost synergies, or increase capacity for innovation. Our investors expect us to transform to be more than a sum of our original parts.
@@ -170,7 +165,6 @@ Pressure to be more synergic and efficient has its challenges:
 
 Synergies and transformation pressures can lead to high expectations and pressure that complicate regular architecture work. On the positive side, such forces can create many new opportunities.
 
-<br>
 
 ## Characteristic 5: Decentralization and Loose Coupling
 

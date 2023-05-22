@@ -15,7 +15,6 @@
 
 
 
-<br>
 Architects' work is **evaluated based the impact** they've had on the organization. Architect typically make impact by:
 
 * **Identifying, tackling, and delivering on strategic problems** at the organizationd and area levels (domain or technical
@@ -32,7 +31,6 @@ Architects' work is **evaluated based the impact** they've had on the organizati
 
 To make this impact, architect need a few key competencies.
 
-<br>
 ## Pillars of Impact
 
 Architects must have [strong technical, people, and business skills](#skills), ideally obtained through years of practice. On top of this strong foundation, architects need to develop competencies that enable them to use their experiences and abilities to impact organizational performance positively. The more senior architects become, the more their competency development should be driven by the impact they need to have rather than mere skills development. I typically coach architects in the context of concrete activities, guiding their development via involvement in the right set of actions and crafting skills developments based on challenges in making an expected impact in practice.
@@ -57,7 +55,6 @@ were helpful guides in defining the responsibilities of architects.
 * Execution, and
 * Leveling up.
 
-<br>
 ### Big-Picture Thinking 
 
 Architects are frequently the only people in the organization with a "helicopter view," overseeing vast domains and being able to foresee the consequences of decisions in a broader context. As big-picture thinkers, architects can help organizations in multiple ways:
@@ -68,7 +65,6 @@ Architects are frequently the only people in the organization with a "helicopter
 * Using big-picture thinking to **consistently root out inefficiencies** and lead the adoption of technologies and
   processes that **make multiple teams more efficient**.
 
-<br>
 ### Execution
 
 As execution-focused practitioners, architects need to be able to help deliver results, and improve collaboration.
@@ -83,7 +79,6 @@ Architects also can help execution by finding ways to enable others to collabora
 * **Creating alignment** and **improving collaboration** within their areas or the wider engineering organization.
 * **Collaborate meaningfully across groups** in a way that builds trust and incresses execution speed.
 
-<br>
 ### Leveling Up
 
 Architects are frequently seen and leaders and role models that should help organizations to raise 

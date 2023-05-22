@@ -13,7 +13,6 @@
 
 
 
-<br>
 When Grounded Architecture is in place, it can have a significant positive impact on the functioning of an organization:
 
 * Enable Execution of Architecture Function At Scale,
@@ -24,25 +23,21 @@ When Grounded Architecture is in place, it can have a significant positive impac
 
 The following sections elaborate on these categories in line with the [goals](goals).
 
-<br>
 ## Executing at Scale
 
 Grounded Architecture aims to enable architecture functions to operate at scale efficiently. We must rely on something other than intuition and manual processes when supporting thousands of developers and dealing with hundreds of millions of lines of code.
 
-<br>
 
 
 
 The architecture data pillar aims to support working at scale with automation and self-service. Our People Pillar aims to help execution at scale by developing connections at all levels of the organization, increasing transparency, and through a strong network speeding up alignment and the execution of shared decisions.
 
-<br>
 ## Increasing the Quality of Decision-Making with Data
 
 > *"If we have data, let's look at data. If all we have are opinions, let's go with mine."* -— Jim Barksdale
 
 Architectural discussions can be very heated and opinionated. There are significant benefits to making our decision process as much as possible data-driven. It is one of the critical tasks for any architect to maintain high-quality data on relevant internal and external technology developments, providing fuel for data-informed discussions and decision-making.
 
-<br>
 
 
 
@@ -53,8 +48,6 @@ The Data Pillar enables architects to move away from opinion-based decisions to 
 * bring data into the discussion
 * translate drivers into an economic risk model, and use the model and data to find the best spot for the given business context
 
-<br>
-<br>
 
 ## Maximizing Organizational Alignment
 
@@ -64,8 +57,6 @@ Misalignment frequently happens in big organizations. The [Data Pillar](#data) c
 
 
 
-<br>
-<br>
 
 ## Maximizing Organizational Learning
 > *"Good judgment comes from experience, and experience comes from bad judgment."* -- Fred Brooks
@@ -91,7 +82,6 @@ The grounded architecture aims to accelerate the adoption of new technology and 
 
 
 
-<br>
 ## Adaptivity 
 
 The three elements of the grounded Architecture model, data, people, and strategy/governance platforms, provide a highly flexible and adaptive setting. 
@@ -102,6 +92,5 @@ This adaptivity is driven by the independence of elements and the possibility of
 * Grounding the architecture with data and people connections also makes the work of a Chief Architect much more flexible. As most architectural decisions can be delegated to well-aligned teams, a Chief Architect, typically the most experienced technologist, can spend more time on crucial strategic initiatives, such as defining cloud, data, or platform strategies or supporting decisions on mergers and acquisitions.
 * Lastly, the structure of our architectural model enables a more sustainable architectural function. With an established [Data Pillar](#data) and a well-connected architect, the architecture can still benefit the organization even without a strong central team.
 
-<br>
 
 

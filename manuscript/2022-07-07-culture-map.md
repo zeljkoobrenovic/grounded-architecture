@@ -36,7 +36,6 @@ The Culture Map shows positions along these eight scales for many countries. The
 ![](assets/images/culturemap/overview.webp)
 -->
 
-<br>
 ## 1. Communicating
 
 Architects need to be [good communicators](https://architectelevator.com/strategy/complex-topics-stick/). But what do we mean when saying someone is a good communicator? The responses differ wildly from society to society. 

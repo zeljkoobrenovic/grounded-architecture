@@ -12,7 +12,6 @@
 >
 > * I introduce ideas and key lessons I learned about what is means to be an architect in practice.
 
-<br>
 The following reflections provide some resources, ideas and key lessons I learned about what is means to be an architect in practice:
 
 * **[Architects as Superglue](#superglue)**: Architects in IT organizations should develop as “superglue,” people who hold architecture, technical details, business needs, and people together across a large organization or complex projects.
