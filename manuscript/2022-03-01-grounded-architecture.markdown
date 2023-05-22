@@ -1,3 +1,5 @@
+# Grounded Architecture: An Overview
+
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
      src="assets/images/arch/buildings-205986_1920.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">

@@ -17,6 +17,8 @@ def copy_post(post):
             else:
                 if line.startswith('---') or line.startswith('</style>'):
                     in_header = False
+                elif line.startswith('title:'):
+                    content += '# ' + line.replace('title:', '').replace('"', '').strip() + '\n\n'
 
     with open('../' + post, 'w') as html_file:
         html_file.write(content)

@@ -1,3 +1,5 @@
+# Managing Organizational Complexity: Six Simple Rules
+
 
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
      src="assets/images/arch/spices-g253b7ca36_1920.jpg">
