@@ -1,4 +1,6 @@
-{pagebreak}# Economic Modeling: ROI and Financial Options {#economics}
+{pagebreak}
+
+# Economic Modeling: ROI and Financial Options {#economics}
 
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
      src="assets/images/arch/money-g45f6788de_1920.jpg">
@@ -11,6 +13,8 @@ Image by <a href="https://pixabay.com/users/nattanan23-6312362/?utm_source=link-
 > * Answering this question is a crucial skill for any senior architect. But it may be difficult to answer this seemingly harmless question concisely and convincingly to a non-technical audience.
 > * Borrowing from existing literature, I sketch two answers to the question of the economic value of architecture: the return on investment metaphor and the selling options metaphor.
 {pagebreak}
+
+
 Architects frequently need to answer questions about (economic) value of technology investments and architecture. Answering this question is a crucial skill for any senior architect. But it may be difficult to answer this seemingly harmless question concisely and convincingly to a non-technical audience.
 
 ## Why Do We Need to Explain the Economics?

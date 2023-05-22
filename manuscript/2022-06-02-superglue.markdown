@@ -1,6 +1,10 @@
-{pagebreak}# Architects as Superglue {#superglue}
+{pagebreak}
 
-{pagebreak}<img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
+# Architects as Superglue {#superglue}
+
+{pagebreak}
+
+<img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
      src="assets/images/superglue/superglue.png">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 </div>
@@ -12,6 +16,8 @@
 > * Architects need to be technically strong. But their unique strengths should stem from being able to relate, or glue, technical issues with business and broader issues.
 > * Architects should stand on three legs: Skills, Impact, Leadership.
 {pagebreak}
+
+
 <br>
 In my view, architects in IT organizations should develop as “superglue.” I borrow the "superglue" view from [Adam Bar-Niv and Amir Shenhav from Intel](https://saturn2016.sched.com/event/63m9/cant-find-superheroes-to-help-you-out-of-a-crisis-how-about-some-architecture-and-lots-of-superglue). They pointed out that instead of the superhero, we need "superglue" architects - the people who hold architecture, technical details, business needs, and people together across large organizations or complex projects. More recently, Tanya Reilly presented a [similar view](https://noidea.dog/glue) concerning software engineering positions.
 

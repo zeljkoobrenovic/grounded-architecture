@@ -13,7 +13,7 @@ def copy_post(post):
             if not in_header:
                 if line.startswith('---') or line.startswith('<style'):
                     in_header = True
-                    content += '{pagebreak}'
+                    content += '{pagebreak}\n\n'
                 else:
                     line = line.replace('](data)', '](#data)')
                     line = line.replace('](people)', '](#people)')

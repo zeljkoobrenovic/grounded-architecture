@@ -1,4 +1,6 @@
-{pagebreak}# Architecture Governance: Mandates, Taxation, Nudge {#governance}
+{pagebreak}
+
+# Architecture Governance: Mandates, Taxation, Nudge {#governance}
 
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
      src="assets/images/arch/greece-1594689_1920.jpg">
@@ -11,6 +13,8 @@ Afbeelding van <a href="https://pixabay.com/nl/users/nonbirinonko-3101900/?utm_s
 > * Governing with taxes is a form of guiding in which people are not forbidden to make some decisions but need to "pay" some form of taxes on used resources.
 > * Nudging is a form of governing where we create subtle or indirect suggestion influencing someone's behavior or decision-making without forcing them or limiting their freedom of choice.
 {pagebreak}
+
+
 Grounded Architecture supports governance models adaptable to organizations' complex and diverse needs. By governing, I mean guiding technology choices in the organization in a particular direction aligned with the technology strategy. I see a technology governance model as a well-balanced hybrid of three different styles of governing:
 * mandates and bans,
 * taxes, and

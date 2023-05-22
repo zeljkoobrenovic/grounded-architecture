@@ -1,4 +1,6 @@
-{pagebreak}# Managing Organizational Complexity: Six Simple Rules {#six-simple-rules}
+{pagebreak}
+
+# Managing Organizational Complexity: Six Simple Rules {#six-simple-rules}
 
 
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
@@ -7,6 +9,8 @@
 Image by <a href="https://pixabay.com/users/nataliaaggiato-470329/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=667115">Nat Aggiato</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=667115">Pixabay</a>
 </div>
 {pagebreak}
+
+
 > **KEY POINTS:**
 >
 > * Six Simple Rules emphasis that in today’s complicated business environment, you need to setup organisational structures based on cooperation. 

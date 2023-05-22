@@ -1,4 +1,6 @@
-{pagebreak}# Grounded Architecture: An Overview {#grounded-architecture}
+{pagebreak}
+
+# Grounded Architecture: An Overview {#grounded-architecture}
 
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
      src="assets/images/arch/buildings-205986_1920.jpg">
@@ -11,6 +13,8 @@ Image by <a href="https://pixabay.com/users/ichigo121212-11728/?utm_source=link-
 >
 > * I introduce three elements of Grounded Architecture: The Data Pillar, The People Pillar, The Architecture Activities Platform.
 {pagebreak}
+
+
 <br>
 In this part of my playbook, I will describe the structure of Grounded Architecture. I chose the term "Grounded Architecture" to highlight that the primary goal of my approach is to avoid having an "ivory tower" architecture function disconnected from the organization, which in a [fast-moving, global, and diverse setting](context) is a real danger. In other words, I wanted to create an architectural function that is well-grounded in the organization.
 

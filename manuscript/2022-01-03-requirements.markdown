@@ -1,4 +1,6 @@
-{pagebreak}# Goals {#goals}
+{pagebreak}
+
+# Goals {#goals}
 
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
      src="assets/images/stress-gc7a712a2f_1920.jpg">
@@ -11,6 +13,8 @@ Image by <a href="https://pixabay.com/users/geralt-9301/?utm_source=link-attribu
 >
 > * I identified the following needs that an architecture function should support: Executing At Scale, Increasing the Quality of Decision-Making with Data, Maximizing Organizational Alignment & Learning, Higher Adaptivity.
 {pagebreak}
+
+
 <br>
 Considering the scale and complexity of the organizational context I operated in, it was apparent that conventional approaches of doing architecture that rely on manual processes need to be revised. 
 <div class="quote">
