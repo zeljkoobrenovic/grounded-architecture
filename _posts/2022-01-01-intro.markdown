@@ -64,7 +64,7 @@ The figure bellow shows the structure of the Grounded Architecture consisting of
 
 ![](assets/images/model.png)
 
-The *[Data Pillar](data)* ensures that architects' decisions are data-informed, based on a up-to-date and complete overview of the organization's technology landscape.
+The *[Data Pillar](data)* ensures that architects' decisions are data-informed, based on an up-to-date and complete overview of the organization's technology landscape.
 
 The *[People Pillar](people)* represents a strong network of people doing architecture across the organization that is crucial to ensure that architecture function has any tangible impact.
 

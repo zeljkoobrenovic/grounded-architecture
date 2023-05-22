@@ -1,0 +1,76 @@
+---
+layout: post
+section: "Doing Architecture"
+title: "In the Eye of the Storm: Aligning Business, Product, Technology and Organization Strategies"
+position: 7009
+date: 2021-10-21 21:12:01 +0100
+author: by Željko Obrenović (obren.io)
+permalink: storm
+icon: storm.png
+timetoread: 15 min
+excerpt: "To ensure that organizations maximally benefit from Grounded Architecture, I want architecture always to address one of the most challenging problems our organization faces: a tension between technology, product, organization, and business functions."
+
+---
+<img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
+     src="assets/images/arch/storm-g90b7263c8_1920.jpg">
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by <a href="https://pixabay.com/users/fiquetdidier1-25748628/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=7018311">Didier</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=7018311">Pixabay</a>
+</div>
+> **KEY POINTS:**
+>
+> * I want architecture always to address one of the most challenging problems our organization faces: a tension between technology, product, organization, and business functions.
+> * Architecture should ensure that conversations happen between the technical, product, organizational, and business functions. 
+<style>
+ .quote {
+     border-left: 8px solid skyblue;
+     padding-left: 36px;
+     margin-top: 30px;
+     margin-bottom: 40px;
+     font-size: 140%;
+     font-style: normal;
+     color:#888;
+ }
+    @media only screen and (max-width: 768px) {
+        [class="quote"] {
+            display: none;
+        }
+    }
+</style>
+
+<br>
+In this section, I elaborate on one type of impact architecture can have in an organization: aligning business, product, technology, and organizational functions. 
+
+<br>
+## The Tension
+
+While technology, product, organization, and business function face challenges, additional problems occur when there is tension among them. For example, we may organize teams according to a well-defined domain model. Still, if our system is a monolith, our teams will collaborate in a different pattern than domain splits would suggest. On the other hand, if our teams are well aligned with the technology implementation (e.g., clear ownership of microservices) but the product architecture is different from the microservice domain split, we may end up changing dozens of microservices when we need to introduce relatively simple product features. Similarly, business objectives must be better aligned with product or technology; otherwise, tense interactions will happen (e.g., try reducing short-term costs while adding new features and migrating to the public cloud). 
+
+<div class="quote">
+While technology, product, organization, and business function face challenges, additional problems occur when there is tension among them.
+</div>
+
+The main problem of these tensions is that they slow things down due to miscommunications and misalignment, lead to bad decisions due to lack of information, introduce unnecessary complexity, and lead to many missed opportunities.
+
+
+![](assets/images/tension.png)
+***Figure 1:** The tensions between technology, product, organization, and business functions.*
+
+
+Too frequently, architecture sits on the side, shouting principles and abstract ideals that everyone ignores. To ensure that organizations maximally benefit from Grounded Architecture, I want architecture always to address one of the most challenging problems our organization faces: a frequent tension between technology, product, organization, and business functions (Figure 1). 
+
+
+<br>
+## The Role of Architecture
+
+Considering this problem, I wanted architecture to actively reduce the tension between technology, product, organization, and business functions. Architecture should ensure that conversations happen between the technical, product, organizational, and business functions.
+
+![](assets/images/tension-architecture.png)
+***Figure 2:** Architects should be in the middle of reducing tensions between technology, product, organization, and business functions.*
+
+Getting the product/technology/organizational/business alignment right takes a lot of work, and this is one of the main problems of architecture. It is a "soft" area without explicit external constraints. Numerous acquisitions can worsen such problems. You have many completely different business models, cultures, architectures, and technologies stacks built by various people that you may need to combine into one platform. 
+
+There will always be essential tension between system architecture, team organization, and product organization. Ideally, these structures all change simultaneously and stay in perfect sync. But in practice, these structures change and move at different speeds. For instance, the product may quickly pivot in another direction, but it may take months to reorganize teams to have new product elements as separate domains with clear ownership. It may take several years to reorganize code and services to align microservices well with new team structures. In the meantime, the organization may acquire two other companies that need to be integrated with the organization's ecosystems, and the product is already pushing in another direction.
+
+My vision of Grounded Architecture is driven by the need to help reduce the tensions. We can use the data from [Data Pillar](data) to make more data-informed decisions when tensions exist and [People Pillar](people) to ensure critical cross-organizational people connections and create spaces for conversations. For example, legacy structures and monoliths are challenging to change once in place. It can take several years to rebuild a monolith from scratch as a microservices ecosystem. Therefore, a more pragmatic approach is gradually " strangulating" the monolith by minimizing changes and incrementally extracting pieces into separate microservices. But such an approach takes years. Grounded architecture can provide data about legacy landscapes and connect people to share scarce legacy knowledge to define pragmatic roadmaps to make necessary changes and compromises.
+
+
