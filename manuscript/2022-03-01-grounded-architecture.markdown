@@ -2,11 +2,9 @@
 
 # Grounded Architecture: An Overview {#grounded-architecture}
 
-<img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
      src="assets/images/arch/buildings-205986_1920.jpg">
-<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by <a href="https://pixabay.com/users/ichigo121212-11728/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=205986">Ichigo121212</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=205986">Pixabay</a>
-</div>
+{pagebreak}
+
 > **IN THIS SECTION, YOU WILL:** Get an overview of the Grounded Architecture structure.
 >
 > **KEY POINTS:**
@@ -18,9 +16,8 @@ Image by <a href="https://pixabay.com/users/ichigo121212-11728/?utm_source=link-
 <br>
 In this part of my playbook, I will describe the structure of Grounded Architecture. I chose the term "Grounded Architecture" to highlight that the primary goal of my approach is to avoid having an "ivory tower" architecture function disconnected from the organization, which in a [fast-moving, global, and diverse setting](context) is a real danger. In other words, I wanted to create an architectural function that is well-grounded in the organization.
 
-<div class="quote">
-I chose the term "Grounded Architecture" to highlight that the primary goal of my approach is to avoid having an "ivory tower" architecture function disconnected from the organization. I wanted to create an architectural function that is well-grounded in the organization.
-</div>
+{pagebreak}
+
 
 Grounded Architecture has three elements:
 * The Data Pillar,

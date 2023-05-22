@@ -2,11 +2,9 @@
 
 # Economic Modeling: ROI and Financial Options {#economics}
 
-<img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
      src="assets/images/arch/money-g45f6788de_1920.jpg">
-<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by <a href="https://pixabay.com/users/nattanan23-6312362/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2724241">Nattanan Kanchanaprat</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2724241">Pixabay</a>
-</div>
+{pagebreak}
+
 > **KEY POINTS:**
 >
 > * Architects are frequently asked about the (economic) value of architecture or technology investments.
@@ -41,9 +39,8 @@ In economic terms, return on investment (ROI) is a ratio between profits and cos
 An investment in good architecture can help increase ROI of the IT. An excellent example of using the ROI metaphor to argue for investing in architecture is the port of Martin Fowler, who uses this argument to argue for the importance of [investing in improving internal quality](https://martinfowler.com/articles/is-quality-worth-cost.html). Figure 3 summarizes his argument.
 
 
-<div class="quote">
-An investment in good architecture can help increase ROI of the IT. Well-architect systems are typically much easier to understand and change.
-</div>
+{pagebreak}
+
 
 
 Well-architect systems are typically much easier to understand and change. As our systems continuously evolve, the return on investing in making a system easier to understand and change can be significant. The primary value of such investment comes from generating fewer errors and bugs, more straightforward modifications, short time-to-market, and improved developer satisfaction.
@@ -67,9 +64,8 @@ Options are not free, and there is a complex market for buying and selling finan
 
 Applying the financial option metaphor to IT architecture, we can argue that buying options gives the business and IT a way to defer decisions. Gregor Hohpe gives an example of the server's size that you need to purchase for a system. If your application is architected to be horizontally scalable, you can defer this decision: additional (virtual) servers can be ordered later at a known unit cost.
 
-<div class="quote">
-Applying the financial option metaphor to IT architecture, buying options gives the business and IT a way to defer decisions.
-</div>
+{pagebreak}
+
 
 
 Another example of an IT option is architecting your system to clearly separate concerns. For instance, it may be challenging to decide early what authentication mechanism an application should use? A system that properly separates concerns allows changes to be localized so that updating one aspect of a system does not require expensive changing the whole system. Such isolation will enable you to change a decision late in the project or even after go-live, at a nominal cost. For example, if authentication is a well-isolated concern, you will need to refactor only a minimal part of the system to use another authentication system.

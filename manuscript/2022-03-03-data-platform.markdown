@@ -2,11 +2,9 @@
 
 # Data Pillar {#data}
 
-<img src="assets/images/arch/architecture-1857175_1920.jpg" 
 style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover">
-<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by <a href="https://pixabay.com/users/3844328-3844328/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1857175">Lorenzo Cafaro</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1857175">Pixabay</a>
-</div>
+{pagebreak}
+
 > **IN THIS SECTION, YOU WILL:**  Understand how to use available data in architecture decision processes and hints and tips on creating architecture-centric data tools.
 >
 > **KEY POINTS:**
@@ -24,9 +22,8 @@ In every place I worked on creating architectural functions, I strongly emphasiz
 
 The good news is that big organizations have lots of data that, if used wisely, can provide an excellent basis for an architectural data pillar. With some automation and curation, getting a good overview of the technology landscape may be closer than it initially appears.
 
-<div class="quote">
- Manual documentation does not scale, and relying on data ensures reliability and scalability.
-</div>
+{pagebreak}
+
 
 ## Examples of Data Sources and Tools
 
@@ -39,7 +36,6 @@ I've always aimed to get reliable data about technology with as much as possible
 
 In the following sections, I detail several of these architectural data-driven tools.
 
-<img src="assets/images/apps.png" style="padding: 4px; padding-top: 8px; padding-bottom: 8px; box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px; margin-bottom: 6px">
 <br>
 **Figure 1:** *A screenshot of the start page of the architecture data dashboard we've built and used at AVIV Group.*
 
@@ -48,9 +44,8 @@ In the following sections, I detail several of these architectural data-driven t
 
 I have repeatably found the source code to be an incredible source for creating data-driven architecture documentation. Source code and its commit history include an astonishing amount of information about technology, people activity, team dependencies, and the quality of software systems. I've started and still actively maintain the project [Sokrates](https://sokrates.dev), with the idea to help further extract data from source code that can help my work as an architect. I use Sokrates daily, improving it on the way.
 
-<div class="quote">
-Source code and its commit history include an astonishing amount of information about technology, people activity, team dependencies, and the quality of software systems.
-</div>
+{pagebreak}
+
 
 I have designed Sokrates from an architect's point of view, enabling quick zooming in and out into source code landscapes. On the one hand, Sokrates provides a high-level view of the landscape, summarizing data from all teams and groups. At the same time, you can zoom in on the details of particular systems to the code level. That means you can use the same tools to have CTO-level discussions looking at overall trends in our technology usage and costs. At the same time, I could engage with developers and discuss concrete code fragments and potential improvements in the code level (e.g., duplicated blocks, complex units, dependencies).
 

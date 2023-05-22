@@ -2,11 +2,9 @@
 
 # People Pillar {#people}
 
-<img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover"
 src="assets/images/arch/construction-4939383_1920.jpg">
-<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by <a href="https://pixabay.com/users/mostafa_meraji-13551092/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4939383">mostafa meraji</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4939383">Pixabay</a>
-</div>
+{pagebreak}
+
 > **IN THIS SECTION, YOU WILL:**  Understand that architecture is about people and get hints and tips on creating organizational structures that support practical architecture functions.
 >
 > **KEY POINTS:**
@@ -31,9 +29,8 @@ network of people doing architecture across the organization is crucial to ensur
 tangible impact. In other words, Strong Architecture =
 Strong Architects.
 
-<div class="quote">
-Strong Architecture = Strong Architects.
-</div>
+{pagebreak}
+
 
 Developing the architecture function requires having competent, empowered, and motivated architects. We should not take
 architectural talent for granted. Architects are bridging local business, product, organizational, and technology
@@ -59,9 +56,8 @@ The architecture function generally follows one of two fundamental models: centr
 ([McKinsey 2022](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/tech-forward/crafting-the-optimal-model-for-the-it-architecture-organization)).
 
 ![](assets/images/archdata/general-operating-models.png)
-<div style="font-size: 70%; margin-top: -8px; color: grey; margin-bottom: 12px">
-Credit: <a href="https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/tech-forward/crafting-the-optimal-model-for-the-it-architecture-organization">mckinsey.com/.../crafting-the-optimal-model-for-the-it-architecture-organization</a>
-</div>
+{pagebreak}
+
 
 The central model involves a large-scale central architecture team. The central team typically defines the process for
 approval of new work and assures adherence by development teams. In this model, development teams have few or no
@@ -170,9 +166,8 @@ Credit: [Gregor Hohpe](https://architectelevator.com/architecture/organizing-arc
 
 In big organization, embracing diversity is a pre-requirements to have any broad impact.
 
-<div class="quote">
-In big organization, embracing diversity is a pre-requirements to have any broad impact.
-</div>
+{pagebreak}
+
 
 <br>
 ## Building People Pillar
@@ -197,6 +192,5 @@ architecture teams or "[People Pillar](#people)":
   both grow and attract architectural talent.
 
 ![](assets/images/arch/pyramid-g88f894074_1920.jpg)
-<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by <a href="https://pixabay.com/users/chantellev-2412495/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1336120">Chantellev</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1336120">Pixabay</a>
-</div>
+{pagebreak}
+

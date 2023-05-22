@@ -3,11 +3,9 @@
 # Architects' Career Paths: Raising the Bar {#career}
 
 
-<img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
      src="assets/images/arch/pole-vault.jpg">
-<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Credit: <a href="https://flic.kr/p/8zKRAU">tableatny</a> (CC BY 2.0)
-</div>
+{pagebreak}
+
 
 > **IN THIS SECTION, YOU WILL:**  Get ideas and tips about architects' career paths.
 > 
@@ -25,9 +23,8 @@ Hiring and developing architects will differ significantly per organization. Nev
 
 My view of architecture has a strong engineering bias. Architects' career paths ideally stem from a strong engineering background. While there may be exceptions, without significant real-world exposure to software engineering challenges, an architect cannot obtain enough practical knowledge to make technology decisions and build relations with developer teams. 
 
-<div class="quote">
-My view of architecture has a strong engineering bias. Architects' career paths ideally stem from a strong engineering background. 
-</div>
+{pagebreak}
+
 
 Regarding career progression, Figure 1 shows an example of architecture career paths in relation to engineering, which I used to define architecture career paths. 
 
@@ -57,9 +54,8 @@ But an architect's path can take many different directions and have many other n
 
 Developing and hiring architects requires constantly raising the bar to ensure a strong and diverse team structure. Having more architects does not necessarily leads to a better team. Having good alignment and diversity of perspective is even more important for an architecture team than for other groups.
 
-<div class="quote">
-It is vital to take more active ownership of hiring architects. Due to the vast diversity of how  companies define the architect's role, recruiters may need help understanding the role's requirements. 
-</div>
+{pagebreak}
+
 
 It is vital to take more active ownership of hiring architects. Due to the vast diversity of how different companies define the architect's role, recruiters may need help understanding the role's requirements.
 

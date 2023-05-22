@@ -3,11 +3,9 @@
 # Leadership {#leadership}
 
 
-<img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
      src="assets/images/arch/submarine-gcc865d4ee_1920.jpg">
-<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Afbeelding van <a href="https://pixabay.com/nl/users/12019-12019/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=168884">David Mark</a> via <a href="https://pixabay.com/nl//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=168884">Pixabay</a>
-</div>
+{pagebreak}
+
 > **IN THIS SECTION, YOU WILL:**  Understand how to apply ideas from David Marquet's work and Netflix's valued behaviors to develop architects' leadership traits.
 > 
 > **KEY POINTS:**
@@ -30,9 +28,8 @@ Marquet's work is closely tied to the Leader-Leader model of leadership, a style
 
 This leadership approach empowers individuals to take ownership of their work and collaborate with others to achieve common goals. Instead of relying on a single leader to make all decisions, authority, and responsibility are distributed across the team.
 
-<div class="quote">
-The leader-leader model is an excellent standard for architects' leadership vision. Like managers in a leader-leader model, architects should act more as facilitators, coaches, and mentors than traditional top-down decision-makers.
-</div>
+{pagebreak}
+
 
 The leader-leader model is an excellent standard for architects' leadership vision. Like managers in a leader-leader model, architects should act more as facilitators, coaches, and mentors than traditional top-down decision-makers. They provide team members guidance, support, or resources to help them achieve their goals and reach their full potential.
 
@@ -41,15 +38,13 @@ One of the key benefits of a leader-leader model is that it creates a more colla
 David Marquet's book "Leadership is Language" provides practical advice for leaders looking to create a more collaborative, innovative, and inclusive organizational culture. He emphasizes the importance of language and communication in leadership and introduces the phrase "I intend to" as a powerful tool for clarifying intent and empowering team members. When team members give intent, the psychological ownership of those actions shifts to them, making them the originators of thought and direction instead of passive followers. This shift in language helps to promote a more collaborative work environment.
 
 ![](assets/images/arch/leader-leader.jpg)
-<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Credit: Based on Intent-Based Leadership, by David Marquet.
-</div>
+{pagebreak}
+
 <br>
 I have found a phase "I intend to" to be a powerful catalyst for positioning architecture work. The phrase helps describe the work architect as someone others expect to take the initiative and lead efforts. But also to describe the desired interaction of architects with the teams they work with, where we hope teams share their intentions which architects can help improve.
 
-<div class="quote">
-I have found a phase "I intend to" to be a powerful catalyst for positioning architecture work.
-</div>
+{pagebreak}
+
  
 ## Netflix Valued Behaviors: Leadership Behaviors
 

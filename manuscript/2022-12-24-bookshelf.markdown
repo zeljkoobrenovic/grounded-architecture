@@ -2,11 +2,9 @@
 
 # Bookshelf {#bookshelf}
 
-<img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover"
 src="assets/images/arch/library-5641389_1920.jpg">
-<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by <a href="https://pixabay.com/users/olivergotting-18505948/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5641389">Oli Götting</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5641389">Pixabay</a>
-</div>
+{pagebreak}
+
 > **KEY POINTS:**
 >
 > * I provide an overview of the background work for you to probe further, linking several external resources inspiring my work.
@@ -21,42 +19,30 @@ Image by <a href="https://pixabay.com/users/olivergotting-18505948/?utm_source=l
 <table>
 <tr>
 <td class="icon-container">
-<img src="assets/images/software-architecture-elevator.webp" class="book">
 </td>
 <td>
 <b>The Software Architect Elevator: Redefining the Architect's Role</b> by Gregor Hohpe defines architects as people that can fill a void in large enterprises: they work and communicate closely with technical staff on projects but are also able to convey technical topics to upper management without losing the essence of the message. Conversely, they understand the company's business strategy and can translate it into technical decisions that support it.
 </td>
 <td style="font-size: 50%; line-height: 12px; text-align: center">
-<div>
-<a target="_blank" href="https://obren.io/tools/catalogs/index.html?id=it-37-things">
-<img src="assets/icons/notes.png" class="icon"><div>summary</div>
-</a>
-</div>
-<div>
-<a target="_blank" href="https://obren.io/tools/reading-notes-pro/notes/The%20Software%20Architect%20Elevator_%20Redefining%20the%20Architect's%20Role%20in%20the%20Digital%20Enterprise-Notebook.pdf">
-<img src="assets/icons/notes.png" class="icon"><div>reading notes</div>
-</a>
-</div>
+{pagebreak}
+
+{pagebreak}
+
 </td>
 </tr>
 <tr>
 <td class="icon-container">
-<img src="assets/images/books/spotify.png" class="book">
 </td>
 <td>
 <b>SE Radio: On Architecture</b>: for those interested in IT Architecture, I've created a curated Spotify playlist of Software Engineering Radio Episodes focusing on Architecture.
 </td>
 <td style="font-size: 50%; line-height: 12px; text-align: center">
-<div>
-<a target="_blank" href="https://open.spotify.com/playlist/7GVD86edcILnVPjsZFTy28?si=f44d0bef360e4818">
-<img src="assets/icons/playlist.png" class="icon"><div>playlist</div>
-</a>
-</div>
+{pagebreak}
+
 </td>
 </tr>
 <tr>
 <td class="icon-container">
-<img src="assets/images/books/for-developers.png" class="book">
 </td>
 <td>
 
@@ -65,14 +51,12 @@ architecture, specifically aimed at software developers.
 </td>
 <td style="font-size: 50%; line-height: 12px; text-align: center">
 <a target="_blank" href="https://softwarearchitecturefordevelopers.com/">
-<img src="assets/icons/web.png" class="icon"><div>website</div>
 </a>
 </td>
 </tr>
 
 <tr class="icon-container">
 <td>
-<img src="assets/images/books/hard-parts.jpg" class="book">
 </td>
 <td>
 
@@ -85,7 +69,6 @@ monolith app.
 </tr>
 <tr>
 <td class="icon-container">
-<img src="assets/images/books/just-enough-software-architecture.jpeg" class="book">
 </td>
 <td>
 
@@ -95,7 +78,6 @@ monolith app.
 
 <tr>
 <td class="icon-container">
-<img src="assets/images/books/ssa.jpeg" class="book">
 </td>
 <td>
 
@@ -111,27 +93,23 @@ effective architectures for information systems.
 <table>
 <tr>
 <td class="icon-container">
-<img src="assets/images/books/staff-engineer-or.jpg" class="book">
 </td>
 <td>
 <b>The Staff Engineer's Path</b> by Tanya Reilly. Similar to my view of architects the staff engineer's path allows engineers to contribute at a high level as role models, driving big projects, determining technical strategy, and raising everyone's skills.
 </td>
 <td style="font-size: 50%; line-height: 12px; text-align: center">
 <a target="_blank" href="https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/">
-<img src="assets/icons/web.png" class="icon"><div>website</div>
 </a>
 </td>
 </tr>
 <tr>
 <td class="icon-container">
-<img src="assets/images/books/staff-engineer.jpeg" class="book">
 </td>
 <td>
 <b>Staff Engineer</b> by Will Larson, defined technical leadership beyond the management track. I share many of the views presented in this book regarding development and skills of architects. 
 </td>
 <td style="font-size: 50%; line-height: 12px; text-align: center">
 <a target="_blank" href="https://staffeng.com/guides/">
-<img src="assets/icons/web.png" class="icon"><div>reading notes</div>
 </a>
 </td>
 </tr>
@@ -147,35 +125,30 @@ article [The Architect’s Path (Part 2 - Bookshelf)](https://architectelevator.
 <table>
 <tr>
 <td class="icon-container">
-<img src="assets/images/books/clean-code.jpeg" class="book">
 </td>
 <td>
 <b>Clean Code</b> by Bob Martin. Good software starts with good code, and good code is clean. The basics of naming, functions that do one thing well, and formatting.
 </td>
 <td style="font-size: 50%; line-height: 12px; text-align: center">
 <a target="_blank" href="https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29">
-<img src="assets/icons/notes.png" class="icon"><div>summary</div>
 </a>
 </td>
 </tr>
 
 <tr>
 <td class="icon-container">
-<img src="assets/images/books/refactoring.jpeg" class="book">
 </td>
 <td>
 <b>Refactoring: Improving the Design of Existing Code</b> by Martin Fowler. Good software evolves, gains entropy, and is then restructured. Refactoring is a disciplined technique for restructuring an existing body of code, altering its internal structure without changing its external behavior.
 </td>
 <td style="font-size: 50%; line-height: 12px; text-align: center">
 <a target="_blank" href="https://refactoring.com/">
-<img src="assets/icons/web.png" class="icon"><div>website</div>
 </a>
 </td>
 </tr>
 
 <tr>
 <td class="icon-container">
-<img src="assets/images/books/design-patterns.webp" class="book">
 </td>
 <td>
 
@@ -184,14 +157,12 @@ of our code.
 </td>
 <td style="font-size: 50%; line-height: 12px; text-align: center">
 <a target="_blank" href="https://refactoring.guru/design-patterns/catalog">
-<img src="assets/icons/notes.png" class="icon"><div>summary</div>
 </a>
 </td>
 </tr>
 
 <tr>
 <td class="icon-container">
-<img src="assets/images/books/building-microservices.webp" class="book">
 </td>
 <td>
 
@@ -202,7 +173,6 @@ distributed system design. Very accessible.
 
 <tr>
 <td class="icon-container">
-<img src="assets/images/books/fundamentals-of-software-architecture.jpeg" class="book">
 </td>
 <td>
 
@@ -211,7 +181,6 @@ and architectural styles.
 </td>
 <td style="font-size: 50%; line-height: 12px; text-align: center">
 <a target="_blank" href="http://fundamentalsofsoftwarearchitecture.com/images.html">
-<img src="assets/icons/web.png" class="icon"><div>website</div>
 </a>
 </td>
 
@@ -219,7 +188,6 @@ and architectural styles.
 
 <tr>
 <td class="icon-container">
-<img src="assets/images/books/eip.webp" class="book">
 </td>
 <td>
 
@@ -227,14 +195,12 @@ and architectural styles.
 </td>
 <td style="font-size: 50%; line-height: 12px; text-align: center">
 <a target="_blank" href="https://www.enterpriseintegrationpatterns.com/patterns/messaging/index.html">
-<img src="assets/icons/web.png" class="icon"><div>website</div>
 </a>
 </td>
 </tr>
 
 <tr>
 <td class="icon-container">
-<img src="assets/images/books/pattern-oriented-software-architecture.jpeg" class="book">
 </td>
 <td>
 
@@ -245,7 +211,6 @@ and architectural styles.
 
 <tr>
 <td class="icon-container">
-<img src="assets/images/books/evolutionary-achitectures.jpeg" class="book">
 </td>
 <td>
 <b>Building Evolutionary Architectures</b> describes how to use fitness functions to guide architectural change over time. I thought the authors could have gotten a bit more our of this topic - perhaps we’ll see a second edition.
@@ -257,7 +222,6 @@ and architectural styles.
 
 <tr>
 <td class="icon-container">
-<img src="assets/images/books/ddd.png" class="book">
 </td>
 <td>
 
@@ -269,7 +233,6 @@ defining models in software, and evolving them during the life of the software p
 
 <tr>
 <td class="icon-container">
-<img src="assets/images/books/release-it.jpg" class="book">
 </td>
 <td>
 
@@ -282,7 +245,6 @@ covering more process oriented questions like deployments or handling security.
 
 <tr>
 <td class="icon-container">
-<img src="assets/images/books/data-intensive.png" class="book">
 </td>
 <td>
 
@@ -294,40 +256,34 @@ transactions, event logs, and much more.
 </tr>
 <tr>
 <td class="icon-container">
-<img src="assets/images/books/thinking-in-systems.png" class="book">
 </td>
 <td>
 <b>Thinking in Systems</b> by Donella Meadows describes a system is more than the sum of its parts. It may exhibit adaptive, dynamic, goal-seeking, self-preserving, and sometimes evolutionary behavior.
 </td>
 <td style="font-size: 50%; line-height: 12px; text-align: center">
 <a target="_blank" href="https://obren.io/tools/reading-notes-pro/notes/Thinking%20in%20Systems_%20International%20%20Bestseller-Notebook.pdf">
-<img src="assets/icons/notes.png" class="icon"><div>reading notes</div>
 </a>
 </td>
 </tr>
 <tr>
 <td class="icon-container">
-<img src="assets/images/books/do-not-make-me-think.webp" class="book">
 </td>
 <td>
 <b>Don't make me think, revisited: a common sense approach to Web usability</b> by Steve Krug provides a practical guide for understanding web usability and user experience.
 </td>
 <td style="font-size: 50%; line-height: 12px; text-align: center">
 <a target="_blank" href="https://www.smallbizgeek.co.uk/dont-make-me-think-revisited-steve-krug-book-review/">
-<img src="assets/icons/notes.png" class="icon"><div>review</div>
 </a>
 </td>
 </tr>
 <tr>
 <td class="icon-container">
-<img src="assets/images/books/system-design-1.jpeg" class="book">
 </td>
 <td>
 <b>System Design Interview</b> (Volume 1 & 2) by Alex Xu. A "real-world" systems design books, not just for preparing for the systems design interview, but to strengthen your systems design muscle for the day-to-day architectural work.
 </td>
 <td style="font-size: 50%; line-height: 12px; text-align: center">
 <a target="_blank" href="https://blog.pragmaticengineer.com/system-design-interview-an-insiders-guide-review/">
-<img src="assets/icons/notes.png" class="icon"><div>summary</div>
 </a>
 </td>
 </tr>
@@ -339,117 +295,92 @@ transactions, event logs, and much more.
 <table>
 <tr>
 <td class="icon-container">
-<img src="assets/images/books/team-topologies.webp" class="book">
 </td>
 <td>
 <b>Team Topologies</b> by Manuel Pais and Matthew Skelton describes four fundamental topologies (stream-aligned teams, enabling teams, complicated subsystem teams, and platform teams), and three fundamental interaction modes (collaboration, X-as-a-Service, and facilitation).
 </td>
 <td style="font-size: 50%; line-height: 12px; text-align: center">
 <a target="_blank" href="https://obren.io/tools/reading-notes-pro/notes/Team%20Topologies_%20Organizing%20Business%20and%20Technology%20%20Teams%20for%20Fast%20Flow-Notebook.pdf">
-<img src="assets/icons/notes.png" class="icon"><div>reading notes</div>
 </a>
 </td>
 </tr>
 
 <tr>
 <td class="icon-container">
-<img src="assets/images/books/culture-maps.jpeg" class="book" style="border: 1px solid lightgrey">
 </td>
 <td>
 <b>The Culture Map: Decoding How People Think, Lead, and Get Things Done Across Cultures</b>: provides a framework for handling intercultural differences in business and illustrates how different cultures perceive the world. Awareness of intercultural differences is crucial for the success of an architect in an international setting. It helps us understand these differences and, in doing so, improves our ability to react to specific behaviors that might have once seemed strange.
 </td>
 <td style="font-size: 50%; line-height: 12px; text-align: center">
-<div>
-<a target="_blank" href="https://obren.io/tools/reading-notes-pro/notes/The%20Culture%20Map%20(INTL%20ED)_%20Decoding%20How%20People%20Think_%20%20Lead_%20and%20Get%20Things%20Done%20Across%20Cultures-Notebook.pdf">
-<img src="assets/icons/notes.png" class="icon"><div>reading notes</div>
-</a>
-</div>
-<div>
-<a target="_blank" href="https://docs.google.com/presentation/d/1yn-IHK9iXJ1Qgxj_uw16WKQ1Qp9uXKGSSUbJg0xT9eE/edit#slide=id.p">
-<img src="assets/icons/notes.png" class="icon"><div>summary</div>
-</a>
-</div>
+{pagebreak}
+
+{pagebreak}
+
 </td>
 </tr>
 
 <tr>
 <td class="icon-container">
-<img src="assets/images/books/turn-ship-around.jpeg" class="book" style="border: 1px solid lightgrey">
 </td>
 <td>
 <b>Turn the Ship Around!</b> by L. David Marquet:  Around reveals the story of how one United States Navy captain managed to turn a dissatisfied submarine crew into a formidable and respected team. But how did he do it? By changing the way we think about leadership, this story will show you that inside, we all have the power to be leaders.
 </td>
 <td style="font-size: 50%; line-height: 12px; text-align: center">
-<div>
-<a target="_blank" href="https://davidmarquet.com/turn-the-ship-around-book/">
-<img src="assets/icons/web.png" class="icon"><div>website</div>
-</a>
-</div>
+{pagebreak}
+
 </td>
 </tr>
 
 <tr>
 <td class="icon-container">
-<img src="assets/images/books/leadership-is-language.jpeg" class="book" style="border: 1px solid lightgrey">
 </td>
 <td>
 <b>Leadership is Language</b> by L. David Marquet is a playbook for successful team management. Written by a former US Navy captain, it teaches leaders how they can change their language and mindsets in order to improve decision-making, empower workers, and achieve better results..
 </td>
 <td style="font-size: 50%; line-height: 12px; text-align: center">
-<div>
-<a target="_blank" href="https://intentbasedleadership.com/leadership-is-language-book/">
-<img src="assets/icons/web.png" class="icon"><div>website</div>
-</a>
-</div>
+{pagebreak}
+
 </td>
 </tr>
 
 <tr>
 <td class="icon-container">
-<img src="assets/images/books/nudge.webp" class="book">
 </td>
 <td>
 <b>Nudge</b> by Richard Thaler draws on research in psychology and behavioral economics to define libertarian paternalism as an active engineering of choice architecture. The book also popularised the concept of a nudge, a choice architecture that predictably alters people's behavior without restricting options or significantly changing their economic incentives.
 </td>
 <td style="font-size: 50%; line-height: 12px; text-align: center">
 <a target="_blank" href="">
-<img src="assets/icons/notes.png" class="icon"><div>reading notes</div>
 </a>
 </td>
 </tr>
 
 <tr>
 <td class="icon-container">
-<img src="assets/images/books/no-rules-rules.webp" class="book">
 </td>
 <td>
 <b>No Rules Rules</b> by Erin Meyer and Reed Hastings provides insights into Netflix culture. When you give low-level employees access to information that is generally reserved for high-level executives, they get more done on their own. They work faster without stopping to ask for information and approval. They make better decisions without needing input from the top.
 </td>
 <td style="font-size: 50%; line-height: 12px; text-align: center">
 <a target="_blank" href="https://obren.io/tools/reading-notes-pro/notes/No%20Rules%20Rules_%20Netflix%20and%20the%20Culture%20of%20Reinvention-Notebook.pdf">
-<img src="assets/icons/notes.png" class="icon"><div>reading notes</div>
 </a>
 </td>
 </tr>
 <tr>
 <td class="icon-container">
-<img src="assets/images/books/dare-to-lead.webp" class="book">
 </td>
 <td>
 <b>Dare To Lead</b> by Brené Brown, defines a leader as anyone who takes responsibility for finding the potential in people and processes and has the courage to develop that potential.
 </td>
 <td style="font-size: 50%; line-height: 12px; text-align: center">
 <a target="_blank" href="https://brenebrown.com/hubs/dare-to-lead/">
-<img src="assets/icons/web.png" class="icon"><div>website</div>
 </a>
 <a target="_blank" href="https://obren.io/tools/reading-notes-pro/notes/Dare%20to%20Lead_%20Brave%20Work_%20Tough%20Conversations_%20Whole%20%20Hearts_-Notebook.pdf">
-<img src="assets/icons/notes.png" class="icon"><div>reading notes</div>
 </a>
 </td>
 </tr>
 <tr>
 <td class="icon-container">
-<img src="assets/images/books/sowhat.webp" class="book">
 </td>
 <td>
 <b>The So What Strategy</b> by Davina Stanley and Gerard Castles. Any architect has been caught at the end of a presentation when their audience, perhaps a leadership team or a Steering Committee, looks at them blankly and asks this most uncomfortable question: ‘So what?' How does that help? The book provides a pragmatic approach to answer that question in one single, powerful sentence. Or how to set yourself up so nobody asks it.
@@ -457,16 +388,13 @@ transactions, event logs, and much more.
 </td>
 <td style="font-size: 50%; line-height: 12px; text-align: center">
 <a target="_blank" href="https://www.sowhatstrategy.com/">
-<img src="assets/icons/web.png" class="icon"><div>website</div>
 </a>
 <a target="_blank" href="https://obren.io/tools/sowhat/">
-<img src="assets/icons/web.png" class="icon"><div>tool</div>
 </a>
 </td>
 </tr>
 <tr>
 <td class="icon-container">
-<img src="assets/images/books/never-split-the-difference.jpeg" class="book">
 </td>
 <td>
 <b>Never Split the Difference</b> by Chris Voss. Negotiations take place in many fields of life, such as business, and in some critical situations, like hostage situations (and architecture). The book is a guide on how to best behave when certain things happen, regardless of whether that includes the need for negotiation techniques in hostage situations or in business.
@@ -474,7 +402,6 @@ transactions, event logs, and much more.
 </td>
 <td style="font-size: 50%; line-height: 12px; text-align: center">
 <a target="_blank" href="https://www.runn.io/blog/never-split-the-difference-summary">
-<img src="assets/icons/web.png" class="icon"><div>summary</div>
 </a>
 </td>
 </tr>
@@ -486,7 +413,6 @@ transactions, event logs, and much more.
 <table>
 <tr>
 <td class="icon-container">
-<img src="assets/images/books/accelerate.jpeg" class="book">
 </td>
 <td>
 
@@ -495,17 +421,13 @@ faster you need to accelerate. Sometimes, you need to jerk the system a bit, whi
 derivative.
 </td>
 <td style="font-size: 50%; line-height: 12px; text-align: center">
-<div>
-<a target="_blank" href="https://obren.io/tools/catalogs/?id=design-tactics-high-performing-technology-organizations">
-<img src="assets/icons/notes.png" class="icon"><div>summary</div>
-</a>
-</div>
+{pagebreak}
+
 </td>
 </tr>
 
 <tr>
 <td class="icon-container">
-<img src="assets/images/books/the-phoenix-project.jpeg" class="book">
 </td>
 <td>
 
@@ -517,7 +439,6 @@ tear down the silos that have traditionally existed between development and oper
 
 <tr>
 <td class="icon-container">
-<img src="assets/images/books/cd.jpeg" class="book">
 </td>
 <td>
 
@@ -532,41 +453,32 @@ minutes-no matter what the size of a project or the complexity of its code base.
 <table>
 <tr>
 <td class="icon-container">
-<img src="assets/images/books/six-simple-rules.webp" class="book" style="border: 1px solid lightgrey">
 </td>
 <td>
 <b>Six Simple Rules: How to Manage Complexity without Getting Complicated</b> by  Yves Morieux and Peter Tollman: the book emphasis that in today’s complicated business environment, you need to setup organisational structures based on cooperation. To deal with complexity, organizations should depend on the judgment of their people, which requires giving them more autonomy to act. It also depends on these people cooperating to utilize the organization's capabilities to cope with complex problems. 
 </td>
 <td style="font-size: 50%; line-height: 12px; text-align: center">
-<div>
-<a target="_blank" href="https://www.bcg.com/capabilities/organization/smart-simplicity/six-rules-overcoming-complexity">
-<img src="assets/icons/web.png" class="icon"><div>summary</div>
-</a>
-</div>
+{pagebreak}
+
 </td>
 </tr>
 
 <tr>
 <td class="icon-container">
-<img src="assets/images/books/personal-mba.webp" class="book">
 </td>
 <td>
 
 <b>The Personal MBA 10th Anniversary Edition</b> by Josh Kaufman provides an overview of the essentials of every major business topic: entrepreneurship, product development, marketing, sales, negotiation, accounting, finance, productivity, communication, psychology, leadership, systems design, analysis, and operations management.
 </td>
 <td style="font-size: 50%; line-height: 12px; text-align: center">
-<div>
-<a target="_blank" href="https://personalmba.com/">
-<img src="assets/icons/web.png" class="icon"><div>website</div>
-</a>
-</div>
+{pagebreak}
+
 </td>
 
 </tr>
 
 <tr>
 <td class="icon-container">
-<img src="assets/images/books/tsp.jpeg" class="book">
 </td>
 <td>
 
@@ -577,18 +489,14 @@ patterns and templates—to produce great technology strategies.
 
 <tr>
 <td class="icon-container">
-<img src="assets/images/books/build-trap.jpg" class="book">
 </td>
 <td>
 
 <b>Escaping the Build Trap</b> by Melissa Perri is a practical guide to product management, product strategy, and ensuring product success.
 </td>
 <td style="font-size: 50%; line-height: 12px; text-align: center">
-<div>
-<a target="_blank" href="https://produxlabs.com/product-thinking">
-<img src="assets/icons/playlist.png" class="icon"><div>playlist</div>
-</a>
-</div>
+{pagebreak}
+
 </td>
 </tr>
 </table>

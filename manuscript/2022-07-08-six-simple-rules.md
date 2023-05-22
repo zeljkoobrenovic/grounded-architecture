@@ -3,11 +3,9 @@
 # Managing Organizational Complexity: Six Simple Rules {#six-simple-rules}
 
 
-<img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
      src="assets/images/arch/spices-g253b7ca36_1920.jpg">
-<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by <a href="https://pixabay.com/users/nataliaaggiato-470329/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=667115">Nat Aggiato</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=667115">Pixabay</a>
-</div>
+{pagebreak}
+
 {pagebreak}
 
 
@@ -20,9 +18,8 @@ Image by <a href="https://pixabay.com/users/nataliaaggiato-470329/?utm_source=li
 <br>
 The book [Six Simple Rules: How to Manage Complexity without Getting Complicated](https://www.bcg.com/capabilities/organization/smart-simplicity/six-rules-overcoming-complexity), by  Yves Morieux and Peter Tollman, is another source of inspiration for my vision on the Architecture function. Morieux and Tollman introduced a concept of Smart Simplicity with six rules or strategies that enable organizations to promote new behaviors and improve performance.
 
-<div class="quote">
-In today’s complicated business environment, you need to setup organisational structures based on cooperation.
-</div>
+{pagebreak}
+
 
 Six Simple Rules emphasis that in today’s complicated business environment, you **need to setup organisational structures based on cooperation**. To deal with complexity, organizations should depend on the judgment of their people, which requires giving them more autonomy to act. It also depends on these people cooperating to utilize the organization's capabilities to cope with complex problems.
 
@@ -70,9 +67,8 @@ This difference between **Autonomy** and **Self-Sufficiency** leads us to the se
 First rule states that you need to truly understand performance: **what people do** and **why they do it**. When you understand why people do what they do and how it drives performance, you can define the **minimum sufficient set of interventions with surgical accuracy**. 
  
 ![](assets/images/arch/viewpoint-gbe06b9b1a_1920.jpg)
-<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by <a href="https://pixabay.com/users/noname_13-2364555/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3593304">NoName_13</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3593304">Pixabay</a>
-</div>
+{pagebreak}
+
 
 ### General Guidelines
 
@@ -95,9 +91,8 @@ I have found architecture function can be very helpful in understand what people
 Reinforce integrators by looking at those **directly involved in the work**, giving them **power and interest to foster cooperation in dealing with complexity** instead of resorting to the paraphernalia of overarching hierarchies, overlays, dedicated interfaces, balanced scorecards, or coordination procedures.
  
 ![](assets/images/arch/agree-g1f407320e_1920.jpg)
-<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by <a href="https://pixabay.com/users/shutterbug75-2077322/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1238964">Robert Owen-Wahl</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1238964">Pixabay</a>
-</div>
+{pagebreak}
+
 
 ### General Guidelines
 
@@ -121,9 +116,8 @@ Whenever you consider an **addition to** your organization’s **structure, proc
 
 
 ![](assets/images/arch/girls-gf0cc5fe5a_1920.jpg)
-<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by <a href="https://pixabay.com/users/flashbuddy-97638/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=407685">Flash Alexander</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=407685">Pixabay</a>
-</div>
+{pagebreak}
+
 
 ### General Guidelines
  
@@ -145,31 +139,8 @@ Architecture supports increasing power quantity with the **[operating model](act
 
 In the face of business complexity, work is becoming more inter-dependent. To meet multiple and often contradictory performance requirements, **people need to rely more on each other**. They need to **cooperate directly** instead of relying on dedicated interfaces, coordination structures or procedures that only add to complicatedness. 
 
-<img src="assets/images/arch/iStock-1072898930.jpg" style="width: 100%">
-<div style="text-align: center; font-size: 70%; color: grey; margin-bottom: 12px; margin-top: -12px;">Credit: Getty Images / iStock / Natnan Srisuwan.</div>
-### General Guidelines
+{pagebreak}
 
-Reciprocity is the recognition by people or units in an organization that they **have a mutual interest in cooperation** and that the success of one depends on the success of others (and vice versa). The way to create that reciprocity is by setting rich objectives and reinforcing them by:
- * **eliminating monopolies**, 
- * **reducing resources**, and 
- * **creating new networks of interaction**.
-
-### The Role of Architecture
-
-Architecture function is directly related to increasing reciprocity: 
-* I consider the success of architecture dependent on **[architects' superglue impact](#superglue)**. Likewise, the developer teams support depends on architecture support. I also integrate feedback of people from teams that architects support in architects' performance evaluations.  
-* In addition, the **[People Pillar](#people)** directly supports one of the ways of reinforcing reciprocity: **creating new networks of interactions**.
-
-
-<br>
-## Simple Rule 5: Extend the Shadow of the Future
-
-Increase the importance to people of **what happens tomorrow as a consequence of what they do today**. By making very simple changes you can manage complex requirements, while also removing organizational complicatedness. With the strategic alignment typical of the hard approach, these simple solutions—for instance, career paths—often come at the end of a sequence that starts by installing the most cumbersome changes: new structure, processes, systems, metrics, and so on. Simple and effective solutions are then impossible. 
-
-![](assets/images/arch/trees-gc38b3c617_1920.jpg)
-<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by <a href="https://pixabay.com/users/jplenio-7645255/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3294681">Joe</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3294681">Pixabay</a>
-</div>
 
 
 ### General Guidelines
@@ -194,9 +165,8 @@ Lastly, the Six Simple Rules approach recommends that when you cannot create dir
 
 
 ![](assets/images/arch/people-gac98109e9_1920.jpg)
-<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by <a href="https://pixabay.com/users/stocksnap-894430/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2569234">StockSnap</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2569234">Pixabay</a>
-</div>
+{pagebreak}
+
 
 ### General Guidelines
 

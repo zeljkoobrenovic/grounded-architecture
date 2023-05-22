@@ -3,11 +3,9 @@
 # Product Development and The Build Trap {#product-development}
 
 
-<img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
      src="assets/images/arch/bear-trap-413397_1920.jpg">
-<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Afbeelding van <a href="https://pixabay.com/nl/users/efraimstochter-12351/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=413397">M W</a> via <a href="https://pixabay.com/nl//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=413397">Pixabay</a>
-</div>
+{pagebreak}
+
 {pagebreak}
 
 
@@ -22,9 +20,8 @@ Afbeelding van <a href="https://pixabay.com/nl/users/efraimstochter-12351/?utm_s
 
 When it comes to product development, I generally recommend the book "[Escaping the Build Trap: How Effective Product Management Creates Real Value](https://www.goodreads.com/book/show/42611483-escaping-the-build-trap)" by Melissa Perri. This book is a guide intended to help organizations shift their focus from simply building and shipping products to creating value for their customers. The "build trap" refers to the common pitfall where companies become fixated on building more features and products without considering whether they meet customer needs or generate desired outcomes.
 
-<div class="quote">
-The "build trap" refers to the common pitfall where companies become fixated on building more features and products without considering whether they meet customer needs or generate desired outcomes.
-</div>
+{pagebreak}
+
 
 Perri explores the reasons behind the build trap and provides practical strategies to help businesses escape it by adopting a value-centric, customer-focused approach. The main message is that by understanding customer needs, adopting a customer-centric approach, and embracing innovation and agility, companies can increase their chances of developing successful products that stand out in the market.
 
@@ -51,9 +48,8 @@ To better understand the role of a product manager, it is useful to understand t
 
 * **The Mini-CEO:** Product managers are not the mini-CEOs of a product, yet most job postings for product managers describe them as the mini-CEO. CEOs have sole authority over many things. Product managers can’t change many things a CEO can do in an organization. They especially don’t have authority over people because they are not people managers at the team level. Instead, they must influence them to move in a specific direction. Out of this wonderful CEO myth emerged an archetype of a very arrogant product manager who thinks they rule the world.
 * **The Waiter:** The waiter is a product manager who, at heart, is an order taker. They go to their stakeholders, customers, or managers, ask for what they want, and turn those desires into a list of items to be developed. There is no goal, vision, or decision-making involved. More often than not, the most important person gets their features prioritized. Instead of discovering problems, waiters ask, “What do you want?” The customer asks for a specific solution, which these product managers implement. The waiter approach leads to what David J. Bland is calling the Product Death Cycle.
-<div style="padding-left: 90px">
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This is what I&#39;m calling the Product Death Cycle <a href="http://t.co/1XtPlViOl7">pic.twitter.com/1XtPlViOl7</a></p>&mdash; David J. Bland (@davidjbland) <a href="https://twitter.com/davidjbland/status/467096015318036480?ref_src=twsrc%5Etfw">May 16, 2014</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
+{pagebreak}
+
 * **The Former Project Manager**: Product managers are not project managers, although some project management is needed to execute the role correctly. Project managers are responsible for the when. When will a project finish? Is everyone on track? Will we hit our deadline? Product managers are responsible for the why? Why are we building this? How does it deliver value to our customers? How does it help meet the goals of the business? The latter questions are more challenging to answer than the former, and product managers who don’t understand their roles often resort to doing that type of work. Many companies still think the project manager and product manager are the same. 
 
 

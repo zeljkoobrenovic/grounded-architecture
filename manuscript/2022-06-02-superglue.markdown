@@ -4,10 +4,9 @@
 
 {pagebreak}
 
-<img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
      src="assets/images/superglue/superglue.png">
-<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-</div>
+{pagebreak}
+
 > **IN THIS SECTION, YOU WILL:**  Understand the importance of the superglue role of architects and get valuable tips on developing "superglue" abilities.
 >
 > **KEY POINTS:**
@@ -23,9 +22,8 @@ In my view, architects in IT organizations should develop as “superglue.” I 
 
 The superglue characteristics mean serving as the organizational connective tissue, linking the "business wheelhouse" and the "engine room." Architects, of course, need to be technically strong. But their unique strengths should stem from being able to relate, or glue, technical issues with business and broader issues.
 
-<div class="quote">
-Architects, of course, need to be technically strong. But their unique strengths should stem from being able to relate, or glue, technical issues with business and broader issues.
-</div>
+{pagebreak}
+
 
 From discussions I've had with our technology leaders, engineers, and architects, the picture below has crystallized as a representation of the "superglue" metaphor for architects (Figure 1).
 

@@ -3,11 +3,9 @@
 # Impact {#impact}
 
 
-<img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
      src="assets/images/arch/USATF_day_4.jpg">
-<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Credit: Sandi Morris in <a href="https://nl.wikipedia.org/wiki/Sandi_Morris">Wikipedia</a>.
-</div>
+{pagebreak}
+
 
 > **IN THIS SECTION, YOU WILL:**  Understand that architects’ work is evaluated based the impact and get guidelines on how to make an impact.
 > 
@@ -30,9 +28,8 @@ Architects' work is **evaluated based the impact** they've had on the organizati
   orchestrate large group efforts. Architects can help move the organization forward by leveraging their "hard"
   technical skills and "soft" strategic, execution, and people skills.
 
-<div class="quote">
-Architects' work is evaluated based the impact they've had on the organization.
-</div>
+{pagebreak}
+
 
 To make this impact, architect need a few key competencies.
 
@@ -41,9 +38,8 @@ To make this impact, architect need a few key competencies.
 
 Architects must have [strong technical, people, and business skills](#skills), ideally obtained through years of practice. On top of this strong foundation, architects need to develop competencies that enable them to use their experiences and abilities to impact organizational performance positively. The more senior architects become, the more their competency development should be driven by the impact they need to have rather than mere skills development. I typically coach architects in the context of concrete activities, guiding their development via involvement in the right set of actions and crafting skills developments based on challenges in making an expected impact in practice.
 
-<div class="quote">
-I typically coach architects in the context of concrete activities, guiding their development via involvement in the right set of actions and crafting skills developments based on challenges in making an expected impact in practice.
-</div>
+{pagebreak}
+
 
 I use Staff Engineering roles as an inspiration for the development of architects. Tanya Reilly's
 book [The Staff Engineer's Path](https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/) and Will
@@ -51,12 +47,10 @@ Larson's book [Staff Engineer: Leadership beyond the management track](https://s
 were helpful guides in defining the responsibilities of architects.
 
 
-<div style="width: 100%; text-align: center">
-<img src="assets/images/arch/pillars.png" style="width: 80%">
-</div>
-<div style="font-size: 80%; color: grey; margin-bottom: 12px; text-align: center">
-<b>Figure 1</b>: Key competencies of architects. Credit: inspired by The Staff Engineer's Path by Tanya Reilly.
-</div>
+{pagebreak}
+
+{pagebreak}
+
 
  Inspired by The Staff Engineer's Path by Tanya Reilly, I group architects' competencies in three groups (Figure 1):
 

@@ -11,10 +11,10 @@ def copy_post(post):
         for line in inputfile:
             print(line)
             if not in_header:
-                if line.startswith('---') or line.startswith('<style'):
+                if line.startswith('---') or line.startswith('<style') or line.startswith('<div'):
                     in_header = True
                     content += '{pagebreak}\n\n'
-                else:
+                elif not line.startswith('<img'):
                     line = line.replace('](data)', '](#data)')
                     line = line.replace('](people)', '](#people)')
                     line = line.replace('](activities-platform)', '](#activities-platform)')
@@ -33,7 +33,7 @@ def copy_post(post):
                     line = line.replace('](economics)', '](#economics)')
                     content += line
             else:
-                if line.startswith('---') or line.startswith('</style>'):
+                if line.startswith('---') or line.startswith('</style>') or line.startswith('</div>'):
                     in_header = False
                 elif line.startswith('title:'):
                     content += '# ' + line.replace('title:', '').replace('"', '').strip()

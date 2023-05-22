@@ -2,11 +2,9 @@
 
 # Architecture Activities Platform {#activities-platform}
 
-<img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
      src="assets/images/arch/parliament-366199_1920.jpg">
-<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by <a href="https://pixabay.com/users/cocoparisienne-127419/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=366199">Anja-#pray for ukraine# #helping hands# stop the war</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=366199">Pixabay</a>
-</div>
+{pagebreak}
+
 > **IN THIS SECTION, YOU WILL:**  Understand what activities you can do as a part of architecture functions and get hints and tips on creating pragmatic operating models.
 >
 > **KEY POINTS:**
@@ -25,9 +23,8 @@ Each organization will have different architectural needs and contexts. When for
 
 Considering the previous two points from Gregor Hohpe, there is no one-size-fits-all approach: each organization must find activities and operating models to enable architecture to work on the most critical problems. 
 
-<div class="quote">
-There is no one-size-fits-all approach: each organization must find activities and operating models to enable architecture to work on the most critical problems. 
-</div>
+{pagebreak}
+
 
 The Architecture Activities Platform is where we have to perform activities that help an organization reach its goals. The Architecture Activities Platform defines a set of processes and agreements enabling architects to do everything architecture typically does, leveraging data and people pillars to create a data-informed, organization-wide impact. In all these activities, data and people posts provide foundations for data-informed decision-making well-embedded in the organization.
 
@@ -54,11 +51,8 @@ While exact activities and their scope will depend on an organization setting an
 
 Inspired by Gregor Hohpe's strategy-principles-decisions model Figure 1 illustrates the process.
 
-<div>
-<a href="assets/images/arch/architecture-system.png" target="_blank">
-    <img src="assets/images/arch/architecture-system.png">
-</a>
-</div>
+{pagebreak}
+
 **Figure 1:** *A common operating model I typically use for Grounded Architecture activities.*
 
 A common operating model I typically use for Grounded Architecture activities is as follows:
@@ -72,9 +66,8 @@ A common operating model I typically use for Grounded Architecture activities is
 * Architects then spend their time in **constant motion** between supporting teams' **daily work** and working on **strategic topics**, helping the organization achieve alignment between strategy and implementation.
 
 
-<div class="quote">
-My goal was to avoid formal bureaucratic approval processes, where architects appear too late and are frequently busy approving trivial decisions.
-</div>
+{pagebreak}
+
 
 Another characteristic of this operating model is **shifting left** the architecture work. My goal was to avoid formal bureaucratic approval processes, where architects appear too late and are frequently busy approving trivial decisions. Instead, my goal was to have architects involved early in any of the processes, such as during the planning and preparation stages, where it is possible to make more significant changes. 
 
@@ -82,9 +75,8 @@ Another characteristic of this operating model is **shifting left** the architec
 
 With proposed operating model, I aimed to keep architectural decision-making distributed across the organization and embedded in the development teams. Development teams traditionally have the best insights and most information relevant for making a decision. 
 
-<div class="quote">
-Grounded architecture aims to make relevant information more readily available to a broader audience and better connect people when making decisions.
-</div>
+{pagebreak}
+
 
 As noted by Gregor Hohpe, the worst case of organizational decision-making happens when people with relevant information are not allowed to make decisions, while people who lack sufficient information make all decisions. Grounded architecture aims to make relevant information more readily available to a broader audience and better connect people when making decisions.
 
