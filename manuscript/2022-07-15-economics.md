@@ -2,7 +2,6 @@
 
 # Economic Modeling: ROI and Financial Options {#economics}
 
-     src="assets/images/arch/money-g45f6788de_1920.jpg">
 {pagebreak}
 
 > **KEY POINTS:**

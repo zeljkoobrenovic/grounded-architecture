@@ -2,7 +2,6 @@
 
 # Goals {#goals}
 
-     src="assets/images/stress-gc7a712a2f_1920.jpg">
 {pagebreak}
 
 > **IN THIS SECTION, YOU WILL:** Understand the requirements for an architecture function in complex organizations.

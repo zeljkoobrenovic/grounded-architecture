@@ -2,7 +2,6 @@
 
 # Architecture Activities Platform {#activities-platform}
 
-     src="assets/images/arch/parliament-366199_1920.jpg">
 {pagebreak}
 
 > **IN THIS SECTION, YOU WILL:**  Understand what activities you can do as a part of architecture functions and get hints and tips on creating pragmatic operating models.

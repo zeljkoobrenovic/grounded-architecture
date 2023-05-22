@@ -3,7 +3,6 @@
 # Managing Organizational Complexity: Six Simple Rules {#six-simple-rules}
 
 
-     src="assets/images/arch/spices-g253b7ca36_1920.jpg">
 {pagebreak}
 
 {pagebreak}

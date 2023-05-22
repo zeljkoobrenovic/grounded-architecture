@@ -2,7 +2,6 @@
 
 # Favorite Quotes {#quotes}
 
-     src="assets/images/arch/books-g1b2675255_1920.jpg">
 {pagebreak}
 
 

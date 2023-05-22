@@ -2,7 +2,6 @@
 
 # Bookshelf {#bookshelf}
 
-src="assets/images/arch/library-5641389_1920.jpg">
 {pagebreak}
 
 > **KEY POINTS:**

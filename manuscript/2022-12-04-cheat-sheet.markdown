@@ -2,7 +2,6 @@
 
 # Cheat Sheet {#cheat-sheet}
 
-     src="assets/images/istockphoto-1182643171-612x612.jpg">
 {pagebreak}
 
 

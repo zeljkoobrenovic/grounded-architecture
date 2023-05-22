@@ -3,7 +3,6 @@
 # Product Development and The Build Trap {#product-development}
 
 
-     src="assets/images/arch/bear-trap-413397_1920.jpg">
 {pagebreak}
 
 {pagebreak}

@@ -2,7 +2,6 @@
 
 # Tools {#tools}
 
-src="assets/images/arch/adult-gfd09399f9_1920.jpg">
 {pagebreak}
 
 > **KEY POINTS:**

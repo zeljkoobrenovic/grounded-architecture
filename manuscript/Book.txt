@@ -1,4 +1,6 @@
+
 ![](assets/images/arch/staircase-274614_1920.jpg)
+
 2022-01-01-intro.markdown
 
 2022-01-02-context.markdown

@@ -2,7 +2,6 @@
 
 # Value of Grounded Architecture {#value}
 
-     src="assets/images/arch/gold-gd9bc167a4_1920.jpg">
 {pagebreak}
 
 > **IN THIS SECTION, YOU WILL:**  Understand the value Grounded Architecture can create for an organization.
@@ -31,7 +30,6 @@ The following sections elaborate on these categories in line with the [goals](go
 Grounded Architecture aims to enable architecture functions to operate at scale efficiently. We must rely on something other than intuition and manual processes when supporting thousands of developers and dealing with hundreds of millions of lines of code.
 
 <br>
-     src="assets/images/arch/earth-g8ffaadaba_1920.jpg">
 {pagebreak}
 
 
@@ -45,7 +43,6 @@ The architecture data pillar aims to support working at scale with automation an
 Architectural discussions can be very heated and opinionated. There are significant benefits to making our decision process as much as possible data-driven. It is one of the critical tasks for any architect to maintain high-quality data on relevant internal and external technology developments, providing fuel for data-informed discussions and decision-making.
 
 <br>
-     src="assets/images/arch/doors-gf67a9cff2_1920.jpg">
 {pagebreak}
 
 
@@ -65,7 +62,6 @@ Misalignment frequently happens in big organizations. The [Data Pillar](#data) c
 * Before people decide, people starting to work simultaneously on the same topics can decide to work together, minimize effort duplication, and in that way, save time and resources.
 * After making a decision, Grounded Architecture can make all organizations aware of it and distribute it so everyone can profit from lessons learned in one unit.
 
-     src="assets/images/Misalignment-1024x523.png">
 {pagebreak}
 
 <br>
@@ -107,6 +103,5 @@ This adaptivity is driven by the independence of elements and the possibility of
 * Lastly, the structure of our architectural model enables a more sustainable architectural function. With an established [Data Pillar](#data) and a well-connected architect, the architecture can still benefit the organization even without a strong central team.
 
 <br>
-     src="assets/images/arch/lego-g7d6cf2046_1920.png">
 {pagebreak}
 

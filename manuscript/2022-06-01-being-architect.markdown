@@ -2,7 +2,6 @@
 
 # Being Architect {#being-architect}
 
-     src="assets/images/arch/architect-3979490_1920.jpg">
 {pagebreak}
 
 {pagebreak}

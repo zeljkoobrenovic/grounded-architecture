@@ -2,7 +2,6 @@
 
 # Grounded Architecture: An Overview {#grounded-architecture}
 
-     src="assets/images/arch/buildings-205986_1920.jpg">
 {pagebreak}
 
 > **IN THIS SECTION, YOU WILL:** Get an overview of the Grounded Architecture structure.

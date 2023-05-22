@@ -2,7 +2,6 @@
 
 # Doing Architecture {#doing-architecture}
 
-     src="assets/images/arch/steampunk-3006650_1920.jpg">
 {pagebreak}
 
 {pagebreak}

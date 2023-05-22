@@ -3,7 +3,6 @@
 # Architects' Career Paths: Raising the Bar {#career}
 
 
-     src="assets/images/arch/pole-vault.jpg">
 {pagebreak}
 
 

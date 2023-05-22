@@ -4,7 +4,6 @@
 
 {pagebreak}
 
-     src="assets/images/superglue/superglue.png">
 {pagebreak}
 
 > **IN THIS SECTION, YOU WILL:**  Understand the importance of the superglue role of architects and get valuable tips on developing "superglue" abilities.
