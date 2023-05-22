@@ -1,4 +1,4 @@
-# Impact {#impact}
+{pagebreak}# Impact {#impact}
 
 
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
@@ -13,7 +13,7 @@ Credit: Sandi Morris in <a href="https://nl.wikipedia.org/wiki/Sandi_Morris">Wik
 >
 > * Architects' work is evaluated based the impact they've had on the organization. 
 > * Architects can make an impact via three pillars: Big-Picture Thinking, Execution, and Leveling-Up.
-
+{pagebreak}
 <br>
 Architects' work is **evaluated based the impact** they've had on the organization. Architect typically make impact by:
 

@@ -1,4 +1,4 @@
-# Architecture Activities Platform {#activities-platform}
+{pagebreak}# Architecture Activities Platform {#activities-platform}
 
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
      src="assets/images/arch/parliament-366199_1920.jpg">
@@ -11,7 +11,7 @@ Image by <a href="https://pixabay.com/users/cocoparisienne-127419/?utm_source=li
 >
 > * The Architecture Activities Platform defines a set of processes and agreements enabling architects to do everything architecture typically does, leveraging data and people pillars to create a data-informed, organization-wide impact.
 > * Examples of activities include: supporting teams in their daily work; tracking tech debt, defining tech debt reduction programs; performing technical due diligence; standardization of processes and documentation; defining cloud, data, and platform strategies.
-
+{pagebreak}
 <br>
 Each organization will have different architectural needs and contexts. When forming architecture functions, I use as a starting point these [two pieces of advice from Gregor Hohpe](https://architectelevator.com/architecture/organizing-architecture/):
  * *"Your architecture team’s job is to solve your biggest problems. The best setup is the one that allows it to accomplish that."*

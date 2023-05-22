@@ -1,4 +1,4 @@
-# Architects' Career Paths: Raising the Bar {#career}
+{pagebreak}# Architects' Career Paths: Raising the Bar {#career}
 
 
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
@@ -13,7 +13,7 @@ Credit: <a href="https://flic.kr/p/8zKRAU">tableatny</a> (CC BY 2.0)
 >
 > * Architects' career paths ideally stem from a strong engineering background.
 > * Hiring architects requires constantly raising the bar to ensure a strong and diverse team structure.  
-
+{pagebreak}
 <br>
 Hiring and developing architects will differ significantly per organization. Nevertheless, here I share some of the ideas and lessons learned here.
 

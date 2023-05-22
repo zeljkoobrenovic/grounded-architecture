@@ -1,4 +1,4 @@
-# Data Pillar {#data}
+{pagebreak}# Data Pillar {#data}
 
 <img src="assets/images/arch/architecture-1857175_1920.jpg" 
 style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover">
@@ -12,7 +12,7 @@ Image by <a href="https://pixabay.com/users/3844328-3844328/?utm_source=link-att
 > * The architecture data pillar serves as a medium to create a complete, up-to-date picture of critical elements of technology landscapes of big organizations. 
 > * The data pillar provides an architecture-centric view on data about a technology landscape based on source code analyses, public cloud billing reports, vibrancy reports, or incident tickets.
 > * To facilitate creation of data pillars, I have been working on creating open-source tools, such as [Sokrates](https://sokrates.dev), that can help obtain valuable architectural insights from data sources, such as source code repositories.
-
+{pagebreak}
 <br>
 In every place I worked on creating architectural functions, I strongly emphasized data. In the past several years, I have been working on creating open-source tools, such as [Sokrates](https://sokrates.dev), that can help obtain valuable architectural insights from data sources, such as source code repositories or public cloud billing reports. Consequently, one of the first steps I make in any architecture role is to create an architecture data pillar to get a complete, up-to-date picture of critical elements of the technology landscapes of an organization. Manual documentation does not scale in [our context](context), and relying on data ensures reliability and scalability. 
 

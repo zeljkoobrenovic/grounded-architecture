@@ -1,4 +1,4 @@
-# Bookshelf {#bookshelf}
+{pagebreak}# Bookshelf {#bookshelf}
 
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover"
 src="assets/images/arch/library-5641389_1920.jpg">
@@ -10,7 +10,7 @@ Image by <a href="https://pixabay.com/users/olivergotting-18505948/?utm_source=l
 > * I provide an overview of the background work for you to probe further, linking several external resources inspiring my work.
 > * I grouped the resources in the following sections: Introductions, Soft Skills, Business & Strategy, and Hard Skills.
 
-
+{pagebreak}
 <br>
 ## Introductions
 

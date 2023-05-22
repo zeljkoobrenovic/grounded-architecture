@@ -1,4 +1,4 @@
-# Cheat Sheet {#cheat-sheet}
+{pagebreak}# Cheat Sheet {#cheat-sheet}
 
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
      src="assets/images/istockphoto-1182643171-612x612.jpg">
@@ -6,7 +6,7 @@
 Image by iStock / Tashulia.
 </div>
 
-
+{pagebreak}
 ## Introduction
 
 This simple cheatsheet serves as a reference guide for topics discussed in follow-up sections.
