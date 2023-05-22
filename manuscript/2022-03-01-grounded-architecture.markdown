@@ -7,6 +7,9 @@
 
 > **IN THIS SECTION, YOU WILL:** Get an overview of the Grounded Architecture structure.
 >
+
+{pagebreak}
+
 > **KEY POINTS:**
 >
 > * I introduce three elements of Grounded Architecture: The Data Pillar, The People Pillar, The Architecture Activities Platform.

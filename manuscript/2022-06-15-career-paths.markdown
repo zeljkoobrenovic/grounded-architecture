@@ -9,6 +9,9 @@
 
 > **IN THIS SECTION, YOU WILL:**  Get ideas and tips about architects' career paths.
 > 
+
+{pagebreak}
+
 > **KEY POINTS:**
 >
 > * Architects' career paths ideally stem from a strong engineering background.

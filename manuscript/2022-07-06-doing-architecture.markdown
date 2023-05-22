@@ -8,6 +8,9 @@
 
 
 
+
+{pagebreak}
+
 > **KEY POINTS:**
 >
 > * I introduce ideas and key lessons I learned while developing ideas of Grounded Architecture in practice.

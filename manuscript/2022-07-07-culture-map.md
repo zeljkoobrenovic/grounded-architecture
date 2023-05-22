@@ -6,6 +6,9 @@
 ![](assets/images/arch/bolivia-g4261bf11f_1920.jpg)
 
 
+
+{pagebreak}
+
 > **KEY POINTS:**
 >
 > * I have found the work of Erin Meyer, The Culture Map, to be a very helpful tool for architects to work harmoniously with people from a broad array of different cultures and backgrounds.

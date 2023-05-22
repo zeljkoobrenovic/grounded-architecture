@@ -7,6 +7,9 @@
 
 > ***IN THIS SECTION, YOU WILL:** Understand what this playbook is about and how to use it.*
 >
+
+{pagebreak}
+
 > ***KEY POINTS:***
 >
 > * *This playbook aims to share my approach to running an IT architecture practice in larger organizations based on my experience as Chief Architect at AVIV Group, eBay Classifieds, and Adevinta.*

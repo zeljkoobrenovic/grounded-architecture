@@ -5,6 +5,9 @@
 
 ![](assets/images/arch/money-g45f6788de_1920.jpg)
 
+
+{pagebreak}
+
 > **KEY POINTS:**
 >
 > * Architects are frequently asked about the (economic) value of architecture or technology investments.

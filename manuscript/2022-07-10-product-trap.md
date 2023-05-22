@@ -9,6 +9,9 @@
 
 
 
+
+{pagebreak}
+
 > **KEY POINTS:**
 > * The product trap occurs when businesses focus too much on their product’s features and functionalities, overlooking their customers’ actual needs and preferences.
 > * There are three bad product-development organizations: sales, visionary, and technology led companies, .

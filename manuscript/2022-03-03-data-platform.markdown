@@ -7,6 +7,9 @@
 
 > **IN THIS SECTION, YOU WILL:**  Understand how to use available data in architecture decision processes and hints and tips on creating architecture-centric data tools.
 >
+
+{pagebreak}
+
 > **KEY POINTS:**
 >
 > * The architecture data pillar serves as a medium to create a complete, up-to-date picture of critical elements of technology landscapes of big organizations. 

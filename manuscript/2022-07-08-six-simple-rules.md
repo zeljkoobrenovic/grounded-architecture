@@ -9,6 +9,9 @@
 
 
 
+
+{pagebreak}
+
 > **KEY POINTS:**
 >
 > * Six Simple Rules emphasis that in today’s complicated business environment, you need to setup organisational structures based on cooperation. 

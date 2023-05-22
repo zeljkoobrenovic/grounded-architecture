@@ -7,6 +7,9 @@
 
 > **IN THIS SECTION, YOU WILL:** Understand the requirements for an architecture function in complex organizations.
 >
+
+{pagebreak}
+
 > **KEY POINTS:**
 >
 > * I identified the following needs that an architecture function should support: Executing At Scale, Increasing the Quality of Decision-Making with Data, Maximizing Organizational Alignment & Learning, Higher Adaptivity.

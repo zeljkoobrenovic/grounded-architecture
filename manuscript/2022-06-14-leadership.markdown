@@ -8,6 +8,9 @@
 
 > **IN THIS SECTION, YOU WILL:**  Understand how to apply ideas from David Marquet's work and Netflix's valued behaviors to develop architects' leadership traits.
 > 
+
+{pagebreak}
+
 > **KEY POINTS:**
 > * My view of architecture leadership is inspired by David Marquet's work and the Netflix's valued behaviors.
 > * Marquet focused on leadership and organizational management, with a particular emphasis on the principles of Intent-Based Leadership.

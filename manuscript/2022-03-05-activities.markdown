@@ -7,6 +7,9 @@
 
 > **IN THIS SECTION, YOU WILL:**  Understand what activities you can do as a part of architecture functions and get hints and tips on creating pragmatic operating models.
 >
+
+{pagebreak}
+
 > **KEY POINTS:**
 >
 > * The Architecture Activities Platform defines a set of processes and agreements enabling architects to do everything architecture typically does, leveraging data and people pillars to create a data-informed, organization-wide impact.
