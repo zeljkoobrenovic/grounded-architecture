@@ -1,0 +1,259 @@
+# Appendixes
+
+* Appendix A. Patterns of Dynamics: Summaries
+* Appendix B. Patterns of Dynamics: Mottos
+* Appendix C. Sources of Dynamics: Summaries
+* Appendix D. Questions to Consider
+
+
+## A. Patterns of Dynamics: Summaries
+
+
+**Co-Evolution of Problem-Solution**: *A design situation and designer’s understanding of the design situation (problem definition) changes and evolves in parallel and under the influence of design outcome and designer’s understating of potential design outcomes (design solutions).*
+
+**Puzzle Solving**: *A design situation is viewed as a clearly defined and static problem (i.e., a problem that can be clearly stated and where it is known what form the solution should have). A design outcome is seen as a solution for this problem. Design is viewed as a problem-solving activity.*
+
+**A Solution Looking for a Problem**: *Understanding of a design outcome and its possibilities leads to innovative usages of the  design outcome in situations and for problems that were not initially envisioned.*
+
+**Pandora's Box**: *The consequences of a design outcome create new situations that are perceived as problematic and may ask for another design to improve it. A design outcome may become more known for the problems it caused than for the solution it provided.*
+
+**The Force Awakens**: *Designer’s efforts to address some situation triggers reactions that radically change the original design situation. Often such reactions make the intended design outcome or a contribution of a designer obsolete or irrelevant. Such responses would typically not occur without the design activity.*
+
+**Your Design Is Your Reflection**: *Design resources, as well as the way how working with these resources is organized, are leaving a characteristic signature on a design outcome. It is often possible to guess, from the design outcome, which design resources designers used, and how the working with the resources was organized.*
+
+**You Are Reflection of Your Design**: *Design resources are adapted to a design outcome, sometimes to the point that the form and organization of design resources reflects the intended shape of the outcome.*
+
+**Design-by-Buzzword**: *A designer is joining a growing trend in using some technology, often in an opportunist way. New possibilities of design resources are shaping the design outcome.*
+
+**Conformity**: *To minimize risks in a new design situation, designers use popular and proven resources with established best practices. Such conformity may be driven by positive experiences of others in similar situations, mere popularity of design resources, or mandatory requirements. The usage of a design resource further contributes to establishment and reputation of the resource and its usage in new design situations.*
+
+**Commitment**: *In a new design situation designers use tools they committed to beforehand.*
+
+**Cherry Picking**: *Design situations are selected based on how quickly designers can approach these situations with preferred or available resources. Other situations are avoided.*
+
+
+
+## B. Patterns of Dynamics: Mottos
+
+**Co-Evolution of Problem-Solution**: *“If you want to change something, you need to understand it, if you want to understand something you need to change it.” ([Gravemeijer and Cobb 2006](#Gravemeijer2006))*
+
+**Puzzle Solving**: *"A problem well put is half solved." (John Dewey, The Pattern of Inquiry)*
+
+**A Solution Looking for a Problem**: *“When humans possess a tool, they excel at finding new uses for it.” ([Nye 2006](#Nye2006))*
+
+**Pandora's Box**: *“Everything we design has the potential not only to solve problems but also to create new ones.” ([Lawson 2005](#Lawson2005))*
+
+**The Force Awakens**: *"How can something seem so plausible at the time and so idiotic in retrospect?" (Bill Watterson, Calvin, and Hobbes)*
+
+**Your Design Is Your Reflection**: *"Every contact leaves a trace." (Edmond Locard)*
+
+**You Are Reflection of Your Design**: *"We are what we repeatedly do." (Will Durant, The Story of Philosophy)*
+
+**Design-by-Buzzword**: *"Projects that do not capitalize on new opportunities will generally find their products unable to compete." [Boehm and Bhuta (2008)](#Boehm2008)*
+
+**Conformity**: *"When in Rome, do as the Roman's do."*
+
+**Commitment**: *“It is a poor craftsman that blames his tools.”*
+
+**Cherry Picking**: *"Do one thing and do it well."*
+
+
+
+## C. Sources of Dynamics: Summaries
+
+**The Moving Target Problem**: *Design situations, resources, and outcomes change more rapidly than designers’ understanding of them. Consequently, designers need to work without having significant experience with, and understanding of, design situations, resources, and outcomes. Waiting to obtain more knowledge and better understanding is risky as the issues may quickly become less relevant or obsolete.*
+
+**Increasing Interconnectivity**: *Design situations, design outcome, and design resources are increasingly more globally interconnected. Increasing interconnectivity means that there are more ways or channels through which a design activity may be influenced.*
+
+**Learning and Creativity**: *Behaviors and expectations of people are continually changing due to their learning and creativity.*
+
+**Tacit Knowledge and Skills**: *Designers are relying on tacit knowledge and skills that they do not fully understand and cannot fully explain. Because of its implicit nature, it is hard to predict what effects tacit knowledge will have in design.*
+
+**Social Dynamics**: *Design situations, resources, and outcomes are complex socio-technical systems, with complex, difficult to predict dynamics.*
+
+**Lack of Strong Principles, Theories, and Laws**: *Designers are dealing with poorly understood phenomena, for which we do not have strong underlying principles, theories, and laws.*
+
+
+
+## D. Questions to Consider
+
+**Co-Evolution of Problem-Solution**:
+
+* Do you continuously investigate, experiment, and iteratively refine your designs?
+* How do you resolve uncertainties about design objectives and their priorities?
+* Do you use sketching and prototyping extensively?
+* How do you estimate and plan projects with the co-evolution pattern?
+* How do you decide to design something new versus buying it off-the-shelf?
+* Are you reinventing the wheel by co-evolving solutions for well-defined problems with off-the-shelf solutions?
+* Are you guilty of the not-invented-here syndrome, routinely building yourself things for any issue you face?
+* Have you ever used the off-the-shelf solution that was not appropriate for your domain? What issues have you faced?
+
+
+
+**Puzzle Solving**:
+
+* In your design activities, do you have lots of well-defined design sub-tasks, such as algorithm implementation?
+* Do you use a problem-solving approach for skills development in education and training?
+* Have you ever attempted to solve a problem only to realize that the problem is not well defined?
+* Have you ever successfully "solved" the wrong problem?
+* Have you ever created an unnecessarily complicated solution because you had not well understood the problem?
+
+
+
+**A Solution Looking for a Problem**:
+
+* Have you ever designed something just for fun?
+* Do you reserve time for experimentation and exploration of new technologies and methods?
+* Do you experiment with new technologies and practices even if you do not have a business case nor a clear idea about its usefulness?
+* Do you experiment with new technologies enough to get an opinion about them?
+* Are you always playing it safe, using only well-proven technologies and methods?
+
+
+
+**Pandora's Box**:
+
+* How do you manage the risk of encountering unforeseen issues?
+* How do you react when unexpected issues occur? Do you have a process for it?
+* Have you ever designed something that has caused significant unforeseen problems?
+* Have you ever regretted starting your design activity because of these unforeseen problems?
+
+
+
+**The Force Awakens**:
+
+* How do you analyze the market and respond to changes in it?
+* How do you anticipate the reaction of competition to your design efforts?
+* Have your design efforts ever cased other players (e.g., competition) to react strongly against your activities?
+* Have you ever responded strongly to the design efforts of others?
+* Have you ever experienced the effect vaporware, a practice of announcing a product that does not exist to gain a competitive advantage and keep customers from switching to competing products?
+
+
+
+**Your Design Is Your Reflection**:
+
+* Do you have your design style? How much do you care about it?
+* Do you use templates and standard sets of technologies and materials in your designs?
+* Do templates and standards help you to simplify and speed up your design efforts?
+* Do these templates and standards limit your design efforts?
+* How do you ensure consistency (when needed) in multiple design activities?
+* Is your organizational structure aligned with the structure of your design outcomes? How?
+* Have you ever experienced the effect of Conway's law, where your designs copied the communication structures of your organization?
+* Have you ever build unnecessary complex designs due to wrong organizational structures?
+* Have you ever experienced the effect of inverse Conway's law, changing your organization to suit the design outcome structure better?
+
+
+
+**You Are Reflection of Your Design**:
+
+* How do you choose technologies, materials, and tools for your designs?
+* Do you have preferred tools and techniques?
+* Have you ever obsessively used some technology or method, even though it was not the most appropriate for the task at hand?
+* Do you adapt your organizational structures for your designs?
+* How much effort you spend maintaining your existing designs versus creating the new ones?
+* Are you being slowed down by the need to maintain your previous (legacy) designs?
+
+
+
+**Design-by-Buzzword**:
+
+* Do you follow the latest trends in design tools and materials, and are you quick to adopt them?
+* Have you ever regretted being an early adopter of the latest fads?
+* Have you ever regretted not reacting soon enough to the latest trends?
+* How do you make decisions to adopt new technologies and methods?
+* Do you have organized events, such as hackathons, to systematically, but with limited risk, explore new opportunities?
+
+
+
+**Conformity**:
+
+* Do you use standard tools and methods with a significant user base?
+* Are you an early adopter for some technologies and methods?
+* Are you practices, tools, and methods similar to practices, tools, and methods of other companies or institutions?
+* Do you have some unique practices, tools, and methods? Why?
+* Do you regret conforming to some standard practices, tools, and methods, as they limit you?
+* Are you dependent on a vendor for products and services, and are unable to use another vendor without substantial switching costs?
+* Have you ever needed to change your design due to government decisions?
+
+
+
+**Commitment**:
+
+* How much freedom do you have in choosing your design resources?
+* Do you have some design resources you are committed to using most of the time?
+* How do you learn new practices, tools, and methods? When do you give up?
+* Do you "eat your own dog food"?
+* Have you ever regretted committing too much to some practice, tool, or method?
+* Do you have a golden hammer, applied obsessively to many problems?
+
+
+
+**Cherry Picking**:
+
+* On what types of design situations you work on usually?
+* Do you specialize in any way?
+* Do you say no to design opportunities outside your specialization?
+* How do you make sure not to overspecialize and became irrelevant once your specialization is not anymore needed?
+* Which patterns of dynamics typically occur in your design activities?
+* Are there some patterns that occur more often than the others?
+* Are there some patterns that do not occur at all?
+* How do you estimate the potential impact of your design outcomes, both short and long term?
+
+
+
+**The Moving Target Problem**:
+
+* Are you working in a dynamic domain where things change quickly?
+* How do you balance the need to spend more time understanding the situation and designing the outcome versus producing results rapidly?
+* How do you deal with uncertainty in design situations?
+* How do you react to change?
+* How do you respond to significant unforeseen problems?
+* Have you ever canceled you design effort due to significant changes in design situation or resources?
+
+
+
+**Increasing Interconnectivity**:
+
+* How many people are involved in your design activities?
+* How are they connected?
+* How many people are interacting with your design outcomes? Via which channels?
+* In which geographical zones are these people located?
+* How likely is that a change in remote regions will influence your design activities?
+
+
+
+**Learning and Creativity**:
+
+* How do you come up with new ideas?
+* How do you discipline your creativity?
+* How do you stimulate your individual and group creativity?
+* How do you prevent being unnecessary creative?
+
+
+
+**Tacit Knowledge and Skills**:
+
+* What kind of tacit knowledge and skills you use in your design activities?
+* How are you developing these skills?
+* How do you combine tacit (implicit) and explicit knowledge?
+* How do you capture and share tacit knowledge?
+* How do you plan activities that involve extensive usage of tacit skills?
+
+
+
+**Social Dynamics**:
+
+* What kind of culture your organization has? What kind of cultures your customers or users have?
+* While designing, how do you take into account cultural differences?
+* What kind of political issues you face in your design activities?
+* Are you a part of a broader professional community?
+* What type of ethical consideration do you meet in design activities?
+
+
+
+**Lack of Strong Principles, Theories, and Laws**:
+
+* Do you use any theories or models to analyze, predict or simulate elements of design activity?
+* How reliable are such models and theories?
+* How do you approach poorly understood situations and problems?
+
+
