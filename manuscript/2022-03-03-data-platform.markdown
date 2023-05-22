@@ -1,9 +1,9 @@
-{pagebreak}
+
 
 # Data Pillar {#data}
 
 style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover">
-{pagebreak}
+
 
 > **IN THIS SECTION, YOU WILL:**  Understand how to use available data in architecture decision processes and hints and tips on creating architecture-centric data tools.
 >
@@ -12,7 +12,7 @@ style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover">
 > * The architecture data pillar serves as a medium to create a complete, up-to-date picture of critical elements of technology landscapes of big organizations. 
 > * The data pillar provides an architecture-centric view on data about a technology landscape based on source code analyses, public cloud billing reports, vibrancy reports, or incident tickets.
 > * To facilitate creation of data pillars, I have been working on creating open-source tools, such as [Sokrates](https://sokrates.dev), that can help obtain valuable architectural insights from data sources, such as source code repositories.
-{pagebreak}
+
 
 
 <br>
@@ -22,7 +22,7 @@ In every place I worked on creating architectural functions, I strongly emphasiz
 
 The good news is that big organizations have lots of data that, if used wisely, can provide an excellent basis for an architectural data pillar. With some automation and curation, getting a good overview of the technology landscape may be closer than it initially appears.
 
-{pagebreak}
+
 
 
 ## Examples of Data Sources and Tools
@@ -44,7 +44,7 @@ In the following sections, I detail several of these architectural data-driven t
 
 I have repeatably found the source code to be an incredible source for creating data-driven architecture documentation. Source code and its commit history include an astonishing amount of information about technology, people activity, team dependencies, and the quality of software systems. I've started and still actively maintain the project [Sokrates](https://sokrates.dev), with the idea to help further extract data from source code that can help my work as an architect. I use Sokrates daily, improving it on the way.
 
-{pagebreak}
+
 
 
 I have designed Sokrates from an architect's point of view, enabling quick zooming in and out into source code landscapes. On the one hand, Sokrates provides a high-level view of the landscape, summarizing data from all teams and groups. At the same time, you can zoom in on the details of particular systems to the code level. That means you can use the same tools to have CTO-level discussions looking at overall trends in our technology usage and costs. At the same time, I could engage with developers and discuss concrete code fragments and potential improvements in the code level (e.g., duplicated blocks, complex units, dependencies).

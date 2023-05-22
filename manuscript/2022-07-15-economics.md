@@ -1,15 +1,15 @@
-{pagebreak}
+
 
 # Economic Modeling: ROI and Financial Options {#economics}
 
-{pagebreak}
+
 
 > **KEY POINTS:**
 >
 > * Architects are frequently asked about the (economic) value of architecture or technology investments.
 > * Answering this question is a crucial skill for any senior architect. But it may be difficult to answer this seemingly harmless question concisely and convincingly to a non-technical audience.
 > * Borrowing from existing literature, I sketch two answers to the question of the economic value of architecture: the return on investment metaphor and the selling options metaphor.
-{pagebreak}
+
 
 
 Architects frequently need to answer questions about (economic) value of technology investments and architecture. Answering this question is a crucial skill for any senior architect. But it may be difficult to answer this seemingly harmless question concisely and convincingly to a non-technical audience.
@@ -38,7 +38,7 @@ In economic terms, return on investment (ROI) is a ratio between profits and cos
 An investment in good architecture can help increase ROI of the IT. An excellent example of using the ROI metaphor to argue for investing in architecture is the port of Martin Fowler, who uses this argument to argue for the importance of [investing in improving internal quality](https://martinfowler.com/articles/is-quality-worth-cost.html). Figure 3 summarizes his argument.
 
 
-{pagebreak}
+
 
 
 
@@ -63,7 +63,7 @@ Options are not free, and there is a complex market for buying and selling finan
 
 Applying the financial option metaphor to IT architecture, we can argue that buying options gives the business and IT a way to defer decisions. Gregor Hohpe gives an example of the server's size that you need to purchase for a system. If your application is architected to be horizontally scalable, you can defer this decision: additional (virtual) servers can be ordered later at a known unit cost.
 
-{pagebreak}
+
 
 
 

@@ -1,8 +1,8 @@
-{pagebreak}
+
 
 # People Pillar {#people}
 
-{pagebreak}
+
 
 > **IN THIS SECTION, YOU WILL:**  Understand that architecture is about people and get hints and tips on creating organizational structures that support practical architecture functions.
 >
@@ -17,7 +17,7 @@
 > * In my work in the past few years, I was working by combining, in different forms, two teams of architects: a small
 central architecture team and a cross-organizational distributed virtual team.
  
-{pagebreak}
+
 
 
 <br>
@@ -28,7 +28,7 @@ network of people doing architecture across the organization is crucial to ensur
 tangible impact. In other words, Strong Architecture =
 Strong Architects.
 
-{pagebreak}
+
 
 
 Developing the architecture function requires having competent, empowered, and motivated architects. We should not take
@@ -55,7 +55,7 @@ The architecture function generally follows one of two fundamental models: centr
 ([McKinsey 2022](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/tech-forward/crafting-the-optimal-model-for-the-it-architecture-organization)).
 
 ![](assets/images/archdata/general-operating-models.png)
-{pagebreak}
+
 
 
 The central model involves a large-scale central architecture team. The central team typically defines the process for
@@ -165,7 +165,7 @@ Credit: [Gregor Hohpe](https://architectelevator.com/architecture/organizing-arc
 
 In big organization, embracing diversity is a pre-requirements to have any broad impact.
 
-{pagebreak}
+
 
 
 <br>
@@ -191,5 +191,5 @@ architecture teams or "[People Pillar](#people)":
   both grow and attract architectural talent.
 
 ![](assets/images/arch/pyramid-g88f894074_1920.jpg)
-{pagebreak}
+
 

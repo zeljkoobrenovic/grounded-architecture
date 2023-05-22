@@ -1,9 +1,9 @@
-{pagebreak}
+
 
 # Leadership {#leadership}
 
 
-{pagebreak}
+
 
 > **IN THIS SECTION, YOU WILL:**  Understand how to apply ideas from David Marquet's work and Netflix's valued behaviors to develop architects' leadership traits.
 > 
@@ -11,10 +11,10 @@
 > * My view of architecture leadership is inspired by David Marquet's work and the Netflix's valued behaviors.
 > * Marquet focused on leadership and organizational management, with a particular emphasis on the principles of Intent-Based Leadership.
 > * Borrowing from Netflix's original values the following behavioral traits are crucial for architects are: communication, judgment, impact, inclusion, selflessness, courage, integrity, curiosity, innovation, and passion.
-{pagebreak}
 
 
-{pagebreak}
+
+
 
 <br>
 
@@ -27,7 +27,7 @@ Marquet's work is closely tied to the Leader-Leader model of leadership, a style
 
 This leadership approach empowers individuals to take ownership of their work and collaborate with others to achieve common goals. Instead of relying on a single leader to make all decisions, authority, and responsibility are distributed across the team.
 
-{pagebreak}
+
 
 
 The leader-leader model is an excellent standard for architects' leadership vision. Like managers in a leader-leader model, architects should act more as facilitators, coaches, and mentors than traditional top-down decision-makers. They provide team members guidance, support, or resources to help them achieve their goals and reach their full potential.
@@ -37,12 +37,12 @@ One of the key benefits of a leader-leader model is that it creates a more colla
 David Marquet's book "Leadership is Language" provides practical advice for leaders looking to create a more collaborative, innovative, and inclusive organizational culture. He emphasizes the importance of language and communication in leadership and introduces the phrase "I intend to" as a powerful tool for clarifying intent and empowering team members. When team members give intent, the psychological ownership of those actions shifts to them, making them the originators of thought and direction instead of passive followers. This shift in language helps to promote a more collaborative work environment.
 
 ![](assets/images/arch/leader-leader.jpg)
-{pagebreak}
+
 
 <br>
 I have found a phase "I intend to" to be a powerful catalyst for positioning architecture work. The phrase helps describe the work architect as someone others expect to take the initiative and lead efforts. But also to describe the desired interaction of architects with the teams they work with, where we hope teams share their intentions which architects can help improve.
 
-{pagebreak}
+
 
  
 ## Netflix Valued Behaviors: Leadership Behaviors

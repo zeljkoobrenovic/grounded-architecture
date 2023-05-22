@@ -1,15 +1,15 @@
-{pagebreak}
+
 
 # Bookshelf {#bookshelf}
 
-{pagebreak}
+
 
 > **KEY POINTS:**
 >
 > * I provide an overview of the background work for you to probe further, linking several external resources inspiring my work.
 > * I grouped the resources in the following sections: Introductions, Soft Skills, Business & Strategy, and Hard Skills.
 
-{pagebreak}
+
 
 
 <br>
@@ -23,9 +23,9 @@
 <b>The Software Architect Elevator: Redefining the Architect's Role</b> by Gregor Hohpe defines architects as people that can fill a void in large enterprises: they work and communicate closely with technical staff on projects but are also able to convey technical topics to upper management without losing the essence of the message. Conversely, they understand the company's business strategy and can translate it into technical decisions that support it.
 </td>
 <td style="font-size: 50%; line-height: 12px; text-align: center">
-{pagebreak}
 
-{pagebreak}
+
+
 
 </td>
 </tr>
@@ -36,7 +36,7 @@
 <b>SE Radio: On Architecture</b>: for those interested in IT Architecture, I've created a curated Spotify playlist of Software Engineering Radio Episodes focusing on Architecture.
 </td>
 <td style="font-size: 50%; line-height: 12px; text-align: center">
-{pagebreak}
+
 
 </td>
 </tr>
@@ -311,9 +311,9 @@ transactions, event logs, and much more.
 <b>The Culture Map: Decoding How People Think, Lead, and Get Things Done Across Cultures</b>: provides a framework for handling intercultural differences in business and illustrates how different cultures perceive the world. Awareness of intercultural differences is crucial for the success of an architect in an international setting. It helps us understand these differences and, in doing so, improves our ability to react to specific behaviors that might have once seemed strange.
 </td>
 <td style="font-size: 50%; line-height: 12px; text-align: center">
-{pagebreak}
 
-{pagebreak}
+
+
 
 </td>
 </tr>
@@ -325,7 +325,7 @@ transactions, event logs, and much more.
 <b>Turn the Ship Around!</b> by L. David Marquet:  Around reveals the story of how one United States Navy captain managed to turn a dissatisfied submarine crew into a formidable and respected team. But how did he do it? By changing the way we think about leadership, this story will show you that inside, we all have the power to be leaders.
 </td>
 <td style="font-size: 50%; line-height: 12px; text-align: center">
-{pagebreak}
+
 
 </td>
 </tr>
@@ -337,7 +337,7 @@ transactions, event logs, and much more.
 <b>Leadership is Language</b> by L. David Marquet is a playbook for successful team management. Written by a former US Navy captain, it teaches leaders how they can change their language and mindsets in order to improve decision-making, empower workers, and achieve better results..
 </td>
 <td style="font-size: 50%; line-height: 12px; text-align: center">
-{pagebreak}
+
 
 </td>
 </tr>
@@ -420,7 +420,7 @@ faster you need to accelerate. Sometimes, you need to jerk the system a bit, whi
 derivative.
 </td>
 <td style="font-size: 50%; line-height: 12px; text-align: center">
-{pagebreak}
+
 
 </td>
 </tr>
@@ -457,7 +457,7 @@ minutes-no matter what the size of a project or the complexity of its code base.
 <b>Six Simple Rules: How to Manage Complexity without Getting Complicated</b> by  Yves Morieux and Peter Tollman: the book emphasis that in today’s complicated business environment, you need to setup organisational structures based on cooperation. To deal with complexity, organizations should depend on the judgment of their people, which requires giving them more autonomy to act. It also depends on these people cooperating to utilize the organization's capabilities to cope with complex problems. 
 </td>
 <td style="font-size: 50%; line-height: 12px; text-align: center">
-{pagebreak}
+
 
 </td>
 </tr>
@@ -470,7 +470,7 @@ minutes-no matter what the size of a project or the complexity of its code base.
 <b>The Personal MBA 10th Anniversary Edition</b> by Josh Kaufman provides an overview of the essentials of every major business topic: entrepreneurship, product development, marketing, sales, negotiation, accounting, finance, productivity, communication, psychology, leadership, systems design, analysis, and operations management.
 </td>
 <td style="font-size: 50%; line-height: 12px; text-align: center">
-{pagebreak}
+
 
 </td>
 
@@ -494,7 +494,7 @@ patterns and templates—to produce great technology strategies.
 <b>Escaping the Build Trap</b> by Melissa Perri is a practical guide to product management, product strategy, and ensuring product success.
 </td>
 <td style="font-size: 50%; line-height: 12px; text-align: center">
-{pagebreak}
+
 
 </td>
 </tr>

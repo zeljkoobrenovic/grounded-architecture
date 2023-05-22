@@ -1,8 +1,8 @@
-{pagebreak}
+
 
 # Introduction {#intro}
 
-{pagebreak}
+
 
 > **IN THIS SECTION, YOU WILL:** Understand what this playbook is about and how to use it.
 >
@@ -12,7 +12,7 @@
 > * I called this approach "Grounded Architecture," highlighting the need for any IT architecture function to stay well-connected to all levels of an organization and led by data.
 > * In this section, I explain my motivation to write this playbook.
 
-{pagebreak}
+
 
 <br>
 In recent years, we have witnessed several shifts in the role of IT architects. IT architects' role has changed, and Gregor Hohpe's book, The [Software Architect Elevator](https://architectelevator.com/book/), highlights this shift. The book emphasizes the importance of the architect's ability to bridge the gap between high-level decision-making and low-level technical implementation. Hohpe compares the architect's role to an elevator, moving between different levels of the organization and translating goals and requirements between business executives and technical developers.
@@ -24,7 +24,7 @@ To answer these questions, the only way forward, in my view,  is to share lesson
 With this playbook, I want to share critical lessons I learned from implementing Software Architecture Elevator ideas in practice. More specifically, I will describe an approach to applying the concepts of Software Architecture Elevator vision to running an IT architecture practice in complex organizations, which I call "Grounded Architecture." I used the term "Grounded Architecture" to highlight the need for any IT architecture function to stay well-connected to all levels of an organization and led by data. This playbook aims to share my approach to running an IT architecture practice in larger organizations based on my experience as Chief Architect at AVIV Group, eBay Classifieds, and Adevinta.
 
 
-{pagebreak}
+
 
 
 Grounded Architecture has two main parts:

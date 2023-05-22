@@ -1,8 +1,8 @@
-{pagebreak}
+
 
 # Value of Grounded Architecture {#value}
 
-{pagebreak}
+
 
 > **IN THIS SECTION, YOU WILL:**  Understand the value Grounded Architecture can create for an organization.
 > 
@@ -10,7 +10,7 @@
 >
 > * When Grounded Architecture is in place, it can have a significant positive impact on the functioning of an organization.
 > * These categories of impact are: Executing At Scale, Increasing the Quality of Decision-Making with Data, Maximizing Organizational Alignment & Learning, Higher Adaptivity.
-{pagebreak}
+
 
 
 <br>
@@ -30,7 +30,7 @@ The following sections elaborate on these categories in line with the [goals](go
 Grounded Architecture aims to enable architecture functions to operate at scale efficiently. We must rely on something other than intuition and manual processes when supporting thousands of developers and dealing with hundreds of millions of lines of code.
 
 <br>
-{pagebreak}
+
 
 
 The architecture data pillar aims to support working at scale with automation and self-service. Our People Pillar aims to help execution at scale by developing connections at all levels of the organization, increasing transparency, and through a strong network speeding up alignment and the execution of shared decisions.
@@ -43,7 +43,7 @@ The architecture data pillar aims to support working at scale with automation an
 Architectural discussions can be very heated and opinionated. There are significant benefits to making our decision process as much as possible data-driven. It is one of the critical tasks for any architect to maintain high-quality data on relevant internal and external technology developments, providing fuel for data-informed discussions and decision-making.
 
 <br>
-{pagebreak}
+
 
 
 
@@ -62,7 +62,7 @@ Misalignment frequently happens in big organizations. The [Data Pillar](#data) c
 * Before people decide, people starting to work simultaneously on the same topics can decide to work together, minimize effort duplication, and in that way, save time and resources.
 * After making a decision, Grounded Architecture can make all organizations aware of it and distribute it so everyone can profit from lessons learned in one unit.
 
-{pagebreak}
+
 
 <br>
 <br>
@@ -103,5 +103,5 @@ This adaptivity is driven by the independence of elements and the possibility of
 * Lastly, the structure of our architectural model enables a more sustainable architectural function. With an established [Data Pillar](#data) and a well-connected architect, the architecture can still benefit the organization even without a strong central team.
 
 <br>
-{pagebreak}
+
 

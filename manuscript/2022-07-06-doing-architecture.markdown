@@ -1,10 +1,10 @@
-{pagebreak}
+
 
 # Doing Architecture {#doing-architecture}
 
-{pagebreak}
 
-{pagebreak}
+
+
 
 
 > **KEY POINTS:**

@@ -13,7 +13,7 @@ def copy_post(post):
             if not in_header:
                 if line.startswith('---') or line.startswith('<style') or line.startswith('<div'):
                     in_header = True
-                    content += '{pagebreak}\n\n'
+                    content += '\n\n'
                 elif not line.strip().startswith('<img') and not line.strip().startswith('src='):
                     line = line.replace('](data)', '](#data)')
                     line = line.replace('](people)', '](#people)')

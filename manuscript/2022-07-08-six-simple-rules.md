@@ -1,11 +1,11 @@
-{pagebreak}
+
 
 # Managing Organizational Complexity: Six Simple Rules {#six-simple-rules}
 
 
-{pagebreak}
 
-{pagebreak}
+
+
 
 
 > **KEY POINTS:**
@@ -17,7 +17,7 @@
 <br>
 The book [Six Simple Rules: How to Manage Complexity without Getting Complicated](https://www.bcg.com/capabilities/organization/smart-simplicity/six-rules-overcoming-complexity), by  Yves Morieux and Peter Tollman, is another source of inspiration for my vision on the Architecture function. Morieux and Tollman introduced a concept of Smart Simplicity with six rules or strategies that enable organizations to promote new behaviors and improve performance.
 
-{pagebreak}
+
 
 
 Six Simple Rules emphasis that in today’s complicated business environment, you **need to setup organisational structures based on cooperation**. To deal with complexity, organizations should depend on the judgment of their people, which requires giving them more autonomy to act. It also depends on these people cooperating to utilize the organization's capabilities to cope with complex problems.
@@ -66,7 +66,7 @@ This difference between **Autonomy** and **Self-Sufficiency** leads us to the se
 First rule states that you need to truly understand performance: **what people do** and **why they do it**. When you understand why people do what they do and how it drives performance, you can define the **minimum sufficient set of interventions with surgical accuracy**. 
  
 ![](assets/images/arch/viewpoint-gbe06b9b1a_1920.jpg)
-{pagebreak}
+
 
 
 ### General Guidelines
@@ -90,7 +90,7 @@ I have found architecture function can be very helpful in understand what people
 Reinforce integrators by looking at those **directly involved in the work**, giving them **power and interest to foster cooperation in dealing with complexity** instead of resorting to the paraphernalia of overarching hierarchies, overlays, dedicated interfaces, balanced scorecards, or coordination procedures.
  
 ![](assets/images/arch/agree-g1f407320e_1920.jpg)
-{pagebreak}
+
 
 
 ### General Guidelines
@@ -115,7 +115,7 @@ Whenever you consider an **addition to** your organization’s **structure, proc
 
 
 ![](assets/images/arch/girls-gf0cc5fe5a_1920.jpg)
-{pagebreak}
+
 
 
 ### General Guidelines
@@ -138,7 +138,7 @@ Architecture supports increasing power quantity with the **[operating model](act
 
 In the face of business complexity, work is becoming more inter-dependent. To meet multiple and often contradictory performance requirements, **people need to rely more on each other**. They need to **cooperate directly** instead of relying on dedicated interfaces, coordination structures or procedures that only add to complicatedness. 
 
-{pagebreak}
+
 
 
 
@@ -164,7 +164,7 @@ Lastly, the Six Simple Rules approach recommends that when you cannot create dir
 
 
 ![](assets/images/arch/people-gac98109e9_1920.jpg)
-{pagebreak}
+
 
 
 ### General Guidelines

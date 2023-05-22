@@ -1,14 +1,14 @@
-{pagebreak}
+
 
 # Tools {#tools}
 
-{pagebreak}
+
 
 > **KEY POINTS:**
 >
 > * I provide an overview of several tools I've built and use in daily architectural work..
 
-{pagebreak}
+
 
 
 ## Tools
@@ -23,7 +23,7 @@ Sokrates provides a pragmatic, inexpensive way to extract rich data from source 
 Sokrates can help you understand your code by making visible the size, complexity, and coupling of software and all people interactions and team topologies.
 </td>
 <td style="font-size: 50%; line-height: 12px; text-align: center">
-{pagebreak}
+
 
 </td>
 </tr>
@@ -34,7 +34,7 @@ Sokrates can help you understand your code by making visible the size, complexit
 <b>Productivity Tools</b>: a collection of online tools I built to help me in my daily work as an architect. I reuse these tools and lessons learned in building these tools when designing data pillar parts of the grounded architecture.
 </td>
 <td style="font-size: 50%; line-height: 12px; text-align: center">
-{pagebreak}
+
 
 </td>
 </tr>
@@ -45,7 +45,7 @@ Sokrates can help you understand your code by making visible the size, complexit
 <b>obren359.com</b>: I've created a curated collections and high-quality IT resources (articles, videos, podcasts).
 </td>
 <td style="font-size: 50%; line-height: 12px; text-align: center">
-{pagebreak}
+
 
 </td>
 </tr>

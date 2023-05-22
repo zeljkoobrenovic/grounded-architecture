@@ -1,10 +1,10 @@
-{pagebreak}
+
 
 # Skills {#skills}
 
-{pagebreak}
 
-{pagebreak}
+
+
 
 
 > **IN THIS SECTION, YOU WILL:**  Understand that architects' skills should include technical, communication, and business skills, and get valuable pointers to resources for developing these skills.
@@ -12,12 +12,12 @@
 > **KEY POINTS:**
 >
 > * A typical skillset of an architects includes: hard (technical) skills, soft (people & social) skills, and business skills.
-{pagebreak}
+
 
 
 Architects have to have proper skill sets. By skills, I mean possessing knowledge and the ability to apply relevant knowledge in practice. These skills should include both technical (e.g., cloud architecture or Kubernetes technology) as well as communication and influence skills.
 
-{pagebreak}
+
 
 
 A typical skillset of an architects includes (I provide links to some of my [tools](https://obren.io/tools) I found useful for obtaining these skills):

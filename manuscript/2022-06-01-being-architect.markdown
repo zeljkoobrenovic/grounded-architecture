@@ -1,10 +1,10 @@
-{pagebreak}
+
 
 # Being Architect {#being-architect}
 
-{pagebreak}
 
-{pagebreak}
+
+
 
 > **IN THIS SECTION, YOU WILL:**  Get an overview of topics related to what it means to be an architect, covered in this chapter.
 >
