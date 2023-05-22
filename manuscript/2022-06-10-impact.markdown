@@ -87,7 +87,7 @@ Architects are frequently seen and leaders and role models that should help orga
 the bar on the technical and cultural fronts. I group such role of architect in three categories:
 citizenship, design and architecture, and software engineering.
 
-#### <u>Citizenship</u>
+#### Citizenship
 
 * **Contribute to the broader technical community** through tech talks, education, publications, open source projects,
   etc.
@@ -95,7 +95,7 @@ citizenship, design and architecture, and software engineering.
 * **Lead efforts** that solve **important problems** in their areas.
 * **Raise the bar** of the engineering culture across the company.
 
-#### <u>Design and Architecture</u>
+#### Design and Architecture
 
 Architects are leading authority for systematic and strategic design and architecture topics:
 
@@ -103,7 +103,7 @@ Architects are leading authority for systematic and strategic design and archite
   recognize systemic problems and can **articulate possible solutions** to them.
 * **Improve the definition of best practices** and architecture with deep domain knowledge.
 
-#### <u>Software Engineering</u>
+#### Software Engineering
 
 Lastly, architects can help by staying well-connected to software engineering practice, leveraging their experience to:
 
