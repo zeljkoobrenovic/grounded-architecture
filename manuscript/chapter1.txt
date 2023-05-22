@@ -1,7 +1,5 @@
-<img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/staircase-274614_1920.jpg">
-<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by <a href="https://pixabay.com/users/fda54-145996/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=274614">fda54</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=274614">Pixabay</a>
-</div>
+# Intro
+
 > **IN THIS SECTION, YOU WILL:** Understand what this playbook is about and how to use it.
 >
 > **KEY POINTS:**
@@ -20,9 +18,7 @@ To answer these questions, the only way forward, in my view,  is to share lesson
 With this playbook, I want to share critical lessons I learned from implementing Software Architecture Elevator ideas in practice. More specifically, I will describe an approach to applying the concepts of Software Architecture Elevator vision to running an IT architecture practice in complex organizations, which I call "Grounded Architecture." I used the term "Grounded Architecture" to highlight the need for any IT architecture function to stay well-connected to all levels of an organization and led by data. This playbook aims to share my approach to running an IT architecture practice in larger organizations based on my experience as Chief Architect at AVIV Group, eBay Classifieds, and Adevinta.
 
 
-<div class="quote">
-I called my approach "grounded architecture," highlighting the need for any IT architecture function to stay well-connected to all levels of an organization and led by data.
-</div>
+> I called my approach "grounded architecture," highlighting the need for any IT architecture function to stay well-connected to all levels of an organization and led by data.
 
 Grounded Architecture has two main parts:
 * **Structure**, elements you need to create in an organization to run Grounded Architecture practice and "ride" an architecture elevator, and
