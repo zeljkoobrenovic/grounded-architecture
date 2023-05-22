@@ -1,4 +1,4 @@
-# Impact
+# Impact {#impact}
 
 
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
@@ -35,7 +35,7 @@ To make this impact, architect need a few key competencies.
 <br>
 ## Pillars of Impact
 
-Architects must have [strong technical, people, and business skills](skills), ideally obtained through years of practice. On top of this strong foundation, architects need to develop competencies that enable them to use their experiences and abilities to impact organizational performance positively. The more senior architects become, the more their competency development should be driven by the impact they need to have rather than mere skills development. I typically coach architects in the context of concrete activities, guiding their development via involvement in the right set of actions and crafting skills developments based on challenges in making an expected impact in practice.
+Architects must have [strong technical, people, and business skills](#skills), ideally obtained through years of practice. On top of this strong foundation, architects need to develop competencies that enable them to use their experiences and abilities to impact organizational performance positively. The more senior architects become, the more their competency development should be driven by the impact they need to have rather than mere skills development. I typically coach architects in the context of concrete activities, guiding their development via involvement in the right set of actions and crafting skills developments based on challenges in making an expected impact in practice.
 
 <div class="quote">
 I typically coach architects in the context of concrete activities, guiding their development via involvement in the right set of actions and crafting skills developments based on challenges in making an expected impact in practice.
@@ -66,7 +66,7 @@ were helpful guides in defining the responsibilities of architects.
 Architects are frequently the only people in the organization with a "helicopter view," overseeing vast domains and being able to foresee the consequences of decisions in a broader context. As big-picture thinkers, architects can help organizations in multiple ways:
 
 * Seeing the **big picture** can identify high leverage points for maximum impact.
-* **Helping others to see the big picture** and create tools (e.g., [Data Pillar](data)) that facilitate big-picture thinking.
+* **Helping others to see the big picture** and create tools (e.g., [Data Pillar](#data)) that facilitate big-picture thinking.
 * Being able to **zoom in and out**, having a strategic overview, but being able to go deep and engage with implementaiton details.
 * Using big-picture thinking to **consistently root out inefficiencies** and lead the adoption of technologies and
   processes that **make multiple teams more efficient**.

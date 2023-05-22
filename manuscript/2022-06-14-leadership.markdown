@@ -1,4 +1,4 @@
-# Leadership
+# Leadership {#leadership}
 
 
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
@@ -70,7 +70,7 @@ People frequently call architects to be objective judges when others cannot agre
 
 ### Impact
 
-As discussed in the [Architects as Superglue](superglue), the architect's impact should be measured as a benefit for the business. Architects need to ensure that what they are making profits the company. As an architect, you need to show the following impact traits:
+As discussed in the [Architects as Superglue](#superglue), the architect's impact should be measured as a benefit for the business. Architects need to ensure that what they are making profits the company. As an architect, you need to show the following impact traits:
 
 * You accomplish significant amounts of **important work**
 * You **make your colleagues better**

@@ -1,4 +1,4 @@
-# Economic Modeling: ROI and Financial Options
+# Economic Modeling: ROI and Financial Options {#economics}
 
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
      src="assets/images/arch/money-g45f6788de_1920.jpg">

@@ -1,4 +1,4 @@
-# Favorite Quotes
+# Favorite Quotes {#quotes}
 
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
      src="assets/images/arch/books-g1b2675255_1920.jpg">

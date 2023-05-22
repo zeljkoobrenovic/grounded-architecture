@@ -1,4 +1,4 @@
-# People Pillar
+# People Pillar {#people}
 
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover"
 src="assets/images/arch/construction-4939383_1920.jpg">
@@ -101,7 +101,7 @@ similar topics.
 The roles of people in central teams may differ depending on the organization. In addition to doing typical architecture
 work, I found it helpful to be able to have people that can cover the following types of responsibilities:
 
-* **Build and maintain the architecture [Data Pillar](data).** Building a data pillar will not happen by
+* **Build and maintain the architecture [Data Pillar](#data).** Building a data pillar will not happen by
   accident. It requires clear ownership, curation, and technical support.
 * **Promote data-informed decision-making.** identify, collect, and use relevant data. Only some people are used to
   applying data in their decision-making. Architects should provide support and be a role-model for data-informed
@@ -174,7 +174,7 @@ In big organization, embracing diversity is a pre-requirements to have any broad
 ## Building People Pillar
 
 While each organization will need its unique approach, here are some tips I found helpful in my approach to forming
-architecture teams or "[People Pillar](people)":
+architecture teams or "[People Pillar](#people)":
 
 * Before making grandiose plans for reorganizations, connect with the people already doing architectural work in an
   organization, creating a community of practices or a virtual team. Being inclusive and connecting all key tech

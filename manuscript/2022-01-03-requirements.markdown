@@ -1,4 +1,4 @@
-# Goals
+# Goals {#goals}
 
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
      src="assets/images/stress-gc7a712a2f_1920.jpg">
