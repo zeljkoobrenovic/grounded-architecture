@@ -7,15 +7,15 @@
 ![](assets/images/arch/pole-vault.jpg)
 
 
-> **IN THIS SECTION, YOU WILL:**  Get ideas and tips about architects' career paths.
-> 
+A> **IN THIS SECTION, YOU WILL:**  Get ideas and tips about architects' career paths.
+A> 
 
 {pagebreak}
 
-> **KEY POINTS:**
->
-> * Architects' career paths ideally stem from a strong engineering background.
-> * Hiring architects requires constantly raising the bar to ensure a strong and diverse team structure.  
+A> **KEY POINTS:**
+A>
+A> * Architects' career paths ideally stem from a strong engineering background.
+A> * Hiring architects requires constantly raising the bar to ensure a strong and diverse team structure.  
 
 
 

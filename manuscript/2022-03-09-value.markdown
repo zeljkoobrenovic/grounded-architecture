@@ -5,15 +5,15 @@
 
 ![](assets/images/arch/gold-gd9bc167a4_1920.jpg)
 
-> **IN THIS SECTION, YOU WILL:**  Understand the value Grounded Architecture can create for an organization.
-> 
+A> **IN THIS SECTION, YOU WILL:**  Understand the value Grounded Architecture can create for an organization.
+A> 
 
 {pagebreak}
 
-> **KEY POINTS:**
->
-> * When Grounded Architecture is in place, it can have a significant positive impact on the functioning of an organization.
-> * These categories of impact are: Executing At Scale, Increasing the Quality of Decision-Making with Data, Maximizing Organizational Alignment & Learning, Higher Adaptivity.
+A> **KEY POINTS:**
+A>
+A> * When Grounded Architecture is in place, it can have a significant positive impact on the functioning of an organization.
+A> * These categories of impact are: Executing At Scale, Increasing the Quality of Decision-Making with Data, Maximizing Organizational Alignment & Learning, Higher Adaptivity.
 
 
 
@@ -39,7 +39,7 @@ The architecture data pillar aims to support working at scale with automation an
 
 ## Increasing the Quality of Decision-Making with Data
 
-> *"If we have data, let's look at data. If all we have are opinions, let's go with mine."* -— Jim Barksdale
+A> *"If we have data, let's look at data. If all we have are opinions, let's go with mine."* -— Jim Barksdale
 
 Architectural discussions can be very heated and opinionated. There are significant benefits to making our decision process as much as possible data-driven. It is one of the critical tasks for any architect to maintain high-quality data on relevant internal and external technology developments, providing fuel for data-informed discussions and decision-making.
 
@@ -66,9 +66,9 @@ Misalignment frequently happens in big organizations. The [Data Pillar](#data) c
 
 
 ## Maximizing Organizational Learning
-> *"Good judgment comes from experience, and experience comes from bad judgment."* -- Fred Brooks
->
-> *" I expect you to learn to be better each day. I challenge you to look at each working day as an opportunity to learn more, and by doing so, to grow as a person."* -- L. David Marquet
+A> *"Good judgment comes from experience, and experience comes from bad judgment."* -- Fred Brooks
+A>
+A> *" I expect you to learn to be better each day. I challenge you to look at each working day as an opportunity to learn more, and by doing so, to grow as a person."* -- L. David Marquet
 
 When we have teams of well-connected architects and other stakeholders, such groups can transform individual experiences into collective knowledge to benefit the whole organization.
 

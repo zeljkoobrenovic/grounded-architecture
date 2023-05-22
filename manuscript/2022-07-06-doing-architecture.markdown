@@ -11,9 +11,9 @@
 
 {pagebreak}
 
-> **KEY POINTS:**
->
-> * I introduce ideas and key lessons I learned while developing ideas of Grounded Architecture in practice.
+A> **KEY POINTS:**
+A>
+A> * I introduce ideas and key lessons I learned while developing ideas of Grounded Architecture in practice.
 
 The following reflections provide some resources, ideas and key lessons I learned while developing ideas of Grounded Architecture in practice:
 

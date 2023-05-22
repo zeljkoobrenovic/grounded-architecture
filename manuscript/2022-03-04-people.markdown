@@ -5,20 +5,20 @@
 
 ![](assets/images/arch/construction-4939383_1920.jpg)
 
-> **IN THIS SECTION, YOU WILL:**  Understand that architecture is about people and get hints and tips on creating organizational structures that support practical architecture functions.
->
+A> **IN THIS SECTION, YOU WILL:**  Understand that architecture is about people and get hints and tips on creating organizational structures that support practical architecture functions.
+A>
 
 {pagebreak}
 
-> **KEY POINTS:**
->
-> * Developing the architecture function requires having competent, empowered, and motivated architects. 
-> * Any architecture function must carefully organize, empower,
+A> **KEY POINTS:**
+A>
+A> * Developing the architecture function requires having competent, empowered, and motivated architects. 
+A> * Any architecture function must carefully organize, empower,
     and leverage scarce architecture talent.
-> * We should not take architectural talent for granted. Architects are bridging local business, product, 
+A> * We should not take architectural talent for granted. Architects are bridging local business, product, 
     organizational, and technology issues. Architects are difficult to hire talent as they need not only 
     in-depth technical knowledge but also domain-specific and organizational knowledge. 
-> * In my work in the past few years, I was working by combining, in different forms, two teams of architects: a small
+A> * In my work in the past few years, I was working by combining, in different forms, two teams of architects: a small
 central architecture team and a cross-organizational distributed virtual team.
  
 
@@ -116,10 +116,10 @@ backup if community support weakens, ensuring long-term continuity.
 
 ### Architecture Guilds & Virtual Architecture Teams
 
-> *“A lot of cheap seats in the arena are filled with people who never venture onto the floor. They just hurl
+A> *“A lot of cheap seats in the arena are filled with people who never venture onto the floor. They just hurl
 mean-spirited criticisms and put-downs from a safe distance. ... we need to be selective about the feedback we let into
 our lives. For me, if you’re not in the arena getting your ass kicked, I’m not interested in your feedback.”* — Brené
-> Brown, Rising Strong
+A> Brown, Rising Strong
 
 I always found it essential to connect organization members passionate about architecture in some form, a guild, a
 community of interest, or a virtual team.

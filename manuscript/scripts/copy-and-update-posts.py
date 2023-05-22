@@ -16,7 +16,9 @@ def copy_post(post):
                     content += '\n\n'
                 elif line.strip().startswith('> **KEY POINTS:') or line.strip().startswith('> ***KEY POINTS:'):
                     content += '\n{pagebreak}\n\n'
-                    content += line
+                    content += 'A' + line
+                elif line.strip().startswith('>'):
+                    content += 'A' + line
                 elif line.strip().startswith('<img') or line.strip().startswith('src='):
                     if 'src=' in line:
                         sub_line = line[line.index('src='):]

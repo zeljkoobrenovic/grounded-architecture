@@ -12,11 +12,11 @@
 
 {pagebreak}
 
-> **KEY POINTS:**
-> * The product trap occurs when businesses focus too much on their product’s features and functionalities, overlooking their customers’ actual needs and preferences.
-> * There are three bad product-development organizations: sales, visionary, and technology led companies, .
-> * There are several bad product manager archetypes: Mini-CEO, Waiter, and Former Project Manager.
-> * Critical elements of successful product-led companies include: Understanding Customer Needs, Adopting a Customer-Centric Approach, Executing Iterative Product Development, Aligning Business Goals with Customer Needs, Embracing Innovation and Agility, and Measuring Success.
+A> **KEY POINTS:**
+A> * The product trap occurs when businesses focus too much on their product’s features and functionalities, overlooking their customers’ actual needs and preferences.
+A> * There are three bad product-development organizations: sales, visionary, and technology led companies, .
+A> * There are several bad product manager archetypes: Mini-CEO, Waiter, and Former Project Manager.
+A> * Critical elements of successful product-led companies include: Understanding Customer Needs, Adopting a Customer-Centric Approach, Executing Iterative Product Development, Aligning Business Goals with Customer Needs, Embracing Innovation and Agility, and Measuring Success.
 
 
 
