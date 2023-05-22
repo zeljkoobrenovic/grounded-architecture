@@ -1,73 +1,141 @@
-# Part I: Introduction
-
-In our professional career, both as practitioners and academics, we have seen and been involved in hundreds of design projects in diverse disciplines. We needed to understand what was going on, why some decisions have been made. We learned a lot and decided to share some of these lessons. We have taken an extra step to generalize these lessons and connect them to existing knowledge. The main result of this effort is a framework that we hope will help you to understand a broad range of design activities in our unpredictable world.
-
-We, and many others, have experienced challenges of design, namely that designers deal with fast-changing and overwhelmingly rich reality, undetermined requirements, difficult social conditions, lack of information, limited resources, and time restrictions. Every designer is faced and challenged by these circumstances. Design activities are characterized by messy, dynamic, highly interdependent and mostly unpredictable interactions among design situations, design outcomes, and design resources[^fooTerminology]. Design situations, design outcomes and design resources are complex structures that are not independent of each other. They are continuously changing, in significant part due to forces that are beyond designers' control. Constant change and unpredictability are natural characteristics of any design activity.
-
-In this book, we explore the dynamics of design activities and the complexity that these dynamics bring. The main contribution of this book is a structured description of design dynamics through *patterns of dynamics*. These patterns of dynamics illustrate different ways of how designers deal with ambiguity, uncertainty, and complexity when they attempt to change the world. We also believe that these patterns are universal to all design disciplines. Design disciplines may differ in situations they address, the outcomes they create and the resources they use. But the way how people deal with ambiguity, uncertainty, and complexity when designing is cross-disciplinary.
-
-In our discussions, we address design in a broader sense, in line with the Herbert Simon's ([1996](#Simon1996)) definition of design as "*courses of action aimed at changing existing situations into preferred ones*." Due to our backgrounds and interests, we limit our overview and examples, to some degree, to discussions about complexity in software design and interaction design. In particular, we are biased towards those contributions that base their claims in observations of design practice (e.g., [Brooks 1995](#Brooks1995); [Glass 2006](#Glass2006)). However, we also provide connections to more general design theory (e.g., [Schon 1983](#Schon1983); [Lawson 2005](#Lawson2005); [Simon 1996](#Simon1996)).
-
-
-## A. Analyzing Design Dynamics: A Simple Model {#Model}
-
-Our main goal is to provide a novel view on why it is challenging to analyze, understand or explain the design process and design activities.
-
-To structure our discussion, we adopt a simple model. This model provides a structure for analyzing dynamics of design activities as a consequence of interactions among design situations, design outcomes and design resources. Our analytic model views the dynamics of design activities as originating from designers' efforts to:
-
-* understand and manage design situations (design problems),
-* create design outcomes (design solutions), and
-* understand and adequately use design resources (tools, knowledge, methodologies, procedures, and organizational structures supporting designers during a design activity).
-
-Later in the book, we use our analytic model to structure the description of the [patterns of dynamics](#Patterns) among design situations, outcomes, and resources.
-
-![Our analytic model for design dynamics: Design situations, design outcomes, design resources and relations among them.](images/Model.png)
-
-It is important to remember that the elements in our model are abstract analytical concepts. In reality, these components are not entirely separated. Nevertheless, the concepts of design situations, outcomes and resources are regularly used in design literature. We believe that they are useful concepts to structure our discussions.
+<img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/staircase-274614_1920.jpg">
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by <a href="https://pixabay.com/users/fda54-145996/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=274614">fda54</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=274614">Pixabay</a>
+</div>
+> **IN THIS SECTION, YOU WILL:** Understand what this playbook is about and how to use it.
+>
+> **KEY POINTS:**
+>
+> * This playbook aims to share my approach to running an IT architecture practice in larger organizations based on my experience as Chief Architect at AVIV Group, eBay Classifieds, and Adevinta.
+> * I called this approach "Grounded Architecture," highlighting the need for any IT architecture function to stay well-connected to all levels of an organization and led by data.
+> * In this section, I explain my motivation to write this playbook.
 
 
+In recent years, we have witnessed several shifts in the role of IT architects. IT architects' role has changed, and Gregor Hohpe's book, The [Software Architect Elevator](https://architectelevator.com/book/), highlights this shift. The book emphasizes the importance of the architect's ability to bridge the gap between high-level decision-making and low-level technical implementation. Hohpe compares the architect's role to an elevator, moving between different levels of the organization and translating goals and requirements between business executives and technical developers.
 
-## B. Why This Book?
+While there is significant consensus about the Software Architecture vision, there are very few practical guidelines about how to do it in practice. How to define new roles closer to a modern view of architecture? How to form teams? What tools to use or build? How do we grow and develop architects?
 
-With this book, we want to describe and provide a structured definition of the dynamics of design activities. We believe that a more formal overview can help researchers and practitioners to understand better some of the experiences designers are going through while designing. We also think that in the education of designers it is useful to picture design dynamics, and resulting complexity, as an essential part of design activities. Such design complexity has to be accepted and dealt with rather than treated as a problem to avoid. We believe that a more structured understanding of design dynamics can facilitate such education.
+To answer these questions, the only way forward, in my view,  is to share lessons we learned while applying the ideas in practice on complex projects. Even if limited in scope, such studies of our peers have much more value for practitioners than abstract debates or academic analyses.
 
-Lots of previous work has addressed individual elements of design activities, such as inherent complexity of design outcomes or systems (e.g., [Simon 1996](#Simon1996), [Booch 2008](#Booch2008), [Mens 2012](#Mens2012)), or design tools. However, complex and dynamic interdependencies of elements of design activities have received relatively little attention. With this book, we focus on these interdependencies. We believe that they are primary sources of complexity characteristic for design activities. In other words, while design situations, outcomes, and resources are themselves complex structures, what makes a design activity additionally and characteristically complex are interactions among these structures. Such interactions challenge designers' ability to deal with complexity as the structures are unstable and subject to unpredictable change.
-
-Our ambition is to provide a novel and more structured view of design dynamics. However, we do not aim at introducing a new theory about design, nor are the topics we discuss entirely new (e.g., [Stolterman 2008](#Stolterman2008a)). Instead, we are re-examining existing work on design from a new and partially different point of view. We are also bringing together some related but previously unconnected pieces of literature. We have found similarities in the works of authors from different domains. But we have also noticed that most authors do not reference authors outside of their field of study. We believe that there is a value in connecting the contributions from different areas. By creating such connections, we hope to create a helpful overview for design practitioners and researchers interested to further study this subject.
-
-The motivation for our work builds on the ideal sketched by Herbert Simon ([1996](#Simon1996)) in *The Sciences of the Artificial*. Simon argued that all design disciplines are fundamentally similar, and that design professionals from diverse disciplines should be able to carry on mutually rewarding conversations about the content of each other's professional work (page 137). Another source of inspiration for our work comes from Fred Brooks ([2010](#Brooks2010)), who similarly noted that design processes in different media are strikingly alike. Reflecting on his experiences in designing in five media (computer architecture, software, houses, books, and organizations), Brooks elaborated that the mental processes, the human interactions, the iterations, the constraints, the labor - all have significant similarities (page xii). Patters on design dynamics are our attempt to support these views and create a cross-disciplinary overview of the dynamics of design processes.
+With this playbook, I want to share critical lessons I learned from implementing Software Architecture Elevator ideas in practice. More specifically, I will describe an approach to applying the concepts of Software Architecture Elevator vision to running an IT architecture practice in complex organizations, which I call "Grounded Architecture." I used the term "Grounded Architecture" to highlight the need for any IT architecture function to stay well-connected to all levels of an organization and led by data. This playbook aims to share my approach to running an IT architecture practice in larger organizations based on my experience as Chief Architect at AVIV Group, eBay Classifieds, and Adevinta.
 
 
-## C. Who Should Read This Book?
+<div class="quote">
+I called my approach "grounded architecture," highlighting the need for any IT architecture function to stay well-connected to all levels of an organization and led by data.
+</div>
 
-Our book is intended to be readable and useful for anyone who designs or is interested in design in a broader sense. That includes all types of designers and architects, but also other people that do not have such titles but are creating an intentional change in our unpredictable world ([Nelson & Stolterman 2012](#Nelson2012)).
+Grounded Architecture has two main parts:
+* **Structure**, elements you need to create in an organization to run Grounded Architecture practice and "ride" an architecture elevator, and
+* **Reflections**, a set of my considerations and guiding principles that can help put the ideas of Grounded Architecture into practice.
 
-We think that our book can help design researchers and students, as it makes a structured summary of and creates connections among diverse design disciplines.
+The figure bellow shows the structure of the Grounded Architecture consisting of three elements:
+* [Data Pillar](data),
+* [People Pillar](people),
+* [Architecture Activities Platform](activities-platform).
 
-We also think that patterns of design activities do have a practical value. The patterns can be used both as an analytic tool and as a management tool. As an analytic tool,  patterns provide a structure and vocabulary to describe and communicate what is going on in design activities. Having a common structure and vocabulary also enables comparison and correlation of different design activities. As a management tool, our patterns offer hints on when, why and how to stimulate desired (or prevent undesired) dynamics in design activities.
+![](assets/images/model.png)
+
+The *[Data Pillar](data)* ensures that architects' decisions are data-informed, based on a up-to-date and complete overview of the organization's technology landscape.
+
+The *[People Pillar](people)* represents a strong network of people doing architecture across the organization that is crucial to ensure that architecture function has any tangible impact.
+
+Lastly, the *[Architecture Activities Platform](activities-platform)* defines a set of processes and agreements enabling architects to do everything architecture typically does, leveraging data and people pillars to create a data-informed, organization-wide impact.
+
+As a part of my work on Grounded Architecture, I also provide key lessons I learned while developing ideas of Grounded Architecture in practice, grouped into two parts:
+
+* [Being an Architect](being-architect):
+  * [Architects as Superglue](superglue)
+  * [Skills](skills)
+  * [Impact](impact)
+  * [Leadership](leadership)
+  * [Architects' Career Paths](career)
+* [Doing Architecture](doing-architecture):
+  * [Culture Map: Architects' Culture Mindfield Compass](culture-map)
+  * [Managing Organization Complexity: Six Simple Rules](six-simple-rules)
+  * [In the Eye of the Storm: Aligning Business, Product, Technology and Organization Strategies](storm)
+  * [Product Development and The Build Trap](product-development)
+  * [Architecture Governance: Mandates, Taxation, Nudge](flexible-governance)
+  * [Economic Modeling: ROI and Financial Options](economics)
+
+The rest of this site will explain in detail the grounded architecture approach. In this section, I want to tell a few things about my motivation to write this playbook.
 
 
-## D. The Structure of the Book
+## A Bit of Personal History
 
-The rest of this book is organized as follows.
+The work presented in this playbook builds on several years of my experience. Most of this work results from my current work as a Chief Architect at AVIV Group and previous works as a Principal Architect for eBay Classifieds and Adevinta.
 
-In Part II, we describe patterns of dynamics in detail. We argue that the dynamics of design activities are emerging from elaborate and not entirely known interactions among the elements of design activities. With examples, we illustrate that dynamics between design situations, design outcomes and design resources are diverse and bidirectional.
+Another vital part of my experience that shaped this playbook was my earlier experience as a consultant and analyst at the Software Improvement Group. I've learned the value and pragmatics of data-informed decision-making. As a spin-off of this work, I've also built a tool called [Sokrates](sokrates.dev), which enable efficient and pragmatic extraction of data about technology and organization from source code. This work has directly influenced my view on the architecture [data pillar](data).
 
-In Part III, we discuss sources of interactions among the elements of design activities. We address the moving target problem, learning, creativity, tacit knowledge, social dynamics, as well as the lack of robust theories and underlying principles. Here we also discuss how are these aspects related to the patterns of dynamics.
+My experience as a CTO of [Incision](https://incision.care), a startup, has helped me better understand the difficulties and pragmatics of creating and running an IT organization.
 
-We conclude the book with a discussion.
-
-
-## E. Acknowledgments
-
-We would like to thank Mathias Funk and students of the TU/e master course "Beautiful Data: Designing InfoProducts" for providing useful feedback during the lecture based on the early draft of this book. Mathias Funk also proposed the name for the "Pandora's Box" pattern.
+Lastly, my experience as a researcher at [Dutch Center for Computer Science and Mathematics (CWI)](https://www.cwi.nl/en/) and [Eindhoven Technical University (TU/e)](https://www.tue.nl/en/) provided me with a valuable background to do rigorous data analyses and research. From this research period, I want to highlight a collection of essays [Design Instability](https://design-instability.com/) I co-authored with Erik Stolterman, where we connected experiences of designing/architecting in three disciplines: classical design, UX design, and software engineering. This work has helped me better relate to and learn from non-technical fields necessary for architecture work.
 
 
-## F. About the Cover
+## Why This Playbook?
 
-The cover shows an [extratropical cyclone](https://en.wikipedia.org/wiki/Cyclone) near Iceland on September 4, 2003. We selected this image as it symbolizes the central concept of this book - the dynamics of design activities. A cyclone is a complex, dynamic, and partially unpredictable phenomenon. Still, as with design dynamics, it is not an entirely chaotic phenomenon, as some patterns are visible.
+This playbook generalizes my experiences in a written form. I have written these articles for two reasons. Firstly, the act of writing helps me to clarify and improve my ideas (Figure 1). As Gregor Hohpe once noted, I free up some brain cells to learn new things with every sentence I write. As nicely described by Hohpe written word has distinct advantages over the spoken word:
+
+* it scales: you can address a broad audience without gathering them all in one (virtual) room at the same time
+* it's fast to process: people read 2-3 times faster than they can listen
+* it can be easily searched or versioned.
 
 
-[^fooDesigner]: In this book, we use the notion of a designer to mean anyone involved in a professional design process. In many cases, a design process requires more than one designer.
+![](assets/images/writing.png)
+***Figure 1:** Writing a book helped me organize ideas, obtain new insights, improve principles and tools, and share the lessons learned.*
 
-[^fooTerminology]: We user terms *design situations* / *design outcomes* instead of *design problems* / *design solutions* because we do not view design as a simple problem-solving activity. We define a design resource in a broader sense, as tools, knowledge, processes, and organizational structures designers rely on during design activities.
+Second, by generalizing and putting my experiences on paper, I hope to create more usable materials to help others in similar situations. I also expect helpful feedback from a broader community by sharing these materials.
+
+## A Part of the Bigger Picture: A Trilogy in Four Parts
+
+This book is a part of the [collection of open-source tools and resources](https://obren.io/) I have built in the past ten years to help me in architectural work (Figure 2).
+
+![](assets/images/arch/obren_io_vertical.png)
+***Figure 2:** Grounded Architecture is a part of the collection of open-source tools and resources I have built in the past ten years to help me in architectural work.*
+
+The other resources include:
+
+* [**Sokrates**](https://sokrates.dev): is an open-source source code analysis tool that implements my vision of documenting and analyzing software architectures of complex systems. Sokrates provides a pragmatic, inexpensive way to extract rich data from source code repositories—no need for lengthy interviews and workshops. Just bring the code. Sokrates can help you understand your code by making the size, complexity, and coupling of software and all people interactions and team topologies visible.
+* [**Productivity Tools**](https://obren.io/tools): for years I have been building simple personal productivity tools.
+* [**359° Overview of Tech Trends**](https://www.obren359.com/) is my collection of knowledge resources with the most recent articles, podcasts, and videos from over 20 authoritative, high-quality sources (IEEE, ACM, GOTO Conf, SE Radio, Martin Fowler's site, Ph.D. Theses). Architects need to learn fast, and finding good knowledge sources is difficult.
+
+You can find more details about these tools at my homepage **[obren.io](https://obren.io/)**.
+
+## Who Should Read This Playbook?
+
+When writing this playbook, I had a broad audience in my mind. The article should be helpful to both technical and non-technical people. The report can help software engineers and architects understand their value and place in a broader organization. I also hope the articles show the less-technical audience the benefits of staying close to and well-connected with the technologists.
+
+
+## The Structure of the Site
+
+I have organized the playbook into several main parts. In this introductory part, I have described the context in which my ideas have developed.
+
+In the second part, I discuss the Grounded Architecture approach describing its three elements: the data pillar, the people pillar, and the technology Architecture Activities Platform.
+
+In the third part, I talk about the Reflections of Grounded Architecture, grouped int to sections: Being Architect and Doing Architecture.
+
+I conclude with a summary and pointers to external resources for those who want to explore more.
+
+## Influences
+
+Gregor Hohpe's [Architecture Elevator](https://architectelevator.com/) view of architecture has heavily inspired my work.
+
+I use Staff Engineering roles as an inspiration for the development of architects. Tanya Reilly's
+book [The Staff Engineer's Path](https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/) and Will
+Larson's book [Staff Engineer: Leadership beyond the management track](https://staffeng.com/guides/staff-archetypes/)
+are a helpful guide in defining the responsibilities of architects.
+
+The [bookshelf](bookshelf) section shows many other books and resources that have influenced my approach and ideas.
+
+
+## Acknowledgments
+
+Thank all eBay Classifieds Virtual Architecture Team (VAT) members and AVIV Group's Architecture Center of Excellence members who gave me invaluable feedback and discussions. Lastly, thank Peter Maas and Brent McLean for sponsoring and pushing for developing data-informed architecture in our organizations.
+
+
+## Questions to Consider
+
+* *Are you applying the Software Architecture Elevator vision in your work? How?*
+* *Do you use data in your daily decision-making processes?*
+* *Which tools do you use for architectural work?*
+* *Do you share lessons you learn in your work with peers from other companies? Where?*
+* *Is your view of career development in architect engineering biased? Which resources do you use?*
