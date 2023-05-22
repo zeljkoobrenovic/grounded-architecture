@@ -14,6 +14,10 @@ def copy_post(post):
                 if line.startswith('---') or line.startswith('<style') or line.startswith('<div'):
                     in_header = True
                     content += '\n\n'
+                elif line.strip().startswith('> **IN THIS SECTION, YOU WILL'):
+                    content += line[1:].strip() + '\n'
+                elif line.strip() == '>':
+                    print('')
                 elif line.strip().startswith('> **KEY POINTS:') or line.strip().startswith('> ***KEY POINTS:'):
                     content += '\n{pagebreak}\n\n'
                     content += 'A' + line

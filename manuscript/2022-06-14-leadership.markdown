@@ -6,8 +6,7 @@
 
 ![](assets/images/arch/submarine-gcc865d4ee_1920.jpg)
 
-A> **IN THIS SECTION, YOU WILL:**  Understand how to apply ideas from David Marquet's work and Netflix's valued behaviors to develop architects' leadership traits.
-A> 
+**IN THIS SECTION, YOU WILL:**  Understand how to apply ideas from David Marquet's work and Netflix's valued behaviors to develop architects' leadership traits.
 
 {pagebreak}
 

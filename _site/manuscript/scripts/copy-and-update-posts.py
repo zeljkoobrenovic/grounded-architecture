@@ -1,5 +1,6 @@
 import json
 import datetime
+import re
 
 covers = {}
 def copy_post(post):
@@ -9,11 +10,28 @@ def copy_post(post):
 
     with open('../../_posts/' + post) as inputfile:
         for line in inputfile:
-            print(line)
             if not in_header:
                 if line.startswith('---') or line.startswith('<style') or line.startswith('<div'):
                     in_header = True
                     content += '\n\n'
+                elif line.strip().startswith('> **IN THIS SECTION, YOU WILL'):
+                    content += line[1:].strip() + '\n'
+                elif line.strip() == '>':
+                    print('')
+                elif line.strip().startswith('> **KEY POINTS:') or line.strip().startswith('> ***KEY POINTS:'):
+                    content += '\n{pagebreak}\n\n'
+                    content += 'A' + line
+                elif line.strip().startswith('>'):
+                    content += 'A' + line
+                elif line.strip().startswith('<img') or line.strip().startswith('src='):
+                    if 'src=' in line:
+                        sub_line = line[line.index('src='):]
+                        sub_line  = sub_line.replace('src="', '');
+                        sub_line  = sub_line.replace('src=\'', '');
+                        sub_line  = re.sub('".*', "", sub_line)
+                        sub_line = sub_line.strip()
+                        print(sub_line)
+                        content += '\n![](' + sub_line + ')'
                 elif not line.strip().startswith('<img') and not line.strip().startswith('src=') and not line.strip().startswith('style=') and not line.strip().startswith('<br'):
                     line = line.replace('](data)', '](#data)')
                     line = line.replace('](people)', '](#people)')
@@ -51,8 +69,6 @@ posts = ['2022-01-01-intro.markdown', '2022-01-02-context.markdown', '2022-01-03
          '2022-06-15-career-paths.markdown', '2022-07-06-doing-architecture.markdown', '2022-07-07-culture-map.md', '2022-07-08-six-simple-rules.md', '2022-07-09-storm.markdown', '2022-07-10-product-trap.md',
          '2022-07-12-governance.markdown', '2022-07-15-economics.md', '2022-12-01-summary.markdown', '2022-12-04-cheat-sheet.markdown', '2022-12-24-bookshelf.markdown', '2022-12-24-tools.markdown', '2022-12-25-quotes.markdown']
 
-
-covers[posts[0]] = 'assets/images/arch/staircase-274614_1920.jpg'
 
 for post in posts:
     copy_post(post)

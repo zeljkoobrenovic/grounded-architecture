@@ -7,13 +7,11 @@
 
 
 
-A> **IN THIS SECTION, YOU WILL:**  Get an overview of topics related to what it means to be an architect, covered in this chapter.
-A>
+**IN THIS SECTION, YOU WILL:**  Get an overview of topics related to what it means to be an architect, covered in this chapter.
 
 {pagebreak}
 
 A> **KEY POINTS:**
-A>
 A> * I introduce ideas and key lessons I learned about what is means to be an architect in practice.
 
 The following reflections provide some resources, ideas and key lessons I learned about what is means to be an architect in practice:

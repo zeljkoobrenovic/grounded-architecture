@@ -1,15 +1,18 @@
 
 
-# Doing Architecture# Doing Architecture {#doing-architecture}
+# Doing Architecture {#doing-architecture}
+
+
+![](assets/images/arch/steampunk-3006650_1920.jpg)
 
 
 
 
 
+{pagebreak}
 
-> **KEY POINTS:**
->
-> * I introduce ideas and key lessons I learned while developing ideas of Grounded Architecture in practice.
+A> **KEY POINTS:**
+A> * I introduce ideas and key lessons I learned while developing ideas of Grounded Architecture in practice.
 
 The following reflections provide some resources, ideas and key lessons I learned while developing ideas of Grounded Architecture in practice:
 

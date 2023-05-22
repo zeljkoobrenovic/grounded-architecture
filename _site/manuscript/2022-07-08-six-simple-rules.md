@@ -1,18 +1,21 @@
 
 
-# Managing Organizational Complexity: Six Simple Rules# Managing Organizational Complexity: Six Simple Rules {#six-simple-rules}
+# Managing Organizational Complexity: Six Simple Rules {#six-simple-rules}
+
+
+
+![](assets/images/arch/spices-g253b7ca36_1920.jpg)
 
 
 
 
 
+{pagebreak}
 
-
-> **KEY POINTS:**
->
-> * Six Simple Rules emphasis that in today’s complicated business environment, you need to setup organisational structures based on cooperation. 
-> * To deal with complexity, organizations should depend on the judgment of their people and on these people cooperating to utilize the organization's capabilities to cope with complex problems. 
-> * This view is well aligned with the ideas of Grounded Architecture.
+A> **KEY POINTS:**
+A> * Six Simple Rules emphasis that in today’s complicated business environment, you need to setup organisational structures based on cooperation. 
+A> * To deal with complexity, organizations should depend on the judgment of their people and on these people cooperating to utilize the organization's capabilities to cope with complex problems. 
+A> * This view is well aligned with the ideas of Grounded Architecture.
 
 The book [Six Simple Rules: How to Manage Complexity without Getting Complicated](https://www.bcg.com/capabilities/organization/smart-simplicity/six-rules-overcoming-complexity), by  Yves Morieux and Peter Tollman, is another source of inspiration for my vision on the Architecture function. Morieux and Tollman introduced a concept of Smart Simplicity with six rules or strategies that enable organizations to promote new behaviors and improve performance.
 
@@ -132,6 +135,7 @@ Architecture supports increasing power quantity with the **[operating model](act
 In the face of business complexity, work is becoming more inter-dependent. To meet multiple and often contradictory performance requirements, **people need to rely more on each other**. They need to **cooperate directly** instead of relying on dedicated interfaces, coordination structures or procedures that only add to complicatedness. 
 
 
+![](assets/images/arch/iStock-1072898930.jpg)
 
 
 

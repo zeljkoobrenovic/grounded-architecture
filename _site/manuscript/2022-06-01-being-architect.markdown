@@ -1,16 +1,18 @@
 
 
-# Being Architect# Being Architect {#being-architect}
+# Being Architect {#being-architect}
+
+
+![](assets/images/arch/architect-3979490_1920.jpg)
 
 
 
+**IN THIS SECTION, YOU WILL:**  Get an overview of topics related to what it means to be an architect, covered in this chapter.
 
+{pagebreak}
 
-> **IN THIS SECTION, YOU WILL:**  Get an overview of topics related to what it means to be an architect, covered in this chapter.
->
-> **KEY POINTS:**
->
-> * I introduce ideas and key lessons I learned about what is means to be an architect in practice.
+A> **KEY POINTS:**
+A> * I introduce ideas and key lessons I learned about what is means to be an architect in practice.
 
 The following reflections provide some resources, ideas and key lessons I learned about what is means to be an architect in practice:
 

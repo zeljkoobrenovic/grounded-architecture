@@ -9,7 +9,6 @@
 {pagebreak}
 
 A> **KEY POINTS:**
-A>
 A> * I want architecture always to address one of the most challenging problems our organization faces: a tension between technology, product, organization, and business functions.
 A> * Architecture should ensure that conversations happen between the technical, product, organizational, and business functions. 
 

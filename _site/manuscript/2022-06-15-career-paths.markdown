@@ -1,17 +1,19 @@
 
 
-# Architects' Career Paths: Raising the Bar# Architects' Career Paths: Raising the Bar {#career}
+# Architects' Career Paths: Raising the Bar {#career}
 
 
 
+![](assets/images/arch/pole-vault.jpg)
 
 
-> **IN THIS SECTION, YOU WILL:**  Get ideas and tips about architects' career paths.
-> 
-> **KEY POINTS:**
->
-> * Architects' career paths ideally stem from a strong engineering background.
-> * Hiring architects requires constantly raising the bar to ensure a strong and diverse team structure.  
+**IN THIS SECTION, YOU WILL:**  Get ideas and tips about architects' career paths.
+
+{pagebreak}
+
+A> **KEY POINTS:**
+A> * Architects' career paths ideally stem from a strong engineering background.
+A> * Hiring architects requires constantly raising the bar to ensure a strong and diverse team structure.  
 
 
 

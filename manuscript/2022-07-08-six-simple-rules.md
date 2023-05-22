@@ -13,7 +13,6 @@
 {pagebreak}
 
 A> **KEY POINTS:**
-A>
 A> * Six Simple Rules emphasis that in today’s complicated business environment, you need to setup organisational structures based on cooperation. 
 A> * To deal with complexity, organizations should depend on the judgment of their people and on these people cooperating to utilize the organization's capabilities to cope with complex problems. 
 A> * This view is well aligned with the ideas of Grounded Architecture.

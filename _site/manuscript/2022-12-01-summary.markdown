@@ -1,14 +1,17 @@
 
 
-# Summary# Summary {#summary}
+# Summary {#summary}
 
 
+![](assets/images/arch/road-g04cf0c3f8_1920.jpg)
 
-> **KEY POINTS:**
->
-> * This playbook aims to share my approach to running an IT architecture practice in larger organizations based on my experience as Chief Architect at AVIV Group, eBay Classifieds, and Adevinta. 
-> * I called this approach "Grounded Architecture," highlighting the need for any IT architecture function to stay well-connected to all levels of an organization and led by data.
-> * In this section, I summarize the key points from the playbook.
+
+{pagebreak}
+
+A> **KEY POINTS:**
+A> * This playbook aims to share my approach to running an IT architecture practice in larger organizations based on my experience as Chief Architect at AVIV Group, eBay Classifieds, and Adevinta. 
+A> * I called this approach "Grounded Architecture," highlighting the need for any IT architecture function to stay well-connected to all levels of an organization and led by data.
+A> * In this section, I summarize the key points from the playbook.
 
 
 

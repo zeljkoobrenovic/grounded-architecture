@@ -1,16 +1,18 @@
 
 
-# Context: Fast Moving Global Organizations# Context: Fast Moving Global Organizations {#context}
+# Context: Fast Moving Global Organizations {#context}
 
 
+![](assets/images/arch/roller-coaster-3605743_1920.jpg)
 
-> **IN THIS SECTION, YOU WILL:** Understand the context of ideas in this book and get tips on how to contextualize your organization.
->
-> **KEY POINTS:**
->
-> * To better understand any idea or solution, it is crucial to understand the context in which these ideas developed. 
-> * The grounded architecture approach has developed in the context of global, loosely coupled organizations that are diverse, with non-linear growth dynamics, and under transformation pressures. 
-> * More specifically, the work I present here reflects my experiences as a Chief or Principal Architect at AVIV Group, eBay Classifieds, and Adevinta.
+**IN THIS SECTION, YOU WILL:** Understand the context of ideas in this book and get tips on how to contextualize your organization.
+
+{pagebreak}
+
+A> **KEY POINTS:**
+A> * To better understand any idea or solution, it is crucial to understand the context in which these ideas developed. 
+A> * The grounded architecture approach has developed in the context of global, loosely coupled organizations that are diverse, with non-linear growth dynamics, and under transformation pressures. 
+A> * More specifically, the work I present here reflects my experiences as a Chief or Principal Architect at AVIV Group, eBay Classifieds, and Adevinta.
 
 
 

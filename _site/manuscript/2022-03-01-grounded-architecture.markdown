@@ -1,14 +1,16 @@
 
 
-# Grounded Architecture: An Overview# Grounded Architecture: An Overview {#grounded-architecture}
+# Grounded Architecture: An Overview {#grounded-architecture}
 
 
+![](assets/images/arch/buildings-205986_1920.jpg)
 
-> **IN THIS SECTION, YOU WILL:** Get an overview of the Grounded Architecture structure.
->
-> **KEY POINTS:**
->
-> * I introduce three elements of Grounded Architecture: The Data Pillar, The People Pillar, The Architecture Activities Platform.
+**IN THIS SECTION, YOU WILL:** Get an overview of the Grounded Architecture structure.
+
+{pagebreak}
+
+A> **KEY POINTS:**
+A> * I introduce three elements of Grounded Architecture: The Data Pillar, The People Pillar, The Architecture Activities Platform.
 
 
 

@@ -1,45 +1,14 @@
----
-layout: post
-section: "Introduction"
-title: "Introduction"
-position: 1
-date:   2021-10-21 21:12:01 +0100
-author: by Željko Obrenović (obren.io)
-permalink: intro
-icon: spiral-stairs.png
-timetoread: 15 min
-excerpt: "This playbook aims to share my approach to running an IT architecture practice in larger organizations based on my experience as Chief Architect at AVIV Group, eBay Classifieds, and Adevinta. I called this approach \"Grounded Architecture,\" highlighting the need for any IT architecture function to stay well-connected to all levels of an organization and led by data."
+# Intro
 
----
-<img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/staircase-274614_1920.jpg">
-<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by <a href="https://pixabay.com/users/fda54-145996/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=274614">fda54</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=274614">Pixabay</a>
-</div>
 > **IN THIS SECTION, YOU WILL:** Understand what this playbook is about and how to use it.
 >
-> ***KEY POINTS:***
+> **KEY POINTS:**
 >
-> * *This playbook aims to share my approach to running an IT architecture practice in larger organizations based on my experience as Chief Architect at AVIV Group, eBay Classifieds, and Adevinta.*
-> * *I called this approach "Grounded Architecture," highlighting the need for any IT architecture function to stay well-connected to all levels of an organization and led by data.*
-> * *I also explain my motivation to write this playbook.*
+> * This playbook aims to share my approach to running an IT architecture practice in larger organizations based on my experience as Chief Architect at AVIV Group, eBay Classifieds, and Adevinta.
+> * I called this approach "Grounded Architecture," highlighting the need for any IT architecture function to stay well-connected to all levels of an organization and led by data.
+> * In this section, I explain my motivation to write this playbook.
 
-<style>
- .quote {
-     border-left: 8px solid skyblue;
-     padding-left: 36px;
-     margin-top: 30px;
-     margin-bottom: 40px;
-     font-size: 130%;
-     font-style: normal;
-     color:#888;
- }
-    @media only screen and (max-width: 768px) {
-        [class="quote"] {
-            display: none;
-        }
-    }
-</style>
-<br>
+
 In recent years, we have witnessed several shifts in the role of IT architects. IT architects' role has changed, and Gregor Hohpe's book, The [Software Architect Elevator](https://architectelevator.com/book/), highlights this shift. The book emphasizes the importance of the architect's ability to bridge the gap between high-level decision-making and low-level technical implementation. Hohpe compares the architect's role to an elevator, moving between different levels of the organization and translating goals and requirements between business executives and technical developers.
 
 While there is significant consensus about the Software Architecture vision, there are very few practical guidelines about how to do it in practice. How to define new roles closer to a modern view of architecture? How to form teams? What tools to use or build? How do we grow and develop architects?
@@ -49,9 +18,7 @@ To answer these questions, the only way forward, in my view,  is to share lesson
 With this playbook, I want to share critical lessons I learned from implementing Software Architecture Elevator ideas in practice. More specifically, I will describe an approach to applying the concepts of Software Architecture Elevator vision to running an IT architecture practice in complex organizations, which I call "Grounded Architecture." I used the term "Grounded Architecture" to highlight the need for any IT architecture function to stay well-connected to all levels of an organization and led by data. This playbook aims to share my approach to running an IT architecture practice in larger organizations based on my experience as Chief Architect at AVIV Group, eBay Classifieds, and Adevinta.
 
 
-<div class="quote">
-I called my approach "grounded architecture," highlighting the need for any IT architecture function to stay well-connected to all levels of an organization and led by data.
-</div>
+> I called my approach "grounded architecture," highlighting the need for any IT architecture function to stay well-connected to all levels of an organization and led by data.
 
 Grounded Architecture has two main parts:
 * **Structure**, elements you need to create in an organization to run Grounded Architecture practice and "ride" an architecture elevator, and
@@ -64,9 +31,9 @@ The figure bellow shows the structure of the Grounded Architecture consisting of
 
 ![](assets/images/model.png)
 
-The *[Data Pillar](data)* ensures that architects' decisions are data-informed, based on an up-to-date and complete overview of the organization's technology landscape.
+The *[Data Pillar](#data)* ensures that architects' decisions are data-informed, based on an up-to-date and complete overview of the organization's technology landscape.
 
-The *[People Pillar](people)* represents a strong network of people doing architecture across the organization that is crucial to ensure that architecture function has any tangible impact.
+The *[People Pillar](#people)* represents a strong network of people doing architecture across the organization that is crucial to ensure that architecture function has any tangible impact.
 
 Lastly, the *[Architecture Activities Platform](activities-platform)* defines a set of processes and agreements enabling architects to do everything architecture typically does, leveraging data and people pillars to create a data-informed, organization-wide impact.
 
@@ -136,24 +103,24 @@ When writing this playbook, I had a broad audience in my mind. The article shoul
 
 ## The Structure of the Site
 
-I have organized the playbook into several main parts. In this introductory part, I have described the context in which my ideas have developed. 
+I have organized the playbook into several main parts. In this introductory part, I have described the context in which my ideas have developed.
 
-In the second part, I discuss the Grounded Architecture approach describing its three elements: the data pillar, the people pillar, and the technology Architecture Activities Platform. 
+In the second part, I discuss the Grounded Architecture approach describing its three elements: the data pillar, the people pillar, and the technology Architecture Activities Platform.
 
-In the third part, I talk about the Reflections of Grounded Architecture, grouped int to sections: Being Architect and Doing Architecture. 
+In the third part, I talk about the Reflections of Grounded Architecture, grouped int to sections: Being Architect and Doing Architecture.
 
 I conclude with a summary and pointers to external resources for those who want to explore more.
 
 ## Influences
 
-Gregor Hohpe's [Architecture Elevator](https://architectelevator.com/) view of architecture has heavily inspired my work. 
+Gregor Hohpe's [Architecture Elevator](https://architectelevator.com/) view of architecture has heavily inspired my work.
 
 I use Staff Engineering roles as an inspiration for the development of architects. Tanya Reilly's
 book [The Staff Engineer's Path](https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/) and Will
 Larson's book [Staff Engineer: Leadership beyond the management track](https://staffeng.com/guides/staff-archetypes/)
 are a helpful guide in defining the responsibilities of architects.
 
-The [bookshelf](bookshelf) section shows many other books and resources that have influenced my approach and ideas. 
+The [bookshelf](bookshelf) section shows many other books and resources that have influenced my approach and ideas.
 
 
 ## Acknowledgments

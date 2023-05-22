@@ -9,7 +9,6 @@
 {pagebreak}
 
 A> **KEY POINTS:**
-A>
 A> * I provide an overview of several tools I've built and use in daily architectural work..
 
 

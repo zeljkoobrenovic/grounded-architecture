@@ -5,13 +5,11 @@
 
 ![](assets/images/arch/gold-gd9bc167a4_1920.jpg)
 
-A> **IN THIS SECTION, YOU WILL:**  Understand the value Grounded Architecture can create for an organization.
-A> 
+**IN THIS SECTION, YOU WILL:**  Understand the value Grounded Architecture can create for an organization.
 
 {pagebreak}
 
 A> **KEY POINTS:**
-A>
 A> * When Grounded Architecture is in place, it can have a significant positive impact on the functioning of an organization.
 A> * These categories of impact are: Executing At Scale, Increasing the Quality of Decision-Making with Data, Maximizing Organizational Alignment & Learning, Higher Adaptivity.
 
@@ -67,7 +65,6 @@ Misalignment frequently happens in big organizations. The [Data Pillar](#data) c
 
 ## Maximizing Organizational Learning
 A> *"Good judgment comes from experience, and experience comes from bad judgment."* -- Fred Brooks
-A>
 A> *" I expect you to learn to be better each day. I challenge you to look at each working day as an opportunity to learn more, and by doing so, to grow as a person."* -- L. David Marquet
 
 When we have teams of well-connected architects and other stakeholders, such groups can transform individual experiences into collective knowledge to benefit the whole organization.

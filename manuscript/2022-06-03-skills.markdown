@@ -8,13 +8,11 @@
 ![](assets/images/arch/iStock-531552876.jpg)
 
 
-A> **IN THIS SECTION, YOU WILL:**  Understand that architects' skills should include technical, communication, and business skills, and get valuable pointers to resources for developing these skills.
-A>
+**IN THIS SECTION, YOU WILL:**  Understand that architects' skills should include technical, communication, and business skills, and get valuable pointers to resources for developing these skills.
 
 {pagebreak}
 
 A> **KEY POINTS:**
-A>
 A> * A typical skillset of an architects includes: hard (technical) skills, soft (people & social) skills, and business skills.
 
 
@@ -45,7 +43,6 @@ Hard skills, also known as technical skills, are the abilities and knowledge nee
 
 ## Soft Skills  (Social Architecture)
 A> To change the architecture of a software-intensive system ensconced in a large organization, you often have to change the architecture of the organization. And ultimately, that is a political problem, not just a technical one. 
-A>
 A>--Grady Booch
 
 Social Architecture refers to the design and management of social systems, interactions, and relationships within an organization or community. Soft skills, often described as non-technical or interpersonal skills, are an integral part of social architecture, as they enable individuals to effectively navigate and contribute to these systems. By developing and refining soft skills, individuals can more easily adapt to changes, collaborate with others, and foster a positive work environment. Key soft skills related to social architecture include:
