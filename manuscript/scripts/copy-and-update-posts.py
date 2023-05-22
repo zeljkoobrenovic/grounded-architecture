@@ -49,6 +49,8 @@ def copy_post(post):
                     line = line.replace('](product-development)', '](#product-development)')
                     line = line.replace('](flexible-governance)', '](#flexible-governance)')
                     line = line.replace('](economics)', '](#economics)')
+                    line = line.replace('](context)', '](#context)')
+                    line = line.replace('](goals)', '](#goals)')
                     content += line
             else:
                 if line.startswith('---') or line.startswith('</style>') or line.startswith('</div>'):

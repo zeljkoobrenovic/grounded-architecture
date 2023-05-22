@@ -13,12 +13,12 @@
 
 This simple cheatsheet serves as a reference guide for topics discussed in follow-up sections.
  
-### [Context: Fast Moving Global Organizations](context)
+### [Context: Fast Moving Global Organizations](#context)
 A> * To better understand any idea or solution, it is crucial to understand the context in which these ideas developed. 
 A> * The grounded architecture approach has developed in the context of global, loosely coupled organizations that are diverse, with non-linear growth dynamics, and under transformation pressures. 
 A> * More specifically, the work I present here reflects my experiences as a Chief or Principal Architect at AVIV Group, eBay Classifieds, and Adevinta.
 
-### [Goals](goals)
+### [Goals](#goals)
 A> * I identified the following needs that an architecture function should support: Executing At Scale, Increasing the Quality of Decision-Making with Data, Maximizing Organizational Alignment & Learning, Higher Adaptivity.
 
  

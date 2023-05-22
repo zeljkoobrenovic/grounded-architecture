@@ -20,23 +20,23 @@ Considering the scale and complexity of the organizational context I operated in
 
 More specifically, I identified the following needs that an architecture function should support.
 
-## Goal 1: Executing At Scale
+### Goal 1: Executing At Scale
 
 We needed to find a way to support hundreds of teams, and thousands of projects, with significant complexity and diversity.
 
-## Goal 2: Increasing Quality of Decisions with Data
+### Goal 2: Increasing Quality of Decisions with Data
 
 Intuition does not work at scale. We need tools and mechanisms to make a decision process more data-informed and less dependent on opinions.
 
-## Goal 3: Maximizing Organizational Alignment
+### Goal 3: Maximizing Organizational Alignment
 
 In a global, diverse, fast-moving organization, misalignment is a natural state. The architecture function should be a cohesive factor in minimizing such misalignments.
 
-## Goal 4: Maximizing Organizational Learning
+### Goal 4: Maximizing Organizational Learning
 
 In complex organizations with lots of effort needed to maintain legacy systems, learning and following new technology developments takes work. Architecture should help organizations to learn fast, stay up-to-date with emerging technologies and industry trends and recommend technology upgrades.
 
-## Goal 5: Adaptivity
+### Goal 5: Adaptivity
 
 Significant organic and inorganic changes are frequent and expected. The architecture function must adapt quickly to stay relevant in a new context.
 
