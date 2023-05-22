@@ -1,37 +1,8 @@
----
-layout: post
-section: "Doing Architecture"
-title: "Doing Architecture"
-position: 7006
-date: 2021-10-21 21:12:01 +0100
-author: by Željko Obrenović (obren.io)
-permalink: doing-architecture
-icon: doing.png
-timetoread: 15 min
-excerpt: "I introduce ideas and key lessons I learned while developing ideas of Grounded Architecture in practice."
-
----
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
      src="assets/images/arch/steampunk-3006650_1920.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/darksouls1-2189876/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3006650">Enrique Meseguer</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3006650">Pixabay</a>
 </div>
-<style>
- .quote {
-     border-left: 8px solid skyblue;
-     padding-left: 36px;
-     margin-top: 30px;
-     margin-bottom: 40px;
-     font-size: 140%;
-     font-style: normal;
-     color:#888;
- }
-    @media only screen and (max-width: 768px) {
-        [class="quote"] {
-            display: none;
-        }
-    }
-</style>
 
 > **KEY POINTS:**
 >

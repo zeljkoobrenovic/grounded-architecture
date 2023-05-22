@@ -1,16 +1,3 @@
----
-layout: post
-section: "Summary"
-title: "Summary"
-position: 12000
-date:   2021-10-21 21:12:01 +0100
-author: by Željko Obrenović (obren.io)
-permalink: summary
-icon: summary.png
-timetoread: 15 min
-excerpt: This playbook aims to share my approach to running an IT architecture practice in larger organizations based on my experience as Chief Architect at AVIV Group, eBay Classifieds, and Adevinta.
-
----
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/road-g04cf0c3f8_1920.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=908176">Gerd Altmann</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=908176">Pixabay</a>
@@ -20,22 +7,6 @@ Image by <a href="https://pixabay.com/users/geralt-9301/?utm_source=link-attribu
 > * This playbook aims to share my approach to running an IT architecture practice in larger organizations based on my experience as Chief Architect at AVIV Group, eBay Classifieds, and Adevinta. 
 > * I called this approach "Grounded Architecture," highlighting the need for any IT architecture function to stay well-connected to all levels of an organization and led by data.
 > * In this section, I summarize the key points from the playbook.
-<style>
- .quote {
-     border-left: 8px solid skyblue;
-     padding-left: 36px;
-     margin-top: 30px;
-     margin-bottom: 40px;
-     font-size: 140%;
-     font-style: normal;
-     color:#888;
- }
-    @media only screen and (max-width: 768px) {
-        [class="quote"] {
-            display: none;
-        }
-    }
-</style>
 
 In this playbook, I explained an approach to running an architecture practice in larger organizations. This playbook aims to share my approach to running an IT architecture practice in larger organizations based on my experience as Chief Architect at AVIV Group, eBay Classifieds, and Adevinta. I called this approach "grounded architecture," highlighting the need for any architecture function to stay well-connected to all levels of an organization and led by data. 
 

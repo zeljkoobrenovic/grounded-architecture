@@ -1,16 +1,3 @@
----
-layout: post
-section: "Being Architect"
-title: "Leadership"
-position: 6014
-date:   2021-10-21 21:12:01 +0100
-author: by Željko Obrenović (obren.io)
-permalink: leadership
-icon: traits.png
-timetoread: 15 min
-excerpt: "My view of architecture leadership is inspired by David Marquet’s work and the Netflix’s valued behaviors."
-
----
 
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
      src="assets/images/arch/submarine-gcc865d4ee_1920.jpg">
@@ -23,31 +10,7 @@ Afbeelding van <a href="https://pixabay.com/nl/users/12019-12019/?utm_source=lin
 > * My view of architecture leadership is inspired by David Marquet's work and the Netflix's valued behaviors.
 > * Marquet focused on leadership and organizational management, with a particular emphasis on the principles of Intent-Based Leadership.
 > * Borrowing from Netflix's original values the following behavioral traits are crucial for architects are: communication, judgment, impact, inclusion, selflessness, courage, integrity, curiosity, innovation, and passion.
-<style>
- .quote {
-     border-left: 8px solid skyblue;
-     padding-left: 36px;
-     margin-top: 30px;
-     margin-bottom: 40px;
-     font-size: 140%;
-     font-style: normal;
-     color:#888;
- }
-    @media only screen and (max-width: 768px) {
-        [class="quote"] {
-            display: none;
-        }
-    }
-</style>
 
-<style>
-h2 {
-    margin-top: 40px
-}
-h3 {
-    margin-top: 40px
-}
-</style>
 <br>
 
 

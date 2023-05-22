@@ -1,47 +1,9 @@
----
-layout: post
-section: "Summary"
-title: "Cheat Sheet"
-position: 12004
-date:   2021-10-21 21:12:01 +0100
-author: by Željko Obrenović (obren.io)
-permalink: cheat-sheet
-icon: cheatsheet.png
-timetoread: 15 min
-excerpt: "Key points from all sections in one place."
-
----
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
      src="assets/images/istockphoto-1182643171-612x612.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by iStock / Tashulia.
 </div>
 
-<style>
- blockquote {
-     border-left: 6px dotted #454545;
-     padding-left: 2px;
-     margin-top: -10px;
-     margin-bottom: 40px;
-     margin-left: 2px;
-     font-size: 100%;
-     font-style: italic;
-     color: #767676;
-     width: 600px;
- }
- ul {
-   list-style-type: "→   ";
- }
- h2 {
-    margin-top: 62px;
-    margin-bottom: 22px;
- }
- h3 {
- }
- li {
-    margin-bottom: 4px;
- }
-</style>
 
 ## Introduction
 

@@ -1,19 +1,3 @@
----
-layout: post
-section: "Structure"
-title: "People Pillar"
-position: 3005
-date:   2021-10-21 21:12:01 +0100
-author: by Željko Obrenović (obren.io)
-permalink: people
-icon: community.png
-timetoread: 15 min
-excerpt: "We should not take our architectural talent for granted. Architects are bridging local business, product,
-organizational, and technology issues. Architects are difficult to hire talent as they need in-depth technical knowledge
-and domain-specific and organizational knowledge. Therefore, we need to make sure to support, organize, and leverage
-architecture talent."
-
----
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover"
 src="assets/images/arch/construction-4939383_1920.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
@@ -32,22 +16,6 @@ Image by <a href="https://pixabay.com/users/mostafa_meraji-13551092/?utm_source=
 > * In my work in the past few years, I was working by combining, in different forms, two teams of architects: a small
 central architecture team and a cross-organizational distributed virtual team.
  
-<style>
- .quote {
-     border-left: 8px solid skyblue;
-     padding-left: 36px;
-     margin-top: 30px;
-     margin-bottom: 40px;
-     font-size: 140%;
-     font-style: normal;
-     color:#888;
- }
-    @media only screen and (max-width: 768px) {
-        [class="quote"] {
-            display: none;
-        }
-    }
-</style>
 
 <br>
 

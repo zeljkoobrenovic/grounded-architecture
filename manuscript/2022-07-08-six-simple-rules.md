@@ -1,38 +1,9 @@
----
-layout: post
-section: "Doing Architecture"
-title: "Managing Organizational Complexity: Six Simple Rules"
-position: 7008
-date:   2021-10-21 21:12:01 +0100
-author: by Željko Obrenović (obren.io)
-icon: six.png
-permalink: six-simple-rules
-timetoread: 11 min
-excerpt: "Six Simple Rules emphasis that in today’s complicated business environment, you need to setup organisational structures based on cooperation. To deal with complexity, organizations should depend on the judgment of their people and on these people cooperating to utilize the organization's capabilities to cope with complex problems. This view is well aligned with the ideas of Grounded Architecture."
-
----
 
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
      src="assets/images/arch/spices-g253b7ca36_1920.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/nataliaaggiato-470329/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=667115">Nat Aggiato</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=667115">Pixabay</a>
 </div>
-<style>
- .quote {
-     border-left: 8px solid skyblue;
-     padding-left: 36px;
-     margin-top: 30px;
-     margin-bottom: 40px;
-     font-size: 140%;
-     font-style: normal;
-     color:#888;
- }
-    @media only screen and (max-width: 768px) {
-        [class="quote"] {
-            display: none;
-        }
-    }
-</style>
 
 > **KEY POINTS:**
 >

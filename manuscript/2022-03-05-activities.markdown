@@ -1,16 +1,3 @@
----
-layout: post
-section: "Structure"
-title: "Architecture Activities Platform"
-position: 3006
-date:   2021-10-21 21:12:01 +0100
-author: by Željko Obrenović (obren.io)
-permalink: activities-platform
-icon: activities.png
-timetoread: 15 min
-excerpt: "The Architecture Activities Platform is the place where, by leveraging data and people pillars, we performed activities that help an organization to reach it goals. Here are some examples: supporting teams in their daily work; tracking tech debt, defining tech debt reduction programs; performing technical due diligence; standardization of processes and documentation; defining cloud, data, and platform strategies."
-
----
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
      src="assets/images/arch/parliament-366199_1920.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
@@ -22,22 +9,6 @@ Image by <a href="https://pixabay.com/users/cocoparisienne-127419/?utm_source=li
 >
 > * The Architecture Activities Platform defines a set of processes and agreements enabling architects to do everything architecture typically does, leveraging data and people pillars to create a data-informed, organization-wide impact.
 > * Examples of activities include: supporting teams in their daily work; tracking tech debt, defining tech debt reduction programs; performing technical due diligence; standardization of processes and documentation; defining cloud, data, and platform strategies.
-<style>
- .quote {
-     border-left: 8px solid skyblue;
-     padding-left: 36px;
-     margin-top: 30px;
-     margin-bottom: 40px;
-     font-size: 140%;
-     font-style: normal;
-     color:#888;
- }
-    @media only screen and (max-width: 768px) {
-        [class="quote"] {
-            display: none;
-        }
-    }
-</style>
 
 <br>
 Each organization will have different architectural needs and contexts. When forming architecture functions, I use as a starting point these [two pieces of advice from Gregor Hohpe](https://architectelevator.com/architecture/organizing-architecture/):

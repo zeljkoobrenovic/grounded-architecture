@@ -1,16 +1,3 @@
----
-layout: post
-section: "Being Architect"
-title: "Impact"
-position: 6010
-date:   2021-10-21 21:12:01 +0100
-author: by Željko Obrenović (obren.io)
-permalink: impact
-icon: making-impact.png
-timetoread: 15 min
-excerpt: "Architects' work is evaluated based the impact they've had on the organization. They must demonstrate that they identify, tackle, and deliver on strategic problems, have a deep and/or broad influence, and deliver solutions that few others can."
-
----
 
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
      src="assets/images/arch/USATF_day_4.jpg">
@@ -24,22 +11,6 @@ Credit: Sandi Morris in <a href="https://nl.wikipedia.org/wiki/Sandi_Morris">Wik
 >
 > * Architects' work is evaluated based the impact they've had on the organization. 
 > * Architects can make an impact via three pillars: Big-Picture Thinking, Execution, and Leveling-Up.
-<style>
- .quote {
-     border-left: 8px solid skyblue;
-     padding-left: 36px;
-     margin-top: 30px;
-     margin-bottom: 40px;
-     font-size: 140%;
-     font-style: normal;
-     color:#888;
- }
-    @media only screen and (max-width: 768px) {
-        [class="quote"] {
-            display: none;
-        }
-    }
-</style>
 
 <br>
 Architects' work is **evaluated based the impact** they've had on the organization. Architect typically make impact by:

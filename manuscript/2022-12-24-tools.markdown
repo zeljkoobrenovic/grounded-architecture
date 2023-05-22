@@ -1,17 +1,3 @@
----
-layout: post
-section: "To Probe Further"
-title: "Tools"
-position: 12100
-date:   2021-10-21 21:12:01 +0100
-author: by Željko Obrenović (obren.io)
-permalink: tools
-icon: productivity_tools.png
-timetoread: 15 min
-excerpt: Tools I've built and use in daily architectural work.
-
-
----
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover"
 src="assets/images/arch/adult-gfd09399f9_1920.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
@@ -21,26 +7,6 @@ Image by <a href="https://pixabay.com/users/pexels-2286921/?utm_source=link-attr
 >
 > * I provide an overview of several tools I've built and use in daily architectural work..
 
-<style>
-    .book {
-        min-width: 100px;
-        width: 100px;
-    }
-    .icon {
-        min-width: 30px;
-        width: 30px;
-    }
-
-    .icon-container {
-    
-    }
-
-    @media only screen and (max-width: 768px) {
-        [class="icon-container"] {
-            display: none;
-        }
-    }
-</style>
 
 ## Tools
 

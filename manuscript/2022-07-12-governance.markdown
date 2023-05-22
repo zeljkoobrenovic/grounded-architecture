@@ -1,16 +1,3 @@
----
-layout: post
-section: "Doing Architecture"
-title: "Architecture Governance: Mandates, Taxation, Nudge"
-position: 7012
-date:   2021-10-21 21:12:01 +0100
-author: by Željko Obrenović (obren.io)
-icon: pragmatics.png
-permalink: governance
-timetoread: 15 min
-excerpt: "Grounded Architecture supports governance models that are adaptable to the complex and diverse needs of organizations. I see a technology governance model as a well-balanced hybrid of three different styles of governing: mandates and bans, taxes, and nudging."
-
----
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
      src="assets/images/arch/greece-1594689_1920.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
@@ -21,22 +8,6 @@ Afbeelding van <a href="https://pixabay.com/nl/users/nonbirinonko-3101900/?utm_s
 > * By governing with mandates and bans, I mean guiding people by explicitly defining what they should or should not do.
 > * Governing with taxes is a form of guiding in which people are not forbidden to make some decisions but need to "pay" some form of taxes on used resources.
 > * Nudging is a form of governing where we create subtle or indirect suggestion influencing someone's behavior or decision-making without forcing them or limiting their freedom of choice.
-<style>
- .quote {
-     border-left: 8px solid skyblue;
-     padding-left: 36px;
-     margin-top: 30px;
-     margin-bottom: 40px;
-     font-size: 140%;
-     font-style: normal;
-     color:#888;
- }
-    @media only screen and (max-width: 768px) {
-        [class="quote"] {
-            display: none;
-        }
-    }
-</style>
 
 Grounded Architecture supports governance models adaptable to organizations' complex and diverse needs. By governing, I mean guiding technology choices in the organization in a particular direction aligned with the technology strategy. I see a technology governance model as a well-balanced hybrid of three different styles of governing:
 * mandates and bans,

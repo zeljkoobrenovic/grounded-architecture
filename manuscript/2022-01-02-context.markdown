@@ -1,17 +1,3 @@
----
-layout: post
-title: "Context: Fast Moving Global Organizations"
-section: "Introduction"
-position: 2
-date:   2021-10-21 21:12:01 +0100
-author: by Željko Obrenović (obren.io)
-permalink: context
-icon: roller-coaster.png
-timetoread: 15 min
-excerpt: "The grounded architecture approach has developed in the context of global, loosely coupled organizations that are diverse, with non-linear growth dynamics, and under transformation pressures. The work I present here reflects my experiences as a Chief or Principal Architect at AVIV Group, eBay Classifieds, and Adevinta."
-
-
----
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
      src="assets/images/arch/roller-coaster-3605743_1920.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
@@ -24,22 +10,6 @@ Image by <a href="https://pixabay.com/users/paulbr75-2938186/?utm_source=link-at
 > * To better understand any idea or solution, it is crucial to understand the context in which these ideas developed. 
 > * The grounded architecture approach has developed in the context of global, loosely coupled organizations that are diverse, with non-linear growth dynamics, and under transformation pressures. 
 > * More specifically, the work I present here reflects my experiences as a Chief or Principal Architect at AVIV Group, eBay Classifieds, and Adevinta.
-<style>
- .quote {
-     border-left: 8px solid skyblue;
-     padding-left: 36px;
-     margin-top: 30px;
-     margin-bottom: 40px;
-     font-size: 130%;
-     font-style: normal;
-     color:#888;
- }
-    @media only screen and (max-width: 768px) {
-        [class="quote"] {
-            display: none;
-        }
-    }
-</style>
 
 <br>
 To better understand any idea or solution, it is crucial to understand the context in which these ideas developed. My approach to creating and running an architecture function is not an abstract idea. Instead, it is the generalization of many lessons learned while solving specific problems in a particular context.

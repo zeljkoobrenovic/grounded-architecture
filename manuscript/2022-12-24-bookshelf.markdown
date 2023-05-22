@@ -1,17 +1,3 @@
----
-layout: post
-section: "To Probe Further"
-title: "Bookshelf"
-position: 12099
-date:   2021-10-21 21:12:01 +0100
-author: by Željko Obrenović (obren.io)
-permalink: bookshelf
-icon: books.png
-timetoread: 15 min
-excerpt: Overview of the background to probe further. External resources inspiring my work.
-
-
----
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover"
 src="assets/images/arch/library-5641389_1920.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
@@ -22,25 +8,6 @@ Image by <a href="https://pixabay.com/users/olivergotting-18505948/?utm_source=l
 > * I provide an overview of the background work for you to probe further, linking several external resources inspiring my work.
 > * I grouped the resources in the following sections: Introductions, Soft Skills, Business & Strategy, and Hard Skills.
 
-<style>
-    .book {
-        min-width: 100px;
-        width: 100px;
-    }
-    .icon {
-        min-width: 30px;
-        width: 30px;
-    }
-
-    .icon-container {
-    }
-
-    @media only screen and (max-width: 768px) {
-        [class="icon-container"] {
-            display: none;
-        }
-    }
-</style>
 
 <br>
 ## Introductions

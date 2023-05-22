@@ -1,16 +1,3 @@
----
-layout: post
-section: "Doing Architecture"
-title: "In the Eye of the Storm: Aligning Business, Product, Technology and Organization Strategies"
-position: 7009
-date: 2021-10-21 21:12:01 +0100
-author: by Željko Obrenović (obren.io)
-permalink: storm
-icon: storm.png
-timetoread: 15 min
-excerpt: "To ensure that organizations maximally benefit from Grounded Architecture, I want architecture always to address one of the most challenging problems our organization faces: a tension between technology, product, organization, and business functions."
-
----
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
      src="assets/images/arch/storm-g90b7263c8_1920.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
@@ -20,22 +7,6 @@ Image by <a href="https://pixabay.com/users/fiquetdidier1-25748628/?utm_source=l
 >
 > * I want architecture always to address one of the most challenging problems our organization faces: a tension between technology, product, organization, and business functions.
 > * Architecture should ensure that conversations happen between the technical, product, organizational, and business functions. 
-<style>
- .quote {
-     border-left: 8px solid skyblue;
-     padding-left: 36px;
-     margin-top: 30px;
-     margin-bottom: 40px;
-     font-size: 140%;
-     font-style: normal;
-     color:#888;
- }
-    @media only screen and (max-width: 768px) {
-        [class="quote"] {
-            display: none;
-        }
-    }
-</style>
 
 <br>
 In this section, I elaborate on one type of impact architecture can have in an organization: aligning business, product, technology, and organizational functions. 

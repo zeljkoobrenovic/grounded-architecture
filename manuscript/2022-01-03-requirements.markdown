@@ -1,16 +1,3 @@
----
-layout: post
-section: "Introduction"
-title: "Goals"
-position: 1003
-date:   2021-10-21 21:12:01 +0100
-author: by Željko Obrenović (obren.io)
-permalink: goals
-icon: requirements.png
-timetoread: 15 min
-excerpt: "I identified the following needs that an architecture function should support: Executing At Scale, Increasing the Quality of Decision-Making with Data, Maximizing Organizational Alignment & Learning, Higher Adaptivity."
-
----
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
      src="assets/images/stress-gc7a712a2f_1920.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
@@ -21,22 +8,6 @@ Image by <a href="https://pixabay.com/users/geralt-9301/?utm_source=link-attribu
 > **KEY POINTS:**
 >
 > * I identified the following needs that an architecture function should support: Executing At Scale, Increasing the Quality of Decision-Making with Data, Maximizing Organizational Alignment & Learning, Higher Adaptivity.
-<style>
- .quote {
-     border-left: 8px solid skyblue;
-     padding-left: 36px;
-     margin-top: 30px;
-     margin-bottom: 40px;
-     font-size: 130%;
-     font-style: normal;
-     color:#888;
- }
-    @media only screen and (max-width: 768px) {
-        [class="quote"] {
-            display: none;
-        }
-    }
-</style>
 
 <br>
 Considering the scale and complexity of the organizational context I operated in, it was apparent that conventional approaches of doing architecture that rely on manual processes need to be revised. 

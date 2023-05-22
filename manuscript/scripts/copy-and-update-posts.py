@@ -4,10 +4,19 @@ import datetime
 def copy_post(post):
     content = ''
 
+    in_header = False
+
     with open('../../_posts/' + post) as inputfile:
         for line in inputfile:
             print(line)
-            content += line
+            if not in_header:
+                if line.startswith('---') or line.startswith('<style'):
+                    in_header = True
+                else:
+                    content += line
+            else:
+                if line.startswith('---') or line.startswith('</style>'):
+                    in_header = False
 
     with open('../' + post, 'w') as html_file:
         html_file.write(content)
