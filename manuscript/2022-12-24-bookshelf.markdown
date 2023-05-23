@@ -10,7 +10,7 @@
 ## Introductions
 
 {width: "20%"}
-![](assets/books/software-architecture-elevator.png)
+![](assets/images/books/software-architecture-elevator.png)
 
 The Software Architect Elevator: Redefining the Architect's Role by Gregor Hohpe defines architects as people that can fill a void in large enterprises: they work and communicate closely with technical staff on projects but are also able to convey technical topics to upper management without losing the essence of the message. Conversely, they understand the company's business strategy and can translate it into technical decisions that support it.
 
@@ -19,9 +19,7 @@ The Software Architect Elevator: Redefining the Architect's Role by Gregor Hohpe
 {width: "20%"}
 ![](assets/images/books/spotify.png)
 
-SE Radio: On Architecture: for those interested in IT Architecture, I've created a curated Spotify playlist of Software Engineering Radio Episodes focusing on Architecture.
-
-
+[SE Radio: On Architecture](https://open.spotify.com/playlist/7GVD86edcILnVPjsZFTy28?si=f44d0bef360e4818): for those interested in IT Architecture, I've created a curated Spotify playlist of Software Engineering Radio Episodes focusing on Architecture.
 
 * * *
 
@@ -315,6 +313,7 @@ derivative.
 
 {width: "20%"}
 ![](assets/images/books/the-phoenix-project.jpeg)
+
 The Phoenix Project and The Unicorn Project by Gene Kim The Phoenix Project is a best-selling novel about DevOps.
 The book's characters reveal through their actions why it's so important for organizations to put security first and
 tear down the silos that have traditionally existed between development and operations teams.
