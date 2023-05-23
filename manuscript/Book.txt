@@ -26,4 +26,5 @@ Part3.txt
 Part4.txt
 2022-12-01-summary.markdown
 2022-12-04-cheat-sheet.markdown
+2022-12-24-tools.markdown
 2022-12-25-quotes.markdown
