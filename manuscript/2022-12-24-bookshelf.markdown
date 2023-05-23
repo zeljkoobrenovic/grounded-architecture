@@ -1,8 +1,6 @@
 # Bookshelf {#bookshelf}
 
 
-* * *
-
 {width: "20%"}
 ![](assets/images/arch/library-5641389_1920.jpg)
 
