@@ -10,7 +10,7 @@
 ## Introductions
 
 {width: "20%"}
-![](assets/images/software-architecture-elevator.png)
+![](assets/books/software-architecture-elevator.png)
 
 The Software Architect Elevator: Redefining the Architect's Role by Gregor Hohpe defines architects as people that can fill a void in large enterprises: they work and communicate closely with technical staff on projects but are also able to convey technical topics to upper management without losing the essence of the message. Conversely, they understand the company's business strategy and can translate it into technical decisions that support it.
 
@@ -63,8 +63,6 @@ effective architectures for information systems.
 ## Career Development
 
 
-* * *
-
 {width: "20%"}
 ![](assets/images/books/staff-engineer-or.jpg)
 
@@ -84,7 +82,6 @@ Staff Engineer by Will Larson, defined technical leadership beyond the managemen
 This section is heavily influenced by Gregor Hohpe's
 article [The Architect’s Path - Part 2 - Bookshelf](https://architectelevator.com/architecture/architect-bookshelf/)
 
-
 * * *
 
 {width: "20%"}
@@ -95,10 +92,6 @@ Clean Code by Bob Martin. Good software starts with good code, and good code is 
 
 * * *
 
-{width: "20%"}
-![](assets/icons/notes.png)
-
-* * *
 
 {width: "20%"}
 ![](assets/images/books/refactoring.jpeg)
@@ -114,11 +107,6 @@ Refactoring: Improving the Design of Existing Code by Martin Fowler. Good softwa
 Design Patterns by Gamma, Helm, Johnson, Vlissides. Design patterns help us make balanced decisions on the design
 of our code.
 
-
-* * *
-
-{width: "20%"}
-![](assets/icons/notes.png)
 
 * * *
 
@@ -208,19 +196,11 @@ Thinking in Systems by Donella Meadows describes a system is more than the sum o
 * * *
 
 {width: "20%"}
-![](assets/icons/notes.png)
-* * *
-
-{width: "20%"}
 ![](assets/images/books/do-not-make-me-think.png)
 
 Don't make me think, revisited: a common sense approach to Web usability by Steve Krug provides a practical guide for understanding web usability and user experience.
 
 
-* * *
-
-{width: "20%"}
-![](assets/icons/notes.png)
 * * *
 
 {width: "20%"}
@@ -231,8 +211,6 @@ System Design Interview (Volume 1 & 2) by Alex Xu. A "real-world" systems design
 
 * * *
 
-{width: "20%"}
-![](assets/icons/notes.png)
 
 ## Soft Skills
 
@@ -247,17 +225,11 @@ Team Topologies by Manuel Pais and Matthew Skelton describes four fundamental to
 
 * * *
 
-{width: "20%"}
-![](assets/icons/notes.png)
-
-* * *
 
 {width: "20%"}
 ![](assets/images/books/culture-maps.jpeg)
 
 The Culture Map: Decoding How People Think, Lead, and Get Things Done Across Cultures: provides a framework for handling intercultural differences in business and illustrates how different cultures perceive the world. Awareness of intercultural differences is crucial for the success of an architect in an international setting. It helps us understand these differences and, in doing so, improves our ability to react to specific behaviors that might have once seemed strange.
-
-
 
 
 
@@ -292,10 +264,6 @@ Nudge by Richard Thaler draws on research in psychology and behavioral economics
 
 * * *
 
-{width: "20%"}
-![](assets/icons/notes.png)
-
-* * *
 
 {width: "20%"}
 ![](assets/images/books/no-rules-rules.png)
@@ -305,9 +273,6 @@ No Rules Rules by Erin Meyer and Reed Hastings provides insights into Netflix cu
 
 * * *
 
-{width: "20%"}
-![](assets/icons/notes.png)
-* * *
 
 {width: "20%"}
 ![](assets/images/books/dare-to-lead.png)
@@ -317,9 +282,6 @@ Dare To Lead by Brené Brown, defines a leader as anyone who takes responsibilit
 
 * * *
 
-{width: "20%"}
-![](assets/icons/notes.png)
-* * *
 
 {width: "20%"}
 ![](assets/images/books/sowhat.png)
@@ -369,8 +331,6 @@ minutes-no matter what the size of a project or the complexity of its code base.
 
 ## Business, Product, Strategy
 
-* * *
-
 {width: "20%"}
 ![](assets/images/books/six-simple-rules.png)
 
@@ -403,6 +363,7 @@ patterns and templates—to produce great technology strategies.
 
 {width: "20%"}
 ![](assets/images/books/build-trap.jpg)
+
 Escaping the Build Trap by Melissa Perri is a practical guide to product management, product strategy, and ensuring product success.
 
 
