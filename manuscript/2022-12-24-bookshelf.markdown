@@ -58,7 +58,7 @@ Software Systems Architecture by Nick and Eóin is a practitioner-oriented guide
 effective architectures for information systems.
 
 
-## Career Development
+# Career Development
 
 
 {width: "20%"}
@@ -75,7 +75,7 @@ The Staff Engineer's Path by Tanya Reilly. Similar to my view of architects the 
 Staff Engineer by Will Larson, defined technical leadership beyond the management track. I share many of the views presented in this book regarding development and skills of architects. 
 
 
-## Hard Skills
+# Hard Skills
 
 This section is heavily influenced by Gregor Hohpe's
 article [The Architect’s Path - Part 2 - Bookshelf](https://architectelevator.com/architecture/architect-bookshelf/)
@@ -210,7 +210,7 @@ System Design Interview (Volume 1 & 2) by Alex Xu. A "real-world" systems design
 * * *
 
 
-## Soft Skills
+# Soft Skills
 
 
 * * *
