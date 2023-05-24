@@ -17,7 +17,7 @@ style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/3844328-3844328/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1857175">Lorenzo Cafaro</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1857175">Pixabay</a>
 </div>
-> **IN THIS SECTION, YOU WILL:**  Understand how to use available data in architecture decision processes and hints and tips on creating architecture-centric data tools.
+> **IN THIS SECTION, YOU WILL:**  Understand how to use diverse data sources to support architecture decision-making processes and get concrete tips on creating architecture-centric data tools.
 >
 > **KEY POINTS:**
 >

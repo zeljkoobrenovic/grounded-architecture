@@ -7,7 +7,7 @@
 ![](assets/images/arch/pole-vault.jpg)
 
 
-**IN THIS SECTION, YOU WILL:**  Get ideas and tips about architects' career paths.
+**IN THIS SECTION, YOU WILL:**  Get ideas and tips about developing architects' career paths.
 
 {pagebreak}
 

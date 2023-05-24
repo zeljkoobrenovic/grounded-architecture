@@ -17,9 +17,8 @@ src="assets/images/arch/adult-gfd09399f9_1920.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/pexels-2286921/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1866533">Pexels</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1866533">Pixabay</a>
 </div>
-> **KEY POINTS:**
->
-> * I provide an overview of several tools I've built and use in daily architectural work..
+
+> **IN THIS SECTION, YOU WILL:** Get an overview of several tools I've built and use in daily architectural work.
 
 <style>
     .book {

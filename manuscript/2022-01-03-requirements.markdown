@@ -5,7 +5,7 @@
 
 ![](assets/images/stress-gc7a712a2f_1920.jpg)
 
-**IN THIS SECTION, YOU WILL:** Understand the requirements for an architecture function in complex organizations.
+**IN THIS SECTION, YOU WILL:** Understand the requirements I identified for an architecture function in complex organizations.
 
 {pagebreak}
 

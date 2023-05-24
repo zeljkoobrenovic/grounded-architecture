@@ -34,6 +34,8 @@ Image by <a href="https://pixabay.com/users/nataliaaggiato-470329/?utm_source=li
     }
 </style>
 
+> **IN THIS SECTION, YOU WILL:**  Get an introduction to Six Simple Rules, a model for setting up organizational structures based on cooperation.
+>
 > **KEY POINTS:**
 >
 > * Six Simple Rules emphasis that in today’s complicated business environment, you need to setup organisational structures based on cooperation. 

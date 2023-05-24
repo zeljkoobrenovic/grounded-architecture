@@ -5,7 +5,7 @@
 
 ![](assets/images/arch/parliament-366199_1920.jpg)
 
-**IN THIS SECTION, YOU WILL:**  Understand what activities you can do as a part of architecture functions and get hints and tips on creating pragmatic operating models.
+**IN THIS SECTION, YOU WILL:**  Understand what activities you can do as a part of architecture practice and get tips on creating pragmatic operating models.
 
 {pagebreak}
 

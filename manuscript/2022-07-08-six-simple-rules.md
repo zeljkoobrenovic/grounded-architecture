@@ -9,6 +9,7 @@
 
 
 
+**IN THIS SECTION, YOU WILL:**  Get an introduction to Six Simple Rules, a model for setting up organizational structures based on cooperation.
 
 {pagebreak}
 

@@ -1,7 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-05-24T19:20:15+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: The Chief Architect’s Playbook</title><subtitle></subtitle><entry><title type="html">Favorite Quotes</title><link href="http://localhost:4000/quotes" rel="alternate" type="text/html" title="Favorite Quotes" /><published>2021-10-25T22:12:01+02:00</published><updated>2021-10-25T22:12:01+02:00</updated><id>http://localhost:4000/quotes</id><content type="html" xml:base="http://localhost:4000/quotes"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/books-g1b2675255_1920.jpg" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-05-24T22:15:02+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: The Chief Architect’s Playbook</title><subtitle></subtitle><entry><title type="html">Favorite Quotes</title><link href="http://localhost:4000/quotes" rel="alternate" type="text/html" title="Favorite Quotes" /><published>2021-10-25T22:12:01+02:00</published><updated>2021-10-25T22:12:01+02:00</updated><id>http://localhost:4000/quotes</id><content type="html" xml:base="http://localhost:4000/quotes"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/books-g1b2675255_1920.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/prettysleepy-2973588/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5430104">Amy</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5430104">Pixabay</a>
 </div>
+
+<blockquote>
+  <p><strong>IN THIS SECTION, YOU WILL:</strong> Get a selection of my favorite quotes about architecture.</p>
+</blockquote>
 
 <style>
  .quote {
@@ -103,7 +107,7 @@ Architectural decisions are design decisions that are <b>hard to make</b> or <b>
 Image by <a href="https://pixabay.com/users/paulbr75-2938186/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3605743">Paul Brennan</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3605743">Pixabay</a>
 </div>
 <blockquote>
-  <p><strong>IN THIS SECTION, YOU WILL:</strong> Understand the context of ideas in this book and get tips on how to contextualize your organization.</p>
+  <p><strong>IN THIS SECTION, YOU WILL:</strong> Understand the context in which the ideas in this book developed.</p>
 
   <p><strong>KEY POINTS:</strong></p>
 
@@ -362,7 +366,7 @@ Image by <a href="https://pixabay.com/users/shire777-19410672/?utm_source=link-a
 Image by <a href="https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=7446584">Gerd Altmann</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=7446584">Pixabay</a>
 </div>
 <blockquote>
-  <p><strong>IN THIS SECTION, YOU WILL:</strong> Understand the requirements for an architecture function in complex organizations.</p>
+  <p><strong>IN THIS SECTION, YOU WILL:</strong> Understand the requirements I identified for an architecture function in complex organizations.</p>
 
   <p><strong>KEY POINTS:</strong></p>
 
@@ -418,7 +422,7 @@ Considering the scale and complexity of the organizational context I operated in
 Image by <a href="https://pixabay.com/users/ichigo121212-11728/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=205986">Ichigo121212</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=205986">Pixabay</a>
 </div>
 <blockquote>
-  <p><strong>IN THIS SECTION, YOU WILL:</strong> Get an overview of the Grounded Architecture structure.</p>
+  <p><strong>IN THIS SECTION, YOU WILL:</strong> Get an overview of the Grounded Architecture structure: Data Pillar, People Pillar, and Architecture Activities Platform.</p>
 
   <p><strong>KEY POINTS:</strong></p>
 
@@ -468,7 +472,7 @@ I chose the term "Grounded Architecture" to highlight that the primary goal of m
 Image by <a href="https://pixabay.com/users/3844328-3844328/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1857175">Lorenzo Cafaro</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1857175">Pixabay</a>
 </div>
 <blockquote>
-  <p><strong>IN THIS SECTION, YOU WILL:</strong>  Understand how to use available data in architecture decision processes and hints and tips on creating architecture-centric data tools.</p>
+  <p><strong>IN THIS SECTION, YOU WILL:</strong>  Understand how to use diverse data sources to support architecture decision-making processes and get concrete tips on creating architecture-centric data tools.</p>
 
   <p><strong>KEY POINTS:</strong></p>
 
@@ -634,7 +638,7 @@ Source code and its commit history include an astonishing amount of information 
 Image by <a href="https://pixabay.com/users/mostafa_meraji-13551092/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4939383">mostafa meraji</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4939383">Pixabay</a>
 </div>
 <blockquote>
-  <p><strong>IN THIS SECTION, YOU WILL:</strong>  Understand that architecture is about people and get hints and tips on creating organizational structures that support practical architecture functions.</p>
+  <p><strong>IN THIS SECTION, YOU WILL:</strong>  Understand that architecture practice is all about people and get tips on creating organizational structures that support practical architecture functions.</p>
 
   <p><strong>KEY POINTS:</strong></p>
 
@@ -860,7 +864,7 @@ Image by <a href="https://pixabay.com/users/chantellev-2412495/?utm_source=link-
 Image by <a href="https://pixabay.com/users/cocoparisienne-127419/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=366199">Anja-#pray for ukraine# #helping hands# stop the war</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=366199">Pixabay</a>
 </div>
 <blockquote>
-  <p><strong>IN THIS SECTION, YOU WILL:</strong>  Understand what activities you can do as a part of architecture functions and get hints and tips on creating pragmatic operating models.</p>
+  <p><strong>IN THIS SECTION, YOU WILL:</strong>  Understand what activities you can do as a part of architecture practice and get tips on creating pragmatic operating models.</p>
 
   <p><strong>KEY POINTS:</strong></p>
 
@@ -979,7 +983,7 @@ Grounded architecture aims to make relevant information more readily available t
 Image by <a href="https://pixabay.com/nl/users/mwewering-185784/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2800315">Matthias Wewering</a> from <a href="https://pixabay.com/nl//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2800315">Pixabay</a>
 </div>
 <blockquote>
-  <p><strong>IN THIS SECTION, YOU WILL:</strong>  Understand the value Grounded Architecture can create for an organization.</p>
+  <p><strong>IN THIS SECTION, YOU WILL:</strong>  Understand the value that architecture practice based on the ideas of Grounded Architecture can create for an organization.</p>
 
   <p><strong>KEY POINTS:</strong></p>
 
@@ -1140,12 +1144,12 @@ Image by <a href="https://pixabay.com/users/borevina-9505414/?utm_source=link-at
   <p><strong>KEY POINTS:</strong></p>
 
   <ul>
-    <li>I introduce ideas and key lessons I learned about what is means to be an architect in practice.</li>
+    <li>I introduce ideas and key lessons I learned about what it means to be an architect in practice.</li>
   </ul>
 </blockquote>
 
 <p><br />
-The following reflections provide some resources, ideas and key lessons I learned about what is means to be an architect in practice:</p>
+The following reflections provide some resources, ideas and key lessons I learned about what it means to be an architect in practice:</p>
 
 <ul>
   <li><strong><a href="superglue">Architects as Superglue</a></strong>: Architects in IT organizations should develop as “superglue,” people who hold architecture, technical details, business needs, and people together across a large organization or complex projects.</li>
@@ -1153,7 +1157,7 @@ The following reflections provide some resources, ideas and key lessons I learne
   <li><strong><a href="impact">Impact</a></strong>: Architects’ work is evaluated based the impact they’ve had on the organization. They must demonstrate that they identify, tackle, and deliver on strategic problems, have a deep and/or broad influence, and deliver solutions that few others can.</li>
   <li><strong><a href="behaviors">Leadership</a></strong>: My view of architecture leadership is inspired by David Marquet’s work and the Netflix’s valued behaviors.</li>
   <li><strong><a href="career">Architects’ Career Paths: Raising the Bar</a></strong>: Architects’ career paths ideally stem from a strong engineering background. Hiring architects requires constantly raising the bar to ensure a strong and diverse team structure.</li>
-</ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[I introduce ideas and key lessons I learned about what is means to be an architect in practice.]]></summary></entry><entry><title type="html">Architects as Superglue</title><link href="http://localhost:4000/superglue" rel="alternate" type="text/html" title="Architects as Superglue" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/superglue</id><content type="html" xml:base="http://localhost:4000/superglue"><![CDATA[<style>
+</ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[I introduce ideas and key lessons I learned about what it means to be an architect in practice.]]></summary></entry><entry><title type="html">Architects as Superglue</title><link href="http://localhost:4000/superglue" rel="alternate" type="text/html" title="Architects as Superglue" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/superglue</id><content type="html" xml:base="http://localhost:4000/superglue"><![CDATA[<style>
      h2 {
           margin-top: 40px;
      }
@@ -1166,7 +1170,7 @@ The following reflections provide some resources, ideas and key lessons I learne
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 </div>
 <blockquote>
-  <p><strong>IN THIS SECTION, YOU WILL:</strong>  Understand the importance of the superglue role of architects and get valuable tips on developing “superglue” abilities.</p>
+  <p><strong>IN THIS SECTION, YOU WILL:</strong>  Understand the view on architects as superglue (people who hold architecture, technical details, business needs, and people together across a large organization or complex projects) and get valuable tips on developing “superglue” abilities.</p>
 
   <p><strong>KEY POINTS:</strong></p>
 

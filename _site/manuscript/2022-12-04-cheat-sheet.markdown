@@ -2,7 +2,7 @@
 
 # Cheat Sheet {#cheat-sheet}
 
-![](assets/images/istockphoto-1182643171-612x612.jpg)
+![](assets/images/arch/iStock-1182643171.jpg)
 
 ## Introduction
 

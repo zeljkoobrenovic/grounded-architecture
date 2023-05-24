@@ -16,7 +16,6 @@ excerpt: "Key points from all sections in one place."
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by iStock / Tashulia.
 </div>
-
 <style>
  blockquote {
      border-left: 6px dotted #454545;

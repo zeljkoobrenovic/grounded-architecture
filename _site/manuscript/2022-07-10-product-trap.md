@@ -9,6 +9,7 @@
 
 
 
+**IN THIS SECTION, YOU WILL:** Understand the importance of architecture in helping organizations become successful product-led organizations, focusing strongly on their customers’ actual needs and preferences.
 
 {pagebreak}
 

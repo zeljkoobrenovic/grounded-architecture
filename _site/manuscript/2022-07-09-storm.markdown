@@ -1,10 +1,11 @@
 
 
-# In the Eye of the Storm: Aligning Business, Product, Technology and Organization Strategies {#storm}
+# In the Eye of the Storm: Aligning Business, Product, Technology and Organization {#storm}
 
 
 ![](assets/images/arch/storm-g90b7263c8_1920.jpg)
 
+**IN THIS SECTION, YOU WILL:**  Understand the importance of architecture function in reducing tensions between technology, product, organization, and business functions.
 
 {pagebreak}
 

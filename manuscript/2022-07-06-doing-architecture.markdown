@@ -8,6 +8,7 @@
 
 
 
+**IN THIS SECTION, YOU WILL:**  Get a summary of the articles about doing architecture.
 
 {pagebreak}
 

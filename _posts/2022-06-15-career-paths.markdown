@@ -18,7 +18,7 @@ excerpt: "Architects' career paths ideally stem from a strong engineering backgr
 Credit: <a href="https://flic.kr/p/8zKRAU">tableatny</a> (CC BY 2.0)
 </div>
 
-> **IN THIS SECTION, YOU WILL:**  Get ideas and tips about architects' career paths.
+> **IN THIS SECTION, YOU WILL:**  Get ideas and tips about developing architects' career paths.
 > 
 > **KEY POINTS:**
 >

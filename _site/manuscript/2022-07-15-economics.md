@@ -5,6 +5,7 @@
 
 ![](assets/images/arch/money-g45f6788de_1920.jpg)
 
+**IN THIS SECTION, YOU WILL:** Get two answers to the question of the economic value of architecture: the return on investment metaphor and the selling options metaphor.
 
 {pagebreak}
 

@@ -16,6 +16,8 @@ excerpt: "I sketch two answers to the question of the economic value of technolo
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/nattanan23-6312362/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2724241">Nattanan Kanchanaprat</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2724241">Pixabay</a>
 </div>
+> **IN THIS SECTION, YOU WILL:** Get two answers to the question of the economic value of architecture: the return on investment metaphor and the selling options metaphor.
+>
 > **KEY POINTS:**
 >
 > * Architects are frequently asked about the (economic) value of architecture or technology investments.

@@ -17,6 +17,8 @@ src="assets/images/arch/library-5641389_1920.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/olivergotting-18505948/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5641389">Oli Götting</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5641389">Pixabay</a>
 </div>
+> **IN THIS SECTION, YOU WILL:** Get an overview of the background work for you to probe further, linking several external resources inspiring my work.
+>
 > **KEY POINTS:**
 >
 > * I provide an overview of the background work for you to probe further, linking several external resources inspiring my work.

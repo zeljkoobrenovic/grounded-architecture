@@ -16,7 +16,7 @@ excerpt: "I identified the following needs that an architecture function should 
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=7446584">Gerd Altmann</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=7446584">Pixabay</a>
 </div>
-> **IN THIS SECTION, YOU WILL:** Understand the requirements for an architecture function in complex organizations.
+> **IN THIS SECTION, YOU WILL:** Understand the requirements I identified for an architecture function in complex organizations.
 >
 > **KEY POINTS:**
 >

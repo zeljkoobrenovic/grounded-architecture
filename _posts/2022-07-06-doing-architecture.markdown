@@ -33,6 +33,8 @@ Image by <a href="https://pixabay.com/users/darksouls1-2189876/?utm_source=link-
     }
 </style>
 
+> **IN THIS SECTION, YOU WILL:**  Get a summary of the articles about doing architecture.
+> 
 > **KEY POINTS:**
 >
 > * I introduce ideas and key lessons I learned while developing ideas of Grounded Architecture in practice.

@@ -34,6 +34,8 @@ Afbeelding van <a href="https://pixabay.com/nl/users/efraimstochter-12351/?utm_s
     }
 </style>
 
+> **IN THIS SECTION, YOU WILL:** Understand the importance of architecture in helping organizations become successful product-led organizations, focusing strongly on their customers’ actual needs and preferences.
+> 
 > **KEY POINTS:**
 > * The product trap occurs when businesses focus too much on their product’s features and functionalities, overlooking their customers’ actual needs and preferences.
 > * There are three bad product-development organizations: sales, visionary, and technology led companies, .

@@ -5,7 +5,7 @@
 
 ![](assets/images/arch/architecture-1857175_1920.jpg)
 
-**IN THIS SECTION, YOU WILL:**  Understand how to use available data in architecture decision processes and hints and tips on creating architecture-centric data tools.
+**IN THIS SECTION, YOU WILL:**  Understand how to use diverse data sources to support architecture decision-making processes and get concrete tips on creating architecture-centric data tools.
 
 {pagebreak}
 
