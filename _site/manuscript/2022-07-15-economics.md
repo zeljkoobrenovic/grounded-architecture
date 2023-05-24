@@ -21,7 +21,7 @@ Architects frequently need to answer questions about (economic) value of technol
 
 Having good architecture requires some investment. This investment is time and effort spent implementing some architecture pattern, reducing technical debt, or refactoring code to align with our architecture. Consequently, we need to explain the expected value of this investment.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Martin Fowler at <a href="https://twitter.com/hashtag/oop2014?src=hash&amp;ref_src=twsrc%5Etfw">#oop2014</a>: &quot;If you use the arguments on the left to justify refactoring, you&#39;re screwed.&quot; <a href="http://t.co/b9ffsudckr">pic.twitter.com/b9ffsudckr</a></p>&mdash; Matthias Bohlen (@mbohlende) <a href="https://twitter.com/mbohlende/status/431446680874258433?ref_src=twsrc%5Etfw">February 6, 2014</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Martin Fowler at #oop2014: &quot;If you use the arguments on the left to justify refactoring, you&#39;re screwed.&quot; pic.twitter.com/b9ffsudckr&mdash; Matthias Bohlen (@mbohlende) February 6, 2014 
 
 In this post, I sketch two answers to the question of the economic value of architecture:
 * the return on investment metaphor

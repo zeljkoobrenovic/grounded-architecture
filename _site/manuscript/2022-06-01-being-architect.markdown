@@ -1,6 +1,6 @@
 
 
-# Being Architect {#being-architect}
+# Being Architect: Introduction {#being-architect}
 
 
 ![](assets/images/arch/architect-3979490_1920.jpg)

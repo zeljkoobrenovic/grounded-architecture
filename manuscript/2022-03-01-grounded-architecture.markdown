@@ -1,6 +1,6 @@
 
 
-# Grounded Architecture: An Overview {#grounded-architecture}
+# Grounded Architecture: Introduction {#grounded-architecture}
 
 
 ![](assets/images/arch/buildings-205986_1920.jpg)

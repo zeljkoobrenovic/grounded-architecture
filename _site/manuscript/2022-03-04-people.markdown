@@ -80,14 +80,14 @@ focusing on improving performance and reducing complexity.
 
 ## The Hybrid Model
 
-To operate in a complex [context](context), you need to invested effort to ensure we have the right people at the right
+To operate in a complex [context](#context), you need to invested effort to ensure we have the right people at the right
 places. In the end, I usually found it best to adopted model of a hybrid organization combining elements of central and
 federated orientation structures:
 
 * A Small Scale Central Architectural Teams, and
 * Architecture Guilds & Virtual Architectural Teams.
 
-The hybrid team structure supports well our [goals](goals) of executing at scale. Guilds and virtual architecture teams
+The hybrid team structure supports well our [goals](#goals) of executing at scale. Guilds and virtual architecture teams
 support execution by increasing the number of people involved in architectural activities and increasing work efficiency
 through better alignment. By having members representing various organizational units, we are able to have much more
 impact across the board. And having some capacity on the central level serves as a catalyst helping people at local

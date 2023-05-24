@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Grounded Architecture: An Overview"
+title: "Grounded Architecture: Introduction"
 section: "Structure"
 position: 3000
 date:   2021-10-21 21:12:01 +0100
