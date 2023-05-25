@@ -110,3 +110,17 @@ Lastly, architects can help by staying well-connected to software engineering pr
 * **Promote and/or demonstrate best-in-class** of code, documentation, testing, and monitoring practices.
 * **Solve challenging technical and/or execution problems** that few others can.
 
+## Questions to Consider
+
+* *Reflect on the impact you have had on your organization. Have you prioritized your work based on global strategic objectives, and what has been the outcome?*
+* *Can you identify instances where you had to go deep into a specific issue and others where you needed a broad perspective across multiple teams? How did you manage both scenarios?*
+* *How have you used your technical, strategic, execution, and people skills to deliver solutions? Can you share an example?*
+* *How can you build on your technical, people, and business skills to positively impact your organization's performance? How do you measure this impact?*
+* *As an architect, how can you develop your big-picture thinking ability? Can you give an example of how your big-picture thinking helped to identify a high leverage point for maximum impact?*
+* *Reflect on your role in execution. How can you help in delivering results and improving collaboration? Can you share an example where your pragmatism resulted in a meaningful solution?*
+* *What initiatives have you taken to improve collaboration and build trust within your organization?*
+* *How have you contributed to the broader technical community through tech talks, education, publications, open source projects, etc.?*
+* *In what ways have you helped solve important problems in your area and raise the bar of the engineering culture across the company?*
+* *Can you provide an example of a systemic architectural problem you identified and the solution you proposed?*
+* *How have you promoted and demonstrated best-in-class practices in coding, documentation, testing, and monitoring?*
+* *Reflect on a challenging technical or execution problem you solved that few others could have. What was your approach, and what was the outcome?*

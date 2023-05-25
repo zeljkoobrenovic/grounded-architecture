@@ -80,3 +80,15 @@ Grounded Architecture is well aligned with ideas of nudging. I frequently design
 
 ![](assets/images/arch/38280951874_fb51a740ff_c.jpg)
 
+
+
+## Questions to Consider
+
+* *What are the key components of the governance model in your organization, and how do mandates, taxes, and nudging influence them?*
+* *How does your organization currently handle mandates and bans? Are they explicit and aligned with the overall technology strategy?*
+* *How effective is the enforcement of these mandates and bans in your organization? Could improvements be made in creating clarity and providing transparency?*
+* *How does your organization approach taxation as a form of governance? Is it transparent, data-driven, and efficient?*
+* *Can you identify any examples of 'nudging' in your current architectural environment? How effective are these subtle suggestions in influencing behavior or decision-making?*
+* *How does your organization promote best practices and align around them? Are there any 'golden paths' for technology choices?*
+* *How are your organization's tech debt and the cost trends of cloud services tracked and visualized? Do these methods create enough awareness to stimulate improvement?*
+* *How could you better utilize nudging to improve organizational decision-making? What biases or barriers to effective decision-making could be targeted with this approach?*

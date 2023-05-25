@@ -191,3 +191,17 @@ architecture teams or "[People Pillar](#people)":
 ![](assets/images/arch/pyramid-g88f894074_1920.jpg)
 
 
+
+
+## Questions to Consider
+
+It is difficult to overestimate the importance of people for architecture practice, yet many organizations take architectural talent for granted. To reflect on the importance of carefully organizing, empowering, and leveraging scarce architecture talent, ask yourself the following questions:
+
+* *Reflect on your organization's current architecture function. Do you have a strong network of architects across the organization? If not, what steps could you take to strengthen this?*
+* *How do you ensure architects' competency, empowerment, and motivation in your organization? What systems do you have in place to develop architectural talent?*
+* *Which central, federated, or hybrid model best represents your current architectural function? Why was this model chosen, and how effective has it been for your organization?*
+* *If you are part of a central architecture team, how would you support the rest of the organization? How would you contribute to the architecture function if you were part of a distributed virtual team?*
+* *Consider having the roles of central architecture teams and federated architecture teams in your organization. How do they complement each other?*
+* *How effective is the current division of responsibilities among architects in your organization? Are there areas of overlap or gaps in coverage?*
+* *What steps has your organization taken to ensure architects are well-connected across all parts and levels? What impact has this had on transparency and the implementation of changes?*
+* *Reflect on the diversity of team structures within your organization. How does this diversity impact the roles and responsibilities of architects?*

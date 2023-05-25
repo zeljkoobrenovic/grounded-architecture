@@ -178,3 +178,18 @@ Architects are frequently role models for others. As such you need to show the f
 * You are **tenacious and optimistic**
 * You are **quietly confident** and **openly humble**
  
+
+
+## Questions to Consider
+
+* *Reflect on the Leader-Leader model of leadership in your work. How can you empower your team members and encourage them to take ownership of their work?*
+* *How have you acted as a facilitator, coach, or mentor as an architect? Can you share an example of when you gave team members guidance, support, or resources to achieve their goals?*
+* *How does the phrase "I intend to" resonate with your approach to architecture work? How can it change your perspective on taking the initiative and leading efforts?*
+* *How effective do you believe your communication skills are? Have you adapted your style to work with people from diverse backgrounds and languages?*
+* *How can you foster an inclusive working environment as an architect? How do you nurture and embrace differing perspectives to make better decisions?*
+* *Reflect on a situation where you made a decision that was best for the organization rather than what was best for yourself or your group. What was the outcome?*
+* *Have you ever had to take an uncomfortable stance but in your organization's best interest? Can you share this experience?*
+* *How do you maintain integrity as a trusted advisor in your organization? Can you share an example where your honesty, authenticity, and transparency were vital?*
+* *How have you maintained your curiosity in your role as an architect? Can you share an instance where your learning eagerness led to a significant outcome?*
+* *What innovative solutions have you created as an architect? How have these innovations benefitted your organization?*
+* *How do you inspire others with your passion for excellence? Can you share an instance where your optimism and tenacity led to a successful outcome?*

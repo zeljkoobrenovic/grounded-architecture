@@ -104,3 +104,14 @@ Critical elements of successful product-led companies include:
 
 7. **Measuring Success**: Accurately measuring a product's success is essential. Such measuring involves tracking key performance indicators (KPIs) and using data-driven insights to make informed product improvements and enhancements decisions.
 
+
+## Questions to Consider
+
+* *Have you ever found yourself or your organization falling into the "build trap"? What were the signs, and how did you (or didn't you) address them?*
+* *Reflecting on your organization, would you say it's sales-led, visionary-led, or technology-led?*
+* *Can you identify instances where a product manager, have acted like a "Mini-CEO," "Waiter," or a "Former Project Manager"? What were the consequences?*
+* *How does your organization currently understand and incorporate customer needs? Could there be improvements in this area?*
+* *How does your company approach iterative product development? Is it a formalized process, or does it need more structure?*
+* *Are your business goals aligned with customer needs? How do you maintain this alignment as business goals and customer needs evolve?*
+* *How innovative and agile do you consider your organization to be? What areas need more flexibility or creativity?*
+* *What metrics does your organization use to measure product success? Are these effectively capturing the value your products create for customers?*

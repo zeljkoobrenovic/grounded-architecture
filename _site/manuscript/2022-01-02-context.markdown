@@ -198,6 +198,8 @@ Loose coupling is architecture-wise an interesting challenge as it frequently le
 
 ## Questions to Consider
 
+To better understand any idea or solution, it is crucial to understand the context in which these ideas developed. The same applies to applying concepts: contextualizing them in your organizations. When using ideas from this book, ask yourself how your organizational context differs from mine:
+
 * *What are the unique characteristics of organizational context?*
 * *What are organizational context characteristics similar to many other companies?*
 * *What is the scale of your organization? How it affects architecture function?*
@@ -205,3 +207,5 @@ Loose coupling is architecture-wise an interesting challenge as it frequently le
 * *What are grow dynamics of your organization? How it affects architecture function?*
 * *Are you experiencing synergy and transformation pressures? How it affects architecture function?*
 * *How (de)centralized is your organization? How it affects architecture function?*
+
+

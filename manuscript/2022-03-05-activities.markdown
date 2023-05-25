@@ -89,3 +89,17 @@ I have sometimes implemented the concept of a **decision pyramid** to give maxim
 
 Development teams should make most of the decisions. However, several strategic and area-level choices may provide team decision boundaries. For example, selecting the public cloud provider is typically a CTO-level strategic decision. Similarly, engineering leaders may want to limit some choices, such as the number of programming languages, to more easily train new people, maintain code, and support moves between teams.
 
+## Questions to Consider
+
+Your architecture practice job is to solve the biggest problems in your organization. Ask yourself the following questions:
+
+* *How can you identify the most critical problems that your architecture team needs to solve in your organization?*
+* *What activities and operating models can you think of that will best enable architecture in your organization to work on these critical problems?*
+* *In your organization, what does the Architecture Activities Platform look like, and how could it be improved?*
+* *Which of the provided examples of architecture activities are you currently performing in your organization?*
+* *How does the proposed common operating model align with your current operational practices in your organization? What changes might be necessary to adopt this model?*
+* *In your experience, how early are architects involved in projects and activities? Do you agree with the goal of 'shifting left' the architecture work?*
+* *How are architectural decisions distributed across your organization currently? How could this process be improved to ensure the people with the most relevant information make the decisions?*
+* *Reflect on the balance of autonomy and alignment in your organization. How could you better implement a mechanism to give teams autonomy while maintaining alignment and compatibility with global strategy?*
+* *How does the concept of a decision pyramid resonate with you? How is it reflected in your current organization, and how could it be better implemented?*
+* *Which strategic and area-level decisions provide team decision boundaries in your organization? Are there areas where you need more or less limitations to optimize performance?*

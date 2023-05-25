@@ -169,3 +169,20 @@ Figures 3 to 7 show some insights from source code analyses with Sokrates.
 **Figure 7**: *Sokrates can reveal the team topologies by plotting 2D and 3D graphs of dependencies that people create through working on the same repositories in the same period.*
 <br>
 <br>
+
+
+## Questions to Consider
+
+Using data can significantly improve the efficiency and impact of architectural practice. But there are no simple tools that can instantly provide you insights. Ask yourself the following questions: 
+
+* *Have you considered using open-source tools like Sokrates to gain architectural insights from data sources? Why or why not?*
+* *What are your views on the reliability and scalability of manual documentation as opposed to data reliance?*
+* *What steps would you take to create an architecture data pillar in your organization?*
+* *Do you think there are untapped data sources within your organization that could inform your architectural data pillar?*
+* *How could you automate the process of gathering data for architectural insights in your organization?*
+* *What examples can you provide of the data you've used to gain reliable information about technology in your organization?*
+* *How would you examine public cloud billing reports, incident reports, or key business metrics for architectural insights?*
+* *How can you ensure your data is reliable and up-to-date?*
+* *Do you collaborate with finance and governance teams to incorporate financial and vibrancy data into your data analysis?*
+* *Is there a culture of transparency in your organization?*
+

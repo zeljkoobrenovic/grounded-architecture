@@ -138,8 +138,10 @@ Thank all eBay Classifieds Virtual Architecture Team (VAT) members and AVIV Grou
 
 ## Questions to Consider
 
+In this introduction, I presented my motivation to write this book. To better prepare yourself for reading this book, think about the following questions:
+
 * *Are you applying the Software Architecture Elevator vision in your work? How?*
 * *Do you use data in your daily decision-making processes?*
 * *Which tools do you use for architectural work?*
 * *Do you share lessons you learn in your work with peers from other companies? Where?*
-* *Is your view of career development in architect engineering biased? Which resources do you use?*
+* *Is your view of career development in architectural engineering biased? Which resources do you use?*

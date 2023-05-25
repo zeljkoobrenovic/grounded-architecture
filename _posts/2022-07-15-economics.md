@@ -111,3 +111,17 @@ As with any analogy, the financial options analogy has its limits. Again, it isn
 * Martin Fowler (2019): [Is High Quality Software Worth the Cost?](https://martinfowler.com/articles/is-quality-worth-cost.html).
 * Martin Fowler (2011): [Tradable Quality Hypothesis](https://martinfowler.com/bliki/TradableQualityHypothesis.html).
 * Gregor Hohpe (2016): [Architecture: Selling Options](https://architectelevator.com/architecture/architecture-options/).
+
+
+
+## Questions to Consider
+
+* *How can you effectively communicate the value of architectural investments to non-technical stakeholders in your organization?*
+* *How do you weigh the importance of short-term cost reductions against long-term architecture improvements?*
+* *How could the return-on-investment metaphor be useful in explaining the benefits of architecture investment to your team or organization?*
+* *If you were to use the ROI metaphor to explain architecture's value to non-technical stakeholders, what examples or case studies would you use to illustrate your points?*
+* *What are some potential pitfalls of relying too heavily on the ROI metaphor when deciding on architecture investments?*
+* *How could you use the financial options metaphor to explain the value of architectural investments? What are the benefits and challenges of using this metaphor in your organization?*
+* *How can you better quantify the value of architectural investments, particularly in terms of attributes like time-to-market and developer satisfaction?*
+* *How might the financial options metaphor apply to recent decisions facing your organization or team, and how could it influence those decisions?*
+* *What do you think about Gregor Hohpe's argument about the best way to explain architecture to non-technical people? How could this approach be applied in your work?*

@@ -127,3 +127,19 @@ For senior positions, I typically introduce an additional step of meeting senior
    * Assessing the candidate's communication and collaboration skills
 
 With the described steps, you can get a solid overview of all critical aspects of superglue architects. In particular, the involvement of people outside architecture or engineering is crucial to minimize risk related to a lack of interest and ability to engage with all relevant stakeholders.
+
+
+## Questions to Consider
+
+* *Reflect on your career path in architecture. How has your engineering background impacted your effectiveness as an architect?*
+* *How did your transition from an engineering position to an architecture role change your scope of work, diversity of work, and skills?*
+* *As an architect, how do you balance technical constraints, user needs, and organization level leadership? Can you share an example of how you've navigated this in your work?*
+* *Reflect on your career progression in architecture. How have you continuously stayed relevant and made an impact in your role?*
+* *If you were involved in the hiring process for architects, how would you assess a candidate’s technical skills, communication and collaboration skills, leadership and problem-solving abilities, and cultural fit?*
+* *What strategies would you implement to ensure that you are continuously raising the bar in developing and hiring architects in your organization?*
+* *How have you demonstrated your communication and collaboration skills in your role as an architect? Can you share an instance where these skills were crucial?*
+* *How would you describe your leadership and problem-solving abilities? Can you share an example of how you've used these skills in your work?*
+* *Reflect on the cultural fit between you and your organization. How do your values align with those of the company?*
+* *What steps would you include in your hiring process for architects to ensure a solid evaluation of the candidates?*
+* *How would you ensure diversity of perspectives within your architecture team, and why do you think this is important?*
+* *In your experience, what are some critical aspects of superglue architects that a hiring process should evaluate?*

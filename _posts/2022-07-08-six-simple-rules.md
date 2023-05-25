@@ -241,3 +241,19 @@ To reward those who cooperate managers:
 
 * [Six Simple Rules: How to Manage Complexity without Getting Complicated](https://www.bcg.com/capabilities/organization/smart-simplicity/six-rules-overcoming-complexity), by  Yves Morieux and Peter Tollman, 2014.
 
+<br>
+## Questions to Consider
+
+* *How can the concept of Smart Simplicity apply to your current role or position within your organization?*
+* *In your organization, do you feel the structures, processes, and systems directly and predictably affect performance?*
+* *Do you feel the human factor is viewed as the weakest link in your organization? How does this affect how you and your colleagues perform?*
+* *How do you perceive the balance between your organization's hard and soft management approaches? Is one approach more dominant?*
+* *How do Grounded Architecture and Six Simple Rules principles align with your current organizational practices?*
+* *How does your organization currently promote autonomy and cooperation among employees? Are there areas for improvement?*
+* *How do the assumptions of hard and soft management approaches hinder cooperation in your organization?*
+* *How can you increase the total power within your organization without taking power away from others?*
+* *How can your organization increase reciprocity and make each person's success dependent on the success of others?*
+* *How can your organization extend the shadow of the future? Are there feedback mechanisms in place to make people accountable for their decisions?*
+* *How are those who cooperate rewarded in your organization? Are there mechanisms in place to increase the payoff for all when they cooperate beneficially?*
+* *How can the architecture function in your organization support the implementation of the Six Simple Rules?*
+* *How do your organization's current systems and structures promote or hinder the cooperation needed to make autonomy effective?*

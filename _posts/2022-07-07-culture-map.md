@@ -226,3 +226,21 @@ While cultural generalizations, like the culture map, can be helpful, it is cruc
 * [Navigating the Cultural Minefield](https://hbr.org/2014/05/navigating-the-cultural-minefield), by Erin Meyer, Harvard Business Review, 2014
 * [Increase Your Team’s Performance with The Culture Map](https://awarenessagents.wordpress.com/2019/06/07/increase-your-teams-performance-with-the-culture-map/), by Andreea, 2019
 * [The Culture Map Lecture Notes](https://docs.google.com/presentation/d/1yn-IHK9iXJ1Qgxj_uw16WKQ1Qp9uXKGSSUbJg0xT9eE/edit?usp=sharing), 2023
+
+
+## Questions to Consider
+
+* *How would you describe your communication style based on Erin Meyer's model? Are you more low-context or high-context?*
+* *How do you prefer to give and receive feedback? Do you prefer a more direct or indirect approach?*
+* *When it comes to persuasion, do you prefer specific cases and examples or more holistic explanations?*
+* *How do you see leadership? Do you prefer a hierarchical or egalitarian structure in your work environment?*
+* *What's your approach to decision-making? Do you prefer consensus or top-down decisions?*
+* *How do you build trust? Do you base it more on personal relationships or work-based achievements?*
+* *How do you handle disagreements? Do you prefer to tackle them directly or avoid confrontations?*
+* *How do you perceive time and schedule? Do you consider time linear and absolute or a flexible range?*
+* *What strategies do you use to adapt to the communication styles of different cultures and professional communities?*
+* *How do you adjust your leadership or decision-making approach when dealing with team members from different cultures?*
+* *How do you maintain trust in multicultural environments? What challenges have you faced in this regard?*
+* *How do you handle disagreements in a multicultural context?*
+* *In which areas of Meyer's model could you improve?*
+* *How would you handle a situation where different members of the same team have radically different expectations regarding decision-making or disagreeing?*

@@ -130,3 +130,17 @@ Architects need to have a minimal "length" of all of these "legs" to be successf
 ***Figure 3:** Architects need to have a minimal "length" of all of these "legs" to be successful.*
 
  
+## Questions to Consider
+
+Being a superglue architect means constantly developing and redefining your role to benefit a changing organization. Ask yourself the following questions:
+
+* *How well do you think you currently embody the characteristics of a "superglue" architect? Which areas could you improve on to become more effective in this role?*
+* *Reflect on your ability to connect the "business wheelhouse" and the "engine room" within your organization. How effectively do you bridge the gap between technical issues and business needs?*
+* *How strong are your relationships with developer teams, local business stakeholders, and broader internal communities? What strategies could you employ to strengthen these connections?*
+* *How much external visibility do you currently have? How could this be enhanced to promote the flow of ideas into and out of the organization?*
+* *Considering the three legs of a successful architect (skills, impact, leadership), which do you consider your strongest? Which might need more development?*
+* *Assess your technical skills and ability to apply this knowledge in practice. How well do you balance hard (technical) skills, soft skills, and business domain knowledge?*
+* *How do you currently measure your impact within your organization? Could you identify and address more strategic problems to benefit the business?*
+* *Reflect on your leadership abilities. How are you acting as a role model within your organization and contributing to the broader technical community?*
+* *How do you balance skill development, impact, and leadership? Where should you focus more on ensuring a balanced development as an architect?*
+* *In what ways could you be more of a mentor for junior architects? What spaces could you create or utilize to facilitate more effective coaching and collaboration?*

@@ -143,3 +143,21 @@ This adaptivity is driven by the independence of elements and the possibility of
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/painter06-3732158/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3388163">Francis Ray</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3388163">Pixabay</a>
 </div>
+
+
+## Questions to Consider
+
+It is always essential to be thoughtful about the value and impact of your work. Ask yourself the following questions:
+
+* *How effective is your organization's current architectural function at scale? How valuable are principles of Grounded Architecture to enhance its efficiency?*
+* *To what extent does your organization use data to inform architectural decisions? What steps could you take to move your organization from opinion-based to more data-driven decision-making?*
+* *How well-aligned are the different areas within your organization, and how does this affect your architectural function? Could the Data and People Pillars principles be utilized to improve alignment?*
+* *What strategies does your organization currently have to foster organizational learning? How could the methods described in the Grounded Architecture model enhance this?*
+* *How quickly can your organization adopt and utilize new technologies? How could your architecture practice accelerate this process?*
+* *Consider the adaptivity of your organization's architectural function. How could your architecture practice improve it?*
+* *Reflecting on the value of the "data pillar" concept, how effectively is your organization tracking changes, supporting what-if scenario analysis, and defining baselines?*
+* *What role does the Chief Architect play in your organization? Could their time be better utilized on strategic initiatives?*
+* *How sustainable is the architectural function in your organization in the absence of a strong central team? Could implementing a Data Pillar and well-connected architects help mitigate this?*
+
+
+

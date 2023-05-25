@@ -62,3 +62,17 @@ Business Architecture refers to the strategic design and alignment of an organiz
 
 
  
+## Questions to Consider
+
+Architects must possess the knowledge and the ability to apply relevant knowledge in practice. Ask yourself the following questions:
+
+* *On a scale from 1 to 10, how would you rate your current architectural skill sets, considering technical, communication, and business skills?*
+* *Reflect on your technical skills. How proficient are you in system design, understanding engineering processes, recognizing design patterns and tactics, ensuring security and privacy, optimizing systems, and maintaining code structures?*
+* *Are there any specific hard skills you need to develop to enhance your performance as an architect?*
+* *Now, think about your soft skills. How effectively do you communicate (in writing, visually, verbally, and through listening)? How strong are your networking and collaboration skills, and how well do you manage your time and organizational tasks?*
+* *Can you identify an instance where your problem-solving skills and strategic thinking have significantly influenced your work as an architect?*
+* *Looking at business skills, how well do you understand general business concepts, and how familiar are you with the specific business domain of your organization?*
+* *How competent are you in business analysis and requirements gathering? Can you share an example where you effectively translated business objectives into functional and technical specifications?*
+* *Are there any soft or business skills that you believe you need to develop or improve to be more successful in your role as an architect?*
+* *Reflect on how you have used your soft skills to effect organizational change. Are there areas or situations where you could have applied these skills more effectively?*
+* *How do you balance developing and maintaining your hard, soft, and business skills? Is there a particular area you tend to focus on more, and if so, why?*
