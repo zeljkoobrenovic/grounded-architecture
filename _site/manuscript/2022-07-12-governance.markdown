@@ -5,7 +5,6 @@
 
 ![](assets/images/arch/greece-1594689_1920.jpg)
 
-
 **IN THIS SECTION, YOU WILL:** Understand that a technology governance model should be a well-balanced hybrid of three different styles of governing: mandates and bans, taxes, and nudging.
 
 {pagebreak}
@@ -15,7 +14,6 @@ A> * Grounded Architecture supports governance models adaptable to organizations
 A> * By governing with mandates and bans, I mean guiding people by explicitly defining what they should or should not do.
 A> * Governing with taxes is a form of guiding in which people are not forbidden to make some decisions but need to "pay" some form of taxes on used resources.
 A> * Nudging is a form of governing where we create subtle or indirect suggestion influencing someone's behavior or decision-making without forcing them or limiting their freedom of choice.
-
 
 
 
