@@ -57,21 +57,3 @@ Just Enough Software Architecture by George Fairbanks is an approachable and com
 Software Systems Architecture by Nick and Eóin is a practitioner-oriented guide to designing and implementing
 effective architectures for information systems.
 
-
-## Career Development
-
-
-{width: "20%"}
-![](assets/images/books/staff-engineer-or.jpg)
-
-The Staff Engineer's Path by Tanya Reilly. Similar to my view of architects the staff engineer's path allows engineers to contribute at a high level as role models, driving big projects, determining technical strategy, and raising everyone's skills.
-
-
-* * *
-
-{width: "20%"}
-![](assets/images/books/staff-engineer.jpeg)
-
-Staff Engineer by Will Larson, defined technical leadership beyond the management track. I share many of the views presented in this book regarding development and skills of architects. 
-
-
