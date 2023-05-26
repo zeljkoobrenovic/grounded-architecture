@@ -61,7 +61,7 @@ def copy_post(post):
                     in_header = False
                 elif line.startswith('title:'):
                     if (covers.get(post)):
-                        content += '![](' +covers[post] + ')\n\n{pagebreak}\n\n'
+                        content += '\n![](' +covers[post] + ')\n\n{pagebreak}\n\n'
                     content += '# ' + line.replace('title:', '').replace('"', '').strip()
                 elif line.startswith('permalink:'):
                     content += ' {#' + line.replace('permalink:', '').replace('"', '').strip() + '}\n\n'
