@@ -2,7 +2,6 @@
 
 # People Pillar {#people}
 
-
 ![](assets/images/arch/construction-4939383_1920.jpg)
 
 **IN THIS SECTION, YOU WILL:**  Understand that architecture practice is all about people and get tips on creating organizational structures that support practical architecture functions.
@@ -20,17 +19,11 @@ A> * In my work in the past few years, I was working by combining, in different 
 central architecture team and a cross-organizational distributed virtual team.
  
 
-
-
-
 The **People Pillar** is an essential element of Grounded Architecture. As noted by Gregor Hohpe, to transform an
 organization, you do not need to solve mathematical equations. You need to move people. Consequently, having a strong
 network of people doing architecture across the organization is crucial to ensure that the architecture function has any
 tangible impact. In other words, Strong Architecture =
 Strong Architects.
-
-
-
 
 Developing the architecture function requires having competent, empowered, and motivated architects. We should not take
 architectural talent for granted. Architects are bridging local business, product, organizational, and technology
@@ -162,9 +155,6 @@ Credit: [Gregor Hohpe](https://architectelevator.com/architecture/organizing-arc
 
 In big organization, embracing diversity is a pre-requirements to have any broad impact.
 
-
-
-
 ## Building People Pillar
 
 While each organization will need its unique approach, here are some tips I found helpful in my approach to forming
@@ -187,9 +177,6 @@ architecture teams or "[People Pillar](#people)":
   both grow and attract architectural talent.
 
 ![](assets/images/arch/pyramid-g88f894074_1920.jpg)
-
-
-
 
 ## Questions to Consider
 

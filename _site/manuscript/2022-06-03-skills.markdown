@@ -2,11 +2,7 @@
 
 # Skills {#skills}
 
-
-
-
 ![](assets/images/arch/iStock-531552876.jpg)
-
 
 **IN THIS SECTION, YOU WILL:**  Understand that architects' skills should include a mix of technical, communication, and business skills, and get valuable pointers to resources for developing these skills.
 
@@ -15,12 +11,7 @@
 A> **KEY POINTS:**
 A> * A typical skillset of an architects includes: hard (technical) skills, soft (people & social) skills, and business skills.
 
-
-
 Architects have to have proper skill sets. By skills, I mean possessing knowledge and the ability to apply relevant knowledge in practice. These skills should include both technical (e.g., cloud architecture or Kubernetes technology) as well as communication and influence skills.
-
-
-
 
 A typical skillset of an architects includes (I provide links to some of my [tools](https://obren.io/tools) I found useful for obtaining these skills):
 * **Hard (technical) skills**, including extensive knowledge of for both new technology and legacy technology stacks,
@@ -40,7 +31,6 @@ Hard skills, also known as technical skills, are the abilities and knowledge nee
 * **[Reliability and stability (anti)patterns](https://obren.io/tools/catalogs/?id=releaseit-stability-awareness) and [tactics](https://obren.io/tools/catalogs/?id=releaseit-stability-tactics)**: An architect should be aware of the common reliability and stability issues that can arise in complex systems. They should be able to identify and address potential problems by using patterns and tactics such as redundancy, failover, and graceful degradation.
 * [**Usability**](https://obren.io/tools?q=usability): An architect should have a good understanding of usability principles. They should design systems that are easy to use and provide a good user experience.
 
-
 ## Soft Skills  (Social Architecture)
 A> To change the architecture of a software-intensive system ensconced in a large organization, you often have to change the architecture of the organization. And ultimately, that is a political problem, not just a technical one. 
 A>--Grady Booch
@@ -59,7 +49,6 @@ Business Architecture refers to the strategic design and alignment of an organiz
 * **General business concepts knowledge** ([The Personal MBA](https://personalmba.com/) book being my favorite resource to get familiar with such concepts): A fundamental understanding of general business concepts is essential for architects to make informed decisions and effectively communicate with stakeholders. Familiarity with concepts such as finance, marketing, sales, operations, and strategy can provide a strong foundation for architects to engage with various aspects of an organization. 
 * [**Specific business domains**](https://obren.io/tools?tag=domain_models) of the organization: In addition to general business concepts, architects should also develop a deep understanding of the specific business domain in which their organization operates. This may include knowledge of industry-specific regulations, market trends, customer preferences, competitive landscape, and more. Gaining insights into the specific business domain enables architects to better align their work with the organization's goals, strategies, and priorities.
 * **Business analysis and requirements gathering**: Architects should be adept at analyzing business needs and gathering requirements from various stakeholders. This skill involves understanding the organization's objectives and translating them into functional and technical specifications that can guide the design and development of solutions. 
-
 
  
 ## Questions to Consider

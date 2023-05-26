@@ -2,10 +2,7 @@
 
 # Architects' Career Paths: Raising the Bar {#career}
 
-
-
 ![](assets/images/arch/pole-vault.jpg)
-
 
 **IN THIS SECTION, YOU WILL:**  Get ideas and tips about developing architects' career paths.
 
@@ -15,16 +12,11 @@ A> **KEY POINTS:**
 A> * Architects' career paths ideally stem from a strong engineering background.
 A> * Hiring architects requires constantly raising the bar to ensure a strong and diverse team structure.  
 
-
-
 Hiring and developing architects will differ significantly per organization. Nevertheless, here I share some of the ideas and lessons learned here.
 
 ## Typical Architect's Career Paths
 
 My view of architecture has a strong engineering bias. Architects' career paths ideally stem from a strong engineering background. While there may be exceptions, without significant real-world exposure to software engineering challenges, an architect cannot obtain enough practical knowledge to make technology decisions and build relations with developer teams. 
-
-
-
 
 Regarding career progression, Figure 1 shows an example of architecture career paths in relation to engineering, which I used to define architecture career paths. 
 
@@ -45,14 +37,9 @@ After the role of an Architect, I usually envision three tracks of progression:
 
 But an architect's path can take many different directions and have many other names. More important than a formal title is a continuous search for staying relevant and making an impact as a [superglue](#superglue).
 
-
 ## Hiring Architects
 
-
 Developing and hiring architects requires constantly raising the bar to ensure a strong and diverse team structure. Having more architects does not necessarily leads to a better team. Having good alignment and diversity of perspective is even more important for an architecture team than for other groups.
-
-
-
 
 It is vital to take more active ownership of hiring architects. Due to the vast diversity of how different companies define the architect's role, recruiters may need help understanding the role's requirements.
 
@@ -97,7 +84,6 @@ For senior positions, I typically introduce an additional step of meeting senior
    * Assessing the candidate's communication and collaboration skills
 
 With the described steps, you can get a solid overview of all critical aspects of superglue architects. In particular, the involvement of people outside architecture or engineering is crucial to minimize risk related to a lack of interest and ability to engage with all relevant stakeholders.
-
 
 ## Questions to Consider
 

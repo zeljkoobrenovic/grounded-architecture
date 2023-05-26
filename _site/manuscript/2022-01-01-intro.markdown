@@ -2,7 +2,6 @@
 
 # Introduction {#intro}
 
-
 ![](assets/images/arch/staircase-274614_1920.jpg)
 
 **IN THIS SECTION, YOU WILL:** Understand what this playbook is about and how to use it.
@@ -14,8 +13,6 @@ A> * *This playbook aims to share my approach to running an IT architecture prac
 A> * *I called this approach "Grounded Architecture," highlighting the need for any IT architecture function to stay well-connected to all levels of an organization and led by data.*
 A> * *I also explain my motivation to write this playbook.*
 
-
-
 In recent years, we have witnessed several shifts in the role of IT architects. IT architects' role has changed, and Gregor Hohpe's book, The [Software Architect Elevator](https://architectelevator.com/book/), highlights this shift. The book emphasizes the importance of the architect's ability to bridge the gap between high-level decision-making and low-level technical implementation. Hohpe compares the architect's role to an elevator, moving between different levels of the organization and translating goals and requirements between business executives and technical developers.
 
 While there is significant consensus about the Software Architecture vision, there are very few practical guidelines about how to do it in practice. How to define new roles closer to a modern view of architecture? How to form teams? What tools to use or build? How do we grow and develop architects?
@@ -23,10 +20,6 @@ While there is significant consensus about the Software Architecture vision, the
 To answer these questions, the only way forward, in my view,  is to share lessons we learned while applying the ideas in practice on complex projects. Even if limited in scope, such studies of our peers have much more value for practitioners than abstract debates or academic analyses.
 
 With this playbook, I want to share critical lessons I learned from implementing Software Architecture Elevator ideas in practice. More specifically, I will describe an approach to applying the concepts of Software Architecture Elevator vision to running an IT architecture practice in complex organizations, which I call "Grounded Architecture." I used the term "Grounded Architecture" to highlight the need for any IT architecture function to stay well-connected to all levels of an organization and led by data. This playbook aims to share my approach to running an IT architecture practice in larger organizations based on my experience as Chief Architect at AVIV Group, eBay Classifieds, and Adevinta.
-
-
-
-
 
 Grounded Architecture has two main parts:
 * **Structure**, elements you need to create in an organization to run Grounded Architecture practice and "ride" an architecture elevator, and
@@ -63,7 +56,6 @@ As a part of my work on Grounded Architecture, I also provide key lessons I lear
 
 The rest of this site will explain in detail the grounded architecture approach. In this section, I want to tell a few things about my motivation to write this playbook.
 
-
 ## A Bit of Personal History
 
 The work presented in this playbook builds on several years of my experience. Most of this work results from my current work as a Chief Architect at AVIV Group and previous works as a Principal Architect for eBay Classifieds and Adevinta.
@@ -74,7 +66,6 @@ My experience as a CTO of [Incision](https://incision.care), a startup, has help
 
 Lastly, my experience as a researcher at [Dutch Center for Computer Science and Mathematics (CWI)](https://www.cwi.nl/en/) and [Eindhoven Technical University (TU/e)](https://www.tue.nl/en/) provided me with a valuable background to do rigorous data analyses and research. From this research period, I want to highlight a collection of essays [Design Instability](https://design-instability.com/) I co-authored with Erik Stolterman, where we connected experiences of designing/architecting in three disciplines: classical design, UX design, and software engineering. This work has helped me better relate to and learn from non-technical fields necessary for architecture work.
 
-
 ## Why This Playbook?
 
 This playbook generalizes my experiences in a written form. I have written these articles for two reasons. Firstly, the act of writing helps me to clarify and improve my ideas (Figure 1). As Gregor Hohpe once noted, I free up some brain cells to learn new things with every sentence I write. As nicely described by Hohpe written word has distinct advantages over the spoken word:
@@ -82,7 +73,6 @@ This playbook generalizes my experiences in a written form. I have written these
 * it scales: you can address a broad audience without gathering them all in one (virtual) room at the same time
 * it's fast to process: people read 2-3 times faster than they can listen
 * it can be easily searched or versioned.
-
 
 ![](assets/images/writing.png)
 ***Figure 1:** Writing a book helped me organize ideas, obtain new insights, improve principles and tools, and share the lessons learned.*
@@ -108,7 +98,6 @@ You can find more details about these tools at my homepage **[obren.io](https://
 
 When writing this playbook, I had a broad audience in my mind. The article should be helpful to both technical and non-technical people. The report can help software engineers and architects understand their value and place in a broader organization. I also hope the articles show the less-technical audience the benefits of staying close to and well-connected with the technologists.
 
-
 ## The Structure of the Site
 
 I have organized the playbook into several main parts. In this introductory part, I have described the context in which my ideas have developed. 
@@ -130,11 +119,9 @@ are a helpful guide in defining the responsibilities of architects.
 
 The [bookshelf](bookshelf) section shows many other books and resources that have influenced my approach and ideas. 
 
-
 ## Acknowledgments
 
 Thank all eBay Classifieds Virtual Architecture Team (VAT) members and AVIV Group's Architecture Center of Excellence members who gave me invaluable feedback and discussions. Lastly, thank Peter Maas and Brent McLean for sponsoring and pushing for developing data-informed architecture in our organizations.
-
 
 ## Questions to Consider
 

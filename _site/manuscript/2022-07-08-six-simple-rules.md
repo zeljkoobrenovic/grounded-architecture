@@ -2,12 +2,7 @@
 
 # Managing Organizational Complexity: Six Simple Rules {#six-simple-rules}
 
-
-
 ![](assets/images/arch/spices-g253b7ca36_1920.jpg)
-
-
-
 
 **IN THIS SECTION, YOU WILL:**  Get an introduction to Six Simple Rules, a model for setting up organizational structures based on cooperation.
 
@@ -19,9 +14,6 @@ A> * To deal with complexity, organizations should depend on the judgment of the
 A> * This view is well aligned with the ideas of Grounded Architecture.
 
 The book [Six Simple Rules: How to Manage Complexity without Getting Complicated](https://www.bcg.com/capabilities/organization/smart-simplicity/six-rules-overcoming-complexity), by  Yves Morieux and Peter Tollman, is another source of inspiration for my vision on the Architecture function. Morieux and Tollman introduced a concept of Smart Simplicity with six rules or strategies that enable organizations to promote new behaviors and improve performance.
-
-
-
 
 Six Simple Rules emphasis that in today’s complicated business environment, you **need to setup organisational structures based on cooperation**. To deal with complexity, organizations should depend on the judgment of their people, which requires giving them more autonomy to act. It also depends on these people cooperating to utilize the organization's capabilities to cope with complex problems.
 
@@ -43,7 +35,6 @@ On the other end, we have a soft management approach. According to the **soft ap
 
 Both approaches are limited in today's world and are harmful to cooperation. A **hard approach introduces complicated mechanisms** and compliance and "checking the box" behaviors instead of the engagement and initiative to make things work. The **soft approach's emphasis on good interpersonal feelings creates cooperation obstacles** as people do not want to ruin good feelings.
 
-
 ## Six Simple Rules Overview 
 
 Six Simple rules cover two areas: **autonomy** and **cooperation**. The first three rules create the conditions for **individual autonomy and empowerment** to improve performance.
@@ -59,15 +50,11 @@ This difference between **Autonomy** and **Self-Sufficiency** leads us to the se
 * **Extend the shadow of the future**. Have people experience the consequences that result from their behavior and decisions. Tighten feedback loops. Shorten the duration of projects. Enable people to see how their success is aided by contributing to the success of others.
 * **Reward those who cooperate**. Increase the payoff for all when they cooperate in a beneficial way. Establish penalties for those who fail to cooperate.
 
-
-
 ## Simple Rule 1: Understand What Your People Do
 
 First rule states that you need to truly understand performance: **what people do** and **why they do it**. When you understand why people do what they do and how it drives performance, you can define the **minimum sufficient set of interventions with surgical accuracy**. 
  
 ![](assets/images/arch/viewpoint-gbe06b9b1a_1920.jpg)
-
-
 
 ### General Guidelines
 
@@ -83,14 +70,11 @@ I have found architecture function can be very helpful in understand what people
 * Using the **[Data Pillar](#data)** to provide a complete **overview of various data sources** that can show where activities are happening, what trends are visible, and how people cooperate. One of the principles of the Data Pillar **build maps, not control units** supports understanding and orientation rather than being a simple metric tool.
 * Leveraging the **[People Pillar](#people)** to **connect people** and enables them to **learn what is happening** in different parts of the organization.
 
-
 ## Simple Rule 2: Reinforce Integrators
 
 Reinforce integrators by looking at those **directly involved in the work**, giving them **power and interest to foster cooperation in dealing with complexity** instead of resorting to the paraphernalia of overarching hierarchies, overlays, dedicated interfaces, balanced scorecards, or coordination procedures.
  
 ![](assets/images/arch/agree-g1f407320e_1920.jpg)
-
-
 
 ### General Guidelines
 
@@ -106,15 +90,11 @@ Architecture function, in my view, is strongly related to reinforcing integrator
 * Via the **[People Pillar](#people)**, Grounded Architecture can **help identify integrators** and connect them to leverage their work. 
 * The **[Data Pillar](#data)** can **support integrators with data and insights**.
 
-
 ## Simple Rule 3: Increase the Total Quantity of Power
 
 Whenever you consider an **addition to** your organization’s **structure, processes, and systems**, think about **increasing the quantity of power**. Doing so may **save you from increasing complicatedness** and enable you to achieve a more significant impact with less cost. You can increase the quantity of power by enabling some functions to have an influence on new stakes that matter to others and performance. 
 
-
 ![](assets/images/arch/girls-gf0cc5fe5a_1920.jpg)
-
-
 
 ### General Guidelines
  
@@ -130,11 +110,9 @@ Architecture supports increasing power quantity with the **[operating model](act
 * I aimed to increase the quantity of the **decision-making power** and keep architectural decision-making **distributed across the organization** and embedded in the development teams. Development teams traditionally have the best insights and most information relevant for making a decision. 
 * Additionally, the **[Data Platform](#data)** opens many people in the organization, giving them **data in insights that can increase their power in daily work**.
 
-
 ## Simple Rule 4: Increase Reciprocity
 
 In the face of business complexity, work is becoming more inter-dependent. To meet multiple and often contradictory performance requirements, **people need to rely more on each other**. They need to **cooperate directly** instead of relying on dedicated interfaces, coordination structures or procedures that only add to complicatedness. 
-
 
 ![](assets/images/arch/iStock-1072898930.jpg)
 
@@ -151,15 +129,11 @@ Architecture function is directly related to increasing reciprocity:
 * I consider the success of architecture dependent on **[architects' superglue impact](#superglue)**. Likewise, the developer teams support depends on architecture support. I also integrate feedback of people from teams that architects support in architects' performance evaluations.  
 * In addition, the **[People Pillar](#people)** directly supports one of the ways of reinforcing reciprocity: **creating new networks of interactions**.
 
-
 ## Simple Rule 5: Extend the Shadow of the Future
 
 Increase the importance to people of **what happens tomorrow as a consequence of what they do today**. By making very simple changes you can manage complex requirements, while also removing organizational complicatedness. With the strategic alignment typical of the hard approach, these simple solutions—for instance, career paths—often come at the end of a sequence that starts by installing the most cumbersome changes: new structure, processes, systems, metrics, and so on. Simple and effective solutions are then impossible. 
 
 ![](assets/images/arch/trees-gc38b3c617_1920.jpg)
-
-
-
 
 ### General Guidelines
 
@@ -175,15 +149,11 @@ The architecture can extend the shadow of the future in multiple ways:
 * The **[Data Pillar](#data)** creates **transparency** and provides data necessary to **model the future**. I've used such data to create many **simulations and roadmap** options. 
 * The principle of applying **[economic modeling](#economics)** to architecture decision-making directly supports describing what happens tomorrow as a consequence of what they do today. 
 
-
 ## Simple Rule 6: Reward Those Who Cooperate
 
 Lastly, the Six Simple Rules approach recommends that when you cannot create direct feedback loops embedded in people’s tasks, you need **management’s intervention to close the loop**. Managers must then use the familiar performance evaluation tool but in a very different way. 
 
-
 ![](assets/images/arch/people-gac98109e9_1920.jpg)
-
-
 
 ### General Guidelines
 

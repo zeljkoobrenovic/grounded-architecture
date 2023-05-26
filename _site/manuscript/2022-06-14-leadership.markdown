@@ -2,8 +2,6 @@
 
 # Leadership {#leadership}
 
-
-
 ![](assets/images/arch/submarine-gcc865d4ee_1920.jpg)
 
 **IN THIS SECTION, YOU WILL:**  Understand how to apply ideas from David Marquet's work and Netflix's valued behaviors to develop architects' leadership traits.
@@ -15,12 +13,6 @@ A> * My view of architecture leadership is inspired by David Marquet's work and 
 A> * Marquet focused on leadership and organizational management, with a particular emphasis on the principles of Intent-Based Leadership.
 A> * Borrowing from Netflix's original values the following behavioral traits are crucial for architects are: communication, judgment, impact, inclusion, selflessness, courage, integrity, curiosity, innovation, and passion.
 
-
-
-
-
-
-
 My approach to architecture leadership draws inspiration from two sources: [David Marquet's](https://davidmarquet.com/) leadership principles, as articulated in his book "Turn the Ship Around!" and Netflix's valued behaviors. Marquet's ideas emphasize empowering team members, providing clarity, decentralizing decision-making, striving for continuous improvement, and practicing servant leadership. Meanwhile, [Netflix valued behaviors](https://jobs.netflix.com/culture) offer useful guidance for coaching and developing architects aligned with the "superglue" version.
 
 ## David Marquet's Work: The Leader-Leader Model
@@ -28,9 +20,6 @@ My approach to architecture leadership draws inspiration from two sources: [Davi
 Marquet's work is closely tied to the Leader-Leader model of leadership, a style where authority is shared across a team or organization instead of being concentrated at the top. In this model, every team member has something valuable to contribute and can work together toward the group's success.
 
 This leadership approach empowers individuals to take ownership of their work and collaborate with others to achieve common goals. Instead of relying on a single leader to make all decisions, authority, and responsibility are distributed across the team.
-
-
-
 
 The leader-leader model is an excellent standard for architects' leadership vision. Like managers in a leader-leader model, architects should act more as facilitators, coaches, and mentors than traditional top-down decision-makers. They provide team members guidance, support, or resources to help them achieve their goals and reach their full potential.
 
@@ -40,10 +29,7 @@ David Marquet's book "Leadership is Language" provides practical advice for lead
 
 ![](assets/images/arch/leader-leader.jpg)
 
-
 I have found a phase "I intend to" to be a powerful catalyst for positioning architecture work. The phrase helps describe the work architect as someone others expect to take the initiative and lead efforts. But also to describe the desired interaction of architects with the teams they work with, where we hope teams share their intentions which architects can help improve.
-
-
 
  
 ## Netflix Valued Behaviors: Leadership Behaviors
@@ -144,7 +130,6 @@ Architects are frequently role models for others. As such you need to show the f
 * You are **tenacious and optimistic**
 * You are **quietly confident** and **openly humble**
  
-
 
 ## Questions to Consider
 

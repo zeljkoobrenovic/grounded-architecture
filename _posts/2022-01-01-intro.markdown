@@ -8,20 +8,28 @@ author: by Željko Obrenović (obren.io)
 permalink: intro
 icon: spiral-stairs.png
 timetoread: 15 min
-excerpt: "This playbook aims to share my approach to running an IT architecture practice in larger organizations based on my experience as Chief Architect at AVIV Group, eBay Classifieds, and Adevinta. I called this approach \"Grounded Architecture,\" highlighting the need for any IT architecture function to stay well-connected to all levels of an organization and led by data."
+excerpt: "This book
+
+ aims to share my approach to running an IT architecture practice in larger organizations based on my experience as Chief Architect at AVIV Group, eBay Classifieds, and Adevinta. I called this approach \"Grounded Architecture,\" highlighting the need for any IT architecture function to stay well-connected to all levels of an organization and led by data."
 
 ---
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/staircase-274614_1920.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/fda54-145996/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=274614">fda54</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=274614">Pixabay</a>
 </div>
-> **IN THIS SECTION, YOU WILL:** Understand what this playbook is about and how to use it.
+> **IN THIS SECTION, YOU WILL:** Understand what this book
+
+ is about and how to use it.
 >
 > ***KEY POINTS:***
 >
-> * *This playbook aims to share my approach to running an IT architecture practice in larger organizations based on my experience as Chief Architect at AVIV Group, eBay Classifieds, and Adevinta.*
+> * *This book
+
+ aims to share my approach to running an IT architecture practice in larger organizations based on my experience as Chief Architect at AVIV Group, eBay Classifieds, and Adevinta.*
 > * *I called this approach "Grounded Architecture," highlighting the need for any IT architecture function to stay well-connected to all levels of an organization and led by data.*
-> * *I also explain my motivation to write this playbook.*
+> * *I also explain my motivation to write this book
+
+.*
 
 <style>
  .quote {
@@ -40,13 +48,9 @@ Image by <a href="https://pixabay.com/users/fda54-145996/?utm_source=link-attrib
     }
 </style>
 <br>
-In recent years, we have witnessed several shifts in the role of IT architects. IT architects' role has changed, and Gregor Hohpe's book, The [Software Architect Elevator](https://architectelevator.com/book/), highlights this shift. The book emphasizes the importance of the architect's ability to bridge the gap between high-level decision-making and low-level technical implementation. Hohpe compares the architect's role to an elevator, moving between different levels of the organization and translating goals and requirements between business executives and technical developers.
+This book
 
-While there is significant consensus about the Software Architecture vision, there are very few practical guidelines about how to do it in practice. How to define new roles closer to a modern view of architecture? How to form teams? What tools to use or build? How do we grow and develop architects?
-
-To answer these questions, the only way forward, in my view,  is to share lessons we learned while applying the ideas in practice on complex projects. Even if limited in scope, such studies of our peers have much more value for practitioners than abstract debates or academic analyses.
-
-With this playbook, I want to share critical lessons I learned from implementing Software Architecture Elevator ideas in practice. More specifically, I will describe an approach to applying the concepts of Software Architecture Elevator vision to running an IT architecture practice in complex organizations, which I call "Grounded Architecture." I used the term "Grounded Architecture" to highlight the need for any IT architecture function to stay well-connected to all levels of an organization and led by data. This playbook aims to share my approach to running an IT architecture practice in larger organizations based on my experience as Chief Architect at AVIV Group, eBay Classifieds, and Adevinta.
+ aims to share my approach to running an IT architecture practice in larger organizations based on my experience as Chief Architect at AVIV Group, eBay Classifieds, and Adevinta. I called this approach "grounded architecture," highlighting the need for any IT architecture function to stay well-connected to all levels of an organization and led by data.
 
 
 <div class="quote">
@@ -54,7 +58,7 @@ I called my approach "grounded architecture," highlighting the need for any IT a
 </div>
 
 Grounded Architecture has two main parts:
-* **Structure**, elements you need to create in an organization to run Grounded Architecture practice and "ride" an architecture elevator, and
+* **Structure**, elements you need to create in an organization to run Grounded Architecture practice, and
 * **Reflections**, a set of my considerations and guiding principles that can help put the ideas of Grounded Architecture into practice.
 
 The figure bellow shows the structure of the Grounded Architecture consisting of three elements:
@@ -86,23 +90,41 @@ As a part of my work on Grounded Architecture, I also provide key lessons I lear
   * [Architecture Governance: Mandates, Taxation, Nudge](flexible-governance)
   * [Economic Modeling: ROI and Financial Options](economics)
 
-The rest of this site will explain in detail the grounded architecture approach. In this section, I want to tell a few things about my motivation to write this playbook.
+The rest of this book will explain in detail the grounded architecture approach. In this section, I want to tell a few things about my motivation to write this book
+
+.
+
+
+## Influences
+
+Gregor Hohpe's [Architecture Elevator](https://architectelevator.com/) view of architecture has heavily inspired my work. In many ways, my work reflects the lessons learned from blindly implementing Gregor's ideas in practice.
+
+I use Staff Engineering roles as an inspiration for the development of architects. Tanya Reilly's
+book [The Staff Engineer's Path](https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/) and Will
+Larson's book [Staff Engineer: Leadership beyond the management track](https://staffeng.com/guides/staff-archetypes/)
+are a helpful guide in defining the responsibilities of architects.
 
 
 ## A Bit of Personal History
 
-The work presented in this playbook builds on several years of my experience. Most of this work results from my current work as a Chief Architect at AVIV Group and previous works as a Principal Architect for eBay Classifieds and Adevinta.
+The work presented in this book
 
-Another vital part of my experience that shaped this playbook was my earlier experience as a consultant and analyst at the Software Improvement Group. I've learned the value and pragmatics of data-informed decision-making. As a spin-off of this work, I've also built a tool called [Sokrates](sokrates.dev), which enable efficient and pragmatic extraction of data about technology and organization from source code. This work has directly influenced my view on the architecture [data pillar](data).
+ builds on several years of my experience. Most of this work results from my current work as a Chief Architect at AVIV Group and previous works as a Principal Architect for eBay Classifieds and Adevinta.
+
+Another vital part of my experience that shaped this book
+
+ was my earlier experience as a consultant and analyst at the Software Improvement Group. I've learned the value and pragmatics of data-informed decision-making. As a spin-off of this work, I've also built a tool called [Sokrates](sokrates.dev), which enable efficient and pragmatic extraction of data about technology and organization from source code. This work has directly influenced my view on the architecture [data pillar](data).
 
 My experience as a CTO of [Incision](https://incision.care), a startup, has helped me better understand the difficulties and pragmatics of creating and running an IT organization.
 
 Lastly, my experience as a researcher at [Dutch Center for Computer Science and Mathematics (CWI)](https://www.cwi.nl/en/) and [Eindhoven Technical University (TU/e)](https://www.tue.nl/en/) provided me with a valuable background to do rigorous data analyses and research. From this research period, I want to highlight a collection of essays [Design Instability](https://design-instability.com/) I co-authored with Erik Stolterman, where we connected experiences of designing/architecting in three disciplines: classical design, UX design, and software engineering. This work has helped me better relate to and learn from non-technical fields necessary for architecture work.
 
 
-## Why This Playbook?
+## Why This Book
 
-This playbook generalizes my experiences in a written form. I have written these articles for two reasons. Firstly, the act of writing helps me to clarify and improve my ideas (Figure 1). As Gregor Hohpe once noted, I free up some brain cells to learn new things with every sentence I write. As nicely described by Hohpe written word has distinct advantages over the spoken word:
+?
+
+This book generalizes my experiences in a written form. I have written these articles for two reasons. Firstly, the act of writing helps me to clarify and improve my ideas (Figure 1). As Gregor Hohpe once noted, I free up some brain cells to learn new things with every sentence I write. As nicely described by Hohpe written word has distinct advantages over the spoken word:
 
 * it scales: you can address a broad audience without gathering them all in one (virtual) room at the same time
 * it's fast to process: people read 2-3 times faster than they can listen
@@ -129,29 +151,26 @@ The other resources include:
 
 You can find more details about these tools at my homepage **[obren.io](https://obren.io/)**.
 
-## Who Should Read This Playbook?
+## Who Should Read This Book
 
-When writing this playbook, I had a broad audience in my mind. The article should be helpful to both technical and non-technical people. The report can help software engineers and architects understand their value and place in a broader organization. I also hope the articles show the less-technical audience the benefits of staying close to and well-connected with the technologists.
+?
+
+When writing this book
+
+, I had a broad audience in my mind. The article should be helpful to both technical and non-technical people. The report can help software engineers and architects understand their value and place in a broader organization. I also hope the articles show the less-technical audience the benefits of staying close to and well-connected with the technologists.
 
 
-## The Structure of the Site
+## The Structure of the Book
 
-I have organized the playbook into several main parts. In this introductory part, I have described the context in which my ideas have developed. 
+I have organized the book
+
+ into several main parts. In this introductory part, I have described the context in which my ideas have developed. 
 
 In the second part, I discuss the Grounded Architecture approach describing its three elements: the data pillar, the people pillar, and the technology Architecture Activities Platform. 
 
 In the third part, I talk about the Reflections of Grounded Architecture, grouped int to sections: Being Architect and Doing Architecture. 
 
 I conclude with a summary and pointers to external resources for those who want to explore more.
-
-## Influences
-
-Gregor Hohpe's [Architecture Elevator](https://architectelevator.com/) view of architecture has heavily inspired my work. 
-
-I use Staff Engineering roles as an inspiration for the development of architects. Tanya Reilly's
-book [The Staff Engineer's Path](https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/) and Will
-Larson's book [Staff Engineer: Leadership beyond the management track](https://staffeng.com/guides/staff-archetypes/)
-are a helpful guide in defining the responsibilities of architects.
 
 The [bookshelf](bookshelf) section shows many other books and resources that have influenced my approach and ideas. 
 

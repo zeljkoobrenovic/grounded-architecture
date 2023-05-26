@@ -29,8 +29,8 @@ def copy_post(post):
                 elif line.strip().startswith('<img') or line.strip().startswith('src='):
                     if 'src=' in line:
                         sub_line = line[line.index('src='):]
-                        sub_line  = sub_line.replace('src="', '');
-                        sub_line  = sub_line.replace('src=\'', '');
+                        sub_line  = sub_line.replace('src="', '')
+                        sub_line  = sub_line.replace('src=\'', '')
                         sub_line  = re.sub('".*', "", sub_line)
                         sub_line = sub_line.strip()
                         print(sub_line)
@@ -61,10 +61,13 @@ def copy_post(post):
                     in_header = False
                 elif line.startswith('title:'):
                     if (covers.get(post)):
-                        content += '![](' +covers[post] + ')\n\n{pagebreak}\n\n'
+                        content += '\n![](' +covers[post] + ')\n\n{pagebreak}\n\n'
                     content += '# ' + line.replace('title:', '').replace('"', '').strip()
                 elif line.startswith('permalink:'):
                     content += ' {#' + line.replace('permalink:', '').replace('"', '').strip() + '}\n\n'
+
+    while '\n\n\n' in content:
+        content = content.replace('\n\n\n', '\n\n')
 
     with open('../' + post, 'w') as html_file:
         html_file.write(content)
