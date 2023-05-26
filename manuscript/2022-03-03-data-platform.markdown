@@ -2,7 +2,6 @@
 
 # Data Pillar {#data}
 
-
 ![](assets/images/arch/architecture-1857175_1920.jpg)
 
 **IN THIS SECTION, YOU WILL:**  Understand how to use diverse data sources to support architecture decision-making processes and get concrete tips on creating architecture-centric data tools.
@@ -14,16 +13,11 @@ A> * The architecture data pillar serves as a medium to create a complete, up-to
 A> * The data pillar provides an architecture-centric view on data about a technology landscape based on source code analyses, public cloud billing reports, vibrancy reports, or incident tickets.
 A> * To facilitate creation of data pillars, I have been working on creating open-source tools, such as [Sokrates](https://sokrates.dev), that can help obtain valuable architectural insights from data sources, such as source code repositories.
 
-
-
 In every place I worked on creating architectural functions, I strongly emphasized data. In the past several years, I have been working on creating open-source tools, such as [Sokrates](https://sokrates.dev), that can help obtain valuable architectural insights from data sources, such as source code repositories or public cloud billing reports. Consequently, one of the first steps I make in any architecture role is to create an architecture data pillar to get a complete, up-to-date picture of critical elements of the technology landscapes of an organization. Manual documentation does not scale in [our context](#context), and relying on data ensures reliability and scalability. 
 
 ![](assets/images/model-data.png)
 
 The good news is that big organizations have lots of data that, if used wisely, can provide an excellent basis for an architectural data pillar. With some automation and curation, getting a good overview of the technology landscape may be closer than it initially appears.
-
-
-
 
 ## Examples of Data Sources and Tools
 
@@ -36,16 +30,12 @@ I've always aimed to get reliable data about technology with as much as possible
 
 In the following sections, I detail several of these architectural data-driven tools.
 
-
 ![](assets/images/apps.png) 
 **Figure 1:** *A screenshot of the start page of the architecture data dashboard we've built and used at AVIV Group.*
 
 ### Example 1: Source Code and Commit History
 
 I have repeatably found the source code to be an incredible source for creating data-driven architecture documentation. Source code and its commit history include an astonishing amount of information about technology, people activity, team dependencies, and the quality of software systems. I've started and still actively maintain the project [Sokrates](https://sokrates.dev), with the idea to help further extract data from source code that can help my work as an architect. I use Sokrates daily, improving it on the way.
-
-
-
 
 I have designed Sokrates from an architect's point of view, enabling quick zooming in and out into source code landscapes. On the one hand, Sokrates provides a high-level view of the landscape, summarizing data from all teams and groups. At the same time, you can zoom in on the details of particular systems to the code level. That means you can use the same tools to have CTO-level discussions looking at overall trends in our technology usage and costs. At the same time, I could engage with developers and discuss concrete code fragments and potential improvements in the code level (e.g., duplicated blocks, complex units, dependencies).
 
@@ -56,7 +46,6 @@ The Appendix at the end of this section shows some insights from source code ana
 * [**Google OSS Repositories**](https://d3axxy9bcycpv7.cloudfront.net/google/_sokrates_landscape/index.html), with aggregated multi-level analysis of more than 1,600 repositories with more than 200 million lines of code, more than 27,000 historical contributors, and more than 2.4 million commits.
 * [**Linux Source Code**](https://d3axxy9bcycpv7.cloudfront.net/asf/_sokrates_landscape/index.html), with aggregated multi-level analysis of 178 Linux repository sub-folders with more than 23 million lines of code, more than 17,000 historical contributors, and more than 1.7 million commits.
 * [**Amazon OSS Repositories**](https://d3axxy9bcycpv7.cloudfront.net/amzn/_sokrates_landscape/index.html), with aggregated multi-level analysis of more than 2,700 repositories with more than 130 million lines of code, more than 13,000 historical contributors, and more than 600,000 commits.
-
 
 In addition to standard source code and commit history analyses, I also have built several special source code analyses to get further details:
 * Travis and Jenkins files analyzers to understand how teams build CI/CD pipelines.
@@ -101,8 +90,6 @@ While each organization will have its unique sets of data, here are some tips I 
 * **Own the curation**. People need to be able to trust your data. Spend enough time to understand data sets, curate them, and ensure presentation consistency. I am a master curator and chief UX designer of a data pillar.
 * **Build maps, not control units**. The main inspiration for my work is map-making. As noted by Brené Brown, maps are one of the most critical documents in human history (see [Atlas of the Heart](https://brenebrown.com/book/atlas-of-the-heart/) for a discussion on a mapmaking metaphor). They give us tools to store and exchange knowledge about space and place. While there are differences between maps and the layers they show, the one thing that all maps do is provide readers with orientation. A sense of place is central to meaning-making. Maps are also composed of multiple layers. Similarly, the architecture data pillar offers data layers about systems, describing their size, connections, quality, security, or human activity.
 
-
-
 While I do not want to prescribe the best technology, I can tell what I use in daily work. I build most architecture data tools as simple web applications, taking data from JSON files hosted on a static web server. See some of [my public tools](https://obren.io/tools) to illustrate how I build such simple data-driven web apps.
 
 ## Appendix: Examples of Insights From Source Code Analyses with Sokrates
@@ -123,7 +110,6 @@ Figures 3 to 7 show some insights from source code analyses with Sokrates.
  
 ![](assets/images/arch/sokrates_teams.png)
 **Figure 7**: *Sokrates can reveal the team topologies by plotting 2D and 3D graphs of dependencies that people create through working on the same repositories in the same period.*
-
 
 ## Questions to Consider
 

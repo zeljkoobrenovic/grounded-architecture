@@ -107,7 +107,6 @@ The concept of a nudge was popularized by the book "Nudge: Improving Decisions A
 Richard Thaler and Cass Sunstein also introduced the concept of **choice architecture** as a key component of nudging. It refers to how the options are presented to individuals, which can significantly influence their choices. Choice architecture is the design of the decision-making environment, which includes the layout, structure, and organization of the options available.
 
 In architecture, nudges could include:
-In architecture, nudges could include:
 * architectural **principles** as informal decision guidelines,
 * recommendations for **best practices** to stimulate introduction and alignment around such practices, 
 * default options for technology choices via 

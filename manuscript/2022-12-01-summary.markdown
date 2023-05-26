@@ -2,7 +2,6 @@
 
 # Summary {#summary}
 
-
 ![](assets/images/arch/road-g04cf0c3f8_1920.jpg)
 
 **IN THIS SECTION, YOU WILL:** Look back at the content in this book.
@@ -13,8 +12,6 @@ A> **KEY POINTS:**
 A> * This playbook aims to share my approach to running an IT architecture practice in larger organizations based on my experience as Chief Architect at AVIV Group, eBay Classifieds, and Adevinta. 
 A> * I called this approach "Grounded Architecture," highlighting the need for any IT architecture function to stay well-connected to all levels of an organization and led by data.
 A> * In this section, I summarize the key points from the playbook.
-
-
 
 In this playbook, I explained an approach to running an architecture practice in larger organizations. This playbook aims to share my approach to running an IT architecture practice in larger organizations based on my experience as Chief Architect at AVIV Group, eBay Classifieds, and Adevinta. I called this approach "grounded architecture," highlighting the need for any architecture function to stay well-connected to all levels of an organization and led by data. 
 
@@ -58,9 +55,6 @@ When Grounded Architecture is in place, it can have a significant [positive impa
 * Maximize Organizational Alignment,
 * Maximize Organizational Learning, and
 * Increase Architecture Function Adaptivity.
-
-
-
 
 Remember that while you may borrow ideas from others, every organization is different in the end, and your approach must adapt to your context. When forming architecture functions, I always advise not to forget these [two pieces of advice from Gregor Hohpe](https://architectelevator.com/architecture/organizing-architecture/):
  * "*Your architecture team’s job is to solve your biggest problems. The best setup is the one that allows it to accomplish that.*"

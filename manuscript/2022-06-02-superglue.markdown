@@ -2,9 +2,6 @@
 
 # Architects as Superglue {#superglue}
 
-
-
-
 ![](assets/images/superglue/superglue.png)
 
 **IN THIS SECTION, YOU WILL:**  Understand the view on architects as superglue (people who hold architecture, technical details, business needs, and people together across a large organization or complex projects) and get valuable tips on developing "superglue" abilities.
@@ -16,14 +13,9 @@ A> * Architects in IT organizations should develop as “superglue,” people wh
 A> * Architects need to be technically strong. But their unique strengths should stem from being able to relate, or glue, technical issues with business and broader issues.
 A> * Architects should stand on three legs: Skills, Impact, Leadership.
 
-
-
 In my view, architects in IT organizations should develop as “superglue.” I borrow the "superglue" view from [Adam Bar-Niv and Amir Shenhav from Intel](https://saturn2016.sched.com/event/63m9/cant-find-superheroes-to-help-you-out-of-a-crisis-how-about-some-architecture-and-lots-of-superglue). They pointed out that instead of the superhero, we need "superglue" architects - the people who hold architecture, technical details, business needs, and people together across large organizations or complex projects. More recently, Tanya Reilly presented a [similar view](https://noidea.dog/glue) concerning software engineering positions.
 
 The superglue characteristics mean serving as the organizational connective tissue, linking the "business wheelhouse" and the "engine room." Architects, of course, need to be technically strong. But their unique strengths should stem from being able to relate, or glue, technical issues with business and broader issues.
-
-
-
 
 From discussions I've had with our technology leaders, engineers, and architects, the picture below has crystallized as a representation of the "superglue" metaphor for architects (Figure 1).
 
@@ -53,7 +45,6 @@ A typical skillset of an architects includes:
 * **Business Domain knowledge**.
 
 The section [Skills](#skills) provides more details.
-
 
 ### Impact 
 
@@ -86,9 +77,7 @@ Lleadership acknowledges that experienced architects should do more than make ar
 
 Mentoring junior architects is the most crucial aspect of senior architects' leadership. Feedback cycles in (software) architecture are inherently slow. Mentoring can save new architects many years of learning by doing and making mistakes. The [People Pillar](#people) should create spaces for such coaching and collaborations.
 
-
 The section [Leadership](#leadership) provides more details.
-
 
 ## Balanced Development
 
