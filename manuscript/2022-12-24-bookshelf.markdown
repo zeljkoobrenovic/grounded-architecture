@@ -41,14 +41,5 @@ monolithic architecture might have been written to do something in the past, the
 could do the same thing today, offering advice and approaches for effective tradeoff analysis when refactoring a large
 monolith app.
 
-* * *
-
-{width: "20%"}
-![](assets/images/books/just-enough-software-architecture.jpeg)
-
-Just Enough Software Architecture by George Fairbanks is an approachable and comprehensive book.
-
-
-* * *
 
 
