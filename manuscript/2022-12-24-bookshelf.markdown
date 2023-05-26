@@ -32,6 +32,8 @@ architecture, specifically aimed at software developers.
 
 * * *
 
+{width: "20%"}
+![](assets/images/books/hard-parts.jpg)
 
 Software Architecture: The Hard Parts is structured as a narrative about a team breaking down a faulty outdated
 monolithic application into a modern microservices-based architecture. The authors compare different aspects of how a
