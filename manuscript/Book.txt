@@ -17,3 +17,4 @@ Part2.txt
 2022-06-15-career-paths.markdown
 Part3.txt
 2022-07-06-doing-architecture.markdown
+2022-07-07-culture-map.md
