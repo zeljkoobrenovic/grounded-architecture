@@ -2,7 +2,6 @@
 # Bookshelf {#bookshelf}
 
 
-![](assets/images/arch/library-5641389_1920.png)
 
 
 {pagebreak}
@@ -10,21 +9,18 @@
 ## Introduction
 
 
-![](assets/images/books/software-architecture-elevator.png)
 
 The Software Architect Elevator: Redefining the Architect's Role by Gregor Hohpe defines architects as people that can fill a void in large enterprises: they work and communicate closely with technical staff on projects but are also able to convey technical topics to upper management without losing the essence of the message. Conversely, they understand the company's business strategy and can translate it into technical decisions that support it.
 
 * * *
 
 
-![](assets/images/books/spotify.png)
 
 [SE Radio: On Architecture](https://open.spotify.com/playlist/7GVD86edcILnVPjsZFTy28?si=f44d0bef360e4818): for those interested in IT Architecture, I've created a curated Spotify playlist of Software Engineering Radio Episodes focusing on Architecture.
 
 * * *
 
 
-![](assets/images/books/for-developers.png)
 
 Software Architecture for Developers by Simon Brown is a practical, pragmatic and lightweight guide to software
 architecture, specifically aimed at software developers.
