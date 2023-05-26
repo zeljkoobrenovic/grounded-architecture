@@ -56,8 +56,6 @@ The architecture function generally follows one of two fundamental models: centr
 
 ![](assets/images/arch/arch_teams.png)
 
-
-
 The central model involves a large-scale central architecture team. The central team typically defines the process for
 approval of new work and assures adherence by development teams. In this model, development teams have few or no
 qualified solution architects that are typically a part of the central architecture team. This model also holds
