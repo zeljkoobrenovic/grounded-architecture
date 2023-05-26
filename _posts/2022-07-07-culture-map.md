@@ -59,10 +59,6 @@ Meyer’s model contains eight scales, each representing a key area, showing how
 
 The Culture Map shows positions along these eight scales for many countries. These profiles reflect the value systems of a society at large, not those of all the individuals in it, so if you plot yourself on the map, you might find that some of your preferences differ from those of your culture.
 
-<!--
-![](assets/images/culturemap/overview.webp)
--->
-
 <br>
 ## 1. Communicating
 
