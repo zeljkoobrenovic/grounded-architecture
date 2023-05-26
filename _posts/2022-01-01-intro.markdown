@@ -17,19 +17,13 @@ excerpt: "This book
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/fda54-145996/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=274614">fda54</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=274614">Pixabay</a>
 </div>
-> **IN THIS SECTION, YOU WILL:** Understand what this book
-
- is about and how to use it.
+> **IN THIS SECTION, YOU WILL:** Understand what this book is about and how to use it.
 >
 > ***KEY POINTS:***
 >
-> * *This book
-
- aims to share my approach to running an IT architecture practice in larger organizations based on my experience as Chief Architect at AVIV Group, eBay Classifieds, and Adevinta.*
+> * *This book aims to share my approach to running an IT architecture practice in larger organizations based on my experience as Chief Architect at AVIV Group, eBay Classifieds, and Adevinta.*
 > * *I called this approach "Grounded Architecture," highlighting the need for any IT architecture function to stay well-connected to all levels of an organization and led by data.*
-> * *I also explain my motivation to write this book
-
-.*
+> * *I also explain my motivation to write this book.*
 
 <style>
  .quote {
@@ -48,14 +42,8 @@ Image by <a href="https://pixabay.com/users/fda54-145996/?utm_source=link-attrib
     }
 </style>
 <br>
-This book
+This book aims to share my approach to running an IT architecture practice in larger organizations based on my experience as Chief Architect at AVIV Group, eBay Classifieds, and Adevinta. I called this approach "grounded architecture," highlighting the need for any IT architecture function to stay well-connected to all levels of an organization and led by data.
 
- aims to share my approach to running an IT architecture practice in larger organizations based on my experience as Chief Architect at AVIV Group, eBay Classifieds, and Adevinta. I called this approach "grounded architecture," highlighting the need for any IT architecture function to stay well-connected to all levels of an organization and led by data.
-
-
-<div class="quote">
-I called my approach "grounded architecture," highlighting the need for any IT architecture function to stay well-connected to all levels of an organization and led by data.
-</div>
 
 Grounded Architecture has two main parts:
 * **Structure**, elements you need to create in an organization to run Grounded Architecture practice, and
@@ -107,22 +95,16 @@ are a helpful guide in defining the responsibilities of architects.
 
 ## A Bit of Personal History
 
-The work presented in this book
+The work presented in this book builds on several years of my experience. Most of this work results from my current work as a Chief Architect at AVIV Group and previous works as a Principal Architect for eBay Classifieds and Adevinta.
 
- builds on several years of my experience. Most of this work results from my current work as a Chief Architect at AVIV Group and previous works as a Principal Architect for eBay Classifieds and Adevinta.
-
-Another vital part of my experience that shaped this book
-
- was my earlier experience as a consultant and analyst at the Software Improvement Group. I've learned the value and pragmatics of data-informed decision-making. As a spin-off of this work, I've also built a tool called [Sokrates](sokrates.dev), which enable efficient and pragmatic extraction of data about technology and organization from source code. This work has directly influenced my view on the architecture [data pillar](data).
+Another vital part of my experience that shaped this book was my earlier experience as a consultant and analyst at the Software Improvement Group. I've learned the value and pragmatics of data-informed decision-making. As a spin-off of this work, I've also built a tool called [Sokrates](sokrates.dev), which enable efficient and pragmatic extraction of data about technology and organization from source code. This work has directly influenced my view on the architecture [data pillar](data).
 
 My experience as a CTO of [Incision](https://incision.care), a startup, has helped me better understand the difficulties and pragmatics of creating and running an IT organization.
 
 Lastly, my experience as a researcher at [Dutch Center for Computer Science and Mathematics (CWI)](https://www.cwi.nl/en/) and [Eindhoven Technical University (TU/e)](https://www.tue.nl/en/) provided me with a valuable background to do rigorous data analyses and research. From this research period, I want to highlight a collection of essays [Design Instability](https://design-instability.com/) I co-authored with Erik Stolterman, where we connected experiences of designing/architecting in three disciplines: classical design, UX design, and software engineering. This work has helped me better relate to and learn from non-technical fields necessary for architecture work.
 
 
-## Why This Book
-
-?
+## Why This Book?
 
 This book generalizes my experiences in a written form. I have written these articles for two reasons. Firstly, the act of writing helps me to clarify and improve my ideas (Figure 1). As Gregor Hohpe once noted, I free up some brain cells to learn new things with every sentence I write. As nicely described by Hohpe written word has distinct advantages over the spoken word:
 
@@ -151,20 +133,14 @@ The other resources include:
 
 You can find more details about these tools at my homepage **[obren.io](https://obren.io/)**.
 
-## Who Should Read This Book
+## Who Should Read This Book?
 
-?
-
-When writing this book
-
-, I had a broad audience in my mind. The article should be helpful to both technical and non-technical people. The report can help software engineers and architects understand their value and place in a broader organization. I also hope the articles show the less-technical audience the benefits of staying close to and well-connected with the technologists.
+When writing this book, I had a broad audience in my mind. The article should be helpful to both technical and non-technical people. The report can help software engineers and architects understand their value and place in a broader organization. I also hope the articles show the less-technical audience the benefits of staying close to and well-connected with the technologists.
 
 
 ## The Structure of the Book
 
-I have organized the book
-
- into several main parts. In this introductory part, I have described the context in which my ideas have developed. 
+I have organized the book into several main parts. In this introductory part, I have described the context in which my ideas have developed. 
 
 In the second part, I discuss the Grounded Architecture approach describing its three elements: the data pillar, the people pillar, and the technology Architecture Activities Platform. 
 
