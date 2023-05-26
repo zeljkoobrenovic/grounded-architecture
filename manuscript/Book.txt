@@ -8,3 +8,5 @@ Part1.txt
 2022-03-04-people.markdown
 2022-03-05-activities.markdown
 2022-03-09-value.markdown
+Part2.txt
+2022-06-01-being-architect.markdown
