@@ -69,7 +69,6 @@ Significant organic and inorganic changes are frequent and expected. The archite
 
 
 
-
 ## Questions to Consider
 
 Knowing what goals architecture practice needs to support in your organization is crucial to define structures and measuring your impact. Some of the plans may be universally applicable. Others may be unique to your context. Ask yourself the following questions:
