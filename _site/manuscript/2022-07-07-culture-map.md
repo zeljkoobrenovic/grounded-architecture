@@ -35,10 +35,6 @@ Meyer’s model contains eight scales, each representing a key area, showing how
 
 The Culture Map shows positions along these eight scales for many countries. These profiles reflect the value systems of a society at large, not those of all the individuals in it, so if you plot yourself on the map, you might find that some of your preferences differ from those of your culture.
 
-<!--
-![](assets/images/culturemap/overview.webp)
--->
-
 ## 1. Communicating
 
 Architects need to be [good communicators](https://architectelevator.com/strategy/complex-topics-stick/). But what do we mean when saying someone is a good communicator? The responses differ wildly from society to society. 

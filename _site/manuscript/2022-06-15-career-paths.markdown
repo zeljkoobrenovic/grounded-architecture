@@ -49,8 +49,6 @@ But an architect's path can take many different directions and have many other n
 ## Hiring Architects
 
 
-
-
 Developing and hiring architects requires constantly raising the bar to ensure a strong and diverse team structure. Having more architects does not necessarily leads to a better team. Having good alignment and diversity of perspective is even more important for an architecture team than for other groups.
 
 
