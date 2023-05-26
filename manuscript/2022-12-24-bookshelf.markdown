@@ -32,7 +32,7 @@ architecture, specifically aimed at software developers.
 
 * * *
 
-{width: "20%"}
+{width: "200px"}
 ![](assets/images/books/hard-parts.jpg)
 
 Software Architecture: The Hard Parts is structured as a narrative about a team breaking down a faulty outdated
