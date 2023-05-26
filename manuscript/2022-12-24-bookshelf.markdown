@@ -241,3 +241,130 @@ Turn the Ship Around! by L. David Marquet:  Around reveals the story of how one 
 
 
 
+
+* * *
+
+{width: "20%"}
+![](assets/images/books/leadership-is-language.jpeg)
+
+Leadership is Language by L. David Marquet is a playbook for successful team management. Written by a former US Navy captain, it teaches leaders how they can change their language and mindsets in order to improve decision-making, empower workers, and achieve better results..
+
+
+
+
+* * *
+
+{width: "20%"}
+![](assets/images/books/nudge.png)
+
+Nudge by Richard Thaler draws on research in psychology and behavioral economics to define libertarian paternalism as an active engineering of choice architecture. The book also popularised the concept of a nudge, a choice architecture that predictably alters people's behavior without restricting options or significantly changing their economic incentives.
+
+
+* * *
+
+
+{width: "20%"}
+![](assets/images/books/no-rules-rules.png)
+
+No Rules Rules by Erin Meyer and Reed Hastings provides insights into Netflix culture. When you give low-level employees access to information that is generally reserved for high-level executives, they get more done on their own. They work faster without stopping to ask for information and approval. They make better decisions without needing input from the top.
+
+
+* * *
+
+
+{width: "20%"}
+![](assets/images/books/dare-to-lead.png)
+
+Dare To Lead by Brené Brown, defines a leader as anyone who takes responsibility for finding the potential in people and processes and has the courage to develop that potential.
+
+
+* * *
+
+
+{width: "20%"}
+![](assets/images/books/sowhat.png)
+
+The So What Strategy by Davina Stanley and Gerard Castles. Any architect has been caught at the end of a presentation when their audience, perhaps a leadership team or a Steering Committee, looks at them blankly and asks this most uncomfortable question: ‘So what?' How does that help? The book provides a pragmatic approach to answer that question in one single, powerful sentence. Or how to set yourself up so nobody asks it.
+                                                  
+
+
+* * *
+
+{width: "20%"}
+![](assets/images/books/never-split-the-difference.jpeg)
+
+Never Split the Difference by Chris Voss. Negotiations take place in many fields of life, such as business, and in some critical situations, like hostage situations (and architecture). The book is a guide on how to best behave when certain things happen, regardless of whether that includes the need for negotiation techniques in hostage situations or in business.
+                                                  
+
+
+* * *
+
+{width: "20%"}
+![](assets/images/books/accelerate.jpeg)
+
+Accelerate—acceleration is the second derivative of position (speed being the first), so if you want to move
+faster you need to accelerate. Sometimes, you need to jerk the system a bit, which in fact the proper term for the third
+derivative.
+
+
+
+
+* * *
+
+{width: "20%"}
+![](assets/images/books/the-phoenix-project.jpeg)
+
+The Phoenix Project and The Unicorn Project by Gene Kim The Phoenix Project is a best-selling novel about DevOps.
+The book's characters reveal through their actions why it's so important for organizations to put security first and
+tear down the silos that have traditionally existed between development and operations teams.
+
+
+* * *
+
+{width: "20%"}
+![](assets/images/books/cd.jpeg)
+
+Continuous Delivery— through automation of the build, deployment, and testing process, and improved collaboration
+between developers, testers, and operations, delivery teams can get changes released in a matter of hours-sometimes even
+minutes-no matter what the size of a project or the complexity of its code base.
+
+## Business, Product, Strategy
+
+{width: "20%"}
+![](assets/images/books/six-simple-rules.png)
+
+Six Simple Rules: How to Manage Complexity without Getting Complicated by  Yves Morieux and Peter Tollman: the book emphasis that in today’s complicated business environment, you need to setup organisational structures based on cooperation. To deal with complexity, organizations should depend on the judgment of their people, which requires giving them more autonomy to act. It also depends on these people cooperating to utilize the organization's capabilities to cope with complex problems. 
+
+
+
+
+* * *
+
+{width: "20%"}
+![](assets/images/books/personal-mba.png)
+
+The Personal MBA 10th Anniversary Edition by Josh Kaufman provides an overview of the essentials of every major business topic: entrepreneurship, product development, marketing, sales, negotiation, accounting, finance, productivity, communication, psychology, leadership, systems design, analysis, and operations management.
+
+
+
+
+
+* * *
+
+{width: "20%"}
+![](assets/images/books/tsp.jpeg)
+
+Technology Strategy Patterns by Eben Hewitt provides a shared language—in the form of repeatable, practical
+patterns and templates—to produce great technology strategies.
+
+
+* * *
+
+{width: "20%"}
+![](assets/images/books/build-trap.jpg)
+
+Escaping the Build Trap by Melissa Perri is a practical guide to product management, product strategy, and ensuring product success.
+
+
+
+
