@@ -32,7 +32,11 @@ architecture, specifically aimed at software developers.
 
 * * *
 
-
+Software Architecture: The Hard Parts is structured as a narrative about a team breaking down a faulty outdated
+monolithic application into a modern microservices-based architecture. The authors compare different aspects of how a
+monolithic architecture might have been written to do something in the past, then how a modern microservice architecture
+could do the same thing today, offering advice and approaches for effective tradeoff analysis when refactoring a large
+monolith app.
 
 
 
