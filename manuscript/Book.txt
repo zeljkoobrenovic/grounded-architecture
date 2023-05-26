@@ -21,7 +21,6 @@ Part3.txt
 2022-07-08-six-simple-rules.md
 2022-07-09-storm.markdown
 2022-07-10-product-trap.md
-2022-07-12-governance.markdown
 2022-07-15-economics.md
 Part4.txt
 2022-12-01-summary.markdown
