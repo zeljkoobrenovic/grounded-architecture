@@ -54,7 +54,7 @@ implement change.
 The architecture function generally follows one of two fundamental models: central or federated.
 ([McKinsey 2022](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/tech-forward/crafting-the-optimal-model-for-the-it-architecture-organization)).
 
-![](assets/images/archdata/general-operating-models.png)
+![](assets/images/arch/arch_teams.png)
 
 
 

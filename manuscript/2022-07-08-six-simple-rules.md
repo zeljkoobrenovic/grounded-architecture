@@ -138,6 +138,27 @@ In the face of business complexity, work is becoming more inter-dependent. To me
 
 ![](assets/images/arch/iStock-1072898930.jpg)
 
+### General Guidelines
+
+Reciprocity is the recognition by people or units in an organization that they **have a mutual interest in cooperation** and that the success of one depends on the success of others (and vice versa). The way to create that reciprocity is by setting rich objectives and reinforcing them by:
+ * **eliminating monopolies**, 
+ * **reducing resources**, and 
+ * **creating new networks of interaction**.
+
+### The Role of Architecture
+
+Architecture function is directly related to increasing reciprocity: 
+* I consider the success of architecture dependent on **[architects' superglue impact](#superglue)**. Likewise, the developer teams support depends on architecture support. I also integrate feedback of people from teams that architects support in architects' performance evaluations.  
+* In addition, the **[People Pillar](#people)** directly supports one of the ways of reinforcing reciprocity: **creating new networks of interactions**.
+
+
+## Simple Rule 5: Extend the Shadow of the Future
+
+Increase the importance to people of **what happens tomorrow as a consequence of what they do today**. By making very simple changes you can manage complex requirements, while also removing organizational complicatedness. With the strategic alignment typical of the hard approach, these simple solutions—for instance, career paths—often come at the end of a sequence that starts by installing the most cumbersome changes: new structure, processes, systems, metrics, and so on. Simple and effective solutions are then impossible. 
+
+![](assets/images/arch/trees-gc38b3c617_1920.jpg)
+
+
 
 
 ### General Guidelines

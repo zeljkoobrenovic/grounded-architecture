@@ -12,7 +12,8 @@ def copy_post(post):
         for line in inputfile:
             if not in_header:
                 if line.startswith('---') or line.startswith('<style') or line.startswith('<div'):
-                    in_header = True
+                    if not '</div>' in line:
+                        in_header = True
                     content += '\n\n'
                 elif line.strip().startswith('> **IN THIS SECTION, YOU WILL'):
                     content += line[1:].strip() + '\n'

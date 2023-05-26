@@ -68,7 +68,7 @@ The Culture Map shows positions along these eight scales for many countries. The
 
 Architects need to be [good communicators](https://architectelevator.com/strategy/complex-topics-stick/). But what do we mean when saying someone is a good communicator? The responses differ wildly from society to society. 
 
-<img src="assets/images/culturemap/presenting.jpg" style="width: 100%">
+<img src="assets/images/arch/iStock-1308494001.jpg" style="width: 100%">
 <div style="text-align: center; font-size: 70%; color: grey; margin-bottom: 12px; margin-top: -12px;">Credits: Getty Images / iStock / LuckyBusiness.</div>
 
 
@@ -108,7 +108,7 @@ Providing constructive criticism in the right way is crucial for architects to m
 
 Architects frequently need to persuade others. How you influence others and the arguments you find convincing are deeply rooted in culture’s philosophical, religious, and educational assumptions and attitudes. 
 
-<img src="assets/images/culturemap/influence.jpeg" style="width: 100%">
+<img src="assets/images/arch/iStock-1257268399.jpg" style="width: 100%">
 <div style="text-align: center; font-size: 70%; color: grey; margin-bottom: 12px; margin-top: -12px;">Credit: Getty Images / iStocks / fizkes.</div>
 
 One way to compare countries along this scale is to assess how they balance holistic and specific thought patterns. According to Meyers, a Western executive will break down an argument into a sequence of distinct components (specific thinking). At the same time, Asian managers tend to show how the pieces fit together (holistic thinking). Beyond that, people from southern European and Germanic cultures tend to find deductive arguments (principles-first arguments, building the conclusion from basic premises) most persuasive. In contrast, American and British managers are more likely to be influenced by inductive logic (applications-first logic). 

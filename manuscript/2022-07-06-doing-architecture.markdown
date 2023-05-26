@@ -1,6 +1,6 @@
 
 
-# Doing Architecture {#doing-architecture}
+# Doing Architecture: Introduction {#doing-architecture}
 
 
 ![](assets/images/arch/steampunk-3006650_1920.jpg)

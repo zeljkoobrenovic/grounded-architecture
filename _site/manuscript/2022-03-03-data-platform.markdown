@@ -37,7 +37,8 @@ I've always aimed to get reliable data about technology with as much as possible
 In the following sections, I detail several of these architectural data-driven tools.
 
 
-![](assets/images/apps.png)**Figure 1:** *A screenshot of the start page of the architecture data dashboard we've built and used at AVIV Group.*
+![](assets/images/apps.png) 
+**Figure 1:** *A screenshot of the start page of the architecture data dashboard we've built and used at AVIV Group.*
 
 ### Example 1: Source Code and Commit History
 

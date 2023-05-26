@@ -1,7 +1,7 @@
 ---
 layout: post
 section: "Doing Architecture"
-title: "Doing Architecture"
+title: "Doing Architecture: Introduction"
 position: 7006
 date: 2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
