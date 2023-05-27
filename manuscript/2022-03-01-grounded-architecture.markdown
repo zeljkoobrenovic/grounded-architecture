@@ -2,8 +2,7 @@
 
 # Grounded Architecture: Introduction {#grounded-architecture}
 
-![](assets/images/arch/buildings-205986_1920.jpg)
-Image by Ichigo121212 from Pixabay
+![](assets/images/arch/buildings-205986_1920.jpg)^Image by Ichigo121212 from Pixabay^
 
 **IN THIS SECTION, YOU WILL:** Get an overview of the Grounded Architecture structure: Data Pillar, People Pillar, and Architecture Activities Platform.
 

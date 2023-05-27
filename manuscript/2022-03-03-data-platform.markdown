@@ -2,8 +2,7 @@
 
 # Data Pillar {#data}
 
-![](assets/images/arch/architecture-1857175_1920.jpg)
-Image by Lorenzo Cafaro from Pixabay
+![](assets/images/arch/architecture-1857175_1920.jpg)^Image by Lorenzo Cafaro from Pixabay^
 
 **IN THIS SECTION, YOU WILL:**  Understand how to use diverse data sources to support architecture decision-making processes and get concrete tips on creating architecture-centric data tools.
 
