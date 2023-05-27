@@ -3,7 +3,8 @@
 # The Culture Map: Architects' Culture Mindfield Compass {#culture-map}
 
 ![](assets/images/arch/bolivia-g4261bf11f_1920.jpg)
-^Image by Maik from Pixabay^
+
+^image by maik from pixabay^
 
 **IN THIS SECTION, YOU WILL:**  Get an introduction to The Culture Map, a helpful tool for architects to work harmoniously with people from a broad array of different cultures and backgrounds.
 
@@ -49,7 +50,8 @@ Architects should be able to understand and adapt to different communication sty
  
 Architects need to provide constructive criticism of the plans and ideas of others. All cultures believe that people should give criticism constructively, but the definition of “constructive” varies greatly. 
 
-![](assets/images/culturemap/dislike-g4c300043b_1920.jpg)^Image by rickey123 from Pixabay^
+![](assets/images/culturemap/dislike-g4c300043b_1920.jpg)
+^image by rickey123 from pixabay^
 
 The Evaluating scale measures a preference for frank versus diplomatic negative feedback. Evaluating is different than the Communicating scale and many countries have different positions on the two scales. According to Meyers, the French, are high-context (implicit) communicators relative to Americans. Yet they are more direct in their criticism. Spaniards and Mexicans are at the same context level, but the Spanish is much franker when providing negative feedback.
 
