@@ -181,7 +181,6 @@ architecture teams or "[People Pillar](#people)":
   both grow and attract architectural talent.
 
 ![](assets/images/arch/pyramid-g88f894074_1920.jpg)
-
 ^image by chantellev from pixabay^
 
 ## Questions to Consider

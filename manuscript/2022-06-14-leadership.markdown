@@ -38,7 +38,6 @@ I have found a phase "I intend to" to be a powerful catalyst for positioning arc
 I have found a phase "I intend to" to be a powerful catalyst for positioning architecture work.
 
 ![](assets/images/arch/iStock-1130373923.jpg)
-
 ^image by istock^
 
  
