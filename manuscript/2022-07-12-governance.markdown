@@ -37,7 +37,7 @@ The [People Pillar](#people) can help propagate the decision and ensure its posi
 
 Governing with taxes is a form of guiding in which people are not forbidden to make some decisions but **need to "pay" some form of taxes on used resources**. For instance, costs of public cloud usage could be **cross-charged across the organization**, providing a helpful feedback loop to optimize our systems and avoid unnecessary resource consumption, avoiding the "tragedy of commons" which frequently happens when there are no limits on shared resource consumption (e.g., public cloud budget). 
 
-![](assets/images/arch/credit-squeeze-g61ddead85_1920.jpg)
+![](assets/images/arch/credit-squeeze-g61ddead85_1920.png)
 
 The role of Grounded Architecture in this form of governance should be to ensure that "taxation" is data-driven and transparent and to create efficient feedback loops on key metrics related to "taxes."
 
@@ -66,7 +66,7 @@ In my experience, nudges can frequently lead to better alignment and more harmon
 
 Grounded Architecture is well aligned with ideas of nudging. I frequently designed many of the [Data Pillar](#data) to highlight areas and issues we wanted people to improve. And the [People Pillar](#people) can create mechanisms for sharing experiences, promoting positive examples, and capturing lessons learned to help people to make better, more informed decisions. And in the [Architecture Activities Platform] I use the operating model that stimulates people to make decisions autonomously but nudges them to stay well-aligned and connected to the organizational strategic direction.
 
-![](assets/images/arch/38280951874_fb51a740ff_c.jpg)
+![](assets/images/arch/38280951874_fb51a740ff_c.png)
 
 ## Questions to Consider
 
