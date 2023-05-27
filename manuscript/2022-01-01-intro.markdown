@@ -49,9 +49,7 @@ As a part of my work on Grounded Architecture, I also provide key lessons I lear
   * [Architecture Governance: Mandates, Taxation, Nudge](#flexible-governance)
   * [Economic Modeling: ROI and Financial Options](#economics)
 
-The rest of this book will explain in detail the grounded architecture approach. In this section, I want to tell a few things about my motivation to write this book
-
-.
+The rest of this book will explain in detail the grounded architecture approach. In this section, I want to tell a few things about my motivation to write this book.
 
 ## A Bit of Personal History
 
@@ -70,7 +68,6 @@ Gregor Hohpe's [Architecture Elevator](https://architectelevator.com/) view of a
 In my quest to define modern architectural roles, I used Staff+ Engineering roles as an inspiration for the development of architects. Tanya Reilly's book [The Staff Engineer's Path](https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/) and Will Larson's book [Staff Engineer: Leadership beyond the management track](https://staffeng.com/guides/staff-archetypes/) are a helpful guide in defining the responsibilities of architects. The Staff-plus engineering roles provide excellent examples for the development of modern architects.
 
 Many other sources have influenced my work. You can find some of them in the [Bookshelf section](#bookshelf).
-
 
 ## Why This Book?
 
