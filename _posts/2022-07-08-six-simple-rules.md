@@ -94,9 +94,9 @@ This difference between **Autonomy** and **Self-Sufficiency** leads us to the se
 
 First rule states that you need to truly understand performance: **what people do** and **why they do it**. When you understand why people do what they do and how it drives performance, you can define the **minimum sufficient set of interventions with surgical accuracy**. 
  
-![](assets/images/arch/viewpoint-gbe06b9b1a_1920.jpg)
+![](assets/images/arch/iStock-1179186162.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by <a href="https://pixabay.com/users/noname_13-2364555/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3593304">NoName_13</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3593304">Pixabay</a>
+Image by iStock
 </div>
 
 ### General Guidelines
@@ -119,7 +119,7 @@ I have found architecture function can be very helpful in understand what people
 
 Reinforce integrators by looking at those **directly involved in the work**, giving them **power and interest to foster cooperation in dealing with complexity** instead of resorting to the paraphernalia of overarching hierarchies, overlays, dedicated interfaces, balanced scorecards, or coordination procedures.
  
-![](assets/images/arch/agree-g1f407320e_1920.jpg)
+![](assets/images/arch/agree-g1f407320e_1920.png)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/shutterbug75-2077322/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1238964">Robert Owen-Wahl</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1238964">Pixabay</a>
 </div>
@@ -145,9 +145,9 @@ Architecture function, in my view, is strongly related to reinforcing integrator
 Whenever you consider an **addition to** your organization’s **structure, processes, and systems**, think about **increasing the quantity of power**. Doing so may **save you from increasing complicatedness** and enable you to achieve a more significant impact with less cost. You can increase the quantity of power by enabling some functions to have an influence on new stakes that matter to others and performance. 
 
 
-![](assets/images/arch/girls-gf0cc5fe5a_1920.jpg)
+![](assets/images/arch/iStock-1201215883.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by <a href="https://pixabay.com/users/flashbuddy-97638/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=407685">Flash Alexander</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=407685">Pixabay</a>
+Image by iStock
 </div>
 
 ### General Guidelines
