@@ -14,7 +14,7 @@ excerpt: "Grounded Architecture supports governance models that are adaptable to
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
      src="assets/images/arch/greece-1594689_1920.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by <a href="https://pixabay.com/nl/users/nonbirinonko-3101900/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1594689">nonbirinonko</a> via <a href="https://pixabay.com/nl//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1594689">Pixabay</a>
+Image by <a href="https://pixabay.com/nl/users/nonbirinonko-3101900/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1594689">nonbirinonko</a> from <a href="https://pixabay.com/nl//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1594689">Pixabay</a>
 </div>
 > **IN THIS SECTION, YOU WILL:** Understand that a technology governance model should be a well-balanced hybrid of three different styles of governing: mandates and bans, taxes, and nudging.
 >

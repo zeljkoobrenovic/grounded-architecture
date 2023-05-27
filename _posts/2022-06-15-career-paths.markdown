@@ -15,7 +15,7 @@ excerpt: "Architects' career paths ideally stem from a strong engineering backgr
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
      src="assets/images/arch/pole-vault.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Credit: <a href="https://flic.kr/p/8zKRAU">tableatny</a> (CC BY 2.0)
+Image by iStock <a href="https://flic.kr/p/8zKRAU">tableatny</a> (CC BY 2.0)
 </div>
 
 > **IN THIS SECTION, YOU WILL:**  Get ideas and tips about developing architects' career paths.

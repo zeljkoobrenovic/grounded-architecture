@@ -15,7 +15,7 @@ excerpt: "My view of architecture leadership is inspired by David Marquet’s wo
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
      src="assets/images/arch/submarine-gcc865d4ee_1920.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Afbeelding van <a href="https://pixabay.com/nl/users/12019-12019/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=168884">David Mark</a> via <a href="https://pixabay.com/nl//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=168884">Pixabay</a>
+Image by <a href="https://pixabay.com/nl/users/12019-12019/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=168884">David Mark</a> from <a href="https://pixabay.com/nl//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=168884">Pixabay</a>
 </div>
 > **IN THIS SECTION, YOU WILL:**  Understand how to apply ideas from David Marquet's work and Netflix's valued behaviors to develop architects' leadership traits.
 > 

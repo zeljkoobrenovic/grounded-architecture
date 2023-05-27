@@ -105,7 +105,7 @@ Providing constructive criticism in the right way is crucial for architects to m
 Architects frequently need to persuade others. How you influence others and the arguments you find convincing are deeply rooted in culture’s philosophical, religious, and educational assumptions and attitudes. 
 
 <img src="assets/images/arch/iStock-1257268399.jpg" style="width: 100%">
-<div style="text-align: center; font-size: 70%; color: grey; margin-bottom: 12px; margin-top: -12px;">Credit: Getty Images / iStocks / fizkes.</div>
+<div style="text-align: center; font-size: 70%; color: grey; margin-bottom: 12px; margin-top: -12px;">Image by iStock / fizkes.</div>
 
 One way to compare countries along this scale is to assess how they balance holistic and specific thought patterns. According to Meyers, a Western executive will break down an argument into a sequence of distinct components (specific thinking). At the same time, Asian managers tend to show how the pieces fit together (holistic thinking). Beyond that, people from southern European and Germanic cultures tend to find deductive arguments (principles-first arguments, building the conclusion from basic premises) most persuasive. In contrast, American and British managers are more likely to be influenced by inductive logic (applications-first logic). 
 
@@ -126,7 +126,7 @@ This scale places countries on a spectrum from egalitarian to hierarchical. Egal
 
 
 <img src="assets/images/arch/iStock-1351446226.jpg" style="width: 100%">
-<div style="text-align: center; font-size: 70%; color: grey; margin-bottom: 12px; margin-top: -12px;">Credit: Getty Images / iStock / jacoblund.</div>
+<div style="text-align: center; font-size: 70%; color: grey; margin-bottom: 12px; margin-top: -12px;">Image by iStock / jacoblund.</div>
 
 <img src="assets/images/culturemap/leading.jpg" style="">
 <div style="text-align: center; font-size: 70%; color: grey; margin-bottom: 12px">Countries on the Leading scale. Source: Erin Meyer.</div>
@@ -141,7 +141,7 @@ The difference in leadership styles can make an architect's work challenging. Th
 Architectural work is about [making decisions](https://architectelevator.com/gregors-law/). The Deciding measures the degree to which a culture is consensus-minded. 
 
 <img src="assets/images/arch/iStock-1191132590.jpg" style="width: 100%">
-<div style="text-align: center; font-size: 70%; color: grey; margin-bottom: 12px; margin-top: -12px;">Credit: Getty Images / iStock / fizkes.</div>
+<div style="text-align: center; font-size: 70%; color: grey; margin-bottom: 12px; margin-top: -12px;">Image by iStock / fizkes.</div>
 
 According to Meyers, we often assume that the most egalitarian cultures will be the most democratic, while the most hierarchical ones will allow the boss to make unilateral decisions. But this is not always the case. Germans are more hierarchical than Americans but more likely than their U.S. colleagues to build group agreements before making decisions. The Japanese are both strongly hierarchical and strongly consensus-minded.
 
@@ -158,7 +158,7 @@ Similar to the Leading scale, the difference in deciding styles can make an arch
 Architects need to build trust with multiple stakeholders. The culture map scale defines two extremes; task-based cognitive trust (from the head) and relationship-based affective trust (from the heart). 
 
 <img src="assets/images/arch/iStock-1200075866.jpg" style="width: 100%">
-<div style="text-align: center; font-size: 70%; color: grey; margin-bottom: 12px; margin-top: -12px;">Credit: Getty Images / iStock / scyther5.</div>
+<div style="text-align: center; font-size: 70%; color: grey; margin-bottom: 12px; margin-top: -12px;">Image by iStock / scyther5.</div>
 
 
 In task-based cultures, trust is built cognitively through work. We feel mutual trust if we collaborate well, prove ourselves reliable, and respect one another’s contributions. 
@@ -178,7 +178,7 @@ Without trust, architects' impact is limited. In my view, the best way for archi
 Architectural work may lead to many disagreements and conflicts. Different cultures have very different ideas about how productive confrontation is for a team or an organization. This scale measures tolerance for open debate and inclination to see it as either helpful or harmful to collegial relationships.
 
 <img src="assets/images/arch/iStock-1191132584.jpg" style="width: 100%">
-<div style="text-align: center; font-size: 70%; color: grey; margin-bottom: 12px; margin-top: -12px;">Credit: Getty Images / iStock / fizkes</div>
+<div style="text-align: center; font-size: 70%; color: grey; margin-bottom: 12px; margin-top: -12px;">Image by iStock / fizkes</div>
 
 <img src="assets/images/culturemap/disagreeing.jpg" style="">
 <div style="text-align: center; font-size: 70%; color: grey; margin-bottom: 12px">Countries on the Disagreeing scale. Source: Erin Meyer.</div>
@@ -191,7 +191,7 @@ Like the Leading and Deciding scales, architects need to have an open conversati
 Architects will need to participate in many meeting and projects. All businesses follow agendas and timetables, but in some cultures, people strictly adhere to the schedule. In others, they treat it as a suggestion. This scale assesses how much people value operating in a structured, linear fashion versus being flexible and reactive. This scale is based on the “monochronic” and “polychronic” distinction formalized by Edward Hall.
 
 <img src="assets/images/arch/iStock-1371834229.jpg" style="width: 100%">
-<div style="text-align: center; font-size: 70%; color: grey; margin-bottom: 12px; margin-top: -12px;">Credit: Getty Images / iStock / Bobex-73.</div>
+<div style="text-align: center; font-size: 70%; color: grey; margin-bottom: 12px; margin-top: -12px;">Image by iStock / Bobex-73.</div>
 
 <img src="assets/images/culturemap/scheduling.jpg" style="">
 <div style="text-align: center; font-size: 70%; color: grey; margin-bottom: 12px">Countries on the Scheduling scale. Source: Erin Meyer.</div>

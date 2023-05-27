@@ -15,7 +15,7 @@ excerpt: "Architects' work is evaluated based the impact they've had on the orga
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
      src="assets/images/arch/USATF_day_4.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Credit: Sandi Morris in <a href="https://nl.wikipedia.org/wiki/Sandi_Morris">Wikipedia</a>.
+Image by Wikipedia / <a href="https://nl.wikipedia.org/wiki/Sandi_Morris">Sandi Morris</a>.
 </div>
 
 > **IN THIS SECTION, YOU WILL:**  Understand that architects’ work is evaluated based on their impact on the organization and get guidelines for making an impact.
@@ -78,7 +78,7 @@ were helpful guides in defining the responsibilities of architects.
 <img src="assets/images/arch/pillars.png" style="width: 80%">
 </div>
 <div style="font-size: 80%; color: grey; margin-bottom: 12px; text-align: center">
-<b>Figure 1</b>: Key competencies of architects. Credit: inspired by The Staff Engineer's Path by Tanya Reilly.
+<b>Figure 1</b>: Key competencies of architects. Inspired by The Staff Engineer's Path by Tanya Reilly.
 </div>
 
  Inspired by The Staff Engineer's Path by Tanya Reilly, I group architects' competencies in three groups (Figure 1):

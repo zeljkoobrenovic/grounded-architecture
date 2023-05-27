@@ -15,7 +15,7 @@ excerpt: "The product trap occurs when businesses focus too much on their produc
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
      src="assets/images/arch/bear-trap-413397_1920.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Afbeelding van <a href="https://pixabay.com/nl/users/efraimstochter-12351/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=413397">M W</a> via <a href="https://pixabay.com/nl//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=413397">Pixabay</a>
+Image by <a href="https://pixabay.com/nl/users/efraimstochter-12351/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=413397">M W</a> from <a href="https://pixabay.com/nl//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=413397">Pixabay</a>
 </div>
 <style>
  .quote {
