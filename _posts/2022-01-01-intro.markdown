@@ -78,22 +78,7 @@ As a part of my work on Grounded Architecture, I also provide key lessons I lear
   * [Architecture Governance: Mandates, Taxation, Nudge](flexible-governance)
   * [Economic Modeling: ROI and Financial Options](economics)
 
-The rest of this book will explain in detail the grounded architecture approach. In this section, I want to tell a few things about my motivation to write this book
-
-.
-
-
-## Key Influences
-
-Gregor Hohpe's [Architecture Elevator](https://architectelevator.com/) view of architecture has heavily inspired my work. In many ways, my work reflects the lessons learned from implementing Gregor's ideas in practice. Gregor described modern architects' functions as aligning organization and technology, reducing friction, and charting transformation journeys. Such architects ride the Architect Elevator from the penthouse, where the business strategy is set, to the engine room, where engineers implement enabling technologies. They shun popular buzzwords favoring a clear strategy defined by conscious decision-making.
-
-I use Staff Engineering roles as an inspiration for the development of architects. Tanya Reilly's
-book [The Staff Engineer's Path](https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/) and Will
-Larson's book [Staff Engineer: Leadership beyond the management track](https://staffeng.com/guides/staff-archetypes/)
-are a helpful guide in defining the responsibilities of architects. The Staff-plus engineering roles provide excellent examples for the development of modern architects.
-
-Many other sources have influenced my work. You can find some of them in the [Bookshelf section](bookshelf).
-
+The rest of this book will explain in detail the grounded architecture approach. In this section, I want to tell a few things about my motivation to write this book.
 
 ## A Bit of Personal History
 
@@ -104,6 +89,14 @@ Another vital part of my experience that shaped this book was my earlier experie
 My experience as a CTO of [Incision](https://incision.care), a startup, has helped me better understand the difficulties and pragmatics of creating and running an IT organization.
 
 Lastly, my experience as a researcher at [Dutch Center for Computer Science and Mathematics (CWI)](https://www.cwi.nl/en/) and [Eindhoven Technical University (TU/e)](https://www.tue.nl/en/) provided me with a valuable background to do rigorous data analyses and research. From this research period, I want to highlight a collection of essays [Design Instability](https://design-instability.com/) I co-authored with Erik Stolterman, where we connected experiences of designing/architecting in three disciplines: classical design, UX design, and software engineering. This work has helped me better relate to and learn from non-technical fields necessary for architecture work.
+
+## Other Key Influences
+
+Gregor Hohpe's [Architecture Elevator](https://architectelevator.com/) view of architecture has heavily inspired my work. In many ways, my work reflects the lessons learned from implementing Gregor's ideas in practice. Gregor described modern architects' functions as aligning organization and technology, reducing friction, and charting transformation journeys. Such architects ride the Architect Elevator from the penthouse, where the business strategy is set, to the engine room, where engineers implement enabling technologies. They shun popular buzzwords favoring a clear strategy defined by conscious decision-making.
+
+In my quest to define modern architectural roles, I used Staff+ Engineering roles as an inspiration for the development of architects. Tanya Reilly's book [The Staff Engineer's Path](https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/) and Will Larson's book [Staff Engineer: Leadership beyond the management track](https://staffeng.com/guides/staff-archetypes/) are a helpful guide in defining the responsibilities of architects. The Staff-plus engineering roles provide excellent examples for the development of modern architects.
+
+Many other sources have influenced my work. You can find some of them in the [Bookshelf section](#bookshelf).
 
 
 ## Why This Book?

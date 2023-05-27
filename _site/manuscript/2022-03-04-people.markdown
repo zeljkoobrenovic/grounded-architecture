@@ -153,8 +153,7 @@ products or other features. I also worked with teams that needed an architect bu
 architectural decisions.
 
 ![](https://esilva.net/assets/team-architecture-topologies.png)
-***Figure 1:** A model for organizing (local) architects.
-Credit: [Gregor Hohpe](https://architectelevator.com/architecture/organizing-architecture/).*
+***Figure 1:** A model for organizing (local) architects. Credit: [Gregor Hohpe](https://architectelevator.com/architecture/organizing-architecture/).*
 
 In big organization, embracing diversity is a pre-requirements to have any broad impact.
 
@@ -182,7 +181,6 @@ architecture teams or "[People Pillar](#people)":
   both grow and attract architectural talent.
 
 ![](assets/images/arch/pyramid-g88f894074_1920.jpg)
-
 ^image by chantellev from pixabay^
 
 ## Questions to Consider

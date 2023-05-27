@@ -3,7 +3,6 @@
 # The Culture Map: Architects' Culture Mindfield Compass {#culture-map}
 
 ![](assets/images/arch/bolivia-g4261bf11f_1920.jpg)
-
 ^image by maik from pixabay^
 
 **IN THIS SECTION, YOU WILL:**  Get an introduction to The Culture Map, a helpful tool for architects to work harmoniously with people from a broad array of different cultures and backgrounds.

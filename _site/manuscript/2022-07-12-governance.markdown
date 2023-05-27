@@ -3,7 +3,7 @@
 # Architecture Governance: Mandates, Taxation, Nudge {#governance}
 
 ![](assets/images/arch/greece-1594689_1920.jpg)
-^image by nonbirinonko via pixabay^
+^image by nonbirinonko from pixabay^
 
 **IN THIS SECTION, YOU WILL:** Understand that a technology governance model should be a well-balanced hybrid of three different styles of governing: mandates and bans, taxes, and nudging.
 

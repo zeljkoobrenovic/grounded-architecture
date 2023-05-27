@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-05-27T14:47:11+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: The Chief Architect’s Playbook</title><subtitle></subtitle><entry><title type="html">Favorite Quotes</title><link href="http://localhost:4000/quotes" rel="alternate" type="text/html" title="Favorite Quotes" /><published>2021-10-25T22:12:01+02:00</published><updated>2021-10-25T22:12:01+02:00</updated><id>http://localhost:4000/quotes</id><content type="html" xml:base="http://localhost:4000/quotes"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/books-g1b2675255_1920.jpg" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-05-27T20:16:10+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: The Chief Architect’s Playbook</title><subtitle></subtitle><entry><title type="html">Favorite Quotes</title><link href="http://localhost:4000/quotes" rel="alternate" type="text/html" title="Favorite Quotes" /><published>2021-10-25T22:12:01+02:00</published><updated>2021-10-25T22:12:01+02:00</updated><id>http://localhost:4000/quotes</id><content type="html" xml:base="http://localhost:4000/quotes"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/books-g1b2675255_1920.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/prettysleepy-2973588/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5430104">Amy</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5430104">Pixabay</a>
 </div>
@@ -851,8 +851,7 @@ products or other features. I also worked with teams that needed an architect bu
 architectural decisions.</p>
 
 <p><img src="https://esilva.net/assets/team-architecture-topologies.png" alt="" />
-<em><strong>Figure 1:</strong> A model for organizing (local) architects.
-Credit: <a href="https://architectelevator.com/architecture/organizing-architecture/">Gregor Hohpe</a>.</em></p>
+<em><strong>Figure 1:</strong> A model for organizing (local) architects. Credit: <a href="https://architectelevator.com/architecture/organizing-architecture/">Gregor Hohpe</a>.</em></p>
 
 <p>In big organization, embracing diversity is a pre-requirements to have any broad impact.</p>
 
@@ -904,7 +903,7 @@ Image by <a href="https://pixabay.com/users/chantellev-2412495/?utm_source=link-
   <li><em>Reflect on the diversity of team structures within your organization. How does this diversity impact the roles and responsibilities of architects?</em></li>
 </ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[We should not take our architectural talent for granted. Architects are bridging local business, product, organizational, and technology issues. Architects are difficult to hire talent as they need in-depth technical knowledge and domain-specific and organizational knowledge. Therefore, we need to make sure to support, organize, and leverage architecture talent.]]></summary></entry><entry><title type="html">Architecture Activities Platform</title><link href="http://localhost:4000/activities-platform" rel="alternate" type="text/html" title="Architecture Activities Platform" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/activities</id><content type="html" xml:base="http://localhost:4000/activities-platform"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/parliament-366199_1920.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by <a href="https://pixabay.com/users/cocoparisienne-127419/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=366199">Anja-#pray for ukraine# #helping hands# stop the war</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=366199">Pixabay</a>
+Image by <a href="https://pixabay.com/users/cocoparisienne-127419/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=366199">Anja</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=366199">Pixabay</a>
 </div>
 <blockquote>
   <p><strong>IN THIS SECTION, YOU WILL:</strong>  Understand what activities you can do as a part of architecture practice and get tips on creating pragmatic operating models.</p>
@@ -1131,7 +1130,7 @@ Image by <a href="https://pixabay.com/users/qimono-1962238/?utm_source=link-attr
 
 <p><img style="width: 100%;" src="assets/images/Misalignment-1024x523.png" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Credit: <a href="https://blog.crisp.se/2016/05/30/henrikkniberg/misalignment">Henrik Kniberg</a>
+Image by <a href="https://blog.crisp.se/2016/05/30/henrikkniberg/misalignment">Henrik Kniberg</a>
 </div>
 <p><br />
 <br /></p>
@@ -1154,7 +1153,7 @@ Credit: <a href="https://blog.crisp.se/2016/05/30/henrikkniberg/misalignment">He
 <p>Lastly, one of the problems many organizations face is that due to their complexity and size, they have more challenges in introducing new technologies than their disruptors (Figure 3).</p>
 
 <p><img src="assets/images/superglue/internalizing-tech-trends.png" alt="" />
-<em><strong>Figure 3:</strong> One crucial aspect of Architects’ work is following external trends and finding pragmatic ways to introduce these trends in the organization. Credit: <a href="https://www.thoughtworks.com/insights/blog/whats-hurry-building-digital-enterprise">thoughtworks.com/insights/blog/whats-hurry-building-digital-enterprise</a></em></p>
+<em><strong>Figure 3:</strong> One crucial aspect of Architects’ work is following external trends and finding pragmatic ways to introduce these trends in the organization. Credit: inspired by <a href="https://www.thoughtworks.com/insights/blog/whats-hurry-building-digital-enterprise">thoughtworks.com/insights/blog/whats-hurry-building-digital-enterprise</a></em></p>
 
 <p>We need more time to understand and utilize new technology developments while the number of new technologies is increasing due to, e.g., the continuous and accelerating evolution of cloud and mobile products. As architects, we must proactively identify relevant new technology developments. Based on our understanding of these developments, we must create pragmatic technology recommendations for concrete platforms across the organization.</p>
 

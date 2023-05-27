@@ -2,7 +2,8 @@
 
 # Leadership {#leadership}
 
-![](assets/images/arch/submarine-gcc865d4ee_1920.jpg)Afbeelding van David Mark via Pixabay
+![](assets/images/arch/submarine-gcc865d4ee_1920.jpg)
+^image by david mark from pixabay^
 
 **IN THIS SECTION, YOU WILL:**  Understand how to apply ideas from David Marquet's work and Netflix's valued behaviors to develop architects' leadership traits.
 
@@ -37,7 +38,6 @@ I have found a phase "I intend to" to be a powerful catalyst for positioning arc
 I have found a phase "I intend to" to be a powerful catalyst for positioning architecture work.
 
 ![](assets/images/arch/iStock-1130373923.jpg)
-
 ^image by istock^
 
  
