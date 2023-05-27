@@ -13,7 +13,7 @@ def copy_post(post):
             if not in_header:
                 if line.startswith('Image by'):
                     line = re.sub('<.*?>', '', line).replace('\n', '')
-                    content += '^' + line + '^\n'
+                    content += '\n^' + line.lower() + '^\n'
                 elif line.startswith('<div'):
                     print(line)
                 elif line.startswith('</div'):
@@ -78,8 +78,8 @@ def copy_post(post):
     while '\n\n\n' in content:
         content = content.replace('\n\n\n', '\n\n')
 
-    while '\n\nImage by' in content:
-        content = content.replace('\n\nImage by', '\nImage by')
+    while '\n\n^Image by' in content:
+        content = content.replace('\n\n^Image by', '\n^Image by')
 
     with open('../' + post, 'w') as html_file:
         html_file.write(content)
