@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-05-27T12:58:18+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: The Chief Architect’s Playbook</title><subtitle></subtitle><entry><title type="html">Favorite Quotes</title><link href="http://localhost:4000/quotes" rel="alternate" type="text/html" title="Favorite Quotes" /><published>2021-10-25T22:12:01+02:00</published><updated>2021-10-25T22:12:01+02:00</updated><id>http://localhost:4000/quotes</id><content type="html" xml:base="http://localhost:4000/quotes"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/books-g1b2675255_1920.jpg" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-05-27T13:51:54+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: The Chief Architect’s Playbook</title><subtitle></subtitle><entry><title type="html">Favorite Quotes</title><link href="http://localhost:4000/quotes" rel="alternate" type="text/html" title="Favorite Quotes" /><published>2021-10-25T22:12:01+02:00</published><updated>2021-10-25T22:12:01+02:00</updated><id>http://localhost:4000/quotes</id><content type="html" xml:base="http://localhost:4000/quotes"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/books-g1b2675255_1920.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/prettysleepy-2973588/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5430104">Amy</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5430104">Pixabay</a>
 </div>
@@ -356,13 +356,12 @@ Image by <a href="https://pixabay.com/users/shire777-19410672/?utm_source=link-a
 <p>To better understand any idea or solution, it is crucial to understand the context in which these ideas developed. The same applies to applying concepts: contextualizing them in your organizations. When using ideas from this book, ask yourself how your organizational context differs from mine:</p>
 
 <ul>
-  <li><em>What are the unique characteristics of organizational context?</em></li>
-  <li><em>What are organizational context characteristics similar to many other companies?</em></li>
+  <li><em>What are the unique characteristics of your organizational context?</em></li>
   <li><em>What is the scale of your organization? How it affects architecture function?</em></li>
-  <li><em>How diverse is your organization? How it affects architecture function?</em></li>
-  <li><em>What are grow dynamics of your organization? How it affects architecture function?</em></li>
-  <li><em>Are you experiencing synergy and transformation pressures? How it affects architecture function?</em></li>
-  <li><em>How (de)centralized is your organization? How it affects architecture function?</em></li>
+  <li><em>How diverse is your organization?</em></li>
+  <li><em>What are grow dynamics of your organization?</em></li>
+  <li><em>Are you experiencing synergy and transformation pressures?</em></li>
+  <li><em>How (de)centralized is your organization?</em></li>
 </ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[The grounded architecture approach has developed in the context of global, loosely coupled organizations that are diverse, with non-linear growth dynamics, and under transformation pressures. The work I present here reflects my experiences as a Chief or Principal Architect at AVIV Group, eBay Classifieds, and Adevinta.]]></summary></entry><entry><title type="html">Goals</title><link href="http://localhost:4000/goals" rel="alternate" type="text/html" title="Goals" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/requirements</id><content type="html" xml:base="http://localhost:4000/goals"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/stress-gc7a712a2f_1920.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=7446584">Gerd Altmann</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=7446584">Pixabay</a>
@@ -426,7 +425,7 @@ Considering the scale and complexity of the organizational context I operated in
 <p>Knowing what goals architecture practice needs to support in your organization is crucial to define structures and measuring your impact. Some of the plans may be universally applicable. Others may be unique to your context. Ask yourself the following questions:</p>
 
 <ul>
-  <li><em>What is the scale of your architecture operations? Does your scale require a special measure to ensure your architecture practice efficient operations?</em></li>
+  <li><em>What is the scale of your architecture operations? Does your scale require special measures to ensure your architecture practice efficient operations?</em></li>
   <li><em>What are the key decisions you need to make? Do you have the data to base your decisions?</em></li>
   <li><em>How aligned are units in your organizations? How much friction is there? How can architecture function help?</em></li>
   <li><em>How much is your organization learning? How is the learning supported?</em></li>
@@ -462,7 +461,7 @@ Image by <a href="https://pixabay.com/users/ichigo121212-11728/?utm_source=link-
 </style>
 
 <p><br />
-In this part of my playbook, I will describe the structure of Grounded Architecture. I chose the term “Grounded Architecture” to highlight that the primary goal of my approach is to avoid having an “ivory tower” architecture function disconnected from the organization, which in a <a href="context">fast-moving, global, and diverse setting</a> is a real danger. In other words, I wanted to create an architectural function that is well-grounded in the organization.</p>
+In this part of my playbook, I will introduce the structure of Grounded Architecture. I chose the term “Grounded Architecture” to highlight that the primary goal of my approach is to avoid having an “ivory tower” architecture function disconnected from the organization, which in a <a href="context">fast-moving, global, and diverse setting</a> is a real danger. In other words, I wanted to create an architectural function that is well-grounded in the organization.</p>
 
 <div class="quote">
 I chose the term "Grounded Architecture" to highlight that the primary goal of my approach is to avoid having an "ivory tower" architecture function disconnected from the organization. I wanted to create an architectural function that is well-grounded in the organization.
@@ -593,9 +592,9 @@ Source code and its commit history include an astonishing amount of information 
 <p><br /></p>
 <h2 id="using-architecture-data-pillar">Using Architecture Data Pillar</h2>
 
-<p>The architecture data pillar can provide lots of data. Sometimes, as in an ordinary map or atlas, such data could be helpful for those who want to orient themselves and understand the context. But you could obtain more insights from such data. However, finding the right ways to interpret and use data requires active effort. In other words, the data can give you the answers, but <a href="https://en.wikipedia.org/wiki/42_(number)#The_Hitchhiker's_Guide_to_the_Galaxy">we may not know the questions</a>. Here are some of the questions I frequently ask and answers with data from the documents:</p>
+<p>The architecture data pillar can provide lots of data. Sometimes, as in an ordinary map or atlas, such data could be helpful for those who want to orient themselves and understand the context. But you could obtain more insights from such data. However, finding the right ways to interpret and use data requires active effort. In other words, the data can give you the answers, but <a href="https://en.wikipedia.org/wiki/42_(number)#The_Hitchhiker's_Guide_to_the_Galaxy">we may not know the questions</a>. Here are some of the questions you can ask when you have data:</p>
 <ul>
-  <li>Are we aligned and going in the same direction? Tools like source code overviews, public cloud usage explorers, or tech radars can highlight differences and trigger discussions.</li>
+  <li>Are we aligned and going in the same direction? Source code overviews, public cloud usage explorers, or tech radars can highlight differences among systems and teams and trigger discussions.</li>
   <li>Are we using technology optimally? Comparing usage trends between teams can show interesting outliners (both positive and negative).</li>
   <li>Are there indicators of poor code quality? Too large systems, duplication, long units, or long files.</li>
   <li>Productivity: is more really more or is more actually less. For instance, comparing the number of git merges with the number of developers can indicate if our dev processes are scalable. When we scale up teams, we want to speed up our delivery (but if team structure is not proper, it can easily be the opposite as people “step on each other toes”).</li>

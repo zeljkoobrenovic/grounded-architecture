@@ -3,6 +3,7 @@
 # Data Pillar {#data}
 
 ![](assets/images/arch/architecture-1857175_1920.jpg)
+Image by Lorenzo Cafaro from Pixabay
 
 **IN THIS SECTION, YOU WILL:**  Understand how to use diverse data sources to support architecture decision-making processes and get concrete tips on creating architecture-centric data tools.
 
@@ -18,6 +19,8 @@ In every place I worked on creating architectural functions, I strongly emphasiz
 ![](assets/images/model-data.png)
 
 The good news is that big organizations have lots of data that, if used wisely, can provide an excellent basis for an architectural data pillar. With some automation and curation, getting a good overview of the technology landscape may be closer than it initially appears.
+
+ Manual documentation does not scale, and relying on data ensures reliability and scalability.
 
 ## Examples of Data Sources and Tools
 
@@ -36,6 +39,8 @@ In the following sections, I detail several of these architectural data-driven t
 ### Example 1: Source Code and Commit History
 
 I have repeatably found the source code to be an incredible source for creating data-driven architecture documentation. Source code and its commit history include an astonishing amount of information about technology, people activity, team dependencies, and the quality of software systems. I've started and still actively maintain the project [Sokrates](https://sokrates.dev), with the idea to help further extract data from source code that can help my work as an architect. I use Sokrates daily, improving it on the way.
+
+Source code and its commit history include an astonishing amount of information about technology, people activity, team dependencies, and the quality of software systems.
 
 I have designed Sokrates from an architect's point of view, enabling quick zooming in and out into source code landscapes. On the one hand, Sokrates provides a high-level view of the landscape, summarizing data from all teams and groups. At the same time, you can zoom in on the details of particular systems to the code level. That means you can use the same tools to have CTO-level discussions looking at overall trends in our technology usage and costs. At the same time, I could engage with developers and discuss concrete code fragments and potential improvements in the code level (e.g., duplicated blocks, complex units, dependencies).
 
@@ -71,8 +76,8 @@ Finance departments are very data-driven and have high-quality data that could b
 
 ## Using Architecture Data Pillar
 
-The architecture data pillar can provide lots of data. Sometimes, as in an ordinary map or atlas, such data could be helpful for those who want to orient themselves and understand the context. But you could obtain more insights from such data. However, finding the right ways to interpret and use data requires active effort. In other words, the data can give you the answers, but [we may not know the questions](https://en.wikipedia.org/wiki/42_(number)#The_Hitchhiker's_Guide_to_the_Galaxy). Here are some of the questions I frequently ask and answers with data from the documents:
-* Are we aligned and going in the same direction? Tools like source code overviews, public cloud usage explorers, or tech radars can highlight differences and trigger discussions.
+The architecture data pillar can provide lots of data. Sometimes, as in an ordinary map or atlas, such data could be helpful for those who want to orient themselves and understand the context. But you could obtain more insights from such data. However, finding the right ways to interpret and use data requires active effort. In other words, the data can give you the answers, but [we may not know the questions](https://en.wikipedia.org/wiki/42_(number)#The_Hitchhiker's_Guide_to_the_Galaxy). Here are some of the questions you can ask when you have data:
+* Are we aligned and going in the same direction? Source code overviews, public cloud usage explorers, or tech radars can highlight differences among systems and teams and trigger discussions.
 * Are we using technology optimally? Comparing usage trends between teams can show interesting outliners (both positive and negative).
 * Are there indicators of poor code quality? Too large systems, duplication, long units, or long files.
 * Productivity: is more really more or is more actually less. For instance, comparing the number of git merges with the number of developers can indicate if our dev processes are scalable. When we scale up teams, we want to speed up our delivery (but if team structure is not proper, it can easily be the opposite as people "step on each other toes").

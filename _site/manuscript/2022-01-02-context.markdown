@@ -3,6 +3,7 @@
 # Context: Fast Moving Global Organizations {#context}
 
 ![](assets/images/arch/roller-coaster-3605743_1920.jpg)
+Image by Paul Brennan from Pixabay
 
 **IN THIS SECTION, YOU WILL:** Understand the context in which the ideas in this book developed.
 
@@ -14,6 +15,8 @@ A> * The grounded architecture approach has developed in the context of global, 
 A> * More specifically, the work I present here reflects my experiences as a Chief or Principal Architect at AVIV Group, eBay Classifieds, and Adevinta.
 
 To better understand any idea or solution, it is crucial to understand the context in which these ideas developed. My approach to creating and running an architecture function is not an abstract idea. Instead, it is the generalization of many lessons learned while solving specific problems in a particular context.
+
+My approach to creating and running an architecture function is not an abstract idea. Instead, it is the generalization of many lessons learned while solving specific problems in a particular context.
 
 I base my ideas on my experiences as a Chief and Principal Architect at AVIV Group, eBay Classifieds, and Adevinta. In this section, I discuss critical characteristics of the organizational context that have had an impact on my definition of the grounded architecture approach:
 * **global scale**: operating across multiple countries and continents with millions of users,
@@ -35,6 +38,8 @@ I was lucky to develop my approach in genuinely global and multicultural organiz
 * Many geographies, cultures, and languages.
 
 ![](assets/images/arch/earth-g217b5730b_1920.jpg)
+
+Image by Pete Linforth from Pixabay
 
 The global scale introduces several compelling opportunities:
 
@@ -74,6 +79,8 @@ The global and multicultural nature of our context leads to diversity and multip
 
 ![](assets/images/arch/pictures-g139ff7ebb_1280.jpg)
 
+Image by Simon from Pixabay
+
 The organizations have many units, such as marketplaces (each with its sub-structures), global capabilities, enterprise IT teams, data capabilities, and generic IT infrastructure. In addition to their loose coupling, these organizational units differed in multiple ways:
 
 * Size: for instance, some units had hundreds of developers, and some units had only a dozen.
@@ -110,6 +117,8 @@ Complex organizations like the one I have worked in are frequently very dynamic.
 
 ![](assets/images/arch/blur-g6bc6ee2cc_1920.jpg)
 
+Image by Pexels from Pixabay
+
 Possibilities for nonlinear growth may be helpful in several scenarios:
 
 * Faster growth due to acquisitions of market segments.
@@ -129,6 +138,8 @@ Non-linear growth dynamics open up many challenges as they can lead to many surp
 Complex organizations do not just grow. Instead, they want to be more efficient and leverage economies of scale, cost synergies, or increase capacity for innovation. Our investors expect us to transform to be more than a sum of our original parts.
 
 ![](assets/images/arch/gears-g06fe4e9a5_1920.jpg)
+
+Image by MustangJoe from Pixabay
 
 Pressure for synergies and transformations can provide several opportunities:
 
@@ -154,6 +165,8 @@ In a loosely coupled organization, some of the elements of a tightly coupled org
 
 ![](assets/images/arch/world-trade-center-g707209d17_1920.jpg)
 
+Image by Shire777 from Pixabay
+
 Due to historical and strategic reasons, most organizational units I worked with were loosely coupled. Our companies frequently grow through acquisitions of companies in different marketplaces. The strategies also continually promoted a more independent evolution of each marketplace to better and faster address local market needs. Marketplaces often have a high level of autonomy, frequently with their development teams and sometimes with local C(P)TOs, CFOs, CMOs, or CEOs.
 
 Loose coupling offers several advantages:
@@ -174,11 +187,10 @@ Loose coupling is architecture-wise an interesting challenge as it frequently le
 
 To better understand any idea or solution, it is crucial to understand the context in which these ideas developed. The same applies to applying concepts: contextualizing them in your organizations. When using ideas from this book, ask yourself how your organizational context differs from mine:
 
-* *What are the unique characteristics of organizational context?*
-* *What are organizational context characteristics similar to many other companies?*
+* *What are the unique characteristics of your organizational context?*
 * *What is the scale of your organization? How it affects architecture function?*
-* *How diverse is your organization? How it affects architecture function?*
-* *What are grow dynamics of your organization? How it affects architecture function?*
-* *Are you experiencing synergy and transformation pressures? How it affects architecture function?*
-* *How (de)centralized is your organization? How it affects architecture function?*
+* *How diverse is your organization?*
+* *What are grow dynamics of your organization?*
+* *Are you experiencing synergy and transformation pressures?*
+* *How (de)centralized is your organization?*
 

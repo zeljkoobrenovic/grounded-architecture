@@ -3,6 +3,7 @@
 # Managing Organizational Complexity: Six Simple Rules {#six-simple-rules}
 
 ![](assets/images/arch/spices-g253b7ca36_1920.jpg)
+Image by Nat Aggiato from Pixabay
 
 **IN THIS SECTION, YOU WILL:**  Get an introduction to Six Simple Rules, a model for setting up organizational structures based on cooperation.
 
@@ -14,6 +15,8 @@ A> * To deal with complexity, organizations should depend on the judgment of the
 A> * This view is well aligned with the ideas of Grounded Architecture.
 
 The book [Six Simple Rules: How to Manage Complexity without Getting Complicated](https://www.bcg.com/capabilities/organization/smart-simplicity/six-rules-overcoming-complexity), by  Yves Morieux and Peter Tollman, is another source of inspiration for my vision on the Architecture function. Morieux and Tollman introduced a concept of Smart Simplicity with six rules or strategies that enable organizations to promote new behaviors and improve performance.
+
+In today’s complicated business environment, you need to setup organisational structures based on cooperation.
 
 Six Simple Rules emphasis that in today’s complicated business environment, you **need to setup organisational structures based on cooperation**. To deal with complexity, organizations should depend on the judgment of their people, which requires giving them more autonomy to act. It also depends on these people cooperating to utilize the organization's capabilities to cope with complex problems.
 
@@ -56,6 +59,8 @@ First rule states that you need to truly understand performance: **what people d
  
 ![](assets/images/arch/iStock-1179186162.jpg)
 
+Image by iStock
+
 ### General Guidelines
 
 The Six Simple Rules approach states that you can truly understand performance by:
@@ -75,6 +80,8 @@ I have found architecture function can be very helpful in understand what people
 Reinforce integrators by looking at those **directly involved in the work**, giving them **power and interest to foster cooperation in dealing with complexity** instead of resorting to the paraphernalia of overarching hierarchies, overlays, dedicated interfaces, balanced scorecards, or coordination procedures.
  
 ![](assets/images/arch/agree-g1f407320e_1920.png)
+
+Image by Robert Owen-Wahl from Pixabay
 
 ### General Guidelines
 
@@ -96,6 +103,8 @@ Whenever you consider an **addition to** your organization’s **structure, proc
 
 ![](assets/images/arch/iStock-1201215883.jpg)
 
+Image by iStock
+
 ### General Guidelines
  
 To increase the quantity of power, the Six Simple Rules approach recommends the following actions:
@@ -114,8 +123,7 @@ Architecture supports increasing power quantity with the **[operating model](act
 
 In the face of business complexity, work is becoming more inter-dependent. To meet multiple and often contradictory performance requirements, **people need to rely more on each other**. They need to **cooperate directly** instead of relying on dedicated interfaces, coordination structures or procedures that only add to complicatedness. 
 
-![](assets/images/arch/iStock-1072898930.jpg)
-
+![](assets/images/arch/iStock-1072898930.jpg)Credit: Getty Images / iStock / Natnan Srisuwan.
 ### General Guidelines
 
 Reciprocity is the recognition by people or units in an organization that they **have a mutual interest in cooperation** and that the success of one depends on the success of others (and vice versa). The way to create that reciprocity is by setting rich objectives and reinforcing them by:
@@ -134,6 +142,8 @@ Architecture function is directly related to increasing reciprocity:
 Increase the importance to people of **what happens tomorrow as a consequence of what they do today**. By making very simple changes you can manage complex requirements, while also removing organizational complicatedness. With the strategic alignment typical of the hard approach, these simple solutions—for instance, career paths—often come at the end of a sequence that starts by installing the most cumbersome changes: new structure, processes, systems, metrics, and so on. Simple and effective solutions are then impossible. 
 
 ![](assets/images/arch/trees-gc38b3c617_1920.jpg)
+
+Image by Joe from Pixabay
 
 ### General Guidelines
 
@@ -154,6 +164,8 @@ The architecture can extend the shadow of the future in multiple ways:
 Lastly, the Six Simple Rules approach recommends that when you cannot create direct feedback loops embedded in people’s tasks, you need **management’s intervention to close the loop**. Managers must then use the familiar performance evaluation tool but in a very different way. 
 
 ![](assets/images/arch/people-gac98109e9_1920.jpg)
+
+Image by StockSnap from Pixabay
 
 ### General Guidelines
 

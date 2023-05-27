@@ -3,6 +3,7 @@
 # Architecture Governance: Mandates, Taxation, Nudge {#governance}
 
 ![](assets/images/arch/greece-1594689_1920.jpg)
+Image by nonbirinonko via Pixabay
 
 **IN THIS SECTION, YOU WILL:** Understand that a technology governance model should be a well-balanced hybrid of three different styles of governing: mandates and bans, taxes, and nudging.
 
@@ -25,7 +26,10 @@ Grounded Architecture supports governance models that are adaptable to the compl
 
 By governing with mandates and bans, I mean guiding people by **explicitly defining what they should or should not do**. In places I worked in, such mandates and bans have had a limited by important place to **define broader strategic boundaries of choices** people can make. For instance, restricting the usage of public cloud providers to specific vendors or following **strict privacy and security procedures** needs to be explicitly defined and controlled.
 
+By governing with mandates and bans, I mean guiding people by explicitly defining what they should or should not do.
+
 ![](assets/images/arch/ethics-g277df4183_1920.jpg)
+Image by Tumisu from Pixabay
 
 The role of architecture in this form of governing should be to be **a stakeholder but not a sole owner in defining mandates and bans**. Mandates and bans frequently need to be defined in collaboration with others, such as security and legal functions. The Grounded Architecture can help by **creating clarity and providing transparency**.
 
@@ -37,7 +41,10 @@ The [People Pillar](#people) can help propagate the decision and ensure its posi
 
 Governing with taxes is a form of guiding in which people are not forbidden to make some decisions but **need to "pay" some form of taxes on used resources**. For instance, costs of public cloud usage could be **cross-charged across the organization**, providing a helpful feedback loop to optimize our systems and avoid unnecessary resource consumption, avoiding the "tragedy of commons" which frequently happens when there are no limits on shared resource consumption (e.g., public cloud budget). 
 
-![](assets/images/arch/credit-squeeze-g61ddead85_1920.jpg)
+Governing with taxes is a form of guiding in which people are not forbidden to make some decisions but need to "pay" some form of taxes on used resources.
+
+![](assets/images/arch/credit-squeeze-g61ddead85_1920.png)
+Image by Steve Buissinne from Pixabay
 
 The role of Grounded Architecture in this form of governance should be to ensure that "taxation" is data-driven and transparent and to create efficient feedback loops on key metrics related to "taxes."
 
@@ -46,6 +53,8 @@ The [Data Pillar](#data) can include and provide all data regarding "taxes," for
 ## Nudging
 
 In behavioral economics and psychology, a nudge is a **subtle or indirect suggestion** influencing someone's behavior or decision-making **without forcing them or limiting their freedom of choice**. Nudges can be applied in various settings, such as policy-making, marketing, and personal interactions, to encourage people to make better choices, improve their well-being, or achieve specific goals.
+
+A nudge is a subtle or indirect suggestion influencing someone's behavior or decision-making without forcing them or limiting their freedom of choice.
 
 A nudge can take many forms, such as a **small change in the environment**, a **gentle reminder**, a **positive reinforcement**, or a **default option**. For example, placing healthy food options at eye level in a cafeteria can nudge people to choose healthier meals. Or setting a default option for organ donation can increase the number of donors.
 
@@ -66,7 +75,8 @@ In my experience, nudges can frequently lead to better alignment and more harmon
 
 Grounded Architecture is well aligned with ideas of nudging. I frequently designed many of the [Data Pillar](#data) to highlight areas and issues we wanted people to improve. And the [People Pillar](#people) can create mechanisms for sharing experiences, promoting positive examples, and capturing lessons learned to help people to make better, more informed decisions. And in the [Architecture Activities Platform] I use the operating model that stimulates people to make decisions autonomously but nudges them to stay well-aligned and connected to the organizational strategic direction.
 
-![](assets/images/arch/38280951874_fb51a740ff_c.jpg)
+![](assets/images/arch/38280951874_fb51a740ff_c.png)
+Photo: Hand ready to push domino pieces by Marco Verch under Creative Commons 2.0
 
 ## Questions to Consider
 

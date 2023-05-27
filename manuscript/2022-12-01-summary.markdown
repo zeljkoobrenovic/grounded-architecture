@@ -3,6 +3,7 @@
 # Summary {#summary}
 
 ![](assets/images/arch/road-g04cf0c3f8_1920.jpg)
+Image by Gerd Altmann from Pixabay
 
 **IN THIS SECTION, YOU WILL:** Look back at the content in this book.
 
@@ -55,6 +56,8 @@ When Grounded Architecture is in place, it can have a significant [positive impa
 * Maximize Organizational Alignment,
 * Maximize Organizational Learning, and
 * Increase Architecture Function Adaptivity.
+
+Remember that while you may borrow ideas from others, every organization is different, and your approach must adapt to your context.
 
 Remember that while you may borrow ideas from others, every organization is different in the end, and your approach must adapt to your context. When forming architecture functions, I always advise not to forget these [two pieces of advice from Gregor Hohpe](https://architectelevator.com/architecture/organizing-architecture/):
  * "*Your architecture team’s job is to solve your biggest problems. The best setup is the one that allows it to accomplish that.*"

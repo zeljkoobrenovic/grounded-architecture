@@ -3,6 +3,7 @@
 # Leadership {#leadership}
 
 ![](assets/images/arch/submarine-gcc865d4ee_1920.jpg)
+Afbeelding van David Mark via Pixabay
 
 **IN THIS SECTION, YOU WILL:**  Understand how to apply ideas from David Marquet's work and Netflix's valued behaviors to develop architects' leadership traits.
 
@@ -21,6 +22,8 @@ Marquet's work is closely tied to the Leader-Leader model of leadership, a style
 
 This leadership approach empowers individuals to take ownership of their work and collaborate with others to achieve common goals. Instead of relying on a single leader to make all decisions, authority, and responsibility are distributed across the team.
 
+The leader-leader model is an excellent standard for architects' leadership vision. Like managers in a leader-leader model, architects should act more as facilitators, coaches, and mentors than traditional top-down decision-makers.
+
 The leader-leader model is an excellent standard for architects' leadership vision. Like managers in a leader-leader model, architects should act more as facilitators, coaches, and mentors than traditional top-down decision-makers. They provide team members guidance, support, or resources to help them achieve their goals and reach their full potential.
 
 One of the key benefits of a leader-leader model is that it creates a more collaborative and inclusive work environment. It allows individuals to contribute their unique perspectives, experiences, and skills to the group, promoting a sense of ownership and accountability for the team's success. This model also helps build trust and stronger relationships within the team, leading to increased productivity, creativity, and innovation.
@@ -29,7 +32,11 @@ David Marquet's book "Leadership is Language" provides practical advice for lead
 
 ![](assets/images/arch/leader-leader.jpg)
 
+Credit: Based on Intent-Based Leadership, by David Marquet.
+
 I have found a phase "I intend to" to be a powerful catalyst for positioning architecture work. The phrase helps describe the work architect as someone others expect to take the initiative and lead efforts. But also to describe the desired interaction of architects with the teams they work with, where we hope teams share their intentions which architects can help improve.
+
+I have found a phase "I intend to" to be a powerful catalyst for positioning architecture work.
 
  
 ## Netflix Valued Behaviors: Leadership Behaviors

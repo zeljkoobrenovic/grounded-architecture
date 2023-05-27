@@ -3,6 +3,7 @@
 # Introduction {#intro}
 
 ![](assets/images/arch/staircase-274614_1920.jpg)
+Image by fda54 from Pixabay
 
 **IN THIS SECTION, YOU WILL:** Understand what this book is about and how to use it.
 
@@ -52,14 +53,16 @@ The rest of this book will explain in detail the grounded architecture approach.
 
 .
 
-## Influences
+## Key Influences
 
-Gregor Hohpe's [Architecture Elevator](https://architectelevator.com/) view of architecture has heavily inspired my work. In many ways, my work reflects the lessons learned from blindly implementing Gregor's ideas in practice.
+Gregor Hohpe's [Architecture Elevator](https://architectelevator.com/) view of architecture has heavily inspired my work. In many ways, my work reflects the lessons learned from implementing Gregor's ideas in practice. Gregor described modern architects' functions as aligning organization and technology, reducing friction, and charting transformation journeys. Such architects ride the Architect Elevator from the penthouse, where the business strategy is set, to the engine room, where engineers implement enabling technologies. They shun popular buzzwords favoring a clear strategy defined by conscious decision-making.
 
 I use Staff Engineering roles as an inspiration for the development of architects. Tanya Reilly's
 book [The Staff Engineer's Path](https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/) and Will
 Larson's book [Staff Engineer: Leadership beyond the management track](https://staffeng.com/guides/staff-archetypes/)
-are a helpful guide in defining the responsibilities of architects.
+are a helpful guide in defining the responsibilities of architects. The Staff-plus engineering roles provide excellent examples for the development of modern architects.
+
+Many other sources have influenced my work. You can find some of them in the [Bookshelf section](#bookshelf).
 
 ## A Bit of Personal History
 
@@ -113,7 +116,7 @@ In the third part, I talk about the Reflections of Grounded Architecture, groupe
 
 I conclude with a summary and pointers to external resources for those who want to explore more.
 
-The [bookshelf](bookshelf) section shows many other books and resources that have influenced my approach and ideas. 
+The [bookshelf](#bookshelf) section shows many other books and resources that have influenced my approach and ideas. 
 
 ## Acknowledgments
 

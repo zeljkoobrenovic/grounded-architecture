@@ -3,6 +3,7 @@
 # Doing Architecture: Introduction {#doing-architecture}
 
 ![](assets/images/arch/steampunk-3006650_1920.jpg)
+Image by Enrique Meseguer from Pixabay
 
 **IN THIS SECTION, YOU WILL:**  Get a summary of the articles about doing architecture.
 

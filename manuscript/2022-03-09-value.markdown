@@ -3,6 +3,7 @@
 # Value of Grounded Architecture {#value}
 
 ![](assets/images/arch/gold-gd9bc167a4_1920.jpg)
+Image by Matthias Wewering from Pixabay
 
 **IN THIS SECTION, YOU WILL:**  Understand the value that architecture practice based on the ideas of Grounded Architecture can create for an organization.
 
@@ -27,6 +28,7 @@ The following sections elaborate on these categories in line with the [goals](#g
 Grounded Architecture aims to enable architecture functions to operate at scale efficiently. We must rely on something other than intuition and manual processes when supporting thousands of developers and dealing with hundreds of millions of lines of code.
 
 ![](assets/images/arch/earth-g8ffaadaba_1920.jpg)
+Image by WikiImages from Pixabay
 
 The architecture data pillar aims to support working at scale with automation and self-service. Our People Pillar aims to help execution at scale by developing connections at all levels of the organization, increasing transparency, and through a strong network speeding up alignment and the execution of shared decisions.
 
@@ -37,6 +39,7 @@ A> *"If we have data, let's look at data. If all we have are opinions, let's go 
 Architectural discussions can be very heated and opinionated. There are significant benefits to making our decision process as much as possible data-driven. It is one of the critical tasks for any architect to maintain high-quality data on relevant internal and external technology developments, providing fuel for data-informed discussions and decision-making.
 
 ![](assets/images/arch/doors-gf67a9cff2_1920.jpg)
+Image by Arek Socha from Pixabay
 
 The Data Pillar enables architects to move away from opinion-based decisions to data-driven economic risk modeling to become more data-driven. Such frameworks can help architects to achieve the following (credit Gregor Hohpe):
 * dismantle the buzzwords, present the problem in clear terms, understandable to a broader audience
@@ -51,6 +54,7 @@ Misalignment frequently happens in big organizations. The [Data Pillar](#data) c
 * After making a decision, Grounded Architecture can make all organizations aware of it and distribute it so everyone can profit from lessons learned in one unit.
 
 ![](assets/images/Misalignment-1024x523.png)
+Credit: Henrik Kniberg
 
 ## Maximizing Organizational Learning
 A> *"Good judgment comes from experience, and experience comes from bad judgment."* -- Fred Brooks
@@ -84,6 +88,7 @@ This adaptivity is driven by the independence of elements and the possibility of
 * Lastly, the structure of our architectural model enables a more sustainable architectural function. With an established [Data Pillar](#data) and a well-connected architect, the architecture can still benefit the organization even without a strong central team.
 
 ![](assets/images/arch/lego-g7d6cf2046_1920.png)
+Image by Francis Ray from Pixabay
 
 ## Questions to Consider
 

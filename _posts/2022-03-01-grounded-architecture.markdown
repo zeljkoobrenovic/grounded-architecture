@@ -39,7 +39,7 @@ Image by <a href="https://pixabay.com/users/ichigo121212-11728/?utm_source=link-
 </style>
 
 <br>
-In this part of my playbook, I will describe the structure of Grounded Architecture. I chose the term "Grounded Architecture" to highlight that the primary goal of my approach is to avoid having an "ivory tower" architecture function disconnected from the organization, which in a [fast-moving, global, and diverse setting](context) is a real danger. In other words, I wanted to create an architectural function that is well-grounded in the organization.
+In this part of my playbook, I will introduce the structure of Grounded Architecture. I chose the term "Grounded Architecture" to highlight that the primary goal of my approach is to avoid having an "ivory tower" architecture function disconnected from the organization, which in a [fast-moving, global, and diverse setting](context) is a real danger. In other words, I wanted to create an architectural function that is well-grounded in the organization.
 
 <div class="quote">
 I chose the term "Grounded Architecture" to highlight that the primary goal of my approach is to avoid having an "ivory tower" architecture function disconnected from the organization. I wanted to create an architectural function that is well-grounded in the organization.

@@ -73,7 +73,7 @@ Significant organic and inorganic changes are frequent and expected. The archite
 
 Knowing what goals architecture practice needs to support in your organization is crucial to define structures and measuring your impact. Some of the plans may be universally applicable. Others may be unique to your context. Ask yourself the following questions:
 
-* *What is the scale of your architecture operations? Does your scale require a special measure to ensure your architecture practice efficient operations?*
+* *What is the scale of your architecture operations? Does your scale require special measures to ensure your architecture practice efficient operations?*
 * *What are the key decisions you need to make? Do you have the data to base your decisions?*
 * *How aligned are units in your organizations? How much friction is there? How can architecture function help?*
 * *How much is your organization learning? How is the learning supported?*
