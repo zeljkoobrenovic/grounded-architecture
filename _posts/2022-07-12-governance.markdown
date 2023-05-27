@@ -82,7 +82,7 @@ Governing with taxes is a form of guiding in which people are not forbidden to m
 
 <br>
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
-     src="assets/images/arch/credit-squeeze-g61ddead85_1920.jpg">
+     src="assets/images/arch/credit-squeeze-g61ddead85_1920.png">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/stevepb-282134/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=522549">Steve Buissinne</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=522549">Pixabay</a>
 </div>
@@ -121,7 +121,7 @@ Grounded Architecture is well aligned with ideas of nudging. I frequently design
 
 <br>
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
-     src="assets/images/arch/38280951874_fb51a740ff_c.jpg">
+     src="assets/images/arch/38280951874_fb51a740ff_c.png">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Photo: <a href="https://foto.wuestenigel.com/hand-ready-to-push-domino-pieces/" target="_blank">Hand ready to push domino pieces</a> by <a href="https://linktr.ee/wuestenigel" target="_blank">Marco Verch</a> under <a href="https://creativecommons.org/licenses/by/2.0/" target="_blank">Creative Commons 2.0</a>
 </div>
