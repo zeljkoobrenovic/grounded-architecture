@@ -75,7 +75,8 @@ In my experience, nudges can frequently lead to better alignment and more harmon
 
 Grounded Architecture is well aligned with ideas of nudging. I frequently designed many of the [Data Pillar](#data) to highlight areas and issues we wanted people to improve. And the [People Pillar](#people) can create mechanisms for sharing experiences, promoting positive examples, and capturing lessons learned to help people to make better, more informed decisions. And in the [Architecture Activities Platform] I use the operating model that stimulates people to make decisions autonomously but nudges them to stay well-aligned and connected to the organizational strategic direction.
 
-![](assets/images/arch/38280951874_fb51a740ff_c.png)Photo: Hand ready to push domino pieces by Marco Verch under Creative Commons 2.0
+![](assets/images/arch/38280951874_fb51a740ff_c.png)
+^image by hand ready to push domino pieces by marco verch under creative commons 2.0^
 
 ## Questions to Consider
 

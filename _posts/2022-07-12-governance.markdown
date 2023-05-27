@@ -123,7 +123,7 @@ Grounded Architecture is well aligned with ideas of nudging. I frequently design
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
      src="assets/images/arch/38280951874_fb51a740ff_c.png">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Photo: <a href="https://foto.wuestenigel.com/hand-ready-to-push-domino-pieces/" target="_blank">Hand ready to push domino pieces</a> by <a href="https://linktr.ee/wuestenigel" target="_blank">Marco Verch</a> under <a href="https://creativecommons.org/licenses/by/2.0/" target="_blank">Creative Commons 2.0</a>
+Image by <a href="https://foto.wuestenigel.com/hand-ready-to-push-domino-pieces/" target="_blank">Hand ready to push domino pieces</a> by <a href="https://linktr.ee/wuestenigel" target="_blank">Marco Verch</a> under <a href="https://creativecommons.org/licenses/by/2.0/" target="_blank">Creative Commons 2.0</a>
 </div>
 
 
