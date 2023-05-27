@@ -78,9 +78,6 @@ def copy_post(post):
     while '\n\n\n' in content:
         content = content.replace('\n\n\n', '\n\n')
 
-    while '\n\nImage by' in content:
-        content = content.replace('\n\nImage by', '\nImage by')
-
     with open('../' + post, 'w') as html_file:
         html_file.write(content)
 
