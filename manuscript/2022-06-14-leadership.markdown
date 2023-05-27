@@ -3,7 +3,7 @@
 # Leadership {#leadership}
 
 ![](assets/images/arch/submarine-gcc865d4ee_1920.jpg)
-^image by david mark via pixabay^
+^image by david mark from pixabay^
 
 **IN THIS SECTION, YOU WILL:**  Understand how to apply ideas from David Marquet's work and Netflix's valued behaviors to develop architects' leadership traits.
 
