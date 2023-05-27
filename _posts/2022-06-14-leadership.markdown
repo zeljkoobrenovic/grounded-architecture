@@ -79,6 +79,12 @@ I have found a phase "I intend to" to be a powerful catalyst for positioning arc
 <div class="quote">
 I have found a phase "I intend to" to be a powerful catalyst for positioning architecture work.
 </div>
+
+![](assets/images/arch/iStock-1130373923.jpg)
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by iStock
+</div>
+
  
 ## Netflix Valued Behaviors: Leadership Behaviors
 

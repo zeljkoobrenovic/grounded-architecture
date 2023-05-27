@@ -2,8 +2,7 @@
 
 # Summary {#summary}
 
-![](assets/images/arch/road-g04cf0c3f8_1920.jpg)
-Image by Gerd Altmann from Pixabay
+![](assets/images/arch/road-g04cf0c3f8_1920.jpg)^Image by Gerd Altmann from Pixabay^
 
 **IN THIS SECTION, YOU WILL:** Look back at the content in this book.
 

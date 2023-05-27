@@ -2,8 +2,7 @@
 
 # Leadership {#leadership}
 
-![](assets/images/arch/submarine-gcc865d4ee_1920.jpg)
-Afbeelding van David Mark via Pixabay
+![](assets/images/arch/submarine-gcc865d4ee_1920.jpg)Afbeelding van David Mark via Pixabay
 
 **IN THIS SECTION, YOU WILL:**  Understand how to apply ideas from David Marquet's work and Netflix's valued behaviors to develop architects' leadership traits.
 
@@ -31,12 +30,14 @@ One of the key benefits of a leader-leader model is that it creates a more colla
 David Marquet's book "Leadership is Language" provides practical advice for leaders looking to create a more collaborative, innovative, and inclusive organizational culture. He emphasizes the importance of language and communication in leadership and introduces the phrase "I intend to" as a powerful tool for clarifying intent and empowering team members. When team members give intent, the psychological ownership of those actions shifts to them, making them the originators of thought and direction instead of passive followers. This shift in language helps to promote a more collaborative work environment.
 
 ![](assets/images/arch/leader-leader.jpg)
-
 Credit: Based on Intent-Based Leadership, by David Marquet.
 
 I have found a phase "I intend to" to be a powerful catalyst for positioning architecture work. The phrase helps describe the work architect as someone others expect to take the initiative and lead efforts. But also to describe the desired interaction of architects with the teams they work with, where we hope teams share their intentions which architects can help improve.
 
 I have found a phase "I intend to" to be a powerful catalyst for positioning architecture work.
+
+![](assets/images/arch/iStock-1130373923.jpg)
+^Image by iStock^
 
  
 ## Netflix Valued Behaviors: Leadership Behaviors

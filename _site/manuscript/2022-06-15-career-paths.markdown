@@ -2,8 +2,7 @@
 
 # Architects' Career Paths: Raising the Bar {#career}
 
-![](assets/images/arch/pole-vault.jpg)
-Credit: tableatny (CC BY 2.0)
+![](assets/images/arch/pole-vault.jpg)Credit: tableatny (CC BY 2.0)
 
 **IN THIS SECTION, YOU WILL:**  Get ideas and tips about developing architects' career paths.
 

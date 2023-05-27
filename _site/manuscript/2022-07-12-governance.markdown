@@ -2,8 +2,7 @@
 
 # Architecture Governance: Mandates, Taxation, Nudge {#governance}
 
-![](assets/images/arch/greece-1594689_1920.jpg)
-Image by nonbirinonko via Pixabay
+![](assets/images/arch/greece-1594689_1920.jpg)^Image by nonbirinonko via Pixabay^
 
 **IN THIS SECTION, YOU WILL:** Understand that a technology governance model should be a well-balanced hybrid of three different styles of governing: mandates and bans, taxes, and nudging.
 
@@ -28,8 +27,7 @@ By governing with mandates and bans, I mean guiding people by **explicitly defin
 
 By governing with mandates and bans, I mean guiding people by explicitly defining what they should or should not do.
 
-![](assets/images/arch/ethics-g277df4183_1920.jpg)
-Image by Tumisu from Pixabay
+![](assets/images/arch/ethics-g277df4183_1920.jpg)^Image by Tumisu from Pixabay^
 
 The role of architecture in this form of governing should be to be **a stakeholder but not a sole owner in defining mandates and bans**. Mandates and bans frequently need to be defined in collaboration with others, such as security and legal functions. The Grounded Architecture can help by **creating clarity and providing transparency**.
 
@@ -43,8 +41,7 @@ Governing with taxes is a form of guiding in which people are not forbidden to m
 
 Governing with taxes is a form of guiding in which people are not forbidden to make some decisions but need to "pay" some form of taxes on used resources.
 
-![](assets/images/arch/credit-squeeze-g61ddead85_1920.png)
-Image by Steve Buissinne from Pixabay
+![](assets/images/arch/credit-squeeze-g61ddead85_1920.png)^Image by Steve Buissinne from Pixabay^
 
 The role of Grounded Architecture in this form of governance should be to ensure that "taxation" is data-driven and transparent and to create efficient feedback loops on key metrics related to "taxes."
 
@@ -75,8 +72,7 @@ In my experience, nudges can frequently lead to better alignment and more harmon
 
 Grounded Architecture is well aligned with ideas of nudging. I frequently designed many of the [Data Pillar](#data) to highlight areas and issues we wanted people to improve. And the [People Pillar](#people) can create mechanisms for sharing experiences, promoting positive examples, and capturing lessons learned to help people to make better, more informed decisions. And in the [Architecture Activities Platform] I use the operating model that stimulates people to make decisions autonomously but nudges them to stay well-aligned and connected to the organizational strategic direction.
 
-![](assets/images/arch/38280951874_fb51a740ff_c.png)
-Photo: Hand ready to push domino pieces by Marco Verch under Creative Commons 2.0
+![](assets/images/arch/38280951874_fb51a740ff_c.png)Photo: Hand ready to push domino pieces by Marco Verch under Creative Commons 2.0
 
 ## Questions to Consider
 

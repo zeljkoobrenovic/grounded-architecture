@@ -2,8 +2,7 @@
 
 # Being Architect: Introduction {#being-architect}
 
-![](assets/images/arch/architect-3979490_1920.jpg)
-Image by Borko Manigoda from Pixabay
+![](assets/images/arch/architect-3979490_1920.jpg)^Image by Borko Manigoda from Pixabay^
 
 **IN THIS SECTION, YOU WILL:**  Get an overview of topics related to what it means to be an architect, covered in this chapter.
 
