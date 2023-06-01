@@ -1,16 +1,6 @@
----
-layout: post
-section: "Structure"
-title: "Value of Grounded Architecture"
-position: 3009
-date:   2021-10-21 21:12:01 +0100
-author: by Željko Obrenović (obren.io)
-permalink: value
-icon: value.png
-timetoread: 15 min
-excerpt: "When Grounded Architecture is in place, it can have a significant positive impact on the functioning of an organization: Executing At Scale, Increasing the Quality of Decision-Making with Data, Maximizing Organizational Alignment & Learning, Higher Adaptivity."
 
----
+
+# Value of Grounded Architecture {#value}
 
 ![](assets/images/arch/gold-gd9bc167a4_1920.jpg)
 ^image by matthias wewering from pixabay^
@@ -22,21 +12,6 @@ excerpt: "When Grounded Architecture is in place, it can have a significant posi
 A> **KEY POINTS:**
 A> * When Grounded Architecture is in place, it can have a significant positive impact on the functioning of an organization.
 A> * These categories of impact are: Executing At Scale, Increasing the Quality of Decision-Making with Data, Maximizing Organizational Alignment & Learning, Higher Adaptivity.
-
- .quote {
-     border-left: 8px solid skyblue;
-     padding-left: 36px;
-     margin-top: 30px;
-     margin-bottom: 40px;
-     font-size: 140%;
-     font-style: normal;
-     color:#888;
- }
-    @media only screen and (max-width: 768px) {
-        [class="quote"] {
-            display: none;
-        }
-    }
 
 When Grounded Architecture is in place, it can have a significant positive impact on the functioning of an organization:
 

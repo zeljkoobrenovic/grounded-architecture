@@ -11,17 +11,17 @@ def copy_post(post):
     with open('../../_posts/' + post) as inputfile:
         for line in inputfile:
             if not in_header:
-                if line.startswith('Image by'):
-                    line = re.sub('<.*?>', '', line).replace('\n', '')
-                    content += '\n^' + line.lower() + '^\n'
-                elif line.startswith('<div class="quote"'):
+                if line.startswith('---') or line.startswith('<style') or line.startswith('<div class="quote"'):
                     if not '</div>' in line:
                         in_header = True
                     content += '\n\n'
+                elif line.startswith('Image by'):
+                    line = re.sub('<.*?>', '', line).replace('\n', '')
+                    content += '\n^' + line.lower() + '^\n'
                 elif line.startswith('<div'):
-                    print(line)
+                    print('')
                 elif line.startswith('</div'):
-                    print(line)
+                    print('')
                     content += '\n'
                 elif line.strip().startswith('> **IN THIS SECTION, YOU WILL'):
                     content += line[1:].strip() + '\n'
@@ -31,7 +31,7 @@ def copy_post(post):
                     content += '\n{pagebreak}\n\n'
                     content += 'A' + line
                 elif line.strip().startswith('</') or line.strip().startswith('<t'):
-                    print('skipping: ' + line)
+                    print('')
                 elif line.strip().startswith('>'):
                     content += 'A' + line
                 elif line.strip().startswith('<img') or line.strip().startswith('src='):
@@ -41,7 +41,7 @@ def copy_post(post):
                         sub_line  = sub_line.replace('src=\'', '')
                         sub_line  = re.sub('".*', "", sub_line)
                         sub_line = sub_line.strip()
-                        print(sub_line)
+                        print('')
                         content += '\n![](' + sub_line + ')'
                 elif not line.strip().startswith('<img') and not line.strip().startswith('src=') and not line.strip().startswith('style=') and not line.strip().startswith('<br'):
                     line = line.replace('](data)', '](#data)')

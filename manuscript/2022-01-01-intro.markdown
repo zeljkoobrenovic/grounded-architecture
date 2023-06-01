@@ -1,18 +1,6 @@
----
-layout: post
-section: "Introduction"
-title: "Introduction"
-position: 1
-date:   2021-10-21 21:12:01 +0100
-author: by Željko Obrenović (obren.io)
-permalink: intro
-icon: spiral-stairs.png
-timetoread: 15 min
-excerpt: "This book
 
- aims to share my approach to running an IT architecture practice in larger organizations based on my experience as Chief Architect at AVIV Group, eBay Classifieds, and Adevinta. I called this approach \"Grounded Architecture,\" highlighting the need for any IT architecture function to stay well-connected to all levels of an organization and led by data."
 
----
+# Introduction {#intro}
 
 ![](assets/images/arch/staircase-274614_1920.jpg)
 ^image by fda54 from pixabay^
@@ -26,20 +14,6 @@ A> * *This book aims to share my approach to running an IT architecture practice
 A> * *I called this approach "Grounded Architecture," highlighting the need for any IT architecture function to stay well-connected to all levels of an organization and led by data.*
 A> * *I also explain my motivation to write this book.*
 
- .quote {
-     border-left: 8px solid skyblue;
-     padding-left: 36px;
-     margin-top: 30px;
-     margin-bottom: 40px;
-     font-size: 130%;
-     font-style: normal;
-     color:#888;
- }
-    @media only screen and (max-width: 768px) {
-        [class="quote"] {
-            display: none;
-        }
-    }
 This book aims to share my approach to running an IT architecture practice in larger organizations based on my experience as Chief Architect at AVIV Group, eBay Classifieds, and Adevinta. I called this approach "grounded architecture," highlighting the need for any IT architecture function to stay well-connected to all levels of an organization and led by data.
 
 Grounded Architecture has two main parts:

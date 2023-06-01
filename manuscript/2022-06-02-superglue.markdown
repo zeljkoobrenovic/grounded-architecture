@@ -1,23 +1,6 @@
----
-layout: post
-section: "Being Architect"
-title: "Architects as Superglue"
-position: 6002
-date:   2021-10-21 21:12:01 +0100
-author: by Željko Obrenović (obren.io)
-permalink: superglue
-icon: superglue.png
-timetoread: 15 min
-excerpt: "Architects in IT organizations should develop as “superglue,” people who hold architecture, technical details, business needs, and people together across a large organization or complex projects."
 
----
 
-     h2 {
-          margin-top: 40px;
-     }
-     h3 {
-          margin-top: 40px;
-     }
+# Architects as Superglue {#superglue}
 
 ![](assets/images/superglue/superglue.png)
 **IN THIS SECTION, YOU WILL:**  Understand the view on architects as superglue (people who hold architecture, technical details, business needs, and people together across a large organization or complex projects) and get valuable tips on developing "superglue" abilities.
@@ -28,21 +11,6 @@ A> **KEY POINTS:**
 A> * Architects in IT organizations should develop as “superglue,” people who hold architecture, technical details, business needs, and people together across a large organization or complex projects.
 A> * Architects need to be technically strong. But their unique strengths should stem from being able to relate, or glue, technical issues with business and broader issues.
 A> * Architects should stand on three legs: Skills, Impact, Leadership.
-
- .quote {
-     border-left: 8px solid skyblue;
-     padding-left: 36px;
-     margin-top: 30px;
-     margin-bottom: 40px;
-     font-size: 140%;
-     font-style: normal;
-     color:#888;
- }
-    @media only screen and (max-width: 768px) {
-        [class="quote"] {
-            display: none;
-        }
-    }
 
 In my view, architects in IT organizations should develop as “superglue.” I borrow the "superglue" view from [Adam Bar-Niv and Amir Shenhav from Intel](https://saturn2016.sched.com/event/63m9/cant-find-superheroes-to-help-you-out-of-a-crisis-how-about-some-architecture-and-lots-of-superglue). They pointed out that instead of the superhero, we need "superglue" architects - the people who hold architecture, technical details, business needs, and people together across large organizations or complex projects. More recently, Tanya Reilly presented a [similar view](https://noidea.dog/glue) concerning software engineering positions.
 

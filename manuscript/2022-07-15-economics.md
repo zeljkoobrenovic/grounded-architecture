@@ -1,16 +1,6 @@
----
-layout: post
-section: "Doing Architecture"
-title: "Economic Modeling: ROI and Financial Options"
-position: 7015
-date:   2021-10-21 21:12:01 +0100
-author: by Željko Obrenović (obren.io)
-icon: economics.png
-permalink: economics
-timetoread: 11 min
-excerpt: "I sketch two answers to the question of the economic value of technology investments and architecture: the return on investment metaphor, and the financial options metaphor."
 
----
+
+# Economic Modeling: ROI and Financial Options {#economics}
 
 ![](assets/images/arch/money-g45f6788de_1920.jpg)
 ^image by nattanan kanchanaprat from pixabay^
@@ -23,21 +13,6 @@ A> **KEY POINTS:**
 A> * Architects are frequently asked about the (economic) value of architecture or technology investments.
 A> * Answering this question is a crucial skill for any senior architect. But it may be difficult to answer this seemingly harmless question concisely and convincingly to a non-technical audience.
 A> * Borrowing from existing literature, I sketch two answers to the question of the economic value of architecture: the return on investment metaphor and the selling options metaphor.
-
- .quote {
-     border-left: 8px solid skyblue;
-     padding-left: 36px;
-     margin-top: 30px;
-     margin-bottom: 40px;
-     font-size: 140%;
-     font-style: normal;
-     color:#888;
- }
-    @media only screen and (max-width: 768px) {
-        [class="quote"] {
-            display: none;
-        }
-    }
 
 Architects frequently need to answer questions about (economic) value of technology investments and architecture. Answering this question is a crucial skill for any senior architect. But it may be difficult to answer this seemingly harmless question concisely and convincingly to a non-technical audience.
 

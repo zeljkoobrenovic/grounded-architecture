@@ -1,16 +1,6 @@
----
-layout: post
-section: "Doing Architecture"
-title: "The Culture Map: Architects' Culture Mindfield Compass"
-position: 7007
-date:   2021-10-21 21:12:01 +0100
-author: by Željko Obrenović (obren.io)
-icon: culture.png
-permalink: culture-map
-timetoread: 11 min
-excerpt: "In multinational organizations, architects will need to work with many different cultures. I have found the work of Erin Meyer, The Culture Map, to be a very helpful tool for architects to work harmoniously with people from a broad array of different cultures and backgrounds."
 
----
+
+# The Culture Map: Architects' Culture Mindfield Compass {#culture-map}
 
 ![](assets/images/arch/bolivia-g4261bf11f_1920.jpg)
 ^image by maik from pixabay^
@@ -22,21 +12,6 @@ excerpt: "In multinational organizations, architects will need to work with many
 A> **KEY POINTS:**
 A> * I have found the work of Erin Meyer, The Culture Map, to be a very helpful tool for architects to work harmoniously with people from a broad array of different cultures and backgrounds.
 A> * Meyer’s model contains eight scales, each representing a key area, showing how cultures vary from extreme to extreme: Communicating, Evaluating, Persuading, Leading, Deciding, Trusting, Disagreeing, and Scheduling.
-
- .quote {
-     border-left: 8px solid skyblue;
-     padding-left: 36px;
-     margin-top: 30px;
-     margin-bottom: 40px;
-     font-size: 140%;
-     font-style: normal;
-     color:#888;
- }
-    @media only screen and (max-width: 768px) {
-        [class="quote"] {
-            display: none;
-        }
-    }
 
 In multinational organizations, architects will need to work with many different cultures. I have found the work of Erin Meyer, The Culture Map, to be a beneficial tool to work harmoniously with people from a broad array of different cultures and backgrounds. Awareness of cultural differences is even more important for architects, as they are bridging diverse cultures and domains (technology, business, domain, organization).
 

@@ -1,34 +1,9 @@
----
-layout: post
-section: "Doing Architecture"
-title: "Understanding Product Development and The Build Trap"
-position: 7010
-date:   2021-10-21 21:12:01 +0100
-author: by Željko Obrenović (obren.io)
-icon: trap.png
-permalink: product-development
-timetoread: 11 min
-excerpt: "The product trap occurs when businesses focus too much on their product’s features and functionalities, overlooking their customers’ actual needs and preferences. There are three bad product-development organizations: sales, visionary, and technology led companies. There are several bad product manager archetypes: Mini-CEO, Waiter, and Former Project Manager. Critical elements of successful product-led companies include: Understanding Customer Needs, Adopting a Customer-Centric Approach, Executing Iterative Product Development, Aligning Business Goals with Customer Needs, Embracing Innovation and Agility, and Measuring Success."
 
----
+
+# Understanding Product Development and The Build Trap {#product-development}
 
 ![](assets/images/arch/bear-trap-413397_1920.jpg)
 ^image by m w from pixabay^
-
- .quote {
-     border-left: 8px solid skyblue;
-     padding-left: 36px;
-     margin-top: 30px;
-     margin-bottom: 40px;
-     font-size: 140%;
-     font-style: normal;
-     color:#888;
- }
-    @media only screen and (max-width: 768px) {
-        [class="quote"] {
-            display: none;
-        }
-    }
 
 **IN THIS SECTION, YOU WILL:** Understand the importance of architecture in helping organizations become successful product-led organizations, focusing strongly on their customers’ actual needs and preferences.
 
@@ -39,10 +14,6 @@ A> * The product trap occurs when businesses focus too much on their product’s
 A> * There are three bad product-development organizations: sales, visionary, and technology led companies, .
 A> * There are several bad product manager archetypes: Mini-CEO, Waiter, and Former Project Manager.
 A> * Critical elements of successful product-led companies include: Understanding Customer Needs, Adopting a Customer-Centric Approach, Executing Iterative Product Development, Aligning Business Goals with Customer Needs, Embracing Innovation and Agility, and Measuring Success.
-
-    h2 {
-        margin-top: 42px;    
-    }
 
 When it comes to product development, I generally recommend the book "[Escaping the Build Trap: How Effective Product Management Creates Real Value](https://www.goodreads.com/book/show/42611483-escaping-the-build-trap)" by Melissa Perri. This book is a guide intended to help organizations shift their focus from simply building and shipping products to creating value for their customers. The "build trap" refers to the common pitfall where companies become fixated on building more features and products without considering whether they meet customer needs or generate desired outcomes.
 

@@ -1,16 +1,6 @@
----
-layout: post
-section: "Summary"
-title: "Summary"
-position: 12000
-date:   2021-10-21 21:12:01 +0100
-author: by Željko Obrenović (obren.io)
-permalink: summary
-icon: summary.png
-timetoread: 15 min
-excerpt: This playbook aims to share my approach to running an IT architecture practice in larger organizations based on my experience as Chief Architect at AVIV Group, eBay Classifieds, and Adevinta.
 
----
+
+# Summary {#summary}
 
 ![](assets/images/arch/road-g04cf0c3f8_1920.jpg)
 ^image by gerd altmann from pixabay^
@@ -23,21 +13,6 @@ A> **KEY POINTS:**
 A> * This playbook aims to share my approach to running an IT architecture practice in larger organizations based on my experience as Chief Architect at AVIV Group, eBay Classifieds, and Adevinta. 
 A> * I called this approach "Grounded Architecture," highlighting the need for any IT architecture function to stay well-connected to all levels of an organization and led by data.
 A> * In this section, I summarize the key points from the playbook.
-
- .quote {
-     border-left: 8px solid skyblue;
-     padding-left: 36px;
-     margin-top: 30px;
-     margin-bottom: 40px;
-     font-size: 140%;
-     font-style: normal;
-     color:#888;
- }
-    @media only screen and (max-width: 768px) {
-        [class="quote"] {
-            display: none;
-        }
-    }
 
 In this playbook, I explained an approach to running an architecture practice in larger organizations. This playbook aims to share my approach to running an IT architecture practice in larger organizations based on my experience as Chief Architect at AVIV Group, eBay Classifieds, and Adevinta. I called this approach "grounded architecture," highlighting the need for any architecture function to stay well-connected to all levels of an organization and led by data. 
 
