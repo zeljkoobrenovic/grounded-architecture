@@ -51,7 +51,9 @@ In today’s complicated business environment, you need to setup organisational 
 
 Six Simple Rules emphasis that in today’s complicated business environment, you **need to setup organisational structures based on cooperation**. To deal with complexity, organizations should depend on the judgment of their people, which requires giving them more autonomy to act. It also depends on these people cooperating to utilize the organization's capabilities to cope with complex problems.
 
-This view is well aligned with the ideas of Grounded Architecture. In this section, I will explore the connection between the ideas of Grounded Architecture and Six Simple Rules.
+Six Simple Rules has been a very inspirational source of my work. In my organizations, I constantly dealt with complex transformations to create organizational structures based on cooperation. 
+
+Grounded Architecture is well suited to support and grow organizational structures based on cooperation. In this section, I will explore the connection between the ideas of Grounded Architecture and Six Simple Rules.
 
 <br>
 ## Background: Limitations of Hard and Soft Management Approaches
@@ -136,8 +138,7 @@ You can reinforce integrators by:
 Architecture function, in my view, is strongly related to reinforcing integrators: 
 * My view on architects as **[superglue](superglue)** defines architects as **critical integrators** and **integrator role-models** in an organization. 
 * Via the **[People Pillar](people)**, Grounded Architecture can **help identify integrators** and connect them to leverage their work. 
-* The **[Data Pillar](data)** can **support integrators with data and insights**.
-
+* The **[Data Pillar](data)** can **support integrators with data and insights**, empowering them to do better, more informed work.
 
 <br>
 ## Simple Rule 3: Increase the Total Quantity of Power
@@ -162,7 +163,7 @@ To increase the quantity of power, the Six Simple Rules approach recommends the 
 
 Architecture supports increasing power quantity with the **[operating model](activities)** that promotes distributing decision-making: 
 * I aimed to increase the quantity of the **decision-making power** and keep architectural decision-making **distributed across the organization** and embedded in the development teams. Development teams traditionally have the best insights and most information relevant for making a decision. 
-* Additionally, the **[Data Platform](data)** opens many people in the organization, giving them **data in insights that can increase their power in daily work**.
+* Additionally, the **[Data Platform](data)** accessible to all interested people in the organization, can give them **data in insights that can increase their power in daily work**.
 
 
 <br>
@@ -171,7 +172,10 @@ Architecture supports increasing power quantity with the **[operating model](act
 In the face of business complexity, work is becoming more inter-dependent. To meet multiple and often contradictory performance requirements, **people need to rely more on each other**. They need to **cooperate directly** instead of relying on dedicated interfaces, coordination structures or procedures that only add to complicatedness. 
 
 <img src="assets/images/arch/iStock-1072898930.jpg" style="width: 100%">
-<div style="text-align: center; font-size: 70%; color: grey; margin-bottom: 12px; margin-top: -12px;">Image by iStock / Natnan Srisuwan.</div>
+<div style="text-align: center; font-size: 70%; color: grey; margin-bottom: 12px; margin-top: -12px;">
+Image by iStock / Natnan Srisuwan.
+</div>
+
 ### General Guidelines
 
 Reciprocity is the recognition by people or units in an organization that they **have a mutual interest in cooperation** and that the success of one depends on the success of others (and vice versa). The way to create that reciprocity is by setting rich objectives and reinforcing them by:
@@ -182,14 +186,15 @@ Reciprocity is the recognition by people or units in an organization that they *
 ### The Role of Architecture
 
 Architecture function is directly related to increasing reciprocity: 
-* I consider the success of architecture dependent on **[architects' superglue impact](superglue)**. Likewise, the developer teams support depends on architecture support. I also integrate feedback of people from teams that architects support in architects' performance evaluations.  
+* I consider the success of architecture dependent on **[architects' impact](impact)**. Likewise, the developer teams support depends on architecture support. I also integrate feedback of people from teams that architects support in architects' performance evaluations.  
 * In addition, the **[People Pillar](people)** directly supports one of the ways of reinforcing reciprocity: **creating new networks of interactions**.
 
 
 <br>
 ## Simple Rule 5: Extend the Shadow of the Future
 
-Increase the importance to people of **what happens tomorrow as a consequence of what they do today**. By making very simple changes you can manage complex requirements, while also removing organizational complicatedness. With the strategic alignment typical of the hard approach, these simple solutions—for instance, career paths—often come at the end of a sequence that starts by installing the most cumbersome changes: new structure, processes, systems, metrics, and so on. Simple and effective solutions are then impossible. 
+Six Simple Rules emphasize the importance of making visible and clear **what happens tomorrow as a consequence of what they do today**. You can manage complex requirements by making simple changes while removing organizational complexity. With the strategic alignment typical of the hard approach, these simple solutions—for instance, career paths—often come at the end of a sequence that starts by installing the most cumbersome changes: new structure, processes, systems, metrics, etc. Simple and effective solutions are then impossible.
+ 
 
 ![](assets/images/arch/trees-gc38b3c617_1920.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
@@ -248,7 +253,6 @@ To reward those who cooperate managers:
 * *In your organization, do you feel the structures, processes, and systems directly and predictably affect performance?*
 * *Do you feel the human factor is viewed as the weakest link in your organization? How does this affect how you and your colleagues perform?*
 * *How do you perceive the balance between your organization's hard and soft management approaches? Is one approach more dominant?*
-* *How do Grounded Architecture and Six Simple Rules principles align with your current organizational practices?*
 * *How does your organization currently promote autonomy and cooperation among employees? Are there areas for improvement?*
 * *How do the assumptions of hard and soft management approaches hinder cooperation in your organization?*
 * *How can you increase the total power within your organization without taking power away from others?*

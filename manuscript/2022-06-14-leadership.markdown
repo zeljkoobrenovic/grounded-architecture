@@ -58,20 +58,20 @@ The leader-leader model is an excellent standard for architects' leadership visi
 
 One of the key benefits of a leader-leader model is that it creates a more collaborative and inclusive work environment. It allows individuals to contribute their unique perspectives, experiences, and skills to the group, promoting a sense of ownership and accountability for the team's success. This model also helps build trust and stronger relationships within the team, leading to increased productivity, creativity, and innovation.
 
-David Marquet's book "Leadership is Language" provides practical advice for leaders looking to create a more collaborative, innovative, and inclusive organizational culture. He emphasizes the importance of language and communication in leadership and introduces the phrase "I intend to" as a powerful tool for clarifying intent and empowering team members. When team members give intent, the psychological ownership of those actions shifts to them, making them the originators of thought and direction instead of passive followers. This shift in language helps to promote a more collaborative work environment.
-
-![](assets/images/arch/leader-leader.jpg)
-Credit: Based on Intent-Based Leadership, by David Marquet.
-
-I have found a phase "I intend to" to be a powerful catalyst for positioning architecture work. The phrase helps describe the work architect as someone others expect to take the initiative and lead efforts. But also to describe the desired interaction of architects with the teams they work with, where we hope teams share their intentions which architects can help improve.
-
 ![](assets/images/arch/iStock-1130373923.jpg)
 ^image by istock^
+
+David Marquet's book "Leadership is Language" provides practical advice for leaders looking to create a more collaborative, innovative, and inclusive organizational culture. He emphasizes the importance of language and communication in leadership and introduces the phrase "I intend to" as a powerful tool for clarifying intent and empowering team members (Figure 1). When team members give intent, the psychological ownership of those actions shifts to them, making them the originators of thought and direction instead of passive followers. This shift in language helps to promote a more collaborative work environment.
+
+![](assets/images/arch/leader-leader.jpg)
+***Figure 1:** Leadership is Language: Intent-Based Leadership, by David Marquet.*
+
+I have found a phase "I intend to" to be a powerful catalyst for positioning architecture work. The phrase helps describe the work architect as someone others expect to take the initiative and lead efforts. But also to describe the desired interaction of architects with the teams they work with, where we hope teams share their intentions which architects can help improve.
 
  
 ## Netflix Valued Behaviors: Leadership Behaviors
 
-I have found the [Netflix overview of their valued behaviors](https://jobs.netflix.com/culture) to be a leading inspiration for how I coach and develop architects according. The following sections summarize these behaviors, borrowing from the Netflix original values but rearranging them in the order I see as more relevant for architects. 
+I have found the [Netflix overview of their valued behaviors](https://jobs.netflix.com/culture) to be a leading inspiration for how I coach and develop architects. The following sections summarize these behaviors, borrowing from the Netflix original values but rearranging them in the order I see as more relevant for architects. 
 
 ### Communication
 
@@ -171,7 +171,7 @@ Architects are frequently role models for others. As such you need to show the f
 ## Questions to Consider
 
 * *Reflect on the Leader-Leader model of leadership in your work. How can you empower your team members and encourage them to take ownership of their work?*
-* *How have you acted as a facilitator, coach, or mentor as an architect? Can you share an example of when you gave team members guidance, support, or resources to achieve their goals?*
+* *Have you acted as a facilitator, coach, or mentor as an architect? Can you share an example of when you gave team members guidance, support, or resources to achieve their goals?*
 * *How does the phrase "I intend to" resonate with your approach to architecture work? How can it change your perspective on taking the initiative and leading efforts?*
 * *How effective do you believe your communication skills are? Have you adapted your style to work with people from diverse backgrounds and languages?*
 * *How can you foster an inclusive working environment as an architect? How do you nurture and embrace differing perspectives to make better decisions?*

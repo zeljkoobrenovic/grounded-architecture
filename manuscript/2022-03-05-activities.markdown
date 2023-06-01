@@ -66,7 +66,7 @@ Here are some examples of activities I have been performing with architects:
 
 While exact activities and their scope will depend on an organization setting and will change over time, I aimed to implement the common operational model in daily work.
 
-Inspired by Gregor Hohpe's strategy-principles-decisions model Figure 1 illustrates the process.
+Inspired by Gregor Hohpe's strategy-principles-decisions model, I typically used the process illustrated in Figure 1.
 
 ![](assets/images/arch/architecture-system.png)
 **Figure 1:** *A common operating model I typically use for Grounded Architecture activities.*
@@ -74,7 +74,7 @@ Inspired by Gregor Hohpe's strategy-principles-decisions model Figure 1 illustra
 A common operating model I typically use for Grounded Architecture activities is as follows:
 * Architects engage with stakeholders and product and project teams in a **collaborative and supportive manner**.
 * Architects are **empowering the teams** so that they make most of the decisions.
-* In all activities, the architecture function and architects: 
+* In all activities, architects do: 
   * **Bring relevant data** to inform decisions leveraging the [Data Pillar](#data).
   * **Define decision boundaries** to enable the minimal level of compatibility and strategic alignment (e.g., public cloud provider, tech stack constraints).
   * **Define key principles** to facilitate consistency in decision-making.
@@ -104,7 +104,7 @@ Development teams should make most of the decisions. However, several strategic 
 
 Your architecture practice job is to solve the biggest problems in your organization. Ask yourself the following questions:
 
-* *How can you identify the most critical problems that your architecture team needs to solve in your organization?*
+* *How can you identify the most critical problems that your architects needs to solve in your organization?*
 * *What activities and operating models can you think of that will best enable architecture in your organization to work on these critical problems?*
 * *In your organization, what does the Architecture Activities Platform look like, and how could it be improved?*
 * *Which of the provided examples of architecture activities are you currently performing in your organization?*

@@ -104,6 +104,13 @@ A nudge can take many forms, such as a **small change in the environment**, a **
 
 The concept of a nudge was popularized by the book "Nudge: Improving Decisions About Health, Wealth, and Happiness" by Richard Thaler and Cass Sunstein, which argues that various cognitive biases and heuristics often influence people's decisions, and that nudges can help people overcome these biases and make better choices.
 
+<br>
+<img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
+     src="assets/images/arch/38280951874_fb51a740ff_c.png">
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by <a href="https://foto.wuestenigel.com/hand-ready-to-push-domino-pieces/" target="_blank">Hand ready to push domino pieces</a> by <a href="https://linktr.ee/wuestenigel" target="_blank">Marco Verch</a> under <a href="https://creativecommons.org/licenses/by/2.0/" target="_blank">Creative Commons 2.0</a>
+</div>
+
 Richard Thaler and Cass Sunstein also introduced the concept of **choice architecture** as a key component of nudging. It refers to how the options are presented to individuals, which can significantly influence their choices. Choice architecture is the design of the decision-making environment, which includes the layout, structure, and organization of the options available.
 
 In architecture, nudges could include:
@@ -118,13 +125,6 @@ In architecture, nudges could include:
 In my experience, nudges can frequently lead to better alignment and more harmonization without the negative consequences of mandates, bans, or taxation.
 
 Grounded Architecture is well aligned with ideas of nudging. I frequently designed many of the [Data Pillar](data) to highlight areas and issues we wanted people to improve. And the [People Pillar](people) can create mechanisms for sharing experiences, promoting positive examples, and capturing lessons learned to help people to make better, more informed decisions. And in the [Architecture Activities Platform] I use the operating model that stimulates people to make decisions autonomously but nudges them to stay well-aligned and connected to the organizational strategic direction.
-
-<br>
-<img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
-     src="assets/images/arch/38280951874_fb51a740ff_c.png">
-<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by <a href="https://foto.wuestenigel.com/hand-ready-to-push-domino-pieces/" target="_blank">Hand ready to push domino pieces</a> by <a href="https://linktr.ee/wuestenigel" target="_blank">Marco Verch</a> under <a href="https://creativecommons.org/licenses/by/2.0/" target="_blank">Creative Commons 2.0</a>
-</div>
 
 
 ## Questions to Consider

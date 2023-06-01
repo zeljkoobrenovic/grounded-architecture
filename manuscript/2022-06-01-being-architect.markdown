@@ -29,7 +29,7 @@ excerpt: "I introduce ideas and key lessons I learned about what it means to be 
             display: none;
         }
     }
-**IN THIS SECTION, YOU WILL:**  Get an overview of topics related to what it means to be a modern architect, covered in this chapter.
+**IN THIS SECTION, YOU WILL:**  Get an overview of topics related to what it means to be an architect, covered in this chapter.
 
 {pagebreak}
 

@@ -40,10 +40,10 @@ A> * Architects can make an impact via three pillars: Big-Picture Thinking, Exec
 
 Architects' work is **evaluated based the impact** they've had on the organization. Architect typically make impact by:
 
-* **Identifying, tackling, and delivering on strategic problems** at the organizational and area levels (domain or technical
+* **Identifying, tackling, and delivering on strategic problems** at the organizationd and area levels (domain or technical
   areas). Architects' work needs to be prioritized based on global strategic objectives.
 * **Having a deep and/or broad influence** on a domain, product, or technology area. Architects sometimes need to go deep,
-  addressing specific critical issues in one area. And frequently they need to look broad, creating impact by leveraging
+  addressing specific critical issues in one area. And frequently that need to look broad, creating impact by leveraging
   the results across multiple teams.
 * **Delivering solutions that few others can**, sometimes by their heavy lifting but more often by their ability to 
   orchestrate large group efforts. Architects can help move the organization forward by leveraging their "hard"
@@ -60,22 +60,22 @@ book [The Staff Engineer's Path](https://www.oreilly.com/library/view/the-staff-
 Larson's book [Staff Engineer: Leadership beyond the management track](https://staffeng.com/guides/staff-archetypes/)
 were helpful guides in defining the responsibilities of architects.
 
-Inspired by The Staff Engineer's Path by Tanya Reilly, I group architects' competencies in three groups (Figure 1):
+![](assets/images/arch/pillars.png)
+Figure 1: Key competencies of architects. Inspired by The Staff Engineer's Path by Tanya Reilly.
+
+ Inspired by The Staff Engineer's Path by Tanya Reilly, I group architects' competencies in three groups (Figure 1):
 
 * Big-picture thinking,
 * Execution, and
 * Leveling up.
 
-![](assets/images/arch/pillars.png)
-Figure 1: Key competencies of architects. Inspired by The Staff Engineer's Path by Tanya Reilly.
-
 ### Big-Picture Thinking 
 
 Architects are frequently the only people in the organization with a "helicopter view," overseeing vast domains and being able to foresee the consequences of decisions in a broader context. As big-picture thinkers, architects can help organizations in multiple ways:
 
-* Seeing the **big picture** to identify high leverage points for maximum impact.
+* Seeing the **big picture** can identify high leverage points for maximum impact.
 * **Helping others to see the big picture** and create tools (e.g., [Data Pillar](#data)) that facilitate big-picture thinking.
-* Being able to **zoom in and out**, having a strategic overview, but going deep and engaging with implementation details.
+* Being able to **zoom in and out**, having a strategic overview, but being able to go deep and engage with implementaiton details.
 * Using big-picture thinking to **consistently root out inefficiencies** and lead the adoption of technologies and
   processes that **make multiple teams more efficient**.
 
@@ -96,10 +96,12 @@ Architects also can help execution by finding ways to enable others to collabora
 ### Leveling Up
 
 Architects are frequently seen and leaders and role models that should help organizations to raise 
-the bar on the technical and cultural fronts. I group such roles of architect in three categories:
+the bar on the technical and cultural fronts. I group such role of architect in three categories:
 citizenship, design and architecture, and software engineering.
 
 #### Citizenship
+
+Architects should look broader and raise the bar of practices and behaviors in their organizations:
 
 * **Contribute to the broader technical community** through tech talks, education, publications, open source projects,
   etc.
@@ -109,7 +111,7 @@ citizenship, design and architecture, and software engineering.
 
 #### Design and Architecture
 
-Architects should be leading authority for systematic and strategic design and architecture topics:
+Architects are leading authority for systematic and strategic design and architecture topics:
 
 * **Identify and solve systemic architectural problems**. Architects quickly
   recognize systemic problems and can **articulate possible solutions** to them.
@@ -130,9 +132,9 @@ Lastly, architects can help by staying well-connected to software engineering pr
 * *How can you build on your technical, people, and business skills to positively impact your organization's performance? How do you measure this impact?*
 * *As an architect, how can you develop your big-picture thinking ability? Can you give an example of how your big-picture thinking helped to identify a high leverage point for maximum impact?*
 * *Reflect on your role in execution. How can you help in delivering results and improving collaboration? Can you share an example where your pragmatism resulted in a meaningful solution?*
-* *What initiatives can you take to improve collaboration and build trust within your organization?*
+* *What initiatives have you taken to improve collaboration and build trust within your organization?*
 * *How have you contributed to the broader technical community through tech talks, education, publications, open source projects, etc.?*
-* *In what ways can you help solving important problems in your area and raise the bar of the engineering culture across the company?*
+* *In what ways have you helped solve important problems in your area and raise the bar of the engineering culture across the company?*
 * *Can you provide an example of a systemic architectural problem you identified and the solution you proposed?*
 * *How have you promoted and demonstrated best-in-class practices in coding, documentation, testing, and monitoring?*
 * *Reflect on a challenging technical or execution problem you solved that few others could have. What was your approach, and what was the outcome?*

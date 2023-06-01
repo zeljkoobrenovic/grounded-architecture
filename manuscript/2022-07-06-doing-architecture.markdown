@@ -35,9 +35,9 @@ excerpt: "I introduce ideas and key lessons I learned while developing ideas of 
 {pagebreak}
 
 A> **KEY POINTS:**
-A> * I introduce ideas and key lessons I learned while developing ideas of Grounded Architecture in practice.
+A> * I introduce several principles and ideas I found helpful for running the Grounded Architecture practice.
 
-The following reflections provide some resources, ideas and key lessons I learned while developing ideas of Grounded Architecture in practice:
+In the following sections, drawing inspiration from different sources, I will  introduce several principles and ideas I found helpful for running the Grounded Architecture practice:
 
 * **[The Culture Map: Architects' Culture Mindfield Compass](#culture-map)**: In multinational organizations, architects will need to work with many different cultures. I have found the work of Erin Meyer, The Culture Map, to be a very helpful tool for architects to work harmoniously with people from a broad array of different cultures and backgrounds.
 * **[Managing Organizational Complexity: Six Simple Rules](#six-simple-rules)**: Six Simple Rules emphasis that in today’s complicated business environment, you need to setup organisational structures based on cooperation. To deal with complexity, organizations should depend on the judgment of their people and on these people cooperating to utilize the organization's capabilities to cope with complex problems. This view is well aligned with the ideas of Grounded Architecture.
