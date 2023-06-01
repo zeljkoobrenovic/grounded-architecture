@@ -26,11 +26,10 @@ Image by <a href="https://pixabay.com/users/mostafa_meraji-13551092/?utm_source=
 > * Developing the architecture function requires having competent, empowered, and motivated architects. 
 > * Any architecture function must carefully organize, empower,
     and leverage scarce architecture talent.
-> * We should not take architectural talent for granted. Architects are bridging local business, product, 
-    organizational, and technology issues. Architects are difficult to hire talent as they need not only 
+> * We should not take architectural talent for granted. Architects are difficult to hire talent as they need not only 
     in-depth technical knowledge but also domain-specific and organizational knowledge. 
-> * In my work in the past few years, I was working by combining, in different forms, two teams of architects: a small
-central architecture team and a cross-organizational distributed virtual team.
+> * In my work in the past few years, I combined two teams of architects: a small central architecture team and a cross-organizational distributed virtual team.
+
  
 <style>
  .quote {
@@ -109,11 +108,11 @@ focusing on improving performance and reducing complexity.
 <br>
 ## The Hybrid Model
 
-To operate in a complex [context](context), you need to invested effort to ensure we have the right people at the right
+To operate in a complex [context](context), you need to invested effort to ensure you have the right people at the right
 places. In the end, I usually found it best to adopted model of a hybrid organization combining elements of central and
 federated orientation structures:
 
-* A Small Scale Central Architectural Teams, and
+* A Central Architectural Teams, and
 * Architecture Guilds & Virtual Architectural Teams.
 
 The hybrid team structure supports well our [goals](goals) of executing at scale. Guilds and virtual architecture teams
@@ -184,7 +183,7 @@ units have very diverse structures and sizes. There is no one-fit-all solution a
 architecture responsibilities. I generally worked on three types of team-architect systems per Gregor Hohpe's view of
 architects and their teams' relationships (Figure 1). That means that some units have lead architects coordinating or
 leading multiple teams. We often have cases where an architect was a full-time member of a team working on specific
-products or other features. I also worked with teams that needed an architect but several senior developers making
+products or other features. I also worked with teams with senior developers making
 architectural decisions.
 
 ![](https://esilva.net/assets/team-architecture-topologies.png)
@@ -199,8 +198,8 @@ In big organization, embracing diversity is a pre-requirements to have any broad
 <br>
 ## Building People Pillar
 
-While each organization will need its unique approach, here are some tips I found helpful in my approach to forming
-architecture teams or "[People Pillar](people)":
+While each organization will need its unique approach, here are some tips I found helpful in forming
+architecture teams and "[People Pillar](people)":
 
 * Before making grandiose plans for reorganizations, connect with the people already doing architectural work in an
   organization, creating a community of practices or a virtual team. Being inclusive and connecting all key tech
@@ -209,9 +208,8 @@ architecture teams or "[People Pillar](people)":
 * If creating a virtual team is a part of your architecture strategy, move away from making an informal community of
   practice towards building a team with more accountability and responsibility. It was helpful to get buy-in from key
   stakeholders, e.g., Engineering Leaders who should want to get their people to work together with other architects.
-* Connect with as many non-architecture stakeholders as possible in the early stages. Again, being well-connected to
+* Connect with non-architecture stakeholders in the early stages. Again, being well-connected to
   these stakeholders will be crucial in any architecture organization.
-* Align the architecture vision with all stakeholders.
 * Avoid hiring [digital hitman](https://architectelevator.com/transformation/dont-hire-hitman/). Invest in growing
   internal talent. Architects require technology, domain, and organization knowledge. Finding such a person
   outside the organization is challenging.
@@ -228,11 +226,11 @@ Image by <a href="https://pixabay.com/users/chantellev-2412495/?utm_source=link-
 
 It is difficult to overestimate the importance of people for architecture practice, yet many organizations take architectural talent for granted. To reflect on the importance of carefully organizing, empowering, and leveraging scarce architecture talent, ask yourself the following questions:
 
-* *Reflect on your organization's current architecture function. Do you have a strong network of architects across the organization? If not, what steps could you take to strengthen this?*
+* *Reflect on your organization's current architecture function. Do you have a strong network of architects across the organization?*
 * *How do you ensure architects' competency, empowerment, and motivation in your organization? What systems do you have in place to develop architectural talent?*
 * *Which central, federated, or hybrid model best represents your current architectural function? Why was this model chosen, and how effective has it been for your organization?*
-* *If you are part of a central architecture team, how would you support the rest of the organization? How would you contribute to the architecture function if you were part of a distributed virtual team?*
-* *Consider having the roles of central architecture teams and federated architecture teams in your organization. How do they complement each other?*
+* *If you are a part of a central architecture team, how would you support the rest of the organization? How would you contribute to the global architecture function if you were part of a distributed virtual team?*
+* *Consider having the roles of central architecture teams and federated architecture teams in your organization. How would they complement each other?*
 * *How effective is the current division of responsibilities among architects in your organization? Are there areas of overlap or gaps in coverage?*
 * *What steps has your organization taken to ensure architects are well-connected across all parts and levels? What impact has this had on transparency and the implementation of changes?*
 * *Reflect on the diversity of team structures within your organization. How does this diversity impact the roles and responsibilities of architects?*

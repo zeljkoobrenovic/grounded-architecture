@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-05-27T20:16:10+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: The Chief Architect’s Playbook</title><subtitle></subtitle><entry><title type="html">Favorite Quotes</title><link href="http://localhost:4000/quotes" rel="alternate" type="text/html" title="Favorite Quotes" /><published>2021-10-25T22:12:01+02:00</published><updated>2021-10-25T22:12:01+02:00</updated><id>http://localhost:4000/quotes</id><content type="html" xml:base="http://localhost:4000/quotes"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/books-g1b2675255_1920.jpg" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-06-01T10:58:23+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: Redefining IT Architecture Practice</title><subtitle></subtitle><entry><title type="html">Favorite Quotes</title><link href="http://localhost:4000/quotes" rel="alternate" type="text/html" title="Favorite Quotes" /><published>2021-10-25T22:12:01+02:00</published><updated>2021-10-25T22:12:01+02:00</updated><id>http://localhost:4000/quotes</id><content type="html" xml:base="http://localhost:4000/quotes"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/books-g1b2675255_1920.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/prettysleepy-2973588/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5430104">Amy</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5430104">Pixabay</a>
 </div>
@@ -8,7 +8,7 @@ Image by <a href="https://pixabay.com/users/prettysleepy-2973588/?utm_source=lin
 </blockquote>
 
 <style>
- .quote {
+ .favorite-quote {
      border-left: 8px solid skyblue;
      padding-left: 12px;
      margin-top: 20px;
@@ -24,82 +24,82 @@ Image by <a href="https://pixabay.com/users/prettysleepy-2973588/?utm_source=lin
 
 <h2 id="people-people-people">People, People, People</h2>
 
-<div class="quote">
+<div class="favorite-quote">
 Architecture is <b>not so much about the software</b>, <b>but about the people</b> who write the software. The core principles of architecture, such as <b>coupling and cohesion</b>, aren't about the code. The code doesn't 'care' about how cohesive or decoupled it is; … But people do care about their coupling to other team members. <div class="author">-James O. Coplien</div>
 </div>
 
-<div class="quote">
+<div class="favorite-quote">
 Software design is <b>an exercise in human relationships</b>.
 <div class="author">-Kent Beck</div>
 </div>
 
-<div class="quote">
+<div class="favorite-quote">
 Bad software architecture is a people problem. When <b>people don't work well together they make bad decisions</b>.
 <div class="author">-Kate Matsudaira</div>
 </div>
 
-<div class="quote">
+<div class="favorite-quote">
 To change the architecture of a software-intensive system ensconced in a large organization, you often have to change the architecture of the organization. And ultimately, that is <b>a political problem, not just a technical one</b>.
 <div class="author">-Grady Booch</div>
 </div>
 
 <h2 id="changing-role-of-architecture">Changing Role of Architecture</h2>
 
-<div class="quote">
+<div class="favorite-quote">
 The role of architects has changed from trying to be the smartest person to <b>making everyone else smarter</b>.
 <div class="author">-Gregor Hohpe</div>
 </div>
 
-<div class="quote">
+<div class="favorite-quote">
 The architect's role is changing from being primarily a decision maker to being a coordinator, advisor, and knowledge manager ... <b>a central knowledge hub</b>.
 <div class="author">-Rainer Weinreich &amp; Iris Groher</div>
 </div>
 
-<div class="quote">
+<div class="favorite-quote">
 Rather than inject itself in every decision loop, <b>architecture should design mechanisms for teams to make better decisions</b> - they’ll know better anyhow, and slowing them down carries a high cost..
 <div class="author">-Gregor Hohpe</div>
 </div>
 
-<div class="quote">
+<div class="favorite-quote">
 Your architecture team’s job is to <b>solve your biggest problems</b>. The best setup is the one that allows it to accomplish that.
 <div class="author">-Gregor Hohpe</div>
 </div>
 
-<div class="quote">
+<div class="favorite-quote">
 Your organization has to <b>earn its way to an effective architecture function</b>. You can’t just plug some architects into the current mess and expect it to solve all your problems.
 <div class="author">-Gregor Hophe</div>
 </div>
 
 <h2 id="complexity">Complexity</h2>
 
-<div class="quote">
+<div class="favorite-quote">
 Excessive complexity is nature’s punishment for <b>organizations that are unable to make decisions.</b>
 <div class="author">-Gregor Hohpe</div>
 </div>
 
-<div class="quote">
+<div class="favorite-quote">
 <b>Metawork is more interesting than work</b>. ... we love complicated little puzzles to solve, so we keep overengineering everything.
 <div class="author">-Neal Ford</div>
 </div>
 
-<div class="quote">
+<div class="favorite-quote">
 Developers are <b>drawn to complexity like moths to a flame</b> often with the same result.
 <div class="author">-Neal Ford</div>
 </div>
 
 <h2 id="other">Other</h2>
 
-<div class="quote">
+<div class="favorite-quote">
 Architecture is just a collective hunch, a <b>shared hallucination</b>, an assertion by a set of stakeholders on the nature of their observable world, be it a world that is or a world as they wish it to be.
 <div class="author">-Grady Booch</div>
 </div>
 
-<div class="quote">
+<div class="favorite-quote">
 <b>Architects code</b>, but not to deliver code. Rather, to understand the ramifications of the decisions that they're making.
 <div class="author">-Gregor Hohpe, Dave Farley</div>
 </div>
 
-<div class="quote">
+<div class="favorite-quote">
 Architectural decisions are design decisions that are <b>hard to make</b> or <b>costly to change</b>.
 <div class="author">-Olaf Zimmermann</div>
 </div>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[My favorite quotes about architecture.]]></summary></entry><entry><title type="html">Context: Fast Moving Global Organizations</title><link href="http://localhost:4000/context" rel="alternate" type="text/html" title="Context: Fast Moving Global Organizations" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/context</id><content type="html" xml:base="http://localhost:4000/context"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/roller-coaster-3605743_1920.jpg" /></p>
@@ -112,9 +112,9 @@ Image by <a href="https://pixabay.com/users/paulbr75-2938186/?utm_source=link-at
   <p><strong>KEY POINTS:</strong></p>
 
   <ul>
-    <li>To better understand any idea or solution, it is crucial to understand the context in which these ideas developed.</li>
+    <li>To better understand any idea or solution, it is crucial to understand the context in which this idea developed.</li>
     <li>The grounded architecture approach has developed in the context of global, loosely coupled organizations that are diverse, with non-linear growth dynamics, and under transformation pressures.</li>
-    <li>More specifically, the work I present here reflects my experiences as a Chief or Principal Architect at AVIV Group, eBay Classifieds, and Adevinta.</li>
+    <li>More specifically, the work I present here reflects my experiences as a Chief and Principal Architect at AVIV Group, eBay Classifieds, and Adevinta.</li>
   </ul>
 </blockquote>
 <style>
@@ -141,12 +141,12 @@ To better understand any idea or solution, it is crucial to understand the conte
 My approach to creating and running an architecture function is not an abstract idea. Instead, it is the generalization of many lessons learned while solving specific problems in a particular context.
 </div>
 
-<p>I base my ideas on my experiences as a Chief and Principal Architect at AVIV Group, eBay Classifieds, and Adevinta. In this section, I discuss critical characteristics of the organizational context that have had an impact on my definition of the grounded architecture approach:</p>
+<p>I base my ideas on my experiences as a Chief and Principal Architect at AVIV Group, eBay Classifieds, and Adevinta. In this section, I discuss critical characteristics of the organizational context that have had an impact on my definition of the Grounded Architecture approach:</p>
 <ul>
   <li><strong>global scale</strong>: operating across multiple countries and continents with millions of users,</li>
   <li><strong>multi-dimensional diversity</strong>: the organizations I worked in were very diverse at all levels, including customer base, workforce, business models, team topologies, technology stacks,</li>
   <li><strong>nonlinear growth dynamics</strong>: in addition to organic growth, big organizations frequently change the portfolio both by mergers and acquisitions of new businesses and as well as by divestments,</li>
-  <li><strong>synergies and transformation pressures</strong>: big organizations do not want just to be bing, they want to exploit the benefits of the economies of scale and reduce duplication of efforts,</li>
+  <li><strong>synergies and transformation pressures</strong>: big organizations do not want just to be big, they want to exploit the benefits of the economies of scale and reduce duplication of efforts,</li>
   <li><strong>decentralized, loosely-coupled organizational units</strong>: organizational units have significant autonomy.</li>
 </ul>
 
@@ -159,11 +159,11 @@ My approach to creating and running an architecture function is not an abstract 
 <p>I was lucky to develop my approach in genuinely global and multicultural organizations. Global context leads to a massive scale:</p>
 
 <ul>
+  <li>Many geographies, cultures, and languages,</li>
   <li>Millions of daily user visits,</li>
   <li>Thousands of active software developers,</li>
   <li>Hundreds of product and development teams,</li>
-  <li>Hundreds of millions of lines of source code, and</li>
-  <li>Many geographies, cultures, and languages.</li>
+  <li>Hundreds of millions of lines of source code.</li>
 </ul>
 
 <p><img src="assets/images/arch/earth-g217b5730b_1920.jpg" alt="" /></p>
@@ -171,49 +171,22 @@ My approach to creating and running an architecture function is not an abstract 
 Image by <a href="https://pixabay.com/users/thedigitalartist-202249/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2254769">Pete Linforth</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2254769">Pixabay</a>
 </div>
 
-<p>The global scale introduces several compelling opportunities:</p>
+<p>The global scale introduces several compelling opportunities. The global scale can increase organizational effectiveness due to reducing duplication of effort by centralizing shared activities. Second, the global scale enables leveraging economies of scale by achieving cost advantages, such as lowering unit prices of used technologies. Furthermore, the global scale can increase business resilience and flexibility, possibly compensating for negative local market changes with global resources. Global organizations also have a bigger talent pool to support local or international efforts. Lastly, such organizations have significant resources to invest in to support nonlinear growth through mergers and acquisitions (M&amp;As).</p>
 
-<ul>
-  <li>Increasing effectiveness: possibilities to reduce duplication of effort by centralizing shared activities.</li>
-  <li>Leveraging economies of scale: achieving cost advantages, for instance, by reducing unit prices of used technologies.</li>
-  <li>Increased business resilience and flexibility: possibility to compensate for negative local market changes with global resources.</li>
-  <li>Bigger talent pool to support any local or global effort.</li>
-  <li>Possibility for investments to support nonlinear growth by mergers and acquisitions (M&amp;As).</li>
-</ul>
+<p>The global and massive scale has many challenges. It leads to high organizational complexity, with thousands of possible communication channels among the organization’s units. Global scale means having a complex technology landscape with many services and interconnections. An immense talent pool also means continuously high costs for the workforce. And such organizations also have constantly high costs of computing resources due to the need to serve many customers. Operating in many places and with high customer demands also increases the complexity of running operations with increased customer demands. With many data centers, services, and applications, global organizations have a huge attack surface, with many points on the boundary of their systems where an attacker can try to enter, cause an effect on, or extract data. Lastly, any manual process, such as diagram drawing to create an overview of the organizational or technology landscape, is limited due to scale.</p>
 
-<p>The global and massive scale has many challenges:</p>
-
-<ul>
-  <li>Organizational complexity (e.g., thousands of possible communication channels).</li>
-  <li>Complex technology landscape (e.g., many services and interconnections).</li>
-  <li>Continuously high costs of workforce.</li>
-  <li>Continuously high cost of computing resources.</li>
-  <li>Complexity of running operations with high customer demands.</li>
-  <li>Huge attack surface, many points on the boundary of our systems where an attacker can try to enter, cause an effect on, or extract data.</li>
-  <li>Limitations of any manual process, such as diagram drawing, to create an overview of the organizational or technology landscape.</li>
-</ul>
-
-<p>Balancing opportunities and challenges on a global scale is one of the most challenging and rewarding aspects of my architectural work.</p>
+<p>Balancing opportunities and challenges on a global scale is one of the most difficult and rewarding aspects of my architectural work.</p>
 
 <p><br /></p>
 <h2 id="characteristic-2-multi-dimensional-diversity">Characteristic 2: Multi-Dimensional Diversity</h2>
 
 <p>The organizations I worked on were very diverse across several dimensions:</p>
 <ul>
-  <li>Diversity of cultures, both in terms of workforce and customers,</li>
-  <li>Organizational diversity, with different sizes, complexity, and styles,</li>
-  <li>Product diversity, covering many markets and customer segments,</li>
-  <li>Architecture diversity, with legacy and modern approaches mixed together,</li>
-  <li>Technology diversity at all levels.</li>
-</ul>
-
-<p>The global and multicultural nature of our context leads to diversity and multiple levels:</p>
-
-<ul>
-  <li>Diversity of decision-making styles</li>
-  <li>Diversity of organizational styles and hierarchies</li>
-  <li>Diversity of meeting styles</li>
-  <li>Diversity of ways of dealing with feedback</li>
+  <li>Cultures: both in terms of (local and remote) workforce and customers,</li>
+  <li>Organization: different sizes, complexity, and styles of organizational units,</li>
+  <li>Product: with diverse sets of features covering many markets and different customer segments,</li>
+  <li>IT Architecture: with legacy and modern approaches mixed, and</li>
+  <li>Technology: with dozens of programming languages and thousands of thirds party libraries, frameworks, and services.</li>
 </ul>
 
 <p><img src="assets/images/arch/pictures-g139ff7ebb_1280.jpg" alt="" /></p>
@@ -221,20 +194,16 @@ Image by <a href="https://pixabay.com/users/thedigitalartist-202249/?utm_source=
 Image by <a href="https://pixabay.com/users/simon-3/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=381937">Simon</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=381937">Pixabay</a>
 </div>
 
-<p>The organizations have many units, such as marketplaces (each with its sub-structures), global capabilities, enterprise IT teams, data capabilities, and generic IT infrastructure. In addition to their loose coupling, these organizational units differed in multiple ways:</p>
-
+<p>Organization-wise, we had many units, such as local marketplaces (each with its sub-structures), global capabilities, enterprise IT teams, data capabilities, and generic IT infrastructure. These organizational units differed in multiple ways:</p>
 <ul>
   <li>Size: for instance, some units had hundreds of developers, and some units had only a dozen.</li>
-  <li>Team topologies: some organizations had one team, while other teams were organized hierarchically.</li>
-  <li>Position of architecture: with some organizations having local architecture teams and local lead architects, smaller units have their team members conducting architecture activities in addition to other responsibilities</li>
+  <li>Team topologies: some organizations had one team, while other teams were organized hierarchically, and</li>
+  <li>Position of architecture: with some organizations having local architecture teams and local lead architects, smaller units have their team members conducting architecture activities in addition to other responsibilities.</li>
 </ul>
 
-<p>We had many architectural styles in active production systems, ranging from legacy monolith applications to complex modern Microservices and serverless ecosystems. Each part of the organization has a different history and a different legacy.</p>
+<p>IT architecture-wise, we had many architectural styles in active production systems, ranging from legacy monolith applications to complex modern microservice and serverless ecosystems. Each part of the organization has a different history and a different legacy.</p>
 
-<p>The primary technical infrastructure included several public cloud providers (AWS, GCP, Azure) and custom-built private data centers.</p>
-
-<p>The systems also employed diverse application technologies, such as:</p>
-
+<p>And our technology covered almost any mainstream stacks. The technical infrastructure included several public cloud providers (AWS, GCP, Azure) and custom-built private data centers. The systems also employed diverse application technologies, such as:</p>
 <ul>
   <li>Database technologies (e.g., MySQL, Postgress, MongoDB, Cassandra, AWS RDS…).</li>
   <li>Backend programming languages (e.g., Java, C#, Go, Scala, PHP, Node.js, Kotlin…).</li>
@@ -242,20 +211,9 @@ Image by <a href="https://pixabay.com/users/simon-3/?utm_source=link-attribution
   <li>Frontend programming languages and frameworks (e.g., React, Android, AndroidJS, Vue, jQuery…).</li>
 </ul>
 
-<p>From an architectural perspective, diversity offers several opportunities:</p>
+<p>From an architectural perspective, diversity offers several opportunities. It can increase technology innovation due to a diverse workforce and the possibility of creatively exploring more technologies and tools. And it can help address diverse implementation needs better by choosing from a more extensive and diverse pool of resources (selecting the best tool for the job).</p>
 
-<ul>
-  <li>Increasing innovation due to a diverse workforce and possibilities to creatively explore more technologies and tools.</li>
-  <li>Addressing specific needs better by choosing from a more extensive and diverse pool of resources.</li>
-</ul>
-
-<p>Diversity also poses several challenges:</p>
-
-<ul>
-  <li>Increasing complexity and cognitive load of teams.</li>
-  <li>Limited flexibility and reorganization possibilities as expertise is split among many domains and technologies.</li>
-  <li>Higher technical debt due to many legacy components in many (outdated) technologies.</li>
-</ul>
+<p>Diversity also poses several challenges. High diversity increases overall system landscape complexity and the cognitive load of teams who must master many different topics simultaneously. Diversity can also reduce flexibility and reorganization possibilities as expertise is split among many domains and technologies. And the variety of technology stacks also may lead to higher technical debt due to many legacy components in many (outdated) technologies.</p>
 
 <p>From an architectural perspective, diversity is an excellent source of new possibilities but comes with challenges in controlling complexity.</p>
 
@@ -270,23 +228,9 @@ Image by <a href="https://pixabay.com/users/simon-3/?utm_source=link-attribution
 Image by <a href="https://pixabay.com/users/pexels-2286921/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1853262">Pexels</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1853262">Pixabay</a>
 </div>
 
-<p>Possibilities for nonlinear growth may be helpful in several scenarios:</p>
+<p>Nonlinear growth in particular may be helpful in several scenarios. It can quickly increase the customers base or whole market segments. and such growth can also speed up innovation due to the acquisition of new technologies or services.</p>
 
-<ul>
-  <li>Faster growth due to acquisitions of market segments.</li>
-  <li>Speeding up innovation due to the acquisition of new technologies or services.</li>
-</ul>
-
-<p>Nonlinear dynamics have several influences on architectural activities:</p>
-
-<ul>
-  <li>Increased complexity due to many new organizational units.</li>
-  <li>Increased complexity due to more diverse organization, process, and technologies, increased by every acquisition.</li>
-  <li>More complex architecture to stay flexible if the organization decides to divest a part of the organization.</li>
-</ul>
-
-<p>Non-linear growth dynamics open up many challenges as they can lead to many surprises. And in business of IT 
-<a href="https://www.linkedin.com/pulse/good-surprises-business-clemens-rettich/">there are no good surprises</a>.</p>
+<p>But nonlinear growth dynamics have significant influences on architectural activities. The sudden addition of new companies increased organizational complexity with many new units. Obtaining a new company also adds new technology and engineering units with processes and technology stacks. And nonlinear dynamics also require complex architecture to stay flexible if the organization decides to divest a part of the organization. Due to its complexity, nonlinear growth dynamics open up many challenges as they can lead to many surprises. And as Clemens Rettich stated, in business <a href="https://www.linkedin.com/pulse/good-surprises-business-clemens-rettich/">there are no good surprises</a>.</p>
 
 <p><br /></p>
 <h2 id="characteristic-4-synergy-and-transformation-pressures">Characteristic 4: Synergy and Transformation Pressures</h2>
@@ -298,23 +242,9 @@ Image by <a href="https://pixabay.com/users/pexels-2286921/?utm_source=link-attr
 Image by <a href="https://pixabay.com/users/mustangjoe-2162920/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1236578">MustangJoe</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1236578">Pixabay</a>
 </div>
 
-<p>Pressure for synergies and transformations can provide several opportunities:</p>
+<p>Pressure for synergies and transformations can provide several opportunities. More synergies lead to cost reductions and less duplication. Such cost reductions can accelerate innovation due to more resources freed after synergies. By creating synergic components, we get more possibilities for reuse and sharing. And well-executed transformations can create more efficiencies and lower unit costs.</p>
 
-<ul>
-  <li>Cost reductions.</li>
-  <li>Acceleration due to more resources available when synergies happen.</li>
-  <li>Innovation through more capacity and possibility for reuse and sharing.</li>
-  <li>Faster scaling up of operations due to more efficiencies and lower unit costs.</li>
-</ul>
-
-<p>Pressure to be more synergic and efficient has its challenges:</p>
-
-<ul>
-  <li>Up-front investment is needed to gain any benefit.</li>
-  <li>Such investment typically brings high risks.</li>
-  <li>Productivity of some teams may (temporarily) drop due to the need to split effort between transformation activities and other work.</li>
-  <li>After transformations, the complexity of the organization and technology landscape may increase due to more dependencies, e.g., reusing central services.</li>
-</ul>
+<p>Pressure to be more synergic and efficient has its challenges. Up-front investment is needed to gain any benefit. Such investment typically brings high risks. The productivity of some teams may (temporarily) drop due to the need to balance efforts between transformation activities and other work. And after transformations, the complexity of the organization and technology landscape may increase due to more dependencies, e.g., reusing central services.</p>
 
 <p>Synergies and transformation pressures can lead to high expectations and pressure that complicate regular architecture work. On the positive side, such forces can create many new opportunities.</p>
 
@@ -331,10 +261,9 @@ Image by <a href="https://pixabay.com/users/mustangjoe-2162920/?utm_source=link-
 Image by <a href="https://pixabay.com/users/shire777-19410672/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5889199">Shire777</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5889199">Pixabay</a>
 </div>
 
-<p>Due to historical and strategic reasons, most organizational units I worked with were loosely coupled. Our companies frequently grow through acquisitions of companies in different marketplaces. The strategies also continually promoted a more independent evolution of each marketplace to better and faster address local market needs. Marketplaces often have a high level of autonomy, frequently with their development teams and sometimes with local C(P)TOs, CFOs, CMOs, or CEOs.</p>
+<p>Due to historical and strategic reasons, most organizational units I worked with were loosely coupled. Our companies frequently grow through acquisitions of companies in different marketplaces. The strategies also continually promoted a more independent evolution of each marketplace to better and faster address local market needs. Marketplaces often have a high level of autonomy, frequently with their development teams and sometimes with local, CFOs, CMOs, or CEOs.</p>
 
 <p>Loose coupling offers several advantages:</p>
-
 <ul>
   <li>Higher flexibility: units can keep developing independently, addressing specific needs without synchronizing with other marketplaces.</li>
   <li>High development speed / faster time-to-market: fewer dependencies make it much easier for marketplaces to change and evolve their products for local needs.</li>
@@ -346,7 +275,7 @@ Image by <a href="https://pixabay.com/users/shire777-19410672/?utm_source=link-a
 <ul>
   <li>Duplication of effort: while local market needs differ, there is frequently a significant overlap in product features and technology. This overlap leads to duplication of effort as each marketplace creates solutions for the same problems.</li>
   <li>Increased accidental diversity: limited synchronization offers flexibility but may lead to significantly different design choices, making it challenging to consolidate solutions, move people between teams, or benefit from the economy of scale.</li>
-  <li>Limited possibilities for central control: due to fewer dependencies and different goals, it is more difficult to introduce changes across the portfolio.</li>
+  <li>Limited possibilities for central control: due to fewer dependencies and different goals, it is more difficult to introduce changes across the board.</li>
 </ul>
 
 <p>Loose coupling is architecture-wise an interesting challenge as it frequently leads to a conflict between global alignment and control and local autonomy.</p>
@@ -394,6 +323,7 @@ Image by <a href="https://pixabay.com/users/geralt-9301/?utm_source=link-attribu
 
 <p><br />
 Considering the scale and complexity of the organizational context I operated in, it was apparent that conventional approaches of doing architecture that rely on manual processes need to be revised.</p>
+
 <div class="quote">
 Considering the scale and complexity of the organizational context I operated in, it was apparent that conventional approaches of doing architecture that rely on manual processes need to be revised.
 </div>
@@ -422,7 +352,7 @@ Considering the scale and complexity of the organizational context I operated in
 
 <h2 id="questions-to-consider">Questions to Consider</h2>
 
-<p>Knowing what goals architecture practice needs to support in your organization is crucial to define structures and measuring your impact. Some of the plans may be universally applicable. Others may be unique to your context. Ask yourself the following questions:</p>
+<p>Knowing what goals architecture practice needs to support in your organization is crucial to define structures and measure your impact. Some of the plans may be universally applicable. Others may be unique to your context. Ask yourself the following questions:</p>
 
 <ul>
   <li><em>What is the scale of your architecture operations? Does your scale require special measures to ensure your architecture practice efficient operations?</em></li>
@@ -461,7 +391,7 @@ Image by <a href="https://pixabay.com/users/ichigo121212-11728/?utm_source=link-
 </style>
 
 <p><br />
-In this part of my playbook, I will introduce the structure of Grounded Architecture. I chose the term “Grounded Architecture” to highlight that the primary goal of my approach is to avoid having an “ivory tower” architecture function disconnected from the organization, which in a <a href="context">fast-moving, global, and diverse setting</a> is a real danger. In other words, I wanted to create an architectural function that is well-grounded in the organization.</p>
+In this part of my playbook, I will introduce the structure of Grounded Architecture. I chose the term “Grounded Architecture” to highlight that the primary goal of my approach is to avoid having an “ivory tower” architecture function disconnected from the organization, which in a <a href="context">fast-moving, global, and diverse setting</a> is a real danger. In other words, I wanted to create an architectural function that is well grounded in the organization.</p>
 
 <div class="quote">
 I chose the term "Grounded Architecture" to highlight that the primary goal of my approach is to avoid having an "ivory tower" architecture function disconnected from the organization. I wanted to create an architectural function that is well-grounded in the organization.
@@ -480,7 +410,7 @@ I chose the term "Grounded Architecture" to highlight that the primary goal of m
 
 <p>The <em>People Pillar</em> is a network of people doing architecture across the organization. This Pillar is crucial to ensure that architecture function has any tangible impact. As noted by Gregor Hohpe, to transform an organization, you do not need to solve mathematical equations; you need to move people. The <a href="people">People Pillar section</a> provides more details.</p>
 
-<p>Lastly, the <em>Architecture Activities Platform</em> defines a set of processes and agreements enabling architects to do everything that architecture typically does, leveraging data and people pillars to create a data-informed, organization-wide impact. The <a href="activities-platform">Architecture Activites Platform section</a> provides more details on Technology Architecture Activities Platform. While the Architecture Activities Platform looks most like a typical architecture function, I consider such a platform only valid with the healthy Data and People pillars. Without data and people connections, an Architecture Activities Platform becomes an ivory tower institution, generating opinion-based decisions disconnected from reality.</p>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[I introduce three elements of Grounded Architecture: The Data Pillar, The People Pillar, The Architecture Activities Platform.]]></summary></entry><entry><title type="html">Data Pillar</title><link href="http://localhost:4000/data" rel="alternate" type="text/html" title="Data Pillar" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/data-platform</id><content type="html" xml:base="http://localhost:4000/data"><![CDATA[<p><img src="assets/images/arch/architecture-1857175_1920.jpg" style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" /></p>
+<p>Lastly, the <em>Architecture Activities Platform</em> defines a set of processes and agreements enabling architects to do everything that architecture typically does, leveraging data and people pillars to create a data-informed, organization-wide impact. The <a href="activities-platform">Architecture Activites Platform section</a> provides more details on Architecture Activities Platform. While the Architecture Activities Platform looks most like a typical architecture function, I consider such a platform only valid with the healthy Data and People pillars. Without data and people connections, an Architecture Activities Platform becomes an ivory tower institution, generating opinion-based decisions disconnected from reality.</p>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[I introduce three elements of Grounded Architecture: The Data Pillar, The People Pillar, The Architecture Activities Platform.]]></summary></entry><entry><title type="html">Data Pillar</title><link href="http://localhost:4000/data" rel="alternate" type="text/html" title="Data Pillar" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/data-platform</id><content type="html" xml:base="http://localhost:4000/data"><![CDATA[<p><img src="assets/images/arch/architecture-1857175_1920.jpg" style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/3844328-3844328/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1857175">Lorenzo Cafaro</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1857175">Pixabay</a>
 </div>
@@ -522,6 +452,8 @@ In every place I worked on creating architectural functions, I strongly emphasiz
 <div class="quote">
  Manual documentation does not scale, and relying on data ensures reliability and scalability.
 </div>
+
+<p>My vision for building the Data Pillar follows the map-making metaphor. Maps are one of the most critical documents in human history. They give us tools to store and exchange knowledge about space and place. While there are differences between maps and the layers they show, the one thing that all maps do is provide readers with <strong>orientation</strong>. A sense of place is central to meaning-making. Maps are also composed of multiple layers. Similarly, the architecture data pillar should give readers a sense of orientation, offering data layers about systems that describe their sizes, connections, quality, security, or human activity.</p>
 
 <h2 id="examples-of-data-sources-and-tools">Examples of Data Sources and Tools</h2>
 
@@ -592,7 +524,7 @@ Source code and its commit history include an astonishing amount of information 
 <p><br /></p>
 <h2 id="using-architecture-data-pillar">Using Architecture Data Pillar</h2>
 
-<p>The architecture data pillar can provide lots of data. Sometimes, as in an ordinary map or atlas, such data could be helpful for those who want to orient themselves and understand the context. But you could obtain more insights from such data. However, finding the right ways to interpret and use data requires active effort. In other words, the data can give you the answers, but <a href="https://en.wikipedia.org/wiki/42_(number)#The_Hitchhiker's_Guide_to_the_Galaxy">we may not know the questions</a>. Here are some of the questions you can ask when you have data:</p>
+<p>The architecture data pillar can provide lots of data. Sometimes, as in an ordinary map or atlas, such data could be helpful for those who want to orient themselves and understand the context. You can obtain more insights from such data. However, finding the right ways to interpret and use data requires active effort. In other words, the data can give you the answers, but <a href="https://en.wikipedia.org/wiki/42_(number)#The_Hitchhiker's_Guide_to_the_Galaxy">we may not know the questions</a>. Here are some of the questions you can ask when you have data:</p>
 <ul>
   <li>Are we aligned and going in the same direction? Source code overviews, public cloud usage explorers, or tech radars can highlight differences among systems and teams and trigger discussions.</li>
   <li>Are we using technology optimally? Comparing usage trends between teams can show interesting outliners (both positive and negative).</li>
@@ -611,9 +543,8 @@ Source code and its commit history include an astonishing amount of information 
   <li><strong>Start with the source code</strong>. My motto is “Talk is expensive. Show me the code.” I scan as soon as possible all source code using tools such as <a href="https://sokrates.dev">Sokrates</a>. I highly recommend <a href="https://sokrates.dev">Sokrates</a> as the basis for the data pillar, but other simple analyses could also provide a good starting point. Modern IT enterprises store almost everything as a code. It is the richest and most up-to-date documentation on most things happening in an IT enterprise.</li>
   <li><strong>Connect with finance and governance teams</strong> to get exports of their data (without sensitive parts, such as revenue projections). Cloud billing reports and data about vibrancy or revenue streams are collected anyway. By extracting more technology-oriented data (e.g., public cloud technology usage trends) and connecting them to other data, many new insights may be obtained without starting new processes or asking people to provide more details. First, leverage what you have, squeeze all the value from it, then ask people for any missing elements.</li>
   <li><strong>Use simple and easy-to-maintain infrastructures</strong>. For example, I publish the results of Sokrates analyses and other simple data Web apps as static resources in our enterprise GithHub pages. Configuring more complex infrastructure with complex databases and backend software requires more maintenance.</li>
-  <li><strong>Maintain a culture of transparency</strong>. It is much simpler a more effective to share fewer data with everyone than to have more data, but complex authorization is needed.</li>
-  <li><strong>Own the curation</strong>. People need to be able to trust your data. Spend enough time to understand data sets, curate them, and ensure presentation consistency. I am a master curator and chief UX designer of a data pillar.</li>
-  <li><strong>Build maps, not control units</strong>. The main inspiration for my work is map-making. As noted by Brené Brown, maps are one of the most critical documents in human history (see <a href="https://brenebrown.com/book/atlas-of-the-heart/">Atlas of the Heart</a> for a discussion on a mapmaking metaphor). They give us tools to store and exchange knowledge about space and place. While there are differences between maps and the layers they show, the one thing that all maps do is provide readers with orientation. A sense of place is central to meaning-making. Maps are also composed of multiple layers. Similarly, the architecture data pillar offers data layers about systems, describing their size, connections, quality, security, or human activity.</li>
+  <li><strong>Maintain a culture of transparency</strong>. It is much simpler and more effective to share fewer data with everyone than to have more data, but complex authorization is needed.</li>
+  <li><strong>Own the curation</strong>. People need to be able to trust your data. Spend enough time to understand data sets, curate them, and ensure presentation consistency. I consider myself a master curator and chief UX designer of a data pillar.</li>
 </ul>
 
 <p>While I do not want to prescribe the best technology, I can tell what I use in daily work. I build most architecture data tools as simple web applications, taking data from JSON files hosted on a static web server. See some of <a href="https://obren.io/tools">my public tools</a> to illustrate how I build such simple data-driven web apps.</p>
@@ -677,11 +608,9 @@ Image by <a href="https://pixabay.com/users/mostafa_meraji-13551092/?utm_source=
     <li>Developing the architecture function requires having competent, empowered, and motivated architects.</li>
     <li>Any architecture function must carefully organize, empower,
   and leverage scarce architecture talent.</li>
-    <li>We should not take architectural talent for granted. Architects are bridging local business, product, 
-  organizational, and technology issues. Architects are difficult to hire talent as they need not only 
+    <li>We should not take architectural talent for granted. Architects are difficult to hire talent as they need not only 
   in-depth technical knowledge but also domain-specific and organizational knowledge.</li>
-    <li>In my work in the past few years, I was working by combining, in different forms, two teams of architects: a small
-central architecture team and a cross-organizational distributed virtual team.</li>
+    <li>In my work in the past few years, I combined two teams of architects: a small central architecture team and a cross-organizational distributed virtual team.</li>
   </ul>
 </blockquote>
 
@@ -762,12 +691,12 @@ focusing on improving performance and reducing complexity.</p>
 <p><br /></p>
 <h2 id="the-hybrid-model">The Hybrid Model</h2>
 
-<p>To operate in a complex <a href="context">context</a>, you need to invested effort to ensure we have the right people at the right
+<p>To operate in a complex <a href="context">context</a>, you need to invested effort to ensure you have the right people at the right
 places. In the end, I usually found it best to adopted model of a hybrid organization combining elements of central and
 federated orientation structures:</p>
 
 <ul>
-  <li>A Small Scale Central Architectural Teams, and</li>
+  <li>A Central Architectural Teams, and</li>
   <li>Architecture Guilds &amp; Virtual Architectural Teams.</li>
 </ul>
 
@@ -847,7 +776,7 @@ units have very diverse structures and sizes. There is no one-fit-all solution a
 architecture responsibilities. I generally worked on three types of team-architect systems per Gregor Hohpe’s view of
 architects and their teams’ relationships (Figure 1). That means that some units have lead architects coordinating or
 leading multiple teams. We often have cases where an architect was a full-time member of a team working on specific
-products or other features. I also worked with teams that needed an architect but several senior developers making
+products or other features. I also worked with teams with senior developers making
 architectural decisions.</p>
 
 <p><img src="https://esilva.net/assets/team-architecture-topologies.png" alt="" />
@@ -862,8 +791,8 @@ In big organization, embracing diversity is a pre-requirements to have any broad
 <p><br /></p>
 <h2 id="building-people-pillar">Building People Pillar</h2>
 
-<p>While each organization will need its unique approach, here are some tips I found helpful in my approach to forming
-architecture teams or “<a href="people">People Pillar</a>”:</p>
+<p>While each organization will need its unique approach, here are some tips I found helpful in forming
+architecture teams and “<a href="people">People Pillar</a>”:</p>
 
 <ul>
   <li>Before making grandiose plans for reorganizations, connect with the people already doing architectural work in an
@@ -873,9 +802,8 @@ in any architecture organization, so you will always benefit from this effort.</
   <li>If creating a virtual team is a part of your architecture strategy, move away from making an informal community of
 practice towards building a team with more accountability and responsibility. It was helpful to get buy-in from key
 stakeholders, e.g., Engineering Leaders who should want to get their people to work together with other architects.</li>
-  <li>Connect with as many non-architecture stakeholders as possible in the early stages. Again, being well-connected to
+  <li>Connect with non-architecture stakeholders in the early stages. Again, being well-connected to
 these stakeholders will be crucial in any architecture organization.</li>
-  <li>Align the architecture vision with all stakeholders.</li>
   <li>Avoid hiring <a href="https://architectelevator.com/transformation/dont-hire-hitman/">digital hitman</a>. Invest in growing
 internal talent. Architects require technology, domain, and organization knowledge. Finding such a person
 outside the organization is challenging.</li>
@@ -893,11 +821,11 @@ Image by <a href="https://pixabay.com/users/chantellev-2412495/?utm_source=link-
 <p>It is difficult to overestimate the importance of people for architecture practice, yet many organizations take architectural talent for granted. To reflect on the importance of carefully organizing, empowering, and leveraging scarce architecture talent, ask yourself the following questions:</p>
 
 <ul>
-  <li><em>Reflect on your organization’s current architecture function. Do you have a strong network of architects across the organization? If not, what steps could you take to strengthen this?</em></li>
+  <li><em>Reflect on your organization’s current architecture function. Do you have a strong network of architects across the organization?</em></li>
   <li><em>How do you ensure architects’ competency, empowerment, and motivation in your organization? What systems do you have in place to develop architectural talent?</em></li>
   <li><em>Which central, federated, or hybrid model best represents your current architectural function? Why was this model chosen, and how effective has it been for your organization?</em></li>
-  <li><em>If you are part of a central architecture team, how would you support the rest of the organization? How would you contribute to the architecture function if you were part of a distributed virtual team?</em></li>
-  <li><em>Consider having the roles of central architecture teams and federated architecture teams in your organization. How do they complement each other?</em></li>
+  <li><em>If you are a part of a central architecture team, how would you support the rest of the organization? How would you contribute to the global architecture function if you were part of a distributed virtual team?</em></li>
+  <li><em>Consider having the roles of central architecture teams and federated architecture teams in your organization. How would they complement each other?</em></li>
   <li><em>How effective is the current division of responsibilities among architects in your organization? Are there areas of overlap or gaps in coverage?</em></li>
   <li><em>What steps has your organization taken to ensure architects are well-connected across all parts and levels? What impact has this had on transparency and the implementation of changes?</em></li>
   <li><em>Reflect on the diversity of team structures within your organization. How does this diversity impact the roles and responsibilities of architects?</em></li>
@@ -971,7 +899,7 @@ There is no one-size-fits-all approach: each organization must find activities a
 
 <p>While exact activities and their scope will depend on an organization setting and will change over time, I aimed to implement the common operational model in daily work.</p>
 
-<p>Inspired by Gregor Hohpe’s strategy-principles-decisions model Figure 1 illustrates the process.</p>
+<p>Inspired by Gregor Hohpe’s strategy-principles-decisions model, I typically used the process illustrated in Figure 1.</p>
 
 <div>
 <a href="assets/images/arch/architecture-system.png" target="_blank">
@@ -984,7 +912,7 @@ There is no one-size-fits-all approach: each organization must find activities a
 <ul>
   <li>Architects engage with stakeholders and product and project teams in a <strong>collaborative and supportive manner</strong>.</li>
   <li>Architects are <strong>empowering the teams</strong> so that they make most of the decisions.</li>
-  <li>In all activities, the architecture function and architects:
+  <li>In all activities, architects do:
     <ul>
       <li><strong>Bring relevant data</strong> to inform decisions leveraging the <a href="data">Data Pillar</a>.</li>
       <li><strong>Define decision boundaries</strong> to enable the minimal level of compatibility and strategic alignment (e.g., public cloud provider, tech stack constraints).</li>
@@ -1027,7 +955,7 @@ Grounded architecture aims to make relevant information more readily available t
 <p>Your architecture practice job is to solve the biggest problems in your organization. Ask yourself the following questions:</p>
 
 <ul>
-  <li><em>How can you identify the most critical problems that your architecture team needs to solve in your organization?</em></li>
+  <li><em>How can you identify the most critical problems that your architects needs to solve in your organization?</em></li>
   <li><em>What activities and operating models can you think of that will best enable architecture in your organization to work on these critical problems?</em></li>
   <li><em>In your organization, what does the Architecture Activities Platform look like, and how could it be improved?</em></li>
   <li><em>Which of the provided examples of architecture activities are you currently performing in your organization?</em></li>
@@ -1289,18 +1217,37 @@ Architects, of course, need to be technically strong. But their unique strengths
 <p>Architects must have good relationships with developer teams, local business stakeholders, and functions. Simultaneously, such a person needs to be well-connected with broader internal communities. External visibility is essential for architects, who can bring ideas from outside into the organization and promote the organization to the outside world.</p>
 
 <p><br /></p>
+<h2 id="supergluing-in-action-reducing-tension-among-business-function-product-technology-organization">Supergluing in Action: Reducing Tension among Business Function, Product, Technology, Organization</h2>
+
+<p>The primary value of superglue architects in an organization is aligning business, product, technology, and organizational functions. While technology, product, organization, and business function face challenges, additional problems occur when there is tension among them (Figure 2). For example, we may organize teams using a well-defined domain model (organizational design). Still, if our system is a monolith (technical design), our teams will collaborate in a different pattern than domain splits suggest. On the other hand, if our teams are well aligned with the technology implementation (e.g., clear ownership of microservices), but the product architecture differs from the microservice domain split, we may need to change dozens of microservices when introducing relatively simple product features. Similarly, business benefits if they align their objectives with product or technology; otherwise, tense interactions will happen (e.g., try reducing short-term costs while adding new features and migrating to the public cloud).</p>
+
+<div class="quote">
+While technology, product, organization, and business function face challenges, additional problems occur when there is tension among them.
+</div>
+
+<p><img src="assets/images/tension.png" alt="" />
+<em><strong>Figure 2:</strong> The tensions between technology, product, organization, and business functions.</em></p>
+
+<p>The main problem of these tensions is that they slow things down due to miscommunications and misalignment, lead to bad decisions due to lack of information, introduce unnecessary complexity, and lead to many missed opportunities. Too frequently, architecture sits on the side, shouting principles and abstract ideals that everyone ignores. By acting as a superglue, the architecture function can help reduce tension between technology, product, organization, and business functions (Figure 3). Architecture should ensure that conversations happen between the technical, product, organizational, and business functions.</p>
+
+<p><img src="assets/images/tension-architecture.png" alt="" />
+<em><strong>Figure 3:</strong> Architects should be in the middle of reducing tensions between technology, product, organization, and business functions.</em></p>
+
+<p>Getting the product/technology/organizational/business alignment right takes a lot of work, which is one of the main areas of architecture work. There will always be essential tension between system architecture, team organization, and product organization. Ideally, these structures all change simultaneously and stay in perfect sync. But in practice, these structures change and move at different speeds. All in all, this situation guarantees the job security of superglue architects.</p>
+
+<p><br /></p>
 <h2 id="superglue-abilities">Superglue Abilities</h2>
 
-<p>Setting the architects’ goals to be “superglue” also requires some thought on developing architects as a superglue. Borrowing from Gregor Hohpe’s view on architect development from his book Software Architecture Elevator, I share the view that our architects should stand on three legs:</p>
+<p>Setting the architects’ goals to be “superglue” also requires some thought on developing architects as a superglue. Borrowing from Gregor Hohpe’s view on architect development from his book Software Architecture Elevator, I share the view that our architects should stand on three legs (Figure 4):</p>
 
 <ul>
   <li>Skills</li>
   <li>Impact</li>
-  <li>leadership</li>
+  <li>Leadership</li>
 </ul>
 
 <p><img src="assets/images/superglue/architect-skills.png" alt="" />
-<em><strong>Figure 2:</strong> Architect Profile: Skills + Impact + Leadership.</em></p>
+<em><strong>Figure 4:</strong> Architect Profile: Skills + Impact + Leadership.</em></p>
 
 <h3 id="skills">Skills</h3>
 
@@ -1328,7 +1275,7 @@ Architects, of course, need to be technically strong. But their unique strengths
 
 <p>Examples of such impact may include:</p>
 <ul>
-  <li><strong>Aligning</strong> business, product, technology and organizatinal strategies (see <a href="storm">this section</a> for more details),</li>
+  <li><strong>Aligning</strong> business, product, technology and organizatinal strategies (see <a href="superglue">this section</a> for more details),</li>
   <li><strong>Process</strong> optimizations and improvements, with real measurable impact on work of an organization,</li>
   <li><strong>Cost</strong> optimizations of systems, based on data informed decisions,</li>
   <li>Developing pragmatic <strong>technology strategies</strong>, helping business reach goals in a sustainable way,</li>
@@ -1354,12 +1301,12 @@ In my view, architects in IT organizations should develop as “superglue.”</p
 
 <p>The section <a href="leadership">Leadership</a> provides more details.</p>
 
-<h2 id="balanced-development">Balanced Development</h2>
+<h3 id="balanced-development">Balanced Development</h3>
 
-<p>Architects need to have a minimal “length” of all of these “legs” to be successful (Figure 3). For instance, having skills and impact without leadership frequently leads to hitting a glass ceiling. Such architects plateau at an intermediate level and cannot lead the company to innovative or transformative solutions. Leadership without impact lacks foundation and may signal that you have become an ivory tower architect with a weak relation to reality. And having impact and leadership qualities but no skills leads to impractical decisions not informed by in-depth knowledge.</p>
+<p>Architects need to have a minimal “length” of all of these “legs” to be successful (Figure 5). For instance, having skills and impact without leadership frequently leads to hitting a glass ceiling. Such architects plateau at an intermediate level and cannot lead the company to innovative or transformative solutions. Leadership without impact lacks foundation and may signal that you have become an ivory tower architect with a weak relation to reality. And having impact and leadership qualities but no skills leads to impractical decisions not informed by in-depth knowledge.</p>
 
 <p><img src="assets/images/arch/architect-legs.png" alt="" />
-<em><strong>Figure 3:</strong> Architects need to have a minimal “length” of all of these “legs” to be successful.</em></p>
+<em><strong>Figure 5:</strong> Architects need to have a minimal “length” of all of these “legs” to be successful.</em></p>
 
 <h2 id="questions-to-consider">Questions to Consider</h2>
 
@@ -1370,6 +1317,10 @@ In my view, architects in IT organizations should develop as “superglue.”</p
   <li><em>Reflect on your ability to connect the “business wheelhouse” and the “engine room” within your organization. How effectively do you bridge the gap between technical issues and business needs?</em></li>
   <li><em>How strong are your relationships with developer teams, local business stakeholders, and broader internal communities? What strategies could you employ to strengthen these connections?</em></li>
   <li><em>How much external visibility do you currently have? How could this be enhanced to promote the flow of ideas into and out of the organization?</em></li>
+  <li><em>Can you identify specific instances where tension occurred between your organization’s technology, product, organization, and business functions? What caused this tension, and how was it addressed?</em></li>
+  <li><em>How does your current architecture aid in reducing tension between these functions? If it doesn’t, what changes can you make to align these functions better?</em></li>
+  <li><em>Reflecting on your organization, have you witnessed the architecture sitting on the side, being ignored? If so, what steps can you take to involve architecture in decision-making processes actively?</em></li>
+  <li><em>Are conversations between the technical, product, organizational, and business functions encouraged and facilitated within your organization? If not, how might they be initiated and supported?</em></li>
   <li><em>Considering the three legs of a successful architect (skills, impact, leadership), which do you consider your strongest? Which might need more development?</em></li>
   <li><em>Assess your technical skills and ability to apply this knowledge in practice. How well do you balance hard (technical) skills, soft skills, and business domain knowledge?</em></li>
   <li><em>How do you currently measure your impact within your organization? Could you identify and address more strategic problems to benefit the business?</em></li>

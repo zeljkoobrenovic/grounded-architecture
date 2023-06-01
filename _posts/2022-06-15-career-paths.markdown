@@ -69,7 +69,7 @@ After the role of an Architect, I usually envision three tracks of progression:
 * **Principal Architect**, a senior architect with a special focus on some area of strategic interest for an organization (e.g., data, distributed systems, frontend).
 * **Enterprise Architect**, being closer to product, management, strategy, and business functions, frequently serving as senior engineering leaders' right hand. 
 
-But an architect's path can take many different directions and have many other names. More important than a formal title is a continuous search for staying relevant and making an impact as a [superglue](superglue).
+But an architect's path can take many different directions and have many other names. More important than a formal title is a continuous search for staying relevant and making an [impact](impact).
 
 
 <br>
@@ -88,7 +88,7 @@ While you will need to design your hiring process, the hiring process should ens
   * **[Technical skills](skills)**: An architect must possess a strong technical background in the relevant areas, such as software development, infrastructure, cloud computing, and security. The process can assess their expertise through technical questions, tests, or case studies.
   * **[Communication and collaboration skills](skills)**: Architects often work with stakeholders, including business leaders, developers, and project managers. Therefore, the process could evaluate the candidate's ability to communicate effectively, work in a team, and manage stakeholders.
   * **[Leadership and problem-solving abilities](impact)**: As a senior member of the team, an architect should have strong leadership skills and the ability to solve complex problems. The process could assess the candidate's experience leading teams, making critical decisions, and resolving technical challenges.
-  * **[Cultural fit](Leadership)**: The initial screening could also evaluate the candidate's fit with the company's culture, values, and mission. The cultural fit is vital to ensure the candidate shares the same vision and will likely thrive in the organization.
+  * **[Cultural fit](Leadership)**: The process could also evaluate the candidate's fit with the company's culture, values, and mission. The cultural fit is vital to ensure the candidate shares the same vision and will likely thrive in the organization.
 
 In terms of steps, I typically work with some version of the following process (after standard recruitment screening):
 
@@ -97,8 +97,8 @@ In terms of steps, I typically work with some version of the following process (
   * In this step, it is crucial to assess the candidate's overall fit for the role and determine whether they possess the necessary skills, experience, and qualifications. 
   * Overall, the initial screening aims to identify the most promising candidates who possess the necessary skills, experience, and fit for the role of a senior solutions architect and who should proceed to the next stage of the interview process.
   * Extra focus on:
-    * Determining cultural fit
-    * Understanding the candidate's leadership and problem-solving abilities
+      * Cultural fit
+      * Leadership and problem-solving abilities
     
 * **Step 2: In-Depth Interview with Senior/Principle/Enterprise Architects**
   * Typical duration 90 min
@@ -121,8 +121,8 @@ For senior positions, I typically introduce an additional step of meeting senior
   * Interview with Product and Business Function Leaders (e.g., CPO, CMO, CFO)
   * Interview with a CTO
   * Extra focus on:
-   * Understanding the candidate's leadership abilities
-   * Assessing the candidate's communication and collaboration skills
+     * Leadership abilities
+     * Communication and collaboration skills
 
 With the described steps, you can get a solid overview of all critical aspects of superglue architects. In particular, the involvement of people outside architecture or engineering is crucial to minimize risk related to a lack of interest and ability to engage with all relevant stakeholders.
 

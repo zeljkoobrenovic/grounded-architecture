@@ -69,7 +69,6 @@ As a part of my work on Grounded Architecture, I also provided key lessons I lea
 * [Doing Architecture](doing-architecture):
   * [Culture Map: Architects' Culture Mindfield Compass](culture-map)
   * [Managing Organization Complexity: Six Simple Rules](six-simple-rules)
-  * [In the Eye of the Storm: Aligning Business, Product, Technology and Organization Strategies](storm)
   * [Product Development and The Build Trap](product-development)
   * [Architecture Governance: Mandates, Taxation, Nudge](flexible-governance)
   * [Economic Modeling: ROI and Financial Options](economics)
@@ -89,4 +88,3 @@ Remember that while you may borrow ideas from others, every organization is diff
 Remember that while you may borrow ideas from others, every organization is different in the end, and your approach must adapt to your context. When forming architecture functions, I always advise not to forget these [two pieces of advice from Gregor Hohpe](https://architectelevator.com/architecture/organizing-architecture/):
  * "*Your architecture team’s job is to solve your biggest problems. The best setup is the one that allows it to accomplish that.*"
  * "*Your organization has to earn its way to an effective architecture function. You can’t just plug some architects into the current mess and expect it to solve all your problems.*"
-

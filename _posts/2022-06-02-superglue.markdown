@@ -64,16 +64,38 @@ From discussions I've had with our technology leaders, engineers, and architects
 Architects must have good relationships with developer teams, local business stakeholders, and functions. Simultaneously, such a person needs to be well-connected with broader internal communities. External visibility is essential for architects, who can bring ideas from outside into the organization and promote the organization to the outside world. 
 
 <br>
+## Supergluing in Action: Reducing Tension among Business Function, Product, Technology, Organization
+
+The primary value of superglue architects in an organization is aligning business, product, technology, and organizational functions. While technology, product, organization, and business function face challenges, additional problems occur when there is tension among them (Figure 2). For example, we may organize teams using a well-defined domain model (organizational design). Still, if our system is a monolith (technical design), our teams will collaborate in a different pattern than domain splits suggest. On the other hand, if our teams are well aligned with the technology implementation (e.g., clear ownership of microservices), but the product architecture differs from the microservice domain split, we may need to change dozens of microservices when introducing relatively simple product features. Similarly, business benefits if they align their objectives with product or technology; otherwise, tense interactions will happen (e.g., try reducing short-term costs while adding new features and migrating to the public cloud). 
+
+<div class="quote">
+While technology, product, organization, and business function face challenges, additional problems occur when there is tension among them.
+</div>
+
+
+![](assets/images/tension.png)
+***Figure 2:** The tensions between technology, product, organization, and business functions.*
+
+
+The main problem of these tensions is that they slow things down due to miscommunications and misalignment, lead to bad decisions due to lack of information, introduce unnecessary complexity, and lead to many missed opportunities. Too frequently, architecture sits on the side, shouting principles and abstract ideals that everyone ignores. By acting as a superglue, the architecture function can help reduce tension between technology, product, organization, and business functions (Figure 3). Architecture should ensure that conversations happen between the technical, product, organizational, and business functions.
+
+![](assets/images/tension-architecture.png)
+***Figure 3:** Architects should be in the middle of reducing tensions between technology, product, organization, and business functions.*
+
+Getting the product/technology/organizational/business alignment right takes a lot of work, which is one of the main areas of architecture work. There will always be essential tension between system architecture, team organization, and product organization. Ideally, these structures all change simultaneously and stay in perfect sync. But in practice, these structures change and move at different speeds. All in all, this situation guarantees the job security of superglue architects.
+
+
+<br>
 ## Superglue Abilities
 
-Setting the architects' goals to be "superglue" also requires some thought on developing architects as a superglue. Borrowing from Gregor Hohpe's view on architect development from his book Software Architecture Elevator, I share the view that our architects should stand on three legs:
+Setting the architects' goals to be "superglue" also requires some thought on developing architects as a superglue. Borrowing from Gregor Hohpe's view on architect development from his book Software Architecture Elevator, I share the view that our architects should stand on three legs (Figure 4):
 
 * Skills
 * Impact
-* leadership
+* Leadership
 
 ![](assets/images/superglue/architect-skills.png)
-***Figure 2:** Architect Profile: Skills + Impact + Leadership.*
+***Figure 4:** Architect Profile: Skills + Impact + Leadership.*
 
 ### Skills 
 
@@ -97,7 +119,7 @@ Impact should be measured as a benefit for the business. Architects need to ensu
 Architects need to get out into the world and make an impact. Architects that do not make an impact **do not have a place in a for-profit business**. 
 
 Examples of such impact may include:
-* **Aligning** business, product, technology and organizatinal strategies (see [this section](storm) for more details),
+* **Aligning** business, product, technology and organizatinal strategies (see [this section](superglue) for more details),
 * **Process** optimizations and improvements, with real measurable impact on work of an organization,
 * **Cost** optimizations of systems, based on data informed decisions,
 * Developing pragmatic **technology strategies**, helping business reach goals in a sustainable way,
@@ -122,12 +144,12 @@ Mentoring junior architects is the most crucial aspect of senior architects' lea
 The section [Leadership](leadership) provides more details.
 
 
-## Balanced Development
+### Balanced Development
 
-Architects need to have a minimal "length" of all of these "legs" to be successful (Figure 3). For instance, having skills and impact without leadership frequently leads to hitting a glass ceiling. Such architects plateau at an intermediate level and cannot lead the company to innovative or transformative solutions. Leadership without impact lacks foundation and may signal that you have become an ivory tower architect with a weak relation to reality. And having impact and leadership qualities but no skills leads to impractical decisions not informed by in-depth knowledge.
+Architects need to have a minimal "length" of all of these "legs" to be successful (Figure 5). For instance, having skills and impact without leadership frequently leads to hitting a glass ceiling. Such architects plateau at an intermediate level and cannot lead the company to innovative or transformative solutions. Leadership without impact lacks foundation and may signal that you have become an ivory tower architect with a weak relation to reality. And having impact and leadership qualities but no skills leads to impractical decisions not informed by in-depth knowledge.
 
 ![](assets/images/arch/architect-legs.png)
-***Figure 3:** Architects need to have a minimal "length" of all of these "legs" to be successful.*
+***Figure 5:** Architects need to have a minimal "length" of all of these "legs" to be successful.*
 
  
 ## Questions to Consider
@@ -138,6 +160,10 @@ Being a superglue architect means constantly developing and redefining your role
 * *Reflect on your ability to connect the "business wheelhouse" and the "engine room" within your organization. How effectively do you bridge the gap between technical issues and business needs?*
 * *How strong are your relationships with developer teams, local business stakeholders, and broader internal communities? What strategies could you employ to strengthen these connections?*
 * *How much external visibility do you currently have? How could this be enhanced to promote the flow of ideas into and out of the organization?*
+* *Can you identify specific instances where tension occurred between your organization's technology, product, organization, and business functions? What caused this tension, and how was it addressed?*
+* *How does your current architecture aid in reducing tension between these functions? If it doesn't, what changes can you make to align these functions better?*
+* *Reflecting on your organization, have you witnessed the architecture sitting on the side, being ignored? If so, what steps can you take to involve architecture in decision-making processes actively?*
+* *Are conversations between the technical, product, organizational, and business functions encouraged and facilitated within your organization? If not, how might they be initiated and supported?*
 * *Considering the three legs of a successful architect (skills, impact, leadership), which do you consider your strongest? Which might need more development?*
 * *Assess your technical skills and ability to apply this knowledge in practice. How well do you balance hard (technical) skills, soft skills, and business domain knowledge?*
 * *How do you currently measure your impact within your organization? Could you identify and address more strategic problems to benefit the business?*

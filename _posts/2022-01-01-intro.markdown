@@ -44,10 +44,9 @@ Image by <a href="https://pixabay.com/users/fda54-145996/?utm_source=link-attrib
 <br>
 This book aims to share my approach to running an IT architecture practice in larger organizations based on my experience as Chief Architect at AVIV Group, eBay Classifieds, and Adevinta. I called this approach "grounded architecture," highlighting the need for any IT architecture function to stay well-connected to all levels of an organization and led by data.
 
-
 Grounded Architecture has two main parts:
-* **Structure**, elements you need to create in an organization to run Grounded Architecture practice, and
-* **Reflections**, a set of my considerations and guiding principles that can help put the ideas of Grounded Architecture into practice.
+* **Structure**, where you will learn which elements you need to create in an organization to run a Grounded Architecture practice, and
+* **Reflections**, where you will learn guiding principles that can help you put the ideas of Grounded Architecture into practice.
 
 The figure bellow shows the structure of the Grounded Architecture consisting of three elements:
 * [Data Pillar](data),
@@ -73,7 +72,6 @@ As a part of my work on Grounded Architecture, I also provide key lessons I lear
 * [Doing Architecture](doing-architecture):
   * [Culture Map: Architects' Culture Mindfield Compass](culture-map)
   * [Managing Organization Complexity: Six Simple Rules](six-simple-rules)
-  * [In the Eye of the Storm: Aligning Business, Product, Technology and Organization Strategies](storm)
   * [Product Development and The Build Trap](product-development)
   * [Architecture Governance: Mandates, Taxation, Nudge](flexible-governance)
   * [Economic Modeling: ROI and Financial Options](economics)
@@ -92,9 +90,9 @@ Lastly, my experience as a researcher at [Dutch Center for Computer Science and 
 
 ## Other Key Influences
 
-Gregor Hohpe's [Architecture Elevator](https://architectelevator.com/) view of architecture has heavily inspired my work. In many ways, my work reflects the lessons learned from implementing Gregor's ideas in practice. Gregor described modern architects' functions as aligning organization and technology, reducing friction, and charting transformation journeys. Such architects ride the Architect Elevator from the penthouse, where the business strategy is set, to the engine room, where engineers implement enabling technologies. They shun popular buzzwords favoring a clear strategy defined by conscious decision-making.
+Gregor Hohpe's [Architecture Elevator](https://architectelevator.com/) view of architecture has heavily inspired my work. In many ways, my work reflects the lessons learned from implementing Gregor's ideas in practice. Gregor described modern architects' functions as aligning organization and technology, reducing friction, and charting transformation journeys. Such modern architects ride the Architect Elevator from the penthouse, where the business strategy is set, to the engine room, where engineers implement enabling technologies. They shun popular buzzwords favoring a clear strategy defined by conscious decision-making.
 
-In my quest to define modern architectural roles, I used Staff+ Engineering roles as an inspiration for the development of architects. Tanya Reilly's book [The Staff Engineer's Path](https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/) and Will Larson's book [Staff Engineer: Leadership beyond the management track](https://staffeng.com/guides/staff-archetypes/) are a helpful guide in defining the responsibilities of architects. The Staff-plus engineering roles provide excellent examples for the development of modern architects.
+In my quest to define modern architectural roles, I used Staff+ Engineering jobs as an inspiration for the development of architects. Tanya Reilly's book [The Staff Engineer's Path](https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/) and Will Larson's book [Staff Engineer: Leadership beyond the management track](https://staffeng.com/guides/staff-archetypes/) are a helpful guide in defining the responsibilities of architects. The Staff-plus engineering roles provide excellent examples for the development of modern architects.
 
 Many other sources have influenced my work. You can find some of them in the [Bookshelf section](#bookshelf).
 
@@ -111,7 +109,7 @@ This book generalizes my experiences in a written form. I have written these art
 ![](assets/images/writing.png)
 ***Figure 1:** Writing a book helped me organize ideas, obtain new insights, improve principles and tools, and share the lessons learned.*
 
-Second, by generalizing and putting my experiences on paper, I hope to create more usable materials to help others in similar situations. I also expect helpful feedback from a broader community by sharing these materials.
+Second, by generalizing and putting my experiences on paper, I hope to create more usable materials to help others in similar situations. I also expect helpful feedback from a broader community.
 
 ## A Part of the Bigger Picture: A Trilogy in Four Parts
 
@@ -122,22 +120,22 @@ This book is a part of the [collection of open-source tools and resources](https
 
 The other resources include:
 
-* [**Sokrates**](https://sokrates.dev): is an open-source source code analysis tool that implements my vision of documenting and analyzing software architectures of complex systems. Sokrates provides a pragmatic, inexpensive way to extract rich data from source code repositories—no need for lengthy interviews and workshops. Just bring the code. Sokrates can help you understand your code by making the size, complexity, and coupling of software and all people interactions and team topologies visible.
+* [**Sokrates**](https://sokrates.dev): an open-source polyglot code analysis tool that implements my vision of documenting and analyzing software architectures of complex systems. Sokrates provides a pragmatic, inexpensive way to extract rich data from source code repositories. Sokrates can help you understand your code by making the size, complexity, and coupling of software and people interactions and team topologies visible.
 * [**Productivity Tools**](https://obren.io/tools): for years I have been building simple personal productivity tools.
-* [**359° Overview of Tech Trends**](https://www.obren359.com/) is my collection of knowledge resources with the most recent articles, podcasts, and videos from over 20 authoritative, high-quality sources (IEEE, ACM, GOTO Conf, SE Radio, Martin Fowler's site, Ph.D. Theses). Architects need to learn fast, and finding good knowledge sources is difficult.
+* [**359° Overview of Tech Trends**](https://www.obren359.com/) is my collection of knowledge resources with podcasts, and videos from over 20 authoritative, high-quality sources (IEEE, ACM, GOTO Conf, SE Radio, Martin Fowler's site, Ph.D. Theses). Architects need to learn fast, and finding good knowledge sources is difficult.
 
 You can find more details about these tools at my homepage **[obren.io](https://obren.io/)**.
 
 ## Who Should Read This Book?
 
-When writing this book, I had a broad audience in my mind. The article should be helpful to both technical and non-technical people. The report can help software engineers and architects understand their value and place in a broader organization. I also hope the articles show the less-technical audience the benefits of staying close to and well-connected with the technologists.
+When writing this book, I had a broad audience in my mind. The article should be helpful to both technical and non-technical people. The book can help IT architects to better understand their value and place in a broader organization. I also hope the articles show the less-technical audience the benefits of staying close to and well-connected with the technologists.
 
 
 ## The Structure of the Book
 
-I have organized the book into several main parts. In this introductory part, I have described the context in which my ideas have developed. 
+I have organized the book into several main parts. In the introductory part, I describe the context in which my ideas have developed. 
 
-In the second part, I discuss the Grounded Architecture approach describing its three elements: the data pillar, the people pillar, and the technology Architecture Activities Platform. 
+In the second part, I discuss the Grounded Architecture structure describing its three elements: the data pillar, the people pillar, and the Architecture Activities Platform. 
 
 In the third part, I talk about the Reflections of Grounded Architecture, grouped int to sections: Being Architect and Doing Architecture. 
 
@@ -146,17 +144,14 @@ I conclude with a summary and pointers to external resources for those who want 
 The [bookshelf](bookshelf) section shows many other books and resources that have influenced my approach and ideas. 
 
 
+## Stay Connected
+
+You can find additional resources and more resources online at:
+> [https://grounded-architecture.io](https://grounded-architecture.io/)
+
+Feel free to follow me on LinkedIn to see what I am up to:
+> [https://www.linkedin.com/in/zeljkoobrenovic](https://www.linkedin.com/in/zeljkoobrenovic)
+
 ## Acknowledgments
 
 Thank all eBay Classifieds Virtual Architecture Team (VAT) members and AVIV Group's Architecture Center of Excellence members who gave me invaluable feedback and discussions. Lastly, thank Peter Maas and Brent McLean for sponsoring and pushing for developing data-informed architecture in our organizations.
-
-
-## Questions to Consider
-
-In this introduction, I presented my motivation to write this book. To better prepare yourself for reading this book, think about the following questions:
-
-* *Are you applying the Software Architecture Elevator vision in your work? How?*
-* *Do you use data in your daily decision-making processes?*
-* *Which tools do you use for architectural work?*
-* *Do you share lessons you learn in your work with peers from other companies? Where?*
-* *Is your view of career development in architectural engineering biased? Which resources do you use?*

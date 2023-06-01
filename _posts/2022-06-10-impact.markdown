@@ -122,6 +122,8 @@ citizenship, design and architecture, and software engineering.
 
 #### <u>Citizenship</u>
 
+Architects should look broader and raise the bar of practices and behaviors in their organizations:
+
 * **Contribute to the broader technical community** through tech talks, education, publications, open source projects,
   etc.
 * **Have influence that extends** beyond their organization and reach the industry at large.

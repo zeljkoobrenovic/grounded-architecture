@@ -19,7 +19,7 @@ Image by iStock / Tashulia.
 <style>
  blockquote {
      border-left: 6px dotted #454545;
-     padding-left: 2px;
+     padding-left: 12px;
      margin-top: -10px;
      margin-bottom: 40px;
      margin-left: 2px;
@@ -42,10 +42,10 @@ Image by iStock / Tashulia.
  }
 </style>
 
+> **IN THIS SECTION, YOU WILL:** Get a cheatsheet with all key points from in all sections.
+
 ## Introduction
 
-This simple cheatsheet serves as a reference guide for topics discussed in follow-up sections.
- 
 ### [Context: Fast Moving Global Organizations](context)
 > * To better understand any idea or solution, it is crucial to understand the context in which these ideas developed. 
 > * The grounded architecture approach has developed in the context of global, loosely coupled organizations that are diverse, with non-linear growth dynamics, and under transformation pressures. 
@@ -114,10 +114,6 @@ This simple cheatsheet serves as a reference guide for topics discussed in follo
 > * Six Simple Rules emphasis that in today’s complicated business environment, you need to setup organisational structures based on cooperation. 
 > * To deal with complexity, organizations should depend on the judgment of their people and on these people cooperating to utilize the organization's capabilities to cope with complex problems. 
 > * This view is well aligned with the ideas of Grounded Architecture.
-
-### [In the Eye of the Storm: Aligning Business, Product, Technology and Organization Strategies](storm)
-> * I want architecture always to address one of the most challenging problems our organization faces: a tension between technology, product, organization, and business functions.
-> * Architecture should ensure that conversations happen between the technical, product, organizational, and business functions. 
 
 ### [Product Development and The Build Trap](product-development)
 > * The product trap occurs when businesses focus too much on their product’s features and functionalities, overlooking their customers’ actual needs and preferences.

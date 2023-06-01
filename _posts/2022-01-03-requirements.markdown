@@ -40,6 +40,7 @@ Image by <a href="https://pixabay.com/users/geralt-9301/?utm_source=link-attribu
 
 <br>
 Considering the scale and complexity of the organizational context I operated in, it was apparent that conventional approaches of doing architecture that rely on manual processes need to be revised. 
+
 <div class="quote">
 Considering the scale and complexity of the organizational context I operated in, it was apparent that conventional approaches of doing architecture that rely on manual processes need to be revised.
 </div>
@@ -71,7 +72,7 @@ Significant organic and inorganic changes are frequent and expected. The archite
 
 ## Questions to Consider
 
-Knowing what goals architecture practice needs to support in your organization is crucial to define structures and measuring your impact. Some of the plans may be universally applicable. Others may be unique to your context. Ask yourself the following questions:
+Knowing what goals architecture practice needs to support in your organization is crucial to define structures and measure your impact. Some of the plans may be universally applicable. Others may be unique to your context. Ask yourself the following questions:
 
 * *What is the scale of your architecture operations? Does your scale require special measures to ensure your architecture practice efficient operations?*
 * *What are the key decisions you need to make? Do you have the data to base your decisions?*
