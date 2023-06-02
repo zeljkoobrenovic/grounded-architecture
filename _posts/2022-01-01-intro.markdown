@@ -81,7 +81,7 @@ As a part of my work on Grounded Architecture, I also provide key lessons I lear
 
 The rest of this book will explain in detail the grounded architecture approach. In this section, I want to tell a few things about my motivation to write this book.
 
-### What Will you Learn?
+## What Will you Learn?
 
 The three parts of the book (Structure, Being Architecture, and Doing Architecture) correspond to the aspects of work of Chief Architects or Heads of Architecture that need to set up and run modern IT architecture practices:
 
@@ -95,7 +95,7 @@ I have organized my lessons and insights in a form that, if you recognize the pr
 
 This book is not technical. We will not discuss the details of public cloud design patterns, security, reliability, how to optimize computer loads, or select the proper data storage. As a modern architect, you will need these skills, of course, but there are already many great resources for them. This book is about expanding your horizons to apply your technical skills in complex organizations. Or to broaden your horizons as a head or manager of architects, to organize and support architects to use their technical skills more effectively as a team.
 
-### Is This A Proven Method?
+## Is This A Proven Method?
 
 Like with many similar books, you may be disappointed if you are looking for a scientifically proven "method" of running a modern architecture practice. This book is personal and opinionated, building on my daily experiences as an architect and running an architecture practice. While subjective, I believe this book provides valuable insights for IT architects, their managers, and people working with architects. I invite others to share the lessons they have learned similarly. Even if opinionated and limited in scope, such practical reflections based on concrete examples have much more value for practitioners than abstract debates, formal methods, or academic analyses.
 
@@ -105,7 +105,7 @@ In my quest to define modern architectural roles, I used Staff+ Engineering jobs
 
 Many other sources have influenced my work. Some of them are in the [Bookshelf section](#bookshelf).
 
-### A Bit of Personal History
+## A Bit of Personal History
 
 The work presented in this book builds on several years of my experience. Most of this work results from my current work as a Chief Architect at AVIV Group and previous works as a Principal Architect for eBay Classifieds and Adevinta.
 
@@ -115,7 +115,7 @@ My experience as a CTO of [Incision](https://incision.care), a startup, has help
 
 Lastly, my experience as a researcher at [Dutch Center for Computer Science and Mathematics (CWI)](https://www.cwi.nl/en/) and [Eindhoven Technical University (TU/e)](https://www.tue.nl/en/) provided me with a valuable background to do rigorous data analyses and research. From this research period, I want to highlight a collection of essays [Design Instability](https://design-instability.com/) I co-authored with Erik Stolterman, where we connected experiences of designing/architecting in three disciplines: classical design, UX design, and software engineering. This work has helped me better relate to and learn from non-technical fields necessary for architecture work.
 
-### Why This Book?
+## Why This Book?
 
 This book generalizes my experiences in a written form. I have written these articles for two reasons. Firstly, the act of writing helps me to clarify and improve my ideas (Figure 1). As Gregor Hohpe once noted, I free up some brain cells to learn new things with every sentence I write. As nicely described by Hohpe written word has distinct advantages over the spoken word:
 
@@ -129,7 +129,7 @@ This book generalizes my experiences in a written form. I have written these art
 
 Second, by generalizing and putting my experiences on paper, I hope to create more usable materials to help others in similar situations. I also expect helpful feedback from a broader community.
 
-### A Part of the Bigger Picture: A Trilogy in Four Parts
+## A Part of the Bigger Picture: A Trilogy in Four Parts
 
 This book is a part of the [collection of open-source tools and resources](https://obren.io/) I have built in the past ten years to help me in architectural work (Figure 2).
 
@@ -144,12 +144,12 @@ The other resources include:
 
 You can find more details about these tools at my homepage **[obren.io](https://obren.io/)**.
 
-### Who Should Read This Book?
+## Who Should Read This Book?
 
 When writing this book, I had a broad audience in my mind. The article should be helpful to both technical and non-technical people. The book can help IT architects to better understand their value and place in a broader organization. I also hope the articles show the less-technical audience the benefits of staying close to and well-connected with the technologists.
 
 
-### The Structure of the Book
+## The Structure of the Book
 
 I have organized the book into several main parts. In the introductory part, I describe the context in which my ideas have developed. 
 
@@ -162,7 +162,7 @@ I conclude with a summary and pointers to external resources for those who want 
 The [bookshelf](bookshelf) section shows many other books and resources that have influenced my approach and ideas. 
 
 
-### Stay Connected
+## Stay Connected
 
 You can find additional resources and more resources online at:
 * [https://grounded-architecture.io](https://grounded-architecture.io/)
@@ -170,6 +170,6 @@ You can find additional resources and more resources online at:
 Feel free to follow me on LinkedIn to see what I am up to:
 * [https://www.linkedin.com/in/zeljkoobrenovic](https://www.linkedin.com/in/zeljkoobrenovic)
 
-### Acknowledgments
+## Acknowledgments
 
 Thank all eBay Classifieds Virtual Architecture Team (VAT) members and AVIV Group's Architecture Center of Excellence members who gave me invaluable feedback and discussions. Lastly, thank Peter Maas and Brent McLean for sponsoring and pushing for developing data-informed architecture in our organizations.
