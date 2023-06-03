@@ -2,9 +2,6 @@
 
 # People Pillar {#people}
 
-![](assets/images/arch/construction-4939383_1920.jpg)
-^image by mostafa meraji from pixabay^
-
 **IN THIS SECTION, YOU WILL:**  Understand that architecture practice is all about people and get tips on creating organizational structures that support practical architecture functions.
 
 {pagebreak}
@@ -173,9 +170,6 @@ architecture teams and "[People Pillar](#people)":
   outside the organization is challenging.
 * Externalize. Reach out and connect. Participate in external events. Publish. Being strong externally can help you to
   both grow and attract architectural talent.
-
-![](assets/images/arch/pyramid-g88f894074_1920.jpg)
-^image by chantellev from pixabay^
 
 ## Questions to Consider
 

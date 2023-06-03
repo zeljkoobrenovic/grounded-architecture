@@ -2,9 +2,6 @@
 
 # Introduction {#intro}
 
-![](assets/images/arch/staircase-274614_1920.jpg)
-^image by fda54 from pixabay^
-
 **IN THIS SECTION, YOU WILL:** Understand what this book is about and how to use it.
 
 {pagebreak}
@@ -25,7 +22,7 @@ The figure bellow shows the structure of the Grounded Architecture consisting of
 * [People Pillar](#people),
 * [Architecture Activities Platform](#activities-platform).
 
-![](assets/images/model.png)
+![](assets/images/model.jpg)
 
 The *[Data Pillar](#data)* ensures that architects' decisions are data-informed, based on an up-to-date and complete overview of the organization's technology landscape.
 

@@ -2,9 +2,6 @@
 
 # Architecture Activities Platform {#activities-platform}
 
-![](assets/images/arch/parliament-366199_1920.jpg)
-^image by anja from pixabay^
-
 **IN THIS SECTION, YOU WILL:**  Understand what activities you can do as a part of architecture practice and get tips on creating pragmatic operating models.
 
 {pagebreak}

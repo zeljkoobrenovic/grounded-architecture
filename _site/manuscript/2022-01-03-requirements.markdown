@@ -2,9 +2,6 @@
 
 # Goals {#goals}
 
-![](assets/images/stress-gc7a712a2f_1920.jpg)
-^image by gerd altmann from pixabay^
-
 **IN THIS SECTION, YOU WILL:** Understand the requirements I identified for an architecture function in complex organizations.
 
 {pagebreak}
