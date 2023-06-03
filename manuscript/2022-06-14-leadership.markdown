@@ -26,7 +26,7 @@ One of the key benefits of a leader-leader model is that it creates a more colla
 David Marquet's book "Leadership is Language" provides practical advice for leaders looking to create a more collaborative, innovative, and inclusive organizational culture. He emphasizes the importance of language and communication in leadership and introduces the phrase "I intend to" as a powerful tool for clarifying intent and empowering team members (Figure 1). When team members give intent, the psychological ownership of those actions shifts to them, making them the originators of thought and direction instead of passive followers. This shift in language helps to promote a more collaborative work environment.
 
 ![](assets/images/arch/leader-leader.jpg)
-***Figure 1:** Leadership is Language: Intent-Based Leadership, by David Marquet.*
+***Figure 1:** Leadership language. Based on Intent-Based Leadership, by David Marquet.*
 
 I have found a phase "I intend to" to be a powerful catalyst for positioning architecture work. The phrase helps describe the work architect as someone others expect to take the initiative and lead efforts. But also to describe the desired interaction of architects with the teams they work with, where we hope teams share their intentions which architects can help improve.
 

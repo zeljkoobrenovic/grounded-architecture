@@ -118,7 +118,7 @@ In addition to creating spaces, as a community, we can further increase our lear
 Lastly, one of the problems many organizations face is that due to their complexity and size, they have more challenges in introducing new technologies than their disruptors (Figure 3). 
 
 ![](assets/images/superglue/internalizing-tech-trends.png)
-***Figure 3:** One crucial aspect of Architects' work is following external trends and finding pragmatic ways to introduce these trends in the organization. Credit: inspired by [thoughtworks.com/insights/blog/whats-hurry-building-digital-enterprise](https://www.thoughtworks.com/insights/blog/whats-hurry-building-digital-enterprise)*
+***Figure 3:** One crucial aspect of Architects' work is following external trends and finding pragmatic ways to introduce these trends in the organization. Inspired by [thoughtworks.com/insights/blog/whats-hurry-building-digital-enterprise](https://www.thoughtworks.com/insights/blog/whats-hurry-building-digital-enterprise)*
 
 We need more time to understand and utilize new technology developments while the number of new technologies is increasing due to, e.g., the continuous and accelerating evolution of cloud and mobile products. As architects, we must proactively identify relevant new technology developments. Based on our understanding of these developments, we must create pragmatic technology recommendations for concrete platforms across the organization.
 

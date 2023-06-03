@@ -66,7 +66,7 @@ Architects need to be [good communicators](https://architectelevator.com/strateg
 
 <img src="assets/images/arch/iStock-1308494001.jpg" style="width: 100%">
 <div style="text-align: center; font-size: 70%; color: grey; margin-bottom: 12px; margin-top: -12px;">
-Credits: Getty Images / iStock / LuckyBusiness.
+Image by Getty Images / iStock / LuckyBusiness.
 </div>
 
 

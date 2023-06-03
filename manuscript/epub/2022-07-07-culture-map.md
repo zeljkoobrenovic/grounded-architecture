@@ -29,8 +29,6 @@ The Culture Map shows positions along these eight scales for many countries. The
 
 Architects need to be [good communicators](https://architectelevator.com/strategy/complex-topics-stick/). But what do we mean when saying someone is a good communicator? The responses differ wildly from society to society. 
 
-![](assets/images/arch/iStock-1308494001.jpg)Credits: Getty Images / iStock / LuckyBusiness.
-
 Meyer compares cultures along the Communicating scale by measuring the degree to which they are high- or low-context, a metric developed by the American anthropologist Edward Hall. 
 
 In low-context cultures, good communication is precise, simple, explicit, and clear. People take messages at face value. Repetition, clarification, and putting messages in writing are appreciated. 
