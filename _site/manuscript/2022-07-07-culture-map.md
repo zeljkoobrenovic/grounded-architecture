@@ -32,7 +32,7 @@ The Culture Map shows positions along these eight scales for many countries. The
 
 Architects need to be [good communicators](https://architectelevator.com/strategy/complex-topics-stick/). But what do we mean when saying someone is a good communicator? The responses differ wildly from society to society. 
 
-![](assets/images/arch/iStock-1308494001.jpg)
+![](assets/images/arch/iStock-1308494001.jpg)Credits: Getty Images / iStock / LuckyBusiness.
 
 Meyer compares cultures along the Communicating scale by measuring the degree to which they are high- or low-context, a metric developed by the American anthropologist Edward Hall. 
 
@@ -40,7 +40,8 @@ In low-context cultures, good communication is precise, simple, explicit, and cl
 
 In high-context cultures, communication is sophisticated, nuanced, and layered. Statements are often not plainly stated but implied. People put less in writing, more is left open to interpretation, and understanding may depend on reading between the lines.
 
-![](assets/images/culturemap/communication.jpg)
+![](assets/images/culturemap/communication.jpg)Countries on the Communicating scale. Source: Erin Meyer.
+
 Architects should be able to understand and adapt to different communication styles. But when actively communicating, I find it crucial that architects provide low-context explanations. Architects will deal not only with the diverse cultural backgrounds of people but with different professional communities (technology, product, marketing, sales, finance, strategy), each with their own specific cultures and buzzwords. To bridge such diverse communities, communicating in a culture-sensitive and buzzword-free way is a valuable skill for any architect.
 
 ## 2. Evaluating

@@ -27,7 +27,6 @@ This simple cheatsheet serves as a reference guide for topics discussed in follo
 * The data pillar provides an architecture-centric view on data about a technology landscape based on source code analyses, public cloud billing reports, vibrancy reports, or incident tickets.
 * To facilitate creation of data pillars, I have been working on development open-source tools, such as [Sokrates](https://sokrates.dev), that can help obtain valuable architectural insights from data sources, such as source code repositories.
 
-
 ### People Pillar
 * Developing the architecture function requires having competent, empowered, and motivated architects. Any architecture function must carefully organize, empower,
     and leverage scarce architecture talent.
@@ -66,7 +65,6 @@ This simple cheatsheet serves as a reference guide for topics discussed in follo
 * Architects' career paths ideally stem from a strong engineering background.
 * I usually envision three tracks of seniority progression: Senior Architect, Principal Architect, and Enterprise Architect. 
 * Hiring architects requires constantly raising the bar to ensure a strong and diverse team structure.  
-
 
 ## Doing Architecture
 

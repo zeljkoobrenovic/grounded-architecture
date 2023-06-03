@@ -8,10 +8,12 @@ def copy_post(post):
 
     lines = []
 
-    with open('../' + post) as inputfile:
+    with open('../print/' + post) as inputfile:
         for line in inputfile:
             if line.startswith('^image by'):
                 lines.pop()
+            elif line.startswith('![](assets/images/superglue/superglue.png)'):
+                print('![](assets/images/superglue/superglue.png)')
             else:
                 lines.append(line)
 

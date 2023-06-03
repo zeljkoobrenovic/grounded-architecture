@@ -65,7 +65,9 @@ The Culture Map shows positions along these eight scales for many countries. The
 Architects need to be [good communicators](https://architectelevator.com/strategy/complex-topics-stick/). But what do we mean when saying someone is a good communicator? The responses differ wildly from society to society. 
 
 <img src="assets/images/arch/iStock-1308494001.jpg" style="width: 100%">
-<div style="text-align: center; font-size: 70%; color: grey; margin-bottom: 12px; margin-top: -12px;">Credits: Getty Images / iStock / LuckyBusiness.</div>
+<div style="text-align: center; font-size: 70%; color: grey; margin-bottom: 12px; margin-top: -12px;">
+Credits: Getty Images / iStock / LuckyBusiness.
+</div>
 
 
 Meyer compares cultures along the Communicating scale by measuring the degree to which they are high- or low-context, a metric developed by the American anthropologist Edward Hall. 
@@ -74,8 +76,8 @@ In low-context cultures, good communication is precise, simple, explicit, and cl
 
 In high-context cultures, communication is sophisticated, nuanced, and layered. Statements are often not plainly stated but implied. People put less in writing, more is left open to interpretation, and understanding may depend on reading between the lines.
 
-<img src="assets/images/culturemap/communication.jpg" style="">
-<div style="text-align: center; font-size: 70%; color: grey; margin-bottom: 12px">Countries on the Communicating scale. Source: Erin Meyer.</div>
+![](assets/images/culturemap/communication.jpg)
+***Figure 1:** Countries on the Communicating scale. Source: Erin Meyer.*
 
 <br>
 Architects should be able to understand and adapt to different communication styles. But when actively communicating, I find it crucial that architects provide low-context explanations. Architects will deal not only with the diverse cultural backgrounds of people but with different professional communities (technology, product, marketing, sales, finance, strategy), each with their own specific cultures and buzzwords. To bridge such diverse communities, communicating in a culture-sensitive and buzzword-free way is a valuable skill for any architect.
@@ -93,8 +95,8 @@ Image by <a href="https://pixabay.com/users/rickey123-5041749/?utm_source=link-a
 
 The Evaluating scale measures a preference for frank versus diplomatic negative feedback. Evaluating is different than the Communicating scale and many countries have different positions on the two scales. According to Meyers, the French, are high-context (implicit) communicators relative to Americans. Yet they are more direct in their criticism. Spaniards and Mexicans are at the same context level, but the Spanish is much franker when providing negative feedback.
 
-<img src="assets/images/culturemap/negative-feedback.jpg" style="">
-<div style="text-align: center; font-size: 70%; color: grey; margin-bottom: 12px">Countries on the Evaluating scale. Source: Erin Meyer.</div>
+![](assets/images/culturemap/negative-feedback.jpg)
+***Figure 2:** Countries on the Evaluating scale. Source: Erin Meyer.*
 
 <br>
 Providing constructive criticism in the right way is crucial for architects to make any impact. Sometimes the same feedback will lead to different reactions, even within the same teams with members from diverse backgrounds. Being too positive in some cultures leads to underestimation of the significance of the feedback. Being too negative may result in pushback and rejection. In my experience, architects need to adapt their feedback to the audience and do lots of "duplication" by presenting the same feedback differently to diverse groups.
@@ -112,10 +114,8 @@ Image by iStock / fizkes.
 One way to compare countries along the Persuading scale is to assess how they balance holistic and specific thought patterns. According to Meyers, a Western executive will break down an argument into a sequence of distinct components (specific thinking). At the same time, Asian managers tend to show how the pieces fit together (holistic thinking). Beyond that, people from southern European and Germanic cultures tend to find deductive arguments (principles-first arguments, building the conclusion from basic premises) most persuasive. In contrast, American and British managers are more likely to be influenced by inductive logic (applications-first logic). 
 
 
-<img src="assets/images/culturemap/persuading.jpg" style="">
-<div style="text-align: center; font-size: 70%; color: grey; margin-bottom: 12px">
-Countries on the Persuading scale. Source: Erin Meyer.
-</div>
+![](assets/images/culturemap/persuading.jpg)
+***Figure 3:** Countries on the Persuading scale. Source: Erin Meyer.*
 
 <br>
 Architects need to be able to persuade in both applications-first and principles-first ways. In addition to cultural differences, the additional complication comes from talking to diverse audiences. For instance, C-level executives typically have less time and may prefer applications-first presentations (“get to the point, stick to the point”). While in other parts of the company, you may need to spend a long time carefully building the argument following the principal first approach. I typically aim to prepare well for both, having a short management summary and easily retrievable all supporting evidence.
@@ -134,10 +134,8 @@ This scale places countries on a spectrum from egalitarian to hierarchical. Egal
 Image by iStock / jacoblund.
 </div>
 
-<img src="assets/images/culturemap/leading.jpg" style="">
-<div style="text-align: center; font-size: 70%; color: grey; margin-bottom: 12px">
-Countries on the Leading scale. Source: Erin Meyer.
-</div>
+![](assets/images/culturemap/leading.jpg)
+***Figure 4:** Countries on the Leading scale. Source: Erin Meyer.*
 
 <br>
 The difference in leadership styles can make an architect's work challenging. The same leadership style can lead different people to perceive an architect as weak (no leadership) and too hard (a dictator). The only way to create a working situation is to have an open conversation with the team and agree on expectations and the leadership approach. 
@@ -155,10 +153,8 @@ Image by iStock / fizkes.
 
 According to Meyers, we often assume that the most egalitarian cultures will be the most democratic, while the most hierarchical ones will allow the boss to make unilateral decisions. But this is not always the case. Germans are more hierarchical than Americans but more likely than their U.S. colleagues to build group agreements before making decisions. The Japanese are both strongly hierarchical and strongly consensus-minded.
 
-<img src="assets/images/culturemap/deciding.jpg" style="">
-<div style="text-align: center; font-size: 70%; color: grey; margin-bottom: 12px">
-Countries on the Deciding scale. Source: Erin Meyer.
-</div>
+![](assets/images/culturemap/deciding.jpg)
+***Figure 5:** Countries on the Deciding scale. Source: Erin Meyer.*
 
 <br>
 Similar to the Leading scale, the difference in deciding styles can make an architect's work complicated. I have been in situations where the different members of the same team have had radically different expectations regarding decision-making: some were sitting and waiting for an architect to come up with a decision, and others were offended by any decision that was not complete consensus. Again, the only way to create a working situation is to have an open conversation with the team and agree on expectations and the decision approach. One approach I used is a hybrid option: agreeing with a team to try to come up with a decision based on consensus but delegating the decision to an architect when an agreement was impossible.
@@ -179,10 +175,8 @@ In task-based cultures, trust is built cognitively through work. We feel mutual 
 
 In a relationship-based society, trust results from weaving a solid affective connection. We establish trust if we spend time laughing and relaxing together, get to know one another personally, and feel a mutual liking. 
 
-<img src="assets/images/culturemap/trust.jpg" style="">
-<div style="text-align: center; font-size: 70%; color: grey; margin-bottom: 12px">
-Countries on the Trusting scale. Source: Erin Meyer.
-</div>
+![](assets/images/culturemap/trust.jpg)
+***Figure 6:**: Countries on the Trusting scale. Source: Erin Meyer.*
 
 <br>
 Without trust, architects' impact is limited. In my view, the best way for architects to build trust is to align their working methods with the rituals of the teams they are working with. In particular, finding time to attend events such as all-hands or off-site gatherings of groups and having regular 1:1 meetings with key stakeholders can be an efficient way to gain trust.
@@ -198,10 +192,9 @@ Architectural work may lead to many disagreements and conflicts. Different cultu
 Image by iStock / fizkes
 </div>
 
-<img src="assets/images/culturemap/disagreeing.jpg" style="">
-<div style="text-align: center; font-size: 70%; color: grey; margin-bottom: 12px">
-Countries on the Disagreeing scale. Source: Erin Meyer.
-</div>
+![](assets/images/culturemap/disagreeing.jpg)
+***Figure 7:** Countries on the Disagreeing scale. Source: Erin Meyer.*
+
 <br>
 Like the Leading and Deciding scales, architects need to have an open conversation with the team and agree on how to disagree. Disagreeing is an unavoidable part of the work of architects that want to make an impact. Due to the higher diversity of their audiences, architects must also be extra attentive to the cultural aspects of disagreeing to avoid taking too personally what others consider a routine work discussion.
 
@@ -215,10 +208,8 @@ Architects will need to participate in many meeting and projects. All businesses
 Image by iStock / Bobex-73.
 </div>
 
-<img src="assets/images/culturemap/scheduling.jpg" style="">
-<div style="text-align: center; font-size: 70%; color: grey; margin-bottom: 12px">
-Countries on the Scheduling scale. Source: Erin Meyer.
-</div>
+![](assets/images/culturemap/scheduling.jpg)
+***Figure 8:** Countries on the Scheduling scale. Source: Erin Meyer.*
 
 <br>
 Due to more exposure to diverse audiences, my rule of thumb is that architects should be on time according to the more linear interpretation and tolerate those who are not. But more importantly, adapt to the overall rhythms.

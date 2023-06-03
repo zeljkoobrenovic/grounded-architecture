@@ -1,0 +1,118 @@
+
+
+# Context: Fast Moving Global Organizations {#context}
+
+**IN THIS SECTION, YOU WILL:** Understand the context in which the ideas in this book developed.
+
+{pagebreak}
+
+A> **KEY POINTS:**
+A> * To better understand any idea or solution, it is crucial to understand the context in which this idea developed. 
+A> * The grounded architecture approach has developed in the context of global, loosely coupled organizations that are diverse, with non-linear growth dynamics, and under transformation pressures. 
+A> * More specifically, the work I present here reflects my experiences as a Chief and Principal Architect at AVIV Group, eBay Classifieds, and Adevinta.
+
+To better understand any idea or solution, it is crucial to understand the context in which these ideas developed. My approach to creating and running an architecture function is not an abstract idea. Instead, it is the generalization of many lessons learned while solving specific problems in a particular context.
+
+I base my ideas on my experiences as a Chief and Principal Architect at AVIV Group, eBay Classifieds, and Adevinta. In this section, I discuss critical characteristics of the organizational context that have had an impact on my definition of the Grounded Architecture approach:
+* **global scale**: operating across multiple countries and continents with millions of users,
+* **multi-dimensional diversity**: the organizations I worked in were very diverse at all levels, including customer base, workforce, business models, team topologies, technology stacks,
+* **nonlinear growth dynamics**: in addition to organic growth, big organizations frequently change the portfolio both by mergers and acquisitions of new businesses and as well as by divestments,
+* **synergies and transformation pressures**: big organizations do not want just to be big, they want to exploit the benefits of the economies of scale and reduce duplication of efforts,
+* **decentralized, loosely-coupled organizational units**: organizational units have significant autonomy.
+
+In the following sub-sections, I discuss these characteristics in more detail from an architectural viewpoint.
+
+## Characteristic 1: Global Scale
+
+I was lucky to develop my approach in genuinely global and multicultural organizations. Global context leads to a massive scale:
+
+* Many geographies, cultures, and languages,
+* Millions of daily user visits,
+* Thousands of active software developers,
+* Hundreds of product and development teams,
+* Hundreds of millions of lines of source code.
+
+The global scale introduces several compelling opportunities. The global scale can increase organizational effectiveness due to reducing duplication of effort by centralizing shared activities. Second, the global scale enables leveraging economies of scale by achieving cost advantages, such as lowering unit prices of used technologies. Furthermore, the global scale can increase business resilience and flexibility, possibly compensating for negative local market changes with global resources. Global organizations also have a bigger talent pool to support local or international efforts. Lastly, such organizations have significant resources to invest in to support nonlinear growth through mergers and acquisitions (M&As).
+
+The global and massive scale has many challenges. It leads to high organizational complexity, with thousands of possible communication channels among the organization’s units. Global scale means having a complex technology landscape with many services and interconnections. An immense talent pool also means continuously high costs for the workforce. And such organizations also have constantly high costs of computing resources due to the need to serve many customers. Operating in many places and with high customer demands also increases the complexity of running operations with increased customer demands. With many data centers, services, and applications, global organizations have a huge attack surface, with many points on the boundary of their systems where an attacker can try to enter, cause an effect on, or extract data. Lastly, any manual process, such as diagram drawing to create an overview of the organizational or technology landscape, is limited due to scale.
+
+Balancing opportunities and challenges on a global scale is one of the most difficult and rewarding aspects of my architectural work.
+
+## Characteristic 2: Multi-Dimensional Diversity
+
+The organizations I worked on were very diverse across several dimensions:
+* Cultures: both in terms of (local and remote) workforce and customers,
+* Organization: different sizes, complexity, and styles of organizational units,
+* Product: with diverse sets of features covering many markets and different customer segments,
+* IT Architecture: with legacy and modern approaches mixed, and
+* Technology: with dozens of programming languages and thousands of thirds party libraries, frameworks, and services.
+
+Organization-wise, we had many units, such as local marketplaces (each with its sub-structures), global capabilities, enterprise IT teams, data capabilities, and generic IT infrastructure. These organizational units differed in multiple ways:
+* Size: for instance, some units had hundreds of developers, and some units had only a dozen.
+* Team topologies: some organizations had one team, while other teams were organized hierarchically, and 
+* Position of architecture: with some organizations having local architecture teams and local lead architects, smaller units have their team members conducting architecture activities in addition to other responsibilities.
+
+IT architecture-wise, we had many architectural styles in active production systems, ranging from legacy monolith applications to complex modern microservice and serverless ecosystems. Each part of the organization has a different history and a different legacy.
+
+And our technology covered almost any mainstream stacks. The technical infrastructure included several public cloud providers (AWS, GCP, Azure) and custom-built private data centers. The systems also employed diverse application technologies, such as:
+* Database technologies (e.g., MySQL, Postgress, MongoDB, Cassandra, AWS RDS...).
+* Backend programming languages (e.g., Java, C#, Go, Scala, PHP, Node.js, Kotlin...).
+* Mobile app programming languages (e.g., Swift, Objective-C, Java, Kotlin, Flutter/Dart...).
+* Frontend programming languages and frameworks (e.g., React, Android, AndroidJS, Vue, jQuery...).
+
+From an architectural perspective, diversity offers several opportunities. It can increase technology innovation due to a diverse workforce and the possibility of creatively exploring more technologies and tools. And it can help address diverse implementation needs better by choosing from a more extensive and diverse pool of resources (selecting the best tool for the job).
+
+Diversity also poses several challenges. High diversity increases overall system landscape complexity and the cognitive load of teams who must master many different topics simultaneously. Diversity can also reduce flexibility and reorganization possibilities as expertise is split among many domains and technologies. And the variety of technology stacks also may lead to higher technical debt due to many legacy components in many (outdated) technologies.
+
+From an architectural perspective, diversity is an excellent source of new possibilities but comes with challenges in controlling complexity.
+
+## Characteristic 3: Nonlinear Growth Dynamics
+
+Complex organizations like the one I have worked in are frequently very dynamic. Such organizations grow (or shrink) and reorganize often and significantly. They change both organically and inorganically. Organic growth is internal growth the company sees from its operations. Inorganic change comes from buying other businesses, opening new locations, or divesting.
+
+Nonlinear growth in particular may be helpful in several scenarios. It can quickly increase the customers base or whole market segments. and such growth can also speed up innovation due to the acquisition of new technologies or services.
+
+But nonlinear growth dynamics have significant influences on architectural activities. The sudden addition of new companies increased organizational complexity with many new units. Obtaining a new company also adds new technology and engineering units with processes and technology stacks. And nonlinear dynamics also require complex architecture to stay flexible if the organization decides to divest a part of the organization. Due to its complexity, nonlinear growth dynamics open up many challenges as they can lead to many surprises. And as Clemens Rettich stated, in business [there are no good surprises](https://www.linkedin.com/pulse/good-surprises-business-clemens-rettich/).
+
+## Characteristic 4: Synergy and Transformation Pressures
+
+Complex organizations do not just grow. Instead, they want to be more efficient and leverage economies of scale, cost synergies, or increase capacity for innovation. Our investors expect us to transform to be more than a sum of our original parts.
+
+Pressure for synergies and transformations can provide several opportunities. More synergies lead to cost reductions and less duplication. Such cost reductions can accelerate innovation due to more resources freed after synergies. By creating synergic components, we get more possibilities for reuse and sharing. And well-executed transformations can create more efficiencies and lower unit costs.
+
+Pressure to be more synergic and efficient has its challenges. Up-front investment is needed to gain any benefit. Such investment typically brings high risks. The productivity of some teams may (temporarily) drop due to the need to balance efforts between transformation activities and other work. And after transformations, the complexity of the organization and technology landscape may increase due to more dependencies, e.g., reusing central services.
+
+Synergies and transformation pressures can lead to high expectations and pressure that complicate regular architecture work. On the positive side, such forces can create many new opportunities.
+
+## Characteristic 5: Decentralization and Loose Coupling
+
+Researcher Karl Weick developed the concepts of tight and loose coupling to describe the organizational structure first in educational institutions and later applied to diverse businesses. According to Weick, a tightly coupled organization has mutually understood rules enforced by *inspection and feedback* systems. In tightly coupled organizations, management can more directly coordinate different departments' activities according to a central strategy.
+
+In a loosely coupled organization, some of the elements of a tightly coupled organization are absent. Employees have more autonomy, and different departments may operate with little coordination.
+
+Due to historical and strategic reasons, most organizational units I worked with were loosely coupled. Our companies frequently grow through acquisitions of companies in different marketplaces. The strategies also continually promoted a more independent evolution of each marketplace to better and faster address local market needs. Marketplaces often have a high level of autonomy, frequently with their development teams and sometimes with local, CFOs, CMOs, or CEOs.
+
+Loose coupling offers several advantages:
+* Higher flexibility: units can keep developing independently, addressing specific needs without synchronizing with other marketplaces.
+* High development speed / faster time-to-market: fewer dependencies make it much easier for marketplaces to change and evolve their products for local needs.
+* Innovation: possibilities to quickly explore ideas in smaller contexts.
+
+Loose coupling also has several challenges:
+
+* Duplication of effort: while local market needs differ, there is frequently a significant overlap in product features and technology. This overlap leads to duplication of effort as each marketplace creates solutions for the same problems.
+* Increased accidental diversity: limited synchronization offers flexibility but may lead to significantly different design choices, making it challenging to consolidate solutions, move people between teams, or benefit from the economy of scale.
+* Limited possibilities for central control: due to fewer dependencies and different goals, it is more difficult to introduce changes across the board.
+
+Loose coupling is architecture-wise an interesting challenge as it frequently leads to a conflict between global alignment and control and local autonomy.
+
+## Questions to Consider
+
+To better understand any idea or solution, it is crucial to understand the context in which these ideas developed. The same applies to applying concepts: contextualizing them in your organizations. When using ideas from this book, ask yourself how your organizational context differs from mine:
+
+* *What are the unique characteristics of your organizational context?*
+* *What is the scale of your organization? How it affects architecture function?*
+* *How diverse is your organization?*
+* *What are grow dynamics of your organization?*
+* *Are you experiencing synergy and transformation pressures?*
+* *How (de)centralized is your organization?*
+
