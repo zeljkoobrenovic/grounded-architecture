@@ -22,7 +22,7 @@ The figure bellow shows the structure of the Grounded Architecture consisting of
 * [People Pillar](#people),
 * [Architecture Activities Platform](#activities-platform).
 
-![](assets/images/model.jpg)
+![](assets/images/model.png)
 
 The *[Data Pillar](#data)* ensures that architects' decisions are data-informed, based on an up-to-date and complete overview of the organization's technology landscape.
 
