@@ -2,6 +2,9 @@
 
 # Managing Organizational Complexity: Six Simple Rules {#six-simple-rules}
 
+![](assets/images/arch/spices-g253b7ca36_1920.jpg)
+^image by nat aggiato from pixabay^
+
 **IN THIS SECTION, YOU WILL:**  Get an introduction to Six Simple Rules, a model for setting up organizational structures based on cooperation.
 
 {pagebreak}
@@ -54,6 +57,8 @@ This difference between **Autonomy** and **Self-Sufficiency** leads us to the se
 
 First rule states that you need to truly understand performance: **what people do** and **why they do it**. When you understand why people do what they do and how it drives performance, you can define the **minimum sufficient set of interventions with surgical accuracy**. 
  
+![](assets/images/arch/iStock-1179186162.jpg)
+^image by istock^
 
 ### General Guidelines
 
@@ -73,6 +78,8 @@ I have found architecture function can be very helpful in understand what people
 
 Reinforce integrators by looking at those **directly involved in the work**, giving them **power and interest to foster cooperation in dealing with complexity** instead of resorting to the paraphernalia of overarching hierarchies, overlays, dedicated interfaces, balanced scorecards, or coordination procedures.
  
+![](assets/images/arch/agree-g1f407320e_1920.png)
+^image by robert owen-wahl from pixabay^
 
 ### General Guidelines
 
@@ -92,6 +99,9 @@ Architecture function, in my view, is strongly related to reinforcing integrator
 
 Whenever you consider an **addition to** your organization’s **structure, processes, and systems**, think about **increasing the quantity of power**. Doing so may **save you from increasing complicatedness** and enable you to achieve a more significant impact with less cost. You can increase the quantity of power by enabling some functions to have an influence on new stakes that matter to others and performance. 
 
+![](assets/images/arch/iStock-1201215883.jpg)
+^image by istock^
+
 ### General Guidelines
  
 To increase the quantity of power, the Six Simple Rules approach recommends the following actions:
@@ -109,6 +119,9 @@ Architecture supports increasing power quantity with the **[operating model](act
 ## Simple Rule 4: Increase Reciprocity
 
 In the face of business complexity, work is becoming more inter-dependent. To meet multiple and often contradictory performance requirements, **people need to rely more on each other**. They need to **cooperate directly** instead of relying on dedicated interfaces, coordination structures or procedures that only add to complicatedness. 
+
+![](assets/images/arch/iStock-1072898930.jpg)
+^image by istock / natnan srisuwan.^
 
 ### General Guidelines
 
@@ -128,6 +141,9 @@ Architecture function is directly related to increasing reciprocity:
 Six Simple Rules emphasize the importance of making visible and clear **what happens tomorrow as a consequence of what they do today**. You can manage complex requirements by making simple changes while removing organizational complexity. With the strategic alignment typical of the hard approach, these simple solutions—for instance, career paths—often come at the end of a sequence that starts by installing the most cumbersome changes: new structure, processes, systems, metrics, etc. Simple and effective solutions are then impossible.
  
 
+![](assets/images/arch/trees-gc38b3c617_1920.jpg)
+^image by joe from pixabay^
+
 ### General Guidelines
 
 The Six Simple Rules approach identifies four ways to extend the shadow of the future: 
@@ -145,6 +161,9 @@ The architecture can extend the shadow of the future in multiple ways:
 ## Simple Rule 6: Reward Those Who Cooperate
 
 Lastly, the Six Simple Rules approach recommends that when you cannot create direct feedback loops embedded in people’s tasks, you need **management’s intervention to close the loop**. Managers must then use the familiar performance evaluation tool but in a very different way. 
+
+![](assets/images/arch/people-gac98109e9_1920.jpg)
+^image by stocksnap from pixabay^
 
 ### General Guidelines
 
