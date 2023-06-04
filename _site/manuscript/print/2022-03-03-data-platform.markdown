@@ -14,9 +14,10 @@ A> * The architecture data pillar serves as a medium to create a complete, up-to
 A> * The data pillar provides an architecture-centric view on data about a technology landscape based on source code analyses, public cloud billing reports, vibrancy reports, or incident tickets.
 A> * To facilitate creation of data pillars, I have been working on creating open-source tools, such as [Sokrates](https://sokrates.dev), that can help obtain valuable architectural insights from data sources, such as source code repositories.
 
-In every place I worked on creating architectural functions, I strongly emphasized data. In the past several years, I have been working on creating open-source tools, such as [Sokrates](https://sokrates.dev), that can help obtain valuable architectural insights from data sources, such as source code repositories or public cloud billing reports. Consequently, one of the first steps I make in any architecture role is to create an architecture data pillar to get a complete, up-to-date picture of critical elements of the technology landscapes of an organization. Manual documentation does not scale in [our context](#context), and relying on data ensures reliability and scalability. 
+In every place I worked on creating architectural functions, I strongly emphasized data. In the past several years, I have been working on creating open-source tools, such as [Sokrates](https://sokrates.dev), that can help obtain valuable architectural insights from data sources, such as source code repositories or public cloud billing reports. Consequently, one of the first steps I make in any architecture role is to create an architecture data pillar to get a complete, up-to-date picture of critical elements of the technology landscapes of an organization (Figure 1). Manual documentation does not scale in [our context](#context), and relying on data ensures reliability and scalability. 
 
 ![](assets/images/model-data.png)
+***Figure 1:** The structure of Grounded Architecture: The Data Pillar.*
 
 The good news is that big organizations have lots of data that, if used wisely, can provide an excellent basis for an architectural data pillar. With some automation and curation, getting a good overview of the technology landscape may be closer than it initially appears.
 
@@ -24,7 +25,7 @@ My vision for building the Data Pillar follows the map-making metaphor. Maps are
 
 ## Examples of Data Sources and Tools
 
-I've always aimed to get reliable data about technology with as much as possible automation. Some examples of data I used include:
+I've always aimed to get reliable data about technology with as much as possible automation. Some examples of data I used include (Figure 2):
 * **Source code**, which contains an incredible amount of information about technology, people's activity, team dependencies, and the quality of software systems.
 * **Public cloud billing reports**, which provide an overview and trends used cloud services, regions, and budgets.
 * **Incident reports**, which can reveal trends and dependencies among incidents.
@@ -34,7 +35,7 @@ I've always aimed to get reliable data about technology with as much as possible
 In the following sections, I detail several of these architectural data-driven tools.
 
 ![](assets/images/apps.png) 
-**Figure 1:** *A screenshot of the start page of the architecture data dashboard we've built and used at AVIV Group.*
+**Figure 2:** *A screenshot of the start page of the architecture data dashboard we've built and used at AVIV Group.*
 
 ### Example 1: Source Code and Commit History
 
@@ -61,10 +62,10 @@ And I encourage you to experiment with your source-code analyses.
 
 Migrating to the public cloud can dramatically increase transparency thanks to uniform automation and monitoring. The public cloud transparency offers an incredible amount of valuable data out-of-box.
 
-Figure 1 shows the anonymous screenshot of the Cloud usage explorer, a tool I built to visualize automatically-collected data from standard Google Cloud Platform (GCP) usage reports.
+Figure 3 shows the anonymous screenshot of the Cloud usage explorer, a tool I built to visualize automatically-collected data from standard Google Cloud Platform (GCP) usage reports.
 
 ![](assets/images/archdata/cloud-usage-explorer.png)
-***Figure 1:** An example of a cloud usage explorer.*
+***Figure 3:** An example of a cloud usage explorer.*
 
 [Amazon Web Services (AWS)](https://aws.amazon.com), [Google Cloud Platform (GCP)](https://cloud.google.com/), [Microsoft Azure](https://azure.microsoft.com/), and other Public Cloud Providers give detailed data about which platform uses which services, resource family, and budget. You can also understand which people and teams have access to each service. It is possible to get real-time information about cloud usage and understand the trends fully automatically.
 
@@ -99,19 +100,19 @@ While I do not want to prescribe the best technology, I can tell what I use in d
 Figures 3 to 7 show some insights from source code analyses with Sokrates. 
 
 ![](assets/images/archdata/src_1.png)
-**Figure 3**: *Sokrates can instantly create a helicopter view of the technology landscape, programming languages, active contributors, and commit trends.*
+**Figure 4**: *Sokrates can instantly create a helicopter view of the technology landscape, programming languages, active contributors, and commit trends.*
 
 ![](assets/images/archdata/src_2.png)
-**Figure 4**: *Sokrates can show detailed code and contributors' trends per repository, enabling zooming in each repository up to the code level.*
+**Figure 5**: *Sokrates can show detailed code and contributors' trends per repository, enabling zooming in each repository up to the code level.*
  
 ![](assets/images/archdata/src_5.png)
-**Figure 5**: *Sokrates can create a tech radar by tagging projects with identified technologies.*
+**Figure 6**: *Sokrates can create a tech radar by tagging projects with identified technologies.*
 
 ![](assets/images/archdata/src_3.png)
-**Figure 6**: *Sokrates can show contributor trends, distribution of "veterans" and "rookies," and dependencies between people and repositories, enabling zooming in into patterns of the contribution of individual contributors.*
+**Figure 7**: *Sokrates can show contributor trends, distribution of "veterans" and "rookies," and dependencies between people and repositories, enabling zooming in into patterns of the contribution of individual contributors.*
  
 ![](assets/images/arch/sokrates_teams.png)
-**Figure 7**: *Sokrates can reveal the team topologies by plotting 2D and 3D graphs of dependencies that people create through working on the same repositories in the same period.*
+**Figure 8**: *Sokrates can reveal the team topologies by plotting 2D and 3D graphs of dependencies that people create through working on the same repositories in the same period.*
 
 ## Questions to Consider
 

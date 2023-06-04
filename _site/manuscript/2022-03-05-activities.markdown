@@ -2,6 +2,9 @@
 
 # Architecture Activities Platform {#activities-platform}
 
+![](assets/images/arch/parliament-366199_1920.jpg)
+^image by anja from pixabay^
+
 **IN THIS SECTION, YOU WILL:**  Understand what activities you can do as a part of architecture practice and get tips on creating pragmatic operating models.
 
 {pagebreak}
@@ -15,10 +18,11 @@ Each organization will have different architectural needs and contexts. When for
  * *"Your organization has to earn its way to an effective architecture function. You can’t just plug some architects into the current mess and expect it to solve all your problems."*
 
 ![](assets/images/model-strategy.png)
+***Figure 1:** The structure of Grounded Architecture: Architecture Activities Platform.*
 
 Considering the previous two points from Gregor Hohpe, there is no one-size-fits-all approach: each organization must find activities and operating models to enable architecture to work on the most critical problems. 
 
-The Architecture Activities Platform is where we have to perform activities that help an organization reach its goals. The Architecture Activities Platform defines a set of processes and agreements enabling architects to do everything architecture typically does, leveraging data and people pillars to create a data-informed, organization-wide impact. In all these activities, data and people posts provide foundations for data-informed decision-making well-embedded in the organization.
+The Architecture Activities Platform (Figure 1) is where we have to perform activities that help an organization reach its goals. The Architecture Activities Platform defines a set of processes and agreements enabling architects to do everything architecture typically does, leveraging data and people pillars to create a data-informed, organization-wide impact. In all these activities, data and people posts provide foundations for data-informed decision-making well-embedded in the organization.
 
 ## Examples of Architecture Activities
 
@@ -38,10 +42,10 @@ Here are some examples of activities I have been performing with architects:
 
 While exact activities and their scope will depend on an organization setting and will change over time, I aimed to implement the common operational model in daily work.
 
-Inspired by Gregor Hohpe's strategy-principles-decisions model, I typically used the process illustrated in Figure 1.
+Inspired by Gregor Hohpe's strategy-principles-decisions model, I typically used the process illustrated in Figure 2.
 
 ![](assets/images/arch/architecture-system.png)
-**Figure 1:** *A common operating model I typically use for Grounded Architecture activities.*
+**Figure 2:** *A common operating model I typically use for Grounded Architecture activities.*
 
 A common operating model I typically use for Grounded Architecture activities is as follows:
 * Architects engage with stakeholders and product and project teams in a **collaborative and supportive manner**.

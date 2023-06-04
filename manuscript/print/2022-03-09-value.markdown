@@ -53,8 +53,8 @@ Misalignment frequently happens in big organizations. The [Data Pillar](#data) c
 * Before people decide, people starting to work simultaneously on the same topics can decide to work together, minimize effort duplication, and in that way, save time and resources.
 * After making a decision, Grounded Architecture can make all organizations aware of it and distribute it so everyone can profit from lessons learned in one unit.
 
-![](assets/images/Misalignment-1024x523.png)
-^image by henrik kniberg^
+![](assets/images/arch/iStock-165954660.jpg)
+^image by istock^
 
 ## Maximizing Organizational Learning
 A> *"Good judgment comes from experience, and experience comes from bad judgment."* -- Fred Brooks

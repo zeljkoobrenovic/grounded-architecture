@@ -2,6 +2,9 @@
 
 # Context: Fast Moving Global Organizations {#context}
 
+![](assets/images/arch/roller-coaster-3605743_1920.jpg)
+^image by paul brennan from pixabay^
+
 **IN THIS SECTION, YOU WILL:** Understand the context in which the ideas in this book developed.
 
 {pagebreak}
@@ -32,6 +35,9 @@ I was lucky to develop my approach in genuinely global and multicultural organiz
 * Hundreds of product and development teams,
 * Hundreds of millions of lines of source code.
 
+![](assets/images/arch/earth-g217b5730b_1920.jpg)
+^image by pete linforth from pixabay^
+
 The global scale introduces several compelling opportunities. The global scale can increase organizational effectiveness due to reducing duplication of effort by centralizing shared activities. Second, the global scale enables leveraging economies of scale by achieving cost advantages, such as lowering unit prices of used technologies. Furthermore, the global scale can increase business resilience and flexibility, possibly compensating for negative local market changes with global resources. Global organizations also have a bigger talent pool to support local or international efforts. Lastly, such organizations have significant resources to invest in to support nonlinear growth through mergers and acquisitions (M&As).
 
 The global and massive scale has many challenges. It leads to high organizational complexity, with thousands of possible communication channels among the organization’s units. Global scale means having a complex technology landscape with many services and interconnections. An immense talent pool also means continuously high costs for the workforce. And such organizations also have constantly high costs of computing resources due to the need to serve many customers. Operating in many places and with high customer demands also increases the complexity of running operations with increased customer demands. With many data centers, services, and applications, global organizations have a huge attack surface, with many points on the boundary of their systems where an attacker can try to enter, cause an effect on, or extract data. Lastly, any manual process, such as diagram drawing to create an overview of the organizational or technology landscape, is limited due to scale.
@@ -46,6 +52,9 @@ The organizations I worked on were very diverse across several dimensions:
 * Product: with diverse sets of features covering many markets and different customer segments,
 * IT Architecture: with legacy and modern approaches mixed, and
 * Technology: with dozens of programming languages and thousands of thirds party libraries, frameworks, and services.
+
+![](assets/images/arch/pictures-g139ff7ebb_1280.jpg)
+^image by simon from pixabay^
 
 Organization-wise, we had many units, such as local marketplaces (each with its sub-structures), global capabilities, enterprise IT teams, data capabilities, and generic IT infrastructure. These organizational units differed in multiple ways:
 * Size: for instance, some units had hundreds of developers, and some units had only a dozen.
@@ -70,6 +79,9 @@ From an architectural perspective, diversity is an excellent source of new possi
 
 Complex organizations like the one I have worked in are frequently very dynamic. Such organizations grow (or shrink) and reorganize often and significantly. They change both organically and inorganically. Organic growth is internal growth the company sees from its operations. Inorganic change comes from buying other businesses, opening new locations, or divesting.
 
+![](assets/images/arch/blur-g6bc6ee2cc_1920.jpg)
+^image by pexels from pixabay^
+
 Nonlinear growth in particular may be helpful in several scenarios. It can quickly increase the customers base or whole market segments. and such growth can also speed up innovation due to the acquisition of new technologies or services.
 
 But nonlinear growth dynamics have significant influences on architectural activities. The sudden addition of new companies increased organizational complexity with many new units. Obtaining a new company also adds new technology and engineering units with processes and technology stacks. And nonlinear dynamics also require complex architecture to stay flexible if the organization decides to divest a part of the organization. Due to its complexity, nonlinear growth dynamics open up many challenges as they can lead to many surprises. And as Clemens Rettich stated, in business [there are no good surprises](https://www.linkedin.com/pulse/good-surprises-business-clemens-rettich/).
@@ -77,6 +89,9 @@ But nonlinear growth dynamics have significant influences on architectural activ
 ## Characteristic 4: Synergy and Transformation Pressures
 
 Complex organizations do not just grow. Instead, they want to be more efficient and leverage economies of scale, cost synergies, or increase capacity for innovation. Our investors expect us to transform to be more than a sum of our original parts.
+
+![](assets/images/arch/gears-g06fe4e9a5_1920.jpg)
+^image by mustangjoe from pixabay^
 
 Pressure for synergies and transformations can provide several opportunities. More synergies lead to cost reductions and less duplication. Such cost reductions can accelerate innovation due to more resources freed after synergies. By creating synergic components, we get more possibilities for reuse and sharing. And well-executed transformations can create more efficiencies and lower unit costs.
 
@@ -89,6 +104,9 @@ Synergies and transformation pressures can lead to high expectations and pressur
 Researcher Karl Weick developed the concepts of tight and loose coupling to describe the organizational structure first in educational institutions and later applied to diverse businesses. According to Weick, a tightly coupled organization has mutually understood rules enforced by *inspection and feedback* systems. In tightly coupled organizations, management can more directly coordinate different departments' activities according to a central strategy.
 
 In a loosely coupled organization, some of the elements of a tightly coupled organization are absent. Employees have more autonomy, and different departments may operate with little coordination.
+
+![](assets/images/arch/world-trade-center-g707209d17_1920.jpg)
+^image by shire777 from pixabay^
 
 Due to historical and strategic reasons, most organizational units I worked with were loosely coupled. Our companies frequently grow through acquisitions of companies in different marketplaces. The strategies also continually promoted a more independent evolution of each marketplace to better and faster address local market needs. Marketplaces often have a high level of autonomy, frequently with their development teams and sometimes with local, CFOs, CMOs, or CEOs.
 

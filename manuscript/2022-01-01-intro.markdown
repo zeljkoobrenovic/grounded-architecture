@@ -2,6 +2,9 @@
 
 # Introduction {#intro}
 
+![](assets/images/arch/staircase-274614_1920.jpg)
+^image by fda54 from pixabay^
+
 **IN THIS SECTION, YOU WILL:** Understand what this book is about and how to use it.
 
 {pagebreak}
@@ -17,7 +20,7 @@ Grounded Architecture has two main parts:
 * **Structure**, where you will learn which elements you need to create in an organization to run a Grounded Architecture practice, and
 * **Reflections**, where you will learn guiding principles that can help you put the ideas of Grounded Architecture into practice.
 
-The Figure 1 shows the structure of the Grounded Architecture consisting of three elements:
+Figure 1 shows the structure of the Grounded Architecture consisting of three elements:
 * [Data Pillar](#data),
 * [People Pillar](#people),
 * [Architecture Activities Platform](#activities-platform).

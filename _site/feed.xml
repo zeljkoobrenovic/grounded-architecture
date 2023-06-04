@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-06-03T20:54:28+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: Redefining IT Architecture Practice</title><subtitle></subtitle><entry><title type="html">Favorite Quotes</title><link href="http://localhost:4000/quotes" rel="alternate" type="text/html" title="Favorite Quotes" /><published>2021-10-25T22:12:01+02:00</published><updated>2021-10-25T22:12:01+02:00</updated><id>http://localhost:4000/quotes</id><content type="html" xml:base="http://localhost:4000/quotes"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/books-g1b2675255_1920.jpg" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-06-04T19:52:19+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: Redefining IT Architecture Practice</title><subtitle></subtitle><entry><title type="html">Favorite Quotes</title><link href="http://localhost:4000/quotes" rel="alternate" type="text/html" title="Favorite Quotes" /><published>2021-10-25T22:12:01+02:00</published><updated>2021-10-25T22:12:01+02:00</updated><id>http://localhost:4000/quotes</id><content type="html" xml:base="http://localhost:4000/quotes"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/books-g1b2675255_1920.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/prettysleepy-2973588/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5430104">Amy</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5430104">Pixabay</a>
 </div>
@@ -404,7 +404,8 @@ I chose the term "Grounded Architecture" to highlight that the primary goal of m
   <li>The Architecture Activities Platform.</li>
 </ul>
 
-<p><img src="assets/images/model.png" alt="" /></p>
+<p><img src="assets/images/model.png" alt="" />
+<em><strong>Figure 1:</strong> The structure of Grounded Architecture.</em></p>
 
 <p>The <em>Data Pillar</em> is a collection of tools and resources that enables architects to make data-informed decisions based on a real-time and complete overview of the organization’s technology landscape. The <a href="data">Data Pillar section</a> provides more details.</p>
 
@@ -443,21 +444,22 @@ Image by <a href="https://pixabay.com/users/3844328-3844328/?utm_source=link-att
 </style>
 
 <p><br />
-In every place I worked on creating architectural functions, I strongly emphasized data. In the past several years, I have been working on creating open-source tools, such as <a href="https://sokrates.dev">Sokrates</a>, that can help obtain valuable architectural insights from data sources, such as source code repositories or public cloud billing reports. Consequently, one of the first steps I make in any architecture role is to create an architecture data pillar to get a complete, up-to-date picture of critical elements of the technology landscapes of an organization. Manual documentation does not scale in <a href="context">our context</a>, and relying on data ensures reliability and scalability.</p>
+In every place I worked on creating architectural functions, I strongly emphasized data. In the past several years, I have been working on creating open-source tools, such as <a href="https://sokrates.dev">Sokrates</a>, that can help obtain valuable architectural insights from data sources, such as source code repositories or public cloud billing reports. Consequently, one of the first steps I make in any architecture role is to create an architecture data pillar to get a complete, up-to-date picture of critical elements of the technology landscapes of an organization (Figure 1). Manual documentation does not scale in <a href="context">our context</a>, and relying on data ensures reliability and scalability.</p>
 
-<p><img src="assets/images/model-data.png" alt="" /></p>
+<p><img src="assets/images/model-data.png" alt="" />
+<em><strong>Figure 1:</strong> The structure of Grounded Architecture: The Data Pillar.</em></p>
 
 <p>The good news is that big organizations have lots of data that, if used wisely, can provide an excellent basis for an architectural data pillar. With some automation and curation, getting a good overview of the technology landscape may be closer than it initially appears.</p>
 
 <div class="quote">
- Manual documentation does not scale, and relying on data ensures reliability and scalability.
+Manual documentation does not scale, and relying on data ensures reliability and scalability.
 </div>
 
 <p>My vision for building the Data Pillar follows the map-making metaphor. Maps are one of the most critical documents in human history. They give us tools to store and exchange knowledge about space and place. While there are differences between maps and the layers they show, the one thing that all maps do is provide readers with <strong>orientation</strong>. A sense of place is central to meaning-making. Maps are also composed of multiple layers. Similarly, the architecture data pillar should give readers a sense of orientation, offering data layers about systems that describe their sizes, connections, quality, security, or human activity.</p>
 
 <h2 id="examples-of-data-sources-and-tools">Examples of Data Sources and Tools</h2>
 
-<p>I’ve always aimed to get reliable data about technology with as much as possible automation. Some examples of data I used include:</p>
+<p>I’ve always aimed to get reliable data about technology with as much as possible automation. Some examples of data I used include (Figure 2):</p>
 <ul>
   <li><strong>Source code</strong>, which contains an incredible amount of information about technology, people’s activity, team dependencies, and the quality of software systems.</li>
   <li><strong>Public cloud billing reports</strong>, which provide an overview and trends used cloud services, regions, and budgets.</li>
@@ -471,7 +473,7 @@ In every place I worked on creating architectural functions, I strongly emphasiz
 <p><img src="assets/images/apps.png" style="padding: 4px; padding-top: 8px; padding-bottom: 8px; box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px; margin-bottom: 6px" />
 <br /></p>
 
-<p><strong>Figure 1:</strong> <em>A screenshot of the start page of the architecture data dashboard we’ve built and used at AVIV Group.</em></p>
+<p><strong>Figure 2:</strong> <em>A screenshot of the start page of the architecture data dashboard we’ve built and used at AVIV Group.</em></p>
 
 <p><br /></p>
 <h3 id="example-1-source-code-and-commit-history">Example 1: Source Code and Commit History</h3>
@@ -508,11 +510,11 @@ Source code and its commit history include an astonishing amount of information 
 
 <p>Migrating to the public cloud can dramatically increase transparency thanks to uniform automation and monitoring. The public cloud transparency offers an incredible amount of valuable data out-of-box.</p>
 
-<p>Figure 1 shows the anonymous screenshot of the Cloud usage explorer, a tool I built to visualize automatically-collected data from standard Google Cloud Platform (GCP) usage reports.</p>
+<p>Figure 3 shows the anonymous screenshot of the Cloud usage explorer, a tool I built to visualize automatically-collected data from standard Google Cloud Platform (GCP) usage reports.</p>
 
 <p><img src="assets/images/archdata/cloud-usage-explorer.png" alt="" />
 <br />
-<em><strong>Figure 1:</strong> An example of a cloud usage explorer.</em></p>
+<em><strong>Figure 3:</strong> An example of a cloud usage explorer.</em></p>
 
 <p><a href="https://aws.amazon.com">Amazon Web Services (AWS)</a>, <a href="https://cloud.google.com/">Google Cloud Platform (GCP)</a>, <a href="https://azure.microsoft.com/">Microsoft Azure</a>, and other Public Cloud Providers give detailed data about which platform uses which services, resource family, and budget. You can also understand which people and teams have access to each service. It is possible to get real-time information about cloud usage and understand the trends fully automatically.</p>
 
@@ -556,27 +558,27 @@ Source code and its commit history include an astonishing amount of information 
 
 <p><br />
 <img src="assets/images/archdata/src_1.png" alt="" />
-<strong>Figure 3</strong>: <em>Sokrates can instantly create a helicopter view of the technology landscape, programming languages, active contributors, and commit trends.</em>
+<strong>Figure 4</strong>: <em>Sokrates can instantly create a helicopter view of the technology landscape, programming languages, active contributors, and commit trends.</em>
 <br />
 <br /></p>
 
 <p><img src="assets/images/archdata/src_2.png" alt="" />
-<strong>Figure 4</strong>: <em>Sokrates can show detailed code and contributors’ trends per repository, enabling zooming in each repository up to the code level.</em>
+<strong>Figure 5</strong>: <em>Sokrates can show detailed code and contributors’ trends per repository, enabling zooming in each repository up to the code level.</em>
 <br />
 <br /></p>
 
 <p><img src="assets/images/archdata/src_5.png" alt="" />
-<strong>Figure 5</strong>: <em>Sokrates can create a tech radar by tagging projects with identified technologies.</em>
+<strong>Figure 6</strong>: <em>Sokrates can create a tech radar by tagging projects with identified technologies.</em>
 <br />
 <br /></p>
 
 <p><img src="assets/images/archdata/src_3.png" alt="" />
-<strong>Figure 6</strong>: <em>Sokrates can show contributor trends, distribution of “veterans” and “rookies,” and dependencies between people and repositories, enabling zooming in into patterns of the contribution of individual contributors.</em>
+<strong>Figure 7</strong>: <em>Sokrates can show contributor trends, distribution of “veterans” and “rookies,” and dependencies between people and repositories, enabling zooming in into patterns of the contribution of individual contributors.</em>
 <br />
 <br /></p>
 
 <p><img src="assets/images/arch/sokrates_teams.png" alt="" />
-<strong>Figure 7</strong>: <em>Sokrates can reveal the team topologies by plotting 2D and 3D graphs of dependencies that people create through working on the same repositories in the same period.</em>
+<strong>Figure 8</strong>: <em>Sokrates can reveal the team topologies by plotting 2D and 3D graphs of dependencies that people create through working on the same repositories in the same period.</em>
 <br />
 <br /></p>
 
@@ -647,9 +649,10 @@ Strong Architecture = Strong Architects.
 architectural talent for granted. Architects are bridging local business, product, organizational, and technology
 issues. Architects are difficult to hire talent as they need not only in-depth technical knowledge but also
 domain-specific and organizational knowledge. Consequently, any architecture function must carefully organize, empower,
-and leverage scarce architecture talent.</p>
+and leverage scarce architecture talent (Figure 1).</p>
 
-<p><img src="assets/images/model-people.png" alt="" /></p>
+<p><img src="assets/images/model-people.png" alt="" />
+<em><strong>Figure 1:</strong> The structure of Grounded Architecture: The People Pillar.</em></p>
 
 <p>In my work in the past few years, I was working by combining, in different forms, two teams of architects: a small
 central architecture team and a cross-organizational distributed virtual team. A central architecture team is an enabler
@@ -663,10 +666,11 @@ implement change.</p>
 <p><br /></p>
 <h2 id="background-central-andor-federated-architecture-function">Background: Central and/or Federated Architecture Function</h2>
 
-<p>The architecture function generally follows one of two fundamental models: central or federated.
+<p>The architecture function generally follows one of two fundamental models: central or federated (Figure 2).
 (<a href="https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/tech-forward/crafting-the-optimal-model-for-the-it-architecture-organization">McKinsey 2022</a>).</p>
 
-<p><img src="assets/images/arch/arch_teams.png" alt="" /></p>
+<p><img src="assets/images/arch/arch_teams.png" alt="" />
+<em><strong>Figure 2:</strong> Central and/or Federated Architecture Function.</em></p>
 
 <p>The central model involves a large-scale central architecture team. The central team typically defines the process for
 approval of new work and assures adherence by development teams. In this model, development teams have few or no
@@ -772,15 +776,14 @@ information to ensure more involvement and commitment.</p>
 <h3 id="embracing-diverse-team-structures">Embracing Diverse Team Structures</h3>
 
 <p>When building architecture guilds and virtual architecture teams, it is essential to acknowledge that organizational
-units have very diverse structures and sizes. There is no one-fit-all solution about how departments should assign
-architecture responsibilities. I generally worked on three types of team-architect systems per Gregor Hohpe’s view of
-architects and their teams’ relationships (Figure 1). That means that some units have lead architects coordinating or
-leading multiple teams. We often have cases where an architect was a full-time member of a team working on specific
-products or other features. I also worked with teams with senior developers making
-architectural decisions.</p>
-
-<p><img src="https://esilva.net/assets/team-architecture-topologies.png" alt="" />
-<em><strong>Figure 1:</strong> A model for organizing (local) architects. Credit: <a href="https://architectelevator.com/architecture/organizing-architecture/">Gregor Hohpe</a>.</em></p>
+units have diverse structures and sizes. There is no one-fit-all solution about how departments should assign
+architecture responsibilities. I generally worked on three types of team-architect systems per <a href="https://architectelevator.com/architecture/organizing-architecture/">Gregor Hohpe’s view of
+architects and their teams’ relationships</a>:</p>
+<ol>
+  <li><strong>Benevolent “dictator”</strong>: An architect or architect team tells developers what to do or how to do things. An important nuance is to what extent the line is unidirectional or bi-directional.</li>
+  <li><strong>Primus inter pares (first among equals)</strong>: Architects are embedded into teams where each is just another team member focusing on the system structure and trade-offs, perhaps taking a longer-term view than other team members.</li>
+  <li><strong>Architecture without architects</strong>: Architecture is done within teams. However, the task is a shared responsibility across multiple (or all) team members. This approach can work quite well and is often the preferred model.</li>
+</ol>
 
 <p>In big organization, embracing diversity is a pre-requirements to have any broad impact.</p>
 
@@ -867,7 +870,8 @@ Each organization will have different architectural needs and contexts. When for
   <li><em>“Your organization has to earn its way to an effective architecture function. You can’t just plug some architects into the current mess and expect it to solve all your problems.”</em></li>
 </ul>
 
-<p><img src="assets/images/model-strategy.png" alt="" /></p>
+<p><img src="assets/images/model-strategy.png" alt="" />
+<em><strong>Figure 1:</strong> The structure of Grounded Architecture: Architecture Activities Platform.</em></p>
 
 <p>Considering the previous two points from Gregor Hohpe, there is no one-size-fits-all approach: each organization must find activities and operating models to enable architecture to work on the most critical problems.</p>
 
@@ -875,7 +879,7 @@ Each organization will have different architectural needs and contexts. When for
 There is no one-size-fits-all approach: each organization must find activities and operating models to enable architecture to work on the most critical problems. 
 </div>
 
-<p>The Architecture Activities Platform is where we have to perform activities that help an organization reach its goals. The Architecture Activities Platform defines a set of processes and agreements enabling architects to do everything architecture typically does, leveraging data and people pillars to create a data-informed, organization-wide impact. In all these activities, data and people posts provide foundations for data-informed decision-making well-embedded in the organization.</p>
+<p>The Architecture Activities Platform (Figure 1) is where we have to perform activities that help an organization reach its goals. The Architecture Activities Platform defines a set of processes and agreements enabling architects to do everything architecture typically does, leveraging data and people pillars to create a data-informed, organization-wide impact. In all these activities, data and people posts provide foundations for data-informed decision-making well-embedded in the organization.</p>
 
 <p><br /></p>
 <h2 id="examples-of-architecture-activities">Examples of Architecture Activities</h2>
@@ -899,14 +903,14 @@ There is no one-size-fits-all approach: each organization must find activities a
 
 <p>While exact activities and their scope will depend on an organization setting and will change over time, I aimed to implement the common operational model in daily work.</p>
 
-<p>Inspired by Gregor Hohpe’s strategy-principles-decisions model, I typically used the process illustrated in Figure 1.</p>
+<p>Inspired by Gregor Hohpe’s strategy-principles-decisions model, I typically used the process illustrated in Figure 2.</p>
 
 <div>
 <a href="assets/images/arch/architecture-system.png" target="_blank">
     <img src="assets/images/arch/architecture-system.png" />
 </a>
 </div>
-<p><strong>Figure 1:</strong> <em>A common operating model I typically use for Grounded Architecture activities.</em></p>
+<p><strong>Figure 2:</strong> <em>A common operating model I typically use for Grounded Architecture activities.</em></p>
 
 <p>A common operating model I typically use for Grounded Architecture activities is as follows:</p>
 <ul>
@@ -1056,9 +1060,9 @@ Image by <a href="https://pixabay.com/users/qimono-1962238/?utm_source=link-attr
   <li>After making a decision, Grounded Architecture can make all organizations aware of it and distribute it so everyone can profit from lessons learned in one unit.</li>
 </ul>
 
-<p><img style="width: 100%;" src="assets/images/Misalignment-1024x523.png" /></p>
+<p><img src="assets/images/arch/iStock-165954660.jpg" alt="" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by <a href="https://blog.crisp.se/2016/05/30/henrikkniberg/misalignment">Henrik Kniberg</a>
+Image by iStock
 </div>
 <p><br />
 <br /></p>

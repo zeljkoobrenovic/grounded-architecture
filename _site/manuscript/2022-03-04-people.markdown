@@ -2,6 +2,9 @@
 
 # People Pillar {#people}
 
+![](assets/images/arch/construction-4939383_1920.jpg)
+^image by mostafa meraji from pixabay^
+
 **IN THIS SECTION, YOU WILL:**  Understand that architecture practice is all about people and get tips on creating organizational structures that support practical architecture functions.
 
 {pagebreak}
@@ -26,9 +29,10 @@ Developing the architecture function requires having competent, empowered, and m
 architectural talent for granted. Architects are bridging local business, product, organizational, and technology
 issues. Architects are difficult to hire talent as they need not only in-depth technical knowledge but also
 domain-specific and organizational knowledge. Consequently, any architecture function must carefully organize, empower,
-and leverage scarce architecture talent.
+and leverage scarce architecture talent (Figure 1).
 
 ![](assets/images/model-people.png)
+***Figure 1:** The structure of Grounded Architecture: The People Pillar.*
 
 In my work in the past few years, I was working by combining, in different forms, two teams of architects: a small
 central architecture team and a cross-organizational distributed virtual team. A central architecture team is an enabler
@@ -41,10 +45,11 @@ implement change.
 
 ## Background: Central and/or Federated Architecture Function
 
-The architecture function generally follows one of two fundamental models: central or federated.
+The architecture function generally follows one of two fundamental models: central or federated (Figure 2).
 ([McKinsey 2022](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/tech-forward/crafting-the-optimal-model-for-the-it-architecture-organization)).
 
 ![](assets/images/arch/arch_teams.png)
+***Figure 2:** Central and/or Federated Architecture Function.*
 
 The central model involves a large-scale central architecture team. The central team typically defines the process for
 approval of new work and assures adherence by development teams. In this model, development teams have few or no
@@ -139,15 +144,12 @@ information to ensure more involvement and commitment.
 ### Embracing Diverse Team Structures
 
 When building architecture guilds and virtual architecture teams, it is essential to acknowledge that organizational
-units have very diverse structures and sizes. There is no one-fit-all solution about how departments should assign
-architecture responsibilities. I generally worked on three types of team-architect systems per Gregor Hohpe's view of
-architects and their teams' relationships (Figure 1). That means that some units have lead architects coordinating or
-leading multiple teams. We often have cases where an architect was a full-time member of a team working on specific
-products or other features. I also worked with teams with senior developers making
-architectural decisions.
-
-![](https://esilva.net/assets/team-architecture-topologies.png)
-***Figure 1:** A model for organizing (local) architects. Credit: [Gregor Hohpe](https://architectelevator.com/architecture/organizing-architecture/).*
+units have diverse structures and sizes. There is no one-fit-all solution about how departments should assign
+architecture responsibilities. I generally worked on three types of team-architect systems per [Gregor Hohpe's view of
+architects and their teams' relationships](https://architectelevator.com/architecture/organizing-architecture/):
+1. **Benevolent "dictator"**: An architect or architect team tells developers what to do or how to do things. An important nuance is to what extent the line is unidirectional or bi-directional.
+2. **Primus inter pares (first among equals)**: Architects are embedded into teams where each is just another team member focusing on the system structure and trade-offs, perhaps taking a longer-term view than other team members.
+3. **Architecture without architects**: Architecture is done within teams. However, the task is a shared responsibility across multiple (or all) team members. This approach can work quite well and is often the preferred model.
 
 In big organization, embracing diversity is a pre-requirements to have any broad impact.
 
@@ -170,6 +172,9 @@ architecture teams and "[People Pillar](#people)":
   outside the organization is challenging.
 * Externalize. Reach out and connect. Participate in external events. Publish. Being strong externally can help you to
   both grow and attract architectural talent.
+
+![](assets/images/arch/pyramid-g88f894074_1920.jpg)
+^image by chantellev from pixabay^
 
 ## Questions to Consider
 
