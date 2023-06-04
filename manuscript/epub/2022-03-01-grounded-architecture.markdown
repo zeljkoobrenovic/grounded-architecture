@@ -17,6 +17,7 @@ Grounded Architecture has three elements:
 * The Architecture Activities Platform.
 
 ![](assets/images/model.png)
+***Figure 1:** The structure of Grounded Architecture.*
 
 The *Data Pillar* is a collection of tools and resources that enables architects to make data-informed decisions based on a real-time and complete overview of the organization's technology landscape. The [Data Pillar section](#data) provides more details.
 
