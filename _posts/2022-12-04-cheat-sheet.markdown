@@ -48,7 +48,7 @@ Image by iStock / Tashulia.
 
 ### [Context: Fast Moving Global Organizations](context)
 > * To better understand any idea or solution, it is crucial to understand the context in which these ideas developed. 
-> * The grounded architecture approach has developed in the context of global, loosely coupled organizations that are diverse, with non-linear growth dynamics, and under transformation pressures. 
+> * The Grounded Architecture approach has developed in the context of global, loosely coupled organizations that are diverse, with non-linear growth dynamics, and under transformation pressures. 
 > * More specifically, the work I present here reflects my experiences as a Chief or Principal Architect at AVIV Group, eBay Classifieds, and Adevinta.
 
 ### [Goals](goals)
@@ -59,9 +59,9 @@ Image by iStock / Tashulia.
 
 ### [Data Pillar](data)
 
-> * The architecture data pillar serves as a medium to create a complete, up-to-date picture of critical elements of technology landscapes of big organizations. 
-> * The data pillar provides an architecture-centric view on data about a technology landscape based on source code analyses, public cloud billing reports, vibrancy reports, or incident tickets.
-> * To facilitate creation of data pillars, I have been working on development open-source tools, such as [Sokrates](https://sokrates.dev), that can help obtain valuable architectural insights from data sources, such as source code repositories.
+> * The architecture Data Pillar serves as a medium to create a complete, up-to-date picture of critical elements of technology landscapes of big organizations. 
+> * The Data Pillar provides an architecture-centric view on data about a technology landscape based on source code analyses, public cloud billing reports, vibrancy reports, or incident tickets.
+> * To facilitate creation of Data Pillars, I have been working on development open-source tools, such as [Sokrates](https://sokrates.dev), that can help obtain valuable architectural insights from data sources, such as source code repositories.
 
 
 ### [People Pillar](people)
@@ -74,7 +74,7 @@ Image by iStock / Tashulia.
     central architecture team and a cross-organizational distributed virtual team. 
 
 ### [Activities Platform](activities-platform)
-> * The Architecture Activities Platform defines a set of processes and agreements enabling architects to do everything architecture typically does, leveraging data and people pillars to create a data-informed, organization-wide impact.
+> * The Architecture Activities Platform defines a set of processes and agreements enabling architects to do everything architecture typically does, leveraging data and People Pillars to create a data-informed, organization-wide impact.
 > * Examples of activities include: supporting teams in their daily work; tracking tech debt, defining tech debt reduction programs; performing technical due diligence; standardization of processes and documentation; defining cloud, data, and platform strategies.
 
 ## Being Architect

@@ -69,7 +69,7 @@ The role of architecture in this form of governing should be to be **a stakehold
 
 The [Data Pillar](data) is crucial in creating clarity and transparency, for instance, via insights security reports or maps of areas in source code or infrastructure that needed monitoring and controlling based on privacy or security requirements.
 
-The [People Pillar](people) can help propagate the decision and ensure its positive impact and acceptance. You should never order or forbid people to do some things routinely. Spending enough time with all stakeholders to explain the reasons and motivations behind introducing some limitations is crucial to ensure the effective working of mandates and bans. A strong People pillar ensures that you already have strong connections with key stakeholders and can leverage them to change ways of working more smoothly.
+The [People Pillar](people) can help propagate the decision and ensure its positive impact and acceptance. You should never order or forbid people to do some things routinely. Spending enough time with all stakeholders to explain the reasons and motivations behind introducing some limitations is crucial to ensure the effective working of mandates and bans. A strong People Pillar ensures that you already have strong connections with key stakeholders and can leverage them to change ways of working more smoothly.
 
 <br>
 ## Taxation

@@ -8,7 +8,7 @@ author: by Željko Obrenović (obren.io)
 permalink: activities-platform
 icon: activities.png
 timetoread: 15 min
-excerpt: "The Architecture Activities Platform is the place where, by leveraging data and people pillars, we performed activities that help an organization to reach it goals. Here are some examples: supporting teams in their daily work; tracking tech debt, defining tech debt reduction programs; performing technical due diligence; standardization of processes and documentation; defining cloud, data, and platform strategies."
+excerpt: "The Architecture Activities Platform is the place where, by leveraging data and People Pillars, we performed activities that help an organization to reach it goals. Here are some examples: supporting teams in their daily work; tracking tech debt, defining tech debt reduction programs; performing technical due diligence; standardization of processes and documentation; defining cloud, data, and platform strategies."
 
 ---
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
@@ -20,7 +20,7 @@ Image by <a href="https://pixabay.com/users/cocoparisienne-127419/?utm_source=li
 >
 > **KEY POINTS:**
 >
-> * The Architecture Activities Platform defines a set of processes and agreements enabling architects to do everything architecture typically does, leveraging data and people pillars to create a data-informed, organization-wide impact.
+> * The Architecture Activities Platform is a system of processes and agreements enabling architects to do everything architecture typically does, leveraging data and People Pillars to create a data-informed, organization-wide impact.
 > * Examples of activities include: supporting teams in their daily work; tracking tech debt, defining tech debt reduction programs; performing technical due diligence; standardization of processes and documentation; defining cloud, data, and platform strategies.
 <style>
  .quote {
@@ -53,7 +53,7 @@ Considering the previous two points from Gregor Hohpe, there is no one-size-fits
 There is no one-size-fits-all approach: each organization must find activities and operating models to enable architecture to work on the most critical problems. 
 </div>
 
-The Architecture Activities Platform (Figure 1) is where we have to perform activities that help an organization reach its goals. The Architecture Activities Platform defines a set of processes and agreements enabling architects to do everything architecture typically does, leveraging data and people pillars to create a data-informed, organization-wide impact. In all these activities, data and people posts provide foundations for data-informed decision-making well-embedded in the organization.
+The Architecture Activities Platform (Figure 1) defines a set of processes and agreements enabling architects to do everything architecture typically does, leveraging data and People Pillars to create a data-informed, organization-wide impact. In all these activities, data and people posts provide foundations for data-informed decision-making well-embedded in the organization.
 
 <br>
 ## Examples of Architecture Activities
@@ -64,7 +64,7 @@ Here are some examples of activities I have been performing with architects:
 * **Supporting planned new initiatives and projects.** Ensuring alignment between projects that require multi-team collaboration.
 * **Supporting teams in dealing with the legacy landscape.** Providing data and knowledge regarding legacy landscape, identifying hotspots (e.g., frequently changed, low-quality untested pieces of legacy code), defining scenarios and roadmap for legacy modernization.
 * **Tracking tech debt, defining tech debt reduction programs.** Defining a centrally aligned backlog of technology depth, defining programs for its reduction and integration in planning processes.
-* **Performing SWOT and other analyses of platforms and systems.** Doing deep dives to better understand some areas of the technology landscape and create plans and roadmaps for improvement.
+* **Performing [SWOT](https://en.wikipedia.org/wiki/SWOT_analysis) and other analyses of platforms and systems.** Doing deep dives to better understand some areas of the technology landscape and create plans and roadmaps for improvement.
 * **Standardization of processes and documentation**. Defining common templates for documents such as Architectural Decision Records (ADRs), Technical Design Reviews (TDRs), or common diagrams.
 * **Supporting merger and acquisitions (M&A) activities with expertise and analyses.** Support analyses, recommendations, and integration planning regarding mergers and acquisitions.
 * **Defining key technology strategies.** Examples include Cloud, Data, and Platform strategies.
@@ -74,9 +74,7 @@ Here are some examples of activities I have been performing with architects:
 <br>
 ## Operating Model
 
-While exact activities and their scope will depend on an organization setting and will change over time, I aimed to implement the common operational model in daily work.
-
-Inspired by Gregor Hohpe's strategy-principles-decisions model, I typically used the process illustrated in Figure 2.
+While exact activities and their scope will depend on an organization setting and will change over time, I usually followed a common operational model in daily work.
 
 <div>
 <a href="assets/images/arch/architecture-system.png" target="_blank">
@@ -85,7 +83,7 @@ Inspired by Gregor Hohpe's strategy-principles-decisions model, I typically used
 </div>
 **Figure 2:** *A common operating model I typically use for Grounded Architecture activities.*
 
-A common operating model I typically use for Grounded Architecture activities is as follows:
+Inspired by Gregor Hohpe's strategy-principles-decisions model, I typically used the process illustrated in Figure 2.
 * Architects engage with stakeholders and product and project teams in a **collaborative and supportive manner**.
 * Architects are **empowering the teams** so that they make most of the decisions.
 * In all activities, architects do: 
@@ -104,24 +102,23 @@ Another characteristic of this operating model is **shifting left** the architec
 
 ### Distributing Decisions
 
-With proposed operating model, I aimed to keep architectural decision-making distributed across the organization and embedded in the development teams. Development teams traditionally have the best insights and most information relevant for making a decision. 
+With proposed operating model, I aimed to keep architectural decision-making distributed across the organization and embedded in the development teams. Development teams traditionally have the best insights and most information relevant for making a decision. As noted by Gregor Hohpe, the worst case of organizational decision-making happens when people with relevant information are not allowed to make decisions, while people who lack sufficient information make all decisions. Grounded Architecture aims to make relevant information more readily available to a broader audience and better connect people when making decisions.
+ 
 
 <div class="quote">
-Grounded architecture aims to make relevant information more readily available to a broader audience and better connect people when making decisions.
+Grounded Architecture aims to make relevant information more readily available to a broader audience and better connect people when making decisions.
 </div>
-
-As noted by Gregor Hohpe, the worst case of organizational decision-making happens when people with relevant information are not allowed to make decisions, while people who lack sufficient information make all decisions. Grounded architecture aims to make relevant information more readily available to a broader audience and better connect people when making decisions.
 
 ### Autonomy and Alignment 
 
 While I aim to create a mechanism to give teams autonomy, autonomy does not mean that teams are alone and do not align with anyone, do not get feedback from anyone, and do whatever they want. Autonomy must be complemented with high transparency and proactivity in alignment with other teams. 
 
-I have sometimes implemented the concept of a **decision pyramid** to give maximal autonomy to the teams while maintaining a **minimal** level of global **alignment and compatibility** (Figure 2).
+To give maximal autonomy to the teams while maintaining a **minimal** level of global **alignment and compatibility**, I have sometimes implemented the concept of a **decision pyramid**  (Figure 2).
 
 ![](assets/images/arch/decision-pyramid.jpg)
 ***Figure 2:** A decision pyramid. The development teams should make most decisions. However, several strategic and area-level decisions may provide decision boundaries for teams (e.g., a public cloud provider).*
 
-Development teams should make most of the decisions. However, several strategic and area-level choices may provide team decision boundaries. For example, selecting the public cloud provider is typically a CTO-level strategic decision. Similarly, engineering leaders may want to limit some choices, such as the number of programming languages, to more easily train new people, maintain code, and support moves between teams.
+The decision pyramid highlights that development teams should make most of the decisions. However, several strategic and area-level choices may provide team decision boundaries. For example, selecting the public cloud provider is typically a CTO-level strategic decision. Similarly, engineering leaders in some domains may want to limit some choices, such as the number of programming languages, to more easily train new people, maintain code, and support moves between teams.
 
 ## Questions to Consider
 

@@ -66,7 +66,7 @@ Sokrates can help you understand your code by making visible the size, complexit
 <img src="assets/images/books/productivity_tools.png" class="book">
 </td>
 <td>
-<b>Productivity Tools</b>: a collection of online tools I built to help me in my daily work as an architect. I reuse these tools and lessons learned in building these tools when designing data pillar parts of the grounded architecture.
+<b>Productivity Tools</b>: a collection of online tools I built to help me in my daily work as an architect. I reuse these tools and lessons learned in building these tools when designing Data Pillar parts of the Grounded Architecture.
 </td>
 <td style="font-size: 50%; line-height: 12px; text-align: center">
 <div>

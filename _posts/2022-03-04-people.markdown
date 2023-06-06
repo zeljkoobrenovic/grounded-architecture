@@ -23,11 +23,8 @@ Image by <a href="https://pixabay.com/users/mostafa_meraji-13551092/?utm_source=
 >
 > **KEY POINTS:**
 >
-> * Developing the architecture function requires having competent, empowered, and motivated architects. 
-> * Any architecture function must carefully organize, empower,
+> * Developing the architecture function requires having competent, empowered, and motivated architects. Any architecture function must carefully organize, empower,
     and leverage scarce architecture talent.
-> * We should not take architectural talent for granted. Architects are difficult to hire talent as they need not only 
-    in-depth technical knowledge but also domain-specific and organizational knowledge. 
 > * In my work in the past few years, I combined two teams of architects: a small central architecture team and a cross-organizational distributed virtual team.
 
  
@@ -81,8 +78,8 @@ implement change.
 <br>
 ## Background: Central and/or Federated Architecture Function
 
-The architecture function generally follows one of two fundamental models: central or federated (Figure 2).
-([McKinsey 2022](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/tech-forward/crafting-the-optimal-model-for-the-it-architecture-organization)).
+The architecture function generally follows one of two fundamental models: central or federated (Figure 2, 
+[McKinsey 2022](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/tech-forward/crafting-the-optimal-model-for-the-it-architecture-organization)).
 
 ![](assets/images/arch/arch_teams.png)
 ***Figure 2:** Central and/or Federated Architecture Function.*
@@ -129,7 +126,7 @@ similar topics.
 The roles of people in central teams may differ depending on the organization. In addition to doing typical architecture
 work, I found it helpful to be able to have people that can cover the following types of responsibilities:
 
-* **Build and maintain the architecture [Data Pillar](data).** Building a data pillar will not happen by
+* **Build and maintain the architecture [Data Pillar](data).** Building a Data Pillar will not happen by
   accident. It requires clear ownership, curation, and technical support.
 * **Promote data-informed decision-making.** identify, collect, and use relevant data. Only some people are used to
   applying data in their decision-making. Architects should provide support and be a role-model for data-informed
@@ -157,9 +154,9 @@ units but spend part-time collaborating with architects from other departments t
 and leverage each other's work. In this peer-to-peer community, architects are collectively responsible for identifying
 and growing architectural talent, mentoring, and helping each other.
 
-When having many guilds and teams, we have organized architects in several sub-areas:
+When having many guilds and teams, we typically have organized architects in several sub-areas:
 
-* General teams for a broader set of architectural topics.
+* General or core teams for a broader set of architectural topics.
 * Specialist teams focus on a particular part of the technology stack. Examples include native mobile apps, web
   frontends, public cloud infrastructure, etc.
 * Strategic initiatives teams. For instance, data strategy, public cloud strategy, transactions, or verticalization.
@@ -172,7 +169,7 @@ distributed teams followed a similar pattern of rituals:
   decisions (similar to Andrew
   Harmel-Law's [Advice Process](https://martinfowler.com/articles/scaling-architecture-conversationally.html))
 * Annual or bi-annual summit, with several days of intensive knowledge sharing and workshops
-* Ad-hoc workshops focusing on some explicit topic
+* Ad-hoc workshops focusing on some specific topic
 
 While the central team can provide some essential support, all communities must take the initiative and engage as many
 people as possible during these events. People should be active participants rather than passive receivers of
@@ -205,8 +202,7 @@ architecture teams and "[People Pillar](people)":
   leaders, regardless of their actual position and title, is vital. Being well-connected to these people will be crucial
   in any architecture organization, so you will always benefit from this effort.
 * If creating a virtual team is a part of your architecture strategy, move away from making an informal community of
-  practice towards building a team with more accountability and responsibility. It was helpful to get buy-in from key
-  stakeholders, e.g., Engineering Leaders who should want to get their people to work together with other architects.
+  practice towards building a team with more accountability and responsibility.
 * Connect with non-architecture stakeholders in the early stages. Again, being well-connected to
   these stakeholders will be crucial in any architecture organization.
 * Avoid hiring [digital hitman](https://architectelevator.com/transformation/dont-hire-hitman/). Invest in growing
