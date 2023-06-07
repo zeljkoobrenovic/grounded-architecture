@@ -106,9 +106,9 @@ The concept of a nudge was popularized by the book "Nudge: Improving Decisions A
 
 <br>
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
-     src="assets/images/arch/38280951874_fb51a740ff_c.png">
+     src="assets/images/arch/iStock-1390608248.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by <a href="https://foto.wuestenigel.com/hand-ready-to-push-domino-pieces/" target="_blank">Hand ready to push domino pieces</a> by <a href="https://linktr.ee/wuestenigel" target="_blank">Marco Verch</a> under <a href="https://creativecommons.org/licenses/by/2.0/" target="_blank">Creative Commons 2.0</a>
+Image by iStock
 </div>
 
 Richard Thaler and Cass Sunstein also introduced the concept of **choice architecture** as a key component of nudging. It refers to how the options are presented to individuals, which can significantly influence their choices. Choice architecture is the design of the decision-making environment, which includes the layout, structure, and organization of the options available.

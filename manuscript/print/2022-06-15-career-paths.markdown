@@ -13,7 +13,7 @@ A> **KEY POINTS:**
 A> * Architects' career paths ideally stem from a strong engineering background.
 A> * Hiring architects requires constantly raising the bar to ensure a strong and diverse team structure.  
 
-Hiring and developing architects will differ significantly per organization. Nevertheless, here I share some of the ideas and lessons learned here.
+Hiring and developing architects will differ significantly per organization. Nevertheless, here I share some of the ideas and lessons learned.
 
 ## Typical Architect's Career Paths
 
@@ -32,7 +32,7 @@ Stepping from an engineering position to an architecture requires three changes:
 All architect are responsible for the direction, quality, and approach within some critical area. They need to combine in-depth knowledge of technical constraints, user needs, and organization level leadership.
 
 After the role of an Architect, I usually envision three tracks of progression:
-* **Senior Architect**, a generalist with broader responsibilities to, who digs deep into complex issues and identifies a suitable course of action. They often navigate from one critical area to another, guided by the organization's direction.
+* **Senior Architect**, a generalist with broader responsibilities, who can dig deep into complex issues and identifies a suitable course of action. They often navigate from one critical area to another, guided by the organization's direction.
 * **Principal Architect**, a senior architect with a special focus on some area of strategic interest for an organization (e.g., data, distributed systems, frontend).
 * **Enterprise Architect**, being closer to product, management, strategy, and business functions, frequently serving as senior engineering leaders' right hand. 
 
@@ -40,7 +40,7 @@ But an architect's path can take many different directions and have many other n
 
 ## Hiring Architects
 
-Developing and hiring architects requires constantly raising the bar to ensure a strong and diverse team structure. Having more architects does not necessarily leads to a better team. Having good alignment and diversity of perspective is even more important for an architecture team than for other groups.
+Developing and hiring architects requires constantly raising the bar to ensure a strong and diverse team structure. Having more architects does not necessarily leads to a better team. Having good alignment and diversity of perspectives is even more important for an architecture team than for other groups.
 
 It is vital to take more active ownership of hiring architects. Due to the vast diversity of how different companies define the architect's role, recruiters may need help understanding the role's requirements.
 
@@ -48,7 +48,7 @@ While you will need to design your hiring process, the hiring process should ens
   * **[Technical skills](#skills)**: An architect must possess a strong technical background in the relevant areas, such as software development, infrastructure, cloud computing, and security. The process can assess their expertise through technical questions, tests, or case studies.
   * **[Communication and collaboration skills](#skills)**: Architects often work with stakeholders, including business leaders, developers, and project managers. Therefore, the process could evaluate the candidate's ability to communicate effectively, work in a team, and manage stakeholders.
   * **[Leadership and problem-solving abilities](#impact)**: As a senior member of the team, an architect should have strong leadership skills and the ability to solve complex problems. The process could assess the candidate's experience leading teams, making critical decisions, and resolving technical challenges.
-  * **[Cultural fit](Leadership)**: The process could also evaluate the candidate's fit with the company's culture, values, and mission. The cultural fit is vital to ensure the candidate shares the same vision and will likely thrive in the organization.
+  * **[Cultural fit](#leadership)**: The process could also evaluate the candidate's fit with the company's culture, values, and mission. The cultural fit is vital to ensure the candidate shares the same vision and will likely thrive in the organization.
 
 In terms of steps, I typically work with some version of the following process (after standard recruitment screening):
 

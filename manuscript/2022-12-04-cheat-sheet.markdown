@@ -4,6 +4,11 @@
 
 ![](assets/images/arch/iStock-1182643171.jpg)
 
+> **IN THIS SECTION, YOU WILL:** Get a cheatsheet with all key points from in all sections.
+
+{pagebreak}
+
+
 ## Introduction
 
 This simple cheatsheet serves as a reference guide for topics discussed in follow-up sections.

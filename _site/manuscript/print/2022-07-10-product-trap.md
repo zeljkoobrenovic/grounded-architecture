@@ -52,17 +52,19 @@ Product-led companies understand that the success of their products is the prima
 
 Critical elements of successful product-led companies include:
 
-2. **Understanding Customer Needs**: Successful companies understand customer needs, desires, and expectations to develop successful products. Businesses can gain valuable insights and tailor their products by conducting thorough market research and engaging with customers.
+1. **Understanding Customer Needs**: Successful companies understand customer needs, desires, and expectations to develop successful products. Businesses can gain valuable insights and tailor their products by conducting thorough market research and engaging with customers.
 
-3. **Adopting a Customer-Centric Approach**: Organizations need to adopt a customer-centric approach to product development to avoid the product trap. This approach means prioritizing customer satisfaction and incorporating their feedback throughout the entire product development process.
+2. **Adopting a Customer-Centric Approach**: Organizations need to adopt a customer-centric approach to product development to avoid the product trap. This approach means prioritizing customer satisfaction and incorporating their feedback throughout the entire product development process.
 
-4. **Executing Iterative Product Development**: Iterative product development is essential, continuously testing and refining the product based on customer feedback. An iterative process helps businesses identify and address potential issues before they become significant problems.
+3. **Executing Iterative Product Development**: Iterative product development is essential, continuously testing and refining the product based on customer feedback. An iterative process helps businesses identify and address potential issues before they become significant problems.
 
-5. **Aligning Business Goals with Customer Needs**: Businesses should align their goals and objectives with the needs of their customers. Doing so can ensure that their products deliver value and create a robust and loyal customer base.
+4. **Aligning Business Goals with Customer Needs**: Businesses should align their goals and objectives with the needs of their customers. Doing so can ensure that their products deliver value and create a robust and loyal customer base.
 
-6. **Embracing Innovation and Agility**: Businesses must be innovative and agile to adapt to rapidly changing customer preferences and market conditions. This adaptivity includes staying informed about the latest trends, technologies, and best practices in product development.
+5. **Embracing Innovation and Agility**: Businesses must be innovative and agile to adapt to rapidly changing customer preferences and market conditions. This adaptivity includes staying informed about the latest trends, technologies, and best practices in product development.
 
-7. **Measuring Success**: Accurately measuring a product's success is essential. Such measuring involves tracking key performance indicators (KPIs) and using data-driven insights to make informed product improvements and enhancements decisions.
+6. **Measuring Success**: Accurately measuring a product's success is essential. Such measuring involves tracking key performance indicators (KPIs) and using data-driven insights to make informed product improvements and enhancements decisions.
+
+Architects should be familiar with these characteristics, helping their product leads to operate an effective product development. 
 
 ## Questions to Consider
 

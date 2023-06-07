@@ -9,7 +9,7 @@
 
 A> **KEY POINTS:**
 A> * Architects in IT organizations should develop as “superglue,” people who hold architecture, technical details, business needs, and people together across a large organization or complex projects.
-A> * Architects need to be technically strong. But their unique strengths should stem from being able to relate, or glue, technical issues with business and broader issues.
+A> * Architects need to be technically strong. But their unique strengths should stem from being able to relate technical issues with business and broader issues.
 A> * Architects should stand on three legs: Skills, Impact, Leadership.
 
 In my view, architects in IT organizations should develop as “superglue.” I borrow the "superglue" view from [Adam Bar-Niv and Amir Shenhav from Intel](https://saturn2016.sched.com/event/63m9/cant-find-superheroes-to-help-you-out-of-a-crisis-how-about-some-architecture-and-lots-of-superglue). They pointed out that instead of the superhero, we need "superglue" architects - the people who hold architecture, technical details, business needs, and people together across large organizations or complex projects. More recently, Tanya Reilly presented a [similar view](https://noidea.dog/glue) concerning software engineering positions.
@@ -25,7 +25,7 @@ Architects must have good relationships with developer teams, local business sta
 
 ## Supergluing in Action: Reducing Tension among Business Function, Product, Technology, Organization
 
-The primary value of superglue architects in an organization is aligning business, product, technology, and organizational functions. While technology, product, organization, and business function face challenges, additional problems occur when there is tension among them (Figure 2). For example, we may organize teams using a well-defined domain model (organizational design). Still, if our system is a monolith (technical design), our teams will collaborate in a different pattern than domain splits suggest. On the other hand, if our teams are well aligned with the technology implementation (e.g., clear ownership of microservices), but the product architecture differs from the microservice domain split, we may need to change dozens of microservices when introducing relatively simple product features. Similarly, business benefits if they align their objectives with product or technology; otherwise, tense interactions will happen (e.g., try reducing short-term costs while adding new features and migrating to the public cloud). 
+The primary value of superglue architects in an organization is aligning business, product, technology, and organizational functions. While technology, product, organization, and business function face specific challenges, additional problems occur when there is tension among them (Figure 2). For example, we may organize teams using a well-defined domain model (organizational design). Still, if our system is a monolith (technical design), our teams will collaborate in a different pattern than domain splits suggest. On the other hand, if our teams are well aligned with the technology implementation (e.g., clear ownership of microservices), but the product architecture differs from the microservice domain split, we may need to change dozens of microservices when introducing relatively simple product features. Similarly, business benefits if they align their objectives with product or technology; otherwise, tense interactions will happen (e.g., try reducing short-term costs while adding new features and migrating to the public cloud). 
 
 ![](assets/images/tension.png)
 ***Figure 2:** The tensions between technology, product, organization, and business functions.*
@@ -35,7 +35,7 @@ The main problem of these tensions is that they slow things down due to miscommu
 ![](assets/images/tension-architecture.png)
 ***Figure 3:** Architects should be in the middle of reducing tensions between technology, product, organization, and business functions.*
 
-Getting the product/technology/organizational/business alignment right takes a lot of work, which is one of the main areas of architecture work. There will always be essential tension between system architecture, team organization, and product organization. Ideally, these structures all change simultaneously and stay in perfect sync. But in practice, these structures change and move at different speeds. All in all, this situation guarantees the job security of superglue architects.
+Getting the product/technology/organizational/business alignment right takes a lot of work, which is one of the main areas of architecture practice. There will always be essential tension between system architecture, team organization, and product organization. Ideally, these structures all change simultaneously and stay in perfect sync. But in practice, these structures change and move at different speeds. All in all, this situation guarantees the job security of superglue architects.
 
 ## Superglue Abilities
 
@@ -50,7 +50,7 @@ Setting the architects' goals to be "superglue" also requires some thought on de
 
 ### Skills 
 
-Architects have to have proper skill sets. By skills, I mean possessing knowledge and the ability to apply relevant knowledge in practice. These skills should include both technical (e.g., cloud architecture or Kubernetes technology) as well as communication and influence skills.
+Architects have to have proper skill sets, possessing both knowledge and the ability to apply relevant knowledge in practice. These skills should include both technical (e.g., cloud architecture or Kubernetes technology) as well as communication and influence skills.
 
 A typical skillset of an architects includes:
 * **Hard (technical) skills**, including extensive knowledge of for both new technology and legacy technology stacks,
@@ -61,15 +61,10 @@ The section [Skills](#skills) provides more details.
 
 ### Impact 
 
-Impact should be measured as a benefit for the business. Architects need to ensure that what they are doing profits the business:
-* They identify, tackle and deliver on **strategic problems** at the organization and area level.
-* They have a **track record of deep and/or broad impact** on a product or technology area. 
-* They **deliver solutions that few others can**, either by your **heavy lifting** or the **ability to orchestrate large group efforts**.
-
-Architects need to get out into the world and make an impact. Architects that do not make an impact **do not have a place in a for-profit business**. 
+Impact should be measured as a benefit for the business. Architects need to ensure that what they are doing profits the business. Architects that do not make an impact do not have a place in a for-profit business. 
 
 Examples of such impact may include:
-* **Aligning** business, product, technology and organizatinal strategies (see [this section](#superglue) for more details),
+* **Aligning** business, product, technology and organizatinal strategies,
 * **Process** optimizations and improvements, with real measurable impact on work of an organization,
 * **Cost** optimizations of systems, based on data informed decisions,
 * Developing pragmatic **technology strategies**, helping business reach goals in a sustainable way,
@@ -77,18 +72,17 @@ Examples of such impact may include:
 * Supporting **business innovation**, bringing new ideas in a pragmatic way aligned with business strategy and goals.
 
 The section [Impact](#impact) provides more details.
-In my view, architects in IT organizations should develop as “superglue.”
 
 ### Leadership
 
-Lleadership acknowledges that experienced architects should do more than make architecture: 
+Leadership acknowledges that experienced architects should do more than make architecture: 
 * They are a **role model for others** in the company on both the **technical** and **cultural** front.  
 * Their **technical influence** may extend **beyond you organization and reach the industry at large**. 
 * They **lead efforts** that **solve important problems** at the engineering area level. 
 * They may **contribute to the broader technical community** through **tech talks**, **education**, **publications**, **open source projects**, etc. 
 * They **raise the bar of the engineering culture** across the company.
 
-Mentoring junior architects is the most crucial aspect of senior architects' leadership. Feedback cycles in (software) architecture are inherently slow. Mentoring can save new architects many years of learning by doing and making mistakes. The [People Pillar](#people) should create spaces for such coaching and collaborations.
+Mentoring junior architects is the most crucial aspect of senior architects' leadership. Feedback cycles in (software) architecture are inherently slow. Mentoring can save new architects many years of learning by doing and making mistakess.
 
 The section [Leadership](#leadership) provides more details.
 

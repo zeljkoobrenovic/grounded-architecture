@@ -39,7 +39,7 @@ Image by <a href="https://pixabay.com/users/darksouls1-2189876/?utm_source=link-
 >
 > * I introduce several principles and ideas I found helpful for running the Grounded Architecture practice.
 
-In the following sections, drawing inspiration from different sources, I will  introduce several principles and ideas I found helpful for running the Grounded Architecture practice:
+In the following sections, I will introduce several helpful principles and ideas for running the Grounded Architecture practice. I focus on several topics not typically covered in IT architecture literature, drawing inspiration from different sources:
 
 * **[The Culture Map: Architects' Culture Mindfield Compass](culture-map)**: In multinational organizations, architects will need to work with many different cultures. I have found the work of Erin Meyer, The Culture Map, to be a very helpful tool for architects to work harmoniously with people from a broad array of different cultures and backgrounds.
 * **[Managing Organizational Complexity: Six Simple Rules](six-simple-rules)**: Six Simple Rules emphasis that in today’s complicated business environment, you need to setup organisational structures based on cooperation. To deal with complexity, organizations should depend on the judgment of their people and on these people cooperating to utilize the organization's capabilities to cope with complex problems. This view is well aligned with the ideas of Grounded Architecture.

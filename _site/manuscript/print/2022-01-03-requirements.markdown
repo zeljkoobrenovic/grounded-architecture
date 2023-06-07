@@ -18,15 +18,15 @@ More specifically, I identified the following needs that an architecture functio
 
 ### Goal 1: Executing At Scale
 
-We needed to find a way to support hundreds of teams, and thousands of projects, with significant complexity and diversity.
+We needed to find a way to support all of the hundreds of teams, and thousands of projects, with significant complexity and diversity.
 
 ### Goal 2: Increasing Quality of Decisions with Data
 
-Intuition does not work at scale. We need tools and mechanisms to make a decision process more data-informed and less dependent on opinions.
+Intuition does not work at scale. We need tools and mechanisms to make a decision process more data-informed and less dependent on opinions. Furthermore, complex organizations' cultural and organizational diversity makes opinion-driven decision-making processes highly ineffective.
 
 ### Goal 3: Maximizing Organizational Alignment
 
-In a global, diverse, fast-moving organization, misalignment is a natural state. The architecture function should be a cohesive factor in minimizing such misalignments.
+Misalignment is a natural state in a global, diverse, fast-moving organization. The architecture function should be a cohesive factor in minimizing such misalignments. Otherwise, architecture may accelerate the creation of chaos.
 
 ### Goal 4: Maximizing Organizational Learning
 
@@ -34,13 +34,13 @@ In complex organizations with lots of effort needed to maintain legacy systems, 
 
 ### Goal 5: Adaptivity
 
-Significant organic and inorganic changes are frequent and expected. The architecture function must adapt quickly to stay relevant in a new context.
+Significant organic and inorganic changes are frequent and expected. The architecture function must adapt quickly to stay relevant in new contexts.
 
 ## Questions to Consider
 
 Knowing what goals architecture practice needs to support in your organization is crucial to define structures and measure your impact. Some of the plans may be universally applicable. Others may be unique to your context. Ask yourself the following questions:
 
-* *What is the scale of your architecture operations? Does your scale require special measures to ensure your architecture practice efficient operations?*
+* *What is the scale of your architecture function? Does your scale require special measures to ensure your architecture practice efficient operations?*
 * *What are the key decisions you need to make? Do you have the data to base your decisions?*
 * *How aligned are units in your organizations? How much friction is there? How can architecture function help?*
 * *How much is your organization learning? How is the learning supported?*
