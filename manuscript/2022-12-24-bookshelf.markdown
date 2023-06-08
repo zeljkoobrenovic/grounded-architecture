@@ -2,6 +2,7 @@
 # Bookshelf {#bookshelf}
 
 ![](assets/images/arch/library-5641389_1920.jpg)
+^image by Oli Götting from pixabay^
 
 **IN THIS SECTION, YOU WILL:** Get an overview of the background work for you to probe further, linking several external resources inspiring my work.
 

@@ -20,12 +20,13 @@ Grounded Architecture has two main parts:
 * **Structure**, defining elements you need to have to run Grounded Architecture practice, and
 * **Guiding Principles**, a set of my considerations and guiding principles that can help put the ideas of Grounded Architecture into practice.
 
-The structure of the Grounded Architecture consisting of three elements:
+The structure of the Grounded Architecture consisting of three elements (Figure 1):
 * The Data Pillar,
 * The People Pillar,
 * The Architecture Activities Platform.
 
 ![](assets/images/model.png)
+***Figure 1:** The structure of Grounded Architecture.*
 
 The *Data Pillar* ensures that architects can make data-informed decisions based on a real-time and complete overview of the organization's technology landscape.
 
