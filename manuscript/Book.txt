@@ -18,7 +18,7 @@ Part3.txt
 2022-07-06-doing-architecture.markdown
 2022-07-07-culture-map.md
 2022-07-08-six-simple-rules.md
-2022-07-10-product-trap.md
+2022-07-10-product.md
 2022-07-12-governance.markdown
 2022-07-15-economics.md
 Part4.txt
