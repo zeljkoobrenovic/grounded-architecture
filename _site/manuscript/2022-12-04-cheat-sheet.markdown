@@ -88,10 +88,9 @@ This simple cheatsheet serves as a reference guide for topics discussed in follo
 * Architecture should ensure that conversations happen between the technical, product, organizational, and business functions. 
 
 ### Product Development and The Build Trap
-* The product trap occurs when businesses focus too much on their product’s features and functionalities, overlooking their customers’ actual needs and preferences.
-* There are three bad product-development organizations: sales, visionary, and technology led companies, .
-* There are several bad product manager archetypes: Mini-CEO, Waiter, and Former Project Manager.
-* Critical elements of successful product-led companies include: Understanding Customer Needs, Adopting a Customer-Centric Approach, Executing Iterative Product Development, Aligning Business Goals with Customer Needs, Embracing Innovation and Agility, and Measuring Success.
+* When it comes to product development, I generally recommend two resources for architects: “Escaping the Build Trap: How Effective Product Management Creates Real Value” by Melissa Perri, and “The Discipline of Market Leader”, by Michael Treacy and Fred Wiersema. 
+* The build trap occurs when businesses focus too much on their product’s features and functionalities, overlooking their customers’ actual needs and preferences.
+* The Discipline of Market Leader highlights three strategic paths a company can use to achieve market leadership: operational excellence, product leadership, and customer intimacy. 
 
 ### Architecture Governance: Mandates, Taxation, Nudge
 * Grounded Architecture supports governance models adaptable to organizations' complex and diverse needs. I see a technology governance model as a well-balanced hybrid of three different styles of governing: mandates and bans, taxes, and nudging.
