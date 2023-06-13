@@ -43,7 +43,7 @@ In this playbook, I explained an approach to running an architecture practice in
 
 Grounded Architecture has two main parts:
 * **Structure**, defining elements you need to have to run Grounded Architecture practice, and
-* **Guiding Principles**, a set of my considerations and guiding principles that can help put the ideas of Grounded Architecture into practice.
+* **Guiding Principles**, a set of guiding principles that can help put the ideas of Grounded Architecture into practice.
 
 The structure of the Grounded Architecture consisting of three elements:
 * The Data Pillar,
@@ -58,7 +58,7 @@ The *People Pillar* is another essential element of Grounded Architecture. A str
 
 Lastly, the *Architecture Activities Platform*  defines a set of processes and agreements enabling architects to do everything architecture typically does, leveraging data and People Pillars to create a data-informed, organization-wide impact.
 
-As a part of my work on Grounded Architecture, I also provided key lessons I learned while developing ideas of Grounded Architecture in practice, grouped into two parts:
+As a part of my work on Grounded Architecture, I also provided several guiding principles and tools that I found helpful to introduce the ideas of Grounded Architecture in practice. I grouped these resources into two parts:
 
 * [Being an Architect](being-architect):
   * [Architects as Superglue](superglue)

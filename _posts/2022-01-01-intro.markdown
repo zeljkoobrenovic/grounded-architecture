@@ -48,8 +48,8 @@ h3 {
 This book aims to share my approach to running an IT architecture practice in larger organizations based on my experience as Chief Architect at AVIV Group, eBay Classifieds, and Adevinta. I called this approach "grounded architecture," highlighting the need for any IT architecture function to stay well-connected to all levels of an organization and led by data.
 
 This book will introduce Grounded Architecture as an architecture function system with two main parts:
-* **Structure**, where you will learn which elements you need to create in an organization to run a Grounded Architecture practice, and
-* **Guiding Principles**, where you will get guidelines and hints on how to put the ideas of Grounded Architecture into practice.
+* **Structure**, defining elements you need to have to run Grounded Architecture practice, and
+* **Guiding Principles**, a set of guiding principles that can help put the ideas of Grounded Architecture into practice.
 
 Figure 1 shows the structure of the Grounded Architecture consisting of three elements:
 * [Data Pillar](data),
@@ -59,13 +59,13 @@ Figure 1 shows the structure of the Grounded Architecture consisting of three el
 ![](assets/images/model.png)
 ***Figure 1:** The structure of Grounded Architecture.*
 
-The *[Data Pillar](data)* will teach you how to define a system of tools, resources, and processes to ensure that architects' decisions are data-informed, based on an up-to-date and complete overview of the organization's technology landscape.
+The *[Data Pillar](data)* ensures that architects can make data-informed decisions based on a real-time and complete overview of the organization's technology landscape.
 
-The *[People Pillar](people)* will teach you how to create a strong network of people doing architecture across the organization, which is crucial to ensure that the architecture function has any tangible impact.
+The *[People Pillar](people)* is another essential element of Grounded Architecture. A strong network of people doing architecture across the organization is crucial to ensure that architecture function has any tangible impact.
 
-Lastly, the *[Architecture Activities Platform](activities-platform)* will teach you how to define a set of processes and agreements enabling architects to do everything architecture typically does, leveraging data and People Pillars to create a data-informed, organization-wide impact.
+Lastly, the *[Architecture Activities Platform](activities-platform)*  defines a set of processes and agreements enabling architects to do everything architecture typically does, leveraging data and People Pillars to create a data-informed, organization-wide impact.
 
-As a part of my work on Grounded Architecture, I also provide several guiding principles I learned while developing ideas of Grounded Architecture in practice, grouped into two parts:
+As a part of my work on Grounded Architecture, I also provide several guiding principles and tools that I found helpful to introduce the ideas of Grounded Architecture in practice. I grouped these resources into two parts:
 
 * [Being an Architect](being-architect):
   * [Architects as Superglue](superglue)
