@@ -154,27 +154,36 @@ Figures 4 to 8 show some insights from source code analyses with Sokrates.
 
 <br>
 ![](assets/images/archdata/src_1.png)
+
 **Figure 4**: *Sokrates can instantly create a helicopter view of the technology landscape, programming languages, active contributors, and commit trends.*
 <br>
 <br>
 
 ![](assets/images/archdata/src_2.png)
+
 **Figure 5**: *Sokrates can show detailed code and contributors' trends per repository, enabling zooming in each repository up to the code level.*
+<br>
 <br>
 <br>
  
 ![](assets/images/archdata/src_5.png)
+
 **Figure 6**: *Sokrates can create a tech radar by tagging projects with identified technologies.*
+<br>
 <br>
 <br>
 
 ![](assets/images/archdata/src_3.png)
+
 **Figure 7**: *Sokrates can show contributor trends, distribution of "veterans" and "rookies," and dependencies between people and repositories, enabling zooming in into patterns of the contribution of individual contributors.*
+<br>
 <br>
 <br>
  
 ![](assets/images/arch/sokrates_teams.png)
+
 **Figure 8**: *Sokrates can reveal the team topologies by plotting 2D and 3D graphs of dependencies that people create through working on the same repositories in the same period.*
+<br>
 <br>
 <br>
 

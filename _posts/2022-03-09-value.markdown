@@ -8,7 +8,7 @@ author: by Željko Obrenović (obren.io)
 permalink: value
 icon: value.png
 timetoread: 15 min
-excerpt: "When Grounded Architecture structure is in place, it can have a significant positive impact on the functioning of an organization: Executing At Scale, Increasing the Quality of Decision-Making with Data, Maximizing Organizational Alignment & Learning, Higher Adaptivity."
+excerpt: "When Grounded Architecture structure is in place, it can have a significant positive impact on the functioning of an organization: Executing At Scale, Adaptivity, Increasing the Quality of Decision-Making with Data, Maximizing Organizational Alignment & Learning."
 
 ---
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
@@ -43,10 +43,10 @@ Image by <a href="https://pixabay.com/nl/users/mwewering-185784/?utm_source=link
 When Grounded Architecture structure is in place, it can have a significant positive impact on the functioning of an organization. These categories of impact, aligned with my [goals](goals), are: 
 
 * Enabling Execution of Architecture Function At Scale,
+* Increasing Architecture Function Adaptivity,
 * Increasing the Quality of Decision-Making with Data,
 * Maximizing Organizational Alignment,
 * Maximizing Organizational Learning, and
-* Increasing Architecture Function Adaptivity,
 
 <br>
 ## Executing at Scale
@@ -64,6 +64,25 @@ Grounded Architecture structure can enable architecture functions to operate at 
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/wikiimages-1897/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=11595">WikiImages</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=11595">Pixabay</a>
 </div>
+
+<br>
+## Adaptivity 
+
+The three elements of the Grounded Architecture structure provide a highly flexible and adaptive setting. This adaptivity is driven by the independence of these elements and the possibility of using the elements in different combinations. Here are some of the critical drivers of flexibility:
+
+* The [Data Pillar](data-pillar), if implemented with a high level of automation, allows for quick extensions and reconfigurations to provide data for any organizational change. For instance, extending the platform, e.g., with additional analyses of new source code repositories and new data after acquisitions or mergers. A robust, automated Data Pillar provides crucial connections and feedback, adapting ints views to the changing daily reality of each part of the organization.
+* Having the [People Pillar](people-pillar) enables a more flexible and sustainable architectural function. A central team can help mitigate distributed teams' temporary lack of capacity. And with well-connected architects, the architecture function can still benefit the organization without a strong central team.
+* The [Architecture Activities Platform](activities-platform) can support adaptivity through its flexible setting and by distributing decision-making across the company. This way, we can avoid an architecture function becoming a simple point of failure and a bottleneck.
+
+Grounding the architecture with data and people connections also makes the work of Senior Architects much more flexible. As they can delegate most architectural decisions to teams, the most experienced technologists can be available to spend more time on crucial strategic initiatives, such as defining cloud, data, or platform strategies or supporting decisions on mergers and acquisitions.
+
+<br>
+<img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
+     src="assets/images/arch/lego-g7d6cf2046_1920.png">
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by <a href="https://pixabay.com/users/painter06-3732158/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3388163">Francis Ray</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3388163">Pixabay</a>
+</div>
+
 
 <br>
 ## Increasing the Quality of Decision-Making with Data
@@ -115,25 +134,6 @@ The Grounded Architecture structure can support learning in multiple ways:
 * The [Data Pillar](data-pillar) can accelerate learning and adopting new technologies by providing more data to facilitate reflection and exploration.
 * The [People Pillar](people) can create spaces for sharing knowledge about architecture and technology. These spaces include but are not limited to regular update calls, knowledge-sharing sessions, or conferences. In addition to creating spaces as a community, it can further increase our learning value by deriving generalized insights from cross-group cases.
 * The [Architecture Activities Platform](activities) can accelerate learning by embedding it into processes and distributing them across the organization. By defining processes to facilitate sharing knowledge and lessons learned, we can maximize learning while creating a minimal overhead.
-
-
-<br>
-## Adaptivity 
-
-The three elements of the Grounded Architecture structure provide a highly flexible and adaptive setting. This adaptivity is driven by the independence of these elements and the possibility of using the elements in different combinations. Here are some of the critical drivers of flexibility:
-
-* The [Data Pillar](data-pillar), if implemented with a high level of automation, allows for quick extensions and reconfigurations to provide data for any organizational change. For instance, extending the platform, e.g., with additional analyses of new source code repositories and new data after acquisitions or mergers. A robust, automated Data Pillar provides crucial connections and feedback, adapting ints views to the changing daily reality of each part of the organization.
-* Having the [People Pillar](people-pillar) enables a more flexible and sustainable architectural function. A central team can help mitigate distributed teams' temporary lack of capacity. And with well-connected architects, the architecture function can still benefit the organization without a strong central team.
-* The [Architecture Activities Platform](activities-platform) can support adaptivity through its flexible setting and by distributing decision-making across the company. This way, we can avoid an architecture function becoming a simple point of failure and a bottleneck.
-
-Grounding the architecture with data and people connections also makes the work of Senior Architects much more flexible. As they can delegate most architectural decisions to teams, the most experienced technologists can be available to spend more time on crucial strategic initiatives, such as defining cloud, data, or platform strategies or supporting decisions on mergers and acquisitions.
-
-<br>
-<img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
-     src="assets/images/arch/lego-g7d6cf2046_1920.png">
-<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by <a href="https://pixabay.com/users/painter06-3732158/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3388163">Francis Ray</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3388163">Pixabay</a>
-</div>
 
 
 ## Questions to Consider

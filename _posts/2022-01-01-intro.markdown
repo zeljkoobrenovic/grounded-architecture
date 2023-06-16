@@ -47,7 +47,7 @@ h3 {
 <br>
 This book aims to share my approach to running an IT architecture practice in larger organizations based on my experience as Chief Architect at AVIV Group, eBay Classifieds, and Adevinta. I called this approach "grounded architecture," highlighting the need for any IT architecture function to stay well-connected to all levels of an organization and led by data.
 
-This book will introduce Grounded Architecture as an architecture function system with two main parts:
+This book introduces Grounded Architecture as an IT architecture practice system with two main parts:
 * **Structure**, defining elements you need to have to run Grounded Architecture practice, and
 * **Guiding Principles**, a set of guiding principles that can help put the ideas of Grounded Architecture into practice.
 

@@ -60,7 +60,7 @@ Meyer’s model contains eight scales, each representing a key area, showing how
 The Culture Map shows positions along these eight scales for many countries. These profiles reflect the value systems of a society at large, not those of all the individuals in it, so if you plot yourself on the map, you might find that some of your preferences differ from those of your culture.
 
 <br>
-## 1. Communicating
+## Communicating
 
 Architects need to be [good communicators](https://architectelevator.com/strategy/complex-topics-stick/). But what do we mean when saying someone is a good communicator? The responses differ wildly from society to society. 
 
@@ -83,7 +83,7 @@ Architects should be able to understand and adapt to different communication sty
 
 
 <br>
-## 2. Evaluating
+## Evaluating
  
 Architects need to provide constructive criticism of the plans and ideas of others. All cultures believe that people should give criticism constructively, but the definition of “constructive” varies greatly. 
 
@@ -101,7 +101,7 @@ Providing constructive criticism in the right way is crucial for architects to m
 ***Figure 2:** Countries on the Evaluating scale.*
 
 <br>
-## 3. Persuading
+## Persuading
 
 Architects frequently need to persuade others. How you influence others and the arguments you find convincing are deeply rooted in culture’s philosophical, religious, and educational assumptions and attitudes. 
 
@@ -120,7 +120,7 @@ Architects need to be able to persuade in both applications-first and principles
 ***Figure 3:** Countries on the Persuading scale.*
 
 <br>
-## 4. Leading
+## Leading
 
 Architects have informal and sometimes formal authority. The leading scale measures the degree of respect and deference shown to authority figures. 
 
@@ -140,7 +140,7 @@ The difference in leadership styles can make an architect's work challenging. Th
 
 
 <br>
-## 5. Deciding
+## Deciding
 
 Architectural work is about [making decisions](https://architectelevator.com/gregors-law/). The Deciding measures the degree to which a culture is consensus-minded. 
 
@@ -159,7 +159,7 @@ Similar to the Leading scale, the difference in deciding styles can make an arch
 
 
 <br>
-## 6. Trusting
+## Trusting
 
 Architects need to build trust with multiple stakeholders. The culture map scale defines two extremes; task-based cognitive trust (from the head) and relationship-based affective trust (from the heart). 
 
@@ -181,7 +181,7 @@ Without trust, architects' impact is limited. In my view, the best way for archi
 
 
 <br>
-## 7. Disagreeing
+## Disagreeing
 
 Architectural work may lead to many disagreements and conflicts. Different cultures have very different ideas about how productive confrontation is for a team or an organization. This scale measures tolerance for open debate and inclination to see it as either helpful or harmful to collegial relationships.
 
@@ -197,7 +197,7 @@ Like the Leading and Deciding scales, architects need to have an open conversati
 ***Figure 7:** Countries on the Disagreeing scale.*
 
 <br>
-## 8. Scheduling
+## Scheduling
 
 Architects will need to participate in many meeting and projects. All businesses follow agendas and timetables, but in some cultures, people strictly adhere to the schedule. In others, they treat it as a suggestion. The Scheduling scale assesses how much people value operating in a structured, linear fashion versus being flexible and reactive. This scale is based on the “monochronic” and “polychronic” distinction formalized by Edward Hall.
 

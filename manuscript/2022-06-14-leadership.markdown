@@ -3,6 +3,7 @@
 # Leadership {#leadership}
 
 ![](assets/images/arch/submarine-gcc865d4ee_1920.jpg)
+
 ^image by david mark from pixabay^
 
 **IN THIS SECTION, YOU WILL:**  Understand how to apply ideas from David Marquet's work and Netflix's valued behaviors to develop architects' leadership traits.
@@ -27,6 +28,7 @@ The leader-leader model is an excellent standard for architects' leadership visi
 One of the key benefits of a leader-leader model is that it creates a more collaborative and inclusive work environment. It allows individuals to contribute their unique perspectives, experiences, and skills to the group, promoting a sense of ownership and accountability for the team's success. This model also helps build trust and stronger relationships within the team, leading to increased productivity, creativity, and innovation.
 
 ![](assets/images/arch/iStock-1130373923.jpg)
+
 ^image by istock^
 
 David Marquet's book "Leadership is Language" provides practical advice for leaders looking to create a more collaborative, innovative, and inclusive organizational culture. He emphasizes the importance of language and communication in leadership and introduces the phrase "I intend to" as a powerful tool for clarifying intent and empowering team members (Figure 1). When team members give intent, the psychological ownership of those actions shifts to them, making them the originators of thought and direction instead of passive followers. This shift in language helps to promote a more collaborative work environment.

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-06-13T16:13:14+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: Redefining IT Architecture Practice</title><subtitle></subtitle><entry><title type="html">Favorite Quotes</title><link href="http://localhost:4000/quotes" rel="alternate" type="text/html" title="Favorite Quotes" /><published>2021-10-25T22:12:01+02:00</published><updated>2021-10-25T22:12:01+02:00</updated><id>http://localhost:4000/quotes</id><content type="html" xml:base="http://localhost:4000/quotes"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/books-g1b2675255_1920.jpg" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-06-17T00:21:16+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: Redefining IT Architecture Practice</title><subtitle></subtitle><entry><title type="html">Favorite Quotes</title><link href="http://localhost:4000/quotes" rel="alternate" type="text/html" title="Favorite Quotes" /><published>2021-10-25T22:12:01+02:00</published><updated>2021-10-25T22:12:01+02:00</updated><id>http://localhost:4000/quotes</id><content type="html" xml:base="http://localhost:4000/quotes"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/books-g1b2675255_1920.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/prettysleepy-2973588/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5430104">Amy</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5430104">Pixabay</a>
 </div>
@@ -171,9 +171,9 @@ My approach to creating and running an architecture function is not an abstract 
 Image by <a href="https://pixabay.com/users/thedigitalartist-202249/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2254769">Pete Linforth</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2254769">Pixabay</a>
 </div>
 
-<p>The global scale introduces several compelling opportunities for organizations. The global scale can increase organizational effectiveness due to reducing duplication of effort by centralizing shared activities. Second, the global scale enables leveraging economies of scale by achieving cost advantages, such as lowering unit prices of used technologies. Furthermore, the global scale can increase business resilience and flexibility, possibly compensating for negative local market changes with global resources. Global organizations also have a bigger talent pool to support local or international efforts. Lastly, such organizations have significant resources to invest in to support nonlinear growth through mergers and acquisitions (M&amp;As).</p>
+<p>The global scale introduces several compelling opportunities for organizations. The global scale can increase organizational effectiveness due to <strong>reducing duplication of effort</strong> by centralizing shared activities. Second, the global scale enables leveraging <strong>economies of scale</strong> by achieving cost advantages, such as lowering unit prices of used technologies. Furthermore, the global scale can increase <strong>business resilience and flexibility</strong>, possibly compensating for negative local market changes with global resources. Global organizations also have a bigger talent pool to support local or international efforts. Lastly, such organizations have significant resources to invest in to support nonlinear growth through mergers and acquisitions (M&amp;As).</p>
 
-<p>The global and massive scale brings many challenges. It leads to high organizational complexity, with thousands of possible communication channels among the organization’s units. Global scale means having a complex technology landscape with many services and interconnections. An immense talent pool also means continuously high costs for the workforce. And such organizations also have constantly high costs of computing resources due to the need to serve many customers. Operating in many places and with high customer demands also increases the complexity of running operations with high and variable customer demands. With many data centers, services, and applications, global organizations have a huge attack surface, with many points on the boundary of their systems where an attacker can try to enter, cause an effect on, or extract data. Lastly, any manual process, such as diagram drawing to create an overview of the organizational or technology landscape, is limited due to scale.</p>
+<p>The global and massive scale brings many challenges. It leads to <strong>high organizational complexity</strong>, with thousands of possible communication channels among the organization’s units. Global scale means having a <strong>complex technology landscape</strong> with many services and interconnections. An immense talent pool also means continuously <strong>high costs</strong> for the workforce. And such organizations also have constantly high costs of computing resources due to the need to serve many customers. Operating in many places and with high customer demands also increases the <strong>complexity of running operations</strong> with high and variable customer demands. With many data centers, services, and applications, global organizations have <strong>a huge attack surface</strong>, with many points on the boundary of their systems where an attacker can try to enter, cause an effect on, or extract data. Lastly, any manual process, such as diagram drawing to create an overview of the organizational or technology landscape, is limited due to scale.</p>
 
 <p>Balancing opportunities and challenges on a global scale has been one of the most difficult and rewarding aspects of my architectural work.</p>
 
@@ -182,11 +182,11 @@ Image by <a href="https://pixabay.com/users/thedigitalartist-202249/?utm_source=
 
 <p>The organizations I worked on were very diverse across several dimensions:</p>
 <ul>
-  <li>Cultures: different (local and remote) workforce and customers,</li>
-  <li>Organization: different sizes, complexity, and styles of organizational units,</li>
-  <li>Product: diverse sets of features covering many markets and different customer segments,</li>
-  <li>IT Architecture: legacy and modern approaches mixed, and</li>
-  <li>Technology: dozens of programming languages and thousands of thirds party libraries, frameworks, and services.</li>
+  <li><strong>Cultures</strong>: different (local and remote) workforce and customers,</li>
+  <li><strong>Organization</strong>: different sizes, complexity, and styles of organizational units,</li>
+  <li><strong>Product</strong>: diverse sets of features covering many markets and different customer segments,</li>
+  <li><strong>IT Architecture</strong>: legacy and modern approaches mixed, and</li>
+  <li><strong>Technology</strong>: dozens of programming languages and thousands of thirds party libraries, frameworks, and services.</li>
 </ul>
 
 <p><img src="assets/images/arch/pictures-g139ff7ebb_1280.jpg" alt="" /></p>
@@ -196,24 +196,24 @@ Image by <a href="https://pixabay.com/users/simon-3/?utm_source=link-attribution
 
 <p>Organization-wise, I needed to work with many units that differed in multiple ways:</p>
 <ul>
-  <li>Size: some units had hundreds of developers, and some units had only a dozen.</li>
-  <li>Team topologies: some organizations had one team, while other teams were organized hierarchically,</li>
-  <li>Position of architecture: with some organizations having local architecture teams and local lead architects, smaller units have their team members conducting architecture activities in addition to other responsibilities.</li>
+  <li><strong>Unit size</strong>: some units had hundreds of developers, and some units had only a dozen.</li>
+  <li><strong>Team topologies</strong>: some organizations had one team, while other teams were organized hierarchically,</li>
+  <li><strong>Position of architecture</strong>: with some organizations having local architecture teams and local lead architects, smaller units have their team members conducting architecture activities in addition to other responsibilities.</li>
 </ul>
 
 <p>Architecture-wise, we nneded to wrok with many architectural styles in active production systems, ranging from legacy monolith applications to complex modern microservice and serverless ecosystems. Each part of the organization has a different history and a different legacy.</p>
 
 <p>And our technology covered almost any of the mainstream stacks. The technical infrastructure included several public cloud providers (AWS, GCP, Azure) and custom-built private data centers. The systems also employed diverse application technologies, such as:</p>
 <ul>
-  <li>Database technologies (e.g., MySQL, Postgress, MongoDB, Cassandra, AWS RDS…).</li>
-  <li>Backend programming languages (e.g., Java, C#, Go, Scala, PHP, Node.js, Kotlin…).</li>
-  <li>Mobile app programming languages (e.g., Swift, Objective-C, Java, Kotlin, Flutter/Dart…).</li>
-  <li>Frontend programming languages and frameworks (e.g., React, Android, AndroidJS, Vue, jQuery…).</li>
+  <li><strong>Database technologies</strong> (e.g., MySQL, Postgress, MongoDB, Cassandra, AWS RDS…).</li>
+  <li><strong>Backend programming languages</strong> (e.g., Java, C#, Go, Scala, PHP, Node.js, Kotlin…).</li>
+  <li><strong>Mobile app programming languages</strong> (e.g., Swift, Objective-C, Java, Kotlin, Flutter/Dart…).</li>
+  <li><strong>Frontend programming languages and frameworks</strong> (e.g., React, Android, AndroidJS, Vue, jQuery…).</li>
 </ul>
 
-<p>From an architectural perspective, diversity offers several opportunities. It can increase technology innovation due to a diverse workforce and the possibility of creatively exploring more technologies and tools. And it can help address diverse implementation needs better by choosing from a more extensive and diverse pool of resources (selecting the best tool for the job).</p>
+<p>From an architectural perspective, diversity offers several opportunities. It can <strong>increase technology innovation</strong> due to a diverse workforce and the possibility of creatively exploring more technologies and tools. And it can <strong>help address diverse implementation needs</strong> better by choosing from a more extensive and diverse pool of resources (selecting the best tool for the job).</p>
 
-<p>Diversity also poses several challenges. High diversity increases overall system landscape complexity and the cognitive load of teams who must master many different topics simultaneously. Diversity can also reduce flexibility and reorganization possibilities as expertise is split among many domains and technologies. And the variety of technology stacks also may lead to higher technical debt due to many legacy components in many (outdated) technologies.</p>
+<p>Diversity also poses several challenges. High diversity <strong>increases overall system landscape complexity</strong> and the cognitive load of teams who must master many different topics simultaneously. Diversity can also <strong>reduce flexibility</strong> and reorganization possibilities as expertise is split among many domains and technologies. And the variety of technology stacks also may lead to <strong>higher technical debt</strong> due to many legacy components in many (outdated) technologies.</p>
 
 <p>From an architectural perspective, diversity is an excellent source of new possibilities but comes with challenges in controlling complexity.</p>
 
@@ -221,32 +221,32 @@ Image by <a href="https://pixabay.com/users/simon-3/?utm_source=link-attribution
 
 <h2 id="characteristic-3-nonlinear-growth-dynamics">Characteristic 3: Nonlinear Growth Dynamics</h2>
 
-<p>Complex organizations like the one I have worked in are frequently very dynamic. Such organizations grow (or shrink) and reorganize often and significantly. They change both organically and inorganically. Organic growth is internal growth the company sees from its operations. Inorganic change comes from buying other businesses, opening new locations, or divesting.</p>
+<p>Complex organizations like the one I have worked in are frequently very dynamic. Such organizations grow (or shrink) and reorganize often and significantly. They change both organically and inorganically. <strong>Organic growth</strong> is internal growth the company sees from its operations. <strong>Inorganic change</strong> comes from buying other businesses, opening new locations, or divesting.</p>
 
 <p><img src="assets/images/arch/blur-g6bc6ee2cc_1920.jpg" alt="" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/pexels-2286921/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1853262">Pexels</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1853262">Pixabay</a>
 </div>
 
-<p>Nonlinear growth in particular may be helpful in several scenarios. It can quickly increase the customers base or add new market segments. and such growth can also speed up innovation due to the acquisition of new technologies or services.</p>
+<p>Nonlinear growth in particular may be helpful in several scenarios. It can <strong>quickly increase the customers base</strong> or add new market segments. and such growth can also <strong>speed up innovation</strong> due to the acquisition of new technologies or services.</p>
 
-<p>But nonlinear growth dynamics have significant influences on architectural activities. The sudden addition of new companies increased organizational complexity with many new units. Obtaining a new company also adds new technology and engineering units with new processes and technology stacks. And nonlinear dynamics also require complex architecture to stay flexible if the organization decides to divest a part of the organization.</p>
+<p>But nonlinear growth dynamics have significant influences on architectural activities. The sudden addition of new companies <strong>increases organizational complexity</strong> with many new units. Obtaining a new company also <strong>adds new technology and engineering units</strong> with new processes and technology stacks. And nonlinear dynamics also <strong>require complex architecture</strong> to stay flexible if the organization decides to divest a part of the organization.</p>
 
 <p>Due to its complexity, nonlinear growth dynamics open up many challenges as they can lead to many surprises. And as Clemens Rettich stated, in business <a href="https://www.linkedin.com/pulse/good-surprises-business-clemens-rettich/">there are no good surprises</a>.</p>
 
 <p><br /></p>
 <h2 id="characteristic-4-synergy-and-transformation-pressures">Characteristic 4: Synergy and Transformation Pressures</h2>
 
-<p>Complex organizations do not just grow. Instead, they want to be more efficient and leverage economies of scale, cost synergies, or increase capacity for innovation. Our investors expect us to transform to be more than a sum of our original parts.</p>
+<p>Complex organizations do not just grow. Instead, they want to be more efficient and leverage economies of scale, cost synergies, or increase capacity for innovation. Our investors expect us to <strong>transform to be more than a sum of our original parts</strong>.</p>
 
 <p><img src="assets/images/arch/gears-g06fe4e9a5_1920.jpg" alt="" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/mustangjoe-2162920/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1236578">MustangJoe</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1236578">Pixabay</a>
 </div>
 
-<p>Pressure for synergies and transformations can provide several opportunities. Synergies lead to cost reductions and less duplication. Cost reductions can accelerate innovation due to more resources freed after synergies. By creating synergic components, we get more possibilities for reuse and sharing. And well-executed transformations can create more efficiencies and lower unit costs.</p>
+<p>Pressure for synergies and transformations can provide several opportunities. Synergies lead to <strong>cost reductions</strong> and less duplication. Cost reductions can <strong>accelerate innovation</strong> due to more resources freed after synergies. By creating synergic components, we get more possibilities for <strong>reuse and sharing</strong>. And well-executed transformations can create <strong>more efficiencies and lower unit costs</strong>.</p>
 
-<p>Pressure to be more synergic and efficient has its challenges. Up-front investment is needed to gain any benefit. Such investment typically brings high risks. Moreover, teams are often under pressure to <em>perform</em>, and deliver excellent short-term results while they significantly <em>transform</em>. The productivity of some teams may (temporarily) drop due to the need to balance efforts between transformation activities and other work. And after transformations, the complexity of the organization and technology landscape may increase due to more dependencies, e.g., reusing central services.</p>
+<p>Pressure to be more synergic and efficient has its challenges. <strong>Up-front investment</strong> is needed to gain any benefit. Such investment typically brings <strong>high risks</strong>. Moreover, teams are often under pressure to <strong><em>perform</em></strong>, and deliver excellent short-term results while they significantly <strong><em>transform</em></strong>. The productivity of some teams may (temporarily) drop due to the need to balance efforts between transformation activities and other work. And after transformations, the <strong>complexity of the organization and technology landscape</strong> may increase due to more dependencies, e.g., reusing central services.</p>
 
 <p>Synergies and transformation pressures can lead to high expectations and pressure that complicate regular architecture work. On the positive side, such forces can create many new opportunities.</p>
 
@@ -254,9 +254,9 @@ Image by <a href="https://pixabay.com/users/mustangjoe-2162920/?utm_source=link-
 
 <h2 id="characteristic-5-decentralization-and-loose-coupling">Characteristic 5: Decentralization and Loose Coupling</h2>
 
-<p>Researcher Karl Weick developed the concepts of tight and loose coupling to describe the organizational structure first in educational institutions and later applied to diverse businesses. According to Weick, a tightly coupled organization has mutually understood rules enforced by <em>inspection and feedback</em> systems. In tightly coupled organizations, management can more directly coordinate different departments’ activities according to a central strategy.</p>
+<p>Researcher Karl Weick developed the concepts of tight and loose coupling to describe the organizational structure first in educational institutions and later applied to diverse businesses. According to Weick, a <strong>tightly coupled organization</strong> has mutually understood rules enforced by <em>inspection and feedback</em> systems. In tightly coupled organizations, management can more directly coordinate different departments’ activities according to a central strategy.</p>
 
-<p>In a loosely coupled organization, some of the elements of a tightly coupled organization are absent. Employees have more autonomy, and different departments may operate with little coordination.</p>
+<p>In <strong>a loosely coupled organization</strong>, some of the elements of a tightly coupled organization are absent. Employees have <strong>more autonomy</strong>, and different departments may operate with <strong>little coordination</strong>.</p>
 
 <p><img src="assets/images/arch/world-trade-center-g707209d17_1920.jpg" alt="" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
@@ -267,17 +267,17 @@ Image by <a href="https://pixabay.com/users/shire777-19410672/?utm_source=link-a
 
 <p>Loose coupling offers several advantages:</p>
 <ul>
-  <li>Higher flexibility: units can keep developing independently, addressing specific needs without synchronizing with other marketplaces.</li>
-  <li>High development speed / faster time-to-market: fewer dependencies make it much easier for marketplaces to change and evolve their products for local needs.</li>
-  <li>Innovation: possibilities to quickly explore ideas in smaller contexts.</li>
+  <li><strong>Higher flexibility</strong>: units can keep developing independently, addressing specific needs without synchronizing with other marketplaces.</li>
+  <li><strong>High development speed / faster time-to-market</strong>: fewer dependencies make it much easier for marketplaces to change and evolve their products for local needs.</li>
+  <li><strong>Innovation</strong>: possibilities to quickly explore ideas in smaller contexts.</li>
 </ul>
 
 <p>Loose coupling also has several challenges:</p>
 
 <ul>
-  <li>Duplication of effort: while local market needs differ, there is frequently a significant overlap in product features and technology. This overlap leads to duplication of effort as each marketplace creates solutions for the same problems.</li>
-  <li>Increased accidental diversity: limited synchronization offers flexibility but may lead to significantly different design and technology choices, making it challenging to consolidate solutions, move people between teams, or benefit from the economy of scale.</li>
-  <li>Limited possibilities for central control: due to fewer dependencies and different goals, it is more difficult to introduce changes across the board.</li>
+  <li><strong>Duplication of effort</strong>: while local market needs differ, there is frequently a significant overlap in product features and technology. This overlap leads to duplication of effort as each marketplace creates solutions for the same problems.</li>
+  <li><strong>Increased accidental diversity</strong>: limited synchronization offers flexibility but may lead to significantly different design and technology choices, making it challenging to consolidate solutions, move people between teams, or benefit from the economy of scale.</li>
+  <li><strong>Limited possibilities for central control</strong>: due to fewer dependencies and different goals, it is more difficult to introduce changes across the board.</li>
 </ul>
 
 <p>Loose coupling is architecture-wise an interesting challenge as it frequently leads to a conflict between global alignment and control and local autonomy.</p>
@@ -303,7 +303,7 @@ Image by <a href="https://pixabay.com/users/geralt-9301/?utm_source=link-attribu
   <p><strong>KEY POINTS:</strong></p>
 
   <ul>
-    <li>I identified the following needs that an architecture function should support: Executing At Scale, Increasing the Quality of Decision-Making with Data, Maximizing Organizational Alignment &amp; Learning, Higher Adaptivity.</li>
+    <li>I identified the following needs that an architecture function should support: Executing At Scale, Adaptivity, Increasing the Quality of Decision-Making with Data, Maximizing Organizational Alignment &amp; Learning.</li>
   </ul>
 </blockquote>
 <style>
@@ -336,21 +336,21 @@ Considering the scale and complexity of the organizational context I operated in
 
 <p>We needed to find a way to support all of the hundreds of teams, and thousands of projects, with significant complexity and diversity.</p>
 
-<h3 id="goal-2-increasing-quality-of-decisions-with-data">Goal 2: Increasing Quality of Decisions with Data</h3>
+<h3 id="goal-2-adaptivity">Goal 2: Adaptivity</h3>
+
+<p>Significant organic and inorganic changes are frequent and expected. The architecture function must adapt quickly to stay relevant in new contexts.</p>
+
+<h3 id="goal-3-increasing-quality-of-decisions-with-data">Goal 3: Increasing Quality of Decisions with Data</h3>
 
 <p>Intuition does not work at scale. We need tools and mechanisms to make a decision process more data-informed and less dependent on opinions. Furthermore, complex organizations’ cultural and organizational diversity makes opinion-driven decision-making processes highly ineffective.</p>
 
-<h3 id="goal-3-maximizing-organizational-alignment">Goal 3: Maximizing Organizational Alignment</h3>
+<h3 id="goal-4-maximizing-organizational-alignment">Goal 4: Maximizing Organizational Alignment</h3>
 
 <p>Misalignment is a natural state in a global, diverse, fast-moving organization. The architecture function should be a cohesive factor in minimizing such misalignments. Otherwise, architecture may accelerate the creation of chaos.</p>
 
-<h3 id="goal-4-maximizing-organizational-learning">Goal 4: Maximizing Organizational Learning</h3>
+<h3 id="goal-5-maximizing-organizational-learning">Goal 5: Maximizing Organizational Learning</h3>
 
 <p>In complex organizations with lots of effort needed to maintain legacy systems, learning and following new technology developments takes work. Architecture should help organizations to learn fast, stay up-to-date with emerging technologies and industry trends and recommend technology upgrades.</p>
-
-<h3 id="goal-5-adaptivity">Goal 5: Adaptivity</h3>
-
-<p>Significant organic and inorganic changes are frequent and expected. The architecture function must adapt quickly to stay relevant in new contexts.</p>
 
 <h2 id="questions-to-consider">Questions to Consider</h2>
 
@@ -362,7 +362,7 @@ Considering the scale and complexity of the organizational context I operated in
   <li><em>How aligned are units in your organizations? How much friction is there? How can architecture function help?</em></li>
   <li><em>How much is your organization learning? How is the learning supported?</em></li>
   <li><em>How stable is your organization? How likely is it that significant changes will occur in your organization?</em></li>
-</ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[I identified the following needs that an architecture function should support: Executing At Scale, Increasing the Quality of Decision-Making with Data, Maximizing Organizational Alignment & Learning, Higher Adaptivity.]]></summary></entry><entry><title type="html">Grounded Architecture: Introduction</title><link href="http://localhost:4000/grounded-architecture" rel="alternate" type="text/html" title="Grounded Architecture: Introduction" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/grounded-architecture</id><content type="html" xml:base="http://localhost:4000/grounded-architecture"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/buildings-205986_1920.jpg" /></p>
+</ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[I identified the following needs that an architecture function should support: Executing At Scale, Adaptivity, Increasing the Quality of Decision-Making with Data, Maximizing Organizational Alignment & Learning.]]></summary></entry><entry><title type="html">Grounded Architecture: Introduction</title><link href="http://localhost:4000/grounded-architecture" rel="alternate" type="text/html" title="Grounded Architecture: Introduction" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/grounded-architecture</id><content type="html" xml:base="http://localhost:4000/grounded-architecture"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/buildings-205986_1920.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/ichigo121212-11728/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=205986">Ichigo121212</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=205986">Pixabay</a>
 </div>
@@ -568,28 +568,37 @@ Source code and its commit history include an astonishing amount of information 
 <p>Figures 4 to 8 show some insights from source code analyses with Sokrates.</p>
 
 <p><br />
-<img src="assets/images/archdata/src_1.png" alt="" />
-<strong>Figure 4</strong>: <em>Sokrates can instantly create a helicopter view of the technology landscape, programming languages, active contributors, and commit trends.</em>
+<img src="assets/images/archdata/src_1.png" alt="" /></p>
+
+<p><strong>Figure 4</strong>: <em>Sokrates can instantly create a helicopter view of the technology landscape, programming languages, active contributors, and commit trends.</em>
 <br />
 <br /></p>
 
-<p><img src="assets/images/archdata/src_2.png" alt="" />
-<strong>Figure 5</strong>: <em>Sokrates can show detailed code and contributors’ trends per repository, enabling zooming in each repository up to the code level.</em>
+<p><img src="assets/images/archdata/src_2.png" alt="" /></p>
+
+<p><strong>Figure 5</strong>: <em>Sokrates can show detailed code and contributors’ trends per repository, enabling zooming in each repository up to the code level.</em>
+<br />
 <br />
 <br /></p>
 
-<p><img src="assets/images/archdata/src_5.png" alt="" />
-<strong>Figure 6</strong>: <em>Sokrates can create a tech radar by tagging projects with identified technologies.</em>
+<p><img src="assets/images/archdata/src_5.png" alt="" /></p>
+
+<p><strong>Figure 6</strong>: <em>Sokrates can create a tech radar by tagging projects with identified technologies.</em>
+<br />
 <br />
 <br /></p>
 
-<p><img src="assets/images/archdata/src_3.png" alt="" />
-<strong>Figure 7</strong>: <em>Sokrates can show contributor trends, distribution of “veterans” and “rookies,” and dependencies between people and repositories, enabling zooming in into patterns of the contribution of individual contributors.</em>
+<p><img src="assets/images/archdata/src_3.png" alt="" /></p>
+
+<p><strong>Figure 7</strong>: <em>Sokrates can show contributor trends, distribution of “veterans” and “rookies,” and dependencies between people and repositories, enabling zooming in into patterns of the contribution of individual contributors.</em>
+<br />
 <br />
 <br /></p>
 
-<p><img src="assets/images/arch/sokrates_teams.png" alt="" />
-<strong>Figure 8</strong>: <em>Sokrates can reveal the team topologies by plotting 2D and 3D graphs of dependencies that people create through working on the same repositories in the same period.</em>
+<p><img src="assets/images/arch/sokrates_teams.png" alt="" /></p>
+
+<p><strong>Figure 8</strong>: <em>Sokrates can reveal the team topologies by plotting 2D and 3D graphs of dependencies that people create through working on the same repositories in the same period.</em>
+<br />
 <br />
 <br /></p>
 
@@ -1008,10 +1017,10 @@ When Grounded Architecture structure is in place, it can have a significant posi
 
 <ul>
   <li>Enabling Execution of Architecture Function At Scale,</li>
+  <li>Increasing Architecture Function Adaptivity,</li>
   <li>Increasing the Quality of Decision-Making with Data,</li>
   <li>Maximizing Organizational Alignment,</li>
   <li>Maximizing Organizational Learning, and</li>
-  <li>Increasing Architecture Function Adaptivity,</li>
 </ul>
 
 <p><br /></p>
@@ -1029,6 +1038,25 @@ When Grounded Architecture structure is in place, it can have a significant posi
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/earth-g8ffaadaba_1920.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/wikiimages-1897/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=11595">WikiImages</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=11595">Pixabay</a>
+</div>
+
+<p><br /></p>
+<h2 id="adaptivity">Adaptivity</h2>
+
+<p>The three elements of the Grounded Architecture structure provide a highly flexible and adaptive setting. This adaptivity is driven by the independence of these elements and the possibility of using the elements in different combinations. Here are some of the critical drivers of flexibility:</p>
+
+<ul>
+  <li>The <a href="data-pillar">Data Pillar</a>, if implemented with a high level of automation, allows for quick extensions and reconfigurations to provide data for any organizational change. For instance, extending the platform, e.g., with additional analyses of new source code repositories and new data after acquisitions or mergers. A robust, automated Data Pillar provides crucial connections and feedback, adapting ints views to the changing daily reality of each part of the organization.</li>
+  <li>Having the <a href="people-pillar">People Pillar</a> enables a more flexible and sustainable architectural function. A central team can help mitigate distributed teams’ temporary lack of capacity. And with well-connected architects, the architecture function can still benefit the organization without a strong central team.</li>
+  <li>The <a href="activities-platform">Architecture Activities Platform</a> can support adaptivity through its flexible setting and by distributing decision-making across the company. This way, we can avoid an architecture function becoming a simple point of failure and a bottleneck.</li>
+</ul>
+
+<p>Grounding the architecture with data and people connections also makes the work of Senior Architects much more flexible. As they can delegate most architectural decisions to teams, the most experienced technologists can be available to spend more time on crucial strategic initiatives, such as defining cloud, data, or platform strategies or supporting decisions on mergers and acquisitions.</p>
+
+<p><br />
+<img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/lego-g7d6cf2046_1920.png" /></p>
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by <a href="https://pixabay.com/users/painter06-3732158/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3388163">Francis Ray</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3388163">Pixabay</a>
 </div>
 
 <p><br /></p>
@@ -1094,25 +1122,6 @@ Image by iStock
   <li>The <a href="activities">Architecture Activities Platform</a> can accelerate learning by embedding it into processes and distributing them across the organization. By defining processes to facilitate sharing knowledge and lessons learned, we can maximize learning while creating a minimal overhead.</li>
 </ul>
 
-<p><br /></p>
-<h2 id="adaptivity">Adaptivity</h2>
-
-<p>The three elements of the Grounded Architecture structure provide a highly flexible and adaptive setting. This adaptivity is driven by the independence of these elements and the possibility of using the elements in different combinations. Here are some of the critical drivers of flexibility:</p>
-
-<ul>
-  <li>The <a href="data-pillar">Data Pillar</a>, if implemented with a high level of automation, allows for quick extensions and reconfigurations to provide data for any organizational change. For instance, extending the platform, e.g., with additional analyses of new source code repositories and new data after acquisitions or mergers. A robust, automated Data Pillar provides crucial connections and feedback, adapting ints views to the changing daily reality of each part of the organization.</li>
-  <li>Having the <a href="people-pillar">People Pillar</a> enables a more flexible and sustainable architectural function. A central team can help mitigate distributed teams’ temporary lack of capacity. And with well-connected architects, the architecture function can still benefit the organization without a strong central team.</li>
-  <li>The <a href="activities-platform">Architecture Activities Platform</a> can support adaptivity through its flexible setting and by distributing decision-making across the company. This way, we can avoid an architecture function becoming a simple point of failure and a bottleneck.</li>
-</ul>
-
-<p>Grounding the architecture with data and people connections also makes the work of Senior Architects much more flexible. As they can delegate most architectural decisions to teams, the most experienced technologists can be available to spend more time on crucial strategic initiatives, such as defining cloud, data, or platform strategies or supporting decisions on mergers and acquisitions.</p>
-
-<p><br />
-<img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/lego-g7d6cf2046_1920.png" /></p>
-<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by <a href="https://pixabay.com/users/painter06-3732158/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3388163">Francis Ray</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3388163">Pixabay</a>
-</div>
-
 <h2 id="questions-to-consider">Questions to Consider</h2>
 
 <p>It is always essential to be thoughtful about the value and impact of your work. Ask yourself the following questions:</p>
@@ -1127,7 +1136,7 @@ Image by <a href="https://pixabay.com/users/painter06-3732158/?utm_source=link-a
   <li><em>Reflecting on the value of the “Data Pillar” concept, how effectively is your organization tracking changes, supporting what-if scenario analysis, and defining baselines?</em></li>
   <li><em>What role does the Chief Architect play in your organization? Could their time be better utilized on strategic initiatives?</em></li>
   <li><em>How sustainable is the architectural function in your organization in the absence of a strong central team? Could implementing a Data Pillar and well-connected architects help mitigate this?</em></li>
-</ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[When Grounded Architecture structure is in place, it can have a significant positive impact on the functioning of an organization: Executing At Scale, Increasing the Quality of Decision-Making with Data, Maximizing Organizational Alignment & Learning, Higher Adaptivity.]]></summary></entry><entry><title type="html">Being Architect: Introduction</title><link href="http://localhost:4000/being-architect" rel="alternate" type="text/html" title="Being Architect: Introduction" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/being-architect</id><content type="html" xml:base="http://localhost:4000/being-architect"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/architect-3979490_1920.jpg" /></p>
+</ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[When Grounded Architecture structure is in place, it can have a significant positive impact on the functioning of an organization: Executing At Scale, Adaptivity, Increasing the Quality of Decision-Making with Data, Maximizing Organizational Alignment & Learning.]]></summary></entry><entry><title type="html">Being Architect: Introduction</title><link href="http://localhost:4000/being-architect" rel="alternate" type="text/html" title="Being Architect: Introduction" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/being-architect</id><content type="html" xml:base="http://localhost:4000/being-architect"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/architect-3979490_1920.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/borevina-9505414/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3979490">Borko Manigoda</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3979490">Pixabay</a>
 </div>

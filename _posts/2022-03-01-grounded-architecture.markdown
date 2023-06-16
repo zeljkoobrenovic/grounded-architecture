@@ -61,3 +61,4 @@ The *People Pillar* is a network of people doing architecture across the organiz
 Lastly, the *Architecture Activities Platform* defines a set of processes and agreements enabling architects to do everything that architecture typically does, leveraging data and People Pillars to create a data-informed, organization-wide impact. The [Architecture Activites Platform section](activities-platform) provides more details on Architecture Activities Platform. 
 
 The Architecture Activities Platform is only valid with the healthy Data and People Pillars. Without data and people connections, an Architecture Activities Platform becomes an ivory tower institution, generating opinion-based decisions disconnected from reality.
+
