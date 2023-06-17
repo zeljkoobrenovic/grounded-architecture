@@ -53,8 +53,8 @@ When Grounded Architecture structure is in place, it can have a significant posi
 
 Grounded Architecture structure can enable architecture functions to operate at scale in the following ways.
 
-* **The [Data Pillar](data-pillar)** can support working at scale when implemented with a high level of **automation** (as manual effort does not scale) and when data are provided to the organization as a **self-service** (so that we do not rely on manual work or meetings to share the date). Data Pillar tools and insights it displays can reach thousands of people in an organization, e.g., via an internal website. Having such tools has removed the need for hundreds of information-sharing or data-gathering meetings and workshops in my work (that do not scale).
-* **The [People Pillar](people-pillar)** can help execution at scale by developing connections at all levels of the organization, **speeding up alignment, information sharing, and the execution** of shared decisions.
+* **The [Data Pillar](data)** can support working at scale when implemented with a high level of **automation** (as manual effort does not scale) and when data are provided to the organization as a **self-service** (so that we do not rely on manual work or meetings to share the date). Data Pillar tools and insights it displays can reach thousands of people in an organization, e.g., via an internal website. Having such tools has removed the need for hundreds of information-sharing or data-gathering meetings and workshops in my work (that do not scale).
+* **The [People Pillar](people)** can help execution at scale by developing connections at all levels of the organization, **speeding up alignment, information sharing, and the execution** of shared decisions.
 * **The [Architecture Activities Platform](activities-platform)** enables execution at scale by promoting an operating model that **distributes decision-making** across the organization. In that way, more people can make decisions, removing a bottleneck that centralized decision-making would create.
 
 
@@ -70,8 +70,8 @@ Image by <a href="https://pixabay.com/users/wikiimages-1897/?utm_source=link-att
 
 The three elements of the Grounded Architecture structure provide a highly flexible and adaptive setting. This adaptivity is driven by the independence of these elements and the possibility of using the elements in different combinations. Here are some of the critical drivers of flexibility:
 
-* **The [Data Pillar](data-pillar)**, if implemented with a high level of automation, allows for **quick extensions and reconfigurations** to provide data for any organizational change. For instance, extending the platform, e.g., with additional analyses of new source code repositories and new data after acquisitions or mergers. A robust, automated Data Pillar provides crucial connections and feedback, adapting ints views to the changing daily reality of each part of the organization.
-* **Having the [People Pillar](people-pillar)** enables a more flexible and sustainable architectural function. A central team can help **mitigate distributed teams' temporary lack of capacity**. And with well-connected architects, the architecture function can still **benefit the organization without a strong central team**.
+* **The [Data Pillar](data)**, if implemented with a high level of automation, allows for **quick extensions and reconfigurations** to provide data for any organizational change. For instance, extending the platform, e.g., with additional analyses of new source code repositories and new data after acquisitions or mergers. A robust, automated Data Pillar provides crucial connections and feedback, adapting ints views to the changing daily reality of each part of the organization.
+* **Having the [People Pillar](people)** enables a more flexible and sustainable architectural function. A central team can help **mitigate distributed teams' temporary lack of capacity**. And with well-connected architects, the architecture function can still **benefit the organization without a strong central team**.
 * **The [Architecture Activities Platform](activities-platform)** can support adaptivity through its **flexible setting** and by distributing decision-making across the company. This way, we can avoid an architecture function becoming a simple point of failure and a bottleneck.
 
 Grounding the architecture with data and people connections also makes the work of **most senior architects much more flexible**. As they can delegate most architectural decisions to teams, the most experienced technologists can be available to spend more time on crucial strategic initiatives, such as defining cloud, data, or platform strategies or supporting decisions on mergers and acquisitions.
@@ -89,8 +89,8 @@ Image by <a href="https://pixabay.com/users/painter06-3732158/?utm_source=link-a
 
 There are significant benefits to making our decision process as much as possible data-driven. Architectural **discussions can be heated and opinionated**, not leading to the best arguments and decisions. Maintaining high-quality data on relevant internal and external technology developments is one of the critical tasks for architects.
 
-* **The [Data Pillar](data-pillar)** can ensure **having ready any data** needed for decisions, fueling data-informed discussions and decision-making.
-* **The [People Pillar](people-pillar)** ensures **having the right people** available and well-connected for sharing information and making decisions. 
+* **The [Data Pillar](data)** can ensure **having ready any data** needed for decisions, fueling data-informed discussions and decision-making.
+* **The [People Pillar](people)** ensures **having the right people** available and well-connected for sharing information and making decisions. 
 * **The [Architecture Activities Platform](activities-platform)** provides processes enabling architects to move away from opinion-based decisions to data-driven economic risk modeling. Such processes can help architects to achieve the following:
   * **dismantle hype and buzzwords**, present the problem in clear terms, understandable to a broader audience
   * **identify the critical drivers** behind hype and buzzwords based on internal and external research
@@ -131,9 +131,9 @@ One of the architects' primary daily tasks is learning. We must **maximize perso
 
 The Grounded Architecture structure can support learning in multiple ways:
 
-* **The [Data Pillar](data-pillar)** can accelerate learning and adopting new technologies by providing more **data to facilitate reflection and exploration**.
+* **The [Data Pillar](data)** can accelerate learning and adopting new technologies by providing more **data to facilitate reflection and exploration**.
 * **The [People Pillar](people)** can create **spaces for sharing knowledge** about architecture and technology. These spaces include but are not limited to regular update calls, knowledge-sharing sessions, or conferences. In addition to creating spaces as a community, it can further increase our learning value by deriving generalized insights from cross-group cases.
-* **The [Architecture Activities Platform](activities)** can accelerate learning by **embedding it into processes** and distributing them across the organization. By defining processes to facilitate sharing knowledge and lessons learned, we can maximize learning while creating a minimal overhead.
+* **The [Architecture Activities Platform](activities-platform)** can accelerate learning by **embedding it into processes** and distributing them across the organization. By defining processes to facilitate sharing knowledge and lessons learned, we can maximize learning while creating a minimal overhead.
 
 
 ## Questions to Consider

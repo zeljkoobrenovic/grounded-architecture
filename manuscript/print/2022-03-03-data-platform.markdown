@@ -53,6 +53,9 @@ In the following sections, I detail several of these architectural data-driven t
 ![](assets/images/apps.png) 
 **Figure 2:** *A screenshot of the start page of the architecture data dashboard we've built and used at AVIV Group.*
 
+![](assets/images/apps-ebay.png) 
+**Figure 3:** *A screenshot of the start page of the architecture data dashboard we've built and used at eBay Classifieds.*
+
 ### Example 1: Source Code and Commit History
 
 I have repeatably found the source code to be an incredible source for creating data-driven architecture documentation. Source code and its commit history include an astonishing amount of information about technology, people activity, team dependencies, and the quality of software systems. I have started and still actively maintain the project [Sokrates](https://sokrates.dev), with the idea to help further **extract data from source code that can help my work as an architect**. I use Sokrates daily, improving it on the way.
@@ -78,19 +81,19 @@ And I encourage you to experiment with your source-code analyses.
 
 Migrating to the public cloud can dramatically increase transparency thanks to uniform automation and monitoring. The **public cloud transparency** offers an incredible amount of valuable data out-of-box.
 
-Figure 3 shows the anonymous screenshot of the Cloud usage explorer, a tool I built to visualize automatically-collected data from standard Google Cloud Platform (GCP) usage reports.
+Figure 4 shows the anonymous screenshot of the Cloud usage explorer, a tool I built to visualize automatically-collected data from standard Google Cloud Platform (GCP) usage reports.
 
 ![](assets/images/archdata/cloud-usage-explorer.png)
-***Figure 3:** An example of a cloud usage explorer.*
+***Figure 4:** An example of a cloud usage explorer.*
 
 [Amazon Web Services (AWS)](https://aws.amazon.com), [Google Cloud Platform (GCP)](https://cloud.google.com/), [Microsoft Azure](https://azure.microsoft.com/), and other Public Cloud Providers give detailed data about which platform uses which services, resource family, and budget. You can also understand which people and teams have access to each service. It is possible to get real-time information about cloud usage and understand the trends fully automatically.
 
 ### Example 3: Financial and Vibrancy Data
 
-Finance departments are very data-driven and have high-quality data that could be relevant for architects. In addition to standard costs, budgets, and other pure financial data types, I frequently found that finance teams also have different data sources, such as **vibrancy or usage levels**. These teams need such data to, for instance, correlate finance performance with usage levels. Such usage data are beneficial for architecture discussions. For example, linking usage levels and vibrancy of systems with their public cloud costs can identify areas of improvement and inefficiencies.
+Finance departments are very data-driven and have high-quality data that could be relevant for architects. In addition to standard costs, budgets, and other pure financial data types, I frequently found that finance teams also have different data sources, such as **vibrancy or usage levels**. These teams need such data to, for instance, correlate finance performance with usage levels. Such usage data are beneficial for architecture discussions. For example, linking usage levels and vibrancy of systems with their public cloud costs can identify areas of improvement and inefficiencies (Figure 5).
 
 ![](assets/images/arch/cross-data.png)
-***Figure 4:** Combining data from a different source (e.g., cloud billing reports and vibrancy or revenue can lead to new insights (e.g., identifying inefficiencies in the application portfolio).*
+***Figure 5:** Combining data from a different source (e.g., cloud billing reports and vibrancy or revenue can lead to new insights (e.g., identifying inefficiencies in the application portfolio).*
 
 ## Building Data Pillar
 
@@ -118,27 +121,27 @@ Finding the right ways to interpret and use data requires active effort. In othe
 
 ## Appendix: Examples of Insights From Source Code Analyses with Sokrates
 
-Figures 5 to 9 show some insights from source code analyses with Sokrates. 
+Figures 6 to 10 show some insights from source code analyses with Sokrates. 
 
 ![](assets/images/archdata/src_1.png)
 
-**Figure 5**: *Sokrates can instantly create a helicopter view of the technology landscape, programming languages, active contributors, and commit trends.*
+**Figure 6**: *Sokrates can instantly create a helicopter view of the technology landscape, programming languages, active contributors, and commit trends.*
 
 ![](assets/images/archdata/src_2.png)
 
-**Figure 6**: *Sokrates can show detailed code and contributors' trends per repository, enabling zooming in each repository up to the code level.*
+**Figure 7**: *Sokrates can show detailed code and contributors' trends per repository, enabling zooming in each repository up to the code level.*
  
 ![](assets/images/archdata/src_5.png)
 
-**Figure 7**: *Sokrates can create a tech radar by tagging projects with identified technologies.*
+**Figure 8**: *Sokrates can create a tech radar by tagging projects with identified technologies.*
 
 ![](assets/images/archdata/src_3.png)
 
-**Figure 8**: *Sokrates can show contributor trends, distribution of "veterans" and "rookies," and dependencies between people and repositories, enabling zooming in into patterns of the contribution of individual contributors.*
+**Figure 9**: *Sokrates can show contributor trends, distribution of "veterans" and "rookies," and dependencies between people and repositories, enabling zooming in into patterns of the contribution of individual contributors.*
  
 ![](assets/images/arch/sokrates_teams.png)
 
-**Figure 9**: *Sokrates can reveal the team topologies by plotting 2D and 3D graphs of dependencies that people create through working on the same repositories in the same period.*
+**Figure 10**: *Sokrates can reveal the team topologies by plotting 2D and 3D graphs of dependencies that people create through working on the same repositories in the same period.*
 
 ## Questions to Consider
 

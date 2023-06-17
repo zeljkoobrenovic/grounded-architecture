@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-06-17T20:57:55+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: Redefining IT Architecture Practice</title><subtitle></subtitle><entry><title type="html">Favorite Quotes</title><link href="http://localhost:4000/quotes" rel="alternate" type="text/html" title="Favorite Quotes" /><published>2021-10-25T22:12:01+02:00</published><updated>2021-10-25T22:12:01+02:00</updated><id>http://localhost:4000/quotes</id><content type="html" xml:base="http://localhost:4000/quotes"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/books-g1b2675255_1920.jpg" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-06-17T21:19:54+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: Redefining IT Architecture Practice</title><subtitle></subtitle><entry><title type="html">Favorite Quotes</title><link href="http://localhost:4000/quotes" rel="alternate" type="text/html" title="Favorite Quotes" /><published>2021-10-25T22:12:01+02:00</published><updated>2021-10-25T22:12:01+02:00</updated><id>http://localhost:4000/quotes</id><content type="html" xml:base="http://localhost:4000/quotes"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/books-g1b2675255_1920.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/prettysleepy-2973588/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5430104">Amy</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5430104">Pixabay</a>
 </div>
@@ -330,6 +330,8 @@ Considering the scale and complexity of the organizational context I operated in
 Considering the scale and complexity of the organizational context I operated in, it was apparent that conventional approaches of doing architecture that rely on manual processes need to be revised.
 </div>
 
+<h2 id="goals">Goals</h2>
+
 <p>More specifically, I identified the following needs that an architecture function should support.</p>
 
 <h3 id="goal-1-executing-at-scale">Goal 1: Executing At Scale</h3>
@@ -501,6 +503,11 @@ Manual documentation does not scale, and relying on data ensures reliability and
 
 <p><strong>Figure 2:</strong> <em>A screenshot of the start page of the architecture data dashboard we’ve built and used at AVIV Group.</em></p>
 
+<p><img src="assets/images/apps-ebay.png" style="padding: 4px; padding-top: 8px; padding-bottom: 8px; box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px; margin-bottom: 6px" />
+<br /></p>
+
+<p><strong>Figure 3:</strong> <em>A screenshot of the start page of the architecture data dashboard we’ve built and used at eBay Classifieds.</em></p>
+
 <p><br /></p>
 <h3 id="example-1-source-code-and-commit-history">Example 1: Source Code and Commit History</h3>
 
@@ -536,22 +543,22 @@ Source code and its commit history include an astonishing amount of information 
 
 <p>Migrating to the public cloud can dramatically increase transparency thanks to uniform automation and monitoring. The <strong>public cloud transparency</strong> offers an incredible amount of valuable data out-of-box.</p>
 
-<p>Figure 3 shows the anonymous screenshot of the Cloud usage explorer, a tool I built to visualize automatically-collected data from standard Google Cloud Platform (GCP) usage reports.</p>
+<p>Figure 4 shows the anonymous screenshot of the Cloud usage explorer, a tool I built to visualize automatically-collected data from standard Google Cloud Platform (GCP) usage reports.</p>
 
 <p><img src="assets/images/archdata/cloud-usage-explorer.png" alt="" />
 <br />
-<em><strong>Figure 3:</strong> An example of a cloud usage explorer.</em></p>
+<em><strong>Figure 4:</strong> An example of a cloud usage explorer.</em></p>
 
 <p><a href="https://aws.amazon.com">Amazon Web Services (AWS)</a>, <a href="https://cloud.google.com/">Google Cloud Platform (GCP)</a>, <a href="https://azure.microsoft.com/">Microsoft Azure</a>, and other Public Cloud Providers give detailed data about which platform uses which services, resource family, and budget. You can also understand which people and teams have access to each service. It is possible to get real-time information about cloud usage and understand the trends fully automatically.</p>
 
 <p><br /></p>
 <h3 id="example-3-financial-and-vibrancy-data">Example 3: Financial and Vibrancy Data</h3>
 
-<p>Finance departments are very data-driven and have high-quality data that could be relevant for architects. In addition to standard costs, budgets, and other pure financial data types, I frequently found that finance teams also have different data sources, such as <strong>vibrancy or usage levels</strong>. These teams need such data to, for instance, correlate finance performance with usage levels. Such usage data are beneficial for architecture discussions. For example, linking usage levels and vibrancy of systems with their public cloud costs can identify areas of improvement and inefficiencies.</p>
+<p>Finance departments are very data-driven and have high-quality data that could be relevant for architects. In addition to standard costs, budgets, and other pure financial data types, I frequently found that finance teams also have different data sources, such as <strong>vibrancy or usage levels</strong>. These teams need such data to, for instance, correlate finance performance with usage levels. Such usage data are beneficial for architecture discussions. For example, linking usage levels and vibrancy of systems with their public cloud costs can identify areas of improvement and inefficiencies (Figure 5).</p>
 
 <p><img src="assets/images/arch/cross-data.png" alt="" />
 <br />
-<em><strong>Figure 4:</strong> Combining data from a different source (e.g., cloud billing reports and vibrancy or revenue can lead to new insights (e.g., identifying inefficiencies in the application portfolio).</em></p>
+<em><strong>Figure 5:</strong> Combining data from a different source (e.g., cloud billing reports and vibrancy or revenue can lead to new insights (e.g., identifying inefficiencies in the application portfolio).</em></p>
 
 <p><br /></p>
 <h2 id="building-data-pillar">Building Data Pillar</h2>
@@ -588,39 +595,39 @@ Source code and its commit history include an astonishing amount of information 
 <p><br /></p>
 <h2 id="appendix-examples-of-insights-from-source-code-analyses-with-sokrates">Appendix: Examples of Insights From Source Code Analyses with Sokrates</h2>
 
-<p>Figures 5 to 9 show some insights from source code analyses with Sokrates.</p>
+<p>Figures 6 to 10 show some insights from source code analyses with Sokrates.</p>
 
 <p><br />
 <img src="assets/images/archdata/src_1.png" alt="" /></p>
 
-<p><strong>Figure 5</strong>: <em>Sokrates can instantly create a helicopter view of the technology landscape, programming languages, active contributors, and commit trends.</em>
+<p><strong>Figure 6</strong>: <em>Sokrates can instantly create a helicopter view of the technology landscape, programming languages, active contributors, and commit trends.</em>
 <br />
 <br /></p>
 
 <p><img src="assets/images/archdata/src_2.png" alt="" /></p>
 
-<p><strong>Figure 6</strong>: <em>Sokrates can show detailed code and contributors’ trends per repository, enabling zooming in each repository up to the code level.</em>
+<p><strong>Figure 7</strong>: <em>Sokrates can show detailed code and contributors’ trends per repository, enabling zooming in each repository up to the code level.</em>
 <br />
 <br />
 <br /></p>
 
 <p><img src="assets/images/archdata/src_5.png" alt="" /></p>
 
-<p><strong>Figure 7</strong>: <em>Sokrates can create a tech radar by tagging projects with identified technologies.</em>
+<p><strong>Figure 8</strong>: <em>Sokrates can create a tech radar by tagging projects with identified technologies.</em>
 <br />
 <br />
 <br /></p>
 
 <p><img src="assets/images/archdata/src_3.png" alt="" /></p>
 
-<p><strong>Figure 8</strong>: <em>Sokrates can show contributor trends, distribution of “veterans” and “rookies,” and dependencies between people and repositories, enabling zooming in into patterns of the contribution of individual contributors.</em>
+<p><strong>Figure 9</strong>: <em>Sokrates can show contributor trends, distribution of “veterans” and “rookies,” and dependencies between people and repositories, enabling zooming in into patterns of the contribution of individual contributors.</em>
 <br />
 <br />
 <br /></p>
 
 <p><img src="assets/images/arch/sokrates_teams.png" alt="" /></p>
 
-<p><strong>Figure 9</strong>: <em>Sokrates can reveal the team topologies by plotting 2D and 3D graphs of dependencies that people create through working on the same repositories in the same period.</em>
+<p><strong>Figure 10</strong>: <em>Sokrates can reveal the team topologies by plotting 2D and 3D graphs of dependencies that people create through working on the same repositories in the same period.</em>
 <br />
 <br />
 <br /></p>
@@ -991,7 +998,7 @@ Grounded Architecture aims to make relevant information more readily available t
 
 <p>To give maximal autonomy to the teams while maintaining a <strong>minimal</strong> level of global <strong>alignment and compatibility</strong>, I have sometimes implemented the concept of a <strong>decision pyramid</strong>  (Figure 2).</p>
 
-<p><img src="assets/images/arch/decision-pyramid.jpg" alt="" />
+<p><img src="assets/images/arch/decision-pyramid.png" alt="" />
 <em><strong>Figure 2:</strong> A decision pyramid. The development teams should make most decisions. However, several strategic and area-level decisions may provide decision boundaries for teams (e.g., a public cloud provider).</em></p>
 
 <p>The <strong>decision pyramid</strong> highlights that development teams should make most of the decisions. However, several strategic and area-level choices may provide team decision boundaries. For example, selecting the public cloud provider is typically a CTO-level strategic decision. Similarly, engineering leaders in some domains may want to limit some choices, such as the number of programming languages, to more easily train new people, maintain code, and support moves between teams.</p>
@@ -1059,8 +1066,8 @@ When Grounded Architecture structure is in place, it can have a significant posi
 <p>Grounded Architecture structure can enable architecture functions to operate at scale in the following ways.</p>
 
 <ul>
-  <li><strong>The <a href="data-pillar">Data Pillar</a></strong> can support working at scale when implemented with a high level of <strong>automation</strong> (as manual effort does not scale) and when data are provided to the organization as a <strong>self-service</strong> (so that we do not rely on manual work or meetings to share the date). Data Pillar tools and insights it displays can reach thousands of people in an organization, e.g., via an internal website. Having such tools has removed the need for hundreds of information-sharing or data-gathering meetings and workshops in my work (that do not scale).</li>
-  <li><strong>The <a href="people-pillar">People Pillar</a></strong> can help execution at scale by developing connections at all levels of the organization, <strong>speeding up alignment, information sharing, and the execution</strong> of shared decisions.</li>
+  <li><strong>The <a href="data">Data Pillar</a></strong> can support working at scale when implemented with a high level of <strong>automation</strong> (as manual effort does not scale) and when data are provided to the organization as a <strong>self-service</strong> (so that we do not rely on manual work or meetings to share the date). Data Pillar tools and insights it displays can reach thousands of people in an organization, e.g., via an internal website. Having such tools has removed the need for hundreds of information-sharing or data-gathering meetings and workshops in my work (that do not scale).</li>
+  <li><strong>The <a href="people">People Pillar</a></strong> can help execution at scale by developing connections at all levels of the organization, <strong>speeding up alignment, information sharing, and the execution</strong> of shared decisions.</li>
   <li><strong>The <a href="activities-platform">Architecture Activities Platform</a></strong> enables execution at scale by promoting an operating model that <strong>distributes decision-making</strong> across the organization. In that way, more people can make decisions, removing a bottleneck that centralized decision-making would create.</li>
 </ul>
 
@@ -1076,8 +1083,8 @@ Image by <a href="https://pixabay.com/users/wikiimages-1897/?utm_source=link-att
 <p>The three elements of the Grounded Architecture structure provide a highly flexible and adaptive setting. This adaptivity is driven by the independence of these elements and the possibility of using the elements in different combinations. Here are some of the critical drivers of flexibility:</p>
 
 <ul>
-  <li><strong>The <a href="data-pillar">Data Pillar</a></strong>, if implemented with a high level of automation, allows for <strong>quick extensions and reconfigurations</strong> to provide data for any organizational change. For instance, extending the platform, e.g., with additional analyses of new source code repositories and new data after acquisitions or mergers. A robust, automated Data Pillar provides crucial connections and feedback, adapting ints views to the changing daily reality of each part of the organization.</li>
-  <li><strong>Having the <a href="people-pillar">People Pillar</a></strong> enables a more flexible and sustainable architectural function. A central team can help <strong>mitigate distributed teams’ temporary lack of capacity</strong>. And with well-connected architects, the architecture function can still <strong>benefit the organization without a strong central team</strong>.</li>
+  <li><strong>The <a href="data">Data Pillar</a></strong>, if implemented with a high level of automation, allows for <strong>quick extensions and reconfigurations</strong> to provide data for any organizational change. For instance, extending the platform, e.g., with additional analyses of new source code repositories and new data after acquisitions or mergers. A robust, automated Data Pillar provides crucial connections and feedback, adapting ints views to the changing daily reality of each part of the organization.</li>
+  <li><strong>Having the <a href="people">People Pillar</a></strong> enables a more flexible and sustainable architectural function. A central team can help <strong>mitigate distributed teams’ temporary lack of capacity</strong>. And with well-connected architects, the architecture function can still <strong>benefit the organization without a strong central team</strong>.</li>
   <li><strong>The <a href="activities-platform">Architecture Activities Platform</a></strong> can support adaptivity through its <strong>flexible setting</strong> and by distributing decision-making across the company. This way, we can avoid an architecture function becoming a simple point of failure and a bottleneck.</li>
 </ul>
 
@@ -1095,8 +1102,8 @@ Image by <a href="https://pixabay.com/users/painter06-3732158/?utm_source=link-a
 <p>There are significant benefits to making our decision process as much as possible data-driven. Architectural <strong>discussions can be heated and opinionated</strong>, not leading to the best arguments and decisions. Maintaining high-quality data on relevant internal and external technology developments is one of the critical tasks for architects.</p>
 
 <ul>
-  <li><strong>The <a href="data-pillar">Data Pillar</a></strong> can ensure <strong>having ready any data</strong> needed for decisions, fueling data-informed discussions and decision-making.</li>
-  <li><strong>The <a href="people-pillar">People Pillar</a></strong> ensures <strong>having the right people</strong> available and well-connected for sharing information and making decisions.</li>
+  <li><strong>The <a href="data">Data Pillar</a></strong> can ensure <strong>having ready any data</strong> needed for decisions, fueling data-informed discussions and decision-making.</li>
+  <li><strong>The <a href="people">People Pillar</a></strong> ensures <strong>having the right people</strong> available and well-connected for sharing information and making decisions.</li>
   <li><strong>The <a href="activities-platform">Architecture Activities Platform</a></strong> provides processes enabling architects to move away from opinion-based decisions to data-driven economic risk modeling. Such processes can help architects to achieve the following:
     <ul>
       <li><strong>dismantle hype and buzzwords</strong>, present the problem in clear terms, understandable to a broader audience</li>
@@ -1147,9 +1154,9 @@ Image by iStock
 <p>The Grounded Architecture structure can support learning in multiple ways:</p>
 
 <ul>
-  <li><strong>The <a href="data-pillar">Data Pillar</a></strong> can accelerate learning and adopting new technologies by providing more <strong>data to facilitate reflection and exploration</strong>.</li>
+  <li><strong>The <a href="data">Data Pillar</a></strong> can accelerate learning and adopting new technologies by providing more <strong>data to facilitate reflection and exploration</strong>.</li>
   <li><strong>The <a href="people">People Pillar</a></strong> can create <strong>spaces for sharing knowledge</strong> about architecture and technology. These spaces include but are not limited to regular update calls, knowledge-sharing sessions, or conferences. In addition to creating spaces as a community, it can further increase our learning value by deriving generalized insights from cross-group cases.</li>
-  <li><strong>The <a href="activities">Architecture Activities Platform</a></strong> can accelerate learning by <strong>embedding it into processes</strong> and distributing them across the organization. By defining processes to facilitate sharing knowledge and lessons learned, we can maximize learning while creating a minimal overhead.</li>
+  <li><strong>The <a href="activities-platform">Architecture Activities Platform</a></strong> can accelerate learning by <strong>embedding it into processes</strong> and distributing them across the organization. By defining processes to facilitate sharing knowledge and lessons learned, we can maximize learning while creating a minimal overhead.</li>
 </ul>
 
 <h2 id="questions-to-consider">Questions to Consider</h2>
