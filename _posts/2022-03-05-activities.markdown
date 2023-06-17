@@ -102,7 +102,7 @@ Another characteristic of this operating model is **shifting left** the architec
 
 ### Distributing Decisions
 
-With proposed operating model, I aimed to keep architectural decision-making distributed across the organization and embedded in the development teams. Development teams traditionally have the best insights and most information relevant for making a decision. As noted by Gregor Hohpe, the worst case of organizational decision-making happens when people with relevant information are not allowed to make decisions, while people who lack sufficient information make all decisions. Grounded Architecture aims to make relevant information more readily available to a broader audience and better connect people when making decisions.
+With proposed operating model, I aimed to keep architectural decision-making distributed across the organization and embedded in the development teams. Development **teams traditionally have the best insights and most information** relevant for making a decision. As noted by Gregor Hohpe, the worst case of organizational decision-making happens when people with relevant information are not allowed to make decisions, while people who lack sufficient information make all decisions. Grounded Architecture aims to make relevant information more readily available to a broader audience and better connect people when making decisions.
  
 
 <div class="quote">
@@ -118,7 +118,7 @@ To give maximal autonomy to the teams while maintaining a **minimal** level of g
 ![](assets/images/arch/decision-pyramid.jpg)
 ***Figure 2:** A decision pyramid. The development teams should make most decisions. However, several strategic and area-level decisions may provide decision boundaries for teams (e.g., a public cloud provider).*
 
-The decision pyramid highlights that development teams should make most of the decisions. However, several strategic and area-level choices may provide team decision boundaries. For example, selecting the public cloud provider is typically a CTO-level strategic decision. Similarly, engineering leaders in some domains may want to limit some choices, such as the number of programming languages, to more easily train new people, maintain code, and support moves between teams.
+The **decision pyramid** highlights that development teams should make most of the decisions. However, several strategic and area-level choices may provide team decision boundaries. For example, selecting the public cloud provider is typically a CTO-level strategic decision. Similarly, engineering leaders in some domains may want to limit some choices, such as the number of programming languages, to more easily train new people, maintain code, and support moves between teams.
 
 ## Questions to Consider
 

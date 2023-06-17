@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-06-17T00:21:16+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: Redefining IT Architecture Practice</title><subtitle></subtitle><entry><title type="html">Favorite Quotes</title><link href="http://localhost:4000/quotes" rel="alternate" type="text/html" title="Favorite Quotes" /><published>2021-10-25T22:12:01+02:00</published><updated>2021-10-25T22:12:01+02:00</updated><id>http://localhost:4000/quotes</id><content type="html" xml:base="http://localhost:4000/quotes"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/books-g1b2675255_1920.jpg" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-06-17T12:52:47+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: Redefining IT Architecture Practice</title><subtitle></subtitle><entry><title type="html">Favorite Quotes</title><link href="http://localhost:4000/quotes" rel="alternate" type="text/html" title="Favorite Quotes" /><published>2021-10-25T22:12:01+02:00</published><updated>2021-10-25T22:12:01+02:00</updated><id>http://localhost:4000/quotes</id><content type="html" xml:base="http://localhost:4000/quotes"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/books-g1b2675255_1920.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/prettysleepy-2973588/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5430104">Amy</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5430104">Pixabay</a>
 </div>
@@ -393,13 +393,13 @@ Image by <a href="https://pixabay.com/users/ichigo121212-11728/?utm_source=link-
 </style>
 
 <p><br />
-In this part, I will introduce the structure of Grounded Architecture. I chose the term “Grounded Architecture” to highlight that the primary goal of my approach is to avoid having an “ivory tower” architecture function disconnected from the organization, which in a <a href="context">fast-moving, global, and diverse setting</a> is a real danger. In other words, I wanted to create an architectural function that is well grounded in the organization.</p>
+In this part, I will introduce the structure of Grounded Architecture. I chose the term “Grounded Architecture” to highlight that the primary goal of my approach is to <strong>avoid having an “ivory tower” architecture function</strong> disconnected from the organization, which in a <a href="context">fast-moving, global, and diverse setting</a> is a real danger. In other words, I wanted to create an architectural function that is <strong>well grounded in the organization</strong>.</p>
 
 <div class="quote">
 I chose the term "Grounded Architecture" to highlight that the primary goal of my approach is to avoid having an "ivory tower" architecture function disconnected from the organization. I wanted to create an architectural function that is well-grounded in the organization.
 </div>
 
-<p>Grounded Architecture has three elements:</p>
+<p>Grounded Architecture as an approach to setting organizational structures for architecture practice has three elements:</p>
 <ul>
   <li>The Data Pillar,</li>
   <li>The People Pillar,</li>
@@ -409,13 +409,13 @@ I chose the term "Grounded Architecture" to highlight that the primary goal of m
 <p><img src="assets/images/model.png" alt="" />
 <em><strong>Figure 1:</strong> The structure of Grounded Architecture.</em></p>
 
-<p>The <em>Data Pillar</em> is a system of tools and resources that enables architects to make data-informed decisions based on a real-time and complete overview of the organization’s technology landscape. The <a href="data">Data Pillar section</a> provides more details.</p>
+<p>The <em>Data Pillar</em> is <strong>a system of tools and resources</strong> that enables architects to make <strong>data-informed decisions</strong> based on a real-time and complete overview of the organization’s technology landscape. The <a href="data">Data Pillar section</a> provides more details.</p>
 
-<p>The <em>People Pillar</em> is a network of people doing architecture across the organization. This Pillar is crucial to ensure that architecture function has any tangible impact. As noted by Gregor Hohpe, to transform an organization, you do not need to solve mathematical equations; you need to move people. The <a href="people">People Pillar section</a> provides more details.</p>
+<p>The <em>People Pillar</em> is <strong>a network of people</strong> doing architecture across the organization. This Pillar is crucial to ensure that architecture function has any <strong>tangible impact</strong>. As noted by Gregor Hohpe, to transform an organization, you do not need to solve mathematical equations; you need to move people. The <a href="people">People Pillar section</a> provides more details.</p>
 
-<p>Lastly, the <em>Architecture Activities Platform</em> defines a set of processes and agreements enabling architects to do everything that architecture typically does, leveraging data and People Pillars to create a data-informed, organization-wide impact. The <a href="activities-platform">Architecture Activites Platform section</a> provides more details on Architecture Activities Platform.</p>
+<p>Lastly, the <em>Architecture Activities Platform</em> defines <strong>a set of processes and agreements</strong> enabling architects to do everything that architecture typically does, leveraging data and People Pillars to create a data-informed, organization-wide impact. The <a href="activities-platform">Architecture Activites Platform section</a> provides more details on Architecture Activities Platform.</p>
 
-<p>The Architecture Activities Platform is only valid with the healthy Data and People Pillars. Without data and people connections, an Architecture Activities Platform becomes an ivory tower institution, generating opinion-based decisions disconnected from reality.</p>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[I introduce three elements of Grounded Architecture: The Data Pillar, The People Pillar, The Architecture Activities Platform.]]></summary></entry><entry><title type="html">Data Pillar</title><link href="http://localhost:4000/data" rel="alternate" type="text/html" title="Data Pillar" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/data-platform</id><content type="html" xml:base="http://localhost:4000/data"><![CDATA[<p><img src="assets/images/arch/architecture-1857175_1920.jpg" style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" /></p>
+<p>The Architecture Activities Platform is <strong>only valid with the healthy Data and People Pillars</strong>. Without data and people connections, an Architecture Activities Platform becomes an ivory tower institution, generating opinion-based decisions disconnected from reality.</p>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[I introduce three elements of Grounded Architecture: The Data Pillar, The People Pillar, The Architecture Activities Platform.]]></summary></entry><entry><title type="html">Data Pillar</title><link href="http://localhost:4000/data" rel="alternate" type="text/html" title="Data Pillar" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/data-platform</id><content type="html" xml:base="http://localhost:4000/data"><![CDATA[<p><img src="assets/images/arch/architecture-1857175_1920.jpg" style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/3844328-3844328/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1857175">Lorenzo Cafaro</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1857175">Pixabay</a>
 </div>
@@ -453,27 +453,38 @@ Image by <a href="https://pixabay.com/users/3844328-3844328/?utm_source=link-att
 </blockquote>
 
 <p><br />
-In every place I worked on creating architectural functions, I strongly emphasized data. In the past several years, I have been working on creating open-source tools, such as <a href="https://sokrates.dev">Sokrates</a>, that can help obtain valuable architectural insights from data sources, such as source code repositories or public cloud billing reports. Consequently, one of the first steps I make in any architecture role is to create an architecture Data Pillar to get a complete, up-to-date picture of critical elements of the technology landscapes of an organization (Figure 1). Manual documentation does not scale, and relying on data ensures reliability and scalability.</p>
+In every place I worked on creating architectural functions, I strongly emphasized data. Moreover, in the past several years, I have been working on creating open-source tools, such as <a href="https://sokrates.dev">Sokrates</a>, that can help obtain valuable architectural insights from data sources, such as source code repositories or public cloud billing reports. Consequently, <strong>one of the first steps I make in any architecture practice</strong> is to create an architecture Data Pillar to get a complete, up-to-date picture of critical elements of the technology landscapes of an organization (Figure 1). <strong>Manual documentation does not scale</strong>, and relying on data ensures reliability and scalability.</p>
 
 <p><img src="assets/images/model-data.png" alt="" />
 <em><strong>Figure 1:</strong> The structure of Grounded Architecture: The Data Pillar.</em></p>
 
-<p>The good news is that big organizations have lots of data that, if used wisely, can provide an excellent basis for an architectural Data Pillar. With some automation and curation, getting a good overview of the technology landscape may be closer than it initially appears.</p>
+<p>The good news is that <strong>big organizations have lots of data</strong> that, if used wisely, can provide an excellent basis for an architectural Data Pillar. With some automation and curation, getting a good overview of the technology landscape may be closer than it initially appears.</p>
 
 <div class="quote">
 Manual documentation does not scale, and relying on data ensures reliability and scalability.
 </div>
 
-<p>My view of a Data Pillar is not to be a goal-setting framework or a control board. My vision for building the Data Pillar follows the map-making metaphor. Maps are one of the most critical documents in human history. They give us tools to store and exchange knowledge about space and place. While there are differences between maps and the layers they show, the one thing that all maps do is provide readers with <strong>orientation</strong>. A sense of place is central to meaning-making. Maps are also composed of multiple layers. Similarly, the architecture Data Pillar should give readers a sense of orientation, offering data layers about systems that describe their sizes, connections, quality, security, or human activity.</p>
+<p>Data Pillar is a central place with authoritative, relevant, and curated data about the organizational technology landscape. Technically, you can implement data pillar using simple tools like Google Drive, with documents organized in a folder or an internal website. I recommend investing some effort in creating basic infrastructure, as it can enable more people to access and benefit from data.</p>
+
+<p>Regardless of how you implement your Data Pillar, with papers on the wall, in Google Drive, or with a nicely designed internal website, I have the following requirements for it:</p>
+<ul>
+  <li><strong>It is the single point of truth</strong> for all relevant architectural data. People should be able to go to one place and get the most relevant data.</li>
+  <li><strong>It is curated for quality</strong> so that people can trust the data. Simply dumping data into one area will not help. You need to own curation to ensure that data are correct. You also should provide links to data sources so people can verify the facts.</li>
+  <li><strong>It is curated for usability</strong> so people stay focused on valuable details. You must filter out useless or less relevant details, focusing on the essence. Investing in the UX design of documents or tools you create helps.</li>
+  <li><strong>It is kept up to date</strong>, ideally in an automated fashion (or in a semi-automated repeatable way).</li>
+  <li><strong>It is accessible to the whole organization</strong>. I genuinely believe that when you give employees access to information that is generally reserved for specialists, architects, or “higher levels,” they get more done on their own. They can work faster without stopping to ask for information and approval. And they make better decisions without needing input from architects or the top.</li>
+</ul>
+
+<p>My view of a Data Pillar is not to be a goal-setting framework or a control board. My vision for building the Data Pillar follows <strong>the map-making metaphor</strong>. Maps are one of the most critical documents in human history. They give us tools to store and exchange knowledge about space and place. While there are differences between maps and the layers they show, the one thing that all maps do is <strong>provide readers with orientation</strong>. A sense of place is central to meaning-making. Maps are also composed of multiple layers. Similarly, the architecture Data Pillar should give readers a sense of orientation, offering data layers about systems that describe their sizes, connections, quality, security, or human activity.</p>
 
 <h2 id="examples-of-data-sources-and-tools">Examples of Data Sources and Tools</h2>
 
-<p>I’ve always aimed to get reliable data about technology with as much as possible automation. Some examples of data I used include (Figure 2):</p>
+<p>To illustrate what I mean by Dat Pillar, I will start with a few concrete examples from my recent work. Data I typically used include (Figure 2):</p>
 <ul>
-  <li><strong>Source code</strong>, which contains an incredible amount of information about technology, people’s activity, team dependencies, and the quality of software systems.</li>
-  <li><strong>Public cloud billing reports</strong>, which provide an overview and trends about used cloud services, regions, and budgets.</li>
-  <li><strong>Incident reports</strong>, which can reveal trends and dependencies among incidents.</li>
-  <li><strong>Key business metrics</strong>, like vibrancy, which can show user activity on our systems.</li>
+  <li><strong>Source code</strong> contains an incredible amount of information about technology, people’s activity, team dependencies, and the quality of software systems.</li>
+  <li><strong>Public cloud billing reports</strong> provide an overview and trends about used cloud services, regions, and budgets.</li>
+  <li><strong>Incident reports</strong> can reveal trends and dependencies among incidents.</li>
+  <li><strong>Key business metrics</strong>, like vibrancy, can show user activity on our systems.</li>
   <li><strong>Messaging and collaboration platform (such as Slack) activity reports</strong>, which can help understand discussion topics and team interactions.</li>
 </ul>
 
@@ -487,13 +498,13 @@ Manual documentation does not scale, and relying on data ensures reliability and
 <p><br /></p>
 <h3 id="example-1-source-code-and-commit-history">Example 1: Source Code and Commit History</h3>
 
-<p>I have repeatably found the source code to be an incredible source for creating data-driven architecture documentation. Source code and its commit history include an astonishing amount of information about technology, people activity, team dependencies, and the quality of software systems. I’ve started and still actively maintain the project <a href="https://sokrates.dev">Sokrates</a>, with the idea to help further extract data from source code that can help my work as an architect. I use Sokrates daily, improving it on the way.</p>
+<p>I have repeatably found the source code to be an incredible source for creating data-driven architecture documentation. Source code and its commit history include an astonishing amount of information about technology, people activity, team dependencies, and the quality of software systems. I have started and still actively maintain the project <a href="https://sokrates.dev">Sokrates</a>, with the idea to help further <strong>extract data from source code that can help my work as an architect</strong>. I use Sokrates daily, improving it on the way.</p>
 
 <div class="quote">
 Source code and its commit history include an astonishing amount of information about technology, people activity, team dependencies, and the quality of software systems.
 </div>
 
-<p>I have designed Sokrates from an architect’s point of view, enabling quick zooming in and out into source code landscapes. On the one hand, Sokrates provides a high-level view of the landscape, summarizing data from all teams and groups. At the same time, you can zoom in on the details of particular systems to the code level. That means you can use the same tools to have CTO-level discussions looking at overall trends in technology usage and costs. At the same time, I could engage with developers and discuss concrete code fragments and potential improvements in the code level (e.g., duplicated blocks, complex units, dependencies).</p>
+<p>I have designed Sokrates from an architect’s point of view, enabling quick <strong>zooming in and out into source code landscapes</strong>. On the one hand, Sokrates provides a <strong>high-level view</strong> of the landscape, summarizing data from all teams and groups. At the same time, you can zoom in on the details of particular systems <strong>to the code level</strong>. That means you can use the same tools to have CTO-level discussions looking at overall trends in technology usage and costs. At the same time, I could engage with developers and discuss concrete code fragments and potential improvements in the code level (e.g., duplicated blocks, complex units, dependencies).</p>
 
 <p>The Appendix at the end of this section shows examples of some insights from source code analyses with Sokrates. For more complex examples of insights that Sokrates generates from source code, take a look at <a href="https://www.sokrates.dev/">Sokrates examples</a>, with analysis of complex open-source landscapes, such as:</p>
 <ul>
@@ -517,7 +528,7 @@ Source code and its commit history include an astonishing amount of information 
 <p><br /></p>
 <h3 id="example-2-public-cloud-usage">Example 2: Public Cloud Usage</h3>
 
-<p>Migrating to the public cloud can dramatically increase transparency thanks to uniform automation and monitoring. The public cloud transparency offers an incredible amount of valuable data out-of-box.</p>
+<p>Migrating to the public cloud can dramatically increase transparency thanks to uniform automation and monitoring. The <strong>public cloud transparency</strong> offers an incredible amount of valuable data out-of-box.</p>
 
 <p>Figure 3 shows the anonymous screenshot of the Cloud usage explorer, a tool I built to visualize automatically-collected data from standard Google Cloud Platform (GCP) usage reports.</p>
 
@@ -530,22 +541,7 @@ Source code and its commit history include an astonishing amount of information 
 <p><br /></p>
 <h3 id="example-3-financial-and-vibrancy-data">Example 3: Financial and Vibrancy Data</h3>
 
-<p>Finance departments are very data-driven and have high-quality data that could be relevant for architects. In addition to standard costs, budgets, and other pure financial data types, I frequently found that finance teams also have different data sources, such as vibrancy or usage levels. These teams need such data to, for instance, correlate finance performance with usage levels. Such usage data are beneficial for architecture discussions. For example, linking usage levels and vibrancy of systems with their public cloud costs can identify areas of improvement and inefficiencies.</p>
-
-<p><br /></p>
-<h2 id="using-architecture-data-pillar">Using Architecture Data Pillar</h2>
-
-<p>The architecture Data Pillar can provide lots of data. Sometimes, as in an ordinary map or atlas, such data could be helpful for those who want to orient themselves and understand the context. But with a proper mindset, you can obtain more insights from such data.</p>
-
-<p>Finding the right ways to interpret and use data requires active effort. In other words, the data can give you the answers, but <a href="https://en.wikipedia.org/wiki/42_(number)#The_Hitchhiker's_Guide_to_the_Galaxy">we may not know the questions</a>. Here are some of the questions you can ask when you have data:</p>
-<ul>
-  <li>Are we aligned and going in the same direction? Source code overviews, public cloud usage explorers, or tech radars can highlight differences among systems and teams and trigger discussions.</li>
-  <li>Are we using technology optimally? Comparing usage trends between teams can show interesting outliners (both positive and negative).</li>
-  <li>Are there indicators of poor code quality? Too large systems, duplication, long units, or long files.</li>
-  <li>Productivity: is more really more or is more actually less. For instance, comparing the number of git merges with the number of developers can indicate if our dev processes are scalable. When we scale up teams, we want to speed up our delivery (but if team structure is not proper, it can easily be the opposite as people “step on each other toes”).</li>
-  <li>Do we collaborate in the way we want? Repository analysis can point out team topologies and (un)desired dependencies.</li>
-  <li>Do we work on the things we want? We may want to focus more on innovations, but in reality, we may spend too much time on legacy maintenance.</li>
-</ul>
+<p>Finance departments are very data-driven and have high-quality data that could be relevant for architects. In addition to standard costs, budgets, and other pure financial data types, I frequently found that finance teams also have different data sources, such as <strong>vibrancy or usage levels</strong>. These teams need such data to, for instance, correlate finance performance with usage levels. Such usage data are beneficial for architecture discussions. For example, linking usage levels and vibrancy of systems with their public cloud costs can identify areas of improvement and inefficiencies.</p>
 
 <p><br /></p>
 <h2 id="building-data-pillar">Building Data Pillar</h2>
@@ -561,6 +557,23 @@ Source code and its commit history include an astonishing amount of information 
 </ul>
 
 <p>While I do not want to prescribe the best technology, I can tell what I use in daily work. I build most architecture data tools as simple web applications, taking data from JSON files hosted on a static web server. See some of <a href="https://obren.io/tools">my public tools</a> to illustrate how I build such simple data-driven web apps.</p>
+
+<p><br /></p>
+<h2 id="using-architecture-data-pillar">Using Architecture Data Pillar</h2>
+
+<p>The architecture Data Pillar can provide lots of data. Sometimes, as in an ordinary map or atlas, such data could be helpful for those who want to orient themselves and understand the context. But with a proper mindset, you can obtain more insights from such data.</p>
+
+<p>Finding the right ways to interpret and use data requires active effort. In other words, the data can give you the answers, but <a href="https://en.wikipedia.org/wiki/42_(number)#The_Hitchhiker's_Guide_to_the_Galaxy">we may not know the questions</a>. Here are some of the questions you can ask when you have data:</p>
+<ul>
+  <li><strong>Are we aligned and going in the same direction?</strong> Source code overviews, public cloud usage explorers, or tech radars can highlight differences among systems and teams and trigger discussions.</li>
+  <li><strong>Are we using technology optimally?</strong> Comparing usage trends between teams can show interesting outliners (both positive and negative).</li>
+  <li><strong>Are there indicators of poor code quality?</strong> Too large systems, duplication, long units, or long files.</li>
+  <li><strong>Productivity: is more really more or is more actually less.</strong> For instance, comparing the number of git merges with the number of developers can indicate if our dev processes are scalable. When we scale up teams, we want to speed up our delivery (but if team structure is not proper, it can easily be the opposite as people “step on each other toes”).</li>
+  <li><strong>Do we collaborate in the way we want?</strong> Repository analysis can point out team topologies and (un)desired dependencies.</li>
+  <li><strong>Do we work on the things we want?</strong> We may want to focus more on innovations, but in reality, we may spend too much time on legacy maintenance.</li>
+</ul>
+
+<p><br /></p>
 
 <p><br /></p>
 <h2 id="appendix-examples-of-insights-from-source-code-analyses-with-sokrates">Appendix: Examples of Insights From Source Code Analyses with Sokrates</h2>
@@ -653,8 +666,8 @@ Image by <a href="https://pixabay.com/users/mostafa_meraji-13551092/?utm_source=
 <p><br /></p>
 
 <p>The <strong>People Pillar</strong> is an essential element of Grounded Architecture. As noted by Gregor Hohpe, to transform an
-organization, you do not need to solve mathematical equations. You need to move people. Consequently, having a strong
-network of people doing architecture across the organization is crucial to ensure that the architecture function has any
+organization, you do not need to solve mathematical equations. You need to move people. Consequently, having <strong>a strong
+network of people doing architecture</strong> across the organization is crucial to ensure that the architecture function has any
 tangible impact. In other words, Strong Architecture =
 Strong Architects.</p>
 
@@ -662,8 +675,8 @@ Strong Architects.</p>
 Strong Architecture = Strong Architects.
 </div>
 
-<p>Developing the architecture function requires having competent, empowered, and motivated architects. We should not take
-architectural talent for granted. Architects are bridging local business, product, organizational, and technology
+<p>Developing the architecture function requires having competent, empowered, and motivated architects. <strong>We should not take
+architectural talent for granted</strong>. Architects are bridging local business, product, organizational, and technology
 issues. Architects are difficult to hire talent as they need not only in-depth technical knowledge but also
 domain-specific and organizational knowledge. Consequently, any architecture function must carefully organize, empower,
 and leverage scarce architecture talent (Figure 1).</p>
@@ -672,7 +685,7 @@ and leverage scarce architecture talent (Figure 1).</p>
 <em><strong>Figure 1:</strong> The structure of Grounded Architecture: The People Pillar.</em></p>
 
 <p>In my work in the past few years, I was working by combining, in different forms, two teams of architects: a small
-central architecture team and a cross-organizational distributed virtual team. A central architecture team is an enabler
+<strong>central architecture team</strong> and <strong>a cross-organizational distributed virtual team</strong>. A central architecture team is an enabler
 for the rest of the organization, supporting teams and addressing global strategic topics. A distributed virtual
 architecture team consists of architects (or other people making architecture decisions in their teams) working in local
 organizational units but spending some time in a virtual team with peers from other teams. Such a distributed virtual
@@ -689,16 +702,16 @@ implement change.</p>
 <p><img src="assets/images/arch/arch_teams.png" alt="" />
 <em><strong>Figure 2:</strong> Central and/or Federated Architecture Function.</em></p>
 
-<p>The central model involves a large-scale central architecture team. The central team typically defines the process for
+<p><strong>The central model</strong> involves a large-scale central architecture team. The central team typically defines the process for
 approval of new work and assures adherence by development teams. In this model, development teams have few or no
 qualified solution architects that are typically a part of the central architecture team. This model also holds
-centralized infrastructure, operations, and security teams apart from the development function. Control and governance
+<strong>centralized infrastructure, operations, and security teams</strong> apart from the development function. Control and governance
 are typically the primary concerns of the central architecture team.</p>
 
-<p>The federated model generally relies upon a guild or “community of practice” of solution architects embedded into
-individual development teams. A small central architecture team or an architecture center of excellence (CoE) may
-complement such a guild. The federated model’s architects facilitate high-level planning and act as on-demand service
-providers for distributed teams.</p>
+<p><strong>The federated model</strong> generally relies upon a guild or “community of practice” of solution architects embedded into
+individual development teams. A small central architecture team or an <strong>architecture center of excellence (CoE)</strong> may
+complement such a guild. The federated model’s architects facilitate high-level planning and act as <strong>on-demand service
+providers</strong> for distributed teams.</p>
 
 <p>The federated model is more commonly associated with cross-functional DevOps culture. The roles of solution and
 enterprise architects are generally broader in scope to integrate infrastructure, operations, and security concerns in
@@ -721,7 +734,7 @@ federated orientation structures:</p>
   <li>Architecture Guilds &amp; Virtual Architectural Teams.</li>
 </ul>
 
-<p>The hybrid team structure supports well our <a href="goals">goals</a> of executing at scale. Guilds and virtual architecture teams
+<p>The <strong>hybrid team structure</strong> supports well our <a href="goals">goals</a> of executing at scale. Guilds and virtual architecture teams
 support execution by increasing the number of people involved in architectural activities and increasing work efficiency
 through better alignment. By having members representing various organizational units, we are able to have much more
 impact across the board. And having some capacity on the central level serves as a catalyst helping people at local
@@ -768,10 +781,10 @@ and growing architectural talent, mentoring, and helping each other.</p>
 <p>When having many guilds and teams, we typically have organized architects in several sub-areas:</p>
 
 <ul>
-  <li>General or core teams for a broader set of architectural topics.</li>
-  <li>Specialist teams focus on a particular part of the technology stack. Examples include native mobile apps, web
+  <li><strong>General or core teams</strong> for a broader set of architectural topics.</li>
+  <li><strong>Specialist teams</strong> focus on a particular part of the technology stack. Examples include native mobile apps, web
 frontends, public cloud infrastructure, etc.</li>
-  <li>Strategic initiatives teams. For instance, data strategy, public cloud strategy, transactions, or verticalization.</li>
+  <li><strong>Strategic initiatives teams</strong>. For instance, data strategy, public cloud strategy, transactions, or verticalization.</li>
 </ul>
 
 <p>Having places and events to connect central and distributed teams is essential. Such events can transform individual
@@ -779,11 +792,11 @@ experiences into collective knowledge that can benefit the whole organization. I
 distributed teams followed a similar pattern of rituals:</p>
 
 <ul>
-  <li>Regular (e.g., bi-weekly) forums, with updates, announcements of architectural spikes, and sharing or architectural
+  <li><strong>Regular (e.g., bi-weekly) forums</strong>, with updates, announcements of architectural spikes, and sharing or architectural
 decisions (similar to Andrew
 Harmel-Law’s <a href="https://martinfowler.com/articles/scaling-architecture-conversationally.html">Advice Process</a>)</li>
-  <li>Annual or bi-annual summit, with several days of intensive knowledge sharing and workshops</li>
-  <li>Ad-hoc workshops focusing on some specific topic</li>
+  <li><strong>Annual or bi-annual summit</strong> or architecture days, with several days of intensive knowledge sharing and workshops</li>
+  <li><strong>Ad-hoc workshops</strong> focusing on some specific topic</li>
 </ul>
 
 <p>While the central team can provide some essential support, all communities must take the initiative and engage as many
@@ -792,8 +805,8 @@ information to ensure more involvement and commitment.</p>
 
 <h3 id="embracing-diverse-team-structures">Embracing Diverse Team Structures</h3>
 
-<p>When building architecture guilds and virtual architecture teams, it is essential to acknowledge that organizational
-units have diverse structures and sizes. There is no one-fit-all solution about how departments should assign
+<p>When building architecture guilds and virtual architecture teams, it is essential to acknowledge that <strong>organizational
+units have diverse structures and sizes</strong>. There is no one-fit-all solution about how departments should assign
 architecture responsibilities. I generally worked on three types of team-architect systems per <a href="https://architectelevator.com/architecture/organizing-architecture/">Gregor Hohpe’s view of
 architects and their teams’ relationships</a>:</p>
 <ol>
@@ -815,18 +828,18 @@ In big organization, embracing diversity is a pre-requirements to have any broad
 architecture teams and “<a href="people">People Pillar</a>”:</p>
 
 <ul>
-  <li>Before making grandiose plans for reorganizations, connect with the people already doing architectural work in an
+  <li>Before making grandiose plans for reorganizations, <strong>connect with the people already doing architectural work</strong> in an
 organization, creating a community of practices or a virtual team. Being inclusive and connecting all key tech
 leaders, regardless of their actual position and title, is vital. Being well-connected to these people will be crucial
 in any architecture organization, so you will always benefit from this effort.</li>
   <li>If creating a virtual team is a part of your architecture strategy, move away from making an informal community of
-practice towards building a team with more accountability and responsibility.</li>
-  <li>Connect with non-architecture stakeholders in the early stages. Again, being well-connected to
+practice towards <strong>building a team with more accountability and responsibility</strong>.</li>
+  <li><strong>Connect with non-architecture stakeholders</strong> in the early stages. Again, being well-connected to
 these stakeholders will be crucial in any architecture organization.</li>
-  <li>Avoid hiring <a href="https://architectelevator.com/transformation/dont-hire-hitman/">digital hitman</a>. Invest in growing
+  <li><strong>Avoid hiring <a href="https://architectelevator.com/transformation/dont-hire-hitman/">digital hitman</a></strong>. Invest in growing
 internal talent. Architects require technology, domain, and organization knowledge. Finding such a person
 outside the organization is challenging.</li>
-  <li>Externalize. Reach out and connect. Participate in external events. Publish. Being strong externally can help you to
+  <li><strong>Externalize</strong>. Reach out and connect. Participate in external events. Publish. Being strong externally can help you to
 both grow and attract architectural talent.</li>
 </ul>
 
@@ -949,7 +962,7 @@ My goal was to avoid formal bureaucratic approval processes, where architects ap
 
 <h3 id="distributing-decisions">Distributing Decisions</h3>
 
-<p>With proposed operating model, I aimed to keep architectural decision-making distributed across the organization and embedded in the development teams. Development teams traditionally have the best insights and most information relevant for making a decision. As noted by Gregor Hohpe, the worst case of organizational decision-making happens when people with relevant information are not allowed to make decisions, while people who lack sufficient information make all decisions. Grounded Architecture aims to make relevant information more readily available to a broader audience and better connect people when making decisions.</p>
+<p>With proposed operating model, I aimed to keep architectural decision-making distributed across the organization and embedded in the development teams. Development <strong>teams traditionally have the best insights and most information</strong> relevant for making a decision. As noted by Gregor Hohpe, the worst case of organizational decision-making happens when people with relevant information are not allowed to make decisions, while people who lack sufficient information make all decisions. Grounded Architecture aims to make relevant information more readily available to a broader audience and better connect people when making decisions.</p>
 
 <div class="quote">
 Grounded Architecture aims to make relevant information more readily available to a broader audience and better connect people when making decisions.
@@ -964,7 +977,7 @@ Grounded Architecture aims to make relevant information more readily available t
 <p><img src="assets/images/arch/decision-pyramid.jpg" alt="" />
 <em><strong>Figure 2:</strong> A decision pyramid. The development teams should make most decisions. However, several strategic and area-level decisions may provide decision boundaries for teams (e.g., a public cloud provider).</em></p>
 
-<p>The decision pyramid highlights that development teams should make most of the decisions. However, several strategic and area-level choices may provide team decision boundaries. For example, selecting the public cloud provider is typically a CTO-level strategic decision. Similarly, engineering leaders in some domains may want to limit some choices, such as the number of programming languages, to more easily train new people, maintain code, and support moves between teams.</p>
+<p>The <strong>decision pyramid</strong> highlights that development teams should make most of the decisions. However, several strategic and area-level choices may provide team decision boundaries. For example, selecting the public cloud provider is typically a CTO-level strategic decision. Similarly, engineering leaders in some domains may want to limit some choices, such as the number of programming languages, to more easily train new people, maintain code, and support moves between teams.</p>
 
 <h2 id="questions-to-consider">Questions to Consider</h2>
 
