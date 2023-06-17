@@ -43,22 +43,22 @@ Image by <a href="https://pixabay.com/users/nataliaaggiato-470329/?utm_source=li
 > * This view is well aligned with the ideas of Grounded Architecture.
 
 <br>
-The book [Six Simple Rules: How to Manage Complexity without Getting Complicated](https://www.bcg.com/capabilities/organization/smart-simplicity/six-rules-overcoming-complexity), by  Yves Morieux and Peter Tollman, is another source of inspiration for my vision on the Architecture function. Morieux and Tollman introduced a concept of Smart Simplicity with six rules or strategies that enable organizations to promote new behaviors and improve performance.
+The book [Six Simple Rules: How to Manage Complexity without Getting Complicated](https://www.bcg.com/capabilities/organization/smart-simplicity/six-rules-overcoming-complexity), by Yves Morieux and Peter Tollman, is another source of inspiration for my vision on the Architecture function. Morieux and Tollman introduced a concept of **Smart Simplicity** with six rules or strategies that enable organizations to promote **new behaviors and improve performance**.
 
 <div class="quote">
-In today’s complicated business environment, you need to setup organisational structures based on cooperation.
+In today’s complicated business environments, you need to setup organisational structures based on cooperation.
 </div>
 
 Six Simple Rules emphasis that in today’s complicated business environment, you **need to setup organisational structures based on cooperation**. To deal with complexity, organizations should depend on the judgment of their people, which requires giving them more autonomy to act. It also depends on these people cooperating to utilize the organization's capabilities to cope with complex problems.
 
-Six Simple Rules has been a very inspirational source of my work. In my organizations, I constantly dealt with complex transformations to create organizational structures based on cooperation. 
+Six Simple Rules has been a very inspirational source of my work. In my organizations, I constantly dealt with **complex transformations** to create organizational structures based on cooperation. 
 
 Grounded Architecture is well suited to support and grow organizational structures based on cooperation. In this section, I will explore the connection between the ideas of Grounded Architecture and Six Simple Rules.
 
 <br>
 ## Background: Limitations of Hard and Soft Management Approaches
 
-One of the book's central premises is that conventional management approaches, which the authors split into hard and soft, are neither sufficient nor appropriate for the complexity of organizations nowadays.  
+One of the book's central premises is that **conventional management approaches**, which the authors split into hard and soft, are neither sufficient nor appropriate for the complexity of organizations nowadays.  
 
 The **hard approach** rests on two fundamental assumptions:
  * The first is the belief that **structures, processes, and systems** have a direct and predictable effect on performance, and as long as managers pick the right ones, they will get the performance they want. 

@@ -69,7 +69,7 @@ Simply collecting and putting data in one place will not create any value. Regar
 * **It is curated for usability** so people stay focused on valuable details. You must filter out useless or less relevant details, focusing on the essence. Investing in the UX design of documents or tools you create helps.
 * **It is kept up to date**, ideally in an automated fashion (or in a semi-automated repeatable way).
 * **It is accessible to the whole organization**. I genuinely believe that when you give employees access to information that is generally reserved for specialists, architects, or "higher levels," they get more done on their own. They can work faster without stopping to ask for information and approval. And they make better decisions without needing input from architects or the top.
-
+* **It is used in decision-making**. Having nicely curated and useful data has zero value if you cannot ensure that such data inform vital decisions. 
 
 My view of a Data Pillar is not to be a goal-setting framework or a control board. My vision for building the Data Pillar follows **the map-making metaphor**. Maps are one of the most critical documents in human history. They give us tools to store and exchange knowledge about space and place. While there are differences between maps and the layers they show, the one thing that all maps do is **provide readers with orientation**. A sense of place is central to meaning-making. Maps are also composed of multiple layers. Similarly, the architecture Data Pillar should give readers a sense of orientation, offering data layers about systems that describe their sizes, connections, quality, security, or human activity.
 

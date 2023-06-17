@@ -46,7 +46,7 @@ Hiring and developing architects will differ significantly per organization. Nev
 
 ## Typical Architect's Career Paths
 
-My view of architecture has a strong engineering bias. Architects' career paths ideally stem from a strong engineering background. While there may be exceptions, without significant real-world exposure to software engineering challenges, an architect cannot obtain enough practical knowledge to make technology decisions and build relations with developer teams. 
+My view of architecture has **a strong engineering bias**. Architects' career paths ideally stem from a **strong engineering background**. While there may be exceptions, without significant real-world exposure to software engineering challenges, an architect cannot obtain enough practical knowledge to make technology decisions and build relations with developer teams. 
 
 <div class="quote">
 My view of architecture has a strong engineering bias. Architects' career paths ideally stem from a strong engineering background. 
@@ -58,9 +58,9 @@ Regarding career progression, Figure 1 shows an example of architecture career p
 ***Figure 1:** An example of architecture career paths in relation to engineering.*
 
 Stepping from an engineering position to an architecture requires three changes:
-* Getting a broader scope of work,
-* Having a higher diversity of work, and 
-* Changing skills, as communication and influencer skills become crucial aspects of success.
+* Getting **a broader scope** of work,
+* Having **a higher diversity** of work, and 
+* **Changing skills**, as communication and influencer skills become crucial aspects of success.
 
 All architect are responsible for the direction, quality, and approach within some critical area. They need to combine in-depth knowledge of technical constraints, user needs, and organization level leadership.
 
@@ -76,13 +76,13 @@ But an architect's path can take many different directions and have many other n
 ## Hiring Architects
 
 
-Developing and hiring architects requires constantly raising the bar to ensure a strong and diverse team structure. Having more architects does not necessarily leads to a better team. Having good alignment and diversity of perspectives is even more important for an architecture team than for other groups.
+Developing and hiring architects requires **constantly raising the bar** to ensure a strong and diverse team structure. Having more architects does not necessarily leads to a better team. Having good **alignment and diversity of perspectives** is even more important for an architecture team than for other groups.
 
 <div class="quote">
 It is vital to take more active ownership of hiring architects. Due to the vast diversity of how  companies define the architect's role, recruiters may need help understanding the role's requirements. 
 </div>
 
-It is vital to take more active ownership of hiring architects. Due to the vast diversity of how different companies define the architect's role, recruiters may need help understanding the role's requirements.
+It is vital to take more **active ownership of hiring architects**. Due to the vast diversity of how different companies define the architect's role, recruiters may need help understanding the role's requirements.
 
 While you will need to design your hiring process, the hiring process should ensure a solid evaluation of the candidate's:
   * **[Technical skills](skills)**: An architect must possess a strong technical background in the relevant areas, such as software development, infrastructure, cloud computing, and security. The process can assess their expertise through technical questions, tests, or case studies.

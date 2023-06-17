@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-06-17T15:48:07+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: Redefining IT Architecture Practice</title><subtitle></subtitle><entry><title type="html">Favorite Quotes</title><link href="http://localhost:4000/quotes" rel="alternate" type="text/html" title="Favorite Quotes" /><published>2021-10-25T22:12:01+02:00</published><updated>2021-10-25T22:12:01+02:00</updated><id>http://localhost:4000/quotes</id><content type="html" xml:base="http://localhost:4000/quotes"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/books-g1b2675255_1920.jpg" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-06-17T17:52:29+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: Redefining IT Architecture Practice</title><subtitle></subtitle><entry><title type="html">Favorite Quotes</title><link href="http://localhost:4000/quotes" rel="alternate" type="text/html" title="Favorite Quotes" /><published>2021-10-25T22:12:01+02:00</published><updated>2021-10-25T22:12:01+02:00</updated><id>http://localhost:4000/quotes</id><content type="html" xml:base="http://localhost:4000/quotes"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/books-g1b2675255_1920.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/prettysleepy-2973588/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5430104">Amy</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5430104">Pixabay</a>
 </div>
@@ -477,6 +477,7 @@ Manual documentation does not scale, and relying on data ensures reliability and
   <li><strong>It is curated for usability</strong> so people stay focused on valuable details. You must filter out useless or less relevant details, focusing on the essence. Investing in the UX design of documents or tools you create helps.</li>
   <li><strong>It is kept up to date</strong>, ideally in an automated fashion (or in a semi-automated repeatable way).</li>
   <li><strong>It is accessible to the whole organization</strong>. I genuinely believe that when you give employees access to information that is generally reserved for specialists, architects, or “higher levels,” they get more done on their own. They can work faster without stopping to ask for information and approval. And they make better decisions without needing input from architects or the top.</li>
+  <li><strong>It is used in decision-making</strong>. Having nicely curated and useful data has zero value if you cannot ensure that such data inform vital decisions.</li>
 </ul>
 
 <p>My view of a Data Pillar is not to be a goal-setting framework or a control board. My vision for building the Data Pillar follows <strong>the map-making metaphor</strong>. Maps are one of the most critical documents in human history. They give us tools to store and exchange knowledge about space and place. While there are differences between maps and the layers they show, the one thing that all maps do is <strong>provide readers with orientation</strong>. A sense of place is central to meaning-making. Maps are also composed of multiple layers. Similarly, the architecture Data Pillar should give readers a sense of orientation, offering data layers about systems that describe their sizes, connections, quality, security, or human activity.</p>
@@ -1187,17 +1188,11 @@ Image by <a href="https://pixabay.com/users/borevina-9505414/?utm_source=link-at
 </style>
 
 <blockquote>
-  <p><strong>IN THIS SECTION, YOU WILL:</strong>  Get an overview of topics related to what it means to be an architect, covered in this chapter.</p>
-
-  <p><strong>KEY POINTS:</strong></p>
-
-  <ul>
-    <li>I introduce ideas and key lessons I learned about what it means to be an architect in practice.</li>
-  </ul>
+  <p><strong>IN THIS SECTION, YOU WILL:</strong>  Get an overview of guiding principles generalize my view on what it means to be an architect in practice.</p>
 </blockquote>
 
 <p><br />
-The following guiding principles provide some resources, ideas and key lessons I learned about what it means to be an architect in practice:</p>
+The following guiding principles generalize my view on what it means to be an architect in practice. I use these resources for guiding and developing architects:</p>
 
 <ul>
   <li><strong><a href="superglue">Architects as Superglue</a></strong>: Architects in IT organizations should develop as “superglue,” people who hold architecture, technical details, business needs, and people together across a large organization or complex projects.</li>
@@ -1205,7 +1200,7 @@ The following guiding principles provide some resources, ideas and key lessons I
   <li><strong><a href="impact">Impact</a></strong>: Architects’ work is evaluated based the impact they have had on the organization. They must demonstrate that they identify, tackle, and deliver on strategic problems, have a deep and/or broad influence, and deliver solutions that few others can.</li>
   <li><strong><a href="leadership">Leadership</a></strong>: My view of architecture leadership is inspired by David Marquet’s work and the Netflix’s valued behaviors.</li>
   <li><strong><a href="career">Architects’ Career Paths: Raising the Bar</a></strong>: Architects’ career paths ideally stem from a strong engineering background. Hiring architects requires constantly raising the bar to ensure a strong and diverse team structure.</li>
-</ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[I introduce ideas and key lessons I learned about what it means to be an architect in practice.]]></summary></entry><entry><title type="html">Architects as Superglue</title><link href="http://localhost:4000/superglue" rel="alternate" type="text/html" title="Architects as Superglue" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/superglue</id><content type="html" xml:base="http://localhost:4000/superglue"><![CDATA[<style>
+</ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[I introduce guiding principles generalize my view on what it means to be an architect in practice.]]></summary></entry><entry><title type="html">Architects as Superglue</title><link href="http://localhost:4000/superglue" rel="alternate" type="text/html" title="Architects as Superglue" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/superglue</id><content type="html" xml:base="http://localhost:4000/superglue"><![CDATA[<style>
      h2 {
           margin-top: 40px;
      }
@@ -1246,15 +1241,15 @@ The following guiding principles provide some resources, ideas and key lessons I
 </style>
 
 <p><br />
-In my view, architects in IT organizations should develop as “superglue.” I borrow the “superglue” view from <a href="https://saturn2016.sched.com/event/63m9/cant-find-superheroes-to-help-you-out-of-a-crisis-how-about-some-architecture-and-lots-of-superglue">Adam Bar-Niv and Amir Shenhav from Intel</a>. They pointed out that instead of the superhero, we need “superglue” architects - the people who hold architecture, technical details, business needs, and people together across large organizations or complex projects. More recently, Tanya Reilly presented a <a href="https://noidea.dog/glue">similar view</a> concerning software engineering positions.</p>
+In my view, architects in IT organizations should develop as “<strong>superglue</strong>.” I borrow the “superglue” view from <a href="https://saturn2016.sched.com/event/63m9/cant-find-superheroes-to-help-you-out-of-a-crisis-how-about-some-architecture-and-lots-of-superglue">Adam Bar-Niv and Amir Shenhav from Intel</a>. They pointed out that instead of the superhero, we need “superglue” architects - <strong>the people who hold architecture, technical details, business needs, and people together</strong> across large organizations or complex projects. More recently, Tanya Reilly presented a <a href="https://noidea.dog/glue">similar view</a> concerning software engineering positions.</p>
 
-<p>The superglue characteristics mean serving as the organizational connective tissue, linking the “business wheelhouse” and the “engine room.” Architects, of course, need to be technically strong. But their unique strengths should stem from being able to relate, or glue, technical issues with business and broader issues.</p>
+<p>The superglue characteristics mean serving as the <strong>organizational connective tissue</strong>, linking the “<strong>business wheelhouse</strong>” and the “<strong>engine room</strong>.” Architects, of course, need to be technically strong. But their unique strengths should stem from being able to relate, or glue, technical issues with business and broader issues.</p>
 
 <div class="quote">
 Architects, of course, need to be technically strong. But their unique strengths should stem from being able to relate, or glue, technical issues with business and broader issues.
 </div>
 
-<p>From discussions I’ve had with our technology leaders, engineers, and architects, the picture below has crystallized as a representation of the “superglue” metaphor for architects (Figure 1).</p>
+<p>From discussions I’ve had with our engineering leaders, engineers, and architects, Figure 1 has crystallized as a representation of the “superglue” metaphor for architects.</p>
 
 <p><img src="assets/images/superglue/architect-as-superglue.png" alt="" />
 <em><strong>Figure 1:</strong> Architects serve as a superglue, connecting development teams with business stakeholders while linking teams with the internal communities and the external world.</em></p>
@@ -1264,7 +1259,9 @@ Architects, of course, need to be technically strong. But their unique strengths
 <p><br /></p>
 <h2 id="supergluing-in-action-reducing-tension-among-business-function-product-technology-organization">Supergluing in Action: Reducing Tension among Business Function, Product, Technology, Organization</h2>
 
-<p>The primary value of superglue architects in an organization is aligning business, product, technology, and organizational functions. While technology, product, organization, and business function face specific challenges, additional problems occur when there is tension among them (Figure 2). For example, we may organize teams using a well-defined domain model (organizational design). Still, if our system is a monolith (technical design), our teams will collaborate in a different pattern than domain splits suggest. On the other hand, if our teams are well aligned with the technology implementation (e.g., clear ownership of microservices), but the product architecture differs from the microservice domain split, we may need to change dozens of microservices when introducing relatively simple product features. Similarly, business benefits if they align their objectives with product or technology; otherwise, tense interactions will happen (e.g., try reducing short-term costs while adding new features and migrating to the public cloud).</p>
+<p>The primary value of superglue architects in an organization is <strong>aligning business, product, technology, and organizational functions</strong>.</p>
+
+<p>While technology, product, organization, and business function face specific challenges, additional problems occur when there is <strong>tension among them</strong> (Figure 2). This tension is a consequence of the <strong>misalignment of these structures</strong>. For example, we may organize teams using a well-defined domain model (organizational design). Still, if our system is a monolith (technical design), our teams will collaborate in a different pattern than domain splits suggest. On the other hand, if our teams are well aligned with the technology implementation (e.g., clear ownership of microservices), but the product architecture differs from the microservice domain split, we may need to change dozens of microservices when introducing relatively simple product features. Similarly, tension occurs in business objectives are misaligned with product or technology objectives; otherwise, tense interactions will happen (e.g., try reducing short-term costs while adding new features and migrating to the public cloud).</p>
 
 <div class="quote">
 While technology, product, organization, and business function face challenges, additional problems occur when there is tension among them.
@@ -1273,7 +1270,7 @@ While technology, product, organization, and business function face challenges, 
 <p><img src="assets/images/tension.png" alt="" />
 <em><strong>Figure 2:</strong> The tensions between technology, product, organization, and business functions.</em></p>
 
-<p>The main problem of these tensions is that they slow things down due to miscommunications and misalignment, lead to bad decisions due to lack of information, introduce unnecessary complexity, and lead to many missed opportunities. Too frequently, architecture sits on the side, shouting principles and abstract ideals that everyone ignores. By acting as a superglue, the architecture function can help reduce tension between technology, product, organization, and business functions (Figure 3). Architecture should ensure that conversations happen between the technical, product, organizational, and business functions.</p>
+<p>The main problem of these tensions is that they <strong>slow things down due</strong> to miscommunications and misalignment, lead to <strong>bad decisions</strong> due to lack of information, introduce <strong>unnecessary complexity</strong>, and lead to many <strong>missed opportunities</strong>. Too frequently, architecture sits on the side, shouting principles and abstract ideals that everyone ignores. By acting as a superglue, the architecture function can help reduce tension between technology, product, organization, and business functions (Figure 3). Architecture should ensure that conversations happen between the technical, product, organizational, and business functions.</p>
 
 <p><img src="assets/images/tension-architecture.png" alt="" />
 <em><strong>Figure 3:</strong> Architects should be in the middle of reducing tensions between technology, product, organization, and business functions.</em></p>

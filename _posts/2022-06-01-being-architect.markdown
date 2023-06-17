@@ -8,7 +8,7 @@ author: by Željko Obrenović (obren.io)
 permalink: being-architect
 icon: principles.png
 timetoread: 15 min
-excerpt: "I introduce ideas and key lessons I learned about what it means to be an architect in practice."
+excerpt: "I introduce guiding principles generalize my view on what it means to be an architect in practice."
 
 ---
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
@@ -32,14 +32,10 @@ Image by <a href="https://pixabay.com/users/borevina-9505414/?utm_source=link-at
         }
     }
 </style>
-> **IN THIS SECTION, YOU WILL:**  Get an overview of topics related to what it means to be an architect, covered in this chapter.
->
-> **KEY POINTS:**
->
-> * I introduce ideas and key lessons I learned about what it means to be an architect in practice.
+> **IN THIS SECTION, YOU WILL:**  Get an overview of guiding principles generalize my view on what it means to be an architect in practice.
 
 <br>
-The following guiding principles provide some resources, ideas and key lessons I learned about what it means to be an architect in practice:
+The following guiding principles generalize my view on what it means to be an architect in practice. I use these resources for guiding and developing architects:
 
 * **[Architects as Superglue](superglue)**: Architects in IT organizations should develop as “superglue,” people who hold architecture, technical details, business needs, and people together across a large organization or complex projects.
 * **[Skills](impact)**: A typical skillset of an architects includes: hard (technical) skills, soft (people & social) skills, and business skills.
