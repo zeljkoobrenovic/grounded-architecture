@@ -41,19 +41,20 @@ Image by <a href="https://pixabay.com/users/cocoparisienne-127419/?utm_source=li
 
 <br>
 Each organization will have different architectural needs and contexts. When forming architecture functions, I use as a starting point these [two pieces of advice from Gregor Hohpe](https://architectelevator.com/architecture/organizing-architecture/):
- * *"Your architecture team’s job is to solve your biggest problems. The best setup is the one that allows it to accomplish that."*
- * *"Your organization has to earn its way to an effective architecture function. You can’t just plug some architects into the current mess and expect it to solve all your problems."*
+ * *"Your architecture team’s job is to **solve your biggest problems**. The best setup is the one that allows it to accomplish that."*
+ * *"Your organization has to earn its way to an effective architecture function. **You can’t just plug some architects into the current mess** and expect it to solve all your problems."*
 
 ![](assets/images/model-strategy.png)
 ***Figure 1:** The structure of Grounded Architecture: Architecture Activities Platform.*
 
-Considering the previous two points from Gregor Hohpe, there is no one-size-fits-all approach: each organization must find activities and operating models to enable architecture to work on the most critical problems. 
+Considering the previous two points from Gregor Hohpe, I approach defining an architecture practice with a mindset that there is no one-size-fits-all approach. Each organization must find activities and operating models to enable architecture to solve the most critical problems. 
 
 <div class="quote">
 There is no one-size-fits-all approach: each organization must find activities and operating models to enable architecture to work on the most critical problems. 
 </div>
 
-The Architecture Activities Platform (Figure 1) defines a set of processes and agreements enabling architects to do everything architecture typically does, leveraging data and People Pillars to create a data-informed, organization-wide impact. In all these activities, data and people posts provide foundations for data-informed decision-making well-embedded in the organization.
+Each organization will need to figure out which architecture operating model to adopt. To create a **sustainable and practical architecture function**, you must develop explicit agreements and "rules of engagement" with key stakeholders. The Architecture Activities Platform (Figure 1) is an organization-specific set of **processes and agreements** that creates a space for architecture to do everything architecture typically does, leveraging data and People Pillars to create a data-informed, organization-wide impact. In all these activities, data and people posts provide foundations for data-informed decision-making well-embedded in the organization.
+
 
 <br>
 ## Examples of Architecture Activities

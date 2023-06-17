@@ -95,7 +95,7 @@ individual development teams. A small central architecture team or an **architec
 complement such a guild. The federated model's architects facilitate high-level planning and act as **on-demand service
 providers** for distributed teams.
 
-The federated model is more commonly associated with cross-functional DevOps culture. The roles of solution and
+The **federated model** is more commonly associated with **cross-functional DevOps culture**. The roles of solution and
 enterprise architects are generally broader in scope to integrate infrastructure, operations, and security concerns in
 product-oriented teams. The architect's role focuses on facilitation and enablement rather than control.
 
@@ -114,11 +114,16 @@ federated orientation structures:
 * A Central Architectural Teams, and
 * Architecture Guilds & Virtual Architectural Teams.
 
-The **hybrid team structure** supports well our [goals](goals) of executing at scale. Guilds and virtual architecture teams
-support execution by increasing the number of people involved in architectural activities and increasing work efficiency
-through better alignment. By having members representing various organizational units, we are able to have much more
-impact across the board. And having some capacity on the central level serves as a catalyst helping people at local
-levels to do their job while being aligned and better connected with overall strategic goals and other teams working on
+This model is similar to the previously described **federated model**, but with extra investment in a central team that should be more than just an on-demand service provider. 
+
+The **hybrid team structure** supports well our [goals](goals) of executing at scale:
+* **Guilds** and virtual architecture teams
+support execution by **increasing the number of people involved** in architectural activities and increasing work efficiency
+through better alignment. 
+* Having members representing various organizational units can have much **more
+impact across the board**. 
+* And having some capacity on the **central level** serves as **a catalyst helping people at local
+levels** to do their job while being aligned and better connected with overall strategic goals and other teams working on
 similar topics.
 
 ### Central Architecture Team
@@ -150,7 +155,7 @@ I always found it essential to connect organization members passionate about arc
 community of interest, or a virtual team.
 
 Guild or virtual teams are composed of people that work full-time as architects or tech leads in specific organizational
-units but spend part-time collaborating with architects from other departments to reach more alignment, share knowledge,
+units but spend **part-time collaborating with architects from other departments** to reach more alignment, share knowledge,
 and leverage each other's work. In this peer-to-peer community, architects are collectively responsible for identifying
 and growing architectural talent, mentoring, and helping each other.
 

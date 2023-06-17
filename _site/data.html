@@ -144,9 +144,13 @@ In every place I worked on creating architectural functions, I strongly emphasiz
 Manual documentation does not scale, and relying on data ensures reliability and scalability.
 </div>
 
-<p>Data Pillar is a central place with authoritative, relevant, and curated data about the organizational technology landscape. Technically, you can implement data pillar using simple tools like Google Drive, with documents organized in a folder or an internal website. I recommend investing some effort in creating basic infrastructure, as it can enable more people to access and benefit from data.</p>
+<p><br /></p>
+<h2 id="requirements-for-a-data-pillar">Requirements For A Data Pillar</h2>
 
-<p>Regardless of how you implement your Data Pillar, with papers on the wall, in Google Drive, or with a nicely designed internal website, I have the following requirements for it:</p>
+<p>A Data Pillar should a central place with <strong>authoritative, relevant, and curated data</strong> about the organizational technology landscape. Technically, you can implement data pillar using simple tools like Google Drive, with documents organized in a folder or an internal website. I recommend investing some effort in creating better infrastructure, as it can enable more people to access and benefit from data.</p>
+
+<p>Simply collecting and putting data in one place will not create any value. Regardless of how you implement your Data Pillar, with papers on the wall, in Google Drive, in Confluence, or with a nicely designed internal website, I have identified the following requirements for creating useful Data Pillars:</p>
+
 <ul>
   <li><strong>It is the single point of truth</strong> for all relevant architectural data. People should be able to go to one place and get the most relevant data.</li>
   <li><strong>It is curated for quality</strong> so that people can trust the data. Simply dumping data into one area will not help. You need to own curation to ensure that data are correct. You also should provide links to data sources so people can verify the facts.</li>
@@ -157,9 +161,10 @@ Manual documentation does not scale, and relying on data ensures reliability and
 
 <p>My view of a Data Pillar is not to be a goal-setting framework or a control board. My vision for building the Data Pillar follows <strong>the map-making metaphor</strong>. Maps are one of the most critical documents in human history. They give us tools to store and exchange knowledge about space and place. While there are differences between maps and the layers they show, the one thing that all maps do is <strong>provide readers with orientation</strong>. A sense of place is central to meaning-making. Maps are also composed of multiple layers. Similarly, the architecture Data Pillar should give readers a sense of orientation, offering data layers about systems that describe their sizes, connections, quality, security, or human activity.</p>
 
-<h2 id="examples-of-data-sources-and-tools">Examples of Data Sources and Tools</h2>
+<p><br /></p>
+<h2 id="examples-of-data-pillar-sources-and-tools">Examples of Data Pillar Sources and Tools</h2>
 
-<p>To illustrate what I mean by Dat Pillar, I will start with a few concrete examples from my recent work. Data I typically used include (Figure 2):</p>
+<p>To illustrate what I mean by Data Pillar, I will give a few concrete examples from my recent work. Data I typically used include (Figure 2):</p>
 <ul>
   <li><strong>Source code</strong> contains an incredible amount of information about technology, people’s activity, team dependencies, and the quality of software systems.</li>
   <li><strong>Public cloud billing reports</strong> provide an overview and trends about used cloud services, regions, and budgets.</li>
@@ -223,6 +228,10 @@ Source code and its commit history include an astonishing amount of information 
 
 <p>Finance departments are very data-driven and have high-quality data that could be relevant for architects. In addition to standard costs, budgets, and other pure financial data types, I frequently found that finance teams also have different data sources, such as <strong>vibrancy or usage levels</strong>. These teams need such data to, for instance, correlate finance performance with usage levels. Such usage data are beneficial for architecture discussions. For example, linking usage levels and vibrancy of systems with their public cloud costs can identify areas of improvement and inefficiencies.</p>
 
+<p><img src="assets/images/arch/cross-data.png" alt="" />
+<br />
+<em><strong>Figure 4:</strong> Combining data from a different source (e.g., cloud billing reports and vibrancy or revenue can lead to new insights (e.g., identifying inefficiencies in the application portfolio).</em></p>
+
 <p><br /></p>
 <h2 id="building-data-pillar">Building Data Pillar</h2>
 
@@ -258,39 +267,39 @@ Source code and its commit history include an astonishing amount of information 
 <p><br /></p>
 <h2 id="appendix-examples-of-insights-from-source-code-analyses-with-sokrates">Appendix: Examples of Insights From Source Code Analyses with Sokrates</h2>
 
-<p>Figures 4 to 8 show some insights from source code analyses with Sokrates.</p>
+<p>Figures 5 to 9 show some insights from source code analyses with Sokrates.</p>
 
 <p><br />
 <img src="assets/images/archdata/src_1.png" alt="" /></p>
 
-<p><strong>Figure 4</strong>: <em>Sokrates can instantly create a helicopter view of the technology landscape, programming languages, active contributors, and commit trends.</em>
+<p><strong>Figure 5</strong>: <em>Sokrates can instantly create a helicopter view of the technology landscape, programming languages, active contributors, and commit trends.</em>
 <br />
 <br /></p>
 
 <p><img src="assets/images/archdata/src_2.png" alt="" /></p>
 
-<p><strong>Figure 5</strong>: <em>Sokrates can show detailed code and contributors’ trends per repository, enabling zooming in each repository up to the code level.</em>
+<p><strong>Figure 6</strong>: <em>Sokrates can show detailed code and contributors’ trends per repository, enabling zooming in each repository up to the code level.</em>
 <br />
 <br />
 <br /></p>
 
 <p><img src="assets/images/archdata/src_5.png" alt="" /></p>
 
-<p><strong>Figure 6</strong>: <em>Sokrates can create a tech radar by tagging projects with identified technologies.</em>
+<p><strong>Figure 7</strong>: <em>Sokrates can create a tech radar by tagging projects with identified technologies.</em>
 <br />
 <br />
 <br /></p>
 
 <p><img src="assets/images/archdata/src_3.png" alt="" /></p>
 
-<p><strong>Figure 7</strong>: <em>Sokrates can show contributor trends, distribution of “veterans” and “rookies,” and dependencies between people and repositories, enabling zooming in into patterns of the contribution of individual contributors.</em>
+<p><strong>Figure 8</strong>: <em>Sokrates can show contributor trends, distribution of “veterans” and “rookies,” and dependencies between people and repositories, enabling zooming in into patterns of the contribution of individual contributors.</em>
 <br />
 <br />
 <br /></p>
 
 <p><img src="assets/images/arch/sokrates_teams.png" alt="" /></p>
 
-<p><strong>Figure 8</strong>: <em>Sokrates can reveal the team topologies by plotting 2D and 3D graphs of dependencies that people create through working on the same repositories in the same period.</em>
+<p><strong>Figure 9</strong>: <em>Sokrates can reveal the team topologies by plotting 2D and 3D graphs of dependencies that people create through working on the same repositories in the same period.</em>
 <br />
 <br />
 <br /></p>

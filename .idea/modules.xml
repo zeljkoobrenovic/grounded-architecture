@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../design-instability/.idea/design-instability.iml" filepath="$PROJECT_DIR$/../design-instability/.idea/design-instability.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/grounded-architecture.iml" filepath="$PROJECT_DIR$/.idea/grounded-architecture.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../underthehood/.idea/underthehood.iml" filepath="$PROJECT_DIR$/../underthehood/.idea/underthehood.iml" />
     </modules>
   </component>
 </project>
