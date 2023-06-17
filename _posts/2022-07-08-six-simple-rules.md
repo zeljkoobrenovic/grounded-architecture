@@ -51,7 +51,7 @@ In today’s complicated business environments, you need to setup organisational
 
 Six Simple Rules emphasis that in today’s complicated business environment, you **need to setup organisational structures based on cooperation**. To deal with complexity, organizations should depend on the judgment of their people, which requires giving them more autonomy to act. It also depends on these people cooperating to utilize the organization's capabilities to cope with complex problems.
 
-Six Simple Rules has been a very inspirational source of my work. In my organizations, I constantly dealt with **complex transformations** to create organizational structures based on cooperation. 
+Six Simple Rules has been a very inspirational source of my work. In my work, I constantly dealt with **complex transformations** to create organizational structures based on cooperation. 
 
 Grounded Architecture is well suited to support and grow organizational structures based on cooperation. In this section, I will explore the connection between the ideas of Grounded Architecture and Six Simple Rules.
 
@@ -237,7 +237,7 @@ To reward those who cooperate managers:
 
 ### The Role of Architecture
 
-**Architecture** can help rewarding cooperation by making it easier for everyone to **help other people and ask for help**. 
+**Architecture** function can help rewarding cooperation by making it easier for everyone to **help other people and ask for help**. 
 * Having a strong **[People Pillar](people)** can provide the context and **networks of people** to more easily collaborate. 
 * Adding diverse data sources in the **[Data Pillar](data)** can help creating **transparency about cooperation** opportunities and problems.
 

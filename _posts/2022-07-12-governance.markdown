@@ -124,7 +124,7 @@ In architecture, nudges could include:
 
 In my experience, nudges can frequently lead to better alignment and more harmonization without the negative consequences of mandates, bans, or taxation.
 
-Grounded Architecture is well aligned with ideas of nudging. I frequently designed many of the [Data Pillar](data) to **highlight areas and issues** we wanted people to improve. And the [People Pillar](people) can create mechanisms for sharing experiences, promoting **positive examples**, and capturing lessons learned to help people to make better, more informed decisions. And in the [Architecture Activities Platform] I use the operating model that stimulates people to make decisions autonomously but **nudges them to stay well-aligned** and connected to the organizational strategic direction.
+Grounded Architecture is well aligned with ideas of nudging. I frequently designed many of the [Data Pillar](data) tools to **highlight areas and issues** we wanted people to improve. And the [People Pillar](people) can create mechanisms for sharing experiences, promoting **positive examples**, and capturing lessons learned to help people to make better, more informed decisions. And in the [Architecture Activities Platform](activities-platform) I use the operating model that stimulates people to make decisions autonomously but **nudges them to stay well-aligned** and connected to the organizational strategic direction.
 
 
 ## Questions to Consider

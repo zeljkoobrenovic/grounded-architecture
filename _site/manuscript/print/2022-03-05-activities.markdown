@@ -15,15 +15,15 @@ A> * The Architecture Activities Platform is a system of processes and agreement
 A> * Examples of activities include: supporting teams in their daily work; tracking tech debt, defining tech debt reduction programs; performing technical due diligence; standardization of processes and documentation; defining cloud, data, and platform strategies.
 
 Each organization will have different architectural needs and contexts. When forming architecture functions, I use as a starting point these [two pieces of advice from Gregor Hohpe](https://architectelevator.com/architecture/organizing-architecture/):
- * *"Your architecture team’s job is to solve your biggest problems. The best setup is the one that allows it to accomplish that."*
- * *"Your organization has to earn its way to an effective architecture function. You can’t just plug some architects into the current mess and expect it to solve all your problems."*
+ * *"Your architecture team’s job is to **solve your biggest problems**. The best setup is the one that allows it to accomplish that."*
+ * *"Your organization has to earn its way to an effective architecture function. **You can’t just plug some architects into the current mess** and expect it to solve all your problems."*
 
 ![](assets/images/model-strategy.png)
 ***Figure 1:** The structure of Grounded Architecture: Architecture Activities Platform.*
 
-Considering the previous two points from Gregor Hohpe, there is no one-size-fits-all approach: each organization must find activities and operating models to enable architecture to work on the most critical problems. 
+Considering the previous two points from Gregor Hohpe, I approach defining an architecture practice with a mindset that there is no one-size-fits-all approach. Each organization must find activities and operating models to enable architecture to solve the most critical problems. 
 
-The Architecture Activities Platform (Figure 1) defines a set of processes and agreements enabling architects to do everything architecture typically does, leveraging data and People Pillars to create a data-informed, organization-wide impact. In all these activities, data and people posts provide foundations for data-informed decision-making well-embedded in the organization.
+Each organization will need to figure out which architecture operating model to adopt. To create a **sustainable and practical architecture function**, you must develop explicit agreements and "rules of engagement" with key stakeholders. The Architecture Activities Platform (Figure 1) is an organization-specific set of **processes and agreements** that creates a space for architecture to do everything architecture typically does, leveraging data and People Pillars to create a data-informed, organization-wide impact. In all these activities, data and people posts provide foundations for data-informed decision-making well-embedded in the organization.
 
 ## Examples of Architecture Activities
 
@@ -60,7 +60,7 @@ Another characteristic of this operating model is **shifting left** the architec
 
 ### Distributing Decisions
 
-With proposed operating model, I aimed to keep architectural decision-making distributed across the organization and embedded in the development teams. Development teams traditionally have the best insights and most information relevant for making a decision. As noted by Gregor Hohpe, the worst case of organizational decision-making happens when people with relevant information are not allowed to make decisions, while people who lack sufficient information make all decisions. Grounded Architecture aims to make relevant information more readily available to a broader audience and better connect people when making decisions.
+With proposed operating model, I aimed to keep architectural decision-making distributed across the organization and embedded in the development teams. Development **teams traditionally have the best insights and most information** relevant for making a decision. As noted by Gregor Hohpe, the worst case of organizational decision-making happens when people with relevant information are not allowed to make decisions, while people who lack sufficient information make all decisions. Grounded Architecture aims to make relevant information more readily available to a broader audience and better connect people when making decisions.
  
 
 ### Autonomy and Alignment 
@@ -72,7 +72,7 @@ To give maximal autonomy to the teams while maintaining a **minimal** level of g
 ![](assets/images/arch/decision-pyramid.jpg)
 ***Figure 2:** A decision pyramid. The development teams should make most decisions. However, several strategic and area-level decisions may provide decision boundaries for teams (e.g., a public cloud provider).*
 
-The decision pyramid highlights that development teams should make most of the decisions. However, several strategic and area-level choices may provide team decision boundaries. For example, selecting the public cloud provider is typically a CTO-level strategic decision. Similarly, engineering leaders in some domains may want to limit some choices, such as the number of programming languages, to more easily train new people, maintain code, and support moves between teams.
+The **decision pyramid** highlights that development teams should make most of the decisions. However, several strategic and area-level choices may provide team decision boundaries. For example, selecting the public cloud provider is typically a CTO-level strategic decision. Similarly, engineering leaders in some domains may want to limit some choices, such as the number of programming languages, to more easily train new people, maintain code, and support moves between teams.
 
 ## Questions to Consider
 

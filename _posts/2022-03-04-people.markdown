@@ -8,9 +8,8 @@ author: by Željko Obrenović (obren.io)
 permalink: people
 icon: community.png
 timetoread: 15 min
-excerpt: "We should not take our architectural talent for granted. Architects are bridging local business, product,
-organizational, and technology issues. Architects are difficult to hire talent as they need in-depth technical knowledge
-and domain-specific and organizational knowledge. Therefore, we need to make sure to support, organize, and leverage
+excerpt: "We should not take our architectural talent for granted. Architects, and other people doing architecture work, are bridging local business, product,
+organizational, and technology issues. Architects are difficult to hire because they need in-depth technical, domain-specific, and organizational knowledge. Therefore, we need to support, organize, and leverage
 architecture talent."
 
 ---
@@ -58,7 +57,7 @@ Strong Architecture = Strong Architects.
 </div>
 
 Developing the architecture function requires having competent, empowered, and motivated architects. **We should not take
-architectural talent for granted**. Architects are bridging local business, product, organizational, and technology
+architectural talent for granted**. Architects, and other people doing architecture work, are bridging local business, product, organizational, and technology
 issues. Architects are difficult to hire talent as they need not only in-depth technical knowledge but also
 domain-specific and organizational knowledge. Consequently, any architecture function must carefully organize, empower,
 and leverage scarce architecture talent (Figure 1).

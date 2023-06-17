@@ -64,14 +64,14 @@ From discussions I've had with our engineering leaders, engineers, and architect
 Architects must have good relationships with developer teams, local business stakeholders, and functions. Simultaneously, such a person needs to be well-connected with broader internal communities. External visibility is essential for architects, who can bring ideas from outside into the organization and promote the organization to the outside world. 
 
 <br>
-## Supergluing in Action: Reducing Tension among Business Function, Product, Technology, Organization
+## Supergluing in Action: Reducing Tension among Business Functions, Product, Technology, Organization
 
 The primary value of superglue architects in an organization is **aligning business, product, technology, and organizational functions**. 
 
-While technology, product, organization, and business function face specific challenges, additional problems occur when there is **tension among them** (Figure 2). This tension is a consequence of the **misalignment of these structures**. For example, we may organize teams using a well-defined domain model (organizational design). Still, if our system is a monolith (technical design), our teams will collaborate in a different pattern than domain splits suggest. On the other hand, if our teams are well aligned with the technology implementation (e.g., clear ownership of microservices), but the product architecture differs from the microservice domain split, we may need to change dozens of microservices when introducing relatively simple product features. Similarly, tension occurs in business objectives are misaligned with product or technology objectives; otherwise, tense interactions will happen (e.g., try reducing short-term costs while adding new features and migrating to the public cloud). 
+While technology, product, organization, and business functions face specific challenges, additional problems occur when there is **tension among them** (Figure 2). This tension is a consequence of the **misalignment of these structures**. For example, we may organize teams using a well-defined domain model (organizational design). Still, if our system is a monolith (technical design), our teams will collaborate in a different pattern than domain splits suggest. On the other hand, if our teams are well aligned with the technology implementation (e.g., clear ownership of microservices), but the product architecture differs from the microservice domain split, we may need to change dozens of microservices when introducing relatively simple product features. Similarly, tension occurs in business objectives are misaligned with product or technology objectives; otherwise, tense interactions will happen (e.g., try reducing short-term costs while adding new features and migrating to the public cloud). 
 
 <div class="quote">
-While technology, product, organization, and business function face challenges, additional problems occur when there is tension among them.
+While technology, product, organization, and business functions face challenges, additional problems occur when there is tension among them.
 </div>
 
 
