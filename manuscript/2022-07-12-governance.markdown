@@ -3,7 +3,6 @@
 # Architecture Governance: Mandates, Taxation, Nudge {#governance}
 
 ![](assets/images/arch/greece-1594689_1920.jpg)
-
 ^image by nonbirinonko from pixabay^
 
 **IN THIS SECTION, YOU WILL:** Understand that a technology governance model should be a well-balanced hybrid of three different styles of governing: mandates and bans, taxes, and nudging.
@@ -28,7 +27,6 @@ Grounded Architecture supports governance models that are **adaptable to the com
 By governing with mandates and bans, I mean guiding people by **explicitly defining what they should or should not do**. In places I worked in, such mandates and bans have had a limited by important place to **define broader strategic boundaries of choices** people can make. For instance, restricting the usage of public cloud providers to specific vendors or following **strict privacy and security procedures** needs to be explicitly defined and controlled.
 
 ![](assets/images/arch/ethics-g277df4183_1920.jpg)
-
 ^image by tumisu from pixabay^
 
 The role of architecture in this form of governing should be to be **a stakeholder but not a sole owner in defining mandates and bans**. Mandates and bans frequently need to be defined in collaboration with others, such as security and legal functions. The Grounded Architecture can help by **creating clarity and providing transparency**.
@@ -42,7 +40,6 @@ The [People Pillar](#people) can help propagate the decision and ensure its **po
 Governing with taxes is a form of guiding in which people are not forbidden to make some decisions but **need to "pay" some form of taxes on used resources**. For instance, costs of public cloud usage could be **cross-charged across the organization**, providing a helpful feedback loop to optimize our systems and avoid unnecessary resource consumption, avoiding the "tragedy of commons" which frequently happens when there are no limits on shared resource consumption (e.g., public cloud budget). 
 
 ![](assets/images/arch/credit-squeeze-g61ddead85_1920.png)
-
 ^image by steve buissinne from pixabay^
 
 The role of Grounded Architecture in this form of governance should be to ensure that "taxation" is **data-driven and transparent** and to create efficient feedback loops on key metrics related to "taxes."
@@ -58,7 +55,6 @@ A nudge can take many forms, such as a **small change in the environment**, a **
 The concept of a nudge was popularized by the book **"Nudge: Improving Decisions About Health, Wealth, and Happiness"** by Richard Thaler and Cass Sunstein, which argues that various **cognitive biases and heuristics** often influence people's decisions, and that nudges can help people overcome these biases and make better choices.
 
 ![](assets/images/arch/iStock-1390608248.jpg)
-
 ^image by istock^
 
 Richard Thaler and Cass Sunstein also introduced the concept of **choice architecture** as a key component of nudging. It refers to how the options are presented to individuals, which can significantly influence their choices. Choice architecture is **the design of the decision-making environment**, which includes the layout, structure, and organization of the options available.

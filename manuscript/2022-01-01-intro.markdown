@@ -3,7 +3,6 @@
 # Introduction {#intro}
 
 ![](assets/images/arch/staircase-274614_1920.jpg)
-
 ^image by fda54 from pixabay^
 
 **IN THIS SECTION, YOU WILL:** Understand what this book is about and how to use it.

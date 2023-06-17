@@ -3,7 +3,6 @@
 # Value of Grounded Architecture Structure {#value}
 
 ![](assets/images/arch/gold-gd9bc167a4_1920.jpg)
-
 ^image by matthias wewering from pixabay^
 
 **IN THIS SECTION, YOU WILL:**  Understand the value that architecture practice based on the ideas of Grounded Architecture can create for an organization.
@@ -31,7 +30,6 @@ Grounded Architecture structure can enable architecture functions to operate at 
 * **The [Architecture Activities Platform](#activities-platform)** enables execution at scale by promoting an operating model that **distributes decision-making** across the organization. In that way, more people can make decisions, removing a bottleneck that centralized decision-making would create.
 
 ![](assets/images/arch/earth-g8ffaadaba_1920.jpg)
-
 ^image by wikiimages from pixabay^
 
 ## Adaptivity 
@@ -45,7 +43,6 @@ The three elements of the Grounded Architecture structure provide a highly flexi
 Grounding the architecture with data and people connections also makes the work of **most senior architects much more flexible**. As they can delegate most architectural decisions to teams, the most experienced technologists can be available to spend more time on crucial strategic initiatives, such as defining cloud, data, or platform strategies or supporting decisions on mergers and acquisitions.
 
 ![](assets/images/arch/lego-g7d6cf2046_1920.png)
-
 ^image by francis ray from pixabay^
 
 ## Increasing the Quality of Decision-Making with Data
@@ -61,7 +58,6 @@ There are significant benefits to making our decision process as much as possibl
   * **translate drivers and data into economic risk models**, and use the models and data to find the best spot for the given business context
 
 ![](assets/images/arch/doors-gf67a9cff2_1920.jpg)
-
 ^image by arek socha from pixabay^
 
 ## Maximizing Organizational Alignment
@@ -75,7 +71,6 @@ Misalignment frequently happens in big organizations. Grounded Architecture stru
   * **After making a decision**, the platform can make all organizations aware of it and distribute it so everyone can profit from lessons learned in one unit.
 
 ![](assets/images/arch/iStock-165954660.jpg)
-
 ^image by istock^
 
 ## Maximizing Organizational Learning
