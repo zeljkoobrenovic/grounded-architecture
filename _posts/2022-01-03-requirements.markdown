@@ -45,6 +45,8 @@ Considering the scale and complexity of the organizational context I operated in
 Considering the scale and complexity of the organizational context I operated in, it was apparent that conventional approaches of doing architecture that rely on manual processes need to be revised.
 </div>
 
+## Goals
+
 More specifically, I identified the following needs that an architecture function should support.
 
 ### Goal 1: Executing At Scale
