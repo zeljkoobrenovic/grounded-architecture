@@ -31,7 +31,7 @@ By governing with mandates and bans, I mean guiding people by **explicitly defin
 
 The role of architecture in this form of governing should be to be **a stakeholder but not a sole owner in defining mandates and bans**. Mandates and bans frequently need to be defined in collaboration with others, such as security and legal functions. The Grounded Architecture can help by **creating clarity and providing transparency**.
 
-The [Data Pillar](#data) is crucial in creating **clarity and transparency**, for instance, via insights security reports or maps of areas in source code or infrastructure that needed monitoring and controlling based on privacy or security requirements.
+The [Data Foundation](#data) is crucial in creating **clarity and transparency**, for instance, via insights security reports or maps of areas in source code or infrastructure that needed monitoring and controlling based on privacy or security requirements.
 
 The [People Pillar](#people) can help propagate the decision and ensure its **positive impact and acceptance**. You should never order or forbid people to do some things routinely. Spending enough time with all stakeholders to explain the **reasons and motivations** behind introducing some limitations is crucial to ensure the effective working of mandates and bans. A strong People Pillar ensures that you already have strong connections with key stakeholders and can leverage them to change ways of working more smoothly.
 
@@ -44,7 +44,7 @@ Governing with taxes is a form of guiding in which people are not forbidden to m
 
 The role of Grounded Architecture in this form of governance should be to ensure that "taxation" is **data-driven and transparent** and to create efficient feedback loops on key metrics related to "taxes."
 
-The [Data Pillar](#data) can include and provide all **data regarding "taxes,"** for instance, via insights based on public cloud cost reports. The People Pillar can facilitate **aligning processes**, goals, and working methods to ensure that taxation leads to desired and **meaningful change**.
+The [Data Foundation](#data) can include and provide all **data regarding "taxes,"** for instance, via insights based on public cloud cost reports. The People Pillar can facilitate **aligning processes**, goals, and working methods to ensure that taxation leads to desired and **meaningful change**.
 
 ## Nudging
 
@@ -64,13 +64,13 @@ In architecture, nudges could include:
 * recommendations for **best practices** to stimulate introduction and alignment around such practices, 
 * default options for technology choices via 
 [**golden paths**](https://engineering.atspotify.com/2020/08/how-we-use-golden-paths-to-solve-fragmentation-in-our-software-ecosystem/)
-* **highlighting** bad quality software on a [Data Pillar](#data) dashboards to create a subtle pressure for people to improve it,
+* **highlighting** bad quality software on a [Data Foundation](#data) dashboards to create a subtle pressure for people to improve it,
 * tracking of **tech debt**, to create awareness about it size and lead action to reduce it,
 * **visualizing cost trends** of cloud services per team to stimulate teams to improve the performance efficiency of their software.
 
 In my experience, nudges can frequently lead to better alignment and more harmonization without the negative consequences of mandates, bans, or taxation.
 
-Grounded Architecture is well aligned with ideas of nudging. I frequently designed many of the [Data Pillar](#data) tools to **highlight areas and issues** we wanted people to improve. And the [People Pillar](#people) can create mechanisms for sharing experiences, promoting **positive examples**, and capturing lessons learned to help people to make better, more informed decisions. And in the [Architecture Activities Platform](#activities-platform) I use the operating model that stimulates people to make decisions autonomously but **nudges them to stay well-aligned** and connected to the organizational strategic direction.
+Grounded Architecture is well aligned with ideas of nudging. I frequently designed many of the [Data Foundation](#data) tools to **highlight areas and issues** we wanted people to improve. And the [People Pillar](#people) can create mechanisms for sharing experiences, promoting **positive examples**, and capturing lessons learned to help people to make better, more informed decisions. And in the [Architecture Activities Platform](#activities-platform) I use the operating model that stimulates people to make decisions autonomously but **nudges them to stay well-aligned** and connected to the organizational strategic direction.
 
 ## Questions to Consider
 

@@ -112,8 +112,8 @@ The Six Simple Rules approach states that you can truly understand performance b
 ### The Role of Architecture
 
 I have found architecture function can be very helpful in understand what people really do in organizations in two ways: 
-* Having a **[Data Pillar](data)** with an **overview of various data sources** can show where activities are happening, what trends are visible, and how people cooperate. One of the principles of the Data Pillar **build maps, not control units** supports understanding and orientation rather than being a simple metric tool.
-* Leveraging the **[People Pillar](people)** to **connect people** and enables them to **learn what is happening** in different parts of the organization.
+* Having a **[Data Foundation](data)** with an **overview of various data sources** can show where activities are happening, what trends are visible, and how people cooperate. One of the principles of the Data Foundation **build maps, not control units** supports understanding and orientation rather than being a simple metric tool.
+* Leveraging the **[People Foundation](people)** to **connect people** and enables them to **learn what is happening** in different parts of the organization.
 
 
 <br>
@@ -136,9 +136,9 @@ You can reinforce integrators by:
 ### The Role of Architecture
 
 Architecture function, in my view, is strongly related to reinforcing integrators: 
-* Via the **[People Pillar](people)**, Grounded Architecture can **help identify integrators** and connect them to leverage their work. 
+* Via the **[People Foundation](people)**, Grounded Architecture can **help identify integrators** and connect them to leverage their work. 
 * Furthermore, my view on architects as **[superglue](superglue)** defines architects as **critical integrators** and **integrator role-models** in an organization. 
-* And having a **[Data Pillar](data)** can **support integrators with data and insights**, empowering them to do better, more informed work.
+* And having a **[Data Foundation](data)** can **support integrators with data and insights**, empowering them to do better, more informed work.
 
 <br>
 ## Simple Rule 3: Increase the Total Quantity of Power
@@ -163,7 +163,7 @@ To increase the quantity of power, the Six Simple Rules approach recommends the 
 
 Architecture supports increasing power quantity with the **[operating model](activities-platform)** that promotes distributing decision-making: 
 * We aimed to increase the quantity of the **decision-making power** and keep architectural decision-making **distributed across the organization** and embedded in the development teams. Development teams traditionally have the best insights and most information relevant for making a decision. 
-* Additionally, the **[Data Pillar](data)** accessible to all interested people in the organization, can give them **data in insights that can increase their power in daily work**.
+* Additionally, the **[Data Foundation](data)** accessible to all interested people in the organization, can give them **data in insights that can increase their power in daily work**.
 
 
 <br>
@@ -187,7 +187,7 @@ Reciprocity is the recognition by people or units in an organization that they *
 
 Architecture function is directly related to increasing reciprocity: 
 * I consider the success of architecture dependent on **[architects' impact](impact)**. Likewise, the developer teams support depends on architecture support. I also integrate feedback of people from teams that architects support in architects' performance evaluations.  
-* In addition, the **[People Pillar](people)** directly supports one of the ways of reinforcing reciprocity: **creating new networks of interactions**.
+* In addition, the **[People Foundation](people)** directly supports one of the ways of reinforcing reciprocity: **creating new networks of interactions**.
 
 
 <br>
@@ -213,7 +213,7 @@ The Six Simple Rules approach identifies four ways to extend the shadow of the f
 ### The Role of Architecture
 
 The architecture can extend the shadow of the future in multiple ways: 
-* The **[Data Pillar](data)** can create **transparency** and provides data necessary to **model the future**. I've used such data to create many **simulations and roadmap** options. 
+* The **[Data Foundation](data)** can create **transparency** and provides data necessary to **model the future**. I've used such data to create many **simulations and roadmap** options. 
 * The principle of applying **[economic modeling](economics)** to architecture decision-making directly supports describing what happens tomorrow as a consequence of what they do today. 
 
 
@@ -238,8 +238,8 @@ To reward those who cooperate managers:
 ### The Role of Architecture
 
 **Architecture** function can help rewarding cooperation by making it easier for everyone to **help other people and ask for help**. 
-* Having a strong **[People Pillar](people)** can provide the context and **networks of people** to more easily collaborate. 
-* Adding diverse data sources in the **[Data Pillar](data)** can help creating **transparency about cooperation** opportunities and problems.
+* Having a strong **[People Foundation](people)** can provide the context and **networks of people** to more easily collaborate. 
+* Adding diverse data sources in the **[Data Foundation](data)** can help creating **transparency about cooperation** opportunities and problems.
 
 <br>
 ## To Probe Further

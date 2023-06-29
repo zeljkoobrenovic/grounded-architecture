@@ -1,7 +1,7 @@
 ---
 layout: post
 section: "Structure"
-title: "People Pillar"
+title: "People Foundation"
 position: 3005
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
@@ -46,7 +46,7 @@ Image by <a href="https://pixabay.com/users/mostafa_meraji-13551092/?utm_source=
 
 <br>
 
-The **People Pillar** is an essential element of Grounded Architecture. As noted by Gregor Hohpe, to transform an
+The **People Foundation** is an essential element of Grounded Architecture. As noted by Gregor Hohpe, to transform an
 organization, you do not need to solve mathematical equations. You need to move people. Consequently, having **a strong
 network of people doing architecture** across the organization is crucial to ensure that the architecture function has any
 tangible impact. In other words, Strong Architecture =
@@ -63,7 +63,7 @@ domain-specific and organizational knowledge. Consequently, any architecture fun
 and leverage scarce architecture talent (Figure 1).
 
 ![](assets/images/model-people.png)
-***Figure 1:** The structure of Grounded Architecture: The People Pillar.*
+***Figure 1:** The structure of Grounded Architecture: The People Foundation.*
 
 In my work in the past few years, I was working by combining, in different forms, two teams of architects: a small
 **central architecture team** and **a cross-organizational distributed virtual team**. A central architecture team is an enabler
@@ -130,7 +130,7 @@ similar topics.
 The roles of people in central teams may differ depending on the organization. In addition to doing typical architecture
 work, I found it helpful to be able to have people that can cover the following types of responsibilities:
 
-* **Build and maintain the architecture [Data Pillar](data).** Building a Data Pillar will not happen by
+* **Build and maintain the architecture [Data Foundation](data).** Building a Data Foundation will not happen by
   accident. It requires clear ownership, curation, and technical support.
 * **Promote data-informed decision-making.** identify, collect, and use relevant data. Only some people are used to
   applying data in their decision-making. Architects should provide support and be a role-model for data-informed
@@ -196,10 +196,10 @@ In big organization, embracing diversity is a pre-requirements to have any broad
 </div>
 
 <br>
-## Building People Pillar
+## Building People Foundation
 
 While each organization will need its unique approach, here are some tips I found helpful in forming
-architecture teams and "[People Pillar](people)":
+architecture teams and "[People Foundation](people)":
 
 * Before making grandiose plans for reorganizations, **connect with the people already doing architectural work** in an
   organization, creating a community of practices or a virtual team. Being inclusive and connecting all key tech

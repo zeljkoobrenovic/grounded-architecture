@@ -3,7 +3,6 @@
 # Architecture Activities Platform {#activities-platform}
 
 ![](assets/images/arch/parliament-366199_1920.jpg)
-
 ^image by anja from pixabay^
 
 **IN THIS SECTION, YOU WILL:**  Understand what activities you can do as a part of architecture practice and get tips on creating pragmatic operating models.
@@ -50,7 +49,7 @@ Inspired by Gregor Hohpe's strategy-principles-decisions model, I typically used
 * Architects engage with stakeholders and product and project teams in a **collaborative and supportive manner**.
 * Architects are **empowering the teams** so that they make most of the decisions.
 * In all activities, architects do: 
-  * **Bring relevant data** to inform decisions leveraging the [Data Pillar](#data).
+  * **Bring relevant data** to inform decisions leveraging the [Data Foundation](#data).
   * **Define decision boundaries** to enable the minimal level of compatibility and strategic alignment (e.g., public cloud provider, tech stack constraints).
   * **Define key principles** to facilitate consistency in decision-making.
   * **Share and generalize** lessons learned.

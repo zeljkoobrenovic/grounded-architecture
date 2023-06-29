@@ -1,24 +1,24 @@
 
 
-# Data Pillar {#data}
+# Data Foundation {#data}
 
 **IN THIS SECTION, YOU WILL:**  Understand how to use diverse data sources to support architecture decision-making processes and get concrete tips on creating architecture-centric data tools.
 
 {pagebreak}
 
 A> **KEY POINTS:**
-A> * The architecture data pillar serves as a medium to create a complete, up-to-date picture of critical elements of technology landscapes of big organizations. 
-A> * The data pillar provides an architecture-centric view on data about a technology landscape based on source code analyses, public cloud billing reports, vibrancy reports, or incident tickets.
-A> * To facilitate creation of data pillars, I have been working on creating open-source tools, such as [Sokrates](https://sokrates.dev), that can help obtain valuable architectural insights from data sources, such as source code repositories.
+A> * The architecture Data Foundation serves as a medium to create a complete, up-to-date picture of critical elements of technology landscapes of big organizations. 
+A> * The Data Foundation provides an architecture-centric view on data about a technology landscape based on source code analyses, public cloud billing reports, vibrancy reports, or incident tickets.
+A> * To facilitate creation of Data Foundations, I have been working on creating open-source tools, such as [Sokrates](https://sokrates.dev), that can help obtain valuable architectural insights from data sources, such as source code repositories.
 
-In every place I worked on creating architectural functions, I strongly emphasized data. In the past several years, I have been working on creating open-source tools, such as [Sokrates](https://sokrates.dev), that can help obtain valuable architectural insights from data sources, such as source code repositories or public cloud billing reports. Consequently, one of the first steps I make in any architecture role is to create an architecture data pillar to get a complete, up-to-date picture of critical elements of the technology landscapes of an organization (Figure 1). Manual documentation does not scale in [our context](#context), and relying on data ensures reliability and scalability. 
+In every place I worked on creating architectural functions, I strongly emphasized data. In the past several years, I have been working on creating open-source tools, such as [Sokrates](https://sokrates.dev), that can help obtain valuable architectural insights from data sources, such as source code repositories or public cloud billing reports. Consequently, one of the first steps I make in any architecture role is to create an architecture Data Foundation to get a complete, up-to-date picture of critical elements of the technology landscapes of an organization (Figure 1). Manual documentation does not scale in [our context](#context), and relying on data ensures reliability and scalability. 
 
 ![](assets/images/model-data.png)
-***Figure 1:** The structure of Grounded Architecture: The Data Pillar.*
+***Figure 1:** The structure of Grounded Architecture: The Data Foundation.*
 
-The good news is that big organizations have lots of data that, if used wisely, can provide an excellent basis for an architectural data pillar. With some automation and curation, getting a good overview of the technology landscape may be closer than it initially appears.
+The good news is that big organizations have lots of data that, if used wisely, can provide an excellent basis for an architectural Data Foundation. With some automation and curation, getting a good overview of the technology landscape may be closer than it initially appears.
 
-My vision for building the Data Pillar follows the map-making metaphor. Maps are one of the most critical documents in human history. They give us tools to store and exchange knowledge about space and place. While there are differences between maps and the layers they show, the one thing that all maps do is provide readers with **orientation**. A sense of place is central to meaning-making. Maps are also composed of multiple layers. Similarly, the architecture data pillar should give readers a sense of orientation, offering data layers about systems that describe their sizes, connections, quality, security, or human activity.
+My vision for building the Data Foundation follows the map-making metaphor. Maps are one of the most critical documents in human history. They give us tools to store and exchange knowledge about space and place. While there are differences between maps and the layers they show, the one thing that all maps do is provide readers with **orientation**. A sense of place is central to meaning-making. Maps are also composed of multiple layers. Similarly, the architecture Data Foundation should give readers a sense of orientation, offering data layers about systems that describe their sizes, connections, quality, security, or human activity.
 
 ## Examples of Data Sources and Tools
 
@@ -70,9 +70,9 @@ Figure 3 shows the anonymous screenshot of the Cloud usage explorer, a tool I bu
 
 Finance departments are very data-driven and have high-quality data that could be relevant for architects. In addition to standard costs, budgets, and other pure financial data types, I frequently found that finance teams also have different data sources, such as vibrancy or usage levels. These teams need such data to, for instance, correlate finance performance with usage levels. Such usage data are beneficial for architecture discussions. For example, linking usage levels and vibrancy of systems with their public cloud usage can identify areas of improvement and inefficiencies.
 
-## Using Architecture Data Pillar
+## Using Architecture Data Foundation
 
-The architecture data pillar can provide lots of data. Sometimes, as in an ordinary map or atlas, such data could be helpful for those who want to orient themselves and understand the context. You can obtain more insights from such data. However, finding the right ways to interpret and use data requires active effort. In other words, the data can give you the answers, but [we may not know the questions](https://en.wikipedia.org/wiki/42_(number)#The_Hitchhiker's_Guide_to_the_Galaxy). Here are some of the questions you can ask when you have data:
+The architecture Data Foundation can provide lots of data. Sometimes, as in an ordinary map or atlas, such data could be helpful for those who want to orient themselves and understand the context. You can obtain more insights from such data. However, finding the right ways to interpret and use data requires active effort. In other words, the data can give you the answers, but [we may not know the questions](https://en.wikipedia.org/wiki/42_(number)#The_Hitchhiker's_Guide_to_the_Galaxy). Here are some of the questions you can ask when you have data:
 * Are we aligned and going in the same direction? Source code overviews, public cloud usage explorers, or tech radars can highlight differences among systems and teams and trigger discussions.
 * Are we using technology optimally? Comparing usage trends between teams can show interesting outliners (both positive and negative).
 * Are there indicators of poor code quality? Too large systems, duplication, long units, or long files.
@@ -80,15 +80,15 @@ The architecture data pillar can provide lots of data. Sometimes, as in an ordin
 * Do we collaborate in the way we want? Repository analysis can point out team topologies and (un)desired dependencies.
 * Do we work on the things we want? We may want to focus more on innovations, but in reality, we may spend too much time on legacy maintenance.
 
-## Building Data Pillar
+## Building Data Foundation
 
-While each organization will have its unique sets of data, here are some tips I found helpful in my approach to forming the architecture data pillar:
+While each organization will have its unique sets of data, here are some tips I found helpful in my approach to forming the architecture Data Foundation:
 
-* **Start with the source code**. My motto is "Talk is expensive. Show me the code." I scan as soon as possible all source code using tools such as [Sokrates](https://sokrates.dev). I highly recommend [Sokrates](https://sokrates.dev) as the basis for the data pillar, but other simple analyses could also provide a good starting point. Modern IT enterprises store almost everything as a code. It is the richest and most up-to-date documentation on most things happening in an IT enterprise.
+* **Start with the source code**. My motto is "Talk is expensive. Show me the code." I scan as soon as possible all source code using tools such as [Sokrates](https://sokrates.dev). I highly recommend [Sokrates](https://sokrates.dev) as the basis for the Data Foundation, but other simple analyses could also provide a good starting point. Modern IT enterprises store almost everything as a code. It is the richest and most up-to-date documentation on most things happening in an IT enterprise.
 * **Connect with finance and governance teams** to get exports of their data (without sensitive parts, such as revenue projections). Cloud billing reports and data about vibrancy or revenue streams are collected anyway. By extracting more technology-oriented data (e.g., public cloud technology usage trends) and connecting them to other data, many new insights may be obtained without starting new processes or asking people to provide more details. First, leverage what you have, squeeze all the value from it, then ask people for any missing elements.
 * **Use simple and easy-to-maintain infrastructures**. For example, I publish the results of Sokrates analyses and other simple data Web apps as static resources in our enterprise GithHub pages. Configuring more complex infrastructure with complex databases and backend software requires more maintenance.
 * **Maintain a culture of transparency**. It is much simpler and more effective to share fewer data with everyone than to have more data, but complex authorization is needed.
-* **Own the curation**. People need to be able to trust your data. Spend enough time to understand data sets, curate them, and ensure presentation consistency. I consider myself a master curator and chief UX designer of a data pillar.
+* **Own the curation**. People need to be able to trust your data. Spend enough time to understand data sets, curate them, and ensure presentation consistency. I consider myself a master curator and chief UX designer of a Data Foundation.
 
 While I do not want to prescribe the best technology, I can tell what I use in daily work. I build most architecture data tools as simple web applications, taking data from JSON files hosted on a static web server. See some of [my public tools](https://obren.io/tools) to illustrate how I build such simple data-driven web apps.
 
@@ -117,8 +117,8 @@ Using data can significantly improve the efficiency and impact of architectural 
 
 * *Have you considered using open-source tools like Sokrates to gain architectural insights from data sources? Why or why not?*
 * *What are your views on the reliability and scalability of manual documentation as opposed to data reliance?*
-* *What steps would you take to create an architecture data pillar in your organization?*
-* *Do you think there are untapped data sources within your organization that could inform your architectural data pillar?*
+* *What steps would you take to create an architecture Data Foundation in your organization?*
+* *Do you think there are untapped data sources within your organization that could inform your architectural Data Foundation?*
 * *How could you automate the process of gathering data for architectural insights in your organization?*
 * *What examples can you provide of the data you've used to gain reliable information about technology in your organization?*
 * *How would you examine public cloud billing reports, incident reports, or key business metrics for architectural insights?*

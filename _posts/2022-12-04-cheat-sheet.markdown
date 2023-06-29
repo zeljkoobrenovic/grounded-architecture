@@ -57,14 +57,14 @@ Image by iStock / Tashulia.
  
 ## Grounded Architecture Structure 
 
-### [Data Pillar](data)
+### [Data Foundation](data)
 
-> * The architecture Data Pillar serves as a medium to create a complete, up-to-date picture of critical elements of technology landscapes of big organizations. 
-> * The Data Pillar provides an architecture-centric view on data about a technology landscape based on source code analyses, public cloud billing reports, vibrancy reports, or incident tickets.
-> * To facilitate creation of Data Pillars, I have been working on development open-source tools, such as [Sokrates](https://sokrates.dev), that can help obtain valuable architectural insights from data sources, such as source code repositories.
+> * The architecture Data Foundation serves as a medium to create a complete, up-to-date picture of critical elements of technology landscapes of big organizations. 
+> * The Data Foundation provides an architecture-centric view on data about a technology landscape based on source code analyses, public cloud billing reports, vibrancy reports, or incident tickets.
+> * To facilitate creation of Data Foundations, I have been working on development open-source tools, such as [Sokrates](https://sokrates.dev), that can help obtain valuable architectural insights from data sources, such as source code repositories.
 
 
-### [People Pillar](people)
+### [People Foundation](people)
 > * Developing the architecture function requires having competent, empowered, and motivated architects. Any architecture function must carefully organize, empower,
     and leverage scarce architecture talent.
 > * We should not take architectural talent for granted. Architects are bridging local business, product, 
@@ -74,7 +74,7 @@ Image by iStock / Tashulia.
     central architecture team and a cross-organizational distributed virtual team. 
 
 ### [Activities Platform](activities-platform)
-> * The Architecture Activities Platform defines a set of processes and agreements enabling architects to do everything architecture typically does, leveraging data and People Pillars to create a data-informed, organization-wide impact.
+> * The Architecture Activities Platform defines a set of processes and agreements enabling architects to do everything architecture typically does, leveraging data and People Foundations to create a data-informed, organization-wide impact.
 > * Examples of activities include: supporting teams in their daily work; tracking tech debt, defining tech debt reduction programs; performing technical due diligence; standardization of processes and documentation; defining cloud, data, and platform strategies.
 
 ## Being Architect

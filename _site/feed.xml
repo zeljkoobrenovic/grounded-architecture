@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-06-17T21:31:13+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: Redefining IT Architecture Practice</title><subtitle></subtitle><entry><title type="html">Favorite Quotes</title><link href="http://localhost:4000/quotes" rel="alternate" type="text/html" title="Favorite Quotes" /><published>2021-10-25T22:12:01+02:00</published><updated>2021-10-25T22:12:01+02:00</updated><id>http://localhost:4000/quotes</id><content type="html" xml:base="http://localhost:4000/quotes"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/books-g1b2675255_1920.jpg" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-06-30T00:01:43+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: Redefining IT Architecture Practice</title><subtitle></subtitle><entry><title type="html">Favorite Quotes</title><link href="http://localhost:4000/quotes" rel="alternate" type="text/html" title="Favorite Quotes" /><published>2021-10-25T22:12:01+02:00</published><updated>2021-10-25T22:12:01+02:00</updated><id>http://localhost:4000/quotes</id><content type="html" xml:base="http://localhost:4000/quotes"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/books-g1b2675255_1920.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/prettysleepy-2973588/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5430104">Amy</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5430104">Pixabay</a>
 </div>
@@ -369,12 +369,12 @@ Considering the scale and complexity of the organizational context I operated in
 Image by <a href="https://pixabay.com/users/ichigo121212-11728/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=205986">Ichigo121212</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=205986">Pixabay</a>
 </div>
 <blockquote>
-  <p><strong>IN THIS SECTION, YOU WILL:</strong> Get an overview of the Grounded Architecture structure: Data Pillar, People Pillar, and Architecture Activities Platform.</p>
+  <p><strong>IN THIS SECTION, YOU WILL:</strong> Get an overview of the Grounded Architecture structure: Data Foundation, People Foundation, and Architecture Activities Platform.</p>
 
   <p><strong>KEY POINTS:</strong></p>
 
   <ul>
-    <li>I introduce three elements of Grounded Architecture: The Data Pillar, The People Pillar, The Architecture Activities Platform.</li>
+    <li>I introduce three elements of Grounded Architecture: The Data Foundation, The People Foundation, The Architecture Activities Platform.</li>
   </ul>
 </blockquote>
 <style>
@@ -403,21 +403,21 @@ I chose the term "Grounded Architecture" to highlight that the primary goal of m
 
 <p>Grounded Architecture as an approach to setting organizational structures for architecture practice has three elements:</p>
 <ul>
-  <li>The Data Pillar,</li>
-  <li>The People Pillar,</li>
+  <li>The Data Foundation,</li>
+  <li>The People Foundation,</li>
   <li>The Architecture Activities Platform.</li>
 </ul>
 
 <p><img src="assets/images/model.png" alt="" />
 <em><strong>Figure 1:</strong> The structure of Grounded Architecture.</em></p>
 
-<p>The <em>Data Pillar</em> is <strong>a system of tools and resources</strong> that enables architects to make <strong>data-informed decisions</strong> based on a real-time and complete overview of the organization’s technology landscape. The <a href="data">Data Pillar section</a> provides more details.</p>
+<p>The <em>Data Foundation</em> is <strong>a system of tools and resources</strong> that enables architects to make <strong>data-informed decisions</strong> based on a real-time and complete overview of the organization’s technology landscape. The <a href="data">Data Foundation section</a> provides more details.</p>
 
-<p>The <em>People Pillar</em> is <strong>a network of people</strong> doing architecture across the organization. This Pillar is crucial to ensure that architecture function has any <strong>tangible impact</strong>. As noted by Gregor Hohpe, to transform an organization, you do not need to solve mathematical equations; you need to move people. The <a href="people">People Pillar section</a> provides more details.</p>
+<p>The <em>People Foundation</em> is <strong>a network of people</strong> doing architecture across the organization. This Pillar is crucial to ensure that architecture function has any <strong>tangible impact</strong>. As noted by Gregor Hohpe, to transform an organization, you do not need to solve mathematical equations; you need to move people. The <a href="people">People Foundation section</a> provides more details.</p>
 
-<p>Lastly, the <em>Architecture Activities Platform</em> defines <strong>a set of processes and agreements</strong> enabling architects to do everything that architecture typically does, leveraging data and People Pillars to create a data-informed, organization-wide impact. The <a href="activities-platform">Architecture Activites Platform section</a> provides more details on Architecture Activities Platform.</p>
+<p>Lastly, the <em>Architecture Activities Platform</em> defines <strong>a set of processes and agreements</strong> enabling architects to do everything that architecture typically does, leveraging data and People Foundations to create a data-informed, organization-wide impact. The <a href="activities-platform">Architecture Activites Platform section</a> provides more details on Architecture Activities Platform.</p>
 
-<p>The Architecture Activities Platform is <strong>only valid with the healthy Data and People Pillars</strong>. Without data and people connections, an Architecture Activities Platform becomes an ivory tower institution, generating opinion-based decisions disconnected from reality.</p>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[I introduce three elements of Grounded Architecture: The Data Pillar, The People Pillar, The Architecture Activities Platform.]]></summary></entry><entry><title type="html">Data Pillar</title><link href="http://localhost:4000/data" rel="alternate" type="text/html" title="Data Pillar" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/data-platform</id><content type="html" xml:base="http://localhost:4000/data"><![CDATA[<p><img src="assets/images/arch/architecture-1857175_1920.jpg" style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" /></p>
+<p>The Architecture Activities Platform is <strong>only valid with the healthy Data and People Foundations</strong>. Without data and people connections, an Architecture Activities Platform becomes an ivory tower institution, generating opinion-based decisions disconnected from reality.</p>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[I introduce three elements of Grounded Architecture: The Data Foundation, The People Foundation, The Architecture Activities Platform.]]></summary></entry><entry><title type="html">Data Foundation</title><link href="http://localhost:4000/data" rel="alternate" type="text/html" title="Data Foundation" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/data-platform</id><content type="html" xml:base="http://localhost:4000/data"><![CDATA[<p><img src="assets/images/arch/architecture-1857175_1920.jpg" style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/3844328-3844328/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1857175">Lorenzo Cafaro</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1857175">Pixabay</a>
 </div>
@@ -427,9 +427,9 @@ Image by <a href="https://pixabay.com/users/3844328-3844328/?utm_source=link-att
   <p><strong>KEY POINTS:</strong></p>
 
   <ul>
-    <li>The architecture Data Pillar serves as a medium to create a complete, up-to-date picture of critical elements of technology landscapes of big organizations.</li>
-    <li>The Data Pillar provides an architecture-centric view on data about a technology landscape based on source code analyses, public cloud billing reports, vibrancy reports, or incident tickets.</li>
-    <li>To facilitate creation of Data Pillars, I have been working on creating open-source tools, such as <a href="https://sokrates.dev">Sokrates</a>, that can help obtain valuable architectural insights from data sources, such as source code repositories.</li>
+    <li>The architecture Data Foundation serves as a medium to create a complete, up-to-date picture of critical elements of technology landscapes of big organizations.</li>
+    <li>The Data Foundation provides an architecture-centric view on data about a technology landscape based on source code analyses, public cloud billing reports, vibrancy reports, or incident tickets.</li>
+    <li>To facilitate creation of Data Foundations, I have been working on creating open-source tools, such as <a href="https://sokrates.dev">Sokrates</a>, that can help obtain valuable architectural insights from data sources, such as source code repositories.</li>
   </ul>
 </blockquote>
 <style>
@@ -455,23 +455,23 @@ Image by <a href="https://pixabay.com/users/3844328-3844328/?utm_source=link-att
 </blockquote>
 
 <p><br />
-In every place I worked on creating architectural functions, I strongly emphasized data. Moreover, in the past several years, I have been working on creating open-source tools, such as <a href="https://sokrates.dev">Sokrates</a>, that can help obtain valuable architectural insights from data sources, such as source code repositories or public cloud billing reports. Consequently, <strong>one of the first steps I make in any architecture practice</strong> is to create an architecture Data Pillar to get a complete, up-to-date picture of critical elements of the technology landscapes of an organization (Figure 1). <strong>Manual documentation does not scale</strong>, and relying on data ensures reliability and scalability.</p>
+In every place I worked on creating architectural functions, I strongly emphasized data. Moreover, in the past several years, I have been working on creating open-source tools, such as <a href="https://sokrates.dev">Sokrates</a>, that can help obtain valuable architectural insights from data sources, such as source code repositories or public cloud billing reports. Consequently, <strong>one of the first steps I make in any architecture practice</strong> is to create an architecture Data Foundation to get a complete, up-to-date picture of critical elements of the technology landscapes of an organization (Figure 1). <strong>Manual documentation does not scale</strong>, and relying on data ensures reliability and scalability.</p>
 
 <p><img src="assets/images/model-data.png" alt="" />
-<em><strong>Figure 1:</strong> The structure of Grounded Architecture: The Data Pillar.</em></p>
+<em><strong>Figure 1:</strong> The structure of Grounded Architecture: The Data Foundation.</em></p>
 
-<p>The good news is that <strong>big organizations have lots of data</strong> that, if used wisely, can provide an excellent basis for an architectural Data Pillar. With some automation and curation, getting a good overview of the technology landscape may be closer than it initially appears.</p>
+<p>The good news is that <strong>big organizations have lots of data</strong> that, if used wisely, can provide an excellent basis for an architectural Data Foundation. With some automation and curation, getting a good overview of the technology landscape may be closer than it initially appears.</p>
 
 <div class="quote">
 Manual documentation does not scale, and relying on data ensures reliability and scalability.
 </div>
 
 <p><br /></p>
-<h2 id="requirements-for-a-data-pillar">Requirements For A Data Pillar</h2>
+<h2 id="requirements-for-a-data-foundation">Requirements For A Data Foundation</h2>
 
-<p>A Data Pillar should a central place with <strong>authoritative, relevant, and curated data</strong> about the organizational technology landscape. Technically, you can implement data pillar using simple tools like Google Drive, with documents organized in a folder or an internal website. I recommend investing some effort in creating better infrastructure, as it can enable more people to access and benefit from data.</p>
+<p>A Data Foundation should a central place with <strong>authoritative, relevant, and curated data</strong> about the organizational technology landscape. Technically, you can implement Data Foundation using simple tools like Google Drive, with documents organized in a folder or an internal website. I recommend investing some effort in creating better infrastructure, as it can enable more people to access and benefit from data.</p>
 
-<p>Simply collecting and putting data in one place will not create any value. Regardless of how you implement your Data Pillar, with papers on the wall, in Google Drive, in Confluence, or with a nicely designed internal website, I have identified the following requirements for creating useful Data Pillars:</p>
+<p>Simply collecting and putting data in one place will not create any value. Regardless of how you implement your Data Foundation, with papers on the wall, in Google Drive, in Confluence, or with a nicely designed internal website, I have identified the following requirements for creating useful Data Foundations:</p>
 
 <ul>
   <li><strong>It is the single point of truth</strong> for all relevant architectural data. People should be able to go to one place and get the most relevant data.</li>
@@ -482,12 +482,12 @@ Manual documentation does not scale, and relying on data ensures reliability and
   <li><strong>It is used in decision-making</strong>. Having nicely curated and useful data has zero value if you cannot ensure that such data inform vital decisions.</li>
 </ul>
 
-<p>My view of a Data Pillar is not to be a goal-setting framework or a control board. My vision for building the Data Pillar follows <strong>the map-making metaphor</strong>. Maps are one of the most critical documents in human history. They give us tools to store and exchange knowledge about space and place. While there are differences between maps and the layers they show, the one thing that all maps do is <strong>provide readers with orientation</strong>. A sense of place is central to meaning-making. Maps are also composed of multiple layers. Similarly, the architecture Data Pillar should give readers a sense of orientation, offering data layers about systems that describe their sizes, connections, quality, security, or human activity.</p>
+<p>My view of a Data Foundation is not to be a goal-setting framework or a control board. My vision for building the Data Foundation follows <strong>the map-making metaphor</strong>. Maps are one of the most critical documents in human history. They give us tools to store and exchange knowledge about space and place. While there are differences between maps and the layers they show, the one thing that all maps do is <strong>provide readers with orientation</strong>. A sense of place is central to meaning-making. Maps are also composed of multiple layers. Similarly, the architecture Data Foundation should give readers a sense of orientation, offering data layers about systems that describe their sizes, connections, quality, security, or human activity.</p>
 
 <p><br /></p>
-<h2 id="examples-of-data-pillar-sources-and-tools">Examples of Data Pillar Sources and Tools</h2>
+<h2 id="examples-of-data-foundation-sources-and-tools">Examples of Data Foundation Sources and Tools</h2>
 
-<p>To illustrate what I mean by Data Pillar, I will give a few concrete examples from my recent work. Data I typically used include (Figure 2):</p>
+<p>To illustrate what I mean by Data Foundation, I will give a few concrete examples from my recent work. Data I typically used include (Figure 2):</p>
 <ul>
   <li><strong>Source code</strong> contains an incredible amount of information about technology, people’s activity, team dependencies, and the quality of software systems.</li>
   <li><strong>Public cloud billing reports</strong> provide an overview and trends about used cloud services, regions, and budgets.</li>
@@ -561,24 +561,24 @@ Source code and its commit history include an astonishing amount of information 
 <em><strong>Figure 5:</strong> Combining data from a different source (e.g., cloud billing reports and vibrancy or revenue can lead to new insights (e.g., identifying inefficiencies in the application portfolio).</em></p>
 
 <p><br /></p>
-<h2 id="building-data-pillar">Building Data Pillar</h2>
+<h2 id="building-data-foundation">Building Data Foundation</h2>
 
-<p>While each organization will have its unique sets of data, here are some tips I found helpful in forming the architecture Data Pillar:</p>
+<p>While each organization will have its unique sets of data, here are some tips I found helpful in forming the architecture Data Foundation:</p>
 
 <ul>
-  <li><strong>Start with the source code</strong>. My motto is “Talk is expensive. Show me the code.” I scan as soon as possible all source code using tools such as <a href="https://sokrates.dev">Sokrates</a>. I highly recommend <a href="https://sokrates.dev">Sokrates</a> as the basis for the Data Pillar, but other simple analyses could also provide a good starting point. Modern IT enterprises store almost everything as a code. It is the richest and most up-to-date documentation on most things happening in an IT enterprise.</li>
+  <li><strong>Start with the source code</strong>. My motto is “Talk is expensive. Show me the code.” I scan as soon as possible all source code using tools such as <a href="https://sokrates.dev">Sokrates</a>. I highly recommend <a href="https://sokrates.dev">Sokrates</a> as the basis for the Data Foundation, but other simple analyses could also provide a good starting point. Modern IT enterprises store almost everything as a code. It is the richest and most up-to-date documentation on most things happening in an IT enterprise.</li>
   <li><strong>Connect with finance and governance teams</strong> to get exports of their data (without sensitive parts, such as revenue projections). Cloud billing reports and data about vibrancy or revenue streams are collected anyway. By extracting more technology-oriented data (e.g., public cloud technology usage trends) and connecting them to other data, many new insights may be obtained without starting new processes or asking people to provide more details. First, leverage what you have, squeeze all the value from it, then ask people for any missing elements.</li>
   <li><strong>Use simple and easy-to-maintain infrastructures</strong>. For example, I publish the results of Sokrates analyses and other simple data Web apps as static resources in our enterprise GithHub pages. Configuring more complex infrastructure with complex databases and backend software requires more maintenance.</li>
   <li><strong>Maintain a culture of transparency</strong>. It is much simpler and more effective to share fewer data with everyone than to have more data, but complex authorization is needed.</li>
-  <li><strong>Own the curation</strong>. People need to be able to trust your data. Spend enough time to understand data sets, curate them, and ensure presentation consistency. I consider myself a master curator and chief UX designer of a Data Pillar.</li>
+  <li><strong>Own the curation</strong>. People need to be able to trust your data. Spend enough time to understand data sets, curate them, and ensure presentation consistency. I consider myself a master curator and chief UX designer of a Data Foundation.</li>
 </ul>
 
 <p>While I do not want to prescribe the best technology, I can tell what I use in daily work. I build most architecture data tools as simple web applications, taking data from JSON files hosted on a static web server. See some of <a href="https://obren.io/tools">my public tools</a> to illustrate how I build such simple data-driven web apps.</p>
 
 <p><br /></p>
-<h2 id="using-architecture-data-pillar">Using Architecture Data Pillar</h2>
+<h2 id="using-architecture-data-foundation">Using Architecture Data Foundation</h2>
 
-<p>The architecture Data Pillar can provide lots of data. Sometimes, as in an ordinary map or atlas, such data could be helpful for those who want to orient themselves and understand the context. But with a proper mindset, you can obtain more insights from such data.</p>
+<p>The architecture Data Foundation can provide lots of data. Sometimes, as in an ordinary map or atlas, such data could be helpful for those who want to orient themselves and understand the context. But with a proper mindset, you can obtain more insights from such data.</p>
 
 <p>Finding the right ways to interpret and use data requires active effort. In other words, the data can give you the answers, but <a href="https://en.wikipedia.org/wiki/42_(number)#The_Hitchhiker's_Guide_to_the_Galaxy">we may not know the questions</a>. Here are some of the questions you can ask when you have data:</p>
 <ul>
@@ -639,15 +639,15 @@ Source code and its commit history include an astonishing amount of information 
 <ul>
   <li><em>Have you considered using open-source tools like Sokrates to gain architectural insights from data sources? Why or why not?</em></li>
   <li><em>What are your views on the reliability and scalability of manual documentation as opposed to data reliance?</em></li>
-  <li><em>What steps would you take to create an architecture Data Pillar in your organization?</em></li>
-  <li><em>Do you think there are untapped data sources within your organization that could inform your architectural Data Pillar?</em></li>
+  <li><em>What steps would you take to create an architecture Data Foundation in your organization?</em></li>
+  <li><em>Do you think there are untapped data sources within your organization that could inform your architectural Data Foundation?</em></li>
   <li><em>How could you automate the process of gathering data for architectural insights in your organization?</em></li>
   <li><em>What examples can you provide of the data you’ve used to gain reliable information about technology in your organization?</em></li>
   <li><em>How would you examine public cloud billing reports, incident reports, or key business metrics for architectural insights?</em></li>
   <li><em>How can you ensure your data is reliable and up-to-date?</em></li>
   <li><em>Do you collaborate with finance and governance teams to incorporate financial and vibrancy data into your data analysis?</em></li>
   <li><em>Is there a culture of transparency in your organization?</em></li>
-</ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[The architecture Data Pillar serves as a medium to create a complete, up-to-date picture of critical elements of technology landscapes of big organizations. The platform provides an architecture-centric view on data about a technology landscape based on source code analyses, public cloud billing reports, vibrancy reports, or incident tickets.]]></summary></entry><entry><title type="html">People Pillar</title><link href="http://localhost:4000/people" rel="alternate" type="text/html" title="People Pillar" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/people</id><content type="html" xml:base="http://localhost:4000/people"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/construction-4939383_1920.jpg" /></p>
+</ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[The architecture Data Foundation serves as a medium to create a complete, up-to-date picture of critical elements of technology landscapes of big organizations. The platform provides an architecture-centric view on data about a technology landscape based on source code analyses, public cloud billing reports, vibrancy reports, or incident tickets.]]></summary></entry><entry><title type="html">People Foundation</title><link href="http://localhost:4000/people" rel="alternate" type="text/html" title="People Foundation" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/people</id><content type="html" xml:base="http://localhost:4000/people"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/construction-4939383_1920.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/mostafa_meraji-13551092/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4939383">mostafa meraji</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4939383">Pixabay</a>
 </div>
@@ -682,7 +682,7 @@ Image by <a href="https://pixabay.com/users/mostafa_meraji-13551092/?utm_source=
 
 <p><br /></p>
 
-<p>The <strong>People Pillar</strong> is an essential element of Grounded Architecture. As noted by Gregor Hohpe, to transform an
+<p>The <strong>People Foundation</strong> is an essential element of Grounded Architecture. As noted by Gregor Hohpe, to transform an
 organization, you do not need to solve mathematical equations. You need to move people. Consequently, having <strong>a strong
 network of people doing architecture</strong> across the organization is crucial to ensure that the architecture function has any
 tangible impact. In other words, Strong Architecture =
@@ -699,7 +699,7 @@ domain-specific and organizational knowledge. Consequently, any architecture fun
 and leverage scarce architecture talent (Figure 1).</p>
 
 <p><img src="assets/images/model-people.png" alt="" />
-<em><strong>Figure 1:</strong> The structure of Grounded Architecture: The People Pillar.</em></p>
+<em><strong>Figure 1:</strong> The structure of Grounded Architecture: The People Foundation.</em></p>
 
 <p>In my work in the past few years, I was working by combining, in different forms, two teams of architects: a small
 <strong>central architecture team</strong> and <strong>a cross-organizational distributed virtual team</strong>. A central architecture team is an enabler
@@ -771,7 +771,7 @@ similar topics.</li>
 work, I found it helpful to be able to have people that can cover the following types of responsibilities:</p>
 
 <ul>
-  <li><strong>Build and maintain the architecture <a href="data">Data Pillar</a>.</strong> Building a Data Pillar will not happen by
+  <li><strong>Build and maintain the architecture <a href="data">Data Foundation</a>.</strong> Building a Data Foundation will not happen by
 accident. It requires clear ownership, curation, and technical support.</li>
   <li><strong>Promote data-informed decision-making.</strong> identify, collect, and use relevant data. Only some people are used to
 applying data in their decision-making. Architects should provide support and be a role-model for data-informed
@@ -846,10 +846,10 @@ In big organization, embracing diversity is a pre-requirements to have any broad
 </div>
 
 <p><br /></p>
-<h2 id="building-people-pillar">Building People Pillar</h2>
+<h2 id="building-people-foundation">Building People Foundation</h2>
 
 <p>While each organization will need its unique approach, here are some tips I found helpful in forming
-architecture teams and “<a href="people">People Pillar</a>”:</p>
+architecture teams and “<a href="people">People Foundation</a>”:</p>
 
 <ul>
   <li>Before making grandiose plans for reorganizations, <strong>connect with the people already doing architectural work</strong> in an
@@ -895,7 +895,7 @@ Image by <a href="https://pixabay.com/users/cocoparisienne-127419/?utm_source=li
   <p><strong>KEY POINTS:</strong></p>
 
   <ul>
-    <li>The Architecture Activities Platform is a system of processes and agreements enabling architects to do everything architecture typically does, leveraging data and People Pillars to create a data-informed, organization-wide impact.</li>
+    <li>The Architecture Activities Platform is a system of processes and agreements enabling architects to do everything architecture typically does, leveraging data and People Foundations to create a data-informed, organization-wide impact.</li>
     <li>Examples of activities include: supporting teams in their daily work; tracking tech debt, defining tech debt reduction programs; performing technical due diligence; standardization of processes and documentation; defining cloud, data, and platform strategies.</li>
   </ul>
 </blockquote>
@@ -932,7 +932,7 @@ Each organization will have different architectural needs and contexts. When for
 There is no one-size-fits-all approach: each organization must find activities and operating models to enable architecture to work on the most critical problems. 
 </div>
 
-<p>Each organization will need to figure out which architecture operating model to adopt. To create a <strong>sustainable and practical architecture function</strong>, you must develop explicit agreements and “rules of engagement” with key stakeholders. The Architecture Activities Platform (Figure 1) is an organization-specific set of <strong>processes and agreements</strong> that creates a space for architecture to do everything architecture typically does, leveraging data and People Pillars to create a data-informed, organization-wide impact. In all these activities, data and people posts provide foundations for data-informed decision-making well-embedded in the organization.</p>
+<p>Each organization will need to figure out which architecture operating model to adopt. To create a <strong>sustainable and practical architecture function</strong>, you must develop explicit agreements and “rules of engagement” with key stakeholders. The Architecture Activities Platform (Figure 1) is an organization-specific set of <strong>processes and agreements</strong> that creates a space for architecture to do everything architecture typically does, leveraging data and People Foundations to create a data-informed, organization-wide impact. In all these activities, data and people posts provide foundations for data-informed decision-making well-embedded in the organization.</p>
 
 <p><br /></p>
 <h2 id="examples-of-architecture-activities">Examples of Architecture Activities</h2>
@@ -969,7 +969,7 @@ There is no one-size-fits-all approach: each organization must find activities a
   <li>Architects are <strong>empowering the teams</strong> so that they make most of the decisions.</li>
   <li>In all activities, architects do:
     <ul>
-      <li><strong>Bring relevant data</strong> to inform decisions leveraging the <a href="data">Data Pillar</a>.</li>
+      <li><strong>Bring relevant data</strong> to inform decisions leveraging the <a href="data">Data Foundation</a>.</li>
       <li><strong>Define decision boundaries</strong> to enable the minimal level of compatibility and strategic alignment (e.g., public cloud provider, tech stack constraints).</li>
       <li><strong>Define key principles</strong> to facilitate consistency in decision-making.</li>
       <li><strong>Share and generalize</strong> lessons learned.</li>
@@ -1018,7 +1018,7 @@ Grounded Architecture aims to make relevant information more readily available t
   <li><em>Reflect on the balance of autonomy and alignment in your organization. How could you better implement a mechanism to give teams autonomy while maintaining alignment and compatibility with global strategy?</em></li>
   <li><em>How does the concept of a decision pyramid resonate with you? How is it reflected in your current organization, and how could it be better implemented?</em></li>
   <li><em>Which strategic and area-level decisions provide team decision boundaries in your organization? Are there areas where you need more or less limitations to optimize performance?</em></li>
-</ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[The Architecture Activities Platform is the place where, by leveraging data and People Pillars, we performed activities that help an organization to reach it goals. Here are some examples: supporting teams in their daily work; tracking tech debt, defining tech debt reduction programs; performing technical due diligence; standardization of processes and documentation; defining cloud, data, and platform strategies.]]></summary></entry><entry><title type="html">Value of Grounded Architecture Structure</title><link href="http://localhost:4000/value" rel="alternate" type="text/html" title="Value of Grounded Architecture Structure" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/value</id><content type="html" xml:base="http://localhost:4000/value"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/gold-gd9bc167a4_1920.jpg" /></p>
+</ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[The Architecture Activities Platform is the place where, by leveraging data and People Foundations, we performed activities that help an organization to reach it goals. Here are some examples: supporting teams in their daily work; tracking tech debt, defining tech debt reduction programs; performing technical due diligence; standardization of processes and documentation; defining cloud, data, and platform strategies.]]></summary></entry><entry><title type="html">Value of Grounded Architecture Structure</title><link href="http://localhost:4000/value" rel="alternate" type="text/html" title="Value of Grounded Architecture Structure" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/value</id><content type="html" xml:base="http://localhost:4000/value"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/gold-gd9bc167a4_1920.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/nl/users/mwewering-185784/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2800315">Matthias Wewering</a> from <a href="https://pixabay.com/nl//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2800315">Pixabay</a>
 </div>
@@ -1066,8 +1066,8 @@ When Grounded Architecture structure is in place, it can have a significant posi
 <p>Grounded Architecture structure can enable architecture functions to operate at scale in the following ways.</p>
 
 <ul>
-  <li><strong>The <a href="data">Data Pillar</a></strong> can support working at scale when implemented with a high level of <strong>automation</strong> (as manual effort does not scale) and when data are provided to the organization as a <strong>self-service</strong> (so that we do not rely on manual work or meetings to share the date). Data Pillar tools and insights it displays can reach thousands of people in an organization, e.g., via an internal website. Having such tools has removed the need for hundreds of information-sharing or data-gathering meetings and workshops in my work (that do not scale).</li>
-  <li><strong>The <a href="people">People Pillar</a></strong> can help execution at scale by developing connections at all levels of the organization, <strong>speeding up alignment, information sharing, and the execution</strong> of shared decisions.</li>
+  <li><strong>The <a href="data">Data Foundation</a></strong> can support working at scale when implemented with a high level of <strong>automation</strong> (as manual effort does not scale) and when data are provided to the organization as a <strong>self-service</strong> (so that we do not rely on manual work or meetings to share the date). Data Foundation tools and insights it displays can reach thousands of people in an organization, e.g., via an internal website. Having such tools has removed the need for hundreds of information-sharing or data-gathering meetings and workshops in my work (that do not scale).</li>
+  <li><strong>The <a href="people">People Foundation</a></strong> can help execution at scale by developing connections at all levels of the organization, <strong>speeding up alignment, information sharing, and the execution</strong> of shared decisions.</li>
   <li><strong>The <a href="activities-platform">Architecture Activities Platform</a></strong> enables execution at scale by promoting an operating model that <strong>distributes decision-making</strong> across the organization. In that way, more people can make decisions, removing a bottleneck that centralized decision-making would create.</li>
 </ul>
 
@@ -1083,8 +1083,8 @@ Image by <a href="https://pixabay.com/users/wikiimages-1897/?utm_source=link-att
 <p>The three elements of the Grounded Architecture structure provide a highly flexible and adaptive setting. This adaptivity is driven by the independence of these elements and the possibility of using the elements in different combinations. Here are some of the critical drivers of flexibility:</p>
 
 <ul>
-  <li><strong>The <a href="data">Data Pillar</a></strong>, if implemented with a high level of automation, allows for <strong>quick extensions and reconfigurations</strong> to provide data for any organizational change. For instance, extending the platform, e.g., with additional analyses of new source code repositories and new data after acquisitions or mergers. A robust, automated Data Pillar provides crucial connections and feedback, adapting ints views to the changing daily reality of each part of the organization.</li>
-  <li><strong>Having the <a href="people">People Pillar</a></strong> enables a more flexible and sustainable architectural function. A central team can help <strong>mitigate distributed teams’ temporary lack of capacity</strong>. And with well-connected architects, the architecture function can still <strong>benefit the organization without a strong central team</strong>.</li>
+  <li><strong>The <a href="data">Data Foundation</a></strong>, if implemented with a high level of automation, allows for <strong>quick extensions and reconfigurations</strong> to provide data for any organizational change. For instance, extending the platform, e.g., with additional analyses of new source code repositories and new data after acquisitions or mergers. A robust, automated Data Foundation provides crucial connections and feedback, adapting ints views to the changing daily reality of each part of the organization.</li>
+  <li><strong>Having the <a href="people">People Foundation</a></strong> enables a more flexible and sustainable architectural function. A central team can help <strong>mitigate distributed teams’ temporary lack of capacity</strong>. And with well-connected architects, the architecture function can still <strong>benefit the organization without a strong central team</strong>.</li>
   <li><strong>The <a href="activities-platform">Architecture Activities Platform</a></strong> can support adaptivity through its <strong>flexible setting</strong> and by distributing decision-making across the company. This way, we can avoid an architecture function becoming a simple point of failure and a bottleneck.</li>
 </ul>
 
@@ -1102,8 +1102,8 @@ Image by <a href="https://pixabay.com/users/painter06-3732158/?utm_source=link-a
 <p>There are significant benefits to making our decision process as much as possible data-driven. Architectural <strong>discussions can be heated and opinionated</strong>, not leading to the best arguments and decisions. Maintaining high-quality data on relevant internal and external technology developments is one of the critical tasks for architects.</p>
 
 <ul>
-  <li><strong>The <a href="data">Data Pillar</a></strong> can ensure <strong>having ready any data</strong> needed for decisions, fueling data-informed discussions and decision-making.</li>
-  <li><strong>The <a href="people">People Pillar</a></strong> ensures <strong>having the right people</strong> available and well-connected for sharing information and making decisions.</li>
+  <li><strong>The <a href="data">Data Foundation</a></strong> can ensure <strong>having ready any data</strong> needed for decisions, fueling data-informed discussions and decision-making.</li>
+  <li><strong>The <a href="people">People Foundation</a></strong> ensures <strong>having the right people</strong> available and well-connected for sharing information and making decisions.</li>
   <li><strong>The <a href="activities-platform">Architecture Activities Platform</a></strong> provides processes enabling architects to move away from opinion-based decisions to data-driven economic risk modeling. Such processes can help architects to achieve the following:
     <ul>
       <li><strong>dismantle hype and buzzwords</strong>, present the problem in clear terms, understandable to a broader audience</li>
@@ -1125,8 +1125,8 @@ Image by <a href="https://pixabay.com/users/qimono-1962238/?utm_source=link-attr
 <p>Misalignment frequently happens in big organizations. Grounded Architecture structures can minimize such misalignments via the following:</p>
 
 <ul>
-  <li><strong>The <a href="data">Data Pillar</a></strong> can increase organizational alignment by <strong>creating transparency</strong>.</li>
-  <li><strong>The <a href="people">People Pillar</a></strong> develops global structures to connect people and <strong>make it easier for them to collaborate</strong>.</li>
+  <li><strong>The <a href="data">Data Foundation</a></strong> can increase organizational alignment by <strong>creating transparency</strong>.</li>
+  <li><strong>The <a href="people">People Foundation</a></strong> develops global structures to connect people and <strong>make it easier for them to collaborate</strong>.</li>
   <li><strong>The <a href="activities-platform">Architecture Activities Platform</a></strong> provides processes helping people to increase alignment, both before and after making decisions:
     <ul>
       <li><strong>Before making a decision</strong>, people starting to work simultaneously on the same topics can decide to work together, minimize effort duplication, and in that way, save time and resources.</li>
@@ -1154,8 +1154,8 @@ Image by iStock
 <p>The Grounded Architecture structure can support learning in multiple ways:</p>
 
 <ul>
-  <li><strong>The <a href="data">Data Pillar</a></strong> can accelerate learning and adopting new technologies by providing more <strong>data to facilitate reflection and exploration</strong>.</li>
-  <li><strong>The <a href="people">People Pillar</a></strong> can create <strong>spaces for sharing knowledge</strong> about architecture and technology. These spaces include but are not limited to regular update calls, knowledge-sharing sessions, or conferences. In addition to creating spaces as a community, it can further increase our learning value by deriving generalized insights from cross-group cases.</li>
+  <li><strong>The <a href="data">Data Foundation</a></strong> can accelerate learning and adopting new technologies by providing more <strong>data to facilitate reflection and exploration</strong>.</li>
+  <li><strong>The <a href="people">People Foundation</a></strong> can create <strong>spaces for sharing knowledge</strong> about architecture and technology. These spaces include but are not limited to regular update calls, knowledge-sharing sessions, or conferences. In addition to creating spaces as a community, it can further increase our learning value by deriving generalized insights from cross-group cases.</li>
   <li><strong>The <a href="activities-platform">Architecture Activities Platform</a></strong> can accelerate learning by <strong>embedding it into processes</strong> and distributing them across the organization. By defining processes to facilitate sharing knowledge and lessons learned, we can maximize learning while creating a minimal overhead.</li>
 </ul>
 
@@ -1166,13 +1166,13 @@ Image by iStock
 <ul>
   <li><em>How effective is your organization’s current architectural function at scale? How valuable are principles of Grounded Architecture to enhance its efficiency?</em></li>
   <li><em>To what extent does your organization use data to inform architectural decisions? What steps could you take to move your organization from opinion-based to more data-driven decision-making?</em></li>
-  <li><em>How well-aligned are the different areas within your organization, and how does this affect your architectural function? Could the Data and People Pillars principles be utilized to improve alignment?</em></li>
+  <li><em>How well-aligned are the different areas within your organization, and how does this affect your architectural function? Could the Data and People Foundations principles be utilized to improve alignment?</em></li>
   <li><em>What strategies does your organization currently have to foster organizational learning? How could the methods described in the Grounded Architecture model enhance this?</em></li>
   <li><em>How quickly can your organization adopt and utilize new technologies? How could your architecture practice accelerate this process?</em></li>
   <li><em>Consider the adaptivity of your organization’s architectural function. How could your architecture practice improve it?</em></li>
-  <li><em>Reflecting on the value of the “Data Pillar” concept, how effectively is your organization tracking changes, supporting what-if scenario analysis, and defining baselines?</em></li>
+  <li><em>Reflecting on the value of the “Data Foundation” concept, how effectively is your organization tracking changes, supporting what-if scenario analysis, and defining baselines?</em></li>
   <li><em>What role does the Chief Architect play in your organization? Could their time be better utilized on strategic initiatives?</em></li>
-  <li><em>How sustainable is the architectural function in your organization in the absence of a strong central team? Could implementing a Data Pillar and well-connected architects help mitigate this?</em></li>
+  <li><em>How sustainable is the architectural function in your organization in the absence of a strong central team? Could implementing a Data Foundation and well-connected architects help mitigate this?</em></li>
 </ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[When Grounded Architecture structure is in place, it can have a significant positive impact on the functioning of an organization: Executing At Scale, Adaptivity, Increasing the Quality of Decision-Making with Data, Maximizing Organizational Alignment & Learning.]]></summary></entry><entry><title type="html">Being Architect: Introduction</title><link href="http://localhost:4000/being-architect" rel="alternate" type="text/html" title="Being Architect: Introduction" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/being-architect</id><content type="html" xml:base="http://localhost:4000/being-architect"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/architect-3979490_1920.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/borevina-9505414/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3979490">Borko Manigoda</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3979490">Pixabay</a>

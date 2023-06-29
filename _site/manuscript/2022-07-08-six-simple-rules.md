@@ -3,7 +3,6 @@
 # Managing Organizational Complexity: Six Simple Rules {#six-simple-rules}
 
 ![](assets/images/arch/spices-g253b7ca36_1920.jpg)
-
 ^image by nat aggiato from pixabay^
 
 **IN THIS SECTION, YOU WILL:**  Get an introduction to Six Simple Rules, a model for setting up organizational structures based on cooperation.
@@ -59,7 +58,6 @@ This difference between **Autonomy** and **Self-Sufficiency** leads us to the se
 First rule states that you need to truly understand performance: **what people do** and **why they do it**. When you understand why people do what they do and how it drives performance, you can define the **minimum sufficient set of interventions with surgical accuracy**. 
  
 ![](assets/images/arch/iStock-1179186162.jpg)
-
 ^image by istock^
 
 ### General Guidelines
@@ -73,7 +71,7 @@ The Six Simple Rules approach states that you can truly understand performance b
 ### The Role of Architecture
 
 I have found architecture function can be very helpful in understand what people really do in organizations in two ways: 
-* Having a **[Data Pillar](#data)** with an **overview of various data sources** can show where activities are happening, what trends are visible, and how people cooperate. One of the principles of the Data Pillar **build maps, not control units** supports understanding and orientation rather than being a simple metric tool.
+* Having a **[Data Foundation](#data)** with an **overview of various data sources** can show where activities are happening, what trends are visible, and how people cooperate. One of the principles of the Data Foundation **build maps, not control units** supports understanding and orientation rather than being a simple metric tool.
 * Leveraging the **[People Pillar](#people)** to **connect people** and enables them to **learn what is happening** in different parts of the organization.
 
 ## Simple Rule 2: Reinforce Integrators
@@ -81,7 +79,6 @@ I have found architecture function can be very helpful in understand what people
 Reinforce integrators by looking at those **directly involved in the work**, giving them **power and interest to foster cooperation in dealing with complexity** instead of resorting to the paraphernalia of overarching hierarchies, overlays, dedicated interfaces, balanced scorecards, or coordination procedures.
  
 ![](assets/images/arch/agree-g1f407320e_1920.png)
-
 ^image by robert owen-wahl from pixabay^
 
 ### General Guidelines
@@ -96,14 +93,13 @@ You can reinforce integrators by:
 Architecture function, in my view, is strongly related to reinforcing integrators: 
 * Via the **[People Pillar](#people)**, Grounded Architecture can **help identify integrators** and connect them to leverage their work. 
 * Furthermore, my view on architects as **[superglue](#superglue)** defines architects as **critical integrators** and **integrator role-models** in an organization. 
-* And having a **[Data Pillar](#data)** can **support integrators with data and insights**, empowering them to do better, more informed work.
+* And having a **[Data Foundation](#data)** can **support integrators with data and insights**, empowering them to do better, more informed work.
 
 ## Simple Rule 3: Increase the Total Quantity of Power
 
 Whenever you consider an **addition to** your organization’s **structure, processes, and systems**, think about **increasing the quantity of power**. Doing so may **save you from increasing complicatedness** and enable you to achieve a more significant impact with less cost. You can increase the quantity of power by enabling some functions to have an influence on new stakes that matter to others and performance. 
 
 ![](assets/images/arch/iStock-1201215883.jpg)
-
 ^image by istock^
 
 ### General Guidelines
@@ -118,14 +114,13 @@ To increase the quantity of power, the Six Simple Rules approach recommends the 
 
 Architecture supports increasing power quantity with the **[operating model](#activities-platform)** that promotes distributing decision-making: 
 * We aimed to increase the quantity of the **decision-making power** and keep architectural decision-making **distributed across the organization** and embedded in the development teams. Development teams traditionally have the best insights and most information relevant for making a decision. 
-* Additionally, the **[Data Pillar](#data)** accessible to all interested people in the organization, can give them **data in insights that can increase their power in daily work**.
+* Additionally, the **[Data Foundation](#data)** accessible to all interested people in the organization, can give them **data in insights that can increase their power in daily work**.
 
 ## Simple Rule 4: Increase Reciprocity
 
 In the face of business complexity, work is becoming more inter-dependent. To meet multiple and often contradictory performance requirements, **people need to rely more on each other**. They need to **cooperate directly** instead of relying on dedicated interfaces, coordination structures or procedures that only add to complicatedness. 
 
 ![](assets/images/arch/iStock-1072898930.jpg)
-
 ^image by istock / natnan srisuwan.^
 
 ### General Guidelines
@@ -147,7 +142,6 @@ Six Simple Rules emphasize the importance of making visible and clear **what hap
  
 
 ![](assets/images/arch/trees-gc38b3c617_1920.jpg)
-
 ^image by joe from pixabay^
 
 ### General Guidelines
@@ -161,7 +155,7 @@ The Six Simple Rules approach identifies four ways to extend the shadow of the f
 ### The Role of Architecture
 
 The architecture can extend the shadow of the future in multiple ways: 
-* The **[Data Pillar](#data)** can create **transparency** and provides data necessary to **model the future**. I've used such data to create many **simulations and roadmap** options. 
+* The **[Data Foundation](#data)** can create **transparency** and provides data necessary to **model the future**. I've used such data to create many **simulations and roadmap** options. 
 * The principle of applying **[economic modeling](#economics)** to architecture decision-making directly supports describing what happens tomorrow as a consequence of what they do today. 
 
 ## Simple Rule 6: Reward Those Who Cooperate
@@ -169,7 +163,6 @@ The architecture can extend the shadow of the future in multiple ways:
 Lastly, the Six Simple Rules approach recommends that when you cannot create direct feedback loops embedded in people’s tasks, you need **management’s intervention to close the loop**. Managers must then use the familiar performance evaluation tool but in a very different way. 
 
 ![](assets/images/arch/people-gac98109e9_1920.jpg)
-
 ^image by stocksnap from pixabay^
 
 ### General Guidelines
@@ -183,7 +176,7 @@ To reward those who cooperate managers:
 
 **Architecture** function can help rewarding cooperation by making it easier for everyone to **help other people and ask for help**. 
 * Having a strong **[People Pillar](#people)** can provide the context and **networks of people** to more easily collaborate. 
-* Adding diverse data sources in the **[Data Pillar](#data)** can help creating **transparency about cooperation** opportunities and problems.
+* Adding diverse data sources in the **[Data Foundation](#data)** can help creating **transparency about cooperation** opportunities and problems.
 
 ## To Probe Further
 

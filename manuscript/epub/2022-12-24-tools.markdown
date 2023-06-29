@@ -16,7 +16,7 @@ Sokrates can help you understand your code by making visible the size, complexit
 {width: "20%"}
 ![](assets/images/books/productivity_tools.png)
 
-**[Productivity Tools](https://obren.io/tools)**: a collection of online tools I built to help me in my daily work as an architect. I reuse these tools and lessons learned in building these tools when designing data pillar parts of the grounded architecture.
+**[Productivity Tools](https://obren.io/tools)**: a collection of online tools I built to help me in my daily work as an architect. I reuse these tools and lessons learned in building these tools when designing Data Foundation parts of the grounded architecture.
 
 * * *
 

@@ -8,7 +8,7 @@ author: by Željko Obrenović (obren.io)
 permalink: activities-platform
 icon: activities.png
 timetoread: 15 min
-excerpt: "The Architecture Activities Platform is the place where, by leveraging data and People Pillars, we performed activities that help an organization to reach it goals. Here are some examples: supporting teams in their daily work; tracking tech debt, defining tech debt reduction programs; performing technical due diligence; standardization of processes and documentation; defining cloud, data, and platform strategies."
+excerpt: "The Architecture Activities Platform is the place where, by leveraging data and People Foundations, we performed activities that help an organization to reach it goals. Here are some examples: supporting teams in their daily work; tracking tech debt, defining tech debt reduction programs; performing technical due diligence; standardization of processes and documentation; defining cloud, data, and platform strategies."
 
 ---
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
@@ -20,7 +20,7 @@ Image by <a href="https://pixabay.com/users/cocoparisienne-127419/?utm_source=li
 >
 > **KEY POINTS:**
 >
-> * The Architecture Activities Platform is a system of processes and agreements enabling architects to do everything architecture typically does, leveraging data and People Pillars to create a data-informed, organization-wide impact.
+> * The Architecture Activities Platform is a system of processes and agreements enabling architects to do everything architecture typically does, leveraging data and People Foundations to create a data-informed, organization-wide impact.
 > * Examples of activities include: supporting teams in their daily work; tracking tech debt, defining tech debt reduction programs; performing technical due diligence; standardization of processes and documentation; defining cloud, data, and platform strategies.
 <style>
  .quote {
@@ -53,7 +53,7 @@ Considering the previous two points from Gregor Hohpe, I approach defining an ar
 There is no one-size-fits-all approach: each organization must find activities and operating models to enable architecture to work on the most critical problems. 
 </div>
 
-Each organization will need to figure out which architecture operating model to adopt. To create a **sustainable and practical architecture function**, you must develop explicit agreements and "rules of engagement" with key stakeholders. The Architecture Activities Platform (Figure 1) is an organization-specific set of **processes and agreements** that creates a space for architecture to do everything architecture typically does, leveraging data and People Pillars to create a data-informed, organization-wide impact. In all these activities, data and people posts provide foundations for data-informed decision-making well-embedded in the organization.
+Each organization will need to figure out which architecture operating model to adopt. To create a **sustainable and practical architecture function**, you must develop explicit agreements and "rules of engagement" with key stakeholders. The Architecture Activities Platform (Figure 1) is an organization-specific set of **processes and agreements** that creates a space for architecture to do everything architecture typically does, leveraging data and People Foundations to create a data-informed, organization-wide impact. In all these activities, data and people posts provide foundations for data-informed decision-making well-embedded in the organization.
 
 
 <br>
@@ -88,7 +88,7 @@ Inspired by Gregor Hohpe's strategy-principles-decisions model, I typically used
 * Architects engage with stakeholders and product and project teams in a **collaborative and supportive manner**.
 * Architects are **empowering the teams** so that they make most of the decisions.
 * In all activities, architects do: 
-  * **Bring relevant data** to inform decisions leveraging the [Data Pillar](data).
+  * **Bring relevant data** to inform decisions leveraging the [Data Foundation](data).
   * **Define decision boundaries** to enable the minimal level of compatibility and strategic alignment (e.g., public cloud provider, tech stack constraints).
   * **Define key principles** to facilitate consistency in decision-making.
   * **Share and generalize** lessons learned.

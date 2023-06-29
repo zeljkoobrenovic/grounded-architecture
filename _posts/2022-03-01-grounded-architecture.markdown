@@ -8,7 +8,7 @@ author: by Željko Obrenović (obren.io)
 permalink: grounded-architecture
 icon: bridge.png
 timetoread: 15 min
-excerpt: "I introduce three elements of Grounded Architecture: The Data Pillar, The People Pillar, The Architecture Activities Platform."
+excerpt: "I introduce three elements of Grounded Architecture: The Data Foundation, The People Foundation, The Architecture Activities Platform."
 
 ---
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
@@ -16,11 +16,11 @@ excerpt: "I introduce three elements of Grounded Architecture: The Data Pillar, 
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/ichigo121212-11728/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=205986">Ichigo121212</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=205986">Pixabay</a>
 </div>
-> **IN THIS SECTION, YOU WILL:** Get an overview of the Grounded Architecture structure: Data Pillar, People Pillar, and Architecture Activities Platform.
+> **IN THIS SECTION, YOU WILL:** Get an overview of the Grounded Architecture structure: Data Foundation, People Foundation, and Architecture Activities Platform.
 >
 > **KEY POINTS:**
 >
-> * I introduce three elements of Grounded Architecture: The Data Pillar, The People Pillar, The Architecture Activities Platform.
+> * I introduce three elements of Grounded Architecture: The Data Foundation, The People Foundation, The Architecture Activities Platform.
 <style>
  .quote {
      border-left: 8px solid skyblue;
@@ -46,19 +46,19 @@ I chose the term "Grounded Architecture" to highlight that the primary goal of m
 </div>
 
 Grounded Architecture as an approach to setting organizational structures for architecture practice has three elements:
-* The Data Pillar,
-* The People Pillar,
+* The Data Foundation,
+* The People Foundation,
 * The Architecture Activities Platform.
 
 
 ![](assets/images/model.png)
 ***Figure 1:** The structure of Grounded Architecture.*
 
-The *Data Pillar* is **a system of tools and resources** that enables architects to make **data-informed decisions** based on a real-time and complete overview of the organization's technology landscape. The [Data Pillar section](data) provides more details.
+The *Data Foundation* is **a system of tools and resources** that enables architects to make **data-informed decisions** based on a real-time and complete overview of the organization's technology landscape. The [Data Foundation section](data) provides more details.
 
-The *People Pillar* is **a network of people** doing architecture across the organization. This Pillar is crucial to ensure that architecture function has any **tangible impact**. As noted by Gregor Hohpe, to transform an organization, you do not need to solve mathematical equations; you need to move people. The [People Pillar section](people) provides more details.
+The *People Foundation* is **a network of people** doing architecture across the organization. This Pillar is crucial to ensure that architecture function has any **tangible impact**. As noted by Gregor Hohpe, to transform an organization, you do not need to solve mathematical equations; you need to move people. The [People Foundation section](people) provides more details.
 
-Lastly, the *Architecture Activities Platform* defines **a set of processes and agreements** enabling architects to do everything that architecture typically does, leveraging data and People Pillars to create a data-informed, organization-wide impact. The [Architecture Activites Platform section](activities-platform) provides more details on Architecture Activities Platform. 
+Lastly, the *Architecture Activities Platform* defines **a set of processes and agreements** enabling architects to do everything that architecture typically does, leveraging data and People Foundations to create a data-informed, organization-wide impact. The [Architecture Activites Platform section](activities-platform) provides more details on Architecture Activities Platform. 
 
-The Architecture Activities Platform is **only valid with the healthy Data and People Pillars**. Without data and people connections, an Architecture Activities Platform becomes an ivory tower institution, generating opinion-based decisions disconnected from reality.
+The Architecture Activities Platform is **only valid with the healthy Data and People Foundations**. Without data and people connections, an Architecture Activities Platform becomes an ivory tower institution, generating opinion-based decisions disconnected from reality.
 

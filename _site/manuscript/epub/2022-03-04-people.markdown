@@ -89,7 +89,7 @@ similar topics.
 The roles of people in central teams may differ depending on the organization. In addition to doing typical architecture
 work, I found it helpful to be able to have people that can cover the following types of responsibilities:
 
-* **Build and maintain the architecture [Data Pillar](#data).** Building a data pillar will not happen by
+* **Build and maintain the architecture [Data Foundation](#data).** Building a Data Foundation will not happen by
   accident. It requires clear ownership, curation, and technical support.
 * **Promote data-informed decision-making.** identify, collect, and use relevant data. Only some people are used to
   applying data in their decision-making. Architects should provide support and be a role-model for data-informed

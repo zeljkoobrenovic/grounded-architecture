@@ -28,11 +28,11 @@ This simple cheatsheet serves as a reference guide for topics discussed in follo
  
 ## Grounded Architecture Structure 
 
-### Data Pillar
+### Data Foundation
 
-* The architecture data pillar serves as a medium to create a complete, up-to-date picture of critical elements of technology landscapes of big organizations. 
-* The data pillar provides an architecture-centric view on data about a technology landscape based on source code analyses, public cloud billing reports, vibrancy reports, or incident tickets.
-* To facilitate creation of data pillars, I have been working on development open-source tools, such as [Sokrates](https://sokrates.dev), that can help obtain valuable architectural insights from data sources, such as source code repositories.
+* The architecture Data Foundation serves as a medium to create a complete, up-to-date picture of critical elements of technology landscapes of big organizations. 
+* The Data Foundation provides an architecture-centric view on data about a technology landscape based on source code analyses, public cloud billing reports, vibrancy reports, or incident tickets.
+* To facilitate creation of Data Foundations, I have been working on development open-source tools, such as [Sokrates](https://sokrates.dev), that can help obtain valuable architectural insights from data sources, such as source code repositories.
 
 ### People Pillar
 * Developing the architecture function requires having competent, empowered, and motivated architects. Any architecture function must carefully organize, empower,

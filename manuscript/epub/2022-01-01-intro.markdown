@@ -18,14 +18,14 @@ Grounded Architecture has two main parts:
 * **Reflections**, where you will learn guiding principles that can help you put the ideas of Grounded Architecture into practice.
 
 Figure 1 shows the structure of the Grounded Architecture consisting of three elements:
-* [Data Pillar](#data),
+* [Data Foundation](#data),
 * [People Pillar](#people),
 * [Architecture Activities Platform](#activities-platform).
 
 ![](assets/images/model.png)
 ***Figure 1:** The structure of Grounded Architecture.*
 
-The *[Data Pillar](#data)* ensures that architects' decisions are data-informed, based on an up-to-date and complete overview of the organization's technology landscape.
+The *[Data Foundation](#data)* ensures that architects' decisions are data-informed, based on an up-to-date and complete overview of the organization's technology landscape.
 
 The *[People Pillar](#people)* represents a strong network of people doing architecture across the organization that is crucial to ensure that architecture function has any tangible impact.
 
@@ -76,7 +76,7 @@ Many other sources have influenced my work. Some of them are in the [Bookshelf s
 
 The work presented in this book builds on several years of my experience. Most of this work results from my current work as a Chief Architect at AVIV Group and previous works as a Principal Architect for eBay Classifieds and Adevinta.
 
-Another vital part of my experience that shaped this book was my earlier experience as a consultant and analyst at the Software Improvement Group. I've learned the value and pragmatics of data-informed decision-making. As a spin-off of this work, I've also built a tool called [Sokrates](sokrates.dev), which enable efficient and pragmatic extraction of data about technology and organization from source code. This work has directly influenced my view on the architecture [data pillar](#data).
+Another vital part of my experience that shaped this book was my earlier experience as a consultant and analyst at the Software Improvement Group. I've learned the value and pragmatics of data-informed decision-making. As a spin-off of this work, I've also built a tool called [Sokrates](sokrates.dev), which enable efficient and pragmatic extraction of data about technology and organization from source code. This work has directly influenced my view on the architecture [Data Foundation](#data).
 
 My experience as a CTO of [Incision](https://incision.care), a startup, has helped me better understand the difficulties and pragmatics of creating and running an IT organization.
 
@@ -118,7 +118,7 @@ When writing this book, I had a broad audience in my mind. The article should be
 
 I have organized the book into several main parts. In the introductory part, I describe the context in which my ideas have developed. 
 
-In the second part, I discuss the Grounded Architecture structure describing its three elements: the data pillar, the people pillar, and the Architecture Activities Platform. 
+In the second part, I discuss the Grounded Architecture structure describing its three elements: the Data Foundation, the people pillar, and the Architecture Activities Platform. 
 
 In the third part, I talk about the Reflections of Grounded Architecture, grouped int to sections: Being Architect and Doing Architecture. 
 
