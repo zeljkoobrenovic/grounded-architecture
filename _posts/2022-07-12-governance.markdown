@@ -43,7 +43,7 @@ Image by <a href="https://pixabay.com/nl/users/nonbirinonko-3101900/?utm_source=
 
 Grounded Architecture supports governance models adaptable to organizations' complex and diverse needs. By governing, I mean guiding technology **choices in the organization in a particular direction** aligned with the strategy. I see a technology governance model as a well-balanced hybrid of three different styles of governing:
 * **mandates and bans**,
-* taxes**, and
+* **taxes**, and
 * **nudging**.
 
 Grounded Architecture supports governance models that are **adaptable to the complex and diverse needs** of organizations.
