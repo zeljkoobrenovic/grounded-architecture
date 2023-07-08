@@ -8,7 +8,7 @@ author: by Željko Obrenović (obren.io)
 permalink: grounded-architecture
 icon: bridge.png
 timetoread: 15 min
-excerpt: "I introduce three elements of Grounded Architecture: The Data Foundation, The People Foundation, The Architecture Activities Platform."
+excerpt: "I introduce three elements of Grounded Architecture: The Data Foundation, The People Foundation, and The Architecture Activities Platform."
 
 ---
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
@@ -20,8 +20,8 @@ Image by <a href="https://pixabay.com/users/ichigo121212-11728/?utm_source=link-
 >
 > **KEY POINTS:**
 >
-> * I introduce three elements of Grounded Architecture: The Data Foundation, The People Foundation, The Architecture Activities Platform.
-> * Prioritizing people interactions and data over processes and tools, Grounded Architecture aims to connect architecture practice to all organizational parts and levels, serving as an antidote to the "ivory tower" architecture.
+> * I introduce three elements of Grounded Architecture: The Data Foundation, The People Foundation, and The Architecture Activities Platform as an approach to setting organizational structures for running a modern architecture practice.
+> * Prioritizing people interactions and data over processes and tools, Grounded Architecture aims to connect architecture practice to all organizational levels as an antidote to the "ivory tower" architecture.
 <style>
  .quote {
      border-left: 8px solid skyblue;
@@ -40,13 +40,15 @@ Image by <a href="https://pixabay.com/users/ichigo121212-11728/?utm_source=link-
 </style>
 
 <br>
-In this part, I will introduce the structure of Grounded Architecture. I chose the term "Grounded Architecture" to highlight that the primary goal of my approach is **avoiding having an "ivory tower" architecture function** disconnected from the organization, which in a [fast-moving, global, and diverse setting](context) is a real danger. In other words, I wanted to create an architectural function that is **well grounded in the organization**.
+In this part, I will briefly introduce the structure of Grounded Architecture. I chose the term "Grounded Architecture" to highlight that the primary goal of my approach is **avoiding having an "ivory tower" architecture function** disconnected from the organization, which, in a [fast-moving, global, and diverse setting](context), is a real danger. In other words, I wanted to create an architectural function that is **well-grounded in the organization**.
 
 <div class="quote">
-I chose the term "Grounded Architecture" to highlight that the primary goal of my approach is to avoid having an "ivory tower" architecture function disconnected from the organization. I wanted to create an architectural function that is well-grounded in the organization.
+I chose the term "Grounded Architecture" to highlight that the primary goal of my approach is to avoid having an "ivory tower" architecture function disconnected from the organization. I wanted to create an architectural practice that is well-grounded in the organization.
 </div>
 
-Prioritizing people interactions and data over processes and tools, Grounded Architecture aims to connect architecture practice to all organizational parts and levels, serving as an antidote to the "ivory tower" architecture. Grounded Architecture as an approach to setting organizational structures for architecture practice has three elements:
+Prioritizing people interactions and data over processes and tools, Grounded Architecture aims to connect architecture practice to all organizational parts and levels, serving as an antidote to the "ivory tower" architecture. 
+
+Grounded Architecture as an approach to setting organizational structures for architecture practice has three elements:
 * The Data Foundation,
 * The People Foundation,
 * The Architecture Activities Platform.
@@ -59,7 +61,8 @@ The *Data Foundation* is **a system of tools and resources** that enables archit
 
 The *People Foundation* is **a network of people** doing architecture across the organization. This Pillar is crucial to ensure that architecture function has any **tangible impact**. As noted by Gregor Hohpe, to transform an organization, you do not need to solve mathematical equations; you need to move people. The [People Foundation section](people) provides more details.
 
-Lastly, the *Architecture Activities Platform* defines **a set of processes and agreements** enabling architects to do everything that architecture typically does, leveraging data and People Foundations to create a data-informed, organization-wide impact. The [Architecture Activites Platform section](activities-platform) provides more details on Architecture Activities Platform. 
+Lastly, the *Architecture Activities Platform* defines **a set of processes and agreements** enabling architects to do everything that architecture typically does, leveraging data and People Foundations to create a data-informed, organization-wide impact. The [Architecture Activities Platform section](activities-platform) provides more details on the Architecture Activities Platform. 
 
 The Architecture Activities Platform is **only valid with the healthy Data and People Foundations**. Without data and people connections, an Architecture Activities Platform becomes an ivory tower institution, generating opinion-based decisions disconnected from reality.
+
 

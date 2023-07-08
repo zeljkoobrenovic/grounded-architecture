@@ -51,23 +51,23 @@ More specifically, I identified the following needs that an architecture functio
 
 ### Goal 1: Executing At Scale
 
-We needed to find a way to support all of the hundreds of teams, and thousands of projects, with significant complexity and diversity.
+We needed to find a way to **support all** of the hundreds of teams, and thousands of projects, with significant complexity and diversity.
 
 ### Goal 2: Adaptivity
 
-Significant organic and inorganic changes are frequent and expected. The architecture function must adapt quickly to stay relevant in new contexts.
+Significant organic and inorganic changes are frequent and expected. The architecture function must **adapt quickly to stay relevant** in new contexts.
 
 ### Goal 3: Increasing Quality of Decisions with Data
 
-Intuition does not work at scale. We need tools and mechanisms to make a decision process more data-informed and less dependent on opinions. Furthermore, complex organizations' cultural and organizational diversity makes opinion-driven decision-making processes highly ineffective.
+Intuition does not work at scale. We need tools and mechanisms to make a decision process more data-informed and **less dependent on opinions**. Furthermore, complex organizations' cultural and organizational diversity makes opinion-driven decision-making processes highly ineffective.
 
 ### Goal 4: Maximizing Organizational Alignment
 
-Misalignment is a natural state in a global, diverse, fast-moving organization. The architecture function should be a cohesive factor in minimizing such misalignments. Otherwise, architecture may accelerate the creation of chaos.
+Misalignment is a natural state in a global, diverse, fast-moving organization. The architecture function should be **a cohesive factor in minimizing such misalignments**. Otherwise, architecture may accelerate the creation of chaos.
 
 ### Goal 5: Maximizing Organizational Learning
 
-In complex organizations with lots of effort needed to maintain legacy systems, learning and following new technology developments takes work. Architecture should help organizations to learn fast, stay up-to-date with emerging technologies and industry trends and recommend technology upgrades.
+In complex organizations with lots of effort needed to maintain legacy systems, learning and following new technology developments takes work. Architecture should **help organizations to learn fast**, stay up-to-date with emerging technologies and industry trends, and recommend technology upgrades.
 
 
 ## Questions to Consider

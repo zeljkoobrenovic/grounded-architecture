@@ -8,7 +8,7 @@ author: by Željko Obrenović (obren.io)
 permalink: being-architect
 icon: principles.png
 timetoread: 15 min
-excerpt: "I introduce guiding principles generalize my view on what it means to be an architect in practice."
+excerpt: "I introduce guiding principles that generalize my view on what it means to be an architect in practice."
 
 ---
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
@@ -32,13 +32,13 @@ Image by <a href="https://pixabay.com/users/borevina-9505414/?utm_source=link-at
         }
     }
 </style>
-> **IN THIS SECTION, YOU WILL:**  Get an overview of guiding principles generalize my view on what it means to be an architect in practice.
+> **IN THIS SECTION, YOU WILL:**  Get an overview of guiding principles that generalize my view on what it means to be an architect in practice.
 
 <br>
-The following guiding principles generalize my view on what it means to be an architect in practice. I use these resources for guiding and developing architects:
+In this part of the book, I introduce several guiding principles that generalize my view on what it means to be an architect in practice:
 
-* **[Architects as Superglue](superglue)**: Architects in IT organizations should develop as “superglue,” people who hold architecture, technical details, business needs, and people together across a large organization or complex projects.
-* **[Skills](impact)**: A typical skillset of an architects includes: hard (technical) skills, soft (people & social) skills, and business skills.
-* **[Impact](impact)**: Architects' work is evaluated based the impact they have had on the organization. They must demonstrate that they identify, tackle, and deliver on strategic problems, have a deep and/or broad influence, and deliver solutions that few others can.
-* **[Leadership](leadership)**: My view of architecture leadership is inspired by David Marquet’s work and the Netflix’s valued behaviors.
+* **[Architects as Superglue](superglue)**: Architects in IT organizations should develop as "superglue," people who hold architecture, technical details, business needs, and people together across a large organization or complex projects.
+* **[Skills](impact)**: A typical skillset of an architect includes: hard (technical) skills, soft (people & social) skills, and business skills.
+* **[Impact](impact)**: Architects' work is evaluated based on their impact on the organization. They must demonstrate that they identify, tackle, and deliver on strategic problems, have a deep and broad influence, and deliver solutions that few others can.
+* **[Leadership](leadership)**: My view of architecture leadership is inspired by David Marquet's work and Netflix's valued behaviors.
 * **[Architects' Career Paths: Raising the Bar](career)**: Architects' career paths ideally stem from a strong engineering background. Hiring architects requires constantly raising the bar to ensure a strong and diverse team structure.

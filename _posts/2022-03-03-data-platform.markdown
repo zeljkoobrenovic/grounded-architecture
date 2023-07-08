@@ -8,8 +8,7 @@ author: by Željko Obrenović (obren.io)
 permalink: data
 icon: curation.png
 timetoread: 15 min
-excerpt: The architecture Data Foundation serves as a medium to create a complete, up-to-date picture of critical elements of technology landscapes of big organizations. The platform provides an architecture-centric view on data about a technology landscape based on source code analyses, public cloud billing reports, vibrancy reports, or incident tickets.
-
+excerpt: The Data Foundation serves as a medium to create a complete, up-to-date picture of critical elements of the technology landscapes of big organizations. The platform provides an architecture-centric view of data about a technology landscape based on source code analyses, public cloud billing reports, vibrancy reports, or incident tickets.
 
 ---
 <img src="assets/images/arch/architecture-1857175_1920.jpg" 
@@ -22,8 +21,8 @@ Image by <a href="https://pixabay.com/users/3844328-3844328/?utm_source=link-att
 > **KEY POINTS:**
 >
 > * The architecture Data Foundation serves as a medium to create a complete, up-to-date picture of critical elements of technology landscapes of big organizations. 
-> * The Data Foundation provides an architecture-centric view on data about a technology landscape based on source code analyses, public cloud billing reports, vibrancy reports, or incident tickets.
-> * To facilitate creation of Data Foundations, I have been working on creating open-source tools, such as [Sokrates](https://sokrates.dev), that can help obtain valuable architectural insights from data sources, such as source code repositories.
+> * The Data Foundation provides an architecture-centric view of data about a technology landscape based on source code analyses, public cloud billing reports, vibrancy reports, or incident tickets.
+> * To facilitate the creation of a Data Foundation, I have been working on creating open-source tools, such as [Sokrates](https://sokrates.dev), that can help obtain valuable architectural insights from data sources, such as source code repositories.
 <style>
  .quote {
      border-left: 8px solid skyblue;
@@ -45,7 +44,7 @@ Image by <a href="https://pixabay.com/users/3844328-3844328/?utm_source=link-att
 > *"If we have data, let's look at data. If all we have are opinions, let's go with mine."* -— Jim Barksdale
 
 <br>
-In every place I worked on creating architectural functions, I strongly emphasized data. Moreover, in the past several years, I have been working on creating open-source tools, such as [Sokrates](https://sokrates.dev), that can help obtain valuable architectural insights from data sources, such as source code repositories or public cloud billing reports. Consequently, **one of the first steps I make in any architecture practice** is to create an architecture Data Foundation to get a complete, up-to-date picture of critical elements of the technology landscapes of an organization (Figure 1). **Manual documentation does not scale**, and relying on data ensures reliability and scalability. 
+I strongly emphasized data in every place I worked on creating architectural functions. Moreover, in the past several years, I have been working on creating open-source tools, such as [Sokrates](https://sokrates.dev), that can help obtain valuable architectural insights from data sources, such as source code repositories or public cloud billing reports. Consequently, **one of the first steps I make in any architecture practice** is to create an architecture Data Foundation to get a complete, up-to-date picture of critical elements of the technology landscapes of an organization (Figure 1). **Manual documentation does not scale**, and relying on data ensures the reliability and scalability of decision-making. 
 
 ![](assets/images/model-data.png)
 ***Figure 1:** The structure of Grounded Architecture: The Data Foundation.*
@@ -60,28 +59,28 @@ Manual documentation does not scale, and relying on data ensures reliability and
 <br>
 ## Requirements For A Data Foundation
 
-A Data Foundation should a central place with **authoritative, relevant, and curated data** about the organizational technology landscape. Technically, you can implement Data Foundation using simple tools like Google Drive, with documents organized in a folder or an internal website. I recommend investing some effort in creating better infrastructure, as it can enable more people to access and benefit from data. 
+A Data Foundation should be a central place with **authoritative, relevant, and curated data** about the organizational technology landscape. Technically, you can implement Data Foundation using simple tools like Google Drive, with documents organized in folders or as an internal website. I recommend investing some effort in creating better infrastructure and user experience, as it can enable more people to access and benefit from data. 
 
-Simply collecting and putting data in one place will not create any value. Regardless of how you implement your Data Foundation, with papers on the wall, in Google Drive, in Confluence, or with a nicely designed internal website, I have identified the following requirements for creating useful Data Foundations:
+Simply collecting and putting data in one place will not create any value. Regardless of how you implement your Data Foundation, with papers on the wall, in Google Drive, in Confluence, or with a nicely designed internal website, I have identified the following requirements that a Data Foundation needs to implement:
 
 * **It is the single point of truth** for all relevant architectural data. People should be able to go to one place and get the most relevant data. 
-* **It is curated for quality** so that people can trust the data. Simply dumping data into one area will not help. You need to own curation to ensure that data are correct. You also should provide links to data sources so people can verify the facts.
+* **It is curated for quality** so people can trust the data. Simply dumping data into one place will not help. You need to own curation to ensure that data are correct. You also should provide links to data sources so people can verify the facts.
 * **It is curated for usability** so people stay focused on valuable details. You must filter out useless or less relevant details, focusing on the essence. Investing in the UX design of documents or tools you create helps.
 * **It is kept up to date**, ideally in an automated fashion (or in a semi-automated repeatable way).
-* **It is accessible to the whole organization**. I genuinely believe that when you give employees access to information that is generally reserved for specialists, architects, or "higher levels," they get more done on their own. They can work faster without stopping to ask for information and approval. And they make better decisions without needing input from architects or the top.
-* **It is used in decision-making**. Having nicely curated and useful data has zero value if you cannot ensure that such data inform vital decisions. 
+* **It is accessible to the whole organization**. I genuinely believe that when you give employees access to information generally reserved for specialists, architects, or "higher levels," they get more done independently. They can work faster without stopping to ask for information and approval. And they make better decisions without needing input from architects or the top.
+* **It is used in decision-making**. Having nicely curated and valuable data has zero value if you cannot ensure that such data inform vital decisions. 
 
-My view of a Data Foundation is not to be a goal-setting framework or a control board. My vision for building the Data Foundation follows **the map-making metaphor**. Maps are one of the most critical documents in human history. They give us tools to store and exchange knowledge about space and place. While there are differences between maps and the layers they show, the one thing that all maps do is **provide readers with orientation**. A sense of place is central to meaning-making. Maps are also composed of multiple layers. Similarly, the architecture Data Foundation should give readers a sense of orientation, offering data layers about systems that describe their sizes, connections, quality, security, or human activity.
+My view of a Data Foundation differs from a goal-setting framework or a control board. My vision for building the Data Foundation follows **the map-making metaphor**. Maps are one of the most critical documents in human history. They give us tools to store and exchange knowledge about space and place. While there are differences between maps and the layers they show, the one thing that all maps do is **provide readers with orientation**. A sense of place is central to meaning-making. Maps are also composed of multiple layers. Similarly, the architecture Data Foundation should give readers a sense of orientation, offering data layers about systems that describe their sizes, connections, quality, security, or human activity.
 
 
 <br>
 ## Examples of Data Foundation Sources and Tools
 
-To illustrate what I mean by Data Foundation, I will give a few concrete examples from my recent work. Data I typically used include (Figure 2):
-* **Source code** contains an incredible amount of information about technology, people's activity, team dependencies, and the quality of software systems.
-* **Public cloud billing reports** provide an overview and trends about used cloud services, regions, and budgets.
-* **Incident reports** can reveal trends and dependencies among incidents.
-* **Key business metrics**, like vibrancy, can show user activity on our systems.
+To illustrate what I mean by Data Foundation, I will give a few concrete examples from my recent work. Data I typically used include (Figures 2 and 3):
+* **Source code**, which contains an incredible amount of information about technology, people's activity, team dependencies, and the quality of software systems.
+* **Public cloud billing reports**, which provide an overview and trends about used cloud services, regions, and budgets.
+* **Incident reports**, which can reveal trends and dependencies among incidents.
+* **Key business metrics**, like vibrancy, which can show user activity on our systems.
 * **Messaging and collaboration platform (such as Slack) activity reports**, which can help understand discussion topics and team interactions.
 
 In the following sections, I detail several of these architectural data-driven tools.
@@ -100,13 +99,13 @@ In the following sections, I detail several of these architectural data-driven t
 <br>
 ### Example 1: Source Code and Commit History
 
-I have repeatably found the source code to be an incredible source for creating data-driven architecture documentation. Source code and its commit history include an astonishing amount of information about technology, people activity, team dependencies, and the quality of software systems. I have started and still actively maintain the project [Sokrates](https://sokrates.dev), with the idea to help further **extract data from source code that can help my work as an architect**. I use Sokrates daily, improving it on the way.
+I have repeatably found the source code to be an excellent basis for creating data-driven architecture documentation. Source code and its commit history include an astonishing amount of information about technology, people activity, team dependencies, and the quality of software systems. As mentioned earlier in this chapter, I have started and still actively maintain the project [Sokrates](https://sokrates.dev), with the idea to help further **extract data from source code that can help my work as an architect**. I use Sokrates daily, improving it on the way.
 
 <div class="quote">
 Source code and its commit history include an astonishing amount of information about technology, people activity, team dependencies, and the quality of software systems.
 </div>
 
-I have designed Sokrates from an architect's point of view, enabling quick **zooming in and out into source code landscapes**. On the one hand, Sokrates provides a **high-level view** of the landscape, summarizing data from all teams and groups. At the same time, you can zoom in on the details of particular systems **to the code level**. That means you can use the same tools to have CTO-level discussions looking at overall trends in technology usage and costs. At the same time, I could engage with developers and discuss concrete code fragments and potential improvements in the code level (e.g., duplicated blocks, complex units, dependencies).
+I have designed Sokrates from an architect's point of view, enabling quick **zooming in and out into source code landscapes**. On the one hand, Sokrates provides a **high-level view** of the IT landscape, summarizing data from all teams and groups. At the same time, you can zoom in on the details of particular systems **to the code level**. That means you can use the same tools to have CTO-level discussions looking at overall trends in technology usage and costs. At the same time, I could engage with developers and discuss concrete code fragments and potential improvements in the code level (e.g., duplicated blocks, complex units, dependencies).
 
 The Appendix at the end of this section shows examples of some insights from source code analyses with Sokrates. For more complex examples of insights that Sokrates generates from source code, take a look at [Sokrates examples](https://www.sokrates.dev/), with analysis of complex open-source landscapes, such as:
 * [**Apache Software Foundation Repositories**](https://d3axxy9bcycpv7.cloudfront.net/asf/_sokrates_landscape/index.html), with aggregated multi-level analysis of more than 1,000 repositories with more than 180 million lines of code, more than 22,000 historical contributors, and 2.4 million commits.
@@ -118,7 +117,7 @@ The Appendix at the end of this section shows examples of some insights from sou
 
 
 In addition to standard source code and commit history analyses, I also have built several special source code analyses to get further details:
-* Travis and Jenkins files analyzers to understand how teams build CI/CD pipelines.
+* Travis and Jenkins analyzers to understand how teams build CI/CD pipelines.
 * Dockerfile scan to create a tech radar of runtime technologies.
 * GitHub API pull requests analyses to identify deployment frequency.
 
@@ -127,15 +126,15 @@ And I encourage you to experiment with your source-code analyses.
 <br>
 ### Example 2: Public Cloud Usage 
 
-Migrating to the public cloud can dramatically increase transparency thanks to uniform automation and monitoring. The **public cloud transparency** offers an incredible amount of valuable data out-of-box.
+Migrating to the public cloud can dramatically increase transparency thanks to uniform automation and monitoring. The **public cloud transparency** offers incredibly valuable data out-of-the-box.
+
+[Amazon Web Services (AWS)](https://aws.amazon.com), [Google Cloud Platform (GCP)](https://cloud.google.com/), [Microsoft Azure](https://azure.microsoft.com/), and other Public Cloud Providers give detailed data about which platform uses which services, resource family, and budget. You can also understand which people and teams have access to each service. Getting real-time information about cloud usage and automatically understanding the trends is straightforward.
 
 Figure 4 shows the anonymous screenshot of the Cloud usage explorer, a tool I built to visualize automatically-collected data from standard Google Cloud Platform (GCP) usage reports.
 
 ![](assets/images/archdata/cloud-usage-explorer.png)
 <br>
 ***Figure 4:** An example of a cloud usage explorer.*
-
-[Amazon Web Services (AWS)](https://aws.amazon.com), [Google Cloud Platform (GCP)](https://cloud.google.com/), [Microsoft Azure](https://azure.microsoft.com/), and other Public Cloud Providers give detailed data about which platform uses which services, resource family, and budget. You can also understand which people and teams have access to each service. It is possible to get real-time information about cloud usage and understand the trends fully automatically.
 
 <br>
 ### Example 3: Financial and Vibrancy Data
@@ -153,10 +152,10 @@ Finance departments are very data-driven and have high-quality data that could b
 
 While each organization will have its unique sets of data, here are some tips I found helpful in forming the architecture Data Foundation:
 
-* **Start with the source code**. My motto is "Talk is expensive. Show me the code." I scan as soon as possible all source code using tools such as [Sokrates](https://sokrates.dev). I highly recommend [Sokrates](https://sokrates.dev) as the basis for the Data Foundation, but other simple analyses could also provide a good starting point. Modern IT enterprises store almost everything as a code. It is the richest and most up-to-date documentation on most things happening in an IT enterprise.
-* **Connect with finance and governance teams** to get exports of their data (without sensitive parts, such as revenue projections). Cloud billing reports and data about vibrancy or revenue streams are collected anyway. By extracting more technology-oriented data (e.g., public cloud technology usage trends) and connecting them to other data, many new insights may be obtained without starting new processes or asking people to provide more details. First, leverage what you have, squeeze all the value from it, then ask people for any missing elements.
+* **Start with the source code**. My motto is ***"Talk is expensive. Show me the code."*** I scan as soon as possible all source code using tools such as [Sokrates](https://sokrates.dev). I highly recommend Sokrates as the basis for the Data Foundation, but other simple analyses could also provide a good starting point. Modern IT enterprises store almost everything as a code. It is the richest and most up-to-date documentation on most things happening in an IT enterprise. I have repeatedly found that people underestimate the size and complexity of organizations and legacy systems. Quick source code scans can reveal such misconceptions, providing a better alternative for long-term tracking of an organizational IT landscape.  
+* **Connect with finance and governance teams**. My second motto is ***"Follow the money!"***. Get exports of finance data (without sensitive parts, such as revenue projections). Cloud billing reports and data about vibrancy or revenue streams are collected anyway. By extracting more technology-oriented data (e.g., public cloud technology usage trends) and connecting them to other data, you can obtain many new insights without starting new processes or asking people to provide more details. First, leverage what you have, squeeze all the value from it, then ask people for any missing elements. In addition, critical exploration of finance data can also benefit finance teams, for instance, by discovering some unused expensive licenses of contracts.
 * **Use simple and easy-to-maintain infrastructures**. For example, I publish the results of Sokrates analyses and other simple data Web apps as static resources in our enterprise GithHub pages. Configuring more complex infrastructure with complex databases and backend software requires more maintenance.
-* **Maintain a culture of transparency**. It is much simpler and more effective to share fewer data with everyone than to have more data, but complex authorization is needed.
+* **Maintain a culture of transparency**. Sharing fewer data with everyone is much simpler and more effective than having more data, but you need complex authorization mechanisms.
 * **Own the curation**. People need to be able to trust your data. Spend enough time to understand data sets, curate them, and ensure presentation consistency. I consider myself a master curator and chief UX designer of a Data Foundation.
 
 
@@ -166,10 +165,10 @@ While I do not want to prescribe the best technology, I can tell what I use in d
 <br>
 ## Using Architecture Data Foundation
 
-The architecture Data Foundation can provide lots of data. Sometimes, as in an ordinary map or atlas, such data could be helpful for those who want to orient themselves and understand the context. But with a proper mindset, you can obtain more insights from such data.
+The Data Foundation can provide lots of data. Sometimes, as in an ordinary map or atlas, such data could be helpful for those who want to orient themselves and understand the context. But with a proper mindset, you can obtain more insights from such data.
 
-Finding the right ways to interpret and use data requires active effort. In other words, the data can give you the answers, but [we may not know the questions](https://en.wikipedia.org/wiki/42_(number)#The_Hitchhiker's_Guide_to_the_Galaxy). Here are some of the questions you can ask when you have data:
-* **Are we aligned and going in the same direction?** Source code overviews, public cloud usage explorers, or tech radars can highlight differences among systems and teams and trigger discussions.
+Finding the right ways to interpret and use data requires active effort. In other words, the data can give you the answers, but [you need to bring questions](https://en.wikipedia.org/wiki/42_(number)#The_Hitchhiker's_Guide_to_the_Galaxy). Here are some of the questions you can ask when you have data:
+* **Are we aligned and going in the same direction?** Source code overviews, public cloud usage explorers, or tech radars can highlight differences among systems and teams and trigger discussions and actions.
 * **Are we using technology optimally?** Comparing usage trends between teams can show interesting outliners (both positive and negative).
 * **Are there indicators of poor code quality?** Too large systems, duplication, long units, or long files.
 * **Productivity: is more really more or is more actually less.** For instance, comparing the number of git merges with the number of developers can indicate if our dev processes are scalable. When we scale up teams, we want to speed up our delivery (but if team structure is not proper, it can easily be the opposite as people "step on each other toes").
@@ -224,13 +223,14 @@ Figures 6 to 10 show some insights from source code analyses with Sokrates.
 Using data can significantly improve the efficiency and impact of architectural practice. But there are no simple tools that can instantly provide you insights. Ask yourself the following questions: 
 
 * *Have you considered using open-source tools like Sokrates to gain architectural insights from data sources? Why or why not?*
-* *What are your views on the reliability and scalability of manual documentation as opposed to data reliance?*
+* *What are your views on the reliability and scalability of manual documentation?*
 * *What steps would you take to create an architecture Data Foundation in your organization?*
-* *Do you think there are untapped data sources within your organization that could inform your architectural Data Foundation?*
+* *Are there untapped data sources within your organization that could inform your architectural decisions?*
 * *How could you automate the process of gathering data for architectural insights in your organization?*
 * *What examples can you provide of the data you've used to gain reliable information about technology in your organization?*
 * *How would you examine public cloud billing reports, incident reports, or key business metrics for architectural insights?*
 * *How can you ensure your data is reliable and up-to-date?*
 * *Do you collaborate with finance and governance teams to incorporate financial and vibrancy data into your data analysis?*
 * *Is there a culture of transparency in your organization?*
+
 
