@@ -32,6 +32,8 @@ def copy_post(post):
                     content += 'A' + line
                 elif line.strip().startswith('</') or line.strip().startswith('<t'):
                     print('')
+                elif line.strip().startswith('<blockq') or line.strip().startswith('<script'):
+                    print('')
                 elif line.strip().startswith('>'):
                     content += 'A' + line
                 elif line.strip().startswith('<img') or line.strip().startswith('src='):

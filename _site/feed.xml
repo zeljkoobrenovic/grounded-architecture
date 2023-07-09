@@ -1,108 +1,68 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-07-08T22:05:05+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: Redefining IT Architecture Practice</title><subtitle></subtitle><entry><title type="html">Favorite Quotes</title><link href="http://localhost:4000/quotes" rel="alternate" type="text/html" title="Favorite Quotes" /><published>2021-10-25T22:12:01+02:00</published><updated>2021-10-25T22:12:01+02:00</updated><id>http://localhost:4000/quotes</id><content type="html" xml:base="http://localhost:4000/quotes"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/books-g1b2675255_1920.jpg" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-07-09T21:59:20+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: Redefining IT Architecture Practice</title><subtitle></subtitle><entry><title type="html">High-Performing Organizations</title><link href="http://localhost:4000/concepts-org" rel="alternate" type="text/html" title="High-Performing Organizations" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/key-concepts-organization</id><content type="html" xml:base="http://localhost:4000/concepts-org"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/car-engine-1701029_1280.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by <a href="https://pixabay.com/users/prettysleepy-2973588/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5430104">Amy</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5430104">Pixabay</a>
+Image by <a href="https://pixabay.com/users/paulbr75-2938186/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1701029">Paul Brennan</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1701029">Pixabay</a>
 </div>
-
-<blockquote>
-  <p><strong>IN THIS SECTION, YOU WILL:</strong> Get a selection of my favorite quotes about architecture.</p>
-</blockquote>
-
 <style>
- .favorite-quote {
-     border-left: 8px solid skyblue;
-     padding-left: 12px;
-     margin-top: 20px;
-     margin-bottom: 40px;
-     font-size: 120%;
-     font-style: italic;
- }
- .author {
-     margin-top: 8px;
-     font-size: 80%;
- }
+    h1 {
+        font-size: 210%;
+    }
 </style>
 
-<h2 id="people-people-people">People, People, People</h2>
+<blockquote>
+  <p><strong>IN THIS SECTION, YOU WILL:</strong> Get an overview of several tools I’ve built and use in daily architectural work.</p>
+</blockquote>
 
-<div class="favorite-quote">
-Architecture is <b>not so much about the software</b>, <b>but about the people</b> who write the software. The core principles of architecture, such as <b>coupling and cohesion</b>, aren't about the code. The code doesn't 'care' about how cohesive or decoupled it is; … But people do care about their coupling to other team members. <div class="author">-James O. Coplien</div>
-</div>
+<h2 id="metrics">Metrics</h2>
+<ul>
+  <li><strong>Lead time for changes:</strong> Elite performers have a lead time for changes of less than 1 hour (from code committed to code successfully running in production).</li>
+  <li><strong>Deployment frequency:</strong> Elite performers have a deployment frequency of multiple times per day.</li>
+  <li><strong>Time to restore service:</strong> Elite performers have an mean time to recover (MTTR) that is less than 1 hour.</li>
+  <li><strong>Change failure rate:</strong> Elite performers have a change failure rate between 0-15%.</li>
+</ul>
 
-<div class="favorite-quote">
-Software design is <b>an exercise in human relationships</b>.
-<div class="author">-Kent Beck</div>
-</div>
+<h2 id="continuous-delivery">Continuous Delivery</h2>
+<ul>
+  <li><strong>Use version control for all production artifacts:</strong> For all production artifacts, including application code, application configurations, system configurations, and scripts for automating build and configuration of the environment.</li>
+  <li><strong>Automate your deployment process:</strong> The degree to which deployments are fully automated and do not require manual intervention.</li>
+  <li><strong>Implement continuous integration:</strong> Code is regularly checked in, and each check-in triggers a set of quick test to discover serious regressions, which developers fix immediately.</li>
+  <li><strong>Use trunk-based development methods:</strong> Fewer than three active branches; branches and forks having very short lifetimes (e.g. less than a day); teams rarely or never having “code lock” periods.</li>
+  <li><strong>Implement test automation:</strong> Software tests are run automatically (not manually) continuously through the development process.</li>
+  <li><strong>Support test data management:</strong> Test data requires careful maintenance, and test data management is becoming an increasingly important part of automated testing.</li>
+  <li><strong>Shift left on security:</strong> Integrating security into the design and testing phases of the software development process is key to driving IT performance.</li>
+  <li><strong>Implement continuous delivery (CD):</strong> Software is in a deployable state throughout its lifecycle, and the team prioritize keeping the software in a deployable state over working on new features.</li>
+</ul>
 
-<div class="favorite-quote">
-Bad software architecture is a people problem. When <b>people don't work well together they make bad decisions</b>.
-<div class="author">-Kate Matsudaira</div>
-</div>
+<h2 id="architecture">Architecture</h2>
+<ul>
+  <li><strong>Use a loosely coupled architecture:</strong> The extent to which a team can test and deploy their applications on demand, without requiring orchestration with other services.</li>
+  <li><strong>Architect for empowered teams:</strong> Teams that can choose which tools to use do better as continuous delivery, and, in turn, drive better software development and delivery performance.</li>
+</ul>
 
-<div class="favorite-quote">
-To change the architecture of a software-intensive system ensconced in a large organization, you often have to change the architecture of the organization. And ultimately, that is <b>a political problem, not just a technical one</b>.
-<div class="author">-Grady Booch</div>
-</div>
+<h2 id="product-and-process">Product and Process</h2>
+<ul>
+  <li><strong>Gather and implement customer feedback:</strong> Actively and regularly seek customer feedback and incorporate this feedback into the design of products.</li>
+  <li><strong>Make the flow of work visible through the value stream:</strong> Teams should have a good understanding of and visibility into the flow from the business all the way through to customers, including the status of products and features.</li>
+  <li><strong>Working in small batches:</strong> Teams should slice work into small pieces that can be completed in a week or less.</li>
+  <li><strong>Foster and enable team experimentation:</strong> Team experimentation is the ability of developers to try out new ideas and create and update specifications during the development process, without requiring approval from outside of the team, which allows them to innovate quickly and create value.</li>
+</ul>
 
-<h2 id="changing-role-of-architecture">Changing Role of Architecture</h2>
+<h2 id="lean-management-and-monitoring-capabilities">Lean Management and Monitoring Capabilities</h2>
+<ul>
+  <li><strong>Have a lightweight change approval process:</strong> A lightweight change approval process based on peer review (pair programming or intrateam code review) produces superior IT performance than using external change approval boards (CABs).</li>
+  <li><strong>Monitor across application and infrastructure to inform business decisions:</strong> Use data from application and infrastructure monitoring tools to take action and make business decisions. This goes beyond paging people when things go wrong.</li>
+  <li><strong>Check system health proactively:</strong> Monitor system health, using threshold and rate-of-change warnings, to enable teams to preemptively detect and mitigate problems.</li>
+  <li><strong>Improve process and manage work with work-in-progress (WIP) limits:</strong> The use of work-in-progress limits to manage the flow of work is well known in the Lean community. When used effectively, this drives process improvement, increases throughput, and makes constraints visible in the system.</li>
+  <li><strong>Visualize work to monitor quality and communicate throughout the team:</strong> Visual displays, such as dashboards or internal websites, used to monitor quality and work in progress have been shown to contribute to software delivery performance.</li>
+</ul>
 
-<div class="favorite-quote">
-The role of architects has changed from trying to be the smartest person to <b>making everyone else smarter</b>.
-<div class="author">-Gregor Hohpe</div>
-</div>
-
-<div class="favorite-quote">
-The architect's role is changing from being primarily a decision maker to being a coordinator, advisor, and knowledge manager ... <b>a central knowledge hub</b>.
-<div class="author">-Rainer Weinreich &amp; Iris Groher</div>
-</div>
-
-<div class="favorite-quote">
-Rather than inject itself in every decision loop, <b>architecture should design mechanisms for teams to make better decisions</b> - they’ll know better anyhow, and slowing them down carries a high cost..
-<div class="author">-Gregor Hohpe</div>
-</div>
-
-<div class="favorite-quote">
-Your architecture team’s job is to <b>solve your biggest problems</b>. The best setup is the one that allows it to accomplish that.
-<div class="author">-Gregor Hohpe</div>
-</div>
-
-<div class="favorite-quote">
-Your organization has to <b>earn its way to an effective architecture function</b>. You can’t just plug some architects into the current mess and expect it to solve all your problems.
-<div class="author">-Gregor Hophe</div>
-</div>
-
-<h2 id="complexity">Complexity</h2>
-
-<div class="favorite-quote">
-Excessive complexity is nature’s punishment for <b>organizations that are unable to make decisions.</b>
-<div class="author">-Gregor Hohpe</div>
-</div>
-
-<div class="favorite-quote">
-<b>Metawork is more interesting than work</b>. ... we love complicated little puzzles to solve, so we keep overengineering everything.
-<div class="author">-Neal Ford</div>
-</div>
-
-<div class="favorite-quote">
-Developers are <b>drawn to complexity like moths to a flame</b> often with the same result.
-<div class="author">-Neal Ford</div>
-</div>
-
-<h2 id="other">Other</h2>
-
-<div class="favorite-quote">
-Architecture is just a collective hunch, a <b>shared hallucination</b>, an assertion by a set of stakeholders on the nature of their observable world, be it a world that is or a world as they wish it to be.
-<div class="author">-Grady Booch</div>
-</div>
-
-<div class="favorite-quote">
-<b>Architects code</b>, but not to deliver code. Rather, to understand the ramifications of the decisions that they're making.
-<div class="author">-Gregor Hohpe, Dave Farley</div>
-</div>
-
-<div class="favorite-quote">
-Architectural decisions are design decisions that are <b>hard to make</b> or <b>costly to change</b>.
-<div class="author">-Olaf Zimmermann</div>
-</div>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[My favorite quotes about architecture.]]></summary></entry><entry><title type="html">Context: Fast Moving Global Organizations</title><link href="http://localhost:4000/context" rel="alternate" type="text/html" title="Context: Fast Moving Global Organizations" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/context</id><content type="html" xml:base="http://localhost:4000/context"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/roller-coaster-3605743_1920.jpg" /></p>
+<h2 id="culture">Culture</h2>
+<ul>
+  <li><strong>Support a generative culture (as outlined by Westrum):</strong> Hallmarks of this measure include good information sharing, high cooperation and trust, bridging between teams, and conscious inquiry.</li>
+  <li><strong>Encourage and support learning:</strong> Is learning, in your culture, considered essential for continued progress? Is learning thought of as a cost or an investment?</li>
+  <li><strong>Support and facilitate collaboration among teams:</strong> Reflects how well teams, which have traditionally been siloed, interact in development, operations, and information security.</li>
+  <li><strong>Provide resources and tools that make work meaningful:</strong> This particular measure of job satisfaction is about doing work that is challenging and meaningful, and being empowered to exercise your skills and judgment.</li>
+  <li><strong>Support or embody transformational leadership:</strong> Compromised of five factors: vision, intellectual stimulation, inspirational communication, supportive leadership, and personal recognition.</li>
+</ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[Tools I've built and use in daily architectural work.]]></summary></entry><entry><title type="html">Context: Fast-Moving Global Organizations</title><link href="http://localhost:4000/context" rel="alternate" type="text/html" title="Context: Fast-Moving Global Organizations" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/context</id><content type="html" xml:base="http://localhost:4000/context"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/roller-coaster-3605743_1920.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/paulbr75-2938186/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3605743">Paul Brennan</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3605743">Pixabay</a>
 </div>
@@ -113,7 +73,7 @@ Image by <a href="https://pixabay.com/users/paulbr75-2938186/?utm_source=link-at
 
   <ul>
     <li>To better understand any idea or solution, it is crucial to understand the context in which this idea developed.</li>
-    <li>The Grounded Architecture approach has developed in the context of global, loosely coupled organizations that are diverse, with non-linear growth dynamics, and under transformation pressures.</li>
+    <li>The Grounded Architecture approach has evolved in the context of global, loosely coupled organizations that are diverse, with non-linear growth dynamics, and under transformation pressures.</li>
   </ul>
 </blockquote>
 <style>
@@ -291,7 +251,7 @@ Image by <a href="https://pixabay.com/users/shire777-19410672/?utm_source=link-a
   <li><em>What are grow dynamics of your organization?</em></li>
   <li><em>Are you experiencing synergy and transformation pressures?</em></li>
   <li><em>How (de)centralized is your organization?</em></li>
-</ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[The Grounded Architecture approach has developed in the context of global, loosely coupled organizations that are diverse, with non-linear growth dynamics, and under transformation pressures. My work reflects my experiences at AVIV Group, eBay Classifieds, and Adevinta.]]></summary></entry><entry><title type="html">Goals</title><link href="http://localhost:4000/goals" rel="alternate" type="text/html" title="Goals" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/requirements</id><content type="html" xml:base="http://localhost:4000/goals"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/stress-gc7a712a2f_1920.jpg" /></p>
+</ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[The Grounded Architecture approach has evolved in the context of global, loosely coupled organizations that are diverse, with non-linear growth dynamics, and under transformation pressures. My work reflects my experiences at AVIV Group, eBay Classifieds, and Adevinta.]]></summary></entry><entry><title type="html">Goals</title><link href="http://localhost:4000/goals" rel="alternate" type="text/html" title="Goals" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/requirements</id><content type="html" xml:base="http://localhost:4000/goals"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/stress-gc7a712a2f_1920.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=7446584">Gerd Altmann</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=7446584">Pixabay</a>
 </div>
@@ -301,7 +261,7 @@ Image by <a href="https://pixabay.com/users/geralt-9301/?utm_source=link-attribu
   <p><strong>KEY POINTS:</strong></p>
 
   <ul>
-    <li>I identified the following needs that an architecture function should support: Executing At Scale, Adaptivity, Increasing the Quality of Decision-Making with Data, Maximizing Organizational Alignment &amp; Learning.</li>
+    <li>I identified the following needs that an architecture function should support: Executing At Scale, Adaptivity, Increasing the Quality of Decision-Making with Data, and Maximizing Organizational Alignment &amp; Learning.</li>
   </ul>
 </blockquote>
 <style>
@@ -362,7 +322,7 @@ Considering the scale and complexity of the organizational context I operated in
   <li><em>How aligned are units in your organizations? How much friction is there? How can architecture function help?</em></li>
   <li><em>How much is your organization learning? How is the learning supported?</em></li>
   <li><em>How stable is your organization? How likely is it that significant changes will occur in your organization?</em></li>
-</ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[I identified the following needs that an architecture function should support: Executing At Scale, Adaptivity, Increasing the Quality of Decision-Making with Data, Maximizing Organizational Alignment & Learning.]]></summary></entry><entry><title type="html">Grounded Architecture: Introduction</title><link href="http://localhost:4000/grounded-architecture" rel="alternate" type="text/html" title="Grounded Architecture: Introduction" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/grounded-architecture</id><content type="html" xml:base="http://localhost:4000/grounded-architecture"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/buildings-205986_1920.jpg" /></p>
+</ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[I identified the following needs that an architecture function should support: Executing At Scale, Adaptivity, Increasing the Quality of Decision-Making with Data, and Maximizing Organizational Alignment & Learning.]]></summary></entry><entry><title type="html">Grounded Architecture: Introduction</title><link href="http://localhost:4000/grounded-architecture" rel="alternate" type="text/html" title="Grounded Architecture: Introduction" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/grounded-architecture</id><content type="html" xml:base="http://localhost:4000/grounded-architecture"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/buildings-205986_1920.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/ichigo121212-11728/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=205986">Ichigo121212</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=205986">Pixabay</a>
 </div>
@@ -658,8 +618,7 @@ Image by <a href="https://pixabay.com/users/mostafa_meraji-13551092/?utm_source=
   <p><strong>KEY POINTS:</strong></p>
 
   <ul>
-    <li>Developing the architecture function requires having competent, empowered, and motivated architects. Any architecture function must carefully organize, empower,
-  and leverage scarce architecture talent.</li>
+    <li>Developing the architecture function requires having competent, empowered, and motivated architects. Architecture practice must carefully organize, empower, and leverage scarce talent.</li>
     <li>In my work in the past few years, I combined two teams of architects: a small central architecture team and a cross-organizational distributed virtual team.</li>
   </ul>
 </blockquote>

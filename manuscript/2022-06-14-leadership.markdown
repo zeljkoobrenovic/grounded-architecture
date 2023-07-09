@@ -10,9 +10,9 @@
 {pagebreak}
 
 A> **KEY POINTS:**
-A> * My view of architecture leadership is inspired by David Marquet's work and the Netflix's valued behaviors.
-A> * Marquet focused on leadership and organizational management, with a particular emphasis on the principles of Intent-Based Leadership.
-A> * Borrowing from Netflix's original values the following behavioral traits are crucial for architects are: communication, judgment, impact, inclusion, selflessness, courage, integrity, curiosity, innovation, and passion.
+A> * My view of architecture leadership is inspired by David Marquet's work and Netflix's valued behaviors.
+A> * Marquet focused on leadership and organizational management, particularly emphasizing the principles of Intent-Based Leadership.
+A> * Borrowing from Netflix's original values, the following behavioral traits are crucial for architects: communication, judgment, impact, inclusion, selflessness, courage, integrity, curiosity, innovation, and passion.
 
 My approach to architecture leadership draws inspiration from two sources: **[David Marquet's](https://davidmarquet.com/) leadership principles**, as articulated in his book "Turn the Ship Around!" and Netflix's valued behaviors. Marquet's ideas emphasize empowering team members, providing clarity, decentralizing decision-making, striving for continuous improvement, and practicing servant leadership. Meanwhile, **[Netflix valued behaviors](https://jobs.netflix.com/culture)** offer useful guidance for coaching and developing architects aligned with the "superglue" version.
 
@@ -141,10 +141,10 @@ Architects are frequently role models for others. As such you need to show the f
 * *Reflect on the Leader-Leader model of leadership in your work. How can you empower your team members and encourage them to take ownership of their work?*
 * *Have you acted as a facilitator, coach, or mentor as an architect? Can you share an example of when you gave team members guidance, support, or resources to achieve their goals?*
 * *How does the phrase "I intend to" resonate with your approach to architecture work? How can it change your perspective on taking the initiative and leading efforts?*
-* *How effective do you believe your communication skills are? Have you adapted your style to work with people from diverse backgrounds and languages?*
+* *How effective do you believe your communication skills are?*
 * *How can you foster an inclusive working environment as an architect? How do you nurture and embrace differing perspectives to make better decisions?*
 * *Reflect on a situation where you made a decision that was best for the organization rather than what was best for yourself or your group. What was the outcome?*
-* *Have you ever had to take an uncomfortable stance but in your organization's best interest? Can you share this experience?*
+* *Have you ever had to take an uncomfortable stance but in your organization's best interest?*
 * *How do you maintain integrity as a trusted advisor in your organization? Can you share an example where your honesty, authenticity, and transparency were vital?*
 * *How have you maintained your curiosity in your role as an architect? Can you share an instance where your learning eagerness led to a significant outcome?*
 * *What innovative solutions have you created as an architect? How have these innovations benefitted your organization?*

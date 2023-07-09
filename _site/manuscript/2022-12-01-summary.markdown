@@ -14,24 +14,25 @@ A> * This playbook aims to share my approach to running an IT architecture pract
 A> * I called this approach "Grounded Architecture," highlighting the need for any IT architecture function to stay well-connected to all levels of an organization and led by data.
 A> * In this section, I summarize the key points from the playbook.
 
-In this playbook, I explained an approach to running an architecture practice in larger organizations. This playbook aims to share my approach to running an IT architecture practice in larger organizations based on my experience as Chief Architect at AVIV Group, eBay Classifieds, and Adevinta. I called this approach "grounded architecture," highlighting the need for any architecture function to stay well-connected to all levels of an organization and led by data. 
+This book shared my approach to running an IT architecture practice in larger organizations based on my experience at AVIV Group, eBay Classifieds, and Adevinta. I called this approach "Grounded Architecture"—architecture with strong foundations and deep roots. Prioritizing people interactions and data over processes and tools, Grounded Architecture aims to connect architecture practice to all organizational parts and levels, serving as an antidote to the "ivory tower" architecture.
 
-Grounded Architecture has two main parts:
-* **Structure**, defining elements you need to have to run Grounded Architecture practice, and
-* **Guiding Principles**, a set of guiding principles that can help put the ideas of Grounded Architecture into practice.
+This book introduced Grounded Architecture as an IT architecture practice with two main parts:
+* **Structure**, elements you need to have to run Grounded Architecture practice, and
+* **Guiding Principles**, guiding principles that can help put the ideas of Grounded Architecture into practice.
 
-The structure of the Grounded Architecture consisting of three elements:
-* The Data Foundation,
-* The People Pillar,
-* The Architecture Activities Platform.
+Figure 1 shows the structure of the Grounded Architecture consisting of three elements:
+* [Data Foundation](#data),
+* [People Foundation](#people),
+* [Architecture Activities Platform](#activities-platform).
 
 ![](assets/images/model.png)
+***Figure 1:** The structure of Grounded Architecture.*
 
-The *Data Foundation* ensures that architects can make data-informed decisions based on a real-time and complete overview of the organization's technology landscape.
+The *[Data Foundation](#data)* ensures that architects can make data-informed decisions based on a real-time and complete overview of the organization's technology landscape.
 
-The *People Pillar* is another essential element of Grounded Architecture. A strong network of people doing architecture across the organization is crucial to ensure that architecture function has any tangible impact.
+The *[People Foundation](#people)* is another essential element of Grounded Architecture. A strong network of people doing architecture across the organization is crucial to ensure that architecture function has any tangible impact.
 
-Lastly, the *Architecture Activities Platform*  defines a set of processes and agreements enabling architects to do everything architecture typically does, leveraging data and People Pillars to create a data-informed, organization-wide impact.
+Lastly, the *[Architecture Activities Platform](#activities-platform)*  defines a set of processes and agreements enabling architects to do everything architecture typically does, leveraging data and People Foundations to create a data-informed, organization-wide impact.
 
 As a part of my work on Grounded Architecture, I also provided several guiding principles and tools that I found helpful to introduce the ideas of Grounded Architecture in practice. I grouped these resources into two parts:
 
@@ -56,6 +57,6 @@ When Grounded Architecture is in place, it can have a significant [positive impa
 * Maximize Organizational Learning, and
 * Increase Architecture Function Adaptivity.
 
-Remember that while you may borrow ideas from others, every organization is different in the end, and your approach must adapt to your context. When forming architecture functions, I always advise not to forget these [two pieces of advice from Gregor Hohpe](https://architectelevator.com/architecture/organizing-architecture/):
+While you may borrow ideas from others, every organization is different, and your approach must adapt to your context. When forming architecture functions, I always advise not to forget these [two pieces of advice from Gregor Hohpe](https://architectelevator.com/architecture/organizing-architecture/):
  * "*Your architecture team’s job is to solve your biggest problems. The best setup is the one that allows it to accomplish that.*"
  * "*Your organization has to earn its way to an effective architecture function. You can’t just plug some architects into the current mess and expect it to solve all your problems.*"

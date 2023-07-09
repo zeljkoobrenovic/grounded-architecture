@@ -1,0 +1,127 @@
+---
+layout: post
+section: "Appendices"
+title: "ISO 25010 Standard"
+position: 12110
+date:   2021-10-21 21:12:01 +0100
+author: by Željko Obrenović (obren.io)
+permalink: concepts-iso25010
+icon: productivity_tools.png
+timetoread: 15 min
+excerpt: "ISO/IEC 25010 is a standard that provides guidelines and recommendations for evaluating software product quality."
+
+
+---
+<img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover"
+src="assets/images/arch/board-3317496_1280.jpg">
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by <a href="https://pixabay.com/users/pexels-2286921/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1866533">Pexels</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1866533">Pixabay</a>
+</div>
+<style>
+    h1 {
+        font-size: 210%;
+    }
+</style>
+
+> **IN THIS SECTION, YOU WILL:** Get an overview of ISO/IEC 25010 standard that provides guidelines and recommendations for evaluating software product quality.
+
+# ISO 25010 Standard
+
+ISO/IEC 25010 is a standard that provides guidelines and recommendations for evaluating software product quality. It is a part of the ISO/IEC 25000 series, which encompasses a set of international standards for software engineering.
+
+ISO/IEC 25010, the System and Software Quality Requirements and Evaluation (SQuaRE) standard, focuses on evaluating software product quality. It defines a framework for assessing a software product's quality characteristics.
+
+The standard identifies several quality characteristics that should be considered during evaluation. I have used four of them in practice and can recommend them as a practical way to assess and discuss the quality of software systems:
+
+* **Maintainability:** The ease with which the software can be modified, corrected, adapted, or enhanced.
+* **Security:** The software's ability to protect information and data from unauthorized access, disclosure, alteration, destruction, or disruption.
+* **Performance Efficiency:** The software's ability to perform its functions efficiently, considering resource utilization.
+* **Reliability:** The software's ability to maintain a specified level of performance under stated conditions for a defined period.
+
+ISO/IEC 25010 provides guidance on defining measurement scales, evaluating software quality, and reporting the evaluation results. It aims to help organizations and evaluators assess the quality of software products effectively, allowing for better decision-making, improvement, and comparison of software products.
+
+## Maintainability
+
+**Definition:** The degree of effectiveness and efficiency with which the intended maintainers can modify a product or system.
+
+### Maintainability Characteristics
+
+* **Analyzability:** The degree of effectiveness and efficiency with which it is possible to assess the impact on a product or system of an intended change to one or more of its parts or to diagnose a product for deficiencies or causes of failures, or to identify parts to be modified.
+* **Modifiability:** The degree to which a product or system can be effectively and efficiently modified without introducing defects or degrading existing product quality.
+* **Testability:** The degree of effectiveness and efficiency with which test criteria can be established for a system, product, or component, and tests can be performed to determine whether those criteria have been met.
+* **Modularity:** The degree to which a system or computer program is composed of discrete components such that a change to one component has minimal impact on other components.
+* **Reusability:** The degree to which an asset can be used in multiple systems or in building other assets.
+
+### Maintainability Tactics
+
+* **Keep Systems Small:** The overall size of the source code of the software product matters.
+* **Avoid Duplication:** Avoid the occurrence of identical fragments of source code in more than one place in the product.
+* **Write Short Units of Code:** Keep units smaller than 30 lines.
+* **Write Simple Units of Code:** Keep the number of decision points per unit below 5.
+* **Avoid Many Parameters in Unit Interfaces:** Large interfaces are deemed harder to maintain.
+* **Couple Files Loosely:** Software products where more source code resides in modules strongly coupled with other modules are deemed harder to maintain.
+* **Organize System in 7±2 Balanced Components:** When a system has too many or too few components, it is considered more difficult to understand and maintain.
+* **Keep Components Loosely Coupled:** Hide as much as possible of modules. A module is hidden if there are no incoming dependencies from modules in other components.
+
+## Security
+The degree to which a product or system protects information and data so that persons or other products or systems have the degree of data access appropriate to their types and levels of authorization.
+
+### Security Characteristics
+
+* **Confidentiality:** Ensures that data are accessible only to those authorized.
+* **Integrity:** Prevents unauthorized access or modifications.
+* **Non-repudiation:** actions or events can be proven to have occurred.
+* **Accountability:** Actions of an entity can be traced uniquely to the entity.
+* **Authenticity:** The identity of a subject or resource can be proved to be the one claimed.
+
+### Security Tactics
+* **Protect Data Transport:** Protect data transport with a sufficiently powerful protection method, minimizing caching of sensitive data.
+* **Protect Stored Data:** Prevent or restrict access to data stored physically. Encrypt sensitive data. Correctly applying a one-way hash to the data.
+* **Uniquely Identify Actors:** Identify and record system actors in a way that points uniquely to a specific actor. Include specific traceable information, such as location or origin.
+* **Enforce Authentication:** Enforce authentication for all system functions and all uses. Use an intrinsically strong authentication method. For failed authentication, do not perform any functions or expose information.
+* **Enforce Authorization:** Authorize within the system so the user cannot circumvent it. Authorize for every system function and at every attempt. If authorization fails, record this event and inform the user only that authorization failed. Give users the least possible privileges.
+* **Manage Sessions Securely:** Monitor the actor’s actions securely. Create and expire session tokens securely.
+* **Verify Input and Output:** Reject invalid system input. The rejection should not disclose information. Validate within the system, validated against a whitelist. Prevent injection and overflow vulnerabilities. Escape all output. Never unnecessarily expose implementation details.
+* **Keep Evidence:** Allow non-repudiation and accountability. Keep the proof that an actor actively approved and performed an action. Store it securely, and facilitate retrieval and analysis.
+* **Manage Users Securely:** Implement secure user sign-up, blocking and removal, and management of user credentials.
+
+
+## Performance Efficiency
+**Definition:** Performance relative to the resources used under stated conditions.
+
+### Performance Efficiency
+
+* **Time Behavior:** Degree to which the response and processing times and throughput rates of a product or system meet requirements when performing its functions.
+* **Capacity:** Degree to which the maximum limits of a product or system parameter meet requirements.
+* **Resource Utilization:** Degree to which the amounts and types of resources a product or system uses, when performing its functions, meet requirements.
+
+### Performance Efficiency Tactics
+
+* **Optimize Internal Communication:** Limit the number of steps, usage of small messages, and transformations in inter-process communications.
+* **Limit External Communication:** Limit usage of external services and associated uncertainty, especially if the system has no strong guarantees over the external service’s time behavior.
+* **Optimize Common Transactions:** Apply common, relatively easy-to-implement strategies for optimization.
+* **Scale Transaction Capabilities:** Make it easy to increase transaction processing capacities when needed, both for individual components and the whole system.
+* **Scale Data Capabilities:** Take care of the volume and characteristics of the data.
+* **Isolate External Influences:** Control or exclude external influences that may impact the performance and the consistency of response times.
+* **Provision Resources Elastically:** Accommodate variations in workload. so that the consumed computer resources and associated costs of a service rise and fall proportionally to the workload.
+* **Observe System Performance:** Know the system's actual performance and support problem analysis and resolution by measuring and monitoring the system.
+
+## Reliability
+The degree to which a system, product, or component performs specified functions under specified conditions for a specified period.
+
+### Reliability Dimensions
+
+* **Maturity:** The system is thoroughly tested and has a low manual maintenance effort, minimizing the number of potential errors in production.
+* **Availability:** The system is thoroughly tested and has a low manual maintenance effort, minimizing the number of potential errors in production.
+* **Fault-Tolerance:** Fitted with mechanisms to ensure a certain level of error tolerance, ensuring that not every error results in a system failure.
+* **Recoverability:** Should the system fail despite all efforts, it has mechanisms to either recover fully automatically or support human intervention for fast recovery.
+
+### Reliability Tactics
+
+* **Isolate Faults:** Prevent faults propagating from one to other components.
+* **Prevent Inconsistent States (Transaction Handling):** Prevents inconsistent states and data in the presence of errors.
+* **Avoid Single Points of Failure (Redundancy):** Redundancy determines to which extent a system is vulnerable to a single point of failure.
+* **Automate Deployment:** The faster a system can be (re)deployed, the faster new versions can be put into production, enabling more rapid recovery from errors and failures.
+* **Make System Autonomous:** Avoid the dependency of a system on human intervention to stay operational.
+* **Test Reliability:** Make test loads resemble production loads.
+* **Implement Failover:** Make switching to another component easy when one fails.

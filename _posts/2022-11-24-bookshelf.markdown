@@ -2,7 +2,7 @@
 layout: post
 section: "To Probe Further"
 title: "Bookshelf"
-position: 12099
+position: 11099
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 permalink: bookshelf

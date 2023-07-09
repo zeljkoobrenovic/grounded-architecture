@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Cloud Design Patterns | Grounded Architecture: Redefining IT Architecture Practice</title>
+<meta name="generator" content="Jekyll v4.2.2" />
+<meta property="og:title" content="Cloud Design Patterns" />
+<meta name="author" content="by Željko Obrenović (obren.io)" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Tools I’ve built and use in daily architectural work." />
+<meta property="og:description" content="Tools I’ve built and use in daily architectural work." />
+<link rel="canonical" href="http://localhost:4000/concepts-cloud" />
+<meta property="og:url" content="http://localhost:4000/concepts-cloud" />
+<meta property="og:site_name" content="Grounded Architecture: Redefining IT Architecture Practice" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2021-10-21T22:12:01+02:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Cloud Design Patterns" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"by Željko Obrenović (obren.io)"},"dateModified":"2021-10-21T22:12:01+02:00","datePublished":"2021-10-21T22:12:01+02:00","description":"Tools I’ve built and use in daily architectural work.","headline":"Cloud Design Patterns","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/concepts-cloud"},"url":"http://localhost:4000/concepts-cloud"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Grounded Architecture: Redefining IT Architecture Practice" /></head>
+<body style="overflow-x: hidden"><header class="site-header">
+    <div class="wrapper"><a class="site-title" rel="author" href="/" style="margin-bottom: 0; color: grey; white-space: nowrap; overflow: none; max-width: 100%">
+        <div style="height: 44px; white-space: nowrap; overflow: hidden; margin-bottom: -10px">Grounded Architecture: Redefining IT Architecture Practice</div>
+        <div style="color: #a0a0a0; font-size: 13px;">Version 0.9</div>
+        </a><nav class="site-nav">
+            <input type="checkbox" id="nav-trigger" class="nav-trigger"/>
+            <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+            </label>
+
+            <div class="trigger"><a class="page-link" href="/about/" style="color: #b0b0b0">About</a></div>
+        </nav><table style="border: none; font-size: 80%; margin: 0; padding: 0;">
+    <tr style="border: none; margin: 0; padding: 0">
+        <td style="border: none; margin: 0; padding: 0"><div style="font-size: 90%; color: #898989">Appendices</div><a class="u-url" href="concepts-iso25010">← ISO 25010 Standard</a></td>
+        <td style="border: none; text-align: right; margin: 0; padding: 0"><div style="font-size: 90%; color: #898989">Appendices</div><a class="u-url" href="concepts-org">High-Performing Organizations →</a></td>
+    </tr>
+</table>
+</div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-129891352-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+    gtag('config', 'UA-129891352-1');
+</script>
+
+
+<style>
+
+    #markdown-toc::before {
+        content: "Contents";
+        font-weight: bold;
+        font-size: 110%;
+        margin-left: 176px;
+        padding-bottom: 30px;
+        text-align: center;
+        width: 100%;
+    }
+
+
+    #markdown-toc ul {
+        list-style: decimal;
+    }
+
+    #markdown-toc {
+        border: 1px solid #aaa;
+        padding: 1.5em;
+        padding-left: 2.5em;
+        list-style: decimal;
+        display: inline-block;
+        margin: 0;
+    }
+</style>
+
+
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting" style="margin-top: -12px">
+    <header class="post-header"><div style="margin-bottom: 4px; margin-top: 10px">Appendices</div><h1 class="post-title p-name" itemprop="name headline">Cloud Design Patterns</h1>
+        <p class="post-meta"><span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card"
+                                                                                        itemprop="name">by Željko Obrenović (obren.io)</span></span></p>
+    </header>
+
+    <div class="post-content e-content" itemprop="articleBody" style="font-size: 110%">
+        <p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/fantasy-782001_1280.jpg" /></p>
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by <a href="https://pixabay.com/users/dlee-271284/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=782001">Donna Kirby</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=782001">Pixabay</a>
+</div>
+<style>
+    h1 {
+        font-size: 210%;
+    }
+</style>
+
+<blockquote>
+  <p><strong>IN THIS SECTION, YOU WILL:</strong> Get an overview of several tools I’ve built and use in daily architectural work.</p>
+</blockquote>
+
+<h1>…</h1>
+
+<p>Source: <a href="https://learn.microsoft.com/en-us/azure/architecture/patterns/">learn.microsoft.com/en-us/azure/architecture/patterns</a></p>
+
+<h2 id="performance-and-scalability">Performance and Scalability</h2>
+<p>Make your system perform well under load and react well to the change of the load.</p>
+
+<ul>
+  <li><strong>Command and Query Responsibility Segregation (CQRS):</strong> Segregate operations that read data from operations that update data by using separate interfaces.</li>
+  <li><strong>Event Sourcing:</strong> Use an append-only store to record the full series of events that describe actions taken on data in a domain.</li>
+  <li><strong>Materialized View:</strong> Generate prepopulated views over the data in one or more data stores when the data isn’t ideally formatted for required query operations.</li>
+  <li><strong>Index Table:</strong> Create indexes over the fields in data stores that are frequently referenced by queries.</li>
+  <li><strong>Sharding:</strong> Divide a data store into a set of horizontal partitions or shards.</li>
+  <li><strong>Static Content Hosting:</strong> Deploy static content to a cloud-based storage service that can deliver them directly to the client.</li>
+  <li><strong>Cache-Aside:</strong> Load data on demand into a cache from a data store.</li>
+  <li><strong>Throttling:</strong> Control the consumption of resources used by an instance of an application, an individual tenant, or an entire service.</li>
+  <li><strong>Rate Limit Pattern:</strong> Limiting pattern to help you avoid or minimize throttling errors related to these throttling limits and to help you more accurately predict throughput.</li>
+  <li><strong>Geodes:</strong> Deploy a collection of backend services into a set of geographical nodes, each of which can service any request for any client in any region.</li>
+</ul>
+
+<h2 id="resiliency">Resiliency</h2>
+<p>Gracefully handle and recover from failures.</p>
+
+<ul>
+  <li><strong>Bulkhead:</strong>  Isolate elements of an application into pools so that if one fails, the others will continue to function.</li>
+  <li><strong>Retry:</strong> Enable an application to handle anticipated, temporary failures when it tries to connect to a service or network resource by transparently retrying an operation that’s previously failed.</li>
+  <li><strong>Circuit Breaker:</strong> Handle faults that might take a variable amount of time to fix when connecting to a remote service or resource.</li>
+  <li><strong>Compensating Transaction:</strong> Undo the work performed by a series of steps, which together define an eventually consistent operation.</li>
+  <li><strong>Leader Election:</strong> Coordinate the actions performed by a collection of collaborating task instances in a distributed application by electing one instance as the leader that assumes responsibility for managing the other instances.</li>
+</ul>
+
+<h2 id="messaging">Messaging</h2>
+<p>Create a messaging infrastructure that connects the components and services, ideally in a loosely coupled manner to maximize scalability.</p>
+
+<ul>
+  <li><strong>Publisher/Subscriber:</strong> Enable an application to announce events to multiple interested consumers asynchronously, without coupling the senders to the receivers.</li>
+  <li><strong>Competing Consumers:</strong> Enable multiple concurrent consumers to process messages received on the same messaging channel.</li>
+  <li><strong>Pipes and Filters:</strong> Break down a task that performs complex processing into a series of separate elements that can be reused.</li>
+  <li><strong>Priority Queue:</strong> Prioritize requests sent to services so that requests with a higher priority are received and processed more quickly than those with a lower priority.</li>
+  <li><strong>Queue-Based Load Leveling:</strong> Use a queue that acts as a buffer between a task and a service that it invokes in order to smooth intermittent heavy loads.</li>
+  <li><strong>Scheduler Agent Supervisor:</strong> Coordinate a set of actions across a distributed set of services and other remote resources.</li>
+  <li><strong>Asynchronous Request-Reply:</strong> Decouple backend processing from a frontend host, where backend processing needs to be asynchronous, but the frontend still needs a clear response.</li>
+  <li><strong>Choreography:</strong> Have each component of the system participate in the decision-making process about the workflow of a business transaction, instead of relying on a central point of control.</li>
+  <li><strong>Saga:</strong> Manage data consistency across microservices in distributed transaction scenarios. A saga is a sequence of transactions that updates each service and publishes a message or event to trigger the next transaction step.</li>
+  <li><strong>Sequential Convoy:</strong> Process a set of related messages in a defined order, without blocking processing of other groups of messages.</li>
+</ul>
+
+<h2 id="management-and-monitoring">Management and Monitoring</h2>
+<p>Expose runtime information that administrators and operators can use to manage and monitor the system. Supporting changing business requirements and customization without requiring the application to be stopped or redeployed.</p>
+<ul>
+  <li><strong>Health Endpoint Monitoring:</strong> Implement functional checks in an application that external tools can access through exposed endpoints at regular intervals.</li>
+  <li><strong>Ambassador:</strong> Create helper services that send network requests on behalf of a consumer service or application.</li>
+  <li><strong>Anti-Corruption Layer:</strong> Implement a façade or adapter layer between a modern application and a legacy system.</li>
+  <li><strong>External Configuration Store:</strong> Move configuration information out of the application deployment package to a centralized location.</li>
+  <li><strong>Gateway Aggregation:</strong> Use a gateway to aggregate multiple individual requests into a single request.</li>
+  <li><strong>Gateway Offloading:</strong> Offload shared or specialized service functionality to a gateway proxy.</li>
+  <li><strong>Gateway Routing:</strong> Route requests to multiple services using a single endpoint.</li>
+  <li><strong>Sidecar:</strong> Deploy components of an application into a separate process or container to provide isolation and encapsulation.</li>
+  <li><strong>Strangler Fig:</strong> Incrementally migrate a legacy system by gradually replacing specific pieces of functionality with new applications and services.</li>
+</ul>
+
+<h2 id="security">Security</h2>
+<p>Prevent malicious or accidental actions outside of the designed usage, and prevent disclosure or loss of information.</p>
+
+<ul>
+  <li><strong>Federated Identity:</strong> Delegate authentication to an external identity provider.</li>
+  <li><strong>Gatekeeper:</strong> Protect applications and services by using a dedicated host instance that acts as a broker between clients and the application or service, validates and sanitizes requests, and passes requests and data between them.</li>
+  <li><strong>Valet Key:</strong> Use a token or key that provides clients with restricted direct access to a specific resource or service.</li>
+  <li><strong>Claim Check:</strong> Split a large message into a claim check and a payload.</li>
+</ul>
+
+<h2 id="other-patterns">Other Patterns</h2>
+<p>Create good designs. Take care of consistency, coherence, maintainability, and reusability.</p>
+
+<ul>
+  <li><strong>Compute Resource Consolidation:</strong> Consolidate multiple tasks or operations into a single computational unit</li>
+  <li><strong>Backends for Frontends:</strong> Create separate backend services to be consumed by specific frontend applications or interfaces.</li>
+  <li><strong>Deployment Stamps:</strong> Deploy multiple independent copies of application components, including data stores.</li>
+</ul>
+
+        <div style="margin-bottom: -32px; margin-top: 28px"><table style="border: none; font-size: 80%; margin: 0; padding: 0;">
+    <tr style="border: none; margin: 0; padding: 0">
+        <td style="border: none; margin: 0; padding: 0"><div style="font-size: 90%; color: #898989">Appendices</div><a class="u-url" href="concepts-iso25010">← ISO 25010 Standard</a></td>
+        <td style="border: none; text-align: right; margin: 0; padding: 0"><div style="font-size: 90%; color: #898989">Appendices</div><a class="u-url" href="concepts-org">High-Performing Organizations →</a></td>
+    </tr>
+</table>
+</div>
+    </div><a class="u-url" href="/concepts-cloud" hidden></a>
+</article>
+
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">Grounded Architecture: Redefining IT Architecture Practice</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">Grounded Architecture: Redefining IT Architecture Practice</li><li><a class="u-email" href="mailto:zeljko.obren@gmail.com">zeljko.obren@gmail.com</a></li></ul>
+      </div>
+
+      <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a href="https://github.com/zeljkoobrenovic"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg> <span class="username">zeljkoobrenovic</span></a></li><li><a href="https://www.twitter.com/zeljko_obren"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#twitter"></use></svg> <span class="username">zeljko_obren</span></a></li></ul>
+</div>
+
+      <div class="footer-col footer-col-3">
+        <p></p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+</body>
+</html>

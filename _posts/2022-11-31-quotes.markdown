@@ -2,8 +2,8 @@
 layout: post
 section: "To Probe Further"
 title: "Favorite Quotes"
-position: 12101
-date:   2021-10-25 21:12:01 +0100
+position: 11103
+date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 permalink: quotes
 icon: quotes.png

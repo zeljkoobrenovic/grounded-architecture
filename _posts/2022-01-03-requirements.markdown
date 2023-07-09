@@ -8,7 +8,7 @@ author: by Željko Obrenović (obren.io)
 permalink: goals
 icon: requirements.png
 timetoread: 15 min
-excerpt: "I identified the following needs that an architecture function should support: Executing At Scale, Adaptivity, Increasing the Quality of Decision-Making with Data, Maximizing Organizational Alignment & Learning."
+excerpt: "I identified the following needs that an architecture function should support: Executing At Scale, Adaptivity, Increasing the Quality of Decision-Making with Data, and Maximizing Organizational Alignment & Learning."
 
 ---
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
@@ -20,7 +20,7 @@ Image by <a href="https://pixabay.com/users/geralt-9301/?utm_source=link-attribu
 >
 > **KEY POINTS:**
 >
-> * I identified the following needs that an architecture function should support: Executing At Scale, Adaptivity, Increasing the Quality of Decision-Making with Data, Maximizing Organizational Alignment & Learning.
+> * I identified the following needs that an architecture function should support: Executing At Scale, Adaptivity, Increasing the Quality of Decision-Making with Data, and Maximizing Organizational Alignment & Learning.
 <style>
  .quote {
      border-left: 8px solid skyblue;

@@ -10,19 +10,19 @@
 {pagebreak}
 
 A> ***KEY POINTS:***
-A> * *This book aims to share my approach to running an IT architecture practice in larger organizations based on my experience as Chief Architect at AVIV Group, eBay Classifieds, and Adevinta.*
-A> * *I called this approach "Grounded Architecture," highlighting the need for any IT architecture function to stay well-connected to all levels of an organization and led by data.*
+A> * *This book aims to share my approach to running an IT architecture practice in larger organizations based on my experience at AVIV Group, eBay Classifieds, and Adevinta. I call this approach "Grounded Architecture"—architecture with strong foundations and deep roots.*
+A> * *Prioritizing people interactions and data over processes and tools, Grounded Architecture aims to connect architecture practice to all organizational levels as an antidote to the "ivory tower" architecture.*
 A> * *I also explain my motivation to write this book.*
 
-This book aims to share my approach to running an IT architecture practice in larger organizations based on my experience as Chief Architect at AVIV Group, eBay Classifieds, and Adevinta. I called this approach "grounded architecture," highlighting the need for any IT architecture function to stay well-connected to all levels of an organization and led by data.
+This book shares my approach to running an IT architecture practice in larger organizations based on my experience at AVIV Group, eBay Classifieds, and Adevinta. I call this approach "Grounded Architecture"—architecture with strong foundations and deep roots. Prioritizing people interactions and data over processes and tools, Grounded Architecture aims to connect architecture practice to all organizational parts and levels, serving as an antidote to the "ivory tower" architecture.
 
-This book introduces Grounded Architecture as an IT architecture practice system with two main parts:
-* **Structure**, defining elements you need to have to run Grounded Architecture practice, and
-* **Guiding Principles**, a set of guiding principles that can help put the ideas of Grounded Architecture into practice.
+This book introduces Grounded Architecture as an IT architecture practice with two main parts:
+* **Structure**, elements you need to have to run Grounded Architecture practice, and
+* **Guiding Principles**, guiding principles that can help put the ideas of Grounded Architecture into practice.
 
 Figure 1 shows the structure of the Grounded Architecture consisting of three elements:
 * [Data Foundation](#data),
-* [People Pillar](#people),
+* [People Foundation](#people),
 * [Architecture Activities Platform](#activities-platform).
 
 ![](assets/images/model.png)
@@ -30,9 +30,9 @@ Figure 1 shows the structure of the Grounded Architecture consisting of three el
 
 The *[Data Foundation](#data)* ensures that architects can make data-informed decisions based on a real-time and complete overview of the organization's technology landscape.
 
-The *[People Pillar](#people)* is another essential element of Grounded Architecture. A strong network of people doing architecture across the organization is crucial to ensure that architecture function has any tangible impact.
+The *[People Foundation](#people)* is another essential element of Grounded Architecture. A strong network of people doing architecture across the organization is crucial to ensure that architecture function has any tangible impact.
 
-Lastly, the *[Architecture Activities Platform](#activities-platform)*  defines a set of processes and agreements enabling architects to do everything architecture typically does, leveraging data and People Pillars to create a data-informed, organization-wide impact.
+Lastly, the *[Architecture Activities Platform](#activities-platform)*  defines a set of processes and agreements enabling architects to do everything architecture typically does, leveraging data and People Foundations to create a data-informed, organization-wide impact.
 
 As a part of my work on Grounded Architecture, I also provide several guiding principles and tools that I found helpful to introduce the ideas of Grounded Architecture in practice. I grouped these resources into two parts:
 
@@ -51,9 +51,9 @@ As a part of my work on Grounded Architecture, I also provide several guiding pr
 
 The rest of this book will explain in detail the Grounded Architecture approach. In this section, I want to tell a few things about my motivation to write this book.
 
-## What Will you Learn?
+## What Will You Learn?
 
-The three parts of the book (Structure, Being Architect, and Doing Architecture) correspond to the aspects of work of Chief Architects or Heads of Architecture that need to set up and run modern IT architecture practices:
+The three parts of the book (Structure, Being an Architect, and Doing Architecture) correspond to the aspects of work of Chief Architects or Heads of Architecture that need to set up and run modern IT architecture practices:
 
 * Create organizational and technical structures to  support IT architecture work,
 * Define IT architecture roles and responsibilities, skills, and career paths,
@@ -67,19 +67,19 @@ This book is not technical. We will not discuss the details of public cloud desi
 
 ## Is This A Proven Method?
 
-Like with many similar books, you may be disappointed if you are looking for a scientifically proven "method" of running a modern architecture practice. This book is personal and opinionated, building on my daily experiences as an architect and running an architecture practice. While subjective, I believe this book provides valuable insights for IT architects, their managers, and people working with architects. I invite others to share the lessons they have learned similarly. Even if opinionated and limited in scope, such practical reflections based on concrete examples have much more value for practitioners than abstract debates, formal methods, or academic analyses.
+Like with many similar books, you may be disappointed if you are looking for a scientifically proven "method" of running a modern architecture practice. This book is personal and opinionated, building on my daily experiences as an architect and head of an architecture practice. While subjective, I believe this book can provide valuable insights for IT architects, their managers, and people working with architects. I invite others to share the lessons they have learned similarly. Even if opinionated and limited in scope, such practical reflections based on concrete examples have much more value for practitioners than abstract debates, formal methods, or academic analyses.
 
-While not scientific, my Grounded Architecture approach builds and borrows many ideas successfully applied in practice. Gregor Hohpe's [**Architecture Elevator**](https://architectelevator.com/) view of architecture has heavily inspired my work. In many ways, my work reflects the lessons learned from implementing Gregor's ideas in practice. Gregor described modern architects' functions as aligning organization and technology, reducing friction, and charting transformation journeys. Such modern architects ride the Architect Elevator from the penthouse, where the business strategy is set, to the engine room, where engineers implement enabling technologies.
+While not scientific, I successfully applied my approach in three different companies, which gives it some generality and repeatability. The Grounded Architecture approach also builds on many ideas others have successfully used. Gregor Hohpe's [**Architecture Elevator**](https://architectelevator.com/) view of architecture has heavily inspired my work. In many ways, my work reflects the lessons learned from implementing Gregor's ideas in practice. Gregor described modern architects' functions as aligning organization and technology, reducing friction, and charting transformation journeys. Such modern architects ride the Architect Elevator from the penthouse, where the business strategy is set, to the engine room, where engineers implement enabling technologies.
 
-In my quest to define modern architectural roles, I used Staff+ Engineering jobs as an inspiration for the development of architects. Tanya Reilly's book [**The Staff Engineer's Path**](https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/) and Will Larson's book [**Staff Engineer: Leadership beyond the management track**](https://staffeng.com/guides/staff-archetypes/) are helpful guides in defining the responsibilities of architects. The Staff-plus engineering roles provide excellent examples for the development of modern architects.
+In my quest to define modern architectural roles, I used Staff+ Engineering jobs as an inspiration for the development of architects. Tanya Reilly's book [**The Staff Engineer's Path**](https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/) and Will Larson's book [**Staff Engineer: Leadership beyond the management track**](https://staffeng.com/guides/staff-archetypes/) are helpful guides in defining the responsibilities of modern architects. Overall, the Staff-plus engineering roles provide excellent examples for the development of architects.
 
-Many other sources have influenced my work. Some of them are in the [Bookshelf section](#bookshelf).
+Many other sources have influenced my work. Some of them you can find in the [Bookshelf section](#bookshelf).
 
 ## A Bit of Personal History
 
-The work presented in this book builds on several years of my experience. Most of this work results from my current work as a Chief Architect at AVIV Group and previous works as a Principal Architect for eBay Classifieds and Adevinta.
+The work presented in this book builds on several years of my experience. Most of this work originates from my current work as a Chief Architect at AVIV Group and previous works as a Principal Architect for eBay Classifieds and Adevinta.
 
-Another vital part of my experience that shaped this book was my earlier experience as a consultant and analyst at the Software Improvement Group. I've learned the value and pragmatics of data-informed decision-making. As a spin-off of this work, I've also built a tool called [Sokrates](sokrates.dev), which enable efficient and pragmatic extraction of data about technology and organization from source code. This work has directly influenced my view on the architecture [Data Foundation](#data).
+Another vital part of my experience that shaped this book was my earlier experience as a consultant and analyst at the [Software Improvement Group](https://www.softwareimprovementgroup.com/). I've learned the value and pragmatics of data-informed decision-making. As a spin-off of this work, I've also built a tool called [Sokrates](sokrates.dev), which enables efficient and pragmatic extraction of data about technology and organization from source code. This work has directly influenced my view of architecture [Data Foundation](#data).
 
 My experience as a CTO of [Incision](https://incision.care), a startup, has helped me better understand the difficulties and pragmatics of creating and running an IT organization.
 
@@ -89,16 +89,18 @@ Lastly, my hands-on experience as a software developer has proven invaluable for
 
 ## Why This Book?
 
-This book generalizes my experiences in a written form. I have written these articles for two reasons. Firstly, the act of writing helps me to clarify and improve my ideas (Figure 2). As Gregor Hohpe once noted, I free up some brain cells to learn new things with every sentence I write. As also nicely described by Hohpe written word has distinct advantages over the spoken word:
+This book generalizes my experiences in a written form. I have written these articles for several reasons. Firstly, the act of writing helps me to clarify and improve my ideas (Figure 2). As Gregor Hohpe once noted, I free up some brain cells to learn new things with every sentence I write. 
+
+![](assets/images/writing.png)
+***Figure 2:** Writing a book helped me organize ideas, obtain new insights, improve principles and tools, and share the lessons learned.*
+
+I also needed this book for the education of architects and to increase awareness about modern architecture practices in organizations I worked in. Having written content can significantly help to spread the message. As nicely described by Hohpe written word has distinct advantages over the spoken word:
 
 * it scales: you can address a broad audience without gathering them all in one (virtual) room at the same time
 * it's fast to process: people read 2-3 times faster than they can listen
 * it can be easily searched or versioned.
 
-![](assets/images/writing.png)
-***Figure 2:** Writing a book helped me organize ideas, obtain new insights, improve principles and tools, and share the lessons learned.*
-
-Second, by generalizing and putting my experiences on paper, I hope to create more usable materials to help others in similar situations. I also expect helpful feedback from a broader community.
+Lastly, by generalizing and putting my experiences on paper, I aim to create more usable materials to help others in similar situations. I also expect helpful feedback from a broader community.
 
 ## A Part of the Bigger Picture: A Trilogy in Four Parts
 
@@ -109,23 +111,23 @@ This book is a part of the [collection of open-source tools and resources](https
 
 The other resources include:
 
-* [**Sokrates**](https://sokrates.dev): an open-source polyglot code analysis tool that implements my vision of documenting and analyzing software architectures of complex systems. Sokrates provides a pragmatic, inexpensive way to extract rich data from source code repositories. Sokrates can help you understand your code by making the size, complexity, and coupling of software and people interactions and team topologies visible.
+* [**Sokrates**](https://sokrates.dev): an open-source polyglot code analysis tool. Sokrates provides a pragmatic, inexpensive way to extract rich data from source code repositories. Sokrates can help you understand your code by making the size, complexity, and coupling of software, people interactions, and team topologies visible.
 * [**Productivity Tools**](https://obren.io/tools): for years I have been building simple personal productivity tools.
-* [**359° Overview of Tech Trends**](https://www.obren359.com/) is my collection of knowledge resources with podcasts, and videos from over 20 authoritative, high-quality sources (IEEE, ACM, GOTO Conf, SE Radio, Martin Fowler's site, Ph.D. Theses). Architects need to learn fast, and finding good knowledge sources is difficult.
+* [**359° Overview of Tech Trends**](https://www.obren359.com/) is my collection of knowledge resources with podcasts and videos from over 20 authoritative, high-quality sources (IEEE, ACM, GOTO Conf, SE Radio, Martin Fowler's site, Ph.D. Theses). Architects need to learn fast, and finding good knowledge sources is difficult.
 
 You can find more details about these tools at my homepage **[obren.io](https://obren.io/)**.
 
 ## Who Should Read This Book?
 
-When writing this book, I had a broad audience in my mind. The article should be helpful to both technical and non-technical people. The book can help IT architects to better understand their value and place in a broader organization. I also hope the articles show the broader audience the benefits of staying close to and well-connected with the technologists.
+When writing this book, I had a broad audience in my mind. The article should be helpful to both technical and non-technical people. The book can help IT architects to better understand their value and place in a broader organization. I also hope the articles show the wider audience the benefits of staying close to and well-connected with architects.
 
 ## The Structure of the Book
 
 I have organized the book into several main parts. In the introductory part, I describe the context in which my ideas have developed. 
 
-In the second part, I discuss the Grounded Architecture structure describing its three elements: the Data Foundation, the People Pillar, and the Architecture Activities Platform. 
+In the second part, I discuss the Grounded Architecture structure describing its three elements: the Data Foundation, the People Foundation, and the Architecture Activities Platform. 
 
-In the third part, I talk about the Guiding Principles of Grounded Architecture, grouped int to sections: Being Architect and Doing Architecture. 
+In the third part, I discuss the Guiding Principles of Grounded Architecture, grouped into two sections: Being an Architect and Doing Architecture. 
 
 I conclude with a summary and pointers to external resources for those who want to explore more.
 
@@ -133,7 +135,7 @@ The [bookshelf](#bookshelf) section shows many other books and resources that ha
 
 ## Stay Connected
 
-You can find additional resources and more resources online at:
+You can find additional resources online at:
 * [https://grounded-architecture.io](https://grounded-architecture.io/)
 
 Feel free to follow me on LinkedIn to see what I am up to:
@@ -141,4 +143,4 @@ Feel free to follow me on LinkedIn to see what I am up to:
 
 ## Acknowledgments
 
-Thank all eBay Classifieds Virtual Architecture Team (VAT) members and AVIV Group's Architecture Center of Excellence members who gave me invaluable feedback and discussions. Lastly, thank Peter Maas and Brent McLean for sponsoring and pushing for developing data-informed architecture in our organizations.
+Thank all AVIV Group's Architecture Center of Excellence members and eBay Classifieds Virtual Architecture Team (VAT) members who gave me invaluable feedback and discussions. Lastly, thank Peter Maas and Brent McLean for sponsoring and pushing for developing data-informed architecture in our organizations.

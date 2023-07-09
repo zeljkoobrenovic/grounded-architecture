@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Context: Fast Moving Global Organizations"
+title: "Context: Fast-Moving Global Organizations"
 section: "Introduction"
 position: 2
 date:   2021-10-21 21:12:01 +0100
@@ -8,7 +8,7 @@ author: by Željko Obrenović (obren.io)
 permalink: context
 icon: roller-coaster.png
 timetoread: 15 min
-excerpt: "The Grounded Architecture approach has developed in the context of global, loosely coupled organizations that are diverse, with non-linear growth dynamics, and under transformation pressures. My work reflects my experiences at AVIV Group, eBay Classifieds, and Adevinta."
+excerpt: "The Grounded Architecture approach has evolved in the context of global, loosely coupled organizations that are diverse, with non-linear growth dynamics, and under transformation pressures. My work reflects my experiences at AVIV Group, eBay Classifieds, and Adevinta."
 
 
 ---
@@ -22,7 +22,7 @@ Image by <a href="https://pixabay.com/users/paulbr75-2938186/?utm_source=link-at
 > **KEY POINTS:**
 >
 > * To better understand any idea or solution, it is crucial to understand the context in which this idea developed. 
-> * The Grounded Architecture approach has developed in the context of global, loosely coupled organizations that are diverse, with non-linear growth dynamics, and under transformation pressures. 
+> * The Grounded Architecture approach has evolved in the context of global, loosely coupled organizations that are diverse, with non-linear growth dynamics, and under transformation pressures. 
 <style>
  .quote {
      border-left: 8px solid skyblue;

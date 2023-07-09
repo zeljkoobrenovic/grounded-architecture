@@ -8,7 +8,7 @@ author: by Željko Obrenović (obren.io)
 permalink: impact
 icon: making-impact.png
 timetoread: 15 min
-Ex excerpt: "Architects' work is evaluated based on their impact on the organization. They must demonstrate that they identify, tackle, and deliver on strategic problems, have a deep and broad influence, and deliver solutions that few others can."
+excerpt: "Architects' work is evaluated based on their impact on the organization. They must demonstrate that they identify, tackle, and deliver on strategic problems, have a deep and broad influence, and deliver solutions that few others can."
 
 ---
 

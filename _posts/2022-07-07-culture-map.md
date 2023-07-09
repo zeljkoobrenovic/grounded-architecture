@@ -8,7 +8,7 @@ author: by Željko Obrenović (obren.io)
 icon: culture.png
 permalink: culture-map
 timetoread: 11 min
-excerpt: "In multinational organizations, architects will need to work with many different cultures. I have found the work of Erin Meyer, The Culture Map, to be a very helpful tool for architects to work harmoniously with people from a broad array of different cultures and backgrounds."
+excerpt: "Architects will work with many different cultures in multinational organizations. I have found the work of Erin Meyer, The Culture Map, to be a beneficial tool for architects to work harmoniously with people from various cultures and backgrounds."
 
 ---
 
@@ -16,11 +16,11 @@ excerpt: "In multinational organizations, architects will need to work with many
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/mailanmaik-4340251/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2494518">Maik</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2494518">Pixabay</a>
 </div>
-> **IN THIS SECTION, YOU WILL:**  Get an introduction to The Culture Map, a helpful tool for architects to work harmoniously with people from a broad array of different cultures and backgrounds.
+> **IN THIS SECTION, YOU WILL:**  Get an introduction to The Culture Map, a helpful tool for architects to work harmoniously with people from various cultures and backgrounds.
 >
 > **KEY POINTS:**
 >
-> * I have found the work of Erin Meyer, The Culture Map, to be a very helpful tool for architects to work harmoniously with people from a broad array of different cultures and backgrounds.
+> * I have found the work of Erin Meyer, The Culture Map, to be a beneficial tool for architects to work harmoniously with people from various cultures and backgrounds.
 > * Meyer’s model contains eight scales, each representing a key area, showing how cultures vary from extreme to extreme: Communicating, Evaluating, Persuading, Leading, Deciding, Trusting, Disagreeing, and Scheduling.
 <style>
  .quote {
@@ -40,7 +40,7 @@ Image by <a href="https://pixabay.com/users/mailanmaik-4340251/?utm_source=link-
 </style>
 
 
-In multinational organizations, architects will need to work with many different cultures. I have found the work of Erin Meyer, The Culture Map, to be a beneficial tool to work harmoniously with people from a broad array of different cultures and backgrounds. **Awareness of cultural differences** is even more important for architects, as they are bridging diverse cultures and domains (technology, business, domain, organization).
+In multinational organizations, architects will need to work with many different cultures. The work of Erin Meyer, The Culture Map, is a beneficial tool for working harmoniously with people from various cultures and backgrounds. **Awareness of cultural differences** is even more important for architects, as they are bridging diverse cultures and domains (technology, business, product, organization).
 
 <div class="quote">
 Awareness of cultural differences is even more important for architects, bridging people with diverse cultures and from diverse domains (technology, business, domain, organization).
@@ -48,7 +48,7 @@ Awareness of cultural differences is even more important for architects, bridgin
 
 Meyer’s model contains **eight scales**, each representing a key area, showing how cultures vary from extreme to extreme. The eight scales describe a continuum between the two ends which are diametric opposite or competing positions:
 
-* **Communicating** – Are cultures low-context (simple, verbose, and clear), or high-context (rich deep meaning in interactions)?
+* **Communicating** – Are cultures low-context (simple, verbose, and clear) or high-context (rich deep meaning in interactions)?
 * **Evaluating** – When giving negative feedback, does one give it directly or prefer being indirect and discreet?
 * **Persuading** – Do people like to hear specific cases and examples or prefer detailed holistic explanations?
 * **Leading** – Are people in groups egalitarian or prefer hierarchy?
@@ -57,19 +57,19 @@ Meyer’s model contains **eight scales**, each representing a key area, showing
 * **Disagreeing** – Are disagreements tackled directly, or do people prefer to avoid confrontations?
 * **Scheduling** – Do people see time as absolute linear points or consider it a flexible range?
 
-The Culture Map shows positions along these eight scales for many countries. These profiles reflect **the value systems of a society at large, not those of all the individuals in it**, so if you plot yourself on the map, you might find that some of your preferences differ from those of your culture.
+The Culture Map shows positions along these eight scales for many countries. These profiles reflect **the value systems of a society at large, not all the individuals in it**, so if you plot yourself on the map, you might find that some of your preferences differ from those of your culture.
 
 <br>
 ## Communicating
 
-Architects need to be [good communicators](https://architectelevator.com/strategy/complex-topics-stick/). But what do we mean when saying someone is **a good communicator**? The responses differ wildly from society to society. 
+Architects need to be [good communicators](https://architectelevator.com/strategy/complex-topics-stick/). But what do we mean when saying someone is **a good communicator**? The responses differ wildly from society to society.
 
 <img src="assets/images/arch/iStock-1308494001.jpg" style="width: 100%">
 <div style="text-align: center; font-size: 70%; color: grey; margin-bottom: 12px; margin-top: -12px;">
 Image by Getty Images / iStock / LuckyBusiness.
 </div>
 
-Meyer compares cultures along the Communicating scale by measuring the degree to which they are **high- or low-context**, a metric developed by the American anthropologist Edward Hall. 
+Meyer compares cultures along the **Communicating scale** by measuring the degree to which they are **high- or low-context**, a metric developed by the American anthropologist Edward Hall (Figure 1). 
 
 In **low-context** cultures, good communication is **precise, simple, explicit, and clear**. People take messages at face value. Repetition, clarification, and putting messages in writing are appreciated. 
 
@@ -92,7 +92,7 @@ Architects need to **provide constructive criticism** of the plans and ideas of 
 Image by <a href="https://pixabay.com/users/rickey123-5041749/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2961955">rickey123</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2961955">Pixabay</a>
 </div>
 
-The Evaluating scale measures a preference for **frank versus diplomatic negative feedback**. Evaluating is different than the Communicating scale and many countries have different positions on the two scales. According to Meyers, the French, are high-context (implicit) communicators relative to Americans. Yet they are more direct in their criticism. Spaniards and Mexicans are at the same context level, but the Spanish is much franker when providing negative feedback.
+The Evaluating scale measures a preference for **frank versus diplomatic feedback**. Evaluating is different from the Communicating scale; many countries have different positions on the two scales. According to Meyers, the French are high-context (implicit) communicators relative to Americans. Yet they are more direct in their criticism. Spaniards and Mexicans are at the same context level, but the Spanish are much franker when providing negative feedback (Figure 2).
 
 <br>
 Providing constructive **criticism in the right way** is crucial for architects to make any impact. Sometimes the same feedback will lead to different reactions, even within the same teams with members from diverse backgrounds. Being too positive in some cultures leads to underestimation of the significance of the feedback. Being too negative may result in pushback and rejection. In my experience, architects need to adapt their feedback to the audience and do lots of **"duplication" by presenting the same feedback differently** to diverse groups.
@@ -110,11 +110,11 @@ Architects frequently need to persuade others about decisions and plans. How you
 Image by iStock / fizkes.
 </div>
 
-One way to compare countries along the Persuading scale is to assess how they balance **holistic and specific thought patterns**. According to Meyers, a Western executive will break down an argument into a sequence of distinct components (specific thinking). At the same time, Asian managers tend to show how the pieces fit together (holistic thinking). Beyond that, people from southern European and Germanic cultures tend to find **deductive arguments** (principles-first arguments, building the conclusion from basic premises) most persuasive. In contrast, American and British managers are more likely to be influenced by **inductive logic** (applications-first logic). 
+One way to compare countries along the Persuading scale is to assess how they balance **holistic and specific thought patterns**. According to Meyers, a Western executive will break down an argument into a sequence of distinct components (specific thinking). At the same time, Asian managers tend to show how the pieces fit together (holistic thinking). Beyond that, people from southern European and Germanic cultures tend to find **deductive arguments** (principles-first arguments, building the conclusion from basic premises) most persuasive. In contrast, American and British managers are more likely to be influenced by **inductive, applications-first logic** (Figure 3).
 
 
 <br>
-Architects need to be able to **persuade in both applications-first and principles-first ways**. In addition to cultural differences, the additional complication comes from talking to diverse audiences. For instance, C-level executives typically have less time and may prefer applications-first presentations (“get to the point, stick to the point”). While in other parts of the company, you may need to spend a long time carefully building the argument following the principal first approach. I typically aim to prepare well for both, having a short management summary and easily retrievable all supporting evidence.
+Architects must be able to **persuade in both applications-first and principles-first ways**. In addition to cultural differences, the additional complication comes from talking to diverse audiences. For instance, C-level executives typically have less time and may prefer applications-first presentations (“get to the point, stick to the point”). While in other parts of the company, you may need to spend a long time carefully building the argument following the principal first approach. I typically aim to prepare well for both, having a short management summary and easily retrievable all supporting evidence.
 
 ![](assets/images/culturemap/persuading.png)
 ***Figure 3:** Countries on the Persuading scale.*
@@ -124,7 +124,7 @@ Architects need to be able to **persuade in both applications-first and principl
 
 Architects have informal and sometimes formal authority. The leading scale measures the degree of **respect and deference shown to authority** figures. 
 
-This scale places countries on a spectrum from **egalitarian to hierarchical**. Egalitarian cultures expect leading to be in a **democratic** fashion. Hierarchical cultures expect leading to be **from top to bottom**.
+This scale places countries on a spectrum from **egalitarian to hierarchical**. Egalitarian cultures expect leading to be in a **democratic** fashion. Hierarchical cultures expect leading to be **from top to bottom** (Figure 4).
 
 
 <img src="assets/images/arch/iStock-1351446226.jpg" style="width: 100%">
@@ -142,14 +142,14 @@ The difference in leadership styles can make an architect's work challenging. Th
 <br>
 ## Deciding
 
-Architectural work is about [making decisions](https://architectelevator.com/gregors-law/). The Deciding measures the degree to which a culture is **consensus-minded**. 
+Architectural work is about [making decisions](https://architectelevator.com/gregors-law/). The Deciding scale measures the degree to which a culture is **consensus-minded**. 
 
 <img src="assets/images/arch/iStock-1191132590.jpg" style="width: 100%">
 <div style="text-align: center; font-size: 70%; color: grey; margin-bottom: 12px; margin-top: -12px;">
 Image by iStock / fizkes.
 </div>
 
-According to Meyers, we often assume that the most egalitarian cultures will be the most democratic, while the most hierarchical ones will allow the boss to make unilateral decisions. But this is not always the case. Germans are more hierarchical than Americans but more likely than their U.S. colleagues to build group agreements before making decisions. The Japanese are both strongly hierarchical and strongly consensus-minded.
+According to Meyers, we often assume that the most egalitarian cultures will be the most democratic, while the most hierarchical ones will allow the boss to make unilateral decisions. But this is only sometimes the case. Germans are more hierarchical than Americans but more likely than their U.S. colleagues to build group agreements before making decisions. The Japanese are both strongly hierarchical and strongly consensus-minded (Figure 5).
 
 <br>
 Similar to the Leading scale, the difference in deciding styles can make an architect's work complicated. I have been in situations where the different members of the same team have had radically different expectations regarding decision-making: some were sitting and waiting for an architect to come up with a decision, and others were offended by any decision that was not complete consensus. Again, the only way to create a working situation is to have an open conversation with the team and **agree on expectations and the decision approach**. One approach I used is a hybrid option: agreeing with a team to try to come up with a decision based on consensus but delegating the decision to an architect when an agreement was impossible.
@@ -169,12 +169,12 @@ Image by iStock / scyther5.
 </div>
 
 
-In **task-based** cultures, trust is built cognitively **through work**. We feel mutual trust if we collaborate well, prove ourselves reliable, and respect one another’s contributions. 
+In **task-based** cultures, trust is built cognitively **through work**. We feel mutual trust if we collaborate, prove ourselves reliable, and respect one another’s contributions. 
 
-In a **relationship-based** society, trust results from weaving a solid **affective connection**. We establish trust if we spend time laughing and relaxing together, get to know one another personally, and feel a mutual liking. 
+In a **relationship-based** society, trust results from weaving a solid **affective connection**. We establish trust if we spend time laughing and relaxing together, get to know one another personally, and feel a mutual liking (Figure 6). 
 
 <br>
-Without trust, architects' impact is limited. In my view, the best way for architects to build trust is to **align their working methods** with the rituals of the teams they are working with. In particular, finding time to attend events such as all-hands or off-site gatherings of groups and having regular 1:1 meetings with key stakeholders can be an efficient way to gain trust.
+Without trust, architects' impact is limited. The best way for architects to build trust is to **align their working methods** with the rituals of the teams they are working with. In particular, finding time to attend events such as all-hands or off-site gatherings of groups and having regular 1:1 meetings with key stakeholders can be an efficient way to gain trust.
 
 ![](assets/images/culturemap/trust.png)
 ***Figure 6:** Countries on the Trusting scale.*
@@ -183,7 +183,7 @@ Without trust, architects' impact is limited. In my view, the best way for archi
 <br>
 ## Disagreeing
 
-Architectural work may lead to many disagreements and conflicts. Different cultures have very different ideas about how **productive confrontation** is for a team or an organization. This scale measures **tolerance for open debate** and inclination to see it as either helpful or harmful to collegial relationships.
+Architectural work may lead to many disagreements and conflicts. Different cultures have very different ideas about how **productive confrontation** is for a team or an organization. This scale measures **tolerance for open debate** and inclination to see it as helpful or harmful to collegial relationships (Figure 7).
 
 <img src="assets/images/arch/iStock-1191132584.jpg" style="width: 100%">
 <div style="text-align: center; font-size: 70%; color: grey; margin-bottom: 12px; margin-top: -12px;">
@@ -199,7 +199,7 @@ Like the Leading and Deciding scales, architects need to have an open conversati
 <br>
 ## Scheduling
 
-Architects will need to participate in many meeting and projects. All businesses follow agendas and timetables, but in some cultures, people **strictly adhere to the schedule**. In others, they **treat it as a suggestion**. The Scheduling scale assesses how much people value operating in a structured, linear fashion versus being flexible and reactive. This scale is based on the “monochronic” and “polychronic” distinction formalized by Edward Hall.
+Architects will need to participate in many meetings and projects. All businesses follow agendas and timetables, but in some cultures, people **strictly adhere to the schedule**. In others, they **treat it as a suggestion**. The Scheduling scale assesses how much people value operating in a structured, linear fashion versus being flexible and reactive. This scale is based on the “monochronic” and “polychronic” distinction formalized by Edward Hall (Figure 8).
 
 <img src="assets/images/arch/iStock-1371834229.jpg" style="width: 100%">
 <div style="text-align: center; font-size: 70%; color: grey; margin-bottom: 12px; margin-top: -12px;">

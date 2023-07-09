@@ -8,9 +8,7 @@ author: by Željko Obrenović (obren.io)
 permalink: people
 icon: community.png
 timetoread: 15 min
-excerpt: "We should not take our architectural talent for granted. Architects, and other people doing architecture work, are bridging local business, product,
-organizational, and technology issues. Architects are difficult to hire because they need in-depth technical, domain-specific, and organizational knowledge. Therefore, we must support, organize, and leverage
-architecture talent."
+excerpt: "We should not take our architectural talent for granted. Architects, and other people doing architecture work, are bridging local business, product, organizational, and technology issues. Architects are difficult to hire because they need in-depth technical, domain-specific, and organizational knowledge. Therefore, we must support, organize, and leverage architecture talent."
 
 ---
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover"
@@ -22,8 +20,7 @@ Image by <a href="https://pixabay.com/users/mostafa_meraji-13551092/?utm_source=
 >
 > **KEY POINTS:**
 >
-> * Developing the architecture function requires having competent, empowered, and motivated architects. Any architecture function must carefully organize, empower,
-    and leverage scarce architecture talent.
+> * Developing the architecture function requires having competent, empowered, and motivated architects. Architecture practice must carefully organize, empower, and leverage scarce talent.
 > * In my work in the past few years, I combined two teams of architects: a small central architecture team and a cross-organizational distributed virtual team.
 
  

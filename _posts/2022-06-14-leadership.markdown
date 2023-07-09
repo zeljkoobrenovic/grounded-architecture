@@ -8,7 +8,7 @@ author: by Željko Obrenović (obren.io)
 permalink: leadership
 icon: traits.png
 timetoread: 15 min
-excerpt: "My view of architecture leadership is inspired by David Marquet’s work and the Netflix’s valued behaviors."
+excerpt: "My view of architecture leadership is inspired by David Marquet’s work and Netflix’s valued behaviors."
 
 ---
 
@@ -20,9 +20,9 @@ Image by <a href="https://pixabay.com/nl/users/12019-12019/?utm_source=link-attr
 > **IN THIS SECTION, YOU WILL:**  Understand how to apply ideas from David Marquet's work and Netflix's valued behaviors to develop architects' leadership traits.
 > 
 > **KEY POINTS:**
-> * My view of architecture leadership is inspired by David Marquet's work and the Netflix's valued behaviors.
-> * Marquet focused on leadership and organizational management, with a particular emphasis on the principles of Intent-Based Leadership.
-> * Borrowing from Netflix's original values the following behavioral traits are crucial for architects are: communication, judgment, impact, inclusion, selflessness, courage, integrity, curiosity, innovation, and passion.
+> * My view of architecture leadership is inspired by David Marquet's work and Netflix's valued behaviors.
+> * Marquet focused on leadership and organizational management, particularly emphasizing the principles of Intent-Based Leadership.
+> * Borrowing from Netflix's original values, the following behavioral traits are crucial for architects: communication, judgment, impact, inclusion, selflessness, courage, integrity, curiosity, innovation, and passion.
 <style>
  .quote {
      border-left: 8px solid skyblue;
