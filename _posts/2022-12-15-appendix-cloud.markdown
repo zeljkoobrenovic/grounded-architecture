@@ -89,6 +89,6 @@ Prevent malicious or accidental actions outside of the designed usage, and preve
 ## Other Patterns
 Create good designs. Take care of consistency, coherence, maintainability, and reusability.
 
-* **Compute Resource Consolidation:** Consolidate multiple tasks or operations into a single computational unit
+* **Compute Resource Consolidation:** Consolidate multiple tasks or operations into a single computational unit.
 * **Backends for Frontends:** Create different backend services to be consumed by specific frontend applications or interfaces.
 * **Deployment Stamps:** Deploy multiple independent copies of application components, including data stores.

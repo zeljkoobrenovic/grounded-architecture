@@ -97,8 +97,8 @@ While guilds and virtual teams could do many listed activities, the voluntary an
 
 ### Architecture Guilds & Virtual Architecture Teams
 
-A> *"A lot of cheap seats in the arena are filled with people who never venture onto the floor. They just hurl
-mean-spirited criticisms and put-downs from a safe distance. ... we need to be selective about the feedback we let into our lives. For me, if you're not in the arena getting your ass kicked, I'm not interested in your feedback." * — Brené
+A> * "A lot of cheap seats in the arena are filled with people who never venture onto the floor. They just hurl
+mean-spirited criticisms and put-downs from a safe distance. ... we need to be selective about the feedback we let into our lives. For me, if you're not in the arena getting your ass kicked, I'm not interested in your feedback."* — Brené
 A> Brown, Rising Strong
 
 I always found it essential to connect organization members passionate about architecture in some form, a guild, a
