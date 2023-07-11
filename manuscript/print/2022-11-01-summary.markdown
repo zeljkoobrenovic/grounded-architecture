@@ -1,0 +1,62 @@
+
+
+# Summary {#summary}
+
+![](assets/images/arch/road-g04cf0c3f8_1920.jpg)
+^image by gerd altmann from pixabay^
+
+**IN THIS SECTION, YOU WILL:** Look back at the content in this book.
+
+{pagebreak}
+
+A> **KEY POINTS:**
+A> * This playbook aims to share my approach to running an IT architecture practice in larger organizations based on my experience as Chief Architect at AVIV Group, eBay Classifieds, and Adevinta. 
+A> * I called this approach "Grounded Architecture," highlighting the need for any IT architecture function to stay well-connected to all levels of an organization and led by data.
+A> * In this section, I summarize the key points from the playbook.
+
+This book shared my approach to running an IT architecture practice in larger organizations based on my experience at AVIV Group, eBay Classifieds, and Adevinta. I called this approach "Grounded Architecture"—architecture with strong foundations and deep roots. Prioritizing people interactions and data over processes and tools, Grounded Architecture aims to connect architecture practice to all organizational parts and levels, serving as an antidote to the "ivory tower" architecture.
+
+This book introduced Grounded Architecture as an IT architecture practice with two main parts:
+* **Structure**, elements you need to have to run Grounded Architecture practice, and
+* **Guiding Principles**, guiding principles that can help put the ideas of Grounded Architecture into practice.
+
+Figure 1 shows the structure of the Grounded Architecture consisting of three elements:
+* [Data Foundation](#data),
+* [People Foundation](#people),
+* [Architecture Activities Platform](#activities-platform).
+
+![](assets/images/model.png)
+***Figure 1:** The structure of Grounded Architecture.*
+
+The *[Data Foundation](#data)* ensures that architects can make data-informed decisions based on a real-time and complete overview of the organization's technology landscape.
+
+The *[People Foundation](#people)* is another essential element of Grounded Architecture. A strong network of people doing architecture across the organization is crucial to ensure that architecture function has any tangible impact.
+
+Lastly, the *[Architecture Activities Platform](#activities-platform)*  defines a set of processes and agreements enabling architects to do everything architecture typically does, leveraging data and People Foundations to create a data-informed, organization-wide impact.
+
+As a part of my work on Grounded Architecture, I also provided several guiding principles and tools that I found helpful to introduce the ideas of Grounded Architecture in practice. I grouped these resources into two parts:
+
+* [Being an Architect](#being-architect):
+  * [Architects as Superglue](#superglue)
+  * [Skills](#skills)
+  * [Impact](#impact)
+  * [Leadership](#leadership)
+  * [Architects' Career Paths](#career)
+* [Doing Architecture](#doing-architecture):
+  * [Culture Map: Architects' Culture Mindfield Compass](#culture-map)
+  * [Managing Organization Complexity: Six Simple Rules](#six-simple-rules)
+  * [Product Development and The Build Trap](#product-development)
+  * [Architecture Governance: Mandates, Taxation, Nudge](#flexible-governance)
+  * [Economic Modeling: ROI and Financial Options](#economics)
+
+When Grounded Architecture is in place, it can have a significant [positive impact](#impact) on the functioning of an organization:
+
+* Enable Execution of Architecture Function At Scale,
+* Increase the Quality of Decision-Making with Data,
+* Maximize Organizational Alignment,
+* Maximize Organizational Learning, and
+* Increase Architecture Function Adaptivity.
+
+While you may borrow ideas from others, every organization is different, and your approach must adapt to your context. When forming architecture functions, I always advise not to forget these [two pieces of advice from Gregor Hohpe](https://architectelevator.com/architecture/organizing-architecture/):
+ * "*Your architecture team’s job is to solve your biggest problems. The best setup is the one that allows it to accomplish that.*"
+ * "*Your organization has to earn its way to an effective architecture function. You can’t just plug some architects into the current mess and expect it to solve all your problems.*"

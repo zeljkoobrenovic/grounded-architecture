@@ -8,8 +8,8 @@
 <meta property="og:title" content="Cloud Design Patterns" />
 <meta name="author" content="by Željko Obrenović (obren.io)" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="Tools I’ve built and use in daily architectural work." />
-<meta property="og:description" content="Tools I’ve built and use in daily architectural work." />
+<meta name="description" content="A mix of key distributed and messaging system topics combined with modern public cloud engineering themes." />
+<meta property="og:description" content="A mix of key distributed and messaging system topics combined with modern public cloud engineering themes." />
 <link rel="canonical" href="http://localhost:4000/concepts-cloud" />
 <meta property="og:url" content="http://localhost:4000/concepts-cloud" />
 <meta property="og:site_name" content="Grounded Architecture: Redefining IT Architecture Practice" />
@@ -18,7 +18,7 @@
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="Cloud Design Patterns" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"by Željko Obrenović (obren.io)"},"dateModified":"2021-10-21T22:12:01+02:00","datePublished":"2021-10-21T22:12:01+02:00","description":"Tools I’ve built and use in daily architectural work.","headline":"Cloud Design Patterns","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/concepts-cloud"},"url":"http://localhost:4000/concepts-cloud"}</script>
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"by Željko Obrenović (obren.io)"},"dateModified":"2021-10-21T22:12:01+02:00","datePublished":"2021-10-21T22:12:01+02:00","description":"A mix of key distributed and messaging system topics combined with modern public cloud engineering themes.","headline":"Cloud Design Patterns","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/concepts-cloud"},"url":"http://localhost:4000/concepts-cloud"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Grounded Architecture: Redefining IT Architecture Practice" /></head>
 <body style="overflow-x: hidden"><header class="site-header">
@@ -38,8 +38,8 @@
             <div class="trigger"><a class="page-link" href="/about/" style="color: #b0b0b0">About</a></div>
         </nav><table style="border: none; font-size: 80%; margin: 0; padding: 0;">
     <tr style="border: none; margin: 0; padding: 0">
-        <td style="border: none; margin: 0; padding: 0"><div style="font-size: 90%; color: #898989">Appendices</div><a class="u-url" href="concepts-iso25010">← ISO 25010 Standard</a></td>
-        <td style="border: none; text-align: right; margin: 0; padding: 0"><div style="font-size: 90%; color: #898989">Appendices</div><a class="u-url" href="concepts-org">High-Performing Organizations →</a></td>
+        <td style="border: none; margin: 0; padding: 0"><div style="font-size: 90%; color: #898989">Appendix</div><a class="u-url" href="concepts-iso25010">← ISO 25010 Standard</a></td>
+        <td style="border: none; text-align: right; margin: 0; padding: 0"><div style="font-size: 90%; color: #898989">Appendix</div><a class="u-url" href="concepts-org">High Performing Technology Organizations →</a></td>
     </tr>
 </table>
 </div>
@@ -89,7 +89,7 @@
 
 
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting" style="margin-top: -12px">
-    <header class="post-header"><div style="margin-bottom: 4px; margin-top: 10px">Appendices</div><h1 class="post-title p-name" itemprop="name headline">Cloud Design Patterns</h1>
+    <header class="post-header"><div style="margin-bottom: 4px; margin-top: 10px">Appendix</div><h1 class="post-title p-name" itemprop="name headline">Cloud Design Patterns</h1>
         <p class="post-meta"><span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card"
                                                                                         itemprop="name">by Željko Obrenović (obren.io)</span></span></p>
     </header>
@@ -106,21 +106,21 @@ Image by <a href="https://pixabay.com/users/dlee-271284/?utm_source=link-attribu
 </style>
 
 <blockquote>
-  <p><strong>IN THIS SECTION, YOU WILL:</strong> Get an overview of several tools I’ve built and use in daily architectural work.</p>
+  <p><strong>IN THIS SECTION, YOU WILL:</strong> Get a mix of key distributed and messaging system topics combined with modern public cloud engineering themes.</p>
 </blockquote>
 
-<h1>…</h1>
+<p>Cloud Design Patterns offer a mix of key distributed and messaging system topics and modern public cloud engineering themes.</p>
 
 <p>Source: <a href="https://learn.microsoft.com/en-us/azure/architecture/patterns/">learn.microsoft.com/en-us/azure/architecture/patterns</a></p>
 
 <h2 id="performance-and-scalability">Performance and Scalability</h2>
-<p>Make your system perform well under load and react well to the change of the load.</p>
+<p>Make your system perform well under load and react well to the load change.</p>
 
 <ul>
   <li><strong>Command and Query Responsibility Segregation (CQRS):</strong> Segregate operations that read data from operations that update data by using separate interfaces.</li>
-  <li><strong>Event Sourcing:</strong> Use an append-only store to record the full series of events that describe actions taken on data in a domain.</li>
-  <li><strong>Materialized View:</strong> Generate prepopulated views over the data in one or more data stores when the data isn’t ideally formatted for required query operations.</li>
-  <li><strong>Index Table:</strong> Create indexes over the fields in data stores that are frequently referenced by queries.</li>
+  <li><strong>Event Sourcing:</strong> Use an append-only store to record the entire series of events that describe actions taken on data in a domain.</li>
+  <li><strong>Materialized View:</strong> Generate prepopulated views over the data in one or more data stores when the data is not ideally formatted for required query operations.</li>
+  <li><strong>Index Table:</strong> Create indexes over the fields in data stores frequently referenced by queries.</li>
   <li><strong>Sharding:</strong> Divide a data store into a set of horizontal partitions or shards.</li>
   <li><strong>Static Content Hosting:</strong> Deploy static content to a cloud-based storage service that can deliver them directly to the client.</li>
   <li><strong>Cache-Aside:</strong> Load data on demand into a cache from a data store.</li>
@@ -134,35 +134,35 @@ Image by <a href="https://pixabay.com/users/dlee-271284/?utm_source=link-attribu
 
 <ul>
   <li><strong>Bulkhead:</strong>  Isolate elements of an application into pools so that if one fails, the others will continue to function.</li>
-  <li><strong>Retry:</strong> Enable an application to handle anticipated, temporary failures when it tries to connect to a service or network resource by transparently retrying an operation that’s previously failed.</li>
+  <li><strong>Retry:</strong> Enable an application to handle anticipated, temporary failures when connecting to a service or network resource by transparently retrying a previously failed operation.</li>
   <li><strong>Circuit Breaker:</strong> Handle faults that might take a variable amount of time to fix when connecting to a remote service or resource.</li>
   <li><strong>Compensating Transaction:</strong> Undo the work performed by a series of steps, which together define an eventually consistent operation.</li>
-  <li><strong>Leader Election:</strong> Coordinate the actions performed by a collection of collaborating task instances in a distributed application by electing one instance as the leader that assumes responsibility for managing the other instances.</li>
+  <li><strong>Leader Election:</strong> Coordinate the actions performed by a collection of collaborating task instances in a distributed application by electing one instance as the leader responsible for managing the other instances.</li>
 </ul>
 
 <h2 id="messaging">Messaging</h2>
-<p>Create a messaging infrastructure that connects the components and services, ideally in a loosely coupled manner to maximize scalability.</p>
+<p>Create a messaging infrastructure that connects the components and services, ideally loosely coupled, to maximize scalability.</p>
 
 <ul>
   <li><strong>Publisher/Subscriber:</strong> Enable an application to announce events to multiple interested consumers asynchronously, without coupling the senders to the receivers.</li>
   <li><strong>Competing Consumers:</strong> Enable multiple concurrent consumers to process messages received on the same messaging channel.</li>
   <li><strong>Pipes and Filters:</strong> Break down a task that performs complex processing into a series of separate elements that can be reused.</li>
   <li><strong>Priority Queue:</strong> Prioritize requests sent to services so that requests with a higher priority are received and processed more quickly than those with a lower priority.</li>
-  <li><strong>Queue-Based Load Leveling:</strong> Use a queue that acts as a buffer between a task and a service that it invokes in order to smooth intermittent heavy loads.</li>
-  <li><strong>Scheduler Agent Supervisor:</strong> Coordinate a set of actions across a distributed set of services and other remote resources.</li>
+  <li><strong>Queue-Based Load Leveling:</strong> Use a queue that acts as a buffer between a task and a service that it invokes to smooth intermittent heavy loads.</li>
+  <li><strong>Scheduler Agent Supervisor:</strong> Coordinate actions across a distributed set of services and other remote resources.</li>
   <li><strong>Asynchronous Request-Reply:</strong> Decouple backend processing from a frontend host, where backend processing needs to be asynchronous, but the frontend still needs a clear response.</li>
-  <li><strong>Choreography:</strong> Have each component of the system participate in the decision-making process about the workflow of a business transaction, instead of relying on a central point of control.</li>
+  <li><strong>Choreography:</strong> Have each system component participate in the decision-making process about the workflow of a business transaction instead of relying on a central point of control.</li>
   <li><strong>Saga:</strong> Manage data consistency across microservices in distributed transaction scenarios. A saga is a sequence of transactions that updates each service and publishes a message or event to trigger the next transaction step.</li>
-  <li><strong>Sequential Convoy:</strong> Process a set of related messages in a defined order, without blocking processing of other groups of messages.</li>
+  <li><strong>Sequential Convoy:</strong> Process a set of related messages in a defined order without blocking the processing of other groups of messages.</li>
 </ul>
 
 <h2 id="management-and-monitoring">Management and Monitoring</h2>
-<p>Expose runtime information that administrators and operators can use to manage and monitor the system. Supporting changing business requirements and customization without requiring the application to be stopped or redeployed.</p>
+<p>Expose runtime information that administrators and operators can use to manage and monitor the system—supporting changing business requirements and customization without requiring the application to be stopped or redeployed.</p>
 <ul>
   <li><strong>Health Endpoint Monitoring:</strong> Implement functional checks in an application that external tools can access through exposed endpoints at regular intervals.</li>
   <li><strong>Ambassador:</strong> Create helper services that send network requests on behalf of a consumer service or application.</li>
   <li><strong>Anti-Corruption Layer:</strong> Implement a façade or adapter layer between a modern application and a legacy system.</li>
-  <li><strong>External Configuration Store:</strong> Move configuration information out of the application deployment package to a centralized location.</li>
+  <li><strong>External Configuration Store:</strong> Move configuration information from the application deployment package to a centralized location.</li>
   <li><strong>Gateway Aggregation:</strong> Use a gateway to aggregate multiple individual requests into a single request.</li>
   <li><strong>Gateway Offloading:</strong> Offload shared or specialized service functionality to a gateway proxy.</li>
   <li><strong>Gateway Routing:</strong> Route requests to multiple services using a single endpoint.</li>
@@ -175,8 +175,8 @@ Image by <a href="https://pixabay.com/users/dlee-271284/?utm_source=link-attribu
 
 <ul>
   <li><strong>Federated Identity:</strong> Delegate authentication to an external identity provider.</li>
-  <li><strong>Gatekeeper:</strong> Protect applications and services by using a dedicated host instance that acts as a broker between clients and the application or service, validates and sanitizes requests, and passes requests and data between them.</li>
-  <li><strong>Valet Key:</strong> Use a token or key that provides clients with restricted direct access to a specific resource or service.</li>
+  <li><strong>Gatekeeper:</strong> Protect applications and services using a dedicated host instance that is a broker between clients and the application or service, validates and sanitizes requests, and passes requests and data between them.</li>
+  <li><strong>Valet Key:</strong> Use a token or key that provides clients restricted direct access to a specific resource or service.</li>
   <li><strong>Claim Check:</strong> Split a large message into a claim check and a payload.</li>
 </ul>
 
@@ -185,14 +185,14 @@ Image by <a href="https://pixabay.com/users/dlee-271284/?utm_source=link-attribu
 
 <ul>
   <li><strong>Compute Resource Consolidation:</strong> Consolidate multiple tasks or operations into a single computational unit</li>
-  <li><strong>Backends for Frontends:</strong> Create separate backend services to be consumed by specific frontend applications or interfaces.</li>
+  <li><strong>Backends for Frontends:</strong> Create different backend services to be consumed by specific frontend applications or interfaces.</li>
   <li><strong>Deployment Stamps:</strong> Deploy multiple independent copies of application components, including data stores.</li>
 </ul>
 
         <div style="margin-bottom: -32px; margin-top: 28px"><table style="border: none; font-size: 80%; margin: 0; padding: 0;">
     <tr style="border: none; margin: 0; padding: 0">
-        <td style="border: none; margin: 0; padding: 0"><div style="font-size: 90%; color: #898989">Appendices</div><a class="u-url" href="concepts-iso25010">← ISO 25010 Standard</a></td>
-        <td style="border: none; text-align: right; margin: 0; padding: 0"><div style="font-size: 90%; color: #898989">Appendices</div><a class="u-url" href="concepts-org">High-Performing Organizations →</a></td>
+        <td style="border: none; margin: 0; padding: 0"><div style="font-size: 90%; color: #898989">Appendix</div><a class="u-url" href="concepts-iso25010">← ISO 25010 Standard</a></td>
+        <td style="border: none; text-align: right; margin: 0; padding: 0"><div style="font-size: 90%; color: #898989">Appendix</div><a class="u-url" href="concepts-org">High Performing Technology Organizations →</a></td>
     </tr>
 </table>
 </div>

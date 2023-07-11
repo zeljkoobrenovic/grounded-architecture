@@ -1,0 +1,36 @@
+---
+layout: post
+section: "Appendix"
+title: "Appendix Overview"
+position: 12102
+date:   2021-10-21 21:12:01 +0100
+author: by Željko Obrenović (obren.io)
+permalink: concepts
+icon: backpack.png
+timetoread: 15 min
+excerpt: An overview of three resources in the appendix.
+
+
+---
+<img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover"
+src="assets/images/arch/backpack-gc5da70386_1280.jpg">
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by <a href="https://pixabay.com/users/pexels-2286921/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1839705">Pexels</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1839705">Pixabay</a>
+</div>
+<style>
+    h1 {
+        font-size: 210%;
+    }
+</style>
+
+> **IN THIS SECTION, YOU WILL:** Get an overview of three resources in the appendix.
+
+As we bring this book to a close, I would like to equip you with a helpful appendix. In this part, I outline several resources that have proven vital in my journey as an IT architect and have provided me with reminders about crucial aspects of IT practice that continue to shape and guide my understanding and training in the field. I routinely refer back to them and carry them in my practitioner "backpack," so I added their summaries in the appendix.
+
+* **EIC/ISO 25010 Standard:** This standard focuses on product quality and system quality models. While imperfect, this standard is a reasonably complete yet compact source for understanding software maintainability, security, reliability, and efficiency. 
+
+* **Cloud Design Patterns** offer a mix of key distributed and messaging system topics combined with modern public cloud engineering themes.
+
+* **Characteristics of High Performing Organizations** from the 'Accelerate' book by
+Nicole Forsgren, Jez Humble, and Gene Kim are excellent sources of empirical knowledge about high-performing IT organizations.
+

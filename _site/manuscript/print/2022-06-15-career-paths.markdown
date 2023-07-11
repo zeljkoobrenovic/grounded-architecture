@@ -57,8 +57,8 @@ In terms of steps, I typically work with some version of the following process (
   * In this step, assessing the candidate's overall fit for the role is crucial, determining whether they possess the necessary skills, experience, and qualifications. 
   * Overall, the initial screening aims to identify the most promising candidates who possess the necessary skills, experience, and fit for the role of a senior solutions architect and who should proceed to the next stage of the interview process.
   * Extra focus on:
-      * Cultural fit
-      * Leadership and problem-solving abilities
+    * Cultural fit
+    * Leadership and problem-solving abilities
     
 * **Step 2: In-Depth Interview with Senior/Principle/Enterprise Architects**
   * Typical duration 90 min
@@ -70,8 +70,8 @@ In terms of steps, I typically work with some version of the following process (
 * **Step 3: In-Depth Interview with Architects and Senior Engineers**
   * Typical duration 90 min
   * Preparation:
-      * A document describing a recent solution architecture of a candidate, providing the content for discussion and helping estimate the candidate's written skills.
-      * (Optional) open-source code review of a candidate
+    * A document describing a recent solution architecture of a candidate, providing the content for discussion and helping estimate the candidate's written skills.
+    * (Optional) open-source code review of a candidate
   * Extra focus on:
     * Any topics identified during Step 2 as areas that needed to explore further.
   

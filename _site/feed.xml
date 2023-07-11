@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-07-09T21:59:20+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: Redefining IT Architecture Practice</title><subtitle></subtitle><entry><title type="html">High-Performing Organizations</title><link href="http://localhost:4000/concepts-org" rel="alternate" type="text/html" title="High-Performing Organizations" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/key-concepts-organization</id><content type="html" xml:base="http://localhost:4000/concepts-org"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/car-engine-1701029_1280.jpg" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-07-11T09:24:31+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: Redefining IT Architecture Practice</title><subtitle></subtitle><entry><title type="html">High Performing Technology Organizations</title><link href="http://localhost:4000/concepts-org" rel="alternate" type="text/html" title="High Performing Technology Organizations" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/appendix-organization</id><content type="html" xml:base="http://localhost:4000/concepts-org"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/car-engine-1701029_1280.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/paulbr75-2938186/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1701029">Paul Brennan</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1701029">Pixabay</a>
 </div>
@@ -9,60 +9,64 @@ Image by <a href="https://pixabay.com/users/paulbr75-2938186/?utm_source=link-at
 </style>
 
 <blockquote>
-  <p><strong>IN THIS SECTION, YOU WILL:</strong> Get an overview of several tools I’ve built and use in daily architectural work.</p>
+  <p><strong>IN THIS SECTION, YOU WILL:</strong> Get a summary of characteristics of high-performing technology organizations.</p>
 </blockquote>
 
-<h2 id="metrics">Metrics</h2>
+<p>Characteristics of High Performing Organizations from the <a href="https://www.oreilly.com/library/view/accelerate/9781457191435/">Accelerate book</a> by Nicole Forsgren, Jez Humble, and Gene Kim are excellent sources of empirical knowledge about high-performing IT organizations.</p>
+
+<h2 id="four-key-metrics">Four Key Metrics</h2>
 <ul>
   <li><strong>Lead time for changes:</strong> Elite performers have a lead time for changes of less than 1 hour (from code committed to code successfully running in production).</li>
-  <li><strong>Deployment frequency:</strong> Elite performers have a deployment frequency of multiple times per day.</li>
-  <li><strong>Time to restore service:</strong> Elite performers have an mean time to recover (MTTR) that is less than 1 hour.</li>
-  <li><strong>Change failure rate:</strong> Elite performers have a change failure rate between 0-15%.</li>
+  <li><strong>Deployment frequency:</strong> Elite performers have a deployment frequency of multiple times daily.</li>
+  <li><strong>Time to restore service:</strong> Elite performers have a mean time to recover (MTTR) of less than 1 hour.</li>
+  <li><strong>Change failure rate:</strong> Elite performers have a 0-15% change failure rate.</li>
 </ul>
 
-<h2 id="continuous-delivery">Continuous Delivery</h2>
+<h2 id="practices">Practices</h2>
+
+<h3 id="continuous-delivery">Continuous Delivery</h3>
 <ul>
-  <li><strong>Use version control for all production artifacts:</strong> For all production artifacts, including application code, application configurations, system configurations, and scripts for automating build and configuration of the environment.</li>
+  <li><strong>Use version control for all production artifacts:</strong> For all production artifacts, including application code, application configurations, system configurations, and scripts for automating the build and configuration of the environment.</li>
   <li><strong>Automate your deployment process:</strong> The degree to which deployments are fully automated and do not require manual intervention.</li>
-  <li><strong>Implement continuous integration:</strong> Code is regularly checked in, and each check-in triggers a set of quick test to discover serious regressions, which developers fix immediately.</li>
-  <li><strong>Use trunk-based development methods:</strong> Fewer than three active branches; branches and forks having very short lifetimes (e.g. less than a day); teams rarely or never having “code lock” periods.</li>
+  <li><strong>Implement continuous integration:</strong> Code is regularly checked in, and each check-in triggers a set of quick tests to discover serious regressions, which developers fix immediately.</li>
+  <li><strong>Use trunk-based development methods:</strong> Fewer than three active branches; branches and forks having very short lifetimes (e.g., less than a day); teams rarely or never having “code lock” periods.</li>
   <li><strong>Implement test automation:</strong> Software tests are run automatically (not manually) continuously through the development process.</li>
   <li><strong>Support test data management:</strong> Test data requires careful maintenance, and test data management is becoming an increasingly important part of automated testing.</li>
-  <li><strong>Shift left on security:</strong> Integrating security into the design and testing phases of the software development process is key to driving IT performance.</li>
-  <li><strong>Implement continuous delivery (CD):</strong> Software is in a deployable state throughout its lifecycle, and the team prioritize keeping the software in a deployable state over working on new features.</li>
+  <li><strong>Shift left on security:</strong> Integrating security into the design and testing phases of the software development process is vital to driving IT performance.</li>
+  <li><strong>Implement continuous delivery (CD):</strong> Software is in a deployable state throughout its lifecycle, and the team prioritizes keeping the software in a deployable state over working on new features.</li>
 </ul>
 
-<h2 id="architecture">Architecture</h2>
+<h3 id="architecture">Architecture</h3>
 <ul>
-  <li><strong>Use a loosely coupled architecture:</strong> The extent to which a team can test and deploy their applications on demand, without requiring orchestration with other services.</li>
-  <li><strong>Architect for empowered teams:</strong> Teams that can choose which tools to use do better as continuous delivery, and, in turn, drive better software development and delivery performance.</li>
+  <li><strong>Use a loosely coupled architecture:</strong> The extent to which a team can test and deploy their applications on demand without requiring orchestration with other services.</li>
+  <li><strong>Architect for empowered teams:</strong> Teams that can choose which tools to use do better as continuous delivery and, in turn, drive better software development and delivery performance.</li>
 </ul>
 
-<h2 id="product-and-process">Product and Process</h2>
+<h3 id="product-and-process">Product and Process</h3>
 <ul>
   <li><strong>Gather and implement customer feedback:</strong> Actively and regularly seek customer feedback and incorporate this feedback into the design of products.</li>
-  <li><strong>Make the flow of work visible through the value stream:</strong> Teams should have a good understanding of and visibility into the flow from the business all the way through to customers, including the status of products and features.</li>
+  <li><strong>Make the flow of work visible through the value stream:</strong> Teams should have a good understanding of and visibility into the flow from the business to customers, including the status of products and features.</li>
   <li><strong>Working in small batches:</strong> Teams should slice work into small pieces that can be completed in a week or less.</li>
-  <li><strong>Foster and enable team experimentation:</strong> Team experimentation is the ability of developers to try out new ideas and create and update specifications during the development process, without requiring approval from outside of the team, which allows them to innovate quickly and create value.</li>
+  <li><strong>Foster and enable team experimentation:</strong> Team experimentation is the ability of developers to try out new ideas and create and update specifications during the development process without requiring approval from outside of the team, which allows them to innovate quickly and create value.</li>
 </ul>
 
-<h2 id="lean-management-and-monitoring-capabilities">Lean Management and Monitoring Capabilities</h2>
+<h3 id="lean-management-and-monitoring-capabilities">Lean Management and Monitoring Capabilities</h3>
 <ul>
   <li><strong>Have a lightweight change approval process:</strong> A lightweight change approval process based on peer review (pair programming or intrateam code review) produces superior IT performance than using external change approval boards (CABs).</li>
-  <li><strong>Monitor across application and infrastructure to inform business decisions:</strong> Use data from application and infrastructure monitoring tools to take action and make business decisions. This goes beyond paging people when things go wrong.</li>
-  <li><strong>Check system health proactively:</strong> Monitor system health, using threshold and rate-of-change warnings, to enable teams to preemptively detect and mitigate problems.</li>
-  <li><strong>Improve process and manage work with work-in-progress (WIP) limits:</strong> The use of work-in-progress limits to manage the flow of work is well known in the Lean community. When used effectively, this drives process improvement, increases throughput, and makes constraints visible in the system.</li>
-  <li><strong>Visualize work to monitor quality and communicate throughout the team:</strong> Visual displays, such as dashboards or internal websites, used to monitor quality and work in progress have been shown to contribute to software delivery performance.</li>
+  <li><strong>Monitor across applications and infrastructure to inform business decisions:</strong> Use data from application and infrastructure monitoring tools to take action and make business decisions. This monitoring goes beyond paging people when things go wrong.</li>
+  <li><strong>Check system health proactively:</strong> Monitor system health using threshold and rate-of-change warnings to enable teams to detect and mitigate problems preemptively.</li>
+  <li><strong>Improve process and manage work with work-in-progress (WIP) limits:</strong> The use of work-in-progress limits to manage work flow is well known in the Lean community. When used effectively, this drives process improvement increases throughput, and makes constraints visible in the system.</li>
+  <li><strong>Visualize work to monitor quality and communicate throughout the team:</strong> Visual displays, such as dashboards or internal websites, used to monitor quality and work in progress have contributed to software delivery performance.</li>
 </ul>
 
-<h2 id="culture">Culture</h2>
+<h3 id="culture">Culture</h3>
 <ul>
-  <li><strong>Support a generative culture (as outlined by Westrum):</strong> Hallmarks of this measure include good information sharing, high cooperation and trust, bridging between teams, and conscious inquiry.</li>
+  <li><strong>Support a generative culture (as outlined by Westrum):</strong> Hallmarks of this measure include good information sharing, high cooperation, and trust, bridging between teams, and conscious inquiry.</li>
   <li><strong>Encourage and support learning:</strong> Is learning, in your culture, considered essential for continued progress? Is learning thought of as a cost or an investment?</li>
-  <li><strong>Support and facilitate collaboration among teams:</strong> Reflects how well teams, which have traditionally been siloed, interact in development, operations, and information security.</li>
-  <li><strong>Provide resources and tools that make work meaningful:</strong> This particular measure of job satisfaction is about doing work that is challenging and meaningful, and being empowered to exercise your skills and judgment.</li>
+  <li><strong>Support and facilitate collaboration among teams:</strong> Reflects how well traditionally siloed teams interact in development, operations, and information security.</li>
+  <li><strong>Provide resources and tools that make work meaningful:</strong> This particular measure of job satisfaction is about doing challenging and meaningful work and being empowered to exercise your skills and judgment.</li>
   <li><strong>Support or embody transformational leadership:</strong> Compromised of five factors: vision, intellectual stimulation, inspirational communication, supportive leadership, and personal recognition.</li>
-</ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[Tools I've built and use in daily architectural work.]]></summary></entry><entry><title type="html">Context: Fast-Moving Global Organizations</title><link href="http://localhost:4000/context" rel="alternate" type="text/html" title="Context: Fast-Moving Global Organizations" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/context</id><content type="html" xml:base="http://localhost:4000/context"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/roller-coaster-3605743_1920.jpg" /></p>
+</ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[A summary of characteristics of high-performing technology organizations.]]></summary></entry><entry><title type="html">Context: Fast-Moving Global Organizations</title><link href="http://localhost:4000/context" rel="alternate" type="text/html" title="Context: Fast-Moving Global Organizations" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/context</id><content type="html" xml:base="http://localhost:4000/context"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/roller-coaster-3605743_1920.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/paulbr75-2938186/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3605743">Paul Brennan</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3605743">Pixabay</a>
 </div>
@@ -679,9 +683,9 @@ implement change.</p>
 <em><strong>Figure 2:</strong> Central vs. Federated Architecture Function.</em></p>
 
 <p><strong>The central model</strong> involves a large-scale central architecture team. The central team typically defines the process for
-approval of new work and assures adherence by development teams. In this model, development teams have few or no qualified solution architects. This model also holds <strong>centralized infrastructure, operations, and security teams</strong> apart from the development function. <strong>Control and governance</strong> are typically the primary concerns of the central architecture team.</p>
+approval of new work and assures adherence by development teams. In this model, development teams have few or no qualified solutions architects. This model also holds <strong>centralized infrastructure, operations, and security teams</strong> apart from the development function. <strong>Control and governance</strong> are typically the primary concerns of the central architecture team.</p>
 
-<p><strong>The federated model</strong> generally relies upon a guild or “community of practice” of solution architects embedded into individual development teams. A small central architecture team or an <strong>architecture center of excellence (CoE)</strong> may complement such a guild. The federated model’s architects facilitate high-level planning and act as <strong>on-demand service
+<p><strong>The federated model</strong> generally relies upon a guild or “community of practice” of solutions architects embedded into individual development teams. A small central architecture team or an <strong>architecture center of excellence (CoE)</strong> may complement such a guild. The federated model’s architects facilitate high-level planning and act as <strong>on-demand service
 providers</strong> for distributed teams.</p>
 
 <p>The <strong>federated model</strong> is more commonly associated with <strong>cross-functional DevOps culture</strong>. The roles of solution and

@@ -47,9 +47,9 @@ The architecture function generally follows one of two fundamental models: centr
 ***Figure 2:** Central vs. Federated Architecture Function.*
 
 **The central model** involves a large-scale central architecture team. The central team typically defines the process for
-approval of new work and assures adherence by development teams. In this model, development teams have few or no qualified solution architects. This model also holds **centralized infrastructure, operations, and security teams** apart from the development function. **Control and governance** are typically the primary concerns of the central architecture team.
+approval of new work and assures adherence by development teams. In this model, development teams have few or no qualified solutions architects. This model also holds **centralized infrastructure, operations, and security teams** apart from the development function. **Control and governance** are typically the primary concerns of the central architecture team.
 
-**The federated model** generally relies upon a guild or "community of practice" of solution architects embedded into individual development teams. A small central architecture team or an **architecture center of excellence (CoE)** may complement such a guild. The federated model's architects facilitate high-level planning and act as **on-demand service
+**The federated model** generally relies upon a guild or "community of practice" of solutions architects embedded into individual development teams. A small central architecture team or an **architecture center of excellence (CoE)** may complement such a guild. The federated model's architects facilitate high-level planning and act as **on-demand service
 providers** for distributed teams.
 
 The **federated model** is more commonly associated with **cross-functional DevOps culture**. The roles of solution and
