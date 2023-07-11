@@ -130,7 +130,7 @@ What I mean by that is that anyone can make architecture decisions, provided tha
   * Are we doing the work others are also doing?
   * Can others reuse your work? Can you reuse the work of others?
 
-While not enough, this simple policy resonates well and encourages people to be more thoughtful when making decisions.
+While it may not always be enough, this simple policy resonates well and encourages people to be more thoughtful when making decisions.
 
 ### Distributing Decisions, Autonomy, and Alignment
 
