@@ -28,6 +28,7 @@ Part5.txt
 2022-11-24-bookshelf.markdown
 2022-11-24-tools.markdown
 2022-11-31-quotes.markdown
+Part6.txt
 2022-12-02-appendix.markdown
 2022-12-10-appendix-iso-25010.markdown
 2022-12-15-appendix-cloud.markdown
