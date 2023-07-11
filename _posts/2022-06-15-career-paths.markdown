@@ -93,37 +93,42 @@ While you will need to design your hiring process, the hiring process should ens
 
 In terms of steps, I typically work with some version of the following process (after standard recruitment screening):
 
-* **Step 1: Initial Screening Interview with Chief Architect**
-  * Typical duration 60 min
-  * In this step, assessing the candidate's overall fit for the role is crucial, determining whether they possess the necessary skills, experience, and qualifications. 
-  * Overall, the initial screening aims to identify the most promising candidates who possess the necessary skills, experience, and fit for the role of a senior solutions architect and who should proceed to the next stage of the interview process.
-  * Extra focus on:
-    * Cultural fit
-    * Leadership and problem-solving abilities
-    
-* **Step 2: In-Depth Interview with Senior/Principle/Enterprise Architects**
-  * Typical duration 90 min
-  * Extra focus on:
-    * Evaluating the candidate's technical skills
-    * Assessing the candidate's communication and collaboration skills
-    * Understanding the candidate's leadership and problem-solving abilities
+**Step 1: Initial Screening Interview with Chief Architect**
 
-* **Step 3: In-Depth Interview with Architects and Senior Engineers**
-  * Typical duration 90 min
-  * Preparation:
-    * A document describing a recent solution architecture of a candidate, providing the content for discussion and helping estimate the candidate's written skills.
-    * (Optional) open-source code review of a candidate
-  * Extra focus on:
-    * Any topics identified during Step 2 as areas that needed to explore further.
+* Typical duration 60 min
+* In this step, assessing the candidate's overall fit for the role is crucial, determining whether they possess the necessary skills, experience, and qualifications. 
+* Overall, the initial screening aims to identify the most promising candidates who possess the necessary skills, experience, and fit for the role of a senior solutions architect and who should proceed to the next stage of the interview process.
+* Extra focus on:
+  * Cultural fit
+  * Leadership and problem-solving abilities
+    
+**Step 2: In-Depth Interview with Senior/Principle/Enterprise Architects**
+
+* Typical duration 90 min
+* Extra focus on:
+  * Evaluating the candidate's technical skills
+  * Assessing the candidate's communication and collaboration skills
+  * Understanding the candidate's leadership and problem-solving abilities
+
+**Step 3: In-Depth Interview with Architects and Senior Engineers**
+
+* Typical duration 90 min
+* Preparation:
+  * A document describing a recent solution architecture of a candidate, providing the content for discussion and helping estimate the candidate's written skills.
+  * (Optional) open-source code review of a candidate
+* Extra focus on:
+  * Any topics identified during Step 2 as areas that needed to explore further.
   
 For senior positions, I typically introduce an additional step of meeting senior leadership:
-* **Step 4: Non-technical stakeholders evaluation**
-  * Interview with Engineering Leaders
-  * Interview with Product and Business Function Leaders (e.g., CPO, CMO, CFO)
-  * Interview with a CTO
-  * Extra focus on:
-     * Leadership abilities
-     * Communication and collaboration skills
+
+**Step 4: Non-technical stakeholders evaluation**
+
+* Interview with Engineering Leaders
+* Interview with Product and Business Function Leaders (e.g., CPO, CMO, CFO)
+* Interview with a CTO
+* Extra focus on:
+   * Leadership abilities
+   * Communication and collaboration skills
 
 With the described steps, you can get a solid overview of all critical aspects of superglue architects. In particular, the involvement of people outside architecture or engineering is crucial to minimize risk related to a lack of interest and ability to engage with all relevant stakeholders.
 

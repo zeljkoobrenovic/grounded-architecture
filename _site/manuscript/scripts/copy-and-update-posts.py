@@ -3,6 +3,8 @@ import datetime
 import re
 
 covers = {}
+
+
 def copy_post(post):
     content = ''
 
@@ -39,9 +41,9 @@ def copy_post(post):
                 elif line.strip().startswith('<img') or line.strip().startswith('src='):
                     if 'src=' in line:
                         sub_line = line[line.index('src='):]
-                        sub_line  = sub_line.replace('src="', '')
-                        sub_line  = sub_line.replace('src=\'', '')
-                        sub_line  = re.sub('".*', "", sub_line)
+                        sub_line = sub_line.replace('src="', '')
+                        sub_line = sub_line.replace('src=\'', '')
+                        sub_line = re.sub('".*', "", sub_line)
                         sub_line = sub_line.strip()
                         print('')
                         content += '\n![](' + sub_line + ')'
@@ -72,7 +74,7 @@ def copy_post(post):
                     in_header = False
                 elif line.startswith('title:'):
                     if (covers.get(post)):
-                        content += '\n![](' +covers[post] + ')\n\n{pagebreak}\n\n'
+                        content += '\n![](' + covers[post] + ')\n\n{pagebreak}\n\n'
                     content += '# ' + line.replace('title:', '').replace('"', '').strip()
                 elif line.startswith('permalink:'):
                     content += ' {#' + line.replace('permalink:', '').replace('"', '').strip() + '}\n\n'
@@ -92,8 +94,8 @@ def copy_post(post):
 
 posts = ['2022-01-01-intro.markdown', '2022-01-02-context.markdown', '2022-01-03-requirements.markdown', '2022-03-01-grounded-architecture.markdown', '2022-03-03-data-platform.markdown', '2022-03-04-people.markdown',
          '2022-03-05-activities.markdown', '2022-03-09-value.markdown', '2022-06-01-being-architect.markdown', '2022-06-02-superglue.markdown', '2022-06-03-skills.markdown', '2022-06-10-impact.markdown', '2022-06-14-leadership.markdown',
-         '2022-06-15-career-paths.markdown', '2022-07-06-doing-architecture.markdown', '2022-07-07-culture-map.md', '2022-07-08-six-simple-rules.md', '2022-07-10-product.md', '2022-07-12-governance.markdown', '2022-07-15-economics.md', '2022-11-01-summary.markdown', '2022-12-02-appendix.markdown', '2022-12-10-appendix-iso-25010.markdown', '2022-12-15-appendix-cloud.markdown', '2022-12-26-appendix-organization.markdown']
-
+         '2022-06-15-career-paths.markdown', '2022-07-06-doing-architecture.markdown', '2022-07-07-culture-map.md', '2022-07-08-six-simple-rules.md', '2022-07-10-product.md', '2022-07-12-governance.markdown', '2022-07-15-economics.md',
+         '2022-11-01-summary.markdown', '2022-11-04-cheat-sheet.markdown', '2022-12-02-appendix.markdown', '2022-12-10-appendix-iso-25010.markdown', '2022-12-15-appendix-cloud.markdown', '2022-12-26-appendix-organization.markdown']
 
 for post in posts:
     copy_post(post)

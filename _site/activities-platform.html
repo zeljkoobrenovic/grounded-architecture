@@ -110,7 +110,7 @@ Image by <a href="https://pixabay.com/users/cocoparisienne-127419/?utm_source=li
   </ul>
 </blockquote>
 <style>
- .quote {
+    .quote {
      border-left: 8px solid skyblue;
      padding-left: 36px;
      margin-top: 30px;
@@ -118,11 +118,14 @@ Image by <a href="https://pixabay.com/users/cocoparisienne-127419/?utm_source=li
      font-size: 140%;
      font-style: normal;
      color:#888;
- }
+    }
     @media only screen and (max-width: 768px) {
         [class="quote"] {
             display: none;
         }
+    }
+    h3 {
+      margin-top: 30px;    
     }
 </style>
 
@@ -201,6 +204,51 @@ My goal was to avoid formal bureaucratic approval processes, where architects ap
 </div>
 
 <p>Another characteristic of this operating model is <strong>shifting left</strong> the architecture work. My goal was to avoid formal bureaucratic approval processes, where architects appear too late and are frequently busy approving trivial decisions. Instead, my goal was to have architects involved early in any of the processes, such as during the planning and preparation stages, where it is possible to make more significant changes.</p>
+
+<h3 id="architecture-decision-policy">Architecture Decision Policy</h3>
+
+<p>Inspired by the famous <a href="https://hbr.org/2014/01/how-netflix-reinvented-hr">Netflix expense policy</a>, I frequently argued that architecture decision policy could be summarized in six words:</p>
+
+<p><img src="assets/images/arch/decision-policy.png" alt="" /></p>
+
+<p>What I mean by that is that anyone can make architecture decisions, provided that, in addition to their specific requirements, they also think about the impact of their choices on:</p>
+
+<ul>
+  <li><strong>Overall organizational complexity</strong>
+    <ul>
+      <li>Limiting tech diversity, size, and dependencies to make out technology manageable</li>
+      <li>Reducing attack surface (e.g., number of third-party dependencies and library ecosystems)</li>
+    </ul>
+  </li>
+  <li><strong>Ease of moving people</strong> between teams (both to get help and help others, get promoted)
+    <ul>
+      <li>Do not create exotic islands</li>
+    </ul>
+  </li>
+  <li><strong>Ease of training and onboarding</strong> of both internal and external developers
+    <ul>
+      <li>We mostly need conventional tech. Make choices accordingly</li>
+    </ul>
+  </li>
+  <li><strong>Talent density</strong> and the possibility of performing at the world-scale level
+    <ul>
+      <li>Scaling requires in-depth knowledge and fine-tuning tech. You cannot have it with many options, each with only a few in-house experts</li>
+    </ul>
+  </li>
+  <li>New <strong>reorganizations</strong>
+    <ul>
+      <li>Would this fit with other components from other domains?</li>
+    </ul>
+  </li>
+  <li>Reducing global <strong>duplication of effort</strong> and inefficiencies
+    <ul>
+      <li>Are we doing the work others are also doing?</li>
+      <li>Can others reuse your work? Can you reuse the work of others?</li>
+    </ul>
+  </li>
+</ul>
+
+<p>While not enough, this simple policy resonates well and encourages people to be more thoughtful when making decisions.</p>
 
 <h3 id="distributing-decisions-autonomy-and-alignment">Distributing Decisions, Autonomy, and Alignment</h3>
 

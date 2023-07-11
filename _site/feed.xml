@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-07-11T09:24:31+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: Redefining IT Architecture Practice</title><subtitle></subtitle><entry><title type="html">High Performing Technology Organizations</title><link href="http://localhost:4000/concepts-org" rel="alternate" type="text/html" title="High Performing Technology Organizations" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/appendix-organization</id><content type="html" xml:base="http://localhost:4000/concepts-org"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/car-engine-1701029_1280.jpg" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-07-11T22:47:49+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: Redefining IT Architecture Practice</title><subtitle></subtitle><entry><title type="html">High Performing Technology Organizations</title><link href="http://localhost:4000/concepts-org" rel="alternate" type="text/html" title="High Performing Technology Organizations" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/appendix-organization</id><content type="html" xml:base="http://localhost:4000/concepts-org"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/car-engine-1701029_1280.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/paulbr75-2938186/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1701029">Paul Brennan</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1701029">Pixabay</a>
 </div>
@@ -741,8 +741,8 @@ frequently uniquely positioned to bridge different organizational units and stak
 <h3 id="architecture-guilds--virtual-architecture-teams">Architecture Guilds &amp; Virtual Architecture Teams</h3>
 
 <blockquote>
-  <p>*“A lot of cheap seats in the arena are filled with people who never venture onto the floor. They just hurl
-mean-spirited criticisms and put-downs from a safe distance. … we need to be selective about the feedback we let into our lives. For me, if you’re not in the arena getting your ass kicked, I’m not interested in your feedback.” * — Brené
+  <p>“<em>A lot of cheap seats in the arena are filled with people who never venture onto the floor. They just hurl
+mean-spirited criticisms and put-downs from a safe distance. … we need to be selective about the feedback we let into our lives. For me, if you’re not in the arena getting your ass kicked, I’m not interested in your feedback.</em>” — Brené
 Brown, Rising Strong</p>
 </blockquote>
 
@@ -849,7 +849,7 @@ Image by <a href="https://pixabay.com/users/cocoparisienne-127419/?utm_source=li
   </ul>
 </blockquote>
 <style>
- .quote {
+    .quote {
      border-left: 8px solid skyblue;
      padding-left: 36px;
      margin-top: 30px;
@@ -857,11 +857,14 @@ Image by <a href="https://pixabay.com/users/cocoparisienne-127419/?utm_source=li
      font-size: 140%;
      font-style: normal;
      color:#888;
- }
+    }
     @media only screen and (max-width: 768px) {
         [class="quote"] {
             display: none;
         }
+    }
+    h3 {
+      margin-top: 30px;    
     }
 </style>
 
@@ -941,6 +944,51 @@ My goal was to avoid formal bureaucratic approval processes, where architects ap
 
 <p>Another characteristic of this operating model is <strong>shifting left</strong> the architecture work. My goal was to avoid formal bureaucratic approval processes, where architects appear too late and are frequently busy approving trivial decisions. Instead, my goal was to have architects involved early in any of the processes, such as during the planning and preparation stages, where it is possible to make more significant changes.</p>
 
+<h3 id="architecture-decision-policy">Architecture Decision Policy</h3>
+
+<p>Inspired by the famous <a href="https://hbr.org/2014/01/how-netflix-reinvented-hr">Netflix expense policy</a>, I frequently argued that architecture decision policy could be summarized in six words:</p>
+
+<p><img src="assets/images/arch/decision-policy.png" alt="" /></p>
+
+<p>What I mean by that is that anyone can make architecture decisions, provided that, in addition to their specific requirements, they also think about the impact of their choices on:</p>
+
+<ul>
+  <li><strong>Overall organizational complexity</strong>
+    <ul>
+      <li>Limiting tech diversity, size, and dependencies to make out technology manageable</li>
+      <li>Reducing attack surface (e.g., number of third-party dependencies and library ecosystems)</li>
+    </ul>
+  </li>
+  <li><strong>Ease of moving people</strong> between teams (both to get help and help others, get promoted)
+    <ul>
+      <li>Do not create exotic islands</li>
+    </ul>
+  </li>
+  <li><strong>Ease of training and onboarding</strong> of both internal and external developers
+    <ul>
+      <li>We mostly need conventional tech. Make choices accordingly</li>
+    </ul>
+  </li>
+  <li><strong>Talent density</strong> and the possibility of performing at the world-scale level
+    <ul>
+      <li>Scaling requires in-depth knowledge and fine-tuning tech. You cannot have it with many options, each with only a few in-house experts</li>
+    </ul>
+  </li>
+  <li>New <strong>reorganizations</strong>
+    <ul>
+      <li>Would this fit with other components from other domains?</li>
+    </ul>
+  </li>
+  <li>Reducing global <strong>duplication of effort</strong> and inefficiencies
+    <ul>
+      <li>Are we doing the work others are also doing?</li>
+      <li>Can others reuse your work? Can you reuse the work of others?</li>
+    </ul>
+  </li>
+</ul>
+
+<p>While not enough, this simple policy resonates well and encourages people to be more thoughtful when making decisions.</p>
+
 <h3 id="distributing-decisions-autonomy-and-alignment">Distributing Decisions, Autonomy, and Alignment</h3>
 
 <p>With any operating model, I always aim to keep architectural decision-making distributed across the organization and embedded in the development teams. Development <strong>teams traditionally have the best insights and most information</strong> relevant for making decisions. As noted by Gregor Hohpe, the worst case of organizational decision-making happens when people with relevant information are not allowed to make decisions, while people who lack sufficient information make all decisions. Grounded Architecture aims to make relevant information more readily available to a broader audience and better connect people when making decisions.</p>
@@ -1019,8 +1067,8 @@ When a Grounded Architecture structure is in place, it can have a significant po
 <h2 id="executing-at-scale">Executing at Scale</h2>
 
 <p>The first goal was to find a way to support hundreds of teams, and thousands of projects, with significant complexity and diversity. 
- <br />
- <br />
+<br />
+<br />
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/earth-g8ffaadaba_1920.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/wikiimages-1897/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=11595">WikiImages</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=11595">Pixabay</a>
@@ -1085,8 +1133,9 @@ Image by <a href="https://pixabay.com/users/qimono-1962238/?utm_source=link-attr
 
 <h2 id="maximizing-organizational-alignment">Maximizing Organizational Alignment</h2>
 
-<p>The fourth goal stated that the architecture function should be a cohesive factor in minimizing misalignments.
-<br />
+<p>The fourth goal stated that the architecture function should be a cohesive factor in minimizing misalignments.</p>
+
+<p><br />
 <br />
 <img src="assets/images/arch/iStock-165954660.jpg" alt="" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">

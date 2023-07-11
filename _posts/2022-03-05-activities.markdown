@@ -23,7 +23,7 @@ Image by <a href="https://pixabay.com/users/cocoparisienne-127419/?utm_source=li
 > * The Architecture Activities Platform is a system of processes and agreements enabling architects to do everything architecture typically does, leveraging Data and People Foundations to create a data-informed, organization-wide impact.
 > * Examples of activities include: supporting teams in their daily work; tracking tech debt, defining tech debt reduction programs; performing technical due diligence; standardizing processes and documentation; defining cloud, data, and platform strategies.
 <style>
- .quote {
+    .quote {
      border-left: 8px solid skyblue;
      padding-left: 36px;
      margin-top: 30px;
@@ -31,11 +31,14 @@ Image by <a href="https://pixabay.com/users/cocoparisienne-127419/?utm_source=li
      font-size: 140%;
      font-style: normal;
      color:#888;
- }
+    }
     @media only screen and (max-width: 768px) {
         [class="quote"] {
             display: none;
         }
+    }
+    h3 {
+      margin-top: 30px;    
     }
 </style>
 
@@ -102,6 +105,32 @@ My goal was to avoid formal bureaucratic approval processes, where architects ap
 </div>
 
 Another characteristic of this operating model is **shifting left** the architecture work. My goal was to avoid formal bureaucratic approval processes, where architects appear too late and are frequently busy approving trivial decisions. Instead, my goal was to have architects involved early in any of the processes, such as during the planning and preparation stages, where it is possible to make more significant changes. 
+
+
+### Architecture Decision Policy
+
+Inspired by the famous [Netflix expense policy](https://hbr.org/2014/01/how-netflix-reinvented-hr), I frequently argued that architecture decision policy could be summarized in six words: 
+
+![](assets/images/arch/decision-policy.png)
+
+What I mean by that is that anyone can make architecture decisions, provided that, in addition to their specific requirements, they also think about the impact of their choices on:
+
+* **Overall organizational complexity**
+  * Limiting tech diversity, size, and dependencies to make out technology manageable
+  * Reducing attack surface (e.g., number of third-party dependencies and library ecosystems)
+* **Ease of moving people** between teams (both to get help and help others, get promoted)
+  * Do not create exotic islands
+* **Ease of training and onboarding** of both internal and external developers
+  * We mostly need conventional tech. Make choices accordingly
+* **Talent density** and the possibility of performing at the world-scale level
+  * Scaling requires in-depth knowledge and fine-tuning tech. You cannot have it with many options, each with only a few in-house experts
+* New **reorganizations**
+  * Would this fit with other components from other domains? 
+* Reducing global **duplication of effort** and inefficiencies
+  * Are we doing the work others are also doing?
+  * Can others reuse your work? Can you reuse the work of others?
+
+While not enough, this simple policy resonates well and encourages people to be more thoughtful when making decisions.
 
 ### Distributing Decisions, Autonomy, and Alignment
 

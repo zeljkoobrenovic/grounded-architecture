@@ -69,6 +69,7 @@ Maintaining high-quality data on relevant internal and external technology devel
 ## Maximizing Organizational Alignment
 
 The fourth goal stated that the architecture function should be a cohesive factor in minimizing misalignments.
+
 ![](assets/images/arch/iStock-165954660.jpg)
 ^image by istock^
 
