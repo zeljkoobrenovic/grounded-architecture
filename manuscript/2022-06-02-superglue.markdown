@@ -37,9 +37,19 @@ The main problem of these tensions is that they **slow things down due** to misc
 ![](assets/images/tension-architecture.png)
 ***Figure 3:** Architects should be in the middle of reducing tensions between technology, product, organization, and business functions.*
 
-While staying close to technology (engine room), architects must ensure that technology is serving the needs of customers and the business and that technical architecture is well aligned with the organizational design. At the same time, architects can help ensure that business, product, and organizational designs are well-informed about the state, risks, and opportunities of an organization's technology to avoid creating impractical strategies, setting unrealistic goals, or missing opportunities.
+While staying close to technology (engine room), architects must ensure that technology is serving the needs of customers and the business and that technical architecture is well aligned with the organizational design. At the same time, architects can help ensure that business, product, and organizational designs are well-informed about the state, risks, and opportunities of an organization's technology to avoid creating impractical strategies, setting unrealistic goals, or missing opportunities. More specifically, there are several **key risks** that the misalignment brings, and architects need to be aware of::
+* **Building wrong products**, as technology implementation may make wrong assumptions not aligned with product vision and architecture. 
+* **Wrong prioritization of activities**, if there are no clear business and product metrics, we may build "interesting" products that do not create value for our customers and business.
+* **Unexpected delivery delays**, due to underestimation of complexity, effort, and dependencies,
+* **Duplication of effort**, due to lack of awareness about other all activities and lack of business or product harmonization to facilitate building shared components,
+* **Building too complex products**, as we may create a complex configurable system to address all possible cases, but we could have decided to simplify and harmonize our processes and products and build a more straightforward technical solution.
+* **Overengineering** due to both lack of pushback to simplify products and lack of understanding of technology (e.g., use of a complex and expensive messaging middleware capable of handling millions of messages per hour for the use case where we have a few thousand messages per day),
+* **Building too simple, unscalable products**, as we may expect to simplify and harmonize our processes, but in reality, we need to support many variations and expectations as they create value for customers and businesses.
+* **Building low-quality products**, due to  creating unnecessary complexity and lack of critical knowledge and expertise in the organization,
+* **Complicated dependencies between teams that slow them down** due to suboptimal organizational design and lack of awareness of all the links between systems and people,
+* **Creating fragile, unsustainable team structures** (e.g., one or two developers in some critical technology).
 
-Getting the product/technology/organizational/business alignment right takes a lot of work, which is one of the main areas of architectural practice. There will always be essential tension between system architecture, team organization, and product organization. Ideally, these structures all change simultaneously and stay in perfect sync. But in practice, these structures change and move at different speeds. All in all, this situation guarantees the job security of superglue architects.
+Getting the product/technology/organizational/business alignment right takes a lot of work, which is one of the main areas of architectural practice. There will always be **essential tension** between system architecture, team organization, and product organization. Ideally, these structures all change simultaneously and stay in perfect sync. But in practice, these structures change and move at different speeds. All in all, this situation guarantees the job security of superglue architects.
 
 ## Superglue Abilities
 
