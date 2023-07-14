@@ -113,9 +113,7 @@ Image by <a href="https://pixabay.com/users/pexels-2286921/?utm_source=link-attr
 
 <p>ISO/IEC 25010 is a standard that provides guidelines and recommendations for evaluating software product quality. It is a part of the ISO/IEC 25000 series, which encompasses a set of international standards for software engineering.</p>
 
-<p>ISO/IEC 25010, the System and Software Quality Requirements and Evaluation (SQuaRE) standard, focuses on evaluating software product quality. It defines a framework for assessing a software product’s quality characteristics.</p>
-
-<p>The standard identifies several quality characteristics that should be considered during evaluation. I have used four of them in practice and can recommend them as a practical way to assess and discuss the quality of software systems:</p>
+<p>The standard identifies several quality characteristics that should be considered during evaluation. I have used four of them in practice and can recommend them as a pragmatic way to assess and discuss the quality of software systems:</p>
 
 <ul>
   <li><strong>Maintainability:</strong> The ease with which the software can be modified, corrected, adapted, or enhanced.</li>
@@ -123,8 +121,6 @@ Image by <a href="https://pixabay.com/users/pexels-2286921/?utm_source=link-attr
   <li><strong>Performance Efficiency:</strong> The software’s ability to perform its functions efficiently, considering resource utilization.</li>
   <li><strong>Reliability:</strong> The software’s ability to maintain a specified level of performance under stated conditions for a defined period.</li>
 </ul>
-
-<p>ISO/IEC 25010 guides defining measurement scales, evaluating software quality, and reporting the evaluation results. It aims to help organizations and evaluators assess the quality of software products effectively, allowing for better decision-making, improvement, and comparison of software products.</p>
 
 <h2 id="maintainability">Maintainability</h2>
 
@@ -144,13 +140,13 @@ Image by <a href="https://pixabay.com/users/pexels-2286921/?utm_source=link-attr
 
 <ul>
   <li><strong>Keep Systems Small:</strong> The overall size of the source code of the software product matters. Systems with about 200,000 lines of code are frequently challenging to maintain.</li>
+  <li><strong>Organize System in Limited Number (e.g., 7±2) Balanced Components:</strong> When a system has too many or too few components, or if components differ in size significanlty (e.g., you have 80% of code in one common component) it is considered more challenging to understand and maintain.</li>
+  <li><strong>Couple Files Loosely:</strong> Software products where more source code resides in files strongly coupled with other files are deemed harder to maintain.</li>
+  <li><strong>Keep Components Loosely Coupled:</strong> Hide as much as possible of files in a component from direct dependencies from other components.</li>
   <li><strong>Avoid Duplication:</strong> Avoid the occurrence of identical fragments of source code in more than one place in the product.</li>
-  <li><strong>Write Short Units of Code:</strong> Keep units (e.g., functions, methods) small, with many practitioners recommending units to be shorter than 30 lines.</li>
-  <li><strong>Write Simple Units of Code:</strong> Keep the number of decision points (e.g., if, while) per unit low, ideally below 5 (so-called McCabe index).</li>
-  <li><strong>Avoid Many Parameters in Unit Interfaces:</strong> Large interfaces are deemed more complicated to maintain.</li>
-  <li><strong>Couple Files Loosely:</strong> Software products where more source code resides in modules strongly coupled with other modules are deemed harder to maintain.</li>
-  <li><strong>Organize System in 7±2 Balanced Components:</strong> When a system has too many or too few components, it is considered more challenging to understand and maintain.</li>
-  <li><strong>Keep Components Loosely Coupled:</strong> Hide as much as possible of modules. A module is hidden if there are no incoming dependencies from modules in other components.</li>
+  <li><strong>Write Short Units of Code:</strong> Keep units (e.g., functions, methods) small, with many practitioners recommending units to be shorter than 30 lines. Short units are also much easier to unit test.</li>
+  <li><strong>Write Simple Units of Code:</strong> Keep the number of decision points (so-called McCabe index, e.g., if, while statement) per unit low, ideally below 5.</li>
+  <li><strong>Avoid Many Parameters in Unit Interfaces:</strong> Large number of parameters in a unit are deemed more complicated to maintain.</li>
 </ul>
 
 <h2 id="security">Security</h2>
@@ -171,13 +167,13 @@ Image by <a href="https://pixabay.com/users/pexels-2286921/?utm_source=link-attr
 <ul>
   <li><strong>Protect Data Transport:</strong> Protect data transport with a sufficiently robust protection method, minimizing caching of sensitive data.</li>
   <li><strong>Protect Stored Data:</strong> Prevent or restrict access to data stored physically. Encrypt sensitive data. Correctly applying a one-way hash to the data.</li>
-  <li><strong>Uniquely Identify Actors:</strong> Identify and record system actors in a way that points uniquely to a specific actor. Include detailed traceable information, such as location or origin.</li>
-  <li><strong>Enforce Authentication:</strong> Enforce authentication for all system functions and all uses. Use an intrinsically robust authentication method. For failed authentication, do not perform any tasks or expose information.</li>
-  <li><strong>Enforce Authorization:</strong> Authorize within the system so the user cannot circumvent it. Authorize for every system function and at every attempt. If authorization fails, record this event and inform the user only that authorization failed. Give users the least possible privileges.</li>
-  <li><strong>Manage Sessions Securely:</strong> Monitor the actor’s actions securely. Create and expire session tokens securely.</li>
   <li><strong>Verify Input and Output:</strong> Reject invalid system input. The rejection should not disclose information. Validate within the system, validated against a whitelist. Prevent injection and overflow vulnerabilities. Escape all output. Never unnecessarily expose implementation details.</li>
+  <li><strong>Uniquely Identify Actors:</strong> Identify and record system actors in a way that points uniquely to a specific actor. Include detailed traceable information, such as location or origin.</li>
+  <li><strong>Enforce In-Depth Authentication:</strong> Enforce authentication for all system functions and all uses. Use an intrinsically robust authentication method. For failed authentication, do not perform any tasks or expose information.</li>
+  <li><strong>Enforce In-Depth Authorization:</strong> Authorize within the system so the user cannot circumvent it. Authorize for every system function and at every attempt. If authorization fails, record this event and inform the user only that authorization failed. Give users the least possible privileges.</li>
+  <li><strong>Manage User Sessions Securely:</strong> Create and expire sessions and tokens securely.</li>
   <li><strong>Keep Evidence:</strong> Allow non-repudiation and accountability. Keep the proof that an actor actively approved and performed an action. Store it securely, and facilitate retrieval and analysis.</li>
-  <li><strong>Manage Users Securely:</strong> Implement secure user sign-up, blocking and removal, and management of user credentials.</li>
+  <li><strong>Manage Users Securely:</strong> Implement secure and automated process for user sign-up, blocking and removal, and management of user credentials.</li>
 </ul>
 
 <h2 id="performance-efficiency">Performance Efficiency</h2>
@@ -195,14 +191,14 @@ Image by <a href="https://pixabay.com/users/pexels-2286921/?utm_source=link-attr
 <h3 id="performance-efficiency-tactics">Performance Efficiency Tactics</h3>
 
 <ul>
+  <li><strong>Observe System Performance:</strong> Know the system’s actual performance and support problem analysis and resolution by measuring and monitoring the system.</li>
   <li><strong>Optimize Internal Communication:</strong> Limit the number of steps, usage of small messages, and transformations in inter-process communications.</li>
   <li><strong>Limit External Communication:</strong> Limit usage of external services and associated uncertainty, especially if the system has no strong guarantees over the external service’s time behavior.</li>
-  <li><strong>Optimize Common Transactions:</strong> Apply common, relatively easy-to-implement strategies for optimization.</li>
+  <li><strong>Optimize Common Transactions:</strong> Identify the most comman and critical transactions, and apply common, relatively easy-to-implement strategies for their optimization.</li>
   <li><strong>Scale Transaction Capabilities:</strong> Make it easy to increase transaction processing capacities when needed, both for individual components and the whole system.</li>
   <li><strong>Scale Data Capabilities:</strong> Take care of the volume and characteristics of the data.</li>
   <li><strong>Isolate External Influences:</strong> Control or exclude external influences that may impact the performance and the consistency of response times.</li>
   <li><strong>Provision Resources Elastically:</strong> Accommodate variations in workload. so that the consumed computer resources and associated costs of a service rise and fall proportionally to the workload.</li>
-  <li><strong>Observe System Performance:</strong> Know the system’s actual performance and support problem analysis and resolution by measuring and monitoring the system.</li>
 </ul>
 
 <h2 id="reliability">Reliability</h2>

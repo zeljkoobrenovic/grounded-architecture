@@ -139,13 +139,15 @@ Each organization will have different architectural needs and contexts. When for
 <p><img src="assets/images/model-strategy.png" alt="" />
 <em><strong>Figure 1:</strong> The structure of Grounded Architecture: Architecture Activities Platform.</em></p>
 
-<p>Considering the previous two points from Gregor Hohpe, I approach defining an architecture practice with a mindset that there is no one-size-fits-all approach. Each organization must find activities and operating models to enable architecture to solve the most critical problems.</p>
+<p>Considering the previous two points from Gregor Hohpe, I approach defining an architecture practice with a mindset that there is no one-size-fits-all approach. You must find your own activities and operating models to enable architecture to solve the most critical problems.</p>
 
 <div class="quote">
 There is no one-size-fits-all approach: each organization must find activities and operating models to enable architecture to work on the most critical problems. 
 </div>
 
-<p>Each organization will need to figure out which architecture operating model to adopt. To create a <strong>sustainable and practical architecture function</strong>, you must develop explicit agreements and “rules of engagement” with key stakeholders. The Architecture Activities Platform (Figure 1) is an organization-specific set of <strong>processes and agreements</strong> that creates a space for architecture to do everything architecture typically does, leveraging Data and People Foundations to develop a data-informed, organization-wide impact. In all these activities, Data and People Foundations provide a basis for data-informed decision-making well embedded in the organization.</p>
+<p>No matter which operating models you select, to create a <strong>sustainable and practical architecture function</strong>, you must develop some explicit agreements and “rules of engagement” with key stakeholders.</p>
+
+<p>The Architecture Activities Platform (Figure 1) is a set of <strong>processes and agreements</strong> that allows architects to do everything architecture practice typically does, leveraging Data and People Foundations to develop a data-informed, organization-wide impact. In all these activities, Data and People Foundations provide a basis for data-informed decision-making well embedded in the organization.</p>
 
 <p><br /></p>
 <h2 id="examples-of-architecture-activities">Examples of Architecture Activities</h2>
@@ -176,15 +178,15 @@ There is no one-size-fits-all approach: each organization must find activities a
 </div>
 <p><strong>Figure 2:</strong> <em>A common operating model I typically use for Grounded Architecture activities.</em></p>
 
-<p>Inspired by Gregor Hohpe’s strategy-principles-decisions model, I typically used this model (Figure 2):</p>
+<p>Inspired by Gregor Hohpe’s strategy-principles-decisions model, I typically used this guidelines:</p>
 <ul>
-  <li>Engagement mindset:
+  <li><strong>Engagement mindset</strong>:
     <ul>
       <li>Architects engage with stakeholders and product and project teams in a <strong>collaborative and supportive manner</strong>.</li>
       <li>Architects aim at <strong>empowering the teams</strong> so that they make most of the decisions.</li>
     </ul>
   </li>
-  <li>Role of architects:
+  <li><strong>Role of architects</strong>:
     <ul>
       <li><strong>Bring relevant data</strong> to inform decisions leveraging a <a href="data">Data Foundation</a>.</li>
       <li><strong>Define decision boundaries</strong> to enable minimal compatibility and strategic alignment (e.g., public cloud provider, golden paths, or tech stack constraints).</li>
@@ -192,7 +194,7 @@ There is no one-size-fits-all approach: each organization must find activities a
       <li><strong>Share and generalize</strong> lessons learned via a <a href="people">People Foundation</a>.</li>
     </ul>
   </li>
-  <li>Position:
+  <li><strong>Position of architects</strong>:
     <ul>
       <li>Architects spend their time in <strong>constant motion</strong> between supporting teams’ <strong>daily work</strong> and working on <strong>strategic topics</strong>, helping the organization achieve alignment between strategy and implementation.</li>
     </ul>
@@ -200,10 +202,10 @@ There is no one-size-fits-all approach: each organization must find activities a
 </ul>
 
 <div class="quote">
-My goal was to avoid formal bureaucratic approval processes, where architects appear too late and are frequently busy approving trivial decisions.
+My goal is to avoid formal bureaucratic approval processes, where architects appear too late and are frequently busy approving trivial decisions.
 </div>
 
-<p>Another characteristic of this operating model is <strong>shifting left</strong> the architecture work. My goal was to avoid formal bureaucratic approval processes, where architects appear too late and are frequently busy approving trivial decisions. Instead, my goal was to have architects involved early in any of the processes, such as during the planning and preparation stages, where it is possible to make more significant changes.</p>
+<p>Another characteristic of this operating model is <strong>shifting left</strong> the architecture work. My goal is to avoid formal bureaucratic approval processes, where architects appear too late and are frequently busy approving trivial decisions. Instead, my goal is to have architects involved early in any of the processes, such as during the planning and preparation stages, where it is possible to make more significant changes.</p>
 
 <h3 id="architecture-decision-policy">Architecture Decision Policy</h3>
 
@@ -214,38 +216,12 @@ My goal was to avoid formal bureaucratic approval processes, where architects ap
 <p>What I mean by that is that anyone can make architecture decisions, provided that, in addition to their specific requirements, they also think about the impact of their choices on:</p>
 
 <ul>
-  <li><strong>Overall organizational complexity</strong>
-    <ul>
-      <li>Limiting tech diversity, size, and dependencies to make out technology manageable</li>
-      <li>Reducing attack surface (e.g., number of third-party dependencies and library ecosystems)</li>
-    </ul>
-  </li>
-  <li><strong>Ease of moving people</strong> between teams (both to get help and help others, get promoted)
-    <ul>
-      <li>Do not create exotic islands</li>
-    </ul>
-  </li>
-  <li><strong>Ease of training and onboarding</strong> of both internal and external developers
-    <ul>
-      <li>We mostly need conventional tech. Make choices accordingly</li>
-    </ul>
-  </li>
-  <li><strong>Talent density</strong> and the possibility of performing at the world-scale level
-    <ul>
-      <li>Scaling requires in-depth knowledge and fine-tuning tech. You cannot have it with many options, each with only a few in-house experts</li>
-    </ul>
-  </li>
-  <li>New <strong>reorganizations</strong>
-    <ul>
-      <li>Would this fit with other components from other domains?</li>
-    </ul>
-  </li>
-  <li>Reducing global <strong>duplication of effort</strong> and inefficiencies
-    <ul>
-      <li>Are we doing the work others are also doing?</li>
-      <li>Can others reuse your work? Can you reuse the work of others?</li>
-    </ul>
-  </li>
+  <li><strong>Overall organizational complexity</strong>: Limiting tech diversity, size, and dependencies makes technology more manageable. It also reduces the attack surface with fewer third-party dependencies and tool ecosystems (build, testing, etc.).</li>
+  <li><strong>Ease of moving people</strong> between teams (both to get help and help others, get promoted): Do not unnecessarily create exotic islands with few experts in technologies not supported or widely used in the organization. People cannot get help or move across the organization as their expertise may be useless outside the team.</li>
+  <li><strong>Ease of training and onboarding</strong> of internal and external developers: Using conventional technologies, supported with external learning resources (books, tutorials, StackOverflow) significantly helps find and grow experts.</li>
+  <li><strong>Talent density</strong> and the possibility of performing at the world-scale level: Building world-scale technology and scaling requires in-depth knowledge and fine-tuning. You cannot achieve it with only a few in-house experts.</li>
+  <li>New <strong>reorganizations</strong>: Would your choices fit with other components from other areas if ownership of components changes (e.g., another team is taking it over)?</li>
+  <li>Reducing global <strong>duplication of effort</strong> and inefficiencies: Are you doing the work others are doing? Can others reuse your work? Can you reuse the work of others?</li>
 </ul>
 
 <p>While it may not always be enough, this simple policy resonates well and encourages people to be more thoughtful when making decisions.</p>

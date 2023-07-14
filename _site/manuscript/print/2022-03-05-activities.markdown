@@ -20,9 +20,11 @@ Each organization will have different architectural needs and contexts. When for
 ![](assets/images/model-strategy.png)
 ***Figure 1:** The structure of Grounded Architecture: Architecture Activities Platform.*
 
-Considering the previous two points from Gregor Hohpe, I approach defining an architecture practice with a mindset that there is no one-size-fits-all approach. Each organization must find activities and operating models to enable architecture to solve the most critical problems. 
+Considering the previous two points from Gregor Hohpe, I approach defining an architecture practice with a mindset that there is no one-size-fits-all approach. You must find your own activities and operating models to enable architecture to solve the most critical problems. 
 
-Each organization will need to figure out which architecture operating model to adopt. To create a **sustainable and practical architecture function**, you must develop explicit agreements and "rules of engagement" with key stakeholders. The Architecture Activities Platform (Figure 1) is an organization-specific set of **processes and agreements** that creates a space for architecture to do everything architecture typically does, leveraging Data and People Foundations to develop a data-informed, organization-wide impact. In all these activities, Data and People Foundations provide a basis for data-informed decision-making well embedded in the organization.
+No matter which operating models you select, to create a **sustainable and practical architecture function**, you must develop some explicit agreements and "rules of engagement" with key stakeholders. 
+
+The Architecture Activities Platform (Figure 1) is a set of **processes and agreements** that allows architects to do everything architecture practice typically does, leveraging Data and People Foundations to develop a data-informed, organization-wide impact. In all these activities, Data and People Foundations provide a basis for data-informed decision-making well embedded in the organization.
 
 ## Examples of Architecture Activities
 
@@ -45,19 +47,19 @@ While exact activities and their scope will depend on an organization setting an
 ![](assets/images/arch/architecture-system.png)
 **Figure 2:** *A common operating model I typically use for Grounded Architecture activities.*
 
-Inspired by Gregor Hohpe's strategy-principles-decisions model, I typically used this model (Figure 2):
-* Engagement mindset: 
+Inspired by Gregor Hohpe's strategy-principles-decisions model, I typically used this guidelines:
+* **Engagement mindset**: 
   * Architects engage with stakeholders and product and project teams in a **collaborative and supportive manner**. 
   * Architects aim at **empowering the teams** so that they make most of the decisions.
-* Role of architects: 
+* **Role of architects**: 
   * **Bring relevant data** to inform decisions leveraging a [Data Foundation](#data).
   * **Define decision boundaries** to enable minimal compatibility and strategic alignment (e.g., public cloud provider, golden paths, or tech stack constraints).
   * **Define key principles** to facilitate consistency in decision-making.
   * **Share and generalize** lessons learned via a [People Foundation](#people).
-* Position:
+* **Position of architects**:
   * Architects spend their time in **constant motion** between supporting teams' **daily work** and working on **strategic topics**, helping the organization achieve alignment between strategy and implementation.
 
-Another characteristic of this operating model is **shifting left** the architecture work. My goal was to avoid formal bureaucratic approval processes, where architects appear too late and are frequently busy approving trivial decisions. Instead, my goal was to have architects involved early in any of the processes, such as during the planning and preparation stages, where it is possible to make more significant changes. 
+Another characteristic of this operating model is **shifting left** the architecture work. My goal is to avoid formal bureaucratic approval processes, where architects appear too late and are frequently busy approving trivial decisions. Instead, my goal is to have architects involved early in any of the processes, such as during the planning and preparation stages, where it is possible to make more significant changes. 
 
 ### Architecture Decision Policy
 
@@ -67,20 +69,12 @@ Inspired by the famous [Netflix expense policy](https://hbr.org/2014/01/how-netf
 
 What I mean by that is that anyone can make architecture decisions, provided that, in addition to their specific requirements, they also think about the impact of their choices on:
 
-* **Overall organizational complexity**
-  * Limiting tech diversity, size, and dependencies to make out technology manageable
-  * Reducing attack surface (e.g., number of third-party dependencies and library ecosystems)
-* **Ease of moving people** between teams (both to get help and help others, get promoted)
-  * Do not create exotic islands
-* **Ease of training and onboarding** of both internal and external developers
-  * We mostly need conventional tech. Make choices accordingly
-* **Talent density** and the possibility of performing at the world-scale level
-  * Scaling requires in-depth knowledge and fine-tuning tech. You cannot have it with many options, each with only a few in-house experts
-* New **reorganizations**
-  * Would this fit with other components from other domains? 
-* Reducing global **duplication of effort** and inefficiencies
-  * Are we doing the work others are also doing?
-  * Can others reuse your work? Can you reuse the work of others?
+* **Overall organizational complexity**: Limiting tech diversity, size, and dependencies makes technology more manageable. It also reduces the attack surface with fewer third-party dependencies and tool ecosystems (build, testing, etc.).
+* **Ease of moving people** between teams (both to get help and help others, get promoted): Do not unnecessarily create exotic islands with few experts in technologies not supported or widely used in the organization. People cannot get help or move across the organization as their expertise may be useless outside the team.
+* **Ease of training and onboarding** of internal and external developers: Using conventional technologies, supported with external learning resources (books, tutorials, StackOverflow) significantly helps find and grow experts.
+* **Talent density** and the possibility of performing at the world-scale level: Building world-scale technology and scaling requires in-depth knowledge and fine-tuning. You cannot achieve it with only a few in-house experts.
+* New **reorganizations**: Would your choices fit with other components from other areas if ownership of components changes (e.g., another team is taking it over)? 
+* Reducing global **duplication of effort** and inefficiencies: Are you doing the work others are doing? Can others reuse your work? Can you reuse the work of others?
 
 While it may not always be enough, this simple policy resonates well and encourages people to be more thoughtful when making decisions.
 
