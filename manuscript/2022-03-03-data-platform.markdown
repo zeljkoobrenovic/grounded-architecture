@@ -36,6 +36,8 @@ Simply collecting and putting data in one place will not create any value. Regar
 * **It is accessible to the whole organization**. I genuinely believe that when you give employees access to information generally reserved for specialists, architects, or "higher levels," they get more done independently. They can work faster without stopping to ask for information and approval. And they make better decisions without needing input from architects or the top.
 * **It is used in decision-making**. Having nicely curated and valuable data has zero value if you cannot ensure that such data inform vital decisions. 
 
+A> "When a measure becomes a target, it ceases to be a good measure" -Charles Goodhart
+
 My view of a Data Foundation differs from a goal-setting framework or a control board. My vision for building the Data Foundation follows **the map-making metaphor**. Maps are one of the most critical documents in human history. They give us tools to store and exchange knowledge about space and place. While there are differences between maps and the layers they show, the one thing that all maps do is **provide readers with orientation**. A sense of place is central to meaning-making. Maps are also composed of multiple layers. Similarly, the architecture Data Foundation should give readers a sense of orientation, offering data layers about systems that describe their sizes, connections, quality, security, or human activity.
 
 ## Examples of Data Foundation Sources and Tools
@@ -114,7 +116,7 @@ Finding the right ways to interpret and use data requires active effort. In othe
 * **Are we aligned and going in the same direction?** Source code overviews, public cloud usage explorers, or tech radars can highlight differences among systems and teams and trigger discussions and actions.
 * **Are we using technology optimally?** Comparing usage trends between teams can show interesting outliners (both positive and negative).
 * **Are there indicators of poor code quality?** Too large systems, duplication, long units, or long files.
-* **Productivity: is more really more or is more actually less.** For instance, comparing the number of git merges with the number of developers can indicate if our dev processes are scalable. When we scale up teams, we want to speed up our delivery (but if team structure is not proper, it can easily be the opposite as people "step on each other toes").
+* **Productivity trends: is more really more or is more actually less.** For instance, comparing the number of git merges with the number of developers can indicate if our dev processes are scalable. When we scale up teams, we want to speed up our delivery (but if team structure is not proper, it can easily be the opposite as people "step on each other toes").
 * **Do we collaborate in the way we want?** Repository analysis can point out team topologies and (un)desired dependencies.
 * **Do we work on the things we want?** We may want to focus more on innovations, but in reality, we may spend too much time on legacy maintenance.
 

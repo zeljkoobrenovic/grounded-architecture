@@ -14,5 +14,5 @@ As we bring this book to a close, I would like to equip you with a helpful appen
 * **Cloud Design Patterns** offer a mix of crucial distributed system and messaging system topics combined with modern public cloud engineering themes.
 
 * **Characteristics of High Performing Organizations** from the 'Accelerate' book by
-Nicole Forsgren, Jez Humble, and Gene Kim is excellent sources of empirical knowledge about key practices of high-performing technology organizations.
+Nicole Forsgren, Jez Humble, and Gene Kim is excellent sources of empirical knowledge about crucial practices of high-performing technology organizations.
 

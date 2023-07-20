@@ -33,9 +33,9 @@ The standard identifies several quality characteristics that should be considere
 ### Maintainability Tactics
 
 * **Keep Systems Small:** The overall size of the source code of the software product matters. Systems with about 200,000 lines of code are frequently challenging to maintain.
-* **Organize System in Limited Number (e.g., 7±2) Balanced Components:** When a system has too many or too few components, or if components differ in size significanlty (e.g., you have 80% of code in one common component) it is considered more challenging to understand and maintain.
+* **Organize System in Limited Number (e.g., 7±2) Balanced Components:** When a system has too many or too few components, or if components differ in size significantly (e.g., you have 80% of code in one common component), it is considered more challenging to understand and maintain.
 * **Couple Files Loosely:** Software products where more source code resides in files strongly coupled with other files are deemed harder to maintain.
-* **Keep Components Loosely Coupled:** Hide as much as possible of files in a component from direct dependencies from other components.
+* **Keep Components Loosely Coupled:** Hide most of the files in a component from direct dependencies from other components.
 * **Avoid Duplication:** Avoid the occurrence of identical fragments of source code in more than one place in the product.
 * **Write Short Units of Code:** Keep units (e.g., functions, methods) small, with many practitioners recommending units to be shorter than 30 lines. Short units are also much easier to unit test.
 * **Write Simple Units of Code:** Keep the number of decision points (so-called McCabe index, e.g., if, while statement) per unit low, ideally below 5.
@@ -62,7 +62,7 @@ The degree to which a product or system protects information and data so that pe
 * **Enforce In-Depth Authorization:** Authorize within the system so the user cannot circumvent it. Authorize for every system function and at every attempt. If authorization fails, record this event and inform the user only that authorization failed. Give users the least possible privileges.
 * **Manage User Sessions Securely:** Create and expire sessions and tokens securely.
 * **Keep Evidence:** Allow non-repudiation and accountability. Keep the proof that an actor actively approved and performed an action. Store it securely, and facilitate retrieval and analysis.
-* **Manage Users Securely:** Implement secure and automated process for user sign-up, blocking and removal, and management of user credentials.
+* **Manage Users Securely:** Implement a secure and automated process for user sign-up, blocking and removal, and management of user credentials.
 
 ## Performance Efficiency
 
@@ -70,7 +70,7 @@ The degree to which a product or system protects information and data so that pe
 
 ### Performance Efficiency
 
-* **Time Behavior:** Degree to which a product or system's response and processing times and throughput rates meet requirements when performing its functions.
+* **Time Behavior:** Degree to which a product or system's response, processing times, and throughput rates meet requirements when performing its functions.
 * **Capacity:** Degree to which the maximum limits of a product or system parameter meet requirements.
 * **Resource Utilization:** Degree to which the amounts and types of resources a product or system use meet requirements when performing its functions.
 
@@ -79,7 +79,7 @@ The degree to which a product or system protects information and data so that pe
 * **Observe System Performance:** Know the system's actual performance and support problem analysis and resolution by measuring and monitoring the system.
 * **Optimize Internal Communication:** Limit the number of steps, usage of small messages, and transformations in inter-process communications.
 * **Limit External Communication:** Limit usage of external services and associated uncertainty, especially if the system has no strong guarantees over the external service’s time behavior.
-* **Optimize Common Transactions:** Identify the most comman and critical transactions, and apply common, relatively easy-to-implement strategies for their optimization.
+* **Optimize Common Transactions:** Identify the most common and critical transactions, and apply standard strategies for their optimization.
 * **Scale Transaction Capabilities:** Make it easy to increase transaction processing capacities when needed, both for individual components and the whole system.
 * **Scale Data Capabilities:** Take care of the volume and characteristics of the data.
 * **Isolate External Influences:** Control or exclude external influences that may impact the performance and the consistency of response times.
