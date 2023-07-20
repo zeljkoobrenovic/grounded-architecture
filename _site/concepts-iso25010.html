@@ -140,9 +140,9 @@ Image by <a href="https://pixabay.com/users/pexels-2286921/?utm_source=link-attr
 
 <ul>
   <li><strong>Keep Systems Small:</strong> The overall size of the source code of the software product matters. Systems with about 200,000 lines of code are frequently challenging to maintain.</li>
-  <li><strong>Organize System in Limited Number (e.g., 7±2) Balanced Components:</strong> When a system has too many or too few components, or if components differ in size significanlty (e.g., you have 80% of code in one common component) it is considered more challenging to understand and maintain.</li>
+  <li><strong>Organize System in Limited Number (e.g., 7±2) Balanced Components:</strong> When a system has too many or too few components, or if components differ in size significantly (e.g., you have 80% of code in one common component), it is considered more challenging to understand and maintain.</li>
   <li><strong>Couple Files Loosely:</strong> Software products where more source code resides in files strongly coupled with other files are deemed harder to maintain.</li>
-  <li><strong>Keep Components Loosely Coupled:</strong> Hide as much as possible of files in a component from direct dependencies from other components.</li>
+  <li><strong>Keep Components Loosely Coupled:</strong> Hide most of the files in a component from direct dependencies from other components.</li>
   <li><strong>Avoid Duplication:</strong> Avoid the occurrence of identical fragments of source code in more than one place in the product.</li>
   <li><strong>Write Short Units of Code:</strong> Keep units (e.g., functions, methods) small, with many practitioners recommending units to be shorter than 30 lines. Short units are also much easier to unit test.</li>
   <li><strong>Write Simple Units of Code:</strong> Keep the number of decision points (so-called McCabe index, e.g., if, while statement) per unit low, ideally below 5.</li>
@@ -173,7 +173,7 @@ Image by <a href="https://pixabay.com/users/pexels-2286921/?utm_source=link-attr
   <li><strong>Enforce In-Depth Authorization:</strong> Authorize within the system so the user cannot circumvent it. Authorize for every system function and at every attempt. If authorization fails, record this event and inform the user only that authorization failed. Give users the least possible privileges.</li>
   <li><strong>Manage User Sessions Securely:</strong> Create and expire sessions and tokens securely.</li>
   <li><strong>Keep Evidence:</strong> Allow non-repudiation and accountability. Keep the proof that an actor actively approved and performed an action. Store it securely, and facilitate retrieval and analysis.</li>
-  <li><strong>Manage Users Securely:</strong> Implement secure and automated process for user sign-up, blocking and removal, and management of user credentials.</li>
+  <li><strong>Manage Users Securely:</strong> Implement a secure and automated process for user sign-up, blocking and removal, and management of user credentials.</li>
 </ul>
 
 <h2 id="performance-efficiency">Performance Efficiency</h2>
@@ -183,7 +183,7 @@ Image by <a href="https://pixabay.com/users/pexels-2286921/?utm_source=link-attr
 <h3 id="performance-efficiency-1">Performance Efficiency</h3>
 
 <ul>
-  <li><strong>Time Behavior:</strong> Degree to which a product or system’s response and processing times and throughput rates meet requirements when performing its functions.</li>
+  <li><strong>Time Behavior:</strong> Degree to which a product or system’s response, processing times, and throughput rates meet requirements when performing its functions.</li>
   <li><strong>Capacity:</strong> Degree to which the maximum limits of a product or system parameter meet requirements.</li>
   <li><strong>Resource Utilization:</strong> Degree to which the amounts and types of resources a product or system use meet requirements when performing its functions.</li>
 </ul>
@@ -194,7 +194,7 @@ Image by <a href="https://pixabay.com/users/pexels-2286921/?utm_source=link-attr
   <li><strong>Observe System Performance:</strong> Know the system’s actual performance and support problem analysis and resolution by measuring and monitoring the system.</li>
   <li><strong>Optimize Internal Communication:</strong> Limit the number of steps, usage of small messages, and transformations in inter-process communications.</li>
   <li><strong>Limit External Communication:</strong> Limit usage of external services and associated uncertainty, especially if the system has no strong guarantees over the external service’s time behavior.</li>
-  <li><strong>Optimize Common Transactions:</strong> Identify the most comman and critical transactions, and apply common, relatively easy-to-implement strategies for their optimization.</li>
+  <li><strong>Optimize Common Transactions:</strong> Identify the most common and critical transactions, and apply standard strategies for their optimization.</li>
   <li><strong>Scale Transaction Capabilities:</strong> Make it easy to increase transaction processing capacities when needed, both for individual components and the whole system.</li>
   <li><strong>Scale Data Capabilities:</strong> Take care of the volume and characteristics of the data.</li>
   <li><strong>Isolate External Influences:</strong> Control or exclude external influences that may impact the performance and the consistency of response times.</li>
