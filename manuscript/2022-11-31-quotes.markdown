@@ -28,7 +28,7 @@
 * * *
 
  
-**Changing Role of Architecture**
+## Changing Role of Architecture
  
  
 * * *
@@ -58,8 +58,7 @@
 
 * * *
  
-
-**Complexity**
+## Complexity
  
  
 * * *
@@ -80,7 +79,7 @@
 * * *
  
 
-**Other**
+## Other
  
  
 * * *
