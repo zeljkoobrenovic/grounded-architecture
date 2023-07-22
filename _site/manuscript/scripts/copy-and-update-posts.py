@@ -79,6 +79,10 @@ def copy_post(post):
                 elif line.startswith('permalink:'):
                     content += ' {#' + line.replace('permalink:', '').replace('"', '').strip() + '}\n\n'
 
+    if post == '2022-11-04-cheat-sheet.markdown':
+        content = content.replace('A> * ', '* ')
+        content = content.replace('> * ', '* ')
+
     while '\n\n\n' in content:
         content = content.replace('\n\n\n', '\n\n')
 
