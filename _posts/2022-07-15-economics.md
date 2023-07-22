@@ -101,14 +101,6 @@ As with any analogy, the financial options analogy has its limits. Again, it **i
 
 
 
-## To Probe Further
-
-* Martin Fowler (2019): [Is High Quality Software Worth the Cost?](https://martinfowler.com/articles/is-quality-worth-cost.html).
-* Martin Fowler (2011): [Tradable Quality Hypothesis](https://martinfowler.com/bliki/TradableQualityHypothesis.html).
-* Gregor Hohpe (2016): [Architecture: Selling Options](https://architectelevator.com/architecture/architecture-options/).
-
-
-
 ## Questions to Consider
 
 * *How can you effectively communicate the value of architectural investments to non-technical stakeholders in your organization?*

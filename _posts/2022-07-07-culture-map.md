@@ -223,9 +223,6 @@ I also found Erin Meyer's four rules on how to bridge the cultural gaps:
 * **Rule 4: Adjust and Readjust, Your Position.** It’s not enough to shift to a new position on a single scale; you’ll need to widen your comfort zone to move more fluidly back and forth along all eight.
 
 
-<br>
-## Keep An Open Mind
-
 While cultural generalizations, like the culture map, can be helpful, it is crucial to recognize that they are just that - generalizations. Not all individuals from a particular culture will fit neatly into these categories, and there can be **significant variation** even within a single culture. It is best to approach cultural differences with an open mind and a willingness to learn.
 
 
