@@ -16,6 +16,10 @@ A> * *I also explain my motivation to write this book.*
 
 This book shares my approach to running an IT architecture practice in larger organizations based on my experience at AVIV Group, eBay Classifieds, and Adevinta. I call this approach "Grounded Architecture"—architecture with strong foundations and deep roots. Prioritizing people interactions and data over processes and tools, Grounded Architecture aims to connect architecture practice to all organizational parts and levels, serving as an antidote to the "ivory tower" architecture.
 
+I use the name Grounded Architecture, drawing a parallel with the [Grounded Theory](https://en.wikipedia.org/wiki/Grounded_theory) methodology. Grounded Theory emphasizes grounding the development of theories and concepts directly in the empirical data collected from real-world observations and experiences. The term "grounded" refers to the idea that the theory is firmly rooted in the data and is not based on preconceived hypotheses or existing theoretical frameworks. The theory is not developed in advance but emerges from the data as it is analyzed. 
+
+Similarly, I wanted to create an approach to architecture practice that is more empirical and firmly rooted in data. An architecture practice that is not developed in advance based on abstract principles and frameworks but emerges and adapts based on empirical evidence.
+
 This book introduces Grounded Architecture as an IT architecture practice with two main parts:
 * **Structure**, elements you need to have to run Grounded Architecture practice, and
 * **Guiding Principles**, guiding principles that can help put the ideas of Grounded Architecture into practice.
@@ -144,3 +148,8 @@ Feel free to follow me on LinkedIn to see what I am up to:
 ## Acknowledgments
 
 Thank all AVIV Group's Architecture Center of Excellence members and eBay Classifieds Virtual Architecture Team (VAT) members who gave me invaluable feedback and discussions. Lastly, thank Peter Maas and Brent McLean for sponsoring and pushing for developing data-informed architecture in our organizations.
+
+The cover image is [a photo of Nesciobrug](https://commons.wikimedia.org/wiki/File:Nesciobrug_4.jpg). Credit: the botster, CC BY-SA 2.0, via Wikimedia Commons.
+
+ 
+
