@@ -22,8 +22,6 @@ To better understand any idea or solution, it is crucial to understand the conte
 * **synergies and transformation pressures**: big organizations do not want just to be big. They want to exploit the benefits of the economies of scale and reduce duplication of efforts,
 * **decentralized, loosely-coupled organizational units**: organizational units have significant autonomy.
 
-In the following sub-sections, I discuss these characteristics in more detail from an architectural viewpoint.
-
 ## Characteristic 1: Global Scale
 
 I have developed my approach in genuinely global and multicultural organizations on a massive scale:

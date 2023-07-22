@@ -55,8 +55,6 @@ To better understand any idea or solution, it is crucial to understand the conte
 * **decentralized, loosely-coupled organizational units**: organizational units have significant autonomy.
 
 
-In the following sub-sections, I discuss these characteristics in more detail from an architectural viewpoint.
-
 <br>
 
 ## Characteristic 1: Global Scale
