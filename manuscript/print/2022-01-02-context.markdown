@@ -16,11 +16,11 @@ A> * The Grounded Architecture approach has evolved in the context of global, lo
 My approach to creating and running an architecture function is not an abstract idea. Instead, it is the generalization of lessons learned while solving specific problems in a particular context.
 
 To better understand any idea or solution, it is crucial to understand the context in which these ideas developed. I base my views on my experiences as a Chief Architect at AVIV Group and a Principal Architect at eBay Classifieds and Adevinta. In this section, I discuss critical characteristics of the organizational context that have had an impact on my definition of the Grounded Architecture approach:
-* **global scale**: operating across multiple countries and continents with millions of users,
-* **multi-dimensional diversity**: the organizations I worked in were very diverse, including customer base, workforce, business models, team topologies, and technology stacks,
-* **nonlinear growth dynamics**: in addition to organic growth, big organizations frequently change the portfolio both by mergers and acquisitions of new businesses or by divestments,
-* **synergies and transformation pressures**: big organizations do not want just to be big. They want to exploit the benefits of the economies of scale and reduce duplication of efforts,
-* **decentralized, loosely-coupled organizational units**: organizational units have significant autonomy.
+* **Global scale**: operating across multiple countries and continents with millions of users.
+* **Multi-dimensional diversity**: the organizations I worked in were very diverse, including customer base, workforce, business models, team topologies, and technology stacks.
+* **Nonlinear growth dynamics**: in addition to organic growth, big organizations change the portfolio both by mergers and acquisitions of new businesses or by divestments.
+* **Synergies and transformation pressures**: big organizations do not want just to be big. They want to exploit the benefits of the economies of scale and reduce duplication of efforts.
+* **Decentralized, loosely-coupled organizational units**: organizational units have significant autonomy.
 
 ## Global Scale
 
