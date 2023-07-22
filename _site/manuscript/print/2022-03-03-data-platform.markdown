@@ -120,7 +120,7 @@ Finding the right ways to interpret and use data requires active effort. In othe
 * **Do we collaborate in the way we want?** Repository analysis can point out team topologies and (un)desired dependencies.
 * **Do we work on the things we want?** We may want to focus more on innovations, but in reality, we may spend too much time on legacy maintenance.
 
-## Appendix: Examples of Insights From Source Code Analyses with Sokrates
+## Appendix: Examples of Insights From Source Code Analyses
 
 Figures 6 to 10 show some insights from source code analyses with Sokrates. 
 

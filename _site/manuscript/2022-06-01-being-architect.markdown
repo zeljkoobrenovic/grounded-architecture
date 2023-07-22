@@ -7,6 +7,8 @@
 
 **IN THIS SECTION, YOU WILL:**  Get an overview of guiding principles that generalize my view on what it means to be an architect in practice.
 
+{pagebreak}
+
 In this part of the book, I introduce several guiding principles that generalize my view on what it means to be an architect in practice:
 
 * **[Architects as Superglue](#superglue)**: Architects in IT organizations should develop as "superglue," people who hold architecture, technical details, business needs, and people together across a large organization or complex projects.

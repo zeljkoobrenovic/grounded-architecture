@@ -33,14 +33,14 @@ I use Staff Engineering roles as an inspiration for the development of architect
 book [The Staff Engineer's Path](https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/) and Will
 Larson's book [Staff Engineer: Leadership beyond the management track](https://staffeng.com/guides/staff-archetypes/) are helpful guides in defining the responsibilities of architects.
 
-![](assets/images/arch/pillars.png)
-***Figure 1:** Key competencies of architects. Inspired by The Staff Engineer's Path by Tanya Reilly.*
-
- Inspired by The Staff Engineer's Path by Tanya Reilly, I group architects' impact-making competencies into three groups (Figure 1):
+Inspired by The Staff Engineer's Path by Tanya Reilly, I group architects' impact-making competencies into three groups (Figure 1):
 
 * Big-picture thinking,
 * Execution, and
 * Leveling up.
+
+![](assets/images/arch/pillars.png)
+***Figure 1:** Key competencies of architects. Inspired by The Staff Engineer's Path by Tanya Reilly.*
 
 ### Big-Picture Thinking 
 

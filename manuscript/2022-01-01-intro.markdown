@@ -159,5 +159,6 @@ Thank all AVIV Group's Architecture Center of Excellence members and eBay Classi
 
 The cover image is [a photo of Nesciobrug](https://commons.wikimedia.org/wiki/File:Nesciobrug_4.jpg). Credit: the botster, CC BY-SA 2.0, via Wikimedia Commons.
 
- 
+![](assets/images/arch/nescio_brug_boat.jpeg)
+^image by henk monster, cc by 3.0, via wikimedia commons.^
 

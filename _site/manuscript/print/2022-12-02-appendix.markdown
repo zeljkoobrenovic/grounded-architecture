@@ -7,6 +7,8 @@
 
 **IN THIS SECTION, YOU WILL:** Get an overview of three resources in the appendix.
 
+{pagebreak}
+
 As we bring this book to a close, I would like to equip you with a helpful appendix. In this part, I outline three resources that have proven vital in my journey as an IT architect and have reminded me about what I always need to know about crucial aspects of IT practice. I routinely refer back to them and carry them in my practitioner "backpack," so I added their summaries in the appendix.
 
 * **EIC/ISO 25010 Standard:** This standard focuses on product quality and system quality models. While imperfect, this standard is a reasonably complete yet compact source for understanding software maintainability, security, reliability, and performance efficiency. 
