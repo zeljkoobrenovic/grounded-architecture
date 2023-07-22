@@ -180,7 +180,7 @@ Finding the right ways to interpret and use data requires active effort. In othe
 <br>
 
 <br>
-## Appendix: Examples of Insights From Source Code Analyses with Sokrates
+## Appendix: Examples of Insights From Source Code Analyses
 
 Figures 6 to 10 show some insights from source code analyses with Sokrates. 
 

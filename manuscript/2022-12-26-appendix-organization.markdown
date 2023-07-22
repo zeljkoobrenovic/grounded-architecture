@@ -7,6 +7,8 @@
 
 **IN THIS SECTION, YOU WILL:** Get a summary of characteristics of high-performing technology organizations.
 
+{pagebreak}
+
 Characteristics of High Performing Organizations from the [Accelerate book](https://www.oreilly.com/library/view/accelerate/9781457191435/) by Nicole Forsgren, Jez Humble, and Gene Kim are excellent sources of empirical knowledge about high-performing IT organizations.
 
 ## Four Key Metrics

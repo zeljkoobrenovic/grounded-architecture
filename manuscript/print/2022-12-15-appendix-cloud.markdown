@@ -7,6 +7,8 @@
 
 **IN THIS SECTION, YOU WILL:** Get a mix of key distributed and messaging system topics combined with modern public cloud engineering themes.
 
+{pagebreak}
+
 Cloud Design Patterns offer a mix of key distributed and messaging system topics and modern public cloud engineering themes.
 
 Source: [learn.microsoft.com/en-us/azure/architecture/patterns](https://learn.microsoft.com/en-us/azure/architecture/patterns/)
