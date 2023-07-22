@@ -14,13 +14,11 @@ A> * Six Simple Rules emphasizes that in today’s complicated business environm
 A> * To deal with complexity, organizations should depend on the judgment of their people and on these people cooperating. 
 A> * This view is well aligned with the ideas of Grounded Architecture.
 
-The book [Six Simple Rules: How to Manage Complexity without Getting Complicated](https://www.bcg.com/capabilities/organization/smart-simplicity/six-rules-overcoming-complexity), by Yves Morieux and Peter Tollman is another source of inspiration for my vision on the Architecture practice. Morieux and Tollman introduced a concept of **Smart Simplicity** with six rules or strategies that enable organizations to promote **new behaviors and improve performance**.
+The book [Six Simple Rules: How to Manage Complexity without Getting Complicated](https://bcg.com/capabilities/organization/smart-simplicity/six-rules-overcoming-complexity), by Yves Morieux and Peter Tollman is another source of inspiration for my vision on the Architecture practice. Morieux and Tollman introduced a concept of **Smart Simplicity** with six rules or strategies that enable organizations to promote **new behaviors and improve performance**.
 
-Six Simple Rules emphasize that in today’s business environment, you **need to set up organizational structures based on cooperation**. To deal with complexity, organizations should depend on the judgment of their people, which requires giving them more autonomy to act. It also depends on these people cooperating to utilize the organization's capabilities to cope with complex problems.
+Six Simple Rules emphasize that in today’s business environment, you **need to set up organizational structures based on cooperation**. To deal with complexity, organizations should depend on the judgment of their people, giving them more autonomy to act. It also depends on these people cooperating to utilize the organization's capabilities to cope with complex problems.
 
-Six Simple Rules has been a very inspirational source of my work. In my work, I constantly dealt with **complex transformations** to create organizational structures based on cooperation. 
-
-Grounded Architecture is well suited to support and grow organizational structures based on cooperation. In this section, I will explore the connection between the ideas of Grounded Architecture and Six Simple Rules.
+Six Simple Rules has been a very inspirational source of my work. In my work, I constantly dealt with **complex transformations** to create organizational structures based on cooperation. Grounded Architecture is well suited to support and grow organizational structures based on cooperation. In this section, I will explore the connection between the ideas of Grounded Architecture and Six Simple Rules.
 
 ## Background: Limitations of Hard and Soft Management Approaches
 
@@ -53,7 +51,7 @@ This difference between **Autonomy** and **Self-Sufficiency** leads us to the se
 * **Extend the shadow of the future**. Have people experience the consequences that result from their behavior and decisions. Tighten feedback loops. Shorten the duration of projects. Enable people to see how their success is aided by contributing to the success of others.
 * **Reward those who cooperate**. Increase the payoff for all when they cooperate in a beneficial way. Establish penalties for those who fail to cooperate.
 
-## Simple Rule 1: Understand What Your People Do
+## Rule 1: Understand What Your People Do
 
 The first rule states that you must genuinely understand performance: **what people do** and **why they do it**. When you know why people do what they do and how it drives performance, you can define the **minimum sufficient set of interventions with surgical accuracy**. 
  
@@ -74,7 +72,7 @@ I have found architecture practice can be very helpful in understanding what peo
 * Having a **[Data Foundation](#data)** with an **overview of various data sources** can show where activities are happening, visible trends, and how people cooperate. One of the Data Foundation principles, **build maps, not control units,** supports understanding and orientation rather than being a simple metric tool.
 * Leveraging the **[People Foundation](#people)** to **connect people** and enables them to **learn what is happening** in different parts of the organization.
 
-## Simple Rule 2: Reinforce Integrators
+## Rule 2: Reinforce Integrators
 
 Reinforce integrators by looking at those **directly involved in the work**, giving them **power and interest to foster cooperation in dealing with complexity** instead of resorting to the paraphernalia of overarching hierarchies, overlays, dedicated interfaces, balanced scorecards, or coordination procedures.
  
@@ -95,7 +93,7 @@ Architecture practice, in my view, should be strongly related to reinforcing int
 * Furthermore, my view on architects as **[superglue](#superglue)** defines architects as **critical integrators** and **integrator role-models** in an organization. 
 * And having a **[Data Foundation](#data)** can **support integrators with data and insights**, empowering them to do better, more informed work.
 
-## Simple Rule 3: Increase the Total Quantity of Power
+## Rule 3: Increase the Total Quantity of Power
 
 Whenever you consider an **addition to** your organization’s **structure, processes, and systems**, think about **increasing the quantity of power**. Doing so may **save you from increasing complicatedness** and enable you to achieve a more significant impact with less cost. You can increase the quantity of power by allowing some functions to influence performance and stakes that matter to others. 
 
@@ -116,7 +114,7 @@ Architecture practice can support increasing power quantity with the **[operatin
 * We aimed to increase the quantity of the **decision-making power** and keep architectural decision-making **distributed across the organization** and embedded in the development teams. Development teams traditionally have the best insights and most information relevant for making a decision. 
 * Additionally, the **[Data Foundation](#data)** accessible to all interested people in the organization can give them **data in insights that can increase their power in daily work**.
 
-## Simple Rule 4: Increase Reciprocity
+## Rule 4: Increase Reciprocity
 
 In the face of business complexity, work is becoming more interdependent. To meet multiple and often contradictory performance requirements, **people must rely more on each other**. They need to **cooperate directly** instead of depending on dedicated interfaces, coordination structures, or procedures that only add to complicatedness. 
 
@@ -136,7 +134,7 @@ Architecture practice can be directly related to increasing reciprocity:
 * I consider the success of architecture practice dependent on **[architects' impact](#impact)**. Likewise, the developer team's support depends on architecture support. I also integrate feedback from teams that architects support in architects' performance evaluations.  
 * In addition, the **[People Foundation](#people)** directly supports one of the ways of reinforcing reciprocity: **creating new networks of interactions**.
 
-## Simple Rule 5: Extend the Shadow of the Future
+## Rule 5: Extend the Shadow of the Future
 
 Six Simple Rules emphasize the importance of making visible and clear **what happens tomorrow as a consequence of what they do today**. You can manage complex requirements by making simple changes while removing organizational complexity. With the strategic alignment typical of the hard approach, these simple solutions—for instance, career paths—often come at the end of a sequence that starts by installing the most cumbersome changes: new structure, processes, systems, metrics, etc. Simple and effective solutions are then impossible.
  
@@ -158,7 +156,7 @@ Architecture practice can extend the shadow of the future in multiple ways:
 * The **[Data Foundation](#data)** can create **transparency** and provides data necessary to **model the future**. I've used such data to create many **simulations and roadmap** options. 
 * The principle of applying **[economic modeling](#economics)** to architecture decision-making directly supports describing what happens tomorrow as a consequence of what they do today. 
 
-## Simple Rule 6: Reward Those Who Cooperate
+## Rule 6: Reward Those Who Cooperate
 
 Lastly, the Six Simple Rules approach recommends that when you cannot create direct feedback loops embedded in people’s tasks, you need **management’s intervention to close the loop**. Managers must then use the familiar performance evaluation tool but in a very different way. 
 
@@ -177,10 +175,6 @@ To reward those who cooperate, managers:
 Architecture practice can reward cooperation by making it easier for everyone to **help others and ask for help**. 
 * Having a strong **[People Foundation](#people)** can provide the context and **networks of people** to more easily collaborate. 
 * Adding diverse data sources in the **[Data Foundation](#data)** can help creating **transparency about cooperation** opportunities and problems.
-
-## To Probe Further
-
-* [Six Simple Rules: How to Manage Complexity without Getting Complicated](https://www.bcg.com/capabilities/organization/smart-simplicity/six-rules-overcoming-complexity), by  Yves Morieux and Peter Tollman, 2014.
 
 ## Questions to Consider
 

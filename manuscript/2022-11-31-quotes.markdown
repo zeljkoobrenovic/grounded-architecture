@@ -5,6 +5,8 @@
 ![](assets/images/arch/books-g1b2675255_1920.jpg)
 ^image by Amy from Pixabay^
 
+## People, People, People
+ 
 * * *
 
 *Architecture is **not so much about the software**, **but about the people** who write the software. The core principles of architecture, such as **coupling and cohesion**, aren't about the code. The code doesn't 'care' about how cohesive or decoupled it is; … But people do care about their coupling to other team members.*

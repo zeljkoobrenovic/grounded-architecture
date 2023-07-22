@@ -113,10 +113,10 @@ Regardless of their technical or design expertise, architects must possess a **s
  
 ## Questions to Consider
 
-* *On a scale from 1 to 10, how would you rate your current architectural skill sets, considering technical, communication, and business skills?*
+* *On a scale from 1 to 10, how would you rate your current architectural skill sets, considering technical, communication, product, and business skills?*
 * *Reflect on your technical skills. How proficient are you in system design, understanding engineering processes, recognizing design patterns and tactics, ensuring security and privacy, optimizing systems, and maintaining code structures?*
 * *Do you need to develop any specific hard skills to enhance your performance as an architect?*
-* *Now, think about your soft skills. How effectively do you communicate (in writing, visually, verbally, and through listening)? How strong are your networking and collaboration skills, and how well do you manage your time and organizational tasks?*
+* *How effectively do you communicate (in writing, visually, verbally, and through listening)? How strong are your networking and collaboration skills, and how well do you manage your time and organizational tasks?*
 * *Can you identify an instance where your problem-solving skills and strategic thinking have significantly influenced your work as an architect?*
 * *Looking at business skills, how well do you understand general business concepts, and how familiar are you with the specific business domain of your organization?*
 * *How competent are you in business analysis and requirements gathering? Can you share an example where you effectively translated business objectives into functional and technical specifications?*

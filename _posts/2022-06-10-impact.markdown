@@ -72,16 +72,17 @@ book [The Staff Engineer's Path](https://www.oreilly.com/library/view/the-staff-
 Larson's book [Staff Engineer: Leadership beyond the management track](https://staffeng.com/guides/staff-archetypes/) are helpful guides in defining the responsibilities of architects.
 
 
+Inspired by The Staff Engineer's Path by Tanya Reilly, I group architects' impact-making competencies into three groups (Figure 1):
+
+* Big-picture thinking,
+* Execution, and
+* Leveling up.
+
 <div style="width: 100%; text-align: center">
 <img src="assets/images/arch/pillars.png" style="width: 80%">
 </div>
 ***Figure 1:** Key competencies of architects. Inspired by The Staff Engineer's Path by Tanya Reilly.*
 
- Inspired by The Staff Engineer's Path by Tanya Reilly, I group architects' impact-making competencies into three groups (Figure 1):
-
-* Big-picture thinking,
-* Execution, and
-* Leveling up.
 
 <br>
 ### Big-Picture Thinking 

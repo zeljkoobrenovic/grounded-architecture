@@ -53,20 +53,20 @@ Grounded Architecture supports governance models that are **adaptable to the com
 
 In behavioral economics and psychology, a nudge is a **subtle or indirect suggestion** influencing someone's behavior or decision-making **without forcing them or limiting their freedom of choice**. Nudges can be applied in various settings, such as policy-making, marketing, and personal interactions, to encourage people to make better choices, improve their well-being, or achieve specific goals.
 
-<div class="quote">
-A nudge is a subtle or indirect suggestion influencing someone's behavior or decision-making without forcing them or limiting their freedom of choice.
-</div>
-
-A nudge can take many forms, such as a **small change in the environment**, a **gentle reminder**, a **positive reinforcement**, or a **default option**. For example, placing healthy food options at eye level in a cafeteria can nudge people to choose healthier meals. Or setting a default option for organ donation can increase the number of donors.
-
-The concept of a nudge was popularized by the book **"Nudge: Improving Decisions About Health, Wealth, and Happiness"** by Richard Thaler and Cass Sunstein, which argues that various **cognitive biases and heuristics** often influence people's decisions, and that nudges can help people overcome these biases and make better choices.
-
 <br>
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
      src="assets/images/arch/iStock-1390608248.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by iStock
 </div>
+
+A nudge can take many forms, such as a **small change in the environment**, a **gentle reminder**, a **positive reinforcement**, or a **default option**. For example, placing healthy food options at eye level in a cafeteria can nudge people to choose healthier meals. Or setting a default option for organ donation can increase the number of donors.
+
+<div class="quote">
+A nudge is a subtle or indirect suggestion influencing someone's behavior or decision-making without forcing them or limiting their freedom of choice.
+</div>
+
+The concept of a nudge was popularized by the book **"Nudge: Improving Decisions About Health, Wealth, and Happiness"** by Richard Thaler and Cass Sunstein, which argues that various **cognitive biases and heuristics** often influence people's decisions, and that nudges can help people overcome these biases and make better choices.
 
 Richard Thaler and Cass Sunstein also introduced the concept of **choice architecture** as a critical component of nudging. It refers to how the options are presented to individuals, which can significantly influence their choices. Choice architecture is **the design of the decision-making environment**, which includes the layout, structure, and organization of available options.
 

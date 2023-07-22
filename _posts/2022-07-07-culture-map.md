@@ -228,14 +228,6 @@ I also found Erin Meyer's four rules on how to bridge the cultural gaps:
 
 While cultural generalizations, like the culture map, can be helpful, it is crucial to recognize that they are just that - generalizations. Not all individuals from a particular culture will fit neatly into these categories, and there can be **significant variation** even within a single culture. It is best to approach cultural differences with an open mind and a willingness to learn.
 
-<br>
-## To Probe Further
-
-* [The Culture Map: Decoding How People Think, Lead, and Get Things Done Across Cultures](https://www.goodreads.com/en/book/show/22085568), by Erin Meyer, 2014
-* [Navigating the Cultural Minefield](https://hbr.org/2014/05/navigating-the-cultural-minefield), by Erin Meyer, Harvard Business Review, 2014
-* [Increase Your Team’s Performance with The Culture Map](https://awarenessagents.wordpress.com/2019/06/07/increase-your-teams-performance-with-the-culture-map/), by Andreea, 2019
-* [The Culture Map Lecture Notes](https://docs.google.com/presentation/d/1yn-IHK9iXJ1Qgxj_uw16WKQ1Qp9uXKGSSUbJg0xT9eE/edit?usp=sharing), 2023
-
 
 ## Questions to Consider
 
