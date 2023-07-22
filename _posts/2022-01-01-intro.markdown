@@ -92,10 +92,6 @@ The three parts of the book (Structure, Being an Architect, and Doing Architectu
 * Define IT **architecture roles** and responsibilities, skills, and career paths,
 * Operate **effective IT architecture practice** in complex multicultural organizations.
 
-### How To Navigate This Book?
-
-I invite you to read this book from **beginning to end**, following the progression from data and basic structures to management and organizational topics. However, you can **also browse the text** and start reading whatever interests you. I use many **illustrations** to create easy-to-remember pictures that you can associate with discussed topics, making the book usable across your organization as a coffee table book, serving as an inspiration, or sparking discussions.
-
 ### Format
 
 I have organized my lessons and insights in a form that, if you recognize the problems and are inspired by solutions, could use as a **high-level "playbook"** about how to work as an architect or run an architecture practice. I also provide more concrete tips on each discussed topic, finishing each section with questions you should consider when addressing these topics.
@@ -106,7 +102,10 @@ This book is **not technical**. We will not discuss the details of public cloud 
 
 ### Is This A Proven Method?
 
-Like with many similar books, you may be disappointed if you are looking for a scientifically proven "method" of running a modern architecture practice. This book is **personal and opinionated**, building on my daily experiences as an architect and head of an architecture practice. While subjective, I believe this book can provide **valuable insights** for IT architects, their managers, and people working with architects. I invite others to share the lessons they have learned similarly. Even if opinionated and limited in scope, such practical reflections based on concrete examples have much more value for practitioners than abstract debates, formal methods, or academic analyses.
+Like with many similar books, you may be disappointed if you are looking for a scientifically proven "method" of running a modern architecture practice. This book is **personal and opinionated**, building on my daily experiences as an architect and head of an architecture practice. While subjective, I believe this book can provide **valuable insights** for IT architects, their managers, and people working with architects. I have successfully **applied my approach in three different companies**, which gives it some generality and repeatability. 
+
+I invite others to share the lessons they have learned similarly. Even if opinionated and limited in scope, such practical reflections based on concrete examples have much more value for practitioners than abstract debates, formal methods, or academic analyses. 
+
 
 ### Who Should Read This Book?
 
@@ -115,7 +114,7 @@ When writing this book, I had a **broad audience** in my mind. The article shoul
 
 ## Key Influences
 
-I have successfully **applied my approach in three different companies**, which gives it some generality and repeatability. The Grounded Architecture approach also builds on many ideas others have successfully used. Gregor Hohpe's [**Architecture Elevator**](https://architectelevator.com/) view of architecture has heavily inspired my work. In many ways, my work reflects the lessons learned from implementing Gregor's ideas in practice. Gregor described modern architects' functions as aligning organization and technology, reducing friction, and charting transformation journeys. Such modern architects ride the Architect Elevator from the penthouse, where the business strategy is set, to the engine room, where engineers implement enabling technologies.
+The Grounded Architecture approach also builds on many ideas others have successfully used. Gregor Hohpe's [**Architecture Elevator**](https://architectelevator.com/) view of architecture has heavily inspired my work. In many ways, my work reflects the lessons learned from implementing Gregor's ideas in practice. Gregor described modern architects' functions as aligning organization and technology, reducing friction, and charting transformation journeys. Such modern architects ride the Architect Elevator from the penthouse, where the business strategy is set, to the engine room, where engineers implement enabling technologies.
 
 In my quest to define modern architectural roles, I used Staff+ Engineering jobs as an inspiration for the development of architects. Tanya Reilly's book [**The Staff Engineer's Path**](https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/) and Will Larson's book [**Staff Engineer: Leadership beyond the management track**](https://staffeng.com/guides/staff-archetypes/) are helpful guides in defining the responsibilities of modern architects. Overall, the Staff-plus engineering roles provide excellent examples for the development of architects.
 
@@ -177,6 +176,8 @@ In the third part, I discuss the Guiding Principles of Grounded Architecture, gr
 I conclude with a summary and pointers to external resources for those who want to explore more.
 
 The [bookshelf](bookshelf) section shows many other books and resources that have influenced my approach and ideas. 
+
+I invite you to read this book from **beginning to end**, following the progression from data and basic structures to management and organizational topics. However, you can **also browse the text** and start reading whatever interests you. I use many **illustrations** to create easy-to-remember pictures that you can associate with discussed topics, making the book usable across your organization as a coffee table book, serving as an inspiration, or sparking discussions.
 
 
 ## Stay Connected
