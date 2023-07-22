@@ -127,7 +127,7 @@ Another vital part of my experience that shaped this book was my earlier experie
 
 My experience as a **CTO** of [Incision](https://incision.care), a startup, has helped me better understand the challenges of creating and running an IT organization.
 
-My experience as a **researcher** at [Dutch Center for Computer Science and Mathematics (CWI)](https://www.cwi.nl/en/) and [Eindhoven Technical University (TU/e)](https://www.tue.nl/en/) provided me with a valuable background to do rigorous data analyses and research. From this research period, I want to highlight a collection of essays [Design Instability](https://design-instability.com/) I co-authored with Erik Stolterman, where we connected experiences of designing/architecting in three disciplines: classical design, UX design, and software engineering. This work has helped me better relate to and learn from non-technical fields necessary for architecture work.
+My experience as a **researcher** at [Dutch Center for Computer Science and Mathematics (CWI)](https://www.cwi.nl/en/) and [Eindhoven Technical University (TU/e)](https://www.tue.nl/en/) provided me with a valuable background to do rigorous data analyses and research. From this research period, I want to highlight a collection of essays [Design Instability](https://design-instability.com/) I co-authored with Erik Stolterman, where we connected experiences of designing/architecting in three disciplines: classical design, UX design, and software engineering. This work has helped me better relate to and learn from non-technical fields.
 
 Lastly, my hands-on experience as a **software developer** has proven invaluable for my work as an architect.
 
