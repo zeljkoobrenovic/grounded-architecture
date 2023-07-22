@@ -40,13 +40,13 @@ Lastly, the *[Architecture Activities Platform](#activities-platform)*  defines 
 
 As a part of my work on Grounded Architecture, I also provide several guiding principles and tools that I found helpful to introduce the ideas of Grounded Architecture in practice. I grouped these resources into two parts:
 
-* [Being an Architect](#being-architect):
+* [Being an Architect](#being-architect), where I introduce several guiding principles that generalize my view on what it means to be an architect in practice:
   * [Architects as Superglue](#superglue)
   * [Skills](#skills)
   * [Impact](#impact)
   * [Leadership](#leadership)
   * [Architects' Career Paths](#career)
-* [Doing Architecture](#doing-architecture):
+* [Doing Architecture](#doing-architecture), where I introduce several helpful principles and ideas for running the Grounded Architecture practice in complex organizations:
   * [Culture Map: Architects' Culture Mindfield Compass](#culture-map)
   * [Managing Organization Complexity: Six Simple Rules](#six-simple-rules)
   * [Product Development and The Build Trap](#product-development)
