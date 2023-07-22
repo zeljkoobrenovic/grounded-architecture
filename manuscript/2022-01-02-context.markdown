@@ -22,7 +22,7 @@ To better understand any idea or solution, it is crucial to understand the conte
 * **synergies and transformation pressures**: big organizations do not want just to be big. They want to exploit the benefits of the economies of scale and reduce duplication of efforts,
 * **decentralized, loosely-coupled organizational units**: organizational units have significant autonomy.
 
-## Characteristic 1: Global Scale
+## Global Scale
 
 I have developed my approach in genuinely global and multicultural organizations on a massive scale:
 
@@ -40,7 +40,7 @@ The global and massive scale brings many challenges. It leads to **high organiza
 
 Balancing opportunities and challenges on a global scale has been one of the most challenging and rewarding aspects of my architectural work.
 
-## Characteristic 2: Multi-Dimensional Diversity
+## Multi-Dimensional Diversity
 
 The organizations I worked in were very diverse across several dimensions:
 * **Cultures**: different (local and remote) workforce and customers,
@@ -71,7 +71,7 @@ Diversity also poses several challenges. High diversity **increases overall syst
 
 From an architectural perspective, diversity is an excellent source of new possibilities but comes with challenges in controlling complexity.
 
-## Characteristic 3: Nonlinear Growth Dynamics
+## Nonlinear Growth Dynamics
 
 Complex organizations like the one I have worked in are frequently very dynamic. Such organizations grow (or shrink) and reorganize often and significantly. They change both organically and inorganically. **Organic growth** is internal growth the company sees from its operations. **Inorganic change** comes from buying other businesses, opening new locations, or divesting.
 
@@ -84,7 +84,7 @@ But nonlinear growth dynamics have significant influences on architectural activ
 
 Due to its complexity, nonlinear growth dynamics open up many challenges as they can lead to many surprises. And as Clemens Rettich stated, in business [there are no good surprises](https://www.linkedin.com/pulse/good-surprises-business-clemens-rettich/).
 
-## Characteristic 4: Synergy and Transformation Pressures
+## Synergy and Transformation Pressures
 
 Complex organizations do not just grow. Instead, they want to be more efficient and leverage economies of scale, cost synergies, or increase capacity for innovation. Our investors expect us to transform to be **more than a sum of our original parts**.
 
@@ -97,7 +97,7 @@ Pressure to be more synergic and efficient has its challenges. **Up-front invest
 
 Synergies and transformation pressures can lead to high expectations and pressure that complicate regular architecture work. On the positive side, such forces can create many new opportunities.
 
-## Characteristic 5: Decentralization and Loose Coupling
+## Decentralization and Loose Coupling
 
 Researcher Karl Weick developed the concepts of tight and loose coupling to describe the organizational structure first in educational institutions and later applied to diverse businesses. According to Weick, a **tightly coupled organization** has mutually understood rules enforced by *inspection and feedback* systems. In tightly coupled organizations, management can more directly coordinate different departments' activities according to a central strategy.
 
