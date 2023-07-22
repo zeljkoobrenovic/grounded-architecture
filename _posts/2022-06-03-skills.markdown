@@ -59,7 +59,7 @@ More specifically, a typical skillset of an architect includes:
 * **Product development skills**, and
 * **Business domain knowledge**.
 
-## Hard Skills (Technical Architecture)
+## Hard Skills
 
 Hard or technical skills are the abilities and knowledge needed to perform specific tasks in a professional setting. In the context of technical architecture, these skills are essential for **designing, implementing, and maintaining** various aspects of an **organization's technology landscape**. Some typical hard skills that architects need in their work include (I provide links to some of my [tools](https://obren.io/tools) I found helpful in obtaining these skills):
 
@@ -73,19 +73,19 @@ Hard or technical skills are the abilities and knowledge needed to perform speci
 * [**Usability**](https://obren.io/tools?q=usability): An architect should have a good understanding of usability principles. They should design systems that are easy to use and provide a good user experience.
 
 
-## Soft Skills  (Social Architecture)
+## Soft Skills
 > To change the architecture of a software-intensive system ensconced in a large organization, you often have to change the architecture of the organization. And ultimately, that is a political problem, not just a technical one. 
 >
 >--Grady Booch
 
-Social Architecture refers to designing and managing social systems, interactions, and relationships within an organization or community. Soft skills, often described as non-technical or interpersonal skills, are an integral part of social architecture, as they **enable individuals to navigate and contribute to these social systems** effectively. By developing and refining soft skills, individuals can more easily adapt to changes, collaborate with others, and foster a positive work environment. Critical soft skills related to social architecture include:
+Soft skills, often described as non-technical or interpersonal skills, are an integral part of social architecture, as they **enable individuals to navigate and contribute to these social systems** effectively. Social architecture refers to designing and managing social systems, interactions, and relationships within an organization or community. By developing and refining soft skills, individuals can more easily adapt to changes, collaborate with others, and foster a positive work environment. Critical soft skills related to social architecture include:
 
 * [**Communication skills**](https://obren.io/tools?tag=consultancy), [written](https://obren.io/tools/sowhat/), [visual](https://obren.io/tools?tag=visuals), verbal (presentation), and listening skills: Effective communication involves not only expressing oneself clearly but also being able to understand and empathize with others. These skills include written, visual, verbal (presentation), and listening skills, which are crucial for building and maintaining relationships, as well as for conveying ideas and facilitating discussions.
 * [**Networking and collaboration skills**](https://obren.io/tools?tag=leadership): Networking involves building and maintaining a diverse range of professional connections. Collaboration skills encompass working effectively with others, regardless of their role or seniority. These skills include partnering with peers, junior and senior colleagues, managers, and executives to achieve common goals.
 * [**Organizational** and **time management skills**](https://obren.io/tools?tag=reflect): These skills involve the ability to efficiently plan, prioritize, and manage tasks, resources, and time. Effective organization and time management are crucial for meeting deadlines, achieving goals, and maintaining a healthy work-life balance. Key aspects of these skills include prioritization, goal-setting, task management, and delegation.
 * **[Analytical, strategic thinking, and problem-solving skills](https://obren.io/tools?tag=it)**: Analytical skills involve assessing and interpreting complex information to make informed decisions. Strategic thinking is the capacity to envision and plan for long-term success, while problem-solving skills include identifying and addressing challenges creatively and effectively. These skills are essential for recognizing and capitalizing on unique opportunities and creating organizational value.
 
-## Product Development Skills  (Product Architecture)
+## Product Development Skills
 
 
 Product development is creating and bringing new products or services to the market. It involves the entire journey from the conception of an idea to the product's final development, marketing, and distribution. Product development encompasses various activities and stages to transform an initial concept into a tangible and market-ready offering.
@@ -101,9 +101,9 @@ Product-led companies understand that the success of their products is the prima
 Architects should be familiar with product development concepts as product development requires a multidisciplinary approach involving teams from various functions such as product management, design, engineering, and marketing. The process aims to create innovative, desirable, and commercially viable products that meet customer needs and provide a competitive advantage in a market.
 
 
-## Business Skills  (Business Architecture)
+## Business Skills
 
-Business Architecture is the strategic design and alignment of an organization's business processes, structures, and systems to achieve its objectives and create value. Regardless of their technical or design expertise, architects must possess a **solid understanding of business skills** to effectively contribute to an organization's success. Essential business skills for architects include:
+Regardless of their technical or design expertise, architects must possess a **solid understanding of business processes and functions** to contribute to an organization's success effectively. Essential business skills for architects include:
 
 * **General business concepts knowledge**: A fundamental understanding of general business concepts is essential for architects to make informed decisions and effectively communicate with stakeholders. Familiarity with finance, marketing, sales, operations, and strategy can provide a strong foundation for architects to engage with various aspects of an organization. [The Personal MBA](https://personalmba.com/) book has been my favorite resource for getting familiar with such concepts.
 * [**Specific business domains**](https://obren.io/tools?tag=domain_models) of the organization: Besides general business concepts, architects should also develop a deep understanding of the specific business domain in which their organization operates. This knowledge may include knowledge of industry-specific regulations, market trends, customer preferences, competitive landscape, and more. Gaining insights into the specific business domain enables architects to better align their work with the organization's goals, strategies, and priorities.
