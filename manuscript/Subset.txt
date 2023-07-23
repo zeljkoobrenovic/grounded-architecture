@@ -1,2 +1,2 @@
-2022-06-02-superglue.markdown
-2022-06-03-skills.markdown
+2022-06-14-leadership.markdown
+2022-11-24-tools.markdown
