@@ -197,7 +197,7 @@ The cover image is [a photo of Nesciobrug](https://commons.wikimedia.org/wiki/Fi
 <br>
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/nescio_brug_boat.jpeg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by henk monster, cc by 3.0, via wikimedia commons.
+Image by henk monster cc by 3 0 via wikimedia commons.
 </div>
 
 

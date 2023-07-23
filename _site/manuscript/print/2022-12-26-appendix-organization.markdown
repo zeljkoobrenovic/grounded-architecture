@@ -9,7 +9,14 @@
 
 {pagebreak}
 
+# Overview 
+
 Characteristics of High Performing Organizations from the [Accelerate book](https://www.oreilly.com/library/view/accelerate/9781457191435/) by Nicole Forsgren, Jez Humble, and Gene Kim are excellent sources of empirical knowledge about high-performing IT organizations.
+
+I summarized several critical insights from this book:
+
+* Overview of **four key metrics**, describing metrics that provide suitable measures of organization performance. 
+* Overview of critical practices of high-performing technology organizations grouped into the following categories: Continuous Delivery, Architecture, Product and Process,  Lean Management and Monitoring Capabilities, Culture
 
 ## Four Key Metrics
 * **Lead time for changes:** Elite performers have a lead time for changes of less than 1 hour (from code committed to code successfully running in production).
