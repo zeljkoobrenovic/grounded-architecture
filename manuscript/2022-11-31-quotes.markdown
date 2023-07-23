@@ -10,7 +10,6 @@
 ~~~
 
 
-
 ~~~
 
 *Architecture is **not so much about the software**, **but about the people** who write the software. The core principles of architecture, such as **coupling and cohesion**, aren't about the code. The code doesn't 'care' about how cohesive or decoupled it is; … But people do care about their coupling to other team members.*
@@ -34,9 +33,11 @@
 
  
 ## Changing Role of Architecture
- 
- 
- 
+
+~~~
+
+
+~~~
 
 *The role of architects has changed from trying to be the smartest person to **making everyone else smarter**.*
 -Gregor Hohpe
@@ -63,10 +64,11 @@
 
  
 ## Complexity
- 
- 
- 
- 
+
+~~~
+
+
+~~~
 
 *Excessive complexity is nature’s punishment for **organizations that are unable to make decisions.***
 -Gregor Hohpe
@@ -84,7 +86,7 @@
  
 
 ## Other
-  
+
 ~~~
 
 
