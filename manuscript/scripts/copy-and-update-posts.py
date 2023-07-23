@@ -17,7 +17,7 @@ def copy_post(post):
                     if not '</div>' in line:
                         in_header = True
                     content += '\n\n'
-                elif line.startswith('Image by'):
+                elif line.lower().startswith('image by'):
                     line = re.sub('<.*?>', '', line).replace('\n', '')
                     content += '\n^' + line.lower() + '^\n'
                 elif line.startswith('<div'):

@@ -19,9 +19,9 @@ Image by <a href="https://pixabay.com/users/fda54-145996/?utm_source=link-attrib
 >
 > ***KEY POINTS:***
 >
-> * *This book aims to share my approach to running an IT architecture practice in larger organizations based on my experience at AVIV Group, eBay Classifieds, and Adevinta. I call this approach "Grounded Architecture"—architecture with strong foundations and deep roots.*
-> * *Prioritizing people interactions and data over processes and tools, Grounded Architecture aims to connect architecture practice to all organizational levels as an antidote to the "ivory tower" architecture.*
-> * *I also explain my motivation to write this book.*
+> * This book aims to share my approach to running an IT architecture practice in larger organizations based on my experience at AVIV Group, eBay Classifieds, and Adevinta. I call this approach "Grounded Architecture"—architecture with strong foundations and deep roots.
+> * Prioritizing people interactions and data over processes and tools, Grounded Architecture aims to connect architecture practice to all organizational levels as an antidote to the "ivory tower" architecture.
+> * I also explain my motivation to write this book.
 
 <style>
  .quote {
@@ -197,7 +197,7 @@ The cover image is [a photo of Nesciobrug](https://commons.wikimedia.org/wiki/Fi
 <br>
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/nescio_brug_boat.jpeg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-image by henk monster, cc by 3.0, via wikimedia commons.
+Image by henk monster, cc by 3.0, via wikimedia commons.
 </div>
 
 

@@ -10,9 +10,9 @@
 {pagebreak}
 
 A> ***KEY POINTS:***
-A> * *This book aims to share my approach to running an IT architecture practice in larger organizations based on my experience at AVIV Group, eBay Classifieds, and Adevinta. I call this approach "Grounded Architecture"—architecture with strong foundations and deep roots.*
-A> * *Prioritizing people interactions and data over processes and tools, Grounded Architecture aims to connect architecture practice to all organizational levels as an antidote to the "ivory tower" architecture.*
-A> * *I also explain my motivation to write this book.*
+A> * This book aims to share my approach to running an IT architecture practice in larger organizations based on my experience at AVIV Group, eBay Classifieds, and Adevinta. I call this approach "Grounded Architecture"—architecture with strong foundations and deep roots.
+A> * Prioritizing people interactions and data over processes and tools, Grounded Architecture aims to connect architecture practice to all organizational levels as an antidote to the "ivory tower" architecture.
+A> * I also explain my motivation to write this book.
 
 This book shares my approach to running an IT architecture practice in larger organizations based on my experience at AVIV Group, eBay Classifieds, and Adevinta. I call this approach "**Grounded Architecture**"—architecture with **strong foundations** and **deep roots**. Prioritizing people interactions and data over processes and tools, Grounded Architecture aims to connect architecture practice to all organizational parts and levels, serving as an antidote to the "ivory tower" architecture.
 
@@ -159,5 +159,6 @@ Thank all AVIV Group's Architecture Center of Excellence members and eBay Classi
 
 The cover image is [a photo of Nesciobrug](https://commons.wikimedia.org/wiki/File:Nesciobrug_4.jpg). Credit: the botster, CC BY-SA 2.0, via Wikimedia Commons.
 
-![](assets/images/arch/nescio_brug_boat.jpeg)image by henk monster, cc by 3.0, via wikimedia commons.
+![](assets/images/arch/nescio_brug_boat.jpeg)
+^image by henk monster, cc by 3.0, via wikimedia commons.^
 
