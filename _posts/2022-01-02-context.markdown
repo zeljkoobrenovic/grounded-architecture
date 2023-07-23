@@ -132,8 +132,6 @@ Nonlinear growth, in particular, may be helpful in several scenarios. It can **q
 
 But nonlinear growth dynamics have significant influences on architectural activities. The sudden addition of new companies **increases organizational complexity** with many new units. Obtaining a new company also **adds new technology and engineering units** with new processes and technology stacks. And nonlinear dynamics also **require complex architecture** to stay flexible if the organization decides to divest a part of the organization. 
 
-Due to its complexity, nonlinear growth dynamics open up many challenges as they can lead to many surprises. And as Clemens Rettich stated, in business [there are no good surprises](https://www.linkedin.com/pulse/good-surprises-business-clemens-rettich/).
-
 <br>
 ## Synergy and Transformation Pressures
 
