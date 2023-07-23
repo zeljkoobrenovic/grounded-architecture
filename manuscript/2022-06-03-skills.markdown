@@ -52,7 +52,7 @@ Product-led companies understand that the success of their products is the prima
 
 * **Idea Generation**: This stage involves generating and exploring new product ideas. Ideas can come from various sources, such as market research, customer feedback, technological advancements, or internal brainstorming sessions.
 
-* **[Market Research](https://en.wikipedia.org/wiki/Market_research)**: Market research assesses the product concept's feasibility and potential success. It involves gathering information about customer needs, preferences, market trends, competition, and other relevant factors to validate the product's viability in the target market.
+* **Market Research**: Market research assesses the product concept's feasibility and potential success. It involves gathering information about customer needs, preferences, market trends, competition, and other relevant factors to validate the product's viability in the target market.
 
 * **Marketing and Launch**: Before launching the product, marketing strategies and plans are developed to create awareness, generate demand, and promote the product to the target market. The activities include branding, pricing, distribution, and marketing communication activities.
 

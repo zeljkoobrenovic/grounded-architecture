@@ -96,7 +96,7 @@ While staying close to technology (engine room), architects must ensure that tec
 * **Complicated dependencies between teams that slow them down** due to suboptimal organizational design and lack of awareness of all the links between systems and people,
 * **Creating fragile, unsustainable team structures** (e.g., one or two developers in some critical technology).
 
-Getting the product/technology/organizational/business alignment right takes a lot of work, which is one of the main areas of architectural practice. There will always be **essential tension** between system architecture, team organization, and product organization. Ideally, these structures all change simultaneously and stay in perfect sync. But in practice, these structures change and move at different speeds. All in all, this situation guarantees the job security of superglue architects.
+There will always be **essential tension** between system architecture, team organization, and product organization. Ideally, these structures all change simultaneously and stay in perfect sync. But in practice, these structures change and move at different speeds. All in all, this situation guarantees the job security of superglue architects.
 
 
 <br>
