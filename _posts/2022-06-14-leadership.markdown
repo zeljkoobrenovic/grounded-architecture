@@ -25,7 +25,7 @@ Image by <a href="https://pixabay.com/nl/users/12019-12019/?utm_source=link-attr
 > * Borrowing from Netflix's original values, the following behavioral traits are crucial for architects: communication, judgment, impact, inclusion, selflessness, courage, integrity, curiosity, innovation, and passion.
 <style>
  .quote {
-     border-left: 8px solid skyblue;
+     border-left: 8px solid #d9ead3;
      padding-left: 36px;
      margin-top: 30px;
      margin-bottom: 40px;

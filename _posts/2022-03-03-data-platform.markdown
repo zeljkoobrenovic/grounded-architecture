@@ -25,7 +25,7 @@ Image by <a href="https://pixabay.com/users/3844328-3844328/?utm_source=link-att
 > * To facilitate the creation of a Data Foundation, I have been working on creating open-source tools, such as [Sokrates](https://sokrates.dev), that can help obtain valuable architectural insights from data sources, such as source code repositories.
 <style>
  .quote {
-     border-left: 8px solid skyblue;
+     border-left: 8px solid #d9ead3;
      padding-left: 36px;
      margin-top: 30px;
      margin-bottom: 40px;

@@ -24,7 +24,7 @@ Image by <a href="https://pixabay.com/users/cocoparisienne-127419/?utm_source=li
 > * Examples of activities include: supporting teams in their daily work; tracking tech debt, defining tech debt reduction programs; performing technical due diligence; standardizing processes and documentation; defining cloud, data, and platform strategies.
 <style>
     .quote {
-     border-left: 8px solid skyblue;
+     border-left: 8px solid #d9ead3;
      padding-left: 36px;
      margin-top: 30px;
      margin-bottom: 40px;

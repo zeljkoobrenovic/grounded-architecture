@@ -23,7 +23,7 @@ Image by <a href="https://pixabay.com/users/geralt-9301/?utm_source=link-attribu
 > * I identified the following needs that an architecture function should support: Executing At Scale, Adaptivity, Increasing the Quality of Decision-Making with Data, and Maximizing Organizational Alignment & Learning.
 <style>
  .quote {
-     border-left: 8px solid skyblue;
+     border-left: 8px solid #d9ead3;
      padding-left: 36px;
      margin-top: 30px;
      margin-bottom: 40px;

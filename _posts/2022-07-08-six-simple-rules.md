@@ -19,7 +19,7 @@ Image by <a href="https://pixabay.com/users/nataliaaggiato-470329/?utm_source=li
 </div>
 <style>
  .quote {
-     border-left: 8px solid skyblue;
+     border-left: 8px solid #d9ead3;
      padding-left: 36px;
      margin-top: 30px;
      margin-bottom: 40px;

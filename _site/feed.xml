@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-07-22T23:33:04+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: Redefining IT Architecture Practice</title><subtitle></subtitle><entry><title type="html">High Performing Technology Organizations</title><link href="http://localhost:4000/concepts-org" rel="alternate" type="text/html" title="High Performing Technology Organizations" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/appendix-organization</id><content type="html" xml:base="http://localhost:4000/concepts-org"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/car-engine-1701029_1280.jpg" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-07-23T20:31:11+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: Redefining IT Architecture Practice</title><subtitle></subtitle><entry><title type="html">High Performing Technology Organizations</title><link href="http://localhost:4000/concepts-org" rel="alternate" type="text/html" title="High Performing Technology Organizations" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/appendix-organization</id><content type="html" xml:base="http://localhost:4000/concepts-org"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/car-engine-1701029_1280.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/paulbr75-2938186/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1701029">Paul Brennan</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1701029">Pixabay</a>
 </div>
@@ -82,7 +82,7 @@ Image by <a href="https://pixabay.com/users/paulbr75-2938186/?utm_source=link-at
 </blockquote>
 <style>
  .quote {
-     border-left: 8px solid skyblue;
+     border-left: 8px solid #d9ead3;
      padding-left: 36px;
      margin-top: 30px;
      margin-bottom: 40px;
@@ -106,18 +106,16 @@ My approach to creating and running an architecture function is not an abstract 
 
 <p>To better understand any idea or solution, it is crucial to understand the context in which these ideas developed. I base my views on my experiences as a Chief Architect at AVIV Group and a Principal Architect at eBay Classifieds and Adevinta. In this section, I discuss critical characteristics of the organizational context that have had an impact on my definition of the Grounded Architecture approach:</p>
 <ul>
-  <li><strong>global scale</strong>: operating across multiple countries and continents with millions of users,</li>
-  <li><strong>multi-dimensional diversity</strong>: the organizations I worked in were very diverse at all levels, including customer base, workforce, business models, team topologies, technology stacks,</li>
-  <li><strong>nonlinear growth dynamics</strong>: in addition to organic growth, big organizations frequently change the portfolio both by mergers and acquisitions of new businesses and as well as by divestments,</li>
-  <li><strong>synergies and transformation pressures</strong>: big organizations do not want just to be big. They want to exploit the benefits of the economies of scale and reduce duplication of efforts,</li>
-  <li><strong>decentralized, loosely-coupled organizational units</strong>: organizational units have significant autonomy.</li>
+  <li><strong>Global scale</strong>: operating across multiple countries and continents with millions of users.</li>
+  <li><strong>Multi-dimensional diversity</strong>: the organizations I worked in were very diverse, including customer base, workforce, business models, team topologies, and technology stacks.</li>
+  <li><strong>Nonlinear growth dynamics</strong>: in addition to organic growth, big organizations change the portfolio both by mergers and acquisitions of new businesses or by divestments.</li>
+  <li><strong>Synergies and transformation pressures</strong>: big organizations do not want just to be big. They want to exploit the benefits of the economies of scale and reduce duplication of efforts.</li>
+  <li><strong>Decentralized, loosely-coupled organizational units</strong>: organizational units have significant autonomy.</li>
 </ul>
-
-<p>In the following sub-sections, I discuss these characteristics in more detail from an architectural viewpoint.</p>
 
 <p><br /></p>
 
-<h2 id="characteristic-1-global-scale">Characteristic 1: Global Scale</h2>
+<h2 id="global-scale">Global Scale</h2>
 
 <p>I have developed my approach in genuinely global and multicultural organizations on a massive scale:</p>
 
@@ -140,7 +138,7 @@ Image by <a href="https://pixabay.com/users/thedigitalartist-202249/?utm_source=
 <p>Balancing opportunities and challenges on a global scale has been one of the most challenging and rewarding aspects of my architectural work.</p>
 
 <p><br /></p>
-<h2 id="characteristic-2-multi-dimensional-diversity">Characteristic 2: Multi-Dimensional Diversity</h2>
+<h2 id="multi-dimensional-diversity">Multi-Dimensional Diversity</h2>
 
 <p>The organizations I worked in were very diverse across several dimensions:</p>
 <ul>
@@ -181,7 +179,7 @@ Image by <a href="https://pixabay.com/users/simon-3/?utm_source=link-attribution
 
 <p><br /></p>
 
-<h2 id="characteristic-3-nonlinear-growth-dynamics">Characteristic 3: Nonlinear Growth Dynamics</h2>
+<h2 id="nonlinear-growth-dynamics">Nonlinear Growth Dynamics</h2>
 
 <p>Complex organizations like the one I have worked in are frequently very dynamic. Such organizations grow (or shrink) and reorganize often and significantly. They change both organically and inorganically. <strong>Organic growth</strong> is internal growth the company sees from its operations. <strong>Inorganic change</strong> comes from buying other businesses, opening new locations, or divesting.</p>
 
@@ -194,10 +192,8 @@ Image by <a href="https://pixabay.com/users/pexels-2286921/?utm_source=link-attr
 
 <p>But nonlinear growth dynamics have significant influences on architectural activities. The sudden addition of new companies <strong>increases organizational complexity</strong> with many new units. Obtaining a new company also <strong>adds new technology and engineering units</strong> with new processes and technology stacks. And nonlinear dynamics also <strong>require complex architecture</strong> to stay flexible if the organization decides to divest a part of the organization.</p>
 
-<p>Due to its complexity, nonlinear growth dynamics open up many challenges as they can lead to many surprises. And as Clemens Rettich stated, in business <a href="https://www.linkedin.com/pulse/good-surprises-business-clemens-rettich/">there are no good surprises</a>.</p>
-
 <p><br /></p>
-<h2 id="characteristic-4-synergy-and-transformation-pressures">Characteristic 4: Synergy and Transformation Pressures</h2>
+<h2 id="synergy-and-transformation-pressures">Synergy and Transformation Pressures</h2>
 
 <p>Complex organizations do not just grow. Instead, they want to be more efficient and leverage economies of scale, cost synergies, or increase capacity for innovation. Our investors expect us to transform to be <strong>more than a sum of our original parts</strong>.</p>
 
@@ -214,7 +210,7 @@ Image by <a href="https://pixabay.com/users/mustangjoe-2162920/?utm_source=link-
 
 <p><br /></p>
 
-<h2 id="characteristic-5-decentralization-and-loose-coupling">Characteristic 5: Decentralization and Loose Coupling</h2>
+<h2 id="decentralization-and-loose-coupling">Decentralization and Loose Coupling</h2>
 
 <p>Researcher Karl Weick developed the concepts of tight and loose coupling to describe the organizational structure first in educational institutions and later applied to diverse businesses. According to Weick, a <strong>tightly coupled organization</strong> has mutually understood rules enforced by <em>inspection and feedback</em> systems. In tightly coupled organizations, management can more directly coordinate different departments’ activities according to a central strategy.</p>
 
@@ -270,7 +266,7 @@ Image by <a href="https://pixabay.com/users/geralt-9301/?utm_source=link-attribu
 </blockquote>
 <style>
  .quote {
-     border-left: 8px solid skyblue;
+     border-left: 8px solid #d9ead3;
      padding-left: 36px;
      margin-top: 30px;
      margin-bottom: 40px;
@@ -342,7 +338,7 @@ Image by <a href="https://pixabay.com/users/ichigo121212-11728/?utm_source=link-
 </blockquote>
 <style>
  .quote {
-     border-left: 8px solid skyblue;
+     border-left: 8px solid #d9ead3;
      padding-left: 36px;
      margin-top: 30px;
      margin-bottom: 40px;
@@ -399,7 +395,7 @@ Image by <a href="https://pixabay.com/users/3844328-3844328/?utm_source=link-att
 </blockquote>
 <style>
  .quote {
-     border-left: 8px solid skyblue;
+     border-left: 8px solid #d9ead3;
      padding-left: 36px;
      margin-top: 30px;
      margin-bottom: 40px;
@@ -633,7 +629,7 @@ Image by <a href="https://pixabay.com/users/mostafa_meraji-13551092/?utm_source=
 
 <style>
  .quote {
-     border-left: 8px solid skyblue;
+     border-left: 8px solid #d9ead3;
      padding-left: 36px;
      margin-top: 30px;
      margin-bottom: 40px;
@@ -854,7 +850,7 @@ Image by <a href="https://pixabay.com/users/cocoparisienne-127419/?utm_source=li
 </blockquote>
 <style>
     .quote {
-     border-left: 8px solid skyblue;
+     border-left: 8px solid #d9ead3;
      padding-left: 36px;
      margin-top: 30px;
      margin-bottom: 40px;
@@ -950,7 +946,7 @@ My goal is to avoid formal bureaucratic approval processes, where architects app
 
 <p>Another characteristic of this operating model is <strong>shifting left</strong> the architecture work. My goal is to avoid formal bureaucratic approval processes, where architects appear too late and are frequently busy approving trivial decisions. Instead, my goal is to have architects involved early in any of the processes, such as during the planning and preparation stages, where it is possible to make more significant changes.</p>
 
-<h3 id="architecture-decision-policy">Architecture Decision Policy</h3>
+<h2 id="architecture-decision-policy">Architecture Decision Policy</h2>
 
 <p>Inspired by the famous <a href="https://hbr.org/2014/01/how-netflix-reinvented-hr">Netflix expense policy</a>, I frequently argued that architecture decision policy could be summarized in six words:</p>
 
@@ -969,7 +965,7 @@ My goal is to avoid formal bureaucratic approval processes, where architects app
 
 <p>While it may not always be enough, this simple policy resonates well and encourages people to be more thoughtful when making decisions.</p>
 
-<h3 id="distributing-decisions-autonomy-and-alignment">Distributing Decisions, Autonomy, and Alignment</h3>
+<h2 id="distributing-decisions-autonomy-and-alignment">Distributing Decisions, Autonomy, and Alignment</h2>
 
 <p>With any operating model, I always aim to keep architectural decision-making distributed across the organization and embedded in the development teams. Development <strong>teams traditionally have the best insights and most information</strong> relevant for making decisions. As noted by Gregor Hohpe, the worst case of organizational decision-making happens when people with relevant information are not allowed to make decisions, while people who lack sufficient information make all decisions. Grounded Architecture aims to make relevant information more readily available to a broader audience and better connect people when making decisions.</p>
 
@@ -981,10 +977,10 @@ Grounded Architecture aims to make relevant information more readily available t
 
 <p>To give maximal autonomy to the teams while maintaining a <strong>minimal</strong> level of global <strong>alignment and compatibility</strong>, I have sometimes implemented the concept of a <strong>decision pyramid</strong>  (Figure 3).</p>
 
+<p>The <strong>decision pyramid</strong> highlights that development teams should make most decisions. However, several strategic and area-level choices may provide team decision boundaries. For example, selecting the public cloud provider is typically a CTO-level strategic decision. Similarly, engineering leaders in some areas may want to limit some choices, such as the number of programming languages, to more easily train new people, maintain code, and support moves between teams.</p>
+
 <p><img src="assets/images/arch/decision-pyramid.png" alt="" />
 <em><strong>Figure 3:</strong> A decision pyramid. The development teams should make most decisions. However, several strategic and area-level decisions may provide decision boundaries for teams (e.g., a public cloud provider).</em></p>
-
-<p>The <strong>decision pyramid</strong> highlights that development teams should make most decisions. However, several strategic and area-level choices may provide team decision boundaries. For example, selecting the public cloud provider is typically a CTO-level strategic decision. Similarly, engineering leaders in some areas may want to limit some choices, such as the number of programming languages, to more easily train new people, maintain code, and support moves between teams.</p>
 
 <h2 id="questions-to-consider">Questions to Consider</h2>
 
@@ -1017,7 +1013,7 @@ Image by <a href="https://pixabay.com/nl/users/mwewering-185784/?utm_source=link
 </blockquote>
 <style>
  .quote {
-     border-left: 8px solid skyblue;
+     border-left: 8px solid #d9ead3;
      padding-left: 36px;
      margin-top: 30px;
      margin-bottom: 40px;
@@ -1142,15 +1138,13 @@ Image by iStock
   <p><em>” I expect you to learn to be better each day. I challenge you to look at each working day as an opportunity to learn more and, by doing so, to grow as a person.”</em> – L. David Marquet</p>
 </blockquote>
 
-<p>The last goal is that architecture should help organizations learn quickly, stay up-to-date with emerging technologies and industry trends, and recommend technology upgrades.</p>
-
-<p>One of the architects’ primary daily tasks is learning. We must <strong>maximize personal learning</strong>, transforming individual lessons learned into shared guidelines. As architects, we must <strong>proactively identify relevant new technology developments</strong>. Based on our understanding of these developments, we must create pragmatic technology recommendations for concrete platforms across the organization.</p>
+<p>The last goal is that architecture should help organizations learn quickly, stay up-to-date with emerging technologies and industry trends, and recommend technology upgrades. Learning is one of the primary daily tasks of architects. Architects must <strong>proactively identify relevant new technology developments</strong>. They must create pragmatic technology recommendations for concrete platforms across the organization based on their understanding of these developments.</p>
 
 <p>The Grounded Architecture structure can support learning in multiple ways:</p>
 
 <ul>
   <li><strong>The <a href="data">Data Foundation</a></strong> can accelerate learning and adopting new technologies by providing more <strong>data to facilitate reflection and exploration</strong>.</li>
-  <li><strong>The <a href="people">People Foundation</a></strong> can create <strong>spaces for sharing knowledge</strong> about architecture and technology. These spaces include but are not limited to regular update calls, knowledge-sharing sessions, or conferences. In addition to creating spaces as a community, it can further increase our learning value by deriving generalized insights from cross-group cases.</li>
+  <li><strong>The <a href="people">People Foundation</a></strong> can create <strong>spaces for sharing knowledge</strong> about architecture and technology. These spaces include but are not limited to regular update calls, knowledge-sharing sessions, or conferences. In addition to creating spaces as a community, it can further increase our learning value by deriving generalized insights from cross-group cases. Such spaces can <strong>maximize personal learning</strong>, transforming individual lessons learned into shared guidelines.</li>
   <li><strong>The <a href="activities-platform">Architecture Activities Platform</a></strong> can accelerate learning by <strong>embedding it into processes</strong> and distributing them across the organization. By defining processes to facilitate sharing knowledge and lessons learned, we can maximize learning while creating a minimal overhead.</li>
 </ul>
 
@@ -1174,7 +1168,7 @@ Image by <a href="https://pixabay.com/users/borevina-9505414/?utm_source=link-at
 </div>
 <style>
  .quote {
-     border-left: 8px solid skyblue;
+     border-left: 8px solid #d9ead3;
      padding-left: 36px;
      margin-top: 30px;
      margin-bottom: 40px;
@@ -1227,7 +1221,7 @@ In this part of the book, I introduce several guiding principles that generalize
 </blockquote>
 <style>
  .quote {
-     border-left: 8px solid skyblue;
+     border-left: 8px solid #d9ead3;
      padding-left: 36px;
      margin-top: 30px;
      margin-bottom: 40px;
@@ -1291,7 +1285,7 @@ While technology, product, organization, and business functions face challenges,
   <li><strong>Creating fragile, unsustainable team structures</strong> (e.g., one or two developers in some critical technology).</li>
 </ul>
 
-<p>Getting the product/technology/organizational/business alignment right takes a lot of work, which is one of the main areas of architectural practice. There will always be <strong>essential tension</strong> between system architecture, team organization, and product organization. Ideally, these structures all change simultaneously and stay in perfect sync. But in practice, these structures change and move at different speeds. All in all, this situation guarantees the job security of superglue architects.</p>
+<p>There will always be <strong>essential tension</strong> between system architecture, team organization, and product organization. Ideally, these structures all change simultaneously and stay in perfect sync. But in practice, these structures change and move at different speeds. All in all, this situation guarantees the job security of superglue architects.</p>
 
 <p><br /></p>
 <h2 id="superglue-abilities">Superglue Abilities</h2>

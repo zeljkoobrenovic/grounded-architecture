@@ -26,7 +26,7 @@ Image by iStock <a href="https://flic.kr/p/8zKRAU">tableatny</a> (CC BY 2.0)
 > * Hiring architects requires constantly raising the bar to ensure a strong and diverse team structure.  
 <style>
  .quote {
-     border-left: 8px solid skyblue;
+     border-left: 8px solid #d9ead3;
      padding-left: 36px;
      margin-top: 30px;
      margin-bottom: 40px;

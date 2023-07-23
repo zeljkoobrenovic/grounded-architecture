@@ -111,7 +111,7 @@ Image by <a href="https://pixabay.com/users/cocoparisienne-127419/?utm_source=li
 </blockquote>
 <style>
     .quote {
-     border-left: 8px solid skyblue;
+     border-left: 8px solid #d9ead3;
      padding-left: 36px;
      margin-top: 30px;
      margin-bottom: 40px;
@@ -207,7 +207,7 @@ My goal is to avoid formal bureaucratic approval processes, where architects app
 
 <p>Another characteristic of this operating model is <strong>shifting left</strong> the architecture work. My goal is to avoid formal bureaucratic approval processes, where architects appear too late and are frequently busy approving trivial decisions. Instead, my goal is to have architects involved early in any of the processes, such as during the planning and preparation stages, where it is possible to make more significant changes.</p>
 
-<h3 id="architecture-decision-policy">Architecture Decision Policy</h3>
+<h2 id="architecture-decision-policy">Architecture Decision Policy</h2>
 
 <p>Inspired by the famous <a href="https://hbr.org/2014/01/how-netflix-reinvented-hr">Netflix expense policy</a>, I frequently argued that architecture decision policy could be summarized in six words:</p>
 
@@ -226,7 +226,7 @@ My goal is to avoid formal bureaucratic approval processes, where architects app
 
 <p>While it may not always be enough, this simple policy resonates well and encourages people to be more thoughtful when making decisions.</p>
 
-<h3 id="distributing-decisions-autonomy-and-alignment">Distributing Decisions, Autonomy, and Alignment</h3>
+<h2 id="distributing-decisions-autonomy-and-alignment">Distributing Decisions, Autonomy, and Alignment</h2>
 
 <p>With any operating model, I always aim to keep architectural decision-making distributed across the organization and embedded in the development teams. Development <strong>teams traditionally have the best insights and most information</strong> relevant for making decisions. As noted by Gregor Hohpe, the worst case of organizational decision-making happens when people with relevant information are not allowed to make decisions, while people who lack sufficient information make all decisions. Grounded Architecture aims to make relevant information more readily available to a broader audience and better connect people when making decisions.</p>
 
@@ -238,10 +238,10 @@ Grounded Architecture aims to make relevant information more readily available t
 
 <p>To give maximal autonomy to the teams while maintaining a <strong>minimal</strong> level of global <strong>alignment and compatibility</strong>, I have sometimes implemented the concept of a <strong>decision pyramid</strong>  (Figure 3).</p>
 
+<p>The <strong>decision pyramid</strong> highlights that development teams should make most decisions. However, several strategic and area-level choices may provide team decision boundaries. For example, selecting the public cloud provider is typically a CTO-level strategic decision. Similarly, engineering leaders in some areas may want to limit some choices, such as the number of programming languages, to more easily train new people, maintain code, and support moves between teams.</p>
+
 <p><img src="assets/images/arch/decision-pyramid.png" alt="" />
 <em><strong>Figure 3:</strong> A decision pyramid. The development teams should make most decisions. However, several strategic and area-level decisions may provide decision boundaries for teams (e.g., a public cloud provider).</em></p>
-
-<p>The <strong>decision pyramid</strong> highlights that development teams should make most decisions. However, several strategic and area-level choices may provide team decision boundaries. For example, selecting the public cloud provider is typically a CTO-level strategic decision. Similarly, engineering leaders in some areas may want to limit some choices, such as the number of programming languages, to more easily train new people, maintain code, and support moves between teams.</p>
 
 <h2 id="questions-to-consider">Questions to Consider</h2>
 

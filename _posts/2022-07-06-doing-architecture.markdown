@@ -18,7 +18,7 @@ Image by <a href="https://pixabay.com/users/darksouls1-2189876/?utm_source=link-
 </div>
 <style>
  .quote {
-     border-left: 8px solid skyblue;
+     border-left: 8px solid #d9ead3;
      padding-left: 36px;
      margin-top: 30px;
      margin-bottom: 40px;

@@ -24,7 +24,7 @@ Image by <a href="https://pixabay.com/users/geralt-9301/?utm_source=link-attribu
 > * In this section, I summarize the key points from the playbook.
 <style>
  .quote {
-     border-left: 8px solid skyblue;
+     border-left: 8px solid #d9ead3;
      padding-left: 36px;
      margin-top: 30px;
      margin-bottom: 40px;

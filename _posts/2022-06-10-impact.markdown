@@ -26,7 +26,8 @@ Image by Wikipedia / <a href="https://nl.wikipedia.org/wiki/Sandi_Morris">Sandi 
 > * Architects can make an impact via three pillars: Big-Picture Thinking, Execution, and Leveling-Up.
 <style>
  .quote {
-     border-left: 8px solid skyblue;
+     border-left: 8px solid #d9ead3;
+     border-left: 8px solid #d9ead3;
      padding-left: 36px;
      margin-top: 30px;
      margin-bottom: 40px;

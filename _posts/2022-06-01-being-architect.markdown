@@ -18,7 +18,7 @@ Image by <a href="https://pixabay.com/users/borevina-9505414/?utm_source=link-at
 </div>
 <style>
  .quote {
-     border-left: 8px solid skyblue;
+     border-left: 8px solid #d9ead3;
      padding-left: 36px;
      margin-top: 30px;
      margin-bottom: 40px;

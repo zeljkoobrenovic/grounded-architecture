@@ -24,7 +24,7 @@ Image by <a href="https://pixabay.com/nl/users/mwewering-185784/?utm_source=link
 > * These impact categories are Executing At Scale, Increasing the Quality of Decision-Making with Data, Maximizing Organizational Alignment & Learning, and Higher Adaptivity.
 <style>
  .quote {
-     border-left: 8px solid skyblue;
+     border-left: 8px solid #d9ead3;
      padding-left: 36px;
      margin-top: 30px;
      margin-bottom: 40px;
@@ -139,15 +139,14 @@ Misalignment frequently happens in big organizations. Grounded Architecture stru
 > 
 > *" I expect you to learn to be better each day. I challenge you to look at each working day as an opportunity to learn more and, by doing so, to grow as a person."* -- L. David Marquet
 
-The last goal is that architecture should help organizations learn quickly, stay up-to-date with emerging technologies and industry trends, and recommend technology upgrades.
-
-One of the architects' primary daily tasks is learning. We must **maximize personal learning**, transforming individual lessons learned into shared guidelines. As architects, we must **proactively identify relevant new technology developments**. Based on our understanding of these developments, we must create pragmatic technology recommendations for concrete platforms across the organization.
+The last goal is that architecture should help organizations learn quickly, stay up-to-date with emerging technologies and industry trends, and recommend technology upgrades. Learning is one of the primary daily tasks of architects. Architects must **proactively identify relevant new technology developments**. They must create pragmatic technology recommendations for concrete platforms across the organization based on their understanding of these developments.
 
 The Grounded Architecture structure can support learning in multiple ways:
 
 * **The [Data Foundation](data)** can accelerate learning and adopting new technologies by providing more **data to facilitate reflection and exploration**.
-* **The [People Foundation](people)** can create **spaces for sharing knowledge** about architecture and technology. These spaces include but are not limited to regular update calls, knowledge-sharing sessions, or conferences. In addition to creating spaces as a community, it can further increase our learning value by deriving generalized insights from cross-group cases.
+* **The [People Foundation](people)** can create **spaces for sharing knowledge** about architecture and technology. These spaces include but are not limited to regular update calls, knowledge-sharing sessions, or conferences. In addition to creating spaces as a community, it can further increase our learning value by deriving generalized insights from cross-group cases. Such spaces can **maximize personal learning**, transforming individual lessons learned into shared guidelines. 
 * **The [Architecture Activities Platform](activities-platform)** can accelerate learning by **embedding it into processes** and distributing them across the organization. By defining processes to facilitate sharing knowledge and lessons learned, we can maximize learning while creating a minimal overhead.
+
 
 
 ## Questions to Consider

@@ -22,7 +22,7 @@ Image by <a href="https://pixabay.com/users/prettysleepy-2973588/?utm_source=lin
 
 <style>
  .favorite-quote {
-     border-left: 8px solid skyblue;
+     border-left: 8px solid #d9ead3;
      padding-left: 12px;
      margin-top: 20px;
      margin-bottom: 40px;
