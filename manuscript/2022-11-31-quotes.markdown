@@ -6,9 +6,12 @@
 ^image by Amy from Pixabay^
 
 ## People, People, People
- 
- 
- 
+
+~~~
+
+
+
+~~~
 
 *Architecture is **not so much about the software**, **but about the people** who write the software. The core principles of architecture, such as **coupling and cohesion**, aren't about the code. The code doesn't 'care' about how cohesive or decoupled it is; … But people do care about their coupling to other team members.*
 -James O. Coplien
@@ -82,8 +85,10 @@
 
 ## Other
   
+~~~
 
- 
+
+~~~
 
 *Architecture is just a collective hunch, a **shared hallucination**, an assertion by a set of stakeholders on the nature of their observable world, be it a world that is or a world as they wish it to be.*
 -Grady Booch
