@@ -39,13 +39,13 @@ Image by <a href="https://pixabay.com/users/geralt-9301/?utm_source=link-attribu
 </style>
 
 <br>
+## Goals
+
 Considering the scale and complexity of the organizational context I operated in, it was apparent that conventional approaches of doing architecture that rely on manual processes need to be revised. 
 
 <div class="quote">
 Considering the scale and complexity of the organizational context I operated in, it was apparent that conventional approaches of doing architecture that rely on manual processes need to be revised.
 </div>
-
-## Goals
 
 More specifically, I identified the following needs that an architecture function should support.
 

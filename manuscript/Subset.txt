@@ -1,5 +1,4 @@
-2022-01-01-intro.markdown
-2022-12-02-appendix.markdown
-2022-12-10-appendix-iso-25010.markdown
-2022-12-15-appendix-cloud.markdown
-2022-12-26-appendix-organization.markdown
+2022-01-03-requirements.markdown
+2022-07-07-culture-map.md
+2022-07-10-product.md
+2022-11-04-cheat-sheet.markdown
