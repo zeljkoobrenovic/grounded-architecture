@@ -22,7 +22,7 @@ Image by <a href="https://pixabay.com/users/3844328-3844328/?utm_source=link-att
 >
 > * The architecture Data Foundation serves as a medium to create a complete, up-to-date picture of critical elements of technology landscapes of big organizations. 
 > * The Data Foundation provides an architecture-centric view of data about a technology landscape based on source code analyses, public cloud billing reports, vibrancy reports, or incident tickets.
-> * To facilitate the creation of a Data Foundation, I have been working on creating open-source tools, such as [Sokrates](https://sokrates.dev), that can help obtain valuable architectural insights from data sources, such as source code repositories.
+> * To facilitate the creation of a Data Foundation, I have been working on creating open-source tools that can help obtain valuable architectural insights from data sources, such as source code repositories.
 <style>
  .quote {
      border-left: 8px solid #d9ead3;
