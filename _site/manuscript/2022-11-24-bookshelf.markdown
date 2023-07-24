@@ -22,8 +22,7 @@
 
 [SE Radio: On Architecture](https://open.spotify.com/playlist/7GVD86edcILnVPjsZFTy28?si=f44d0bef360e4818): for those interested in IT Architecture, I've created a curated Spotify playlist of Software Engineering Radio Episodes focusing on Architecture.
 
-* * *
-
+{pagebreak}
 {width: "20%"}
 ![](assets/images/books/for-developers.png)
 
@@ -41,8 +40,7 @@ monolithic architecture might have been written to do something in the past, the
 could do the same thing today, offering advice and approaches for effective tradeoff analysis when refactoring a large
 monolith app.
 
-* * *
-
+{pagebreak}
 {width: "20%"}
 ![](assets/images/books/just-enough-software-architecture.png)
 
@@ -89,7 +87,7 @@ article [The Architect’s Path - Part 2 - Bookshelf](https://architectelevator.
 
 **Refactoring: Improving the Design of Existing Code** by Martin Fowler. Good software evolves, gains entropy, and is then restructured. Refactoring is a disciplined technique for restructuring an existing body of code, altering its internal structure without changing its external behavior.
 
-* * *
+{pagebreak}
 
 {width: "20%"}
 ![](assets/images/books/design-patterns.png)
@@ -113,7 +111,7 @@ distributed system design.
 **Fundamentals of Software Architecture** by Neal and Mark, covers soft skills, modularity, component-based thinking,
 and architectural styles.
 
-* * *
+{pagebreak}
 
 {width: "20%"}
 ![](assets/images/books/eip.png)
@@ -134,7 +132,7 @@ and architectural styles.
 
 **Building Evolutionary Architectures** describes how to use fitness functions to guide architectural change over time.
 
-* * *
+{pagebreak}
 
 {width: "20%"}
 ![](assets/images/books/ddd.png)
@@ -153,7 +151,7 @@ to build "cynical" software. Besides the well known stability patterns like circ
 introduces foundational knowledge about running systems in production, from processes to network to security, also
 covering more process oriented questions like deployments or handling security.
 
-* * *
+{pagebreak}
 
 {width: "20%"}
 ![](assets/images/books/data-intensive.png)
@@ -168,7 +166,7 @@ transactions, event logs, and much more.
 
 **Thinking in Systems** by Donella Meadows describes a system is more than the sum of its parts. It may exhibit adaptive, dynamic, goal-seeking, self-preserving, and sometimes evolutionary behavior.
 
-* * *
+{pagebreak}
 
 {width: "20%"}
 ![](assets/images/books/do-not-make-me-think.png)
@@ -182,11 +180,8 @@ transactions, event logs, and much more.
 
 **System Design Interview (Volume 1 & 2)** by Alex Xu. A "real-world" systems design books, not just for preparing for the systems design interview, but to strengthen your systems design muscle for the day-to-day architectural work.
 
-* * *
 
 ## Soft Skills
-
-* * *
 
 {width: "20%"}
 ![](assets/images/books/team-topologies.png)
@@ -200,7 +195,7 @@ transactions, event logs, and much more.
 
 **The Culture Map: Decoding How People Think, Lead, and Get Things Done Across Cultures**: provides a framework for handling intercultural differences in business and illustrates how different cultures perceive the world. Awareness of intercultural differences is crucial for the success of an architect in an international setting. It helps us understand these differences and, in doing so, improves our ability to react to specific behaviors that might have once seemed strange.
 
-* * *
+{pagebreak}
 
 {width: "20%"}
 ![](assets/images/books/turn-ship-around.png)
@@ -214,7 +209,7 @@ transactions, event logs, and much more.
 
 **Leadership is Language** by L. David Marquet is a playbook for successful team management. Tt teaches leaders how they can change their language and mindsets in order to improve decision-making, empower workers, and achieve better results..
 
-* * *
+{pagebreak}
 
 {width: "20%"}
 ![](assets/images/books/nudge.png)
@@ -228,7 +223,7 @@ transactions, event logs, and much more.
 
 **No Rules Rules** by Erin Meyer and Reed Hastings provides insights into Netflix culture. When you give low-level employees access to information that is generally reserved for high-level executives, they get more done on their own. They work faster without stopping to ask for information and approval. They make better decisions without needing input from the top.
 
-* * *
+{pagebreak}
 
 {width: "20%"}
 ![](assets/images/books/dare-to-lead.png)
@@ -242,14 +237,13 @@ transactions, event logs, and much more.
 
 **The So What Strategy** by Davina Stanley and Gerard Castles. Any architect has been caught at the end of a presentation when their audience, perhaps a leadership team or a Steering Committee, looks at them blankly and asks this most uncomfortable question: ‘So what?' How does that help? The book provides a pragmatic approach to answer that question in one single, powerful sentence. Or how to set yourself up so nobody asks it.
 
-* * *
+{pagebreak}
 
 {width: "20%"}
 ![](assets/images/books/never-split-the-difference.png)
 
 **Never Split the Difference** by Chris Voss. Negotiations take place in many fields of life, such as business, and in some critical situations, like hostage situations. The book is a guide on how to best behave when certain things happen, regardless of whether that includes the need for negotiation techniques in hostage situations or in business (and architecture).
 
-* * *
 
 
 ## Organization and Processes
@@ -270,7 +264,7 @@ derivative.
 The book's characters reveal through their actions why it's so important for organizations to put security first and
 tear down the silos that have traditionally existed between development and operations teams.
 
-* * *
+{pagebreak}
 
 {width: "20%"}
 ![](assets/images/books/cd.png)
@@ -293,7 +287,7 @@ minutes-no matter what the size of a project or the complexity of its code base.
 
 **The Personal MBA 10th Anniversary Edition** by Josh Kaufman provides an overview of the essentials of every major business topic: entrepreneurship, product development, marketing, sales, negotiation, accounting, finance, productivity, communication, psychology, leadership, systems design, analysis, and operations management.
 
-* * *
+{pagebreak}
 
 {width: "20%"}
 ![](assets/images/books/tsp.png)

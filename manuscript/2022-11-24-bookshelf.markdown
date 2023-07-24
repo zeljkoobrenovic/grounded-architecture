@@ -244,7 +244,6 @@ transactions, event logs, and much more.
 
 **Never Split the Difference** by Chris Voss. Negotiations take place in many fields of life, such as business, and in some critical situations, like hostage situations. The book is a guide on how to best behave when certain things happen, regardless of whether that includes the need for negotiation techniques in hostage situations or in business (and architecture).
 
-* * *
 
 
 ## Organization and Processes

@@ -12,7 +12,7 @@
 A> **KEY POINTS:**
 A> * The architecture Data Foundation serves as a medium to create a complete, up-to-date picture of critical elements of technology landscapes of big organizations. 
 A> * The Data Foundation provides an architecture-centric view of data about a technology landscape based on source code analyses, public cloud billing reports, vibrancy reports, or incident tickets.
-A> * To facilitate the creation of a Data Foundation, I have been working on creating open-source tools, such as [Sokrates](https://sokrates.dev), that can help obtain valuable architectural insights from data sources, such as source code repositories.
+A> * To facilitate the creation of a Data Foundation, I have been working on creating open-source tools that can help obtain valuable architectural insights from data sources, such as source code repositories.
 
 A> *"If we have data, let's look at data. If all we have are opinions, let's go with mine."* -— Jim Barksdale
 

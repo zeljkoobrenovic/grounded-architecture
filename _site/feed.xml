@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-07-24T14:58:33+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: Redefining IT Architecture Practice</title><subtitle></subtitle><entry><title type="html">High Performing Technology Organizations</title><link href="http://localhost:4000/concepts-org" rel="alternate" type="text/html" title="High Performing Technology Organizations" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/appendix-organization</id><content type="html" xml:base="http://localhost:4000/concepts-org"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/car-engine-1701029_1280.jpg" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-07-24T22:24:04+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: Redefining IT Architecture Practice</title><subtitle></subtitle><entry><title type="html">High Performing Technology Organizations</title><link href="http://localhost:4000/concepts-org" rel="alternate" type="text/html" title="High Performing Technology Organizations" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/appendix-organization</id><content type="html" xml:base="http://localhost:4000/concepts-org"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/car-engine-1701029_1280.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/paulbr75-2938186/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1701029">Paul Brennan</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1701029">Pixabay</a>
 </div>
@@ -260,9 +260,9 @@ Image by <a href="https://pixabay.com/users/shire777-19410672/?utm_source=link-a
   <li><em>What are grow dynamics of your organization?</em></li>
   <li><em>Are you experiencing synergy and transformation pressures?</em></li>
   <li><em>How (de)centralized is your organization?</em></li>
-</ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[The Grounded Architecture approach has evolved in the context of global, loosely coupled organizations that are diverse, with non-linear growth dynamics, and under transformation pressures. My work reflects my experiences at AVIV Group, eBay Classifieds, and Adevinta.]]></summary></entry><entry><title type="html">Goals</title><link href="http://localhost:4000/goals" rel="alternate" type="text/html" title="Goals" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/requirements</id><content type="html" xml:base="http://localhost:4000/goals"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/stress-gc7a712a2f_1920.jpg" /></p>
+</ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[The Grounded Architecture approach has evolved in the context of global, loosely coupled organizations that are diverse, with non-linear growth dynamics, and under transformation pressures. My work reflects my experiences at AVIV Group, eBay Classifieds, and Adevinta.]]></summary></entry><entry><title type="html">Goals</title><link href="http://localhost:4000/goals" rel="alternate" type="text/html" title="Goals" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/requirements</id><content type="html" xml:base="http://localhost:4000/goals"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/iStock-462294849.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by <a href="https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=7446584">Gerd Altmann</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=7446584">Pixabay</a>
+Image by iStock
 </div>
 <blockquote>
   <p><strong>IN THIS SECTION, YOU WILL:</strong> Understand the requirements I identified for an architecture function in complex organizations.</p>
@@ -291,7 +291,6 @@ Image by <a href="https://pixabay.com/users/geralt-9301/?utm_source=link-attribu
 </style>
 
 <p><br /></p>
-<h2 id="goals">Goals</h2>
 
 <p>Considering the scale and complexity of the organizational context I operated in, it was apparent that conventional approaches of doing architecture that rely on manual processes need to be revised.</p>
 
@@ -299,6 +298,12 @@ Image by <a href="https://pixabay.com/users/geralt-9301/?utm_source=link-attribu
 Considering the scale and complexity of the organizational context I operated in, it was apparent that conventional approaches of doing architecture that rely on manual processes need to be revised.
 </div>
 
+<p><img src="assets/images/stress-gc7a712a2f_1920.jpg" alt="" /></p>
+<div style="text-align: center; font-size: 70%; color: grey; margin-bottom: 12px; margin-top: -12px;">
+Image by <a href="https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=7446584">Gerd Altmann</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=7446584">Pixabay</a>
+</div>
+
+<h2 id="goals">Goals</h2>
 <p>More specifically, I identified the following needs that an architecture function should support.</p>
 
 <h3 id="goal-1-executing-at-scale">Goal 1: Executing At Scale</h3>
@@ -399,7 +404,7 @@ Image by <a href="https://pixabay.com/users/3844328-3844328/?utm_source=link-att
   <ul>
     <li>The architecture Data Foundation serves as a medium to create a complete, up-to-date picture of critical elements of technology landscapes of big organizations.</li>
     <li>The Data Foundation provides an architecture-centric view of data about a technology landscape based on source code analyses, public cloud billing reports, vibrancy reports, or incident tickets.</li>
-    <li>To facilitate the creation of a Data Foundation, I have been working on creating open-source tools, such as <a href="https://sokrates.dev">Sokrates</a>, that can help obtain valuable architectural insights from data sources, such as source code repositories.</li>
+    <li>To facilitate the creation of a Data Foundation, I have been working on creating open-source tools that can help obtain valuable architectural insights from data sources, such as source code repositories.</li>
   </ul>
 </blockquote>
 <style>

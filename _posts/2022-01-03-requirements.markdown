@@ -12,9 +12,9 @@ excerpt: "I identified the following needs that an architecture function should 
 
 ---
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
-     src="assets/images/stress-gc7a712a2f_1920.jpg">
+     src="assets/images/arch/iStock-462294849.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by <a href="https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=7446584">Gerd Altmann</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=7446584">Pixabay</a>
+Image by iStock
 </div>
 > **IN THIS SECTION, YOU WILL:** Understand the requirements I identified for an architecture function in complex organizations.
 >
@@ -39,7 +39,6 @@ Image by <a href="https://pixabay.com/users/geralt-9301/?utm_source=link-attribu
 </style>
 
 <br>
-## Goals
 
 Considering the scale and complexity of the organizational context I operated in, it was apparent that conventional approaches of doing architecture that rely on manual processes need to be revised. 
 
@@ -47,6 +46,13 @@ Considering the scale and complexity of the organizational context I operated in
 Considering the scale and complexity of the organizational context I operated in, it was apparent that conventional approaches of doing architecture that rely on manual processes need to be revised.
 </div>
 
+
+![](assets/images/stress-gc7a712a2f_1920.jpg)
+<div style="text-align: center; font-size: 70%; color: grey; margin-bottom: 12px; margin-top: -12px;">
+Image by <a href="https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=7446584">Gerd Altmann</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=7446584">Pixabay</a>
+</div>
+
+## Goals
 More specifically, I identified the following needs that an architecture function should support.
 
 ### Goal 1: Executing At Scale

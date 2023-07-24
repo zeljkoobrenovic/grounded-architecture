@@ -28,6 +28,15 @@ def copy_post(post):
                 elif line.strip().startswith('> **IN THIS SECTION, YOU WILL'):
                     content += line[1:].strip() + '\n'
                     content += '\n{pagebreak}\n\n'
+                elif line.strip().startswith('#### The Mini-CEO'):
+                    content += '\n{pagebreak}\n'
+                    content += line + '\n'
+                elif line.strip().startswith('#### The Former Project Manager'):
+                    content += '\n{pagebreak}\n'
+                    content += line + '\n'
+                elif line.strip().startswith('#### The Waiter'):
+                    content += '\n{pagebreak}\n'
+                    content += line + '\n'
                 elif line.strip() == '>':
                     print('')
                 elif line.strip().startswith('</') or line.strip().startswith('<t'):
