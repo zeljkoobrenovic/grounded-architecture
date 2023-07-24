@@ -1,1 +1,2 @@
-2022-01-03-requirements.markdown
+2022-06-14-leadership.markdown
+2022-07-07-culture-map.md
