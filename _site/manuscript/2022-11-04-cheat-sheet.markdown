@@ -12,9 +12,9 @@
 ## Introductions
 
 ### Introduction
-* This book aims to share my approach to running an IT architecture practice in larger organizations based on my experience at AVIV Group, eBay Classifieds, and Adevinta. I call this approach "Grounded Architecture"—architecture with strong foundations and deep roots.
-* Prioritizing people interactions and data over processes and tools, Grounded Architecture aims to connect architecture practice to all organizational levels as an antidote to the "ivory tower" architecture.
-* I also explain my motivation to write this book.
+* *This book aims to share my approach to running an IT architecture practice in larger organizations based on my experience at AVIV Group, eBay Classifieds, and Adevinta. I call this approach "Grounded Architecture"—architecture with strong foundations and deep roots.*
+* *Prioritizing people interactions and data over processes and tools, Grounded Architecture aims to connect architecture practice to all organizational levels as an antidote to the "ivory tower" architecture.*
+* *I also explain my motivation to write this book.*
 
 ### Context: Fast-Moving Global Organizations
 * To better understand any idea or solution, it is crucial to understand the context in which this idea developed. 
