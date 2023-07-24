@@ -2,8 +2,8 @@
 
 # Goals {#goals}
 
-![](assets/images/stress-gc7a712a2f_1920.jpg)
-^image by gerd altmann from pixabay^
+![](assets/images/arch/iStock-462294849.jpg)
+^image by istock^
 
 **IN THIS SECTION, YOU WILL:** Understand the requirements I identified for an architecture function in complex organizations.
 
@@ -12,10 +12,12 @@
 A> **KEY POINTS:**
 A> * I identified the following needs that an architecture function should support: Executing At Scale, Adaptivity, Increasing the Quality of Decision-Making with Data, and Maximizing Organizational Alignment & Learning.
 
-## Goals
-
 Considering the scale and complexity of the organizational context I operated in, it was apparent that conventional approaches of doing architecture that rely on manual processes need to be revised. 
 
+![](assets/images/stress-gc7a712a2f_1920.jpg)
+^image by gerd altmann from pixabay^
+
+## Goals
 More specifically, I identified the following needs that an architecture function should support.
 
 ### Goal 1: Executing At Scale
