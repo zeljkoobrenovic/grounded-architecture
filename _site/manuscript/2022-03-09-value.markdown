@@ -87,6 +87,9 @@ A> *" I expect you to learn to be better each day. I challenge you to look at ea
 
 The last goal is that architecture should help organizations learn quickly, stay up-to-date with emerging technologies and industry trends, and recommend technology upgrades. Learning is one of the primary daily tasks of architects. Architects must **proactively identify relevant new technology developments**. They must create pragmatic technology recommendations for concrete platforms across the organization based on their understanding of these developments.
 
+![](assets/images/arch/iStock-871461580.jpg)
+^image by istock^
+
 The Grounded Architecture structure can support learning in multiple ways:
 
 * **The [Data Foundation](#data)** can accelerate learning and adopting new technologies by providing more **data to facilitate reflection and exploration**.
