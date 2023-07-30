@@ -2,33 +2,36 @@
 
 # Leadership {#leadership}
 
+![image by david mark from pixabay](assets/images/arch/submarine-gcc865d4ee_1920.jpg)
+
 **IN THIS SECTION, YOU WILL:**  Understand how to apply ideas from David Marquet's work and Netflix's valued behaviors to develop architects' leadership traits.
 
 {pagebreak}
 
 A> **KEY POINTS:**
-A> * My view of architecture leadership is inspired by David Marquet's work and the Netflix's valued behaviors.
-A> * Marquet focused on leadership and organizational management, with a particular emphasis on the principles of Intent-Based Leadership.
-A> * Borrowing from Netflix's original values the following behavioral traits are crucial for architects are: communication, judgment, impact, inclusion, selflessness, courage, integrity, curiosity, innovation, and passion.
+A> * My view of architecture leadership is inspired by David Marquet's work and Netflix's valued behaviors.
+A> * Marquet focused on leadership and organizational management, particularly emphasizing the principles of Intent-Based Leadership.
+A> * Borrowing from Netflix's original values, the following behavioral traits are crucial for architects: communication, judgment, impact, inclusion, selflessness, courage, integrity, curiosity, innovation, and passion.
 
-My approach to architecture leadership draws inspiration from two sources: [David Marquet's](https://davidmarquet.com/) leadership principles, as articulated in his book "Turn the Ship Around!" and Netflix's valued behaviors. Marquet's ideas emphasize empowering team members, providing clarity, decentralizing decision-making, striving for continuous improvement, and practicing servant leadership. Meanwhile, [Netflix valued behaviors](https://jobs.netflix.com/culture) offer useful guidance for coaching and developing architects aligned with the "superglue" version.
+My approach to architecture leadership draws inspiration from two sources: **[David Marquet's](https://davidmarquet.com/) leadership principles**, as articulated in his book "Turn the Ship Around!" and Netflix's valued behaviors. Marquet's ideas emphasize empowering team members, providing clarity, decentralizing decision-making, striving for continuous improvement, and practicing servant leadership. Meanwhile, **[Netflix valued behaviors](https://jobs.netflix.com/culture)** offer useful guidance for coaching and developing architects aligned with the "superglue" version.
 
 ## David Marquet's Work: The Leader-Leader Model
 
-Marquet's work is closely tied to the Leader-Leader model of leadership, a style where authority is shared across a team or organization instead of being concentrated at the top. In this model, every team member has something valuable to contribute and can work together toward the group's success.
+Marquet's work is closely tied to **the Leader-Leader model of leadership**, a style where authority is shared across a team or organization instead of being concentrated at the top. In this model, every team member has something valuable to contribute and can work together toward the group's success.
 
-This leadership approach empowers individuals to take ownership of their work and collaborate with others to achieve common goals. Instead of relying on a single leader to make all decisions, authority, and responsibility are distributed across the team.
+This leadership approach empowers individuals to **take ownership of their work and collaborate** with others to achieve common goals. Instead of relying on a single leader to make all decisions, authority, and responsibility are distributed across the team.
 
-The leader-leader model is an excellent standard for architects' leadership vision. Like managers in a leader-leader model, architects should act more as facilitators, coaches, and mentors than traditional top-down decision-makers. They provide team members guidance, support, or resources to help them achieve their goals and reach their full potential.
+The leader-leader model is an excellent standard for architects' leadership vision. Like managers in a leader-leader model, **architects should act more as facilitators, coaches, and mentors** than traditional top-down decision-makers. They provide team members guidance, support, or resources to help them achieve their goals and reach their full potential.
 
-One of the key benefits of a leader-leader model is that it creates a more collaborative and inclusive work environment. It allows individuals to contribute their unique perspectives, experiences, and skills to the group, promoting a sense of ownership and accountability for the team's success. This model also helps build trust and stronger relationships within the team, leading to increased productivity, creativity, and innovation.
+One of the key benefits of a leader-leader model is that it creates **a more collaborative and inclusive work environment**. It allows individuals to contribute their unique perspectives, experiences, and skills to the group, promoting a sense of ownership and accountability for the team's success. This model also **helps build trust and stronger relationships within teams**, leading to increased productivity, creativity, and innovation.
 
-David Marquet's book "Leadership is Language" provides practical advice for leaders looking to create a more collaborative, innovative, and inclusive organizational culture. He emphasizes the importance of language and communication in leadership and introduces the phrase "I intend to" as a powerful tool for clarifying intent and empowering team members (Figure 1). When team members give intent, the psychological ownership of those actions shifts to them, making them the originators of thought and direction instead of passive followers. This shift in language helps to promote a more collaborative work environment.
+![image by istock](assets/images/arch/iStock-1130373923.jpg)
 
-![](assets/images/arch/leader-leader.jpg)
-***Figure 1:** Leadership language. Based on Intent-Based Leadership, by David Marquet.*
+David Marquet's book "Leadership is Language" provides practical advice for leaders looking to create a more collaborative, innovative, and inclusive organizational culture. He emphasizes the importance of language and communication in leadership and introduces **the phrase "I intend to"** as a powerful tool for clarifying intent and **empowering team members** (Figure 1). When team members give intent, the psychological ownership of those actions shifts to them, making them the originators of thought and direction instead of passive followers. This shift in language helps to promote a more collaborative work environment.
 
-I have found a phase "I intend to" to be a powerful catalyst for positioning architecture work. The phrase helps describe the work architect as someone others expect to take the initiative and lead efforts. But also to describe the desired interaction of architects with the teams they work with, where we hope teams share their intentions which architects can help improve.
+I have found a phase "I intend to" to be a powerful catalyst for positioning architecture work. The phrase helps describe the work **architect as someone others expect to take the initiative and lead efforts**. But also to describe the desired interaction of architects with the teams they work with, where we hope teams share their intentions which architects can help improve.
+
+![Figure 1: Leadership language. Based on Intent-Based Leadership, by David Marquet.](assets/images/arch/leader-leader.jpg)
 
  
 ## Netflix Valued Behaviors: Leadership Behaviors
@@ -135,10 +138,10 @@ Architects are frequently role models for others. As such you need to show the f
 * *Reflect on the Leader-Leader model of leadership in your work. How can you empower your team members and encourage them to take ownership of their work?*
 * *Have you acted as a facilitator, coach, or mentor as an architect? Can you share an example of when you gave team members guidance, support, or resources to achieve their goals?*
 * *How does the phrase "I intend to" resonate with your approach to architecture work? How can it change your perspective on taking the initiative and leading efforts?*
-* *How effective do you believe your communication skills are? Have you adapted your style to work with people from diverse backgrounds and languages?*
+* *How effective do you believe your communication skills are?*
 * *How can you foster an inclusive working environment as an architect? How do you nurture and embrace differing perspectives to make better decisions?*
 * *Reflect on a situation where you made a decision that was best for the organization rather than what was best for yourself or your group. What was the outcome?*
-* *Have you ever had to take an uncomfortable stance but in your organization's best interest? Can you share this experience?*
+* *Have you ever had to take an uncomfortable stance but in your organization's best interest?*
 * *How do you maintain integrity as a trusted advisor in your organization? Can you share an example where your honesty, authenticity, and transparency were vital?*
 * *How have you maintained your curiosity in your role as an architect? Can you share an instance where your learning eagerness led to a significant outcome?*
 * *What innovative solutions have you created as an architect? How have these innovations benefitted your organization?*
