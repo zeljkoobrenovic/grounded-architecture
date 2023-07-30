@@ -79,7 +79,7 @@ As a part of my work on Grounded Architecture, I also provide several guiding pr
   * [Culture Map: Architects' Culture Mindfield Compass](culture-map)
   * [Managing Organization Complexity: Six Simple Rules](six-simple-rules)
   * [Product Development and The Build Trap](product-development)
-  * [Architecture Governance: Mandates, Taxation, Nudge](flexible-governance)
+  * [Architecture Governance: Mandates, Taxation, Nudge](governance)
   * [Economic Modeling: ROI and Financial Options](economics)
 
 The rest of this book will explain in detail the Grounded Architecture approach. In this section, I want to tell a few things about my motivation to write this book.
