@@ -2,7 +2,8 @@
 
 # Architects' Career Paths: Raising the Bar {#career}
 
-![image by istock tableatny (cc by 2.0)](assets/images/arch/pole-vault.jpg)
+![](assets/images/arch/pole-vault.jpg)
+^image by istock tableatny (cc by 2.0)^
 
 **IN THIS SECTION, YOU WILL:**  Get ideas and tips about developing architects' career paths.
 
@@ -20,7 +21,8 @@ My view of architecture has **a strong engineering bias**. Architects' career pa
 
 Regarding career progression, Figure 1 shows an example of architectural career paths in relation to engineering, which I used to define architectural career paths. 
 
-![Figure 1: An example of architecture career paths in relation to engineering.](assets/images/arch/career-paths.png)
+![](assets/images/arch/career-paths.png)
+***Figure 1:** An example of architecture career paths in relation to engineering.*
 
 Stepping from an engineering position to an architecture requires three changes:
 * Getting **a broader scope** of work,

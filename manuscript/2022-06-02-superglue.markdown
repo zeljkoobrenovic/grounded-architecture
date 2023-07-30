@@ -2,7 +2,8 @@
 
 # Architects as Superglue {#superglue}
 
-![IN THIS SECTION, YOU WILL:  Understand the view on architects as superglue (people who hold architecture, technical details, business needs, and people together across a large organization or complex projects) and get valuable tips on developing "superglue" abilities.](assets/images/superglue/superglue.png)
+![](assets/images/superglue/superglue.png)
+**IN THIS SECTION, YOU WILL:**  Understand the view on architects as superglue (people who hold architecture, technical details, business needs, and people together across a large organization or complex projects) and get valuable tips on developing "superglue" abilities.
 
 {pagebreak}
 
@@ -17,7 +18,8 @@ The superglue characteristics mean serving as the **organizational connective ti
 
 From discussions I've had with engineering leaders, engineers, and architects, Figure 1 has crystallized as a representation of the "superglue" metaphor for architects.
 
-![Figure 1: Architects serve as a superglue, connecting development teams with business stakeholders while linking teams with the internal communities and the external world.](assets/images/superglue/architect-as-superglue.png)
+![](assets/images/superglue/architect-as-superglue.png)
+***Figure 1:** Architects serve as a superglue, connecting development teams with business stakeholders while linking teams with the internal communities and the external world.*
 
 Architects must have good relationships with developer teams, local business stakeholders, and functions. Simultaneously, such a person needs to be well-connected with broader internal communities. External visibility is essential for architects, who can bring ideas from outside into the organization and promote the organization to the outside world. 
 
@@ -27,11 +29,13 @@ The primary value of superglue architects in complex organizations is **aligning
 
 Technology, product, organization, and business functions face specific challenges. But additional problems occur when there is **tension among them** (Figure 2). This tension is a consequence of the **misalignment of these structures**. For example, we may organize teams using a well-defined domain model (organizational design). Still, if our IT system is a monolith (technical design), our teams will collaborate in a different pattern than the organizational design would suggest. On the other hand, if our teams are well aligned with the technical domain model and implementation (e.g., teams have full ownership of microservices and can deploy them independently), but the product architecture differs from the microservice modularization, we may need to change dozens of microservices when introducing relatively simple product features. Similarly, tension occurs in business objectives are misaligned with product or technology objectives (e.g., try reducing short-term costs while adding new features and migrating to the public cloud). 
 
-![Figure 2: The tensions between technology, product, organization, and business functions.](assets/images/tension.png)
+![](assets/images/tension.png)
+***Figure 2:** The tensions between technology, product, organization, and business functions.*
 
 The main problem of these tensions is that they **slow things down due** to miscommunications and misalignment, lead to **bad decisions** due to lack of information, introduce **unnecessary complexity**, and lead to many **missed opportunities**. Too frequently, architecture sits on the side, shouting principles and abstract ideals that everyone ignores. By **acting as a superglue**, the architecture practice can help **reduce tension** between technology, product, organization, and business functions (Figure 3). Architecture should ensure that conversations happen between the technical, product, organizational, and business functions.
 
-![Figure 3: Architects should be in the middle of reducing tensions between technology, product, organization, and business functions.](assets/images/tension-architecture.png)
+![](assets/images/tension-architecture.png)
+***Figure 3:** Architects should be in the middle of reducing tensions between technology, product, organization, and business functions.*
 
 While staying close to technology (engine room), architects must ensure that technology is serving the needs of customers and the business and that technical architecture is well aligned with the organizational design. At the same time, architects can help ensure that business, product, and organizational designs are well-informed about the state, risks, and opportunities of an organization's technology to avoid creating impractical strategies, setting unrealistic goals, or missing opportunities. More specifically, there are several **key risks** that the misalignment brings, and architects need to be aware of:
 * **Building wrong products**, as technology implementation may make wrong assumptions not aligned with product vision and architecture. 
@@ -55,7 +59,8 @@ Setting the architects' goals to be "superglue" also requires some thought on de
 * Impact
 * Leadership
 
-![Figure 4: Architect Profile: Skills + Impact + Leadership.](assets/images/superglue/architect-skills.png)
+![](assets/images/superglue/architect-skills.png)
+***Figure 4:** Architect Profile: Skills + Impact + Leadership.*
 
 ### Skills 
 
@@ -100,7 +105,8 @@ The section [Leadership](#leadership) provides more details.
 
 Architects need to have a **minimal "length"** of all of these "legs" to be successful (Figure 5). For instance, having skills and impact without leadership frequently leads to **hitting a glass ceiling**. Such architects plateau at an intermediate level and cannot direct the company to innovative or transformative solutions. Leadership without impact lacks foundation and may signal that you have become an **ivory tower architect** with a weak relation to reality. And having impact and leadership qualities but no skills leads to **impractical decisions** not informed by in-depth knowledge.
 
-![Figure 5: Architects need to have a minimal "length" of all "legs" to be successful.](assets/images/arch/architect-legs.png)
+![](assets/images/arch/architect-legs.png)
+***Figure 5:** Architects need to have a minimal "length" of all "legs" to be successful.*
 
  
 ## Questions to Consider

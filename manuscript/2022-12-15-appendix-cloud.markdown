@@ -2,7 +2,8 @@
 
 # Cloud Design Patterns {#concepts-cloud}
 
-![image by donna kirby from pixabay](assets/images/arch/fantasy-782001_1280.jpg)
+![](assets/images/arch/fantasy-782001_1280.jpg)
+^image by donna kirby from pixabay^
 
 **IN THIS SECTION, YOU WILL:** Get a mix of key distributed and messaging system topics combined with modern public cloud engineering themes.
 
