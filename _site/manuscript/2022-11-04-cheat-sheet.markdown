@@ -2,7 +2,8 @@
 
 # Cheat Sheet {#cheat-sheet}
 
-![image by istock / tashulia.](assets/images/arch/iStock-1182643171.jpg)
+![](assets/images/arch/iStock-1182643171.jpg)
+^image by istock / tashulia.^
 
 **IN THIS SECTION, YOU WILL:** Get a cheatsheet with all key points from in all sections.
 
