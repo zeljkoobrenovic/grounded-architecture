@@ -2,7 +2,8 @@
 
 # Context: Fast-Moving Global Organizations {#context}
 
-![image by paul brennan from pixabay](assets/images/arch/roller-coaster-3605743_1920.jpg)
+![](assets/images/arch/roller-coaster-3605743_1920.jpg)
+^image by paul brennan from pixabay^
 
 **IN THIS SECTION, YOU WILL:** Understand the context in which the ideas in this book developed.
 
@@ -30,7 +31,8 @@ I have developed my approach in genuinely global and multicultural organizations
 * Working with thousands of software developers in hundreds of product and development teams,
 * Implementing systems with hundreds of millions of lines of source code.
 
-![image by pete linforth from pixabay](assets/images/arch/earth-g217b5730b_1920.jpg)
+![](assets/images/arch/earth-g217b5730b_1920.jpg)
+^image by pete linforth from pixabay^
 
 The global scale introduces several compelling opportunities for organizations. The global scale can increase organizational effectiveness due to the possibility of **reducing duplication of effort** by centralizing shared activities. Second, the global scale enables leveraging **economies of scale** by achieving cost advantages, such as lowering unit prices of used technologies. Furthermore, the global scale can increase **business resilience and flexibility**, possibly compensating for negative local market changes with global resources. Global organizations also have **a bigger talent pool** to support local or international efforts. Lastly, such organizations have significant resources to invest in to support nonlinear growth through mergers and acquisitions (M&As).
 
@@ -47,7 +49,8 @@ The organizations I worked in were very diverse across several dimensions:
 * **IT Architecture**: legacy and modern approaches mixed, and
 * **Technology**: dozens of programming languages and thousands of thirds party libraries, frameworks, and services.
 
-![image by simon from pixabay](assets/images/arch/pictures-g139ff7ebb_1280.jpg)
+![](assets/images/arch/pictures-g139ff7ebb_1280.jpg)
+^image by simon from pixabay^
 
 Organization-wise, I needed to work with many units that differed in multiple ways:
 * **Unit size**: some units had hundreds of people, and some units had only a dozen.
@@ -72,7 +75,8 @@ From an architectural perspective, diversity is an excellent source of new possi
 
 Complex organizations like the one I have worked in are frequently very dynamic. Such organizations grow (or shrink) and reorganize often and significantly. They change both organically and inorganically. **Organic growth** is internal growth the company sees from its operations. **Inorganic change** comes from buying other businesses, opening new locations, or divesting.
 
-![image by pexels from pixabay](assets/images/arch/blur-g6bc6ee2cc_1920.jpg)
+![](assets/images/arch/blur-g6bc6ee2cc_1920.jpg)
+^image by pexels from pixabay^
 
 Nonlinear growth, in particular, may be helpful in several scenarios. It can **quickly increase the customer base** or add new market segments. And such change can also **speed up innovation** due to the acquisition of new technologies or services.
 
@@ -82,7 +86,8 @@ But nonlinear growth dynamics have significant influences on architectural activ
 
 Complex organizations do not just grow. Instead, they want to be more efficient and leverage economies of scale, cost synergies, or increase capacity for innovation. Our investors expect us to transform to be **more than a sum of our original parts**.
 
-![image by mustangjoe from pixabay](assets/images/arch/gears-g06fe4e9a5_1920.jpg)
+![](assets/images/arch/gears-g06fe4e9a5_1920.jpg)
+^image by mustangjoe from pixabay^
 
 Pressure for synergies and transformations can provide several opportunities. Synergies lead to **cost reductions** and less duplication. Resulting cost reductions can **accelerate innovation** due to more resources freed after synergies. Creating synergic components gives us more possibilities for **reuse and sharing**. And well-executed transformations can create **more efficiencies and lower unit costs**.
 
@@ -96,7 +101,8 @@ Researcher Karl Weick developed the concepts of tight and loose coupling to desc
 
 In **a loosely coupled organization**, some of the elements of a tightly coupled organization are absent. Employees have **more autonomy**, and different departments may operate with **little coordination**.
 
-![image by shire777 from pixabay](assets/images/arch/world-trade-center-g707209d17_1920.jpg)
+![](assets/images/arch/world-trade-center-g707209d17_1920.jpg)
+^image by shire777 from pixabay^
 
 Due to historical and strategic reasons, most organizational units I worked with were loosely coupled. Our companies frequently grow through acquisitions of companies in different marketplaces. The business strategies also frequently promote a more independent evolution of local units to address local market needs better and faster. Such units often have a high level of autonomy, frequently with their development teams and sometimes with local CFOs, CMOs, or CEOs.
 
