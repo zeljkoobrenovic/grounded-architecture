@@ -2,9 +2,14 @@
 
 # Favorite Quotes {#quotes}
 
-![image by Amy from Pixabay](assets/images/arch/books-g1b2675255_1920.jpg)
+![](assets/images/arch/books-g1b2675255_1920.jpg)
+^image by Amy from Pixabay^
 
 ## People, People, People
+
+~~~
+
+~~~
 
 *Architecture is **not so much about the software**, **but about the people** who write the software. The core principles of architecture, such as **coupling and cohesion**, aren't about the code. The code doesn't 'care' about how cohesive or decoupled it is; … But people do care about their coupling to other team members.*
 -James O. Coplien
@@ -27,6 +32,10 @@
 
  
 ## Changing Role of Architecture
+
+~~~
+
+~~~
 
 *The role of architects has changed from trying to be the smartest person to **making everyone else smarter**.*
 -Gregor Hohpe
@@ -54,6 +63,10 @@
  
 ## Complexity
 
+~~~
+
+~~~
+
 *Excessive complexity is nature’s punishment for **organizations that are unable to make decisions.***
 -Gregor Hohpe
 
@@ -70,6 +83,10 @@
  
 
 ## Other
+
+~~~
+
+~~~
 
 *Architecture is just a collective hunch, a **shared hallucination**, an assertion by a set of stakeholders on the nature of their observable world, be it a world that is or a world as they wish it to be.*
 -Grady Booch
