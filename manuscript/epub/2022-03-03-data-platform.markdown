@@ -118,20 +118,15 @@ Finding the right ways to interpret and use data requires active effort. In othe
 
 Figures 6 to 10 show some insights from source code analyses with Sokrates. 
 
-![](assets/images/archdata/src_1.png)
-**Figure 6**: *Sokrates can instantly create a helicopter view of the technology landscape, programming languages, active contributors, and commit trends.*
+![Figure 6: Sokrates can instantly create a helicopter view of the technology landscape, programming languages, active contributors, and commit trends.](assets/images/archdata/src_1.png)
 
-![](assets/images/archdata/src_2.png)
-**Figure 7**: *Sokrates can show detailed code and contributors' trends per repository, enabling zooming in each repository up to the code level.*
+![Figure 7: Sokrates can show detailed code and contributors' trends per repository, enabling zooming in each repository up to the code level.](assets/images/archdata/src_2.png)
  
-![](assets/images/archdata/src_5.png)
-**Figure 8**: *Sokrates can create a tech radar by tagging projects with identified technologies.*
+![Figure 8: Sokrates can create a tech radar by tagging projects with identified technologies.](assets/images/archdata/src_5.png)
 
-![](assets/images/archdata/src_3.png)
-**Figure 9**: *Sokrates can show contributor trends, distribution of "veterans" and "rookies," and dependencies between people and repositories, enabling zooming in into patterns of the contribution of individual contributors.*
+![Figure 9: Sokrates can show contributor trends, distribution of "veterans" and "rookies," and dependencies between people and repositories, enabling zooming in into patterns of the contribution of individual contributors.](assets/images/archdata/src_3.png)
  
-![](assets/images/arch/sokrates_teams.png)
-**Figure 10**: *Sokrates can reveal the team topologies by plotting 2D and 3D graphs of dependencies that people create through working on the same repositories in the same period.*
+![Figure 10: Sokrates can reveal the team topologies by plotting 2D and 3D graphs of dependencies that people create through working on the same repositories in the same period.](assets/images/arch/sokrates_teams.png)
 
 ## Questions to Consider
 

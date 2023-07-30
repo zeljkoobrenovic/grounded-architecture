@@ -2,8 +2,7 @@
 
 # Architecture Activities Platform {#activities-platform}
 
-![](assets/images/arch/parliament-366199_1920.jpg)
-^image by anja from pixabay^
+![image by anja from pixabay](assets/images/arch/parliament-366199_1920.jpg)
 
 **IN THIS SECTION, YOU WILL:**  Understand what activities you can do as a part of architecture practice and get tips on creating pragmatic operating models for an architecture practice.
 
@@ -17,8 +16,7 @@ Each organization will have different architectural needs and contexts. When for
  * *"Your architecture team’s job is to **solve your biggest problems**. The best setup is the one that allows it to accomplish that."*
  * *"Your organization has to earn its way to an effective architecture function. **You can’t just plug some architects into the current mess** and expect it to solve all your problems."*
 
-![](assets/images/model-strategy.png)
-***Figure 1:** The structure of Grounded Architecture: Architecture Activities Platform.*
+![Figure 1: The structure of Grounded Architecture: Architecture Activities Platform.](assets/images/model-strategy.png)
 
 Considering the previous two points from Gregor Hohpe, I approach defining an architecture practice with a mindset that there is no one-size-fits-all approach. You must find your own activities and operating models to enable architecture to solve the most critical problems. 
 
@@ -44,8 +42,7 @@ To better understand what I mean by an Architecture Activities Platform, here ar
 
 While exact activities and their scope will depend on an organization setting and will change over time, I usually followed a common operational model in daily work (Figure 2).
 
-![](assets/images/arch/architecture-system.png)
-**Figure 2:** *A common operating model I typically use for Grounded Architecture activities.*
+![Figure 2: A common operating model I typically use for Grounded Architecture activities.](assets/images/arch/architecture-system.png)
 
 Inspired by Gregor Hohpe's strategy-principles-decisions model, I typically used this guidelines:
 * **Engagement mindset**: 
@@ -65,9 +62,7 @@ Another characteristic of this operating model is **shifting left** the architec
 
 Inspired by the famous [Netflix expense policy](https://hbr.org/2014/01/how-netflix-reinvented-hr), I frequently argued that architecture decision policy could be summarized in six words: 
 
-![](assets/images/arch/decision-policy.png)
-
-What I mean by that is that anyone can make architecture decisions, provided that, in addition to their specific requirements, they also think about the impact of their choices on:
+![What I mean by that is that anyone can make architecture decisions, provided that, in addition to their specific requirements, they also think about the impact of their choices on:](assets/images/arch/decision-policy.png)
 
 * **Overall organizational complexity**: Limiting tech diversity, size, and dependencies makes technology more manageable. It also reduces the attack surface with fewer third-party dependencies and tool ecosystems (build, testing, etc.).
 * **Ease of moving people** between teams (both to get help and help others, get promoted): Do not unnecessarily create exotic islands with few experts in technologies not supported or widely used in the organization. People cannot get help or move across the organization as their expertise may be useless outside the team.
@@ -89,8 +84,7 @@ To give maximal autonomy to the teams while maintaining a **minimal** level of g
 
 The **decision pyramid** highlights that development teams should make most decisions. However, several strategic and area-level choices may provide team decision boundaries. For example, selecting the public cloud provider is typically a CTO-level strategic decision. Similarly, engineering leaders in some areas may want to limit some choices, such as the number of programming languages, to more easily train new people, maintain code, and support moves between teams.
 
-![](assets/images/arch/decision-pyramid.png)
-***Figure 3:** A decision pyramid. The development teams should make most decisions. However, several strategic and area-level decisions may provide decision boundaries for teams (e.g., a public cloud provider).*
+![Figure 3: A decision pyramid. The development teams should make most decisions. However, several strategic and area-level decisions may provide decision boundaries for teams (e.g., a public cloud provider).](assets/images/arch/decision-pyramid.png)
 
 ## Questions to Consider
 

@@ -13,12 +13,13 @@ def copy_post(post):
     image_line = ''
     skip_line = False
 
-    with open('../' + post) as inputfile:
+    with open('../print/' + post) as inputfile:
         for line in inputfile:
             if skip_line:
-                merged_line = '![' + line.replace('*', '').replace('^', '').replace('\n', '') + image_line[2:]
-                lines.append(merged_line)
-                skip_line = False
+                if len(line.strip()) > 0:
+                    merged_line = '![' + line.replace('*', '').replace('^', '').replace('\n', '') + image_line[2:]
+                    lines.append(merged_line)
+                    skip_line = False
             elif line.startswith('![]('):
                 image_line = line
                 skip_line = True

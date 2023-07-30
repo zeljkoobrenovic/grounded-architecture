@@ -1,11 +1,11 @@
 # Tools
 
 ![](assets/images/arch/adult-gfd09399f9_1920.jpg)
+^image by Pexels from pixabay^
 
 {pagebreak}
 
-
-{width: "20%"}
+{width: "17%"}
 ![](assets/images/books/sokrates.png)
 
 **[Sokrates](https://sokrates.dev)**: Sokrates is a tool I built to implement my vision of documenting and analyzing software architectures of complex systems.
@@ -14,14 +14,14 @@ Sokrates can help you understand your code by making visible the size, complexit
 
 * * *
 
-{width: "20%"}
+{width: "17%"}
 ![](assets/images/books/productivity_tools.png)
 
 **[Productivity Tools](https://obren.io/tools)**: a collection of online tools I built to help me in my daily work as an architect. I reuse these tools and lessons learned in building these tools when designing Data Foundation parts of the grounded architecture.
 
 * * *
 
-{width: "20%"}
+{width: "17%"}
 ![](assets/images/arch/obren359.jpeg)
 
 **[obren359.com](https://obren359.com)**: I've created a curated collections and high-quality IT resources (articles, videos, podcasts).
