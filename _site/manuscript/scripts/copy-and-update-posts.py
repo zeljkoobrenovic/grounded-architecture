@@ -70,6 +70,7 @@ def copy_post(post):
                     line = line.replace('](storm)', '](#storm)')
                     line = line.replace('](product-development)', '](#product-development)')
                     line = line.replace('](flexible-governance)', '](#flexible-governance)')
+                    line = line.replace('](governance)', '](#governance)')
                     line = line.replace('](economics)', '](#economics)')
                     line = line.replace('](context)', '](#context)')
                     line = line.replace('](goals)', '](#goals)')
