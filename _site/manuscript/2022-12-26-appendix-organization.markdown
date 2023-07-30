@@ -16,7 +16,7 @@ Characteristics of High Performing Organizations from the [Accelerate book](http
 I summarized several critical insights from this book:
 
 * Overview of **four key metrics**, describing metrics that provide suitable measures of organization performance. 
-* Overview of critical practices of high-performing technology organizations grouped into the following categories: Continuous Delivery, Architecture, Product and Process,  Lean Management and Monitoring Capabilities, Culture
+* Overview of critical **practices of high-performing technology organizations** grouped into the following categories: Continuous Delivery, Architecture, Product and Process,  Lean Management and Monitoring Capabilities, Culture
 
 ## Four Key Metrics
 * **Lead time for changes:** Elite performers have a lead time for changes of less than 1 hour (from code committed to code successfully running in production).

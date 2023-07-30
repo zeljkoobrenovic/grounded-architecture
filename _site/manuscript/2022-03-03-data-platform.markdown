@@ -2,8 +2,7 @@
 
 # Data Foundation {#data}
 
-![](assets/images/arch/architecture-1857175_1920.jpg)
-^image by lorenzo cafaro from pixabay^
+![^image by lorenzo cafaro from pixabay^](assets/images/arch/architecture-1857175_1920.jpg)
 
 **IN THIS SECTION, YOU WILL:**  Understand how to use diverse data sources to support architecture decision-making processes and get concrete tips on creating architecture-centric data tools.
 
@@ -18,8 +17,7 @@ A> *"If we have data, let's look at data. If all we have are opinions, let's go 
 
 I strongly emphasized data in every place I worked on creating architectural functions. Moreover, in the past several years, I have been working on creating open-source tools, such as [Sokrates](https://sokrates.dev), that can help obtain valuable architectural insights from data sources, such as source code repositories or public cloud billing reports. Consequently, **one of the first steps I make in any architecture practice** is to create an architecture Data Foundation to get a complete, up-to-date picture of critical elements of the technology landscapes of an organization (Figure 1). **Manual documentation does not scale**, and relying on data ensures the reliability and scalability of decision-making. 
 
-![](assets/images/model-data.png)
-***Figure 1:** The structure of Grounded Architecture: The Data Foundation.*
+![Figure 1: The structure of Grounded Architecture: The Data Foundation.](assets/images/model-data.png)
 
 The good news is that **big organizations have lots of data** that, if used wisely, can provide an excellent basis for an architectural Data Foundation. With some automation and curation, getting a good overview of the technology landscape may be closer than it initially appears.
 
