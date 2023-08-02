@@ -4,7 +4,7 @@
 
 ![image by mostafa meraji from pixabay](assets/images/arch/construction-4939383_1920.jpg)
 
-**IN THIS SECTION, YOU WILL:**  Understand that architecture practice is all about people and get tips on creating organizational structures that support practical architecture functions.
+**IN THIS SECTION, YOU WILL:**  Understand that architecture practice is all about people and get tips on creating organizational structures that support practical IT architecture practice.
 
 {pagebreak}
 
@@ -38,7 +38,7 @@ implement change.
 
 ## Background: Central vs. Federated Architecture Function
 
-The architecture function generally follows one of two fundamental models: central or federated (Figure 2, 
+IT architecture practices generally follow one of two fundamental models: central or federated (Figure 2, 
 [McKinsey 2022](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/tech-forward/crafting-the-optimal-model-for-the-it-architecture-organization)).
 
 ![Figure 2: Central vs. Federated Architecture Function.](assets/images/arch/arch_teams.png)
@@ -65,7 +65,7 @@ To operate in a complex [context](#context), you must invest effort to ensure yo
 * A Central Architectural Teams, and
 * Architecture Guilds & Virtual Architectural Teams.
 
-This model is similar to the previously described **federated model**, but with extra investment in a central team that should be more than just an on-demand service provider. 
+This model is similar to the previously described **federated model** but with extra investment in a central team that should be more than just an on-demand service provider. 
 
 The **hybrid team structure** executing at scale in complex organizations:
 * **Guilds** and virtual architecture teams
@@ -134,8 +134,8 @@ There is no one-fit-all solution about how departments should assign
 architecture responsibilities. I generally worked on three types of team-architect systems per [Gregor Hohpe's view of
 architects and their teams' relationships](https://architectelevator.com/architecture/organizing-architecture/):
 1. **Benevolent "dictator"**: An architect or architect team tells developers what to do or how to do things. An important nuance is to what extent the line is unidirectional or bi-directional.
-2. **Primus inter pares (first among equals)**: Architects are embedded into teams where each is just another team member focusing on the system structure and trade-offs, perhaps taking a longer-term view than other team members.
-3. **Architecture without architects**: Architecture is done within teams. However, the task is a shared responsibility across multiple (or all) team members. This approach can work quite well and is often the preferred model.
+2. **Primus inter pares (first among equals)**: Architects are embedded into teams where each is just another team member focusing on the system structure and trade-offs, taking a longer-term view than other team members.
+3. **Architecture without architects**: Architecture is done within teams. However, the task is a shared responsibility across multiple (or all) team members. This approach is often the preferred model in modern technology organizations.
 
 ## Building People Foundation
 
@@ -148,10 +148,10 @@ architecture teams and building a "[People Foundation](#people)":
   in any architecture organization, so you will always benefit from this effort.
 * If creating a virtual team is a part of your architecture strategy, move away from making an informal community of
   practice towards **building a team with more accountability and responsibility**.
-* **Connect with non-architecture stakeholders** in the early stages to gain broader support for building architecture teams and guilds. Again, being well-connected to
+* **Connect with non-architecture stakeholders** early to gain broader support for building architecture teams and guilds. Again, being well-connected to
   these stakeholders will be crucial in any architecture organization.
-* **Avoid hiring [digital hitman](https://architectelevator.com/transformation/dont-hire-hitman/)**. Invest in growing
-  internal talent. Architects need technology, domain, and organization knowledge. Finding such a person outside the organization is challenging.
+* **Avoid hiring [a digital hitman](https://architectelevator.com/transformation/dont-hire-hitman/)**. Invest in growing
+  internal talent. Architects need knowledge of technology, domain, and organization. Finding such a person outside the organization is challenging.
 * **Externalize**. Reach out and connect. Participate in external events. Publish. Being strong externally can help you to
   both grow and attract architectural talent.
 

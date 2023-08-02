@@ -29,12 +29,12 @@ Make your system perform well under load and react well to the load change.
 * **Event Sourcing:** Use an append-only store to record the entire series of events that describe actions taken on data in a domain.
 * **Materialized View:** Generate prepopulated views over the data in one or more data stores when the data is not ideally formatted for required query operations.
 * **Index Table:** Create indexes over the fields in data stores frequently referenced by queries.
-* **Sharding:** Divide a data store into a set of horizontal partitions or shards.
+* **Sharding:** Divide a data store into horizontal partitions or shards.
 * **Static Content Hosting:** Deploy static content to a cloud-based storage service that can deliver them directly to the client.
 * **Cache-Aside:** Load data on demand into a cache from a data store.
 * **Throttling:** Control the consumption of resources used by an instance of an application, an individual tenant, or an entire service.
 * **Rate Limit Pattern:** Limiting pattern to help you avoid or minimize throttling errors related to these throttling limits and to help you more accurately predict throughput.
-* **Geodes:** Deploy a collection of backend services into a set of geographical nodes, each of which can service any request for any client in any region.
+* **Geodes:** Deploy a collection of backend services into geographical nodes, each of which can service any request for any client in any region.
 
 ## Resiliency
 Gracefully handle and recover from failures.
@@ -48,7 +48,7 @@ Gracefully handle and recover from failures.
 ## Messaging
 Create a messaging infrastructure that connects the components and services, ideally loosely coupled, to maximize scalability.
 
-* **Publisher/Subscriber:** Enable an application to announce events to multiple interested consumers asynchronously, without coupling the senders to the receivers.
+* **Publisher/Subscriber:** Enable an application to announce events to multiple interested consumers asynchronously without coupling the senders to the receivers.
 * **Competing Consumers:** Enable multiple concurrent consumers to process messages received on the same messaging channel.
 * **Pipes and Filters:** Break down a task that performs complex processing into a series of separate elements that can be reused.
 * **Priority Queue:** Prioritize requests sent to services so that requests with a higher priority are received and processed more quickly than those with a lower priority.

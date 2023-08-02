@@ -2,7 +2,7 @@
 
 # Skills {#skills}
 
-![image by istock / muchmania.](assets/images/arch/iStock-531552876.jpg)
+![image by istock](assets/images/arch/iStock-531552876.jpg)
 
 **IN THIS SECTION, YOU WILL:**  Understand that architects' skills should include a mix of technical, communication, product development, and business skills, and get valuable pointers to resources for developing these skills.
 
@@ -21,15 +21,15 @@ More specifically, a typical skillset of an architect includes:
 
 ## Hard Skills
 
-Hard or technical skills are the abilities and knowledge needed to perform specific tasks in a professional setting. In the context of technical architecture, these skills are essential for **designing, implementing, and maintaining** various aspects of an **organization's technology landscape**. Some typical hard skills that architects need in their work include (I provide links to some of my [tools](https://obren.io/tools) I found helpful in obtaining these skills):
+Hard or technical skills are the abilities and knowledge needed to perform specific tasks in a professional setting. In the context of technical architecture, these skills are essential for **designing, implementing, and maintaining** various aspects of an **organization's technology landscape**. Some typical hard skills that architects need in their work include (I provide links to some of the [tools](https://obren.io/tools) I found helpful in obtaining these skills):
 
-* [**System design**](https://blog.pragmaticengineer.com/system-design-interview-an-insiders-guide-review/):  System design refers to the process of defining and developing the architecture of a complex system. An architect with this skill set can create comprehensive system designs incorporating various components and sub-systems to achieve the desired functionality. 
+* [**System design**](https://blog.pragmaticengineer.com/system-design-interview-an-insiders-guide-review/): System design refers to defining and developing a complex system's architecture. An architect with this skill set can create comprehensive system designs incorporating various components and sub-systems to achieve the desired functionality. 
 * [**Engineering processes**](https://obren.io/tools/catalogs/?id=design-tactics-high-performing-technology-organizations): An architect needs to have an in-depth understanding of engineering processes, including software development life cycle, Agile development, DevOps, and continuous delivery. 
 * **[Design patterns](https://obren.io/tools?tag=design_patterns) and [tactics](https://obren.io/tools?tag=design_tactics)**: A good architect should be familiar with design patterns and tactics such as Cloud Design Patterns, Model-View-Controller (MVC), Service-Oriented Architecture (SOA), and Microservices. These patterns help architects design modular, scalable, and maintainable systems.  
 * [**Security and privacy by design**](https://obren.io/tools?tag=security): In today's world of cybersecurity threats, architects need to have a deep understanding of security and privacy best practices. They must ensure that the systems they design are secure and comply with data protection regulations.
 * [**System optimizations**](https://obren.io/tools/catalogs/?id=design-tactics-sig-performance): An architect should know how to optimize systems for performance and scalability. They should be familiar with tools and techniques for profiling and tuning systems to achieve optimal performance.
 * [ **Source code structures and maintainability**](https://obren.io/tools/catalogs/?id=design-tactics-sig-maintainability): Architects should have a good understanding of software engineering principles such as clean code, code maintainability, and refactoring. They should be able to design systems that are easy to maintain and modify.
-* **[Reliability and stability (anti)patterns](https://obren.io/tools/catalogs/?id=releaseit-stability-awareness) and [tactics](https://obren.io/tools/catalogs/?id=releaseit-stability-tactics)**: An architect should be aware of the typical reliability and stability issues that can arise in complex systems. They should be able to identify and address potential problems by using patterns and tactics such as redundancy, failover, and graceful degradation.
+* **[Reliability and stability (anti)patterns](https://obren.io/tools/catalogs/?id=releaseit-stability-awareness) and [tactics](https://obren.io/tools/catalogs/?id=releaseit-stability-tactics)**: An architect should know the typical reliability and stability issues that can arise in complex systems. They should be able to identify and address potential problems by using patterns and tactics such as redundancy, failover, and graceful degradation.
 * [**Usability**](https://obren.io/tools?q=usability): An architect should have a good understanding of usability principles. They should design systems that are easy to use and provide a good user experience.
 
 ## Soft Skills
@@ -38,8 +38,8 @@ A>--Grady Booch
 
 Soft skills, often described as non-technical or interpersonal skills, are an integral part of social architecture, as they **enable individuals to navigate and contribute to these social systems** effectively. Social architecture refers to designing and managing social systems, interactions, and relationships within an organization or community. By developing and refining soft skills, individuals can more easily adapt to changes, collaborate with others, and foster a positive work environment. Critical soft skills related to social architecture include:
 
-* [**Communication skills**](https://obren.io/tools?tag=consultancy), [written](https://obren.io/tools/sowhat/), [visual](https://obren.io/tools?tag=visuals), verbal (presentation), and listening skills: Effective communication involves not only expressing oneself clearly but also being able to understand and empathize with others. These skills include written, visual, verbal (presentation), and listening skills, which are crucial for building and maintaining relationships, as well as for conveying ideas and facilitating discussions.
-* [**Networking and collaboration skills**](https://obren.io/tools?tag=leadership): Networking involves building and maintaining a diverse range of professional connections. Collaboration skills encompass working effectively with others, regardless of their role or seniority. These skills include partnering with peers, junior and senior colleagues, managers, and executives to achieve common goals.
+* [**Communication skills**](https://obren.io/tools?tag=consultancy), [written](https://obren.io/tools/sowhat/), [visual](https://obren.io/tools?tag=visuals), verbal (presentation), and listening skills: Effective communication involves expressing oneself clearly and understanding and empathizing with others. These skills include written, visual, verbal (presentation), and listening skills, which are crucial for building and maintaining relationships, as well as for conveying ideas and facilitating discussions.
+* [**Networking and collaboration skills**](https://obren.io/tools?tag=leadership): Networking involves building and maintaining diverse professional connections. Collaboration skills encompass working effectively with others, regardless of their role or seniority. These skills include partnering with peers, junior and senior colleagues, managers, and executives to achieve common goals.
 * [**Organizational** and **time management skills**](https://obren.io/tools?tag=reflect): These skills involve the ability to efficiently plan, prioritize, and manage tasks, resources, and time. Effective organization and time management are crucial for meeting deadlines, achieving goals, and maintaining a healthy work-life balance. Key aspects of these skills include prioritization, goal-setting, task management, and delegation.
 * **[Analytical, strategic thinking, and problem-solving skills](https://obren.io/tools?tag=it)**: Analytical skills involve assessing and interpreting complex information to make informed decisions. Strategic thinking is the capacity to envision and plan for long-term success, while problem-solving skills include identifying and addressing challenges creatively and effectively. These skills are essential for recognizing and capitalizing on unique opportunities and creating organizational value.
 
@@ -51,7 +51,7 @@ Product-led companies understand that the success of their products is the prima
 
 * **Idea Generation**: This stage involves generating and exploring new product ideas. Ideas can come from various sources, such as market research, customer feedback, technological advancements, or internal brainstorming sessions.
 
-* **Market Research**: Market research assesses the product concept's feasibility and potential success. It involves gathering information about customer needs, preferences, market trends, competition, and other relevant factors to validate the product's viability in the target market.
+* **Market Research**: Market research assesses the feasibility and potential success of the product concept. It involves gathering information about customer needs, preferences, market trends, competition, and other relevant factors to validate the product's viability in the target market.
 
 * **Marketing and Launch**: Before launching the product, marketing strategies and plans are developed to create awareness, generate demand, and promote the product to the target market. The activities include branding, pricing, distribution, and marketing communication activities.
 
@@ -59,7 +59,7 @@ Architects should be familiar with product development concepts as product devel
 
 ## Business Skills
 
-Regardless of their technical or design expertise, architects must possess a **solid understanding of business processes and functions** to contribute to an organization's success effectively. Essential business skills for architects include:
+Regardless of their technical or design expertise, architects must have **a solid understanding of business processes** to effectively contribute to an organization’s success. Essential business skills for architects include:
 
 * **General business concepts knowledge**: A fundamental understanding of general business concepts is essential for architects to make informed decisions and effectively communicate with stakeholders. Familiarity with finance, marketing, sales, operations, and strategy can provide a strong foundation for architects to engage with various aspects of an organization. [The Personal MBA](https://personalmba.com/) book has been my favorite resource for getting familiar with such concepts.
 * [**Specific business domains**](https://obren.io/tools?tag=domain_models) of the organization: Besides general business concepts, architects should also develop a deep understanding of the specific business domain in which their organization operates. This knowledge may include knowledge of industry-specific regulations, market trends, customer preferences, competitive landscape, and more. Gaining insights into the specific business domain enables architects to better align their work with the organization's goals, strategies, and priorities.
@@ -70,12 +70,12 @@ Regardless of their technical or design expertise, architects must possess a **s
 
 * *On a scale from 1 to 10, how would you rate your current architectural skill sets, considering technical, communication, product, and business skills?*
 * *Reflect on your technical skills. How proficient are you in system design, understanding engineering processes, recognizing design patterns and tactics, ensuring security and privacy, optimizing systems, and maintaining code structures?*
-* *Do you need to develop any specific hard skills to enhance your performance as an architect?*
+* *Do you need to develop specific hard skills to enhance your architectural performance?*
 * *How effectively do you communicate (in writing, visually, verbally, and through listening)? How strong are your networking and collaboration skills, and how well do you manage your time and organizational tasks?*
 * *Can you identify an instance where your problem-solving skills and strategic thinking have significantly influenced your work as an architect?*
 * *Looking at business skills, how well do you understand general business concepts, and how familiar are you with the specific business domain of your organization?*
 * *How competent are you in business analysis and requirements gathering? Can you share an example where you effectively translated business objectives into functional and technical specifications?*
-* *Are there any soft or business skills that you believe you need to develop or improve to be more successful in your role as an architect?*
+* *Are there any soft or business skills you need to develop or improve to succeed in your role as an architect?*
 * *Reflect on how you have used your soft skills to effect organizational change. Are there areas or situations where you could have applied these skills more effectively?*
-* *How do you balance developing and maintaining your hard, soft, and business skills? Is there a particular area you tend to focus on more, and if so, why?*
+* *How do you balance developing and maintaining your hard, soft, and business skills? Is there a particular area you tend to focus on more, and why?*
 

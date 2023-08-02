@@ -2,7 +2,7 @@
 
 # Cheat Sheet {#cheat-sheet}
 
-![image by istock / tashulia.](assets/images/arch/iStock-1182643171.jpg)
+![image by istock](assets/images/arch/iStock-1182643171.jpg)
 
 **IN THIS SECTION, YOU WILL:** Get a cheatsheet with all key points from in all sections.
 
@@ -11,23 +11,23 @@
 ## Introductions
 
 ### Introduction
-* *This book aims to share my approach to running an IT architecture practice in larger organizations based on my experience at AVIV Group, eBay Classifieds, and Adevinta. I call this approach "Grounded Architecture"—architecture with strong foundations and deep roots.*
-* *Prioritizing people interactions and data over processes and tools, Grounded Architecture aims to connect architecture practice to all organizational levels as an antidote to the "ivory tower" architecture.*
-* *I also explain my motivation to write this book.*
+* This book will share my approach to running an IT architecture practice in larger organizations based on my experience at AVIV Group, eBay Classifieds, and Adevinta. I call this approach "Grounded Architecture"—architecture with strong foundations and deep roots.
+* Prioritizing people interactions and data over processes and tools, Grounded Architecture aims to connect architecture practice to all organizational levels as an antidote to the "ivory tower" architecture.
+* I also explain my motivation to write this book.
 
 ### Context: Fast-Moving Global Organizations
 * To better understand any idea or solution, it is crucial to understand the context in which this idea developed. 
-* The Grounded Architecture approach has evolved in the context of global, loosely coupled organizations that are diverse, with non-linear growth dynamics, and under transformation pressures. 
+* The Grounded Architecture approach has evolved in the context of global, loosely coupled organizations that are diverse, with nonlinear growth dynamics, and under transformation pressures. 
 
 ### Goals
-* I identified the following needs that an architecture function should support: Executing At Scale, Adaptivity, Increasing the Quality of Decision-Making with Data, and Maximizing Organizational Alignment & Learning.
+* I identified the following needs that an architecture function should support: Executing At Scale, Adaptivity, Improving the Quality of Decision-Making with Data, and Maximizing Organizational Alignment & Learning.
 
 ## Grounded Architecture: Introduction
 
 ### Data Foundation
-* The architecture Data Foundation serves as a medium to create a complete, up-to-date picture of critical elements of technology landscapes of big organizations. 
+* The architecture Data Foundation serves as a medium to create a complete, up-to-date picture of critical elements of the technology landscapes of big organizations. 
 * The Data Foundation provides an architecture-centric view of data about a technology landscape based on source code analyses, public cloud billing reports, vibrancy reports, or incident tickets.
-* To facilitate the creation of a Data Foundation, I have been working on creating open-source tools, such as [Sokrates](https://sokrates.dev), that can help obtain valuable architectural insights from data sources, such as source code repositories.
+* To facilitate the creation of a Data Foundation, I have been working on creating open-source tools that can help obtain valuable architectural insights from data sources, such as source code repositories.
 
 ### People Foundation
 * Developing the architecture function requires having competent, empowered, and motivated architects. Architecture practice must carefully organize, empower, and leverage scarce talent.
@@ -39,14 +39,14 @@
 
 ### Value of Grounded Architecture Structure
 * When a Grounded Architecture structure is in place, it can significantly impact an organization's functioning.
-* These impact categories are Executing At Scale, Increasing the Quality of Decision-Making with Data, Maximizing Organizational Alignment & Learning, and Higher Adaptivity.
+* These impact categories are Executing At Scale, Improving the Quality of Decision-Making with Data, Maximizing Organizational Alignment & Learning, and Higher Adaptivity.
 
 ## Being Architect: Introduction
 
 ### Architects as Superglue
 * Architects in IT organizations should develop as “superglue,” people who hold architecture, technical details, business needs, and people together across a large organization or complex projects.
 * Architects need to be technically strong. But their unique strengths should stem from being able to relate technical issues with business and broader issues.
-* Architects should stand on three legs: Skills, Impact, and Leadership.
+* Architects should stand on three legs: skills, impact, and leadership.
 
 ### Skills
 * A typical skillset of an architect includes hard (technical) skills, soft (people & social) skills, product development, and business skills.
@@ -71,7 +71,7 @@
 * Meyer’s model contains eight scales, each representing a key area, showing how cultures vary from extreme to extreme: Communicating, Evaluating, Persuading, Leading, Deciding, Trusting, Disagreeing, and Scheduling.
 
 ### Managing Organizational Complexity: Six Simple Rules
-* Six Simple Rules emphasizes that in today’s complicated business environment, you must set up organizational structures based on cooperation. 
+* The Six Simple Rules approach emphasizes that in today’s complicated business environment, you must set up organizational structures based on cooperation. 
 * To deal with complexity, organizations should depend on the judgment of their people and on these people cooperating. 
 * This view is well aligned with the ideas of Grounded Architecture.
 

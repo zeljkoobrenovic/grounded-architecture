@@ -9,7 +9,7 @@
 {pagebreak}
 
 A> **KEY POINTS:**
-A> * I identified the following needs that an architecture function should support: Executing At Scale, Adaptivity, Increasing the Quality of Decision-Making with Data, and Maximizing Organizational Alignment & Learning.
+A> * I identified the following needs that an architecture function should support: Executing At Scale, Adaptivity, Improving the Quality of Decision-Making with Data, and Maximizing Organizational Alignment & Learning.
 
 Considering the scale and complexity of the organizational context I operated in, it was apparent that conventional approaches of doing architecture that rely on manual processes need to be revised. 
 
@@ -36,7 +36,7 @@ Misalignment is a natural state in a global, diverse, fast-moving organization. 
 
 ### Goal 5: Maximizing Organizational Learning
 
-In complex organizations with lots of effort needed to maintain legacy systems, learning and following new technology developments takes work. Architecture should **help organizations to learn fast**, stay up-to-date with emerging technologies and industry trends, and recommend technology upgrades.
+In complex organizations with lots of effort needed to maintain legacy systems, learning and following new technology developments takes work. Architecture should **help organizations learn quickly**, stay up-to-date with emerging technologies and industry trends, and recommend technology upgrades.
 
 ## Questions to Consider
 
