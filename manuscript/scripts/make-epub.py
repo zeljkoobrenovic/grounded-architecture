@@ -13,9 +13,14 @@ def copy_post(post):
     image_line = ''
     skip_line = False
 
+    special1 = '2022-11-24-bookshelf.markdown'
+    special2 = '2022-11-24-tools.markdown'
+
     with open('../print/' + post) as inputfile:
         for line in inputfile:
-            if skip_line:
+            if post == special1 or post == special2:
+                lines.append(line)
+            elif skip_line:
                 if len(line.strip()) > 0:
                     merged_line = '![' + line.replace('*', '').replace('^', '').replace('\n', '') + image_line[2:]
                     lines.append(merged_line)
