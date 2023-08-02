@@ -20,7 +20,7 @@ Grounded Architecture supports governance models adaptable to organizations' com
 * **taxes** (economic incentives), and
 * **mandates and bans**.
 
-Grounded Architecture supports governance models that are **adaptable to the complex and diverse needs** of organizations.
+Grounded Architecture supports governance models **adaptable to organizations' complex and diverse needs**.
 
 ## Nudging
 
@@ -29,7 +29,7 @@ In behavioral economics and psychology, a nudge is a **subtle or indirect sugges
 ![](assets/images/arch/iStock-1390608248.jpg)
 ^image by istock^
 
-A nudge can take many forms, such as a **small change in the environment**, a **gentle reminder**, a **positive reinforcement**, or a **default option**. For example, placing healthy food options at eye level in a cafeteria can nudge people to choose healthier meals. Or setting a default option for organ donation can increase the number of donors.
+A nudge can take many forms, such as a **slight change in the environment**, a **gentle reminder**, a **positive reinforcement**, or a **default option**. For example, placing healthy food options at eye level in a cafeteria can nudge people to choose healthier meals. Or setting a default option for organ donation can increase the number of donors.
 
 The concept of a nudge was popularized by the book **"Nudge: Improving Decisions About Health, Wealth, and Happiness"** by Richard Thaler and Cass Sunstein, which argues that various **cognitive biases and heuristics** often influence people's decisions, and that nudges can help people overcome these biases and make better choices.
 
@@ -40,13 +40,13 @@ In architecture, nudges could include:
 * recommendations for **best practices** to stimulate introduction and alignment around such practices, 
 * default options for technology choices via 
 [**golden paths**](https://engineering.atspotify.com/2020/08/how-we-use-golden-paths-to-solve-fragmentation-in-our-software-ecosystem/)
-* **highlighting** bad quality software on a [Data Foundation](#data) dashboards to create a subtle pressure for people to improve it,
+* **highlighting** bad quality software on a [Data Foundation](#data) dashboards to create subtle pressure for people to improve it,
 * tracking of **tech debt** to create awareness about its size and lead action to reduce it,
 * **visualizing cost trends** of cloud services per team to stimulate teams to improve the performance efficiency of their software.
 
 Nudges can frequently lead to better alignment and more harmonization without the negative consequences of mandates, bans, or taxation.
 
-Grounded Architecture is well aligned with ideas of nudging. I frequently designed many of the [Data Foundation](#data) tools to **highlight areas and issues** we wanted people to improve. And the [People Foundation](#people) can create mechanisms for sharing experiences, promoting **positive examples**, and capturing lessons learned to help people to make better, more informed decisions. And in the [Architecture Activities Platform](#activities-platform) I use the operating model that stimulates people to make decisions autonomously but **nudges them to stay well-aligned** and connected to the organizational strategic direction.
+Grounded Architecture is well aligned with ideas of nudging. I frequently designed many [Data Foundation](#data) tools to **highlight areas and issues** we wanted people to improve. And the [People Foundation](#people) can create mechanisms for sharing experiences, promoting **positive examples**, and capturing lessons learned to help people to make better, more informed decisions. And in the [Architecture Activities Platform](#activities-platform), I use the operating model that stimulates people to make decisions autonomously but **nudges them to stay well-aligned** and connected to the organizational strategic direction.
 
 ## Taxation (Economic Incentives)
 
@@ -63,7 +63,7 @@ The [Data Foundation](#data) can include and provide all **data regarding "taxes
 
 By governing with mandates and bans, I mean guiding people by **explicitly defining what they should or should not do**. In places I worked in, such mandates and bans have had a limited by important place to **define broader strategic boundaries of choices** people can make. For instance, restricting the usage of public cloud providers to specific vendors or following **strict privacy and security procedures** needs to be explicitly defined and controlled.
 
-You should **use bans with care** and as a last resort to avoid unnecessary blocking or slowing down of development and innovation. Nevertheless, they could help clarify critical topics where nudging or taxation would not be sufficient. For instance, having clear rules and control mechanisms to avoid breaking privacy or financial laws can prevent unnecessary incidents and damage. 
+You should **use bans with care** and as a last resort to avoid unnecessary blocking or slowing down development and innovation. Nevertheless, they could help clarify critical topics where nudging or taxation would not be sufficient. For instance, having clear rules and control mechanisms to avoid breaking privacy or financial laws can prevent unnecessary incidents and damage. 
 
 ![](assets/images/arch/ethics-g277df4183_1920.jpg)
 ^image by tumisu from pixabay^

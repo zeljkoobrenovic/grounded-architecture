@@ -29,7 +29,7 @@ excerpt: "Architects in IT organizations should develop as “superglue,” peop
 >
 > * Architects in IT organizations should develop as “superglue,” people who hold architecture, technical details, business needs, and people together across a large organization or complex projects.
 > * Architects need to be technically strong. But their unique strengths should stem from being able to relate technical issues with business and broader issues.
-> * Architects should stand on three legs: Skills, Impact, and Leadership.
+> * Architects should stand on three legs: skills, impact, and leadership.
 <style>
  .quote {
      border-left: 8px solid #d9ead3;
@@ -85,10 +85,10 @@ The main problem of these tensions is that they **slow things down due** to misc
 ***Figure 3:** Architects should be in the middle of reducing tensions between technology, product, organization, and business functions.*
 
 While staying close to technology (engine room), architects must ensure that technology is serving the needs of customers and the business and that technical architecture is well aligned with the organizational design. At the same time, architects can help ensure that business, product, and organizational designs are well-informed about the state, risks, and opportunities of an organization's technology to avoid creating impractical strategies, setting unrealistic goals, or missing opportunities. More specifically, there are several **key risks** that the misalignment brings, and architects need to be aware of:
-* **Building wrong products**, as technology implementation may make wrong assumptions not aligned with product vision and architecture. 
+* **Building wrong products**, as technology implementation may make incorrect assumptions not aligned with product vision and architecture. 
 * **Wrong prioritization of activities**, if there are no clear business and product metrics, we may build "interesting" products that do not create value for our customers and business.
-* **Unexpected delivery delays**, due to underestimation of complexity, effort, and dependencies,
-* **Duplication of effort**, due to lack of awareness about other all activities and lack of business or product harmonization to facilitate building shared components,
+* **Unexpected delivery delays** due to underestimation of complexity, effort, and dependencies,
+* **Duplication of effort** due to lack of awareness about other all activities and lack of business or product harmonization to facilitate building shared components,
 * **Building too complex products**, as we may create a complex configurable system to address all possible cases, but we could have decided to simplify and harmonize our processes and products and build a more straightforward technical solution.
 * **Overengineering** due to both lack of pushback to simplify products and lack of understanding of technology (e.g., use of a complex and expensive messaging middleware capable of handling millions of messages per hour for the use case where we have a few thousand messages per day),
 * **Building too simple, unscalable products**, as we may expect to simplify and harmonize our processes, but in reality, we need to support many variations and expectations as they create value for customers and businesses.
@@ -144,7 +144,7 @@ Leadership acknowledges that experienced architects should do more than make arc
 * They are a **role model for others** in the company on both the **technical** and **cultural** front.  
 * Their **technical influence** may extend **beyond your organization and reach the industry at large**. 
 * They **lead efforts** that **solve important problems** at the engineering area level. 
-* They may **contribute to the broader technical community** through **tech talks**, **education**, **publications**, **open source projects**, etc. 
+* They may **contribute to the broader technical community** through **tech talks**, **education**, **publications**, **open-source projects**, etc. 
 * They **raise the bar of the engineering culture** across the company.
 
 **Mentoring junior architects** is the most crucial aspect of senior architects' leadership. Feedback cycles in (software) architecture are inherently slow. Mentoring can save new architects many years of learning by doing and making mistakes.
@@ -154,10 +154,10 @@ The section [Leadership](leadership) provides more details.
 
 ### Balanced Development
 
-Architects need to have a **minimal "length"** of all of these "legs" to be successful (Figure 5). For instance, having skills and impact without leadership frequently leads to **hitting a glass ceiling**. Such architects plateau at an intermediate level and cannot direct the company to innovative or transformative solutions. Leadership without impact lacks foundation and may signal that you have become an **ivory tower architect** with a weak relation to reality. And having impact and leadership qualities but no skills leads to **impractical decisions** not informed by in-depth knowledge.
+Architects must have a **minimal "length"** of all of these "legs" to be successful (Figure 5). For instance, having skills and impact without leadership frequently leads to **hitting a glass ceiling**. Such architects plateau at an intermediate level and cannot direct the company to innovative or transformative solutions. Leadership without impact lacks foundation and may signal that you have become an **ivory tower architect** with a weak relation to reality. And having impact and leadership qualities but no skills leads to **impractical decisions** not informed by in-depth knowledge.
 
 ![](assets/images/arch/architect-legs.png)
-***Figure 5:** Architects need to have a minimal "length" of all "legs" to be successful.*
+***Figure 5:** Architects must have a minimal "length" of all "legs" to be successful.*
 
  
 ## Questions to Consider
@@ -172,6 +172,6 @@ Being a superglue architect means constantly developing and redefining your role
 * *How could your current architecture aid in reducing tension between these functions?*
 * *Have you witnessed the architecture sitting on the side, being ignored? If so, what steps can you take to actively involve architecture in decision-making processes?*
 * *Are conversations between the technical, product, organizational, and business functions encouraged and facilitated within your organization? If not, how might they be initiated and supported?*
-* *Considering the three legs of a successful architect (skills, impact, leadership), which do you consider your strongest? Which might need more development?*
+* *Considering the three legs of a successful architect (skills, impact, leadership), which are your strongest? Which might need more development?*
 
 

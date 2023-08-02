@@ -14,7 +14,7 @@ A> * Six Simple Rules emphasizes that in today’s complicated business environm
 A> * To deal with complexity, organizations should depend on the judgment of their people and on these people cooperating. 
 A> * This view is well aligned with the ideas of Grounded Architecture.
 
-The book [Six Simple Rules: How to Manage Complexity without Getting Complicated](https://bcg.com/capabilities/organization/smart-simplicity/six-rules-overcoming-complexity), by Yves Morieux and Peter Tollman is another source of inspiration for my vision on the Architecture practice. Morieux and Tollman introduced a concept of **Smart Simplicity** with six rules or strategies that enable organizations to promote **new behaviors and improve performance**.
+The book [Six Simple Rules: How to Manage Complexity without Getting Complicated](https://bcg.com/capabilities/organization/smart-simplicity/six-rules-overcoming-complexity), by Yves Morieux and Peter Tollman, is another source of inspiration for my vision on the Architecture practice. Morieux and Tollman introduced a concept of **Smart Simplicity** with six rules or strategies that enable organizations to promote **new behaviors and improve performance**.
 
 Six Simple Rules emphasize that in today’s business environment, you **need to set up organizational structures based on cooperation**. To deal with complexity, organizations should depend on the judgment of their people, giving them more autonomy to act. It also depends on these people cooperating to utilize the organization's capabilities to cope with complex problems.
 

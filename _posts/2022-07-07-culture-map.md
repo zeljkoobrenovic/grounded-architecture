@@ -66,7 +66,7 @@ Architects need to be [good communicators](https://architectelevator.com/strateg
 
 <img src="assets/images/arch/iStock-1308494001.jpg" style="width: 100%">
 <div style="text-align: center; font-size: 70%; color: grey; margin-bottom: 12px; margin-top: -12px;">
-Image by Getty Images / iStock / LuckyBusiness.
+Image by iStock
 </div>
 
 Meyer compares cultures along the **Communicating scale** by measuring the degree to which they are **high- or low-context**, a metric developed by the American anthropologist Edward Hall (Figure 1). 
@@ -107,7 +107,7 @@ Architects frequently need to persuade others about decisions and plans. How you
 
 <img src="assets/images/arch/iStock-1257268399.jpg" style="width: 100%">
 <div style="text-align: center; font-size: 70%; color: grey; margin-bottom: 12px; margin-top: -12px;">
-Image by iStock / fizkes.
+Image by iStock
 </div>
 
 One way to compare countries along the Persuading scale is to assess how they balance **holistic and specific thought patterns**. According to Meyers, a Western executive will break down an argument into a sequence of distinct components (specific thinking). At the same time, Asian managers tend to show how the pieces fit together (holistic thinking). Beyond that, people from southern European and Germanic cultures tend to find **deductive arguments** (principles-first arguments, building the conclusion from basic premises) most persuasive. In contrast, American and British managers are more likely to be influenced by **inductive, applications-first logic** (Figure 3).
@@ -129,7 +129,7 @@ This scale places countries on a spectrum from **egalitarian to hierarchical**. 
 
 <img src="assets/images/arch/iStock-1351446226.jpg" style="width: 100%">
 <div style="text-align: center; font-size: 70%; color: grey; margin-bottom: 12px; margin-top: -12px;">
-Image by iStock / jacoblund.
+Image by iStock
 </div>
 
 <br>
@@ -146,7 +146,7 @@ Architectural work is about [making decisions](https://architectelevator.com/gre
 
 <img src="assets/images/arch/iStock-1191132590.jpg" style="width: 100%">
 <div style="text-align: center; font-size: 70%; color: grey; margin-bottom: 12px; margin-top: -12px;">
-Image by iStock / fizkes.
+Image by iStock
 </div>
 
 According to Meyers, we often assume that the most egalitarian cultures will be the most democratic, while the most hierarchical ones will allow the boss to make unilateral decisions. But this is only sometimes the case. Germans are more hierarchical than Americans but more likely than their U.S. colleagues to build group agreements before making decisions. The Japanese are both strongly hierarchical and strongly consensus-minded (Figure 5).
@@ -165,7 +165,7 @@ Architects need to build trust with multiple stakeholders. The culture map scale
 
 <img src="assets/images/arch/iStock-1200075866.jpg" style="width: 100%">
 <div style="text-align: center; font-size: 70%; color: grey; margin-bottom: 12px; margin-top: -12px;">
-Image by iStock / scyther5.
+Image by iStock
 </div>
 
 
@@ -187,7 +187,7 @@ Architectural work may lead to many disagreements and conflicts. Different cultu
 
 <img src="assets/images/arch/iStock-1191132584.jpg" style="width: 100%">
 <div style="text-align: center; font-size: 70%; color: grey; margin-bottom: 12px; margin-top: -12px;">
-Image by iStock / fizkes
+Image by iStock
 </div>
 
 <br>
@@ -203,7 +203,7 @@ Architects will need to participate in many meetings and projects. All businesse
 
 <img src="assets/images/arch/iStock-1371834229.jpg" style="width: 100%">
 <div style="text-align: center; font-size: 70%; color: grey; margin-bottom: 12px; margin-top: -12px;">
-Image by iStock / Bobex-73.
+Image by iStock
 </div>
 
 <br>

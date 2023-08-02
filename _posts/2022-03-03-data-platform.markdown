@@ -20,7 +20,7 @@ Image by <a href="https://pixabay.com/users/3844328-3844328/?utm_source=link-att
 >
 > **KEY POINTS:**
 >
-> * The architecture Data Foundation serves as a medium to create a complete, up-to-date picture of critical elements of technology landscapes of big organizations. 
+> * The architecture Data Foundation serves as a medium to create a complete, up-to-date picture of critical elements of the technology landscapes of big organizations. 
 > * The Data Foundation provides an architecture-centric view of data about a technology landscape based on source code analyses, public cloud billing reports, vibrancy reports, or incident tickets.
 > * To facilitate the creation of a Data Foundation, I have been working on creating open-source tools that can help obtain valuable architectural insights from data sources, such as source code repositories.
 <style>
@@ -83,7 +83,7 @@ To illustrate what I mean by Data Foundation, I will give a few concrete example
 * **Public cloud billing reports**, which provide an overview and trends about used cloud services, regions, and budgets.
 * **Incident reports**, which can reveal trends and dependencies among incidents.
 * **Key business metrics**, like vibrancy, which can show user activity on our systems.
-* **Messaging and collaboration platform (such as Slack) activity reports**, which can help understand discussion topics and team interactions.
+* **Messaging and collaboration platforms (such as Slack) activity reports**, which can help understand discussion topics and team interactions.
 
 In the following sections, I detail several of these architectural data-driven tools.
 
@@ -173,7 +173,7 @@ Finding the right ways to interpret and use data requires active effort. In othe
 * **Are we aligned and going in the same direction?** Source code overviews, public cloud usage explorers, or tech radars can highlight differences among systems and teams and trigger discussions and actions.
 * **Are we using technology optimally?** Comparing usage trends between teams can show interesting outliners (both positive and negative).
 * **Are there indicators of poor code quality?** Too large systems, duplication, long units, or long files.
-* **Productivity trends: is more really more or is more actually less.** For instance, comparing the number of git merges with the number of developers can indicate if our dev processes are scalable. When we scale up teams, we want to speed up our delivery (but if team structure is not proper, it can easily be the opposite as people "step on each other toes").
+* **Productivity trends: is more really more or is more actually less?** For instance, comparing the number of git merges with the number of developers can indicate if our dev processes are scalable. When we scale up teams, we want to speed up our delivery (but if team structure is not proper, it can easily be the opposite as people "step on each other toes").
 * **Do we collaborate in the way we want?** Repository analysis can point out team topologies and (un)desired dependencies.
 * **Do we work on the things we want?** We may want to focus more on innovations, but in reality, we may spend too much time on legacy maintenance.
 
@@ -228,7 +228,7 @@ Using data can significantly improve the efficiency and impact of architectural 
 * *What are your views on the reliability and scalability of manual documentation?*
 * *What steps would you take to create an architecture Data Foundation in your organization?*
 * *Are there untapped data sources within your organization that could inform your architectural decisions?*
-* *How could you automate the process of gathering data for architectural insights in your organization?*
+* *How could you automate gathering data for architectural insights in your organization?*
 * *What examples can you provide of the data you've used to gain reliable information about technology in your organization?*
 * *How would you examine public cloud billing reports, incident reports, or key business metrics for architectural insights?*
 * *How can you ensure your data is reliable and up-to-date?*

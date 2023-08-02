@@ -40,7 +40,7 @@ Image by <a href="https://pixabay.com/users/nattanan23-6312362/?utm_source=link-
     }
 </style>
 
-Architects frequently need to answer questions about **(economic) value of technology investments** and architecture. Answering this question is a crucial skill for any senior architect. But it may be difficult to answer this seemingly harmless question concisely and convincingly to a non-technical audience.
+Architects frequently need to answer questions about **the (economic) value of technology investments** and architecture. Answering this question is a crucial skill for any senior architect. But it may be difficult to answer this seemingly harmless question concisely and convincingly to a non-technical audience.
 
 Having good architecture requires some investment. This investment is time and effort spent implementing some **architecture pattern**, reducing **technical debt**, or **refactoring code** to align with our architecture. Consequently, we need to explain the expected value of this investment.
 
@@ -58,7 +58,7 @@ In economic terms, **return on investment (ROI)** is a ratio between profits and
 ![](assets/images/economics/roi-model.png)
 **Figure 1:** *An illustration of the ROI metaphor. Investment leads to lower costs or higher value. It takes some time to reach a break-even point when an additional value has compensated for the investment. After the break-even point, we earn more than without the investment.*
 
-An investment in **good architecture can help increase the ROI of the IT**. An excellent example of using the ROI metaphor to argue for investing in architecture is the port of Martin Fowler, who uses this argument to argue for the importance of [investing in improving internal quality](https://martinfowler.com/articles/is-quality-worth-cost.html). Figure 2 summarizes his argument.
+An investment in **good architecture can help increase the ROI of IT**. An excellent example of using the ROI metaphor to argue for investing in architecture is the port of Martin Fowler, who uses this argument to argue for the importance of [investing in improving internal quality](https://martinfowler.com/articles/is-quality-worth-cost.html). Figure 2 summarizes his argument.
 
 
 <div class="quote">
@@ -72,14 +72,14 @@ Well-architect systems are typically much **easier to understand and change**. A
 ![](assets/images/economics/roi-internal-quality.png)
 **Figure 2:** *Software with high internal quality gets a short initial slowdown but delivers more rapidly and cheaply later (source martinfowler.com/articles/is-quality-worth-cost.html).*
 
-An ROI metaphor is easy to understand by a non-technical audience, but it has limitations to describe the value of architecture. The first limitation lies in that it is **challenging to measure architecture, quality, and productivity**. Consequently, too much focus on ROI can lead to an obsession with cost-cutting. Costs are easy to measure, but the value of attributes like shorter time-to-market is much more difficult to quantify. Second, ROI is a good measure, but only some investments in architecture will increase profit. That is because we frequently have to make decisions with lots of uncertainty. Nevertheless, that does not mean that we should not make such investments. The following section explains why.
+An ROI metaphor is easy to understand by a non-technical audience, but it has limitations to describe the value of architecture. The first limitation is that **measuring architecture, quality, and productivity is challenging**. Consequently, too much focus on ROI can lead to an obsession with cost-cutting. Costs are easy to measure, but the value of attributes like shorter time-to-market is much more difficult to quantify. Second, ROI is a good measure, but only some investments in architecture will increase profit. That is because we frequently have to make decisions with lots of uncertainty. Nevertheless, that does not mean that we should not make such investments. The following section explains why.
 
 
 ## The Financial Options Metaphor
 
 Gregor Hohpe has frequently argued that the best way to explain architecture to non-technical people is by using **a financial option metaphor.** A financial option is **a right, but not an obligation, to buy or sell financial instruments at a future point in time with some predefined price**. As such, a financial option is **a way to defer a decision**: instead of deciding to buy or sell a stock today, you have the right to make that decision in the future at a known price.
 
-Options are **not free,** and there is a complex market for buying and selling financial options. Fischer Black and Myron Scholes managed to compute the value of an option with the [Black-Scholes Formula](https://en.wikipedia.org/wiki/Black%E2%80%93Scholes_model). A critical parameter in establishing the option's value is the price at which you can purchase the stock in the future, the so-called **strike price**. The lower this strike price, the higher the value of the option (Figure 3).
+Options are **not free**, and a complex market for buying and selling financial options exists.Fischer Black and Myron Scholes managed to compute the value of an option with the [Black-Scholes Formula](https://en.wikipedia.org/wiki/Black%E2%80%93Scholes_model). A critical parameter in establishing the option's value is the price at which you can purchase the stock in the future, the so-called **strike price**. The lower this strike price, the higher the value of the option (Figure 3).
 
 
 ![](assets/images/economics/options-model.png)

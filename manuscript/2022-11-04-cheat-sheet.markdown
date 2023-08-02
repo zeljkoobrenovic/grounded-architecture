@@ -3,7 +3,7 @@
 # Cheat Sheet {#cheat-sheet}
 
 ![](assets/images/arch/iStock-1182643171.jpg)
-^image by istock / tashulia.^
+^image by istock^
 
 **IN THIS SECTION, YOU WILL:** Get a cheatsheet with all key points from in all sections.
 
@@ -21,7 +21,7 @@
 * The Grounded Architecture approach has evolved in the context of global, loosely coupled organizations that are diverse, with non-linear growth dynamics, and under transformation pressures. 
 
 ### Goals
-* I identified the following needs that an architecture function should support: Executing At Scale, Adaptivity, Increasing the Quality of Decision-Making with Data, and Maximizing Organizational Alignment & Learning.
+* I identified the following needs that an architecture function should support: Executing At Scale, Adaptivity, Improving the Quality of Decision-Making with Data, and Maximizing Organizational Alignment & Learning.
 
 ## Grounded Architecture: Introduction
 
@@ -40,7 +40,7 @@
 
 ### Value of Grounded Architecture Structure
 * When a Grounded Architecture structure is in place, it can significantly impact an organization's functioning.
-* These impact categories are Executing At Scale, Increasing the Quality of Decision-Making with Data, Maximizing Organizational Alignment & Learning, and Higher Adaptivity.
+* These impact categories are Executing At Scale, Improving the Quality of Decision-Making with Data, Maximizing Organizational Alignment & Learning, and Higher Adaptivity.
 
 ## Being Architect: Introduction
 

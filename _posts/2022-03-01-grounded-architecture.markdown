@@ -20,7 +20,7 @@ Image by <a href="https://pixabay.com/users/ichigo121212-11728/?utm_source=link-
 >
 > **KEY POINTS:**
 >
-> * I introduce three elements of Grounded Architecture: The Data Foundation, The People Foundation, and The Architecture Activities Platform as an approach to setting organizational structures for running a modern architecture practice.
+> * I introduce three elements of Grounded Architecture: The Data Foundation, The People Foundation, and The Architecture Activities Platform as an approach to setting organizational structures for a modern IT architecture practice.
 > * Prioritizing people interactions and data over processes and tools, Grounded Architecture aims to connect architecture practice to all organizational levels as an antidote to the "ivory tower" architecture.
 <style>
  .quote {

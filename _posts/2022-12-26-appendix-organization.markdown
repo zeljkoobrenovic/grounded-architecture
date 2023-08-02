@@ -22,11 +22,11 @@ Image by <a href="https://pixabay.com/users/paulbr75-2938186/?utm_source=link-at
     }
 </style>
 
-> **IN THIS SECTION, YOU WILL:** Get a summary of characteristics of high-performing technology organizations.
+> **IN THIS SECTION, YOU WILL:** Get a summary of the characteristics of high-performing technology organizations.
 
 ## Overview 
 
-Characteristics of High Performing Organizations from the [Accelerate book](https://www.oreilly.com/library/view/accelerate/9781457191435/) by Nicole Forsgren, Jez Humble, and Gene Kim are excellent sources of empirical knowledge about high-performing IT organizations.
+Characteristics of High Performing Organizations from the [Accelerate book](https://www.oreilly.com/library/view/accelerate/9781457191435/) by Nicole Forsgren, Jez Humble, and Gene Kim is an excellent source of empirical knowledge about high-performing IT organizations.
 
 I summarized several critical insights from this book:
 
@@ -54,7 +54,7 @@ I summarized several critical insights from this book:
 
 ### Architecture
 * **Use a loosely coupled architecture:** The extent to which a team can test and deploy their applications on demand without requiring orchestration with other services.
-* **Architect for empowered teams:** Teams that can choose which tools to use do better as continuous delivery and, in turn, drive better software development and delivery performance.
+* **Architect for empowered teams:** Teams that can choose which tools to use, do better, and, in turn, drive better software development and delivery performance.
 
 ### Product and Process
 * **Gather and implement customer feedback:** Actively and regularly seek customer feedback and incorporate this feedback into the design of products.
@@ -67,7 +67,7 @@ I summarized several critical insights from this book:
 * **Have a lightweight change approval process:** A lightweight change approval process based on peer review (pair programming or intrateam code review) produces superior IT performance than using external change approval boards (CABs).
 * **Monitor across applications and infrastructure to inform business decisions:** Use data from application and infrastructure monitoring tools to take action and make business decisions. This monitoring goes beyond paging people when things go wrong.
 * **Check system health proactively:** Monitor system health using threshold and rate-of-change warnings to enable teams to detect and mitigate problems preemptively.
-* **Improve process and manage work with work-in-progress (WIP) limits:** The use of work-in-progress limits to manage work flow is well known in the Lean community. When used effectively, this drives process improvement increases throughput, and makes constraints visible in the system.
+* **Improve process and manage work with work-in-progress (WIP) limits:** Using work-in-progress limits to manage work flow is well known in the Lean community. When used effectively, this drives process improvement, increases throughput and makes constraints visible in the system.
 * **Visualize work to monitor quality and communicate throughout the team:** Visual displays, such as dashboards or internal websites, used to monitor quality and work in progress have contributed to software delivery performance.
 
 ### Culture

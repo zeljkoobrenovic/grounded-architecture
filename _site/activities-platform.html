@@ -145,7 +145,7 @@ Each organization will have different architectural needs and contexts. When for
 There is no one-size-fits-all approach: each organization must find activities and operating models to enable architecture to work on the most critical problems. 
 </div>
 
-<p>No matter which operating models you select, to create a <strong>sustainable and practical architecture function</strong>, you must develop some explicit agreements and “rules of engagement” with key stakeholders.</p>
+<p>No matter which operating models you select, you must develop explicit agreements and “rules of engagement” with key stakeholders to create <strong>a sustainable and practical architecture function</strong>.</p>
 
 <p>The Architecture Activities Platform (Figure 1) is a set of <strong>processes and agreements</strong> that allows architects to do everything architecture practice typically does, leveraging Data and People Foundations to develop a data-informed, organization-wide impact. In all these activities, Data and People Foundations provide a basis for data-informed decision-making well embedded in the organization.</p>
 
@@ -154,12 +154,12 @@ There is no one-size-fits-all approach: each organization must find activities a
 
 <p>To better understand what I mean by an Architecture Activities Platform, here are some examples of activities I have been performing with architects:</p>
 <ul>
-  <li><strong>Designing mechanisms for teams to make better decisions.</strong> This includes creating global decision-support mechanisms, such as <a href="https://martinfowler.com/articles/scaling-architecture-conversationally.html">advisory forums</a>, formal design authority (for compliance-sensitive projects), and team-specific mechanisms, such as escalation paths in case of decision conflicts (e.g., teams cannot align on a common messaging middleware).</li>
+  <li><strong>Designing mechanisms for teams to make better decisions.</strong> This activity includes creating global decision-support mechanisms, such as <a href="https://martinfowler.com/articles/scaling-architecture-conversationally.html">advisory forums</a>, formal design authority (for compliance-sensitive projects), and team-specific mechanisms, such as escalation paths in case of decision conflicts (e.g., teams cannot align on a common messaging middleware).</li>
   <li><strong>Supporting teams in their daily work.</strong> Being part of key team activities, aligning architectural work with team rituals to provide timely support, and supporting the team in all crucial phases of their work (e.g., reviewing architecture proposals early before the project or sprint starts).</li>
   <li><strong>Supporting planned new initiatives and projects.</strong> Ensuring alignment between projects that require multi-team collaboration.</li>
   <li><strong>Supporting teams in dealing with the legacy landscape.</strong> Providing data and knowledge regarding legacy landscape, identifying hotspots (e.g., frequently changed, low-quality untested pieces of legacy code), defining scenarios and roadmap for legacy modernization.</li>
-  <li><strong>Tracking tech debt, defining tech debt reduction programs.</strong> Defining a centrally aligned backlog of technology depth, defining programs for its reduction and integration in planning processes.</li>
-  <li><strong>Performing <a href="https://en.wikipedia.org/wiki/SWOT_analysis">SWOT</a> and other analyses of platforms and systems.</strong> Doing deep dives to understand some areas of the technology landscape better and create plans and roadmaps for improvement.</li>
+  <li><strong>Tracking tech debt, defining tech debt reduction programs.</strong> Defining a centrally aligned backlog of technology depth, defining programs for its reduction, and integration in planning processes.</li>
+  <li><strong>Performing <a href="https://en.wikipedia.org/wiki/SWOT_analysis">SWOT</a> and other analyses of platforms and systems.</strong> Doing deep dives to better understand some areas of the technology landscape and create plans and roadmaps for improvement.</li>
   <li><strong>Standardizing of processes and documentation</strong>. Defining standard templates for documents such as Architectural Decision Records (ADRs), Technical Design Reviews (TDRs), or common diagrams.</li>
   <li><strong>Supporting merger and acquisitions (M&amp;A) activities with expertise and analyses.</strong> Support analyses, recommendations, and integration planning regarding mergers and acquisitions.</li>
   <li><strong>Defining key technology strategies.</strong> Examples include Cloud, Data, and Platform strategies.</li>
@@ -178,19 +178,19 @@ There is no one-size-fits-all approach: each organization must find activities a
 </div>
 <p><strong>Figure 2:</strong> <em>A common operating model I typically use for Grounded Architecture activities.</em></p>
 
-<p>Inspired by Gregor Hohpe’s strategy-principles-decisions model, I typically used this guidelines:</p>
+<p>Inspired by Gregor Hohpe’s strategy-principles-decisions model, I typically used these guidelines:</p>
 <ul>
   <li><strong>Engagement mindset</strong>:
     <ul>
       <li>Architects engage with stakeholders and product and project teams in a <strong>collaborative and supportive manner</strong>.</li>
-      <li>Architects aim at <strong>empowering the teams</strong> so that they make most of the decisions.</li>
+      <li>Architects aim to <strong>empower the teams</strong> so that they make most of the decisions.</li>
     </ul>
   </li>
   <li><strong>Role of architects</strong>:
     <ul>
       <li><strong>Bring relevant data</strong> to inform decisions leveraging a <a href="data">Data Foundation</a>.</li>
       <li><strong>Define decision boundaries</strong> to enable minimal compatibility and strategic alignment (e.g., public cloud provider, golden paths, or tech stack constraints).</li>
-      <li><strong>Define key principles</strong> to facilitate consistency in decision-making.</li>
+      <li><strong>Define fundamental principles</strong> to facilitate consistency in decision-making.</li>
       <li><strong>Share and generalize</strong> lessons learned via a <a href="people">People Foundation</a>.</li>
     </ul>
   </li>
@@ -202,10 +202,10 @@ There is no one-size-fits-all approach: each organization must find activities a
 </ul>
 
 <div class="quote">
-My goal is to avoid formal bureaucratic approval processes, where architects appear too late and are frequently busy approving trivial decisions.
+I aim to avoid formal bureaucratic approval processes, where architects appear too late and are frequently busy approving trivial decisions.
 </div>
 
-<p>Another characteristic of this operating model is <strong>shifting left</strong> the architecture work. My goal is to avoid formal bureaucratic approval processes, where architects appear too late and are frequently busy approving trivial decisions. Instead, my goal is to have architects involved early in any of the processes, such as during the planning and preparation stages, where it is possible to make more significant changes.</p>
+<p>Another characteristic of this operating model is <strong>shifting left</strong> the architecture work. I aim to avoid formal bureaucratic approval processes, where architects appear too late and are frequently busy approving trivial decisions. Instead, my goal is to have architects involved early in any of the processes, such as during the planning and preparation stages, where it is possible to make more significant changes.</p>
 
 <h2 id="architecture-decision-policy">Architecture Decision Policy</h2>
 
@@ -216,7 +216,7 @@ My goal is to avoid formal bureaucratic approval processes, where architects app
 <p>What I mean by that is that anyone can make architecture decisions, provided that, in addition to their specific requirements, they also think about the impact of their choices on:</p>
 
 <ul>
-  <li><strong>Overall organizational complexity</strong>: Limiting tech diversity, size, and dependencies makes technology more manageable. It also reduces the attack surface with fewer third-party dependencies and tool ecosystems (build, testing, etc.).</li>
+  <li><strong>Overall organizational complexity</strong>: Technology is more manageable by limiting tech diversity, size, and dependencies. Limiting technology choices also reduces the attack surface with fewer third-party dependencies and tool ecosystems (build, testing, etc.).</li>
   <li><strong>Ease of moving people</strong> between teams (both to get help and help others, get promoted): Do not unnecessarily create exotic islands with few experts in technologies not supported or widely used in the organization. People cannot get help or move across the organization as their expertise may be useless outside the team.</li>
   <li><strong>Ease of training and onboarding</strong> of internal and external developers: Using conventional technologies, supported with external learning resources (books, tutorials, StackOverflow) significantly helps find and grow experts.</li>
   <li><strong>Talent density</strong> and the possibility of performing at the world-scale level: Building world-scale technology and scaling requires in-depth knowledge and fine-tuning. You cannot achieve it with only a few in-house experts.</li>
@@ -228,7 +228,7 @@ My goal is to avoid formal bureaucratic approval processes, where architects app
 
 <h2 id="distributing-decisions-autonomy-and-alignment">Distributing Decisions, Autonomy, and Alignment</h2>
 
-<p>With any operating model, I always aim to keep architectural decision-making distributed across the organization and embedded in the development teams. Development <strong>teams traditionally have the best insights and most information</strong> relevant for making decisions. As noted by Gregor Hohpe, the worst case of organizational decision-making happens when people with relevant information are not allowed to make decisions, while people who lack sufficient information make all decisions. Grounded Architecture aims to make relevant information more readily available to a broader audience and better connect people when making decisions.</p>
+<p>With any operating model, I aim to keep architectural decision-making distributed across the organization and embedded in the development teams. Development <strong>teams traditionally have the best insights and most information</strong> relevant for making decisions. As noted by Gregor Hohpe, the worst case of organizational decision-making happens when people with relevant information are not allowed to make decisions, while people who lack sufficient information make all decisions. Grounded Architecture aims to make relevant information more readily available to a broader audience and better connect people when making decisions.</p>
 
 <div class="quote">
 Grounded Architecture aims to make relevant information more readily available to a broader audience and better connect people when making decisions.
@@ -250,8 +250,8 @@ Grounded Architecture aims to make relevant information more readily available t
 <ul>
   <li><em>How can you identify the most critical problems that your architects need to solve in your organization?</em></li>
   <li><em>What activities and operating models can you think of that will best enable architecture in your organization to work on these critical problems?</em></li>
-  <li><em>In your organization, what does the Architecture Activities Platform look like, and how could it be improved?</em></li>
-  <li><em>Which of the provided examples of architecture activities are you currently performing in your organization?</em></li>
+  <li><em>What does the Architecture Activities Platform look like in your organization, and how could it be improved?</em></li>
+  <li><em>Which of the provided examples of architectural activities are you currently performing in your organization?</em></li>
   <li><em>How does the proposed common operating model align with your current operational practices in your organization? What changes might be necessary to adopt this model?</em></li>
   <li><em>In your experience, how early are architects involved in projects and activities? Do you agree with the goal of ‘shifting left’ the architecture work?</em></li>
   <li><em>How are architectural decisions distributed across your organization currently? How could this process be improved to ensure the people with the most relevant information make the decisions?</em></li>

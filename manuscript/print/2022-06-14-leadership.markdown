@@ -14,17 +14,17 @@ A> * My view of architecture leadership is inspired by David Marquet's work and 
 A> * Marquet focused on leadership and organizational management, particularly emphasizing the principles of Intent-Based Leadership.
 A> * Borrowing from Netflix's original values, the following behavioral traits are crucial for architects: communication, judgment, impact, inclusion, selflessness, courage, integrity, curiosity, innovation, and passion.
 
-My approach to architecture leadership draws inspiration from two sources: **[David Marquet's](https://davidmarquet.com/) leadership principles**, as articulated in his book "Turn the Ship Around!" and Netflix's valued behaviors. Marquet's ideas emphasize empowering team members, providing clarity, decentralizing decision-making, striving for continuous improvement, and practicing servant leadership. Meanwhile, **[Netflix valued behaviors](https://jobs.netflix.com/culture)** offer useful guidance for coaching and developing architects aligned with the "superglue" version.
+My approach to architecture leadership draws inspiration from two sources: **[David Marquet's](https://davidmarquet.com/) leadership principles**, as articulated in his book "Turn the Ship Around!" and Netflix's valued behaviors. Marquet's ideas emphasize empowering team members, providing clarity, decentralizing decision-making, striving for continuous improvement, and practicing servant leadership. Meanwhile, **[Netflix's valued behaviors](https://jobs.netflix.com/culture)** offer useful guidance for coaching and developing architects aligned with the "superglue" version.
 
 ## David Marquet's Work: The Leader-Leader Model
 
-Marquet's work is closely tied to **the Leader-Leader model of leadership**, a style where authority is shared across a team or organization instead of being concentrated at the top. In this model, every team member has something valuable to contribute and can work together toward the group's success.
+Marquet's work is closely tied to **the Leader-Leader model of leadership**, a leadership style where authority is shared across a team or organization instead of being concentrated at the top. In this model, every team member has something valuable to contribute and can work together toward the group's success.
 
-This leadership approach empowers individuals to **take ownership of their work and collaborate** with others to achieve common goals. Instead of relying on a single leader to make all decisions, authority, and responsibility are distributed across the team.
+This leadership approach empowers individuals to **take ownership of their work and collaborate** with others to achieve common goals. Instead of relying on a single leader to make all decisions, authority and responsibility are distributed across the team.
 
 The leader-leader model is an excellent standard for architects' leadership vision. Like managers in a leader-leader model, **architects should act more as facilitators, coaches, and mentors** than traditional top-down decision-makers. They provide team members guidance, support, or resources to help them achieve their goals and reach their full potential.
 
-One of the key benefits of a leader-leader model is that it creates **a more collaborative and inclusive work environment**. It allows individuals to contribute their unique perspectives, experiences, and skills to the group, promoting a sense of ownership and accountability for the team's success. This model also **helps build trust and stronger relationships within teams**, leading to increased productivity, creativity, and innovation.
+One of the key benefits of a leader-leader model is that it creates **a more collaborative and inclusive work environment**. It allows individuals to contribute their unique perspectives, experiences, and skills to the group, promoting ownership and accountability for the team's success. This model also **helps build trust and more robust team relationships**, increasing productivity, creativity, and innovation.
 
 ![](assets/images/arch/iStock-1130373923.jpg)
 ^image by istock^
@@ -37,9 +37,9 @@ I have found a phase "I intend to" to be a powerful catalyst for positioning arc
 ***Figure 1:** Leadership language. Based on Intent-Based Leadership, by David Marquet.*
 
  
-## Netflix Valued Behaviors: Leadership Behaviors
+## Netflix's Valued Behaviors: Leadership Behaviors
 
-I have found the [Netflix overview of their valued behaviors](https://jobs.netflix.com/culture) to be a leading inspiration for how I coach and develop architects. The following sections summarize these behaviors, borrowing from the Netflix original values but rearranging them in the order I see as more relevant for architects. 
+The [Netflix overview of their valued behaviors](https://jobs.netflix.com/culture) is a leading inspiration for how I coach and develop architects. The following sections summarize these behaviors, borrowing from the Netflix original values but rearranging them in the order I see as more relevant for architects. 
 
 ### Communication
 
@@ -56,9 +56,9 @@ People frequently call architects to be objective judges when others cannot agre
 
 * You are good at using **data to inform your intuition**
 * You make wise **decisions** despite **ambiguity**
-* You identify **root causes**, and go beyond treating symptoms
-* You make decisions based on **the long term**, not near term
-* You **think strategically**, and **can articulate** what you are, and are not, trying to do
+* You identify **root causes** and go beyond treating symptoms
+* You make decisions based on **the long-term**, not near-term
+* You **think strategically** and **can articulate** what you are, and are not, trying to do
 
 ### Impact
 
@@ -66,23 +66,23 @@ As discussed in the [Architects as Superglue](#superglue), the architect's impac
 
 * You accomplish significant amounts of **important work**
 * You **make your colleagues better**
-* You focus on **results over process**
+* You focus on **results over processes**
 * You demonstrate **consistently** strong performance so **colleagues can rely upon you**
 
 ### Inclusion
 
-As superglue, architects need to work with many different people and groups inclusively.  You will be able to do so if:
+Architects must work with many different people and groups inclusively. You will be able to do so if:
 
 * You **collaborate** effectively with people of **diverse backgrounds and cultures**
 * You nurture and **embrace differing perspectives** to make better decisions
-* You **focus on talent and values**, rather than a person’s similarity to yourself
-* You are **curious about how our different backgrounds affect us** at work, rather than pretending they don’t affect us
+* You **focus on talent and values** rather than a person’s similarity to yourself
+* You are **curious about how our different backgrounds affect us** at work rather than pretending they don’t affect us
 
 ### Selflessness
 
-Architects always need to consider the best interests of their organizations. This broader view is essential in group conflicts to enable resolutions that benefit the organization. To be able to operate in such way, you need to show the following selflessness traits:
+Architects always need to consider the best interests of their organizations. This broader view is essential in group conflicts to enable resolutions that benefit the organization. To be able to operate in such a way, you need to show the following selflessness traits:
 
-* You seek what is **best for your organization**, rather than what is best for yourself or your group
+* You seek what is **best for your organization** rather than what is best for yourself or your group
 * You **share information openly and proactively**
 * You **make time to help colleagues**
 * You are **open-minded** in search of the best ideas
@@ -95,21 +95,21 @@ Being an architect is not always a comfortable position as you will need to be a
 * You are willing to be **critical of the status quo**
 * You make **tough decisions** without agonizing
 * You **take smart risks** and are open to possible failure
-* You **question actions inconsistent** with organization's values
-* You are **able to be vulnerable**, in search of truth
+* You **question actions inconsistent** with the organization's values
+* You **can be vulnerable** in search of truth
 
 ### Integrity
 
-Architects need to operate as trusted advisors. Integrity is essential for such a position of architects. To operates successfully as trusted advisor, you need to show the following traits:
+Architects need to operate as trusted advisors. Integrity is essential for such a position of architects. To perform successfully as trusted advisor, you need to show the following traits:
 
-* You are known for **candor**, authenticity, **transparency**, and being **non-political**
-* You only say things about fellow employees that you **say to their face**
+* You are known for **honesty**, authenticity, **transparency**, and being **non-political**
+* You only say things about fellow employees that you **speak to their face**
 * You **admit mistakes** freely and openly
 * You **treat people with respect** independent of their status or disagreement with you
 
 ### Curiosity
 
-As architects, we must proactively identify relevant new technology developments. Based on our understanding of these developments, we must create pragmatic technology recommendations for concrete platforms across the organization. That means that as architect, you need to stay curious:
+As architects, we must proactively identify relevant new technology developments. Based on our understanding of these developments, we must create pragmatic technology recommendations for concrete platforms across the organization. That means that as an architect, you need to stay curious:
 
 * You **learn rapidly and eagerly**
 * You **make connections** that others miss
@@ -118,17 +118,17 @@ As architects, we must proactively identify relevant new technology developments
 
 ### Innovation
 
-More than curiosity is required. To make an impact as an architect, you need to create useful innovations:
+More than curiosity is required. To make an impact as an architect, you need to create helpful innovations:
 
 * You create **new ideas** that **prove useful**
 * You keep your organization nimble by **minimizing complexity** and finding time to simplify
 * You **re-conceptualize issues** to discover solutions to **hard problems**
-* You **challenge prevailing assumptions**, and suggest better approaches
+* You **challenge prevailing assumptions** and suggest better approaches
 * You **thrive on change**
 
 ### Passion
 
-Architects are frequently role models for others. As such you need to show the following traits:
+Architects are frequently role models for others. As such, you need to show the following traits:
 
 * You **inspire others** with your thirst for excellence
 * You **care intensely** about your customers and organization's success
@@ -138,7 +138,7 @@ Architects are frequently role models for others. As such you need to show the f
 
 ## Questions to Consider
 
-* *Reflect on the Leader-Leader model of leadership in your work. How can you empower your team members and encourage them to take ownership of their work?*
+* *Reflect on the Leader-Leader model of leadership model in your work. How can you empower your team members and encourage them to take ownership of their work?*
 * *Have you acted as a facilitator, coach, or mentor as an architect? Can you share an example of when you gave team members guidance, support, or resources to achieve their goals?*
 * *How does the phrase "I intend to" resonate with your approach to architecture work? How can it change your perspective on taking the initiative and leading efforts?*
 * *How effective do you believe your communication skills are?*
