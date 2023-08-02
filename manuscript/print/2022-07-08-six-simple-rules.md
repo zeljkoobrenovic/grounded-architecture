@@ -18,7 +18,7 @@ The book [Six Simple Rules: How to Manage Complexity without Getting Complicated
 
 The Six Simple Rules approach emphasizes that in today’s business environment, you **need to set up organizational structures based on cooperation**. To deal with complexity, organizations should depend on the judgment of their people, giving them more autonomy to act. It also depends on these people cooperating to utilize the organization's capabilities to cope with complex problems.
 
-The Six Simple Rules ideas have been a very inspirational source of my work. In my work, I constantly dealt with **complex transformations** to create organizational structures based on cooperation. Grounded Architecture is well suited to support and grow organizational structures based on cooperation. In this section, I will explore the connection between the ideas of Grounded Architecture and Six Simple Rules.
+In this chapter, I explore the connection between the ideas of Grounded Architecture and Six Simple Rules. The Six Simple Rules ideas have been a very inspirational source of my work. [**Conway Law**](https://martinfowler.com/bliki/ConwaysLaw.html) illustrates that the link between organizational structures and IT architecture is strong. In addition, the Six Simple Rules approach and architecture work deal with the issue of **managing complexity**. 
 
 ## Background: Limitations of Hard and Soft Management Approaches
 

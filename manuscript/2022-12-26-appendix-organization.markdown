@@ -54,8 +54,8 @@ I summarized several critical insights from this book:
 * **Visualize work to monitor quality and communicate throughout the team:** Visual displays, such as dashboards or internal websites, used to monitor quality and work in progress have contributed to software delivery performance.
 
 ### Culture
-* **Support a generative culture (as outlined by Westrum):** Hallmarks of this measure include good information sharing, high cooperation, and trust, bridging between teams, and conscious inquiry.
+* **Support a generative culture (as outlined by Westrum):** Hallmarks of this measure include good information sharing, high cooperation and trust, bridging between teams, and conscious inquiry.
 * **Encourage and support learning:** Is learning, in your culture, considered essential for continued progress? Is learning thought of as a cost or an investment?
 * **Support and facilitate collaboration among teams:** Reflects how well traditionally siloed teams interact in development, operations, and information security.
-* **Provide resources and tools that make work meaningful:** This particular measure of job satisfaction is about doing challenging and meaningful work and being empowered to exercise your skills and judgment.
+* **Provide resources and tools that make work meaningful:** This measure of job satisfaction is about doing challenging and meaningful work and being empowered to exercise your skills and judgment.
 * **Support or embody transformational leadership:** Compromised of five factors: vision, intellectual stimulation, inspirational communication, supportive leadership, and personal recognition.

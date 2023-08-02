@@ -65,7 +65,7 @@ Gracefully handle and recover from failures.
 ## Messaging
 Create a messaging infrastructure that connects the components and services, ideally loosely coupled, to maximize scalability.
 
-* **Publisher/Subscriber:** Enable an application to announce events to multiple interested consumers asynchronously, without coupling the senders to the receivers.
+* **Publisher/Subscriber:** Enable an application to announce events to multiple interested consumers asynchronously without coupling the senders to the receivers.
 * **Competing Consumers:** Enable multiple concurrent consumers to process messages received on the same messaging channel.
 * **Pipes and Filters:** Break down a task that performs complex processing into a series of separate elements that can be reused.
 * **Priority Queue:** Prioritize requests sent to services so that requests with a higher priority are received and processed more quickly than those with a lower priority.
