@@ -79,8 +79,7 @@ Architects should be able to **understand and adapt to different communication s
 
 
 ![](assets/images/culturemap/communicating.png)
-***Figure 1:** Countries on the Communicating scale.*
-
+***Figure 1:** The Communicating scale: a graphical representation of some Culture Map countries (the cultural context of my recent professional interactions).*
 
 <br>
 ## Evaluating
@@ -98,7 +97,7 @@ The Evaluating scale measures a preference for **frank versus diplomatic feedbac
 Providing constructive **criticism in the right way** is crucial for architects to make any impact. Sometimes the same feedback will lead to different reactions, even within the same teams with members from diverse backgrounds. Being too positive in some cultures leads to underestimation of the significance of the feedback. Being too negative may result in pushback and rejection. In my experience, architects need to adapt their feedback to the audience and do lots of **"duplication" by presenting the same feedback differently** to diverse groups.
 
 ![](assets/images/culturemap/negative-feedback.png)
-***Figure 2:** Countries on the Evaluating scale.*
+***Figure 2:** The Evaluating scale: a graphical representation of some Culture Map countries (the cultural context of my recent professional interactions).*
 
 <br>
 ## Persuading
@@ -117,7 +116,7 @@ One way to compare countries along the Persuading scale is to assess how they ba
 Architects must be able to **persuade in both applications-first and principles-first ways**. In addition to cultural differences, the additional complication comes from talking to diverse audiences. For instance, C-level executives typically have less time and may prefer applications-first presentations (“get to the point, stick to the point”). While in other parts of the company, you may need to spend a long time carefully building the argument following the principal first approach. I typically aim to prepare well for both, having a short management summary and easily retrievable all supporting evidence.
 
 ![](assets/images/culturemap/persuading.png)
-***Figure 3:** Countries on the Persuading scale.*
+***Figure 3:** The Persuading scale: a graphical representation of some Culture Map countries (the cultural context of my recent professional interactions).*
 
 <br>
 ## Leading
@@ -136,7 +135,7 @@ Image by iStock
 The difference in leadership styles can make an architect's work challenging. The same leadership style can lead different people to perceive an architect as **weak (no leadership)** and **too hard (a dictator)**. The only way to create a working situation is to have an open conversation with the team and agree on expectations and the leadership approach. 
 
 ![](assets/images/culturemap/leading.png)
-***Figure 4:** Countries on the Leading scale.*
+***Figure 4:** The Leading scale: a graphical representation of some Culture Map countries (the cultural context of my recent professional interactions).*
 
 
 <br>
@@ -155,7 +154,7 @@ According to Meyers, we often assume that the most egalitarian cultures will be 
 Similar to the Leading scale, the difference in deciding styles can make an architect's work complicated. I have been in situations where the different members of the same team have had radically different expectations regarding decision-making: some were sitting and waiting for an architect to come up with a decision, and others were offended by any decision that was not complete consensus. Again, the only way to create a working situation is to have an open conversation with the team and **agree on expectations and the decision approach**. One approach I used is a hybrid option: agreeing with a team to try to come up with a decision based on consensus but delegating the decision to an architect when an agreement was impossible.
 
 ![](assets/images/culturemap/deciding.png)
-***Figure 5:** Countries on the Deciding scale.*
+***Figure 5:** The Deciding scale: a graphical representation of some Culture Map countries (the cultural context of my recent professional interactions).*
 
 
 <br>
@@ -177,7 +176,7 @@ In a **relationship-based** society, trust results from weaving a solid **affect
 Without trust, architects' impact is limited. The best way for architects to build trust is to **align their working methods** with the rituals of the teams they are working with. In particular, finding time to attend events such as all-hands or off-site gatherings of groups and having regular 1:1 meetings with key stakeholders can be an efficient way to gain trust.
 
 ![](assets/images/culturemap/trust.png)
-***Figure 6:** Countries on the Trusting scale.*
+***Figure 6:** The Trusting scale: a graphical representation of some Culture Map countries (the cultural context of my recent professional interactions).*
 
 
 <br>
@@ -194,7 +193,7 @@ Image by iStock
 Like the Leading and Deciding scales, architects need to have an open conversation with the team and agree on how to disagree. **Disagreeing is an unavoidable** part of the work of architects that want to make an impact. Due to the higher diversity of their audiences, architects must also be extra attentive to the cultural aspects of disagreeing to avoid taking too personally what others consider a routine work discussion.
 
 ![](assets/images/culturemap/disagreeing.png)
-***Figure 7:** Countries on the Disagreeing scale.*
+***Figure 7:** The Disagreeing scale: a graphical representation of some Culture Map countries (the cultural context of my recent professional interactions).*
 
 <br>
 ## Scheduling
@@ -210,7 +209,7 @@ Image by iStock
 Due to more exposure to diverse audiences, my rule of thumb is that architects should **be on time** according to the more linear interpretation and **tolerate those who are not**. But more importantly, adapt to the overall rhythms.
 
 ![](assets/images/culturemap/scheduling.png)
-***Figure 8:** Countries on the Scheduling scale.*
+***Figure 8:** The Scheduling scale: a graphical representation of some Culture Map countries (the cultural context of my recent professional interactions).*
 
 <br>
 ## Rules
