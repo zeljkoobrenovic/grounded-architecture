@@ -2,7 +2,8 @@
 
 # Favorite Quotes {#quotes}
 
-![image by amy from pixabay](assets/images/arch/books-g1b2675255_1920.jpg)
+![](assets/images/arch/books-g1b2675255_1920.jpg)
+^image by amy from pixabay^
 
 ## People, People, People
 

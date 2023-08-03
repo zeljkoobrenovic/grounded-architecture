@@ -2,7 +2,8 @@
 
 # Architecture Governance: Nudge, Taxation, Mandates {#governance}
 
-![image by nonbirinonko from pixabay](assets/images/arch/greece-1594689_1920.jpg)
+![](assets/images/arch/greece-1594689_1920.jpg)
+^image by nonbirinonko from pixabay^
 
 **IN THIS SECTION, YOU WILL:** Understand that a technology governance model should be a well-balanced hybrid of three different styles of governing: mandates and bans, taxes, and nudging.
 
@@ -25,7 +26,8 @@ Grounded Architecture supports governance models **adaptable to organizations' c
 
 In behavioral economics and psychology, a nudge is a **subtle or indirect suggestion** influencing someone's behavior or decision-making **without forcing them or limiting their freedom of choice**. Nudges can be applied in various settings, such as policy-making, marketing, and personal interactions, to encourage people to make better choices, improve their well-being, or achieve specific goals.
 
-![image by istock](assets/images/arch/iStock-1390608248.jpg)
+![](assets/images/arch/iStock-1390608248.jpg)
+^image by istock^
 
 A nudge can take many forms, such as a **slight change in the environment**, a **gentle reminder**, a **positive reinforcement**, or a **default option**. For example, placing healthy food options at eye level in a cafeteria can nudge people to choose healthier meals. Or setting a default option for organ donation can increase the number of donors.
 
@@ -50,7 +52,8 @@ Grounded Architecture is well aligned with ideas of nudging. I frequently design
 
 Governing with taxes is a form of guidance in which we do not forbid people to make choices or decisions but **need to "pay" some form of taxes on used resources**. For instance, costs of public cloud usage could be **cross-charged across the organization**, providing a helpful feedback loop to optimize our systems and avoid unnecessary resource consumption, avoiding the "tragedy of commons" which frequently happens when there are no limits on shared resource consumption (e.g., public cloud budget). 
 
-![image by steve buissinne from pixabay](assets/images/arch/credit-squeeze-g61ddead85_1920.png)
+![](assets/images/arch/credit-squeeze-g61ddead85_1920.png)
+^image by steve buissinne from pixabay^
 
 The role of Grounded Architecture in this form of governance should be to ensure that "taxation" is **data-driven and transparent** and to create efficient feedback loops on critical metrics related to "taxes."
 
@@ -62,7 +65,8 @@ By governing with mandates and bans, I mean guiding people by **explicitly defin
 
 You should **use bans with care** and as a last resort to avoid unnecessary blocking or slowing down development and innovation. Nevertheless, they could help clarify critical topics where nudging or taxation would not be sufficient. For instance, having clear rules and control mechanisms to avoid breaking privacy or financial laws can prevent unnecessary incidents and damage. 
 
-![image by tumisu from pixabay](assets/images/arch/ethics-g277df4183_1920.jpg)
+![](assets/images/arch/ethics-g277df4183_1920.jpg)
+^image by tumisu from pixabay^
 
 The role of architecture in this form of governing should be to be **a stakeholder but not a sole owner in defining mandates and bans**. Mandates and bans frequently need to be defined in collaboration with others, such as security and legal functions. The Grounded Architecture can help by **creating clarity and providing transparency**.
 
