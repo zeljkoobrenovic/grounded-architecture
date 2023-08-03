@@ -12,7 +12,7 @@ A> **KEY POINTS:**
 A> * Architects' work is evaluated based on their impact on the organization. 
 A> * Architects can make an impact via three pillars: Big-Picture Thinking, Execution, and Leveling-Up.
 
-Architects' work is **evaluated based on the impact** they've had on the organization. Architects typically make an impact by:
+Architects’ work is evaluated based on **their impact on the organization**. Architects typically make an impact by:
 
 * **Identifying, tackling, and delivering on strategic problems** at the organization and area levels (domain or technical
   areas). Architects' work needs to be prioritized based on global strategic objectives.
@@ -44,7 +44,7 @@ Inspired by The Staff Engineer's Path by Tanya Reilly, I group architects' impac
 
 Architects are frequently the only people in the organization with **a "helicopter view,"** overseeing vast domains and being able to foresee the consequences of decisions in a broader context. As big-picture thinkers, architects can help organizations in multiple ways:
 
-* Seeing the **big picture** can identify high leverage points for maximum impact.
+* Seeing the **big picture** can identify high-leverage points for maximum impact.
 * **Helping others to see the big picture** and create tools (e.g., [Data Foundation](#data)) that facilitate big-picture thinking.
 * Being able to **zoom in and out**, having a strategic overview, but being able to go deep and engage with implementation details.
 * Using big-picture thinking to **consistently root out inefficiencies** and lead the adoption of technologies and
@@ -55,7 +55,7 @@ Architects are frequently the only people in the organization with **a "helicopt
 As execution-focused practitioners, architects must be able to help deliver results and improve collaboration.
 
 Architects can help deliver results by combining their skills with a high dose of pragmatism:
-* **Create meaningful solutions**rather than theoretical ideals and models.
+* **Create meaningful solutions** rather than theoretical ideals and models.
 * **Break down complex problems** to enable the delivery of impactful results.
 * **Craft pragmatic plans** by considering technical, logistical, and organizational constraints.
 
@@ -74,7 +74,7 @@ citizenship, design and architecture, and software engineering.
 
 Architects should look broader and raise the bar of practices and behaviors in their organizations:
 
-* **Contribute to the broader technical community** through tech talks, education, publications, open source projects,
+* **Contribute to the broader technical community** through tech talks, education, publications, open-source projects,
   etc.
 * **Have influence that extends** beyond their organization and reaches the industry at large.
 * **Lead efforts** that solve **important problems** in their areas.
@@ -105,7 +105,7 @@ Lastly, architects can help by staying well-connected to software engineering pr
 * *Reflect on your role in execution. How can you help in delivering results and improving collaboration? Can you share an example where your pragmatism resulted in a meaningful solution?*
 * *What initiatives could you have taken to improve collaboration and build trust within your organization?*
 * *Have you contributed to the broader technical community through tech talks, education, publications, open-source projects, etc.?*
-* *In what ways could you help solve important problems in your area and raise the bar of the engineering culture across the company?*
+* *How could you help solve significant problems in your area and raise the bar of the engineering culture across the company?*
 * *Can you provide an example of a systemic architectural problem you identified and the solution you proposed?*
 * *How would you promote and demonstrate best-in-class practices in coding, documentation, testing, and monitoring?*
 

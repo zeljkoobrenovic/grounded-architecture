@@ -10,13 +10,13 @@
 
 A> **KEY POINTS:**
 A> * When a Grounded Architecture structure is in place, it can significantly impact an organization's functioning.
-A> * These impact categories are Executing At Scale, Increasing the Quality of Decision-Making with Data, Maximizing Organizational Alignment & Learning, and Higher Adaptivity.
+A> * These impact categories are Executing At Scale, Improving the Quality of Decision-Making with Data, Maximizing Organizational Alignment & Learning, and Higher Adaptivity.
 
 When a Grounded Architecture structure is in place, it can have a significant positive impact on the functioning of an organization. These categories of impact, aligned with [defined goals](#goals), are: 
 
 * Enabling Execution of Architecture Function At Scale,
 * Increasing Architecture Function Adaptivity,
-* Increasing the Quality of Decision-Making with Data,
+* Improving the Quality of Decision-Making with Data,
 * Maximizing Organizational Alignment,
 * Maximizing Organizational Learning, and
 
@@ -42,11 +42,11 @@ The three elements of the Grounded Architecture structure provide a highly flexi
 
 * **The [Data Foundation](#data)**, if implemented with a high level of automation, allows for **quick extensions and reconfigurations** to provide data for any organizational change. For instance, extending the platform, e.g., with additional analyses of new source code repositories and new data after acquisitions or mergers. A robust, automated Data Foundation provides crucial connections and feedback, adapting its views to the changing daily reality of each part of the organization.
 * **Having the [People Foundation](#people)** enables a more flexible and sustainable architectural function. A central team can help **mitigate distributed teams' temporary lack of capacity**. And with well-connected architects, the architecture function can still **benefit the organization without a strong central team**.
-* **The [Architecture Activities Platform](#activities-platform)** can support adaptivity through its **flexible setting** and by distributing decision-making across the company. This way, we can avoid an architecture function becoming a simple point of failure and a bottleneck.
+* **The [Architecture Activities Platform](#activities-platform)** can support adaptivity through its **flexible setting** and distribution of decision-making across the company. This way, we can avoid an architecture function becoming a simple point of failure and a bottleneck.
 
 Grounding the architecture with data and people connections also makes the work of **most senior architects much more flexible**. As they can delegate most architectural decisions to teams, the most experienced technologists can be available to spend more time on crucial strategic initiatives, such as defining cloud, data, or platform strategies or supporting decisions on mergers and acquisitions.
 
-## Increasing the Quality of Decision-Making with Data
+## Improving the Quality of Decision-Making with Data
 
 The third goal stated that we need tools and mechanisms to make a decision process more data-informed and less dependent on opinions. There are significant benefits to making our decision process as much as possible data-driven. Architectural **discussions can be heated and opinionated**, not leading to the best arguments and decisions. 
 
@@ -56,7 +56,7 @@ Maintaining high-quality data on relevant internal and external technology devel
 
 * **The [Data Foundation](#data)** can ensure **having ready any data** needed for decisions, fueling data-informed discussions and decision-making.
 * **The [People Foundation](#people)** ensures **having the right people** available and well-connected for sharing information and making decisions. 
-* **The [Architecture Activities Platform](#activities-platform)** provides processes enabling architects to move away from opinion-based decisions to data-driven economic risk modeling. Such processes can help architects to achieve the following:
+* **The [Architecture Activities Platform](#activities-platform)** provides processes enabling architects to move from opinion-based decisions to data-driven economic risk modeling. Such processes can help architects to achieve the following:
   * **dismantle hype and buzzwords**, present the problem in clear terms, understandable to a broader audience
   * **identify the critical drivers** behind hype and buzzwords based on internal and external research
   * **bring data** into the discussion
@@ -86,7 +86,7 @@ The last goal is that architecture should help organizations learn quickly, stay
 
 The Grounded Architecture structure can support learning in multiple ways:
 
-* **The [Data Foundation](#data)** can accelerate learning and adopting new technologies by providing more **data to facilitate reflection and exploration**.
+* **The [Data Foundation](#data)** can accelerate learning and adoption of new technologies by providing more data to **facilitate reflection and exploration**.
 * **The [People Foundation](#people)** can create **spaces for sharing knowledge** about architecture and technology. These spaces include but are not limited to regular update calls, knowledge-sharing sessions, or conferences. In addition to creating spaces as a community, it can further increase our learning value by deriving generalized insights from cross-group cases. Such spaces can **maximize personal learning**, transforming individual lessons learned into shared guidelines. 
 * **The [Architecture Activities Platform](#activities-platform)** can accelerate learning by **embedding it into processes** and distributing them across the organization. By defining processes to facilitate sharing knowledge and lessons learned, we can maximize learning while creating a minimal overhead.
 

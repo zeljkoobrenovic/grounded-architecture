@@ -4,7 +4,7 @@
 ![](assets/images/arch/library-5641389_1920.jpg)
 ^image by oli gotting from pixabay^
 
-**IN THIS SECTION, YOU WILL:** Get an overview of the background work for you to probe further, linking several external resources inspiring my work.
+**IN THIS SECTION, YOU WILL:** Get an overview of the background work to probe further, linking several external resources inspiring my work.
 
 {pagebreak}
 
@@ -20,25 +20,20 @@
 {width: "20%"}
 ![](assets/images/books/spotify.png)
 
-[SE Radio: On Architecture](https://open.spotify.com/playlist/7GVD86edcILnVPjsZFTy28?si=f44d0bef360e4818): for those interested in IT Architecture, I've created a curated Spotify playlist of Software Engineering Radio Episodes focusing on Architecture.
+[**SE Radio: On Architecture**](https://open.spotify.com/playlist/7GVD86edcILnVPjsZFTy28?si=f44d0bef360e4818): for those interested in IT Architecture, I've created a curated Spotify playlist of Software Engineering Radio Episodes focusing on Architecture.
 
 {pagebreak}
 {width: "20%"}
 ![](assets/images/books/for-developers.png)
 
-**Software Architecture for Developers** by Simon Brown is a practical, pragmatic and lightweight guide to software
-architecture, specifically aimed at software developers.
+**Software Architecture for Developers** by Simon Brown is a practical, pragmatic, and lightweight software architecture guide specifically aimed at software developers.
 
 * * *
 
 {width: "20%"}
 ![](assets/images/books/hard-parts.png)
 
-**Software Architecture: The Hard Parts** is structured as a narrative about a team breaking down a faulty outdated
-monolithic application into a modern microservices-based architecture. The authors compare different aspects of how a
-monolithic architecture might have been written to do something in the past, then how a modern microservice architecture
-could do the same thing today, offering advice and approaches for effective tradeoff analysis when refactoring a large
-monolith app.
+**Software Architecture: The Hard Parts** is structured as a narrative about a team breaking down a faulty, outdated monolithic application into a modern microservices-based architecture. The authors compare different aspects of how a monolithic architecture might have been written to do something in the past, then how modern microservice architecture could do the same thing today, offering advice and approaches for practical trade-off analysis when refactoring a large monolith app.
 
 {pagebreak}
 {width: "20%"}
@@ -59,14 +54,14 @@ effective architectures for information systems.
 {width: "20%"}
 ![](assets/images/books/staff-engineer-or.png)
 
-**The Staff Engineer's Path** by Tanya Reilly. Similar to my view of architects the staff engineer's path allows engineers to contribute at a high level as role models, driving big projects, determining technical strategy, and raising everyone's skills.
+**The Staff Engineer's Path** by Tanya Reilly. Similar to my view of architects, the staff engineer's path allows engineers to contribute at a high level as role models, driving big projects, determining technical strategy, and raising everyone's skills.
 
 * * *
 
 {width: "20%"}
 ![](assets/images/books/staff-engineer.png)
 
-**Staff Engineer: technical leadership beyond the management track** by Will Larson. I share many of the views presented in this book regarding development and skills of architects. 
+**Staff Engineer: technical leadership beyond the management track** by Will Larson defined technical leadership beyond the management track. I share many of the views presented in this book regarding the development and skills of architects.
 
 ## Hard Skills
 
@@ -92,7 +87,7 @@ article [The Architect’s Path - Part 2 - Bookshelf](https://architectelevator.
 {width: "20%"}
 ![](assets/images/books/design-patterns.png)
 
-**Design Patterns** by Gamma, Helm, Johnson, Vlissides. Design patterns help us make balanced decisions on the design
+**Design Patterns** by Gamma, Helm, Johnson, and Vlissides. Design patterns help us make balanced decisions on the design
 of our code.
 
 * * *
@@ -108,7 +103,7 @@ distributed system design.
 {width: "20%"}
 ![](assets/images/books/fundamentals-of-software-architecture.png)
 
-**Fundamentals of Software Architecture** by Neal and Mark, covers soft skills, modularity, component-based thinking,
+**Fundamentals of Software Architecture** by Neal and Mark covers soft skills, modularity, component-based thinking,
 and architectural styles.
 
 {pagebreak}
@@ -130,34 +125,29 @@ and architectural styles.
 {width: "20%"}
 ![](assets/images/books/evolutionary-achitectures.png)
 
-**Building Evolutionary Architectures** describes how to use fitness functions to guide architectural change over time.
+**Building Evolutionary Architectures** describes how fitness functions can guide architectural change over time.
 
 {pagebreak}
 
 {width: "20%"}
 ![](assets/images/books/ddd.png)
 
-**Domain-Driven Design** by Eric Evans promotes the idea that that to develop software for a complex domain, we need
-to build Ubiquitous Language that embeds domain terminology into the software systems that we build. DDD stresses
-defining models in software, and evolving them during the life of the software product.
+**Domain-Driven Design** by Eric Evans promotes the idea that to develop software for a complex domain, we need to build Ubiquitous Language that embeds domain terminology into the software systems that we build. DDD stresses defining models in software and evolving them during the software product's life.
 
 * * *
 
 {width: "20%"}
 ![](assets/images/books/release-it.png)
 
-**Release It! (2nd Edition)** by Mike Nygard’s is about architecture design and decisions regarding stability and how
-to build "cynical" software. Besides the well known stability patterns like circuit breakers and bulkheads the book
-introduces foundational knowledge about running systems in production, from processes to network to security, also
-covering more process oriented questions like deployments or handling security.
+**Release It! (2nd Edition)** by Mike Nygard’s is about architecture stability decisions and how to build "cynical" software. Besides the well-known stability patterns like circuit breakers and bulkheads, the book introduces foundational knowledge about running systems in production, from processes to network to security, also covering more process-oriented questions like deployments or handling security.
 
 {pagebreak}
 
 {width: "20%"}
 ![](assets/images/books/data-intensive.png)
 
-**Designing Data Intensive Systems** by Martin Kleppmann is a mini-encyclopedia of modern data engineering. The book lays down the principles of current distributed big data systems. Covers replication, partitioning, linearizability, locking, write skew, phantoms,
-transactions, event logs, and much more.
+**Designing Data Intensive Systems** by Martin Kleppmann is a mini-encyclopedia of modern data engineering. The book lays down the principles of current distributed big data systems. It covers replication, partitioning, linearizability, locking, write skew, phantoms,
+transactions, event logs, and more.
 
 * * *
 
@@ -178,8 +168,7 @@ transactions, event logs, and much more.
 {width: "20%"}
 ![](assets/images/books/system-design-1.png)
 
-**System Design Interview (Volume 1 & 2)** by Alex Xu. A "real-world" systems design books, not just for preparing for the systems design interview, but to strengthen your systems design muscle for the day-to-day architectural work.
-
+**System Design Interview (Volume 1 & 2)** by Alex Xu. A "real-world" systems design book is not just for preparing for the systems design interview but also for strengthening your systems design muscle for the day-to-day architectural work.
 
 ## Soft Skills
 
@@ -200,51 +189,48 @@ transactions, event logs, and much more.
 {width: "20%"}
 ![](assets/images/books/turn-ship-around.png)
 
-**Turn the Ship Around!** by L. David Marquet:  Around reveals the story of how one United States Navy captain managed to turn a dissatisfied submarine crew into a formidable and respected team. By changing the way we think about leadership, this story will show you that inside, we all have the power to be leaders.
-
+**Turn the Ship Around!** by L. David Marquet: Around reveals how one United States Navy captain managed to turn a dissatisfied submarine crew into a formidable and respected team. By changing how we think about leadership, this story will show you that we all have the power to be leaders inside.
 * * *
 
 {width: "20%"}
 ![](assets/images/books/leadership-is-language.png)
 
-**Leadership is Language** by L. David Marquet is a playbook for successful team management. Tt teaches leaders how they can change their language and mindsets in order to improve decision-making, empower workers, and achieve better results..
+**Leadership is Language** by L. David Marquet is a playbook for successful team management. It teaches leaders to change their language and mindsets to improve decision-making, empower workers, and achieve better results.
 
 {pagebreak}
 
 {width: "20%"}
 ![](assets/images/books/nudge.png)
 
-**Nudge** by Richard Thaler draws on research in psychology and behavioral economics to define libertarian paternalism as an active engineering of choice architecture. The book also popularised the concept of a nudge, a choice architecture that predictably alters people's behavior without restricting options or significantly changing their economic incentives.
+**Nudge** by Richard Thaler draws on psychology and behavioral economics research to define libertarian paternalism as an active engineering of choice architecture. The book also popularised the concept of a nudge, a choice architecture that predictably alters people's behavior without restricting options or significantly changing their economic incentives.
 
 * * *
 
 {width: "20%"}
 ![](assets/images/books/no-rules-rules.png)
 
-**No Rules Rules** by Erin Meyer and Reed Hastings provides insights into Netflix culture. When you give low-level employees access to information that is generally reserved for high-level executives, they get more done on their own. They work faster without stopping to ask for information and approval. They make better decisions without needing input from the top.
+**No Rules Rules** by Erin Meyer and Reed Hastings provides insights into Netflix culture. When you give low-level employees access to information generally reserved for high-level executives, they get more done independently. They work faster without stopping to ask for information and approval. They make better decisions without needing input from the top.
 
 {pagebreak}
 
 {width: "20%"}
 ![](assets/images/books/dare-to-lead.png)
 
-**Dare To Lead** by Brené Brown, defines a leader as anyone who takes responsibility for finding the potential in people and processes and has the courage to develop that potential.
+**Dare To Lead** by Brené Brown defines a leader as anyone who takes responsibility for finding the potential in people and processes and dares to develop that potential.
 
 * * *
 
 {width: "20%"}
 ![](assets/images/books/sowhat.png)
 
-**The So What Strategy** by Davina Stanley and Gerard Castles. Any architect has been caught at the end of a presentation when their audience, perhaps a leadership team or a Steering Committee, looks at them blankly and asks this most uncomfortable question: ‘So what?' How does that help? The book provides a pragmatic approach to answer that question in one single, powerful sentence. Or how to set yourself up so nobody asks it.
+**The So What Strategy** by Davina Stanley and Gerard Castles. Any architect has been caught at the end of a presentation when their audience, perhaps a leadership team or a Steering Committee, looks at them blankly and asks this most uncomfortable question: ‘So what?' How does that help? The book provides a pragmatic approach to answering that question in one powerful sentence. Or how to set yourself up so nobody asks it.
 
 {pagebreak}
 
 {width: "20%"}
 ![](assets/images/books/never-split-the-difference.png)
 
-**Never Split the Difference** by Chris Voss. Negotiations take place in many fields of life, such as business, and in some critical situations, like hostage situations. The book is a guide on how to best behave when certain things happen, regardless of whether that includes the need for negotiation techniques in hostage situations or in business (and architecture).
-
-
+**Never Split the Difference** by Chris Voss. Negotiations occur in many fields, such as business, and in some critical situations, like hostage situations. The book is a guide on how to behave best when certain things happen, regardless of whether that includes the need for negotiation techniques in hostage situations or in business (and architecture).
 
 ## Organization and Processes
 
@@ -252,8 +238,7 @@ transactions, event logs, and much more.
 ![](assets/images/books/accelerate.png)
 
 **Accelerate** — acceleration is the second derivative of position (speed being the first), so if you want to move
-faster you need to accelerate. Sometimes, you need to jerk the system a bit, which in fact the proper term for the third
-derivative.
+faster, you need to accelerate. Sometimes, you need to jerk the system a bit, which is the proper term for the third derivative.
 
 * * *
 
@@ -278,7 +263,7 @@ minutes-no matter what the size of a project or the complexity of its code base.
 {width: "20%"}
 ![](assets/images/books/six-simple-rules.png)
 
-**Six Simple Rules: How to Manage Complexity without Getting Complicated** by  Yves Morieux and Peter Tollman: the book emphasis that in today’s complicated business environment, you need to setup organisational structures based on cooperation. To deal with complexity, organizations should depend on the judgment of their people, which requires giving them more autonomy to act. It also depends on these people cooperating to utilize the organization's capabilities to cope with complex problems. 
+**Six Simple Rules: How to Manage Complexity without Getting Complicated** by  Yves Morieux and Peter Tollman: the book emphasizes that in today’s complicated business environment, you must set up organizational structures based on cooperation. To deal with complexity, organizations should depend on the judgment of their people, which requires giving them more autonomy to act. It also depends on these people cooperating to utilize the organization's capabilities to cope with complex problems. 
 
 * * *
 

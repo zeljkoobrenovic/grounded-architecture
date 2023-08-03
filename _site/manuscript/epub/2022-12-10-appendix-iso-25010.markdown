@@ -25,7 +25,7 @@ The standard identifies several quality characteristics that should be considere
 
 ### Maintainability Characteristics
 
-* **Analyzability:** The degree of effectiveness and efficiency with which it is possible to assess the impact on a product or system of an intended change to one or more of its parts or to diagnose a product for deficiencies or causes of failures, or to identify parts to be modified.
+* **Analyzability:** The degree of effectiveness and efficiency with which it is possible to assess the impact on a product or system of an intended change to one or more of its parts or diagnose a product for deficiencies or causes of failures, or identify parts to be modified.
 * **Modifiability:** The degree to which a product or system can be effectively and efficiently modified without introducing defects or degrading existing product quality.
 * **Testability:** The degree of effectiveness and efficiency with which test criteria can be established for a system, product, or component, and tests can be performed to determine whether those criteria have been met.
 * **Modularity:** The degree to which a system or computer program is composed of discrete components such that a change to one component has minimal impact on other components.
@@ -35,12 +35,12 @@ The standard identifies several quality characteristics that should be considere
 
 * **Keep Systems Small:** The overall size of the source code of the software product matters. Systems with about 200,000 lines of code are frequently challenging to maintain.
 * **Organize System in Limited Number (e.g., 7±2) Balanced Components:** When a system has too many or too few components, or if components differ in size significantly (e.g., you have 80% of code in one common component), it is considered more challenging to understand and maintain.
-* **Couple Files Loosely:** Software products where more source code resides in files strongly coupled with other files are deemed harder to maintain.
-* **Keep Components Loosely Coupled:** Hide most of the files in a component from direct dependencies from other components.
+* **Couple Files Loosely:** Software products where more source code resides in files strongly coupled with other files are deemed more challenging to maintain.
+* **Keep Components Loosely Coupled:** Hide most files in a component from direct dependencies from other components.
 * **Avoid Duplication:** Avoid the occurrence of identical fragments of source code in more than one place in the product.
 * **Write Short Units of Code:** Keep units (e.g., functions, methods) small, with many practitioners recommending units to be shorter than 30 lines. Short units are also much easier to unit test.
 * **Write Simple Units of Code:** Keep the number of decision points (so-called McCabe index, e.g., if, while statement) per unit low, ideally below 5.
-* **Avoid Many Parameters in Unit Interfaces:** Large number of parameters in a unit are deemed more complicated to maintain.
+* **Avoid Many Parameters in Unit Interfaces:** A large number of parameters in a unit are deemed more complicated to maintain.
 
 ## Security
 The degree to which a product or system protects information and data so that persons or other products or systems have the degree of data access appropriate to their types and levels of authorization.
@@ -71,9 +71,9 @@ The degree to which a product or system protects information and data so that pe
 
 ### Performance Efficiency
 
-* **Time Behavior:** Degree to which a product or system's response, processing times, and throughput rates meet requirements when performing its functions.
-* **Capacity:** Degree to which the maximum limits of a product or system parameter meet requirements.
-* **Resource Utilization:** Degree to which the amounts and types of resources a product or system use meet requirements when performing its functions.
+* **Time Behavior:** The degree to which a product or system's response, processing times, and throughput rates meet requirements when performing its functions.
+* **Capacity:** The degree to which the maximum limits of a product or system parameter meet requirements.
+* **Resource Utilization:** The degree to which the amounts and types of resources a product or system use meet requirements when performing its functions.
 
 ### Performance Efficiency Tactics
 
