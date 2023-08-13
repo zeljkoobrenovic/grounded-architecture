@@ -46,6 +46,26 @@ Image by <a href="https://pixabay.com/users/pexels-2286921/?utm_source=link-attr
 <table>
 <tr class="icon-container">
 <td style="width: 80px">
+<img src="assets/icons/architecture.png" class="book">
+</td>
+<td>
+<b>Architecture Dashboard Examples</b>: provided examples of how to build the Architecture Data Dashboard as a part of the Grounded Architecture Data Foundation. The dashboard is a static website generated from JSON files and published via GitHub pages.
+</td>
+<td style="font-size: 50%; line-height: 12px; text-align: center">
+<div>
+<a target="_blank" href="https://github.com/zeljkoobrenovic/grounded-architecture-dashboard-examples">
+<img src="assets/icons/github.png" class="icon"><div>Source Code</div>
+</a>
+</div>
+<div>
+<a target="_blank" href="https://zeljkoobrenovic.github.io/grounded-architecture-dashboard-examples/">
+<img src="assets/icons/web.png" class="icon"><div>Website</div>
+</a>
+</div>
+</td>
+</tr>
+<tr class="icon-container">
+<td style="width: 80px">
 <img src="assets/images/books/sokrates.png" class="book">
 </td>
 <td>
@@ -66,7 +86,7 @@ Sokrates can help you understand your code by making visible the size, complexit
 <img src="assets/images/books/productivity_tools.png" class="book">
 </td>
 <td>
-<b>Productivity Tools</b>: a collection of online tools I built to help me in my daily work as an architect. I reuse these tools and lessons learned in building these tools when designing Data Foundation parts of the Grounded Architecture.
+<b>Productivity Tools</b>: a collection of more than 100 online tools I built to help me in my daily work as an architect. I reuse these tools and lessons learned in building these tools when designing Data Foundation parts of the Grounded Architecture.
 </td>
 <td style="font-size: 50%; line-height: 12px; text-align: center">
 <div>
