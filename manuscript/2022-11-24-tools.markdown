@@ -8,7 +8,7 @@
 {width: "25%"}
 ![](assets/icons/architecture.png)
 
-**Architecture Dashboard Examples**: [source code of examples](https://github.com/zeljkoobrenovic/grounded-architecture-dashboard-examples) of how to build the Architecture Data Dashboard as a part of the Grounded Architecture Data Foundation. The dashboard is a simple static website generated from JSON files and [published via GitHub pages](https://zeljkoobrenovic.github.io/grounded-architecture-dashboard-examples/).
+**Architecture Dashboard Examples**: [source code of examples](https://github.com/zeljkoobrenovic/grounded-architecture-dashboard-examples) of how to build an Architecture Data Dashboard as a part of the Grounded Architecture Data Foundation. The dashboard is a simple static website generated from JSON files and [published via GitHub pages](https://zeljkoobrenovic.github.io/grounded-architecture-dashboard-examples/).
 
 * * *
 
@@ -31,5 +31,5 @@ Sokrates can help you understand your code by making visible the size, complexit
 {width: "25%"}
 ![](assets/images/arch/obren359.jpeg)
 
-**[obren359.com](https://obren359.com)**: I've created a curated collections and high-quality IT resources (articles, videos, podcasts).
+**[obren359.com](https://obren359.com)**: I've created a curated collections and high-quality IT knowledge resources (articles, videos, podcasts).
 

@@ -146,7 +146,7 @@ This book is a part of the [**collection of open-source tools and resources**](h
 The other resources include:
 
 * [**Sokrates**](https://sokrates.dev): an open-source polyglot code analysis tool. Sokrates provides a pragmatic, inexpensive way to extract rich data from source code repositories. Sokrates can help you understand your code by making the size, complexity, and coupling of software, people interactions, and team topologies visible.
-* [**Productivity Tools**](https://obren.io/tools): I have been building simple personal productivity tools for years.
+* [**Productivity Tools**](https://obren.io/tools): A collection of more than 100 online tools I built to help me in my daily work as an architect.
 * [**359° Overview of Tech Trends**](https://www.obren359.com/) is my collection of knowledge resources with podcasts and videos from over 20 authoritative, high-quality sources (IEEE, ACM, GOTO Conf, SE Radio, Martin Fowler's site, Ph.D. Theses). Architects need to learn fast, and finding good knowledge sources is difficult.
 
 You can find more details about these tools on my homepage **[obren.io](https://obren.io/)**.
@@ -187,6 +187,7 @@ You can find additional resources online at:
 
 Feel free to follow me on LinkedIn to see what I am up to:
 * [https://www.linkedin.com/in/zeljkoobrenovic](https://www.linkedin.com/in/zeljkoobrenovic)
+
 
 ## Acknowledgments
 

@@ -5,31 +5,31 @@
 
 {pagebreak}
 
-{width: "17%"}
+{width: "25%"}
 ![](assets/icons/architecture.png)
 
-**Architecture Dashboard Examples**: provided [source code of examples](https://github.com/zeljkoobrenovic/grounded-architecture-dashboard-examples) of how to build the Architecture Data Dashboard as a part of the Grounded Architecture Data Foundation. The dashboard is a static website generated from JSON files and [published via GitHub pages](https://zeljkoobrenovic.github.io/grounded-architecture-dashboard-examples/).
+**Architecture Dashboard Examples**: [source code of examples](https://github.com/zeljkoobrenovic/grounded-architecture-dashboard-examples) of how to build an Architecture Data Dashboard as a part of the Grounded Architecture Data Foundation. The dashboard is a simple static website generated from JSON files and [published via GitHub pages](https://zeljkoobrenovic.github.io/grounded-architecture-dashboard-examples/).
 
 * * *
 
-{width: "17%"}
+{width: "25%"}
 ![](assets/images/books/sokrates.png)
 
 **[Sokrates](https://sokrates.dev)**: Sokrates is a tool I built to implement my vision of documenting and analyzing software architectures of complex systems.
 Sokrates provides a pragmatic, inexpensive way to extract rich data from source code repositories.
 Sokrates can help you understand your code by making visible the size, complexity, and coupling of software and all people interactions and team topologies.
 
-* * *
+{pagebreak}
 
-{width: "17%"}
+{width: "25%"}
 ![](assets/images/books/productivity_tools.png)
 
 **[Productivity Tools](https://obren.io/tools)**: a collection of more than 100 online tools I built to help me in my daily work as an architect. I reuse these tools and lessons learned in building these tools when designing Data Foundation parts of the Grounded Architecture.
 
 * * *
 
-{width: "17%"}
+{width: "25%"}
 ![](assets/images/arch/obren359.jpeg)
 
-**[obren359.com](https://obren359.com)**: I've created a curated collections and high-quality IT resources (articles, videos, podcasts).
+**[obren359.com](https://obren359.com)**: I've created a curated collections and high-quality IT knowledge resources (articles, videos, podcasts).
 

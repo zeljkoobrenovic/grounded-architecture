@@ -162,7 +162,7 @@ While each organization will have its unique sets of data, here are some tips I 
 
 
 
-While I do not want to prescribe the best technology, I can tell what I use in daily work. I build most architecture data tools as simple web applications, taking data from JSON files hosted on a static web server. See some of [my public tools](https://obren.io/tools) to illustrate how I build such simple data-driven web apps.
+I build most architecture data tools as simple web applications, taking data from JSON files hosted on a static web server. In the **[Architecture Dashboard Examples](https://github.com/zeljkoobrenovic/grounded-architecture-dashboard-examples)** repository, you can find the source code of examples of how to build the Architecture Data Dashboard as a part of the Grounded Architecture Data Foundation. The dashboard is a simple static website generated from JSON files and [published via GitHub pages](https://zeljkoobrenovic.github.io/grounded-architecture-dashboard-examples/).
 
 <br>
 ## Using Architecture Data Foundation
