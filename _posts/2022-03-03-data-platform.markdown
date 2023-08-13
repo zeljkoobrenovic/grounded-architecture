@@ -85,6 +85,8 @@ To illustrate what I mean by Data Foundation, I will give a few concrete example
 * **Key business metrics**, like vibrancy, which can show user activity on our systems.
 * **Messaging and collaboration platforms (such as Slack) activity reports**, which can help understand discussion topics and team interactions.
 
+I build most architecture data tools as simple web applications, taking data from JSON files hosted on a static web server. In the **[Architecture Dashboard Examples](https://github.com/zeljkoobrenovic/grounded-architecture-dashboard-examples)** repository, you can find the source code of examples of how to build the Architecture Data Dashboard as a part of the Grounded Architecture Data Foundation. The dashboard is a simple static website generated from JSON files and [published via GitHub pages](https://zeljkoobrenovic.github.io/grounded-architecture-dashboard-examples/).
+
 In the following sections, I detail several of these architectural data-driven tools.
 
 <img src="assets/images/apps.png" style="padding: 4px; padding-top: 8px; padding-bottom: 8px; box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px; margin-bottom: 6px">
@@ -160,9 +162,6 @@ While each organization will have its unique sets of data, here are some tips I 
 * **Maintain a culture of transparency**. Sharing fewer data with everyone is much simpler and more effective than having more data, but you need complex authorization mechanisms.
 * **Own the curation**. People need to be able to trust your data. Spend enough time to understand data sets, curate them, and ensure presentation consistency. I consider myself a master curator and chief UX designer of a Data Foundation.
 
-
-
-I build most architecture data tools as simple web applications, taking data from JSON files hosted on a static web server. In the **[Architecture Dashboard Examples](https://github.com/zeljkoobrenovic/grounded-architecture-dashboard-examples)** repository, you can find the source code of examples of how to build the Architecture Data Dashboard as a part of the Grounded Architecture Data Foundation. The dashboard is a simple static website generated from JSON files and [published via GitHub pages](https://zeljkoobrenovic.github.io/grounded-architecture-dashboard-examples/).
 
 <br>
 ## Using Architecture Data Foundation
