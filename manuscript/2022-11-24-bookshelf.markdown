@@ -170,6 +170,7 @@ transactions, event logs, and more.
 
 **System Design Interview (Volume 1 & 2)** by Alex Xu. A "real-world" systems design book is not just for preparing for the systems design interview but also for strengthening your systems design muscle for the day-to-day architectural work.
 
+
 ## Soft Skills
 
 {width: "20%"}
@@ -231,6 +232,8 @@ transactions, event logs, and more.
 ![](assets/images/books/never-split-the-difference.png)
 
 **Never Split the Difference** by Chris Voss. Negotiations occur in many fields, such as business, and in some critical situations, like hostage situations. The book is a guide on how to behave best when certain things happen, regardless of whether that includes the need for negotiation techniques in hostage situations or in business (and architecture).
+
+
 
 ## Organization and Processes
 
