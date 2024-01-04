@@ -96,11 +96,18 @@ If you realize the **value of perfect information is low** for a particular deci
 
 
 <br>
-## Before Decisions: Setting and Aligning Goals
+## Preparing for Making Decisions
 
 Decisions are **steering wheels for reaching our goals**. Consequently, it is crucial to understand and define goals properly. And to understand if there is a decision to be made at all.
 
-### Types of Goals
+
+![](assets/images/arch/iStock-1301200404.jpg)
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by iStock
+</div>
+
+
+### Setting Goals
 
 Effective goal setting involves **understanding your priorities and opportunities**. It's pointless to set goals misaligned
 with your opportunities or without knowing your priorities. By identifying **what matters most** to you and **discarding
@@ -147,11 +154,16 @@ In essence, this question helps assess the decision-making landscape, the openne
 
 
 <br>
-## Making Decisions
+## Factors Influencing Decision-Making
 
 Some decisions are easier to make, and in some situations, we can make decisions easier. Here, we explore key factors influencing decision-making complexity and decisiveness.
 
-### Factors Influencing Decision-Making Complexity
+![](assets/images/arch/iStock-1194231226.jpg)
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by iStock
+</div>
+
+### Decision-Making Complexity
 
 Some decisions are easier to make than others. Kozyrkov identifies 14 factors that can make decision-making more or less complex:
 
@@ -193,8 +205,7 @@ Decisions made under conditions of **low pressure and stress** are generally eas
 
 **Access to information** 
 
-Decisions are easier when you **have complete and reliable information readily available**. In contrast, making decisions with only partial information and uncertain probabilities is more challenging.
-As discussed in the context of statistics, having limited information complicates the decision process.
+Decisions are easier when you **have complete and reliable information readily available**. In contrast, making decisions with only partial information and uncertain probabilities is more challenging. As discussed in the context of statistics, having limited information complicates the decision process.
 
 **Risks and ambiguity** 
 
@@ -259,6 +270,11 @@ The risk in decision-making is developing an **outcome bias**, where you **focus
 
 As mentioned earlier, an outcome is distinct from a decision; the result follows a decision. It's entirely possible to make a sound decision but still end up with an unfavorable outcome. It's important to remember that the decision-making process, **randomness, or luck influence outcomes**. Luck is **beyond our control** and often a significant factor in complex situations. 
 
+![](assets/images/arch/iStock-1400056155.jpg)
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by iStock
+</div>
+
 If you only consider the outcome without understanding the context and information available when the decision was made, it can lead to **misjudging people's abilities**. You might end up rewarding or punishing people based on a mix of luck and skill without knowing how much luck contributed to their success. Therefore, it's crucial to assess whether people's successes are due to good decision-making or merely luck and not to overemphasize the outcome when evaluating decisions.
 
 
@@ -270,6 +286,14 @@ Consider what factors the decision-maker took into account, how they gathered in
 
 Without recording this process, it's challenging to judge the quality of decisions made by yourself or others, hindering personal growth in decision-making skills.
 The key takeaway is **the importance of documenting the decision-making process**. This documentation helps distinguish between the influences of luck and skill in outcomes, ensuring you learn the correct lessons from your experiences. Putting more effort into recording decision processes is vital for this analysis.
+
+
+![](assets/images/arch/iStock-1394993248.jpg)
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by iStock
+</div>
+
+
 
 ### Confirmation Bias
 
@@ -284,6 +308,11 @@ The tendency to selectively interpret data to confirm pre-existing beliefs is a 
 The solution to counter confirmation bias involves **setting clear objectives before examining the data**. Think about what the data means to you before seeing it. This approach helps make truly data-driven decisions, as it counters inherent biases in human thinking.
 
 To use data effectively for generating questions and finding answers, separate your dataset into two parts: one for analytics and the other for statistics, and never mix them. This separation is crucial in preventing goalpost shifting after seeing the data.
+
+![](assets/images/arch/iStock-1307396842.jpg)
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by iStock
+</div>
 
 
 ### Other Human Factors 
@@ -346,6 +375,11 @@ Effective decision-making often involves recognizing that **you might not be the
 
 While group decision-making might sometimes constrain individual creativity, it also **provides safeguards against poor decisions** and **aligns individual motives with the organization's goals** (see the principal-agent problem in the next section). Having several independent decision-makers can align individual incentives with the organization's needs, addressing this problem.
 
+![](assets/images/arch/iStock-1198639725.jpg)
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by iStock
+</div>
+
 However, group decision-making isn't perfect. It **increases complexity** as it **requires higher decision-making skills** from each member. True **collaboration in decision-making** is more challenging than individual decision-making. It also tends to **slow down the decision process**.
 
 Moreover, the benefits of group decision-making, like balancing individual biases, **rely on the independence of the decision-makers**. If everyone is in the same room, independence can be compromised by factors like **charisma or status**, potentially allowing the loudest voice to dominate, rather than the wisest.
@@ -357,6 +391,7 @@ The **role of the note-taker** in group settings is also influential, as is the 
 In summary, the more people involved in a decision, the higher the skill level required to maximize the benefits and minimize the downsides of group decision-making. It's vital to structure the process to maintain independence, possibly by limiting decision-makers and increasing advisors. This approach distinguishes between making a decision and advocating for the execution of an already-made decision.
 
 
+<br>
 ## Questions to Consider
 
 * *Decision-Making in IT Architecture: How do you typically approach decision-making in your professional role, and in what ways could you incorporate the principles of decision intelligence to enhance your decision-making process?*
