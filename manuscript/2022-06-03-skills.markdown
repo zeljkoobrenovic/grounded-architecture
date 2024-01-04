@@ -10,15 +10,16 @@
 {pagebreak}
 
 A> **KEY POINTS:**
-A> * A typical skillset of an architect includes hard (technical) skills, soft (people & social) skills, product development, and business skills.
+A> * A typical skillset of an architect includes hard (technical) skills, soft (people & social) skills, product development, business skills, and decision-making skills.
 
 Architects have to have proper skill sets. By skills, I mean possessing **relevant knowledge and the ability to apply that knowledge** in practice. These skills should include technical (e.g., cloud architecture or Kubernetes technology) and communication and influence skills.
 
 More specifically, a typical skillset of an architect includes:
 * **Hard (technical) skills**, including extensive knowledge of both new technology and legacy technology stacks,
 * **Soft skills**,
-* **Product development skills**, and
-* **Business domain knowledge**.
+* **Product development skills**,
+* **Business domain knowledge**, and
+* **Decision-making skills**.
 
 ## Hard Skills
 
