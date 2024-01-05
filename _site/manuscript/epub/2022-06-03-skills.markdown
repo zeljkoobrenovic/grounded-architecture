@@ -9,15 +9,16 @@
 {pagebreak}
 
 A> **KEY POINTS:**
-A> * A typical skillset of an architect includes hard (technical) skills, soft (people & social) skills, product development, and business skills.
+A> * A typical skillset of an architect includes hard (technical) skills, soft (people & social) skills, product development, business skills, and decision-making skills.
 
 Architects have to have proper skill sets. By skills, I mean possessing **relevant knowledge and the ability to apply that knowledge** in practice. These skills should include technical (e.g., cloud architecture or Kubernetes technology) and communication and influence skills.
 
 More specifically, a typical skillset of an architect includes:
 * **Hard (technical) skills**, including extensive knowledge of both new technology and legacy technology stacks,
 * **Soft skills**,
-* **Product development skills**, and
-* **Business domain knowledge**.
+* **Product development skills**,
+* **Business domain knowledge**, and
+* **Decision-making skills**.
 
 ## Hard Skills
 
@@ -65,10 +66,27 @@ Regardless of their technical or design expertise, architects must have **a soli
 * [**Specific business domains**](https://obren.io/tools?tag=domain_models) of the organization: Besides general business concepts, architects should also develop a deep understanding of the specific business domain in which their organization operates. This knowledge may include knowledge of industry-specific regulations, market trends, customer preferences, competitive landscape, and more. Gaining insights into the specific business domain enables architects to better align their work with the organization's goals, strategies, and priorities.
 * **Business analysis and requirements gathering**: Architects should be adept at analyzing business needs and gathering requirements from various stakeholders. This skill involves understanding the organization's objectives and translating them into functional and technical specifications that can guide the design and development of solutions. 
 
+## Decision-Making Skills
+
+Architects work always requires pragmatic decision-making. Decisions are the steering wheel of organizations. Architects that are not part of key decisions will have limited impact on organization. 
+
+Architects will have two roles concerning decision-making:
+* Be actual decision-makers,
+* Be advisors to decision-makers. and
+* Evaluate and provide feedback to decisions of others.
+
+Essential decision making skill include:
+* Understanding tha a decision is an irrevocable allocation of resources: money, human effort, time, physical actions, opportunities.
+* Know the basic of **decision intelligence** - the discipline of turning information into better action at any scale and in any setting. 
+* Understand key problems of poor decision-making, such as the **outcome bias**, and how to deal with it.
+* Know when to use **intuition**, and the value of clairvoyance.
+* Know key reasons 
+* Understand that there is no such things as not making a decision. You are more likley making the implicit decision to delay, postpone, or deprioritize a decision.
+
  
 ## Questions to Consider
 
-* *On a scale from 1 to 10, how would you rate your current architectural skill sets, considering technical, communication, product, and business skills?*
+* *On a scale from 1 to 10, how would you rate your current architectural skill sets, considering technical, communication, product, business skills, and decision-making skills?*
 * *Reflect on your technical skills. How proficient are you in system design, understanding engineering processes, recognizing design patterns and tactics, ensuring security and privacy, optimizing systems, and maintaining code structures?*
 * *Do you need to develop specific hard skills to enhance your architectural performance?*
 * *How effectively do you communicate (in writing, visually, verbally, and through listening)? How strong are your networking and collaboration skills, and how well do you manage your time and organizational tasks?*

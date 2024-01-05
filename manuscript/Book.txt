@@ -15,7 +15,8 @@ Part2.txt
 2022-06-14-leadership.markdown
 2022-06-15-career-paths.markdown
 Part3.txt
-2022-07-06-doing-architecture.markdown
+2022-07-01-doing-architecture.markdown
+2022-07-02-decision-intelligence.md
 2022-07-07-culture-map.md
 2022-07-08-six-simple-rules.md
 2022-07-10-product.md

@@ -65,6 +65,11 @@ In their daily work, IT architects are involved in decision-making in several wa
 
 Let's starts wit some basics: definition of a decisions, outcomes, goals, and biases.
 
+![](assets/images/arch/iStock-1194231226.jpg)
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by iStock
+</div>
+
 ### Decision Is More Than Selecting Among Options
 
 
@@ -158,7 +163,7 @@ In essence, this question helps assess the decision-making landscape, the openne
 
 Some decisions are easier to make, and in some situations, we can make decisions easier. Here, we explore key factors influencing decision-making complexity and decisiveness.
 
-![](assets/images/arch/iStock-1194231226.jpg)
+![](assets/images/arch/iStock-1043738948.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by iStock
 </div>
@@ -258,11 +263,6 @@ If you're struggling to choose between options that seem equally good, consider 
 
 Decision-making is a human activity subject to human ingenuity, as well as biases and limitations.
 
-![](assets/images/arch/iStock-1286627625.jpg)
-<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by iStock
-</div>
-
 
 ### Outcome Bias
 
@@ -323,11 +323,25 @@ This finding implies that **interacting with data is not purely an objective pro
 
 Your decision-making ability is not always at its peak, especially when you're **sleep-deprived, hungry, emotionally stressed, or under significant pressure**. These biological and emotional states can impact your ability to make optimal decisions. It's a misconception to believe that sheer willpower or extensive knowledge about decision-making can always lead to the best outcomes.
 
+
+![](assets/images/arch/iStock-1333976612.jpg)
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by iStock
+</div>
+
+
 A striking example of this is found in the legal system, where studies have shown that judges can give different sentences before and after lunch. Even highly experienced and knowledgeable individuals, like judges, who make critical decisions, can be influenced by factors like hunger or the need for a break. This realization should be a cautionary note about the limitations and vulnerabilities of our decision-making processes.
 
 ### Intuition 
 
 Human intuition plays a vital role in decision-making. Robert Glass provided one of the best definitions of intuitions, describing it as a function of our mind that allows it to access **a rich fund of historically gleaned information** we are not necessarily aware we possess by **a method we do not understand** ([Glass, 2006; page 125)](https://www.amazon.com/Software-Creativity-2-0-Robert-Glass/dp/0977213315). Our unawareness of such knowledge does not mean we cannot use it.
+
+
+![](assets/images/arch/iStock-1193842896.jpg)
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by iStock
+</div>
+
 
 In the context of decision-making, one of the main advantages of intuition is that accessing it is **a rapid process**, making **intuitive decisions straightforward**. Intuition is particularly useful for **low-value decisions** with low stakes, and **a quick resolution is preferable**. As we'll explore in future discussions on prioritization and decisiveness, seeking perfection in every decision is impractical due to limited time and energy. Therefore, it's essential to choose where to focus your efforts.
 
@@ -355,7 +369,17 @@ For instance, in the field of artificial intelligence (AI), **AI biases stem fro
 
 It is crucial to understand that **data's value lies in its ability to enhance memory, not ensure objectivity**. Embracing data means embracing a significant advancement in human potential. It's about transforming information into action, extending beyond the limits of personal memory to make better, more informed decisions.
 
-When used correctly, data can enable us to ask better questions and give better answers.
+Cassie Kozyrkov classifies [techniques for the use of data into three groups](https://kozyrkov.medium.com/what-on-earth-is-data-science-eb1237d8cb37):
+* **Analytics**: which you can use to get inspired by looking at data,
+* **Statistics**: which you can use to make decisions when you need to deal with incomplete information and uncertainty,
+* **Machine Learning (ML)/AI**: which you can use to deal with a huge number of decisions and vast volumes of data.
+
+When used correctly, data and the techniques mentioned can enable us to ask better questions and give better answers.
+
+![](assets/images/arch/iStock-1286627625.jpg)
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by iStock
+</div>
 
 **Good questions** often stem from **being well-informed**, much like gaining insight from looking out of a window in a dark room. Analytics is a discipline that uses data in this fashion, providing a view of the available information. It helps identify viable options, reasonable assumptions, and meaningful questions. Data and Analytics can inspire better questioning by revealing insights that were previously unseen.
 
@@ -388,7 +412,7 @@ Group settings can also **devolve into social exercises**, where **personal ego 
 
 The **role of the note-taker** in group settings is also influential, as is the phenomenon of **responsibility diffusion**, where **unclear responsibilities** lead to reduced individual contribution.
 
-In summary, the more people involved in a decision, the higher the skill level required to maximize the benefits and minimize the downsides of group decision-making. It's vital to structure the process to maintain independence, possibly by limiting decision-makers and increasing advisors. This approach distinguishes between making a decision and advocating for the execution of an already-made decision.
+In summary, **the more people involved in a decision, the higher the skill level required** to maximize the benefits and minimize the downsides of group decision-making. It's vital to structure the process to maintain independence, possibly by limiting decision-makers and increasing advisors. This approach distinguishes between making a decision and advocating for the execution of an already-made decision.
 
 
 <br>
@@ -396,9 +420,9 @@ In summary, the more people involved in a decision, the higher the skill level r
 
 * *Decision-Making in IT Architecture: How do you typically approach decision-making in your professional role, and in what ways could you incorporate the principles of decision intelligence to enhance your decision-making process?*
 
-* *Excessive Complexity and Organizational Decision-Making: Have you observed instances where excessive complexity in your organization was a result of poor decision-making? How can this be addressed and what role can IT architects play in simplifying decision-making processes?*
+* *Excessive Complexity and Organizational Decision-Making: Have you observed instances where excessive complexity in your organization resulted from poor decision-making? How can IT architects address this, and what role can they play in simplifying decision-making processes?*
 
-* *Understanding Decisions and Opportunity Costs: Reflect on a recent significant decision you made. Were you aware of the resources you were committing and the opportunities you were foregoing? How could you have evaluated these factors more effectively?*
+* *Understanding Decisions and Opportunity Costs: Reflect on a recent significant decision you made. Were you aware of the resources you were committing and the opportunities you were preceding? How could you have evaluated these factors more effectively?*
 
 * *Outcome vs. Quality of Decision-Making: Think of a situation where the outcome of a decision didn't align with your expectations. How did you judge the quality of the decision-making process in hindsight, and did you consider the role of luck or randomness?*
 
@@ -410,10 +434,10 @@ In summary, the more people involved in a decision, the higher the skill level r
 
 * *Handling Complexity in Decision-Making: What factors have you found to increase the complexity of decision-making in your experience? How do you manage these complexities effectively?*
 
-* *Tackling Indecisiveness: Can you identify any habits or emotional factors that contribute to your indecisiveness? What strategies can you employ to overcome these challenges?*
+* *Tackling Indecisiveness: Can you identify any habits or emotional factors contributing to your indecisiveness? What strategies can you employ to overcome these challenges?*
 
 * *Data and Decision-Making: How do you use data in your decision-making process? Are there instances where data has misled your decisions, and how can you safeguard against this in the future?*
 
 * *Balancing Intuition and Analysis: Reflect on a decision where you relied heavily on intuition. In hindsight, was this the right approach, or would a more data-driven analysis have been better?*
 
-* *Navigating Group Decision-Making: Think about your role in group decision-making scenarios. What dynamics do you observe, and how do you ensure that the decision-making process is effective and balanced?*
+* *Navigating Group Decision-Making: Consider your role in group decision-making scenarios. What dynamics do you observe, and how do you ensure the decision-making process is effective and balanced?*
