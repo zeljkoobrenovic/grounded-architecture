@@ -121,66 +121,66 @@ Some decisions are easier to make, and in some situations, we can make decisions
 
 Some decisions are easier to make than others. Kozyrkov identifies 14 factors that can make decision-making more or less complex:
 
-**Number of options** 
+#### Number of options 
 
 Decision-making becomes simpler with **fewer options.** When choosing between a limited number of options, it's straightforward. However, as more options, especially combined choices, are introduced, the process becomes more complex, involving **compound decision-making** (several dependent decisions you must make together). The simplest scenario is a straightforward yes or no decision.
 
-**Clarity of options' boundaries** 
+#### Clarity of options' boundaries
 
 Some decisions are straightforward when the choice is **clear-cut,** like choosing between a rock and an apple, where the preferable option is obvious. Deciding between two varieties of apples is slightly more challenging but remains easy if the decision **isn't significant or high-stakes**.
 
-**Clarity of objectives** 
+#### Clarity of objectives
 
 Having **clear objectives** is another factor that simplifies decision-making. It involves considering the most effective approach to the decision and quickly determining the criteria for making that choice.
 
-**Cost of making a decision** 
+#### Cost of making a decision
 
 **Low-cost** is another aspect that simplifies decision-making, encompassing various types of costs. These include the effort required to **evaluate** information, the ease of **implementing** the decision, and the potential **consequences of any mistakes**. Decisions are more straightforward when these associated costs are low.
 
-**Costs of reversing a decision** 
+#### Costs of reversing a decision
 
 While decisions typically involve a commitment of resources you can't undo, some decisions are considered reversible. If you can **change your decision easily and with little cost**, the consequences of a wrong choice are less severe, making the decision easier.
 
-**Cognitive load** 
+#### Cognitive load
 
 If a decision requires **significant mental effort**, such as remembering **many details** or making choices while **distracted,** it becomes more challenging. On the other hand, if you can make the decision easily and consistently, even amidst other tasks or distractions, then it's a simpler decision.
 
 A lot of the work of IT architects is creating visualizations and abstractions that can reduce cognitive load and make it easier to understand complex systems to make better decisions about them.
 
-**Emotional impact** 
+#### Emotional impact
 
 If a decision doesn't evoke strong emotions or significantly affect you emotionally, it tends to be easier. Conversely, decisions that stir up intense emotions or leave you highly agitated are more difficult.
 
 For instance, the company's decision to use only one frontend programming language significantly affects people unfamiliar with the choice, as they cannot perform at a senior level in new technology for a long time and need to learn many new things. Many people negatively affected by this choice may decide to leave and find a job where they can work with technologies they are experts in. So, a simple technological decision quickly becomes a personal career-making choice and an HR issue.
 
-**Pressure and stress** 
+#### Pressure and stress
 
 Decisions made under conditions of **low pressure and stress** are generally easier, whereas those made in high-pressure, stressful situations are more challenging.
 
-**Access to information** 
+#### Access to information
 
 Decisions are easier when you **have complete and reliable information readily available**. In contrast, making decisions with only partial information and uncertain probabilities is more challenging. As discussed in the context of statistics, having limited information complicates the decision process.
 
-**Risks and ambiguity** 
+#### Risks and ambiguity
 
 Decisions become simpler when there is no **risk or ambiguity involved.** Risk and ambiguity, though different, both complicate decision-making. Ambiguity arises when the probabilities of outcomes are unknown,
 making choices uncertain. Risk, on the other hand, involves taking a known gamble, where you understand the potential consequences and likelihoods.
 
-**Timing** 
+#### Timing
 
 Difficulties arise either when the **decision's timing
 conflicts with other simultaneous decisions** or when there's **insufficient time** to consider the choice thoroughly. Situations requiring a rapid response can add significant pressure, making the decision process more challenging.
 
-**Impact on others** 
+#### Impact on others
 
 Making decisions alone is generally easier. When you're the sole decision-maker, without involving others, and the decision's outcome impacts only you, the process is simpler. In contrast, making decisions in a social context is more complex. Factors like **social scrutiny**, considering the **impact on others**, balancing **different preferences and opinions**, and the potential
 **effect on your reputation** add to the difficulty.
 
-**Internal conflicts** 
+#### Internal conflicts
 
 For example, experiencing a conflict between wanting to play outside and needing to study for an exam can make it difficult to decide. Decisions are harder when there are such internal conflicts, as opposed to situations where all **motivations and incentives align** with the decision.
 
-**Adversarial dynamics** 
+#### Adversarial dynamics
 
 Finally, adversarial dynamics impact decision-making. When you face **competition or opposition from others,** these decisions become more challenging compared to those made cooperatively or independently.
 
@@ -188,15 +188,15 @@ Finally, adversarial dynamics impact decision-making. When you face **competitio
 
 Even when decisions can be made quickly, we may still need to be more confident. People can be indecisive for various reasons. 
 
-**Bad habits**
+#### Bad habits
 
 One common cause of indecisiveness is a bad habit. Many don't recognize that avoiding a decision is, in itself, a decision. Delaying, postponing, or deprioritizing the decision-making process is a resulting implicit choice.
 
-**Overwhelmed by numerous decisions**
+#### Overwhelmed by numerous decisions
 
 Indecisiveness can stem from being overwhelmed by numerous decisions, especially those of lower priority. Our cognitive capacity is limited; we can't focus intensely on everything simultaneously. If too much attention is devoted to trivial choices, it leaves less mental bandwidth for more significant decisions. In essence, indecisiveness may indicate a struggle to recognize and prioritize what truly matters. It highlights the need for intentional effort to allocate time and thought to key decisions aligned with one's priorities. This intentionality is crucial for effective decision-making.
 
-**Emotions and grief**
+#### Emotions and grief
 
 Indecisiveness can also arise from emotional responses, mainly **when all options are undesirable((. In such cases, the most practical approach is to choose the least bad option. After thoroughly evaluating the choices and identifying the least detrimental ones, proceeding with that decision is essential.
 
