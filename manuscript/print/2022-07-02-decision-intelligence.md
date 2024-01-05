@@ -214,10 +214,10 @@ Decision-making is a human activity subject to human ingenuity, as well as biase
 
 The risk in decision-making is developing an **outcome bias**, where you **focus too much on the results** rather than the quality of the decision-making process. You're learning the wrong lesson if you experience an unlucky result and mistakenly conclude that you chose a bad option. Such wrong interpretation could lead you to make wrong choices in the future.
 
-As mentioned earlier, an outcome is distinct from a decision; the result follows a decision. It's entirely possible to make a sound decision but still end up with an unfavorable outcome. It's important to remember that the decision-making process, **randomness, or luck influence outcomes**. Luck is **beyond our control** and often a significant factor in complex situations. 
-
 ![](assets/images/arch/iStock-1400056155.jpg)
 ^image by istock^
+
+As mentioned earlier, an outcome is distinct from a decision; the result follows a decision. It's entirely possible to make a sound decision but still end up with an unfavorable outcome. It's important to remember that the decision-making process, **randomness, or luck influence outcomes**. Luck is **beyond our control** and often a significant factor in complex situations. 
 
 If you only consider the outcome without understanding the context and information available when the decision was made, it can lead to **misjudging people's abilities**. You might end up rewarding or punishing people based on a mix of luck and skill without knowing how much luck contributed to their success. Therefore, it's crucial to assess whether people's successes are due to good decision-making or merely luck and not to overemphasize the outcome when evaluating decisions.
 
@@ -314,12 +314,12 @@ No matter which how you plan to use data, **full information is always preferabl
 
 Effective decision-making often involves recognizing that **you might not be the sole decision-maker**. In organizations, it's crucial to identify the actual decision-makers and understand how decision responsibility is distributed among them. Mastering this skill is essential for navigating organizational decision-making processes. It's important to question who really has the final say in decisions. In many cases, decision-making is more complex than it appears.
 
+![](assets/images/arch/iStock-1198639725.jpg)
+^image by istock^
+
 **Group decision-making** offers significant advantages. While you might believe you have the best solutions, **incorporating diverse perspectives** can help **cover your blind spots**. Multiple decision-makers can **counterbalance the extreme tendencies** of an individual and compensate for **human limitations like fatigue**.
 
 While group decision-making might sometimes constrain individual creativity, it also **provides safeguards against poor decisions** and **aligns individual motives with the organization's goals** (see the principal-agent problem in the next section). Having several independent decision-makers can align individual incentives with the organization's needs, addressing this problem.
-
-![](assets/images/arch/iStock-1198639725.jpg)
-^image by istock^
 
 However, group decision-making isn't perfect. It **increases complexity** as it **requires higher decision-making skills** from each member. True **collaboration in decision-making** is more challenging than individual decision-making. It also tends to **slow down the decision process**.
 
