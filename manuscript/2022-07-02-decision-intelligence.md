@@ -2,7 +2,8 @@
 
 # Decision Intelligence in IT Architecture {#decision-intelligence}
 
-![image by istock](assets/images/arch/iStock-1365878406.jpg)
+![](assets/images/arch/iStock-1365878406.jpg)
+^image by istock^
 
 **IN THIS SECTION, YOU WILL:**  Learn the basics of decision intelligence, the discipline of turning information into better actions, and its relevance for IT architecture practice.
 
@@ -28,7 +29,8 @@ A> *Excessive complexity is nature’s punishment for organizations that are una
 
 Let's starts wit some basics: definition of a decisions, outcomes, goals, and biases.
 
-![image by istock](assets/images/arch/iStock-1194231226.jpg)
+![](assets/images/arch/iStock-1194231226.jpg)
+^image by istock^
 
 ### Decision Is More Than Selecting Among Options
 
@@ -61,7 +63,8 @@ If you realize the **value of perfect information is low** for a particular deci
 
 Decisions are **steering wheels for reaching our goals**. Consequently, it is crucial to understand and define goals properly. And to understand if there is a decision to be made at all.
 
-![image by istock](assets/images/arch/iStock-1301200404.jpg)
+![](assets/images/arch/iStock-1301200404.jpg)
+^image by istock^
 
 ### Setting Goals
 
@@ -111,7 +114,8 @@ In essence, this question helps assess the decision-making landscape, the openne
 
 Some decisions are easier to make, and in some situations, we can make decisions easier. Here, we explore key factors influencing decision-making complexity and decisiveness.
 
-![image by istock](assets/images/arch/iStock-1043738948.jpg)
+![](assets/images/arch/iStock-1043738948.jpg)
+^image by istock^
 
 ### Decision-Making Complexity
 
@@ -210,7 +214,8 @@ Decision-making is a human activity subject to human ingenuity, as well as biase
 
 The risk in decision-making is developing an **outcome bias**, where you **focus too much on the results** rather than the quality of the decision-making process. You're learning the wrong lesson if you experience an unlucky result and mistakenly conclude that you chose a bad option. Such wrong interpretation could lead you to make wrong choices in the future.
 
-![image by istock](assets/images/arch/iStock-1400056155.jpg)
+![](assets/images/arch/iStock-1400056155.jpg)
+^image by istock^
 
 As mentioned earlier, an outcome is distinct from a decision; the result follows a decision. It's entirely possible to make a sound decision but still end up with an unfavorable outcome. It's important to remember that the decision-making process, **randomness, or luck influence outcomes**. Luck is **beyond our control** and often a significant factor in complex situations. 
 
@@ -225,7 +230,8 @@ Consider what factors the decision-maker took into account, how they gathered in
 Without recording this process, it's challenging to judge the quality of decisions made by yourself or others, hindering personal growth in decision-making skills.
 The key takeaway is **the importance of documenting the decision-making process**. This documentation helps distinguish between the influences of luck and skill in outcomes, ensuring you learn the correct lessons from your experiences. Putting more effort into recording decision processes is vital for this analysis.
 
-![image by istock](assets/images/arch/iStock-1394993248.jpg)
+![](assets/images/arch/iStock-1394993248.jpg)
+^image by istock^
 
 ### Confirmation Bias
 
@@ -237,7 +243,8 @@ Businesses are increasingly hiring data scientists to make what they believe are
 
 The tendency to selectively interpret data to confirm pre-existing beliefs is a typical example of a confirmation bias. Complex **mathematical analysis doesn't solve this bias**; it can even obscure it. Often, even if meticulously done, extensive data analysis ends up being overlooked or misinterpreted through confirmation bias. This results in decisions that are no different than if the data were never analyzed. The critical problem is the tendency to **adjust interpretations after seeing the data**.
 
-![image by istock](assets/images/arch/iStock-1307396842.jpg)
+![](assets/images/arch/iStock-1307396842.jpg)
+^image by istock^
 
 The solution to counter confirmation bias involves **setting clear objectives before examining the data**. Think about what the data means to you before seeing it. This approach helps make truly data-driven decisions, as it counters inherent biases in human thinking.
 
@@ -247,7 +254,8 @@ To use data effectively for generating questions and finding answers, separate y
 
 In a well-known behavioral economics study, researchers presented decision-makers with identical facts but used **different wording**. Despite **the same underlying information**, the **decisions varied**. Merely changing the phrasing or adding unrelated details can significantly alter people's choices. Our minds are **susceptible to cognitive biases and illusions, even in the face of factual data**.
 
-![image by istock](assets/images/arch/iStock-1333976612.jpg)
+![](assets/images/arch/iStock-1333976612.jpg)
+^image by istock^
 
 This finding implies that **interacting with data is not purely an objective process**. How we cognitively engage with data matters. While we can use data to enhance objectivity, it can reinforce pre-existing beliefs if not approached critically. This tendency can **strengthen our existing convictions instead of providing new insights**, counteracting the goal of objectivity and learning.
 
@@ -261,7 +269,8 @@ Human intuition plays a vital role in decision-making. Robert Glass provided one
 
 In the context of decision-making, one of the main advantages of intuition is that accessing it is **a rapid process**, making **intuitive decisions straightforward**. Intuition is particularly useful for **low-value decisions** with low stakes, and **a quick resolution is preferable**. As we'll explore in future discussions on prioritization and decisiveness, seeking perfection in every decision is impractical due to limited time and energy. Therefore, it's essential to choose where to focus your efforts.
 
-![image by istock](assets/images/arch/iStock-1193842896.jpg)
+![](assets/images/arch/iStock-1193842896.jpg)
+^image by istock^
 
 Intuition is especially appropriate under certain conditions:
 * **Time Pressure**: When time is limited and a detailed analysis isn't feasible, intuition can guide you.
@@ -274,7 +283,8 @@ Conversely, you should avoid relying on intuition too much in situations where m
 
 Decision-making has evolved beyond pen and paper, with data playing a crucial role in modern methods. Data, like the one I use in [Data Foundation](#data), while visually appealing and powerful when used correctly, is **only a tool to assist** in making informed decisions. It's a means to an impactful end, but **without purposeful application, data is ineffective**.
 
-![image by istock](assets/images/arch/iStock-1316937637.jpg)
+![](assets/images/arch/iStock-1316937637.jpg)
+^image by istock^
 
 **Data has limitations**. Just as not everything written in a book is true, data can be **misleading or incomplete**. It's a collection of information recorded by humans, subject to errors and omissions.
 
@@ -289,7 +299,8 @@ Cassie Kozyrkov classifies [techniques for the use of data into three groups](ht
 
 When used correctly, data and the techniques mentioned can enable us to ask better questions and give better answers.
 
-![image by istock](assets/images/arch/iStock-1286627625.jpg)
+![](assets/images/arch/iStock-1286627625.jpg)
+^image by istock^
 
 **Good questions** often stem from **being well-informed**, much like gaining insight from looking out of a window in a dark room. Analytics is a discipline that uses data in this fashion, providing a view of the available information. It helps identify viable options, reasonable assumptions, and meaningful questions. Data and Analytics can inspire better questioning by revealing insights that were previously unseen.
 
@@ -303,7 +314,8 @@ No matter which how you plan to use data, **full information is always preferabl
 
 Effective decision-making often involves recognizing that **you might not be the sole decision-maker**. In organizations, it's crucial to identify the actual decision-makers and understand how decision responsibility is distributed among them. Mastering this skill is essential for navigating organizational decision-making processes. It's important to question who really has the final say in decisions. In many cases, decision-making is more complex than it appears.
 
-![image by istock](assets/images/arch/iStock-1198639725.jpg)
+![](assets/images/arch/iStock-1198639725.jpg)
+^image by istock^
 
 **Group decision-making** offers significant advantages. While you might believe you have the best solutions, **incorporating diverse perspectives** can help **cover your blind spots**. Multiple decision-makers can **counterbalance the extreme tendencies** of an individual and compensate for **human limitations like fatigue**.
 
