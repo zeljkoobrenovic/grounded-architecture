@@ -69,20 +69,19 @@ Regardless of their technical or design expertise, architects must have **a soli
 
 ## Decision-Making Skills
 
-Architects work always requires pragmatic decision-making. Decisions are the steering wheel of organizations. Architects that are not part of key decisions will have limited impact on organization. 
+Architects' work always requires pragmatic decision-making. Decisions are the steering wheel of organizations. Architects outside of key decisions will have a limited impact on the organization. 
 
 Architects will have two roles concerning decision-making:
 * Be actual decision-makers,
 * Be advisors to decision-makers. and
-* Evaluate and provide feedback to decisions of others.
+* Evaluate and provide feedback on the decisions of others.
 
-Essential decision making skill include:
-* Understanding tha a decision is an irrevocable allocation of resources: money, human effort, time, physical actions, opportunities.
-* Know the basic of **decision intelligence** - the discipline of turning information into better action at any scale and in any setting. 
+Essential decision-making skills include:
+* Understanding that a decision is an irrevocable allocation of resources: money, human effort, time, physical actions, and opportunities.
+* Know the basic of **[decision intelligence](decision-intelligence)** - the discipline of turning information into better action. 
 * Understand key problems of poor decision-making, such as the **outcome bias**, and how to deal with it.
 * Know when to use **intuition**, and the value of clairvoyance.
-* Know key reasons 
-* Understand that there is no such things as not making a decision. You are more likley making the implicit decision to delay, postpone, or deprioritize a decision.
+* Understand that there is no such thing as not making a decision. You are more likely making the implicit decision to delay, postpone, or deprioritize a decision.
 
  
 ## Questions to Consider

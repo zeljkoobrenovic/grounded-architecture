@@ -36,10 +36,27 @@ def extract_key_topics(post):
 
     return content
 
-posts = ['2022-01-01-intro.markdown', '2022-01-02-context.markdown', '2022-01-03-requirements.markdown', '2022-03-01-grounded-architecture.markdown', '2022-03-03-data-platform.markdown', '2022-03-04-people.markdown',
-         '2022-03-05-activities.markdown', '2022-03-09-value.markdown', '2022-06-01-being-architect.markdown', '2022-06-02-superglue.markdown', '2022-06-03-skills.markdown', '2022-06-10-impact.markdown', '2022-06-14-leadership.markdown',
-         '2022-06-15-career-paths.markdown', '2022-07-06-doing-architecture.markdown', '2022-07-07-culture-map.md', '2022-07-08-six-simple-rules.md', '2022-07-10-product.md',
-         '2022-07-12-governance.markdown', '2022-07-15-economics.md']
+posts = ['2022-01-01-intro.markdown',
+         '2022-01-02-context.markdown',
+         '2022-01-03-requirements.markdown',
+         '2022-03-01-grounded-architecture.markdown',
+         '2022-03-03-data-platform.markdown',
+         '2022-03-04-people.markdown',
+         '2022-03-05-activities.markdown',
+         '2022-03-09-value.markdown',
+         '2022-06-01-being-architect.markdown',
+         '2022-06-02-superglue.markdown',
+         '2022-06-03-skills.markdown',
+         '2022-06-10-impact.markdown',
+         '2022-06-14-leadership.markdown',
+         '2022-06-15-career-paths.markdown',
+         '2022-07-01-doing-architecture.markdown',
+         '2022-07-02-decision-intelligence.md',
+         '2022-07-07-culture-map.md',
+         '2022-07-08-six-simple-rules.md',
+         '2022-07-10-product.md',
+         '2022-07-12-governance.markdown',
+         '2022-07-15-economics.md']
 
 
 all_content = '## Introductions\n\n'

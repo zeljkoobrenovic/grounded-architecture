@@ -308,29 +308,29 @@ Businesses are increasingly hiring data scientists to make what they believe are
 
 The tendency to selectively interpret data to confirm pre-existing beliefs is a typical example of a confirmation bias. Complex **mathematical analysis doesn't solve this bias**; it can even obscure it. Often, even if meticulously done, extensive data analysis ends up being overlooked or misinterpreted through confirmation bias. This results in decisions that are no different than if the data were never analyzed. The critical problem is the tendency to **adjust interpretations after seeing the data**.
 
-The solution to counter confirmation bias involves **setting clear objectives before examining the data**. Think about what the data means to you before seeing it. This approach helps make truly data-driven decisions, as it counters inherent biases in human thinking.
-
-To use data effectively for generating questions and finding answers, separate your dataset into two parts: one for analytics and the other for statistics, and never mix them. This separation is crucial in preventing goalpost shifting after seeing the data.
-
 ![](assets/images/arch/iStock-1307396842.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by iStock
 </div>
+
+The solution to counter confirmation bias involves **setting clear objectives before examining the data**. Think about what the data means to you before seeing it. This approach helps make truly data-driven decisions, as it counters inherent biases in human thinking.
+
+To use data effectively for generating questions and finding answers, separate your dataset into two parts: one for analytics and the other for statistics, and never mix them. This separation is crucial in preventing goalpost shifting after seeing the data.
 
 
 ### Other Human Factors 
 
 In a well-known behavioral economics study, researchers presented decision-makers with identical facts but used **different wording**. Despite **the same underlying information**, the **decisions varied**. Merely changing the phrasing or adding unrelated details can significantly alter people's choices. Our minds are **susceptible to cognitive biases and illusions, even in the face of factual data**.
 
-This finding implies that **interacting with data is not purely an objective process**. How we cognitively engage with data matters. While we can use data to enhance objectivity, it can reinforce pre-existing beliefs if not approached critically. This tendency can **strengthen our existing convictions instead of providing new insights**, counteracting the goal of objectivity and learning.
-
-Your decision-making ability is not always at its peak, especially when you're **sleep-deprived, hungry, emotionally stressed, or under significant pressure**. These biological and emotional states can impact your ability to make optimal decisions. It's a misconception to believe that sheer willpower or extensive knowledge about decision-making can always lead to the best outcomes.
-
 
 ![](assets/images/arch/iStock-1333976612.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by iStock
 </div>
+
+This finding implies that **interacting with data is not purely an objective process**. How we cognitively engage with data matters. While we can use data to enhance objectivity, it can reinforce pre-existing beliefs if not approached critically. This tendency can **strengthen our existing convictions instead of providing new insights**, counteracting the goal of objectivity and learning.
+
+Your decision-making ability is not always at its peak, especially when you're **sleep-deprived, hungry, emotionally stressed, or under significant pressure**. These biological and emotional states can impact your ability to make optimal decisions. It's a misconception to believe that sheer willpower or extensive knowledge about decision-making can always lead to the best outcomes.
 
 
 A striking example of this is found in the legal system, where studies have shown that judges can give different sentences before and after lunch. Even highly experienced and knowledgeable individuals, like judges, who make critical decisions, can be influenced by factors like hunger or the need for a break. This realization should be a cautionary note about the limitations and vulnerabilities of our decision-making processes.
@@ -340,13 +340,12 @@ A striking example of this is found in the legal system, where studies have show
 Human intuition plays a vital role in decision-making. Robert Glass provided one of the best definitions of intuitions, describing it as a function of our mind that allows it to access **a rich fund of historically gleaned information** we are not necessarily aware we possess by **a method we do not understand** ([Glass, 2006; page 125)](https://www.amazon.com/Software-Creativity-2-0-Robert-Glass/dp/0977213315). Our unawareness of such knowledge does not mean we cannot use it.
 
 
+In the context of decision-making, one of the main advantages of intuition is that accessing it is **a rapid process**, making **intuitive decisions straightforward**. Intuition is particularly useful for **low-value decisions** with low stakes, and **a quick resolution is preferable**. As we'll explore in future discussions on prioritization and decisiveness, seeking perfection in every decision is impractical due to limited time and energy. Therefore, it's essential to choose where to focus your efforts.
+
 ![](assets/images/arch/iStock-1193842896.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by iStock
 </div>
-
-
-In the context of decision-making, one of the main advantages of intuition is that accessing it is **a rapid process**, making **intuitive decisions straightforward**. Intuition is particularly useful for **low-value decisions** with low stakes, and **a quick resolution is preferable**. As we'll explore in future discussions on prioritization and decisiveness, seeking perfection in every decision is impractical due to limited time and energy. Therefore, it's essential to choose where to focus your efforts.
 
 Intuition is especially appropriate under certain conditions:
 * **Time Pressure**: When time is limited and a detailed analysis isn't feasible, intuition can guide you.
