@@ -49,7 +49,7 @@
 * Architects should stand on three legs: skills, impact, and leadership.
 
 ### Skills
-* A typical skillset of an architect includes hard (technical) skills, soft (people & social) skills, product development, and business skills.
+* A typical skillset of an architect includes hard (technical) skills, soft (people & social) skills, product development, business skills, and decision-making skills.
 
 ### Impact
 * Architects' work is evaluated based on their impact on the organization. 
@@ -65,6 +65,13 @@
 * Hiring architects requires constantly raising the bar to ensure a strong and diverse team structure.  
 
 ## Doing Architecture: Introduction
+
+### Decision Intelligence in IT Architecture
+* Decision intelligence is the discipline of turning information into better actions.
+* A decision involves more than just selecting from available options; it represents a commitment of resources you cannot take back.
+* Many factors make the decision-making process more or less complex, such as the number of options, costs, cognitive load, emotions, and access to information. 
+* Decision-making is a human activity subject to human biases and limitations. Fundamental biases influencing decision-making include outcome, hindsight, and confirmation bias.
+* Data can significantly include decision-making, But data do not guarantee objectivity and can sometimes lead to even more subjectivity.
 
 ### The Culture Map: Architects' Culture Mindfield Compass
 * I have found the work of Erin Meyer, The Culture Map, to be a beneficial tool for architects to work harmoniously with people from various cultures and backgrounds.
