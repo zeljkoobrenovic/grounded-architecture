@@ -78,10 +78,9 @@ Architects will have two roles concerning decision-making:
 
 Essential decision making skill include:
 * Understanding tha a decision is an irrevocable allocation of resources: money, human effort, time, physical actions, opportunities.
-* Know the basic of **decision intelligence** - the discipline of turning information into better action at any scale and in any setting. 
+* Know the basic of **[decision intelligence](decision-intelligence)** - the discipline of turning information into better action. 
 * Understand key problems of poor decision-making, such as the **outcome bias**, and how to deal with it.
 * Know when to use **intuition**, and the value of clairvoyance.
-* Know key reasons 
 * Understand that there is no such things as not making a decision. You are more likley making the implicit decision to delay, postpone, or deprioritize a decision.
 
  
