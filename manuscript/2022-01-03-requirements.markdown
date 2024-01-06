@@ -2,8 +2,7 @@
 
 # Goals {#goals}
 
-![](assets/images/arch/iStock-462294849.jpg)
-^image by istock^
+![image by istock](assets/images/arch/iStock-462294849.jpg)
 
 **IN THIS SECTION, YOU WILL:** Understand the requirements I identified for an architecture function in complex organizations.
 
@@ -14,8 +13,7 @@ A> * I identified the following needs that an architecture function should suppo
 
 Considering the scale and complexity of the organizational context I operated in, it was apparent that conventional approaches of doing architecture that rely on manual processes need to be revised. 
 
-![](assets/images/stress-gc7a712a2f_1920.jpg)
-^image by gerd altmann from pixabay^
+![image by gerd altmann from pixabay](assets/images/stress-gc7a712a2f_1920.jpg)
 
 ## Goals
 More specifically, I identified the following needs that an architecture function should support.
