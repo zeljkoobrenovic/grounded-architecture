@@ -43,6 +43,7 @@ As a part of my work on Grounded Architecture, I also provided several guiding p
   * [Leadership](#leadership)
   * [Architects' Career Paths](#career)
 * [Doing Architecture](#doing-architecture):
+  * [Decision Intelligence in IT Architecture](decision-intelligence)
   * [Culture Map: Architects' Culture Mindfield Compass](#culture-map)
   * [Managing Organization Complexity: Six Simple Rules](#six-simple-rules)
   * [Product Development and The Build Trap](#product-development)
