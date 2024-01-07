@@ -2,8 +2,7 @@
 
 # Summary {#summary}
 
-![](assets/images/arch/road-g04cf0c3f8_1920.jpg)
-^image by gerd altmann from pixabay^
+![image by gerd altmann from pixabay](assets/images/arch/road-g04cf0c3f8_1920.jpg)
 
 **IN THIS SECTION, YOU WILL:** Look back at the content in this book.
 
@@ -25,8 +24,7 @@ Figure 1 shows the structure of the Grounded Architecture consisting of three el
 * [People Foundation](#people),
 * [Architecture Activities Platform](#activities-platform).
 
-![](assets/images/model.png)
-***Figure 1:** The structure of Grounded Architecture.*
+![Figure 1: The structure of Grounded Architecture.](assets/images/model.png)
 
 The *[Data Foundation](#data)* ensures that architects can make data-informed decisions based on a real-time and complete overview of the organization's technology landscape.
 
@@ -43,6 +41,7 @@ As a part of my work on Grounded Architecture, I also provided several guiding p
   * [Leadership](#leadership)
   * [Architects' Career Paths](#career)
 * [Doing Architecture](#doing-architecture):
+  * [Decision Intelligence in IT Architecture](#decision-intelligence)
   * [Culture Map: Architects' Culture Mindfield Compass](#culture-map)
   * [Managing Organization Complexity: Six Simple Rules](#six-simple-rules)
   * [Product Development and The Build Trap](#product-development)

@@ -69,8 +69,7 @@ Effective goal setting involves **understanding your priorities and opportunitie
 with your opportunities or without knowing your priorities. By identifying **what matters most** to you and **discarding
 others' non-priorities**, you can focus on what's truly important.
 
-Common mistakes in goal setting include creating goals that are either **too vague**, leading to deprioritization, or **too concrete**, potentially harming
-well-being. The solution lies in having **layered goals**, each serving different purposes. In managerial sciences, goals are classified into three types: outcome, performance, and process goals:
+Common mistakes in goal setting include creating goals that are either **too vague**, leading to deprioritization, or **too concrete**. The solution lies in having **layered goals**, each serving different purposes. In managerial sciences, goals are classified into three types: outcome, performance, and process goals:
 
 * **Outcome goals** represent the ultimate win but might be vague and influenced by external factors. An example is aiming to be as healthy
 as possible, which is difficult to measure and control.
@@ -88,7 +87,7 @@ circumstances.
 
 ### Aligning Goals: The Principal-Agent Problem
 
-One of the common problems with goal setting in complex organizations is the **principal-agent problem**. This concept from economics highlights a common issue in business and personal decision-making: **the interests of the decision-maker (agent) differ from those of the owner or principal**. For example, the owners (principals) may prioritize growth in a business, while the managers (agents) might seek personal benefits like increased leisure time or higher salaries. This conflict of interest can lead to mismanagement if addressed. In IT, one typical issue is software technology selections. Individual teams may prefer to use different technologies based on their knowledge and personal references. However, allowing each team total freedom may increase the complexity and diversity of the technology landscape. But for an IT organization, it is usually better to keep the number of technologies we use to a minimum to efficiently train new people, maintain our code, and support moves between teams.
+One of the common problems with goal setting in complex organizations is the **principal-agent problem**. This concept from economics highlights a common issue in business and personal decision-making: **the interests of the decision-maker (agent) differ from those of the owner or principal**. For example, the owners (principals) may prioritize growth in a business, while the managers (agents) might seek personal benefits like increased leisure time or higher salaries. This conflict of interest can lead to mismanagement if addressed. In IT, one typical issue is software technology selections. Individual teams may prefer to use different technologies based on their knowledge and personal preferences. However, allowing each team total freedom may increase the complexity and diversity of the technology landscape. But for an IT organization, it is usually better to keep the number of technologies we use to a minimum to efficiently train new people, maintain our code, and support moves between teams.
 
 The principal **must establish rules or constraints** to **align the agent's decisions with their interests**. This concept can also apply to personal decision-making, particularly in balancing short-term desires and long-term goals.
 
@@ -145,7 +144,7 @@ A lot of the work of IT architects is creating visualizations and abstractions t
 
 #### Emotional impact
 
-If a decision doesn't evoke strong emotions or significantly affect you emotionally, it tends to be easier. Conversely, decisions that stir up intense emotions or leave you highly agitated are more difficult.
+If a decision doesn't **evoke strong emotions** or significantly affect you emotionally, it tends to be easier. Conversely, decisions that stir up intense emotions or leave you highly agitated are more difficult.
 
 For instance, the company's decision to use only one frontend programming language significantly affects people unfamiliar with the choice, as they cannot perform at a senior level in new technology for a long time and need to learn many new things. Many people negatively affected by this choice may decide to leave and find a job where they can work with technologies they are experts in. So, a simple technological decision quickly becomes a personal career-making choice and an HR issue.
 
@@ -182,19 +181,19 @@ Finally, adversarial dynamics impact decision-making. When you face **competitio
 
 ### Factor Influencing Decisiveness
 
-Even when decisions can be made quickly, we may still need to be more confident. People can be indecisive for various reasons. 
+Even when decisions can be made quickly, we may still be indecisive. People can be indecisive for various reasons. 
 
 #### Bad habits
 
-One common cause of indecisiveness is a bad habit. Many don't recognize that avoiding a decision is, in itself, a decision. Delaying, postponing, or deprioritizing the decision-making process is a resulting implicit choice.
+One common cause of indecisiveness is a bad habit. Many don't recognize that **avoiding a decision is, in itself, a decision**. Delaying, postponing, or deprioritizing the decision-making process is a resulting implicit choice.
 
 #### Overwhelmed by numerous decisions
 
-Indecisiveness can stem from being overwhelmed by numerous decisions, especially those of lower priority. Our cognitive capacity is limited; we can't focus intensely on everything simultaneously. If too much attention is devoted to trivial choices, it leaves less mental bandwidth for more significant decisions. In essence, indecisiveness may indicate a struggle to recognize and prioritize what truly matters. It highlights the need for intentional effort to allocate time and thought to key decisions aligned with one's priorities. This intentionality is crucial for effective decision-making.
+Indecisiveness can stem from being **overwhelmed by numerous decisions**, especially those of lower priority. **Our cognitive capacity is limited**; we can't focus intensely on everything simultaneously. If **too much attention is devoted to trivial choices**, it leaves less mental bandwidth for more significant decisions. In essence, indecisiveness may indicate a struggle to recognize and prioritize what truly matters. It highlights the need for intentional effort to allocate time and thought to key decisions aligned with one's priorities. This intentionality is crucial for effective decision-making.
 
 #### Emotions and grief
 
-Indecisiveness can also arise from emotional responses, mainly **when all options are undesirable((. In such cases, the most practical approach is to choose the least bad option. After thoroughly evaluating the choices and identifying the least detrimental ones, proceeding with that decision is essential.
+Indecisiveness can also arise from emotional responses, mainly **when all options are undesirable**. In such cases, the most practical approach is to choose the least bad option. After thoroughly evaluating the choices and identifying the least detrimental ones, proceeding with that decision is essential.
 
 However, people often become overwhelmed by emotions like **grief or frustration** when faced with **only unfavorable choices**. This emotional response can lead to a futile search for better options, hoping for new information that realistically won't appear. Once it's clear that no better options will emerge, it **takes courage to move** forward and execute the chosen path.
 

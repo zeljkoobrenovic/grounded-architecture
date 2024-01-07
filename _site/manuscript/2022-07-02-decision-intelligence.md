@@ -2,8 +2,7 @@
 
 # Decision Intelligence in IT Architecture {#decision-intelligence}
 
-![](assets/images/arch/iStock-1365878406.jpg)
-^image by istock^
+![image by istock](assets/images/arch/iStock-1365878406.jpg)
 
 **IN THIS SECTION, YOU WILL:**  Learn the basics of decision intelligence, the discipline of turning information into better actions, and its relevance for IT architecture practice.
 
@@ -29,8 +28,7 @@ A> *Excessive complexity is nature’s punishment for organizations that are una
 
 Let's starts wit some basics: definition of a decisions, outcomes, goals, and biases.
 
-![](assets/images/arch/iStock-1194231226.jpg)
-^image by istock^
+![image by istock](assets/images/arch/iStock-1194231226.jpg)
 
 ### Decision Is More Than Selecting Among Options
 
@@ -63,8 +61,7 @@ If you realize the **value of perfect information is low** for a particular deci
 
 Decisions are **steering wheels for reaching our goals**. Consequently, it is crucial to understand and define goals properly. And to understand if there is a decision to be made at all.
 
-![](assets/images/arch/iStock-1301200404.jpg)
-^image by istock^
+![image by istock](assets/images/arch/iStock-1301200404.jpg)
 
 ### Setting Goals
 
@@ -72,8 +69,7 @@ Effective goal setting involves **understanding your priorities and opportunitie
 with your opportunities or without knowing your priorities. By identifying **what matters most** to you and **discarding
 others' non-priorities**, you can focus on what's truly important.
 
-Common mistakes in goal setting include creating goals that are either **too vague**, leading to deprioritization, or **too concrete**, potentially harming
-well-being. The solution lies in having **layered goals**, each serving different purposes. In managerial sciences, goals are classified into three types: outcome, performance, and process goals:
+Common mistakes in goal setting include creating goals that are either **too vague**, leading to deprioritization, or **too concrete**. The solution lies in having **layered goals**, each serving different purposes. In managerial sciences, goals are classified into three types: outcome, performance, and process goals:
 
 * **Outcome goals** represent the ultimate win but might be vague and influenced by external factors. An example is aiming to be as healthy
 as possible, which is difficult to measure and control.
@@ -91,7 +87,7 @@ circumstances.
 
 ### Aligning Goals: The Principal-Agent Problem
 
-One of the common problems with goal setting in complex organizations is the **principal-agent problem**. This concept from economics highlights a common issue in business and personal decision-making: **the interests of the decision-maker (agent) differ from those of the owner or principal**. For example, the owners (principals) may prioritize growth in a business, while the managers (agents) might seek personal benefits like increased leisure time or higher salaries. This conflict of interest can lead to mismanagement if addressed. In IT, one typical issue is software technology selections. Individual teams may prefer to use different technologies based on their knowledge and personal references. However, allowing each team total freedom may increase the complexity and diversity of the technology landscape. But for an IT organization, it is usually better to keep the number of technologies we use to a minimum to efficiently train new people, maintain our code, and support moves between teams.
+One of the common problems with goal setting in complex organizations is the **principal-agent problem**. This concept from economics highlights a common issue in business and personal decision-making: **the interests of the decision-maker (agent) differ from those of the owner or principal**. For example, the owners (principals) may prioritize growth in a business, while the managers (agents) might seek personal benefits like increased leisure time or higher salaries. This conflict of interest can lead to mismanagement if addressed. In IT, one typical issue is software technology selections. Individual teams may prefer to use different technologies based on their knowledge and personal preferences. However, allowing each team total freedom may increase the complexity and diversity of the technology landscape. But for an IT organization, it is usually better to keep the number of technologies we use to a minimum to efficiently train new people, maintain our code, and support moves between teams.
 
 The principal **must establish rules or constraints** to **align the agent's decisions with their interests**. This concept can also apply to personal decision-making, particularly in balancing short-term desires and long-term goals.
 
@@ -114,8 +110,7 @@ In essence, this question helps assess the decision-making landscape, the openne
 
 Some decisions are easier to make, and in some situations, we can make decisions easier. Here, we explore key factors influencing decision-making complexity and decisiveness.
 
-![](assets/images/arch/iStock-1043738948.jpg)
-^image by istock^
+![image by istock](assets/images/arch/iStock-1043738948.jpg)
 
 ### Decision-Making Complexity
 
@@ -149,7 +144,7 @@ A lot of the work of IT architects is creating visualizations and abstractions t
 
 #### Emotional impact
 
-If a decision doesn't evoke strong emotions or significantly affect you emotionally, it tends to be easier. Conversely, decisions that stir up intense emotions or leave you highly agitated are more difficult.
+If a decision doesn't **evoke strong emotions** or significantly affect you emotionally, it tends to be easier. Conversely, decisions that stir up intense emotions or leave you highly agitated are more difficult.
 
 For instance, the company's decision to use only one frontend programming language significantly affects people unfamiliar with the choice, as they cannot perform at a senior level in new technology for a long time and need to learn many new things. Many people negatively affected by this choice may decide to leave and find a job where they can work with technologies they are experts in. So, a simple technological decision quickly becomes a personal career-making choice and an HR issue.
 
@@ -186,19 +181,19 @@ Finally, adversarial dynamics impact decision-making. When you face **competitio
 
 ### Factor Influencing Decisiveness
 
-Even when decisions can be made quickly, we may still need to be more confident. People can be indecisive for various reasons. 
+Even when decisions can be made quickly, we may still be indecisive. People can be indecisive for various reasons. 
 
 #### Bad habits
 
-One common cause of indecisiveness is a bad habit. Many don't recognize that avoiding a decision is, in itself, a decision. Delaying, postponing, or deprioritizing the decision-making process is a resulting implicit choice.
+One common cause of indecisiveness is a bad habit. Many don't recognize that **avoiding a decision is, in itself, a decision**. Delaying, postponing, or deprioritizing the decision-making process is a resulting implicit choice.
 
 #### Overwhelmed by numerous decisions
 
-Indecisiveness can stem from being overwhelmed by numerous decisions, especially those of lower priority. Our cognitive capacity is limited; we can't focus intensely on everything simultaneously. If too much attention is devoted to trivial choices, it leaves less mental bandwidth for more significant decisions. In essence, indecisiveness may indicate a struggle to recognize and prioritize what truly matters. It highlights the need for intentional effort to allocate time and thought to key decisions aligned with one's priorities. This intentionality is crucial for effective decision-making.
+Indecisiveness can stem from being **overwhelmed by numerous decisions**, especially those of lower priority. **Our cognitive capacity is limited**; we can't focus intensely on everything simultaneously. If **too much attention is devoted to trivial choices**, it leaves less mental bandwidth for more significant decisions. In essence, indecisiveness may indicate a struggle to recognize and prioritize what truly matters. It highlights the need for intentional effort to allocate time and thought to key decisions aligned with one's priorities. This intentionality is crucial for effective decision-making.
 
 #### Emotions and grief
 
-Indecisiveness can also arise from emotional responses, mainly **when all options are undesirable((. In such cases, the most practical approach is to choose the least bad option. After thoroughly evaluating the choices and identifying the least detrimental ones, proceeding with that decision is essential.
+Indecisiveness can also arise from emotional responses, mainly **when all options are undesirable**. In such cases, the most practical approach is to choose the least bad option. After thoroughly evaluating the choices and identifying the least detrimental ones, proceeding with that decision is essential.
 
 However, people often become overwhelmed by emotions like **grief or frustration** when faced with **only unfavorable choices**. This emotional response can lead to a futile search for better options, hoping for new information that realistically won't appear. Once it's clear that no better options will emerge, it **takes courage to move** forward and execute the chosen path.
 
@@ -214,8 +209,7 @@ Decision-making is a human activity subject to human ingenuity, as well as biase
 
 The risk in decision-making is developing an **outcome bias**, where you **focus too much on the results** rather than the quality of the decision-making process. You're learning the wrong lesson if you experience an unlucky result and mistakenly conclude that you chose a bad option. Such wrong interpretation could lead you to make wrong choices in the future.
 
-![](assets/images/arch/iStock-1400056155.jpg)
-^image by istock^
+![image by istock](assets/images/arch/iStock-1400056155.jpg)
 
 As mentioned earlier, an outcome is distinct from a decision; the result follows a decision. It's entirely possible to make a sound decision but still end up with an unfavorable outcome. It's important to remember that the decision-making process, **randomness, or luck influence outcomes**. Luck is **beyond our control** and often a significant factor in complex situations. 
 
@@ -230,8 +224,7 @@ Consider what factors the decision-maker took into account, how they gathered in
 Without recording this process, it's challenging to judge the quality of decisions made by yourself or others, hindering personal growth in decision-making skills.
 The key takeaway is **the importance of documenting the decision-making process**. This documentation helps distinguish between the influences of luck and skill in outcomes, ensuring you learn the correct lessons from your experiences. Putting more effort into recording decision processes is vital for this analysis.
 
-![](assets/images/arch/iStock-1394993248.jpg)
-^image by istock^
+![image by istock](assets/images/arch/iStock-1394993248.jpg)
 
 ### Confirmation Bias
 
@@ -243,8 +236,7 @@ Businesses are increasingly hiring data scientists to make what they believe are
 
 The tendency to selectively interpret data to confirm pre-existing beliefs is a typical example of a confirmation bias. Complex **mathematical analysis doesn't solve this bias**; it can even obscure it. Often, even if meticulously done, extensive data analysis ends up being overlooked or misinterpreted through confirmation bias. This results in decisions that are no different than if the data were never analyzed. The critical problem is the tendency to **adjust interpretations after seeing the data**.
 
-![](assets/images/arch/iStock-1307396842.jpg)
-^image by istock^
+![image by istock](assets/images/arch/iStock-1307396842.jpg)
 
 The solution to counter confirmation bias involves **setting clear objectives before examining the data**. Think about what the data means to you before seeing it. This approach helps make truly data-driven decisions, as it counters inherent biases in human thinking.
 
@@ -254,8 +246,7 @@ To use data effectively for generating questions and finding answers, separate y
 
 In a well-known behavioral economics study, researchers presented decision-makers with identical facts but used **different wording**. Despite **the same underlying information**, the **decisions varied**. Merely changing the phrasing or adding unrelated details can significantly alter people's choices. Our minds are **susceptible to cognitive biases and illusions, even in the face of factual data**.
 
-![](assets/images/arch/iStock-1333976612.jpg)
-^image by istock^
+![image by istock](assets/images/arch/iStock-1333976612.jpg)
 
 This finding implies that **interacting with data is not purely an objective process**. How we cognitively engage with data matters. While we can use data to enhance objectivity, it can reinforce pre-existing beliefs if not approached critically. This tendency can **strengthen our existing convictions instead of providing new insights**, counteracting the goal of objectivity and learning.
 
@@ -269,8 +260,7 @@ Human intuition plays a vital role in decision-making. Robert Glass provided one
 
 In the context of decision-making, one of the main advantages of intuition is that accessing it is **a rapid process**, making **intuitive decisions straightforward**. Intuition is particularly useful for **low-value decisions** with low stakes, and **a quick resolution is preferable**. As we'll explore in future discussions on prioritization and decisiveness, seeking perfection in every decision is impractical due to limited time and energy. Therefore, it's essential to choose where to focus your efforts.
 
-![](assets/images/arch/iStock-1193842896.jpg)
-^image by istock^
+![image by istock](assets/images/arch/iStock-1193842896.jpg)
 
 Intuition is especially appropriate under certain conditions:
 * **Time Pressure**: When time is limited and a detailed analysis isn't feasible, intuition can guide you.
@@ -283,8 +273,7 @@ Conversely, you should avoid relying on intuition too much in situations where m
 
 Decision-making has evolved beyond pen and paper, with data playing a crucial role in modern methods. Data, like the one I use in [Data Foundation](#data), while visually appealing and powerful when used correctly, is **only a tool to assist** in making informed decisions. It's a means to an impactful end, but **without purposeful application, data is ineffective**.
 
-![](assets/images/arch/iStock-1316937637.jpg)
-^image by istock^
+![image by istock](assets/images/arch/iStock-1316937637.jpg)
 
 **Data has limitations**. Just as not everything written in a book is true, data can be **misleading or incomplete**. It's a collection of information recorded by humans, subject to errors and omissions.
 
@@ -299,8 +288,7 @@ Cassie Kozyrkov classifies [techniques for the use of data into three groups](ht
 
 When used correctly, data and the techniques mentioned can enable us to ask better questions and give better answers.
 
-![](assets/images/arch/iStock-1286627625.jpg)
-^image by istock^
+![image by istock](assets/images/arch/iStock-1286627625.jpg)
 
 **Good questions** often stem from **being well-informed**, much like gaining insight from looking out of a window in a dark room. Analytics is a discipline that uses data in this fashion, providing a view of the available information. It helps identify viable options, reasonable assumptions, and meaningful questions. Data and Analytics can inspire better questioning by revealing insights that were previously unseen.
 
@@ -314,8 +302,7 @@ No matter which how you plan to use data, **full information is always preferabl
 
 Effective decision-making often involves recognizing that **you might not be the sole decision-maker**. In organizations, it's crucial to identify the actual decision-makers and understand how decision responsibility is distributed among them. Mastering this skill is essential for navigating organizational decision-making processes. It's important to question who really has the final say in decisions. In many cases, decision-making is more complex than it appears.
 
-![](assets/images/arch/iStock-1198639725.jpg)
-^image by istock^
+![image by istock](assets/images/arch/iStock-1198639725.jpg)
 
 **Group decision-making** offers significant advantages. While you might believe you have the best solutions, **incorporating diverse perspectives** can help **cover your blind spots**. Multiple decision-makers can **counterbalance the extreme tendencies** of an individual and compensate for **human limitations like fatigue**.
 

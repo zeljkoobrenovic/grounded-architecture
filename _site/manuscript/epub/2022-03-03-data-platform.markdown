@@ -104,7 +104,7 @@ While each organization will have its unique sets of data, here are some tips I 
 
 The Data Foundation can provide lots of data. Sometimes, as in an ordinary map or atlas, such data could be helpful for those who want to orient themselves and understand the context. But with a proper mindset, you can obtain more insights from such data.
 
-Finding the right ways to interpret and use data requires active effort. In other words, the data can give you the answers, but [you need to bring questions](https://en.wikipedia.org/wiki/42_(number)#The_Hitchhiker's_Guide_to_the_Galaxy). Here are some of the questions you can ask when you have data:
+Finding the right ways to interpret and use data requires active effort. In other words, the data can give you the answers, but you need to bring questions. Here are some of the questions you can ask when you have data:
 * **Are we aligned and going in the same direction?** Source code overviews, public cloud usage explorers, or tech radars can highlight differences among systems and teams and trigger discussions and actions.
 * **Are we using technology optimally?** Comparing usage trends between teams can show interesting outliners (both positive and negative).
 * **Are there indicators of poor code quality?** Too large systems, duplication, long units, or long files.
