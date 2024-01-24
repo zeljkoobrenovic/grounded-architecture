@@ -42,7 +42,7 @@ As a part of my work on Grounded Architecture, I also provided several guiding p
   * [Impact](#impact)
   * [Leadership](#leadership)
   * [Architects' Career Paths](#career)
-* [Doing Architecture](#doing-architecture):
+* [Doing Architecture: Inspirations](#doing-architecture):
   * [Decision Intelligence in IT Architecture](#decision-intelligence)
   * [Culture Map: Architects' Culture Mindfield Compass](#culture-map)
   * [Managing Organization Complexity: Six Simple Rules](#six-simple-rules)

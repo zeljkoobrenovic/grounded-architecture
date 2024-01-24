@@ -1,6 +1,6 @@
 ---
 layout: post
-section: "Doing Architecture"
+section: "Doing Architecture: Inspirations"
 title: "The Culture Map: Architects' Culture Mindfield Compass"
 position: 7007
 date:   2021-10-21 21:12:01 +0100

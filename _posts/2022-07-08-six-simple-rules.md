@@ -1,6 +1,6 @@
 ---
 layout: post
-section: "Doing Architecture"
+section: "Doing Architecture: Inspirations"
 title: "Managing Organizational Complexity: Six Simple Rules"
 position: 7008
 date:   2021-10-21 21:12:01 +0100
