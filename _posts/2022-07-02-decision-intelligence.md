@@ -352,7 +352,7 @@ Intuition is especially appropriate under certain conditions:
 * **Expertise**: If you have experience in a particular area, relying on intuition makes sense, as you've likely faced similar decisions before. In contrast, in unfamiliar contexts, intuition may not be reliable.
 * **Unstructured Decisions**: Intuition can be valuable for decisions that lack a clear framework, like judging the quality of art. Expertise in the relevant field enhances the effectiveness of intuitive judgments.
 
-Conversely, you should avoid relying on intuition too much in situations where more effort is warranted, including those with ample time, high importance, lack of expertise, and a structured decision-making process. For instance, as a trained statistician playing card games, **calculating probabilities** can give you an advantage over others **relying solely on intuition**.
+Conversely, you should avoid relying on intuition too much in situations where more effort is warranted, including those with ample time, high importance, lack of expertise, and a structured decision-making process.
 
 <br>
 ## Improving Decision Making With Data and Tools
