@@ -46,7 +46,7 @@ As a part of my work on Grounded Architecture, I also provide several guiding pr
   * [Impact](#impact)
   * [Leadership](#leadership)
   * [Architects' Career Paths](#career)
-* [Doing Architecture](#doing-architecture), where I introduce several helpful principles and ideas for running the Grounded Architecture practice in complex organizations:
+* [Doing Architecture: Inspirations](#doing-architecture), where I introduce several resources that I use as inspiration for running the Grounded Architecture practice in complex organizations:
   * [Decision Intelligence in IT Architecture](#decision-intelligence)
   * [Culture Map: Architects' Culture Mindfield Compass](#culture-map)
   * [Managing Organization Complexity: Six Simple Rules](#six-simple-rules)
