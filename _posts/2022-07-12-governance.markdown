@@ -8,7 +8,7 @@ author: by Željko Obrenović (obren.io)
 icon: pragmatics.png
 permalink: governance
 timetoread: 15 min
-excerpt: "Grounded Architecture supports governance models adaptable to organizations' complex and diverse needs. I see a technology governance model as a well-balanced hybrid of three different styles of governing: nudging, taxes, and mandates and bans."
+excerpt: "Architecture practice should support governance models adaptable to organizations' complex and diverse needs. I see a technology governance model as a well-balanced hybrid of three different styles of governing: nudging, taxes, and mandates and bans."
 
 ---
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
@@ -20,7 +20,7 @@ Image by <a href="https://pixabay.com/nl/users/nonbirinonko-3101900/?utm_source=
 >
 > **KEY POINTS:**
 >
-> * Grounded Architecture supports governance models adaptable to organizations' complex and diverse needs. A technology governance model should be a well-balanced hybrid of three different styles of governing: mandates and bans, taxes, and nudging.
+> * Architecture practice should support governance models adaptable to organizations' complex and diverse needs. A technology governance model should be a well-balanced hybrid of three different styles of governing: mandates and bans, taxes, and nudging.
 > * Nudging is a form of governing where you create subtle or indirect suggestions influencing someone's behavior or decision-making without forcing them or limiting their freedom of choice.
 > * Governing with taxes (economic incentives) is a form of guiding in which people are not forbidden to make some decisions but need to "pay" some form of taxes on used resources.
 > * With mandates and bans, you guide people by explicitly defining what they should or should not do.
@@ -41,13 +41,14 @@ Image by <a href="https://pixabay.com/nl/users/nonbirinonko-3101900/?utm_source=
     }
 </style>
 
-Grounded Architecture supports governance models adaptable to organizations' complex and diverse needs. By governing, I mean guiding technology **choices in the organization in a particular direction** aligned with the strategy. I see a technology governance model as a well-balanced hybrid of three different styles of governing:
+Architecture practice should support governance models adaptable to organizations' complex and diverse needs. By governing, I mean guiding technology **choices in the organization in a particular direction** aligned with the strategy. I see a technology governance model as a well-balanced hybrid of three different styles of governing:
 * **nudging**,
 * **taxes** (economic incentives), and
 * **mandates and bans**.
 
-Grounded Architecture supports governance models **adaptable to organizations' complex and diverse needs**.
-
+<div class="quote">
+Architecture practice should support governance models <b>adaptable to organizations' complex and diverse needs</b>.
+</div>
 <br>
 ## Nudging
 
@@ -81,7 +82,7 @@ In architecture, nudges could include:
 
 Nudges can frequently lead to better alignment and more harmonization without the negative consequences of mandates, bans, or taxation.
 
-Grounded Architecture is well aligned with ideas of nudging. I frequently designed many [Data Foundation](data) tools to **highlight areas and issues** we wanted people to improve. And the [People Foundation](people) can create mechanisms for sharing experiences, promoting **positive examples**, and capturing lessons learned to help people to make better, more informed decisions. And in the [Architecture Activities Platform](activities-platform), I use the operating model that stimulates people to make decisions autonomously but **nudges them to stay well-aligned** and connected to the organizational strategic direction.
+Grounded Architecture is well aligned with ideas of nudging. I designed many [Data Foundation](data) tools to **highlight areas and issues** we wanted (nudged) people to improve. And the [People Foundation](people) can create mechanisms for sharing experiences, promoting **positive examples**, and capturing lessons learned to help people to make better, more informed decisions. And in the [Architecture Activities Platform](activities-platform), I use the operating model that stimulates people to make decisions autonomously but **nudges them to stay well-aligned** and connected to the organizational strategic direction.
 
 
 <br>
@@ -100,7 +101,7 @@ Governing with taxes is a form of guiding in which people are not forbidden to m
 Image by <a href="https://pixabay.com/users/stevepb-282134/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=522549">Steve Buissinne</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=522549">Pixabay</a>
 </div>
 
-The role of Grounded Architecture in this form of governance should be to ensure that "taxation" is **data-driven and transparent** and to create efficient feedback loops on critical metrics related to "taxes."
+The role of architecture practice in this form of governance should be to ensure that "taxation" is **data-driven and transparent** and to create efficient feedback loops on critical metrics related to "taxes."
 
 The [Data Foundation](data) can include and provide all **data regarding "taxes,"** for instance, via insights based on public cloud cost reports. The People Foundation can facilitate **aligning processes**, goals, and working methods to ensure that taxation leads to desired and **meaningful change**.
 
@@ -122,7 +123,7 @@ By governing with mandates and bans, I mean guiding people by explicitly definin
 Image by <a href="https://pixabay.com/users/tumisu-148124/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2991600">Tumisu</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2991600">Pixabay</a>
 </div>
 
-The role of architecture in this form of governing should be to be **a stakeholder but not a sole owner in defining mandates and bans**. Mandates and bans frequently need to be defined in collaboration with others, such as security and legal functions. The Grounded Architecture can help by **creating clarity and providing transparency**.
+The role of architecture in this form of governing should be to be **a stakeholder but not a sole owner in defining mandates and bans**. Mandates and bans frequently need to be defined in collaboration with others, such as security and legal functions. The architecture practice can help by **creating clarity and providing transparency**.
 
 The [Data Foundation](data) is crucial in creating **clarity and transparency**, for instance, via insights security reports or maps of areas in source code or infrastructure that needed monitoring and controlling based on privacy or security requirements.
 
