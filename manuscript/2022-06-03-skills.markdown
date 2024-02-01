@@ -2,8 +2,7 @@
 
 # Skills {#skills}
 
-![](assets/images/arch/iStock-531552876.jpg)
-^image by istock^
+![image by istock](assets/images/arch/iStock-531552876.jpg)
 
 **IN THIS SECTION, YOU WILL:**  Understand that architects' skills should include a mix of technical, communication, product development, and business skills, and get valuable pointers to resources for developing these skills.
 
