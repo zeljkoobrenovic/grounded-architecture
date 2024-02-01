@@ -69,6 +69,7 @@ def copy_post(post):
                     line = line.replace('](six-simple-rules)', '](#six-simple-rules)')
                     line = line.replace('](storm)', '](#storm)')
                     line = line.replace('](decision-intelligence)', '](#decision-intelligence)')
+                    line = line.replace('](human-decisions)', '](#human-decisions)')
                     line = line.replace('](product-development)', '](#product-development)')
                     line = line.replace('](flexible-governance)', '](#flexible-governance)')
                     line = line.replace('](governance)', '](#governance)')
@@ -121,7 +122,8 @@ posts = [
     '2022-06-14-leadership.markdown',
     '2022-06-15-career-paths.markdown',
     '2022-07-01-doing-architecture.markdown',
-    '2022-07-02-decision-intelligence.md',
+    '2022-07-22-decision-intelligence.md',
+    '2022-07-23-human-decisions.md',
     '2022-07-07-culture-map.md',
     '2022-07-08-six-simple-rules.md',
     '2022-07-10-product.md',

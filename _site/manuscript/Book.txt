@@ -16,12 +16,13 @@ Part2.txt
 2022-06-15-career-paths.markdown
 Part3.txt
 2022-07-01-doing-architecture.markdown
-2022-07-02-decision-intelligence.md
 2022-07-07-culture-map.md
 2022-07-08-six-simple-rules.md
 2022-07-10-product.md
 2022-07-12-governance.markdown
 2022-07-15-economics.md
+2022-07-22-decision-intelligence.md
+2022-07-23-human-decisions.md
 Part4.txt
 2022-11-01-summary.markdown
 2022-11-04-cheat-sheet.markdown
