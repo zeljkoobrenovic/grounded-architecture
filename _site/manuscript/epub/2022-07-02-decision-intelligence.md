@@ -18,11 +18,11 @@ A> * Data can significantly include decision-making, But data do not guarantee o
 In their daily work, IT architects are involved in decision-making in several ways: 
 * By **making decisions** (e.g., moving applications from a private data center to a public cloud). 
 * By **creating mechanisms** for teams to make better decisions (e.g., via [advisory forums](https://martinfowler.com/articles/scaling-architecture-conversationally.html)).
-* By **creating [options](https://architectelevator.com/architecture/architecture-options/)** for teams to make decisions later (e.g., by creating horizontally scalable systems,  development teams have more flexibility about server sizes and numbers, as additional servers can be purchased later at a known unit cost).
+* By **creating [options](https://architectelevator.com/architecture/architecture-options/)** for teams to make decisions later.
 
-A> *Excessive complexity is nature’s punishment for organizations that are unable to make decisions.* -Gregor Hohpe
+A> *Excessive complexity is nature's punishment for organizations that are unable to make decisions.* -Gregor Hohpe
 
-**Decision intelligence** is a new discipline concerned with selecting between options. It combines the best of **applied data science**, **social science**, and **managerial science** into a unified field that helps people use data to improve their lives, businesses, and the world around them. **[Cassie Kozyrkov](https://en.wikipedia.org/wiki/Cassie_Kozyrkov)** has popularized the field of decision intelligence and created several valuable resources to understand the decision-making process. I recommended her [posts](https://www.linkedin.com/pulse/introduction-decision-intelligence-cassie-kozyrkov/) and [online lessons](https://www.linkedin.com/learning/decision-intelligence/) to all architects because decision-making is an essential part of IT architects' job. No matter what you are doing, decision intelligence is a crucial skill. The future of IT architecture will be closely related to decision intelligence. In this chapter, I summarized some of the critical lessons I learned from Cassie Kozyrkov's resources.
+No matter what architects are doing, decision intelligence is their crucial skill. **Decision intelligence** is a discipline concerned with selecting between options. It combines the best of **applied data science**, **social science**, and **managerial science** into a unified field that helps people use data to improve their lives, businesses, and the world around them. **[Cassie Kozyrkov](https://en.wikipedia.org/wiki/Cassie_Kozyrkov)** has popularized the field of decision intelligence and created several valuable resources to understand the decision-making process. I recommended her [posts](https://www.linkedin.com/pulse/introduction-decision-intelligence-cassie-kozyrkov/) and [online lessons](https://www.linkedin.com/learning/decision-intelligence/) to all architects because decision-making is an essential part of IT architects' job. In this chapter, I summarized some of the critical lessons I learned from Cassie Kozyrkov's resources and used them in practice.
 
 ## Basics of Decision-Making
 
@@ -43,7 +43,7 @@ An outcome is **a result of a decision**. It is influenced by two factors: **the
 
 We can only control our decision process. Luck is beyond our control and often plays a role in complex situations. If we only consider the outcome, we can mistakenly **attribute good luck to good decision-making skills**, and bad luck to bad decision-making skills. 
 
-To judge a decision, we should not look at the outcome only, but we need to **understand the context and information available at the time of the decision**. For instance, imagine you are driving a car on the road, and your navigation system gives you two routes you could follow, one 30 minutes shorter. You decide to follow the shortest route. But 10 minutes after you choose to follow that route, the accident happens on your route, which creates a traffic jam, where you spend an hour more than if you were following another route. Does that mean your decision was wrong and you should follow longer routes next time? No. All information known at the time of the decision pointed out that following the first route would save time and energy (and create less CO2 emission). But traffic and all realistic real-world situations have randomness, such incidents beyond your control. So you've made a wise decision, but the outcome was terrible.
+To judge a decision, we should not look at the outcome only, but we need to **understand the context and information available at the time of the decision**. For instance, imagine you are driving a car on the road, and your navigation system gives you two routes you could follow, one 30 minutes shorter. You decide to follow the shortest route. But 10 minutes after you choose to follow that route, the accident happens on your route, which creates a traffic jam, where you spend an hour more than if you were following another route. Does that mean your decision was wrong and you should follow longer routes next time? No. All information known at the time of the decision pointed out that following the first route would save time and energy. But traffic and all realistic real-world situations have randomness, such incidents beyond your control. So you've made a wise decision, but the outcome was terrible.
 
 ### Economics of Decision-Making
 
@@ -108,7 +108,7 @@ In essence, this question helps assess the decision-making landscape, the openne
 
 ## Factors Influencing Decision-Making
 
-Some decisions are easier to make, and in some situations, we can make decisions easier. Here, we explore key factors influencing decision-making complexity and decisiveness.
+Here, we explore key factors influencing decision-making complexity and decisiveness.
 
 ![image by istock](assets/images/arch/iStock-1043738948.jpg)
 
@@ -267,7 +267,7 @@ Intuition is especially appropriate under certain conditions:
 * **Expertise**: If you have experience in a particular area, relying on intuition makes sense, as you've likely faced similar decisions before. In contrast, in unfamiliar contexts, intuition may not be reliable.
 * **Unstructured Decisions**: Intuition can be valuable for decisions that lack a clear framework, like judging the quality of art. Expertise in the relevant field enhances the effectiveness of intuitive judgments.
 
-Conversely, you should avoid relying on intuition too much in situations where more effort is warranted, including those with ample time, high importance, lack of expertise, and a structured decision-making process. For instance, as a trained statistician playing card games, **calculating probabilities** can give you an advantage over others **relying solely on intuition**.
+Conversely, you should avoid relying on intuition too much in situations where more effort is warranted, including those with ample time, high importance, lack of expertise, and a structured decision-making process.
 
 ## Improving Decision Making With Data and Tools
 

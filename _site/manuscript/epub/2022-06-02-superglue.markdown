@@ -23,29 +23,29 @@ Architects must have good relationships with developer teams, local business sta
 
 ## Supergluing in Action: Reducing Tension among Business Functions, Product, Technology, Organization
 
-The primary value of superglue architects in complex organizations is **aligning business, product, technology, and organizational functions**. Each of these four parts has its designs or architectures.
+The primary value of superglue architects in complex organizations is **aligning business, product, technology, and organizational functions**. Each of these four parts has its own designs or architectures. 
 
-Technology, product, organization, and business functions face specific challenges. But additional problems occur when there is **tension among them** (Figure 2). This tension is a consequence of the **misalignment of these structures**. For example, we may organize teams using a well-defined domain model (organizational design). Still, if our IT system is a monolith (technical design), our teams will collaborate in a different pattern than the organizational design would suggest. On the other hand, if our teams are well aligned with the technical domain model and implementation (e.g., teams have full ownership of microservices and can deploy them independently), but the product architecture differs from the microservice modularization, we may need to change dozens of microservices when introducing relatively simple product features. Similarly, tension occurs in business objectives are misaligned with product or technology objectives (e.g., try reducing short-term costs while adding new features and migrating to the public cloud). 
+Technology, product, organization, and business functions face specific challenges. Ideally, these structures all change simultaneously and stay in perfect sync. But in practice, these structures change and move at different speeds, leading to **misalignment and tension among them** (Figure 2). For example, we may organize teams using a well-defined domain model (organizational design). Still, if our IT system is a monolith (technical design), our teams will collaborate in a different pattern than the organizational design would suggest. On the other hand, if our teams are well-aligned with the technical domain model and implementation (e.g., teams have full ownership of microservices and can deploy them independently), but the product architecture differs from the microservice modularization (e.g., product features are differently grouped than technical services supporting them), we may need to change dozens of microservices when introducing relatively simple product change. Similarly, tension occurs when business objectives are misaligned with product or technology objectives (e.g., try reducing short-term costs while adding new features and migrating to the public cloud).
 
 ![Figure 2: The tensions between technology, product, organization, and business functions.](assets/images/tension.png)
 
-The main problem of these tensions is that they **slow things down due** to miscommunications and misalignment, lead to **bad decisions** due to lack of information, introduce **unnecessary complexity**, and lead to many **missed opportunities**. Too frequently, architecture sits on the side, shouting principles and abstract ideals that everyone ignores. By **acting as a superglue**, the architecture practice can help **reduce tension** between technology, product, organization, and business functions (Figure 3). Architecture should ensure that conversations happen between the technical, product, organizational, and business functions.
+The main problem with this tension is that it can **slow things down due** to miscommunication or other misalignments, lead to **bad decisions** due to lack of information, introduce **unnecessary complexity**, and lead to **missed opportunities**. Too frequently, architecture sits on the side, shouting principles and abstract ideals that everyone ignores. 
+
+By **acting as a superglue**, the architecture practice can help **reduce tension** between technology, product, organization, and business functions, ensuring that critical conversations happen between these units. As Figure 3 illustrates, architecture should not try to be a superglue by adding new constructs between these four elements but by **bringing them closer together**. I sometimes joke that **architecture practice is a self-destructive function**, as by bringing these elements together, you are removing the need to have architecture practice.
 
 ![Figure 3: Architects should be in the middle of reducing tensions between technology, product, organization, and business functions.](assets/images/tension-architecture.png)
 
 While staying close to technology (engine room), architects must ensure that technology is serving the needs of customers and the business and that technical architecture is well aligned with the organizational design. At the same time, architects can help ensure that business, product, and organizational designs are well-informed about the state, risks, and opportunities of an organization's technology to avoid creating impractical strategies, setting unrealistic goals, or missing opportunities. More specifically, there are several **key risks** that the misalignment brings, and architects need to be aware of:
-* **Building wrong products**, as technology implementation may make incorrect assumptions not aligned with product vision and architecture. 
+* **Building wrong products**, if technology implementation makes incorrect assumptions not aligned with product requirements. 
 * **Wrong prioritization of activities**, if there are no clear business and product metrics, we may build "interesting" products that do not create value for our customers and business.
 * **Unexpected delivery delays** due to underestimation of complexity, effort, and dependencies,
-* **Duplication of effort** due to lack of awareness about other all activities and lack of business or product harmonization to facilitate building shared components,
+* **Duplication of effort** due to lack of business or product harmonization needed to facilitate building shared components,
 * **Building too complex products**, as we may create a complex configurable system to address all possible cases, but we could have decided to simplify and harmonize our processes and products and build a more straightforward technical solution.
 * **Overengineering** due to both lack of pushback to simplify products and lack of understanding of technology (e.g., use of a complex and expensive messaging middleware capable of handling millions of messages per hour for the use case where we have a few thousand messages per day),
-* **Building too simple, unscalable products**, as we may expect to simplify and harmonize our processes, but in reality, we need to support many variations and expectations as they create value for customers and businesses.
+* **Building too simple, unscalable products**, if we made assumptions that we will simplify and harmonize our processes, but in reality, we need to keep this essential complexity and support many variations as they create value for customers and businesses.
 * **Building low-quality products**, due to  creating unnecessary complexity and lack of critical knowledge and expertise in the organization,
-* **Complicated dependencies between teams that slow them down** due to suboptimal organizational design and lack of awareness of all the links between systems and people,
-* **Creating fragile, unsustainable team structures** (e.g., one or two developers in some critical technology).
-
-There will always be **essential tension** between system architecture, team organization, and product organization. Ideally, these structures all change simultaneously and stay in perfect sync. But in practice, these structures change and move at different speeds.
+* **Having complicated dependencies between teams that slow them down** due to suboptimal organizational design and lack of awareness of all the links between systems and people,
+* **Creating fragile, unsustainable team structures** (e.g., having only one or two developers in some critical technology).
 
 ## Superglue Abilities
 
@@ -64,8 +64,9 @@ Architects must have proper skill sets, possessing both knowledge and the abilit
 A typical skillset of an architect includes:
 * **Hard (technical) skills**, including extensive knowledge of both new technology and legacy technology stacks,
 * **Soft skills**,
-* **Product development knowledge**, and
-* **Business domain knowledge**.
+* **Product development knowledge**,
+* **Business domain knowledge**, and
+* **Decision-making skills**.
 
 The section [Skills](#skills) provides more details.
 

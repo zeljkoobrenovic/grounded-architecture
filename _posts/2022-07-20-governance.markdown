@@ -2,7 +2,7 @@
 layout: post
 section: "Doing Architecture: Inspirations"
 title: "Architecture Governance: Nudge, Taxation, Mandates"
-position: 7012
+position: 701
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 icon: pragmatics.png

@@ -2,7 +2,7 @@
 layout: post
 section: "Doing Architecture: Inspirations"
 title: "Decision Intelligence in IT Architecture"
-position: 7002
+position: 7022
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 icon: decision.png
@@ -47,27 +47,26 @@ Image by iStock
 > * Decision intelligence is the discipline of turning information into better actions.
 > * A decision involves more than just selecting from available options; it represents a commitment of resources you cannot take back.
 > * Many factors make the decision-making process more or less complex, such as the number of options, costs, cognitive load, emotions, and access to information. 
-> * Decision-making is a human activity subject to human biases and limitations. Fundamental biases influencing decision-making include outcome, hindsight, and confirmation bias.
 > * Data can significantly include decision-making, But data do not guarantee objectivity and can sometimes lead to even more subjectivity.
 
 <br>
-In their daily work, IT architects are involved in decision-making in several ways: 
+**Decision intelligence** is a discipline concerned with selecting between options. It combines the best of **applied data science**, **social science**, and **managerial science** into a unified field that helps people use data to improve their lives, businesses, and the world around them. **[Cassie Kozyrkov](https://en.wikipedia.org/wiki/Cassie_Kozyrkov)** has popularized the field of decision intelligence and created several valuable resources to understand the decision-making process. I recommended her [posts](https://www.linkedin.com/pulse/introduction-decision-intelligence-cassie-kozyrkov/) and [online lessons](https://www.linkedin.com/learning/decision-intelligence/) to all architects because decision-making is an essential part of IT architects' job. 
+
+In this and next chapter, I summarized some of the critical lessons I learned from Cassie Kozyrkov's resources and used them in practice. In their daily work, IT architects are involved in decision-making in several ways: 
 * By **making decisions** (e.g., moving applications from a private data center to a public cloud). 
-* By **creating mechanisms** for teams to make better decisions (e.g., via [advisory forums](https://martinfowler.com/articles/scaling-architecture-conversationally.html)).
+* By **creating mechanisms** for teams to make better decisions (e.g., [advisory forums](https://martinfowler.com/articles/scaling-architecture-conversationally.html)).
 * By **creating [options](https://architectelevator.com/architecture/architecture-options/)** for teams to make decisions later.
 
-<br>
-> *Excessive complexity is nature's punishment for organizations that are unable to make decisions.* -Gregor Hohpe
-
-<br>
-
-No matter what architects are doing, decision intelligence is their crucial skill. **Decision intelligence** is a discipline concerned with selecting between options. It combines the best of **applied data science**, **social science**, and **managerial science** into a unified field that helps people use data to improve their lives, businesses, and the world around them. **[Cassie Kozyrkov](https://en.wikipedia.org/wiki/Cassie_Kozyrkov)** has popularized the field of decision intelligence and created several valuable resources to understand the decision-making process. I recommended her [posts](https://www.linkedin.com/pulse/introduction-decision-intelligence-cassie-kozyrkov/) and [online lessons](https://www.linkedin.com/learning/decision-intelligence/) to all architects because decision-making is an essential part of IT architects' job. In this chapter, I summarized some of the critical lessons I learned from Cassie Kozyrkov's resources and used them in practice.
+In all these situations, decision intelligence is a crucial skill for architects. 
 
 
-<br>
 ## Basics of Decision-Making
 
-Let's starts wit some basics: definition of a decisions, outcomes, goals, and biases.
+Let's starts wit some basics: definition of a decisions, outcomes, goals.
+
+<div class="quote">
+"Excessive complexity is nature's punishment for organizations that are unable to make decisions." -Gregor Hohpe
+</div>
 
 ![](assets/images/arch/iStock-1194231226.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
@@ -77,7 +76,7 @@ Image by iStock
 ### Decision Is More Than Selecting Among Options
 
 
-Kozyrkov defines a decision as more than just selecting from available options. A decision represents **a commitment of resources that cannot be taken back**. These resources could be monetary, physical actions, time, or opportunities. For example, choosing between
+Kozyrkov defines a decision as more than just selecting from available options. A decision represents **an irrevocable allocation of resources**. These resources could be monetary, physical actions, time, or opportunities. For example, choosing between
 two options may seem cost-free initially. However, the chance to select the other is lost once you decide on one. This loss of opportunity is considered an irrevocable allocation of resources where the opportunity itself is valuable.
 
 If there is no irreversible allocation of resources, we cannot talk about decisions. Ivory tower architects who make "principal decisions" that no one follows are technically not making any decisions.
@@ -93,9 +92,7 @@ To judge a decision, we should not look at the outcome only, but we need to **un
 
 ### Economics of Decision-Making
 
-I've frequently been part of trivial decisions that wasted many people's time and energy. For instance, doing a three-month-long procurement process with dozens of steps involving dozens of people for a renewal of IT licenses worth a few hundred dollars per month. 
-
-Not all decisions are worthwhile the effort invested to make them. The "[**value of clairvoyance**](https://en.wikipedia.org/wiki/Value_of_information)" concept (also called the value of **perfect information**) in decision analysis can help you gauge the appropriate amount of effort, information, and resources to **invest in a decision**. 
+I've frequently been part of trivial decisions that wasted many people's time and energy. But not all decisions are worthwhile the effort invested to make them. The "[**value of clairvoyance**](https://en.wikipedia.org/wiki/Value_of_information)" concept (also called the value of **perfect information**) in decision analysis can help you gauge the appropriate amount of effort, information, and resources to **invest in a decision**. 
 
 For low-value decisions, perfectionism is unnecessary. Conversely, high-value decisions warrant a substantial investment of resources. To approach decision-making effectively, Kozyrkov recommends to:
 * Start by visualizing your decision's **potential best and worst outcomes** to understand the stakes involved.
@@ -262,100 +259,6 @@ It's okay to experience and process these emotions, but you should do it concurr
 If you're struggling to choose between options that seem equally good, consider using a simple method like flipping a coin. If the result of the coin flip leaves you feeling particularly disappointed, it might indicate that the options were more different than you initially thought. This reaction can provide insight and help you make your decision. However, if the differences between the options are minor, it's not worth spending excessive time trying to make the perfect choice. Instead, conserve your energy for more significant decisions.
 
 <br>
-## The Human Side of Decision-Making 
-
-Decision-making is a human activity subject to human ingenuity, as well as biases and limitations.
-
-
-### Outcome Bias
-
-The risk in decision-making is developing an **outcome bias**, where you **focus too much on the results** rather than the quality of the decision-making process. You're learning the wrong lesson if you experience an unlucky result and mistakenly conclude that you chose a bad option. Such wrong interpretation could lead you to make wrong choices in the future.
-
-![](assets/images/arch/iStock-1400056155.jpg)
-<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by iStock
-</div>
-
-
-As mentioned earlier, an outcome is distinct from a decision; the result follows a decision. It's entirely possible to make a sound decision but still end up with an unfavorable outcome. It's important to remember that the decision-making process, **randomness, or luck influence outcomes**. Luck is **beyond our control** and often a significant factor in complex situations. 
-
-If you only consider the outcome without understanding the context and information available when the decision was made, it can lead to **misjudging people's abilities**. You might end up rewarding or punishing people based on a mix of luck and skill without knowing how much luck contributed to their success. Therefore, it's crucial to assess whether people's successes are due to good decision-making or merely luck and not to overemphasize the outcome when evaluating decisions.
-
-
-### Hindsight Bias
-
-**Understanding decisions retrospectively** can be misleading due to hindsight bias, where things seem **obvious after the fact**, even though they weren't known at the time. Again, the accurate way to evaluate a decision is by examining the information and context available when the decision was made.
-
-Consider what factors the decision-maker took into account, how they gathered information, and the sources they used. It's also important to assess whether the amount of **information collected was appropriate** for the decision's stakes.
-
-Without recording this process, it's challenging to judge the quality of decisions made by yourself or others, hindering personal growth in decision-making skills.
-The key takeaway is **the importance of documenting the decision-making process**. This documentation helps distinguish between the influences of luck and skill in outcomes, ensuring you learn the correct lessons from your experiences. Putting more effort into recording decision processes is vital for this analysis.
-
-
-![](assets/images/arch/iStock-1394993248.jpg)
-<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by iStock
-</div>
-
-
-
-### Confirmation Bias
-
-Confirmation bias is a psychological phenomenon where **your pre-existing beliefs influence how you interpret new information**. This phenomenon means that when you encounter a fact, your perception and understanding are not entirely objective. Your interpretation, memory, and attention to this information are shaped by your beliefs, even before you encounter them.
-
-Awareness of this bias is crucial because it means **your brain may unconsciously interpret new data in a way that reinforces your pre-existing beliefs**, even when you think you're being objective. This subconscious inclination can skew your understanding and decision-making without realizing it.
-
-Businesses are increasingly hiring data scientists to make what they believe are unbiased, data-driven decisions. However, these **decisions often aren't genuinely driven by data**. For a decision to be truly data-driven, it should be the data itself guiding the choice, not preconceived notions or biases, a concept that sounds straightforward but is seldom practiced.
-
-The tendency to selectively interpret data to confirm pre-existing beliefs is a typical example of a confirmation bias. Complex **mathematical analysis doesn't solve this bias**; it can even obscure it. Often, even if meticulously done, extensive data analysis ends up being overlooked or misinterpreted through confirmation bias. This results in decisions that are no different than if the data were never analyzed. The critical problem is the tendency to **adjust interpretations after seeing the data**.
-
-![](assets/images/arch/iStock-1307396842.jpg)
-<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by iStock
-</div>
-
-The solution to counter confirmation bias involves **setting clear objectives before examining the data**. Think about what the data means to you before seeing it. This approach helps make truly data-driven decisions, as it counters inherent biases in human thinking.
-
-To use data effectively for generating questions and finding answers, separate your dataset into two parts: one for analytics and the other for statistics, and never mix them. This separation is crucial in preventing goalpost shifting after seeing the data.
-
-
-### Other Human Factors 
-
-In a well-known behavioral economics study, researchers presented decision-makers with identical facts but used **different wording**. Despite **the same underlying information**, the **decisions varied**. Merely changing the phrasing or adding unrelated details can significantly alter people's choices. Our minds are **susceptible to cognitive biases and illusions, even in the face of factual data**.
-
-
-![](assets/images/arch/iStock-1333976612.jpg)
-<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by iStock
-</div>
-
-This finding implies that **interacting with data is not purely an objective process**. How we cognitively engage with data matters. While we can use data to enhance objectivity, it can reinforce pre-existing beliefs if not approached critically. This tendency can **strengthen our existing convictions instead of providing new insights**, counteracting the goal of objectivity and learning.
-
-Your decision-making ability is not always at its peak, especially when you're **sleep-deprived, hungry, emotionally stressed, or under significant pressure**. These biological and emotional states can impact your ability to make optimal decisions. It's a misconception to believe that sheer willpower or extensive knowledge about decision-making can always lead to the best outcomes.
-
-
-A striking example of this is found in the legal system, where studies have shown that judges can give different sentences before and after lunch. Even highly experienced and knowledgeable individuals, like judges, who make critical decisions, can be influenced by factors like hunger or the need for a break. This realization should be a cautionary note about the limitations and vulnerabilities of our decision-making processes.
-
-### Intuition 
-
-Human intuition plays a vital role in decision-making. Robert Glass provided one of the best definitions of intuitions, describing it as a function of our mind that allows it to access **a rich fund of historically gleaned information** we are not necessarily aware we possess by **a method we do not understand** ([Glass, 2006; page 125)](https://www.amazon.com/Software-Creativity-2-0-Robert-Glass/dp/0977213315). Our unawareness of such knowledge does not mean we cannot use it.
-
-
-In the context of decision-making, one of the main advantages of intuition is that accessing it is **a rapid process**, making **intuitive decisions straightforward**. Intuition is particularly useful for **low-value decisions** with low stakes, and **a quick resolution is preferable**. As we'll explore in future discussions on prioritization and decisiveness, seeking perfection in every decision is impractical due to limited time and energy. Therefore, it's essential to choose where to focus your efforts.
-
-![](assets/images/arch/iStock-1193842896.jpg)
-<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by iStock
-</div>
-
-Intuition is especially appropriate under certain conditions:
-* **Time Pressure**: When time is limited and a detailed analysis isn't feasible, intuition can guide you.
-* **Expertise**: If you have experience in a particular area, relying on intuition makes sense, as you've likely faced similar decisions before. In contrast, in unfamiliar contexts, intuition may not be reliable.
-* **Unstructured Decisions**: Intuition can be valuable for decisions that lack a clear framework, like judging the quality of art. Expertise in the relevant field enhances the effectiveness of intuitive judgments.
-
-Conversely, you should avoid relying on intuition too much in situations where more effort is warranted, including those with ample time, high importance, lack of expertise, and a structured decision-making process.
-
-<br>
 ## Improving Decision Making With Data and Tools
 
 Decision-making has evolved beyond pen and paper, with data playing a crucial role in modern methods. Data, like the one I use in [Data Foundation](data), while visually appealing and powerful when used correctly, is **only a tool to assist** in making informed decisions. It's a means to an impactful end, but **without purposeful application, data is ineffective**.
@@ -379,11 +282,6 @@ Cassie Kozyrkov classifies [techniques for the use of data into three groups](ht
 
 When used correctly, data and the techniques mentioned can enable us to ask better questions and give better answers.
 
-![](assets/images/arch/iStock-1286627625.jpg)
-<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by iStock
-</div>
-
 **Good questions** often stem from **being well-informed**, much like gaining insight from looking out of a window in a dark room. Analytics is a discipline that uses data in this fashion, providing a view of the available information. It helps identify viable options, reasonable assumptions, and meaningful questions. Data and Analytics can inspire better questioning by revealing insights that were previously unseen.
 
 However, looking at data and doing **analytics itself isn't decision-making**. As a decision maker, your role is to **set priorities**, choose **relevant topics**, frame the **right questions**, and guide the analysis focus. If the analysis finds nothing intriguing, it's not a failure; it's an opportunity to explore new areas. Analytics is a vital sensory upgrade for modern decision-making, enabling a broader and deeper understanding of the information landscape.
@@ -391,31 +289,6 @@ However, looking at data and doing **analytics itself isn't decision-making**. A
 Once when we have better questions, we can also use data to give better answers. Depending on the important and type of questions you need to answer, you can get your answers via simple analytics, more complex statistical methods, or even advanced machine-learning and AI techniques. 
 
 No matter which how you plan to use data, **full information is always preferable to partial information**. If you only have **partial information**, you're **dealing with uncertainty**, and that's where **statistical methods** come in. Statistics is used when you don't have all the facts and need to manage uncertainty. They can help you balance the likelihood of a wrong decision against your data budget, considering your risk preferences. As a decision maker, it's important to **ask the right questions** and determine **which decisions are worth pursuing**. Only then should you apply advanced methods where necessary to gain more accurate answers under conditions of uncertainty.
-
-
-<br>
-## Group Decision-Making
-
-Effective decision-making often involves recognizing that **you might not be the sole decision-maker**. In organizations, it's crucial to identify the actual decision-makers and understand how decision responsibility is distributed among them. Mastering this skill is essential for navigating organizational decision-making processes. It's important to question who really has the final say in decisions. In many cases, decision-making is more complex than it appears.
-
-![](assets/images/arch/iStock-1198639725.jpg)
-<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by iStock
-</div>
-
-**Group decision-making** offers significant advantages. While you might believe you have the best solutions, **incorporating diverse perspectives** can help **cover your blind spots**. Multiple decision-makers can **counterbalance the extreme tendencies** of an individual and compensate for **human limitations like fatigue**.
-
-While group decision-making might sometimes constrain individual creativity, it also **provides safeguards against poor decisions** and **aligns individual motives with the organization's goals** (see the principal-agent problem in the next section). Having several independent decision-makers can align individual incentives with the organization's needs, addressing this problem.
-
-However, group decision-making isn't perfect. It **increases complexity** as it **requires higher decision-making skills** from each member. True **collaboration in decision-making** is more challenging than individual decision-making. It also tends to **slow down the decision process**.
-
-Moreover, the benefits of group decision-making, like balancing individual biases, **rely on the independence of the decision-makers**. If everyone is in the same room, independence can be compromised by factors like **charisma or status**, potentially allowing the loudest voice to dominate, rather than the wisest.
-
-Group settings can also **devolve into social exercises**, where **personal ego overshadows open-mindedness** to new information. Being aware of these pitfalls allows you to create rules that foster independent perspectives.
-
-The **role of the note-taker** in group settings is also influential, as is the phenomenon of **responsibility diffusion**, where **unclear responsibilities** lead to reduced individual contribution.
-
-In summary, **the more people involved in a decision, the higher the skill level required** to maximize the benefits and minimize the downsides of group decision-making. It's vital to structure the process to maintain independence, possibly by limiting decision-makers and increasing advisors. This approach distinguishes between making a decision and advocating for the execution of an already-made decision.
 
 
 <br>
@@ -433,14 +306,8 @@ In summary, **the more people involved in a decision, the higher the skill level
 
 * *Setting and Aligning Goals: How do you set and align your goals, and what challenges have you faced in this process? Are there instances where misalignment has led to ineffective decision-making?*
 
-* *Decision-Making vs. Confirming Choices: Have you ever been in a situation where you thought you were making a decision, but in reality, it was just a formality to confirm a pre-made choice? How can this awareness change your approach to future decisions?*
-
 * *Handling Complexity in Decision-Making: What factors have you found to increase the complexity of decision-making in your experience? How do you manage these complexities effectively?*
 
 * *Tackling Indecisiveness: Can you identify any habits or emotional factors contributing to your indecisiveness? What strategies can you employ to overcome these challenges?*
 
 * *Data and Decision-Making: How do you use data in your decision-making process? Are there instances where data has misled your decisions, and how can you safeguard against this in the future?*
-
-* *Balancing Intuition and Analysis: Reflect on a decision where you relied heavily on intuition. In hindsight, was this the right approach, or would a more data-driven analysis have been better?*
-
-* *Navigating Group Decision-Making: Consider your role in group decision-making scenarios. What dynamics do you observe, and how do you ensure the decision-making process is effective and balanced?*

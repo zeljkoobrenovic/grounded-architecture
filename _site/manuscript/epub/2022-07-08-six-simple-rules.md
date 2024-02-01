@@ -86,7 +86,7 @@ You can reinforce integrators by:
 ### The Role of Architecture Practice
 
 Architecture practice, in my view, should be strongly related to reinforcing integrators: 
-* Via the **[People Foundation](#people)**, Grounded Architecture can **help identify integrators** and connect them to leverage their work. 
+* Via the **[People Foundation](#people)**, architecture practice can **help identify integrators** and connect them to leverage their work. 
 * Furthermore, my view on architects as **[superglue](#superglue)** defines architects as **critical integrators** and **integrator role models** in an organization. 
 * And having a **[Data Foundation](#data)** can **support integrators with data and insights**, empowering them to do better, more informed work.
 
@@ -107,7 +107,7 @@ To increase the quantity of power, the Six Simple Rules approach recommends the 
 ### The Role of Architecture Practice
 
 Architecture practice can support increasing power quantity with the **[operating model](#activities-platform)** that promotes distributing decision-making: 
-* Grounded Architecture aims to increase the quantity of the **decision-making power** and keep architectural decision-making **distributed across the organization** and embedded in the development teams. Development teams traditionally have the best insights and most information relevant for making a decision. 
+* Via the [People Foundation](#people) you can increase the quantity of the **decision-making power** and keep architectural decision-making **distributed across the organization** and embedded in the development teams. Development teams traditionally have the best insights and most information relevant for making a decision. 
 * Additionally, the **[Data Foundation](#data)**, accessible to all interested people in the organization, can give them **data in insights that can increase their power in daily work**.
 
 ## Rule 4: Increase Reciprocity

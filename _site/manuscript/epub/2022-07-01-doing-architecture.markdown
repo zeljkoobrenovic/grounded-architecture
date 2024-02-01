@@ -8,7 +8,7 @@
 
 {pagebreak}
 
-In the following sections, I will introduce several helpful principles and ideas for running the Grounded Architecture practice in complex organizations. I focus on several topics not typically covered in IT architecture literature, drawing inspiration from different sources, including social sciences, economics, behavioral sciences, product management, and political sciences:
+In the following sections, I will introduce several resources that I use as inspiration for running the Grounded Architecture practice in complex organizations. I focus on several topics not typically covered in IT architecture literature, drawing inspiration from different sources, including social sciences, economics, behavioral sciences, product management, and political sciences:
 
 * **[Decision Intelligence in IT Architecture](#decision-intelligence)**: Decision intelligence is the discipline of turning information into better actions. The future of IT architecture will be closely related to decision intelligence. 
 * **[The Culture Map: Architects' Culture Mindfield Compass](#culture-map)**: In multinational organizations, architects will work with many different cultures. The work of Erin Meyer, The Culture Map, is a beneficial tool for architects to work harmoniously with people from various cultures and backgrounds.
