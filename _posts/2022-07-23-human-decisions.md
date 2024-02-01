@@ -182,5 +182,5 @@ In summary, **the more people involved in a decision, the higher the skill level
 * *Think about a decision where changing your perspective or how information was presented (e.g., through different wording) might have led you to a different conclusion. How does this realization affect your approach to decision-making?*
 * *Reflect on a time when your physical or emotional state might have influenced a decision. What does this tell you about the importance of being aware of your condition when making decisions?*
 * *Consider a decision where intuition played a significant role. Was the decision effective, and would you rely on intuition under similar circumstances in the future?*
-* *How do you balance the benefits of group decision-making with its challenges, such as social dynamics and the diffusion of responsibility? Can you think of a group decision that could have been improved with a different approach?*
+* *How do you balance the benefits of group decision-making with its challenges, such as social dynamics and the diffusion of responsibility?*
 
