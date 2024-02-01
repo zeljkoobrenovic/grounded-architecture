@@ -232,20 +232,12 @@ No matter which how you plan to use data, **full information is always preferabl
 
 ## Questions to Consider
 
-* *Decision-Making in IT Architecture: How do you typically approach decision-making in your professional role, and in what ways could you incorporate the principles of decision intelligence to enhance your decision-making process?*
-
-* *Excessive Complexity and Organizational Decision-Making: Have you observed instances where excessive complexity in your organization resulted from poor decision-making? How can IT architects address this, and what role can they play in simplifying decision-making processes?*
-
-* *Understanding Decisions and Opportunity Costs: Reflect on a recent significant decision you made. Were you aware of the resources you were committing and the opportunities you were preceding? How could you have evaluated these factors more effectively?*
-
-* *Outcome vs. Quality of Decision-Making: Think of a situation where the outcome of a decision didn't align with your expectations. How did you judge the quality of the decision-making process in hindsight, and did you consider the role of luck or randomness?*
-
-* *Value of Clairvoyance in Decision-Making: Consider a recent decision you faced. What would have been the value of perfect information in that scenario? How does this concept help you balance the effort and resources you allocate to different decisions?*
-
-* *Setting and Aligning Goals: How do you set and align your goals, and what challenges have you faced in this process? Are there instances where misalignment has led to ineffective decision-making?*
-
-* *Handling Complexity in Decision-Making: What factors have you found to increase the complexity of decision-making in your experience? How do you manage these complexities effectively?*
-
-* *Tackling Indecisiveness: Can you identify any habits or emotional factors contributing to your indecisiveness? What strategies can you employ to overcome these challenges?*
-
-* *Data and Decision-Making: How do you use data in your decision-making process? Are there instances where data has misled your decisions, and how can you safeguard against this in the future?*
+* *How do you typically approach decision-making in your professional role, and in what ways could you incorporate the principles of decision intelligence to enhance your decision-making process?*
+* *Have you observed instances where excessive complexity in your organization resulted from poor decision-making? How can IT architects address this, and what role can they play in simplifying decision-making processes?*
+* *Reflect on a recent significant decision you made. Were you aware of the resources you were committing and the opportunities you were preceding? How could you have evaluated these factors more effectively?*
+* *Think of a situation where the outcome of a decision didn't align with your expectations. How did you judge the quality of the decision-making process in hindsight, and did you consider the role of luck or randomness?*
+* *Consider a recent decision you faced. What would have been the value of perfect information in that scenario? How does this concept help you balance the effort and resources you allocate to different decisions?*
+* *How do you set and align your goals, and what challenges have you faced in this process? Are there instances where misalignment has led to ineffective decision-making?*
+* *What factors have you found to increase the complexity of decision-making in your experience? How do you manage these complexities effectively?*
+* *Can you identify any habits or emotional factors contributing to your indecisiveness? What strategies can you employ to overcome these challenges?*
+* *How do you use data in your decision-making process? Are there instances where data has misled your decisions, and how can you safeguard against this in the future?*
