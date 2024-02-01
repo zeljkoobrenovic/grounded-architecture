@@ -41,12 +41,13 @@ As a part of my work on Grounded Architecture, I also provided several guiding p
   * [Leadership](#leadership)
   * [Architects' Career Paths](#career)
 * [Doing Architecture: Inspirations](#doing-architecture):
-  * [Decision Intelligence in IT Architecture](#decision-intelligence)
   * [Culture Map: Architects' Culture Mindfield Compass](#culture-map)
   * [Managing Organization Complexity: Six Simple Rules](#six-simple-rules)
   * [Product Development and The Build Trap](#product-development)
   * [Architecture Governance: Mandates, Taxation, Nudge](#governance)
   * [Economic Modeling: ROI and Financial Options](#economics)
+  * [Decision Intelligence in IT Architecture](#decision-intelligence)
+  * [The Human Side of Decision-Making](#human-decisions)
 
 When Grounded Architecture is in place, it can have a significant [positive impact](#impact) on the functioning of an organization:
 
