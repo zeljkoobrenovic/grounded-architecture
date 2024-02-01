@@ -1,0 +1,1 @@
+curl -L "https://leanpub.com/s/B36725C24EB34CBD99A3FB1D71011E61.epub" -o assets/book/groundedarchitecture.epub
