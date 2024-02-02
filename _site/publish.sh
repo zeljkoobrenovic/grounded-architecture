@@ -17,7 +17,7 @@ for (( ; ; )); do
     git add .
     git commit -m "publishing changes"
     git push
-    open assets/book/groundedarchitecture.epub
+    open assets/book/groundedarchitecture.pdf
     exit
   else
     echo 'the string does not exist'
