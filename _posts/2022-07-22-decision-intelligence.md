@@ -291,17 +291,17 @@ Decision-making has evolved beyond pen and paper, with data playing a crucial ro
 Image by iStock
 </div>
 
-#### Data has limitations
+### Data has limitations
 
 Just as not everything written in a book is true, data can be **misleading or incomplete**. It's a collection of information recorded by humans, subject to errors and omissions.
 
 For instance, in the field of artificial intelligence (AI), **AI biases stem from the data it's fed**, reflecting the choices and prejudices of those who compile the data. The issues with AI bias are often due to poor decisions regarding data selection. **Data isn't inherently objective; it carries the implicit values of its creators**.
 
-#### Data enhances memory rather than ensuring objectivity
+### Data enhances memory rather than ensuring objectivity
 
 It is crucial to understand that **data's value lies in its ability to enhance memory, not ensure objectivity**. Embracing data means embracing a significant advancement in human potential. It's about transforming information into action, extending beyond the limits of personal memory to make better, more informed decisions.
 
-#### Chose the right tool for the job
+### Chose the right tool for the job
 
 Cassie Kozyrkov classifies [techniques for the use of data into three groups](https://kozyrkov.medium.com/what-on-earth-is-data-science-eb1237d8cb37):
 * **Analytics**: which you can use to get inspired by looking at data,
@@ -316,7 +316,7 @@ However, looking at data and doing **analytics itself isn't decision-making**. A
 
 Once when we have better questions, we can also use data to **give better answers**. Depending on the important and type of questions you need to answer, you can get your answers via simple analytics, more complex statistical methods, or even advanced machine-learning and AI techniques.
 
-#### Full information is always preferable to partial information
+### Full information is always preferable to partial information
 
 No matter which how you plan to use data, **full information is always preferable to partial information**. If you only have **partial information**, you're **dealing with uncertainty**, and that's where **statistical methods** come in. 
 
