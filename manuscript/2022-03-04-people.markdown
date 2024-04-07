@@ -2,7 +2,8 @@
 
 # People Foundation {#people}
 
-![image by mostafa meraji from pixabay](assets/images/arch/construction-4939383_1920.jpg)
+![](assets/images/arch/construction-4939383_1920.jpg)
+^image by mostafa meraji from pixabay^
 
 **IN THIS SECTION, YOU WILL:**  Understand that architecture practice is all about people and get tips on creating organizational structures that support practical IT architecture practice.
 
@@ -25,7 +26,8 @@ issues. Architects are difficult to hire talent as they need not only in-depth t
 domain-specific and organizational knowledge. Consequently, any architecture function must carefully organize, empower,
 and leverage scarce architecture talent (Figure 1).
 
-![Figure 1: The structure of Grounded Architecture: The People Foundation.](assets/images/model-people.png)
+![](assets/images/model-people.png)
+***Figure 1:** The structure of Grounded Architecture: The People Foundation.*
 
 In my work in the past few years, I was working by combining, in different forms, two teams of architects: a small
 **central architecture team** and **a cross-organizational distributed virtual team**. A central architecture team is an enabler
@@ -41,7 +43,8 @@ implement change.
 IT architecture practices generally follow one of two fundamental models: central or federated (Figure 2, 
 [McKinsey 2022](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/tech-forward/crafting-the-optimal-model-for-the-it-architecture-organization)).
 
-![Figure 2: Central vs. Federated Architecture Function.](assets/images/arch/arch_teams.png)
+![](assets/images/arch/arch_teams.png)
+***Figure 2:** Central vs. Federated Architecture Function.*
 
 **The central model** involves a large-scale central architecture team. The central team typically defines the process for
 approval of new work and assures adherence by development teams. In this model, development teams have few or no qualified solutions architects. This model also holds **centralized infrastructure, operations, and security teams** apart from the development function. **Control and governance** are typically the primary concerns of the central architecture team.
@@ -155,7 +158,8 @@ architecture teams and building a "[People Foundation](#people)":
 * **Externalize**. Reach out and connect. Participate in external events. Publish. Being strong externally can help you to
   both grow and attract architectural talent.
 
-![image by chantellev from pixabay](assets/images/arch/pyramid-g88f894074_1920.jpg)
+![](assets/images/arch/pyramid-g88f894074_1920.jpg)
+^image by chantellev from pixabay^
 
 ## Questions to Consider
 

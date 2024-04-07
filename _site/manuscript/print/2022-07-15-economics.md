@@ -55,6 +55,31 @@ The option's value originates from being able to **defer the decision until you 
 
 As with any analogy, the financial options analogy has its limits. Again, it **is not easy to quantify** architecture values and have metrics for the value of separation of concerns or horizontal scaling. Second, while the metaphor may be easy to grasp for an economic audience, it may **require explaining** to other stakeholders, who may be less familiar with financial options markets.
 
+## A Framework
+
+In the end, I share a framework I developed to explain the economic value of architecture and tech investment (Figure 4).
+
+![](assets/images/economics/economics_framework.png)
+**Figure 4:** *A framework for discussing investments and options.*
+
+I separate the value of investments in two buskets:
+* Increasing and protecting revenue and
+* Reducing costs and risks.
+
+Increasing and protecting revenue investments have three forms:
+* **Investments that create new revenue streams** by creating new products or adding new features. These investments are typically easier to defend and control, as most stakeholders intuitively understand that new functionality is needed to create new value for customers and generate more revenue. An essential aspect of this type of investment is tracking the product's success. Adding new features will not automatically create value for customers or revenue.
+* **Investments needed to stay ahead.** This type of investment is a less obvious way to protect and increase revenue. It boils down to the fact that you cannot stop developing your product as the rest of the world moves on. As the saying goes, **"It takes all the running you can do to keep in the same place."** For instance, you must keep essential features in parity with the competition, your system must comply with changes in regulations, and your UX must be modern.
+* **Investments needed to create future options** refer to being in shape to adapt to changes in the market more quickly and to bring new features to the market more quickly. Investing in keeping your system easy to maintain and extend directly creates more opportunities. Another way to look at this value driver is to frame it as preventing a revenue loss due to the impossibility of quickly adapting to future opportunities.
+
+The second bucket relates to the more invisible part of the value created by investments:
+* **Investments to reduce maintenance costs** need to ensure that your code is easy to understand, change, and test. Such investments directly reduce your most significant cost, people costs, as code that is easy to maintain requires fewer people (and other way around, see Figure 5). Alternatively, you can look at these investments as a way to spend more effort on innovation and creating new revenue streams rather than merely keeping the systems in the air.
+* **Investments in reducing infrastructure costs** reduce spending and, if successful, are more directly visible. Such investments could take the form of redesigning your application to be more elastic, scaling up and down with minimal overhead. They could also create more transparency to have a precise image of all cost drivers and mechanisms to react quickly to any undesirable cost increases.
+* **Investments in reducing license and vendor costs** ensure that there is no unnecessary diversity of technologies and vendor contracts and that you can leverage economies of scale, as having fewer vendors with more users enables negotiating more favorable contracts. 
+* **Investments in reducing risk costs**. When your system is down, your business is disrupted, and you lose revenue. According to [diverse studies](https://www.atlassian.com/incident-management/kpis/cost-of-downtime), the average cost of downtime ranges from $2,300 to $9,000 per minute. You must invest in keeping your system reliable and secure to avoid losing revenue and disrupting your business. While the benefits of these types of investments are huge, the challenge with building the business case for this investment is that a reliable system will only create a few incidents, making it less tangible for many stakeholders to understand the importance of continuing such investments. Or, as noted by Repenning and Sterman "[Nobody Ever Gets Credit for Fixing Problems that Never Happened](https://web.mit.edu/nelsonr/www/CMR_Getting_Quality_v1.0.html)".
+
+![](assets/images/economics/unsustainable-sw-dev.png)
+**Figure 5:** *A downward spiral of poorly maintainable code. As such systems grow in size and complexity, more developers are needed to maintain them. If the system is not easy to maintain, people will avoid touching code as they can easily break it. This situation will lead to a workaround (such as copying and pasting code and diverse hacks). These inefficient workarounds further increase the size and complexity of code, requiring even more developers to maintain it. And the vicious cycle continues.*
+
 ## Questions to Consider
 
 * *How can you effectively communicate the value of architectural investments to non-technical stakeholders in your organization?*

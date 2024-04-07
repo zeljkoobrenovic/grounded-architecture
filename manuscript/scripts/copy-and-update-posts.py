@@ -37,6 +37,9 @@ def copy_post(post):
                 elif line.strip().startswith('#### The Waiter'):
                     content += '\n{pagebreak}\n'
                     content += line + '\n'
+                elif line.strip().startswith('![](assets/images/economics/unsustainable-sw-dev.png)'):
+                    content += '\n{pagebreak}\n'
+                    content += line + '\n'
                 elif line.strip() == '>':
                     print('')
                 elif line.strip().startswith('</') or line.strip().startswith('<t'):
