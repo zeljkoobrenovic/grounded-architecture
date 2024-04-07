@@ -196,7 +196,7 @@ Even when decisions can be made quickly, we may still be indecisive. People can 
 
 #### Bad habits
 
-One common cause of indecisiveness is bad habits. Many don't recognize that avoiding a decision is, in itself, a decision. Delaying, postponing, or deprioritizing the decision-making process is a resulting implicit choice, but it doesn't have to be your default mode. But you have the power to change this habit.
+One common cause of indecisiveness is bad habits. Many don't recognize that avoiding a decision is, in itself, a decision. Delaying, postponing, or deprioritizing the decision-making process is a resulting implicit choice.
 
 For instance, if a company cannot decide on using one consolidated tech stack for its systems, it leads to an **implicit decision** to keep diverse technology stacks with all associated costs and complexity.
 
