@@ -24,12 +24,12 @@ In this and next chapter, I summarized some of the critical lessons I learned fr
 
 In all these situations, decision intelligence is a crucial skill for architects. 
 
+![](assets/images/arch/iStock-1194231226.jpg)
+^image by istock^
+
 ## Basics of Decision-Making
 
 Let's starts wit some basics: definition of decisions, outcomes, and goals.
-
-![](assets/images/arch/iStock-1194231226.jpg)
-^image by istock^
 
 ### Decision Is More Than Selecting Among Options
 
@@ -116,12 +116,12 @@ This question is powerful for several reasons:
 
 In essence, this question helps assess the decision-making landscape, the decision-maker's openness to new information, and whether there's genuine room for making or influencing a decision. 
 
+![](assets/images/arch/iStock-1043738948.jpg)
+^image by istock^
+
 ## Factors Influencing Decision-Making
 
 Here, we explore key factors influencing decision-making complexity and decisiveness.
-
-![](assets/images/arch/iStock-1043738948.jpg)
-^image by istock^
 
 ### Decision-Making Complexity
 

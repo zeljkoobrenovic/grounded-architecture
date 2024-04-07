@@ -52,6 +52,10 @@ Image by iStock
 <br>
 **Decision intelligence** is a discipline concerned with selecting between options. It combines the best of **applied data science**, **social science**, and **managerial science** into a unified field that helps people use data to improve their lives, businesses, and the world around them. **[Cassie Kozyrkov](https://en.wikipedia.org/wiki/Cassie_Kozyrkov)** has popularized the field of decision intelligence and created several valuable resources to understand the decision-making process. I recommended her [posts](https://www.linkedin.com/pulse/introduction-decision-intelligence-cassie-kozyrkov/) and [online lessons](https://www.linkedin.com/learning/decision-intelligence/) to all architects because decision-making is an essential part of IT architects' job. 
 
+<div class="quote">
+"Excessive complexity is nature's punishment for organizations that are unable to make decisions." -Gregor Hohpe
+</div>
+
 In this and next chapter, I summarized some of the critical lessons I learned from Cassie Kozyrkov's resources and used them in practice. In their daily work, IT architects are involved in decision-making in several ways: 
 * By **making decisions** (e.g., moving applications from a private data center to a public cloud). 
 * By **creating mechanisms** for teams to make better decisions (e.g., [advisory forums](https://martinfowler.com/articles/scaling-architecture-conversationally.html)).
@@ -60,18 +64,15 @@ In this and next chapter, I summarized some of the critical lessons I learned fr
 In all these situations, decision intelligence is a crucial skill for architects. 
 
 
-## Basics of Decision-Making
-
-Let's starts wit some basics: definition of decisions, outcomes, and goals.
-
-<div class="quote">
-"Excessive complexity is nature's punishment for organizations that are unable to make decisions." -Gregor Hohpe
-</div>
-
 ![](assets/images/arch/iStock-1194231226.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by iStock
 </div>
+
+<br>
+## Basics of Decision-Making
+
+Let's starts wit some basics: definition of decisions, outcomes, and goals.
 
 ### Decision Is More Than Selecting Among Options
 
@@ -174,16 +175,15 @@ This question is powerful for several reasons:
 
 In essence, this question helps assess the decision-making landscape, the decision-maker's openness to new information, and whether there's genuine room for making or influencing a decision. 
 
+![](assets/images/arch/iStock-1043738948.jpg)
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by iStock
+</div>
 
 <br>
 ## Factors Influencing Decision-Making
 
 Here, we explore key factors influencing decision-making complexity and decisiveness.
-
-![](assets/images/arch/iStock-1043738948.jpg)
-<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by iStock
-</div>
 
 ### Decision-Making Complexity
 
