@@ -1,7 +1,7 @@
 ---
 layout: post
 section: "Doing Architecture: Inspirations"
-title: "The Culture Map: Architects' Culture Mindfield Compass"
+title: "The Culture Map: Architects' Culture Compass"
 position: 7007
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
