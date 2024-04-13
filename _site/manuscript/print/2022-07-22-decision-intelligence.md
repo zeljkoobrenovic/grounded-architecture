@@ -24,12 +24,12 @@ In this and next chapter, I summarized some of the critical lessons I learned fr
 
 In all these situations, decision intelligence is a crucial skill for architects. 
 
+![](assets/images/arch/iStock-1194231226.jpg)
+^image by istock^
+
 ## Basics of Decision-Making
 
 Let's starts wit some basics: definition of decisions, outcomes, and goals.
-
-![](assets/images/arch/iStock-1194231226.jpg)
-^image by istock^
 
 ### Decision Is More Than Selecting Among Options
 
@@ -116,12 +116,12 @@ This question is powerful for several reasons:
 
 In essence, this question helps assess the decision-making landscape, the decision-maker's openness to new information, and whether there's genuine room for making or influencing a decision. 
 
+![](assets/images/arch/iStock-1043738948.jpg)
+^image by istock^
+
 ## Factors Influencing Decision-Making
 
 Here, we explore key factors influencing decision-making complexity and decisiveness.
-
-![](assets/images/arch/iStock-1043738948.jpg)
-^image by istock^
 
 ### Decision-Making Complexity
 
@@ -196,7 +196,7 @@ Even when decisions can be made quickly, we may still be indecisive. People can 
 
 #### Bad habits
 
-One common cause of indecisiveness is bad habits. Many don't recognize that avoiding a decision is, in itself, a decision. Delaying, postponing, or deprioritizing the decision-making process is a resulting implicit choice, but it doesn't have to be your default mode. But you have the power to change this habit.
+One common cause of indecisiveness is bad habits. Many don't recognize that avoiding a decision is, in itself, a decision. Delaying, postponing, or deprioritizing the decision-making process is resulting in an implicit choice.
 
 For instance, if a company cannot decide on using one consolidated tech stack for its systems, it leads to an **implicit decision** to keep diverse technology stacks with all associated costs and complexity.
 
@@ -210,11 +210,11 @@ For instance, sometimes people see IT architects as the ultimate authority, aski
 
 Indecisiveness can also arise from emotional responses, mainly **when all options are undesirable**. In such cases, the most practical approach is to choose the least bad option. After thoroughly evaluating the choices and identifying the least detrimental ones, proceeding with that decision is essential.
 
-However, people often become overwhelmed by emotions like **grief or frustration** when faced with **only unfavorable choices**. This emotional response can lead to a futile search for better options, hoping for new information that realistically won't appear. Once it's clear that no better options will emerge, it **takes courage to move** forward and execute the chosen path.
+People often become overwhelmed by emotions like **grief or frustration** when faced with **only unfavorable choices**. This emotional response can lead to a **futile search for better options**, hoping for new information that realistically won't appear. Once it's clear that no better options will emerge, it **takes courage to move** forward and execute the chosen path.
 
 It's okay to experience and process these emotions, but you should do it concurrently with taking action. On the other hand, when faced with multiple equally appealing options, and the differences between them are minor, it might not be worth the effort to optimize further. In these cases, recognizing that fine-tuning small differences isn't a priority can help make a decision.
 
-If you need help to choose between equally good options, Cassie recommends using a simple method like flipping a coin. If the result of the coin flip leaves you feeling particularly disappointed, it might indicate that the options were more different than you initially thought. This reaction can provide insight and help you make your decision. However, if the differences between the options are minor, it's not worth spending excessive time trying to make the perfect choice. Instead, conserve your energy for more significant decisions.
+If you need help to choose between equally good options, using a simple method like flipping a coin can help. If the result of the coin flip leaves you feeling particularly disappointed, it might indicate that the options were more different than you initially thought. This reaction can provide insight and help you make your decision. However, if the differences between the options are minor, it's not worth spending excessive time trying to make the perfect choice. Instead, conserve your energy for more significant decisions.
 
 ## Improving Decision Making With Data and Tools
 
