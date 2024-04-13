@@ -63,6 +63,14 @@ The three parts of the book (Structure, Being an Architect, and Doing Architectu
 * Define IT **architecture roles** and responsibilities, skills, and career paths,
 * Operate **effective IT architecture practice** in complex multicultural organizations.
 
+### General Philosophy
+
+I approach designing an architecture practice in complex organizations as an **art of cooking.** Modern IT **architecture practice is highly adaptive**, and applying complex frameworks and models is not practical and effective. You cannot easily copy an approach from one organization to another. Consequently, I have organized this book into **modules you can mix together in your context**, similar to how a chef may use ingredients in a recipe to create specific outcomes. I share some of the lessons and tips on "cooking," but you must find your way in your "kitchen." You may reuse some of the ingredients and recipes from this book. You may not need some of this book's ingredients. And you will need many more from other sources.
+
+When I start an architecture practice, I view myself as a chef who joins a new restaurant and brings their favorite spices to enhance local dishes. I incorporate **core preferred elements and foundational frameworks** like essential culinary spices and tools. However, the true essence of the architecture, akin to **the unique flavor of a dish, is derived from local factors**. In an organization, these local elements are the people: the **in-house talent and culture that shape the enterprise's distinct identity**. Their knowledge and capabilities are the key ingredients that make the architecture truly effective.
+
+While basic structures and practices may be consistent across various business scenarios, the most crucial aspects—like fresh, local ingredients in cooking—need to be locally sourced. Skills, experiences, and insights of the organization's staff play a pivotal role in **customizing and refining it to meet specific business needs and goals**. They make the architecture truly tailored and effective.
+
 ### Format
 
 I have organized my lessons and insights in a form that, if you recognize the problems and are inspired by solutions, could use as a **high-level "playbook"** about how to work as an architect or run an architecture practice. I also provide more concrete tips on each discussed topic, finishing each section with questions you should consider when addressing these topics.
