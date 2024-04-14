@@ -1,6 +1,6 @@
 
 
-# The Culture Map: Architects' Culture Mindfield Compass {#culture-map}
+# The Culture Map: Architects' Culture Compass {#culture-map}
 
 ![](assets/images/arch/bolivia-g4261bf11f_1920.jpg)
 ^image by maik from pixabay^

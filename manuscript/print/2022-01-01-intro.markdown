@@ -71,6 +71,9 @@ I approach designing an architecture practice in complex organizations as an **a
 
 When I start an architecture practice, I view myself as a chef who joins a new restaurant and brings their favorite spices to enhance local dishes. I incorporate **core preferred elements and foundational frameworks** like essential culinary spices and tools. However, the true essence of the architecture, akin to **the unique flavor of a dish, is derived from local factors**. In an organization, these local elements are the people: the **in-house talent and culture that shape the enterprise's distinct identity**. Their knowledge and capabilities are the key ingredients that make the architecture truly effective.
 
+![](assets/images/arch/iStock-1409729992.jpg)
+^image by istock^
+
 While basic structures and practices may be consistent across various business scenarios, the most crucial aspects—like fresh, local ingredients in cooking—need to be locally sourced. Skills, experiences, and insights of the organization's staff play a pivotal role in **customizing and refining it to meet specific business needs and goals**. They make the architecture truly tailored and effective.
 
 ### Format
