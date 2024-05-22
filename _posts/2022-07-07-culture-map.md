@@ -57,7 +57,8 @@ Meyer’s model contains **eight scales**, each representing a key area, showing
 * **Disagreeing** – Are disagreements tackled directly, or do people prefer to avoid confrontations?
 * **Scheduling** – Do people see time as absolute linear points or consider it a flexible range?
 
-The Culture Map shows positions along these eight scales for many countries. These profiles reflect **the value systems of a society at large, not all the individuals in it**, so if you plot yourself on the map, you might find that some of your preferences differ from those of your culture.
+It is essential to highlight that a culture map is a framework used to understand and **compare cultural differences in a nuanced and respectful way**. It aims to highlight the diverse ways people communicate, work, and interact. Unlike stereotypes, which are often oversimplified and fixed ideas about a group of people, culture maps **recognize the complexity and variability within cultures**. Consequently, while cultural generalizations, like the culture map, can be helpful, it is crucial to realize that they are **just that - generalizations.** Many individuals from a particular culture will not fit neatly into these categories, and there can be **significant variation** within a single culture. It is best to approach cultural differences with an open mind and a willingness to learn.
+
 
 <br>
 ## Communicating
@@ -76,7 +77,6 @@ In **low-context** cultures, good communication is **precise, simple, explicit, 
 In **high-context** cultures, communication is **sophisticated, nuanced, and layered**. Statements are often not plainly stated but implied. People put less in writing, more is left open to interpretation, and understanding may depend on reading between the lines.
 
 Architects should be able to **understand and adapt to different communication styles**. But when actively communicating, I find it crucial that architects provide low-context explanations. Architects will deal not only with the diverse cultural backgrounds of people but with different professional communities (technology, product, marketing, sales, finance, strategy), each with their own specific cultures and buzzwords. To bridge such diverse communities, communicating in a culture-sensitive and buzzword-free way is a valuable skill for any architect.
-
 
 ![](assets/images/culturemap/communicating.png)
 ***Figure 1:** The Communicating scale: a graphical representation of some Culture Map countries (the cultural context of my recent professional interactions).*
@@ -221,8 +221,6 @@ I also found Erin Meyer's four rules on how to bridge the cultural gaps:
 * **Rule 3: Find the Positive in Other Approaches.** People tend to see the negative when looking at how other cultures work. But if you understand how people from varied backgrounds behave, you can turn differences into the most significant assets. 
 * **Rule 4: Adjust and Readjust, Your Position.** It’s not enough to shift to a new position on a single scale; you’ll need to widen your comfort zone to move more fluidly back and forth along all eight.
 
-
-While cultural generalizations, like the culture map, can be helpful, it is crucial to recognize that they are just that - generalizations. Not all individuals from a particular culture will fit neatly into these categories, and there can be **significant variation** even within a single culture. It is best to approach cultural differences with an open mind and a willingness to learn.
 
 
 ## Questions to Consider
