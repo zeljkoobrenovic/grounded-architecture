@@ -41,7 +41,14 @@ Image by <a href="https://pixabay.com/nl/users/nonbirinonko-3101900/?utm_source=
     }
 </style>
 
-Architecture practice should support governance models adaptable to organizations' complex and diverse needs. By governing, I mean guiding technology **choices in the organization in a particular direction** aligned with the strategy. I see a technology governance model as a well-balanced hybrid of three different styles of governing:
+Governance refers to the framework of rules, practices, and processes by which an organization is directed and controlled. It encompasses the mechanisms by which an organization's goals are set, pursued, and monitored, ensuring accountability, fairness, and transparency. Governance can be applied to various domains, including corporate, IT, project, and data governance. **IT architecture is a form of governance** because it **establishes structured frameworks** for managing and controlling an organization's technology resources and processes. It ensures alignment with business objectives, promotes standardization, manages risks, optimizes resources, facilitates change management, supports decision-making, measures performance, and fosters innovation.
+
+<div class="quote">
+To transform an organization, you do not need to solve mathematical equations; you need to move people.
+<div class="author">-Gregor Hohpe</div>
+</div>
+
+Architecture practice should support governance models adaptable to organizations' complex and diverse needs. I see a technology governance model as a well-balanced hybrid of three different styles of governing:
 * **nudging**,
 * **taxes** (economic incentives), and
 * **mandates and bans**.
@@ -52,7 +59,7 @@ Architecture practice should support governance models <b>adaptable to organizat
 <br>
 ## Nudging
 
-In behavioral economics and psychology, a nudge is a **subtle or indirect suggestion** influencing someone's behavior or decision-making **without forcing them or limiting their freedom of choice**. Nudges can be applied in various settings, such as policy-making, marketing, and personal interactions, to encourage people to make better choices, improve their well-being, or achieve specific goals.
+In behavioral economics and psychology, a **nudge is a subtle or indirect suggestion** influencing someone's behavior or decision-making **without forcing them or limiting their freedom of choice**. Nudges can be applied in various settings, such as policy-making, marketing, and personal interactions, to encourage people to make better choices, improve their well-being, or achieve specific goals.
 
 <br>
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
@@ -61,24 +68,24 @@ In behavioral economics and psychology, a nudge is a **subtle or indirect sugges
 Image by iStock
 </div>
 
-A nudge can take many forms, such as a **slight change in the environment**, a **gentle reminder**, a **positive reinforcement**, or a **default option**. For example, placing healthy food options at eye level in a cafeteria can nudge people to choose healthier meals. Or setting a default option for organ donation can increase the number of donors.
+A nudge can take many forms, such as a **slight change** in the environment, a **gentle reminder**, a **positive reinforcement**, or a **default option**. For example, placing healthy food options at eye level in a cafeteria can nudge people to choose healthier meals. Or setting a default option for organ donation can increase the number of donors.
 
 <div class="quote">
 A nudge is a subtle or indirect suggestion influencing someone's behavior or decision-making without forcing them or limiting their freedom of choice.
 </div>
 
-The concept of a nudge was popularized by the book **"Nudge: Improving Decisions About Health, Wealth, and Happiness"** by Richard Thaler and Cass Sunstein, which argues that various **cognitive biases and heuristics** often influence people's decisions, and that nudges can help people overcome these biases and make better choices.
+The concept of a nudge was popularized by the book **"Nudge: Improving Decisions About Health, Wealth, and Happiness"** by Richard Thaler and Cass Sunstein, which argues that various cognitive biases and heuristics often influence people's decisions, and that nudges can help people overcome these biases and **make better choices**.
 
 Richard Thaler and Cass Sunstein also introduced the concept of **choice architecture** as a critical component of nudging. It refers to how the options are presented to individuals, which can significantly influence their choices. Choice architecture is **the design of the decision-making environment**, which includes the layout, structure, and organization of available options.
 
-In architecture, nudges could include:
-* architectural **principles** as informal decision guidelines,
-* recommendations for **best practices** to stimulate introduction and alignment around such practices, 
-* default options for technology choices via 
+In IT architecture, examples of nudging include:
+* Architectural **principles** as informal decision guidelines. Such principles do not prescribe a solution, but can subtly guide alignement.
+* Recommendations for **best practices** to stimulate introduction and alignment around such practices, 
+* Default options for technology choices via 
 [**golden paths**](https://engineering.atspotify.com/2020/08/how-we-use-golden-paths-to-solve-fragmentation-in-our-software-ecosystem/)
-* **highlighting** bad quality software on a [Data Foundation](data) dashboards to create subtle pressure for people to improve it,
-* tracking of **tech debt** to create awareness about its size and lead action to reduce it,
-* **visualizing cost trends** of cloud services per team to stimulate teams to improve the performance efficiency of their software.
+* **Highlighting** bad quality software on a [Data Foundation](data) dashboards to create subtle pressure for people to improve it,
+* Tracking of **tech debt** to create awareness about its size and lead action to reduce it,
+* **Visualizing cost trends** of cloud services per team to stimulate teams to improve the performance efficiency of their software.
 
 Nudges can frequently lead to better alignment and more harmonization without the negative consequences of mandates, bans, or taxation.
 
@@ -88,7 +95,7 @@ Grounded Architecture is well aligned with ideas of nudging. I designed many [Da
 <br>
 ## Taxation (Economic Incentives)
 
-Governing with taxes is a form of guidance in which we do not forbid people to make choices or decisions but **need to "pay" some form of taxes on used resources**. For instance, costs of public cloud usage could be **cross-charged across the organization**, providing a helpful feedback loop to optimize our systems and avoid unnecessary resource consumption, avoiding the "tragedy of commons" which frequently happens when there are no limits on shared resource consumption (e.g., public cloud budget). 
+Governing with taxes is a form of guidance in which we do not forbid people to make choices or decisions, but they **need to "pay" some form of taxes on used resources**. For instance, costs of public cloud usage could be **cross-charged across the organization**, providing a helpful feedback loop to optimize our systems and avoid unnecessary resource consumption, avoiding the "tragedy of commons" which frequently happens when there are no limits on shared resource consumption (e.g., public cloud budget). Compared to nudging, taxes are not only an information feedback loop, but they have consequences (e.g., some projects could be banned if they exceed the cross-chared IT budget).
 
 <div class="quote">
 Governing with taxes is a form of guiding in which people are not forbidden to make some decisions but need to "pay" some form of taxes on used resources.
