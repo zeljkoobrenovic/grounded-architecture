@@ -48,7 +48,9 @@ To transform an organization, you do not need to solve mathematical equations; y
 <div class="author">-Gregor Hohpe</div>
 </div>
 
-Architecture practice should support governance models adaptable to organizations' complex and diverse needs. I see a technology governance model as a well-balanced hybrid of three different styles of governing:
+The difficulty of governance stems from the need to navigate a complex web of diverse interests, rapidly changing conditions, and multifaceted challenges. There is no one-fit-all form of governance. Effective governance requires adaptability, collaboration, and a commitment to addressing immediate and long-term issues. 
+
+Architecture practice should support governance models that are aligned and adaptable to organizations' complex and diverse needs. Consequently, I see an architecture governance model as a well-balanced hybrid of three different styles of governing:
 * **nudging**,
 * **taxes** (economic incentives), and
 * **mandates and bans**.
@@ -136,6 +138,7 @@ The [Data Foundation](data) is crucial in creating **clarity and transparency**,
 
 The [People Foundation](people) can help propagate the decision and ensure its **positive impact and acceptance**. You should never order or forbid people to do some things routinely. Spending enough time with all stakeholders to explain the **reasons and motivations** behind introducing some limitations is crucial to ensure the effective working of mandates and bans. A strong People Foundation provides strong connections with key stakeholders and can leverage them to change ways of working more smoothly.
 
+<br>
 ## Questions to Consider
 
 * *What are the key components of the governance model in your organization, and how do mandates, taxes, and nudging influence them?*

@@ -40,7 +40,20 @@ Image by <a href="https://pixabay.com/users/nattanan23-6312362/?utm_source=link-
     }
 </style>
 
-Architects frequently need to answer questions about **the (economic) value of technology investments** and architecture. Answering this question is a crucial skill for any senior architect. But it may be difficult to answer this seemingly harmless question concisely and convincingly to a non-technical audience.
+Economic and risk modeling is an essential exercise in organizations. Organizations conduct financial and risk modeling exercises, such as ROI calculations, for several key reasons:
+
+* **Decision-Making Support**: Evaluate investments and compare alternatives to allocate resources effectively.
+* **Risk Management**: Identify potential risks and perform sensitivity analysis to anticipate and mitigate issues.
+* **Budgeting and Planning**: Aid in resource allocation, detailed budgeting, and long-term forecasting.
+* **Performance Measurement**: Track progress, measure success, and ensure accountability.
+* **Stakeholder Communication**: Build investor confidence and promote transparency with detailed financial projections.
+* **Strategic Planning**: Explore different strategic scenarios and support growth-related decisions.
+* **Operational Efficiency**: Identify cost reduction opportunities and optimize business processes.
+* **Regulatory Compliance**: Ensure accurate financial reporting and assess regulatory risks.
+
+These exercises enable informed decision-making, efficient resource management, and strategic planning, helping organizations achieve their long-term objectives.
+
+As financial and risk modeling is essential in any organization, architects frequently need to answer questions about **the (economic) value of technology investments** and architecture. Answering this question is a crucial skill for any senior architect, but it may take a lot of work to answer this seemingly harmless question concisely and convincingly to a non-technical audience.
 
 Having good architecture requires some investment. This investment is time and effort spent implementing some **architecture pattern**, reducing **technical debt**, or **refactoring code** to align with our architecture. Consequently, we need to explain the expected value of this investment.
 
@@ -50,7 +63,7 @@ In this post, I sketch two answers to the question of the economic value of arch
 * the return-on-investment (ROI) metaphor
 * the financial options metaphor
 
-
+<br>
 ## The Return-on-Investment Metaphor
 
 In economic terms, **return on investment (ROI)** is a ratio between profits and costs over some period. In other words, ROI shows how much you **get back from your investment**. A high ROI means the investment's gains compare favorably to its cost. As a performance measure, you can use ROI to evaluate an investment's efficiency or compare the efficiencies of several different investments (Figure 1).
@@ -74,7 +87,7 @@ Well-architect systems are typically much **easier to understand and change**. A
 
 An ROI metaphor is easy to understand by a non-technical audience, but it has limitations to describe the value of architecture. The first limitation is that **measuring architecture, quality, and productivity is challenging**. Consequently, too much focus on ROI can lead to an obsession with cost-cutting. Costs are easy to measure, but the value of attributes like shorter time-to-market is much more difficult to quantify. Second, ROI is a good measure, but only some investments in architecture will increase profit. That is because we frequently have to make decisions with lots of uncertainty. Nevertheless, that does not mean that we should not make such investments. The following section explains why.
 
-
+<br>
 ## The Financial Options Metaphor
 
 Gregor Hohpe has frequently argued that the best way to explain architecture to non-technical people is by using **a financial option metaphor.** A financial option is **a right, but not an obligation, to buy or sell financial instruments at a future point in time with some predefined price**. As such, a financial option is **a way to defer a decision**: instead of deciding to buy or sell a stock today, you have the right to make that decision in the future at a known price.
@@ -98,15 +111,15 @@ The option's value originates from being able to **defer the decision until you 
 
 As with any analogy, the financial options analogy has its limits. Again, it **is not easy to quantify** architecture values and have metrics for the value of separation of concerns or horizontal scaling. Second, while the metaphor may be easy to grasp for an economic audience, it may **require explaining** to other stakeholders, who may be less familiar with financial options markets.
 
+<br>
+## A Communication Framework
 
-## A Framework
-
-In the end, I share a framework I developed to explain the economic value of architecture and tech investment (Figure 4).
+In the end, I share a communication framework I developed and used to explain holistically the economic value of architecture and technology investment (Figure 4).
 
 ![](assets/images/economics/economics_framework.png)
 **Figure 4:** *A framework for discussing investments and options.*
 
-I separate the value of investments in two buskets:
+I separate the value of investments in two buckets:
 * Increasing and protecting revenue and
 * Reducing costs and risks.
 

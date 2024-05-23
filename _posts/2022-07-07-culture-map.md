@@ -61,11 +61,11 @@ It is essential to highlight that a culture map is a framework used to understan
 
 Consequently, while cultural generalizations, like the culture map, can be helpful, it is crucial to realize that they are **just that - generalizations.** Many individuals from a particular culture will not fit neatly into these categories, and there can be **significant variation** within a single culture. It is best to approach cultural differences with an open mind and a willingness to learn. 
 
-I experience the culture map as enriching and broadening my interactions with people. Where I would previously be shocked by others' behavior, the culture map reminds me that I may be interpreting other actions too constrained by my cultural background. 
-
 <div class="quote">
 A note of caution: While cultural generalizations can be helpful, they are just that—generalizations. Many individuals from a particular culture do not fit neatly into categories, and there is significant variation within a single culture.
 </div>
+
+I experience the culture map as enriching and broadening my interactions with people. Where I would previously be shocked by others' behavior, the culture map reminds me that I may be interpreting other actions too constrained by my cultural background. 
 
 <br>
 ## Communicating
