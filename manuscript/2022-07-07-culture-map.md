@@ -26,7 +26,11 @@ Meyer’s model contains **eight scales**, each representing a key area, showing
 * **Disagreeing** – Are disagreements tackled directly, or do people prefer to avoid confrontations?
 * **Scheduling** – Do people see time as absolute linear points or consider it a flexible range?
 
-The Culture Map shows positions along these eight scales for many countries. These profiles reflect **the value systems of a society at large, not all the individuals in it**, so if you plot yourself on the map, you might find that some of your preferences differ from those of your culture.
+It is essential to highlight that a culture map is a framework used to understand and **compare cultural differences in a nuanced and respectful way**. It aims to highlight the diverse ways people communicate, work, and interact. Unlike stereotypes, which are often oversimplified and fixed ideas about a group of people, culture maps **recognize the complexity and variability within cultures**. 
+
+Consequently, while cultural generalizations, like the culture map, can be helpful, it is crucial to realize that they are **just that - generalizations.** Many individuals from a particular culture will not fit neatly into these categories, and there can be **significant variation** within a single culture. It is best to approach cultural differences with an open mind and a willingness to learn. 
+
+I experience the culture map as enriching and broadening my interactions with people. Where I would previously be shocked by others' behavior, the culture map reminds me that I may be interpreting other actions too constrained by my cultural background. 
 
 ## Communicating
 
@@ -150,8 +154,6 @@ I also found Erin Meyer's four rules on how to bridge the cultural gaps:
 * **Rule 2: Apply Multiple Perspectives.** Where a culture falls on a scale doesn’t in itself mean anything. What matters is the position of one country relative to another. 
 * **Rule 3: Find the Positive in Other Approaches.** People tend to see the negative when looking at how other cultures work. But if you understand how people from varied backgrounds behave, you can turn differences into the most significant assets. 
 * **Rule 4: Adjust and Readjust, Your Position.** It’s not enough to shift to a new position on a single scale; you’ll need to widen your comfort zone to move more fluidly back and forth along all eight.
-
-While cultural generalizations, like the culture map, can be helpful, it is crucial to recognize that they are just that - generalizations. Not all individuals from a particular culture will fit neatly into these categories, and there can be **significant variation** even within a single culture. It is best to approach cultural differences with an open mind and a willingness to learn.
 
 ## Questions to Consider
 
