@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-05-24T16:19:43+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: Redefining IT Architecture Practice</title><subtitle></subtitle><entry><title type="html">High Performing Technology Organizations</title><link href="http://localhost:4000/concepts-org" rel="alternate" type="text/html" title="High Performing Technology Organizations" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/appendix-organization</id><content type="html" xml:base="http://localhost:4000/concepts-org"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/car-engine-1701029_1280.jpg" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-05-25T00:50:14+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: Redefining IT Architecture Practice</title><subtitle></subtitle><entry><title type="html">High Performing Technology Organizations</title><link href="http://localhost:4000/concepts-org" rel="alternate" type="text/html" title="High Performing Technology Organizations" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/appendix-organization</id><content type="html" xml:base="http://localhost:4000/concepts-org"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/car-engine-1701029_1280.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/paulbr75-2938186/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1701029">Paul Brennan</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1701029">Pixabay</a>
 </div>
@@ -995,23 +995,46 @@ Grounded Architecture aims to make relevant information more readily available t
 <p><br /></p>
 <h2 id="rules-of-engagement">Rules of Engagement</h2>
 
-<p>One problem with setting an architecture function within an organization is that people may have broad, diverse expectations of architecture. Good architects can do many different things. Which may not be the most effective way for architects to support the organization.</p>
+<p>One of the amusing challenges with setting up an architecture function in an organization is that everyone seems to have a different idea of what “architecture” should entail. It’s like asking people to describe a unicorn: some imagine a mythical, majestic creature, while others picture a sparkly horse with a horn that grants wishes. Good architects can do many things, but this versatility might not always be the most effective way to support the organization.</p>
 
-<p>To be effective, I found it helpful to establish and clearly communicate some “rules of engagement” (ROE) to ensure that architects do what is most important. In a corporate or business setting, “rules of engagement” refers to the principles and procedures that govern how employees and departments interact with each other, clients, and stakeholders. This can include communication protocols, decision-making processes, and conflict-resolution mechanisms. ROE establishes clear expectations and guidelines for behavior and actions, helping maintain order, consistency, and fairness in interactions and operations.</p>
+<p><br />
+<img src="assets/images/unicorn.png" alt="" /></p>
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by <a href="https://pixabay.com/users/gdj-1086657/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1302152">Gordon Johnson</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1302152">Pixabay</a>
+</div>
+<p><br /></p>
 
-<p>While you may need to adapt such rules to your own organization, I found it helpful to set expectations for what the team should be able to do to qualify for the architecture support. In this way, you also set clear expectations of what architecture practice is not supposed to do:</p>
+<p>To be effective, I’ve found it crucial to establish and clearly communicate some “rules of engagement” (ROE). Think of ROE as the office playbook for how architects should operate. In a corporate setting, ROE are the principles that guide how employees and departments interact with each other, clients, and stakeholders. This includes communication protocols, decision-making processes, and conflict-resolution mechanisms. Essentially, ROE sets the stage for what’s expected and what’s not, ensuring everyone plays nicely and fairly.</p>
 
-<ul>
-  <li><strong>Organizational awareness and connections.</strong> The team should know all relevant stakeholders and actively connect with them. These connections should include product, development, and business stakeholders. Planning should be done in collaboration among all affected teams. The teams should have active working relationships with all relevant global functions (like QA, DevOps, or Security).</li>
-  <li><strong>Enough capacity and skills.</strong> The team should have enough development capacity with the right skills and seniority to innovate and maintain their products.</li>
-  <li><strong>Strategic awareness.</strong> The team should be aware of the organization’s strategic goals, technology, and other relevant strategies and their place in them.</li>
-  <li><strong>Technical documentation literacy.</strong> Teams should be able to create technical documentation such as ADRs or RFCs.</li>
-  <li><strong>Technology standard awareness.</strong> The team should know all relevant organizations’ technology standards, such as golden paths and guidelines for planning, documentation, security, DevOps, and QA processes.</li>
-  <li><strong>Participation and citizenship.</strong> The team should be aware of and actively participate in relevant communities (such as architecture guilds) and global events (such as architecture summits).</li>
-  <li><strong>Tech debt management.</strong> The team must be aware of the tech debt it creates and maintains, ideally having a tech debt backlog and a plan for “paying” it back.</li>
-</ul>
+<p>While you may need to tailor these rules to fit your organization, I found it helpful to set expectations for what the team should be able to do to qualify for the architecture support. Here’s a handy list of expectations for teams seeking architecture support. This also helps clarify what architecture practice isn’t supposed to do:</p>
 
-<p>Alignment on these or similar rules helps in having respectful conversations about architectural support. When these conditions are met, architecture practice can level up teams. When the conditions are not met, architecture support cannot be effective. That does not mean that struggling teams will not get architecture support. I always emphasize that architecture can help teams reach a minimal level of these expectations but cannot compensate fully for the lack of it, and teams need to take the initiative and lead. For instance, it is not practically possible nor scalable to have architects working full-time for months with one team as their senior developer. However, architects can coach and grow developers. Similarly, architects can only help a team build relationships with other teams if they are active and directly engaged.</p>
+<ol>
+  <li>
+    <p><strong>Organizational Awareness and Connections:</strong> Teams should know all relevant stakeholders and actively engage with them. This includes product, development, and business stakeholders. Planning should be collaborative across all affected teams, with active working relationships with global functions like QA, DevOps, or Security.</p>
+  </li>
+  <li>
+    <p><strong>Enough Capacity and Skills:</strong> Teams should have adequate development capacity with the right skills and seniority to innovate and maintain their products.</p>
+  </li>
+  <li>
+    <p><strong>Strategic Awareness:</strong> Teams should understand the organization’s strategic goals, technologies, and other relevant strategies, and know their role within these frameworks.</p>
+  </li>
+  <li>
+    <p><strong>Technical Documentation Literacy:</strong> Teams should be capable of creating technical documentation, such as ADRs (Architecture Decision Records) or RFCs (Request for Comments).</p>
+  </li>
+  <li>
+    <p><strong>Technology Standard Awareness:</strong> Teams should be familiar with the organization’s technology standards, including golden paths and guidelines for planning, documentation, security, DevOps, and QA processes.</p>
+  </li>
+  <li>
+    <p><strong>Participation and Citizenship:</strong> Teams should actively participate in relevant communities (like architecture guilds) and global events (such as architecture summits).</p>
+  </li>
+  <li>
+    <p><strong>Tech Debt Management:</strong> Teams must be aware of the technical debt they create and maintain, ideally having a tech debt backlog and a plan for “paying” it back.</p>
+  </li>
+</ol>
+
+<p>Aligning on these rules with the teams helps ensure productive conversations about architectural support. When these conditions are met, architecture practice can help teams level up. When they’re not, architecture support can’t be as effective. However, that doesn’t mean struggling teams are left in the lurch. Architecture can help teams meet these expectations but can’t compensate for their total lack. Teams need to take the initiative and lead. For instance, it’s impractical to have architects working full-time for months with one team as their senior developer. However, architects can coach and help developers grow. Similarly, architects can assist in building relationships with other teams, but the teams themselves need to be active and engaged.</p>
+
+<p>So, set those expectations, establish your rules of engagement, and watch as your architecture function goes from a sparkly unicorn to a well-oiled machine!</p>
 
 <p><br /></p>
 <h2 id="questions-to-consider">Questions to Consider</h2>

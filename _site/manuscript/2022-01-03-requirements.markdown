@@ -11,12 +11,12 @@
 A> **KEY POINTS:**
 A> * I identified the following needs that an architecture function should support: Executing At Scale, Adaptivity, Improving the Quality of Decision-Making with Data, and Maximizing Organizational Alignment & Learning.
 
-Considering the scale and complexity of the organizational context I operated in, it was apparent that conventional approaches of doing architecture that rely on manual processes need to be revised. 
+Grounded Architecture was born as a response to the challenges discussed in the [previous section](#context). Considering the scale and complexity of our organizational context, we needed to revise conventional approaches to architecture that rely on manual processes. 
 
 ![image by gerd altmann from pixabay](assets/images/stress-gc7a712a2f_1920.jpg)
 
 ## Goals
-More specifically, I identified the following needs that an architecture function should support.
+More specifically, I identified the following needs that an architecture function should support in complex organizations.
 
 ### Goal 1: Executing At Scale
 

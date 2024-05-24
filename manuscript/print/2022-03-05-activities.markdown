@@ -94,21 +94,32 @@ The **decision pyramid** highlights that development teams should make most deci
 
 ## Rules of Engagement
 
-One problem with setting an architecture function within an organization is that people may have broad, diverse expectations of architecture. Good architects can do many different things. Which may not be the most effective way for architects to support the organization.
+One of the amusing challenges with setting up an architecture function in an organization is that everyone seems to have a different idea of what "architecture" should entail. It's like asking people to describe a unicorn: some imagine a mythical, majestic creature, while others picture a sparkly horse with a horn that grants wishes. Good architects can do many things, but this versatility might not always be the most effective way to support the organization.
 
-To be effective, I found it helpful to establish and clearly communicate some "rules of engagement" (ROE) to ensure that architects do what is most important. In a corporate or business setting, "rules of engagement" refers to the principles and procedures that govern how employees and departments interact with each other, clients, and stakeholders. This can include communication protocols, decision-making processes, and conflict-resolution mechanisms. ROE establishes clear expectations and guidelines for behavior and actions, helping maintain order, consistency, and fairness in interactions and operations.
+![](assets/images/unicorn.png)
+^image by gordon johnson from pixabay^
 
-While you may need to adapt such rules to your own organization, I found it helpful to set expectations for what the team should be able to do to qualify for the architecture support. In this way, you also set clear expectations of what architecture practice is not supposed to do: 
+To be effective, I've found it crucial to establish and clearly communicate some "rules of engagement" (ROE). Think of ROE as the office playbook for how architects should operate. In a corporate setting, ROE are the principles that guide how employees and departments interact with each other, clients, and stakeholders. This includes communication protocols, decision-making processes, and conflict-resolution mechanisms. Essentially, ROE sets the stage for what's expected and what's not, ensuring everyone plays nicely and fairly.
 
-* **Organizational awareness and connections.** The team should know all relevant stakeholders and actively connect with them. These connections should include product, development, and business stakeholders. Planning should be done in collaboration among all affected teams. The teams should have active working relationships with all relevant global functions (like QA, DevOps, or Security).
-* **Enough capacity and skills.** The team should have enough development capacity with the right skills and seniority to innovate and maintain their products.
-* **Strategic awareness.** The team should be aware of the organization's strategic goals, technology, and other relevant strategies and their place in them. 
-* **Technical documentation literacy.** Teams should be able to create technical documentation such as ADRs or RFCs.
-* **Technology standard awareness.** The team should know all relevant organizations' technology standards, such as golden paths and guidelines for planning, documentation, security, DevOps, and QA processes.
-* **Participation and citizenship.** The team should be aware of and actively participate in relevant communities (such as architecture guilds) and global events (such as architecture summits).
-* **Tech debt management.** The team must be aware of the tech debt it creates and maintains, ideally having a tech debt backlog and a plan for "paying" it back.
+While you may need to tailor these rules to fit your organization, I found it helpful to set expectations for what the team should be able to do to qualify for the architecture support. Here's a handy list of expectations for teams seeking architecture support. This also helps clarify what architecture practice isn't supposed to do:
 
-Alignment on these or similar rules helps in having respectful conversations about architectural support. When these conditions are met, architecture practice can level up teams. When the conditions are not met, architecture support cannot be effective. That does not mean that struggling teams will not get architecture support. I always emphasize that architecture can help teams reach a minimal level of these expectations but cannot compensate fully for the lack of it, and teams need to take the initiative and lead. For instance, it is not practically possible nor scalable to have architects working full-time for months with one team as their senior developer. However, architects can coach and grow developers. Similarly, architects can only help a team build relationships with other teams if they are active and directly engaged.
+1. **Organizational Awareness and Connections:** Teams should know all relevant stakeholders and actively engage with them. This includes product, development, and business stakeholders. Planning should be collaborative across all affected teams, with active working relationships with global functions like QA, DevOps, or Security.
+
+2. **Enough Capacity and Skills:** Teams should have adequate development capacity with the right skills and seniority to innovate and maintain their products.
+
+3. **Strategic Awareness:** Teams should understand the organization’s strategic goals, technologies, and other relevant strategies, and know their role within these frameworks.
+
+4. **Technical Documentation Literacy:** Teams should be capable of creating technical documentation, such as ADRs (Architecture Decision Records) or RFCs (Request for Comments).
+
+5. **Technology Standard Awareness:** Teams should be familiar with the organization’s technology standards, including golden paths and guidelines for planning, documentation, security, DevOps, and QA processes.
+
+6. **Participation and Citizenship:** Teams should actively participate in relevant communities (like architecture guilds) and global events (such as architecture summits).
+
+7. **Tech Debt Management:** Teams must be aware of the technical debt they create and maintain, ideally having a tech debt backlog and a plan for “paying” it back.
+
+Aligning on these rules with the teams helps ensure productive conversations about architectural support. When these conditions are met, architecture practice can help teams level up. When they’re not, architecture support can’t be as effective. However, that doesn’t mean struggling teams are left in the lurch. Architecture can help teams meet these expectations but can’t compensate for their total lack. Teams need to take the initiative and lead. For instance, it’s impractical to have architects working full-time for months with one team as their senior developer. However, architects can coach and help developers grow. Similarly, architects can assist in building relationships with other teams, but the teams themselves need to be active and engaged.
+
+So, set those expectations, establish your rules of engagement, and watch as your architecture function goes from a sparkly unicorn to a well-oiled machine!
 
 ## Questions to Consider
 
