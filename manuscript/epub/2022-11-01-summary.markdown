@@ -17,7 +17,7 @@ This book shared my approach to running an IT architecture practice in larger or
 
 This book introduced Grounded Architecture as an IT architecture practice with two main parts:
 * **Structure**, elements you need to have to run Grounded Architecture practice, and
-* **Guiding Principles**, guiding principles that can help put the ideas of Grounded Architecture into practice.
+* **Guiding Principles**, pieces of advice that can help put the ideas of Grounded Architecture into practice.
 
 Figure 1 shows the structure of the Grounded Architecture consisting of three elements:
 * [Data Foundation](#data),

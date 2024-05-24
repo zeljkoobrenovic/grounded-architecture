@@ -2,8 +2,7 @@
 
 # Goals {#goals}
 
-![](assets/images/arch/iStock-462294849.jpg)
-^image by istock^
+![image by istock](assets/images/arch/iStock-462294849.jpg)
 
 **IN THIS SECTION, YOU WILL:** Understand the requirements I identified for an architecture function in complex organizations.
 
@@ -14,8 +13,7 @@ A> * I identified the following needs that an architecture function should suppo
 
 Grounded Architecture was born as a response to the challenges discussed in the [previous section](#context). Considering the scale and complexity of our organizational context, we needed to revise conventional approaches to architecture that rely on manual processes. 
 
-![](assets/images/stress-gc7a712a2f_1920.jpg)
-^image by gerd altmann from pixabay^
+![image by gerd altmann from pixabay](assets/images/stress-gc7a712a2f_1920.jpg)
 
 ## Goals
 More specifically, I identified the following needs that an architecture function should support in complex organizations.
