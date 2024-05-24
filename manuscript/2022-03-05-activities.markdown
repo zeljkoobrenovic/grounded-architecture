@@ -2,7 +2,8 @@
 
 # Architecture Activities Platform {#activities-platform}
 
-![image by anja from pixabay](assets/images/arch/parliament-366199_1920.jpg)
+![](assets/images/arch/parliament-366199_1920.jpg)
+^image by anja from pixabay^
 
 **IN THIS SECTION, YOU WILL:**  Understand what activities you can do as a part of architecture practice and get tips on creating pragmatic operating models for an architecture practice.
 
@@ -16,7 +17,8 @@ Each organization will have different architectural needs and contexts. When for
  * *"Your architecture team’s job is to **solve your biggest problems**. The best setup is the one that allows it to accomplish that."*
  * *"Your organization has to earn its way to an effective architecture function. **You can’t just plug some architects into the current mess** and expect it to solve all your problems."*
 
-![Figure 1: The structure of Grounded Architecture: Architecture Activities Platform.](assets/images/model-strategy.png)
+![](assets/images/model-strategy.png)
+***Figure 1:** The structure of Grounded Architecture: Architecture Activities Platform.*
 
 Considering the previous two points from Gregor Hohpe, I approach defining an architecture practice with a mindset that there is no one-size-fits-all approach. You must find your own activities and operating models to enable architecture to solve the most critical problems. 
 
@@ -42,7 +44,8 @@ To better understand what I mean by an Architecture Activities Platform, here ar
 
 While exact activities and their scope will depend on an organization setting and will change over time, I usually followed a common operational model in daily work (Figure 2).
 
-![Figure 2: A common operating model I typically use for Grounded Architecture activities.](assets/images/arch/architecture-system.png)
+![](assets/images/arch/architecture-system.png)
+**Figure 2:** *A common operating model I typically use for Grounded Architecture activities.*
 
 Inspired by Gregor Hohpe's strategy-principles-decisions model, I typically used these guidelines:
 * **Engagement mindset**: 
@@ -62,7 +65,9 @@ Another characteristic of this operating model is **shifting left** the architec
 
 Inspired by the famous [Netflix expense policy](https://hbr.org/2014/01/how-netflix-reinvented-hr), I frequently argued that architecture decision policy could be summarized in six words: 
 
-![What I mean by that is that anyone can make architecture decisions, provided that, in addition to their specific requirements, they also think about the impact of their choices on:](assets/images/arch/decision-policy.png)
+![](assets/images/arch/decision-policy.png)
+
+What I mean by that is that anyone can make architecture decisions, provided that, in addition to their specific requirements, they also think about the impact of their choices on:
 
 * **Overall organizational complexity**: Technology is more manageable by limiting tech diversity, size, and dependencies. Limiting technology choices also reduces the attack surface with fewer third-party dependencies and tool ecosystems (build, testing, etc.).
 * **Ease of moving people** between teams (both to get help and help others, get promoted): Do not unnecessarily create exotic islands with few experts in technologies not supported or widely used in the organization. People cannot get help or move across the organization as their expertise may be useless outside the team.
@@ -84,7 +89,26 @@ To give maximal autonomy to the teams while maintaining a **minimal** level of g
 
 The **decision pyramid** highlights that development teams should make most decisions. However, several strategic and area-level choices may provide team decision boundaries. For example, selecting the public cloud provider is typically a CTO-level strategic decision. Similarly, engineering leaders in some areas may want to limit some choices, such as the number of programming languages, to more easily train new people, maintain code, and support moves between teams.
 
-![Figure 3: A decision pyramid. The development teams should make most decisions. However, several strategic and area-level decisions may provide decision boundaries for teams (e.g., a public cloud provider).](assets/images/arch/decision-pyramid.png)
+![](assets/images/arch/decision-pyramid.png)
+***Figure 3:** A decision pyramid. The development teams should make most decisions. However, several strategic and area-level decisions may provide decision boundaries for teams (e.g., a public cloud provider).*
+
+## Rules of Engagement
+
+One problem with setting an architecture function within an organization is that people may have broad, diverse expectations of architecture. Good architects can do many different things. Which may not be the most effective way for architects to support the organization.
+
+To be effective, I found it helpful to establish and clearly communicate some "rules of engagement" (ROE) to ensure that architects do what is most important. In a corporate or business setting, "rules of engagement" refers to the principles and procedures that govern how employees and departments interact with each other, clients, and stakeholders. This can include communication protocols, decision-making processes, and conflict-resolution mechanisms. ROE establishes clear expectations and guidelines for behavior and actions, helping maintain order, consistency, and fairness in interactions and operations.
+
+While you may need to adapt such rules to your own organization, I found it helpful to set expectations for what the team should be able to do to qualify for the architecture support. In this way, you also set clear expectations of what architecture practice is not supposed to do: 
+
+* **Organizational awareness and connections.** The team should know all relevant stakeholders and actively connect with them. These connections should include product, development, and business stakeholders. Planning should be done in collaboration among all affected teams. The teams should have active working relationships with all relevant global functions (like QA, DevOps, or Security).
+* **Enough capacity and skills.** The team should have enough development capacity with the right skills and seniority to innovate and maintain their products.
+* **Strategic awareness.** The team should be aware of the organization's strategic goals, technology, and other relevant strategies and their place in them. 
+* **Technical documentation literacy.** Teams should be able to create technical documentation such as ADRs or RFCs.
+* **Technology standard awareness.** The team should know all relevant organizations' technology standards, such as golden paths and guidelines for planning, documentation, security, DevOps, and QA processes.
+* **Participation and citizenship.** The team should be aware of and actively participate in relevant communities (such as architecture guilds) and global events (such as architecture summits).
+* **Tech debt management.** The team must be aware of the tech debt it creates and maintains, ideally having a tech debt backlog and a plan for "paying" it back.
+
+Alignment on these or similar rules helps in having respectful conversations about architectural support. When these conditions are met, architecture practice can level up teams. When the conditions are not met, architecture support cannot be effective. That does not mean that struggling teams will not get architecture support. I always emphasize that architecture can help teams reach a minimal level of these expectations but cannot compensate fully for the lack of it, and teams need to take the initiative and lead. For instance, it is not practically possible nor scalable to have architects working full-time for months with one team as their senior developer. However, architects can coach and grow developers. Similarly, architects can only help a team build relationships with other teams if they are active and directly engaged.
 
 ## Questions to Consider
 

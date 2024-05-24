@@ -2,7 +2,8 @@
 
 # Introduction {#intro}
 
-![image by fda54 from pixabay](assets/images/arch/staircase-274614_1920.jpg)
+![](assets/images/arch/staircase-274614_1920.jpg)
+^image by fda54 from pixabay^
 
 **IN THIS SECTION, YOU WILL:** Understand what this book is about and how to use it.
 
@@ -17,28 +18,29 @@ This book shares my approach to running an IT architecture practice in larger or
 
 I use the name Grounded Architecture, drawing a parallel with the [**Grounded Theory**](https://en.wikipedia.org/wiki/Grounded_theory) methodology. Grounded Theory emphasizes grounding the development of theories and concepts directly in the empirical data collected from real-world observations and experiences. The term "grounded" refers to the idea that the theory is firmly rooted in the data and is not based on preconceived hypotheses or existing theoretical frameworks. The theory is not developed in advance but emerges from the data as it is analyzed. 
 
-Similarly, I wanted to create an approach to architecture practice that is more **empirical and firmly rooted in data**. An architecture practice that is not developed in advance based on abstract principles and frameworks but emerges and adapts based on empirical evidence.
+Similarly, I wanted to create an approach to architecture practice that is more **empirical and firmly rooted in data**. An architecture practice that is not developed in advance based only on abstract principles and frameworks but also emerges and adapts based on feedback from practice.
 
 This book introduces Grounded Architecture as an IT architecture practice with two main parts:
 * **Structure**, elements you need to have to run Grounded Architecture practice, and
-* **Guiding Principles**, guiding principles that can help put the ideas of Grounded Architecture into practice.
+* **Guiding Principles**, pieces of advice that can help put the ideas of Grounded Architecture into practice.
 
 Figure 1 shows the structure of the Grounded Architecture consisting of three elements:
 * [Data Foundation](#data),
 * [People Foundation](#people),
 * [Architecture Activities Platform](#activities-platform).
 
-![Figure 1: The structure of Grounded Architecture.](assets/images/model.png)
+![](assets/images/model.png)
+***Figure 1:** The structure of Grounded Architecture.*
 
 The *[Data Foundation](#data)* ensures that architects can make data-informed decisions based on a real-time and complete overview of the organization's technology landscape.
 
 The *[People Foundation](#people)* is another essential element of Grounded Architecture. A strong network of people doing architecture across the organization is crucial to ensure that architecture function has any tangible impact.
 
-Lastly, the *[Architecture Activities Platform](#activities-platform)*  defines a set of processes and agreements enabling architects to do everything architecture typically does, leveraging data and People Foundations to create a data-informed, organization-wide impact.
+Lastly, the *[Architecture Activities Platform](#activities-platform)* defines a set of processes and agreements enabling architects to do everything architecture typically does, leveraging data and People Foundations to create a data-informed, organization-wide impact.
 
 As a part of my work on Grounded Architecture, I also provide several guiding principles and tools that I found helpful to introduce the ideas of Grounded Architecture in practice. I grouped these resources into two parts:
 
-* [Being an Architect](#being-architect), where I introduce several guiding principles that generalize my view on what it means to be an architect in practice:
+* [Being an Architect](#being-architect), where I introduce principles that generalize my view on what it means to be an architect in practice:
   * [Architects as Superglue](#superglue)
   * [Skills](#skills)
   * [Impact](#impact)
@@ -67,9 +69,10 @@ The three parts of the book (Structure, Being an Architect, and Doing Architectu
 
 I approach designing an architecture practice in complex organizations as an **art of cooking.** Modern IT **architecture practice is highly adaptive**, and applying complex frameworks and models is not practical and effective. You cannot easily copy an approach from one organization to another. Consequently, I have organized this book into **modules you can mix together in your context**, similar to how a chef may use ingredients in a recipe to create specific outcomes. I share some of the lessons and tips on "cooking," but you must find your way in your "kitchen." You may reuse some of the ingredients and recipes from this book. You may not need some of this book's ingredients. And you will need many more from other sources.
 
-When I start an architecture practice, I view myself as a chef who joins a new restaurant and brings their favorite spices to enhance local dishes. I incorporate **core preferred elements and foundational frameworks** like essential culinary spices and tools. However, the true essence of the architecture, akin to **the unique flavor of a dish, is derived from local factors**. In an organization, these local elements are the people: the **in-house talent and culture that shape the enterprise's distinct identity**. Their knowledge and capabilities are the key ingredients that make the architecture truly effective.
+When I start an architecture practice, I view myself as a chef who joins a new restaurant and brings their favorite spices to enhance local dishes. I incorporate **core preferred elements and foundational frameworks** like essential culinary spices and tools. However, the true essence of the architecture, akin to **the unique flavor of a dish, is derived from local factors**. In an organization, these local elements are the people: the **in-house talent and culture that shape the enterprise's distinct identity**. 
 
-![image by istock](assets/images/arch/iStock-1409729992.jpg)
+![](assets/images/arch/iStock-1409729992.jpg)
+^image by istock^
 
 While basic structures and practices may be consistent across various business scenarios, the most crucial aspects—like fresh, local ingredients in cooking—need to be locally sourced. Skills, experiences, and insights of the organization's staff play a pivotal role in **customizing and refining it to meet specific business needs and goals**. They make the architecture truly tailored and effective.
 
@@ -103,7 +106,8 @@ Many other sources have influenced my work. Some of them you can find in the [Bo
 
 This book **generalizes my experiences** in a written form. I have written these articles for several reasons. Firstly, the act of writing helps me to clarify and improve my ideas (Figure 2). As Gregor Hohpe once noted, I free up some brain cells to learn new things with every sentence I write. 
 
-![Figure 2: Writing a book helped me organize ideas, obtain new insights, improve principles and tools, and share the lessons learned.](assets/images/writing.png)
+![](assets/images/writing.png)
+***Figure 2:** Writing a book helped me organize ideas, obtain new insights, improve principles and tools, and share the lessons learned.*
 
 I also needed this book for the **education of architects** and to **increase awareness about modern architecture practices** in organizations I worked in. Having written content can significantly help to spread the message. As nicely described by Hohpe written word has distinct advantages over the spoken word:
 
@@ -117,7 +121,8 @@ Lastly, by generalizing and putting my experiences on paper, I aim to create mor
 
 This book is a part of the [**collection of open-source tools and resources**](https://obren.io/) I have built in the past ten years to help me in architectural work (Figure 3).
 
-![Figure 3: Grounded Architecture is a part of the collection of open-source tools and resources I have built in the past ten years to help me in architectural work.](assets/images/arch/obren_io_vertical.png)
+![](assets/images/arch/obren_io_vertical.png)
+***Figure 3:** Grounded Architecture is a part of the collection of open-source tools and resources I have built in the past ten years to help me in architectural work.*
 
 The other resources include:
 
@@ -151,7 +156,7 @@ I conclude with a summary and pointers to external resources for those who want 
 
 The [bookshelf](#bookshelf) section shows many other books and resources that have influenced my approach and ideas. 
 
-I invite you to read this book from **beginning to end**, following the progression from data and basic structures to management and organizational topics. However, you can **also browse the text** and start reading whatever interests you. I use many **illustrations** to create easy-to-remember pictures that you can associate with discussed topics, making the book usable across your organization as a coffee table book, serving as an inspiration, or sparking discussions.
+I invite you to read this book from **beginning to end**, following the progression from data and basic structures to management and organizational topics. However, you can **also browse the text** and start reading whatever interests you. I use many **illustrations** to create easy-to-remember pictures that you can associate with discussed topics, making the book usable across your organization as a **coffee table book**, serving as an inspiration, or sparking discussions.
 
 ## Stay Connected
 
@@ -167,5 +172,6 @@ Thank all AVIV Group's Architecture Center of Excellence members and eBay Classi
 
 The cover image is [a photo of Nesciobrug](https://commons.wikimedia.org/wiki/File:Nesciobrug_4.jpg). Credit: the botster, CC BY-SA 2.0, via Wikimedia Commons.
 
-![image by henk monster cc by 3 0 via wikimedia commons](assets/images/arch/nescio_brug_boat.jpeg)
+![](assets/images/arch/nescio_brug_boat.jpeg)
+^image by henk monster cc by 3 0 via wikimedia commons^
 

@@ -92,6 +92,24 @@ The **decision pyramid** highlights that development teams should make most deci
 ![](assets/images/arch/decision-pyramid.png)
 ***Figure 3:** A decision pyramid. The development teams should make most decisions. However, several strategic and area-level decisions may provide decision boundaries for teams (e.g., a public cloud provider).*
 
+## Rules of Engagement
+
+One problem with setting an architecture function within an organization is that people may have broad, diverse expectations of architecture. Good architects can do many different things. Which may not be the most effective way for architects to support the organization.
+
+To be effective, I found it helpful to establish and clearly communicate some "rules of engagement" (ROE) to ensure that architects do what is most important. In a corporate or business setting, "rules of engagement" refers to the principles and procedures that govern how employees and departments interact with each other, clients, and stakeholders. This can include communication protocols, decision-making processes, and conflict-resolution mechanisms. ROE establishes clear expectations and guidelines for behavior and actions, helping maintain order, consistency, and fairness in interactions and operations.
+
+While you may need to adapt such rules to your own organization, I found it helpful to set expectations for what the team should be able to do to qualify for the architecture support. In this way, you also set clear expectations of what architecture practice is not supposed to do: 
+
+* **Organizational awareness and connections.** The team should know all relevant stakeholders and actively connect with them. These connections should include product, development, and business stakeholders. Planning should be done in collaboration among all affected teams. The teams should have active working relationships with all relevant global functions (like QA, DevOps, or Security).
+* **Enough capacity and skills.** The team should have enough development capacity with the right skills and seniority to innovate and maintain their products.
+* **Strategic awareness.** The team should be aware of the organization's strategic goals, technology, and other relevant strategies and their place in them. 
+* **Technical documentation literacy.** Teams should be able to create technical documentation such as ADRs or RFCs.
+* **Technology standard awareness.** The team should know all relevant organizations' technology standards, such as golden paths and guidelines for planning, documentation, security, DevOps, and QA processes.
+* **Participation and citizenship.** The team should be aware of and actively participate in relevant communities (such as architecture guilds) and global events (such as architecture summits).
+* **Tech debt management.** The team must be aware of the tech debt it creates and maintains, ideally having a tech debt backlog and a plan for "paying" it back.
+
+Alignment on these or similar rules helps in having respectful conversations about architectural support. When these conditions are met, architecture practice can level up teams. When the conditions are not met, architecture support cannot be effective. That does not mean that struggling teams will not get architecture support. I always emphasize that architecture can help teams reach a minimal level of these expectations but cannot compensate fully for the lack of it, and teams need to take the initiative and lead. For instance, it is not practically possible nor scalable to have architects working full-time for months with one team as their senior developer. However, architects can coach and grow developers. Similarly, architects can only help a team build relationships with other teams if they are active and directly engaged.
+
 ## Questions to Consider
 
 Your architecture practice job is to solve the biggest problems in your organization. Ask yourself the following questions:
