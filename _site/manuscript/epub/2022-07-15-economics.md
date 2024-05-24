@@ -13,7 +13,20 @@ A> * Architects are frequently asked about the (economic) value of architecture 
 A> * Answering this question is a crucial skill for any senior architect. But it may be difficult to answer this seemingly harmless question concisely and convincingly to a non-technical audience.
 A> * Borrowing from existing literature, I sketch two answers to the question of the economic value of architecture: the return on investment metaphor and the selling options metaphor.
 
-Architects frequently need to answer questions about **the (economic) value of technology investments** and architecture. Answering this question is a crucial skill for any senior architect. But it may be difficult to answer this seemingly harmless question concisely and convincingly to a non-technical audience.
+Economic and risk modeling is an essential exercise in organizations. Organizations conduct financial and risk modeling exercises, such as ROI calculations, for several key reasons:
+
+* **Decision-Making Support**: Evaluate investments and compare alternatives to allocate resources effectively.
+* **Risk Management**: Identify potential risks and perform sensitivity analysis to anticipate and mitigate issues.
+* **Budgeting and Planning**: Aid in resource allocation, detailed budgeting, and long-term forecasting.
+* **Performance Measurement**: Track progress, measure success, and ensure accountability.
+* **Stakeholder Communication**: Build investor confidence and promote transparency with detailed financial projections.
+* **Strategic Planning**: Explore different strategic scenarios and support growth-related decisions.
+* **Operational Efficiency**: Identify cost reduction opportunities and optimize business processes.
+* **Regulatory Compliance**: Ensure accurate financial reporting and assess regulatory risks.
+
+These exercises enable informed decision-making, efficient resource management, and strategic planning, helping organizations achieve their long-term objectives.
+
+As financial and risk modeling is essential in any organization, architects frequently need to answer questions about **the (economic) value of technology investments** and architecture. Answering this question is a crucial skill for any senior architect, but it may take a lot of work to answer this seemingly harmless question concisely and convincingly to a non-technical audience.
 
 Having good architecture requires some investment. This investment is time and effort spent implementing some **architecture pattern**, reducing **technical debt**, or **refactoring code** to align with our architecture. Consequently, we need to explain the expected value of this investment.
 
@@ -51,13 +64,13 @@ The option's value originates from being able to **defer the decision until you 
 
 As with any analogy, the financial options analogy has its limits. Again, it **is not easy to quantify** architecture values and have metrics for the value of separation of concerns or horizontal scaling. Second, while the metaphor may be easy to grasp for an economic audience, it may **require explaining** to other stakeholders, who may be less familiar with financial options markets.
 
-## A Framework
+## A Communication Framework
 
-In the end, I share a framework I developed to explain the economic value of architecture and tech investment (Figure 4).
+In the end, I share a communication framework I developed and used to explain holistically the economic value of architecture and technology investment (Figure 4).
 
 ![Figure 4: A framework for discussing investments and options.](assets/images/economics/economics_framework.png)
 
-I separate the value of investments in two buskets:
+I separate the value of investments in two buckets:
 * Increasing and protecting revenue and
 * Reducing costs and risks.
 

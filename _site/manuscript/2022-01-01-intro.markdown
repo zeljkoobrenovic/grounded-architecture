@@ -2,8 +2,7 @@
 
 # Introduction {#intro}
 
-![](assets/images/arch/staircase-274614_1920.jpg)
-^image by fda54 from pixabay^
+![image by fda54 from pixabay](assets/images/arch/staircase-274614_1920.jpg)
 
 **IN THIS SECTION, YOU WILL:** Understand what this book is about and how to use it.
 
@@ -29,8 +28,7 @@ Figure 1 shows the structure of the Grounded Architecture consisting of three el
 * [People Foundation](#people),
 * [Architecture Activities Platform](#activities-platform).
 
-![](assets/images/model.png)
-***Figure 1:** The structure of Grounded Architecture.*
+![Figure 1: The structure of Grounded Architecture.](assets/images/model.png)
 
 The *[Data Foundation](#data)* ensures that architects can make data-informed decisions based on a real-time and complete overview of the organization's technology landscape.
 
@@ -71,8 +69,7 @@ I approach designing an architecture practice in complex organizations as an **a
 
 When I start an architecture practice, I view myself as a chef who joins a new restaurant and brings their favorite spices to enhance local dishes. I incorporate **core preferred elements and foundational frameworks** like essential culinary spices and tools. However, the true essence of the architecture, akin to **the unique flavor of a dish, is derived from local factors**. In an organization, these local elements are the people: the **in-house talent and culture that shape the enterprise's distinct identity**. Their knowledge and capabilities are the key ingredients that make the architecture truly effective.
 
-![](assets/images/arch/iStock-1409729992.jpg)
-^image by istock^
+![image by istock](assets/images/arch/iStock-1409729992.jpg)
 
 While basic structures and practices may be consistent across various business scenarios, the most crucial aspects—like fresh, local ingredients in cooking—need to be locally sourced. Skills, experiences, and insights of the organization's staff play a pivotal role in **customizing and refining it to meet specific business needs and goals**. They make the architecture truly tailored and effective.
 
@@ -106,8 +103,7 @@ Many other sources have influenced my work. Some of them you can find in the [Bo
 
 This book **generalizes my experiences** in a written form. I have written these articles for several reasons. Firstly, the act of writing helps me to clarify and improve my ideas (Figure 2). As Gregor Hohpe once noted, I free up some brain cells to learn new things with every sentence I write. 
 
-![](assets/images/writing.png)
-***Figure 2:** Writing a book helped me organize ideas, obtain new insights, improve principles and tools, and share the lessons learned.*
+![Figure 2: Writing a book helped me organize ideas, obtain new insights, improve principles and tools, and share the lessons learned.](assets/images/writing.png)
 
 I also needed this book for the **education of architects** and to **increase awareness about modern architecture practices** in organizations I worked in. Having written content can significantly help to spread the message. As nicely described by Hohpe written word has distinct advantages over the spoken word:
 
@@ -121,8 +117,7 @@ Lastly, by generalizing and putting my experiences on paper, I aim to create mor
 
 This book is a part of the [**collection of open-source tools and resources**](https://obren.io/) I have built in the past ten years to help me in architectural work (Figure 3).
 
-![](assets/images/arch/obren_io_vertical.png)
-***Figure 3:** Grounded Architecture is a part of the collection of open-source tools and resources I have built in the past ten years to help me in architectural work.*
+![Figure 3: Grounded Architecture is a part of the collection of open-source tools and resources I have built in the past ten years to help me in architectural work.](assets/images/arch/obren_io_vertical.png)
 
 The other resources include:
 
@@ -172,6 +167,5 @@ Thank all AVIV Group's Architecture Center of Excellence members and eBay Classi
 
 The cover image is [a photo of Nesciobrug](https://commons.wikimedia.org/wiki/File:Nesciobrug_4.jpg). Credit: the botster, CC BY-SA 2.0, via Wikimedia Commons.
 
-![](assets/images/arch/nescio_brug_boat.jpeg)
-^image by henk monster cc by 3 0 via wikimedia commons^
+![image by henk monster cc by 3 0 via wikimedia commons](assets/images/arch/nescio_brug_boat.jpeg)
 

@@ -40,7 +40,7 @@ Image by iStock
 
 <br>
 
-Considering the scale and complexity of the organizational context I operated in, it was apparent that conventional approaches of doing architecture that rely on manual processes need to be revised. 
+Grounded Architecture was born as a response to the challenges discussed in the [previous section](context). Considering the scale and complexity of our organizational context, we needed to revise conventional approaches to architecture that rely on manual processes. 
 
 <div class="quote">
 Considering the scale and complexity of the organizational context I operated in, it was apparent that conventional approaches of doing architecture that rely on manual processes need to be revised.
@@ -53,7 +53,7 @@ Image by <a href="https://pixabay.com/users/geralt-9301/?utm_source=link-attribu
 </div>
 
 ## Goals
-More specifically, I identified the following needs that an architecture function should support.
+More specifically, I identified the following needs that an architecture function should support in complex organizations.
 
 ### Goal 1: Executing At Scale
 
