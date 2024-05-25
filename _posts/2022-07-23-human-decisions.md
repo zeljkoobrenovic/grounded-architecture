@@ -28,7 +28,7 @@ Image by iStock
      color:#888;
  }
     @media only screen and (max-width: 768px) {
-        [class="quote"] {
+        [class= "quote"] {
             display: none;
         }
     }
@@ -67,37 +67,37 @@ Image by iStock
 
 A decision and its outcome are like two different TV show episodes. The outcome is just what happens after the decision's cliffhanger. You can make a totally solid decision and still end up with a plot twist no one saw coming. Remember, outcomes are a cocktail mixed with decision-making, randomness, and a **splash of luck**. And luck, as we all know, is that elusive ingredient we can't control, often playing a starring role in our most complex dramas.
 
-If we only focus on the outcome, neglecting the rich backstory and the information available at the time of the decision, we're akin to a film critic who only watches the ending. This can lead to **misjudging people's abilities**, rewarding or penalizing them based on a volatile mix of luck and skill. Therefore, it's crucial to discern whether someone's success stems from their astute decision-making or sheer chance. When evaluating decisions, it's essential not to be overly dazzled by the outcome.
+Suppose we only focus on the outcome, neglecting the rich backstory and the information available at the time of the decision. In that case, we're akin to a film critic who only watches the ending. This can lead to **misjudging people's abilities**, rewarding or penalizing them based on a volatile mix of luck and skill. Therefore, it's crucial to discern whether someone's success stems from their astute decision-making or sheer chance. When evaluating decisions, it's essential not to be overly dazzled by the outcome.
 
 In IT, outcome bias can come in many different forms, typically leading to the reinforcement of poor practices and processes based on the perceived successful outcome of projects:
 
 **Example 1: Ignoring Best Practices Due to Success**
 
-* A software team decides to release a critical update without performing adequate regression testing due to time constraints. The update is released and, fortunately, no major issues are found by the users.
+* Due to time constraints, a software team decided to release a critical update without performing adequate regression testing. The update has been released, and fortunately, no major issues have been found by the users.
 * Because the update did not cause any immediate problems, the team and management might conclude that regression testing is not always necessary, reinforcing a risky behavior based on a lucky outcome rather than sound engineering practices.
 
 **Example 2: Overlooking Security Flaws**
 
-* A development team delivers a new web application feature without conducting a thorough security review. The feature gains popularity and does not encounter any immediate security incidents.
+* A development team delivers a new web application feature without conducting a thorough security review. The feature has gained popularity and has not encountered any immediate security incidents.
 * The absence of immediate security breaches leads the team to believe that their approach to security is adequate, even though the feature might have significant vulnerabilities that have not yet been exploited. This can result in a continued lax attitude towards security best practices.
 
 **Example 3: Rewarding Speed Over Quality**
-* A software project is completed and delivered significantly ahead of schedule, but with known technical debt and suboptimal code quality. The project is well-received by the client due to its timely delivery.
+* A software project is completed and delivered significantly ahead of schedule but with known technical debt and suboptimal code quality. The project is well-received by the client due to its timely delivery.
 * Management praises the team for their speed, ignoring the long-term consequences of the technical debt. This could lead to future projects prioritizing speed over quality, increasing the risk of long-term maintenance issues and potential project failures.
 
 **Example 4: Hiring Decisions Based on Project Success**
-* A software engineer is hired because they were part of a highly successful project at their previous company. The project's success was primarily due to market conditions and team effort rather than the individual’s contributions.
+* A software engineer is hired because they were part of a highly successful project at their previous company. The project's success was primarily due to market conditions and team effort rather than the individual's contributions.
 * The hiring decision is heavily influenced by the success of the previous project, potentially overlooking the individual's actual skills and contributions. This could result in hiring someone who may not perform as expected in different circumstances, highlighting the risks of evaluating individual capabilities based on outcomes rather than detailed assessment.
 
 **Example 5: Skipping Code Reviews**
 * A development team decides to skip code reviews to save time, and the software is delivered without any major bugs or issues.
-* The team concludes that code reviews are not essential, leading to the institutionalization of skipping this important quality control step. Future projects might suffer from hidden bugs and poor code quality, which could have been caught during code reviews.
+* The team concludes that code reviews are not essential, leading to the institutionalization of skipping this critical quality control step. Future projects might suffer from hidden bugs and poor code quality, which could have been caught during code reviews.
 
 **Example 6: Misinterpreting Customer Feedback**
 * A feature is implemented based on limited customer feedback and is launched successfully. The positive reception leads the team to assume their approach to gathering and acting on feedback is effective.
 * The team might conclude that extensive user research is unnecessary, believing that limited feedback is sufficient to guide development. This could result in future features missing critical insights from a broader user base, potentially leading to less successful outcomes.
 
-It's important for teams to critically evaluate their methodologies and ensure that success is attributed to sound practices rather than favorable outcomes alone.
+It's essential for teams to critically evaluate their methodologies and ensure that success is attributed to sound practices rather than favorable outcomes alone.
 
 ### Hindsight Bias
 
@@ -117,19 +117,19 @@ Hindsight bias in IT can lead to an oversimplified understanding of past events 
 
 **Example 1: Post-Mortem Analysis**
 * A software project fails due to unexpected integration issues with third-party services.
-* During the post-mortem analysis, team members and management claim that the integration issues were obvious and should have been anticipated. They overlook the fact that, at the time of decision-making, the integration appeared straightforward and the issues were not foreseeable with the information available.
+* During the post-mortem analysis, team members and management claimed that the integration issues were obvious and should have been anticipated. They overlooked that the integration appeared straightforward at the time of decision-making, and the issues were not foreseeable with the information available.
 
 **Example 2: Bug Discovery**
 * A critical bug is discovered in the production environment that causes significant downtime.
 * After the bug is found, developers and stakeholders assert that the bug was easy to spot and should have been caught during the testing phase. This perspective disregards the complexity and number of potential issues that testers were dealing with and that the bug was not apparent among the other potential problems at the time.
 
 **Example 3: Feature Failure**
-* A new feature is released, but it fails to gain user adoption and is considered a failure.
+* A new feature is released but fails to gain user adoption, which is considered a failure.
 * Team members and management might claim that they always had doubts about the feature's success and that it was destined to fail. This can lead to the erroneous belief that the failure was evident from the start, even if the decision to proceed with the feature was based on thorough research and positive initial feedback.
 
 **Example 4: Performance Issues**
 * A software system experiences performance degradation under high load conditions that were not tested.
-* After the performance issues arise, team members and stakeholders might say that it was clear the system would not handle high load and that stress testing should have been prioritized. This perspective ignores the fact that other pressing issues and constraints influenced the original decision-making process.
+* After the performance issues arise, team members and stakeholders might say that it was clear the system would not handle high load and that stress testing should have been prioritized. This perspective ignores that other pressing issues and constraints influenced the original decision-making process.
 
 **Example 5: Security Breach**
 * A security vulnerability is exploited in a production system, leading to a data breach.
@@ -150,11 +150,11 @@ By acknowledging the role of hindsight bias, teams can foster a more realistic a
 
 **Confirmation bias** is like having a pair of magical glasses that only let you see what you already believe. When you stumble upon a new fact, your brain gives it a makeover to fit your beliefs, even before your morning coffee.
 
-Being aware of this sneaky bias is essential because your brain loves to play tricks on you. It makes you think you're being objective while sneakily reinforcing your pre-existing ideas. This subconscious nudge can twist your understanding and decision-making without you even noticing.
+Awareness of this sneaky bias is essential because your brain loves playing tricks on you. It makes you think you're being objective while sneakily reinforcing your pre-existing ideas. This subconscious nudge can twist your understanding and decision-making without you even noticing.
 
 Businesses are jumping on the data science bandwagon, hiring data scientists to make supposedly unbiased, data-driven decisions. But guess what? These decisions are often not as data-driven as they claim. For a decision to follow the data, it should be the data leading the dance, not your preconceived notions or biases—a simple idea harder to pull off than a flawless magic trick.
 
-Confirmation bias is like your brain's way of playing a one-sided game of telephone with data. Even the most complex math won't save you if you still interpret results through your belief-tinted glasses. Extensive data analysis can end up being as useful as a screen door on a submarine if it's warped by confirmation bias. The real challenge is resisting the urge to twist the story after seeing the data. So, watch for your brain's tricks and let the data speak for itself—or risk your analysis being as misleading as a carnival funhouse mirror.
+Confirmation bias is like your brain's way of playing a one-sided game of telephone with data. Even the most complex math won't save you if you still interpret results through your belief-tinted glasses. Extensive data analysis can be as helpful as a screen door on a submarine if it's warped by confirmation bias. The real challenge is resisting the urge to twist the story after seeing the data. So, watch for your brain's tricks and let the data speak for itself—or risk your analysis being as misleading as a carnival funhouse mirror.
 
 ![](assets/images/arch/iStock-1307396842.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
@@ -163,13 +163,11 @@ Image by iStock
 
 Beating confirmation bias is like prepping for a magic show: you need a plan before the curtain goes up. **Set clear objectives** before you peek at the data. Consider what the data should mean to you beforehand so you don't get dazzled by surprising plot twists. This way, you can make genuinely data-driven decisions instead of falling into the trap of your brain's sneaky biases.
 
-To really harness the power of data to generate questions and find answers, treat your dataset like a well-organized closet. Split it into two parts: one for analytics (exploration) and one for statistics (data-driven decisions), and never let them mingle. This separation is like keeping your superhero costume and secret identity separate—it stops you from shifting the goalposts once you've seen the data.
-
 Confirmation bias in IT can lead to suboptimal decisions and hinder the effectiveness of problem-solving and innovation in IT:
 
 **Example 1: Tool Selection**
 * A development team prefers using a specific development framework because of their past experiences with it.
-* When choosing a framework for a new project, team members only seek out positive reviews and success stories about their preferred framework, ignoring or downplaying any negative feedback or alternative frameworks that might be better suited for the project’s requirements.
+* When choosing a framework for a new project, team members only seek out positive reviews and success stories about their preferred framework, ignoring or downplaying any negative feedback or alternative frameworks that might be better suited for the project's requirements.
 
 **Example 2: Debugging**
 * A developer believes that a particular module is the source of a bug.
@@ -177,25 +175,25 @@ Confirmation bias in IT can lead to suboptimal decisions and hinder the effectiv
 
 **Example 3: Code Reviews**
 * A senior developer has a high opinion of a specific junior developer's skills.
-* During code reviews, the senior developer may be more inclined to approve the junior developer’s code with minimal scrutiny, interpreting any ambiguities or minor issues as acceptable or easily fixable, while being more critical of other developers' code.
+* During code reviews, the senior developer may be more inclined to approve the junior developer's code with minimal scrutiny, interpreting any ambiguities or minor issues as acceptable or easily fixable, while being more critical of other developers' code.
 
 **Example 4: Performance Testing**
 * A team is confident that their application will perform well under high load due to recent optimizations.
 * When conducting performance tests, they may primarily focus on scenarios where they expect the application to perform well, ignoring or not thoroughly testing edge cases or scenarios that might reveal performance bottlenecks. As a result, they might miss critical issues that only appear under certain conditions.
 
 **Example 5: Estimating Project Timelines**
-* A project manager has a strong belief that the team can meet an aggressive deadline.
-* The project manager seeks out and emphasizes information and past examples where similar deadlines were met, while ignoring or discounting instances where similar projects encountered delays. This can lead to unrealistic project timelines and potential burnout.
+* A project manager strongly believes the team can meet an aggressive deadline.
+* The project manager seeks out and emphasizes information and past examples where similar deadlines were met while ignoring or discounting instances where similar projects encountered delays. This can lead to unrealistic project timelines and potential burnout.
 
 **Example 6: User Feedback**
 * The team has a preconceived notion that users will love a new feature they developed.
-* When gathering user feedback, they may give more weight to positive comments and downplay or dismiss negative feedback. They might also ask leading questions that are likely to elicit positive responses, thus reinforcing their belief that the feature is well-received.
+* When gathering user feedback, they may give more weight to positive comments and downplay or dismiss negative feedback. They might also ask leading questions likely to elicit positive responses, thus reinforcing their belief that the feature is well-received.
 
 **Example 7: Technology Adoption**
 * A company decides to adopt a new technology stack based on industry trends and some initial positive experiences.
-* The team focuses on success stories and favorable benchmarks that support the decision, while disregarding case studies or reports that highlight challenges and failures associated with the new technology. This can lead to underestimating the risks and difficulties of the adoption process.
+* The team focuses on success stories and favorable benchmarks supporting the decision while disregarding case studies or reports highlighting challenges and failures associated with the new technology. This can lead to underestimating the risks and difficulties of the adoption process.
 
-It is important for teams to actively seek out and consider disconfirming evidence, adopt a critical thinking approach, and encourage diverse perspectives to mitigate the impact of confirmation bias. By being aware of this bias, teams can make more balanced and informed decisions, ultimately leading to better software outcomes.
+To mitigate the impact of confirmation bias, teams should actively seek out and consider disconfirming evidence, adopt a critical thinking approach, and encourage diverse perspectives. By being aware of this bias, teams can make more balanced and informed decisions, ultimately leading to better software outcomes.
 
 
 ### Other Human Limitations 
@@ -217,25 +215,25 @@ A jaw-dropping example is in the legal system: studies show that judges can hand
 <br>
 ## Decisiveness
 
-We frequently find ourselves stuck in the indecisiveness trap. Why? Well, people can be indecisive for all sorts of amusing reasons.
+We frequently fall into the indecisiveness trap. Why? Well, people can be indecisive for all sorts of amusing reasons.
 
 ### Bad Habits
 
-First up, bad habits. A lot of folks don’t realize that **dodging a decision is still a decision**. It’s like standing in front of an ice cream shop, unable to choose a flavor until the shop closes, and boom—you've "decided" to go home ice cream-less. Delaying, postponing, or deprioritizing the decision-making process is just making an implicit choice.
+First up, bad habits. Many folks don't realize that **dodging a decision is still a decision**. It's like standing in front of an ice cream shop, unable to choose a flavor until the shop closes, and boom—you've "decided" to go home ice cream-less. Delaying, postponing, or deprioritizing the decision-making process is an implicit choice.
 
 For instance, if a company can't decide on using one consolidated tech stack for its systems, it ends up with a tech landscape messier than a toddler's playroom. That implicit decision comes with all the extra costs and complexities you'd expect.
 
 ### Overwhelmed by Numerous Decisions
 
-Then there’s the classic “**too many choices**” dilemma. When faced with a smorgasbord of decisions, especially those of lower priority, our brains feel like an overstuffed suitcase. Our cognitive capacity is limited—we can’t focus intensely on everything at once. If we spend too much mental energy deciding what color to paint the break room, we might leave no brainpower for the big decisions, like how to keep the servers from catching fire.
+Then there's the classic "**too many choices**" dilemma. When faced with an array of decisions, especially those of lower priority, our brains feel like an overstuffed suitcase. Our cognitive capacity is limited—we can't focus intensely on everything simultaneously. Suppose we spend too much mental energy deciding what color to paint the break room. In that case, we might leave no brainpower for the big decisions, like how to keep the servers from catching fire.
 
-For instance, sometimes people treat IT architects like decision-making oracles, asking them to approve every trivial change (like upgrading a minor library version). This is like asking the CEO to decide the office snack rotation—it’s a sure way to waste their strategic brainpower.
+For instance, sometimes people treat IT architects like decision-making oracles, asking them to approve every trivial change (like upgrading a minor library version). This is like asking the CEO to decide on the office snack rotation—it's a sure way to waste their strategic brainpower.
 
 ### Emotions and Grief
 
-Indecisiveness also loves to rear its head when emotions are involved, especially when all options are about as appealing as a soggy sandwich. When faced with **undesirable choices**, the practical move is to pick the least bad option. After thoroughly evaluating your choices and identifying the least awful one, it's time to bite the bullet and make the call.
+Indecisiveness also loves to rear its head when emotions are involved, especially when all options are as appealing as a soggy sandwich. When faced with **undesirable choices**, the practical move is to pick the least bad option. After thoroughly evaluating your choices and identifying the least awful one, it's time to bite the bullet and make the call.
 
-People often get tangled in a web of grief or frustration when stuck with lousy options, hoping for a miracle solution that’ll never come. It’s like searching for unicorns in a petting zoo. Once it’s clear that no better options will appear, it takes courage to move forward with the least terrible choice.
+People often get tangled in a web of grief or frustration when stuck with lousy options, hoping for a miracle solution that'll never come. It's like searching for unicorns in a petting zoo. Once it's clear that no better options will appear, it takes courage to move forward with the least terrible choice.
 
 
 <br>
@@ -244,7 +242,7 @@ People often get tangled in a web of grief or frustration when stuck with lousy 
 Human intuition plays a vital role in decision-making. Robert Glass provided one of the best definitions of intuitions, describing it as a function of our mind that allows it to access **a rich fund of historically gleaned information** we are not necessarily aware we possess by **a method we do not understand** ([Glass, 2006; page 125)](https://www.amazon.com/Software-Creativity-2-0-Robert-Glass/dp/0977213315). Our unawareness of such knowledge does not mean we cannot use it.
 
 
-In the context of decision-making, one of the main advantages of intuition is that accessing it is **a rapid process**, making **intuitive decisions straightforward**. Intuition is particularly useful for **low-value decisions** with low stakes, and **a quick resolution is preferable**. As we'll explore in future discussions on prioritization and decisiveness, seeking perfection in every decision is impractical due to limited time and energy. Therefore, it's essential to choose where to focus your efforts.
+One of the main advantages of intuition in decision-making is that accessing it is a rapid process, making intuitive decisions straightforward. Intuition is particularly useful for low-value decisions with low stakes, and a quick resolution is preferable. As we'll explore in future discussions on prioritization and decisiveness, seeking perfection in every decision is impractical due to limited time and energy. Therefore, it's essential to choose where to focus your efforts.
 
 ![](assets/images/arch/iStock-1193842896.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
@@ -258,31 +256,31 @@ Intuition is especially appropriate under certain conditions:
 
 Conversely, you should avoid relying on intuition too much in situations where more effort is warranted, including those with ample time, high importance, lack of expertise, and a structured decision-making process.
 
-Intuition in IT can be a powerful tool when it is informed by experience and used in conjunction with data and thorough analysis. It can guide efficient problem-solving and quick decision-making in familiar contexts. However, overreliance on intuition without considering empirical evidence and diverse viewpoints can lead to significant mistakes, especially in unfamiliar or complex situations. 
+Intuition in IT can be a powerful tool when informed by experience and used in conjunction with data and thorough analysis. It can guide efficient problem-solving and quick decision-making in familiar contexts. However, overreliance on intuition without considering empirical evidence and diverse viewpoints can lead to significant mistakes, especially in unfamiliar or complex situations. 
 
 #### Good Example: Intuitive Debugging
 
-**Scenario:** A seasoned software engineer is working on a complex system that suddenly starts behaving unexpectedly. The logs provide little information, and initial debugging efforts do not yield obvious clues.
+**Scenario:** A seasoned software engineer is working on a complex system that suddenly starts behaving unexpectedly. The logs provide little information, and initial debugging efforts do not yield apparent clues.
 
 **Good Use of Intuition**
 
 1. **Pattern Recognition**: Drawing on years of experience, the engineer intuitively suspects that the issue might be related to a recent configuration change rather than a code issue.
-2. **Focused Investigation**: The engineer quickly narrows down the potential causes based on this intuition, focusing on recent changes in the configuration files.
-3. **Quick Resolution**: This intuition-driven approach leads to the discovery of a misconfiguration in a matter of minutes, saving the team hours of potentially fruitless debugging.
+2. **Focused Investigation**: Based on this intuition, the engineer quickly narrows down the potential causes, focusing on recent changes in the configuration files.
+3. **Quick Resolution**: This intuition-driven approach reveals a misconfiguration in minutes, saving the team hours of potentially fruitless debugging.
 
-**Outcome**: The engineer's intuition, honed by experience, helps quickly identify and resolve the issue, demonstrating how intuition can efficiently guide problem-solving in complex scenarios and under time-pressure.
+**Outcome**: The engineer's intuition, honed by experience, helps quickly identify and resolve the issue, demonstrating how intuition can efficiently guide problem-solving in complex scenarios and under time pressure.
 
 #### Bad Example: Intuitive Decision on Technology Stack
 
-**Scenario:** A new project is starting, and the team needs to decide on the technology stack. The team lead has a strong intuitive preference for a specific new programming language and framework that they have used in the past.
+**Scenario:** A new project is starting, and the team needs to decide on the technology stack. The team lead has a strong intuitive preference for a specific new programming language and framework they have used.
 
 **Bad Use of Intuition**
 
-1. **Ignoring Data**: The team lead dismisses concerns and data presented by team members about the scalability and community support of the chosen technology. There was ample time to do proper analysis.
-2. **Overconfidence**: Relying solely on personal intuition and past experience, the team lead pushes forward with the technology despite its known limitations for the project’s specific needs.
+1. **Ignoring Data**: The team lead dismisses team members' concerns and data about the scalability and community support of the chosen technology. There was ample time to do proper analysis.
+2. **Overconfidence**: Relying solely on personal intuition and past experience, the team lead pushes forward with the technology despite its known limitations for the project's specific needs.
 3. **Future Problems**: As the project progresses, the team encounters significant issues related to performance and maintainability. These issues could have been mitigated or avoided by choosing a more appropriate technology stack based on objective criteria and thorough evaluation.
 
-**Outcome**: The team lead’s overreliance on intuition leads to a poor technology choice, resulting in increased technical debt, reduced productivity, and ultimately a less successful project. This example highlights how intuition, when used without adequate consideration of data and other perspectives, can lead to suboptimal decisions.
+**Outcome**: The team lead's overreliance on intuition leads to a poor technology choice, resulting in increased technical debt, reduced productivity, and ultimately a less successful project. This example highlights how intuition can lead to suboptimal decisions when used without adequate consideration of data and other perspectives.
 
 Balancing intuition with data-driven decision-making and collaborative input often leads to the best outcomes in software engineering.
 
@@ -296,15 +294,15 @@ Effective decision-making often involves recognizing that **you might not be the
 Image by iStock
 </div>
 
-**Group decision-making** offers significant advantages. While you might believe you have the best solutions, **incorporating diverse perspectives** can help **cover your blind spots**. Multiple decision-makers can **counterbalance the extreme tendencies** of an individual and compensate for **human limitations like fatigue**.
+Group decision-making offers significant advantages. While you might believe you have the best solutions, incorporating diverse perspectives can help cover your blind spots. Multiple decision-makers can counterbalance an individual's extreme tendencies and compensate for human limitations like fatigue.
 
 While group decision-making might sometimes constrain individual creativity, it also **provides safeguards against poor decisions** and **aligns individual motives with the organization's goals** (see the principal-agent problem in the next section). Having several independent decision-makers can align individual incentives with the organization's needs, addressing this problem.
 
 However, group decision-making isn't perfect. It **increases complexity** as it **requires higher decision-making skills** from each member. True **collaboration in decision-making** is more challenging than individual decision-making. It also tends to **slow down the decision process**.
 
-Moreover, the benefits of group decision-making, like balancing individual biases, **rely on the independence of the decision-makers**. If everyone is in the same room, independence can be compromised by factors like **charisma or status**, potentially allowing the loudest voice to dominate, rather than the wisest.
+Moreover, the benefits of group decision-making, like balancing individual biases, **rely on the independence of the decision-makers**. If everyone is in the same room, independence can be compromised by factors like **charisma or status**, potentially allowing the loudest voice to dominate rather than the wisest.
 
-Group settings can also **devolve into social exercises**, where **personal ego overshadows open-mindedness** to new information. Being aware of these pitfalls allows you to create rules that foster independent perspectives.
+Group settings can also **devolve into social exercises**, where **personal ego overshadows open-mindedness** to new information. Awareness of these pitfalls allows you to create rules that foster independent perspectives.
 
 The **role of the note-taker** in group settings is also influential, as is the phenomenon of **responsibility diffusion**, where **unclear responsibilities** lead to reduced individual contribution.
 
@@ -331,7 +329,7 @@ Group decision-making dynamics in IT can take various forms, including consensus
 
 **Dynamics:**
 1. **Top-Down Directive**: Senior management decides on the necessity of the new security policy based on compliance needs and risk assessments.
-2. **Expert Input**: Security experts within the organization are consulted to provide detailed recommendations on the measures to implement.
+2. **Expert Input**: Security experts within the organization are consulted to provide detailed recommendations on implementing measures.
 3. **Implementation Plan**: The IT manager creates an implementation plan based on the expert recommendations and communicates it to the team.
 4. **Team Execution**: The IT team is tasked with executing the plan, following the directives provided by management.
 
@@ -351,7 +349,7 @@ Group decision-making dynamics in IT can take various forms, including consensus
 
 #### Example 4: Conflict Resolution in Architecture Decisions
 
-**Scenario:** The development team is divided over whether to build a new application using a microservices architecture or a monolithic architecture.
+**Scenario:** The development team is divided over whether to build a new application using a microservices or monolithic architecture.
 
 **Dynamics**
 
@@ -359,11 +357,11 @@ Group decision-making dynamics in IT can take various forms, including consensus
 2. **Evidence Gathering**: Both sides present evidence, including case studies, technical articles, and expert opinions, to support their arguments.
 3. **Facilitated Discussion**: A neutral facilitator (such as an architect) leads a structured discussion to explore the pros and cons of each approach.
 4. **Compromise and Integration**: The team seeks a compromise or an integrated solution, such as starting with a monolithic architecture and planning to evolve to microservices as the application grows.
-5. **Final Decision**: After thorough discussion and consideration of all viewpoints, the team decides to balance immediate needs with future scalability.
+5. **Final Decision**: After thoroughly discussing and considering all viewpoints, the team decides to balance immediate needs with future scalability.
 
-**Influence**: Structured conflict resolution ensures that all voices are heard and helps the team make a well-considered decision. By combining the strengths of different viewpoints, this process can enhance mutual understanding and lead to better decisions.
+**Influence**: Structured conflict resolution ensures that all voices are heard and helps the team make a well-considered decision. Combining the strengths of different viewpoints can enhance mutual understanding and lead to better decisions.
 
-Each method has its advantages and can be suitable for different decisions. Understanding these group dynamics can help teams navigate complex decisions more effectively, leading to better outcomes and stronger team cohesion. 
+Each method has its advantages and can be suitable for different decisions. Understanding these group dynamics can help teams navigate complex choices more effectively, leading to better outcomes and stronger team cohesion. 
 
 <br>
 ## Questions to Consider

@@ -2,7 +2,8 @@
 
 # Economic Modeling: ROI and Financial Options {#economics}
 
-![image by nattanan kanchanaprat from pixabay](assets/images/arch/money-g45f6788de_1920.jpg)
+![](assets/images/arch/money-g45f6788de_1920.jpg)
+^image by nattanan kanchanaprat from pixabay^
 
 **IN THIS SECTION, YOU WILL:** Get two answers to the question of the economic value of architecture: the return on investment metaphor and the selling options metaphor.
 
@@ -10,7 +11,7 @@
 
 A> **KEY POINTS:**
 A> * Architects are frequently asked about the (economic) value of architecture or technology investments.
-A> * Answering this question is a crucial skill for any senior architect. But it may be difficult to answer this seemingly harmless question concisely and convincingly to a non-technical audience.
+A> * Answering this question is a crucial skill for any senior architect. However, answering it concisely and convincingly to a non-technical audience may be difficult.
 A> * Borrowing from existing literature, I sketch two answers to the question of the economic value of architecture: the return on investment metaphor and the selling options metaphor.
 
 Economic and risk modeling is an essential exercise in organizations. Organizations conduct financial and risk modeling exercises, such as ROI calculations, for several key reasons:
@@ -24,11 +25,11 @@ Economic and risk modeling is an essential exercise in organizations. Organizati
 * **Operational Efficiency**: Identify cost reduction opportunities and optimize business processes.
 * **Regulatory Compliance**: Ensure accurate financial reporting and assess regulatory risks.
 
-These exercises enable informed decision-making, efficient resource management, and strategic planning, helping organizations achieve their long-term objectives.
+These exercises enable informed decision-making, efficient resource management, and strategic planning, helping organizations achieve long-term objectives.
 
-As financial and risk modeling is essential in any organization, architects frequently need to answer questions about **the (economic) value of technology investments** and architecture. Answering this question is a crucial skill for any senior architect, but it may take a lot of work to answer this seemingly harmless question concisely and convincingly to a non-technical audience.
+As financial and risk modeling is essential in any organization, architects frequently need to answer questions about the (economic) value of technology investments and architecture. Answering this question is a crucial skill for any senior architect. Still, it may take much work to answer this seemingly harmless question concisely and convincingly to a non-technical audience without sounding like a techie version of Shakespeare.
 
-Having good architecture requires some investment. This investment is time and effort spent implementing some **architecture pattern**, reducing **technical debt**, or **refactoring code** to align with our architecture. Consequently, we need to explain the expected value of this investment.
+Good architecture requires some investment. This investment is time and effort spent implementing an architecture pattern, reducing technical debt, or refactoring code to align with our architecture. Consequently, we need to explain the expected value of this investment. It's all about showing that a little investment now will save a lot of headaches—and money—later.
 
 In this post, I sketch two answers to the question of the economic value of architecture:
 * the return-on-investment (ROI) metaphor
@@ -38,27 +39,30 @@ In this post, I sketch two answers to the question of the economic value of arch
 
 In economic terms, **return on investment (ROI)** is a ratio between profits and costs over some period. In other words, ROI shows how much you **get back from your investment**. A high ROI means the investment's gains compare favorably to its cost. As a performance measure, you can use ROI to evaluate an investment's efficiency or compare the efficiencies of several different investments (Figure 1).
 
-![Figure 1: An illustration of the ROI metaphor. Investment leads to lower costs or higher value. It takes some time to reach a break-even point when an additional value has compensated for the investment. After the break-even point, we earn more than without the investment.](assets/images/economics/roi-model.png)
+![](assets/images/economics/roi-model.png)
+**Figure 1:** *An illustration of the ROI metaphor. Investment leads to lower costs or higher value. It takes some time to reach a break-even point when an additional value has compensated for the investment. After the break-even point, we earn more than without the investment.*
 
 An investment in **good architecture can help increase the ROI of IT**. An excellent example of using the ROI metaphor to argue for investing in architecture is the port of Martin Fowler, who uses this argument to argue for the importance of [investing in improving internal quality](https://martinfowler.com/articles/is-quality-worth-cost.html). Figure 2 summarizes his argument.
 
-Well-architect systems are typically much **easier to understand and change**. As our systems continuously evolve, the return on investing in making a system easier to understand and change can be significant. The primary value of such investment comes from generating **fewer errors and bugs**, more straightforward modifications, **short time-to-market**, and improved developer satisfaction.
+Well-architected systems are typically much easier to understand and change. As our systems continuously evolve, the return on investing in making them easier to understand and change can be significant. The primary value of such investment comes from generating fewer errors and bugs, more straightforward modifications, a short time to market, and improved developer satisfaction.
 
-![Figure 2: Software with high internal quality gets a short initial slowdown but delivers more rapidly and cheaply later (source martinfowler.com/articles/is-quality-worth-cost.html).](assets/images/economics/roi-internal-quality.png)
+![](assets/images/economics/roi-internal-quality.png)
+**Figure 2:** *Software with high internal quality gets a short initial slowdown but delivers more rapidly and cheaply later (source martinfowler.com/articles/is-quality-worth-cost.html).*
 
-An ROI metaphor is easy to understand by a non-technical audience, but it has limitations to describe the value of architecture. The first limitation is that **measuring architecture, quality, and productivity is challenging**. Consequently, too much focus on ROI can lead to an obsession with cost-cutting. Costs are easy to measure, but the value of attributes like shorter time-to-market is much more difficult to quantify. Second, ROI is a good measure, but only some investments in architecture will increase profit. That is because we frequently have to make decisions with lots of uncertainty. Nevertheless, that does not mean that we should not make such investments. The following section explains why.
+An ROI metaphor is easy to understand by a non-technical audience. Still, it has limitations when describing the value of architecture. The first limitation is that **measuring architecture, quality, and productivity is challenging**. Consequently, too much focus on ROI can lead to an obsession with cost-cutting. Costs are easy to measure, but the value of attributes like shorter time-to-market is much more difficult to quantify. Second, ROI is a good measure, but only some investments in architecture will increase profit. That is because we frequently have to make decisions with lots of uncertainty. Nevertheless, that does not mean that we should not make such investments. The following section explains why.
 
 ## The Financial Options Metaphor
 
-Gregor Hohpe has frequently argued that the best way to explain architecture to non-technical people is by using **a financial option metaphor.** A financial option is **a right, but not an obligation, to buy or sell financial instruments at a future point in time with some predefined price**. As such, a financial option is **a way to defer a decision**: instead of deciding to buy or sell a stock today, you have the right to make that decision in the future at a known price.
+Gregor Hohpe has frequently argued that the best way to explain architecture to non-technical people is by using **a financial option metaphor.** A financial option is **a right, but not an obligation, to buy or sell financial instruments at a future time with some predefined price**. As such, a financial option is **a way to defer a decision**: instead of deciding to buy or sell a stock today, you have the right to make that decision in the future at a known price.
 
-Options are **not free**, and a complex market for buying and selling financial options exists.Fischer Black and Myron Scholes managed to compute the value of an option with the [Black-Scholes Formula](https://en.wikipedia.org/wiki/Black%E2%80%93Scholes_model). A critical parameter in establishing the option's value is the price at which you can purchase the stock in the future, the so-called **strike price**. The lower this strike price, the higher the value of the option (Figure 3).
+Options are not free, and a complex market exists for buying and selling financial options. Fischer Black and Myron Scholes computed the value of an option with the [Black-Scholes Formula](https://en.wikipedia.org/wiki/Black%E2%80%93Scholes_model). A critical parameter in establishing the option's value is the price at which you can purchase the stock in the future, the so-called strike price. The lower this strike price, the higher the value of the option (Figure 3).
 
-![Figure 3: An illustration of the financial option metaphor. Options have a price, leading to higher initial costs. However, if an opportunity can generate more value, we gain additional profit (or lose it if we do not invest).](assets/images/economics/options-model.png)
+![](assets/images/economics/options-model.png)
+**Figure 3:** *An illustration of the financial option metaphor. Options have a price, leading to higher initial costs. However, if an opportunity can generate more value, we gain additional profit (or lose it if we do not invest).*
 
 Applying the financial option metaphor to IT architecture, we can argue that **buying options gives the business and IT a way to defer decisions**. Gregor Hohpe gives an example of the server size you need to purchase for a system. If your application is architected to be horizontally scalable, you can defer this decision: additional (virtual) servers can be ordered later at a known unit cost.
 
-Another example of an IT option is architecting your system to **separate concerns**. For instance, deciding early what authentication mechanism an application should use may be challenging. A system that properly separates concerns allows changes to be localized so that updating one aspect of a system does not require expensive changing of the whole system. Such isolation will enable you to change a decision late in the project or even after go-live, at a nominal cost. For example, if authentication is a well-isolated concern, you will need to refactor only a minimal part of the system to use another authentication system.
+Another example of an IT option is architecting your system to **separate concerns**. For instance, deciding early what authentication mechanism an application should use may be challenging. A system that properly separates concerns allows changes to be localized so that updating one aspect of a system does not require expensive changing of the whole system. Such isolation will enable you to change a decision late in the project or even after go-live, at a nominal cost. For example, if authentication is a well-isolated concern, you must refactor only a minimal part of the system to use another authentication system.
 
 The option's value originates from being able to **defer the decision until you have more information** while fixing the price. In times of uncertainty, the value of the options that architecture sells only increases.
 
@@ -68,7 +72,8 @@ As with any analogy, the financial options analogy has its limits. Again, it **i
 
 In the end, I share a communication framework I developed and used to explain holistically the economic value of architecture and technology investment (Figure 4).
 
-![Figure 4: A framework for discussing investments and options.](assets/images/economics/economics_framework.png)
+![](assets/images/economics/economics_framework.png)
+**Figure 4:** *A framework for discussing investments and options.*
 
 I separate the value of investments in two buckets:
 * Increasing and protecting revenue and
@@ -86,7 +91,9 @@ The second bucket relates to the more invisible part of the value created by inv
 * **Investments in reducing risk costs**. When your system is down, your business is disrupted, and you lose revenue. According to [diverse studies](https://www.atlassian.com/incident-management/kpis/cost-of-downtime), the average cost of downtime ranges from $2,300 to $9,000 per minute. You must invest in keeping your system reliable and secure to avoid losing revenue and disrupting your business. While the benefits of these types of investments are huge, the challenge with building the business case for this investment is that a reliable system will only create a few incidents, making it less tangible for many stakeholders to understand the importance of continuing such investments. Or, as noted by Repenning and Sterman "[Nobody Ever Gets Credit for Fixing Problems that Never Happened](https://web.mit.edu/nelsonr/www/CMR_Getting_Quality_v1.0.html)".
 
 {pagebreak}
-![Figure 5: A downward spiral of poorly maintainable code. As such systems grow in size and complexity, more developers are needed to maintain them. If the system is not easy to maintain, people will avoid touching code as they can easily break it. This situation will lead to a workaround (such as copying and pasting code and diverse hacks). These inefficient workarounds further increase the size and complexity of code, requiring even more developers to maintain it. And the vicious cycle continues.](assets/images/economics/unsustainable-sw-dev.png)
+![](assets/images/economics/unsustainable-sw-dev.png)
+
+**Figure 5:** *A downward spiral of poorly maintainable code. As such systems grow in size and complexity, more developers are needed to maintain them. If the system is not easy to maintain, people will avoid touching code as they can easily break it. This situation will lead to a workaround (such as copying and pasting code and diverse hacks). These inefficient workarounds further increase the size and complexity of code, requiring even more developers to maintain it. And the vicious cycle continues.*
 
 ## Questions to Consider
 

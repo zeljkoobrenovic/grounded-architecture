@@ -43,15 +43,16 @@ Image by <a href="https://pixabay.com/users/nataliaaggiato-470329/?utm_source=li
 > * This view is well aligned with the ideas of Grounded Architecture.
 
 <br>
-The book [Six Simple Rules: How to Manage Complexity without Getting Complicated](https://bcg.com/capabilities/organization/smart-simplicity/six-rules-overcoming-complexity), by Yves Morieux and Peter Tollman, is another source of inspiration for my vision of the Architecture practice. Morieux and Tollman introduced the concept of **Smart Simplicity** with six rules or strategies that enable organizations to promote **new behaviors and improve performance**.
+The book Six Simple Rules: How to Manage Complexity without Getting Complicated by Yves Morieux and Peter Tollman offered fresh air for my vision of architecture practice. Morieux and Tollman introduced the concept of Smart Simplicity with six rules or strategies that enable organizations to promote new behaviors and improve performance. The Six Simple Rules approach emphasizes that in today's business environment, you **need to set up organizational structures based on cooperation**.
 
 <div class="quote">
-In today’s complicated business environments, you must set up organizational structures based on cooperation.
+In today's complicated business environments, you must set up organizational structures based on cooperation.
 </div>
 
-The Six Simple Rules approach emphasizes that in today’s business environment, you **need to set up organizational structures based on cooperation**. To deal with complexity, organizations should depend on the judgment of their people, giving them more autonomy to act. It also depends on these people cooperating to utilize the organization's capabilities to cope with complex problems.
 
-In this chapter, I explore the connection between the ideas of Grounded Architecture and Six Simple Rules. The Six Simple Rules ideas have been a very inspirational source of my work. [**Conway Law**](https://martinfowler.com/bliki/ConwaysLaw.html) illustrates that the link between organizational structures and IT architecture is strong. In addition, the Six Simple Rules approach and architecture work deal with the issue of **managing complexity**. 
+The Six Simple Rules approach is a practical solution for today's complex business environment. It advocates for the setup of organizational structures that harmonize, empowering individuals with more autonomy to act. This approach is about trusting the capabilities of the organization's people to handle complex problems, fostering a cooperative and efficient work environment.
+
+In this chapter, I explore how Grounded Architecture and Six Simple Rules are best friends. The Six Simple Rules ideas have been a significant source of inspiration for my work. [**Conway's Law**](https://martinfowler.com/bliki/ConwaysLaw.html) shows that the link between organizational structures and IT architecture is like peanut butter and jelly—strong and better together. The Six Simple Rules approach and architectural work are all about managing complexity without getting tangled up.
 
 
 <br>

@@ -143,6 +143,7 @@ Lastly, architects can help by staying well-connected to software engineering pr
 * **Promote and demonstrate best-in-class** of code, documentation, testing, and monitoring practices.
 * **Solve challenging technical and execution problems** that few others can.
 
+<br>
 ## Questions to Consider
 
 * *Reflect on the impact you have had on your organization. Have you prioritized your work based on global strategic objectives, and what has been the outcome?*

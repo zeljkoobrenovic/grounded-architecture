@@ -23,7 +23,7 @@ When a Grounded Architecture structure is in place, it can have a significant po
 
 ## Executing at Scale
 
-The first goal was to find a way to support hundreds of teams, and thousands of projects, with significant complexity and diversity. 
+The first goal was to find a way to support hundreds of teams and thousands of projects with significant complexity and diversity. 
 
 ![](assets/images/arch/earth-g8ffaadaba_1920.png)
 ^image by wikiimages from pixabay^
@@ -47,7 +47,7 @@ The three elements of the Grounded Architecture structure provide a highly flexi
 * **Having the [People Foundation](#people)** enables a more flexible and sustainable architectural function. A central team can help **mitigate distributed teams' temporary lack of capacity**. And with well-connected architects, the architecture function can still **benefit the organization without a strong central team**.
 * **The [Architecture Activities Platform](#activities-platform)** can support adaptivity through its **flexible setting** and distribution of decision-making across the company. This way, we can avoid an architecture function becoming a simple point of failure and a bottleneck.
 
-Grounding the architecture with data and people connections also makes the work of **most senior architects much more flexible**. As they can delegate most architectural decisions to teams, the most experienced technologists can be available to spend more time on crucial strategic initiatives, such as defining cloud, data, or platform strategies or supporting decisions on mergers and acquisitions.
+Grounding the architecture with data and people connections also makes the work of most senior architects much more flexible. As they can delegate most architectural decisions to teams, the most experienced technologists can spend more time on crucial strategic initiatives, such as defining cloud, data, or platform strategies or supporting decisions on mergers and acquisitions.
 
 ## Improving the Quality of Decision-Making with Data
 
@@ -85,7 +85,7 @@ Misalignment frequently happens in big organizations. Grounded Architecture stru
 A> *"Good judgment comes from experience, and experience comes from bad judgment."* -- Fred Brooks
 A> *" I expect you to learn to be better each day. I challenge you to look at each working day as an opportunity to learn more and, by doing so, to grow as a person."* -- L. David Marquet
 
-The last goal is that architecture should help organizations learn quickly, stay up-to-date with emerging technologies and industry trends, and recommend technology upgrades. Learning is one of the primary daily tasks of architects. Architects must **proactively identify relevant new technology developments**. They must create pragmatic technology recommendations for concrete platforms across the organization based on their understanding of these developments.
+The last goal is that architecture should help organizations learn quickly, stay up-to-date with emerging technologies and industry trends, and recommend technology upgrades. Learning is one of the primary daily tasks of architects. Architects must proactively identify relevant new technology developments and create pragmatic technology recommendations for concrete platforms across the organization based on their understanding of these developments.
 
 ![](assets/images/arch/iStock-871461580.jpg)
 ^image by istock^
