@@ -56,12 +56,13 @@ Image by iStock
 "Excessive complexity is nature's punishment for organizations that are unable to make decisions." -Gregor Hohpe
 </div>
 
-In this and next chapter, I summarized some of the critical lessons I learned from Cassie Kozyrkov's resources and used them in practice. In their daily work, IT architects are involved in decision-making in several ways: 
-* By **making decisions** (e.g., moving applications from a private data center to a public cloud). 
+Now, in this and the next chapter, I want to share some golden nuggets I've gleaned from her teachings and how I've used them in the wild world of IT. IT architects, like decision-making ninjas, face critical choices every day. Here’s how they flex their decision intelligence:
+
+* By **making decisions** (e.g., deciding which cloud provider and services to use when moving applications from a private data center to a public cloud). 
 * By **creating mechanisms** for teams to make better decisions (e.g., [advisory forums](https://martinfowler.com/articles/scaling-architecture-conversationally.html)).
 * By **creating [options](https://architectelevator.com/architecture/architecture-options/)** for teams to make decisions later.
 
-In all these situations, decision intelligence is a crucial skill for architects. 
+In every twist and turn, decision intelligence is the secret sauce that makes IT architects the unsung heroes of the tech world. So, grab your data-driven cape and dive into the art of smart decision-making!
 
 
 ![](assets/images/arch/iStock-1194231226.jpg)
@@ -83,7 +84,9 @@ Kozyrkov defines a decision as more than just selecting from available options. 
 "If you ever drop your keys into a river of molten lava, let'em go... because man, they're gone!" -Jack Handy
 </div>
 
-Less obviously, optionality is also a resource. Choosing between two options may seem cost-free. However, the possibility of selecting some options is frequently lost once you decide. This loss of opportunity is considered an irrevocable allocation of resources. For instance, before starting a project in IT, you can select from many programming languages and frameworks to implement your system. However, after that, it is very costly to change that decision as you need to rewrite your system entirely in another language. Having or losing options is directly related to a frequent topic of IT, a vendor lock-in, and it is one of the main drivers behind [creating or avoiding lock-in](https://martinfowler.com/articles/oss-lockin.html).
+Less obviously, optionality is also a resource. Choosing between two options may seem cost-free. However, the possibility of selecting some options is frequently lost once you decide. This loss of opportunity is considered an irrevocable allocation of resources. For instance, before starting a project in IT, you can select from many programming languages and frameworks to implement your system. However, after that, it is very costly to change that decision as you need to rewrite your system entirely in another language. 
+
+Having or losing options is directly related to a frequent topic of IT, a vendor lock-in, and it is one of the main drivers behind [creating or avoiding lock-in](https://martinfowler.com/articles/oss-lockin.html). Lock-in in IT refers to a situation where a customer becomes dependent on a specific vendor for products and services, making switching to an alternative solution difficult, costly, or time-consuming. This dependency can result from factors such as proprietary technologies, high switching costs, contractual obligations, or the significant effort required to migrate data and systems.
 
 From an IT architecture perspective, another important lesson of this view on decisions is that if there is no irreversible allocation of resources, we cannot talk about decisions. Ivory tower architects who make "principal decisions" that no one follows are technically not making any decisions.
 
@@ -95,29 +98,30 @@ An outcome is **a result of a decision**. Two factors influence it:
 * **the quality of the decision-making process** and 
 * an **element of randomness**, or **luck**. 
 
-We can only control our decision-making process. **Luck is beyond our control** but often plays a role in complex situations. If we only consider the outcome, we can mistakenly attribute good chance to good decision-making skills and bad luck to bad decision-making skills.
+We can only control our decision process. Luck? Well, that’s like trying to control a cat—it’s beyond our grasp and has its own agenda. Consequently, if we only consider the outcome, we can mistakenly **attribute good luck to good decision-making skills**, and bad luck to bad decision-making skills.
 
-We can only control our decision process. Luck is beyond our control and often plays a role in complex situations. Consequently, if we only consider the outcome, we can mistakenly **attribute good luck to good decision-making skills**, and bad luck to bad decision-making skills. 
- 
+To fairly judge a decision, we need to look at the context and the information available when the decision was made. Imagine this: You're driving, and your GPS gives you two routes. One is 30 minutes shorter, so you take it. But 10 minutes in, a traffic jam from an accident makes you wish you had packed a lunch. You end up spending an extra hour stuck. Does this mean your decision was bad? No way! At the time, all signs pointed to a quick trip.
 
-To judge a decision, we should not look at the outcome only, but we need to **understand the context and information available at the time of the decision**. For instance, imagine you are driving a car on the road, and your navigation system gives you two routes you could follow, one 30 minutes shorter. You decide to follow the shortest route. But 10 minutes after you choose to follow that route, the accident happens on your route, which creates a traffic jam, where you spend an hour more than if you were following another route. Does that mean your decision was wrong and you should follow longer routes next time? No. All information known at the time of the decision pointed out that following the first route would save time and energy. But traffic and all realistic real-world situations have randomness, such incidents beyond your control. So you've made a wise decision, but the outcome was terrible.
+A recent prime example is the COVID-19 pandemic. The pandemic turned the global economy upside down, like a toddler with a snow globe. Some industries, like travel and tourism, took a nosedive (e.g., Uber, Booking.com, and [Airbnb](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9998299/)). But on the flip side, COVID-19 gave a rocket boost to online tools and birthed a new era of virtual collaboration (think Zoom, Microsoft Teams, Slack, Miro).
 
-The most prominent recent example is, of course, the COVID-19 epidemic. The COVID‐19 epidemic has pushed the global economy and humanity into a disaster. Some industries, like travel and tourism, were heavily negatively affected (e.g., Uber, Booking.com, [Airbnb](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9998299/)). But COVID-19 has also positively impacted online tools, accelerated the development of existing tools, and created a new wave of online collaboration tools & software (e.g., Zoom, Microsoft Teams, Slack, Miro).
+So remember, while we can’t control the roll of the dice, we can master our decision-making process.
+
 
 ### Economics of Decision-Making
 
-I've frequently been part of trivial decisions that wasted many people's time and energy. But not all decisions are worthwhile the effort invested to make them. The "[**value of clairvoyance**](https://en.wikipedia.org/wiki/Value_of_information)" concept (also called the value of **perfect information**) in decision analysis can help you gauge the appropriate amount of effort, information, and resources to **invest in a decision**. 
+I’ve often found myself tangled up in trivial decisions that sucked up all my time and energy. Not all decisions are worth that kind of investment. Enter the "[**value of clairvoyance**](https://en.wikipedia.org/wiki/Value_of_information)" concept (also known as the value of perfect information) in decision analysis. This nifty idea helps you figure out just how much effort, info, and resources you should throw at a decision.
 
-For low-value decisions, perfectionism is unnecessary. Conversely, high-value decisions warrant a substantial investment of resources. To approach decision-making effectively, Kozyrkov recommends to:
-* Start by visualizing your decision's **potential best and worst outcomes** to understand the stakes involved.
-* Next, apply the "value of clairvoyance" technique. Imagine having access to a psychic who can predict the future, **offering the perfect answer** to your decision. Consider the maximum amount of resources – money, time, or effort – you would be willing to expend for this ideal insight.
+For low-stakes decisions, perfectionism is like wearing a tuxedo to a beach party—completely unnecessary, and uncomfortable. On the flip side, high-stakes decisions deserve the royal treatment. According to the wise Cassie Kozyrkov, here’s how to tackle decision-making like a pro:
 
-This exercise helps determine **the actual value of achieving perfect clarity** and making the best possible choice. 
+1. **Visualize the Best and Worst Outcomes**: Start by picturing the potential paradise and disaster scenarios of your decision. This helps you grasp the stakes involved.
+2. **Apply the “Value of Clairvoyance” Technique**: Imagine you’ve got a psychic on speed dial who can give you the perfect answer to your dilemma. How much would you pay for that crystal-clear insight? Think of the maximum amount of resources—money, time, or effort—you’d spend for this flawless foresight.
+3. **Balance Investment with Importance**: This little exercise helps you figure out the true value of achieving perfect clarity and making the best possible choice.
 
-If you realize the **value of perfect information is low** for a particular decision, it's more efficient to **rely on intuition**. This approach helps balance the investment in decision-making with the importance of the decision itself.
+If you realize that perfect information isn’t worth much for a particular decision, it’s time to trust your gut. This strategy helps you balance the effort you put into decision-making with the decision’s actual importance.
 
-For instance, a decision on a preferred public cloud provider is a high-impact decision requiring in-depth analysis. Approval of costs for an individual developer license that can be canceled at any month is a low-value decision. Nevertheless, it is not uncommon for companies to have procurement processes that require equal time and energy for approval of a multi-year multi-million investment and less than 100 EUR library license.
+For example, deciding on the best public cloud provider is like choosing a life partner—it’s a high-impact decision that deserves thorough analysis. On the other hand, approving costs for an individual developer license that can be canceled at any time is like choosing what to have for lunch. Yet, companies often have procurement processes that make both these decisions feel like you're signing the Declaration of Independence.
 
+So, next time you're stuck in a marathon meeting about whether to buy a €100 software library license, remember: not all decisions need to be treated like a royal decree. Save the deep dives for the big fish and keep the small fry simple!
 
 <br>
 ## Preparing for Making Decisions
@@ -133,47 +137,54 @@ Image by iStock
 
 ### Setting Goals
 
-Practical goal setting involves **understanding your priorities and opportunities**. Setting goals misaligned with your opportunities and priorities is pointless. By identifying **what matters most** to you and **discarding others' non-priorities**, you can focus on what's truly important.
+Practical goal setting is like trying to find your way out of an escape room—you need to understand your priorities and opportunities, or you’ll end up running in circles. By identifying what’s truly important and ignoring everyone else’s distractions, you can focus on the stuff that really counts.
 
-Common **mistakes in goal setting** include creating goals that are either **too vague**, leading to deprioritization, or **too concrete**. The solution lies in the clarity that layered goals bring, each serving different purposes. In managerial sciences, goals are classified into three types: outcome, performance, and process goals:
+Common goal-setting blunders include making goals so vague that they float away like a helium balloon or so rigid that they shatter at the first sign of trouble. The secret sauce? **Layered goals** that bring clarity, each serving a different purpose. In the world of managerial sciences, goals come in three flavors: outcome, performance, and process goals.
 
-* **Outcome goals** represent the ultimate win but might be vague and influenced by external factors. An example is aiming to be as healthy
-as possible. In business, such high-level goals outcome goals include creating value for customers and being profitable. However, these goals are challenging to directly measure and control.
+* **Outcome Goals**: These are the grand finales, the ultimate wins, but they can be as vague as a politician’s promise and influenced by things beyond your control. In business, it’s stuff like “creating value for customers” and “being profitable.” Nice, right? But how do you measure “value” and “profit” when you’re busy fighting off existential crises?
 
-* **Performance goals** are measurable and, if realistic, mostly within your control, like running five miles in under 45
-minutes. In business, increasing the number of visits to a website, reducing infrastructure costs, and growing revenue are typical measurable performance goals. However, they might be aspirational and challenging to manage in detail. 
+* **Performance Goals**: These goals are measurable and, if you’re not aiming for the moon, mostly within your control. In business, it’s all about increasing website visits, slashing infrastructure costs, and boosting revenue. They’re a bit aspirational and can be tricky to manage, but hey, no pain, no gain.
 
-* **Process goals** are measurable and entirely within your control, such as running for 45 minutes every other day, regardless of speed or distance. In business, such goals could be releasing new product features promptly or a targeted marketing campaign. They provide a trackable process but should always align with and serve the outcome goal.
+* **Process Goals**: They’re totally measurable and completely within your control. In business, this translates to rolling out new features on time or launching a targeted marketing campaign. These goals keep you on track, but they should always serve your higher aspirations.
 
-You need to define all three types of goals with a clear relationship among them. For instance, running a targeted marketing campaign (a process goal) is expected to bring more visitors to the site and increase revenue (performance goals), ultimately bringing more value to our customers and making our business more profitable (outcome goals). Consolidating IT infrastructure and IT (a process goal) is expected to reduce overall costs (a performance goal), making our business more profitable (an outcome goal).
+You need all three types of goals, neatly connected like a well-oiled machine. For example, running a snazzy marketing campaign (a process goal) should attract more visitors to your site and boost revenue (performance goals), ultimately delivering more value to customers and fattening your bottom line (outcome goals). Consolidating IT infrastructure (a process goal) should trim overall costs (a performance goal), making your business more profitable (an outcome goal).
 
-Be cautious not to let **process goals overshadow your ultimate objectives**. Wise goal setting involves **a layered approach**, aligning your goals with your priorities, setting aspirational targets, and establishing manageable processes while remaining flexible and responsive to your needs and circumstances.
-
+But beware! Don’t let process goals hog the spotlight and distract you from the big picture. Wise goal setting is all about layering your goals, aligning them with your priorities, setting ambitious targets, and establishing manageable processes, all while staying flexible and responsive to life’s curveballs.
 
 
 ### Aligning Goals: The Principal-Agent Problem
 
-One of the common problems with goal setting in complex organizations is the **principal-agent problem**. This concept from economics highlights a common issue in business and personal decision-making: **the interests of the decision-maker (agent) differ from those of the owner or principal**. For example, the owners (principals) may prioritize growth in a business, while the managers (agents) might seek personal benefits like increased leisure time or higher salaries. This conflict of interest can lead to mismanagement if addressed. In IT, one typical issue is software technology selections. Individual teams may prefer to use different technologies based on their knowledge and personal preferences. However, allowing each team total freedom may increase the complexity and diversity of the technology landscape. However, it is usually better for an IT organization to keep the number of technologies we use to a minimum to efficiently train new people, maintain our code, and support moves between teams.
 
-The principal **must establish rules or constraints** to **align the agent's decisions with their interests**. This concept can also apply to personal decision-making, particularly in balancing short-term desires and long-term goals.
+One of the classic headaches in goal setting for complex organizations is the **principal-agent problem**. This nifty concept from economics is like a plot twist in a soap opera: the interests of the decision-maker (the agent) are as different from those of the owner (the principal). For example, the owners (principals) may be all about growth and expansion, while the managers (agents) might just be dreaming of longer lunch breaks and fatter paychecks. This clash of interests can lead to a mismanagement mess if not handled properly.
 
-By **pre-emptively setting constraints**, you can help **steer your choices towards long-term goals** and avoid decisions that may seem appealing in the short term but are detrimental in the long run. For instance, in our example of technology selection, one approach I often used to define constraints in the form of [golden paths](https://engineering.atspotify.com/2020/08/how-we-use-golden-paths-to-solve-fragmentation-in-our-software-ecosystem/), supporting limited technology sets only, and making it difficult to use other.
+In the wild world of IT, a prime example is technology selection. Individual teams might want to use the latest, coolest tech based on their personal preferences. But letting each team run wild can turn your technology landscape into a tangled jungle. It’s usually better for an IT organization to keep the tech menu limited. This way, it’s easier to train newbies, maintain the codebase, and shuffle people between teams without causing a tech meltdown.
 
+So, how do we get these misaligned interests on the same page? The principal needs to set up some **rules or constraints** to align the agent’s decisions with their interests. This is kind of like giving your dog a fenced yard—freedom to play, but within safe boundaries.
+
+This principle also applies to personal decision-making, especially when juggling short-term temptations and long-term goals. By setting up pre-emptive constraints, you can steer your choices toward those long-term dreams and avoid decisions that might look tempting now but are as regrettable as a midnight snack of expired sushi.
+
+For instance, in the technology selection saga, one strategy I often use is to create "[golden paths](https://engineering.atspotify.com/2020/08/how-we-use-golden-paths-to-solve-fragmentation-in-our-software-ecosystem/)"—supporting a limited set of technologies and making it tougher to stray into uncharted territory. It’s like saying, “Sure, you can build with LEGO, but maybe let’s stick to this one box instead of the entire toy store.”
+
+So remember, setting those golden paths and constraints isn’t about being a killjoy. It’s about keeping everyone aligned and avoiding a tech Tower of Babel.
 
 ### Is There A Decision To Be Made?
 
-In decision-making, mainly when you're not the primary decision-maker, it's crucial to determine how you can contribute effectively as a decision expert. The first step is to determine whether a decision needs to be made. Sometimes, the primary decision maker has already decided, and they may need your input only to confirm their decision or tick the boxes in the process. 
+In decision-making, especially when you’re not the one calling the shots, it’s crucial to figure out how to contribute effectively as the decision whisperer. First things first: determine if there’s even a decision to be made. Sometimes, the big cheese has already made up their mind and just needs you to rubber-stamp it like a bureaucratic formality.
 
-Before you invest your time and energy in pretending you are making a decision, you need to clarify whether there is a possibility of making a decision. According to Cassie, the key to answering this question lies in two steps. 
-* First, determine what the primary decision maker would **do without your involvement**. 
-* Then, ask them a strategic question: "**What would it take to change your mind?**" If the answer to this question is "Nothing!", then you cannot make any new decisions.
+Before you dive into the murky waters of faux decision-making, clarify whether there’s actually room for a decision. According to the Cassie Kozyrkov, this involves two simple steps.
 
-This question is powerful for several reasons:
-* **Initiates Insightful Conversations**: It opens up a dialogue revealing necessary information about the decision-making process and the decision-maker's mindset.
-* **Identifies the Decision-Maker**: The response helps you understand if the person you're speaking with holds the decision-making authority, addressing the issue highlighted in the previous video.
-* **Determines the Presence of a Real Decision**: Understanding if any information could alter the decision-maker's stance is crucial. If their mind is already made up and no information could change them, then there isn't an actual decision to be made; any data provided would be for persuasion rather than for aiding in decision-making.
+1. **Check the Decision-Maker's Auto-Pilot**: Figure out what the primary decision-maker would do if you weren’t in the picture. Would they carry on like a self-driving car?
+2. **Deploy the Magic Question**: Ask them, “**What would it take to change your mind?**” If they reply, “Nothing!” then congratulations, you’ve just discovered you’re in a no-decision zone.
 
-In essence, this question helps assess the decision-making landscape, the decision-maker's openness to new information, and whether there's genuine room for making or influencing a decision. 
+This latter question is your secret weapon for several reasons:
+
+1. **Starts Insightful Conversations**: It’s like opening a treasure chest of insights into the decision-making process and the decision-maker’s mindset.
+2. **Identifies the Decision-Maker**: It helps you figure out if the person you’re talking to is the real decision-maker or just a messenger.
+3. **Detects Real Decisions**: If no information can change their mind, then there’s no real decision to be made. You’re just there to wave pom-poms and cheer for a pre-made choice.
+
+In essence, this magical question helps you map out the decision-making landscape, gauge the decision-maker’s openness to new ideas, and see if there’s genuine room for making or influencing a decision. If their mind is more closed than a locked vault, you’ll know it’s time to save your energy for real decision-making battles.
+
+So, next time you’re in a meeting and wondering if you’re there to make a difference or just to play the part of the wise advisor in a decision-making drama, remember to whip out the magic question. It’s your ticket to knowing whether you’re in for an epic decision-making saga or just a cameo appearance.
 
 ![](assets/images/arch/iStock-1043738948.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
@@ -181,108 +192,76 @@ Image by iStock
 </div>
 
 <br>
-## Factors Influencing Decision-Making
-
-Here, we explore key factors influencing decision-making complexity and decisiveness.
-
-### Decision-Making Complexity
+## Decision-Making Complexity
 
 Some decisions are easier to make than others. Kozyrkov identifies 14 factors that can make decision-making more or less complex:
 
-#### Number of options 
+### Number of options 
 
 Decision-making becomes simpler with **fewer options.** When choosing between a limited number of options, it's straightforward. However, as more options, especially combined choices, are introduced, the process becomes more complex, involving **compound decision-making** (several dependent decisions you must make together). The simplest scenario is a straightforward yes or no decision.
 
-#### Clarity of options' boundaries
+### Clarity of options' boundaries
 
 Some decisions are straightforward when the choice is **clear-cut,** like choosing your meal between a rock and an apple, where the preferable option is obvious. Deciding between two varieties of apples is slightly more challenging but remains easy if the decision **isn't significant or high-stakes**. In IT, having a preferred public cloud provider provides a clear-cut decision about public cloud hosting. Once inside a public cloud, selecting an appropriate service is much more challenging as hundreds of options are available. 
 
 
-#### Clarity of objectives
+### Clarity of objectives
 
 Having **clear objectives** is another factor that simplifies decision-making. It involves considering the most effective approach to the decision and quickly determining the criteria for making that choice.
 
-#### Cost of making a decision
+### Cost of making a decision
 
 **Low-cost** of decision-making simplifies decision-making. These costs include the effort required to **evaluate** information, the ease of **implementing** the decision, and the potential **consequences of any mistakes**. Decisions are easier when these associated costs are low.
 
-#### Costs of reversing a decision
+### Costs of reversing a decision
 
 While decisions typically involve a commitment of resources you can't undo, some decisions are considered reversible. If you can **change your decision quickly and with little cost**, the consequences of a wrong choice are less severe, making the decision easier.
 
-#### Cognitive load
+### Cognitive load
 
 If a decision requires **significant mental effort**, such as remembering **many details** or making choices while **distracted,** it becomes more challenging. On the other hand, if you can make the decision easily and consistently, even amidst other tasks or distractions, then it's a simpler decision.
 
 A lot of the work of IT architects involves creating visualizations and abstractions that can reduce cognitive load and make it easier to understand complex systems so that others can make better decisions about them.
 
-#### Emotional impact
+### Emotional impact
 
 If a decision doesn't **evoke strong emotions** or significantly affect you emotionally, it tends to be easier. Conversely, decisions that stir up intense emotions or leave you highly agitated are more difficult.
 
 For instance, the company's decision to use only one frontend programming language significantly affects people unfamiliar with the choice, as they cannot perform at a senior level in new technology for a long time and need to learn many new things. Many people negatively affected by this choice may decide to leave and find a job where they can work with technologies in which they are experts. So, a simple technological decision quickly becomes a personal career-making choice and an HR issue.
 
-#### Pressure and stress
+### Pressure and stress
 
 Decisions made under conditions of **low pressure and stress** are generally easier, whereas those made in high-pressure, stressful situations are more challenging.
 
-#### Access to information
+### Access to information
 
 Decisions are easier when you **have complete and reliable information readily available**. In contrast, making decisions with only partial information and uncertain probabilities is more challenging. As discussed in the context of statistics, having limited information complicates the decision process as you need to guess missing pieces of information.
 
-#### Risks and ambiguity
+### Risks and ambiguity
 
 Decisions become simpler when there is no **risk or ambiguity involved.** Risk and ambiguity, though different, both complicate decision-making. Ambiguity arises when the probabilities of outcomes are unknown,
 making choices uncertain. Risk, on the other hand, involves taking a known gamble, where you understand the potential consequences and likelihoods.
 
-#### Timing
+### Timing
 
 Difficulties arise when the **decision's timing
 conflicts with other simultaneous decisions** or when there's **insufficient time** to consider the choice thoroughly. Situations requiring a rapid response can add significant pressure, making the decision process more challenging.
 
-#### Impact on others
+### Impact on others
 
 Making decisions alone is generally easier. When you're the sole decision-maker, without involving others, and the decision's outcome impacts only you, the process is simpler. In contrast, making decisions in a social context is more complex. Factors like **social scrutiny**, considering the **impact on others**, balancing **different preferences and opinions**, and the potential
 **effect on your reputation** all add to the difficulty.
 
-#### Internal conflicts
+### Internal conflicts
 
 Decisions are more problematic when there are internal conflicts, as opposed to situations where all **motivations and incentives align** with the decision. For instance, deciding to make shortcuts in your systems design and skipping steps in a process to get some features quicker to the market vs. spending more time tidying and testing your code is a typical dilemma many software engineers and IT architects face.
 
-#### Adversarial dynamics
+### Adversarial dynamics
 
 Finally, adversarial dynamics impact decision-making. When you face **competition or opposition from others,** these decisions become more challenging compared to those made cooperatively or independently. For example, when you merge two companies with different technology stacks (e.g., one using React and Java in AWS, and another Angular and C# in Azure) and want to consolidate on one stack, you may end up in competition and opposition with people from each company wanting a consolidated stack to be as close as possible to their previous one.
 
-
 <br>
-### Factor Influencing Decisiveness
-
-Even when decisions can be made quickly, we may still be indecisive. People can be indecisive for various reasons. 
-
-#### Bad habits
-
-One common cause of indecisiveness is bad habits. Many don't recognize that avoiding a decision is, in itself, a decision. Delaying, postponing, or deprioritizing the decision-making process is resulting in an implicit choice.
-
-For instance, if a company cannot decide on using one consolidated tech stack for its systems, it leads to an **implicit decision** to keep diverse technology stacks with all associated costs and complexity.
-
-#### Overwhelmed by numerous decisions
-
-Indecisiveness can stem from being **overwhelmed by numerous decisions**, especially those of lower priority. **Our cognitive capacity is limited**; we can't focus intensely on everything simultaneously. If **too much attention is devoted to trivial choices**, it leaves less mental bandwidth for more significant decisions. In essence, indecisiveness may indicate a need for recognizing and prioritizing what truly matters. It highlights the need for intentional effort to allocate time and thought to key decisions aligned with one's priorities. This intentionality is crucial for effective decision-making.
-
-For instance, sometimes people see IT architects as the ultimate authority, asking them to approve every trivial change (like upgrading a minor library version). This situation can significantly limit the possibility of architects to work on essential and strategic problems.
-
-#### Emotions and grief
-
-Indecisiveness can also arise from emotional responses, mainly **when all options are undesirable**. In such cases, the most practical approach is to choose the least bad option. After thoroughly evaluating the choices and identifying the least detrimental ones, proceeding with that decision is essential.
-
-People often become overwhelmed by emotions like **grief or frustration** when faced with **only unfavorable choices**. This emotional response can lead to a **futile search for better options**, hoping for new information that realistically won't appear. Once it's clear that no better options will emerge, it **takes courage to move** forward and execute the chosen path.
-
-It's okay to experience and process these emotions, but you should do it concurrently with taking action. On the other hand, when faced with multiple equally appealing options, and the differences between them are minor, it might not be worth the effort to optimize further. In these cases, recognizing that fine-tuning small differences isn't a priority can help make a decision.
-
-If you need help to choose between equally good options, using a simple method like flipping a coin can help. If the result of the coin flip leaves you feeling particularly disappointed, it might indicate that the options were more different than you initially thought. This reaction can provide insight and help you make your decision. However, if the differences between the options are minor, it's not worth spending excessive time trying to make the perfect choice. Instead, conserve your energy for more significant decisions.
-
-<br>
-## Improving Decision Making With Data and Tools
+## Decision-Making With Data and Tools
 
 Decision-making has evolved beyond pen and paper, with data playing a crucial role in modern methods. Data, like the one I use in [Data Foundation](data), while visually appealing and powerful when used correctly, is **only a tool to assist** in making informed decisions. It's a means to an impactful end, but **without purposeful application, data is ineffective**.
 
@@ -291,38 +270,37 @@ Decision-making has evolved beyond pen and paper, with data playing a crucial ro
 Image by iStock
 </div>
 
-### Data has limitations
+### Remember that data has limitations
 
 Just as not everything written in a book is true, data can be **misleading or incomplete**. It's a collection of information recorded by humans, subject to errors and omissions.
 
-For instance, in the field of artificial intelligence (AI), **AI biases stem from the data it's fed**, reflecting the choices and prejudices of those who compile the data. The issues with AI bias are often due to poor decisions regarding data selection. **Data isn't inherently objective; it carries the implicit values of its creators**.
+For instance, in the field of artificial intelligence (AI), **AI biases stem from the data** it's fed, reflecting the choices and prejudices of those who compile the data. The issues with AI bias are often due to poor decisions regarding data selection. **Data isn't inherently objective**; it carries the **implicit values of its creators**.
 
-### Data enhances memory rather than ensuring objectivity
-
-It is crucial to understand that **data's value lies in its ability to enhance memory, not ensure objectivity**. Embracing data means embracing a significant advancement in human potential. It's about transforming information into action, extending beyond the limits of personal memory to make better, more informed decisions.
+Data's value lies in its ability to **enhance memory, not ensure objectivity**. Embracing data means embracing a significant advancement in human potential. It's about transforming information into action, extending beyond the limits of personal memory to make better, more informed decisions.
 
 ### Chose the right tool for the job
 
-Cassie Kozyrkov classifies [techniques for the use of data into three groups](https://kozyrkov.medium.com/what-on-earth-is-data-science-eb1237d8cb37):
-* **Analytics**: which you can use to get inspired by looking at data,
-* **Statistics**: which you can use to make decisions when you need to deal with incomplete information and uncertainty,
-* **Machine Learning (ML)/AI**: which you can use to deal with a huge number of decisions and vast volumes of data.
+Cassie Kozyrkov breaks down the techniques for analyizing data into three snazzy [groups](https://kozyrkov.medium.com/what-on-earth-is-data-science-eb1237d8cb37):
 
-When used correctly, data and the techniques mentioned can enable us to ask better questions and give better answers.
+1. **Analytics**: This is like using data as a telescope that can give you a clear view of the available data landscape. It’s like having a magic map that highlights viable options, reasonable assumptions, and thought-provoking questions. Data and Analytics can spark those "Aha!" moments by revealing insights that were previously hiding in plain sight. For those “What’s the weather like?” kind of questions. Or "What is that service there in our public cloud costing as $1M per year?"
+2. **Statistics**: Think of this as your trusty Swiss Army knife for decision-making when you’re dealing with the murky waters of incomplete information and uncertainty. For the “How likely am I to get struck by lightning?” type scenarios. Or "What is the probability of downtime or our IT services (famous three, four, five nines of availability)?"
+3. **Machine Learning (ML)/AI**: This is your personal army of data minions, ready to tackle a gazillion decisions and mountains of data without breaking a sweat. For the “Can I build a weather-predicting robot?” level of inquiries. Or "What our IT costs will be next year be based on detailed traffic estimates for next year?"
 
-**Good questions** often stem from **being well-informed**, much like gaining insight from looking out of a window in a dark room. Analytics is a discipline that uses data in this fashion, providing a view of the available information. It helps identify viable options, reasonable assumptions, and meaningful questions. Data and Analytics can inspire better questioning by revealing insights that were previously unseen.
+When you get the hang of these techniques, data transforms into your superpower, helping you ask sharper questions and deliver spot-on answers.
 
-However, looking at data and doing **analytics itself isn't decision-making**. As a decision maker, your role is to **set priorities**, choose **relevant topics**, frame the **right questions**, and guide the analysis focus. If the analysis finds nothing intriguing, it's not a failure; it's an opportunity to explore new areas. Analytics is a vital sensory upgrade for modern decision-making, enabling a broader and deeper understanding of the information landscape.
 
-Once when we have better questions, we can also use data to **give better answers**. Depending on the important and type of questions you need to answer, you can get your answers via simple analytics, more complex statistical methods, or even advanced machine-learning and AI techniques.
-
-### Full information is always preferable to partial information
+### Prefer full information to partial information
 
 No matter which how you plan to use data, **full information is always preferable to partial information**. If you only have **partial information**, you're **dealing with uncertainty**, and that's where **statistical methods** come in. 
 
 Statistics is used when you don't have all the facts and need to manage uncertainty. They can help you balance the likelihood of a wrong decision against your data budget, considering your risk preferences. 
 
-As a decision maker, it's important to **ask the right questions** and determine **which decisions are worth pursuing**. Only then should you apply advanced methods where necessary to gain more accurate answers under conditions of uncertainty.
+
+### Be in the driving seat
+
+Just staring at data and crunching numbers isn’t decision-making. As the decision maker, your job is to set the stage, choose the relevant topics, frame the right questions, and guide the analysis like a maestro conducting an orchestra.
+
+As a decision maker, it’s crucial to **ask the right questions**, and figure out **which decisions are worth your brainpower**. Once you’ve identified those key decisions, then—and only then—should you whip out the advanced statistical or other methods to get more accurate answers in the murky waters of uncertainty. Remember, diving into data without asking the right questions is like wandering into a labyrinth with a blindfold on.
 
 
 <br>
