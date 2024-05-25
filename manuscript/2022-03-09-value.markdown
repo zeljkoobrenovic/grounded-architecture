@@ -2,8 +2,7 @@
 
 # Value of Grounded Architecture Structure {#value}
 
-![](assets/images/arch/gold-gd9bc167a4_1920.jpg)
-^image by matthias wewering from pixabay^
+![image by matthias wewering from pixabay](assets/images/arch/gold-gd9bc167a4_1920.jpg)
 
 **IN THIS SECTION, YOU WILL:**  Understand the value that architecture practice based on the ideas of Grounded Architecture can create for an organization.
 
@@ -25,8 +24,7 @@ When a Grounded Architecture structure is in place, it can have a significant po
 
 The first goal was to find a way to support hundreds of teams and thousands of projects with significant complexity and diversity. 
 
-![](assets/images/arch/earth-g8ffaadaba_1920.png)
-^image by wikiimages from pixabay^
+![image by wikiimages from pixabay](assets/images/arch/earth-g8ffaadaba_1920.png)
 
 Grounded Architecture structure can enable architecture functions to operate at scale in the following ways.
 
@@ -38,8 +36,7 @@ Grounded Architecture structure can enable architecture functions to operate at 
 
 The second goal states that architectural functions must adapt quickly to stay relevant in new contexts.
 
-![](assets/images/arch/lego-g7d6cf2046_1920.png)
-^image by francis ray from pixabay^
+![image by francis ray from pixabay](assets/images/arch/lego-g7d6cf2046_1920.png)
 
 The three elements of the Grounded Architecture structure provide a highly flexible and adaptive setting. This adaptivity is driven by the independence of these elements and the possibility of using the elements in different combinations. Here are some of the critical drivers of flexibility:
 
@@ -53,8 +50,7 @@ Grounding the architecture with data and people connections also makes the work 
 
 The third goal stated that we need tools and mechanisms to make a decision process more data-informed and less dependent on opinions. There are significant benefits to making our decision process as much as possible data-driven. Architectural **discussions can be heated and opinionated**, not leading to the best arguments and decisions. 
 
-![](assets/images/arch/doors-gf67a9cff2_1920.jpg)
-^image by arek socha from pixabay^
+![image by arek socha from pixabay](assets/images/arch/doors-gf67a9cff2_1920.jpg)
 
 Maintaining high-quality data on relevant internal and external technology developments is one of the critical tasks for architects.
 
@@ -70,8 +66,7 @@ Maintaining high-quality data on relevant internal and external technology devel
 
 The fourth goal stated that the architecture function should be a cohesive factor in minimizing misalignments.
 
-![](assets/images/arch/iStock-165954660.jpg)
-^image by istock^
+![image by istock](assets/images/arch/iStock-165954660.jpg)
 
 Misalignment frequently happens in big organizations. Grounded Architecture structures can minimize such misalignments via the following: 
 
@@ -87,8 +82,7 @@ A> *" I expect you to learn to be better each day. I challenge you to look at ea
 
 The last goal is that architecture should help organizations learn quickly, stay up-to-date with emerging technologies and industry trends, and recommend technology upgrades. Learning is one of the primary daily tasks of architects. Architects must proactively identify relevant new technology developments and create pragmatic technology recommendations for concrete platforms across the organization based on their understanding of these developments.
 
-![](assets/images/arch/iStock-871461580.jpg)
-^image by istock^
+![image by istock](assets/images/arch/iStock-871461580.jpg)
 
 The Grounded Architecture structure can support learning in multiple ways:
 
