@@ -213,7 +213,7 @@ A jaw-dropping example is in the legal system: studies show that judges can hand
 
 
 <br>
-## Decisiveness
+## Indecisiveness
 
 We frequently fall into the indecisiveness trap. Why? Well, people can be indecisive for all sorts of amusing reasons.
 
