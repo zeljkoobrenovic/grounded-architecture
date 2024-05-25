@@ -165,7 +165,7 @@ And let's be honest—your decision-making skills aren't precisely Olympic-level
 
 A jaw-dropping example is in the legal system: studies show that judges can hand out different sentences before and after lunch. Even these wise, experienced folks, whose decisions shape lives, can be swayed by something as simple as a rumbling stomach. This should be a big, flashing neon sign warning us about the limits and quirks of our decision-making processes. So next time you're about to make a big decision, grab a snack and a nap first!
 
-## Decisiveness
+## Indecisiveness
 
 We frequently fall into the indecisiveness trap. Why? Well, people can be indecisive for all sorts of amusing reasons.
 
