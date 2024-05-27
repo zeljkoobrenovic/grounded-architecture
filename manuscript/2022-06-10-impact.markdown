@@ -2,8 +2,7 @@
 
 # Impact {#impact}
 
-![](assets/images/arch/USATF_day_4.jpg)
-^image by wikipedia / sandi morris.^
+![image by wikipedia / sandi morris.](assets/images/arch/USATF_day_4.jpg)
 
 **IN THIS SECTION, YOU WILL:**  Understand that architects’ work is evaluated based on their impact on the organization and get guidelines for making an impact.
 
@@ -39,8 +38,7 @@ Inspired by The Staff Engineer's Path by Tanya Reilly, I group architects' impac
 * Execution, and
 * Leveling up.
 
-![](assets/images/arch/pillars.png)
-***Figure 1:** Key competencies of architects. Inspired by The Staff Engineer's Path by Tanya Reilly.*
+![Figure 1: Key competencies of architects. Inspired by The Staff Engineer's Path by Tanya Reilly.](assets/images/arch/pillars.png)
 
 ### Big-Picture Thinking 
 

@@ -13,11 +13,11 @@ A> * This book will share my approach to running an IT architecture practice in 
 A> * Prioritizing people interactions and data over processes and tools, Grounded Architecture aims to connect architecture practice to all organizational levels as an antidote to the "ivory tower" architecture.
 A> * I also explain my motivation to write this book.
 
-Have you ever wondered how to run an IT architecture practice without feeling stuck in an ivory tower? Look no further! This book spills the beans on an down-to-earth approach to managing IT architecture in big organizations, inspired by my wild rides at AVIV Group, eBay Classifieds, and Adevinta. I call it "Grounded Architecture"—because it's all about having your feet on the ground and your architecture firmly planted in reality.
+Have you ever wondered how to run an IT architecture practice without **feeling stuck in an ivory tower?** Look no further! This book will share my approach to running an IT architecture practice in larger organizations based on my experience at AVIV Group, eBay Classifieds, and Adevinta. I call it "Grounded Architecture"—because it's all about having your feet on the ground and your **architecture firmly planted in reality.**
 
-Imagine if architecture practices had roots—deep, sturdy roots. This approach connects architecture to every nook and cranny of your organization, making sure you're not just a lone wizard in a tower casting spells that no one understands. Grounded Architecture prioritizes connections with people and data over fancy theories, processes, and tools. 
+The presented in this book connects architecture to every nook and cranny of your organization, making sure you're not just a lone wizard in a tower casting spells that no one understands. Grounded Architecture prioritizes connections with people and data over fancy theories, processes, and tools. 
 
-The name "Grounded Architecture" is a hat-tip to the [**Grounded Theory**](https://en.wikipedia.org/wiki/Grounded_theory) methodology. Grounded Theory is all about developing theories straight from the data you gather from the real world, rather than pulling them out of thin air. Likewise, Grounded Architecture evolves from real feedback and data, not from some dusty old book of abstract principles.
+The name "Grounded Architecture" is a hat-tip to the [**Grounded Theory**](https://en.wikipedia.org/wiki/Grounded_theory) methodology. Grounded Theory is about developing theories straight from the data you gather from the real world rather than pulling them out of thin air. Likewise, Grounded Architecture evolves from honest feedback and data, not from some dusty old book of abstract principles.
 
 This book breaks down Grounded Architecture into two main parts:
 * **Structure:** The nuts and bolts you need to get your Grounded Architecture practice up and running.
@@ -32,7 +32,7 @@ Figure 1 shows the structure of the Grounded Architecture consisting of three el
 
 The *[Data Foundation](#data)* keeps your architecture decisions based on up-to-date and complete information about your organization's tech landscape.
 
-The *[People Foundation](#people)* represents a strong network of people working on architecture across your organization ensuring your efforts actually make a difference.
+The *[People Foundation](#people)* represents a strong network of people working on architecture across your organization, ensuring your efforts make a difference.
 
 Lastly, the *[Architecture Activities Platform](#activities-platform)* defines a collection of processes and agreements that lets architects do their thing, leveraging data and people to create a powerful, organization-wide impact.
 
@@ -53,7 +53,7 @@ As part of my Grounded Architecture quest, I've devised several guiding principl
   * [Decision Intelligence in IT Architecture](#decision-intelligence)
   * [The Human Side of Decision-Making](#human-decisions)
 
-The rest of this book will explain in detail the Grounded Architecture approach. In this section, I want to tell a few things about my motivation to write this book.
+The rest of this book will explain the Grounded Architecture approach in detail. In this section, I want to share a few things about my motivation to write this book.
 
 ## What Will You Learn?
 
@@ -67,7 +67,7 @@ The three parts of the book (Structure, Being an Architect, and Doing Architectu
 
 I approach designing an architecture practice in complex organizations as an art of cooking. Imagine this: Modern IT architecture practice is like a master chef's kitchen, where rigid recipes are out. You can't just copy a recipe from one restaurant to another and expect it to taste the same. That's why I've organized this book into modules you can mix and match in your own kitchen, just like a chef selects ingredients to create a mouthwatering dish.
 
-In this culinary adventure, I'll share some tasty tips and savory secrets on "cooking" up a thriving architecture practice. But remember, every kitchen is different. You might find some of my ingredients and recipes are essential, while others might be left on the shelf. And don't be surprised if you need to add a pinch of something special from other sources to spice things up.
+In this culinary adventure, I'll share some tasty tips and savory secrets on "cooking" up a thriving architecture practice. But remember, every kitchen is different. Some ingredients and recipes are essential, while others might be left on the shelf. And don't be surprised if you need to add a pinch of something special from other sources to spice things up.
 
 ![image by istock](assets/images/arch/iStock-1409729992.jpg)
 
@@ -83,29 +83,29 @@ I have organized my lessons and insights in a form that, if you recognize the pr
 
 ### Content
 
-This book is **not technical**. We will not discuss the details of public cloud design patterns, security, reliability, how to optimize computer loads, or select the proper data storage. As a modern architect, you will need these skills, of course, but there are already many great resources for them. This book is about **expanding your horizons** to apply your technical skills in complex organizations. Or to broaden your horizons as a head or manager of architects, to organize and support architects to use their technical skills more effectively as a team.
+This book is **not technical**. We will not discuss the details of public cloud design patterns, security, reliability, how to optimize computer loads, or select the proper data storage. As a modern architect, you will need these skills, but there are already many great resources. This book is about **expanding your horizons** to apply your technical skills in complex organizations. You can broaden your horizons as a head or manager of architects and organize and support architects to use their technical skills more effectively as a team.
 
 ### Is This A Proven Method?
 
-Like with many similar books, you may be disappointed if you are looking for a scientifically proven "method" of running a modern architecture practice. This book is **personal and opinionated**, building on my daily experiences as an architect and head of an architecture practice. While subjective, I believe this book can provide **valuable insights** for IT architects, their managers, and people working with architects. I have successfully **applied my approach in three different companies**, which gives it some generality and repeatability. 
+Like with many similar books, you may be disappointed if you are looking for a scientifically proven "method" of running a modern architecture practice. This book is **personal and opinionated**, building on my daily experiences as an architect and head of an architecture practice. While subjective, this book can provide valuable insights for IT architects, their managers, and people working with architects. I have successfully **applied my approach in three different companies**, which gives it some generality and repeatability. 
 
 I invite others to share the lessons they have learned similarly. Even if opinionated and limited in scope, such practical reflections based on concrete examples have much more value for practitioners than abstract debates, formal methods, or academic analyses. 
 
 ### Who Should Read This Book?
 
-When writing this book, I had a **broad audience** in my mind. The article should be helpful to both technical and non-technical people. The book can help IT architects to better understand their value and place in a broader organization. I also hope the articles show the wider audience the benefits of staying close to and well-connected with architects.
+When writing this book, I had a broad audience in mind. The articles should be helpful to both technical and non-technical people. The book can help IT architects better understand their value and place in a broader organization. I also hope the articles show the wider audience the benefits of staying close to and well-connected with architects.
 
 ## Key Influences
 
-The Grounded Architecture approach also builds on many ideas others have successfully used. Gregor Hohpe's [**Architecture Elevator**](https://architectelevator.com/) view of architecture has heavily inspired my work. In many ways, my work reflects the lessons learned from implementing Gregor's ideas in practice. Gregor described modern architects' functions as aligning organization and technology, reducing friction, and charting transformation journeys. Such modern architects ride the Architect Elevator from the penthouse, where the business strategy is set, to the engine room, where engineers implement enabling technologies.
+The Grounded Architecture approach also builds on many ideas that others have successfully used. Gregor Hohpe's [**Architecture Elevator**](https://architectelevator.com/) view of architecture has heavily inspired my work. In many ways, my work reflects the lessons learned from implementing Gregor's ideas in practice. Gregor described modern architects' functions as aligning organization and technology, reducing friction, and charting transformation journeys. Such modern architects ride the Architect Elevator from the penthouse, where the business strategy is set, to the engine room, where engineers implement enabling technologies.
 
-In my quest to define modern architectural roles, I used Staff+ Engineering jobs as an inspiration for the development of architects. Tanya Reilly's book [**The Staff Engineer's Path**](https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/) and Will Larson's book [**Staff Engineer: Leadership beyond the management track**](https://staffeng.com/guides/staff-archetypes/) are helpful guides in defining the responsibilities of modern architects. Overall, the Staff-plus engineering roles provide excellent examples for the development of architects.
+In my quest to define modern architectural roles, I used Staff+ Engineering jobs as an inspiration for the development of architects. Tanya Reilly's book [**The Staff Engineer's Path**](https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/) and Will Larson's book [**Staff Engineer: Leadership beyond the management track**](https://staffeng.com/guides/staff-archetypes/) are helpful guides in defining the responsibilities of modern architects. Overall, the Staff-plus engineering roles provide excellent examples of the development of architects.
 
 Many other sources have influenced my work. Some of them you can find in the [Bookshelf section](#bookshelf).
 
 ## Why This Book?
 
-This book **generalizes my experiences** in a written form. I have written these articles for several reasons. Firstly, the act of writing helps me to clarify and improve my ideas (Figure 2). As Gregor Hohpe once noted, I free up some brain cells to learn new things with every sentence I write. 
+This book **generalizes my experiences in written form. I have written these articles for several reasons. Firstly, the act of writing helps me clarify and improve my ideas (Figure 2). As Gregor Hohpe once noted, every sentence I write frees up brain cells to learn new things. 
 
 ![Figure 2: Writing a book helped me organize ideas, obtain new insights, improve principles and tools, and share the lessons learned.](assets/images/writing.png)
 
@@ -147,7 +147,7 @@ Lastly, my hands-on experience as a **software developer** has proven invaluable
 
 I have organized the book into several main parts. In the introductory part, I describe the context in which my ideas have developed. 
 
-In the second part, I discuss the Grounded Architecture structure describing its three elements: the Data Foundation, the People Foundation, and the Architecture Activities Platform. 
+In the second part, I discuss the Grounded Architecture structure, describing its three elements: the Data Foundation, the People Foundation, and the Architecture Activities Platform. 
 
 In the third part, I discuss the Guiding Principles of Grounded Architecture, grouped into two sections: Being an Architect and Doing Architecture. 
 
@@ -167,7 +167,7 @@ Feel free to follow me on LinkedIn to see what I am up to:
 
 ## Acknowledgments
 
-Thank all AVIV Group's Architecture Center of Excellence members and eBay Classifieds Virtual Architecture Team (VAT) members who gave me invaluable feedback and discussions. Lastly, thank Peter Maas and Brent McLean for sponsoring and pushing for developing data-informed architecture in our organizations.
+I want to thank all AVIV Group's Architecture Center of Excellence members and eBay Classifieds Virtual Architecture Team (VAT) members, who gave me invaluable feedback and discussions. Lastly, thank Peter Maas and Brent McLean for sponsoring and pushing for the development of data-informed architecture in our organizations.
 
 The cover image is [a photo of Nesciobrug](https://commons.wikimedia.org/wiki/File:Nesciobrug_4.jpg). Credit: the botster, CC BY-SA 2.0, via Wikimedia Commons.
 
