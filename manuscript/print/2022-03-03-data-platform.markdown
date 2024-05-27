@@ -38,7 +38,7 @@ Simply collecting and putting data in one place will not create any value. Regar
 
 My vision for building the Data Foundation follows **the map-making metaphor**. Maps are one of the most critical documents in human history. They give us tools to store and exchange knowledge about space and place. While there are differences between maps and the layers they show, the one thing that all maps do is **provide readers with orientation**. A sense of place is central to meaning-making. Maps are also composed of multiple layers. Similarly, the architecture Data Foundation should give readers a sense of orientation, offering data layers about systems that describe their sizes, connections, quality, security, or human activity.
 
-## Examples of Data Foundation Sources and Tools
+## Examples of Lean Data Foundation Tools
 
 To illustrate what I mean by Data Foundation, I will give a few concrete examples from my recent work. Data I typically used include (Figures 2 and 3):
 * **Source code**, which contains an incredible amount of information about technology, people's activity, team dependencies, and the quality of software systems.
