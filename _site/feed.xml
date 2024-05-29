@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-05-29T19:30:41+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: Redefining IT Architecture Practice</title><subtitle></subtitle><entry><title type="html">High Performing Technology Organizations</title><link href="http://localhost:4000/concepts-org" rel="alternate" type="text/html" title="High Performing Technology Organizations" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/appendix-organization</id><content type="html" xml:base="http://localhost:4000/concepts-org"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/car-engine-1701029_1280.jpg" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-05-29T22:51:38+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: Redefining IT Architecture Practice</title><subtitle></subtitle><entry><title type="html">High Performing Technology Organizations</title><link href="http://localhost:4000/concepts-org" rel="alternate" type="text/html" title="High Performing Technology Organizations" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/appendix-organization</id><content type="html" xml:base="http://localhost:4000/concepts-org"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/car-engine-1701029_1280.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/paulbr75-2938186/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1701029">Paul Brennan</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1701029">Pixabay</a>
 </div>
@@ -367,31 +367,31 @@ Image by <a href="https://pixabay.com/users/ichigo121212-11728/?utm_source=link-
 </style>
 
 <p><br />
-In this part, I will briefly introduce the structure of Grounded Architecture. I chose the term “Grounded Architecture” to highlight that the primary goal of my approach is <strong>avoiding having an “ivory tower” architecture function</strong> disconnected from the organization, which, in a <a href="context">fast-moving, global, and diverse setting</a>, is a real danger. In other words, I wanted to create an architectural function that is <strong>well-grounded in the organization</strong>.</p>
+In this part, I will briefly introduce the structure of Grounded Architecture. I chose the term “Grounded Architecture” to highlight that the primary goal of my approach is <strong>avoid having an “ivory tower” architecture function</strong> disconnected from the organization. This disconnection is a real danger in a <a href="context">fast-moving, global, and diverse setting</a>. In other words, I wanted to create an architectural function that is <strong>well-grounded in the organization</strong>.</p>
 
-<div class="quote">
-I chose the term "Grounded Architecture" to highlight that the primary goal of my approach is to avoid having an "ivory tower" architecture function disconnected from the organization. I wanted to create an architectural practice that is well-grounded in the organization.
-</div>
+<p>Prioritizing people’s interactions and data over processes and tools, Grounded Architecture aims to connect architecture practice to all organizational parts and levels as an antidote to the “ivory tower” architecture.</p>
 
-<p>Prioritizing people interactions and data over processes and tools, Grounded Architecture aims to connect architecture practice to all organizational parts and levels, serving as an antidote to the “ivory tower” architecture.</p>
+<p>Grounded Architecture, as an approach to setting organizational structures for architectural practice, has three elements:</p>
 
-<p>Grounded Architecture as an approach to setting organizational structures for architecture practice has three elements:</p>
 <ul>
   <li>The Data Foundation,</li>
   <li>The People Foundation,</li>
   <li>The Architecture Activities Platform.</li>
 </ul>
 
-<p><img src="assets/images/model.png" alt="" />
-<em><strong>Figure 1:</strong> The structure of Grounded Architecture.</em></p>
+<p><img src="assets/images/model.png" alt="" /></p>
+
+<p><em><strong>Figure 1:</strong> The structure of Grounded Architecture.</em></p>
 
 <p>The <em>Data Foundation</em> is <strong>a system of tools and resources</strong> that enables architects to make <strong>data-informed decisions</strong> based on a real-time and complete overview of the organization’s technology landscape. The <a href="data">Data Foundation section</a> provides more details.</p>
 
-<p>The <em>People Foundation</em> is <strong>a network of people</strong> doing architecture across the organization. This Pillar is crucial to ensure that architecture function has any <strong>tangible impact</strong>. As noted by Gregor Hohpe, to transform an organization, you do not need to solve mathematical equations; you need to move people. The <a href="people">People Foundation section</a> provides more details.</p>
+<p>The <em>People Foundation</em> is <strong>a network of people</strong> doing architecture across the organization. This Pillar is crucial to ensure that the architecture function has any <strong>tangible impact</strong>. The <a href="people">People Foundation section</a> provides more details.</p>
 
 <p>Lastly, the <em>Architecture Activities Platform</em> defines <strong>a set of processes and agreements</strong> enabling architects to do everything that architecture typically does, leveraging data and People Foundations to create a data-informed, organization-wide impact. The <a href="activities-platform">Architecture Activities Platform section</a> provides more details on the Architecture Activities Platform.</p>
 
-<p>The Architecture Activities Platform is <strong>only valid with the healthy Data and People Foundations</strong>. Without data and people connections, an Architecture Activities Platform becomes an ivory tower institution, generating opinion-based decisions disconnected from reality.</p>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[I introduce three elements of Grounded Architecture: The Data Foundation, The People Foundation, and The Architecture Activities Platform.]]></summary></entry><entry><title type="html">Data Foundation</title><link href="http://localhost:4000/data" rel="alternate" type="text/html" title="Data Foundation" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/data-platform</id><content type="html" xml:base="http://localhost:4000/data"><![CDATA[<p><img src="assets/images/arch/architecture-1857175_1920.jpg" style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" /></p>
+<p>The Architecture Activities Platform is <strong>only valid with the healthy Data and People Foundations</strong>. Without data and people connections, an Architecture Activities Platform becomes an ivory tower institution, generating opinion-based decisions disconnected from reality.</p>
+
+<p>Now that we’ve got the Grounded Architecture tour out of the way, let’s dig into the specifics.</p>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[I introduce three elements of Grounded Architecture: The Data Foundation, The People Foundation, and The Architecture Activities Platform.]]></summary></entry><entry><title type="html">Data Foundation</title><link href="http://localhost:4000/data" rel="alternate" type="text/html" title="Data Foundation" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/data-platform</id><content type="html" xml:base="http://localhost:4000/data"><![CDATA[<p><img src="assets/images/arch/architecture-1857175_1920.jpg" style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/3844328-3844328/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1857175">Lorenzo Cafaro</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1857175">Pixabay</a>
 </div>
@@ -441,27 +441,7 @@ Manual documentation does not scale, and relying on data ensures reliability and
 </div>
 
 <p><br /></p>
-<h2 id="requirements-for-a-data-foundation">Requirements For A Data Foundation</h2>
-
-<p>A Data Foundation should be a central place with <strong>authoritative, relevant, and curated data</strong> about the organizational technology landscape. Technically, you can implement Data Foundation using simple tools like Google Drive, with documents organized in folders or as an internal website. I recommend investing some effort in creating better infrastructure and user experience, as it can enable more people to access and benefit from data. A solid setup will make it easier for more people to access and benefit from the data, turning it into a real asset rather than a digital junk drawer.</p>
-
-<p>Simply collecting and putting data in one place will not create any value. Regardless of how you implement your Data Foundation, with papers on the wall, in Google Drive, in Confluence, or with a nicely designed internal website, I have identified the following requirements that a Data Foundation needs to implement:</p>
-
-<ul>
-  <li><strong>It is the single point of truth</strong> for all relevant architectural data. People should be able to go to one place and get the most relevant data.</li>
-  <li><strong>It is curated for quality</strong> so people can trust the data. Simply dumping data into one place will not help. You need to own curation to ensure that data are correct. You also should provide links to data sources so people can verify the facts.</li>
-  <li><strong>It is curated for usability</strong> so people stay focused on valuable details. You must filter out useless or less relevant details, focusing on the essence. Investing in the UX design of documents or tools you create helps.</li>
-  <li><strong>It is kept up to date</strong>, ideally in an automated fashion (or in a semi-automated repeatable way).</li>
-  <li><strong>It is accessible to the whole organization</strong>. I genuinely believe that when you give employees access to information generally reserved for specialists, architects, or “higher levels,” they get more done independently. They can work faster without stopping to ask for information and approval. And they make better decisions without needing input from architects or the top.</li>
-  <li><strong>It is used in decision-making</strong>. Having nicely curated and valuable data has zero value if you cannot ensure that such data inform vital decisions.</li>
-</ul>
-
-<p>My approach to building the Data Foundation is <strong>like creating a map.</strong> Maps are some of the most crucial documents in human history—they help us store and exchange knowledge about space and place. One thing all maps do is provide readers with a <strong>sense of orientation.</strong> And that, in a nutshell, is what Data Foundation should offer people in your organization: a sense of orientation in a waste space of technology, organizational and business topics.</p>
-
-<p>The map metaphor is also helpful for Data Foundation, as maps come with <strong>multiple layers.</strong> Similarly, the architecture of Data Foundation should give readers data layers about systems that describe their sizes, connections, quality, security, or human activity. It’s like having a trusty map that shows you where the treasure is and warns you about the dragons.</p>
-
-<p><br /></p>
-<h2 id="examples-of-lean-data-foundation-tools">Examples of Lean Data Foundation Tools</h2>
+<h2 id="examples-of-data-foundation-tools">Examples of Data Foundation Tools</h2>
 
 <p>To illustrate what I mean by Data Foundation, I will give a few concrete examples from my recent work. Data I typically used include (Figures 2 and 3):</p>
 <ul>
@@ -540,6 +520,26 @@ Source code and its commit history include an astonishing amount of information 
 <p><img src="assets/images/arch/cross-data.png" alt="" />
 <br />
 <em><strong>Figure 5:</strong> Combining data from a different source (e.g., cloud billing reports and vibrancy or revenue can lead to new insights (e.g., identifying inefficiencies in the application portfolio).</em></p>
+
+<p><br /></p>
+<h2 id="requirements-for-a-data-foundation">Requirements For A Data Foundation</h2>
+
+<p>A Data Foundation should be a central place with <strong>authoritative, relevant, and curated data</strong> about the organizational technology landscape. Technically, you can implement Data Foundation tools like those discussed in the previous section, using simple tools like Google Drive, with documents organized in folders or as an internal website. I recommend investing some effort in creating better infrastructure and user experience, as it can enable more people to access and benefit from data. A solid setup will make it easier for more people to access and benefit from the data, turning it into a real asset rather than a digital junk drawer.</p>
+
+<p>Simply collecting and putting data in one place will not create any value. Regardless of how you implement your Data Foundation, with papers on the wall, in Google Drive, in Confluence, or with a nicely designed internal website, I have identified the following requirements that a Data Foundation needs to implement:</p>
+
+<ul>
+  <li><strong>It is the single point of truth</strong> for all relevant architectural data. People should be able to go to one place and get the most relevant data.</li>
+  <li><strong>It is curated for quality</strong> so people can trust the data. Simply dumping data into one place will not help. You need to own curation to ensure that data are correct. You also should provide links to data sources so people can verify the facts.</li>
+  <li><strong>It is curated for usability</strong> so people stay focused on valuable details. You must filter out useless or less relevant details, focusing on the essence. Investing in the UX design of documents or tools you create helps.</li>
+  <li><strong>It is kept up to date</strong>, ideally in an automated fashion (or in a semi-automated repeatable way).</li>
+  <li><strong>It is accessible to the whole organization</strong>. I genuinely believe that when you give employees access to information generally reserved for specialists, architects, or “higher levels,” they get more done independently. They can work faster without stopping to ask for information and approval. And they make better decisions without needing input from architects or the top.</li>
+  <li><strong>It is used in decision-making</strong>. Having nicely curated and valuable data has zero value if you cannot ensure that such data inform vital decisions.</li>
+</ul>
+
+<p>My approach to building the Data Foundation is <strong>like creating a map.</strong> Maps are some of the most crucial documents in human history—they help us store and exchange knowledge about space and place. One thing all maps do is provide readers with a <strong>sense of orientation.</strong> And that, in a nutshell, is what Data Foundation should offer people in your organization: a sense of orientation in a waste space of technology, organizational and business topics.</p>
+
+<p>The map metaphor is also helpful for Data Foundation, as maps come with <strong>multiple layers.</strong> Similarly, the architecture of Data Foundation should give readers data layers about systems that describe their sizes, connections, quality, security, or human activity. It’s like having a trusty map that shows you where the treasure is and warns you about the dragons.</p>
 
 <p><br /></p>
 <h2 id="building-data-foundation">Building Data Foundation</h2>
@@ -692,7 +692,7 @@ Image by <a href="https://pixabay.com/users/mostafa_meraji-13551092/?utm_source=
 Strong Architecture = Strong Architects.
 </div>
 
-<p>Developing the architecture function requires competent, empowered, and motivated architects. Remember, architects are a rare breed. They bridge the gaps between business, product, organizational, and technology issues. They’re like the Swiss Army knives of the tech world.</p>
+<p>Developing the architecture function requires competent, empowered, and motivated architects. Architects are a rare breed. They bridge the gaps between business, product, organizational, and technology issues. They’re like the Swiss Army knives of the tech world.</p>
 
 <p><strong>Hiring architects</strong> is like searching for a unicorn who’s also a full-stack developer with a knack for diplomacy. They need not only in-depth technical knowledge but also domain-specific and organizational knowledge. So, any architecture function must carefully organize, empower, and leverage this scarce talent (Figure 1).</p>
 
@@ -719,7 +719,7 @@ Strong Architecture = Strong Architects.
 <p><br /></p>
 <h2 id="the-hybrid-model">The Hybrid Model</h2>
 
-<p>To operate in a complex context, you must invest effort to ensure you have the right people at the right places. In the end, I usually found it best to adopt a model of a hybrid organization combining elements of central and federated orientation structures:</p>
+<p>To operate in a complex context, you must invest effort to ensure you have the <strong>right people at the right places</strong>. In the end, I usually found it best to adopt a model of a hybrid organization combining elements of central and federated orientation structures:</p>
 
 <ul>
   <li>A Central Architectural Team, and</li>
@@ -969,15 +969,15 @@ I aim to avoid formal bureaucratic approval processes, where architects appear t
 <p><br /></p>
 <h2 id="guiding-principles-for-architectural-excellence-policies-autonomy-and-engagement">Guiding Principles for Architectural Excellence: Policies, Autonomy, and Engagement</h2>
 
-<p>In this section, I address different guiding principles of architectural work. The Architecture Decision Policy provides a framework for making informed choices considering overall complexity, team mobility, training ease, talent density, potential reorganizations, and efficiency. Distributing Decisions, Autonomy, and Alignment explores the balance between team autonomy and organizational alignment, emphasizing the importance of transparent communication and strategic decision boundaries. Finally, the Rules of Engagement outline essential principles for effective architectural practice, ensuring teams are well-equipped to collaborate, innovate, and maintain high standards. By adhering to these guidelines, organizations can foster a cohesive and adaptable architecture that supports current and future needs.</p>
+<p>In this section, I address different guiding principles of architectural work. The Architecture Decision Policy provides a framework for making informed choices considering overall complexity, team mobility, training ease, talent density, potential reorganizations, and efficiency. Distributing Decisions, Autonomy, and Alignment explores the balance between team autonomy and organizational alignment, emphasizing the importance of transparent communication and strategic decision boundaries. Finally, the Rules of Engagement outline essential principles for effective architectural practice, ensuring teams are well-equipped to collaborate, innovate, and maintain high standards.</p>
 
 <h3 id="architecture-decision-policy">Architecture Decision Policy</h3>
 
-<p>Inspired by the famous <strong><a href="https://hbr.org/2014/01/how-netflix-reinvented-hr">Netflix expense policy</a></strong>, I frequently argued that architecture decision policy could be summarized in six words:</p>
+<p>Inspired by the famous <strong><a href="https://hbr.org/2014/01/how-netflix-reinvented-hr">Netflix expense policy</a></strong>, <em>“Act in Netflix’s best interests”</em>, I frequently argued that architecture decision policy could similarly be summarized in six words:</p>
 
 <p><img src="assets/images/arch/decision-policy.png" alt="" /></p>
 
-<p>What I mean by that is that anyone can make architecture decisions, provided that, in addition to their specific requirements, they also think about the impact of their choices on:</p>
+<p>What I mean by that is that <strong>anyone can make architecture decisions</strong>, provided that, in addition to their specific requirements, they also think about the <strong>impact of their choices</strong> on:</p>
 
 <ul>
   <li><strong>Overall organizational complexity</strong>: Technology is more manageable by limiting tech diversity, size, and dependencies. Limiting technology choices reduces the attack surface with fewer third-party dependencies and tool ecosystems (build, testing, etc.).</li>

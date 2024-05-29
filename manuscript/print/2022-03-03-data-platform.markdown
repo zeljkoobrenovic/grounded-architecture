@@ -23,24 +23,7 @@ Everywhere I worked on creating architectural functions, I strongly (aka obsessi
 
 The good news is that **big organizations have lots of data** that, if used wisely, can provide an excellent basis for an architectural Data Foundation. With some automation and curation, getting a crystal clear overview of the technology landscape may be closer than it initially appears.
 
-## Requirements For A Data Foundation
-
-A Data Foundation should be a central place with **authoritative, relevant, and curated data** about the organizational technology landscape. Technically, you can implement Data Foundation using simple tools like Google Drive, with documents organized in folders or as an internal website. I recommend investing some effort in creating better infrastructure and user experience, as it can enable more people to access and benefit from data. A solid setup will make it easier for more people to access and benefit from the data, turning it into a real asset rather than a digital junk drawer.
-
-Simply collecting and putting data in one place will not create any value. Regardless of how you implement your Data Foundation, with papers on the wall, in Google Drive, in Confluence, or with a nicely designed internal website, I have identified the following requirements that a Data Foundation needs to implement:
-
-* **It is the single point of truth** for all relevant architectural data. People should be able to go to one place and get the most relevant data. 
-* **It is curated for quality** so people can trust the data. Simply dumping data into one place will not help. You need to own curation to ensure that data are correct. You also should provide links to data sources so people can verify the facts.
-* **It is curated for usability** so people stay focused on valuable details. You must filter out useless or less relevant details, focusing on the essence. Investing in the UX design of documents or tools you create helps.
-* **It is kept up to date**, ideally in an automated fashion (or in a semi-automated repeatable way).
-* **It is accessible to the whole organization**. I genuinely believe that when you give employees access to information generally reserved for specialists, architects, or "higher levels," they get more done independently. They can work faster without stopping to ask for information and approval. And they make better decisions without needing input from architects or the top.
-* **It is used in decision-making**. Having nicely curated and valuable data has zero value if you cannot ensure that such data inform vital decisions. 
-
-My approach to building the Data Foundation is **like creating a map.** Maps are some of the most crucial documents in human history—they help us store and exchange knowledge about space and place. One thing all maps do is provide readers with a **sense of orientation.** And that, in a nutshell, is what Data Foundation should offer people in your organization: a sense of orientation in a waste space of technology, organizational and business topics. 
-
-The map metaphor is also helpful for Data Foundation, as maps come with **multiple layers.** Similarly, the architecture of Data Foundation should give readers data layers about systems that describe their sizes, connections, quality, security, or human activity. It's like having a trusty map that shows you where the treasure is and warns you about the dragons.
-
-## Examples of Lean Data Foundation Tools
+## Examples of Data Foundation Tools
 
 To illustrate what I mean by Data Foundation, I will give a few concrete examples from my recent work. Data I typically used include (Figures 2 and 3):
 * **Source code** contains an incredible amount of information about technology, people's activity, team dependencies, and the quality of software systems. By analyzing commit histories, code complexity, and contributions, we can identify critical areas of improvement, understand team dynamics, and ensure code quality.
@@ -100,6 +83,23 @@ So, next time you're knee-deep in architectural plans, don't forget to call the 
 
 ![](assets/images/arch/cross-data.png)
 ***Figure 5:** Combining data from a different source (e.g., cloud billing reports and vibrancy or revenue can lead to new insights (e.g., identifying inefficiencies in the application portfolio).*
+
+## Requirements For A Data Foundation
+
+A Data Foundation should be a central place with **authoritative, relevant, and curated data** about the organizational technology landscape. Technically, you can implement Data Foundation tools like those discussed in the previous section, using simple tools like Google Drive, with documents organized in folders or as an internal website. I recommend investing some effort in creating better infrastructure and user experience, as it can enable more people to access and benefit from data. A solid setup will make it easier for more people to access and benefit from the data, turning it into a real asset rather than a digital junk drawer.
+
+Simply collecting and putting data in one place will not create any value. Regardless of how you implement your Data Foundation, with papers on the wall, in Google Drive, in Confluence, or with a nicely designed internal website, I have identified the following requirements that a Data Foundation needs to implement:
+
+* **It is the single point of truth** for all relevant architectural data. People should be able to go to one place and get the most relevant data. 
+* **It is curated for quality** so people can trust the data. Simply dumping data into one place will not help. You need to own curation to ensure that data are correct. You also should provide links to data sources so people can verify the facts.
+* **It is curated for usability** so people stay focused on valuable details. You must filter out useless or less relevant details, focusing on the essence. Investing in the UX design of documents or tools you create helps.
+* **It is kept up to date**, ideally in an automated fashion (or in a semi-automated repeatable way).
+* **It is accessible to the whole organization**. I genuinely believe that when you give employees access to information generally reserved for specialists, architects, or "higher levels," they get more done independently. They can work faster without stopping to ask for information and approval. And they make better decisions without needing input from architects or the top.
+* **It is used in decision-making**. Having nicely curated and valuable data has zero value if you cannot ensure that such data inform vital decisions. 
+
+My approach to building the Data Foundation is **like creating a map.** Maps are some of the most crucial documents in human history—they help us store and exchange knowledge about space and place. One thing all maps do is provide readers with a **sense of orientation.** And that, in a nutshell, is what Data Foundation should offer people in your organization: a sense of orientation in a waste space of technology, organizational and business topics. 
+
+The map metaphor is also helpful for Data Foundation, as maps come with **multiple layers.** Similarly, the architecture of Data Foundation should give readers data layers about systems that describe their sizes, connections, quality, security, or human activity. It's like having a trusty map that shows you where the treasure is and warns you about the dragons.
 
 ## Building Data Foundation
 

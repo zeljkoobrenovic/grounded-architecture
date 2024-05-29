@@ -17,7 +17,7 @@ A> * In my work in the past few years, I combined two teams of architects: a sma
 
 As the wise Gregor Hohpe noted, transforming an organization isn't about solving mathematical equations. No, it's about moving people. This makes **a strong network of people doing architecture** crucial for any real impact. In simpler terms, **Strong Architecture = Strong Architects**.
 
-Developing the architecture function requires competent, empowered, and motivated architects. Remember, architects are a rare breed. They bridge the gaps between business, product, organizational, and technology issues. They're like the Swiss Army knives of the tech world.
+Developing the architecture function requires competent, empowered, and motivated architects. Architects are a rare breed. They bridge the gaps between business, product, organizational, and technology issues. They're like the Swiss Army knives of the tech world.
 
 **Hiring architects** is like searching for a unicorn who's also a full-stack developer with a knack for diplomacy. They need not only in-depth technical knowledge but also domain-specific and organizational knowledge. So, any architecture function must carefully organize, empower, and leverage this scarce talent (Figure 1).
 
@@ -43,7 +43,7 @@ Modern agile organizations love the federated model. It keeps architects close t
 
 ## The Hybrid Model
 
-To operate in a complex context, you must invest effort to ensure you have the right people at the right places. In the end, I usually found it best to adopt a model of a hybrid organization combining elements of central and federated orientation structures:
+To operate in a complex context, you must invest effort to ensure you have the **right people at the right places**. In the end, I usually found it best to adopt a model of a hybrid organization combining elements of central and federated orientation structures:
 
 * A Central Architectural Team, and
 * Architecture Guilds & Virtual Architectural Teams.
