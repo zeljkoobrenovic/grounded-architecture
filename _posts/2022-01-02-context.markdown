@@ -47,7 +47,7 @@ My approach to creating and running an architecture function is not an abstract 
 My approach to creating and running an architecture function is not an abstract idea. Instead, it is the generalization of many lessons learned while solving specific problems in a particular context.
 </div>
 
-To better understand any idea or solution, it is crucial to understand the context in which these ideas developed. I base my views on my experiences as a Chief Architect at AVIV Group and a Principal Architect at eBay Classifieds and Adevinta. In this section, I discuss critical characteristics of the organizational context that have had an impact on my definition of the Grounded Architecture approach:
+To truly grasp any idea or solution, you need to understand the context in which these ideas were born. I base my views on my time as a Chief Architect at AVIV Group and as a Principal Architect at eBay Classifieds and Adevinta. Let's dive into some key characteristics of the organizational context that shaped my Grounded Architecture approach:
 * **Global scale**: operating across multiple countries and continents with millions of users.
 * **Multi-dimensional diversity**: the organizations I worked in were diverse, including customer base, workforce, business models, team topologies, and technology stacks.
 * **Nonlinear growth dynamics**: besides organic growth, big organizations change their portfolio through mergers and acquisitions of new businesses or divestments.
