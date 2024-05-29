@@ -131,6 +131,7 @@ Image by <a href="https://pixabay.com/users/cocoparisienne-127419/?utm_source=li
 
 <p><br />
 Each organization will have different architectural needs and contexts. When forming architecture functions, I use as a starting point these <a href="https://architectelevator.com/architecture/organizing-architecture/">two pieces of advice from Gregor Hohpe</a>:</p>
+
 <ul>
   <li><em>“Your architecture team’s job is to <strong>solve your biggest problems</strong>. The best setup is the one that allows it to accomplish that.”</em></li>
   <li><em>“Your organization has to earn its way to an effective architecture function. <strong>You can’t just plug some architects into the current mess</strong> and expect it to solve all your problems.”</em></li>
@@ -139,15 +140,15 @@ Each organization will have different architectural needs and contexts. When for
 <p><img src="assets/images/model-strategy.png" alt="" />
 <em><strong>Figure 1:</strong> The structure of Grounded Architecture: Architecture Activities Platform.</em></p>
 
-<p>Considering the previous two points from Gregor Hohpe, I approach defining an architecture practice with a mindset that there is no one-size-fits-all approach. You must find your own activities and operating models to enable architecture to solve the most critical problems.</p>
+<p>Considering Gregor Hohpe’s previous two points, I approach defining an architecture practice with the mindset that there is no one-size-fits-all method. You must find your own activities and operating models to enable architecture to solve the most critical problems.</p>
 
 <div class="quote">
-There is no one-size-fits-all approach: each organization must find activities and operating models to enable architecture to work on the most critical problems. 
+There is no one-size-fits-all approach: each organization must find activities and operating models that enable architecture to solve the most critical problems.
 </div>
 
-<p>No matter which operating models you select, you must develop explicit agreements and “rules of engagement” with key stakeholders to create <strong>a sustainable and practical architecture function</strong>.</p>
+<p>No matter which operating models you select, it’s crucial to develop explicit agreements and “rules of engagement” with key stakeholders. This collaborative approach is essential to create a sustainable and practical architectural function. It’s like establishing the house rules for game night; everyone’s input is valued and necessary to keep things fun and functional.</p>
 
-<p>The Architecture Activities Platform (Figure 1) is a set of <strong>processes and agreements</strong> that allows architects to do everything architecture practice typically does, leveraging Data and People Foundations to develop a data-informed, organization-wide impact. In all these activities, Data and People Foundations provide a basis for data-informed decision-making well embedded in the organization.</p>
+<p>The Architecture Activities Platform (Figure 1) is a set of processes and agreements that allows architects to do everything architecture practice typically does. It leverages Data and People Foundations to develop a data-informed, organization-wide impact. Data and People Foundations provide a basis for data-informed decision-making well embedded in the organization. It’s about instilling confidence and trust in your decision-making process.</p>
 
 <p><br /></p>
 <h2 id="examples-of-architecture-activities">Examples of Architecture Activities</h2>
@@ -205,30 +206,34 @@ There is no one-size-fits-all approach: each organization must find activities a
 I aim to avoid formal bureaucratic approval processes, where architects appear too late and are frequently busy approving trivial decisions.
 </div>
 
-<p>Another characteristic of this operating model is <strong>shifting left</strong> the architecture work. I aim to avoid formal bureaucratic approval processes, where architects appear too late and are frequently busy approving trivial decisions. Instead, my goal is to have architects involved early in any of the processes, such as during the planning and preparation stages, where it is possible to make more significant changes.</p>
+<p>Another characteristic of this operating model is shifting left the architecture work. I aim to avoid formal bureaucratic approval processes, where architects appear too late and are frequently busy approving trivial decisions. Instead, my goal is to have architects involved early in any of the processes, such as during the planning and preparation stages, where it is possible to make more significant changes. Think of it as having the architects as early birds catching the architectural worms, making big changes before the day officially starts.</p>
 
 <p><br /></p>
-<h2 id="architecture-decision-policy">Architecture Decision Policy</h2>
+<h2 id="guiding-principles-for-architectural-excellence-policies-autonomy-and-engagement">Guiding Principles for Architectural Excellence: Policies, Autonomy, and Engagement</h2>
 
-<p>Inspired by the famous <a href="https://hbr.org/2014/01/how-netflix-reinvented-hr">Netflix expense policy</a>, I frequently argued that architecture decision policy could be summarized in six words:</p>
+<p>In this section, I address different guiding principles of architectural work. The Architecture Decision Policy provides a framework for making informed choices considering overall complexity, team mobility, training ease, talent density, potential reorganizations, and efficiency. Distributing Decisions, Autonomy, and Alignment explores the balance between team autonomy and organizational alignment, emphasizing the importance of transparent communication and strategic decision boundaries. Finally, the Rules of Engagement outline essential principles for effective architectural practice, ensuring teams are well-equipped to collaborate, innovate, and maintain high standards. By adhering to these guidelines, organizations can foster a cohesive and adaptable architecture that supports current and future needs.</p>
+
+<h3 id="architecture-decision-policy">Architecture Decision Policy</h3>
+
+<p>Inspired by the famous <strong><a href="https://hbr.org/2014/01/how-netflix-reinvented-hr">Netflix expense policy</a></strong>, I frequently argued that architecture decision policy could be summarized in six words:</p>
 
 <p><img src="assets/images/arch/decision-policy.png" alt="" /></p>
 
 <p>What I mean by that is that anyone can make architecture decisions, provided that, in addition to their specific requirements, they also think about the impact of their choices on:</p>
 
 <ul>
-  <li><strong>Overall organizational complexity</strong>: Technology is more manageable by limiting tech diversity, size, and dependencies. Limiting technology choices also reduces the attack surface with fewer third-party dependencies and tool ecosystems (build, testing, etc.).</li>
+  <li><strong>Overall organizational complexity</strong>: Technology is more manageable by limiting tech diversity, size, and dependencies. Limiting technology choices reduces the attack surface with fewer third-party dependencies and tool ecosystems (build, testing, etc.).</li>
   <li><strong>Ease of moving people</strong> between teams (both to get help and help others, get promoted): Do not unnecessarily create exotic islands with few experts in technologies not supported or widely used in the organization. People cannot get help or move across the organization as their expertise may be useless outside the team.</li>
   <li><strong>Ease of training and onboarding</strong> of internal and external developers: Using conventional technologies, supported with external learning resources (books, tutorials, StackOverflow) significantly helps find and grow experts.</li>
-  <li><strong>Talent density</strong> and the possibility of performing at the world-scale level: Building world-scale technology and scaling requires in-depth knowledge and fine-tuning. You cannot achieve it with only a few in-house experts.</li>
-  <li>New <strong>reorganizations</strong>: Would your choices fit with other components from other areas if ownership of components changes (e.g., another team is taking it over)?</li>
+  <li><strong>Talent density</strong> and the possibility of performing at the world-scale level: Building world-scale technology and scaling requires in-depth knowledge and fine-tuning. It cannot be achieved with only a few in-house experts.</li>
+  <li>New <strong>reorganizations</strong>: If the ownership of components changes (e.g., another team is taking it over), would your choices fit with other components from other areas?</li>
   <li>Reducing global <strong>duplication of effort</strong> and inefficiencies: Are you doing the work others are doing? Can others reuse your work? Can you reuse the work of others?</li>
 </ul>
 
-<p>While it may not always be enough, this simple policy resonates well and encourages people to be more thoughtful when making decisions.</p>
+<p>While it may not always be enough, this simple policy resonates well. It encourages people to be more thoughtful when making decisions.</p>
 
 <p><br /></p>
-<h2 id="distributing-decisions-autonomy-and-alignment">Distributing Decisions, Autonomy, and Alignment</h2>
+<h3 id="distributing-decisions-autonomy-and-alignment">Distributing Decisions, Autonomy, and Alignment</h3>
 
 <p>With any operating model, I aim to keep architectural decision-making distributed across the organization and embedded in the development teams. Development <strong>teams traditionally have the best insights and most information</strong> relevant for making decisions. As noted by Gregor Hohpe, the worst case of organizational decision-making happens when people with relevant information are not allowed to make decisions, while people who lack sufficient information make all decisions. Grounded Architecture aims to make relevant information more readily available to a broader audience and better connect people when making decisions.</p>
 
@@ -246,7 +251,7 @@ Grounded Architecture aims to make relevant information more readily available t
 <em><strong>Figure 3:</strong> A decision pyramid. The development teams should make most decisions. However, several strategic and area-level decisions may provide decision boundaries for teams (e.g., a public cloud provider).</em></p>
 
 <p><br /></p>
-<h2 id="rules-of-engagement">Rules of Engagement</h2>
+<h3 id="rules-of-engagement">Rules of Engagement</h3>
 
 <p>One of the amusing challenges with setting up an architecture function in an organization is that everyone seems to have a different idea of what “architecture” should entail. It’s like asking people to describe a unicorn: some imagine a mythical, majestic creature, while others picture a sparkly horse with a horn that grants wishes. Good architects can do many things, but this versatility might not always be the most effective way to support the organization.</p>
 
