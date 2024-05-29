@@ -61,11 +61,11 @@ Another characteristic of this operating model is shifting left the architecture
 
 ## Guiding Principles for Architectural Excellence: Policies, Autonomy, and Engagement
 
-In this section, I address different guiding principles of architectural work. The Architecture Decision Policy provides a framework for making informed choices considering overall complexity, team mobility, training ease, talent density, potential reorganizations, and efficiency. Distributing Decisions, Autonomy, and Alignment explores the balance between team autonomy and organizational alignment, emphasizing the importance of transparent communication and strategic decision boundaries. Finally, the Rules of Engagement outline essential principles for effective architectural practice, ensuring teams are well-equipped to collaborate, innovate, and maintain high standards. By adhering to these guidelines, organizations can foster a cohesive and adaptable architecture that supports current and future needs.
+In this section, I address different guiding principles of architectural work. The Architecture Decision Policy provides a framework for making informed choices considering overall complexity, team mobility, training ease, talent density, potential reorganizations, and efficiency. Distributing Decisions, Autonomy, and Alignment explores the balance between team autonomy and organizational alignment, emphasizing the importance of transparent communication and strategic decision boundaries. Finally, the Rules of Engagement outline essential principles for effective architectural practice, ensuring teams are well-equipped to collaborate, innovate, and maintain high standards. 
 
 ### Architecture Decision Policy
 
-Inspired by the famous **[Netflix expense policy](https://hbr.org/2014/01/how-netflix-reinvented-hr)**, I frequently argued that architecture decision policy could be summarized in six words:
+Inspired by the famous **[Netflix expense policy](https://hbr.org/2014/01/how-netflix-reinvented-hr)**, *"Act in Netflix’s best interests”*, I frequently argued that architecture decision policy could similarly be summarized in six words:
 
 ![What I mean by that is that anyone can make architecture decisions, provided that, in addition to their specific requirements, they also think about the impact of their choices on:](assets/images/arch/decision-policy.png)
 

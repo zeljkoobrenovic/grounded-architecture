@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-05-29T22:51:38+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: Redefining IT Architecture Practice</title><subtitle></subtitle><entry><title type="html">High Performing Technology Organizations</title><link href="http://localhost:4000/concepts-org" rel="alternate" type="text/html" title="High Performing Technology Organizations" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/appendix-organization</id><content type="html" xml:base="http://localhost:4000/concepts-org"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/car-engine-1701029_1280.jpg" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-05-29T23:22:33+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: Redefining IT Architecture Practice</title><subtitle></subtitle><entry><title type="html">High Performing Technology Organizations</title><link href="http://localhost:4000/concepts-org" rel="alternate" type="text/html" title="High Performing Technology Organizations" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/appendix-organization</id><content type="html" xml:base="http://localhost:4000/concepts-org"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/car-engine-1701029_1280.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/paulbr75-2938186/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1701029">Paul Brennan</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1701029">Pixabay</a>
 </div>
@@ -113,7 +113,7 @@ My approach to creating and running an architecture function is not an abstract 
 My approach to creating and running an architecture function is not an abstract idea. Instead, it is the generalization of many lessons learned while solving specific problems in a particular context.
 </div>
 
-<p>To better understand any idea or solution, it is crucial to understand the context in which these ideas developed. I base my views on my experiences as a Chief Architect at AVIV Group and a Principal Architect at eBay Classifieds and Adevinta. In this section, I discuss critical characteristics of the organizational context that have had an impact on my definition of the Grounded Architecture approach:</p>
+<p>To truly grasp any idea or solution, you need to understand the context in which these ideas were born. I base my views on my time as a Chief Architect at AVIV Group and as a Principal Architect at eBay Classifieds and Adevinta. Let’s dive into some key characteristics of the organizational context that shaped my Grounded Architecture approach:</p>
 <ul>
   <li><strong>Global scale</strong>: operating across multiple countries and continents with millions of users.</li>
   <li><strong>Multi-dimensional diversity</strong>: the organizations I worked in were diverse, including customer base, workforce, business models, team topologies, and technology stacks.</li>
@@ -126,13 +126,13 @@ My approach to creating and running an architecture function is not an abstract 
 
 <h2 id="global-scale">Global Scale</h2>
 
-<p>I have developed my approach in genuinely global and multicultural organizations on a massive scale:</p>
+<p>I have honed my approach within genuinely global and multicultural organizations on a massive scale:</p>
 
 <ul>
-  <li>Operating across many geographies, cultures, and languages,</li>
-  <li>Serving millions of users each day,</li>
-  <li>Working with thousands of software developers in hundreds of product and development teams,</li>
-  <li>Implementing systems with hundreds of millions of lines of source code.</li>
+  <li>Operating across numerous geographies, cultures, and languages,</li>
+  <li>Serving millions of users daily,</li>
+  <li>Collaborating with thousands of software developers across hundreds of product and development teams,</li>
+  <li>Implementing systems comprising hundreds of millions of lines of source code.</li>
 </ul>
 
 <p><img src="assets/images/arch/earth-g217b5730b_1920.jpg" alt="" /></p>
@@ -140,22 +140,23 @@ My approach to creating and running an architecture function is not an abstract 
 Image by <a href="https://pixabay.com/users/thedigitalartist-202249/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2254769">Pete Linforth</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2254769">Pixabay</a>
 </div>
 
-<p>The global scale introduces several compelling opportunities for organizations. The global scale can increase organizational effectiveness due to the possibility of <strong>reducing duplication of effort</strong> by centralizing shared activities. Second, the global scale enables leveraging <strong>economies of scale</strong> by achieving cost advantages, such as lowering unit prices of used technologies. Furthermore, the global scale can increase <strong>business resilience and flexibility</strong>, possibly compensating for negative local market changes with global resources. Global organizations also have <strong>a bigger talent pool</strong> to support local or international efforts. Lastly, such organizations have significant resources to invest in to support nonlinear growth through mergers and acquisitions (M&amp;As).</p>
+<p>Operating on a global scale introduces several compelling opportunities for organizations. It can significantly increase organizational effectiveness by <strong>reducing duplication of effort</strong> through centralized shared activities. Additionally, leveraging <strong>economies of scale</strong> allows for cost advantages, such as lowering the unit prices of utilized technologies. Global operations also enhance <strong>business resilience and flexibility</strong>, enabling compensation for local market fluctuations with global resources. The expansive talent pool available to global organizations supports local and international initiatives. Moreover, these organizations possess significant resources to invest in supporting nonlinear growth through mergers and acquisitions (M&amp;As).</p>
 
-<p>The global and massive scale brings many challenges. It leads to <strong>high organizational complexity</strong>, with thousands of possible communication channels among the organization’s units. Global scale means having a <strong>complex technology landscape</strong> with many services and interconnections. An immense talent pool also means <strong>high costs</strong> for the workforce continuously. And such organizations also have constantly high costs of computing resources due to the need to serve many customers twenty-four hours a day, seven days a week, all the time. Operating in many places also increases the <strong>complexity of running operations</strong> with high and variable customer demands. With many data centers, services, and applications, global organizations have <strong>a vast attack surface</strong>, with many points on the boundary of their systems where an attacker can try to enter, cause an effect on, or extract data. Lastly, any manual process, such as diagram drawing to create an overview of the organizational or technology landscape, is limited due to scale.</p>
+<p>However, the global and massive scale also presents numerous challenges. It results in <strong>high organizational complexity</strong>, with thousands of potential communication channels within the organization. The <strong>complex technology landscape</strong> entails numerous interconnected services. Managing a large talent pool incurs <strong>high workforce costs</strong>. Furthermore, such organizations face high computing resource expenses due to the need to serve a vast customer base around the clock. The operational complexity increases with high and variable customer demands across multiple locations. Additionally, global organizations have a <strong>vast attack surface</strong>, with many potential entry points for attackers. Lastly, any manual process, such as creating an organizational or technology landscape overview, is limited due to the scale involved.</p>
 
-<p>Balancing opportunities and challenges on a global scale has been one of the most challenging and rewarding aspects of my architectural work.</p>
+<p>Balancing these opportunities and challenges on a global scale has been one of the most challenging and rewarding aspects of my architectural work.</p>
 
 <p><br /></p>
 <h2 id="multi-dimensional-diversity">Multi-Dimensional Diversity</h2>
 
-<p>The organizations I worked in were very diverse across several dimensions:</p>
+<p>The organizations I worked with were incredibly diverse across multiple dimensions:</p>
+
 <ul>
-  <li><strong>Cultures</strong>: different (local and remote) workforce and customers,</li>
-  <li><strong>Organization</strong>: different sizes, complexity, and styles of organizational units,</li>
-  <li><strong>Product</strong>: diverse sets of features covering many markets and different customer segments,</li>
-  <li><strong>IT Architecture</strong>: legacy and modern approaches mixed, and</li>
-  <li><strong>Technology</strong>: dozens of programming languages and thousands of thirds party libraries, frameworks, and services.</li>
+  <li><strong>Cultures</strong>: Collaborated with a varied workforce and clientele, both local and remote.</li>
+  <li><strong>Organization</strong>: Engaged with units of different sizes, complexities, and organizational styles.</li>
+  <li><strong>Product</strong>: Managed diverse features catering to various markets and customer segments.</li>
+  <li><strong>IT Architecture</strong>: Balanced legacy systems with modern approaches.</li>
+  <li><strong>Technology</strong>: Utilized numerous programming languages and thousands of third-party libraries, frameworks, and services.</li>
 </ul>
 
 <p><img src="assets/images/arch/pictures-g139ff7ebb_1280.jpg" alt="" /></p>
@@ -163,91 +164,119 @@ Image by <a href="https://pixabay.com/users/thedigitalartist-202249/?utm_source=
 Image by <a href="https://pixabay.com/users/simon-3/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=381937">Simon</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=381937">Pixabay</a>
 </div>
 
-<p>Organization-wise, I needed to work with many units that differed in multiple ways:</p>
+<p><strong>Organizational Diversity:</strong>
+I worked with units differing in several aspects:</p>
 <ul>
-  <li><strong>Unit size</strong>: some units had hundreds of people, and some had only a dozen.</li>
-  <li><strong>Team topologies</strong>: some organizations had one team, while other units organized teams hierarchically,</li>
-  <li><strong>Position of architecture</strong>: with some organizations having local architecture teams and local lead architects, smaller units have their team members conducting architecture activities in addition to other responsibilities.</li>
+  <li><strong>Unit Size</strong>: Ranged from hundreds of employees to just a dozen.</li>
+  <li><strong>Team Topologies</strong>: Spanned from single-team setups to hierarchical team organizations.</li>
+  <li><strong>Architectural Roles</strong>: Varied from having dedicated local architecture teams and lead architects to smaller units where team members handled architectural duties alongside other responsibilities.</li>
 </ul>
 
-<p>Architecture-wise, we needed to work with many styles in active production systems, ranging from <strong>legacy monolith applications</strong> to complex modern <strong>microservice and serverless ecosystems</strong>. Each part of the organization has a different history and a different legacy.</p>
+<p><strong>Architectural Diversity:</strong>
+We managed a range of styles in active production systems, from <strong>legacy monolithic applications</strong> to intricate modern <strong>microservice and serverless ecosystems</strong>. Each organizational segment had its own unique history and legacy systems.</p>
 
-<p>And our technology covered almost any of the mainstream stacks. The technical infrastructure included several public cloud providers (AWS, GCP, Azure) and custom-built private data centers. The systems also employed diverse application technologies, such as:</p>
+<p><strong>Technological Diversity:</strong>
+Our technology stack was extensive, covering multiple mainstream technologies. The infrastructure included several public cloud providers (AWS, GCP, Azure) and custom-built private data centers. Our systems employed a variety of application technologies, such as:</p>
 <ul>
-  <li><strong>Database technologies</strong> (e.g., MySQL, PostgreSQL, MongoDB, Cassandra, AWS RDS…).</li>
-  <li><strong>Backend programming languages</strong> (e.g., Java, C#, Go, Scala, PHP, Node.js, Kotlin…).</li>
-  <li><strong>Mobile app programming languages</strong> (e.g., Swift, Objective-C, Java, Kotlin, or Flutter/Dart…).</li>
-  <li><strong>Frontend programming languages and frameworks</strong> (e.g., React, Android, AndroidJS, Vue, or jQuery).</li>
+  <li><strong>Database Technologies</strong>: MySQL, PostgreSQL, MongoDB, Cassandra, AWS RDS, and more.</li>
+  <li><strong>Backend Programming Languages</strong>: Java, C#, Go, Scala, PHP, Node.js, Kotlin, among others.</li>
+  <li><strong>Mobile App Programming Languages</strong>: Swift, Objective-C, Java, Kotlin, Flutter/Dart, and more.</li>
+  <li><strong>Frontend Programming Languages and Frameworks</strong>: React, AngularJS, Vue, jQuery, and others.</li>
 </ul>
 
-<p>From an architectural perspective, diversity offers several opportunities. It can <strong>increase technology innovation</strong> due to a diverse workforce and the possibility of creatively exploring more technologies and tools. And it can <strong>help address various implementation needs</strong> better by choosing from a more extensive and diverse pool of resources (selecting the best tool for the job).</p>
+<p><strong>Opportunities and Challenges of Architectural Diversity:</strong>
+Diversity offers several opportunities, including:</p>
+<ul>
+  <li><strong>Increased Technology Innovation</strong>: A diverse workforce can explore more technologies and tools creatively.</li>
+  <li><strong>Better Implementation</strong>: Access to a broader pool of resources allows for selecting the best tool for the job.</li>
+</ul>
 
-<p>Diversity also poses several challenges. High diversity <strong>increases overall system landscape complexity</strong> and the cognitive load of teams who must master many different topics simultaneously. Diversity can also <strong>reduce flexibility</strong> and reorganization possibilities as expertise is split among many domains and technologies. And the variety of technology stacks also may lead to <strong>higher technical debt</strong> due to many legacy components in many (outdated) technologies.</p>
+<p>However, diversity also brings challenges:</p>
+<ul>
+  <li><strong>Increased Complexity</strong>: Higher system landscape complexity and cognitive load for teams mastering numerous topics simultaneously.</li>
+  <li><strong>Reduced Flexibility</strong>: Expertise is spread across many domains and technologies, limiting reorganization possibilities.</li>
+  <li><strong>Higher Technical Debt</strong>: Multiple technology stacks can lead to increased legacy components and outdated technologies.</li>
+</ul>
 
-<p>From an architectural perspective, diversity is an excellent source of new possibilities but comes with challenges in controlling complexity.</p>
+<p>In conclusion, while diversity is a rich source of new possibilities from an architectural perspective, it also necessitates managing complexity carefully.</p>
 
 <p><br /></p>
 
 <h2 id="nonlinear-growth-dynamics">Nonlinear Growth Dynamics</h2>
 
-<p>Complex organizations like the one I have worked in are frequently very dynamic. Such organizations grow (or shrink) and reorganize often and significantly. They change both organically and inorganically. <strong>Organic growth</strong> is internal growth the company sees from its operations. <strong>Inorganic change</strong> comes from buying other businesses, opening new locations, or divesting.</p>
+<p>Complex organizations like the ones I have worked in are often highly dynamic. These organizations frequently undergo significant growth, contraction, and reorganization, evolving both organically and inorganically.</p>
 
 <p><img src="assets/images/arch/blur-g6bc6ee2cc_1920.jpg" alt="" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/pexels-2286921/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1853262">Pexels</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1853262">Pixabay</a>
 </div>
 
-<p>Nonlinear growth, in particular, may be helpful in several scenarios. It can <strong>quickly increase the customer base</strong> or add new market segments. And such change can also <strong>speed up innovation</strong> due to the acquisition of new technologies or services.</p>
+<p><strong>Organic growth</strong> refers to internal expansion driven by the company’s own operations. <strong>Inorganic change</strong> involves acquiring other businesses, opening new locations, or divesting parts of the company.</p>
 
-<p>But nonlinear growth dynamics have significant influences on architectural activities. The sudden addition of new companies <strong>increases organizational complexity</strong> with many new units. Obtaining a new company also <strong>adds new technology and engineering units</strong> with new processes and technology stacks. And nonlinear dynamics also <strong>require complex architecture</strong> to stay flexible if the organization decides to divest a part of the organization.</p>
+<p>Nonlinear growth, in particular, can be advantageous in several scenarios. It can <strong>rapidly increase the customer base</strong> or introduce new market segments. Additionally, such changes can <strong>accelerate innovation</strong> by incorporating new technologies or services.</p>
+
+<p>However, nonlinear growth dynamics significantly impact architectural activities. The sudden integration of new companies <strong>increases organizational complexity</strong>, introducing many new units. Acquiring a new company also <strong>brings in new technology and engineering units</strong>, along with their unique processes and technology stacks. Furthermore, these nonlinear dynamics <strong>necessitate a flexible architecture</strong> to accommodate potential divestitures.</p>
+
+<p>In summary, while nonlinear growth offers substantial benefits, it also presents challenges in managing increased complexity and maintaining architectural flexibility.</p>
 
 <p><br /></p>
 <h2 id="synergy-and-transformation-pressures">Synergy and Transformation Pressures</h2>
 
-<p>Complex organizations do not just grow. Instead, they want to be more efficient and leverage economies of scale, cost synergies, or increase capacity for innovation. Our investors expect us to transform to be <strong>more than a sum of our original parts</strong>.</p>
+<p>Complex organizations aim to grow not just in size, but also in efficiency by leveraging economies of scale, cost synergies, and enhancing their capacity for innovation. Our investors expect us to become <strong>more than the sum of our original parts</strong>.</p>
 
 <p><img src="assets/images/arch/gears-g06fe4e9a5_1920.jpg" alt="" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/mustangjoe-2162920/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1236578">MustangJoe</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1236578">Pixabay</a>
 </div>
 
-<p>Pressure for synergies and transformations can provide several opportunities. Synergies lead to <strong>cost reductions</strong> and less duplication. Resulting cost reductions can <strong>accelerate innovation</strong> due to more resources freed after synergies. Creating synergic components gives us more possibilities for <strong>reuse and sharing</strong>. And well-executed transformations can create <strong>more efficiencies and lower unit costs</strong>.</p>
+<p>Pursuing synergies and transformations offers several opportunities:</p>
+<ul>
+  <li><strong>Cost Reductions</strong>: Synergies lead to less duplication and lower expenses.</li>
+  <li><strong>Accelerated Innovation</strong>: Savings from cost reductions free up resources for innovation.</li>
+  <li><strong>Reuse and Sharing</strong>: Creating synergistic components enables more possibilities for reuse.</li>
+  <li><strong>Increased Efficiency</strong>: Well-executed transformations result in greater efficiencies and lower unit costs.</li>
+</ul>
 
-<p>Pressure to be more synergic and efficient has its challenges. <strong>Up-front investment</strong> is needed to gain any benefit. Such investment typically brings <strong>high risks</strong>. Moreover, teams are often pressured to <strong>perform</strong> and deliver excellent short-term results while significantly <strong>transforming</strong>. The productivity of some units may (temporarily) drop due to the need to balance efforts between transformation activities and other work. And after transformations, the <strong>complexity of the organization and technology landscape</strong> may increase due to more dependencies, e.g., reusing central services.</p>
+<p>However, striving for synergies and efficiency presents challenges:</p>
+<ul>
+  <li><strong>Up-Front Investment</strong>: Significant initial investment is required to realize benefits, which carries high risks.</li>
+  <li><strong>Performance Pressure</strong>: Teams must deliver excellent short-term results while undergoing significant transformations.</li>
+  <li><strong>Temporary Productivity Drops</strong>: Balancing transformation activities with regular work can temporarily reduce productivity.</li>
+  <li><strong>Increased Complexity</strong>: Post-transformation, the organization and technology landscape may become more complex due to increased dependencies, such as reusing central services.</li>
+</ul>
 
-<p>Synergies and transformation pressures can lead to high expectations and pressure that complicate regular architecture work. On the positive side, such forces can create many new opportunities.</p>
+<p>The pressure to achieve synergies and efficiency can lead to high expectations and complicate regular architectural work. Nonetheless, these forces also create numerous opportunities for growth and improvement.</p>
 
 <p><br /></p>
 
 <h2 id="decentralization-and-loose-coupling">Decentralization and Loose Coupling</h2>
 
-<p>Researcher Karl Weick developed the concepts of tight and loose coupling to describe the organizational structure first in educational institutions and later applied to diverse businesses. According to Weick, a <strong>tightly coupled organization</strong> has mutually understood rules enforced by <em>inspection and feedback</em> systems. In tightly coupled organizations, management can more directly coordinate different departments’ activities according to a central strategy.</p>
+<p>Researcher Karl Weick developed the concepts of tight and loose coupling to describe organizational structures, initially in educational institutions and later applied to diverse businesses. According to Weick, a <strong>tightly coupled organization</strong> has mutually understood rules enforced by <em>inspection and feedback</em> systems. In such organizations, management can directly coordinate different departments’ activities according to a central strategy.</p>
 
-<p>In <strong>a loosely coupled organization</strong>, some of the elements of a tightly coupled organization are absent. Employees have <strong>more autonomy</strong>, and different departments may operate with <strong>little coordination</strong>.</p>
+<p>In contrast, a <strong>loosely coupled organization</strong> lacks some elements of a tightly coupled one. Employees have <strong>more autonomy</strong>, and different departments may operate with <strong>little coordination</strong>.</p>
 
 <p><img src="assets/images/arch/world-trade-center-g707209d17_1920.jpg" alt="" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/shire777-19410672/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5889199">Shire777</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5889199">Pixabay</a>
 </div>
 
-<p>Due to historical and strategic reasons, most organizational units I worked with were loosely coupled. Our companies frequently grow through acquisitions of companies in different marketplaces. The business strategies also frequently promote a more independent evolution of local units to address local market needs better and faster. Such units often have a high level of autonomy, frequently with their development teams and sometimes with local CFOs, CMOs, or CEOs.</p>
+<p>Due to historical and strategic reasons, most organizational units I worked with were loosely coupled. Our companies frequently grew through acquisitions of companies in different marketplaces. Business strategies also promoted the independent evolution of local units to address local market needs more effectively and quickly. These units often enjoyed a high level of autonomy, frequently with their development teams and sometimes with local CFOs, CMOs, or CEOs.</p>
 
 <p>Loose coupling offers several advantages:</p>
 <ul>
-  <li><strong>Higher flexibility</strong>: units can keep developing independently, addressing specific needs without synchronizing with other units.</li>
-  <li><strong>High development speed / faster time-to-market</strong>: fewer dependencies make it much easier for marketplaces to change and evolve their products for local needs.</li>
-  <li><strong>Innovation</strong>: possibilities to quickly explore ideas in smaller contexts.</li>
+  <li><strong>Higher Flexibility</strong>: Units can develop independently, addressing specific needs without synchronizing with other units.</li>
+  <li><strong>Faster Time-to-Market</strong>: Fewer dependencies enable marketplaces to rapidly change and evolve their products for local needs.</li>
+  <li><strong>Innovation</strong>: Opportunities to quickly explore ideas in smaller contexts.</li>
 </ul>
 
-<p>Loose coupling also has several challenges:</p>
-
+<p>However, loose coupling also presents several challenges:</p>
 <ul>
-  <li><strong>Duplication of effort</strong>: while local market needs differ, there is frequently a significant overlap in product features and technology. This overlap leads to duplication of effort as each marketplace creates solutions for the same problems.</li>
-  <li><strong>Increased accidental diversity</strong>: limited synchronization offers flexibility but may lead to significantly different design and technology choices for the same problem, making it challenging to consolidate solutions, move people between teams, or benefit from the economy of scale.</li>
-  <li><strong>Limited possibilities for central control</strong>: due to fewer dependencies and different goals, it is more difficult to introduce changes across the board.</li>
+  <li><strong>Duplication of Effort</strong>: While local market needs differ, there is often significant overlap in product features and technology, leading to redundant efforts as each marketplace creates solutions for the same problems.</li>
+  <li><strong>Increased Accidental Diversity</strong>: Limited synchronization may result in significantly different design and technology choices for the same problem, making it challenging to consolidate solutions, move personnel between teams, or benefit from economies of scale.</li>
+  <li><strong>Limited Central Control</strong>: Fewer dependencies and varying goals make it more difficult to implement changes across the organization.</li>
 </ul>
 
-<p>Loose coupling is architecture-wise an interesting challenge as it frequently leads to a conflict between global alignment and control and local autonomy.</p>
+<p>From an architectural perspective, loose coupling presents an interesting challenge as it often leads to a conflict between global alignment and control and local autonomy.</p>
 
 <h2 id="questions-to-consider">Questions to Consider</h2>
 
@@ -1404,27 +1433,26 @@ In this part of the book, I introduce several guiding principles that generalize
 </style>
 
 <p><br />
-I believe architects in IT organizations should develop as “<strong>superglue</strong>.” I borrow the “superglue” view from <a href="https://saturn2016.sched.com/event/63m9/cant-find-superheroes-to-help-you-out-of-a-crisis-how-about-some-architecture-and-lots-of-superglue">Adam Bar-Niv and Amir Shenhav from Intel</a>. They pointed out that instead of the superhero, we need “superglue” architects - <strong>the people who hold architecture, technical details, business needs, and people together</strong> across large organizations or complex projects. More recently, Tanya Reilly presented a <a href="https://noidea.dog/glue">similar view</a> concerning software engineering positions.</p>
+I believe architects in IT organizations should develop into “superglue.” I borrowed this concept from <a href="https://saturn2016.sched.com/event/63m9/cant-find-superheroes-to-help-you-out-of-a-crisis-how-about-some-architecture-and-lots-of-superglue">Adam Bar-Niv and Amir Shenhav from Intel</a>, who suggested that instead of needing superheroes, we need “superglue” architects—<strong>the people who hold architecture, technical details, business needs, and people together</strong> across large organizations or complex projects. More recently, Tanya Reilly presented a <a href="https://noidea.dog/glue">similar view</a> concerning software engineering roles.</p>
 
-<p>The superglue characteristics mean serving as the <strong>organizational connective tissue</strong>, linking the “<strong>business wheelhouse</strong>” and the “<strong>engine room</strong>.” Architects, of course, need to be technically strong. But their unique strengths should stem from being able to relate, or glue, technical issues with business and broader issues.</p>
+<p>Superglue architects act as the <strong>organizational connective tissue</strong>, linking the “<strong>business wheelhouse</strong>” with the “<strong>engine room</strong>.” While technical prowess is essential, their unique strength lies in their ability to relate, or glue, technical issues with business and broader organizational matters.</p>
 
 <div class="quote">
 Architects, of course, need to be technically strong. But their unique strengths should stem from being able to relate, or glue, technical issues with business and broader issues.
 </div>
 
-<p>From discussions I’ve had with engineering leaders, engineers, and architects, Figure 1 has crystallized as a representation of the “superglue” metaphor for architects.</p>
+<p>Based on discussions with engineering leaders, engineers, and architects, Figure 1 illustrates the “superglue” metaphor for architects.</p>
 
-<p><img src="assets/images/superglue/architect-as-superglue.png" alt="" />
-<em><strong>Figure 1:</strong> Architects serve as a superglue, connecting development teams with business stakeholders while linking teams with the internal communities and the external world.</em></p>
+<p>Architects must build strong relationships with developer teams, local business stakeholders, and various functions. Simultaneously, they need to be well-connected with broader internal communities. External visibility is also crucial, allowing architects to bring fresh ideas into the organization and promote the organization to the outside world.</p>
 
-<p>Architects must have good relationships with developer teams, local business stakeholders, and functions. Simultaneously, such a person needs to be well-connected with broader internal communities. External visibility is essential for architects, who can bring ideas from outside into the organization and promote the organization to the outside world.</p>
+<p>In essence, while superheroes might be great for saving the day, it’s the superglue architects who keep everything together, ensuring that the whole machine runs smoothly. So, forget about donning a cape—grab a bottle of superglue and start connecting the dots!</p>
 
 <p><br /></p>
 <h2 id="supergluing-in-action-reducing-tension-among-business-functions-product-technology-organization">Supergluing in Action: Reducing Tension among Business Functions, Product, Technology, Organization</h2>
 
 <p>The primary value of superglue architects in complex organizations is <strong>aligning business, product, technology, and organizational functions</strong>. Each of these four parts has its own designs or architectures.</p>
 
-<p>Technology, product, organization, and business functions face specific challenges. Ideally, these structures all change simultaneously and stay in perfect sync. But in practice, these structures change and move at different speeds, leading to <strong>misalignment and tension among them</strong> (Figure 2). For example, we may organize teams using a well-defined domain model (organizational design). Still, if our IT system is a monolith (technical design), our teams will collaborate in a different pattern than the organizational design would suggest. On the other hand, if our teams are well-aligned with the technical domain model and implementation (e.g., teams have full ownership of microservices and can deploy them independently), but the product architecture differs from the microservice modularization (e.g., product features are differently grouped than technical services supporting them), we may need to change dozens of microservices when introducing relatively simple product change. Similarly, tension occurs when business objectives are misaligned with product or technology objectives (e.g., try reducing short-term costs while adding new features and migrating to the public cloud).</p>
+<p>Technology, product, organization, and business functions face specific challenges. Ideally, these structures all change simultaneously and stay in perfect sync. But in practice, these structures change and move at different speeds, leading to <strong>misalignment and tension among them</strong> (Figure 2). For example, we may organize teams using a well-defined domain model (organizational design). However, our IT system is a monolith (technical design). In that case, our teams will have many dependencies and collaborate in a different pattern than the organizational design suggests. On the other hand, if our teams are well-aligned with the technical domain model and implementation (e.g., teams have full ownership of microservices and can deploy them independently), but the product architecture differs from the microservice modularization (e.g., product features are grouped differently than the technical services supporting them), we may need to change dozens of microservices when introducing a relatively simple product change. Similarly, tension occurs when business objectives are misaligned with product or technology objectives (e.g., reducing short-term costs while adding new features and migrating to the public cloud).</p>
 
 <div class="quote">
 While technology, product, organization, and business functions face challenges, additional problems occur when there is tension among them.
@@ -1433,31 +1461,34 @@ While technology, product, organization, and business functions face challenges,
 <p><img src="assets/images/tension.png" alt="" />
 <em><strong>Figure 2:</strong> The tensions between technology, product, organization, and business functions.</em></p>
 
-<p>The main problem with this tension is that it can <strong>slow things down due</strong> to miscommunication or other misalignments, lead to <strong>bad decisions</strong> due to lack of information, introduce <strong>unnecessary complexity</strong>, and lead to <strong>missed opportunities</strong>. Too frequently, architecture sits on the side, shouting principles and abstract ideals that everyone ignores.</p>
+<p>The main problem with this tension is that it can significantly slow things down due to <strong>miscommunication</strong> or other <strong>misalignments</strong>, lead to costly and <strong>detrimental decisions</strong> due to lack of information, introduce overwhelming and <strong>unnecessary complexity</strong>, and cause critical <strong>missed opportunities</strong>. This is a pressing issue that needs immediate attention. Too frequently, architecture sits on the sidelines, shouting principles and abstract ideals that everyone ignores.</p>
 
-<p>By <strong>acting as a superglue</strong>, the architecture practice can help <strong>reduce tension</strong> between technology, product, organization, and business functions, ensuring that critical conversations happen between these units. As Figure 3 illustrates, architecture should not try to be a superglue by adding new constructs between these four elements but by <strong>bringing them closer together</strong>. I sometimes joke that <strong>architecture practice is a self-destructive function</strong>, as by bringing these elements together, you are removing the need to have architecture practice.</p>
+<p>By acting as a superglue, the architecture practice can effectively help reduce tension between technology, product, organization, and business functions, ensuring that critical conversations happen between these units. As Figure 3 illustrates, architecture should not try to be superglue by adding new constructs between these four elements but by bringing them closer together. I sometimes joke that architecture practice is a self-destructive function because by bringing these elements together, you remove the need for an architecture practice.</p>
 
 <p><img src="assets/images/tension-architecture.png" alt="" />
 <em><strong>Figure 3:</strong> Architects should be in the middle of reducing tensions between technology, product, organization, and business functions.</em></p>
 
-<p>While staying close to technology (engine room), architects must ensure that technology is serving the needs of customers and the business and that technical architecture is well aligned with the organizational design. At the same time, architects can help ensure that business, product, and organizational designs are well-informed about the state, risks, and opportunities of an organization’s technology to avoid creating impractical strategies, setting unrealistic goals, or missing opportunities. More specifically, there are several <strong>key risks</strong> that the misalignment brings, and architects need to be aware of:</p>
+<p>While staying close to technology (the engine room), architects must ensure that technology serves the needs of customers and the business, and that technical architecture is well-aligned with organizational design. At the same time, architects can help ensure that business, product, and organizational designs are well-informed about the state, risks, and opportunities of an organization’s technology to avoid creating impractical strategies, setting unrealistic goals, or missing opportunities. More specifically, there are several <strong>key risks</strong> that misalignment brings, and architects need to be aware of them:</p>
+
 <ul>
-  <li><strong>Building wrong products</strong>, if technology implementation makes incorrect assumptions not aligned with product requirements.</li>
-  <li><strong>Wrong prioritization of activities</strong>, if there are no clear business and product metrics, we may build “interesting” products that do not create value for our customers and business.</li>
-  <li><strong>Unexpected delivery delays</strong> due to underestimation of complexity, effort, and dependencies,</li>
-  <li><strong>Duplication of effort</strong> due to lack of business or product harmonization needed to facilitate building shared components,</li>
-  <li><strong>Building too complex products</strong>, as we may create a complex configurable system to address all possible cases, but we could have decided to simplify and harmonize our processes and products and build a more straightforward technical solution.</li>
-  <li><strong>Overengineering</strong> due to both lack of pushback to simplify products and lack of understanding of technology (e.g., use of a complex and expensive messaging middleware capable of handling millions of messages per hour for the use case where we have a few thousand messages per day),</li>
-  <li><strong>Building too simple, unscalable products</strong>, if we made assumptions that we will simplify and harmonize our processes, but in reality, we need to keep this essential complexity and support many variations as they create value for customers and businesses.</li>
-  <li><strong>Building low-quality products</strong>, due to  creating unnecessary complexity and lack of critical knowledge and expertise in the organization,</li>
-  <li><strong>Having complicated dependencies between teams that slow them down</strong> due to suboptimal organizational design and lack of awareness of all the links between systems and people,</li>
-  <li><strong>Creating fragile, unsustainable team structures</strong> (e.g., having only one or two developers in some critical technology).</li>
+  <li><strong>Building the wrong products</strong>: If technology implementation makes incorrect assumptions not aligned with product requirements, you might end up with a toaster when you really needed a coffee maker.</li>
+  <li><strong>Wrong prioritization of activities</strong>: Without clear business and product metrics, we may build “interesting” products that do not create value for our customers and business. Picture making an app that tracks how often your cat blinks—fascinating, but not exactly a bestseller.</li>
+  <li><strong>Unexpected delivery delays</strong>: Underestimating complexity, effort, and dependencies can lead to delays that make your project feel like it’s stuck in a time loop.</li>
+  <li><strong>Duplication of effort</strong>: Without business or product harmonization needed to facilitate building shared components, you end up reinventing the wheel so often you could start a wheel shop.</li>
+  <li><strong>Building too complex products</strong>: Creating an overly complex, configurable system to address all possible cases can lead to a labyrinthine solution when a simpler, more harmonized approach would have sufficed. It’s like using a Swiss Army knife when you just needed a spoon.</li>
+  <li><strong>Overengineering</strong>: A lack of pushback to simplify products and a lack of understanding of technology can lead to using a complex and expensive messaging middleware capable of handling millions of messages per hour for a use case where you only have a few thousand messages per day. It’s like buying a monster truck to drive to the grocery store.</li>
+  <li><strong>Building too simple, unscalable products</strong>: Assuming we will simplify and harmonize our processes, but in reality, needing to keep essential complexity and support many variations, can result in a system that’s as robust as a house of cards.</li>
+  <li><strong>Building low-quality products</strong>: Unnecessary complexity and a lack of critical knowledge and expertise in the organization can lead to products that fall apart faster than a dollar-store umbrella in a hurricane.</li>
+  <li><strong>Having complicated dependencies between teams that slow them down</strong>: Suboptimal organizational design and lack of awareness of all the links between systems and people can turn team coordination into a bureaucratic nightmare.</li>
+  <li><strong>Creating fragile, unsustainable team structures</strong>: Having only one or two developers in some critical technology can make your team as resilient as a chocolate teapot.</li>
 </ul>
+
+<p>In summary, while architects stay close to the technology, they must ensure it’s working for the business and customers, not the other way around. By keeping everyone in the loop and aligned, architects help steer clear of the many pitfalls of misalignment and keep the organizational machine running smoothly.</p>
 
 <p><br /></p>
 <h2 id="superglue-abilities">Superglue Abilities</h2>
 
-<p>Setting the architects’ goals to be “superglue” also requires some thought on developing architects as a superglue. Borrowing from Gregor Hohpe’s view on architect development from his book Software Architecture Elevator, I share the view that our architects should stand on three legs (Figure 4):</p>
+<p>Setting the architects’ goals to be “superglue” also requires some thought on developing architects as superglue. Borrowing from Gregor Hohpe’s view on architect development from his book <em>Software Architecture Elevator</em>, I share the view that our architects should stand on three legs (Figure 4):</p>
 
 <ul>
   <li>Skills</li>
@@ -1465,12 +1496,12 @@ While technology, product, organization, and business functions face challenges,
   <li>Leadership</li>
 </ul>
 
-<p><img src="assets/images/superglue/architect-skills.png" alt="" />
+<p><img src="assets/images/superglue/architect-skills.png" alt="Architect Profile" />
 <em><strong>Figure 4:</strong> Architect Profile: Skills + Impact + Leadership.</em></p>
 
 <h3 id="skills">Skills</h3>
 
-<p>Architects must have proper skill sets, possessing both knowledge and the ability to apply relevant knowledge in practice. These skills should include technical (e.g., cloud architecture or Kubernetes technology) and communication and influence skills.</p>
+<p>Architects must have a solid skill set, possessing both knowledge and the ability to apply relevant knowledge in practice. These skills should include technical (e.g., cloud architecture or Kubernetes technology) as well as communication and influence skills.</p>
 
 <p>A typical skillset of an architect includes:</p>
 <ul>
@@ -1485,7 +1516,7 @@ While technology, product, organization, and business functions face challenges,
 
 <h3 id="impact">Impact</h3>
 
-<p>The impact should be measured as a benefit for the business. Architects need to ensure that what they are doing profits the business. Architects that do not make an impact do not have a place in a for-profit business.</p>
+<p>Impact should be measured as a benefit for the business. Architects need to ensure that what they are doing profits the business. Architects that do not make an impact do not have a place in a for-profit business.</p>
 
 <p>Examples of such impact may include:</p>
 <ul>
@@ -1518,7 +1549,8 @@ While technology, product, organization, and business functions face challenges,
 
 <p>Architects must have a <strong>minimal “length”</strong> of all of these “legs” to be successful (Figure 5). For instance, having skills and impact without leadership frequently leads to <strong>hitting a glass ceiling</strong>. Such architects plateau at an intermediate level and cannot direct the company to innovative or transformative solutions. Leadership without impact lacks foundation and may signal that you have become an <strong>ivory tower architect</strong> with a weak relation to reality. And having impact and leadership qualities but no skills leads to <strong>impractical decisions</strong> not informed by in-depth knowledge.</p>
 
-<p><img src="assets/images/arch/architect-legs.png" alt="" />
+<p>In summary, developing architects as “superglue” means fostering a balanced combination of skills, impact, and leadership. Just like a three-legged stool, if one leg is too short, the whole thing topples over—quite possibly spilling your coffee in the process.
+<img src="assets/images/arch/architect-legs.png" alt="" />
 <em><strong>Figure 5:</strong> Architects must have a minimal “length” of all “legs” to be successful.</em></p>
 
 <h2 id="questions-to-consider">Questions to Consider</h2>
