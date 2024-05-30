@@ -182,7 +182,7 @@ I have found that the concept of Golden Paths provides an excellent ground to dr
 <img style="" 
      src="assets/images/spotify-golden-paths_infrastructure-and-tooling-700x327.png">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by https://engineering.atspotify.com/
+Image by engineering.atspotify.com
 </div>
 
 Golden paths provide a solid **foundation for aligning** architecture activities, serving as a common target of work for Guilds and central architectural teams. Rather than being solely knowledge-sharing entities, guilds can be empowered to develop golden paths, serving as an excellent catalyst for more effective community engagement. This approach not only enhances the role of guilds but also increases the adoption of golden paths as they are created collaboratively.
