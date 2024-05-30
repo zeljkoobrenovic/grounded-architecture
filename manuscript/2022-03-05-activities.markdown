@@ -2,8 +2,7 @@
 
 # Architecture Activities Platform {#activities-platform}
 
-![](assets/images/arch/parliament-366199_1920.jpg)
-^image by anja from pixabay^
+![image by anja from pixabay](assets/images/arch/parliament-366199_1920.jpg)
 
 **IN THIS SECTION, YOU WILL:**  Understand what activities you can do as a part of architecture practice and get tips on creating pragmatic operating models for an architecture practice.
 
@@ -22,8 +21,7 @@ Considering Gregor Hohpe's previous two points, I approach defining an architect
 
 No matter which operating models you select, it's crucial to develop **explicit agreements** and "rules of engagement" with key stakeholders. This collaborative approach is essential to create a sustainable and practical architectural function. It's like establishing the house rules for game night; everyone's input is valued and necessary to keep things fun and functional.
 
-![](assets/images/model-strategy.png)
-***Figure 1:** The structure of Grounded Architecture: Architecture Activities Platform.*
+![Figure 1: The structure of Grounded Architecture: Architecture Activities Platform.](assets/images/model-strategy.png)
 
 The Architecture Activities Platform (Figure 1) is a set of processes and agreements that allows architects to do everything architecture practice typically does. It leverages Data and People Foundations to develop a data-informed, organization-wide impact. Data and People Foundations provide a basis for data-informed decision-making well embedded in the organization. It's about instilling confidence and trust in your decision-making process.
 
@@ -71,8 +69,7 @@ In this section, I address different guiding principles of architectural work. T
 
 While exact activities and their scope will depend on an organization setting and will change over time, I usually followed a common operational model in daily work inspired by Gregor Hohpe's strategy-principles-decisions model (Figure 2). 
 
-![](assets/images/arch/architecture-system.png)
-**Figure 2:** *A common operating model I typically use for Grounded Architecture activities.*
+![Figure 2: A common operating model I typically use for Grounded Architecture activities.](assets/images/arch/architecture-system.png)
 
 Here are the key characteristics of this operating model. 
 
@@ -104,16 +101,13 @@ To give maximal autonomy to the teams while maintaining a **minimal** level of g
 
 The **decision pyramid** highlights that development teams should make most decisions. However, several strategic and area-level choices may provide team decision boundaries. For example, selecting the public cloud provider is typically a CTO-level strategic decision. Similarly, engineering leaders in some areas may want to limit some choices, such as the number of programming languages, to more easily train new people, maintain code, and support moves between teams.
 
-![](assets/images/arch/decision-pyramid.png)
-***Figure 3:** A decision pyramid. The development teams should make most decisions. However, several strategic and area-level decisions may provide decision boundaries for teams (e.g., a public cloud provider).*
+![Figure 3: A decision pyramid. The development teams should make most decisions. However, several strategic and area-level decisions may provide decision boundaries for teams (e.g., a public cloud provider).](assets/images/arch/decision-pyramid.png)
 
 ### General Architecture Decision Policy
 
 Distributed decision-making scales well, but it can lead to chaos if entirely uncoordinated. Some decision policies are needed. Inspired by the famous **[Netflix expense policy](https://hbr.org/2014/01/how-netflix-reinvented-hr)**, *"Act in Netflix’s best interests”*, I frequently argued that architecture decision policy could similarly be summarized in six words:
 
-![](assets/images/arch/decision-policy.png)
-
-What I mean by that is that **anyone can make architecture decisions**, provided that, in addition to their specific requirements, they also think about the **impact of their choices** on:
+![What I mean by that is that anyone can make architecture decisions, provided that, in addition to their specific requirements, they also think about the impact of their choices on:](assets/images/arch/decision-policy.png)
 
 * **Overall organizational complexity**: Technology is more manageable by limiting tech diversity, size, and dependencies. Limiting technology choices reduces the attack surface with fewer third-party dependencies and tool ecosystems (build, testing, etc.).
 * **Ease of moving people** between teams (both to get help and help others, get promoted): Do not unnecessarily create exotic islands with few experts in technologies not supported or widely used in the organization. People cannot get help or move across the organization as their expertise may be useless outside the team.
@@ -128,8 +122,7 @@ While it may not always be enough, this simple policy resonates well. It encoura
 
 I have found that the concept of Golden Paths provides an excellent ground to drive alignment and collaboration in architecture activities. Golden Paths is an approach utilized to streamline and unify the development process within a software ecosystem, aiming to tackle fragmentation and foster consistency, inspired by [Spotify's implementation](https://engineering.atspotify.com/2020/08/how-we-use-golden-paths-to-solve-fragmentation-in-our-software-ecosystem/). Golden Paths can be described as "**opinionated and supported**" routes developers can follow to build systems efficiently and effectively. 
 
-![](assets/images/spotify-golden-paths_infrastructure-and-tooling-700x327.png)
-^image by https://engineering.atspotify.com/^
+![image by https://engineering.atspotify.com/](assets/images/spotify-golden-paths_infrastructure-and-tooling-700x327.png)
 
 Golden paths provide a solid **foundation for aligning** architecture activities, serving as a common target of work for Guilds and central architectural teams. Rather than being solely knowledge-sharing entities, guilds can be empowered to develop golden paths, serving as an excellent catalyst for more effective community engagement. This approach not only enhances the role of guilds but also increases the adoption of golden paths as they are created collaboratively.
 
@@ -139,8 +132,7 @@ Golden Paths can be crucial to an organization's IT development landscape as a d
 
 One of the amusing challenges with setting up an architecture function in an organization is that everyone seems to have a different idea of what "architecture" should entail. It's like asking people to describe a unicorn: some imagine a mythical, majestic creature, while others picture a sparkly horse with a horn that grants wishes. Good architects can do many things, but this versatility might not always be the most effective way to support the organization.
 
-![](assets/images/unicorn.png)
-^image by gordon johnson from pixabay^
+![image by gordon johnson from pixabay](assets/images/unicorn.png)
 
 To be effective, I've found it crucial to establish and clearly communicate some "rules of engagement" (ROE). Think of ROE as the office playbook for how architects should operate. In a corporate setting, ROE are the principles that guide how employees and departments interact with each other, clients, and stakeholders. This includes communication protocols, decision-making processes, and conflict-resolution mechanisms. Essentially, ROE sets the stage for what's expected and what's not, ensuring everyone plays nicely and fairly.
 
