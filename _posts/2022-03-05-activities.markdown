@@ -103,12 +103,11 @@ These activities collectively form an Architecture Activities Platform, enabling
 <br>
 ## Guiding Principles for Architectural Excellence: Policies, Autonomy, and Engagement
 
-In this section, I address different guiding principles of architectural work. The Architecture Decision Policy provides a framework for making informed choices considering overall complexity, team mobility, training ease, talent density, potential reorganizations, and efficiency. Distributing Decisions, Autonomy, and Alignment explores the balance between team autonomy and organizational alignment, emphasizing the importance of transparent communication and strategic decision boundaries. Finally, the Rules of Engagement outline essential principles for effective architectural practice, ensuring teams are well-equipped to collaborate, innovate, and maintain high standards. 
+In this section, I address different guiding principles of architectural work. The operating model emphasizes a collaborative and supportive approach. Architects empower development teams to make most decisions while ensuring strategic alignment and minimal compatibility. Architects engage early in processes to avoid bureaucratic delays, focus on constant motion between daily support and strategic tasks, and use data to inform decisions. The distributed decision-making model promotes team autonomy complemented by high transparency and alignment, guided by principles that balance autonomy with global consistency. The "Golden Paths" concept enhances uniformity and efficiency, while clear "rules of engagement" set expectations for team capacities, strategic awareness, and participation, ensuring adequate architectural support and alignment.
 
-<br>
-### Operating Model
+### High-Level Operating Model
 
-While exact activities and their scope will depend on an organization setting and will change over time, I usually followed a common operational model in daily work (Figure 2).
+While exact activities and their scope will depend on an organization setting and will change over time, I usually followed a common operational model in daily work inspired by Gregor Hohpe's strategy-principles-decisions model (Figure 2). 
 
 <div>
 <a href="assets/images/arch/architecture-system.png" target="_blank">
@@ -117,18 +116,21 @@ While exact activities and their scope will depend on an organization setting an
 </div>
 **Figure 2:** *A common operating model I typically use for Grounded Architecture activities.*
 
-Inspired by Gregor Hohpe's strategy-principles-decisions model, I typically used these guidelines:
-* **Engagement mindset**: 
+<br>
+**Engagement mindset**: 
   * Architects engage with stakeholders and product and project teams in a **collaborative and supportive manner**. 
   * Architects aim to **empower the teams** so that they make most of the decisions.
-* **Role of architects**: 
+
+**Role of architects**: 
   * **Bring relevant data** to inform decisions leveraging a [Data Foundation](data).
   * **Define decision boundaries** to enable minimal compatibility and strategic alignment (e.g., public cloud provider, golden paths, or tech stack constraints).
   * **Define fundamental principles** to facilitate consistency in decision-making.
   * **Share and generalize** lessons learned via a [People Foundation](people).
-* **Position of architects**:
+
+**Social dynamics of architects**:
   * Architects spend their time in **constant motion** between supporting teams' **daily work** and working on **strategic topics**, helping the organization achieve alignment between strategy and implementation.
-* **Shift left**:  
+
+**Shift left**:  
   * Avoid **formal bureaucratic approval** processes, where architects appear too late and are frequently busy approving trivial decisions. 
   * Have architects **involved early** in any of the processes, such as during the planning and preparation stages, where it is possible to make more significant changes. Think of it as having the architects as early birds catching the architectural worms, making big changes before the day officially starts.
 
@@ -151,7 +153,7 @@ The **decision pyramid** highlights that development teams should make most deci
 ![](assets/images/arch/decision-pyramid.png)
 ***Figure 3:** A decision pyramid. The development teams should make most decisions. However, several strategic and area-level decisions may provide decision boundaries for teams (e.g., a public cloud provider).*
 
-### Architecture Decision Policy
+### General Architecture Decision Policy
 
 Distributed decision-making scales well, but it can lead to chaos if entirely uncoordinated. Some decision policies are needed. Inspired by the famous **[Netflix expense policy](https://hbr.org/2014/01/how-netflix-reinvented-hr)**, *"Act in Netflix’s best interests”*, I frequently argued that architecture decision policy could similarly be summarized in six words:
 
@@ -167,6 +169,18 @@ What I mean by that is that **anyone can make architecture decisions**, provided
 * Reducing global **duplication of effort** and inefficiencies: Are you doing the work others are doing? Can others reuse your work? Can you reuse the work of others?
 
 While it may not always be enough, this simple policy resonates well. It encourages people to be more thoughtful when making decisions.
+
+
+<br>
+### Golden Paths
+
+I have found that the concept of Golden Paths provides an excellent ground to drive alignment and collaboration in architecture activities. Golden Paths is an approach utilized to streamline and unify the development process within a software ecosystem, aiming to tackle fragmentation and foster consistency, inspired by [Spotify's implementation](https://engineering.atspotify.com/2020/08/how-we-use-golden-paths-to-solve-fragmentation-in-our-software-ecosystem/). Golden Paths can be described as "**opinionated and supported**" routes developers can follow to build systems efficiently and effectively. 
+
+
+Golden paths provide a solid **foundation for aligning** architecture activities, serving as a common target of work for Guilds and central architectural teams. Rather than being solely knowledge-sharing entities, guilds can be empowered to develop golden paths, serving as an excellent catalyst for more effective community engagement. This approach not only enhances the role of guilds but also increases the adoption of golden paths as they are created collaboratively.
+
+Golden Paths can be crucial to an organization's IT development landscape as a deliberate and strategic effort to promote uniformity, efficiency, and reliability. By advocating for a set of preferred technologies and practices that are well-supported, secure, and aligned with the organization's broader objectives, Golden Paths can guide developers to build less fragmented, and faster-to-develop software. Ultimately, this leads to higher-quality and more maintainable IT systems.
+
 
 <br>
 ### Rules of Engagement

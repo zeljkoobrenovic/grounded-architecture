@@ -18,30 +18,56 @@ Each organization will have different architectural needs and contexts. When for
 * *"Your architecture team’s job is to **solve your biggest problems**. The best setup is the one that allows it to accomplish that."*
 * *"Your organization has to earn its way to an effective architecture function. **You can't just plug some architects into the current mess** and expect it to solve all your problems."*
 
-![](assets/images/model-strategy.png)
-***Figure 1:** The structure of Grounded Architecture: Architecture Activities Platform.*
-
 Considering Gregor Hohpe's previous two points, I approach defining an architecture practice with the mindset that there is no one-size-fits-all method. You must find your own activities and operating models to enable architecture to solve the most critical problems.
 
-No matter which operating models you select, it's crucial to develop explicit agreements and "rules of engagement" with key stakeholders. This collaborative approach is essential to create a sustainable and practical architectural function. It's like establishing the house rules for game night; everyone's input is valued and necessary to keep things fun and functional.
+No matter which operating models you select, it's crucial to develop **explicit agreements** and "rules of engagement" with key stakeholders. This collaborative approach is essential to create a sustainable and practical architectural function. It's like establishing the house rules for game night; everyone's input is valued and necessary to keep things fun and functional.
+
+![](assets/images/model-strategy.png)
+***Figure 1:** The structure of Grounded Architecture: Architecture Activities Platform.*
 
 The Architecture Activities Platform (Figure 1) is a set of processes and agreements that allows architects to do everything architecture practice typically does. It leverages Data and People Foundations to develop a data-informed, organization-wide impact. Data and People Foundations provide a basis for data-informed decision-making well embedded in the organization. It's about instilling confidence and trust in your decision-making process.
 
 ## Examples of Architecture Activities
 
-To better understand what I mean by an Architecture Activities Platform, here are some examples of activities I have been performing with architects:
-* **Designing mechanisms for teams to make better decisions.** This activity includes creating global decision-support mechanisms, such as [advisory forums](https://martinfowler.com/articles/scaling-architecture-conversationally.html), formal design authority (for compliance-sensitive projects), and team-specific mechanisms, such as escalation paths in case of decision conflicts (e.g., teams cannot align on a common messaging middleware). 
-* **Supporting teams in their daily work.** Being part of key team activities, aligning architectural work with team rituals to provide timely support, and supporting the team in all crucial phases of their work (e.g., reviewing architecture proposals early before the project or sprint starts).
-* **Supporting planned new initiatives and projects.** Ensuring alignment between projects that require multi-team collaboration.
-* **Supporting teams in dealing with the legacy landscape.** Providing data and knowledge regarding legacy landscape, identifying hotspots (e.g., frequently changed, low-quality untested pieces of legacy code), defining scenarios and roadmap for legacy modernization.
-* **Tracking tech debt, defining tech debt reduction programs.** Defining a centrally aligned backlog of technology depth, defining programs for its reduction, and integration in planning processes.
-* **Performing [SWOT](https://en.wikipedia.org/wiki/SWOT_analysis) and other analyses of platforms and systems.** Doing deep dives to better understand some areas of the technology landscape and create plans and roadmaps for improvement.
-* **Standardizing of processes and documentation**. Defining standard templates for documents such as Architectural Decision Records (ADRs), Technical Design Reviews (TDRs), or common diagrams.
-* **Supporting merger and acquisitions (M&A) activities with expertise and analyses.** Support analyses, recommendations, and integration planning regarding mergers and acquisitions.
-* **Defining key technology strategies.** Examples include Cloud, Data, and Platform strategies.
-* **Defining vision and direction of technology, frequently collaborating with Engineering Leaders.** Working with managers to create a sustainable organizational setting aligned with technology strategies.
+To provide a clearer understanding of what I mean by an Architecture Activities Platform, here are detailed examples of the activities I have been engaged in with architects:
 
-## Operating Model
+**Designing Mechanisms for Teams to Make Better Decisions**
+    - This involves creating global decision-support frameworks such as advisory forums, which facilitate informed discussions across teams. For compliance-sensitive projects, we establish formal design authorities. Additionally, we develop team-specific mechanisms, like escalation paths, to resolve decision conflicts effectively (e.g., when teams disagree on a common messaging middleware).
+
+**Supporting Teams in Their Daily Work**
+    - This entails integrating into key team activities, aligning architectural work with team rituals to provide timely support. I assist teams during all critical phases, such as reviewing architecture proposals before the commencement of a project or sprint, ensuring alignment with overall architectural standards.
+
+**Supporting Planned New Initiatives and Projects**
+    - Ensuring seamless alignment between projects that require multi-team collaboration is crucial. I work to facilitate communication and coordination, ensuring all teams are on the same page regarding project goals and requirements.
+
+**Supporting Teams in Dealing with the Legacy Landscape**
+    - I provide data and insights about the legacy landscape, identifying problematic areas such as frequently changed, low-quality, untested legacy code. I help define scenarios and roadmaps for legacy modernization, ensuring a structured approach to updating and maintaining legacy systems.
+
+**Tracking Tech Debt and Defining Tech Debt Reduction Programs**
+    - This involves creating a centrally aligned backlog of technical debt and defining programs for its reduction. I integrate these programs into the planning processes to ensure that tech debt is managed proactively and effectively.
+
+**Performing SWOT and Other Analyses of Platforms and Systems**
+    - Conducting deep dives to understand specific areas of the technology landscape, I perform SWOT (Strengths, Weaknesses, Opportunities, Threats) analyses and other assessments. These analyses help in creating comprehensive plans and roadmaps for improvement.
+
+**Standardizing Processes and Documentation**
+    - I define standard templates for key documents such as Architectural Decision Records (ADRs), Technical Design Reviews (TDRs), and common diagrams. This standardization ensures consistency and clarity across all architectural documentation.
+
+**Supporting Merger and Acquisition (M&A) Activities with Expertise and Analyses**
+    - I provide analyses, recommendations, and integration planning for mergers and acquisitions. My support ensures that architectural considerations are well-integrated into M&A activities, facilitating smoother transitions and integrations.
+
+**Defining Key Technology Strategies**
+    - I contribute to the development of essential technology strategies, including those for Cloud, Data, and Platforms. These strategies provide a clear roadmap for technological development and investment, ensuring alignment with business goals.
+
+**Defining Vision and Direction of Technology**
+    - In collaboration with Engineering Leaders, I work on creating a sustainable organizational setting that aligns with the overarching technology strategies. This involves setting a clear vision and direction for the technology landscape within the organization.
+
+These activities collectively form an Architecture Activities Platform, enabling a structured and strategic approach to architectural practices within the organization.
+
+## Guiding Principles for Architectural Excellence: Policies, Autonomy, and Engagement
+
+In this section, I address different guiding principles of architectural work. The Architecture Decision Policy provides a framework for making informed choices considering overall complexity, team mobility, training ease, talent density, potential reorganizations, and efficiency. Distributing Decisions, Autonomy, and Alignment explores the balance between team autonomy and organizational alignment, emphasizing the importance of transparent communication and strategic decision boundaries. Finally, the Rules of Engagement outline essential principles for effective architectural practice, ensuring teams are well-equipped to collaborate, innovate, and maintain high standards. 
+
+### Operating Model
 
 While exact activities and their scope will depend on an organization setting and will change over time, I usually followed a common operational model in daily work (Figure 2).
 
@@ -59,29 +85,9 @@ Inspired by Gregor Hohpe's strategy-principles-decisions model, I typically used
   * **Share and generalize** lessons learned via a [People Foundation](#people).
 * **Position of architects**:
   * Architects spend their time in **constant motion** between supporting teams' **daily work** and working on **strategic topics**, helping the organization achieve alignment between strategy and implementation.
-
-Another characteristic of this operating model is shifting left the architecture work. I aim to avoid formal bureaucratic approval processes, where architects appear too late and are frequently busy approving trivial decisions. Instead, my goal is to have architects involved early in any of the processes, such as during the planning and preparation stages, where it is possible to make more significant changes. Think of it as having the architects as early birds catching the architectural worms, making big changes before the day officially starts.
-
-## Guiding Principles for Architectural Excellence: Policies, Autonomy, and Engagement
-
-In this section, I address different guiding principles of architectural work. The Architecture Decision Policy provides a framework for making informed choices considering overall complexity, team mobility, training ease, talent density, potential reorganizations, and efficiency. Distributing Decisions, Autonomy, and Alignment explores the balance between team autonomy and organizational alignment, emphasizing the importance of transparent communication and strategic decision boundaries. Finally, the Rules of Engagement outline essential principles for effective architectural practice, ensuring teams are well-equipped to collaborate, innovate, and maintain high standards. 
-
-### Architecture Decision Policy
-
-Inspired by the famous **[Netflix expense policy](https://hbr.org/2014/01/how-netflix-reinvented-hr)**, *"Act in Netflix’s best interests”*, I frequently argued that architecture decision policy could similarly be summarized in six words:
-
-![](assets/images/arch/decision-policy.png)
-
-What I mean by that is that **anyone can make architecture decisions**, provided that, in addition to their specific requirements, they also think about the **impact of their choices** on:
-
-* **Overall organizational complexity**: Technology is more manageable by limiting tech diversity, size, and dependencies. Limiting technology choices reduces the attack surface with fewer third-party dependencies and tool ecosystems (build, testing, etc.).
-* **Ease of moving people** between teams (both to get help and help others, get promoted): Do not unnecessarily create exotic islands with few experts in technologies not supported or widely used in the organization. People cannot get help or move across the organization as their expertise may be useless outside the team.
-* **Ease of training and onboarding** of internal and external developers: Using conventional technologies, supported with external learning resources (books, tutorials, StackOverflow) significantly helps find and grow experts.
-* **Talent density** and the possibility of performing at the world-scale level: Building world-scale technology and scaling requires in-depth knowledge and fine-tuning. It cannot be achieved with only a few in-house experts.
-* New **reorganizations**: If the ownership of components changes (e.g., another team is taking it over), would your choices fit with other components from other areas? 
-* Reducing global **duplication of effort** and inefficiencies: Are you doing the work others are doing? Can others reuse your work? Can you reuse the work of others?
-
-While it may not always be enough, this simple policy resonates well. It encourages people to be more thoughtful when making decisions.
+* **Shift left**:  
+  * Avoid **formal bureaucratic approval** processes, where architects appear too late and are frequently busy approving trivial decisions. 
+  * Have architects **involved early** in any of the processes, such as during the planning and preparation stages, where it is possible to make more significant changes. Think of it as having the architects as early birds catching the architectural worms, making big changes before the day officially starts.
 
 ### Distributing Decisions, Autonomy, and Alignment
 
@@ -96,6 +102,23 @@ The **decision pyramid** highlights that development teams should make most deci
 
 ![](assets/images/arch/decision-pyramid.png)
 ***Figure 3:** A decision pyramid. The development teams should make most decisions. However, several strategic and area-level decisions may provide decision boundaries for teams (e.g., a public cloud provider).*
+
+### Architecture Decision Policy
+
+Distributed decision-making scales well, but it can lead to chaos if entirely uncoordinated. Some decision policies are needed. Inspired by the famous **[Netflix expense policy](https://hbr.org/2014/01/how-netflix-reinvented-hr)**, *"Act in Netflix’s best interests”*, I frequently argued that architecture decision policy could similarly be summarized in six words:
+
+![](assets/images/arch/decision-policy.png)
+
+What I mean by that is that **anyone can make architecture decisions**, provided that, in addition to their specific requirements, they also think about the **impact of their choices** on:
+
+* **Overall organizational complexity**: Technology is more manageable by limiting tech diversity, size, and dependencies. Limiting technology choices reduces the attack surface with fewer third-party dependencies and tool ecosystems (build, testing, etc.).
+* **Ease of moving people** between teams (both to get help and help others, get promoted): Do not unnecessarily create exotic islands with few experts in technologies not supported or widely used in the organization. People cannot get help or move across the organization as their expertise may be useless outside the team.
+* **Ease of training and onboarding** of internal and external developers: Using conventional technologies, supported with external learning resources (books, tutorials, StackOverflow) significantly helps find and grow experts.
+* **Talent density** and the possibility of performing at the world-scale level: Building world-scale technology and scaling requires in-depth knowledge and fine-tuning. It cannot be achieved with only a few in-house experts.
+* New **reorganizations**: If the ownership of components changes (e.g., another team is taking it over), would your choices fit with other components from other areas? 
+* Reducing global **duplication of effort** and inefficiencies: Are you doing the work others are doing? Can others reuse your work? Can you reuse the work of others?
+
+While it may not always be enough, this simple policy resonates well. It encourages people to be more thoughtful when making decisions.
 
 ### Rules of Engagement
 
