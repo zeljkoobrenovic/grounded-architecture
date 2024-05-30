@@ -43,11 +43,6 @@ Image by <a href="https://pixabay.com/nl/users/nonbirinonko-3101900/?utm_source=
 
 Governance refers to the framework of rules, practices, and processes by which an organization is directed and controlled. It encompasses the mechanisms by which an organization's goals are set, pursued, and monitored, ensuring accountability, fairness, and transparency. Governance can be applied to various domains, including corporate, IT, project, and data governance. **IT architecture is a form of governance** because it **establishes structured frameworks** for managing and controlling an organization's technology resources and processes. It ensures alignment with business objectives, promotes standardization, manages risks, optimizes resources, facilitates change management, supports decision-making, measures performance, and fosters innovation.
 
-<div class="quote">
-To transform an organization, you do not need to solve mathematical equations; you need to move people.
-<div class="author">-Gregor Hohpe</div>
-</div>
-
 The difficulty of governance stems from the need to navigate a complex web of diverse interests, rapidly changing conditions, and multifaceted challenges. There is no one-fit-all form of governance. Effective governance requires adaptability, collaboration, and a commitment to addressing immediate and long-term issues. 
 
 Architecture practice should support governance models that are aligned and adaptable to organizations' complex and diverse needs. Consequently, I see an architecture governance model as a well-balanced hybrid of three different styles of governing:

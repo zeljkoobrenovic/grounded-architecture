@@ -29,37 +29,37 @@ The Architecture Activities Platform (Figure 1) is a set of processes and agreem
 
 ## Examples of Architecture Activities
 
-To provide a clearer understanding of what I mean by an Architecture Activities Platform, here are detailed examples of the activities I have been engaged in with architects:
+To provide a clearer understanding of what I mean by an Architecture Activities Platform, here are detailed examples of the activities I have been engaged in with architects.
 
 **Designing Mechanisms for Teams to Make Better Decisions**
     - This involves creating global decision-support frameworks such as advisory forums, which facilitate informed discussions across teams. For compliance-sensitive projects, we establish formal design authorities. Additionally, we develop team-specific mechanisms, like escalation paths, to resolve decision conflicts effectively (e.g., when teams disagree on a common messaging middleware).
 
 **Supporting Teams in Their Daily Work**
-    - This entails integrating into key team activities, aligning architectural work with team rituals to provide timely support. I assist teams during all critical phases, such as reviewing architecture proposals before the commencement of a project or sprint, ensuring alignment with overall architectural standards.
+    - This entails integrating into key team activities, aligning architectural work with team rituals to provide timely support. We assist teams during all critical phases, such as reviewing architecture proposals before the commencement of a project or sprint, ensuring alignment with overall architectural standards.
 
 **Supporting Planned New Initiatives and Projects**
-    - Ensuring seamless alignment between projects that require multi-team collaboration is crucial. I work to facilitate communication and coordination, ensuring all teams are on the same page regarding project goals and requirements.
+    - Ensuring seamless alignment between projects that require multi-team collaboration is crucial. We work to facilitate communication and coordination, ensuring all teams are on the same page regarding project goals and requirements.
 
 **Supporting Teams in Dealing with the Legacy Landscape**
-    - I provide data and insights about the legacy landscape, identifying problematic areas such as frequently changed, low-quality, untested legacy code. I help define scenarios and roadmaps for legacy modernization, ensuring a structured approach to updating and maintaining legacy systems.
+    - We provide data and insights about the legacy landscape, identifying problematic areas such as frequently changed, low-quality, untested legacy code. We help define scenarios and roadmaps for legacy modernization, ensuring a structured approach to updating and maintaining legacy systems.
 
 **Tracking Tech Debt and Defining Tech Debt Reduction Programs**
-    - This involves creating a centrally aligned backlog of technical debt and defining programs for its reduction. I integrate these programs into the planning processes to ensure that tech debt is managed proactively and effectively.
+    - This involves creating a centrally aligned backlog of technical debt and defining programs for its reduction. We integrate these programs into the planning processes to ensure that tech debt is managed proactively and effectively.
 
 **Performing SWOT and Other Analyses of Platforms and Systems**
-    - Conducting deep dives to understand specific areas of the technology landscape, I perform SWOT (Strengths, Weaknesses, Opportunities, Threats) analyses and other assessments. These analyses help in creating comprehensive plans and roadmaps for improvement.
+    - Conducting deep dives to understand specific areas of the technology landscape, We perform SWOT (Strengths, Weaknesses, Opportunities, Threats) analyses and other assessments. These analyses help in creating comprehensive plans and roadmaps for improvement.
 
 **Standardizing Processes and Documentation**
-    - I define standard templates for key documents such as Architectural Decision Records (ADRs), Technical Design Reviews (TDRs), and common diagrams. This standardization ensures consistency and clarity across all architectural documentation.
+    - We define standard templates for key documents such as Architectural Decision Records (ADRs), Technical Design Reviews (TDRs), and common diagrams. This standardization ensures consistency and clarity across all architectural documentation.
 
 **Supporting Merger and Acquisition (M&A) Activities with Expertise and Analyses**
-    - I provide analyses, recommendations, and integration planning for mergers and acquisitions. My support ensures that architectural considerations are well-integrated into M&A activities, facilitating smoother transitions and integrations.
+    - We provide analyses, recommendations, and integration planning for mergers and acquisitions. My support ensures that architectural considerations are well-integrated into M&A activities, facilitating smoother transitions and integrations.
 
 **Defining Key Technology Strategies**
-    - I contribute to the development of essential technology strategies, including those for Cloud, Data, and Platforms. These strategies provide a clear roadmap for technological development and investment, ensuring alignment with business goals.
+    - We contribute to the development of essential technology strategies, including those for Cloud, Data, and Platforms. These strategies provide a clear roadmap for technological development and investment, ensuring alignment with business goals.
 
 **Defining Vision and Direction of Technology**
-    - In collaboration with Engineering Leaders, I work on creating a sustainable organizational setting that aligns with the overarching technology strategies. This involves setting a clear vision and direction for the technology landscape within the organization.
+    - In collaboration with Engineering Leaders, We work on creating a sustainable organizational setting that aligns with the overarching technology strategies. This involves setting a clear vision and direction for the technology landscape within the organization.
 
 These activities collectively form an Architecture Activities Platform, enabling a structured and strategic approach to architectural practices within the organization.
 
@@ -74,11 +74,13 @@ While exact activities and their scope will depend on an organization setting an
 ![](assets/images/arch/architecture-system.png)
 **Figure 2:** *A common operating model I typically use for Grounded Architecture activities.*
 
+Here are the key characteristics of this operating model. 
+
 **Engagement mindset**: 
   * Architects engage with stakeholders and product and project teams in a **collaborative and supportive manner**. 
   * Architects aim to **empower the teams** so that they make most of the decisions.
 
-**Role of architects**: 
+**Contributions of architects**: 
   * **Bring relevant data** to inform decisions leveraging a [Data Foundation](#data).
   * **Define decision boundaries** to enable minimal compatibility and strategic alignment (e.g., public cloud provider, golden paths, or tech stack constraints).
   * **Define fundamental principles** to facilitate consistency in decision-making.
