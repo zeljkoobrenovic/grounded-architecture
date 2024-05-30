@@ -2,7 +2,8 @@
 
 # Data Foundation {#data}
 
-![image by lorenzo cafaro from pixabay](assets/images/arch/architecture-1857175_1920.jpg)
+![](assets/images/arch/architecture-1857175_1920.jpg)
+^image by lorenzo cafaro from pixabay^
 
 **IN THIS SECTION, YOU WILL:**  Understand how to use diverse data sources to support architecture decision-making processes and get concrete tips on creating architecture-centric data tools.
 
@@ -17,7 +18,8 @@ A> *"If we have data, let's look at data. If all we have are opinions, let's go 
 
 Everywhere I worked on creating architectural functions, I strongly (aka obsessively) emphasized data. Consequently, one of the first steps I make in any architecture practice is to create an architecture Data Foundation to get a complete, up-to-date picture of critical elements of an organization's technology landscapes (Figure 1). Manual documentation does not scale, and relying on data ensures the reliability and scalability of decision-making. In the past several years, I have also been working on creating open-source tools, such as [Sokrates](https://sokrates.dev), that can help obtain valuable architectural insights from data sources, such as source code repositories or public cloud billing reports. 
 
-![Figure 1: The structure of Grounded Architecture: The Data Foundation.](assets/images/model-data.png)
+![](assets/images/model-data.png)
+***Figure 1:** The structure of Grounded Architecture: The Data Foundation.*
 
 The good news is that **big organizations have lots of data** that, if used wisely, can provide an excellent basis for an architectural Data Foundation. With some automation and curation, getting a crystal clear overview of the technology landscape may be closer than it initially appears.
 
@@ -32,9 +34,11 @@ To illustrate what I mean by Data Foundation, I will give a few concrete example
 
 In the following sections, I detail several of these architectural data-driven tools.
 
-![Figure 2: A screenshot of the start page of the architecture data dashboard we've built and used at AVIV Group.](assets/images/apps.png) 
+![](assets/images/apps.png) 
+**Figure 2:** *A screenshot of the start page of the architecture data dashboard we've built and used at AVIV Group.*
 
-![Figure 3: A screenshot of the start page of the architecture data dashboard we've built and used at eBay Classifieds.](assets/images/apps-ebay.png) 
+![](assets/images/apps-ebay.png) 
+**Figure 3:** *A screenshot of the start page of the architecture data dashboard we've built and used at eBay Classifieds.*
 
 ### Example 1: Source Code and Commit History
 
@@ -44,12 +48,12 @@ Sokrates is designed with an architect's x-ray vision, allowing you to zoom in a
 
 For a more entertaining look at what Sokrates can do, check out the [Sokrates examples](https://www.sokrates.dev/). Here are some blockbusters:
 
-- **[Apache Software Foundation Repositories](https://d3axxy9bcycpv7.cloudfront.net/asf/_sokrates_landscape/index.html)**: An epic saga of over 1,000 repositories with more than 180 million lines of code, 22,000 contributors, and 2.4 million commits. Bring popcorn.
-- **[Facebook/Meta OSS Repositories](https://d3axxy9bcycpv7.cloudfront.net/meta/_sokrates_landscape/index.html)**: A thriller with 800 repositories, 120 million lines of code, 20,000 contributors, and over 2 million commits. Spoiler alert: it's complex.
-- **[Microsoft OSS Repositories](https://d3axxy9bcycpv7.cloudfront.net/microsoft/_sokrates_landscape/index.html)**: A drama featuring over 2,400 repositories with more than 100 million lines of code, 18,000 contributors, and 1.2 million commits. Plot twist: lots of commits.
-- **[Google OSS Repositories](https://d3axxy9bcycpv7.cloudfront.net/google/_sokrates_landscape/index.html)**: A blockbuster with over 1,600 repositories, more than 200 million lines of code, 27,000 contributors, and 2.4 million commits. Definitely worth the ticket price.
-- **[Linux Source Code](https://d3axxy9bcycpv7.cloudfront.net/asf/_sokrates_landscape/index.html)**: A classic with 178 repository sub-folders, more than 23 million lines of code, 17,000 contributors, and 1.7 million commits. A must-see for any techie.
-- **[Amazon OSS Repositories](https://d3axxy9bcycpv7.cloudfront.net/amzn/_sokrates_landscape/index.html)**: A thriller with over 2,700 repositories, more than 130 million lines of code, 13,000 contributors, and 600,000 commits. It's got Prime content written all over it.
+- **[Apache Software Foundation Repositories](https://d3axxy9bcycpv7.cloudfront.net/asf/_sokrates_landscape/index.html)**: An epic saga of over 1,000 repositories with more than 180 million lines of code, 22,000 contributors, and 2.4 million commits.
+- **[Facebook/Meta OSS Repositories](https://d3axxy9bcycpv7.cloudfront.net/meta/_sokrates_landscape/index.html)**: A thriller with 800 repositories, 120 million lines of code, 20,000 contributors, and over 2 million commits.
+- **[Microsoft OSS Repositories](https://d3axxy9bcycpv7.cloudfront.net/microsoft/_sokrates_landscape/index.html)**: A drama featuring over 2,400 repositories with more than 100 million lines of code, 18,000 contributors, and 1.2 million commits.
+- **[Google OSS Repositories](https://d3axxy9bcycpv7.cloudfront.net/google/_sokrates_landscape/index.html)**: A blockbuster with over 1,600 repositories, more than 200 million lines of code, 27,000 contributors, and 2.4 million commits.
+- **[Linux Source Code](https://d3axxy9bcycpv7.cloudfront.net/asf/_sokrates_landscape/index.html)**: A classic with 178 repository sub-folders, more than 23 million lines of code, 17,000 contributors, and 1.7 million commits.
+- **[Amazon OSS Repositories](https://d3axxy9bcycpv7.cloudfront.net/amzn/_sokrates_landscape/index.html)**: A thriller with over 2,700 repositories, more than 130 million lines of code, 13,000 contributors, and 600,000 commits.
 
 In addition to standard source code and commit history analyses, I also have built several special source code analyses to get further details:
 - **Travis and Jenkins Analyzers**: Perfect for sleuthing how teams build CI/CD pipelines.
@@ -66,7 +70,8 @@ Developing in or migrating to the public cloud can dramatically increase transpa
 
 Figure 4 shows the anonymous screenshot of the Cloud usage explorer, a tool I built to visualize automatically-collected data from standard Google Cloud Platform (GCP) usage reports.
 
-![Figure 4: An example of a cloud usage explorer.](assets/images/archdata/cloud-usage-explorer.png)
+![](assets/images/archdata/cloud-usage-explorer.png)
+***Figure 4:** An example of a cloud usage explorer.*
 
 ### Example 3: Financial and Vibrancy Data
 
@@ -76,13 +81,14 @@ These finance sleuths need this juicy data to, for instance, link the performanc
 
 So, next time you're knee-deep in architectural plans, don't forget to call the finance for top-notch data insights!
 
-![Figure 5: Combining data from a different source (e.g., cloud billing reports and vibrancy or revenue can lead to new insights (e.g., identifying inefficiencies in the application portfolio).](assets/images/arch/cross-data.png)
+![](assets/images/arch/cross-data.png)
+***Figure 5:** Combining data from a different source (e.g., cloud billing reports and vibrancy or revenue can lead to new insights (e.g., identifying inefficiencies in the application portfolio).*
 
 ## Requirements For A Data Foundation
 
 A Data Foundation should be a central place with **authoritative, relevant, and curated data** about the organizational technology landscape. Technically, you can implement Data Foundation tools like those discussed in the previous section, using simple tools like Google Drive, with documents organized in folders or as an internal website. I recommend investing some effort in creating better infrastructure and user experience, as it can enable more people to access and benefit from data. A solid setup will make it easier for more people to access and benefit from the data, turning it into a real asset rather than a digital junk drawer.
 
-Simply collecting and putting data in one place will not create any value. Regardless of how you implement your Data Foundation, with papers on the wall, in Google Drive, in Confluence, or with a nicely designed internal website, I have identified the following requirements that a Data Foundation needs to implement:
+Simply collecting and putting data in one place will not create any value. Regardless of how you implement your Data Foundation, with papers on the wall, in Google Drive, in Confluence, or with a nicely designed internal website, I have identified the following requirements that a Data Foundation needs to have:
 
 * **It is the single point of truth** for all relevant architectural data. People should be able to go to one place and get the most relevant data. 
 * **It is curated for quality** so people can trust the data. Simply dumping data into one place will not help. You need to own curation to ensure that data are correct. You also should provide links to data sources so people can verify the facts.
@@ -91,9 +97,7 @@ Simply collecting and putting data in one place will not create any value. Regar
 * **It is accessible to the whole organization**. I genuinely believe that when you give employees access to information generally reserved for specialists, architects, or "higher levels," they get more done independently. They can work faster without stopping to ask for information and approval. And they make better decisions without needing input from architects or the top.
 * **It is used in decision-making**. Having nicely curated and valuable data has zero value if you cannot ensure that such data inform vital decisions. 
 
-My approach to building the Data Foundation is **like creating a map.** Maps are some of the most crucial documents in human history—they help us store and exchange knowledge about space and place. One thing all maps do is provide readers with a **sense of orientation.** And that, in a nutshell, is what Data Foundation should offer people in your organization: a sense of orientation in a waste space of technology, organizational and business topics. 
-
-The map metaphor is also helpful for Data Foundation, as maps come with **multiple layers.** Similarly, the architecture of Data Foundation should give readers data layers about systems that describe their sizes, connections, quality, security, or human activity. It's like having a trusty map that shows you where the treasure is and warns you about the dragons.
+My approach to building the Data Foundation is **like creating a map.** Maps are some of the most crucial documents in human history—they help us store and exchange knowledge about space and place. One thing all maps do is provide readers with a **sense of orientation.** And that, in a nutshell, is what Data Foundation should offer people in your organization: a sense of orientation in a waste space of technology, organizational and business topics. The map metaphor is also helpful as maps come with **multiple layers.** Similarly, the architecture of Data Foundation should give readers data layers about systems that describe their sizes, connections, quality, security, or human activity. It's like having a trusty map that shows you where the treasure is and warns you about the dragons.
 
 ## Building Data Foundation
 
@@ -135,15 +139,25 @@ So there you have it. The data's ready to spill its secrets—you need to know t
 
 Figures 6 to 10 show some insights from source code analyses with Sokrates. 
 
-![Figure 6: Sokrates can instantly create a helicopter view of the technology landscape, programming languages, active contributors, and commit trends.](assets/images/archdata/src_1.png)
+![](assets/images/archdata/src_1.png)
 
-![Figure 7: Sokrates can show detailed code and contributors' trends per repository, enabling zooming in each repository up to the code level.](assets/images/archdata/src_2.png)
- 
-![Figure 8: Sokrates can create a tech radar by tagging projects with identified technologies.](assets/images/archdata/src_5.png)
+**Figure 6**: *Sokrates can instantly create a helicopter view of the technology landscape, programming languages, active contributors, and commit trends.*
 
-![Figure 9: Sokrates can show contributor trends, distribution of "veterans" and "rookies," and dependencies between people and repositories, enabling zooming in into patterns of the contribution of individual contributors.](assets/images/archdata/src_3.png)
+![](assets/images/archdata/src_2.png)
+
+**Figure 7**: *Sokrates can show detailed code and contributors' trends per repository, enabling zooming in each repository up to the code level.*
  
-![Figure 10: Sokrates can reveal the team topologies by plotting 2D and 3D graphs of dependencies that people create through working on the same repositories in the same period.](assets/images/arch/sokrates_teams.png)
+![](assets/images/archdata/src_5.png)
+
+**Figure 8**: *Sokrates can create a tech radar by tagging projects with identified technologies.*
+
+![](assets/images/archdata/src_3.png)
+
+**Figure 9**: *Sokrates can show contributor trends, distribution of "veterans" and "rookies," and dependencies between people and repositories, enabling zooming in into patterns of the contribution of individual contributors.*
+ 
+![](assets/images/arch/sokrates_teams.png)
+
+**Figure 10**: *Sokrates can reveal the team topologies by plotting 2D and 3D graphs of dependencies that people create through working on the same repositories in the same period.*
 
 ## Questions to Consider
 

@@ -96,23 +96,19 @@ The organizations I worked with were incredibly diverse across multiple dimensio
 Image by <a href="https://pixabay.com/users/simon-3/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=381937">Simon</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=381937">Pixabay</a>
 </div>
 
-**Organizational Diversity:**
 I worked with units differing in several aspects:
 * **Unit Size**: Ranged from hundreds of employees to just a dozen.
 * **Team Topologies**: Spanned from single-team setups to hierarchical team organizations.
 * **Architectural Roles**: Varied from having dedicated local architecture teams and lead architects to smaller units where team members handled architectural duties alongside other responsibilities.
 
-**Architectural Diversity:**
-We managed a range of styles in active production systems, from **legacy monolithic applications** to intricate modern **microservice and serverless ecosystems**. Each organizational segment had its own unique history and legacy systems.
+We managed a range of styles in active production systems, from legacy **monolithic** applications to intricate modern **microservice and serverless** ecosystems. Each organizational segment had its own unique history and legacy systems.
 
-**Technological Diversity:**
 Our technology stack was extensive, covering multiple mainstream technologies. The infrastructure included several public cloud providers (AWS, GCP, Azure) and custom-built private data centers. Our systems employed a variety of application technologies, such as:
 * **Database Technologies**: MySQL, PostgreSQL, MongoDB, Cassandra, AWS RDS, and more.
 * **Backend Programming Languages**: Java, C#, Go, Scala, PHP, Node.js, Kotlin, among others.
 * **Mobile App Programming Languages**: Swift, Objective-C, Java, Kotlin, Flutter/Dart, and more.
 * **Frontend Programming Languages and Frameworks**: React, AngularJS, Vue, jQuery, and others.
 
-**Opportunities and Challenges of Architectural Diversity:**
 Diversity offers several opportunities, including:
 * **Increased Technology Innovation**: A diverse workforce can explore more technologies and tools creatively.
 * **Better Implementation**: Access to a broader pool of resources allows for selecting the best tool for the job.

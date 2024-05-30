@@ -43,15 +43,13 @@ Image by <a href="https://pixabay.com/users/mostafa_meraji-13551092/?utm_source=
 
 <br>
 
-As the wise Gregor Hohpe noted, transforming an organization isn't about solving mathematical equations. No, it's about moving people. This makes **a strong network of people doing architecture** crucial for any real impact. In simpler terms, **Strong Architecture = Strong Architects**.
+As the wise Gregor Hohpe noted, transforming an organization isn't about solving mathematical equations. No, it's about moving people. Developing the architecture function requires competent, empowered, and motivated architects. This makes **a strong network of people doing architecture** crucial for any real impact. In simpler terms, **Strong Architecture = Strong Architects**.
 
 <div class="quote">
 Strong Architecture = Strong Architects.
 </div>
 
-Developing the architecture function requires competent, empowered, and motivated architects. Architects are a rare breed. They bridge the gaps between business, product, organizational, and technology issues. They're like the Swiss Army knives of the tech world.
-
-**Hiring architects** is like searching for a unicorn who's also a full-stack developer with a knack for diplomacy. They need not only in-depth technical knowledge but also domain-specific and organizational knowledge. So, any architecture function must carefully organize, empower, and leverage this scarce talent (Figure 1).
+Good architects are a rare breed. They bridge the gaps between business, product, organizational, and technology issues. They're like the Swiss Army knives of the tech world. Hiring architects is like searching for a unicorn who's also a full-stack developer with a knack for diplomacy. They need not only in-depth technical knowledge but also domain-specific and organizational knowledge. So, you cannot just 3D print your architects or hire them in buckets. But what you can do is to carefully organize, empower, and leverage this scarce talent (Figure 1).
 
 ![](assets/images/model-people.png)
 ***Figure 1:** The structure of Grounded Architecture: The People Foundation.*
@@ -69,25 +67,22 @@ IT architecture practices generally follow one of two fundamental models: centra
 
 **The federated model** is more like a coffee co-op, where each team has its own barista. A small central team or an **architecture center of excellence (CoE)** might provide high-level guidance, but the real magic happens locally. These baristas (architects) are embedded in development teams, facilitating high-level planning and acting as on-demand service providers.
 
-The **federated model** is a favorite among **cross-functional DevOps cultures**, integrating infrastructure, operations, and security into their brews. Architects in this model focus on **facilitation and enablement**, not just making sure no one spills the beans.
-
-Modern agile organizations love the federated model. It keeps architects close to the action, ensuring they're evaluated based on the success of the products they support. This focus on performance and reducing complexity is the secret recipe for a well-brewed architecture.
+The **federated model** is a favorite among **cross-functional DevOps cultures**, integrating infrastructure, operations, and security into their brews. Architects in this model focus on **facilitation and enablement**, not just making sure no one spills the beans. Modern agile organizations love the federated model. It keeps architects close to the action, ensuring they're evaluated based on the success of the products they support. This focus on performance and reducing complexity is the secret recipe for a well-brewed architecture.
 
 <br>
 ## The Hybrid Model
 
 To operate in a complex context, you must invest effort to ensure you have the **right people at the right places**. In the end, I usually found it best to adopt a model of a hybrid organization combining elements of central and federated orientation structures:
 
-* A Central Architectural Team, and
+* A Small Central Architectural Team, and
 * Architecture Guilds & Virtual Architectural Teams.
 
 This model is similar to the previously described **federated model** but with extra investment in a central team that should be more than just an on-demand service provider. 
 
 Think of it as a symphony orchestra, where the central team is the conductor, and the guilds and virtual teams are the talented musicians playing different instruments. Sure, each musician can play their part solo, but without the conductor, it might sound more like a chaotic jam session at your neighbor's garage.
 
-I prefer the **hybrid team structure** as it can execute at scale in complex organizations:
-* **Guilds** and virtual architecture teams support execution by **increasing the number of people involved** in architectural activities and increasing work efficiency through better alignment.
-* Members representing various organizational units can have much **more impact across the board**. Think of them as superheroes with architectural powers, spreading alignment and efficiency faster than you can say "spaghetti code."
+I prefer the **hybrid team structure** as it scales better in complex organizations:
+* **Guilds** and virtual architecture teams support execution by **increasing the number of people involved** in architectural activities and increasing work efficiency through better alignment. Members representing various organizational units can have much **more impact across the board**.
 * Having some capacity on the central level serves as a catalyst, helping people at local levels to do their jobs while being aligned and better connected with overall strategic goals and other teams working on related topics. It's like having a superhero headquarters where everyone knows the plan to save the day.
 
 ### Central Architecture Team
@@ -131,7 +126,7 @@ While the central team can provide essential support, all communities must take 
 
 ### Embracing Diverse Team Structures
 
-When building architecture guilds and virtual architecture teams, it's crucial to acknowledge that **organizational units have diverse structures and sizes**. In big organizations, embracing diversity is a prerequisite to having a broad impact.
+When building architecture guilds and virtual architecture teams, it's crucial to acknowledge that organizational units have diverse structures and sizes. In big organizations, **embracing diversity** is a prerequisite to having a broad impact.
 
 <div class="quote">
 In big organizations, embracing diversity is a prerequisite to having a broad impact.

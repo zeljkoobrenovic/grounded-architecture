@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-05-29T23:22:33+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: Redefining IT Architecture Practice</title><subtitle></subtitle><entry><title type="html">High Performing Technology Organizations</title><link href="http://localhost:4000/concepts-org" rel="alternate" type="text/html" title="High Performing Technology Organizations" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/appendix-organization</id><content type="html" xml:base="http://localhost:4000/concepts-org"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/car-engine-1701029_1280.jpg" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-05-30T09:49:23+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: Redefining IT Architecture Practice</title><subtitle></subtitle><entry><title type="html">High Performing Technology Organizations</title><link href="http://localhost:4000/concepts-org" rel="alternate" type="text/html" title="High Performing Technology Organizations" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/appendix-organization</id><content type="html" xml:base="http://localhost:4000/concepts-org"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/car-engine-1701029_1280.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/paulbr75-2938186/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1701029">Paul Brennan</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1701029">Pixabay</a>
 </div>
@@ -164,19 +164,16 @@ Image by <a href="https://pixabay.com/users/thedigitalartist-202249/?utm_source=
 Image by <a href="https://pixabay.com/users/simon-3/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=381937">Simon</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=381937">Pixabay</a>
 </div>
 
-<p><strong>Organizational Diversity:</strong>
-I worked with units differing in several aspects:</p>
+<p>I worked with units differing in several aspects:</p>
 <ul>
   <li><strong>Unit Size</strong>: Ranged from hundreds of employees to just a dozen.</li>
   <li><strong>Team Topologies</strong>: Spanned from single-team setups to hierarchical team organizations.</li>
   <li><strong>Architectural Roles</strong>: Varied from having dedicated local architecture teams and lead architects to smaller units where team members handled architectural duties alongside other responsibilities.</li>
 </ul>
 
-<p><strong>Architectural Diversity:</strong>
-We managed a range of styles in active production systems, from <strong>legacy monolithic applications</strong> to intricate modern <strong>microservice and serverless ecosystems</strong>. Each organizational segment had its own unique history and legacy systems.</p>
+<p>We managed a range of styles in active production systems, from legacy <strong>monolithic</strong> applications to intricate modern <strong>microservice and serverless</strong> ecosystems. Each organizational segment had its own unique history and legacy systems.</p>
 
-<p><strong>Technological Diversity:</strong>
-Our technology stack was extensive, covering multiple mainstream technologies. The infrastructure included several public cloud providers (AWS, GCP, Azure) and custom-built private data centers. Our systems employed a variety of application technologies, such as:</p>
+<p>Our technology stack was extensive, covering multiple mainstream technologies. The infrastructure included several public cloud providers (AWS, GCP, Azure) and custom-built private data centers. Our systems employed a variety of application technologies, such as:</p>
 <ul>
   <li><strong>Database Technologies</strong>: MySQL, PostgreSQL, MongoDB, Cassandra, AWS RDS, and more.</li>
   <li><strong>Backend Programming Languages</strong>: Java, C#, Go, Scala, PHP, Node.js, Kotlin, among others.</li>
@@ -184,8 +181,7 @@ Our technology stack was extensive, covering multiple mainstream technologies. T
   <li><strong>Frontend Programming Languages and Frameworks</strong>: React, AngularJS, Vue, jQuery, and others.</li>
 </ul>
 
-<p><strong>Opportunities and Challenges of Architectural Diversity:</strong>
-Diversity offers several opportunities, including:</p>
+<p>Diversity offers several opportunities, including:</p>
 <ul>
   <li><strong>Increased Technology Innovation</strong>: A diverse workforce can explore more technologies and tools creatively.</li>
   <li><strong>Better Implementation</strong>: Access to a broader pool of resources allows for selecting the best tool for the job.</li>
@@ -507,12 +503,12 @@ Source code and its commit history include an astonishing amount of information 
 <p>For a more entertaining look at what Sokrates can do, check out the <a href="https://www.sokrates.dev/">Sokrates examples</a>. Here are some blockbusters:</p>
 
 <ul>
-  <li><strong><a href="https://d3axxy9bcycpv7.cloudfront.net/asf/_sokrates_landscape/index.html">Apache Software Foundation Repositories</a></strong>: An epic saga of over 1,000 repositories with more than 180 million lines of code, 22,000 contributors, and 2.4 million commits. Bring popcorn.</li>
-  <li><strong><a href="https://d3axxy9bcycpv7.cloudfront.net/meta/_sokrates_landscape/index.html">Facebook/Meta OSS Repositories</a></strong>: A thriller with 800 repositories, 120 million lines of code, 20,000 contributors, and over 2 million commits. Spoiler alert: it’s complex.</li>
-  <li><strong><a href="https://d3axxy9bcycpv7.cloudfront.net/microsoft/_sokrates_landscape/index.html">Microsoft OSS Repositories</a></strong>: A drama featuring over 2,400 repositories with more than 100 million lines of code, 18,000 contributors, and 1.2 million commits. Plot twist: lots of commits.</li>
-  <li><strong><a href="https://d3axxy9bcycpv7.cloudfront.net/google/_sokrates_landscape/index.html">Google OSS Repositories</a></strong>: A blockbuster with over 1,600 repositories, more than 200 million lines of code, 27,000 contributors, and 2.4 million commits. Definitely worth the ticket price.</li>
-  <li><strong><a href="https://d3axxy9bcycpv7.cloudfront.net/asf/_sokrates_landscape/index.html">Linux Source Code</a></strong>: A classic with 178 repository sub-folders, more than 23 million lines of code, 17,000 contributors, and 1.7 million commits. A must-see for any techie.</li>
-  <li><strong><a href="https://d3axxy9bcycpv7.cloudfront.net/amzn/_sokrates_landscape/index.html">Amazon OSS Repositories</a></strong>: A thriller with over 2,700 repositories, more than 130 million lines of code, 13,000 contributors, and 600,000 commits. It’s got Prime content written all over it.</li>
+  <li><strong><a href="https://d3axxy9bcycpv7.cloudfront.net/asf/_sokrates_landscape/index.html">Apache Software Foundation Repositories</a></strong>: An epic saga of over 1,000 repositories with more than 180 million lines of code, 22,000 contributors, and 2.4 million commits.</li>
+  <li><strong><a href="https://d3axxy9bcycpv7.cloudfront.net/meta/_sokrates_landscape/index.html">Facebook/Meta OSS Repositories</a></strong>: A thriller with 800 repositories, 120 million lines of code, 20,000 contributors, and over 2 million commits.</li>
+  <li><strong><a href="https://d3axxy9bcycpv7.cloudfront.net/microsoft/_sokrates_landscape/index.html">Microsoft OSS Repositories</a></strong>: A drama featuring over 2,400 repositories with more than 100 million lines of code, 18,000 contributors, and 1.2 million commits.</li>
+  <li><strong><a href="https://d3axxy9bcycpv7.cloudfront.net/google/_sokrates_landscape/index.html">Google OSS Repositories</a></strong>: A blockbuster with over 1,600 repositories, more than 200 million lines of code, 27,000 contributors, and 2.4 million commits.</li>
+  <li><strong><a href="https://d3axxy9bcycpv7.cloudfront.net/asf/_sokrates_landscape/index.html">Linux Source Code</a></strong>: A classic with 178 repository sub-folders, more than 23 million lines of code, 17,000 contributors, and 1.7 million commits.</li>
+  <li><strong><a href="https://d3axxy9bcycpv7.cloudfront.net/amzn/_sokrates_landscape/index.html">Amazon OSS Repositories</a></strong>: A thriller with over 2,700 repositories, more than 130 million lines of code, 13,000 contributors, and 600,000 commits.</li>
 </ul>
 
 <p>In addition to standard source code and commit history analyses, I also have built several special source code analyses to get further details:</p>
@@ -555,7 +551,7 @@ Source code and its commit history include an astonishing amount of information 
 
 <p>A Data Foundation should be a central place with <strong>authoritative, relevant, and curated data</strong> about the organizational technology landscape. Technically, you can implement Data Foundation tools like those discussed in the previous section, using simple tools like Google Drive, with documents organized in folders or as an internal website. I recommend investing some effort in creating better infrastructure and user experience, as it can enable more people to access and benefit from data. A solid setup will make it easier for more people to access and benefit from the data, turning it into a real asset rather than a digital junk drawer.</p>
 
-<p>Simply collecting and putting data in one place will not create any value. Regardless of how you implement your Data Foundation, with papers on the wall, in Google Drive, in Confluence, or with a nicely designed internal website, I have identified the following requirements that a Data Foundation needs to implement:</p>
+<p>Simply collecting and putting data in one place will not create any value. Regardless of how you implement your Data Foundation, with papers on the wall, in Google Drive, in Confluence, or with a nicely designed internal website, I have identified the following requirements that a Data Foundation needs to have:</p>
 
 <ul>
   <li><strong>It is the single point of truth</strong> for all relevant architectural data. People should be able to go to one place and get the most relevant data.</li>
@@ -566,9 +562,7 @@ Source code and its commit history include an astonishing amount of information 
   <li><strong>It is used in decision-making</strong>. Having nicely curated and valuable data has zero value if you cannot ensure that such data inform vital decisions.</li>
 </ul>
 
-<p>My approach to building the Data Foundation is <strong>like creating a map.</strong> Maps are some of the most crucial documents in human history—they help us store and exchange knowledge about space and place. One thing all maps do is provide readers with a <strong>sense of orientation.</strong> And that, in a nutshell, is what Data Foundation should offer people in your organization: a sense of orientation in a waste space of technology, organizational and business topics.</p>
-
-<p>The map metaphor is also helpful for Data Foundation, as maps come with <strong>multiple layers.</strong> Similarly, the architecture of Data Foundation should give readers data layers about systems that describe their sizes, connections, quality, security, or human activity. It’s like having a trusty map that shows you where the treasure is and warns you about the dragons.</p>
+<p>My approach to building the Data Foundation is <strong>like creating a map.</strong> Maps are some of the most crucial documents in human history—they help us store and exchange knowledge about space and place. One thing all maps do is provide readers with a <strong>sense of orientation.</strong> And that, in a nutshell, is what Data Foundation should offer people in your organization: a sense of orientation in a waste space of technology, organizational and business topics. The map metaphor is also helpful as maps come with <strong>multiple layers.</strong> Similarly, the architecture of Data Foundation should give readers data layers about systems that describe their sizes, connections, quality, security, or human activity. It’s like having a trusty map that shows you where the treasure is and warns you about the dragons.</p>
 
 <p><br /></p>
 <h2 id="building-data-foundation">Building Data Foundation</h2>
@@ -715,15 +709,13 @@ Image by <a href="https://pixabay.com/users/mostafa_meraji-13551092/?utm_source=
 
 <p><br /></p>
 
-<p>As the wise Gregor Hohpe noted, transforming an organization isn’t about solving mathematical equations. No, it’s about moving people. This makes <strong>a strong network of people doing architecture</strong> crucial for any real impact. In simpler terms, <strong>Strong Architecture = Strong Architects</strong>.</p>
+<p>As the wise Gregor Hohpe noted, transforming an organization isn’t about solving mathematical equations. No, it’s about moving people. Developing the architecture function requires competent, empowered, and motivated architects. This makes <strong>a strong network of people doing architecture</strong> crucial for any real impact. In simpler terms, <strong>Strong Architecture = Strong Architects</strong>.</p>
 
 <div class="quote">
 Strong Architecture = Strong Architects.
 </div>
 
-<p>Developing the architecture function requires competent, empowered, and motivated architects. Architects are a rare breed. They bridge the gaps between business, product, organizational, and technology issues. They’re like the Swiss Army knives of the tech world.</p>
-
-<p><strong>Hiring architects</strong> is like searching for a unicorn who’s also a full-stack developer with a knack for diplomacy. They need not only in-depth technical knowledge but also domain-specific and organizational knowledge. So, any architecture function must carefully organize, empower, and leverage this scarce talent (Figure 1).</p>
+<p>Good architects are a rare breed. They bridge the gaps between business, product, organizational, and technology issues. They’re like the Swiss Army knives of the tech world. Hiring architects is like searching for a unicorn who’s also a full-stack developer with a knack for diplomacy. They need not only in-depth technical knowledge but also domain-specific and organizational knowledge. So, you cannot just 3D print your architects or hire them in buckets. But what you can do is to carefully organize, empower, and leverage this scarce talent (Figure 1).</p>
 
 <p><img src="assets/images/model-people.png" alt="" />
 <em><strong>Figure 1:</strong> The structure of Grounded Architecture: The People Foundation.</em></p>
@@ -741,9 +733,7 @@ Strong Architecture = Strong Architects.
 
 <p><strong>The federated model</strong> is more like a coffee co-op, where each team has its own barista. A small central team or an <strong>architecture center of excellence (CoE)</strong> might provide high-level guidance, but the real magic happens locally. These baristas (architects) are embedded in development teams, facilitating high-level planning and acting as on-demand service providers.</p>
 
-<p>The <strong>federated model</strong> is a favorite among <strong>cross-functional DevOps cultures</strong>, integrating infrastructure, operations, and security into their brews. Architects in this model focus on <strong>facilitation and enablement</strong>, not just making sure no one spills the beans.</p>
-
-<p>Modern agile organizations love the federated model. It keeps architects close to the action, ensuring they’re evaluated based on the success of the products they support. This focus on performance and reducing complexity is the secret recipe for a well-brewed architecture.</p>
+<p>The <strong>federated model</strong> is a favorite among <strong>cross-functional DevOps cultures</strong>, integrating infrastructure, operations, and security into their brews. Architects in this model focus on <strong>facilitation and enablement</strong>, not just making sure no one spills the beans. Modern agile organizations love the federated model. It keeps architects close to the action, ensuring they’re evaluated based on the success of the products they support. This focus on performance and reducing complexity is the secret recipe for a well-brewed architecture.</p>
 
 <p><br /></p>
 <h2 id="the-hybrid-model">The Hybrid Model</h2>
@@ -751,7 +741,7 @@ Strong Architecture = Strong Architects.
 <p>To operate in a complex context, you must invest effort to ensure you have the <strong>right people at the right places</strong>. In the end, I usually found it best to adopt a model of a hybrid organization combining elements of central and federated orientation structures:</p>
 
 <ul>
-  <li>A Central Architectural Team, and</li>
+  <li>A Small Central Architectural Team, and</li>
   <li>Architecture Guilds &amp; Virtual Architectural Teams.</li>
 </ul>
 
@@ -759,10 +749,9 @@ Strong Architecture = Strong Architects.
 
 <p>Think of it as a symphony orchestra, where the central team is the conductor, and the guilds and virtual teams are the talented musicians playing different instruments. Sure, each musician can play their part solo, but without the conductor, it might sound more like a chaotic jam session at your neighbor’s garage.</p>
 
-<p>I prefer the <strong>hybrid team structure</strong> as it can execute at scale in complex organizations:</p>
+<p>I prefer the <strong>hybrid team structure</strong> as it scales better in complex organizations:</p>
 <ul>
-  <li><strong>Guilds</strong> and virtual architecture teams support execution by <strong>increasing the number of people involved</strong> in architectural activities and increasing work efficiency through better alignment.</li>
-  <li>Members representing various organizational units can have much <strong>more impact across the board</strong>. Think of them as superheroes with architectural powers, spreading alignment and efficiency faster than you can say “spaghetti code.”</li>
+  <li><strong>Guilds</strong> and virtual architecture teams support execution by <strong>increasing the number of people involved</strong> in architectural activities and increasing work efficiency through better alignment. Members representing various organizational units can have much <strong>more impact across the board</strong>.</li>
   <li>Having some capacity on the central level serves as a catalyst, helping people at local levels to do their jobs while being aligned and better connected with overall strategic goals and other teams working on related topics. It’s like having a superhero headquarters where everyone knows the plan to save the day.</li>
 </ul>
 
@@ -819,7 +808,7 @@ Brown, Rising Strong</p>
 
 <h3 id="embracing-diverse-team-structures">Embracing Diverse Team Structures</h3>
 
-<p>When building architecture guilds and virtual architecture teams, it’s crucial to acknowledge that <strong>organizational units have diverse structures and sizes</strong>. In big organizations, embracing diversity is a prerequisite to having a broad impact.</p>
+<p>When building architecture guilds and virtual architecture teams, it’s crucial to acknowledge that organizational units have diverse structures and sizes. In big organizations, <strong>embracing diversity</strong> is a prerequisite to having a broad impact.</p>
 
 <div class="quote">
 In big organizations, embracing diversity is a prerequisite to having a broad impact.
@@ -924,38 +913,63 @@ Each organization will have different architectural needs and contexts. When for
   <li><em>“Your organization has to earn its way to an effective architecture function. <strong>You can’t just plug some architects into the current mess</strong> and expect it to solve all your problems.”</em></li>
 </ul>
 
-<p><img src="assets/images/model-strategy.png" alt="" />
-<em><strong>Figure 1:</strong> The structure of Grounded Architecture: Architecture Activities Platform.</em></p>
-
 <p>Considering Gregor Hohpe’s previous two points, I approach defining an architecture practice with the mindset that there is no one-size-fits-all method. You must find your own activities and operating models to enable architecture to solve the most critical problems.</p>
 
 <div class="quote">
 There is no one-size-fits-all approach: each organization must find activities and operating models that enable architecture to solve the most critical problems.
 </div>
 
-<p>No matter which operating models you select, it’s crucial to develop explicit agreements and “rules of engagement” with key stakeholders. This collaborative approach is essential to create a sustainable and practical architectural function. It’s like establishing the house rules for game night; everyone’s input is valued and necessary to keep things fun and functional.</p>
+<p>No matter which operating models you select, it’s crucial to develop <strong>explicit agreements</strong> and “rules of engagement” with key stakeholders. This collaborative approach is essential to create a sustainable and practical architectural function. It’s like establishing the house rules for game night; everyone’s input is valued and necessary to keep things fun and functional.</p>
+
+<p><img src="assets/images/model-strategy.png" alt="" />
+<em><strong>Figure 1:</strong> The structure of Grounded Architecture: Architecture Activities Platform.</em></p>
 
 <p>The Architecture Activities Platform (Figure 1) is a set of processes and agreements that allows architects to do everything architecture practice typically does. It leverages Data and People Foundations to develop a data-informed, organization-wide impact. Data and People Foundations provide a basis for data-informed decision-making well embedded in the organization. It’s about instilling confidence and trust in your decision-making process.</p>
 
 <p><br /></p>
 <h2 id="examples-of-architecture-activities">Examples of Architecture Activities</h2>
 
-<p>To better understand what I mean by an Architecture Activities Platform, here are some examples of activities I have been performing with architects:</p>
-<ul>
-  <li><strong>Designing mechanisms for teams to make better decisions.</strong> This activity includes creating global decision-support mechanisms, such as <a href="https://martinfowler.com/articles/scaling-architecture-conversationally.html">advisory forums</a>, formal design authority (for compliance-sensitive projects), and team-specific mechanisms, such as escalation paths in case of decision conflicts (e.g., teams cannot align on a common messaging middleware).</li>
-  <li><strong>Supporting teams in their daily work.</strong> Being part of key team activities, aligning architectural work with team rituals to provide timely support, and supporting the team in all crucial phases of their work (e.g., reviewing architecture proposals early before the project or sprint starts).</li>
-  <li><strong>Supporting planned new initiatives and projects.</strong> Ensuring alignment between projects that require multi-team collaboration.</li>
-  <li><strong>Supporting teams in dealing with the legacy landscape.</strong> Providing data and knowledge regarding legacy landscape, identifying hotspots (e.g., frequently changed, low-quality untested pieces of legacy code), defining scenarios and roadmap for legacy modernization.</li>
-  <li><strong>Tracking tech debt, defining tech debt reduction programs.</strong> Defining a centrally aligned backlog of technology depth, defining programs for its reduction, and integration in planning processes.</li>
-  <li><strong>Performing <a href="https://en.wikipedia.org/wiki/SWOT_analysis">SWOT</a> and other analyses of platforms and systems.</strong> Doing deep dives to better understand some areas of the technology landscape and create plans and roadmaps for improvement.</li>
-  <li><strong>Standardizing of processes and documentation</strong>. Defining standard templates for documents such as Architectural Decision Records (ADRs), Technical Design Reviews (TDRs), or common diagrams.</li>
-  <li><strong>Supporting merger and acquisitions (M&amp;A) activities with expertise and analyses.</strong> Support analyses, recommendations, and integration planning regarding mergers and acquisitions.</li>
-  <li><strong>Defining key technology strategies.</strong> Examples include Cloud, Data, and Platform strategies.</li>
-  <li><strong>Defining vision and direction of technology, frequently collaborating with Engineering Leaders.</strong> Working with managers to create a sustainable organizational setting aligned with technology strategies.</li>
-</ul>
+<p>To provide a clearer understanding of what I mean by an Architecture Activities Platform, here are detailed examples of the activities I have been engaged in with architects:</p>
+
+<p><strong>Designing Mechanisms for Teams to Make Better Decisions</strong>
+    - This involves creating global decision-support frameworks such as advisory forums, which facilitate informed discussions across teams. For compliance-sensitive projects, we establish formal design authorities. Additionally, we develop team-specific mechanisms, like escalation paths, to resolve decision conflicts effectively (e.g., when teams disagree on a common messaging middleware).</p>
+
+<p><strong>Supporting Teams in Their Daily Work</strong>
+    - This entails integrating into key team activities, aligning architectural work with team rituals to provide timely support. I assist teams during all critical phases, such as reviewing architecture proposals before the commencement of a project or sprint, ensuring alignment with overall architectural standards.</p>
+
+<p><strong>Supporting Planned New Initiatives and Projects</strong>
+    - Ensuring seamless alignment between projects that require multi-team collaboration is crucial. I work to facilitate communication and coordination, ensuring all teams are on the same page regarding project goals and requirements.</p>
+
+<p><strong>Supporting Teams in Dealing with the Legacy Landscape</strong>
+    - I provide data and insights about the legacy landscape, identifying problematic areas such as frequently changed, low-quality, untested legacy code. I help define scenarios and roadmaps for legacy modernization, ensuring a structured approach to updating and maintaining legacy systems.</p>
+
+<p><strong>Tracking Tech Debt and Defining Tech Debt Reduction Programs</strong>
+    - This involves creating a centrally aligned backlog of technical debt and defining programs for its reduction. I integrate these programs into the planning processes to ensure that tech debt is managed proactively and effectively.</p>
+
+<p><strong>Performing SWOT and Other Analyses of Platforms and Systems</strong>
+    - Conducting deep dives to understand specific areas of the technology landscape, I perform SWOT (Strengths, Weaknesses, Opportunities, Threats) analyses and other assessments. These analyses help in creating comprehensive plans and roadmaps for improvement.</p>
+
+<p><strong>Standardizing Processes and Documentation</strong>
+    - I define standard templates for key documents such as Architectural Decision Records (ADRs), Technical Design Reviews (TDRs), and common diagrams. This standardization ensures consistency and clarity across all architectural documentation.</p>
+
+<p><strong>Supporting Merger and Acquisition (M&amp;A) Activities with Expertise and Analyses</strong>
+    - I provide analyses, recommendations, and integration planning for mergers and acquisitions. My support ensures that architectural considerations are well-integrated into M&amp;A activities, facilitating smoother transitions and integrations.</p>
+
+<p><strong>Defining Key Technology Strategies</strong>
+    - I contribute to the development of essential technology strategies, including those for Cloud, Data, and Platforms. These strategies provide a clear roadmap for technological development and investment, ensuring alignment with business goals.</p>
+
+<p><strong>Defining Vision and Direction of Technology</strong>
+    - In collaboration with Engineering Leaders, I work on creating a sustainable organizational setting that aligns with the overarching technology strategies. This involves setting a clear vision and direction for the technology landscape within the organization.</p>
+
+<p>These activities collectively form an Architecture Activities Platform, enabling a structured and strategic approach to architectural practices within the organization.</p>
 
 <p><br /></p>
-<h2 id="operating-model">Operating Model</h2>
+<h2 id="guiding-principles-for-architectural-excellence-policies-autonomy-and-engagement">Guiding Principles for Architectural Excellence: Policies, Autonomy, and Engagement</h2>
+
+<p>In this section, I address different guiding principles of architectural work. The Architecture Decision Policy provides a framework for making informed choices considering overall complexity, team mobility, training ease, talent density, potential reorganizations, and efficiency. Distributing Decisions, Autonomy, and Alignment explores the balance between team autonomy and organizational alignment, emphasizing the importance of transparent communication and strategic decision boundaries. Finally, the Rules of Engagement outline essential principles for effective architectural practice, ensuring teams are well-equipped to collaborate, innovate, and maintain high standards.</p>
+
+<p><br /></p>
+<h3 id="operating-model">Operating Model</h3>
 
 <p>While exact activities and their scope will depend on an organization setting and will change over time, I usually followed a common operational model in daily work (Figure 2).</p>
 
@@ -987,37 +1001,13 @@ There is no one-size-fits-all approach: each organization must find activities a
       <li>Architects spend their time in <strong>constant motion</strong> between supporting teams’ <strong>daily work</strong> and working on <strong>strategic topics</strong>, helping the organization achieve alignment between strategy and implementation.</li>
     </ul>
   </li>
+  <li><strong>Shift left</strong>:
+    <ul>
+      <li>Avoid <strong>formal bureaucratic approval</strong> processes, where architects appear too late and are frequently busy approving trivial decisions.</li>
+      <li>Have architects <strong>involved early</strong> in any of the processes, such as during the planning and preparation stages, where it is possible to make more significant changes. Think of it as having the architects as early birds catching the architectural worms, making big changes before the day officially starts.</li>
+    </ul>
+  </li>
 </ul>
-
-<div class="quote">
-I aim to avoid formal bureaucratic approval processes, where architects appear too late and are frequently busy approving trivial decisions.
-</div>
-
-<p>Another characteristic of this operating model is shifting left the architecture work. I aim to avoid formal bureaucratic approval processes, where architects appear too late and are frequently busy approving trivial decisions. Instead, my goal is to have architects involved early in any of the processes, such as during the planning and preparation stages, where it is possible to make more significant changes. Think of it as having the architects as early birds catching the architectural worms, making big changes before the day officially starts.</p>
-
-<p><br /></p>
-<h2 id="guiding-principles-for-architectural-excellence-policies-autonomy-and-engagement">Guiding Principles for Architectural Excellence: Policies, Autonomy, and Engagement</h2>
-
-<p>In this section, I address different guiding principles of architectural work. The Architecture Decision Policy provides a framework for making informed choices considering overall complexity, team mobility, training ease, talent density, potential reorganizations, and efficiency. Distributing Decisions, Autonomy, and Alignment explores the balance between team autonomy and organizational alignment, emphasizing the importance of transparent communication and strategic decision boundaries. Finally, the Rules of Engagement outline essential principles for effective architectural practice, ensuring teams are well-equipped to collaborate, innovate, and maintain high standards.</p>
-
-<h3 id="architecture-decision-policy">Architecture Decision Policy</h3>
-
-<p>Inspired by the famous <strong><a href="https://hbr.org/2014/01/how-netflix-reinvented-hr">Netflix expense policy</a></strong>, <em>“Act in Netflix’s best interests”</em>, I frequently argued that architecture decision policy could similarly be summarized in six words:</p>
-
-<p><img src="assets/images/arch/decision-policy.png" alt="" /></p>
-
-<p>What I mean by that is that <strong>anyone can make architecture decisions</strong>, provided that, in addition to their specific requirements, they also think about the <strong>impact of their choices</strong> on:</p>
-
-<ul>
-  <li><strong>Overall organizational complexity</strong>: Technology is more manageable by limiting tech diversity, size, and dependencies. Limiting technology choices reduces the attack surface with fewer third-party dependencies and tool ecosystems (build, testing, etc.).</li>
-  <li><strong>Ease of moving people</strong> between teams (both to get help and help others, get promoted): Do not unnecessarily create exotic islands with few experts in technologies not supported or widely used in the organization. People cannot get help or move across the organization as their expertise may be useless outside the team.</li>
-  <li><strong>Ease of training and onboarding</strong> of internal and external developers: Using conventional technologies, supported with external learning resources (books, tutorials, StackOverflow) significantly helps find and grow experts.</li>
-  <li><strong>Talent density</strong> and the possibility of performing at the world-scale level: Building world-scale technology and scaling requires in-depth knowledge and fine-tuning. It cannot be achieved with only a few in-house experts.</li>
-  <li>New <strong>reorganizations</strong>: If the ownership of components changes (e.g., another team is taking it over), would your choices fit with other components from other areas?</li>
-  <li>Reducing global <strong>duplication of effort</strong> and inefficiencies: Are you doing the work others are doing? Can others reuse your work? Can you reuse the work of others?</li>
-</ul>
-
-<p>While it may not always be enough, this simple policy resonates well. It encourages people to be more thoughtful when making decisions.</p>
 
 <p><br /></p>
 <h3 id="distributing-decisions-autonomy-and-alignment">Distributing Decisions, Autonomy, and Alignment</h3>
@@ -1036,6 +1026,25 @@ Grounded Architecture aims to make relevant information more readily available t
 
 <p><img src="assets/images/arch/decision-pyramid.png" alt="" />
 <em><strong>Figure 3:</strong> A decision pyramid. The development teams should make most decisions. However, several strategic and area-level decisions may provide decision boundaries for teams (e.g., a public cloud provider).</em></p>
+
+<h3 id="architecture-decision-policy">Architecture Decision Policy</h3>
+
+<p>Distributed decision-making scales well, but it can lead to chaos if entirely uncoordinated. Some decision policies are needed. Inspired by the famous <strong><a href="https://hbr.org/2014/01/how-netflix-reinvented-hr">Netflix expense policy</a></strong>, <em>“Act in Netflix’s best interests”</em>, I frequently argued that architecture decision policy could similarly be summarized in six words:</p>
+
+<p><img src="assets/images/arch/decision-policy.png" alt="" /></p>
+
+<p>What I mean by that is that <strong>anyone can make architecture decisions</strong>, provided that, in addition to their specific requirements, they also think about the <strong>impact of their choices</strong> on:</p>
+
+<ul>
+  <li><strong>Overall organizational complexity</strong>: Technology is more manageable by limiting tech diversity, size, and dependencies. Limiting technology choices reduces the attack surface with fewer third-party dependencies and tool ecosystems (build, testing, etc.).</li>
+  <li><strong>Ease of moving people</strong> between teams (both to get help and help others, get promoted): Do not unnecessarily create exotic islands with few experts in technologies not supported or widely used in the organization. People cannot get help or move across the organization as their expertise may be useless outside the team.</li>
+  <li><strong>Ease of training and onboarding</strong> of internal and external developers: Using conventional technologies, supported with external learning resources (books, tutorials, StackOverflow) significantly helps find and grow experts.</li>
+  <li><strong>Talent density</strong> and the possibility of performing at the world-scale level: Building world-scale technology and scaling requires in-depth knowledge and fine-tuning. It cannot be achieved with only a few in-house experts.</li>
+  <li>New <strong>reorganizations</strong>: If the ownership of components changes (e.g., another team is taking it over), would your choices fit with other components from other areas?</li>
+  <li>Reducing global <strong>duplication of effort</strong> and inefficiencies: Are you doing the work others are doing? Can others reuse your work? Can you reuse the work of others?</li>
+</ul>
+
+<p>While it may not always be enough, this simple policy resonates well. It encourages people to be more thoughtful when making decisions.</p>
 
 <p><br /></p>
 <h3 id="rules-of-engagement">Rules of Engagement</h3>
@@ -1233,7 +1242,7 @@ Image by <a href="https://pixabay.com/users/painter06-3732158/?utm_source=link-a
 Image by <a href="https://pixabay.com/users/qimono-1962238/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1767563">Arek Socha</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1767563">Pixabay</a>
 </div>
 
-<p>To make the decision process more data-informed and less dependent on opinions, we need to focus on the interplay between three foundational elements. These elements collectively create a robust framework for data-driven decision-making in architectural discussions. Here’s how each foundation plays a role:</p>
+<p>To make the decision process more data-informed and less dependent on opinions, we need to focus on the interplay between three foundational elements. These elements collectively create a robust framework for data-driven decision-making in architectural discussions.</p>
 
 <h4 id="data-foundation-2">Data Foundation</h4>
 
@@ -1248,13 +1257,13 @@ Image by <a href="https://pixabay.com/users/qimono-1962238/?utm_source=link-attr
 
 <h4 id="people-foundation-2">People Foundation</h4>
 
-<p>The <strong>People Foundation</strong> ensures people are available and well-connected to share information and make decisions via:</p>
+<p>Data is not enough; you need to make this data available to and used by critical people. The <strong>People Foundation</strong> ensures people are available and well-connected to share information and make decisions via:</p>
 
 <ul>
   <li><strong>Expert Network:</strong> Establish and maintain a network of knowledgeable experts and stakeholders who can provide insights on various architectural aspects.</li>
   <li><strong>Collaboration Tools:</strong> Implement collaboration tools that facilitate seamless communication and information sharing among team members.</li>
-  <li><strong>Training and Development:</strong> Provide training programs to enhance the data literacy and analytical skills of architects and decision-makers.
-Engagement Practices:** Develop practices for regularly engaging stakeholders and ensuring their input is considered in decision-making.</li>
+  <li><strong>Training and Development:</strong> Provide training programs to enhance the data literacy and analytical skills of architects and decision-makers.</li>
+  <li><strong>Engagement Practices:</strong> Develop practices for regularly engaging stakeholders and ensuring their input is considered in decision-making.</li>
 </ul>
 
 <h4 id="architecture-activities-platform-2">Architecture Activities Platform</h4>
@@ -1295,7 +1304,7 @@ Image by iStock
 
 <ul>
   <li>Facilitating <strong>pre-decision alignment</strong> via <strong>collaborative decision-making.</strong> This platform plays a pivotal role in minimizing misalignments by enabling individuals and teams working on similar projects or topics to identify each other and collaborate. This early alignment minimizes duplication of efforts and optimizes resource utilization, ensuring that efforts are aligned from the outset.</li>
-  <li>Facilitating <strong>post-decision dissemination</strong> via *knowledge sharing and more awareness.** After decisions are made, the platform ensures that these decisions are communicated across the organization. This widespread dissemination helps all parts of the organization benefit from the insights and lessons learned from one unit, leading to more cohesive and aligned operations.</li>
+  <li>Facilitating <strong>post-decision dissemination</strong> via <strong>knowledge sharing and more awareness.</strong> After decisions are made, the platform ensures that these decisions are communicated across the organization. This widespread dissemination helps all parts of the organization benefit from the insights and lessons learned from one unit, leading to more cohesive and aligned operations.</li>
 </ul>
 
 <p>An architecture function can reduce misalignments and drive a more unified, efficient, and aligned organization by integrating data transparency, enhanced collaboration, and structured processes for decision-making and dissemination.</p>
@@ -1310,7 +1319,8 @@ Image by iStock
 
 <p>The last goal is that architecture should help organizations learn quickly, stay up-to-date with emerging technologies and industry trends, and recommend technology upgrades. Learning is one of the primary daily tasks of architects. Architects must proactively identify relevant new technology developments and create pragmatic technology recommendations for concrete platforms across the organization based on their understanding.</p>
 
-<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/iStock-871461580.jpg" /></p>
+<p><br />
+<img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/iStock-871461580.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by iStock
 </div>
@@ -1321,7 +1331,7 @@ Image by iStock
 <p>The Data Foundation plays a pivotal role in accelerating the learning and adoption of new technologies. Here’s how:</p>
 
 <ul>
-  <li><strong>Facilitating Exploration and Reflection</strong>: The Data Foundation enables individuals and teams to explore new tools and technologies effectively by providing relevant and comprehensive data. Access to this data allows for thorough experimentation, analysis of outcomes, and reflection, which is crucial for understanding and refining new technology implementations.</li>
+  <li><strong>Facilitating Exploration and Reflection</strong>: The Data Foundation enables individuals and teams to explore new tools and technologies effectively by providing relevant and comprehensive data. Access to this data allows for thorough experimentation, analysis of outcomes, and reflection, which is crucial for understanding and refining new technology implementations. For instance, it may not be easy to calculate the cost of a new cloud service. However, running proofs-of-concept and analyzing collected data can provide good insights.</li>
   <li><strong>Supporting Informed Decision-Making</strong>: Architects and teams can make informed decisions regarding technology adoption and upgrades with up-to-date data. This minimizes the risk associated with implementing new technologies and ensures that the choices are based on solid evidence and insights.</li>
 </ul>
 
@@ -1384,7 +1394,7 @@ Image by <a href="https://pixabay.com/users/borevina-9505414/?utm_source=link-at
 </blockquote>
 
 <p><br />
-In this part of the book, I introduce several guiding principles that generalize my view on what it means to be an architect in practice:</p>
+In this part of the book, I introduce several perspectives on what it means to be an architect in practice:</p>
 
 <ul>
   <li><strong><a href="superglue">Architects as Superglue</a></strong>: Architects in IT organizations should develop as “superglue,” people who hold architecture, technical details, business needs, and people together across a large organization or complex projects.</li>

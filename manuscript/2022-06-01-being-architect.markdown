@@ -2,13 +2,14 @@
 
 # Being Architect: Introduction {#being-architect}
 
-![image by borko manigoda from pixabay](assets/images/arch/architect-3979490_1920.jpg)
+![](assets/images/arch/architect-3979490_1920.jpg)
+^image by borko manigoda from pixabay^
 
 **IN THIS SECTION, YOU WILL:**  Get an overview of guiding principles that generalize my view on what it means to be an architect in practice.
 
 {pagebreak}
 
-In this part of the book, I introduce several guiding principles that generalize my view on what it means to be an architect in practice:
+In this part of the book, I introduce several perspectives on what it means to be an architect in practice:
 
 * **[Architects as Superglue](#superglue)**: Architects in IT organizations should develop as "superglue," people who hold architecture, technical details, business needs, and people together across a large organization or complex projects.
 * **[Skills](#impact)**: A typical skillset of an architect includes hard (technical) skills, soft (people & social) skills, and business skills.

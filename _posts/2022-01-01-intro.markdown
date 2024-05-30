@@ -43,11 +43,11 @@ h3 {
 }
 </style>
 <br>
-Have you ever wondered how to run an IT architecture practice without **feeling stuck in an ivory tower?** Look no further! This book will share my approach to running an IT architecture practice in larger organizations based on my experience at AVIV Group, eBay Classifieds, and Adevinta. I call it "Grounded Architecture"—because it's all about having your feet on the ground and your **architecture firmly planted in reality.**
+Have you ever wondered how to run an IT architecture practice without **feeling stuck in an ivory tower?** Look no further! This book will share an approach to running an IT architecture practice in larger organizations based on my experience at AVIV Group, eBay Classifieds, and Adevinta. I call it "Grounded Architecture"—because it's all about having your feet on the ground and your **architecture firmly planted in reality.**
 
-The presented in this book connects architecture to every nook and cranny of your organization, making sure you're not just a lone wizard in a tower casting spells that no one understands. Grounded Architecture prioritizes connections with people and data over fancy theories, processes, and tools. 
+The approach presented in this book connects architecture to every nook and cranny of your organization, making sure you're not just a lone wizard in a tower casting spells that no one understands. Grounded Architecture prioritizes connections with people and data over fancy theories, processes, and tools. 
 
-The name "Grounded Architecture" is a hat-tip to the [**Grounded Theory**](https://en.wikipedia.org/wiki/Grounded_theory) methodology. Grounded Theory is about developing theories straight from the data you gather from the real world rather than pulling them out of thin air. Likewise, Grounded Architecture evolves from honest feedback and data, not from some dusty old book of abstract principles.
+The name "Grounded Architecture" is a hat-tip to the [Grounded Theory](https://en.wikipedia.org/wiki/Grounded_theory) methodology. Grounded Theory is about developing theories straight from the data you gather from the real world rather than pulling them out of thin air. Likewise, Grounded Architecture evolves from honest feedback and data, not from some dusty old book of abstract principles.
 
 This book breaks down Grounded Architecture into two main parts:
 * **Structure:** The nuts and bolts you need to get your Grounded Architecture practice up and running.
@@ -69,7 +69,7 @@ Lastly, the *[Architecture Activities Platform](activities-platform)* defines a 
 
 As part of my Grounded Architecture quest, I've devised several guiding principles and tools to help you sprinkle Grounded Architecture magic in your practice. These resources are grouped into two parts and are sure to make your journey both insightful and entertaining:
 
-* [Being an Architect](being-architect), where I introduce principles that generalize my view on what it means to be an architect in practice:
+* [Being an Architect](being-architect), where I introduce several perspectives on what it means to be an architect in practice:
   * [Architects as Superglue](superglue)
   * [Skills](skills)
   * [Impact](impact)
@@ -96,7 +96,7 @@ The three parts of the book (Structure, Being an Architect, and Doing Architectu
 
 ### General Philosophy
 
-I approach designing an architecture practice in complex organizations as an art of cooking. Imagine this: Modern IT architecture practice is like a master chef's kitchen, where rigid recipes are out. You can't just copy a recipe from one restaurant to another and expect it to taste the same. That's why I've organized this book into modules you can mix and match in your own kitchen, just like a chef selects ingredients to create a mouthwatering dish.
+I approach designing an architecture practice in complex organizations as an art of cooking. Modern IT architecture practice is like a master chef's kitchen. As you will always work with many local ingredients, you can't just copy a recipe from one restaurant to another and expect it to taste the same. That's why I've organized this book into modules you can mix and match in your own kitchen, just like a chef selects ingredients to create a mouthwatering dish.
 
 In this culinary adventure, I'll share some tasty tips and savory secrets on "cooking" up a thriving architecture practice. But remember, every kitchen is different. Some ingredients and recipes are essential, while others might be left on the shelf. And don't be surprised if you need to add a pinch of something special from other sources to spice things up.
 
@@ -116,6 +116,8 @@ So, tie on your apron, sharpen your knives, and prepare to cook up an IT archite
 ### Format
 
 I have organized my lessons and insights in a form that, if you recognize the problems and are inspired by solutions, could use as a **high-level "playbook"** about how to work as an architect or run an architecture practice. I also provide more concrete tips on each discussed topic, finishing each section with questions you should consider when addressing these topics.
+
+I invite you to read this book from **beginning to end**, following the progression from data and basic structures to management and organizational topics. However, you can **also browse the text** and start reading whatever interests you. I use many **illustrations** to create easy-to-remember pictures that you can associate with discussed topics, making the book usable across your organization as a **coffee table book**, serving as an inspiration, or sparking discussions.
 
 ### Content
 
@@ -145,7 +147,7 @@ Many other sources have influenced my work. Some of them you can find in the [Bo
 
 ## Why This Book?
 
-This book **generalizes my experiences in written form. I have written these articles for several reasons. Firstly, the act of writing helps me clarify and improve my ideas (Figure 2). As Gregor Hohpe once noted, every sentence I write frees up brain cells to learn new things. 
+This book **generalizes my experiences** in written form. I have written these articles for several reasons. Firstly, the act of writing helps me clarify and improve my ideas (Figure 2). As Gregor Hohpe once noted, every sentence I write frees up brain cells to learn new things. 
 
 ![](assets/images/writing.png)
 ***Figure 2:** Writing a book helped me organize ideas, obtain new insights, improve principles and tools, and share the lessons learned.*
@@ -197,9 +199,7 @@ In the third part, I discuss the Guiding Principles of Grounded Architecture, gr
 
 I conclude with a summary and pointers to external resources for those who want to explore more.
 
-The [bookshelf](bookshelf) section shows many other books and resources that have influenced my approach and ideas. 
-
-I invite you to read this book from **beginning to end**, following the progression from data and basic structures to management and organizational topics. However, you can **also browse the text** and start reading whatever interests you. I use many **illustrations** to create easy-to-remember pictures that you can associate with discussed topics, making the book usable across your organization as a **coffee table book**, serving as an inspiration, or sparking discussions.
+The [bookshelf](bookshelf) section shows many other books and resources that have influenced my approach and ideas.
 
 
 ## Stay Connected
