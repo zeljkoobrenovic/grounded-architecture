@@ -2,8 +2,7 @@
 
 # Architects as Superglue {#superglue}
 
-![](assets/images/superglue/superglue.png)
-**IN THIS SECTION, YOU WILL:**  Understand the view on architects as superglue (people who hold architecture, technical details, business needs, and people together across a large organization or complex projects) and get valuable tips on developing "superglue" abilities.
+![IN THIS SECTION, YOU WILL:  Understand the view on architects as superglue (people who hold architecture, technical details, business needs, and people together across a large organization or complex projects) and get valuable tips on developing "superglue" abilities.](assets/images/superglue/superglue.png)
 
 {pagebreak}
 
@@ -28,15 +27,13 @@ The primary value of superglue architects in complex organizations is **aligning
 
 Technology, product, organization, and business functions face specific challenges. Ideally, these structures all change simultaneously and stay in perfect sync. But in practice, these structures change and move at different speeds, leading to **misalignment and tension among them** (Figure 2). For example, we may organize teams using a well-defined domain model (organizational design). However, our IT system is a monolith (technical design). In that case, our teams will have many dependencies and collaborate in a different pattern than the organizational design suggests. On the other hand, if our teams are well-aligned with the technical domain model and implementation (e.g., teams have full ownership of microservices and can deploy them independently), but the product architecture differs from the microservice modularization (e.g., product features are grouped differently than the technical services supporting them), we may need to change dozens of microservices when introducing a relatively simple product change. Similarly, tension occurs when business objectives are misaligned with product or technology objectives (e.g., reducing short-term costs while adding new features and migrating to the public cloud).
 
-![](assets/images/tension.png)
-***Figure 2:** The tensions between technology, product, organization, and business functions.*
+![Figure 2: The tensions between technology, product, organization, and business functions.](assets/images/tension.png)
 
 The main problem with this tension is that it can significantly slow things down due to **miscommunication** or other **misalignments**, lead to costly and **detrimental decisions** due to lack of information, introduce overwhelming and **unnecessary complexity**, and cause critical **missed opportunities**. This is a pressing issue that needs immediate attention. Too frequently, architecture sits on the sidelines, shouting principles and abstract ideals that everyone ignores.
 
 By acting as a superglue, the architecture practice can effectively help reduce tension between technology, product, organization, and business functions, ensuring that critical conversations happen between these units. As Figure 3 illustrates, architecture should not try to be superglue by adding new constructs between these four elements but by bringing them closer together. I sometimes joke that architecture practice is a self-destructive function because by bringing these elements together, you remove the need for an architecture practice. 
 
-![](assets/images/tension-architecture.png)
-***Figure 3:** Architects should be in the middle of reducing tensions between technology, product, organization, and business functions.*
+![Figure 3: Architects should be in the middle of reducing tensions between technology, product, organization, and business functions.](assets/images/tension-architecture.png)
 
 While staying close to technology (the engine room), architects must ensure that technology serves the needs of customers and the business, and that technical architecture is well-aligned with organizational design. At the same time, architects can help ensure that business, product, and organizational designs are well-informed about the state, risks, and opportunities of an organization's technology to avoid creating impractical strategies, setting unrealistic goals, or missing opportunities. More specifically, there are several **key risks** that misalignment brings, and architects need to be aware of them:
 
@@ -109,8 +106,7 @@ The section [Leadership](#leadership) provides more details.
 Architects must have a **minimal "length"** of all of these "legs" to be successful (Figure 5). For instance, having skills and impact without leadership frequently leads to **hitting a glass ceiling**. Such architects plateau at an intermediate level and cannot direct the company to innovative or transformative solutions. Leadership without impact lacks foundation and may signal that you have become an **ivory tower architect** with a weak relation to reality. And having impact and leadership qualities but no skills leads to **impractical decisions** not informed by in-depth knowledge.
 
 In summary, developing architects as "superglue" means fostering a balanced combination of skills, impact, and leadership. Just like a three-legged stool, if one leg is too short, the whole thing topples over—quite possibly spilling your coffee in the process.
-![](assets/images/arch/architect-legs.png)
-***Figure 5:** Architects must have a minimal "length" of all "legs" to be successful.*
+![Figure 5: Architects must have a minimal "length" of all "legs" to be successful.](assets/images/arch/architect-legs.png)
 
  
 ## Questions to Consider
