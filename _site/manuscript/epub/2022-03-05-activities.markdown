@@ -107,7 +107,9 @@ The **decision pyramid** highlights that development teams should make most deci
 
 Distributed decision-making scales well, but it can lead to chaos if entirely uncoordinated. Some decision policies are needed. Inspired by the famous **[Netflix expense policy](https://hbr.org/2014/01/how-netflix-reinvented-hr)**, *"Act in Netflix’s best interests”*, I frequently argued that architecture decision policy could similarly be summarized in six words:
 
-![What I mean by that is that anyone can make architecture decisions, provided that, in addition to their specific requirements, they also think about the impact of their choices on:](assets/images/arch/decision-policy.png)
+![](assets/images/arch/decision-policy.png)
+
+What I mean by that is that **anyone can make architecture decisions**, provided that, in addition to their specific requirements, they also think about the **impact of their choices** on:
 
 * **Overall organizational complexity**: Technology is more manageable by limiting tech diversity, size, and dependencies. Limiting technology choices reduces the attack surface with fewer third-party dependencies and tool ecosystems (build, testing, etc.).
 * **Ease of moving people** between teams (both to get help and help others, get promoted): Do not unnecessarily create exotic islands with few experts in technologies not supported or widely used in the organization. People cannot get help or move across the organization as their expertise may be useless outside the team.
@@ -122,7 +124,7 @@ While it may not always be enough, this simple policy resonates well. It encoura
 
 I have found that the concept of Golden Paths provides an excellent ground to drive alignment and collaboration in architecture activities. Golden Paths is an approach utilized to streamline and unify the development process within a software ecosystem, aiming to tackle fragmentation and foster consistency, inspired by [Spotify's implementation](https://engineering.atspotify.com/2020/08/how-we-use-golden-paths-to-solve-fragmentation-in-our-software-ecosystem/). Golden Paths can be described as "**opinionated and supported**" routes developers can follow to build systems efficiently and effectively. 
 
-![image by https://engineering.atspotify.com/](assets/images/spotify-golden-paths_infrastructure-and-tooling-700x327.png)
+![image by engineering.atspotify.com](assets/images/spotify-golden-paths_infrastructure-and-tooling-700x327.png)
 
 Golden paths provide a solid **foundation for aligning** architecture activities, serving as a common target of work for Guilds and central architectural teams. Rather than being solely knowledge-sharing entities, guilds can be empowered to develop golden paths, serving as an excellent catalyst for more effective community engagement. This approach not only enhances the role of guilds but also increases the adoption of golden paths as they are created collaboratively.
 

@@ -32,7 +32,7 @@ A decision and its outcome are like two different TV show episodes. The outcome 
 
 Suppose we only focus on the outcome, neglecting the rich backstory and the information available at the time of the decision. In that case, we're akin to a film critic who only watches the ending. This can lead to **misjudging people's abilities**, rewarding or penalizing them based on a volatile mix of luck and skill. Therefore, it's crucial to discern whether someone's success stems from their astute decision-making or sheer chance. When evaluating decisions, it's essential not to be overly dazzled by the outcome.
 
-In IT, outcome bias can come in many different forms, typically leading to the reinforcement of poor practices and processes based on the perceived successful outcome of projects:
+In IT, outcome bias can come in many different forms, typically leading to the reinforcement of poor practices and processes based on the perceived successful outcome of projects.
 
 **Example 1: Ignoring Best Practices Due to Success**
 
@@ -48,17 +48,17 @@ In IT, outcome bias can come in many different forms, typically leading to the r
 * A software project is completed and delivered significantly ahead of schedule but with known technical debt and suboptimal code quality. The project is well-received by the client due to its timely delivery.
 * Management praises the team for their speed, ignoring the long-term consequences of the technical debt. This could lead to future projects prioritizing speed over quality, increasing the risk of long-term maintenance issues and potential project failures.
 
-**Example 4: Hiring Decisions Based on Project Success**
-* A software engineer is hired because they were part of a highly successful project at their previous company. The project's success was primarily due to market conditions and team effort rather than the individual's contributions.
-* The hiring decision is heavily influenced by the success of the previous project, potentially overlooking the individual's actual skills and contributions. This could result in hiring someone who may not perform as expected in different circumstances, highlighting the risks of evaluating individual capabilities based on outcomes rather than detailed assessment.
-
-**Example 5: Skipping Code Reviews**
+**Example 4: Skipping Code Reviews**
 * A development team decides to skip code reviews to save time, and the software is delivered without any major bugs or issues.
 * The team concludes that code reviews are not essential, leading to the institutionalization of skipping this critical quality control step. Future projects might suffer from hidden bugs and poor code quality, which could have been caught during code reviews.
 
-**Example 6: Misinterpreting Customer Feedback**
+**Example 5: Misinterpreting Customer Feedback**
 * A feature is implemented based on limited customer feedback and is launched successfully. The positive reception leads the team to assume their approach to gathering and acting on feedback is effective.
 * The team might conclude that extensive user research is unnecessary, believing that limited feedback is sufficient to guide development. This could result in future features missing critical insights from a broader user base, potentially leading to less successful outcomes.
+
+**Example 6: Hiring Decisions Based on Project Success**
+* A software engineer is hired because they were part of a highly successful project at their previous company. The project's success was primarily due to market conditions and team effort rather than the individual's contributions.
+* The hiring decision is heavily influenced by the success of the previous project, potentially overlooking the individual's actual skills and contributions. This could result in hiring someone who may not perform as expected in different circumstances, highlighting the risks of evaluating individual capabilities based on outcomes rather than detailed assessment.
 
 It's essential for teams to critically evaluate their methodologies and ensure that success is attributed to sound practices rather than favorable outcomes alone.
 
@@ -73,35 +73,35 @@ If you don't jot down this process, it's like trying to remember a dream—you'l
 ![](assets/images/arch/iStock-1394993248.jpg)
 ^image by istock^
 
-Hindsight bias in IT can lead to an oversimplified understanding of past events and decisions, creating an illusion of predictability. It is crucial to recognize the context and constraints under which decisions were made to learn accurately from past experiences and improve future practices:
+Hindsight bias in IT can lead to an oversimplified understanding of past events and decisions, creating an illusion of predictability. It is crucial to recognize the context and constraints under which decisions were made to learn accurately from past experiences and improve future practices.
 
-**Example 1: Post-Mortem Analysis**
-* A software project fails due to unexpected integration issues with third-party services.
-* During the post-mortem analysis, team members and management claimed that the integration issues were obvious and should have been anticipated. They overlooked that the integration appeared straightforward at the time of decision-making, and the issues were not foreseeable with the information available.
+**Example 1: Technology Stack Decision**
+* A particular technology stack is chosen for a project, but it later turns out to be ill-suited, causing significant rework.
+* After the problems become apparent, developers and stakeholders might claim that it was clear from the beginning that this technology stack was not a good choice. They might forget that at the time of selection, the decision was made based on the best available information and the perceived advantages of the stack.
 
 **Example 2: Bug Discovery**
 * A critical bug is discovered in the production environment that causes significant downtime.
 * After the bug is found, developers and stakeholders assert that the bug was easy to spot and should have been caught during the testing phase. This perspective disregards the complexity and number of potential issues that testers were dealing with and that the bug was not apparent among the other potential problems at the time.
 
-**Example 3: Feature Failure**
-* A new feature is released but fails to gain user adoption, which is considered a failure.
-* Team members and management might claim that they always had doubts about the feature's success and that it was destined to fail. This can lead to the erroneous belief that the failure was evident from the start, even if the decision to proceed with the feature was based on thorough research and positive initial feedback.
-
-**Example 4: Performance Issues**
+**Example 3: Performance Issues**
 * A software system experiences performance degradation under high load conditions that were not tested.
 * After the performance issues arise, team members and stakeholders might say that it was clear the system would not handle high load and that stress testing should have been prioritized. This perspective ignores that other pressing issues and constraints influenced the original decision-making process.
 
-**Example 5: Security Breach**
+**Example 4: Post-Mortem Analysis**
+* A software project fails due to unexpected integration issues with third-party services.
+* During the post-mortem analysis, team members and management claimed that the integration issues were obvious and should have been anticipated. They overlooked that the integration appeared straightforward at the time of decision-making, and the issues were not foreseeable with the information available.
+
+**Example 5: Feature Failure**
+* A new feature is released but fails to gain user adoption, which is considered a failure.
+* Team members and management might claim that they always had doubts about the feature's success and that it was destined to fail. This can lead to the erroneous belief that the failure was evident from the start, even if the decision to proceed with the feature was based on thorough research and positive initial feedback.
+
+**Example 6: Security Breach**
 * A security vulnerability is exploited in a production system, leading to a data breach.
 * Post-breach, it is often stated that the vulnerability was obvious and should have been addressed sooner. This belief neglects the context in which security measures were evaluated and the myriad of potential vulnerabilities that needed to be managed simultaneously.
 
-**Example 6: Project Timeline Overruns**
+**Example 7: Project Timeline Overruns**
 * A software project exceeds its deadline due to unforeseen technical challenges.
 * Once the challenges are known, team members might argue that the delays were predictable and that the original timeline was overly optimistic. This view ignores the uncertainty and the incomplete information available when the original timeline was set.
-
-**Example 7: Technology Stack Decision**
-* A particular technology stack is chosen for a project, but it later turns out to be ill-suited, causing significant rework.
-* After the problems become apparent, developers and stakeholders might claim that it was clear from the beginning that this technology stack was not a good choice. They might forget that at the time of selection, the decision was made based on the best available information and the perceived advantages of the stack.
 
 By acknowledging the role of hindsight bias, teams can foster a more realistic and fair evaluation of past projects and decisions.
 
@@ -126,13 +126,13 @@ Confirmation bias in IT can lead to suboptimal decisions and hinder the effectiv
 * A development team prefers using a specific development framework because of their past experiences with it.
 * When choosing a framework for a new project, team members only seek out positive reviews and success stories about their preferred framework, ignoring or downplaying any negative feedback or alternative frameworks that might be better suited for the project's requirements.
 
-**Example 2: Debugging**
+**Example 2: Technology Adoption**
+* A company decides to adopt a new technology stack based on industry trends and some initial positive experiences.
+* The team focuses on success stories and favorable benchmarks supporting the decision while disregarding case studies or reports highlighting challenges and failures associated with the new technology. This can lead to underestimating the risks and difficulties of the adoption process.
+
+**Example 3: Debugging**
 * A developer believes that a particular module is the source of a bug.
 * The developer focuses exclusively on the suspected module, interpreting any evidence to support this belief, and may overlook or disregard indications that the bug originates from another part of the code. This can lead to extended debugging time and potentially missing the actual source of the issue.
-
-**Example 3: Code Reviews**
-* A senior developer has a high opinion of a specific junior developer's skills.
-* During code reviews, the senior developer may be more inclined to approve the junior developer's code with minimal scrutiny, interpreting any ambiguities or minor issues as acceptable or easily fixable, while being more critical of other developers' code.
 
 **Example 4: Performance Testing**
 * A team is confident that their application will perform well under high load due to recent optimizations.
@@ -142,13 +142,13 @@ Confirmation bias in IT can lead to suboptimal decisions and hinder the effectiv
 * A project manager strongly believes the team can meet an aggressive deadline.
 * The project manager seeks out and emphasizes information and past examples where similar deadlines were met while ignoring or discounting instances where similar projects encountered delays. This can lead to unrealistic project timelines and potential burnout.
 
-**Example 6: User Feedback**
+**Example 6: Code Reviews**
+* A senior developer has a high opinion of a specific junior developer's skills.
+* During code reviews, the senior developer may be more inclined to approve the junior developer's code with minimal scrutiny, interpreting any ambiguities or minor issues as acceptable or easily fixable, while being more critical of other developers' code.
+
+**Example 7: User Feedback**
 * The team has a preconceived notion that users will love a new feature they developed.
 * When gathering user feedback, they may give more weight to positive comments and downplay or dismiss negative feedback. They might also ask leading questions likely to elicit positive responses, thus reinforcing their belief that the feature is well-received.
-
-**Example 7: Technology Adoption**
-* A company decides to adopt a new technology stack based on industry trends and some initial positive experiences.
-* The team focuses on success stories and favorable benchmarks supporting the decision while disregarding case studies or reports highlighting challenges and failures associated with the new technology. This can lead to underestimating the risks and difficulties of the adoption process.
 
 To mitigate the impact of confirmation bias, teams should actively seek out and consider disconfirming evidence, adopt a critical thinking approach, and encourage diverse perspectives. By being aware of this bias, teams can make more balanced and informed decisions, ultimately leading to better software outcomes.
 

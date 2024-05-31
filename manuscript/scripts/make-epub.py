@@ -25,7 +25,7 @@ def copy_post(post):
                     merged_line = '![' + line.replace('*', '').replace('^', '').replace('\n', '') + image_line[2:]
                     lines.append(merged_line)
                     skip_line = False
-            elif line.startswith('![]('):
+            elif line.startswith('![](') and not 'decision-policy.png' in line:
                 image_line = line
                 skip_line = True
             else:
