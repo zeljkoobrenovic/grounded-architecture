@@ -28,7 +28,7 @@ The *Data Foundation* is **a system of tools and resources** that enables archit
 
 The *People Foundation* is **a network of people** doing architecture across the organization. This Pillar is crucial to ensure that the architecture function has any **tangible impact**. The [People Foundation section](#people) provides more details.
 
-Lastly, the *Architecture Activities Platform* defines **a set of processes and agreements** enabling architects to do everything that architecture typically does, leveraging data and People Foundations to create a data-informed, organization-wide impact. The [Architecture Activities Platform section](#activities-platform) provides more details on the Architecture Activities Platform.
+Lastly, the *Architecture Activities Platform* defines **a set of processes and agreements** enabling architects to do everything that architecture typically does, leveraging data and People Foundations to create a data-informed, organization-wide impact. The [Architecture Activities Platform section](#activities) provides more details on the Architecture Activities Platform.
 
 The Architecture Activities Platform is **only valid with the healthy Data and People Foundations**. Without data and people connections, an Architecture Activities Platform becomes an ivory tower institution, generating opinion-based decisions disconnected from reality.
 

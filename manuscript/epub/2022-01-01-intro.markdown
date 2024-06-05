@@ -26,7 +26,7 @@ This book breaks down Grounded Architecture into two main parts:
 Figure 1 shows the structure of the Grounded Architecture consisting of three elements:
 * [Data Foundation](#data),
 * [People Foundation](#people),
-* [Architecture Activities Platform](#activities-platform).
+* [Architecture Activities Platform](#activities).
 
 ![Figure 1: The structure of Grounded Architecture.](assets/images/model.png)
 
@@ -34,7 +34,7 @@ The *[Data Foundation](#data)* keeps your architecture decisions based on up-to-
 
 The *[People Foundation](#people)* represents a strong network of people working on architecture across your organization, ensuring your efforts make a difference.
 
-Lastly, the *[Architecture Activities Platform](#activities-platform)* defines a collection of processes and agreements that lets architects do their thing, leveraging data and people to create a powerful, organization-wide impact.
+Lastly, the *[Architecture Activities Platform](#activities)* defines a collection of processes and agreements that lets architects do their thing, leveraging data and people to create a powerful, organization-wide impact.
 
 As part of my Grounded Architecture quest, I've devised several guiding principles and tools to help you sprinkle Grounded Architecture magic in your practice. These resources are grouped into two parts and are sure to make your journey both insightful and entertaining:
 
