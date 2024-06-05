@@ -2,7 +2,8 @@
 
 # Summary {#summary}
 
-![image by gerd altmann from pixabay](assets/images/arch/road-g04cf0c3f8_1920.jpg)
+![](assets/images/arch/road-g04cf0c3f8_1920.jpg)
+^image by gerd altmann from pixabay^
 
 **IN THIS SECTION, YOU WILL:** Look back at the content in this book.
 
@@ -22,15 +23,16 @@ This book introduced Grounded Architecture as an IT architecture practice with t
 Figure 1 shows the structure of the Grounded Architecture consisting of three elements:
 * [Data Foundation](#data),
 * [People Foundation](#people),
-* [Architecture Activities Platform](#activities-platform).
+* [Architecture Activities Platform](#activities).
 
-![Figure 1: The structure of Grounded Architecture.](assets/images/model.png)
+![](assets/images/model.png)
+***Figure 1:** The structure of Grounded Architecture.*
 
 The *[Data Foundation](#data)* ensures that architects can make data-informed decisions based on a real-time and complete overview of the organization's technology landscape.
 
 The *[People Foundation](#people)* is another essential element of Grounded Architecture. A strong network of people doing architecture across the organization is crucial to ensure that architecture function has any tangible impact.
 
-Lastly, the *[Architecture Activities Platform](#activities-platform)*  defines a set of processes and agreements enabling architects to do everything architecture typically does, leveraging data and People Foundations to create a data-informed, organization-wide impact.
+Lastly, the *[Architecture Activities Platform](#activities)*  defines a set of processes and agreements enabling architects to do everything architecture typically does, leveraging data and People Foundations to create a data-informed, organization-wide impact.
 
 As a part of my work on Grounded Architecture, I also provided several guiding principles and tools that I found helpful to introduce the ideas of Grounded Architecture in practice. I grouped these resources into two parts:
 

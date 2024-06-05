@@ -86,7 +86,7 @@ In IT architecture, examples of nudging include:
 
 Nudges can frequently lead to better alignment and more harmonization without the negative consequences of mandates, bans, or taxation.
 
-Grounded Architecture is well aligned with ideas of nudging. I designed many [Data Foundation](data) tools to **highlight areas and issues** we wanted (nudged) people to improve. The [People Foundation](people) can create mechanisms for sharing experiences, promoting **positive examples**, and capturing lessons learned to help people make better, more informed decisions. In the [Architecture Activities Platform](activities-platform), I use the operating model that stimulates people to make decisions autonomously but **nudges them to stay well-aligned** and connected to the organizational strategic direction.
+Grounded Architecture is well aligned with ideas of nudging. I designed many [Data Foundation](data) tools to **highlight areas and issues** we wanted (nudged) people to improve. The [People Foundation](people) can create mechanisms for sharing experiences, promoting **positive examples**, and capturing lessons learned to help people make better, more informed decisions. In the [Architecture Activities Platform](activities), I use the operating model that stimulates people to make decisions autonomously but **nudges them to stay well-aligned** and connected to the organizational strategic direction.
 
 
 <br>
