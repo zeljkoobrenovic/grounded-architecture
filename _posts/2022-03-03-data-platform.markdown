@@ -133,6 +133,51 @@ So, next time you're knee-deep in architectural plans, don't forget to call the 
 
 
 <br>
+### Example 4: Data-Driven Capability Map
+
+[Capability models](https://pubs.opengroup.org/togaf-standard/business-architecture/business-capabilities.html) are frequently associated with Enterprise Architecture, providing a structured approach to organizing and managing an organization's capabilities. Traditionally, these capability maps are maintained manually, which can be time-consuming and prone to inaccuracies. A data-driven version of the capability map enhances this approach by integrating real-time data sources, offering a more dynamic and accurate representation of capabilities. A data-driven version of the capability map enhances this approach by integrating real-time data sources, making the capability map **dynamic, alive**, and significantly more useful.
+
+I have created several versions of data-driven capability maps, where a capability map includes capability data cards that consolidate various data types relevant to each capability. We then automatically generated sites and visuals from these data for self-service use within the organization. These cards provide a comprehensive view of the current state and performance of each capability, integrating multiple data sources:
+
+1. **Documentation Data:**
+   - **Links to Key Documents:** Direct access to important documents related to the capability.
+   - **Automated Summaries:** Using generative AI to automatically summarize key documents, making it easier to quickly understand the essential points and status.
+
+2. **Technical Implementation Evidence:**
+   Source Code Repositories:** These repositories link to and analyze all source code related to the capability, providing insight into the technical implementation.
+   - **Cloud Accounts and Billing Reports:** Detailed analyses of cloud accounts, including costs, services used, and geographical distribution (regions).
+   - **Infrastructure Costs and Analyses:** Detailed breakdown of the capability's associated infrastructure costs.
+   - **Legacy Assets List:** This is an Inventory of legacy systems and components that are part of or impact the capability.
+   - **Technical Debt Inventory:** Identification and assessment of technical debt associated with the capability.
+
+3. **Planning Evidence:**
+   - **Detailed Planning Data:** Information from planning systems like Jira, including detailed task breakdowns and timelines.
+   - **Effort Estimates:** Projections of the efforts required to develop or maintain the capability.
+
+4. **Execution Data:**
+   - **Product and Business Evidence:** 
+     - **Documentation of Demos:** Links to slides, videos, and other demo materials.
+     - **Product Analytics Data:** Metrics such as user engagement (vibrancy), conversion rates, and other relevant analytics.
+   - **HR Evidence:**
+     - **People and Teams:** Information about the personnel and teams working on the capability.
+     - **Time Tracking Data:** Detailed reports on the time spent on the capability by different team members.
+
+Real-time data integration allows for creating dynamic and aggregated views across capabilities. These views can be grouped by criteria, such as domain programs or themes, providing a broader perspective on how capabilities interrelate and contribute to strategic objectives. Examples include:
+
+- **Domain Programs:** Grouping capabilities by specific business domains (e.g., finance, marketing, operations) to understand domain-specific strengths and weaknesses.
+- **Themes:** Aggregating capabilities around strategic themes or initiatives (e.g., digital transformation, customer experience improvement) to track progress and resource allocation.
+
+Key benefits of a data-driven capability map include:
+
+1. **Enhanced Decision-Making:** Real-time data provides a current and accurate picture of capabilities, enabling better-informed strategic decisions.
+2. **Increased Transparency:** Detailed evidence and summaries help us understand the status and needs of each capability.
+3. **Improved Efficiency:** Automated data aggregation and reporting reduce manual effort and speed up the analysis process.
+4. **Strategic Alignment:** Aggregated views help ensure that capabilities are aligned with broader organizational goals and initiatives.
+5. **Resource Optimization:** Detailed cost and effort data help optimize resource allocation and manage budgets effectively.
+
+By leveraging a data-driven capability map, organizations can achieve a more dynamic, transparent, and efficient approach to managing their capabilities, leading to improved strategic outcomes and operational performance.
+
+<br>
 ## Requirements For A Data Foundation
 
 A Data Foundation should be a central place with **authoritative, relevant, and curated data** about the organizational technology landscape. Technically, you can implement Data Foundation tools like those discussed in the previous section, using simple tools like Google Drive, with documents organized in folders or as an internal website. I recommend investing some effort in creating better infrastructure and user experience, as it can enable more people to access and benefit from data. A solid setup will make it easier for more people to access and benefit from the data, turning it into a real asset rather than a digital junk drawer.

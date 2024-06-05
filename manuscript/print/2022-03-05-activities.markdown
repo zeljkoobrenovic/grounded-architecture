@@ -1,6 +1,6 @@
 
 
-# Architecture Activities Platform {#activities-platform}
+# Architecture Activities Platform {#activities}
 
 ![](assets/images/arch/parliament-366199_1920.jpg)
 ^image by anja from pixabay^
@@ -65,7 +65,7 @@ These activities collectively form an Architecture Activities Platform, enabling
 
 ## Guiding Principles for Architectural Excellence: Policies, Autonomy, and Engagement
 
-In this section, I address different guiding principles of architectural work. The operating model emphasizes a collaborative and supportive approach. Architects empower development teams to make most decisions while ensuring strategic alignment and minimal compatibility. Architects engage early in processes to avoid bureaucratic delays, focus on constant motion between daily support and strategic tasks, and use data to inform decisions. The distributed decision-making model promotes team autonomy complemented by high transparency and alignment, guided by principles that balance autonomy with global consistency. The "Golden Paths" concept enhances uniformity and efficiency, while clear "rules of engagement" set expectations for team capacities, strategic awareness, and participation, ensuring adequate architectural support and alignment.
+In this section, I address different guiding principles of architectural work. The operating model emphasizes a collaborative and supportive approach. Architects empower development teams to make most decisions while ensuring strategic alignment and minimal compatibility. Architects engage early in processes to avoid bureaucratic delays, focus on constant motion between daily support and strategic tasks, and use data to inform decisions. The distributed decision-making model promotes team autonomy complemented by high transparency and alignment, guided by principles that balance autonomy with global consistency. The "Golden Paths" concept enhances uniformity and efficiency.
 
 ### High-Level Operating Model
 
@@ -135,20 +135,20 @@ Golden paths provide a solid **foundation for aligning** architecture activities
 
 Golden Paths can be crucial to an organization's IT development landscape as a deliberate and strategic effort to promote uniformity, efficiency, and reliability. By advocating for a set of preferred technologies and practices that are well-supported, secure, and aligned with the organization's broader objectives, Golden Paths can guide developers to build less fragmented, and faster-to-develop software. Ultimately, this leads to higher-quality and more maintainable IT systems.
 
-### Rules of Engagement
+## Setting Boundaries
 
-One of the amusing challenges with setting up an architecture function in an organization is that everyone seems to have a different idea of what "architecture" should entail. It's like asking people to describe a unicorn: some imagine a mythical, majestic creature, while others picture a sparkly horse with a horn that grants wishes. Good architects can do many things, but this versatility might not always be the most effective way to support the organization.
+One of the amusing challenges with setting up an architecture function in an organization is that everyone seems to have a different idea of what "architecture" should entail. It's like asking people to describe a unicorn: some imagine a mythical, majestic creature, while others picture a sparkly horse with a horn that grants wishes. Good architects can do many things, but this versatility might not always be the most effective way to support the organization. We need to **set boundaries** so that we can focus on what's important rather than becoming frazzled by what's not.
 
 ![](assets/images/unicorn.png)
 ^image by gordon johnson from pixabay^
 
-To be effective, I've found it crucial to establish and clearly communicate some "rules of engagement" (ROE). Think of ROE as the office playbook for how architects should operate. In a corporate setting, ROE are the principles that guide how employees and departments interact with each other, clients, and stakeholders. This includes communication protocols, decision-making processes, and conflict-resolution mechanisms. Essentially, ROE sets the stage for what's expected and what's not, ensuring everyone plays nicely and fairly.
+To be effective, I've found it crucial to establish and clearly communicate some "**rules of engagement**" (ROE). Think of ROE as the office playbook for how architects should operate. In a corporate setting, ROE are the principles that guide how employees and departments interact with each other, clients, and stakeholders. This includes communication protocols, decision-making processes, and conflict-resolution mechanisms. Essentially, ROE sets the stage for what's expected and what's not, ensuring everyone plays nicely and fairly.
 
 While you may need to tailor these rules to fit your organization, I found it helpful to set expectations for what the team should be able to do to qualify for the architecture support. Here's a handy list of expectations for teams seeking architecture support. This also helps clarify what architecture practice isn't supposed to do:
 
 1. **Organizational Awareness and Connections:** Teams should know all relevant stakeholders and actively engage with them. This includes product, development, and business stakeholders. Planning should be collaborative across all affected teams, with active working relationships with global functions like QA, DevOps, or Security.
 
-2. **Enough Capacity and Skills:** Teams should have adequate development capacity with the right skills and seniority to innovate and maintain their products.
+2. **Enough Capacity and Skills:** Teams should have adequate development capacity with the right skills and seniority to innovate and maintain their products. 
 
 3. **Strategic Awareness:** Teams should understand the organization’s strategic goals, technologies, and other relevant strategies, and know their role within these frameworks.
 
