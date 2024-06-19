@@ -106,7 +106,7 @@ To increase the quantity of power, the Six Simple Rules approach recommends the 
 
 ### The Role of Architecture Practice
 
-Architecture practice can support increasing power quantity with the **[operating model](#activities-platform)** that promotes distributing decision-making: 
+Architecture practice can support increasing power quantity with the **[operating model](#activities)** that promotes distributing decision-making: 
 * Via the [People Foundation](#people) you can increase the quantity of the **decision-making power** and keep architectural decision-making **distributed across the organization** and embedded in the development teams. Development teams traditionally have the best insights and most information relevant for making a decision. 
 * Additionally, the **[Data Foundation](#data)**, accessible to all interested people in the organization, can give them **data in insights that can increase their power in daily work**.
 
