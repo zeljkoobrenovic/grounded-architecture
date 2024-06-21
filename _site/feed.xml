@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-06-19T08:48:51+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: Redefining IT Architecture Practice</title><subtitle></subtitle><entry><title type="html">High Performing Technology Organizations</title><link href="http://localhost:4000/concepts-org" rel="alternate" type="text/html" title="High Performing Technology Organizations" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/appendix-organization</id><content type="html" xml:base="http://localhost:4000/concepts-org"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/car-engine-1701029_1280.jpg" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-06-21T15:35:17+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: Redefining IT Architecture Practice</title><subtitle></subtitle><entry><title type="html">Building Data Foundation Website: Lean Design Patterns and Techniques</title><link href="http://localhost:4000/data-website" rel="alternate" type="text/html" title="Building Data Foundation Website: Lean Design Patterns and Techniques" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/appendix-data-website-techniques</id><content type="html" xml:base="http://localhost:4000/data-website"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/education-6241609_1280.png" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by <a href="https://pixabay.com/users/paulbr75-2938186/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1701029">Paul Brennan</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1701029">Pixabay</a>
+Image by <a href="https://pixabay.com/users/jozefm84-10215106/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=6241609">Jozef Mikulcik</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=6241609">Pixabay</a>
 </div>
 <style>
     h1 {
@@ -9,73 +9,142 @@ Image by <a href="https://pixabay.com/users/paulbr75-2938186/?utm_source=link-at
 </style>
 
 <blockquote>
-  <p><strong>IN THIS SECTION, YOU WILL:</strong> Get a summary of the characteristics of high-performing technology organizations.</p>
+  <p><strong>IN THIS SECTION, YOU WILL:</strong> Get a few practical tips on how to build lead architecture tools (e.g. for creating the data foundation), using simple, widely available tools.</p>
 </blockquote>
 
-<h2 id="overview">Overview</h2>
+<p><br />
+Ever felt overwhelmed by the multitude of specialized tools available for creating architectural artifacts? Fear not! We’re here to show you that simplicity is often the key to brilliance. Imagine crafting high-quality documentation and stunning visualizations without the need for complex software or extensive training. Not only is it possible, but it’s also incredibly efficient.</p>
 
-<p>Characteristics of High Performing Organizations from the <a href="https://www.oreilly.com/library/view/accelerate/9781457191435/">Accelerate book</a> by Nicole Forsgren, Jez Humble, and Gene Kim is an excellent source of empirical knowledge about high-performing IT organizations.</p>
+<p>In this guide, we’ll explore the power of simple, lean tools that are widely available and easy to use. You don’t need to be a tech wizard to create impressive Data Foundation dashboards and architectural documents. Whether you’re a seasoned architect or a newbie, you’ll find these techniques refreshingly straightforward and immensely effective.</p>
 
-<p>I summarized several critical insights from this book:</p>
+<p>Here are two examples to illustrate the power of simplicity:</p>
 
 <ul>
-  <li>Overview of <strong>four key metrics</strong>, describing metrics that provide suitable measures of organization performance.</li>
-  <li>Overview of critical <strong>practices of high-performing technology organizations</strong> grouped into the following categories: Continuous Delivery, Architecture, Product and Process,  Lean Management and Monitoring Capabilities, Culture</li>
+  <li>I’ve developed a number of plain <a href="https://zeljkoobrenovic.github.io/grounded-architecture-dashboard-examples/apps/docs/index.html">HTML/CSS/DOM templates</a> (with <a href="https://github.com/zeljkoobrenovic/grounded-architecture-dashboard-examples">open-source code</a>) that I leverage in my daily work, and you can use yourself.</li>
+  <li><a href="https://sokrates.dev">Sokrates.dev</a>, a tool I developed, generates all reports in plain old HTML without any special libraries. Check out the example of the Apache Foundation <a href="https://d3axxy9bcycpv7.cloudfront.net/asf/_sokrates_landscape/index.html">source code landscape</a>.</li>
 </ul>
 
-<h2 id="four-key-metrics">Four Key Metrics</h2>
+<p>These documents work on any browser, can be hosted on any simple HTTP server, and can be opened directly on any laptop or PC. They are also easy to maintain since no complex frameworks are used.</p>
+
+<p>So, grab your digital toolkit and join us on this exciting journey. We’ll dive into the world of plain old HTML, CSS, and the DOM, harnessing the power of everyday tools to create extraordinary results. Get ready to transform your architectural documentation process and unleash your creativity like never before. Let’s embark on this adventure together and discover the magic of simplicity!</p>
+
+<p><br /></p>
+<h2 id="implementation-principles">Implementation Principles</h2>
+
+<p>When setting out on any architectural journey, it’s vital to have a clear set of principles to guide you. Think of these principles as your trusty map and compass, ensuring you navigate your way through the architectural landscape efficiently and effectively. Here are the key principles that will keep you on track:</p>
+
 <ul>
-  <li><strong>Lead time for changes:</strong> Elite performers have a lead time for changes of less than 1 hour (from code committed to code successfully running in production).</li>
-  <li><strong>Deployment frequency:</strong> Elite performers have a deployment frequency of multiple times daily.</li>
-  <li><strong>Time to restore service:</strong> Elite performers have a mean time to recover (MTTR) of less than 1 hour.</li>
-  <li><strong>Change failure rate:</strong> Elite performers have a 0-15% change failure rate.</li>
+  <li><strong>Leverage Existing Infrastructure</strong>: Why reinvent the wheel when you can turbocharge what you already have? Utilizing existing infrastructure saves time and resources.</li>
+  <li><strong>Maintainable by a Small Architecture Team</strong>: Keep it simple! A lean team means less overhead and faster decision-making.</li>
+  <li><strong>Broad Access Inside Organization</strong>: Everyone should have a ticket to the show. Broad access ensures that all stakeholders can engage and contribute.</li>
 </ul>
 
-<h2 id="practices">Practices</h2>
+<p><br /></p>
+<h2 id="lean-implementation-techniques">Lean Implementation Techniques</h2>
 
-<h3 id="continuous-delivery">Continuous Delivery</h3>
+<p>Here are a few techniques I leverage in my work.</p>
+
+<h3 id="visualization-with-plain-old-htmlcssdom">Visualization With Plain Old HTML/CSS/DOM</h3>
+
+<p>Who says you need a high-tech toolbox to create dazzling visuals? Sometimes, sticking with the basics can yield the most elegant and effective results. Embrace the simplicity and power of plain old HTML, CSS, and the DOM.</p>
+
+<p>Earlier, I always used heavyweight visualization and UI frameworks to build interactive tools. But nowadays, I leave the heavy frameworks at the door. We’re going to show you how to create beautiful, functional interfaces with just the basics. No React, Angular, or Vue here – just pure, unadulterated HTML and CSS magic.</p>
+
+<p><img src="assets/images/data_site_simple_html.png" alt="" />
+<em><strong>Figure 1:</strong> Simple generated HTML visual of source code analysis results.</em></p>
+
+<p><br /></p>
+<h3 id="embedding-json-in-html-documents">Embedding JSON in HTML Documents</h3>
+
+<p>Most of the documents I create are data-driven. This means that visuals are generated using templates based on curated data. For my tools, I primarily export data in JSON format and embed it into a copy of an HTML template. JSON is essentially the lifeblood of these data-driven applications. By embedding JSON directly into HTML documents, I can dynamically integrate and display data. This method not only makes the documents more portable but also ensures they can be easily opened and viewed on various devices, including laptops.</p>
+
+<h3 id="simple-proven-html-based-2d--3d-visuals">Simple Proven HTML-Based 2D &amp; 3D Visuals</h3>
+
+<p>Let’s talk visuals. You don’t need cutting-edge tools to create stunning graphics. Here are some simple, proven methods to make your data pop:</p>
+
 <ul>
-  <li><strong>Use version control for all production artifacts:</strong> For all production artifacts, including application code, application configurations, system configurations, and scripts for automating the build and configuration of the environment.</li>
-  <li><strong>Automate your deployment process:</strong> The degree to which deployments are fully automated and do not require manual intervention.</li>
-  <li><strong>Implement continuous integration:</strong> Code is regularly checked in, and each check-in triggers a set of quick tests to discover serious regressions, which developers fix immediately.</li>
-  <li><strong>Use trunk-based development methods:</strong> Fewer than three active branches; branches and forks having very short lifetimes (e.g., less than a day); teams rarely or never having “code lock” periods.</li>
-  <li><strong>Implement test automation:</strong> Software tests are run automatically (not manually) continuously through the development process.</li>
-  <li><strong>Support test data management:</strong> Test data requires careful maintenance, and test data management is becoming an increasingly important part of automated testing.</li>
-  <li><strong>Shift left on security:</strong> Integrating security into the design and testing phases of the software development process is vital to driving IT performance.</li>
-  <li><strong>Implement continuous delivery (CD):</strong> Software is in a deployable state throughout its lifecycle, and the team prioritizes keeping the software in a deployable state over working on new features.</li>
+  <li><strong>Bar Charts</strong>: Classic and effective, perfect for showing comparisons.</li>
+  <li><strong>Graphviz</strong>: Ideal for creating complex graphs and diagrams with ease.</li>
+  <li><strong>3D Node Graph</strong>: Add an extra dimension to your data visualization.</li>
+  <li><strong>Bubble Chart</strong>: Perfect for showing relationships between data points in a visually engaging way.</li>
+  <li><strong>Bubble Zoomable Chart / Sunburst</strong>: Great for exploring hierarchical data with interactive zoom.</li>
+  <li><strong>Treemap</strong>: Perfect for visualizing nested data structures in a compact form.</li>
 </ul>
 
-<h3 id="architecture">Architecture</h3>
-<ul>
-  <li><strong>Use a loosely coupled architecture:</strong> The extent to which a team can test and deploy their applications on demand without requiring orchestration with other services.</li>
-  <li><strong>Architect for empowered teams:</strong> Teams that can choose which tools to use, do better, and, in turn, drive better software development and delivery performance.</li>
-</ul>
+<h3 id="icon-libraries">Icon Libraries</h3>
 
-<h3 id="product-and-process">Product and Process</h3>
-<ul>
-  <li><strong>Gather and implement customer feedback:</strong> Actively and regularly seek customer feedback and incorporate this feedback into the design of products.</li>
-  <li><strong>Make the flow of work visible through the value stream:</strong> Teams should have a good understanding of and visibility into the flow from the business to customers, including the status of products and features.</li>
-  <li><strong>Working in small batches:</strong> Teams should slice work into small pieces that can be completed in a week or less.</li>
-  <li><strong>Foster and enable team experimentation:</strong> Team experimentation is the ability of developers to try out new ideas and create and update specifications during the development process without requiring approval from outside of the team, which allows them to innovate quickly and create value.</li>
-</ul>
+<p>Icons are the unsung heroes of data visualization. They add clarity, visual appeal, and help communicate concepts quickly. Explore websites like thenounproject.com for a treasure trove of icons that can enhance your visualizations.</p>
 
-<h3 id="lean-management-and-monitoring-capabilities">Lean Management and Monitoring Capabilities</h3>
-<ul>
-  <li><strong>Have a lightweight change approval process:</strong> A lightweight change approval process based on peer review (pair programming or intrateam code review) produces superior IT performance than using external change approval boards (CABs).</li>
-  <li><strong>Monitor across applications and infrastructure to inform business decisions:</strong> Use data from application and infrastructure monitoring tools to take action and make business decisions. This monitoring goes beyond paging people when things go wrong.</li>
-  <li><strong>Check system health proactively:</strong> Monitor system health using threshold and rate-of-change warnings to enable teams to detect and mitigate problems preemptively.</li>
-  <li><strong>Improve process and manage work with work-in-progress (WIP) limits:</strong> Using work-in-progress limits to manage work flow is well known in the Lean community. When used effectively, this drives process improvement, increases throughput and makes constraints visible in the system.</li>
-  <li><strong>Visualize work to monitor quality and communicate throughout the team:</strong> Visual displays, such as dashboards or internal websites, used to monitor quality and work in progress have contributed to software delivery performance.</li>
-</ul>
+<p><img src="assets/images/data_site_icons.png" alt="" />
+<strong>*Figure 2:</strong> A screenshot from thenounproject.com.</p>
 
-<h3 id="culture">Culture</h3>
-<ul>
-  <li><strong>Support a generative culture (as outlined by Westrum):</strong> Hallmarks of this measure include good information sharing, high cooperation and trust, bridging between teams, and conscious inquiry.</li>
-  <li><strong>Encourage and support learning:</strong> Is learning, in your culture, considered essential for continued progress? Is learning thought of as a cost or an investment?</li>
-  <li><strong>Support and facilitate collaboration among teams:</strong> Reflects how well traditionally siloed teams interact in development, operations, and information security.</li>
-  <li><strong>Provide resources and tools that make work meaningful:</strong> This measure of job satisfaction is about doing challenging and meaningful work and being empowered to exercise your skills and judgment.</li>
-  <li><strong>Support or embody transformational leadership:</strong> Compromised of five factors: vision, intellectual stimulation, inspirational communication, supportive leadership, and personal recognition.</li>
-</ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[A summary of characteristics of high-performing technology organizations.]]></summary></entry><entry><title type="html">Context: Fast-Moving Global Organizations</title><link href="http://localhost:4000/context" rel="alternate" type="text/html" title="Context: Fast-Moving Global Organizations" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/context</id><content type="html" xml:base="http://localhost:4000/context"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/roller-coaster-3605743_1920.jpg" /></p>
+<p><br /></p>
+<h2 id="version-controlled-lean-documents">Version Controlled Lean Documents</h2>
+
+<p>All generated documents are designed to be small, lean, and capable of being version controlled along with the data used to generate them.</p>
+
+<h3 id="small-and-lean-documents">Small and Lean Documents</h3>
+
+<p>The documents are compact in size, ensuring they do not consume excessive storage space, making them suitable for large projects. They are efficient, containing only essential information without unnecessary bloat, which makes them easy to read, understand, and manage.</p>
+
+<h3 id="version-controlled">Version Controlled</h3>
+
+<p>These documents are managed using a version control system (VCS) like Git. This system tracks changes over time and allows users to revert to previous versions if needed. It also enables multiple users to work on the same documents simultaneously, providing a clear history of changes, which improves collaboration and reduces conflicting edits.</p>
+
+<h3 id="together-with-data">Together with Data</h3>
+
+<p>The data used to generate the documents is stored and version-controlled alongside the documents. This ensures that the documents and data are always in sync. This approach allows for the reproduction of any document version exactly as it was at any point in time, maintaining integrity and reliability.</p>
+
+<h3 id="lean-hosting-techniques">Lean Hosting Techniques</h3>
+
+<p>When it comes to hosting static HTML documents, two simple yet crucial requirements are essential:</p>
+
+<ol>
+  <li>
+    <p><strong>Open Documents on Your Laptop</strong>: Easily open your documents directly on your laptop without needing to install any servers or special frameworks. This ensures accessibility anytime, anywhere—no setup required!</p>
+  </li>
+  <li>
+    <p><strong>Share Across the Organization</strong>: Use any simple HTTP server (like GitHub Pages) for straightforward sharing. No complex setup, just pure, effortless sharing.</p>
+  </li>
+</ol>
+
+<p>By keeping things simple, your documents remain accessible, easy to share, and maintainable. No advanced technical knowledge or elaborate configurations are necessary. So go ahead, create your documents, open them anywhere, and share them effortlessly!</p>
+
+<h3 id="benefits">Benefits</h3>
+
+<p>Lean documents are efficient to generate, easy to store, and fast to process. They provide detailed traceability, enhancing transparency and accountability through a comprehensive history of changes. Consistency is maintained as the context and basis for documents are always available, preventing inconsistencies and errors. Multiple users can efficiently collaborate with clear mechanisms to resolve conflicts and track contributions.</p>
+
+<p>By ensuring all generated documents are small, lean, and version controlled along with their data, the system maximizes efficiency, consistency, and collaboration while maintaining a high level of traceability and reproducibility.</p>
+
+<p><br /></p>
+<h2 id="collaborative-editing-via-google-sheets">Collaborative Editing via Google Sheets</h2>
+
+<p>To facilitate collaborative editing of data that requires manual changes, I frequently relied on Google Sheets to provide controlled collaborative changes by a broader audience. By leveraging Google Sheets, multiple users can simultaneously access, edit, and update data in real time, ensuring that everyone works with the most current information.</p>
+
+<p><img src="assets/images/data_site_actors.png" alt="A simple runtime architecture leveraging GitHub pages and Google Sheets." />
+<em><strong>Figure 3:</strong> A collaborative editing model.</em></p>
+
+<p>To further streamline this process, I embedded a JavaScript script within the Google Sheet. This script’s primary function was to export the data into a JSON format, which could then be used to generate visual documents using HTML templates.</p>
+
+<p><img src="assets/images/data_site_sheet_json.png" alt="" />
+<em><strong>Figure 4:</strong> Exporting Google Sheet data to JSON for document generation.</em></p>
+
+<p><br /></p>
+<h2 id="two-examples-deployments">Two Examples Deployments</h2>
+
+<p>In my recent experiences, I utilized the following two examples to create a dynamic ecosystem of collaborative, data-driven dashboards.</p>
+
+<p>Start with a straightforward setup using GitHub pages for hosting and Google Sheets for data management. This combination is powerful, easy to maintain, and accessible.The nopen source example is availabel at <a href="https://zeljkoobrenovic.github.io/grounded-architecture-dashboard-examples/apps/docs/index.html">the resources site</a></p>
+
+<p><img src="assets/images/data_site_simple_arch_1.png" alt="A simple runtime architecture leveraging GitHub pages and Google Sheets." />
+<em><strong>Figure 5:</strong> A simple runtime architecture leveraging GitHub pages and Google Sheets.</em></p>
+
+<p>For those looking to add a bit more flexibility, consider incorporating CDNs, internal IAM systems, and Google Sheets. This setup allows for better scalability and integration with internal systems.</p>
+
+<p><img src="assets/images/data_site_simple_arch_2.png" alt="Slightly more flexible runtime architecture leveraging CDNs, internal IAM, and Google Sheets." />
+<em><strong>Figure 6:</strong> Slightly more flexible runtime architecture leveraging CDNs, internal IAM, and Google Sheets.</em></p>
+
+<p>By adhering to these principles and techniques, you’ll be well-equipped to create stunning, maintainable architectural documentation and visualizations that everyone in your organization can appreciate and utilize. Happy architecting!</p>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[A summary of characteristics of high-performing technology organizations.]]></summary></entry><entry><title type="html">Context: Fast-Moving Global Organizations</title><link href="http://localhost:4000/context" rel="alternate" type="text/html" title="Context: Fast-Moving Global Organizations" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/context</id><content type="html" xml:base="http://localhost:4000/context"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/roller-coaster-3605743_1920.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/paulbr75-2938186/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3605743">Paul Brennan</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3605743">Pixabay</a>
 </div>
