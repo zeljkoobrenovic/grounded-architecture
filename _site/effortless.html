@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>[DRAFT] Effortless Architecture | Grounded Architecture: Redefining IT Architecture Practice</title>
+<meta name="generator" content="Jekyll v4.2.2" />
+<meta property="og:title" content="[DRAFT] Effortless Architecture" />
+<meta name="author" content="by Željko Obrenović (obren.io)" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="A summary of lessons learned from the Effortless book on how you functionally structure your work to make the most essential activities the easiest ones to achieve." />
+<meta property="og:description" content="A summary of lessons learned from the Effortless book on how you functionally structure your work to make the most essential activities the easiest ones to achieve." />
+<link rel="canonical" href="http://localhost:4000/effortless" />
+<meta property="og:url" content="http://localhost:4000/effortless" />
+<meta property="og:site_name" content="Grounded Architecture: Redefining IT Architecture Practice" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2021-10-21T22:12:01+02:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="[DRAFT] Effortless Architecture" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"by Željko Obrenović (obren.io)"},"dateModified":"2021-10-21T22:12:01+02:00","datePublished":"2021-10-21T22:12:01+02:00","description":"A summary of lessons learned from the Effortless book on how you functionally structure your work to make the most essential activities the easiest ones to achieve.","headline":"[DRAFT] Effortless Architecture","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/effortless"},"url":"http://localhost:4000/effortless"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Grounded Architecture: Redefining IT Architecture Practice" /></head>
+<body style="overflow-x: hidden"><header class="site-header">
+    <div class="wrapper"><a class="site-title" rel="author" href="/" style="margin-bottom: 0; color: grey; white-space: nowrap; overflow: none; max-width: 100%">
+        <div style="height: 44px; white-space: nowrap; overflow: hidden; margin-bottom: -10px">Grounded Architecture: Redefining IT Architecture Practice</div>
+        <div style="color: #a0a0a0; font-size: 13px;">Version 0.9</div>
+        </a><nav class="site-nav">
+            <input type="checkbox" id="nav-trigger" class="nav-trigger"/>
+            <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+            </label>
+
+            <div class="trigger"><a class="page-link" href="/about/" style="color: #b0b0b0">About</a></div>
+        </nav><table style="border: none; font-size: 80%; margin: 0; padding: 0;">
+    <tr style="border: none; margin: 0; padding: 0">
+        <td style="border: none; margin: 0; padding: 0"><div style="font-size: 90%; color: #898989">Doing Architecture: Inspirations</div><a class="u-url" href="economics">← Economic Modeling: ROI and Financial Options</a></td>
+        <td style="border: none; text-align: right; margin: 0; padding: 0"><div style="font-size: 90%; color: #898989">Doing Architecture: Inspirations</div><a class="u-url" href="decision-intelligence">Decision Intelligence in IT Architecture →</a></td>
+    </tr>
+</table>
+</div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-129891352-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+    gtag('config', 'UA-129891352-1');
+</script>
+
+
+<style>
+
+    #markdown-toc::before {
+        content: "Contents";
+        font-weight: bold;
+        font-size: 110%;
+        margin-left: 176px;
+        padding-bottom: 30px;
+        text-align: center;
+        width: 100%;
+    }
+
+
+    #markdown-toc ul {
+        list-style: decimal;
+    }
+
+    #markdown-toc {
+        border: 1px solid #aaa;
+        padding: 1.5em;
+        padding-left: 2.5em;
+        list-style: decimal;
+        display: inline-block;
+        margin: 0;
+    }
+</style>
+
+
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting" style="margin-top: -12px">
+    <header class="post-header"><div style="margin-bottom: 4px; margin-top: 10px">Doing Architecture: Inspirations</div><h1 class="post-title p-name" itemprop="name headline">[DRAFT] Effortless Architecture</h1>
+        <p class="post-meta"><span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card"
+                                                                                        itemprop="name">by Željko Obrenović (obren.io)</span></span></p>
+    </header>
+
+    <div class="post-content e-content" itemprop="articleBody" style="font-size: 110%">
+        <p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/istockphoto-1411043496-2048x2048.jpg" /></p>
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by iStock
+</div>
+<blockquote>
+  <p><strong>IN THIS SECTION, YOU WILL:</strong> Get summary of lessons learned from the Effortless book on how you functionally structure your work to make the most essential activities the easiest ones to achieve.</p>
+
+  <p><strong>KEY POINTS:</strong></p>
+
+  <ul>
+    <li>The Effortless State is an experience many of us have had when we are physically rested, emotionally unburdened, and mentally energized.</li>
+    <li>Effortless Action means accomplishing more by trying less. You stop procrastinating and take the first obvious step. You arrive at the point of completion without overthinking. You make progress by pacing yourself rather than powering through. You overachieve without overexerting.</li>
+    <li>You’ve continued to cultivate your Effortless State. You’ve started to take Effortless Action with clarity of objective, tiny, obvious first steps, and a consistent pace. You are achieving the results you want, more easily. But now you want those results to continue to flow to you, again and again, with as little additional effort as possible. You are ready to achieve Effortless Results.</li>
+  </ul>
+</blockquote>
+<style>
+ .quote {
+     border-left: 8px solid #d9ead3;
+     padding-left: 36px;
+     margin-top: 30px;
+     margin-bottom: 40px;
+     font-size: 140%;
+     font-style: normal;
+     color:#888;
+ }
+    @media only screen and (max-width: 768px) {
+        [class= "quote"] {
+            display: none;
+        }
+    }
+</style>
+
+<p><br /></p>
+<h2 id="part-i-effortless-state">Part I: Effortless State</h2>
+
+<p>What is the Effortless State? The Effortless State is an experience many of us have had when we are physically rested, emotionally unburdened, and mentally energized. You are completely aware, alert, present, attentive, and focused on what’s important in this moment. You are able to focus on what matters most with ease.</p>
+
+<p>“When our brains are at full capacity, everything feels harder.”</p>
+
+<p>“clutter—like outdated assumptions, negative emotions, and toxic thought patterns”</p>
+
+<h3 id="invert-what-if-this-could-be-easy">INVERT: What If This Could be Easy?</h3>
+
+<p>Instead of asking, “Why is this so hard?,” invert the question by asking, “What if this could be easy?” Challenge the assumption that the “right” way is, inevitably, the harder one. Make the impossible possible by finding an indirect approach. When faced with work that feels overwhelming, ask, “How am I making this harder than it needs to be?”</p>
+
+<p>“Effortless Inversion means looking at problems from the opposite perspective. It means asking,
+“What if this could be easy?” It means learning to solve problems from a state of focus, clarity,
+and calm. It means getting good at getting things done by putting in less effort.”</p>
+
+<p>“When we feel overwhelmed, it may not be because the situation is inherently overwhelming. It
+may be because we are overcomplicating something in our own heads. Asking the question
+“What if this could be easy?” is a way to reset our thinking. It may seem almost impossibly
+simple. And that’s exactly why it works.”</p>
+
+<h3 id="enjoy-what-if-this-could-be-fun">ENJOY: What If This Could Be Fun?</h3>
+
+<p>Pair the most essential activities with the most enjoyable ones. Accept that work and play can co-exist. Turn tedious tasks into meaningful rituals. Allow laughter and fun to lighten more of your moments.</p>
+
+<h3 id="release-the-power-of-letting-go">RELEASE: The Power Of Letting Go</h3>
+
+<p>Let go of emotional burdens you don’t need to keep carrying. Remember: When you focus on what you lack, you lose what you have. When you focus on what you have, you get what you lack. Use this habit recipe: “Each time I complain I will say something I am thankful for.” Relieve a grudge of its duties by asking, “What job have I hired this grudge to do?”</p>
+
+<p>” regrets that continue to haunt us, grudges we can’t seem to let
+go of, expectations that were realistic at some point but are now getting in our way.”</p>
+
+<p>“When we fall victim to misfortune, it’s hard not to obsess, lament, or complain about all that we
+have lost. In fact, complaining is one of the easiest things to do.”</p>
+
+<p>“the best thing one can do when it is raining, is to let it rain.”</p>
+
+<h3 id="rest-the-art-of-doing-nothing">REST: The Art of Doing Nothing</h3>
+
+<p>Discover the art of doing nothing. Do not do more today than you can completely recover from by tomorrow. ﻿Break down essential work into three sessions of no more than ninety minutes each. Take an effortless nap.</p>
+
+<h3 id="notice-how-to-see-clearly">NOTICE: How to See Clearly</h3>
+
+<p>Achieve a state of heightened awareness by harnessing the power of presence. Train your brain to focus on the important and ignore the irrelevant. To see others more clearly, set aside your opinions, advice, and judgment, and put their truth above your own. Clear the clutter in your physical environment before clearing the clutter in your mind.</p>
+
+<p><br /></p>
+<h2 id="part-ii-effortless-action">Part II: Effortless Action</h2>
+
+<p>What is Effortless Action? Effortless Action means accomplishing more by trying less. You stop procrastinating and take the first obvious step. You arrive at the point of completion without overthinking. You make progress by pacing yourself rather than powering through. You overachieve without overexerting.</p>
+
+<h3 id="define-what-done-looks-like">DEFINE: What “Done” Looks Like</h3>
+
+<p>To get started on an essential project, first define what “done” looks like. Establish clear conditions for completion, get there, then stop. Take sixty seconds to focus on your desired outcome. Write a “Done for the Day” list. Limit it to items that would constitute meaningful progress.</p>
+
+<h3 id="start-the-first-obvious-action">START: The First Obvious Action</h3>
+
+<p>Make the first action the most obvious one. Break the first obvious action down into the tiniest, concrete step. Then name it. Gain maximum learning from minimal viable effort. Start with a ten-minute microburst of focused activity to boost motivation and energy.</p>
+
+<h3 id="simplify-start-with-zero">SIMPLIFY: Start With Zero</h3>
+
+<p>To simplify the process, don’t simplify the steps: simply remove them. Recognize that not everything requires you to go the extra mile. Maximize the steps not taken. Measure progress in the tiniest of increments.</p>
+
+<h3 id="progress-the-courage-ro-be-rubbish">PROGRESS: The Courage ro Be Rubbish</h3>
+
+<p>When you start a project, start with rubbish. Adopt a “zero-draft” approach and just put some words, any words, on the page. Fail cheaply: make learning-sized mistakes. Protect your progress from the harsh critic in your head.</p>
+
+<h3 id="pace-slow-if-smooth-smooth-is-fast">PACE: Slow if Smooth, Smooth is Fast</h3>
+
+<p>Set an effortless pace: slow is smooth, smooth is fast. Reject the false economy of “powering through.” Create the right range: I will never do less than X, never more than Y. Recognize that not all progress is created equal.</p>
+
+<p><br /></p>
+<h2 id="part-iii-effortless-results">Part III: Effortless Results</h2>
+
+<p>What are Effortless Results? You’ve continued to cultivate your Effortless State. You’ve started to take Effortless Action with clarity of objective, tiny, obvious first steps, and a consistent pace. You are achieving the results you want, more easily. But now you want those results to continue to flow to you, again and again, with as little additional effort as possible. You are ready to achieve Effortless Results.</p>
+
+<h3 id="learn-leverage-the-best-of-what-others-know">LEARN: Leverage the Best of What Others Know</h3>
+
+<p>Learn principles, not just facts and methods. Understand first principles deeply and then apply them again and again. Stand on the shoulders of giants and leverage the best of what they know. Develop unique knowledge, and it will open the door to perpetual opportunity.</p>
+
+<h3 id="lift-harness-the-strength-of-ten">LIFT: Harness the Strength of Ten</h3>
+
+<p>Use teaching as a lever to harness the strength of ten. Achieve far-reaching impact by teaching others to teach. Live what you teach, and notice how much you learn. Tell stories that are easily understood and repeated.</p>
+
+<h3 id="automate-do-it-once-and-never-again">AUTOMATE: Do It Once and Never Again</h3>
+
+<p>Free up space in your brain by automating as many essential tasks as possible. Use checklists to get it right every time, without having to rely on memory. Seek single choices that eliminate future decisions. Take the high-tech path for the essential and the low-tech path for the nonessential.</p>
+
+<h3 id="trust-the-engine-of-high-leverage-teams">TRUST: The Engine of High-Leverage Teams</h3>
+
+<p>Leverage trust as the engine oil of frictionless and high-functioning teams. Make the right hire once, and it will continue to produce results again and again. Follow the Three I’s Rule: hire people with integrity, intelligence, and initiative. Design high-trust agreements to clarify results, roles, rules, resources, and rewards.</p>
+
+<h3 id="prevent-solve-the-problme-before-it-happens">PREVENT: Solve the Problme Before It Happens</h3>
+
+<p>Don’t just manage the problem. Solve it before it happens. Seek simple actions today that can prevent complications tomorrow. Invest two minutes of effort once to end recurring frustrations. Catch mistakes before they happen; measure twice, so you only have to cut once.</p>
+
+<h2 id="summary">Summary</h2>
+
+<p>The road to achieving great results doesn’t have to be tortuous. When you embrace the idea that things can be easy, and even enjoyable, you open yourself up to effortless solutions. And by clearly defining your goal and identifying a small yet significant first step, you launch yourself into a series of effortless actions that lead to steady and meaningful progress. Finally, when you leverage knowledge, automation, and trust, you create a system that produces recurring results.</p>
+
+<p><br /></p>
+<h2 id="questions-to-consider">Questions to Consider</h2>
+
+<ul>
+  <li>…</li>
+</ul>
+
+        <div style="margin-bottom: -32px; margin-top: 28px"><table style="border: none; font-size: 80%; margin: 0; padding: 0;">
+    <tr style="border: none; margin: 0; padding: 0">
+        <td style="border: none; margin: 0; padding: 0"><div style="font-size: 90%; color: #898989">Doing Architecture: Inspirations</div><a class="u-url" href="economics">← Economic Modeling: ROI and Financial Options</a></td>
+        <td style="border: none; text-align: right; margin: 0; padding: 0"><div style="font-size: 90%; color: #898989">Doing Architecture: Inspirations</div><a class="u-url" href="decision-intelligence">Decision Intelligence in IT Architecture →</a></td>
+    </tr>
+</table>
+</div>
+    </div><a class="u-url" href="/effortless" hidden></a>
+</article>
+
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">Grounded Architecture: Redefining IT Architecture Practice</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">Grounded Architecture: Redefining IT Architecture Practice</li><li><a class="u-email" href="mailto:zeljko.obren@gmail.com">zeljko.obren@gmail.com</a></li></ul>
+      </div>
+
+      <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a href="https://github.com/zeljkoobrenovic"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg> <span class="username">zeljkoobrenovic</span></a></li><li><a href="https://www.twitter.com/zeljko_obren"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#twitter"></use></svg> <span class="username">zeljko_obren</span></a></li></ul>
+</div>
+
+      <div class="footer-col footer-col-3">
+        <p></p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+</body>
+</html>
