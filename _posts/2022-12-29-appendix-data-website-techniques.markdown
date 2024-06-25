@@ -1,7 +1,7 @@
 ---
 layout: post
 section: "Appendix"
-title: "[DRAFT] Building Data Foundation Website: Lean Design Patterns and Techniques"
+title: "Building Data Foundation Website: Lean Design Patterns and Techniques"
 position: 12126
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
@@ -56,7 +56,7 @@ Here are a few techniques I leverage in my work.
 
 Who says you need a high-tech toolbox to create dazzling visuals? Sometimes, sticking with the basics can yield the most elegant and effective results. Embrace the simplicity and power of plain old HTML, CSS, and the DOM.
 
-Earlier, I always used heavyweight visualization and UI frameworks to build interactive tools. But nowadays, I leave the heavy frameworks at the door. We’re going to show you how to create beautiful, functional interfaces with just the basics. No React, Angular, or Vue here – just pure, unadulterated HTML and CSS magic.
+Earlier, I always used heavyweight visualization and UI frameworks to build interactive tools. But nowadays, I leave the heavy frameworks at the door. You can create beautiful, functional interfaces with just the basics. No React, Angular, or Vue here – just pure, unadulterated HTML and CSS magic.
 
 ![](assets/images/data_site_simple_html.png)
 ***Figure 1:** Simple generated HTML visual of source code analysis results.*
@@ -135,16 +135,20 @@ To further streamline this process, I embedded a JavaScript script within the Go
 <br>
 ## Two Examples Deployments
 
-In my recent experiences, I utilized the following two examples to create a dynamic ecosystem of collaborative, data-driven dashboards.
+In my recent experiences, I have utilized the following two examples to create a dynamic ecosystem of collaborative, data-driven dashboards.
 
-Start with a straightforward setup using GitHub pages for hosting and Google Sheets for data management. This combination is powerful, easy to maintain, and accessible.The nopen source example is availabel at [the resources site](https://zeljkoobrenovic.github.io/grounded-architecture-dashboard-examples/apps/docs/index.html) 
+**Simple Setup with GitHub Pages and Google Sheets:** Start with a straightforward setup using GitHub Pages for hosting and Google Sheets for data management. This combination is powerful, easy to maintain, and highly accessible. The open-source example is available at [the Grounded Architecture resources site](https://zeljkoobrenovic.github.io/grounded-architecture-dashboard-examples/apps/docs/index.html) 
 
 ![A simple runtime architecture leveraging GitHub pages and Google Sheets.](assets/images/data_site_simple_arch_1.png)
 ***Figure 5:** A simple runtime architecture leveraging GitHub pages and Google Sheets.*
 
-For those looking to add a bit more flexibility, consider incorporating CDNs, internal IAM systems, and Google Sheets. This setup allows for better scalability and integration with internal systems.
+**Simple Setup with GitHub Pages and Google Sheets:** Start with a straightforward setup using GitHub Pages for hosting and Google Sheets for data management. This combination is powerful, easy to maintain, and highly accessible. The open-source example is available at 
 
 ![Slightly more flexible runtime architecture leveraging CDNs, internal IAM, and Google Sheets.](assets/images/data_site_simple_arch_2.png)
 ***Figure 6:** Slightly more flexible runtime architecture leveraging CDNs, internal IAM, and Google Sheets.*
 
-By adhering to these principles and techniques, you’ll be well-equipped to create stunning, maintainable architectural documentation and visualizations that everyone in your organization can appreciate and utilize. Happy architecting!
+
+<br>
+## It's Your Turn Now!
+
+By adhering to described principles and techniques, you’ll be well-equipped to create stunning, maintainable architectural documentation and visualizations that everyone in your organization can appreciate and utilize. Happy architecting!
