@@ -16,7 +16,7 @@ excerpt: "A summary of lessons learned from the Greg McKeown' Effortless book th
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by iStock
 </div>
-> **IN THIS SECTION, YOU WILL:** Get summary of lessons learned from the Effortless book on how you functionally structure your work to make the most essential activities the easiest ones to achieve.
+> **IN THIS SECTION, YOU WILL:** Get summary of lessons learned from the Effortles s book on how you functionally structure your work to make the most essential activities the easiest ones to achieve.
 >
 > **KEY POINTS:**
 >
@@ -48,7 +48,7 @@ Greg McKeown's **"[Effortless: Make It Easier to Do What Matters Most](https://g
 
 I see the Effortless books as a perfect complement to Fred Brooks' essay "[**No Silver Bullet**](https://en.wikipedia.org/wiki/No_Silver_Bullet)." Fred Brooks posits that no single technological breakthrough will dramatically improve software development productivity because of the inherent, **essential complexity** of the tasks involved. In contrast, Greg McKeown emphasizes the importance of reducing **accidental complexity**—those unnecessary complications we can eliminate to streamline processes and simplify tasks we complicate ourselves. While Brooks highlights the unavoidable challenges intrinsic to software development, McKeown offers a crucial reminder that streamlining and optimizing workflows can significantly reduce extraneous difficulties, thus enhancing overall efficiency and effectiveness. Or, as McKeown put it *"life doesn't have to be as hard and complicated as we make it."* 
 
-One of the main task of architects is to remind everyone that our technical designs, product and organizations structures don’t have to be as hard and complicated as we make it.
+One of the main tasks of architects is to remind everyone that our technical designs, products, and organizational structures don’t have to be as complex and complicated as we make them. A fantastic example of this comes from Pragmatic Dave Thomas (I heard this anecdote on the [SE-Radio podcast with Neal Ford](https://se-radio.net/2017/04/se-radio-episode-287-success-skills-for-architects-with-neil-ford/), ~32 minutes in). A company had problems with its mail post not getting to the proper departments. It wanted a complex optical-character recognition (OCR) system for routing mail posts. However, Dave Thomas suggested using simple and cheap colored envelopes instead. The company did not need to invest millions in building a complex software system with machine-learning capabilities; it solved the problem in a few weeks and saved a lot of money.
 
 Greg McKeown's book summarizes many well-known practices into a pragmatic framework with a mindset of effortlessness. As such, it offers a fresh look at the daily practice of IT architects and software engineers:
 
@@ -89,7 +89,7 @@ Image by iStock
 
 IT and software engineering have integrated the principles of effortless inversion, transforming many complex tasks into efficient processes. But we must always remind ourselves not to overthink our work. 
 
-Here are a few examples of situations that make work easier in IT:
+Here are a few examples that IT architects as an inspiration to help their organizations make things easier:
 
 * **Simplifying Code Maintenance With Clean Design:**
 Creating a modular source code design with clear, simple, and well-tested functions makes code maintenance easier. Clean and modular code leverages existing libraries and prioritizes readability and maintainability over micro-optimizations. These widely known practices simplify maintenance, reducing the time and effort needed for debugging and updates. Still, developers are not universally following them.
@@ -118,7 +118,7 @@ Image by iStock
 
 Pairing essential activities with enjoyable ones creates a harmonious and engaging work environment for IT and software engineering professionals. This approach enhances productivity, promotes well-being, and increases job satisfaction by turning routine tasks into opportunities for joy and creativity. 
 
-Here are a few examples:
+Here are a few examples that IT architects as an inspiration to help their organizations integrate work and play:
 
 * **Architecture and Code Reviews as Collaborative Learning Sessions:**
 Architecture and code reviews, often seen as tedious and time-consuming, can be transformed into collaborative learning sessions. Pair programming or review parties allow team members to discuss and review code over snacks and drinks. Adding a gamification element, such as rewarding the most insightful feedback, makes code reviews social and enjoyable. This engagement leads to better code quality and stronger team cohesion.
@@ -140,8 +140,6 @@ As the saying goes, *"the best thing one can do when it is raining is to let it 
 
 Regrets that continue to haunt us, grudges we can't seem to let go of, and expectations that once were realistic but now hinder us all contribute to our emotional burdens. When we fall victim to misfortune, we easily obsess, lament, or complain about all we have lost. Complaining is one of the easiest things to do.
 
-
-
 <br>
 <img style="margin-top: -20px; width: 100%; " 
      src="assets/images/iStock-1464747516.jpg">
@@ -151,7 +149,7 @@ Image by iStock
 
 Similrarly, IT and software engineering professionals can release unnecessary emotional burdens, fostering a positive and resilient mindset that enhances personal well-being and professional effectiveness. 
 
-Here are a few examples.
+Here are a few examples that IT architects as an inspiration to help their organizations let go:
 
 * **Overcoming Regret Over Past Decisions:** Engineers and IT architects may regret choosing a certain technology stack or making architectural decisions that later proved suboptimal. Accept that every decision was made with the best knowledge available at the time and focus on learning from past experiences rather than dwelling on them. When regret surfaces, reflect on a positive outcome or lesson learned from that decision and express gratitude for the growth it provided. Shifting focus from regret to learning fosters a growth mindset and empowers engineers to make informed decisions without being weighed down by past mistakes.
 
@@ -176,9 +174,9 @@ By incorporating periods of **rest and reflection,** you create a balanced routi
 Image by iStock
 </div>
 
-By embracing the art of doing nothing and incorporating structured work sessions, rest periods, and balanced routines, IT and software engineering professionals can enhance their productivity and well-being. This approach promotes sustainable productivity, prevents burnout, and ensures that engineers can consistently perform at their best. Here are a few examples.
+By embracing the art of doing nothing and incorporating structured work sessions, rest periods, and balanced routines, IT and software engineering professionals can enhance their productivity and well-being. This approach promotes sustainable productivity, prevents burnout, and ensures that engineers can consistently perform at their best.
 
-Here are a few examples:
+Here are a few examples that IT architects as an inspiration to help their organizations take a break:
 
 * **Avoiding Burnout Through Structured Work Sessions:** Software engineers often work long hours, leading to burnout and decreased productivity. Breaking down the workday into a limited number of focused sessions effectively combats this. Between these sessions, taking 15-30 minute breaks to rest and recharge helps maintain energy levels. For example, a morning session might be dedicated to coding, a mid-morning session for meetings or code reviews, and an afternoon session for testing or debugging. This structured approach helps sustain high energy levels and concentration, reducing burnout risk and ensuring sustainable productivity.
 
@@ -211,7 +209,7 @@ Image by iStock
 
 IT and software engineering professionals can achieve a state of heightened awareness, improving productivity and enriching their interactions with others. This approach fosters a work environment where presence and mindfulness lead to meaningful connections and effective collaboration.
 
-Here are a few examples:
+Here are a few examples that IT architects as an inspiration to help their organizations see clearly:
 
 * **Truly Seeing and Listening to Colleagues:** Meetings and discussions often involve multitasking, where participants check emails or think about other tasks, leading to ineffective communication. Active listening is essential to fully engaging with colleagues during meetings and one-on-one interactions. During a meeting, put away your phone and close unnecessary tabs on your computer. Make eye contact, listen actively, and acknowledge the speaker's points before responding. This engagement ensures that colleagues feel valued and heard, improving team dynamics and fostering a collaborative work environment.
 
@@ -247,7 +245,7 @@ Image by iStock
 
 Similarly, by defining what "done" looks like, IT and software engineering professionals can stay focused on their goals, prevent overextension, and maintain a clear direction in their work. This approach fosters productivity, ensures high-quality outcomes, and provides a satisfying sense of accomplishment.
 
-Here are a few examples:
+Here are a few examples that IT architects as an inspiration to help their organizations better define what "done" looks like:
 
 * **Completing a Feature Development:** 
 Developing a new feature for a software application can often lead to scope creep without clear boundaries. To address this, defining what constitutes "done" for the feature is essential, as well as specifying criteria such as passing all unit and integration tests, undergoing code review, and updating Documentation. By documenting these conditions—"Feature X is done when it passes all unit tests, integrates without errors, is reviewed by a peer, and is documented in the user manual"—the development team can stay focused, avoid unnecessary additions, and ensure timely completion.
@@ -277,7 +275,6 @@ McKeown suggests some simple techniques to identify the first obvious action:
 * Gain maximum learning from a minimal viable effort by starting with a **ten-minute microburst** of focused activity. This short, intense work period can boost motivation and energy, making diving deeper into the project more manageable. This approach helps you overcome the inertia of starting and builds momentum for continued progress.
 
 
-
 <br>
 <img style="margin-top: -20px; width: 100%; " 
      src="assets/images/iStock-471660478.jpg">
@@ -287,7 +284,7 @@ Image by iStock
 
 By breaking down the first action into the most apparent, tiny steps and visualizing the desired outcome, IT and software engineering professionals can effectively begin essential projects, build momentum, and ensure clear direction from the start. This approach reduces inertia and makes it easier to dive deeper into tasks confidently.
 
-Here are a few examples:
+Here are a few examples that IT architects as an inspiration to help their organizations find first obvious actions:
 
 * **Beginning a New Feature Development:** 
 In developing a new feature for a software application, the feature is considered complete when it passes unit tests, is integrated into the main codebase, and is documented. The first obvious action is to create a new branch in the version control system. This action involves opening the version control tool (e.g., Git) and executing the command to create a new branch: `git checkout -b new-feature-branch`. This small, concrete action provides a clear starting point and sets up the environment for feature development.
@@ -320,7 +317,7 @@ Image by iStock
 
 By applying the "Start With Zero" approach, IT and software engineering professionals can eliminate unnecessary steps, streamline workflows, and focus on what truly matters. This approach enhances productivity and ensures that efforts are directed toward meaningful progress, making projects more efficient and manageable.
 
-Here are a few examples:
+Here are a few examples that IT architects as an inspiration to help their organizations start with zero:
 
 * **Streamlining Feature Development:** 
 In developing a new feature for a software application, the traditional approach typically involves extensive planning, multiple design iterations, and comprehensive testing phases. The simplified approach starts with zero by eliminating unnecessary steps like excessive design iterations and over-engineering. Implementation begins with writing a simple prototype or MVP (Minimum Viable Product) that includes only the core functionality, focusing on delivering the essential feature first. By removing unnecessary steps and focusing on the core functionality, the feature is developed more quickly and can be tested and iterated based on user feedback.
@@ -357,7 +354,7 @@ Image by iStock
 
 By embracing the courage to be rubbish and starting with imperfect versions, IT and software engineering professionals can bypass perfectionism, accelerate learning, and create a foundation for continuous improvement and eventual mastery. This approach encourages experimentation and iteration, leading to better outcomes over time.
 
-Here are a few examples:
+Here are a few examples that IT architects as an inspiration to help their organizations have the courage to create rubbish:
 
 * **Starting a New Feature:** 
 In developing a new feature for a software application, adopt the mindset that the first version might be rudimentary and full of flaws. Begin with zero-draft code, writing the initial version of the feature without worrying about perfection. Focus on getting a basic version that works, even if it's not optimized or clean. Start by coding the main functionality with simple logic, ignoring edge cases and optimizations for now. This "rubbish" version allows you to quickly identify the main challenges and requirements, setting a foundation for iterative improvements.
@@ -383,7 +380,6 @@ When developing a new algorithm for data processing, understand that the first v
 <br>
 ### 10. PACE: Slow if Smooth, Smooth is Fast
 
-
 Maintaining a deliberate and measured pace can achieve more meaningful and lasting results without exhausting yourself. This balanced approach allows you to work efficiently while preserving your well-being and maintaining a high output standard. 
 
 To achieve sustained productivity, set an effortless pace: slow is smooth, smooth is fast. Reject the false economy of "powering through," which often leads to burnout and decreased efficiency. Instead, create a balanced approach to your work by defining a suitable range for your efforts: determine that you will never do less than X and never more than Y. This ensures a consistent, manageable workload that promotes steady progress. Recognize that not all progress is created equal. Focus on the quality and significance of your achievements rather than merely the quantity. 
@@ -399,7 +395,7 @@ Image by iStock
 
 By adopting a balanced approach and setting a sustainable pace, IT and software engineering professionals can maintain high productivity while ensuring quality and preserving their well-being. This method emphasizes the importance of consistent, manageable efforts that lead to meaningful and lasting results.
 
-Here are a few examples:
+Here are a few examples that IT architects as an inspiration to help their organizations set an effortless pace:
 
 * **Learning a New Technology:** 
 When learning a new programming language or framework, the traditional approach might involve intensive, uninterrupted study sessions that lead to quick burnout and poor retention. A balanced approach involves studying for 30 minutes and no more than 2 hours per day. Integrate learning into daily routines with consistent, shorter study sessions, allowing time for reflection and practice. Steady, consistent learning leads to better understanding and retention of new skills.
@@ -437,10 +433,9 @@ In essence, Effortless Results are about creating a self-sustaining loop of succ
 <br>
 ### 11. LEARN: Leverage the Best of What Others Know
 
+To achieve Effortless Results, McKeown argues, it is crucial to **stand on the shoulders of giants.** That is, to leverage the best of what experts and pioneers have discovered. Use their knowledge as a foundation to build upon, enabling you to achieve more with less effort. 
 
-McKeown argues that to achieve Effortless Results, one must focus on **learning principles,** not just facts and methods. Understanding first principles allows you to apply them repeatedly across various contexts. You can quickly adapt and innovate by grounding yourself in these fundamental truths, making complex tasks more straightforward and manageable.
-
-In addition, it is crucial to leverage the best of what experts and pioneers have discovered to **stand on the shoulders of giants.** Use their knowledge as a foundation to build upon, enabling you to achieve more with less effort.
+In addition, one must focus on **learning principles,** not just facts and methods. Understanding first principles allows you to apply them repeatedly across various contexts. You can quickly adapt and innovate by grounding yourself in these fundamental truths, making complex tasks more straightforward and manageable.
 
 Effortless Results stem from a deep understanding of first principles and the ability to apply them creatively and consistently. By building on the knowledge of others and developing your unique insights, you create a sustainable pathway to continuous achievement and innovation.
 
@@ -455,7 +450,7 @@ Image by iStock
 
 By understanding and applying first principles, leveraging experts' knowledge, and building unique insights, IT and software engineering professionals can achieve effortless results. This approach fosters innovation and continuous improvement, ensuring that complex tasks become more manageable and maximize productive efforts.
 
-Here are a few examples:
+Here are a few examples that IT architects as an inspiration to help their organizations leverage the best of what others know:
 
 * **Understanding First Principles in Algorithm Design:** 
 In optimizing a search algorithm, the approach begins with first principles. Learn the fundamental principles of algorithms, including time complexity, space complexity, and basic search techniques like binary search and hash tables. Leverage the works of pioneers like Donald Knuth and their analysis of algorithms. You can choose or design an efficient search algorithm by understanding why certain algorithms perform better under specific conditions. Grounding yourself in first principles allows for creating or adapting algorithms optimized for your particular use case, achieving better performance with less effort.
@@ -477,11 +472,13 @@ When enhancing an organization's cybersecurity measures, start with the first pr
 <br>
 ### 12. LIFT: Harness the Strength of Ten
 
-Use teaching as a lever to harness the strength of ten, achieving a far-reaching impact by teaching others to teach. You’ll notice how much you learn when you live what you teach. You can disseminate knowledge effectively by telling stories that are easily understood and repeated.
-
 Teaching others is an accelerated way to learn. When you prepare to teach, you increase your engagement, focus more intently, listen to understand and think about the underlying logic so you can articulate the ideas in your own words. This process not only reinforces your own understanding but also enhances your ability to convey complex concepts.
 
-Ensure your messages are easy to understand and hard to misunderstand. By simplifying and clarifying your communication, you make it easier for others to grasp and remember the knowledge you share, amplifying your impact.
+Use teaching as a lever to harness the strength of ten, achieving a far-reaching impact by teaching and by teaching others to teach. You'll notice how much you learn when you live what you teach. You can disseminate knowledge effectively by telling stories that are easy to understand and repeat.
+
+Ensuring your messages are easy to understand and hard to misunderstand is not just a communication strategy. It's a powerful tool for amplifying your impact. By simplifying and clarifying your communication, you make it easier for others to grasp and remember the knowledge you share, thereby increasing the reach and effectiveness of your message. This underscores the crucial role you play in knowledge sharing and the impact you can have on others.
+
+One motivation for writing this book is to create reusable material that teaches others about pragmatic approaches to running architecture practices and give them material they can reuse to teach others the same.
 
 <br>
 <img style="margin-top: -20px; width: 100%; " 
@@ -491,9 +488,9 @@ Image by iStock
 </div>
 
 
-By teaching others to teach, IT and software engineering professionals can amplify their impact and foster a culture of continuous learning and improvement. This approach reinforces their knowledge and equips the team with the skills and understanding necessary to achieve greater efficiency and innovation.
+By teaching and teaching others to teach, IT and software engineering professionals can amplify their impact and foster a culture of continuous learning and improvement. This approach reinforces their knowledge and equips the team with the skills and understanding necessary for greater efficiency and innovation.
 
-Here are a few examples:
+Here are a few examples that IT architects as an inspiration to help their organizations harness the strength of ten:
 
 * **Teaching Code Reviews:** 
 A senior developer wants to improve the code review process within the team. Instead of just conducting code reviews, the senior developer holds a workshop to teach team members how to conduct effective code reviews themselves. Participants are encouraged to practice reviewing code and receiving feedback on their technique using real-world examples and stories from past projects to illustrate key points. The outcome is that team members become proficient in conducting code reviews, multiplying the senior developer’s impact, and improving overall code quality.
@@ -532,7 +529,7 @@ Image by iStock
 
 By automating essential tasks and using checklists for routine processes, IT and software engineering professionals can streamline their workflows, reduce errors, and free up mental space for more important activities. This approach leads to increased efficiency, consistency, and overall productivity.
 
-Here are a few examples:
+Here are a few examples that IT architects as an inspiration to help their organizations automate things:
 
 * **Automating Code Quality Checks:** 
 Ensuring code quality through manual reviews and testing can be time-consuming and inconsistent. The approach involves high-tech automation by integrating automated code quality tools like SonarQube or ESLint into your CI/CD pipeline. Configure the tools to run automated checks on every commit, providing immediate feedback on code quality issues. The outcome is consistent and automated code quality checks that improve overall code standards and reduce the need for manual reviews.
@@ -570,8 +567,9 @@ High-trust agreements help mitigate these issues by clarifying:
 
 Establishing clear expectations and structures creates a high-trust environment that enables teams to function efficiently and effectively.
 
-
 Leverage trust as the essential lubricant of frictionless and high-functioning teams. Making the right hire once can produce results repeatedly. Follow the Three I's Rule: hire people with integrity, intelligence, and initiative. Design high-trust agreements to clarify results, roles, rules, resources, and rewards.
+
+Being an architect is much easier in high-trust organizations. In low-trust organizations, people frequently expect architects to be police agents. IT governance processes frequently associated with architecture practice are used or misused to force bureaucratic controls as teams often do not trust each other. 
 
 
 <br>
@@ -583,7 +581,7 @@ Image by iStock
 
 By establishing and maintaining a high-trust environment, IT and software engineering teams can work more efficiently and effectively. Trust reduces friction, enables better decision-making, and fosters a positive, collaborative culture where team members feel valued and empowered.
 
-Here are a few examples:
+Here are a few examples that IT architects as an inspiration to help their organizations create a high-trust environment:
 
 * **Making the Right Hire:** 
 When hiring a new software engineer for a critical project, the approach involves following the Three I's Rule: focus on candidates with integrity, intelligence, and initiative. Design interview questions and assessments that evaluate these traits, such as scenario-based questions to gauge problem-solving skills and ethical dilemmas to assess integrity. The outcome is hiring the right candidate who increases team efficiency and reduces the need for constant oversight, as they can be trusted to deliver high-quality work independently.
@@ -623,7 +621,7 @@ Image by iStock
 
 IT and software engineering teams can solve potential problems before they occur, leading to smoother operations, fewer disruptions, and a more efficient workflow. This proactive approach saves time and resources, allowing teams to focus on innovation and continuous improvement.
 
-Here are a few examples:
+Here are a few examples that IT architects as an inspiration to help their organizations prevent problems:
 
 * **Implementing Automated Testing:** 
 Repeatedly encountering bugs in production that were not caught during manual testing calls for preventative action by implementing automated testing. Set up a suite of automated tests using frameworks like Selenium for UI testing, JUnit for unit tests, and pytest for Python applications. Integrate these tests into the CI/CD pipeline. The outcome is that automated tests catch issues early in the development cycle, reducing the likelihood of bugs reaching production and saving time on manual testing.
