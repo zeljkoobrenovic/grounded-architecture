@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-06-26T00:26:09+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: Redefining IT Architecture Practice</title><subtitle></subtitle><entry><title type="html">Building Data Foundation Website: Lean Design Patterns and Techniques</title><link href="http://localhost:4000/data-website" rel="alternate" type="text/html" title="Building Data Foundation Website: Lean Design Patterns and Techniques" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/appendix-data-website-techniques</id><content type="html" xml:base="http://localhost:4000/data-website"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/education-6241609_1280.png" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-06-26T14:01:17+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: Redefining IT Architecture Practice</title><subtitle></subtitle><entry><title type="html">Building Data Foundation Website: Lean Design Patterns and Techniques</title><link href="http://localhost:4000/data-website" rel="alternate" type="text/html" title="Building Data Foundation Website: Lean Design Patterns and Techniques" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/appendix-data-website-techniques</id><content type="html" xml:base="http://localhost:4000/data-website"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/education-6241609_1280.png" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/jozefm84-10215106/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=6241609">Jozef Mikulcik</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=6241609">Pixabay</a>
 </div>
@@ -9,33 +9,35 @@ Image by <a href="https://pixabay.com/users/jozefm84-10215106/?utm_source=link-a
 </style>
 
 <blockquote>
-  <p><strong>IN THIS SECTION, YOU WILL:</strong> Get a few practical tips on how to build lead architecture tools (e.g. for creating the data foundation), using simple, widely available tools.</p>
+  <p><strong>IN THIS SECTION, YOU WILL:</strong>Get a few practical tips on building lean architecture dashboards and documents (e.g., to create the data foundation) using simple, widely available tools.</p>
 </blockquote>
 
 <p><br />
-Ever felt overwhelmed by the multitude of specialized tools available for creating architectural artifacts? Fear not! We’re here to show you that simplicity is often the key to brilliance. Imagine crafting high-quality documentation and stunning visualizations without the need for complex software or extensive training. Not only is it possible, but it’s also incredibly efficient.</p>
+While the lessons in this book are not limited to specific technologies and tools, I will share a few of my secrets for easily and affordably creating dashboards and documents that are crucial for data-informed decision-making.</p>
 
-<p>In this guide, we’ll explore the power of simple, lean tools that are widely available and easy to use. You don’t need to be a tech wizard to create impressive Data Foundation dashboards and architectural documents. Whether you’re a seasoned architect or a newbie, you’ll find these techniques refreshingly straightforward and immensely effective.</p>
+<p>Have you ever felt overwhelmed by the many specialized tools for creating architectural artifacts? Fear not! I’m here to show you that simplicity is often the key to brilliance. Imagine crafting high-quality documentation and stunning visualizations without complex software or extensive training. Not only is it possible, but it’s also incredibly efficient.</p>
+
+<p>In this guide, I’ll explore the power of leveraging simple, lean tools that are widely available and easy to use. You don’t need to be a tech wizard to create impressive <a href="data">Data Foundation</a> dashboards and architectural documents. I hope you will find these techniques refreshingly straightforward and efficient.</p>
 
 <p>Here are two examples to illustrate the power of simplicity:</p>
 
 <ul>
-  <li>I’ve developed a number of plain <a href="https://zeljkoobrenovic.github.io/grounded-architecture-dashboard-examples/apps/docs/index.html">HTML/CSS/DOM templates</a> (with <a href="https://github.com/zeljkoobrenovic/grounded-architecture-dashboard-examples">open-source code</a>) that I leverage in my daily work, and you can use yourself.</li>
+  <li>I’ve developed several plain <a href="https://zeljkoobrenovic.github.io/grounded-architecture-dashboard-examples/apps/docs/index.html">HTML/CSS/DOM templates</a> (with <a href="https://github.com/zeljkoobrenovic/grounded-architecture-dashboard-examples">open-source code</a>) that I leverage in my daily work, and you can use for free yourself.</li>
   <li><a href="https://sokrates.dev">Sokrates.dev</a>, a tool I developed, generates all reports in plain old HTML without any special libraries. Check out the example of the Apache Foundation <a href="https://d3axxy9bcycpv7.cloudfront.net/asf/_sokrates_landscape/index.html">source code landscape</a>.</li>
 </ul>
 
 <p>These documents work on any browser, can be hosted on any simple HTTP server, and can be opened directly on any laptop or PC. They are also easy to maintain since no complex frameworks are used.</p>
 
-<p>So, grab your digital toolkit and join us on this exciting journey. We’ll dive into the world of plain old HTML, CSS, and the DOM, harnessing the power of everyday tools to create extraordinary results. Get ready to transform your architectural documentation process and unleash your creativity like never before. Let’s embark on this adventure together and discover the magic of simplicity!</p>
+<p>So, grab your digital toolkit and join us on this exciting journey. We’ll harness the power of everyday tools to create extraordinary results. Get ready to transform your architectural documentation process and discover the magic of simplicity!</p>
 
 <p><br /></p>
 <h2 id="implementation-principles">Implementation Principles</h2>
 
-<p>When setting out on any architectural journey, it’s vital to have a clear set of principles to guide you. Think of these principles as your trusty map and compass, ensuring you navigate your way through the architectural landscape efficiently and effectively. Here are the key principles that will keep you on track:</p>
+<p>When setting out on any journey, it’s having a clear set of principles is vital to guide you. These principles are your trusty map and compass, ensuring you navigate the architectural landscape efficiently and effectively. Here are the fundamental principles that will keep you on track:</p>
 
 <ul>
   <li><strong>Leverage Existing Infrastructure</strong>: Why reinvent the wheel when you can turbocharge what you already have? Utilizing existing infrastructure saves time and resources.</li>
-  <li><strong>Maintainable by a Small Architecture Team</strong>: Keep it simple! A lean team means less overhead and faster decision-making.</li>
+  <li><strong>Maintainable by a Small Architecture Team</strong>: Keep it simple! The architecture team normally does not have much time to polish self-created tools.</li>
   <li><strong>Broad Access Inside Organization</strong>: Everyone should have a ticket to the show. Broad access ensures that all stakeholders can engage and contribute.</li>
 </ul>
 
@@ -46,9 +48,9 @@ Ever felt overwhelmed by the multitude of specialized tools available for creati
 
 <h3 id="visualization-with-plain-old-htmlcssdom">Visualization With Plain Old HTML/CSS/DOM</h3>
 
-<p>Who says you need a high-tech toolbox to create dazzling visuals? Sometimes, sticking with the basics can yield the most elegant and effective results. Embrace the simplicity and power of plain old HTML, CSS, and the DOM.</p>
+<p>Who says you need a high-tech toolbox to create dazzling visuals? Sometimes, sticking with the basics can yield the most elegant and practical results. Embrace the simplicity and power of plain old HTML, CSS, and the DOM.</p>
 
-<p>Earlier, I always used heavyweight visualization and UI frameworks to build interactive tools. But nowadays, I leave the heavy frameworks at the door. You can create beautiful, functional interfaces with just the basics. No React, Angular, or Vue here – just pure, unadulterated HTML and CSS magic.</p>
+<p>Earlier, I always used heavyweight visualization and UI frameworks to build interactive tools. But nowadays, I leave the heavy frameworks at the door. You can create beautiful, functional interfaces with just the basics—no React, Angular, or Vue here – just pure, unadulterated HTML and CSS magic.</p>
 
 <p><img src="assets/images/data_site_simple_html.png" alt="" />
 <em><strong>Figure 1:</strong> Simple generated HTML visual of source code analysis results.</em></p>
@@ -56,44 +58,44 @@ Ever felt overwhelmed by the multitude of specialized tools available for creati
 <p><br /></p>
 <h3 id="embedding-json-in-html-documents">Embedding JSON in HTML Documents</h3>
 
-<p>Most of the documents I create are data-driven. This means that visuals are generated using templates based on curated data. For my tools, I primarily export data in JSON format and embed it into a copy of an HTML template. JSON is essentially the lifeblood of these data-driven applications. By embedding JSON directly into HTML documents, I can dynamically integrate and display data. This method not only makes the documents more portable but also ensures they can be easily opened and viewed on various devices, including laptops.</p>
+<p>Most of the documents I create are data-driven. This approach means that I generate visuals using templates based on structured data. For my tools, I primarily export data in JSON format and embed it into a copy of an HTML template. JSON is the lifeblood of these data-driven applications. I can dynamically display data by insode HTML documents. This method makes the documents more portable and ensures you can open and view them on various devices.</p>
 
 <h3 id="simple-proven-html-based-2d--3d-visuals">Simple Proven HTML-Based 2D &amp; 3D Visuals</h3>
 
-<p>Let’s talk visuals. You don’t need cutting-edge tools to create stunning graphics. Here are some simple, proven methods to make your data pop:</p>
+<p>Let’s talk visuals. Here are some simple, proven methods I always use (you can find HTML templates of these visuals <a href="https://github.com/zeljkoobrenovic/grounded-architecture-dashboard-examples/tree/main/template/templates/visuals">here</a>):</p>
 
 <ul>
-  <li><strong>Bar Charts</strong>: Classic and effective, perfect for showing comparisons.</li>
-  <li><strong>Graphviz</strong>: Ideal for creating complex graphs and diagrams with ease.</li>
-  <li><strong>3D Node Graph</strong>: Add an extra dimension to your data visualization.</li>
-  <li><strong>Bubble Chart</strong>: Perfect for showing relationships between data points in a visually engaging way.</li>
-  <li><strong>Bubble Zoomable Chart / Sunburst</strong>: Great for exploring hierarchical data with interactive zoom.</li>
-  <li><strong>Treemap</strong>: Perfect for visualizing nested data structures in a compact form.</li>
+  <li><strong><a href="https://d3axxy9bcycpv7.cloudfront.net/asf/activemq/_sokrates_landscape/index.html">Bar Charts</a></strong>: Classic and practical, perfect for showing comparisons.</li>
+  <li><strong><a href="https://d3axxy9bcycpv7.cloudfront.net/asf/_sokrates_landscape/visuals/extension_dependencies_30d.svg">Graphviz</a></strong>: Ideal for easily creating complex graphs and diagrams.</li>
+  <li><strong><a href="https://d3axxy9bcycpv7.cloudfront.net/asf/_sokrates_landscape/visuals/people_dependencies_including_repositories_30_2_force_3d.html">3D Node Graph</a></strong>: Add an extra dimension to your data visualization.</li>
+  <li><strong><a href="https://d3axxy9bcycpv7.cloudfront.net/asf/_sokrates_landscape/visuals/bubble_chart_extensions_contributors_30d.html">Bubble Chart</a></strong>: Perfect for showing relationships between data points in a visually engaging way.</li>
+  <li><strong><a href="https://d3axxy9bcycpv7.cloudfront.net/asf/activemq/activemq/html/visuals/zoomable_circles_main.html">Zoomable Circles</a> / <a href="https://d3axxy9bcycpv7.cloudfront.net/asf/activemq/activemq/html/visuals/zoomable_sunburst_main.html">Sunbursts</a></strong>: Great for exploring hierarchical data with interactive zoom.</li>
+  <li><strong><a href="https://d3axxy9bcycpv7.cloudfront.net/asf/_sokrates_landscape/visuals/tree_map_extensions_contributors_30d.html">Treemap</a></strong>: Perfect for visualizing nested data structures in a compact form.</li>
 </ul>
 
 <h3 id="icon-libraries">Icon Libraries</h3>
 
-<p>Icons are the unsung heroes of data visualization. They add clarity, visual appeal, and help communicate concepts quickly. Explore websites like thenounproject.com for a treasure trove of icons that can enhance your visualizations.</p>
+<p>Icons are the unsung heroes of data visualization. They add clarity and visual appeal and help communicate concepts quickly. Explore websites like thenounproject.com (my favorite) for a treasure trove of icons to enhance your visualizations.</p>
 
 <p><img src="assets/images/data_site_icons.png" alt="" />
-<strong>*Figure 2:</strong> A screenshot from thenounproject.com.</p>
+<em><strong>Figure 2:</strong> A screenshot from thenounproject.com.</em></p>
 
 <p><br /></p>
 <h2 id="version-controlled-lean-documents">Version Controlled Lean Documents</h2>
 
-<p>All generated documents are designed to be small, lean, and capable of being version controlled along with the data used to generate them.</p>
+<p>I generate documents that are small, lean, and capable of being version-controlled, along with the data used to generate them.</p>
 
 <h3 id="small-and-lean-documents">Small and Lean Documents</h3>
 
-<p>The documents are compact in size, ensuring they do not consume excessive storage space, making them suitable for large projects. They are efficient, containing only essential information without unnecessary bloat, which makes them easy to read, understand, and manage.</p>
+<p>The documents must be compact, ensuring they do not consume excessive storage space and are suitable for large projects. They are efficient, containing only essential information without unnecessary bloat, which makes them easy to read, understand, and manage.</p>
 
 <h3 id="version-controlled">Version Controlled</h3>
 
-<p>These documents are managed using a version control system (VCS) like Git. This system tracks changes over time and allows users to revert to previous versions if needed. It also enables multiple users to work on the same documents simultaneously, providing a clear history of changes, which improves collaboration and reduces conflicting edits.</p>
+<p>I manage these documents using a version control system (VCS) like Git. This system tracks changes over time and allows users to revert to previous versions if needed. It also enables multiple users to work on the same documents simultaneously, providing a clear history of changes, which improves collaboration and reduces conflicting edits.</p>
 
 <h3 id="together-with-data">Together with Data</h3>
 
-<p>The data used to generate the documents is stored and version-controlled alongside the documents. This ensures that the documents and data are always in sync. This approach allows for the reproduction of any document version exactly as it was at any point in time, maintaining integrity and reliability.</p>
+<p>I also store data used to generate the documents alongside the documents. This approach ensures that the documents and data are always in sync. The approach allows for reproducing any document version precisely as it was at any point in time, maintaining integrity and reliability.</p>
 
 <h3 id="lean-hosting-techniques">Lean Hosting Techniques</h3>
 
@@ -101,30 +103,30 @@ Ever felt overwhelmed by the multitude of specialized tools available for creati
 
 <ol>
   <li>
-    <p><strong>Open Documents on Your Laptop</strong>: Easily open your documents directly on your laptop without needing to install any servers or special frameworks. This ensures accessibility anytime, anywhere—no setup required!</p>
+    <p><strong>Open Documents on Your Laptop</strong>: You can easily open your documents directly on your laptop without needing to install any servers or special frameworks. This ensures accessibility anytime, anywhere—no setup required!</p>
   </li>
   <li>
-    <p><strong>Share Across the Organization</strong>: Use any simple HTTP server (like GitHub Pages) for straightforward sharing. No complex setup, just pure, effortless sharing.</p>
+    <p><strong>Share Across the Organization</strong>: Use any simple HTTP server (like GitHub Pages) for straightforward sharing. There is no complex setup; it is just pure, effortless sharing.</p>
   </li>
 </ol>
 
-<p>By keeping things simple, your documents remain accessible, easy to share, and maintainable. No advanced technical knowledge or elaborate configurations are necessary. So go ahead, create your documents, open them anywhere, and share them effortlessly!</p>
+<p>Keeping things simple keeps your documents accessible, easy to share, and maintainable. No advanced technical knowledge or elaborate configurations are necessary. So, create your documents, open them anywhere, and share them effortlessly!</p>
 
 <h3 id="benefits">Benefits</h3>
 
 <p>Lean documents are efficient to generate, easy to store, and fast to process. They provide detailed traceability, enhancing transparency and accountability through a comprehensive history of changes. Consistency is maintained as the context and basis for documents are always available, preventing inconsistencies and errors. Multiple users can efficiently collaborate with clear mechanisms to resolve conflicts and track contributions.</p>
 
-<p>By ensuring all generated documents are small, lean, and version controlled along with their data, the system maximizes efficiency, consistency, and collaboration while maintaining a high level of traceability and reproducibility.</p>
+<p>By ensuring all generated documents are small, lean, and version-controlled along with their data, the system maximizes efficiency, consistency, and collaboration while maintaining high traceability and reproducibility.</p>
 
 <p><br /></p>
 <h2 id="collaborative-editing-via-google-sheets">Collaborative Editing via Google Sheets</h2>
 
-<p>To facilitate collaborative editing of data that requires manual changes, I frequently relied on Google Sheets to provide controlled collaborative changes by a broader audience. By leveraging Google Sheets, multiple users can simultaneously access, edit, and update data in real time, ensuring that everyone works with the most current information.</p>
+<p>To facilitate collaborative editing of data that requires manual changes, I frequently relied on Google Sheets to provide a controlled collaborative editor to a broader audience. By leveraging Google Sheets, multiple users can simultaneously access, edit, and update data in real-time, ensuring that everyone works with the most current information.</p>
 
 <p><img src="assets/images/data_site_actors.png" alt="A simple runtime architecture leveraging GitHub pages and Google Sheets." />
 <em><strong>Figure 3:</strong> A collaborative editing model.</em></p>
 
-<p>To further streamline this process, I embedded a JavaScript script within the Google Sheet. This script’s primary function was to export the data into a JSON format, which could then be used to generate visual documents using HTML templates.</p>
+<p>I embedded a JavaScript script within the Google Sheet to further streamline this process. This script’s primary function was to export the data into a JSON format, which you can use to generate visual documents using HTML templates.</p>
 
 <p><img src="assets/images/data_site_sheet_json.png" alt="" />
 <em><strong>Figure 4:</strong> Exporting Google Sheet data to JSON for document generation.</em></p>
@@ -147,7 +149,7 @@ Ever felt overwhelmed by the multitude of specialized tools available for creati
 <p><br /></p>
 <h2 id="its-your-turn-now">It’s Your Turn Now!</h2>
 
-<p>By adhering to described principles and techniques, you’ll be well-equipped to create stunning, maintainable architectural documentation and visualizations that everyone in your organization can appreciate and utilize. Happy architecting!</p>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[A summary of characteristics of high-performing technology organizations.]]></summary></entry><entry><title type="html">Context: Fast-Moving Global Organizations</title><link href="http://localhost:4000/context" rel="alternate" type="text/html" title="Context: Fast-Moving Global Organizations" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/context</id><content type="html" xml:base="http://localhost:4000/context"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/roller-coaster-3605743_1920.jpg" /></p>
+<p>By adhering to the principles and techniques described, you’ll be well-equipped to create stunning, maintainable architectural documentation and visualizations that everyone in your organization can appreciate and utilize. Happy architecting!</p>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[A few practical tips on building lean architecture dashboards and documents (e.g., to create the data foundation) using simple, widely available tools.]]></summary></entry><entry><title type="html">Context: Fast-Moving Global Organizations</title><link href="http://localhost:4000/context" rel="alternate" type="text/html" title="Context: Fast-Moving Global Organizations" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/context</id><content type="html" xml:base="http://localhost:4000/context"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/roller-coaster-3605743_1920.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/paulbr75-2938186/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3605743">Paul Brennan</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3605743">Pixabay</a>
 </div>
@@ -500,7 +502,7 @@ Image by <a href="https://pixabay.com/users/3844328-3844328/?utm_source=link-att
   <ul>
     <li>The architecture Data Foundation serves as a medium to create a complete, up-to-date picture of critical elements of the technology landscapes of big organizations.</li>
     <li>The Data Foundation provides an architecture-centric view of data about a technology landscape based on source code analyses, public cloud billing reports, vibrancy reports, or incident tickets.</li>
-    <li>To facilitate the creation of a Data Foundation, I have been working on creating open-source tools that can help obtain valuable architectural insights from data sources, such as source code repositories.</li>
+    <li>To facilitate the creation of a Data Foundation, I have been working on creating open-source tools that can help obtain valuable architectural insights from data sources, such as source code repositories. Check out open-source <a href="https://zeljkoobrenovic.github.io/grounded-architecture-dashboard-examples/">architecture dashboard examples</a> and <a href="https://sokrates.dev">Sokrates</a>.</li>
   </ul>
 </blockquote>
 <style>
@@ -1312,7 +1314,7 @@ Image by <a href="https://pixabay.com/users/wikiimages-1897/?utm_source=link-att
 
 <p>Each element of Grounded Architecture enables architecture function to operate at scale in several ways.</p>
 
-<h4 id="data-foundation">Data Foundation</h4>
+<h3 id="data-foundation">Data Foundation</h3>
 <p>The <strong>Data Foundation</strong> can support large-scale operations by:</p>
 
 <ul>
@@ -1321,7 +1323,7 @@ Image by <a href="https://pixabay.com/users/wikiimages-1897/?utm_source=link-att
   <li><strong>Automation</strong>: Automation minimizes manual effort, which is crucial as manual processes do not scale efficiently. Automating data management processes ensures that data can be collected, processed, and analyzed without extensive human intervention.</li>
 </ul>
 
-<h4 id="people-foundation">People Foundation</h4>
+<h3 id="people-foundation">People Foundation</h3>
 <p>The <strong>People Foundation</strong> enhances execution at scale by focusing on:</p>
 
 <ul>
@@ -1330,7 +1332,7 @@ Image by <a href="https://pixabay.com/users/wikiimages-1897/?utm_source=link-att
   <li><strong>Facilitating Shared Decisions</strong>: Enabling a culture where shared decisions are made quickly can enhance the responsiveness and adaptability of the organization.</li>
 </ul>
 
-<h4 id="architecture-activities-platform">Architecture Activities Platform</h4>
+<h3 id="architecture-activities-platform">Architecture Activities Platform</h3>
 <p>The <strong>Architecture Activities Platform</strong> promotes scalability by:</p>
 
 <ul>
@@ -1353,7 +1355,7 @@ Image by <a href="https://pixabay.com/users/painter06-3732158/?utm_source=link-a
 
 <p>The Grounded Architecture structure has core elements that provide a highly flexible and adaptive setting. Here are the key drivers of flexibility within this structure:</p>
 
-<h4 id="data-foundation-1">Data Foundation</h4>
+<h3 id="data-foundation-1">Data Foundation</h3>
 
 <p>The <strong>Data Foundation</strong> can support adaptability by:</p>
 
@@ -1362,7 +1364,7 @@ Image by <a href="https://pixabay.com/users/painter06-3732158/?utm_source=link-a
   <li><strong>Configurable Adaptation to Organizational Changes</strong>: A robust Data Foundation adapts its views to the changing realities of different parts of the organization, ensuring that data insights are always aligned with current operational contexts.</li>
 </ul>
 
-<h4 id="people-foundation-1">People Foundation</h4>
+<h3 id="people-foundation-1">People Foundation</h3>
 
 <p>The <strong>People Foundation</strong> can support adaptability by:</p>
 
@@ -1371,7 +1373,7 @@ Image by <a href="https://pixabay.com/users/painter06-3732158/?utm_source=link-a
   <li><strong>Decentralized Support</strong>: By maintaining a network of well-connected architects, the architecture function can support the organization effectively without relying solely on a central team. This decentralization fosters resilience and adaptability, enabling architectural guidance and oversight across various teams and projects.</li>
 </ul>
 
-<h4 id="architecture-activities-platform-1">Architecture Activities Platform</h4>
+<h3 id="architecture-activities-platform-1">Architecture Activities Platform</h3>
 
 <p>The <strong>Architecture Activities Platform</strong> can support adaptability by:</p>
 
@@ -1395,7 +1397,7 @@ Image by <a href="https://pixabay.com/users/qimono-1962238/?utm_source=link-attr
 
 <p>To make the decision process more data-informed and less dependent on opinions, we need to focus on the interplay between three foundational elements. These elements collectively create a robust framework for data-driven decision-making in architectural discussions.</p>
 
-<h4 id="data-foundation-2">Data Foundation</h4>
+<h3 id="data-foundation-2">Data Foundation</h3>
 
 <p>The <strong>Data Foundation</strong> ensures the availability and readiness of data needed for decisions, fueling data-informed discussions and decision-making via:</p>
 
@@ -1406,7 +1408,7 @@ Image by <a href="https://pixabay.com/users/qimono-1962238/?utm_source=link-attr
   <li><strong>Real-Time Data Availability:</strong> Ensure that data is updated regularly and available in real-time to inform ongoing discussions and decisions.</li>
 </ul>
 
-<h4 id="people-foundation-2">People Foundation</h4>
+<h3 id="people-foundation-2">People Foundation</h3>
 
 <p>Data is not enough; you need to make this data available to and used by critical people. The <strong>People Foundation</strong> ensures people are available and well-connected to share information and make decisions via:</p>
 
@@ -1417,7 +1419,7 @@ Image by <a href="https://pixabay.com/users/qimono-1962238/?utm_source=link-attr
   <li><strong>Engagement Practices:</strong> Develop practices for regularly engaging stakeholders and ensuring their input is considered in decision-making.</li>
 </ul>
 
-<h4 id="architecture-activities-platform-2">Architecture Activities Platform</h4>
+<h3 id="architecture-activities-platform-2">Architecture Activities Platform</h3>
 
 <p>The <strong>Architecture Activities Platform</strong> provides processes that enable architects to move from opinion-based decisions to data-driven economic risk modeling via:</p>
 <ul>
@@ -1441,15 +1443,15 @@ Image by iStock
 
 <p>Misalignments often occur in such settings due to various factors, including complex structures and diverse objectives. However, a well-grounded architecture can address and reduce these misalignments through its foundations.</p>
 
-<h4 id="the-data-foundation">The Data Foundation</h4>
+<h3 id="the-data-foundation">The Data Foundation</h3>
 
 <p>The <strong>Data Foundation</strong> improves organization alignment by <strong>creating transparency</strong>. By establishing a robust data foundation, organizations can enhance transparency, which is necessary for building trust and facilitating alignment. This involves making data easily accessible and understandable across different departments, ensuring everyone has the same information and can make informed decisions. Transparent data practices help align objectives and actions, reducing the chances of misalignment.</p>
 
-<h4 id="the-people-foundation">The People Foundation</h4>
+<h3 id="the-people-foundation">The People Foundation</h3>
 
 <p>The <strong>People Foundation</strong> improves organization alignment by <strong>facilitating collaboration.</strong> The People Foundation focuses on developing global structures that connect employees across various functions and geographies. By making it easier for people to collaborate, share knowledge, and work together, this foundation helps create a unified approach to organizational goals. Collaborative environments foster alignment by ensuring that everyone is working towards common objectives.</p>
 
-<h4 id="the-architecture-activities-platform">The Architecture Activities Platform</h4>
+<h3 id="the-architecture-activities-platform">The Architecture Activities Platform</h3>
 
 <p>The <strong>Architecture Activities Platform</strong> improves organization alignment by:</p>
 
@@ -1478,7 +1480,7 @@ Image by iStock
 
 <p>The Grounded Architecture structure offers comprehensive support through its Data Foundation, People Foundation, and Architecture Activities Platform to help organizations learn quickly, stay up-to-date with emerging technologies, and recommend technology upgrades.</p>
 
-<h4 id="data-foundation-3">Data Foundation</h4>
+<h3 id="data-foundation-3">Data Foundation</h3>
 <p>The Data Foundation plays a pivotal role in accelerating the learning and adoption of new technologies. Here’s how:</p>
 
 <ul>
@@ -1486,7 +1488,7 @@ Image by iStock
   <li><strong>Supporting Informed Decision-Making</strong>: Architects and teams can make informed decisions regarding technology adoption and upgrades with up-to-date data. This minimizes the risk associated with implementing new technologies and ensures that the choices are based on solid evidence and insights.</li>
 </ul>
 
-<h4 id="people-foundation-3">People Foundation</h4>
+<h3 id="people-foundation-3">People Foundation</h3>
 <p>The People Foundation enhances learning by creating and maintaining a culture of knowledge sharing. It achieves this through:</p>
 
 <ul>
@@ -1494,7 +1496,7 @@ Image by iStock
   <li><strong>Maximizing Personal Learning</strong>: The People Foundation ensures that individual lessons are transformed into shared guidelines by deriving generalized insights from cross-group cases. This collective intelligence benefits the entire organization and fosters continuous personal and professional growth among team members.</li>
 </ul>
 
-<h4 id="architecture-activities-platform-3">Architecture Activities Platform</h4>
+<h3 id="architecture-activities-platform-3">Architecture Activities Platform</h3>
 <p>The Architecture Activities Platform integrates learning into daily workflows through structured processes:</p>
 
 <ul>

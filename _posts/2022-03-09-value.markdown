@@ -61,21 +61,21 @@ Image by <a href="https://pixabay.com/users/wikiimages-1897/?utm_source=link-att
 
 Each element of Grounded Architecture enables architecture function to operate at scale in several ways.
 
-#### Data Foundation
+### Data Foundation
 The **Data Foundation** can support large-scale operations by:
 
 - **Self-Service Data Access**: Providing data as a self-service resource allows teams to access the information they need independently, reducing the reliance on manual sharing methods. This can be facilitated through internal websites or portals where data tools and insights are readily available.
 - **Elimination of Meetings**: We significantly reduced the need for numerous information-sharing or data-gathering meetings using automated data tools (every time we added a new data app, I got a few hours back in my calendar and had fewer Slack messages). This reduction saves time and ensures that data is consistently up-to-date and accessible.
 - **Automation**: Automation minimizes manual effort, which is crucial as manual processes do not scale efficiently. Automating data management processes ensures that data can be collected, processed, and analyzed without extensive human intervention.
 
-#### People Foundation
+### People Foundation
 The **People Foundation** enhances execution at scale by focusing on:
 
 - **Developing Connections**: Building strong relationships at all levels of the organization is crucial. This network facilitates quicker alignment of objectives, efficient information sharing, and swift execution of shared decisions.
 - **Speeding Up Alignment**: Effective communication channels and collaborative tools help align teams rapidly, ensuring everyone is on the same page and working towards common goals.
 - **Facilitating Shared Decisions**: Enabling a culture where shared decisions are made quickly can enhance the responsiveness and adaptability of the organization.
 
-#### Architecture Activities Platform
+### Architecture Activities Platform
 The **Architecture Activities Platform** promotes scalability by:
 
 - **Distributed Decision-Making**: Encouraging organizational decision-making prevents bottlenecks associated with centralized decision-making processes. This empowers more people to take ownership and make decisions within their scope, leading to faster and more effective outcomes.
@@ -99,21 +99,21 @@ Image by <a href="https://pixabay.com/users/painter06-3732158/?utm_source=link-a
 
 The Grounded Architecture structure has core elements that provide a highly flexible and adaptive setting. Here are the key drivers of flexibility within this structure:
 
-#### Data Foundation
+### Data Foundation
 
 The **Data Foundation** can support adaptability by:
 
 * **Automation and Extensibility**: We could swiftly extend and reconfigure our data infrastructure by implementing a highly automated Data Foundation to accommodate changes. For example, this could involve integrating new source code repositories and data sources following acquisitions or mergers. Automation ensures that data remains relevant and up-to-date, providing essential connections and feedback tailored to the organization's evolving needs.
 * **Configurable Adaptation to Organizational Changes**: A robust Data Foundation adapts its views to the changing realities of different parts of the organization, ensuring that data insights are always aligned with current operational contexts.
 
-#### People Foundation
+### People Foundation
 
 The **People Foundation** can support adaptability by:
 
 * **Capacity Redistribution**: The People Foundation, through a central team, can alleviate the temporary capacity shortages experienced by distributed teams. This ensures that architectural functions continue to operate smoothly even during periods of high demand or limited resources.
 * **Decentralized Support**: By maintaining a network of well-connected architects, the architecture function can support the organization effectively without relying solely on a central team. This decentralization fosters resilience and adaptability, enabling architectural guidance and oversight across various teams and projects.
 
-#### Architecture Activities Platform
+### Architecture Activities Platform
 
 The **Architecture Activities Platform** can support adaptability by:
 
@@ -137,7 +137,7 @@ Image by <a href="https://pixabay.com/users/qimono-1962238/?utm_source=link-attr
 
 To make the decision process more data-informed and less dependent on opinions, we need to focus on the interplay between three foundational elements. These elements collectively create a robust framework for data-driven decision-making in architectural discussions. 
 
-#### Data Foundation
+### Data Foundation
 
 The **Data Foundation** ensures the availability and readiness of data needed for decisions, fueling data-informed discussions and decision-making via:
 
@@ -146,7 +146,7 @@ The **Data Foundation** ensures the availability and readiness of data needed fo
 - **Data Analytics:** Employ advanced analytics tools to process and interpret the data, providing meaningful insights to support decisions.
 - **Real-Time Data Availability:** Ensure that data is updated regularly and available in real-time to inform ongoing discussions and decisions.
 
-#### People Foundation
+### People Foundation
 
 Data is not enough; you need to make this data available to and used by critical people. The **People Foundation** ensures people are available and well-connected to share information and make decisions via:
 
@@ -155,7 +155,7 @@ Data is not enough; you need to make this data available to and used by critical
 - **Training and Development:** Provide training programs to enhance the data literacy and analytical skills of architects and decision-makers.
 - **Engagement Practices:** Develop practices for regularly engaging stakeholders and ensuring their input is considered in decision-making.
 
-#### Architecture Activities Platform
+### Architecture Activities Platform
 
 The **Architecture Activities Platform** provides processes that enable architects to move from opinion-based decisions to data-driven economic risk modeling via:
 - **Process Implementation:** Implement processes that guide architects in dismantling hype and buzzwords, presenting problems clearly, and making data-driven decisions.
@@ -177,15 +177,15 @@ Image by iStock
 
 Misalignments often occur in such settings due to various factors, including complex structures and diverse objectives. However, a well-grounded architecture can address and reduce these misalignments through its foundations.
 
-#### The Data Foundation
+### The Data Foundation
 
 The **Data Foundation** improves organization alignment by **creating transparency**. By establishing a robust data foundation, organizations can enhance transparency, which is necessary for building trust and facilitating alignment. This involves making data easily accessible and understandable across different departments, ensuring everyone has the same information and can make informed decisions. Transparent data practices help align objectives and actions, reducing the chances of misalignment.
 
-#### The People Foundation
+### The People Foundation
 
 The **People Foundation** improves organization alignment by **facilitating collaboration.** The People Foundation focuses on developing global structures that connect employees across various functions and geographies. By making it easier for people to collaborate, share knowledge, and work together, this foundation helps create a unified approach to organizational goals. Collaborative environments foster alignment by ensuring that everyone is working towards common objectives.
 
-#### The Architecture Activities Platform
+### The Architecture Activities Platform
 
 The **Architecture Activities Platform** improves organization alignment by:
 
@@ -213,19 +213,19 @@ Image by iStock
 
 The Grounded Architecture structure offers comprehensive support through its Data Foundation, People Foundation, and Architecture Activities Platform to help organizations learn quickly, stay up-to-date with emerging technologies, and recommend technology upgrades.
 
-#### Data Foundation
+### Data Foundation
 The Data Foundation plays a pivotal role in accelerating the learning and adoption of new technologies. Here's how:
 
 - **Facilitating Exploration and Reflection**: The Data Foundation enables individuals and teams to explore new tools and technologies effectively by providing relevant and comprehensive data. Access to this data allows for thorough experimentation, analysis of outcomes, and reflection, which is crucial for understanding and refining new technology implementations. For instance, it may not be easy to calculate the cost of a new cloud service. However, running proofs-of-concept and analyzing collected data can provide good insights.
 - **Supporting Informed Decision-Making**: Architects and teams can make informed decisions regarding technology adoption and upgrades with up-to-date data. This minimizes the risk associated with implementing new technologies and ensures that the choices are based on solid evidence and insights.
 
-#### People Foundation
+### People Foundation
 The People Foundation enhances learning by creating and maintaining a culture of knowledge sharing. It achieves this through:
 
 - **Spaces for Sharing Knowledge**: Regular update calls, knowledge-sharing sessions, and conferences are organized to facilitate the exchange of architectural and technological knowledge. These events are critical for informing the organization about the latest developments and best practices.
 - **Maximizing Personal Learning**: The People Foundation ensures that individual lessons are transformed into shared guidelines by deriving generalized insights from cross-group cases. This collective intelligence benefits the entire organization and fosters continuous personal and professional growth among team members.
 
-#### Architecture Activities Platform
+### Architecture Activities Platform
 The Architecture Activities Platform integrates learning into daily workflows through structured processes:
 
 - **Embedding Learning into Processes**: Learning is accelerated by embedding it into the organization's processes. This is achieved by defining and distributing knowledge-sharing and lesson-learned processes across the organization. By doing so, learning becomes a seamless part of daily activities rather than an additional task. 

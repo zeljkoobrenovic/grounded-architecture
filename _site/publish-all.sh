@@ -1,3 +1,2 @@
-bash publish-pdf.sh
-
 bash publish-epub.sh
+bash publish-pdf.sh

@@ -58,19 +58,21 @@ The first rule states that you must genuinely understand performance: **what peo
 ![](assets/images/arch/iStock-1179186162.jpg)
 ^image by istock^
 
-### General Guidelines
+### Guidelines for Understanding Performance
 
-The Six Simple Rules approach states that you can genuinely understand performance by:
-* Tracing **performance back to behaviors** and how they influence and combine to produce overall results. 
-* Using **observation, mapping, measurement, and discussion**. 
-* **Understanding the context of goals, resources, and constraints** within which the current behaviors constitute rational strategies for people. 
-* Finding out how your **organization’s elements** (structure, scorecards, systems, incentives, and so on) shape these goals, resources, and constraints. 
+To genuinely understand performance, consider the following principles:
 
-### The Role of Architecture Practice
+* Trace performance back to behaviors, understanding how these behaviors influence and combine to produce overall results.
+* Utilize observation, mapping, measurement, and discussion to gain insights.
+* Comprehend the context of goals, resources, and constraints within which current behaviors are rational strategies for people.
+* Discover how your organization's elements—such as structure, scorecards, systems, and incentives—shape these goals, resources, and constraints.
 
-I have found architecture practice can be very helpful in understanding what people really do in organizations in two ways: 
-* Having a **[Data Foundation](#data)** with an **overview of various data sources** can show where activities are happening, visible trends, and how people cooperate. One of the Data Foundation principles, **build maps, not control units,** supports understanding and orientation rather than being a simple metric tool.
-* Leveraging the **[People Foundation](#people)** to **connect people** and enable them to **learn what is happening** in different parts of the organization.
+### Leveraging Architecture Practice
+
+Architecture practice can significantly aid in understanding organizational behaviors through:
+
+* Establishing a **[Data Foundation](#data)** with an overview of various data sources to reveal where activities occur, visible trends, and cooperation among people. One principle of the Data Foundation, **build maps, not control units,** supports understanding and orientation rather than merely serving as a metric tool.
+* Utilizing the **[People Foundation](#people)** to connect individuals and enable them to learn about activities in different parts of the organization.
 
 ## Rule 2: Reinforce Integrators
 
