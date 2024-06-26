@@ -204,12 +204,6 @@ transactions, event logs, and more.
 
 **Nudge** by Richard Thaler draws on psychology and behavioral economics research to define libertarian paternalism as an active engineering of choice architecture. The book also popularised the concept of a nudge, a choice architecture that predictably alters people's behavior without restricting options or significantly changing their economic incentives.
 
-{width: "20%"}
-![](assets/images/books/effortless.jpg)
-
-**Effortless: Make It Easier to Do What Matters Most:** by Greg McKeown is a guide to achieving success without unnecessary struggle. The book emphasizes the power of simplifying tasks and focusing on what truly matters to avoid burnout and increase productivity. McKeown offers practical strategies to make essential work easier, such as prioritizing, automating, and eliminating non-essential activities. 
-
-
 * * *
 
 {width: "20%"}
@@ -230,11 +224,6 @@ transactions, event logs, and more.
 ![](assets/images/books/sowhat.png)
 
 **The So What Strategy** by Davina Stanley and Gerard Castles. Any architect has been caught at the end of a presentation when their audience, perhaps a leadership team or a Steering Committee, looks at them blankly and asks this most uncomfortable question: ‘So what?' How does that help? The book provides a pragmatic approach to answering that question in one powerful sentence. Or how to set yourself up so nobody asks it.
-
-{width: "20%"}
-![](assets/images/books/radical-candor.jpeg)
-
-**"Radical Candor** by Kim Scott is a business leadership book that advocates for a management style combining both caring personally and challenging directly. Scott introduces the concept of "Radical Candor" as the sweet spot between Obnoxious Aggression, Manipulative Insincerity, and Ruinous Empathy. By fostering an environment where open, honest communication is encouraged and employees feel genuinely valued, leaders can drive higher performance, engagement, and collaboration within their teams.
 
 {pagebreak}
 
