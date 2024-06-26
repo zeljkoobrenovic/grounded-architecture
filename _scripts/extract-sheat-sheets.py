@@ -51,12 +51,15 @@ posts = ['2022-01-01-intro.markdown',
          '2022-06-14-leadership.markdown',
          '2022-06-15-career-paths.markdown',
          '2022-07-01-doing-architecture.markdown',
-         '2022-07-02-decision-intelligence.md',
          '2022-07-07-culture-map.md',
          '2022-07-08-six-simple-rules.md',
+         '2022-07-09-effortless.md',
          '2022-07-10-product.md',
          '2022-07-12-governance.markdown',
-         '2022-07-15-economics.md']
+         '2022-07-15-economics.md',
+         '2022-07-22-decision-intelligence.md',
+         '2022-07-23-human-decisions.md'
+         ]
 
 
 all_content = '## Introductions\n\n'
