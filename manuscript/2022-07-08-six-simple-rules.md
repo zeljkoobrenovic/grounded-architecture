@@ -2,8 +2,7 @@
 
 # Managing Organizational Complexity: Six Simple Rules {#six-simple-rules}
 
-![](assets/images/arch/spices-g253b7ca36_1920.jpg)
-^image by nat aggiato from pixabay^
+![image by nat aggiato from pixabay](assets/images/arch/spices-g253b7ca36_1920.jpg)
 
 **IN THIS SECTION, YOU WILL:**  Get an introduction to Six Simple Rules, a model for setting up organizational structures based on cooperation.
 
@@ -55,29 +54,29 @@ This difference between **Autonomy** and **Self-Sufficiency** leads us to the se
 
 The first rule states that you must genuinely understand performance: **what people do** and **why they do it**. When you know why people do what they do and how it drives performance, you can define the **minimum sufficient set of interventions with surgical accuracy**. 
  
-![](assets/images/arch/iStock-1179186162.jpg)
-^image by istock^
+![image by istock](assets/images/arch/iStock-1179186162.jpg)
 
-### General Guidelines
+### Guidelines for Understanding Performance
 
-The Six Simple Rules approach states that you can genuinely understand performance by:
-* Tracing **performance back to behaviors** and how they influence and combine to produce overall results. 
-* Using **observation, mapping, measurement, and discussion**. 
-* **Understanding the context of goals, resources, and constraints** within which the current behaviors constitute rational strategies for people. 
-* Finding out how your **organization’s elements** (structure, scorecards, systems, incentives, and so on) shape these goals, resources, and constraints. 
+To genuinely understand performance, consider the following principles:
 
-### The Role of Architecture Practice
+* Trace performance back to behaviors, understanding how these behaviors influence and combine to produce overall results.
+* Utilize observation, mapping, measurement, and discussion to gain insights.
+* Comprehend the context of goals, resources, and constraints within which current behaviors are rational strategies for people.
+* Discover how your organization's elements—such as structure, scorecards, systems, and incentives—shape these goals, resources, and constraints.
 
-I have found architecture practice can be very helpful in understanding what people really do in organizations in two ways: 
-* Having a **[Data Foundation](#data)** with an **overview of various data sources** can show where activities are happening, visible trends, and how people cooperate. One of the Data Foundation principles, **build maps, not control units,** supports understanding and orientation rather than being a simple metric tool.
-* Leveraging the **[People Foundation](#people)** to **connect people** and enable them to **learn what is happening** in different parts of the organization.
+### Leveraging Architecture Practice
+
+Architecture practice can significantly aid in understanding organizational behaviors through:
+
+* Establishing a **[Data Foundation](#data)** with an overview of various data sources to reveal where activities occur, visible trends, and cooperation among people. One principle of the Data Foundation, **build maps, not control units,** supports understanding and orientation rather than merely serving as a metric tool.
+* Utilizing the **[People Foundation](#people)** to connect individuals and enable them to learn about activities in different parts of the organization.
 
 ## Rule 2: Reinforce Integrators
 
 The Six Simple Rules approach emphasizes the importance of reinforcing integrators by looking at those **directly involved in the work**, giving them **power and interest to foster cooperation in dealing with complexity** instead of resorting to the paraphernalia of overarching hierarchies, overlays, dedicated interfaces, balanced scorecards, or coordination procedures.
  
-![](assets/images/arch/agree-g1f407320e_1920.png)
-^image by robert owen-wahl from pixabay^
+![image by robert owen-wahl from pixabay](assets/images/arch/agree-g1f407320e_1920.png)
 
 ### General Guidelines
 
@@ -97,8 +96,7 @@ Architecture practice, in my view, should be strongly related to reinforcing int
 
 Whenever you consider an **addition to** your organization’s **structure, processes, and systems**, think about **increasing the quantity of power**. Doing so may **save you from increasing complicatedness** and enable you to achieve a more significant impact with less cost. You can increase the quantity of power by allowing some functions to influence performance and stakes that matter to others. 
 
-![](assets/images/arch/iStock-1201215883.jpg)
-^image by istock^
+![image by istock](assets/images/arch/iStock-1201215883.jpg)
 
 ### General Guidelines
  
@@ -118,8 +116,7 @@ Architecture practice can support increasing power quantity with the **[operatin
 
 In the face of business complexity, work is becoming more interdependent. To meet multiple and often contradictory performance requirements, **people must rely more on each other**. They need to **cooperate directly** instead of depending on dedicated interfaces, coordination structures, or procedures that only add to complicatedness. 
 
-![](assets/images/arch/iStock-1072898930.jpg)
-^image by istock^
+![image by istock](assets/images/arch/iStock-1072898930.jpg)
 
 ### General Guidelines
 
@@ -139,8 +136,7 @@ Architecture practice can be directly related to increasing reciprocity:
 The Six Simple Rules approach emphasizes the importance of making visible and clear **what happens tomorrow as a consequence of what they do today**. You can manage complex requirements by making simple changes while removing organizational complexity. With the strategic alignment typical of the hard approach, these simple solutions—for instance, career paths—often come at the end of a sequence that starts by installing the most cumbersome changes: new structure, processes, systems, metrics, etc. Simple and effective solutions are then impossible.
  
 
-![](assets/images/arch/trees-gc38b3c617_1920.jpg)
-^image by joe from pixabay^
+![image by joe from pixabay](assets/images/arch/trees-gc38b3c617_1920.jpg)
 
 ### General Guidelines
 
@@ -160,8 +156,7 @@ Architecture practice can extend the shadow of the future in multiple ways:
 
 Lastly, the Six Simple Rules approach recommends that when you cannot create direct feedback loops embedded in people’s tasks, you need **management’s intervention to close the loop**. Managers must then use the familiar performance evaluation tool but in a very different way. 
 
-![](assets/images/arch/people-gac98109e9_1920.jpg)
-^image by stocksnap from pixabay^
+![image by stocksnap from pixabay](assets/images/arch/people-gac98109e9_1920.jpg)
 
 ### General Guidelines
 
