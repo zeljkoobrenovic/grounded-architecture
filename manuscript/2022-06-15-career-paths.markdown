@@ -2,8 +2,7 @@
 
 # Architects' Career Paths: Raising the Bar {#career}
 
-![](assets/images/arch/pole-vault.jpg)
-^image by istock tableatny (cc by 2.0)^
+![image by istock tableatny (cc by 2.0)](assets/images/arch/pole-vault.jpg)
 
 **IN THIS SECTION, YOU WILL:**  Get ideas and tips about developing architects' career paths.
 
@@ -21,8 +20,7 @@ My view of architecture has **a strong engineering bias**. Architects' career pa
 
 Regarding career progression, Figure 1 shows an example of architectural career paths in relation to engineering, which I used to define architectural career paths. 
 
-![](assets/images/arch/career-paths.png)
-***Figure 1:** An example of an IT architect career paths in relation to engineering.*
+![Figure 1: An example of an IT architect career paths in relation to engineering.](assets/images/arch/career-paths.png)
 
 Stepping from an engineering position to an architecture requires three changes:
 * Getting **a broader scope** of work,
@@ -37,6 +35,76 @@ After the role of an Architect, I usually envision three tracks of progression:
 * **Enterprise Architects**, being closer to product, management, strategy, and business functions, frequently serving as senior engineering leaders' right hand. 
 
 But an architect's path can take many different directions and have many other names. More important than a formal title is a continuous search for staying relevant and making an [impact](#impact).
+
+## Performance & Growth Management
+
+I have frequently used the Radical Candor framework (a management philosophy developed by Kim Scott) to manage the performance and growth of IT architects, focusing on fostering an environment of honest communication and personal development. Here's how we apply the fundamental principles that you could use as an inspiration for your processes.
+
+### Key Principles
+
+#### Care Personally
+- **Build Relationships:** Prioritize building strong relationships with each IT architect, understanding their motivations, career aspirations, and personal goals. This foundation of trust makes it easier to give and receive feedback.
+- **Support and Empathy:** Ensure each team member feels valued and supported, showing genuine care for their well-being and professional growth.
+
+#### Challenge Directly
+- **Honest Feedback:** Provide clear, specific feedback on their performance, ensuring it is both direct and constructive. This feedback helps IT architects understand their strengths and areas for improvement without ambiguity.
+- **Timely Interventions:** Address performance issues promptly as they arise, preventing small problems from escalating and ensuring continuous improvement.
+
+#### Give Praise and Criticism
+- **Balanced Approach:** Maintain a balance between praising good performance and providing constructive criticism. This approach ensures that IT architects feel recognized for their achievements while being aware of areas needing development.
+- **Actionable Feedback:** Deliver specific and actionable criticism, giving clear guidance on how to improve and succeed.
+
+#### Create a Feedback Culture
+- **Encourage Two-Way Feedback:** Foster an environment where IT architects feel comfortable giving feedback to us and their peers, promoting openness and trust within the team.
+- **Regular Check-ins:** Conduct regular one-on-one meetings to discuss performance, goals, and feedback, ensuring continuous communication and alignment.
+
+#### Focus on Growth
+- **Development Plans:** Use feedback to create personalized development plans for each IT architect, aligning their growth with the organization's objectives and career aspirations.
+- **Continuous Learning:** Encourage a culture of continuous learning, providing resources and opportunities for skill enhancement and professional growth.
+
+#### Manage Performance Reviews
+- **Transparent Criteria:** Ensure that performance reviews are based on transparent and fair criteria so IT architects understand how their performance is assessed.
+- **Consistency:** Apply performance standards consistently across the team to maintain fairness and equity in evaluations.
+
+The described framework aims to create a supportive environment that promotes growth, accountability, and high performance.
+
+### Performance Management
+
+Performance targets need to be closely aligned with the organization's strategic goals and should be articulated in terms of their impact (refer to the [impact section](#impact) for more details). These targets should encompass the following aspects (Figure 2):
+
+1. **Big-Picture Thinking**: Ensuring that every target supports the organization's overarching vision and long-term objectives. It involves understanding how individual contributions fit into the broader context and drive the organization forward.
+
+2. **Execution**: Focusing on effectively implementing strategies and plans. Support efficient and timely achievement of tasks and projects.
+
+3. **Leveling Up**: Encouraging continuous improvement and development, Enhancing skills, processes, and performance standards, and fostering a culture of growth and excellence within the organization.
+
+![Figure 2: An example framework for defining goals of architects: aligned with ogranizationals strategic goals, mesured in terms of three pillars of impact (big-picture thinking, execution, and leveling up).](assets/images/performance-goals-impact.png)
+
+### Growth Management
+
+"Radical Candor" recognizes that employees have different career trajectories and aspirations in growth and performance. It divides these into two main categories: the steep growth trajectory (superstars) and the stable growth trajectory (rock stars, solid as a rock). People of both growth trajectories could have poor or exceptional performance (Figure 3).
+
+![Figure 3: An example framework for measuring the performance of architects of different growth trajectories.](assets/images/performance-growth.png)
+
+Here's an overview of how views growth and performance for rock stars and superstar:
+
+#### Steep Growth Trajectory (Superstars)
+
+**Characteristics:**
+- These individuals are highly ambitious and driven, continuously seeking new challenges and responsibilities.
+- They have a rapid professional development pace and are often on the path to leadership roles.
+
+**Growth Opportunities:**
+- **Career Advancement:** Superstars often aim for significant promotions, such as moving from Architect to Senior Architect, Chief Architect, or even transitioning to roles like Director of Engineering or CTO.
+- **Skill Development:** They focus on acquiring new skills, mastering advanced technologies, and improving leadership capabilities.
+- **Increased Responsibilities:** Taking on more complex projects, leading teams, and contributing to strategic initiatives.
+
+**Performance Management:**
+- **Feedback:** Provide challenging feedback that pushes them to grow while recognizing their achievements.
+- **Support:** Offer opportunities for further education, mentorship, and exposure to high-stakes projects.
+- **Recognition:** Acknowledge their contributions and potential for future leadership roles within the organization.
+
+By applying these principles, we aimed to create an environment where employees feel supported and challenged, leading to higher engagement, better performance, and more effective personal and professional growth.
 
 ## Hiring Architects
 
@@ -90,6 +158,38 @@ For senior positions, I typically introduce an additional step of meeting senior
    * Communication and collaboration skills
 
 With the described steps, you can get a solid overview of all critical aspects of superglue architects. In particular, the involvement of people outside architecture or engineering is crucial to minimize risk related to a lack of interest and ability to engage with all relevant stakeholders.
+
+#### Stable Growth Trajectory (Rock Stars)
+
+* **Characteristics:**
+   - These employees excel in their current roles and derive satisfaction from achieving excellence in a stable, consistent manner.
+   - They prefer deepening their expertise and maintaining a high level of performance without necessarily seeking rapid promotion.
+
+* **Growth Opportunities:**
+   - **Enhanced Responsibilities:** Taking on critical projects, mentoring others, and providing technical oversight.
+   - **Expertise Development:** Becoming subject matter experts, gaining a "guru" status, and engaging in teaching and coaching.
+   - **Role Variability:** Shifting between roles (e.g., Senior, Principal, Enterprise Architect) to change the scope of work and maintain engagement.
+
+* **Performance Management:**
+   - **Feedback:** Offer constructive feedback that helps them refine their expertise and maintain high performance.
+   - **Support:** Provide opportunities for continuous learning, such as advanced training or involvement in specialized projects.
+   - **Recognition:** Value their deep expertise and stability, acknowledging their critical role in the team's success.
+
+#### Stable Growth Trajectory (Rock Stars)
+
+* **Characteristics:**
+   - These employees excel in their current roles and derive satisfaction from achieving excellence in a stable, consistent manner.
+   - They prefer deepening their expertise and maintaining a high level of performance without necessarily seeking rapid promotion.
+
+* **Growth Opportunities:**
+   - **Enhanced Responsibilities:** Taking on critical projects, mentoring others, and providing technical oversight.
+   - **Expertise Development:** Becoming subject matter experts, gaining a "guru" status, and engaging in teaching and coaching.
+   - **Role Variability:** Shifting between roles (e.g., Senior, Principal, Enterprise Architect) to change the scope of work and maintain engagement.
+
+* **Performance Management:**
+   - **Feedback:** Offer constructive feedback that helps them refine their expertise and maintain high performance.
+   - **Support:** Provide opportunities for continuous learning, such as advanced training or involvement in specialized projects.
+   - **Recognition:** Value their deep expertise and stability, acknowledging their critical role in the team's success.
 
 ## Questions to Consider
 
