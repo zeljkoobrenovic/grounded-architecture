@@ -43,27 +43,27 @@ Image by iStock
         margin-top: 42px;
     }
     h4 {
-        margin-top: 42px;
+        margin-top: 52px;
     }
 </style>
 
 
 
 <br>
-This text presents three practical and influential resources that I've personally found beneficial for IT and software architects. These resources are particularly useful for enhancing communication skills and improving project management effectiveness.
+This text presents three practical and influential resources I've found beneficial for IT and software architects to enhance their communication skills.
 
-* **"So What! How to Communicate What Really Matters to Your Audience" by Mark Magnacca** - This book focuses on communication techniques for IT professionals, emphasizing clarity, audience understanding, and relevance. It teaches architects to effectively convey their ideas by understanding the audience's needs, utilizing clear messaging, and engaging through stories and interactive dialogue. The book provides specific storylines and scenarios to apply these techniques, such as explaining new technologies to stakeholders or discussing project changes with teams.
+* **"So What! How to Communicate What Really Matters to Your Audience" by Mark Magnacca** focuses on communication techniques emphasizing clarity, audience understanding, and relevance. It teaches how to convey ideas effectively by understanding the audience's needs, utilizing clear messaging, and engaging through stories and interactive dialogue. The book provides specific storylines and scenarios to apply these techniques.
 
-* **"Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity" by Kim Scott** - This guide is essential for IT leaders who aim to build strong teams and foster open communication. Scott introduces the concept of Radical Candor, which combines personal care with direct challenges, helping leaders to provide honest feedback while building genuine relationships. The book outlines various quadrants of interaction styles, including Ruinous Empathy and Obnoxious Aggression, providing a framework for understanding the effects of different communication approaches.
+* **"Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity" by Kim Scott** - This guide is essential for anyone who aims to build strong teams and foster open communication. Scott introduces the concept of Radical Candor, which combines personal care with direct challenges, helping leaders provide honest feedback while building genuine relationships. The book outlines various quadrants of interaction styles, including Ruinous Empathy and Obnoxious Aggression, providing a framework for understanding the effects of different communication approaches.
 
-* **"Never Split the Difference: Negotiating As If Your Life Depended On It" by Chris Voss** - Drawing from his experience as an FBI negotiator, Voss offers strategies for high-stakes negotiations and everyday communications within IT environments. Techniques such as Tactical Empathy, Mirroring, and Calibrated Questions help IT architects navigate difficult discussions and reach effective agreements without compromising project goals.
+* **"Never Split the Difference: Negotiating As If Your Life Depended On It" by Chris Voss** - Drawing from his experience as an FBI negotiator, Voss offers strategies for high-stakes negotiations. Techniques such as Tactical Empathy, Mirroring, and Calibrated Questions can help navigate difficult discussions and reach effective agreements without compromising goals.
 
-Each resource can equip IT professionals with the tools to improve their communication and leadership skills, which are crucial for managing teams, persuading stakeholders, and driving successful project outcomes in the fast-paced technology field.
+Each resource can equip IT architects with the tools to improve their communication and leadership skills, which are crucial for influencing stakeholders, driving successful project outcomes,  and managing teams in the fast-paced technology field.
 
 <br>
 ## So What!
 
-**"So What? How to Communicate What Really Matters to Your Audience"** by Mark Magnacca is an essential guide for IT and software architects who must effectively communicate their ideas and solutions to stakeholders, team members, and clients. This book emphasizes the importance of delivering clear, concise, and relevant messages that resonate with the audience's needs and concerns. By applying the principles outlined in "So What!", IT professionals can enhance their communication skills, ensuring their technical insights are understood and valued.
+**"So What? How to Communicate What Really Matters to Your Audience"** by Mark Magnacca is an essential guide for effectively communicating their ideas and solutions to stakeholders, team members, or clients. This book emphasizes the importance of delivering clear, concise, and relevant messages that resonate with the audience's needs and concerns. By applying the principles outlined in "So What!", IT architects can enhance their communication skills, ensuring their technical insights are understood and valued.
 
 ![](assets/images/iStock-1214110598.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
@@ -72,60 +72,165 @@ Image by iStock
 
 ### Key Concepts from the Book
 
-The book emphasizes several crucial concepts for effective communication. It begins by stressing the importance of **knowing your audience**; understanding their interests, concerns, and motivations is foundational. It also highlights the necessity of focusing on the **"So What?" factor**, urging communicators always to clarify the relevance of their messages and why the audience should care. **Clarity and conciseness** are essential—messages should be delivered straightforwardly and avoiding jargon and complex terms.
+The book underscores the paramount importance of **knowing your audience**. This understanding, which includes their interests, concerns, and motivations, is the bedrock of effective communication. It also emphasizes the necessity of focusing on **the "So What?" factor,** urging communicators always to clarify their messages' relevance and why the audience should care. **Clarity and brevity** are also essential—you should deliver messages straightforwardly, avoiding jargon and complex terms.
 
-Furthermore, the **use of stories and analogies** is recommended to make technical concepts more relatable and easier to understand. Keeping the **audience engaged** is another critical point; interactive communication helps maintain interest and promotes better understanding. Finally, **preparation and practice** are essential; rehearsing your communication not only ensures clarity but also builds confidence in your delivery.
+Another critical point is keeping the **audience engaged**; interactive communication helps maintain interest and promotes better understanding. Finally, **preparation and practice** are essential; rehearsing your communication ensures clarity and builds confidence in your delivery.
 
-Mark Magnacca also provides practical tips on communicating different types of messages. He describes [various kinds of storylines](https://obren.io/tools/sowhat/) you can use to communicate almost any topic:
+The **use of stories and analogies** is recommended to make technical concepts more relatable and easier to understand. Mark Magnacca also provides practical tips on communicating different types of messages. He describes [various kinds of storylines](https://obren.io/tools/sowhat/) you can use to communicate almost any topic:
 
-* **Action Jackson:** A simple storyline describing steps. Use when you want to spell out an action plan. Build to map overall recommendations and supporting steps. Avoid when the audience still needs to be convinced.
-* **The Pitch:** Articulates and supports a recommendation. Use when you need to persuade someone. Highlights your value proposition 'right up front.'. Avoid being glib; your supporting reasons must convince your audience.
-* **Traffic Light:** Use it for status updates. It enables you to provide an overview and explain your current position in as much detail as you want. Avoid being sloppy.
+* **Action Jackson:** A simple storyline describing steps. Use it when you want to spell out an action plan. Build it to map overall recommendations and supporting steps. Avoid it when the audience still needs to be convinced.
+* **The Pitch:** Articulates and supports a recommendation. Use it when you need to persuade someone. Highlight your value proposition 'right up front.' Avoid being glib; your supporting reasons must convince your audience.
+* **Traffic Light:** Use it for status updates. It enables you to provide an overview and explain your current position in detail. Avoid being sloppy.
 * **Close the Gap:** Use it to gain your audience's buy-in in one meeting. Explain where you are and where you need to get.
   Build it to outline the case for your action plan. Stick to storyline rules so your audience supports your action
   plan.
 * **Houston, We Have a Problem:** Use when you need to convince an audience of a problem and talk them through actions.
-  Great at combining diagnostics and action. Maps problems, the cause, and resulting steps. Avoid overkill, it is about convincing.
+  Great at combining diagnostics and action. Maps problems, the cause, and resulting steps. Avoid overkill; it is about convincing.
 * **To B, or Not to B:** Use to take your audience on the journey through your thinking. It argues for one particular option. It enables you to explain first and then make recommendations last. Make sure it's complete - great when you need to work through all options, not just one option you like.
 * **Watch Out:** This storyline persuades the audience of the need to change direction. It combines what's working, risks, and action in the same story. Maps what's succeeded, the risks, and remedies. Avoid crafting a narrative that flows without compelling logic.
 
-"So What!" by Mark Magnacca offers a framework that IT and software architects can use to enhance their communication skills. By understanding their audience, focusing on the relevance of their message, and using clear, engaging communication techniques, IT professionals can ensure their technical insights are effectively understood and valued. Applying these principles can lead to better project outcomes, improved team dynamics, and stronger stakeholder relationships.
+The book also proposes a structured framework to communicate ideas clearly and persuasively. The framework suggests that each communication has three main parts:
+
+* A short introductory narrative with three elements:
+  1. **Context**: This sets the stage by providing the background information or the current situation. It helps the audience understand the environment or circumstances in which the issue or opportunity exists. Not everyone knows the situation as you do.
+  2. **Trigger**: This specific event or observation prompts the need for discussion or action right now. It highlights what has changed or what new information has come to light that necessitates addressing the issue.
+  3. **Question**: This is the pivotal "so what!" question that captures the main concern or the central issue that needs to be addressed.
+* **One key point** that is a focus of your storyline. It should provide a clear and concise answer to the question from the introductory narrative.
+* **Supporting points**: These support the proposed answer with data, examples, or logical reasoning. They provide the justification for the recommendation and help convince the audience of its validity.
+
+This structure helps ensure that communication is clear, logical, and persuasive, making it easier for the audience to understand and buy into the proposed solutions.
+
 
 ### Examples
 
 Here are a few examples of how you could use "So What!" techniques in IT practice:
 
-#### **Scenario 1**: Justifying the development team's adoption of a new software development methodology.
+#### Example 1: **Action Jackson**
 
-Understand that developers might be worried about learning new processes and potential disruptions. You might say, "I know that adopting a new methodology can be daunting and may disrupt our current workflow." Highlight the benefits relevant to them: "This new methodology will streamline our development process, making it easier to manage projects and deliver high-quality software faster." Simplify the explanation: "It's a more efficient way to develop software, reducing bugs and improving collaboration." Use stories and analogies: "Imagine if we had a clear, organized roadmap for every project. It would save us time and reduce confusion." Encourage participation and discussion: "How do you think this methodology could help us? What challenges do you foresee?" Practice presenting the new methodology to address
-potential questions and concerns effectively.
+**Scenario**: Implementing a new feature in a software application.
 
-#### **Scenario 2**: Convincing the team to prioritize code quality over speed.
+**Introductory Narrative:**
+* Context: Our previous analysis has shown that we must enhance our user experience to stay competitive.
+* Trigger: Feedback from our recent user survey indicates a high demand for a new feature, an opportunity to improve the overall user experience and add value via new functionality.
+* Question: How do we implement this feature effectively? Can we accelerate the delivery?
 
-Recognize that developers may be under pressure to deliver quickly. You could say, "I know you're all feeling the pressure to deliver features quickly." Explain the importance of code quality: "Prioritizing code quality now will save us time and effort in the long run by reducing bugs and maintenance." Keep it simple: "Good code now means fewer problems later." Use stories and analogies: "It's like building a house. If the foundation is strong, we won't have to fix cracks in the walls later." Ask for their input and concerns: "What challenges do you face when writing high-quality code? How can we support you?" Be ready to present examples and data supporting the importance of code quality.
+**Key Point**: 
+* We will prioritize this as a new initiative but not create shortcuts. We will follow our standard structured approach involving requirement gathering, design, development, testing, deployment, and post-deployment monitoring.
 
-#### **Scenario 3**: Proposing the integration of a new tool to improve workflow efficiency.
+**Supporting Points**: 
+* As this is a complex and risky feature, we must follow a disciplined process. 
+* We will gather requirements by collaborating with stakeholders to define the feature, create design documents approved by the architecture team, implement the feature using our standard methodology, conduct thorough unit and integration testing, deploy the feature to production, and monitor its performance post-deployment. 
+* This process ensures a successful feature launch with minimal risks.
 
-Understand that team members might be skeptical about new tools. You might say, "I know new tools can sometimes seem more hassle than they're worth." Emphasize the tool's benefits: "This tool will automate repetitive tasks, giving you more time to focus on complex problems and innovation." Be direct: "Handling the boring stuff makes your job easier." Use stories and analogies: "Consider it as getting a personal assistant to handle your paperwork so you can focus on your real work." Involve them in the decision: "Would you be willing to try this tool for a week and give feedback on its impact?" Demonstrate the tool's features and prepare to answer questions.
 
-#### **Scenario 4**: Addressing the need for better documentation practices.
+#### Example 2: **The Pitch**
 
-Recognize that developers might see documentation as tedious. You might say, "I understand that documenting your work can feel like a chore." Highlight the long-term benefits: "Good documentation will make it easier for everyone to understand and work with the code, reducing future headaches." Simplify the message: "Documenting now saves us time and confusion later." Use stories and analogies: "It's like leaving a trail of breadcrumbs for others to follow, making it easier for everyone to find their way." Seek their ideas on improving documentation: "What tools or practices would make documentation easier for us?" Provide examples of good documentation and its positive impact on projects.
+**Scenario**: Proposing a new tool for automated testing.
 
-#### **Scenario 5**: Presenting the benefits of refactoring legacy code.
+**Introductory Narrative:**
+* **Context**: Our current testing process is time-consuming and prone to human error. We have previously evaluated several tools and identified Tool X as the best option for automation. At that point, we decided not to adopt it to lack of resources. 
+* **Trigger**: Recent delays and errors in the last project highlighted the inefficiency of our manual testing, reopening requests to adopt an automation tool. However, adoption of the tool would require additional resources.
+* **Question**: Why should we invest resources and adopt Tool X for automated testing?
 
-Understand the reluctance to change something that works. You might say, "I know the legacy code has been working fine, and changing it might seem risky." Explain the benefits of refactoring: "Refactoring will improve performance, make the codebase easier to maintain, and reduce bugs." Be straightforward: "Updating the old code makes it better and easier to work with." Use stories and analogies: "Think of it as renovating an old house. It preserves what's good while making it more livable." Get their thoughts on refactoring: "What concerns do you have about refactoring? How can we address them?" Show examples of successful refactoring projects and their benefits.
+**Key Point**: 
+* Tool X is a cost-effective solution aligned with our technology platform that will increase efficiency, save costs, enhance accuracy, and scale with future growth.
 
-#### **Scenario 6**: Encouraging open communication within the team.
+**Supporting Points**: 
+* Tool X reduces testing time by 50%, saves $100,000 annually, minimizes human error for more reliable results, and can quickly scale to accommodate future growth. 
+* These benefits make Tool X a valuable addition to our testing toolkit.
 
-Recognize that team members might be hesitant to speak up. You could say, "I know it can be difficult to share honest feedback, especially if it's critical." Emphasize the value of open communication: "Open communication helps us identify problems early and work together to solve them, leading to a more effective and happier team." Keep it simple: "Speaking up helps us all improve." Use stories and analogies: "It's like having a map on a journey. When everyone shares what they know, we can avoid obstacles and reach our destination faster." Encourage participation: "What can we do to make it easier for everyone to share their thoughts?" Foster an environment where feedback is regularly shared and valued.
+
+#### Example 3: **Traffic Light**
+
+**Scenario**: Providing a status update on a software development project.
+
+**Introductory Narrative:**
+* **Context**: Our project is midway through the development phase.
+* **Trigger**: Stakeholders need an update on the project status.
+* **Question**: What is the project's current status, and what actions are needed?
+
+**Key Point**: 
+* The project is progressing overall, but the frontend development and integration testing areas require attention to stay on track.
+
+**Supporting Points**: 
+* Backend development is on schedule and 80% complete (green). 
+* Frontend development is slightly behind due to resource constraints (yellow). 
+* Integration testing is delayed by unexpected bugs (red). 
+* To address these issues, we must resolve integration bugs and allocate additional resources to front-end development.
+
+
+#### Example 4: **Close the Gap**
+
+**Scenario**: Convincing stakeholders to approve a migration to a new cloud platform.
+
+**Introductory Narrative:**
+* **Context**: Our current infrastructure is costly and lacks scalability.
+* **Trigger**: We must improve cost efficiency and scalability to close the gap with our competitors.
+* **Question**: Why should we migrate to Cloud Platform Y?
+
+**Key Point**: 
+* Migrating to Cloud Platform Y will improve cost efficiency and improve scalability, enabling us to onboard more new customers.
+
+**Supporting Points**: 
+* Our current state involves high costs and limited scalability. 
+* By migrating to Cloud Platform Y, we will achieve significant cost savings and scalability improvements, ensuring we can meet future demands efficiently.
+
+
+#### Example 5: **Houston, We Have a Problem**
+
+**Scenario**: Addressing a critical performance issue in the software.
+
+**Introductory Narrative:**
+* **Context**: We use a legacy database with known performance issues. Until recently, database performance was manageable and did not negatively affect user experiences.
+* **Trigger**: Since this week, users have reported slow response times, impacting their experience.
+* **Question**: How do we resolve this performance issue?
+
+**Key Point**: 
+* The performance issue is serious and will not disappear by itself. We need to take proactive steps to resolve it. We must thoroughly analyze, optimize queries, and reindex the database.
+
+**Supporting Points**: 
+* The performance issue is due to inefficient database query optimization. 
+* We will diagnose the problem, pinpoint inefficient queries and indexing issues, implement optimizations, and continuously monitor performance to ensure improvement.
+
+
+#### Example 6: **To B, or Not to B**
+
+**Scenario**: Deciding between two software development frameworks.
+
+**Introductory Narrative:**
+* **Context**: We must select a framework for our next project.
+* **Trigger**: The deadline for project start is next month.
+* **Question**: Which framework should we choose?
+
+**Key Point**: 
+* After evaluating both, Framework A is the best choice.
+
+**Supporting Points**: 
+* Framework A offers high performance and extensive community support but has a steep learning curve and higher cost. Framework B is easier to use and cheaper but has limited scalability and a smaller community. 
+* Based on our requirements and long-term goals, Framework A aligns better despite its higher cost.
+
+
+#### Example 7: **Watch Out**
+
+**Scenario**: Advising on potential risks in a software project.
+
+**Introductory Narrative:**
+* **Context**: Our project is progressing, but with some minor manageable security risks.
+* **Trigger**: The upcoming API integration opens significant new security risks.
+* **Question**: How do we mitigate these risks?
+
+**Key Point**: 
+* We need to implement additional security measures and conduct thorough testing.
+
+**Supporting Points**: 
+* Although our development process is efficient and on schedule, the API integration introduces security risks. 
+* With our team's expertise, we can implement additional security measures and conduct thorough testing before integration, proactively addressing these risks and ensuring project success.
 
 
 <br>
 ## Radical Candor
 
-**"Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity"** by Kim Scott is an invaluable resource for IT and software architects who lead teams and engage in critical conversations. The book provides a framework for giving and receiving feedback, building strong relationships, and fostering a culture of open communication. These principles can greatly enhance team dynamics, project efficiency, and overall job satisfaction in IT and software development
-environments.
+**"Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity"** by Kim Scott is an invaluable resource for IT and software architects who engage in critical conversations. The book provides a framework for giving and receiving feedback, building solid relationships, and fostering a culture of open communication. These principles can greatly enhance team dynamics, project efficiency, and overall job satisfaction.
 
 <br>
 <img style="margin-top: -20px; width: 100%; " 
@@ -136,18 +241,22 @@ Image by iStock
 
 ### Key Concepts from the Book
 
-Scott defines a feedback-providing communication framework as having two access points: the directness of challenge and the amount of personal caring. Based on this framework, she defines four quedradns of:
+Scott defines a feedback-providing communication framework as having two access points: the directness of challenge and the amount of personal caring. Based on this framework, she describes four quadrants, representing different styles of how people provide feedback:
 
 - **Radical Candor**: Caring personally while challenging directly.
 - **Ruinous Empathy**: Caring personally without challenging directly.
 - **Obnoxious Aggression**: Challenging directly without caring personally.
 - **Manipulative Insincerity**: Neither caring personally nor challenging directly.
 
-Radical Candor is the only positive option, which happens when you:
+<br>
+<blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">Friendly reminder. Contempt, arrogance, character attacks, and the like are not Radical Candor or valid forms of criticism...These are forms of Obnoxious Aggression. <a href="https://t.co/cdfSxJvr8z">pic.twitter.com/cdfSxJvr8z</a></p>&mdash; Kim Scott (@kimballscott) <a href="https://twitter.com/kimballscott/status/1410707132572266501?ref_src=twsrc%5Etfw">July 1, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<br>
+
+Radical Candor is the only favorable option, which only happens when you:
 1. **Care Personally**: Show genuine concern for your team members' well-being and career growth.
 2. **Challenge Directly**: Provide honest, straightforward feedback to help team members improve.
 
-"Radical Candor" offers a framework that IT and software architects can use to enhance their leadership and communication skills. By applying Scott's principles of caring personally and challenging directly, IT professionals can build stronger teams, foster a culture of continuous improvement, and drive successful project outcomes. The contrasting examples from other quadrants (Ruinous Empathy, Obnoxious Aggression, and Manipulative Insincerity) illustrate the importance of balancing care and directness to achieve the best results.
+"Radical Candor" offers a framework that IT architects can use to enhance their leadership and communication skills. By applying Scott's principles of caring personally and challenging directly, IT professionals can build stronger teams, foster a culture of continuous improvement, and drive successful project outcomes. The contrasting examples from other quadrants (Ruinous Empathy, Obnoxious Aggression, and Manipulative Insincerity) illustrate the importance of balancing care and directness to achieve the best results.
 
 
 ### Examples
@@ -176,7 +285,7 @@ With Radical Candor, you could say, "You all have done an excellent job adapting
 
 Using Radical Candor, you might say, "I appreciate the hard work both of you have put into this project. There seems to be some tension regarding code ownership. Let's discuss how we can collaborate more effectively and ensure everyone's contributions are recognized." Ruinous Empathy would be, "You're both doing great work; let's not worry about who owns what code. It's not important." Obnoxious Aggression could be, "This conflict over code ownership is ridiculous. Figure it out or I'll reassign the tasks." Manipulative Insincerity might be, "I'm not sure whose code is whose, but just try to get along and make it work."
 
-#### **Scenario 6**: Encouraging a junior developer to take on more challenging tasks.
+#### **Scenario 6**: Encouraging a junior architect to take on more challenging tasks.
 
 With Radical Candor, you could say, "I've seen a lot of potential in your work, and you've grown significantly since joining the team. I'd like to see you take on some more challenging tasks. It might be tough at first, but I believe it will help you develop your skills further." Ruinous Empathy might sound like, "You're doing well; no need to take on more challenging tasks right now. Just keep doing what you're comfortable with." Obnoxious Aggression would be, "You need to take on more challenging tasks. Stop taking the easy way out." Manipulative Insincerity would be, "You could try
 some more challenging tasks if you want, but it's fine if you don't feel up to it."
