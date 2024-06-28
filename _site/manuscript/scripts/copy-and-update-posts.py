@@ -4,8 +4,9 @@ import re
 
 covers = {}
 
+def copy_post(post, counter):
+    print(str(counter) + '. ' + post)
 
-def copy_post(post):
     content = ''
 
     in_header = False
@@ -21,9 +22,8 @@ def copy_post(post):
                     line = re.sub('<.*?>', '', line).replace('\n', '')
                     content += '\n^' + line.lower() + '^\n'
                 elif line.startswith('<div'):
-                    print('')
+                    pass
                 elif line.startswith('</div'):
-                    print('')
                     content += '\n'
                 elif line.strip().startswith('> **IN THIS SECTION, YOU WILL'):
                     content += line[1:].strip() + '\n'
@@ -41,11 +41,11 @@ def copy_post(post):
                     content += '\n{pagebreak}\n'
                     content += line + '\n'
                 elif line.strip() == '>':
-                    print('')
+                    pass
                 elif line.strip().startswith('</') or line.strip().startswith('<t'):
-                    print('')
+                    pass
                 elif line.strip().startswith('<blockq') or line.strip().startswith('<script'):
-                    print('')
+                    pass
                 elif line.strip().startswith('>'):
                     content += 'A' + line
                 elif line.strip().startswith('<img') or line.strip().startswith('src='):
@@ -55,7 +55,6 @@ def copy_post(post):
                         sub_line = sub_line.replace('src=\'', '')
                         sub_line = re.sub('".*', "", sub_line)
                         sub_line = sub_line.strip()
-                        print('')
                         content += '\n![](' + sub_line + ')'
                 elif not line.strip().startswith('<img') and not line.strip().startswith('src=') and not line.strip().startswith('style=') and not line.strip().startswith('<br'):
                     line = line.replace('](intro)', '](#intro)')
@@ -123,18 +122,18 @@ posts = [
     '2022-06-02-superglue.markdown',
     '2022-06-03-skills.markdown',
     '2022-06-10-impact.markdown',
-    '2022-06-14-leadership.markdown',
     '2022-06-15-career-paths.markdown',
     '2022-07-01-doing-architecture.markdown',
-    '2022-07-22-decision-intelligence.md',
-    '2022-07-23-human-decisions.md',
-    '2022-07-07-culture-map.md',
+    '2022-07-03-culture-map.md',
+    '2022-07-05-communication.md',
+    '2022-07-07-leadership.markdown',
     '2022-07-08-six-simple-rules.md',
     '2022-07-09-effortless.md',
-    '2022-07-10-communication.md',
     '2022-07-11-product.md',
     '2022-07-12-governance.markdown',
     '2022-07-15-economics.md',
+    '2022-07-22-decision-intelligence.md',
+    '2022-07-23-human-decisions.md',
     '2022-11-01-summary.markdown',
     '2022-11-04-cheat-sheet.markdown',
     '2022-12-02-appendix.markdown',
@@ -142,5 +141,7 @@ posts = [
     '2022-12-15-appendix-cloud.markdown',
     '2022-12-26-appendix-organization.markdown']
 
+counter = 0
 for post in posts:
-    copy_post(post)
+    counter += 1
+    copy_post(post, counter)

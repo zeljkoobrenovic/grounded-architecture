@@ -12,14 +12,14 @@ Part2.txt
 2022-06-02-superglue.markdown
 2022-06-03-skills.markdown
 2022-06-10-impact.markdown
-2022-06-14-leadership.markdown
 2022-06-15-career-paths.markdown
 Part3.txt
 2022-07-01-doing-architecture.markdown
-2022-07-07-culture-map.md
+2022-07-03-culture-map.md
+2022-07-05-communication.md
+2022-07-07-leadership.markdown
 2022-07-08-six-simple-rules.md
 2022-07-09-effortless.md
-2022-07-10-communication.md
 2022-07-11-product.md
 2022-07-12-governance.markdown
 2022-07-15-economics.md

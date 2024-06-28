@@ -2,7 +2,8 @@
 
 # Managing Organizational Complexity: Six Simple Rules {#six-simple-rules}
 
-![image by nat aggiato from pixabay](assets/images/arch/spices-g253b7ca36_1920.jpg)
+![](assets/images/arch/spices-g253b7ca36_1920.jpg)
+^image by nat aggiato from pixabay^
 
 **IN THIS SECTION, YOU WILL:**  Get an introduction to Six Simple Rules, a model for setting up organizational structures based on cooperation.
 
@@ -54,7 +55,8 @@ This difference between **Autonomy** and **Self-Sufficiency** leads us to the se
 
 The first rule states that you must genuinely understand performance: **what people do** and **why they do it**. When you know why people do what they do and how it drives performance, you can define the **minimum sufficient set of interventions with surgical accuracy**. 
  
-![image by istock](assets/images/arch/iStock-1179186162.jpg)
+![](assets/images/arch/iStock-1179186162.jpg)
+^image by istock^
 
 ### Guidelines for Understanding Performance
 
@@ -63,7 +65,7 @@ To genuinely understand performance, consider the following principles:
 * Trace performance back to behaviors, understanding how these behaviors influence and combine to produce overall results.
 * Utilize observation, mapping, measurement, and discussion to gain insights.
 * Comprehend the context of goals, resources, and constraints within which current behaviors are rational strategies for people.
-* Discover how your organization's elements—such as structure, scorecards, systems, and incentives—shape these goals, resources, and constraints.
+* Discover how your organization's elements—structure, scorecards, systems, and incentives—shape these goals, resources, and constraints.
 
 ### Leveraging Architecture Practice
 
@@ -76,21 +78,22 @@ Architecture practice can significantly aid in understanding organizational beha
 
 The Six Simple Rules approach emphasizes the importance of reinforcing integrators by looking at those **directly involved in the work**, giving them **power and interest to foster cooperation in dealing with complexity** instead of resorting to the paraphernalia of overarching hierarchies, overlays, dedicated interfaces, balanced scorecards, or coordination procedures.
  
-![image by robert owen-wahl from pixabay](assets/images/arch/agree-g1f407320e_1920.png)
+![](assets/images/arch/agree-g1f407320e_1920.png)
+^image by robert owen-wahl from pixabay^
 
 ### Guidelines for Reinforcing Integrators
 
 To strengthen integrators within your organization, consider these strategies:
 
-* Use emotions to identify candidates, as feelings provide crucial clues for analysis, acting as symptoms rather than causes.
-* Identify operational units that can serve as integrators among peer units due to their specific interests or power.
-* Remove managerial layers that do not add value and reinforce others as integrators by eliminating certain rules and relying on observation and judgment over metrics when cooperation is involved.
+* Use emotions to identify candidates. Feelings provide crucial clues for analysis and can act as symptoms of integration issues.
+* Identify operational units that can be integrators among peer units due to their specific interests or power.
+* Remove managerial layers that do not add value and reinforce others as integrators by eliminating specific rules and relying on observation and judgment over metrics when cooperation is involved.
 
 ### Enhancing Integrators Through Architecture Practice
 
 Architecture practice can play a vital role in reinforcing integrators by:
 
-* Utilizing the **[People Foundation](#people)** to help identify integrators and connect them, leveraging their work effectively.
+* Utilizing the **[People Foundation](#people)** to help identify and connect integrators, leveraging their work effectively.
 * Emphasizing architects as critical integrators and integrator role models within the organization, defining them as essential components of the organizational "superglue."
 * Establishing a **[Data Foundation](#data)** to support integrators with data and insights, enabling them to perform more informed and effective work.
 
@@ -98,7 +101,8 @@ Architecture practice can play a vital role in reinforcing integrators by:
 
 Whenever you consider an **addition to** your organization’s **structure, processes, and systems**, think about **increasing the quantity of power**. Doing so may **save you from increasing complicatedness** and enable you to achieve a more significant impact with less cost. You can increase the quantity of power by allowing some functions to influence performance and stakes that matter to others. 
 
-![image by istock](assets/images/arch/iStock-1201215883.jpg)
+![](assets/images/arch/iStock-1201215883.jpg)
+^image by istock^
 
 ### Guidelines for Increasing Power Quantity
 
@@ -106,21 +110,22 @@ To enhance the quantity of power within your organization, consider these action
 
 * When making design decisions that could shift the balance between central and unit power, functions, and line managers, ensure that some parts of the organization benefit from new power bases. This approach helps meet complexity requirements and avoids future disruptions from pendulum swings.
 * When creating new functions, ensure they have the power to fulfill their roles without diminishing the power others need to fulfill theirs.
-* When introducing new tools for managers, such as planning or evaluation systems, evaluate whether these tools act as resources or constraints. Implementing a few tools simultaneously creates a critical mass of power, which is more effective than introducing many tools sequentially.
+* When introducing new tools for managers, such as planning or evaluation systems, evaluate whether these tools act as resources or constraints. Implementing a few tools creates a critical mass of power, which is more effective than introducing many tools sequentially.
 * Regularly enrich power bases to maintain agility, flexibility, and adaptability.
 
 ### Enhancing Power Quantity Through Architecture Practice
 
 Architecture practice can support the increase in power quantity through an operating model that promotes distributed decision-making:
 
-* Through the **[People Foundation](#people)**, you can enhance the decision-making power by distributing architectural decision-making across the organization and embedding it within development teams, which typically have the best insights and most relevant information for decision-making.
+* Through the **[People Foundation](#people)**, you can enhance decision-making power by distributing architectural decision-making across the organization and embedding it within development teams, which typically have the best insights and most relevant information.
 * Additionally, the **[Data Foundation]*(data)*, accessible to all interested members of the organization, can provide data and insights that empower individuals in their daily work.
 
 ## Rule 4: Increase Reciprocity
 
 In the face of business complexity, work is becoming more interdependent. To meet multiple and often contradictory performance requirements, **people must rely more on each other**. They need to **cooperate directly** instead of depending on dedicated interfaces, coordination structures, or procedures that only add to complicatedness. 
 
-![image by istock](assets/images/arch/iStock-1072898930.jpg)
+![](assets/images/arch/iStock-1072898930.jpg)
+^image by istock^
 
 ### Guidelines for Enhancing Reciprocity
 
@@ -142,7 +147,8 @@ Architecture practice can significantly increase reciprocity within an organizat
 The Six Simple Rules approach emphasizes the importance of making visible and clear **what happens tomorrow as a consequence of what they do today**. You can manage complex requirements by making simple changes while removing organizational complexity. With the strategic alignment typical of the hard approach, these simple solutions—for instance, career paths—often come at the end of a sequence that starts by installing the most cumbersome changes: new structure, processes, systems, metrics, etc. Simple and effective solutions are then impossible.
  
 
-![image by joe from pixabay](assets/images/arch/trees-gc38b3c617_1920.jpg)
+![](assets/images/arch/trees-gc38b3c617_1920.jpg)
+^image by joe from pixabay^
 
 ### Guidelines for Extending the Shadow of the Future
 
@@ -157,21 +163,22 @@ The Six Simple Rules approach recommends four strategies to extend the shadow of
 
 Architecture practice can play a crucial role in extending the shadow of the future through various methods:
 
-* The **[Data Foundation](#data)** can create transparency and provide the data necessary to model the future. This data can be used to create simulations and roadmap options.
+* The **[Data Foundation](#data)** can create transparency and provide the data necessary to model the future. This data can be used to develop simulations and roadmap options.
 * Applying **[economic modeling](#economics)** to architecture decision-making helps describe the future consequences of today's actions, directly supporting long-term planning and decision-making.
 
 ## Rule 6: Reward Those Who Cooperate
 
 Lastly, the Six Simple Rules approach recommends that when you cannot create direct feedback loops embedded in people’s tasks, you need **management’s intervention to close the loop**. Managers must then use the familiar performance evaluation tool but in a very different way. 
 
-![image by stocksnap from pixabay](assets/images/arch/people-gac98109e9_1920.jpg)
+![](assets/images/arch/people-gac98109e9_1920.jpg)
+^image by stocksnap from pixabay^
 
 ### Guidelines for Rewarding Cooperation
 
 To effectively reward those who cooperate, managers should:
 
-* Go beyond technical criteria and avoid placing blame solely based on where the root cause originated. Accept that execution problems arise from various reasons, and the smart approach is to reduce rewards for those who fail to cooperate in solving a problem, even if the problem isn't in their direct area, and increase rewards for units that cooperate beneficially.
-* Avoid blaming failure itself and instead focus on blaming the failure to help or seek help.
+* Go beyond technical criteria and avoid placing blame solely on where the root cause originated. Accept that execution problems arise from various reasons. The smart approach is to reduce rewards for those who fail to cooperate in solving a problem, even if the problem isn't in their direct area, and increase rewards for units that cooperate beneficially.
+* Avoid blaming failure and instead focus on blaming the inability to help or seek help.
 * Use simple questions to shift managerial conversations, making transparency and ambitious targets resources rather than constraints. This approach helps managers act as integrators, leveraging cooperation and rich information to achieve superior results.
 
 ### Rewarding Cooperation Through Architecture Practice

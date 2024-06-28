@@ -1,19 +1,55 @@
+---
+layout: post
+section: "Doing Architecture: Inspirations"
+title: "Effective Communication"
+position: 7005
+date:   2021-10-21 21:12:01 +0100
+author: by Željko Obrenović (obren.io)
+icon: communication.png
+permalink: communication
+timetoread: 11 min
+excerpt: "A summary of several resources that can help you communicate more effectively, provide good feedback, and lead
+tough conversations."
+---
+<img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover"
+src="assets/images/iStock-1188030610.jpg">
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by iStock
+</div>
+> **IN THIS SECTION, YOU WILL:** Get a summary of several resources to help you communicate more effectively, provide good feedback, and lead tough conversations.
+>
+> **KEY POINTS:**
+>
+> * "So What! How to Communicate What Really Matters to Your Audience" by Mark Magnacca focuses on tailored communication for IT professionals. It emphasizes the importance of relevance and audience understanding to enhance the effectiveness of technical discussions.
+> * "Radical Candor" by Kim Scott provides a framework for IT leaders to combine personal empathy with direct challenges to foster robust team dynamics and honest communication, which is crucial for project success and team development.
+> * "Never Split the Difference" by Chris Voss introduces negotiation techniques from high-stakes FBI scenarios, adapted for IT and software architecture discussions, to help professionals achieve better outcomes through strategic empathy and questioning.
+
+<style>
+    .quote {
+        border-left: 8px solid #d9ead3;
+        padding-left: 36px;
+        margin-top: 30px;
+        margin-bottom: 40px;
+        font-size: 140%;
+        font-style: normal;
+        color:#888;
+    }
+    @media only screen and (max-width: 768px) {
+        [class= "quote"] {
+            display: none;
+        }
+    }
+    h3 {
+        margin-top: 42px;
+    }
+    h4 {
+        margin-top: 52px;
+    }
+</style>
 
 
-# Effective Communication {#communication}
 
-![](assets/images/iStock-1188030610.jpg)
-^image by istock^
-
-**IN THIS SECTION, YOU WILL:** Get a summary of several resources to help you communicate more effectively, provide good feedback, and lead tough conversations..
-
-{pagebreak}
-
-A> **KEY POINTS:**
-A> * "So What! How to Communicate What Really Matters to Your Audience" by Mark Magnacca focuses on tailored communication for IT professionals. It emphasizes the importance of relevance and audience understanding to enhance the effectiveness of technical discussions.
-A> * "Radical Candor" by Kim Scott provides a framework for IT leaders to combine personal empathy with direct challenges to foster robust team dynamics and honest communication, which is crucial for project success and team development.
-A> * "Never Split the Difference" by Chris Voss introduces negotiation techniques from high-stakes FBI scenarios, adapted for IT and software architecture discussions, to help professionals achieve better outcomes through strategic empathy and questioning.
-
+<br>
 This text presents three practical and influential resources I've found beneficial for IT and software architects to enhance their communication skills.
 
 * **"So What! How to Communicate What Really Matters to Your Audience" by Mark Magnacca** focuses on communication techniques emphasizing clarity, audience understanding, and relevance. It teaches how to convey ideas effectively by understanding the audience's needs, utilizing clear messaging, and engaging through stories and interactive dialogue. The book provides specific storylines and scenarios to apply these techniques.
@@ -24,12 +60,15 @@ This text presents three practical and influential resources I've found benefici
 
 Each resource can equip IT architects with the tools to improve their communication and leadership skills, which are crucial for influencing stakeholders, driving successful project outcomes,  and managing teams in the fast-paced technology field.
 
+<br>
 ## So What!
 
 **"So What? How to Communicate What Really Matters to Your Audience"** by Mark Magnacca is an essential guide for effectively communicating their ideas and solutions to stakeholders, team members, or clients. This book emphasizes the importance of delivering clear, concise, and relevant messages that resonate with the audience's needs and concerns. By applying the principles outlined in "So What!", IT architects can enhance their communication skills, ensuring their technical insights are understood and valued.
 
 ![](assets/images/iStock-1214110598.jpg)
-^image by istock^
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by iStock
+</div>
 
 ### Key Concepts from the Book
 
@@ -61,6 +100,7 @@ The book also proposes a structured framework to communicate ideas clearly and p
 
 This structure helps ensure that communication is clear, logical, and persuasive, making it easier for the audience to understand and buy into the proposed solutions.
 
+
 ### Examples
 
 Here are a few examples of how you could use "So What!" techniques in IT practice:
@@ -82,6 +122,7 @@ Here are a few examples of how you could use "So What!" techniques in IT practic
 * We will gather requirements by collaborating with stakeholders to define the feature, create design documents approved by the architecture team, implement the feature using our standard methodology, conduct thorough unit and integration testing, deploy the feature to production, and monitor its performance post-deployment. 
 * This process ensures a successful feature launch with minimal risks.
 
+
 #### Example 2: **The Pitch**
 
 **Scenario**: Proposing a new tool for automated testing.
@@ -97,6 +138,7 @@ Here are a few examples of how you could use "So What!" techniques in IT practic
 **Supporting Points**: 
 * Tool X reduces testing time by 50%, saves $100,000 annually, minimizes human error for more reliable results, and can quickly scale to accommodate future growth. 
 * These benefits make Tool X a valuable addition to our testing toolkit.
+
 
 #### Example 3: **Traffic Light**
 
@@ -116,6 +158,7 @@ Here are a few examples of how you could use "So What!" techniques in IT practic
 * Integration testing is delayed by unexpected bugs (red). 
 * To address these issues, we must resolve integration bugs and allocate additional resources to front-end development.
 
+
 #### Example 4: **Close the Gap**
 
 **Scenario**: Convincing stakeholders to approve a migration to a new cloud platform.
@@ -131,6 +174,7 @@ Here are a few examples of how you could use "So What!" techniques in IT practic
 **Supporting Points**: 
 * Our current state involves high costs and limited scalability. 
 * By migrating to Cloud Platform Y, we will achieve significant cost savings and scalability improvements, ensuring we can meet future demands efficiently.
+
 
 #### Example 5: **Houston, We Have a Problem**
 
@@ -148,6 +192,7 @@ Here are a few examples of how you could use "So What!" techniques in IT practic
 * The performance issue is due to inefficient database query optimization. 
 * We will diagnose the problem, pinpoint inefficient queries and indexing issues, implement optimizations, and continuously monitor performance to ensure improvement.
 
+
 #### Example 6: **To B, or Not to B**
 
 **Scenario**: Deciding between two software development frameworks.
@@ -163,6 +208,7 @@ Here are a few examples of how you could use "So What!" techniques in IT practic
 **Supporting Points**: 
 * Framework A offers high performance and extensive community support but has a steep learning curve and higher cost. Framework B is easier to use and cheaper but has limited scalability and a smaller community. 
 * Based on our requirements and long-term goals, Framework A aligns better despite its higher cost.
+
 
 #### Example 7: **Watch Out**
 
@@ -180,12 +226,18 @@ Here are a few examples of how you could use "So What!" techniques in IT practic
 * Although our development process is efficient and on schedule, the API integration introduces security risks. 
 * With our team's expertise, we can implement additional security measures and conduct thorough testing before integration, proactively addressing these risks and ensuring project success.
 
+
+<br>
 ## Radical Candor
 
 **"Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity"** by Kim Scott is an invaluable resource for IT and software architects who engage in critical conversations. The book provides a framework for giving and receiving feedback, building solid relationships, and fostering a culture of open communication. These principles can greatly enhance team dynamics, project efficiency, and overall job satisfaction.
 
-![](assets/images/iStock-1383890701.jpg)
-^image by istock^
+<br>
+<img style="margin-top: -20px; width: 100%; " 
+     src="assets/images/iStock-1383890701.jpg">
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by iStock
+</div>
 
 ### Key Concepts from the Book
 
@@ -196,11 +248,16 @@ Scott defines a feedback-providing communication framework as having two access 
 - **Obnoxious Aggression**: Challenging directly without caring personally.
 - **Manipulative Insincerity**: Neither caring personally nor challenging directly.
 
+<br>
+<blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">Friendly reminder. Contempt, arrogance, character attacks, and the like are not Radical Candor or valid forms of criticism...These are forms of Obnoxious Aggression. <a href="https://t.co/cdfSxJvr8z">pic.twitter.com/cdfSxJvr8z</a></p>&mdash; Kim Scott (@kimballscott) <a href="https://twitter.com/kimballscott/status/1410707132572266501?ref_src=twsrc%5Etfw">July 1, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<br>
+
 Radical Candor is the only favorable option, which only happens when you:
 1. **Care Personally**: Show genuine concern for your team members' well-being and career growth.
 2. **Challenge Directly**: Provide honest, straightforward feedback to help team members improve.
 
 "Radical Candor" offers a framework that IT architects can use to enhance their leadership and communication skills. By applying Scott's principles of caring personally and challenging directly, IT professionals can build stronger teams, foster a culture of continuous improvement, and drive successful project outcomes. The contrasting examples from other quadrants (Ruinous Empathy, Obnoxious Aggression, and Manipulative Insincerity) illustrate the importance of balancing care and directness to achieve the best results.
+
 
 ### Examples
 
@@ -243,14 +300,19 @@ However, the current expectations are unrealistic given our resources. We must d
 With Radical Candor, you could say, "I want everyone to know that your contributions are highly valued and your
 well-being is important to me. To grow as a team, we need to be open and honest with each other. Please feel free to share your thoughts and feedback, whether positive or critical, so we can continuously improve." Ruinous Empathy might be, "Everyone's doing great, so there's no need for much feedback. Let's keep things as they are." Obnoxious Aggression would be, "We need to be brutally honest with each other. If you can't handle criticism, this isn't your place." Manipulative Insincerity might be, "Feel free to share your feedback if you want, but it's not a big deal if you don't."
 
+<br>
 ## Never Split the Difference
 
 **"Never Split the Difference: Negotiating As If Your Life Depended On It"** by Chris Voss is an essential read for IT and software architects who frequently face challenging conversations and negotiations—drawing from his experience as an FBI hostage negotiator, Voss shares effective techniques and strategies that you can apply directly to IT architecture and software architecture discussions, ensuring better outcomes without compromising on critical objectives.
 
 "Never Split the Difference" means not compromising or settling for less than what you want in a negotiation. Instead of agreeing to a middle-ground solution where both parties give up something, Voss advocates using strategic and psychological techniques to achieve a more favorable outcome. The idea is to aim for the best possible deal rather than a mediocre one that leaves both sides partially dissatisfied. For instance, the teams can agree to work on two projects to avoid blame and tense discussion even if they know they lack capacity and the planning is too optimistic. They then fail both projects. Alternatively, they should reject or postpone one project and commit to delivering only one with a lower risk of failure.
 
-![](assets/images/iStock-154933978.jpg)
-^image by istock^
+<br>
+<img style="margin-top: -20px; width: 100%; " 
+     src="assets/images/iStock-154933978.jpg">
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by iStock
+</div>
 
 ### Key Concepts from the Book
 
@@ -264,6 +326,7 @@ The books apply several key concepts and techniques you can use in difficult neg
 6. **The Power of No**: Understanding that hearing "No" can be a pathway to uncovering the real issues and fostering a sense of control for the other party.
 
 "Never Split the Difference" offers valuable techniques for IT and software architects to enhance their negotiation skills, enabling them to navigate difficult conversations and achieve favorable outcomes. By applying Voss's strategies, IT professionals can address concerns, build consensus, and drive successful implementation of critical architectural changes.
+
 
 ### Examples
 
@@ -296,6 +359,8 @@ Show Tactical Empathy by understanding senior management's pressures regarding m
 
 The last example, "How am I supposed to do that?" is a calibrated question designed to make the other party reconsider the feasibility of their demand and encourage a more realistic and collaborative discussion about what can be achieved. This approach helps negotiate more reasonable timelines or secure additional resources to meet tight deadlines.
 
+
+<br>
 ## Questions to Consider
 
 * *In what ways can understanding your audience's needs and motivations enhance your presentations or meetings?*
