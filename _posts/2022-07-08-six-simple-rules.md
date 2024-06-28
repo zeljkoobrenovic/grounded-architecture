@@ -127,19 +127,21 @@ The Six Simple Rules approach emphasizes the importance of reinforcing integrato
 Image by <a href="https://pixabay.com/users/shutterbug75-2077322/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1238964">Robert Owen-Wahl</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1238964">Pixabay</a>
 </div>
 
-### General Guidelines
+### Guidelines for Reinforcing Integrators
 
-You can reinforce integrators by:
-* **Using feelings** to identify candidates: emotions provide essential clues for the analysis because they are symptoms rather than causes. 
-* Finding **operational units** that can be **integrators among peer units** because of some particular interest or power. 
-* **Removing managerial layers which cannot add value** and reinforcing others as integrators by eliminating some rules and relying on observation and judgment rather than metrics whenever cooperation is involved.
+To strengthen integrators within your organization, consider these strategies:
 
-### The Role of Architecture Practice
+* Use emotions to identify candidates, as feelings provide crucial clues for analysis, acting as symptoms rather than causes.
+* Identify operational units that can serve as integrators among peer units due to their specific interests or power.
+* Remove managerial layers that do not add value and reinforce others as integrators by eliminating certain rules and relying on observation and judgment over metrics when cooperation is involved.
 
-Architecture practice, in my view, should be strongly related to reinforcing integrators: 
-* Via the **[People Foundation](people)**, architecture practice can **help identify integrators** and connect them to leverage their work. 
-* Furthermore, my view on architects as **[superglue](superglue)** defines architects as **critical integrators** and **integrator role models** in an organization. 
-* And having a **[Data Foundation](data)** can **support integrators with data and insights**, empowering them to do better, more informed work.
+### Enhancing Integrators Through Architecture Practice
+
+Architecture practice can play a vital role in reinforcing integrators by:
+
+* Utilizing the **[People Foundation](people)** to help identify integrators and connect them, leveraging their work effectively.
+* Emphasizing architects as critical integrators and integrator role models within the organization, defining them as essential components of the organizational "superglue."
+* Establishing a **[Data Foundation](data)** to support integrators with data and insights, enabling them to perform more informed and effective work.
 
 <br>
 ## Rule 3: Increase the Total Quantity of Power
@@ -152,19 +154,21 @@ Whenever you consider an **addition to** your organization’s **structure, proc
 Image by iStock
 </div>
 
-### General Guidelines
- 
-To increase the quantity of power, the Six Simple Rules approach recommends the following actions:
-* Whenever you are going to make a design decision that will **swing the pendulum—between center and units**, between functions and line managers, and so on—see if making some parts of the organization **benefit from new power bases** could satisfy more requirements in dealing with complexity so that you don’t have to swing the pendulum in the other direction in the future (which would only compound complicatedness with the mechanical frictions and disruptions inherent to these changes). 
-* When you have to create new functions, make sure you give them the power to play their role and that this **power does not come at the expense of the power needed by others** to play theirs. 
-* When you **create new tools** for managers (planning, or evaluation systems, for instance), ask yourself if these constitute **resources or constraints**. Providing a few tools simultaneously is more effective (because it creates a critical mass of power) than many tools sequentially, one after the other. 
-* **Regularly enrich power bases** to ensure agility, flexibility, and adaptiveness.
+### Guidelines for Increasing Power Quantity
 
-### The Role of Architecture Practice
+To enhance the quantity of power within your organization, consider these actions recommended by the Six Simple Rules approach:
 
-Architecture practice can support increasing power quantity with the **[operating model](activities)** that promotes distributing decision-making: 
-* Via the [People Foundation](people) you can increase the quantity of the **decision-making power** and keep architectural decision-making **distributed across the organization** and embedded in the development teams. Development teams traditionally have the best insights and most information relevant for making a decision. 
-* Additionally, the **[Data Foundation](data)**, accessible to all interested people in the organization, can give them **data in insights that can increase their power in daily work**.
+* When making design decisions that could shift the balance between central and unit power, functions, and line managers, ensure that some parts of the organization benefit from new power bases. This approach helps meet complexity requirements and avoids future disruptions from pendulum swings.
+* When creating new functions, ensure they have the power to fulfill their roles without diminishing the power others need to fulfill theirs.
+* When introducing new tools for managers, such as planning or evaluation systems, evaluate whether these tools act as resources or constraints. Implementing a few tools simultaneously creates a critical mass of power, which is more effective than introducing many tools sequentially.
+* Regularly enrich power bases to maintain agility, flexibility, and adaptability.
+
+### Enhancing Power Quantity Through Architecture Practice
+
+Architecture practice can support the increase in power quantity through an operating model that promotes distributed decision-making:
+
+* Through the **[People Foundation](people)**, you can enhance the decision-making power by distributing architectural decision-making across the organization and embedding it within development teams, which typically have the best insights and most relevant information for decision-making.
+* Additionally, the **[Data Foundation]*(data)*, accessible to all interested members of the organization, can provide data and insights that empower individuals in their daily work.
 
 
 <br>
@@ -177,18 +181,20 @@ In the face of business complexity, work is becoming more interdependent. To mee
 Image by iStock
 </div>
 
-### General Guidelines
+### Guidelines for Enhancing Reciprocity
 
-Reciprocity is the recognition by people or units in an organization that they **have a mutual interest in cooperation** and that the success of one depends on the success of others (and vice versa). The way to create that reciprocity is by setting rich objectives and reinforcing them by:
- * **eliminating monopolies**, 
- * **reducing resources**, and 
- * **creating new networks of interaction**.
+Reciprocity involves recognizing that people or units in an organization have a mutual interest in cooperation and that the success of one depends on the success of others. To foster this reciprocity, follow these guidelines:
 
-### The Role of Architecture Practice
+* Eliminate monopolies to ensure no single entity has exclusive control.
+* Reduce resources to encourage more efficient and collaborative use.
+* Create new networks of interaction to facilitate better communication and cooperation.
 
-Architecture practice can be directly related to increasing reciprocity: 
-* The **[People Foundation](people)** directly supports one of the ways of reinforcing reciprocity: **creating new networks of interactions**.
-* The hybrid operating model makes the success of architecture practice dependent on **[architects' impact](impact)**. Likewise, the developer team's support depends on architecture support. Integrating feedback from groups that architects support in architects' performance evaluations is also crucial for increasing reciprocity between architecture and other units.
+### Enhancing Reciprocity Through Architecture Practice
+
+Architecture practice can significantly increase reciprocity within an organization:
+
+* The **[People Foundation](people)** supports creating new networks of interactions, directly reinforcing reciprocity.
+* A hybrid operating model relies on the mutual success of architecture practices and development teams. Architects' impact is essential, and their support depends on the feedback from the groups they assist. Integrating this feedback into architects' performance evaluations is crucial for enhancing reciprocity between architecture and other units.
 
 <br>
 ## Rule 5: Extend the Shadow of the Future
@@ -202,19 +208,21 @@ Image by <a href="https://pixabay.com/users/jplenio-7645255/?utm_source=link-att
 </div>
 
 
-### General Guidelines
+### Guidelines for Extending the Shadow of the Future
 
-The Six Simple Rules approach identifies four ways to extend the shadow of the future: 
-* Tighten the feedback loop by making **more frequent the moments when people experience the consequence** of the fit between their contributions. 
-* **Bring the endpoint forward**, notably by shortening the duration of projects. 
-* **Tie futures together** so that successful moves are conditioned by contributing to the successful move of others. 
-* Make people **walk in the shoes they make** for others.
+The Six Simple Rules approach recommends four strategies to extend the shadow of the future:
 
-### The Role of Architecture Practice
+* Tighten the feedback loop by increasing the frequency of moments when people experience the consequences of the fit between their contributions.
+* Bring the endpoint forward by shortening the duration of projects.
+* Tie futures together so that successful moves are conditioned on contributing to the success of others.
+* Ensure people walk in the shoes they make for others.
 
-Architecture practice can extend the shadow of the future in multiple ways: 
-* The **[Data Foundation](data)** can create **transparency** and provides data necessary to **model the future**. I've used such data to create many **simulations and roadmap** options. 
-* The principle of applying **[economic modeling](economics)** to architecture decision-making directly supports describing what happens tomorrow as a consequence of what they do today. 
+### Extending the Shadow of the Future Through Architecture Practice
+
+Architecture practice can play a crucial role in extending the shadow of the future through various methods:
+
+* The **[Data Foundation](data)** can create transparency and provide the data necessary to model the future. This data can be used to create simulations and roadmap options.
+* Applying **[economic modeling](economics)** to architecture decision-making helps describe the future consequences of today's actions, directly supporting long-term planning and decision-making.
 
 
 <br>
@@ -228,18 +236,20 @@ Lastly, the Six Simple Rules approach recommends that when you cannot create dir
 Image by <a href="https://pixabay.com/users/stocksnap-894430/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2569234">StockSnap</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2569234">Pixabay</a>
 </div>
 
-### General Guidelines
+### Guidelines for Rewarding Cooperation
 
-To reward those who cooperate, managers:
-* Must **go beyond technical criteria** (putting the blame where the root cause problem originated). In dealing with the business complexity of multiple and often conflicting performance requirements, the smart organization accepts that problems in execution happen for many reasons and that the only way to solve them is to **reduce the payoff for all those people or units that fail to cooperate in solving a problem**, even if the problem does not take place precisely in their area, and to **increase the payoff for all when units cooperate in a beneficial way**. 
-* They must not blame failure, but **blame failing to help or ask for help**. 
-* Instead of the elusive sophistication of balanced scorecards and other counterproductive cumbersome systems and procedures, they can **use simple questions** to change the terms of the managerial conversation so that **transparency and ambitious targets become resources rather than constraints** for the individual. Managers then act as integrators by obtaining from others the cooperation that will leverage the rich information allowed by this transparency and help achieve superior results.
+To effectively reward those who cooperate, managers should:
 
-### The Role of Architecture Practice
+* Go beyond technical criteria and avoid placing blame solely based on where the root cause originated. Accept that execution problems arise from various reasons, and the smart approach is to reduce rewards for those who fail to cooperate in solving a problem, even if the problem isn't in their direct area, and increase rewards for units that cooperate beneficially.
+* Avoid blaming failure itself and instead focus on blaming the failure to help or seek help.
+* Use simple questions to shift managerial conversations, making transparency and ambitious targets resources rather than constraints. This approach helps managers act as integrators, leveraging cooperation and rich information to achieve superior results.
 
-Architecture practice can reward cooperation by making it easier for everyone to **help others and ask for help**. 
-* Having a strong **[People Foundation](people)** can provide the context and **networks of people** to collaborate more easily. 
-* Adding diverse data sources to the **[Data Foundation](data)** can create **transparency about cooperation** opportunities and challenges.
+### Rewarding Cooperation Through Architecture Practice
+
+Architecture practice can facilitate rewarding cooperation by making it easier for individuals to help others and ask for help:
+
+* A strong **[People Foundation](people)** can provide the context and networks necessary for easier collaboration.
+* Adding diverse data sources to the **[Data Foundation](data)** can create transparency about cooperation opportunities and challenges, supporting a more collaborative environment.
 
 <br>
 ## Questions to Consider
