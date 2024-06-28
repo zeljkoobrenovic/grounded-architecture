@@ -139,7 +139,8 @@ posts = [
     '2022-12-02-appendix.markdown',
     '2022-12-10-appendix-iso-25010.markdown',
     '2022-12-15-appendix-cloud.markdown',
-    '2022-12-26-appendix-organization.markdown']
+    '2022-12-26-appendix-organization.markdown'
+]
 
 counter = 0
 for post in posts:
