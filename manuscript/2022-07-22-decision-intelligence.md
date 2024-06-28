@@ -2,7 +2,8 @@
 
 # Decision Intelligence in IT Architecture {#decision-intelligence}
 
-![image by istock](assets/images/arch/iStock-1365878406.jpg)
+![](assets/images/arch/iStock-1365878406.jpg)
+^image by istock^
 
 **IN THIS SECTION, YOU WILL:**  Learn the basics of decision intelligence, the discipline of turning information into better actions, and its relevance for IT architecture practice.
 
@@ -24,7 +25,8 @@ Now, in this and the next chapter, I want to share some golden nuggets I've glea
 
 In every twist and turn, decision intelligence is the secret sauce that makes IT architects the unsung heroes of the tech world. So, grab your data-driven cape and dive into the art of smart decision-making!
 
-![image by istock](assets/images/arch/iStock-1194231226.jpg)
+![](assets/images/arch/iStock-1194231226.jpg)
+^image by istock^
 
 ## Basics of Decision-Making
 
@@ -74,7 +76,8 @@ So, next time you're stuck in a marathon meeting about whether to buy a €100 s
 
 Decisions are the steering wheel for reaching our goals. Consequently, it is crucial to understand and define goals properly and to understand whether a decision needs to be made at all.
 
-![image by istock](assets/images/arch/iStock-1301200404.jpg)
+![](assets/images/arch/iStock-1301200404.jpg)
+^image by istock^
 
 ### Setting Goals
 
@@ -125,7 +128,8 @@ This magical question helps you map out the decision-making landscape, gauge the
 
 So, next time you're in a meeting and wondering if you're there to make a difference or to play the part of the wise advisor in a decision-making drama, remember to whip out the magic question. It's your ticket to knowing whether you're in for an epic decision-making saga or a cameo appearance.
 
-![image by istock](assets/images/arch/iStock-1043738948.jpg)
+![](assets/images/arch/iStock-1043738948.jpg)
+^image by istock^
 
 ## Decision-Making Complexity
 
@@ -198,7 +202,8 @@ Finally, adversarial dynamics impact decision-making. When you face **competitio
 
 Decision-making has evolved beyond pen and paper, with data playing a crucial role in modern methods. Data, like the one I use in [Data Foundation](#data), while visually appealing and powerful when used correctly, is **only a tool to assist** in making informed decisions. It's a means to an impactful end, but **without purposeful application, data is ineffective**.
 
-![image by istock](assets/images/arch/iStock-1316937637.jpg)
+![](assets/images/arch/iStock-1316937637.jpg)
+^image by istock^
 
 ### Remember that data has limitations
 
