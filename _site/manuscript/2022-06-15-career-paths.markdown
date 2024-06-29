@@ -195,6 +195,10 @@ With the described steps, you can get a solid overview of all critical aspects o
    - **Support:** Provide opportunities for continuous learning, such as advanced training or involvement in specialized projects.
    - **Recognition:** Value their deep expertise and stability, acknowledging their critical role in the team's success.
 
+## Useful Resources
+
+* 
+
 ## Questions to Consider
 
 * *Reflect on career paths in architecture. How can an engineering background impact effectiveness of an architect?*

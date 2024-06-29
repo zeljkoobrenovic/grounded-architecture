@@ -164,6 +164,8 @@ Aligning on these rules with the teams helps ensure productive conversations abo
 
 So, set those expectations, establish your rules of engagement, and watch as your architecture function goes from a sparkly unicorn to a well-oiled machine!
 
+
+
 ## Questions to Consider
 
 Your architecture practice job is to solve the biggest problems in your organization. Ask yourself the following questions:

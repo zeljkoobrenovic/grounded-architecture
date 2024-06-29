@@ -28,7 +28,7 @@
 ### Data Foundation
 * The architecture Data Foundation serves as a medium to create a complete, up-to-date picture of critical elements of the technology landscapes of big organizations. 
 * The Data Foundation provides an architecture-centric view of data about a technology landscape based on source code analyses, public cloud billing reports, vibrancy reports, or incident tickets.
-* To facilitate the creation of a Data Foundation, I have been working on creating open-source tools that can help obtain valuable architectural insights from data sources, such as source code repositories.
+* To facilitate the creation of a Data Foundation, I have been working on creating open-source tools that can help obtain valuable architectural insights from data sources, such as source code repositories. Check out open-source [architecture dashboard examples](https://zeljkoobrenovic.github.io/grounded-architecture-dashboard-examples/) and [Sokrates](https://sokrates.dev).
 
 ### People Foundation
 * Developing the architecture function requires having competent, empowered, and motivated architects. Architecture practice must carefully organize, empower, and leverage scarce talent.
@@ -56,11 +56,6 @@
 * Architects' work is evaluated based on their impact on the organization. 
 * Architects can make an impact via three pillars: Big-Picture Thinking, Execution, and Leveling-Up.
 
-### Leadership
-* My view of architecture leadership is inspired by David Marquet's work and Netflix's valued behaviors.
-* Marquet focused on leadership and organizational management, particularly emphasizing the principles of Intent-Based Leadership.
-* Borrowing from Netflix's original values, the following behavioral traits are crucial for architects: communication, judgment, impact, inclusion, selflessness, courage, integrity, curiosity, innovation, and passion.
-
 ### Architects' Career Paths: Raising the Bar
 * Architects' career paths ideally stem from a strong engineering background.
 * Hiring architects requires constantly raising the bar to ensure a strong and diverse team structure.  
@@ -70,6 +65,16 @@
 ### The Culture Map: Architects' Culture Compass
 * I have found the work of Erin Meyer, The Culture Map, to be a beneficial tool for architects to work harmoniously with people from various cultures and backgrounds.
 * Meyer’s model contains eight scales, each representing a key area, showing how cultures vary from extreme to extreme: Communicating, Evaluating, Persuading, Leading, Deciding, Trusting, Disagreeing, and Scheduling.
+
+### Effective Communication
+* "So What! How to Communicate What Really Matters to Your Audience" by Mark Magnacca focuses on tailored communication for IT professionals. It emphasizes the importance of relevance and audience understanding to enhance the effectiveness of technical discussions.
+* "Radical Candor" by Kim Scott provides a framework for IT leaders to combine personal empathy with direct challenges to foster robust team dynamics and honest communication, which is crucial for project success and team development.
+* "Never Split the Difference" by Chris Voss introduces negotiation techniques from high-stakes FBI scenarios, adapted for IT and software architecture discussions, to help professionals achieve better outcomes through strategic empathy and questioning.
+
+### Leadership
+* My view of architecture leadership is inspired by David Marquet's work and Netflix's valued behaviors.
+* Marquet focused on leadership and organizational management, particularly emphasizing the principles of Intent-Based Leadership.
+* Borrowing from Netflix's original values, the following behavioral traits are crucial for architects: communication, judgment, impact, inclusion, selflessness, courage, integrity, curiosity, innovation, and passion.
 
 ### Managing Organizational Complexity: Six Simple Rules
 * The Six Simple Rules approach emphasizes that in today’s complicated business environment, you must set up organizational structures based on cooperation. 

@@ -163,7 +163,13 @@ While each organization will need its unique approach, here are some tips I foun
 Image by <a href="https://pixabay.com/users/chantellev-2412495/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1336120">Chantellev</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1336120">Pixabay</a>
 </div>
 
+<br>
+## To Probe Further
 
+* [Agile and Architecture: Friend, not Foe](https://architectelevator.com/transformation/agile_architecture/) by Gregor Hohpe, August 2020.
+* [Crafting the optimal model for the IT architecture organization](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/tech-forward/crafting-the-optimal-model-for-the-it-architecture-organization), by Christian Lilley et al., April 2022
+
+<br>
 ## Questions to Consider
 
 It is difficult to overestimate the importance of people for architecture practice, yet many organizations take architectural talent for granted. To reflect on the importance of carefully organizing, empowering, and leveraging scarce architecture talent, ask yourself the following questions:

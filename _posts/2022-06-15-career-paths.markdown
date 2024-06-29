@@ -242,6 +242,10 @@ With the described steps, you can get a solid overview of all critical aspects o
    - **Support:** Provide opportunities for continuous learning, such as advanced training or involvement in specialized projects.
    - **Recognition:** Value their deep expertise and stability, acknowledging their critical role in the team's success.
 
+<br>
+## To Probe Further
+
+* [Performance Reviews for Software Developers – How I Do Them In a (Hopefully) Fair Way](https://blog.pragmaticengineer.com/performance-reviews-for-software-engineers/), by Gergely Orosz, May 2022.  
 
 <br>
 ## Questions to Consider

@@ -5,7 +5,7 @@
 ![](assets/images/iStock-1188030610.jpg)
 ^image by istock^
 
-**IN THIS SECTION, YOU WILL:** Get a summary of several resources to help you communicate more effectively, provide good feedback, and lead tough conversations..
+**IN THIS SECTION, YOU WILL:** Get a summary of several resources to help you communicate more effectively, provide good feedback, and lead tough conversations.
 
 {pagebreak}
 
