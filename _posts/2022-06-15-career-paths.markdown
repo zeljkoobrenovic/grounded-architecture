@@ -39,6 +39,10 @@ Image by iStock <a href="https://flic.kr/p/8zKRAU">tableatny</a> (CC BY 2.0)
             display: none;
         }
     }
+
+  h4 {
+    margin-top: 32px;  
+  }
 </style>
 
 <br>
@@ -123,8 +127,7 @@ Performance targets need to be closely aligned with the organization's strategic
 <br>
 ### Growth Management
 
-"Radical Candor" recognizes that employees have different career trajectories and aspirations in growth and performance. It divides these into two main categories: the steep growth trajectory (superstars) and the stable growth trajectory (rock stars, solid as a rock). People of both growth trajectories could have poor or exceptional performance (Figure 3).
-
+Another idea I borrow from Radical Candor is the recognition that employees have different career trajectories and aspirations in growth and performance. It divides these into two main categories: the steep growth trajectory (superstars) and the stable growth trajectory (rock stars, solid as a rock). People of both growth trajectories could have poor or exceptional performance (Figure 3).
 
 ![](assets/images/performance-growth.png)
 ***Figure 3:** An example framework for measuring the performance of architects of different growth trajectories.*
@@ -132,18 +135,30 @@ Performance targets need to be closely aligned with the organization's strategic
 
 Here's an overview of how views growth and performance for rock stars and superstar:
 
+#### Stable Growth Trajectory (Rock Stars)
+
+These employees excel in their current roles and derive satisfaction from achieving excellence in a stable, consistent manner.  They prefer deepening their expertise and maintaining a high level of performance without necessarily seeking rapid promotion.
+
+**Growth Opportunities for Rock Stars:**
+- **Enhanced Responsibilities:** Taking on critical projects, mentoring others, and providing technical oversight.
+- **Expertise Development:** Becoming subject matter experts, gaining a "guru" status, and engaging in teaching and coaching.
+- **Role Variability:** Shifting between roles (e.g., Senior, Principal, Enterprise Architect) to change the scope of work and maintain engagement.
+
+**Performance Management of Rock Stars:**
+- **Feedback:** Offer constructive feedback that helps them refine their expertise and maintain high performance.
+- **Support:** Provide opportunities for continuous learning, such as advanced training or involvement in specialized projects.
+- **Recognition:** Value their deep expertise and stability, acknowledging their critical role in the team's success.
+
 #### Steep Growth Trajectory (Superstars)
 
-**Characteristics:**
-- These individuals are highly ambitious and driven, continuously seeking new challenges and responsibilities.
-- They have a rapid professional development pace and are often on the path to leadership roles.
+These individuals are highly ambitious and driven, continuously seeking new challenges and responsibilities. They have a rapid professional development pace and are often on the path to leadership roles.
 
-**Growth Opportunities:**
+**Growth Opportunities for Superstars:**
 - **Career Advancement:** Superstars often aim for significant promotions, such as moving from Architect to Senior Architect, Chief Architect, or even transitioning to roles like Director of Engineering or CTO.
 - **Skill Development:** They focus on acquiring new skills, mastering advanced technologies, and improving leadership capabilities.
 - **Increased Responsibilities:** Taking on more complex projects, leading teams, and contributing to strategic initiatives.
 
-**Performance Management:**
+**Performance Management of Superstars:**
 - **Feedback:** Provide challenging feedback that pushes them to grow while recognizing their achievements.
 - **Support:** Offer opportunities for further education, mentorship, and exposure to high-stakes projects.
 - **Recognition:** Acknowledge their contributions and potential for future leadership roles within the organization.
@@ -210,42 +225,25 @@ For senior positions, I typically introduce an additional step of meeting senior
 
 With the described steps, you can get a solid overview of all critical aspects of superglue architects. In particular, the involvement of people outside architecture or engineering is crucial to minimize risk related to a lack of interest and ability to engage with all relevant stakeholders.
 
-#### Stable Growth Trajectory (Rock Stars)
-
-* **Characteristics:**
-   - These employees excel in their current roles and derive satisfaction from achieving excellence in a stable, consistent manner.
-   - They prefer deepening their expertise and maintaining a high level of performance without necessarily seeking rapid promotion.
-
-* **Growth Opportunities:**
-   - **Enhanced Responsibilities:** Taking on critical projects, mentoring others, and providing technical oversight.
-   - **Expertise Development:** Becoming subject matter experts, gaining a "guru" status, and engaging in teaching and coaching.
-   - **Role Variability:** Shifting between roles (e.g., Senior, Principal, Enterprise Architect) to change the scope of work and maintain engagement.
-
-* **Performance Management:**
-   - **Feedback:** Offer constructive feedback that helps them refine their expertise and maintain high performance.
-   - **Support:** Provide opportunities for continuous learning, such as advanced training or involvement in specialized projects.
-   - **Recognition:** Value their deep expertise and stability, acknowledging their critical role in the team's success.
-
-#### Stable Growth Trajectory (Rock Stars)
-
-* **Characteristics:**
-   - These employees excel in their current roles and derive satisfaction from achieving excellence in a stable, consistent manner.
-   - They prefer deepening their expertise and maintaining a high level of performance without necessarily seeking rapid promotion.
-
-* **Growth Opportunities:**
-   - **Enhanced Responsibilities:** Taking on critical projects, mentoring others, and providing technical oversight.
-   - **Expertise Development:** Becoming subject matter experts, gaining a "guru" status, and engaging in teaching and coaching.
-   - **Role Variability:** Shifting between roles (e.g., Senior, Principal, Enterprise Architect) to change the scope of work and maintain engagement.
-
-* **Performance Management:**
-   - **Feedback:** Offer constructive feedback that helps them refine their expertise and maintain high performance.
-   - **Support:** Provide opportunities for continuous learning, such as advanced training or involvement in specialized projects.
-   - **Recognition:** Value their deep expertise and stability, acknowledging their critical role in the team's success.
-
 <br>
 ## To Probe Further
 
-* [Performance Reviews for Software Developers – How I Do Them In a (Hopefully) Fair Way](https://blog.pragmaticengineer.com/performance-reviews-for-software-engineers/), by Gergely Orosz, May 2022.  
+* General:
+  * [Performance Reviews for Software Developers](https://blog.pragmaticengineer.com/performance-reviews-for-software-engineers/) <br>by Gergely Orosz, May 2022. 
+  * [A Software Engineering Culture Test](https://blog.pragmaticengineer.com/the-developer-culture-test/) by Gergely Orosz
+* For individual contributors:
+  * [Performance Self Review Template and Example for Software Engineers](Performance Self Review Template and Example for Software Engineers) <br> by Gergely Orosz
+  * [A Work Log Template for Software Engineers](https://blog.pragmaticengineer.com/work-log-template-for-software-engineers/),  <br>by Gergely Orosz 
+  * [Get your work recognized: write a brag document](https://jvns.ca/blog/brag-documents/) <br>by Julia Evans
+* For managers:
+  * [Performance Review Example and Template for Engineering Managers
+](https://blog.pragmaticengineer.com/performance-review-example-and-template-for-engineering-managers/) <br> by Gergely Orosz
+  * [Things I've learned transitioning from engineer to engineering manager](https://blog.pragmaticengineer.com/things-ive-learned-transitioning-from-engineer-to-engineering-manager/) <br> by Gergely Orosz
+* Tools
+  * [Coaching Situation Management Matrix](https://obren.io/tools/matrix/?matrix=situationalManagement)
+  * [Start, Stop, Continue Feedback](https://obren.io/tools/start-stop-continue-feedback/)
+  * [Impact Filter Template](https://docs.google.com/presentation/d/1UTE8b2WTPg_Rtjd71ySNURXa8yq820uAr_cmNozhAmc/edit#slide=id.g2b92d0f5db5_0_38)
+  * [Competent Jerks, Lovable Fools Matrix](https://obren.io/tools/matrix/?matrix=jerksFools)
 
 <br>
 ## Questions to Consider

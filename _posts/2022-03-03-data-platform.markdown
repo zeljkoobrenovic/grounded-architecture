@@ -232,8 +232,15 @@ Interpreting and using data requires a bit of effort—think of it as a detectiv
 * **Are we working on what we really want to?** We may aspire to innovate, but if we're spending most of our time wrestling with legacy maintenance, we might need to rethink our priorities.
 
 So there you have it. The data's ready to spill its secrets—you need to know the right questions to ask. So, what is your question?
-<br>
 
+<br>
+## To Probe Further
+
+* Open-source [architecture dashboard examples](https://zeljkoobrenovic.github.io/grounded-architecture-dashboard-examples/)
+* [Sokrates](https://sokrates.dev), an open-source polyglot source code examination tool
+
+
+<br>
 <br>
 ## Appendix: Examples of Insights From Source Code Analyses
 

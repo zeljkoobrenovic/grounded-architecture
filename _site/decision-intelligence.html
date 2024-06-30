@@ -123,14 +123,18 @@ Image by iStock
 </style>
 
 <blockquote>
-  <p><strong>IN THIS SECTION, YOU WILL:</strong>  Learn the basics of decision intelligence, the discipline of turning information into better actions, and its relevance for IT architecture practice.</p>
+  <p><strong>IN THIS SECTION, YOU WILL:</strong>  Learn the basics of decision intelligence, the discipline of turning information into
+better actions, and its relevance for IT architecture practice.</p>
 
   <p><strong>KEY POINTS:</strong></p>
   <ul>
     <li>Decision intelligence is the discipline of turning information into better actions.</li>
-    <li>A decision involves more than just selecting from available options; it represents a commitment of resources you cannot take back.</li>
-    <li>Many factors make the decision-making process more or less complex, such as the number of options, costs, cognitive load, emotions, and access to information.</li>
-    <li>Data can significantly improve decision-making, but data do not guarantee objectivity and can even lead to more subjectivity.</li>
+    <li>A decision involves more than just selecting from available options; it represents a commitment of resources you
+  cannot take back.</li>
+    <li>Many factors make the decision-making process more or less complex, such as the number of options, costs, cognitive
+  load, emotions, and access to information.</li>
+    <li>Data can significantly improve decision-making, but data do not guarantee objectivity and can even lead to more
+  subjectivity.</li>
   </ul>
 </blockquote>
 
@@ -141,15 +145,21 @@ Image by iStock
 "Excessive complexity is nature's punishment for organizations that are unable to make decisions." -Gregor Hohpe
 </div>
 
-<p>Now, in this and the next chapter, I want to share some golden nuggets I’ve gleaned from her teachings and how I’ve used them in the wild world of IT. IT architects, like decision-making ninjas, face critical choices every day. Here’s how they flex their decision intelligence:</p>
+<p>Now, in this and the next chapter, I want to share some golden nuggets I’ve gleaned from her teachings and how I’ve used
+them in the wild world of IT. IT architects, like decision-making ninjas, face critical choices every day. Here’s how
+they flex their decision intelligence:</p>
 
 <ul>
-  <li>By <strong>making decisions</strong> (e.g., deciding which cloud provider and services to use when moving applications from a private data center to a public cloud).</li>
-  <li>By <strong>creating mechanisms</strong> for teams to make better decisions (e.g., <a href="https://martinfowler.com/articles/scaling-architecture-conversationally.html">advisory forums</a>).</li>
-  <li>By <strong>creating <a href="https://architectelevator.com/architecture/architecture-options/">options</a></strong> for teams to make decisions later.</li>
+  <li>By <strong>making decisions</strong> (e.g., deciding which cloud provider and services to use when moving applications from a
+private data center to a public cloud).</li>
+  <li>By <strong>creating mechanisms</strong> for teams to make better decisions (
+e.g., <a href="https://martinfowler.com/articles/scaling-architecture-conversationally.html">advisory forums</a>).</li>
+  <li>By <strong>creating <a href="https://architectelevator.com/architecture/architecture-options/">options</a></strong> for teams to make
+decisions later.</li>
 </ul>
 
-<p>In every twist and turn, decision intelligence is the secret sauce that makes IT architects the unsung heroes of the tech world. So, grab your data-driven cape and dive into the art of smart decision-making!</p>
+<p>In every twist and turn, decision intelligence is the secret sauce that makes IT architects the unsung heroes of the
+tech world. So, grab your data-driven cape and dive into the art of smart decision-making!</p>
 
 <p><img src="assets/images/arch/iStock-1194231226.jpg" alt="" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
@@ -163,56 +173,94 @@ Image by iStock
 
 <h3 id="decision-is-more-than-selecting-among-options">Decision Is More Than Selecting Among Options</h3>
 
-<p>Kozyrkov defines a decision as more than just selecting from available options. A decision represents <strong>an irrevocable allocation of resources</strong>, which could be monetary, physical actions, time, or options. Whatever you decide to do, you will spend some time and other resources on it and will not get that time and resources back. The only way to reverse the consequences of some decisions is to invest more resources in that reversal.</p>
+<p>Kozyrkov defines a decision as more than just selecting from available options. A decision represents <strong>an irrevocable
+allocation of resources</strong>, which could be monetary, physical actions, time, or options. Whatever you decide to do, you
+will spend some time and other resources on it and will not get that time and resources back. The only way to reverse
+the consequences of some decisions is to invest more resources in that reversal.</p>
 
 <div class="quote">
 "If you ever drop your keys into a river of molten lava, let 'em go... because man, they're gone!" -Jack Handy
 </div>
 
-<p>Less obviously, optionality is also a resource. Choosing between two options may seem cost-free. However, the possibility of selecting some options is frequently lost once you decide. This loss of opportunity is considered an irrevocable allocation of resources. For instance, before starting a project in IT, you can select from many programming languages and frameworks to implement your system. However, after that, it is very costly to change that decision as you need to rewrite your system entirely in another language.</p>
+<p>Less obviously, optionality is also a resource. Choosing between two options may seem cost-free. However, the
+possibility of selecting some options is frequently lost once you decide. This loss of opportunity is considered an
+irrevocable allocation of resources. For instance, before starting a project in IT, you can select from many programming
+languages and frameworks to implement your system. However, after that, it is very costly to change that decision as you
+need to rewrite your system entirely in another language.</p>
 
-<p>Having or losing options is directly related to a frequent topic in IT: vendor lock-in, which is one of the main drivers behind <a href="https://martinfowler.com/articles/oss-lockin.html">creating or avoiding lock-in</a>. Lock-in in IT refers to a situation where a customer becomes dependent on a specific vendor for products and services, making switching to an alternative solution difficult, costly, or time-consuming. This dependency can result from proprietary technologies, high switching costs, contractual obligations, or the significant effort required to migrate data and systems.</p>
+<p>Having or losing options is directly related to a frequent topic in IT: vendor lock-in, which is one of the main drivers
+behind <a href="https://martinfowler.com/articles/oss-lockin.html">creating or avoiding lock-in</a>. Lock-in in IT refers to a
+situation where a customer becomes dependent on a specific vendor for products and services, making switching to an
+alternative solution difficult, costly, or time-consuming. This dependency can result from proprietary technologies,
+high switching costs, contractual obligations, or the significant effort required to migrate data and systems.</p>
 
-<p>From an IT architecture perspective, another important lesson of this view on decisions is that if there is no irreversible allocation of resources, we cannot talk about decisions. Ivory tower architects who make “principal decisions” that no one follows are technically not making any decisions.</p>
+<p>From an IT architecture perspective, another important lesson of this view on decisions is that if there is no
+irreversible allocation of resources, we cannot talk about decisions. Ivory tower architects who make “principal
+decisions” that no one follows are technically not making any decisions.</p>
 
 <h3 id="outcome--decision-x-luck">Outcome = Decision x Luck</h3>
 
 <p>An outcome is <strong>a result of a decision</strong>. Two factors influence it:</p>
+
 <ul>
   <li><strong>the quality of the decision-making process</strong> and</li>
   <li>an <strong>element of randomness</strong>, or <strong>luck</strong>.</li>
 </ul>
 
-<p>We can only control our decision-making process. Luck? Well, that’s like trying to control a cat—it’s beyond our grasp and has its own agenda. Consequently, if we only consider the outcome, we can mistakenly attribute good luck to good decision-making skills and bad luck to bad decision-making skills.</p>
+<p>We can only control our decision-making process. Luck? Well, that’s like trying to control a cat—it’s beyond our grasp
+and has its own agenda. Consequently, if we only consider the outcome, we can mistakenly attribute good luck to good
+decision-making skills and bad luck to bad decision-making skills.</p>
 
-<p>To fairly judge a decision, we need to look at the context and the information available when the decision was made. Imagine this: You’re driving, and your GPS gives you two routes. One is 30 minutes shorter, so you take it. But 10 minutes in, a traffic jam from an accident makes you wish you had packed a lunch. You end up spending an extra hour stuck. Does this mean your decision was terrible? No way! At the time, all signs pointed to a quick trip.</p>
+<p>To fairly judge a decision, we need to look at the context and the information available when the decision was made.
+Imagine this: You’re driving, and your GPS gives you two routes. One is 30 minutes shorter, so you take it. But 10
+minutes in, a traffic jam from an accident makes you wish you had packed a lunch. You end up spending an extra hour
+stuck. Does this mean your decision was terrible? No way! At the time, all signs pointed to a quick trip.</p>
 
-<p>A recent prime example is the COVID-19 pandemic. The pandemic turned the global economy upside down, like a toddler with a snow globe. Some industries, like travel and tourism, took a nosedive (e.g., Uber, Booking.com, and <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9998299/">Airbnb</a>). On the flip side, however, COVID-19 boosted online tools’ rocket boost. It birthed a new era of virtual collaboration (think Zoom, Microsoft Teams, Slack, Miro).</p>
+<p>A recent prime example is the COVID-19 pandemic. The pandemic turned the global economy upside down, like a toddler with
+a snow globe. Some industries, like travel and tourism, took a nosedive (e.g., Uber, Booking.com,
+and <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9998299/">Airbnb</a>). On the flip side, however, COVID-19 boosted online
+tools’ rocket boost. It birthed a new era of virtual collaboration (think Zoom, Microsoft Teams, Slack, Miro).</p>
 
 <p>So remember, while we can’t control the outcome of the dice roll, we can master our decision-making process.</p>
 
 <h3 id="economics-of-decision-making">Economics of Decision-Making</h3>
 
-<p>I’ve often found myself tangled up in trivial decisions that sucked up all my time and energy. Not all decisions are worth that kind of investment. Enter the “<a href="https://en.wikipedia.org/wiki/Value_of_information"><strong>value of clairvoyance</strong></a>” concept (also known as the value of perfect information) in decision analysis. This nifty idea helps you determine how much effort, info, and resources you should throw at a decision.</p>
+<p>I’ve often found myself tangled up in trivial decisions that sucked up all my time and energy. Not all decisions are
+worth that kind of investment. Enter the “<a href="https://en.wikipedia.org/wiki/Value_of_information">**value of clairvoyance
+**</a>” concept (also known as the value of perfect information) in
+decision analysis. This nifty idea helps you determine how much effort, info, and resources you should throw at a
+decision.</p>
 
-<p>For low-stakes decisions, perfectionism is like wearing a tuxedo to a beach party—wholly unnecessary and probably uncomfortable. On the flip side, high-stakes decisions deserve the royal treatment. According to the wise Cassie Kozyrkov, here’s how to tackle decision-making like a pro:</p>
+<p>For low-stakes decisions, perfectionism is like wearing a tuxedo to a beach party—wholly unnecessary and probably
+uncomfortable. On the flip side, high-stakes decisions deserve the royal treatment. According to the wise Cassie
+Kozyrkov, here’s how to tackle decision-making like a pro:</p>
 
 <ol>
-  <li><strong>Visualize the Best and Worst Outcomes</strong>: Start by picturing your decision’s potential paradise and disaster scenarios. This helps you grasp the stakes involved.</li>
-  <li><strong>Apply the “Value of Clairvoyance” Technique</strong>: Imagine you’ve got a psychic on speed dial who can give you the perfect answer to your dilemma. How much would you pay for that crystal-clear insight? Think of the maximum resources—money, time, or effort—you’d spend for this flawless foresight.</li>
-  <li><strong>Balance Investment with Importance</strong>: This little exercise helps you determine the value of achieving perfect clarity and making the best choice.</li>
+  <li><strong>Visualize the Best and Worst Outcomes</strong>: Start by picturing your decision’s potential paradise and disaster
+scenarios. This helps you grasp the stakes involved.</li>
+  <li><strong>Apply the “Value of Clairvoyance” Technique</strong>: Imagine you’ve got a psychic on speed dial who can give you the
+perfect answer to your dilemma. How much would you pay for that crystal-clear insight? Think of the maximum
+resources—money, time, or effort—you’d spend for this flawless foresight.</li>
+  <li><strong>Balance Investment with Importance</strong>: This little exercise helps you determine the value of achieving perfect
+clarity and making the best choice.</li>
 </ol>
 
-<p>If you realize that perfect information isn’t worth much for a particular decision, it’s time to trust your gut. This strategy helps you balance the effort you put into decision-making with the decision’s actual importance.</p>
+<p>If you realize that perfect information isn’t worth much for a particular decision, it’s time to trust your gut. This
+strategy helps you balance the effort you put into decision-making with the decision’s actual importance.</p>
 
-<p>For example, deciding on the best public cloud provider is like choosing a life partner. This high-impact decision deserves thorough analysis. On the other hand, approving costs for an individual developer license that can be canceled at any time is like choosing what to have for lunch. Yet, companies often have procurement processes that make both these decisions feel like you’re signing the Declaration of Independence.</p>
+<p>For example, deciding on the best public cloud provider is like choosing a life partner. This high-impact decision
+deserves thorough analysis. On the other hand, approving costs for an individual developer license that can be canceled
+at any time is like choosing what to have for lunch. Yet, companies often have procurement processes that make both
+these decisions feel like you’re signing the Declaration of Independence.</p>
 
-<p>So, next time you’re stuck in a marathon meeting about whether to buy a €100 software library license, remember: not all decisions need to be treated like a royal decree. Save the deep dives for the big fish and keep the small fry simple!</p>
+<p>So, next time you’re stuck in a marathon meeting about whether to buy a €100 software library license, remember: not all
+decisions need to be treated like a royal decree. Save the deep dives for the big fish and keep the small fry simple!</p>
 
 <p><br /></p>
 <h2 id="preparing-for-making-decisions">Preparing for Making Decisions</h2>
 
-<p>Decisions are the steering wheel for reaching our goals. Consequently, it is crucial to understand and define goals properly and to understand whether a decision needs to be made at all.</p>
+<p>Decisions are the steering wheel for reaching our goals. Consequently, it is crucial to understand and define goals
+properly and to understand whether a decision needs to be made at all.</p>
 
 <p><img src="assets/images/arch/iStock-1301200404.jpg" alt="" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
@@ -221,62 +269,104 @@ Image by iStock
 
 <h3 id="setting-goals">Setting Goals</h3>
 
-<p>Practical goal setting is like trying to find your way out of an escape room—you need to understand your priorities and opportunities, or you’ll run in circles. By identifying what’s truly important and ignoring everyone else’s distractions, you can focus on what really counts.</p>
+<p>Practical goal setting is like trying to find your way out of an escape room—you need to understand your priorities and
+opportunities, or you’ll run in circles. By identifying what’s truly important and ignoring everyone else’s
+distractions, you can focus on what really counts.</p>
 
-<p>Common goal-setting blunders include making goals so vague that they float away like a helium balloon or so rigid that they shatter at the first sign of trouble. The secret sauce? <strong>Layered goals</strong> that bring clarity, each serving a different purpose. In managerial sciences, goals come in three flavors: outcome, performance, and process goals.</p>
+<p>Common goal-setting blunders include making goals so vague that they float away like a helium balloon or so rigid that
+they shatter at the first sign of trouble. The secret sauce? <strong>Layered goals</strong> that bring clarity, each serving a
+different purpose. In managerial sciences, goals come in three flavors: outcome, performance, and process goals.</p>
 
 <ul>
   <li>
-    <p><strong>Outcome Goals</strong>: These are the grand finales, the ultimate wins, but they can be as vague as a politician’s promise and influenced by things beyond your control. It’s like “creating value for customers” and “being profitable.” Nice, right? But how do you measure “value” and “profit” when you’re busy fighting off existential crises?</p>
+    <p><strong>Outcome Goals</strong>: These are the grand finales, the ultimate wins, but they can be as vague as a politician’s promise
+and influenced by things beyond your control. It’s like “creating value for customers” and “being profitable.” Nice,
+right? But how do you measure “value” and “profit” when you’re busy fighting off existential crises?</p>
   </li>
   <li>
-    <p><strong>Performance Goals</strong>: These goals are measurable and, if you’re not aiming for the moon, primarily within your control. In business, it’s all about increasing website visits, slashing infrastructure costs, and boosting revenue. They’re aspirational and tricky to manage, but hey, no pain, no gain.</p>
+    <p><strong>Performance Goals</strong>: These goals are measurable and, if you’re not aiming for the moon, primarily within your
+control. In business, it’s all about increasing website visits, slashing infrastructure costs, and boosting revenue.
+They’re aspirational and tricky to manage, but hey, no pain, no gain.</p>
   </li>
   <li>
-    <p><strong>Process Goals</strong>: They’re measurable and entirely within your control. In business, this translates to rolling out new features on time or launching a targeted marketing campaign. These goals keep you on track but should always serve your higher aspirations.</p>
+    <p><strong>Process Goals</strong>: They’re measurable and entirely within your control. In business, this translates to rolling out
+new features on time or launching a targeted marketing campaign. These goals keep you on track but should always serve
+your higher aspirations.</p>
   </li>
 </ul>
 
-<p>You need all three types of goals neatly connected like a well-oiled machine. For example, running a flashy marketing campaign (a process goal) should attract more visitors to your site and boost revenue (performance goals), ultimately delivering more value to customers and fattening your bottom line (outcome goals). Consolidating IT infrastructure (a process goal) should trim overall costs (a performance goal), making your business more profitable (an outcome goal).</p>
+<p>You need all three types of goals neatly connected like a well-oiled machine. For example, running a flashy marketing
+campaign (a process goal) should attract more visitors to your site and boost revenue (performance goals), ultimately
+delivering more value to customers and fattening your bottom line (outcome goals). Consolidating IT infrastructure (a
+process goal) should trim overall costs (a performance goal), making your business more profitable (an outcome goal).</p>
 
-<p>But beware! Don’t let process goals hog the spotlight and distract you from the big picture. Wise goal setting is all about layering your goals, aligning them with your priorities, setting ambitious targets, and establishing manageable processes, all while staying flexible and responsive to life’s curveballs.</p>
+<p>But beware! Don’t let process goals hog the spotlight and distract you from the big picture. Wise goal setting is all
+about layering your goals, aligning them with your priorities, setting ambitious targets, and establishing manageable
+processes, all while staying flexible and responsive to life’s curveballs.</p>
 
 <h3 id="aligning-goals-the-principal-agent-problem">Aligning Goals: The Principal-Agent Problem</h3>
 
-<p>One of the classic headaches in goal setting for complex organizations is the <strong>principal-agent problem</strong>. This nifty concept from economics is like a plot twist in a soap opera: the interests of the decision-maker (the agent) are as different from those of the owner (the principal). For example, the owners (principals) may be about growth and expansion. At the same time, the managers (agents) might dream of longer lunch breaks and fatter paychecks. This clash of interests can lead to a mismanagement mess if mishandled.</p>
+<p>One of the classic headaches in goal setting for complex organizations is the <strong>principal-agent problem</strong>. This nifty
+concept from economics is like a plot twist in a soap opera: the interests of the decision-maker (the agent) are as
+different from those of the owner (the principal). For example, the owners (principals) may be about growth and
+expansion. At the same time, the managers (agents) might dream of longer lunch breaks and fatter paychecks. This clash
+of interests can lead to a mismanagement mess if mishandled.</p>
 
-<p>In the wild world of IT, a prime example is technology selection. Individual teams might want to use the latest, coolest tech based on their personal preferences. But letting each team run wild can turn your technology landscape into a tangled jungle. It’s usually better for an IT organization to keep the tech menu limited. This way, it’s easier to train newbies, maintain the codebase, and shuffle people between teams without causing a tech meltdown.</p>
+<p>In the wild world of IT, a prime example is technology selection. Individual teams might want to use the latest, coolest
+tech based on their personal preferences. But letting each team run wild can turn your technology landscape into a
+tangled jungle. It’s usually better for an IT organization to keep the tech menu limited. This way, it’s easier to train
+newbies, maintain the codebase, and shuffle people between teams without causing a tech meltdown.</p>
 
-<p>So, how do we get these misaligned interests on the same page? The principal needs to set up some <strong>rules or constraints</strong> to align the agent’s decisions with their interests. This is like giving your dog a fenced yard—freedom to play, but within safe boundaries.</p>
+<p>So, how do we get these misaligned interests on the same page? The principal needs to set up some **rules or constraints
+** to align the agent’s decisions with their interests. This is like giving your dog a fenced yard—freedom to play, but
+within safe boundaries.</p>
 
-<p>This principle also applies to personal decision-making, especially when juggling short-term temptations and long-term goals. By setting up pre-emptive constraints, you can steer your choices toward those long-term dreams and avoid decisions that might look tempting now but are as regrettable as a midnight snack of expired sushi.</p>
+<p>This principle also applies to personal decision-making, especially when juggling short-term temptations and long-term
+goals. By setting up pre-emptive constraints, you can steer your choices toward those long-term dreams and avoid
+decisions that might look tempting now but are as regrettable as a midnight snack of expired sushi.</p>
 
-<p>For instance, in the technology selection saga, one strategy I often use is to create “<a href="https://engineering.atspotify.com/2020/08/how-we-use-golden-paths-to-solve-fragmentation-in-our-software-ecosystem/">golden paths</a>“—supporting a limited set of technologies and making it tougher to stray into uncharted territory. It’s like saying, “Sure, you can build with LEGO, but maybe let’s stick to this one box instead of the entire toy store.”</p>
+<p>For instance, in the technology selection saga, one strategy I often use is to
+create “<a href="https://engineering.atspotify.com/2020/08/how-we-use-golden-paths-to-solve-fragmentation-in-our-software-ecosystem/">golden paths</a>”
+—supporting a limited set of technologies and making it tougher to stray into uncharted territory. It’s like saying, “
+Sure, you can build with LEGO, but maybe let’s stick to this one box instead of the entire toy store.”</p>
 
-<p>So remember, setting those golden paths and constraints isn’t about being a killjoy. It’s about keeping everyone aligned and avoiding a tech Tower of Babel.</p>
+<p>So remember, setting those golden paths and constraints isn’t about being a killjoy. It’s about keeping everyone aligned
+and avoiding a tech Tower of Babel.</p>
 
 <h3 id="is-there-a-decision-to-be-made">Is There A Decision To Be Made?</h3>
 
-<p>In decision-making, especially when you’re not the one calling the shots, it’s crucial to figure out how to contribute effectively as the decision whisperer. First things first: determine if there’s even a space for a decision to be made. Sometimes, the big cheese has already decided and needs you to rubber-stamp it like a bureaucratic formality.</p>
+<p>In decision-making, especially when you’re not the one calling the shots, it’s crucial to figure out how to contribute
+effectively as the decision whisperer. First things first: determine if there’s even a space for a decision to be made.
+Sometimes, the big cheese has already decided and needs you to rubber-stamp it like a bureaucratic formality.</p>
 
-<p>Before diving into the murky waters of faux decision-making, clarify whether there’s room for a decision. According to Cassie Kozyrkov, this involves two simple steps.</p>
+<p>Before diving into the murky waters of faux decision-making, clarify whether there’s room for a decision. According to
+Cassie Kozyrkov, this involves two simple steps.</p>
 
 <ol>
-  <li><strong>Check the Decision-Maker’s Auto-Pilot</strong>: Figure out what the primary decision-maker would do if you weren’t in the picture. Would they carry on like a self-driving car?</li>
-  <li><strong>Deploy the Magic Question</strong>: Ask them, “<strong>What would it take to change your mind?</strong>” If they reply, “Nothing!” then congratulations, you’ve just discovered you’re in a no-decision zone.</li>
+  <li><strong>Check the Decision-Maker’s Auto-Pilot</strong>: Figure out what the primary decision-maker would do if you weren’t in the
+picture. Would they carry on like a self-driving car?</li>
+  <li><strong>Deploy the Magic Question</strong>: Ask them, “<strong>What would it take to change your mind?</strong>” If they reply, “Nothing!” then
+congratulations, you’ve just discovered you’re in a no-decision zone.</li>
 </ol>
 
 <p>This latter question is your secret weapon for several reasons:</p>
 
 <ol>
-  <li><strong>Starts Insightful Conversations</strong>: It’s like opening a treasure chest of insights into the decision-making process and the decision-maker’s mindset.</li>
-  <li><strong>Identifies the Decision-Maker</strong>: It helps you figure out if the person you’re talking to is the real decision-maker or just a messenger.</li>
-  <li><strong>Detects Real Decisions</strong>: If no information can change their mind, then there’s no real decision to be made. You’re just there to wave pom-poms and cheer for a pre-made choice.</li>
+  <li><strong>Starts Insightful Conversations</strong>: It’s like opening a treasure chest of insights into the decision-making process
+and the decision-maker’s mindset.</li>
+  <li><strong>Identifies the Decision-Maker</strong>: It helps you figure out if the person you’re talking to is the real decision-maker
+or just a messenger.</li>
+  <li><strong>Detects Real Decisions</strong>: If no information can change their mind, then there’s no real decision to be made. You’re
+just there to wave pom-poms and cheer for a pre-made choice.</li>
 </ol>
 
-<p>This magical question helps you map out the decision-making landscape, gauge the decision-maker’s openness to new ideas, and see if there’s genuine room for making or influencing a decision. If their mind is more closed than a locked vault, you’ll know it’s time to save your energy for real decision-making battles.</p>
+<p>This magical question helps you map out the decision-making landscape, gauge the decision-maker’s openness to new ideas,
+and see if there’s genuine room for making or influencing a decision. If their mind is more closed than a locked vault,
+you’ll know it’s time to save your energy for real decision-making battles.</p>
 
-<p>So, next time you’re in a meeting and wondering if you’re there to make a difference or to play the part of the wise advisor in a decision-making drama, remember to whip out the magic question. It’s your ticket to knowing whether you’re in for an epic decision-making saga or a cameo appearance.</p>
+<p>So, next time you’re in a meeting and wondering if you’re there to make a difference or to play the part of the wise
+advisor in a decision-making drama, remember to whip out the magic question. It’s your ticket to knowing whether you’re
+in for an epic decision-making saga or a cameo appearance.</p>
 
 <p><img src="assets/images/arch/iStock-1043738948.jpg" alt="" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
@@ -286,75 +376,183 @@ Image by iStock
 <p><br /></p>
 <h2 id="decision-making-complexity">Decision-Making Complexity</h2>
 
-<p>Some decisions are easier to make than others. Kozyrkov identifies 14 factors that can make decision-making more or less complex:</p>
+<p>Some decisions are easier to make than others. Kozyrkov identifies 14 factors that can make decision-making more or less
+complex:</p>
 
 <h3 id="number-of-options">Number of options</h3>
 
-<p>Decision-making becomes simpler with <strong>fewer options.</strong> When choosing between a limited number of options, it’s straightforward. However, as more options, especially combined choices, are introduced, the process becomes more complex, involving <strong>compound decision-making</strong> (several dependent decisions you must make together). The simplest scenario is a straightforward yes or no decision.</p>
+<p>Decision-making becomes simpler with <strong>fewer options.</strong> When choosing between a limited number of options, it’s
+straightforward. However, as more options, especially combined choices, are introduced, the process becomes more
+complex, involving <strong>compound decision-making</strong> (several dependent decisions you must make together). The simplest
+scenario is a straightforward yes or no decision.</p>
 
 <h3 id="clarity-of-options-boundaries">Clarity of options’ boundaries</h3>
 
-<p>Some decisions are straightforward when the choice is <strong>clear-cut,</strong> like choosing your meal between a rock and an apple, where the preferable option is obvious. Deciding between two varieties of apples is slightly more challenging. Still, it remains easy if the decision <strong>isn’t significant or high-stakes</strong>. In IT, having a preferred public cloud provider provides a clear-cut decision about public cloud hosting. Once inside a public cloud, selecting an appropriate service is much more challenging as hundreds of options are available.</p>
+<p>Some decisions are straightforward when the choice is <strong>clear-cut,</strong> like choosing your meal between a rock and an
+apple, where the preferable option is obvious. Deciding between two varieties of apples is slightly more challenging.
+Still, it remains easy if the decision <strong>isn’t significant or high-stakes</strong>. In IT, having a preferred public cloud
+provider provides a clear-cut decision about public cloud hosting. Once inside a public cloud, selecting an appropriate
+service is much more challenging as hundreds of options are available.</p>
 
 <h3 id="clarity-of-objectives">Clarity of objectives</h3>
 
-<p>Having <strong>clear objectives</strong> is another factor that simplifies decision-making. It involves considering the most effective approach to the decision and quickly determining the criteria for making that choice.</p>
+<p>Having <strong>clear objectives</strong> is another factor that simplifies decision-making. It involves considering the most
+effective approach to the decision and quickly determining the criteria for making that choice.</p>
 
 <h3 id="cost-of-making-a-decision">Cost of making a decision</h3>
 
-<p><strong>Low-cost</strong> of decision-making simplifies decision-making. These costs include the effort required to <strong>evaluate</strong> information, the ease of <strong>implementing</strong> the decision, and the potential <strong>consequences of any mistakes</strong>. Decisions are easier when these associated costs are low.</p>
+<p><strong>Low-cost</strong> of decision-making simplifies decision-making. These costs include the effort required to <strong>evaluate</strong>
+information, the ease of <strong>implementing</strong> the decision, and the potential <strong>consequences of any mistakes</strong>. Decisions
+are easier when these associated costs are low.</p>
 
 <h3 id="costs-of-reversing-a-decision">Costs of reversing a decision</h3>
 
-<p>While decisions typically involve a commitment of resources you can’t undo, some are considered reversible. If you can <strong>change your decision quickly and with little cost</strong>, the consequences of a wrong choice are less severe, making the decision easier.</p>
+<p>While decisions typically involve a commitment of resources you can’t undo, some are considered reversible. If you can *
+*change your decision quickly and with little cost**, the consequences of a wrong choice are less severe, making the
+decision easier.</p>
 
 <h3 id="cognitive-load">Cognitive load</h3>
 
-<p>If a decision requires <strong>significant mental effort</strong>, such as remembering <strong>many details</strong> or making choices while <strong>distracted,</strong> it becomes more challenging. On the other hand, if you can make the decision easily and consistently, even amidst other tasks or distractions, then it’s a simpler decision.</p>
+<p>If a decision requires <strong>significant mental effort</strong>, such as remembering <strong>many details</strong> or making choices while *
+*distracted,** it becomes more challenging. On the other hand, if you can make the decision easily and consistently,
+even amidst other tasks or distractions, then it’s a simpler decision.</p>
 
-<p>A lot of IT architects’ work involves creating visualizations and abstractions that can reduce cognitive load and help others make better decisions about complex systems.</p>
+<p>A lot of IT architects’ work involves creating visualizations and abstractions that can reduce cognitive load and help
+others make better decisions about complex systems.</p>
 
 <h3 id="emotional-impact">Emotional impact</h3>
 
-<p>If a decision doesn’t <strong>evoke strong emotions</strong> or significantly affect you emotionally, it tends to be easier. Conversely, decisions that stir up intense emotions or leave you highly agitated are more difficult.</p>
+<p>If a decision doesn’t <strong>evoke strong emotions</strong> or significantly affect you emotionally, it tends to be easier.
+Conversely, decisions that stir up intense emotions or leave you highly agitated are more difficult.</p>
 
-<p>For instance, the company’s decision to use only one frontend programming language significantly affects people unfamiliar with the choice, as they cannot perform at a senior level in new technology for a long time and need to learn many new things. Many people negatively affected by this choice may decide to leave and find a job where they can work with technologies in which they are experts. So, a simple technological decision quickly becomes a personal career-making choice and an HR issue.</p>
+<p>For instance, the company’s decision to use only one frontend programming language significantly affects people
+unfamiliar with the choice, as they cannot perform at a senior level in new technology for a long time and need to learn
+many new things. Many people negatively affected by this choice may decide to leave and find a job where they can work
+with technologies in which they are experts. So, a simple technological decision quickly becomes a personal
+career-making choice and an HR issue.</p>
 
 <h3 id="pressure-and-stress">Pressure and stress</h3>
 
-<p>Decisions made under conditions of <strong>low pressure and stress</strong> are generally easier. In contrast, those made in high-pressure, stressful situations are more challenging.</p>
+<p>Decisions made under conditions of <strong>low pressure and stress</strong> are generally easier. In contrast, those made in
+high-pressure, stressful situations are more challenging.</p>
 
 <h3 id="access-to-information">Access to information</h3>
 
-<p>Decisions are easier when you <strong>have complete and reliable information readily available</strong>. In contrast, making decisions with only partial information and uncertain probabilities is more challenging. As discussed in the context of statistics, having limited information complicates the decision process as you need to guess missing pieces of information.</p>
+<p>Decisions are easier when you <strong>have complete and reliable information readily available</strong>. In contrast, making
+decisions with only partial information and uncertain probabilities is more challenging. As discussed in the context of
+statistics, having limited information complicates the decision process as you need to guess missing pieces of
+information.</p>
 
 <h3 id="risks-and-ambiguity">Risks and ambiguity</h3>
 
-<p>Decisions become simpler when there is no <strong>risk or ambiguity involved.</strong> Risk and ambiguity, though different, both complicate decision-making. Ambiguity arises when the probabilities of outcomes are unknown,
-making choices uncertain. On the other hand, risk involves taking a known gamble, where you understand the potential consequences and likelihoods.</p>
+<p>Decisions become simpler when there is no <strong>risk or ambiguity involved.</strong> Risk and ambiguity, though different, both
+complicate decision-making. Ambiguity arises when the probabilities of outcomes are unknown,
+making choices uncertain. On the other hand, risk involves taking a known gamble, where you understand the potential
+consequences and likelihoods.</p>
 
 <h3 id="timing">Timing</h3>
 
 <p>Difficulties arise when the <strong>decision’s timing
-conflicts with other simultaneous decisions</strong> or when there’s <strong>insufficient time</strong> to consider the choice thoroughly. Situations requiring a rapid response can add significant pressure, making the decision process more challenging.</p>
+conflicts with other simultaneous decisions</strong> or when there’s <strong>insufficient time</strong> to consider the choice thoroughly.
+Situations requiring a rapid response can add significant pressure, making the decision process more challenging.</p>
 
 <h3 id="impact-on-others">Impact on others</h3>
 
-<p>Making decisions alone is generally easier. The process is simpler when you’re the sole decision-maker, without involving others, and the decision’s outcome impacts only you. In contrast, making decisions in a social context is more complex. Factors like <strong>social scrutiny</strong>, considering the <strong>impact on others</strong>, balancing <strong>different preferences and opinions</strong>, and the potential
+<p>Making decisions alone is generally easier. The process is simpler when you’re the sole decision-maker, without
+involving others, and the decision’s outcome impacts only you. In contrast, making decisions in a social context is more
+complex. Factors like <strong>social scrutiny</strong>, considering the <strong>impact on others</strong>, balancing <strong>different preferences and
+opinions</strong>, and the potential
 <strong>effect on your reputation</strong> all add to the difficulty.</p>
 
 <h3 id="internal-conflicts">Internal conflicts</h3>
 
-<p>Decisions are more problematic when there are internal conflicts, as opposed to situations where all <strong>motivations and incentives align</strong> with the decision. For instance, deciding to make shortcuts in your systems design and skipping steps in a process to get some features quicker to the market vs. spending more time tidying and testing your code is a typical dilemma many software engineers and IT architects face.</p>
+<p>Decisions are more problematic when there are internal conflicts, as opposed to situations where all <strong>motivations and
+incentives align</strong> with the decision. For instance, deciding to make shortcuts in your systems design and skipping steps
+in a process to get some features quicker to the market vs. spending more time tidying and testing your code is a
+typical dilemma many software engineers and IT architects face.</p>
 
 <h3 id="adversarial-dynamics">Adversarial dynamics</h3>
 
-<p>Finally, adversarial dynamics impact decision-making. When you face <strong>competition or opposition from others,</strong> these decisions become more challenging compared to those made cooperatively or independently. For example, when you merge two companies with different technology stacks (e.g., one using React and Java in AWS, and another Angular and C# in Azure) and want to consolidate on one stack, you may end up in competition and opposition with people from each company wanting a consolidated stack to be as close as possible to their previous one.</p>
+<p>Finally, adversarial dynamics impact decision-making. When you face <strong>competition or opposition from others,</strong> these
+decisions become more challenging compared to those made cooperatively or independently. For example, when you merge two
+companies with different technology stacks (e.g., one using React and Java in AWS, and another Angular and C# in Azure)
+and want to consolidate on one stack, you may end up in competition and opposition with people from each company wanting
+a consolidated stack to be as close as possible to their previous one.</p>
+
+<p><br /></p>
+<h2 id="decision-is-a-step-in-the-process-not-the-end-goal">Decision is a Step in the Process, Not the End Goal</h2>
+
+<p>The Radical Candor book introduces a <a href="https://www.radicalcandor.com/wp-content/uploads/2022/09/How-To-Get-Shit-Done-With-Radical-Candor.pdf">productivity-focused strategy</a> to improve decision-making processes, reduce time
+spent in unproductive meetings, and enhance overall efficiency. The central premise of this methodology is that you
+cannot just make a decision. To have any impact, you need to go through several steps: Listen, Clarify, Debate, Decide,
+Persuade, Implement, and Learn.</p>
+
+<h3 id="listen">Listen</h3>
+
+<p>The first step is to <strong>Listen</strong>. Gathering relevant data, feedback, and insights from various sources is crucial.
+Understanding different perspectives from stakeholders, team members, and experts helps form a comprehensive view of the
+situation. This step ensures a thorough understanding of the situation by gathering relevant data and insights from
+various sources. It also ensures consideration of diverse perspectives, which helps form a well-rounded view of the
+issue. By following these seven steps—listen, Clarify, Debate, Decide, Persuade, Implement, and Learn—you can make
+better decisions and get things done efficiently.</p>
+
+<h3 id="clarify">Clarify</h3>
+
+<p>Next, you need to <strong>Clarify</strong>. Clearly articulate the issue or decision to ensure everyone understands the context.
+Establishing clear, specific goals and desired outcomes for the decision is essential. This sets the stage for focused
+discussions and aligned efforts. Clarifying the problem or decision you need to make ensures clear articulation and
+alignment on objectives and desired outcomes. This step eliminates misunderstandings and ambiguities, solidifying the
+foundation for focused discussions.</p>
+
+<h3 id="debate">Debate</h3>
+
+<p>Following clarification, the step is to <strong>Debate</strong>. Engage in discussing potential solutions and alternatives, weighing
+the pros and cons of each option. Encourage an open discussion where team members can freely share their ideas and
+constructively challenge each other’s viewpoints. This collaborative approach helps in exploring various aspects of the
+decision. Debating potential solutions ensures a thorough evaluation of all possible options. It promotes an open
+exchange of ideas and constructive challenges, allowing for exploring various aspects and implications of the decision.</p>
+
+<h3 id="decide">Decide</h3>
+
+<p>Once the debate has provided a thorough evaluation of options, it’s time to <strong>Decide</strong>. Choose the best course of action
+based on the gathered information and discussions. Depending on your organizational culture, you may reach a consensus
+among the team or have the decision made by a designated leader. The key is to make an explicit and informed choice. The
+decision-making step ensures an informed and thoughtful choice based on the available information and discussions. It
+provides a clear resolution and direction for moving forward, ensuring the best action is selected.</p>
+
+<h3 id="persuade">Persuade</h3>
+
+<p>After making the decision, the next step is to <strong>Persuade</strong>. Clearly communicate the decision and the rationale behind
+it to all stakeholders. It’s essential to gain buy-in from team members and stakeholders by addressing their concerns
+and objections, convincing them of the decision’s validity and importance. Persuading stakeholders and team members
+ensures effective communication of the decision and its rationale. This step secures buy-in and support, addressing and
+mitigating any concerns or objections that may arise.</p>
+
+<h3 id="implement">Implement</h3>
+
+<p>With buy-in secured, you move to <strong>Implement</strong>. Execute the plan by assigning tasks and responsibilities to the
+appropriate individuals. Ensure everyone understands their role in the overall plan, providing the necessary resources
+and support to facilitate effective implementation. Alignment and clear communication are vital during this phase.
+Implementing the decision ensures the execution of the plan through the assignment of tasks and responsibilities. It
+ensures alignment and understanding of roles and the provision of necessary resources and support for successful
+implementation.</p>
+
+<h3 id="learn">Learn</h3>
+
+<p>Finally, it’s crucial to <strong>Learn</strong>. Monitor the implementation process and measure the outcomes against the set
+objectives. Collect feedback from stakeholders and team members to assess the effectiveness of the decision. Analyze the
+results to identify lessons learned and make necessary adjustments to improve future decision-making processes. This
+continuous improvement approach helps refine strategies and enhance productivity over time. Learning from the process
+ensures continuous improvement. Monitoring and measuring the implementation and outcomes, collecting and analyzing
+stakeholder feedback, and identifying lessons learned all refine future decision-making processes.</p>
 
 <p><br /></p>
 <h2 id="decision-making-with-data-and-tools">Decision-Making With Data and Tools</h2>
 
-<p>Decision-making has evolved beyond pen and paper, with data playing a crucial role in modern methods. Data, like the one I use in <a href="data">Data Foundation</a>, while visually appealing and powerful when used correctly, is <strong>only a tool to assist</strong> in making informed decisions. It’s a means to an impactful end, but <strong>without purposeful application, data is ineffective</strong>.</p>
+<p>Decision-making has evolved beyond pen and paper, with data playing a crucial role in modern methods. Data, like the one
+I use in <a href="data">Data Foundation</a>, while visually appealing and powerful when used correctly, is <strong>only a tool to assist
+** in making informed decisions. It’s a means to an impactful end, but **without purposeful application, data is
+ineffective</strong>.</p>
 
 <p><img src="assets/images/arch/iStock-1316937637.jpg" alt="" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
@@ -363,49 +561,79 @@ Image by iStock
 
 <h3 id="remember-that-data-has-limitations">Remember that data has limitations</h3>
 
-<p>Just as not everything written in a book is true, data can be <strong>misleading or incomplete</strong>. It’s a collection of information recorded by humans, subject to errors and omissions.</p>
+<p>Just as not everything written in a book is true, data can be <strong>misleading or incomplete</strong>. It’s a collection of
+information recorded by humans, subject to errors and omissions.</p>
 
-<p>For instance, in artificial intelligence (AI), <strong>AI biases stem from the data</strong> it’s fed, reflecting the choices and prejudices of those who compile the data. The issues with AI bias are often due to poor decisions regarding data selection. <strong>Data isn’t inherently objective</strong>; it carries the <strong>implicit values of its creators</strong>.</p>
+<p>For instance, in artificial intelligence (AI), <strong>AI biases stem from the data</strong> it’s fed, reflecting the choices and
+prejudices of those who compile the data. The issues with AI bias are often due to poor decisions regarding data
+selection. <strong>Data isn’t inherently objective</strong>; it carries the <strong>implicit values of its creators</strong>.</p>
 
-<p>Data’s value lies in its ability to <strong>enhance memory, not ensure objectivity</strong>. Embracing data means embracing a significant advancement in human potential. It’s about transforming information into action, extending beyond the limits of personal memory to make better, more informed decisions.</p>
+<p>Data’s value lies in its ability to <strong>enhance memory, not ensure objectivity</strong>. Embracing data means embracing a
+significant advancement in human potential. It’s about transforming information into action, extending beyond the limits
+of personal memory to make better, more informed decisions.</p>
 
 <h3 id="chose-the-right-tool-for-the-job">Chose the right tool for the job</h3>
 
-<p>Cassie Kozyrkov breaks down the techniques for analyzing data into three snazzy <a href="https://kozyrkov.medium.com/what-on-earth-is-data-science-eb1237d8cb37">groups</a>:</p>
+<p>Cassie Kozyrkov breaks down the techniques for analyzing data into three
+snazzy <a href="https://kozyrkov.medium.com/what-on-earth-is-data-science-eb1237d8cb37">groups</a>:</p>
 
 <ol>
-  <li><strong>Analytics</strong>: This is like using data as a telescope that can give you a clear view of the available data landscape. It’s like having a magic map highlighting viable options, reasonable assumptions, and thought-provoking questions. Data and Analytics can spark those “Aha!” moments by revealing insights that were previously hiding in plain sight. For those “What’s the weather like?” kinds of questions. Or “What is that service in our public cloud costing as $1M per year?”</li>
-  <li><strong>Statistics</strong>: Consider this your trusty Swiss Army knife for decision-making when dealing with incomplete information and uncertainty. For example, “How likely am I to get struck by lightning?” or “What is the probability of downtime or our IT services (famous three, four, five-nines of uptime)?”</li>
-  <li><strong>Machine Learning (ML)/AI</strong>: This is your army of data minions, ready to tackle a gazillion decisions and mountains of data without breaking a sweat. For the “Can I build a weather-predicting robot?” level of inquiries. Or “What will our IT costs be next year based on detailed traffic estimates?”</li>
+  <li><strong>Analytics</strong>: This is like using data as a telescope that can give you a clear view of the available data landscape.
+It’s like having a magic map highlighting viable options, reasonable assumptions, and thought-provoking questions.
+Data and Analytics can spark those “Aha!” moments by revealing insights that were previously hiding in plain sight.
+For those “What’s the weather like?” kinds of questions. Or “What is that service in our public cloud costing as $1M
+per year?”</li>
+  <li><strong>Statistics</strong>: Consider this your trusty Swiss Army knife for decision-making when dealing with incomplete
+information and uncertainty. For example, “How likely am I to get struck by lightning?” or “What is the probability
+of downtime or our IT services (famous three, four, five-nines of uptime)?”</li>
+  <li><strong>Machine Learning (ML)/AI</strong>: This is your army of data minions, ready to tackle a gazillion decisions and mountains
+of data without breaking a sweat. For the “Can I build a weather-predicting robot?” level of inquiries. Or “What will
+our IT costs be next year based on detailed traffic estimates?”</li>
 </ol>
 
-<p>When you master these techniques, data transforms into your superpower, helping you ask sharper questions and deliver spot-on answers.</p>
+<p>When you master these techniques, data transforms into your superpower, helping you ask sharper questions and deliver
+spot-on answers.</p>
 
 <h3 id="prefer-complete-information-to-partial-information">Prefer complete information to partial information</h3>
 
-<p>No matter how you plan to use data, full information is always preferable to partial information. If you only have partial information, you’re dealing with uncertainty, and that’s where statistical methods come in.</p>
+<p>No matter how you plan to use data, full information is always preferable to partial information. If you only have
+partial information, you’re dealing with uncertainty, and that’s where statistical methods come in.</p>
 
-<p>Statistics is used when you don’t have all the facts and must manage uncertainty. They can help you balance the likelihood of a wrong decision against your data budget, considering your risk preferences.</p>
+<p>Statistics is used when you don’t have all the facts and must manage uncertainty. They can help you balance the
+likelihood of a wrong decision against your data budget, considering your risk preferences.</p>
 
 <h3 id="be-in-the-driving-seat">Be in the driving seat</h3>
 
-<p>Just staring at data and crunching numbers isn’t decision-making. As the decision maker, your job is to set the stage, choose the relevant topics, frame the right questions, and guide the analysis like a maestro conducting an orchestra.</p>
+<p>Just staring at data and crunching numbers isn’t decision-making. As the decision maker, your job is to set the stage,
+choose the relevant topics, frame the right questions, and guide the analysis like a maestro conducting an orchestra.</p>
 
-<p>As a decision-maker, it’s crucial to <strong>ask the right questions</strong>, and figure out <strong>which decisions are worth your brainpower</strong>. Once you’ve identified those critical decisions, then—and only then—should you whip out the advanced statistical or other methods to get more accurate answers in the murky waters of uncertainty. Diving into data without asking the right questions is like wandering into a labyrinth with a blindfold on.</p>
+<p>As a decision-maker, it’s crucial to <strong>ask the right questions</strong>, and figure out <strong>which decisions are worth your
+brainpower</strong>. Once you’ve identified those critical decisions, then—and only then—should you whip out the advanced
+statistical or other methods to get more accurate answers in the murky waters of uncertainty. Diving into data without
+asking the right questions is like wandering into a labyrinth with a blindfold on.</p>
 
 <p><br /></p>
 <h2 id="questions-to-consider">Questions to Consider</h2>
 
 <ul>
-  <li><em>How do you typically approach decision-making in your professional role, and in what ways could you incorporate the principles of decision intelligence to enhance your decision-making process?</em></li>
-  <li><em>Have you observed instances where excessive organizational complexity resulted from poor decision-making? How can IT architects address this, and what role can they play in simplifying decision-making processes?</em></li>
-  <li><em>Reflect on a recent significant decision you made. Were you aware of the resources you were committing and the opportunities you were preceding? How could you have evaluated these factors more effectively?</em></li>
-  <li><em>Think of a situation where the outcome of a decision didn’t align with your expectations. How did you judge the quality of the decision-making process in hindsight, and did you consider the role of luck or randomness?</em></li>
-  <li><em>Consider a recent decision you faced. What would have been the value of perfect information in that scenario? How does this concept help you balance the effort and resources you allocate to different decisions?</em></li>
-  <li><em>How do you set and align your goals, and what challenges have you faced? Are there instances where misalignment has led to ineffective decision-making?</em></li>
-  <li><em>What factors have you found to increase the complexity of decision-making in your experience? How do you manage these complexities effectively?</em></li>
-  <li><em>Can you identify any habits or emotional factors contributing to your indecisiveness? What strategies can you employ to overcome these challenges?</em></li>
-  <li><em>How do you use data in your decision-making process? Are there instances where data has misled your decisions, and how can you safeguard against this in the future?</em></li>
+  <li><em>How do you typically approach decision-making in your professional role, and in what ways could you incorporate the
+principles of decision intelligence to enhance your decision-making process?</em></li>
+  <li><em>Have you observed instances where excessive organizational complexity resulted from poor decision-making? How can IT
+architects address this, and what role can they play in simplifying decision-making processes?</em></li>
+  <li><em>Reflect on a recent significant decision you made. Were you aware of the resources you were committing and the
+opportunities you were preceding? How could you have evaluated these factors more effectively?</em></li>
+  <li><em>Think of a situation where the outcome of a decision didn’t align with your expectations. How did you judge the
+quality of the decision-making process in hindsight, and did you consider the role of luck or randomness?</em></li>
+  <li><em>Consider a recent decision you faced. What would have been the value of perfect information in that scenario? How
+does this concept help you balance the effort and resources you allocate to different decisions?</em></li>
+  <li><em>How do you set and align your goals, and what challenges have you faced? Are there instances where misalignment has
+led to ineffective decision-making?</em></li>
+  <li><em>What factors have you found to increase the complexity of decision-making in your experience? How do you manage these
+complexities effectively?</em></li>
+  <li><em>Can you identify any habits or emotional factors contributing to your indecisiveness? What strategies can you employ
+to overcome these challenges?</em></li>
+  <li><em>How do you use data in your decision-making process? Are there instances where data has misled your decisions, and
+how can you safeguard against this in the future?</em></li>
 </ul>
 
         <div style="margin-bottom: -32px; margin-top: 28px"><table style="border: none; font-size: 80%; margin: 0; padding: 0;">

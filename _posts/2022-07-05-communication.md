@@ -359,6 +359,10 @@ Show Tactical Empathy by understanding senior management's pressures regarding m
 
 The last example, "How am I supposed to do that?" is a calibrated question designed to make the other party reconsider the feasibility of their demand and encourage a more realistic and collaborative discussion about what can be achieved. This approach helps negotiate more reasonable timelines or secure additional resources to meet tight deadlines.
 
+<br>
+## To Probe Further
+
+* [So What! Storylines Explorer](https://obren.io/tools/sowhat/)
 
 <br>
 ## Questions to Consider

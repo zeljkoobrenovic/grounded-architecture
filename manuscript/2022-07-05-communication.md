@@ -2,8 +2,7 @@
 
 # Effective Communication {#communication}
 
-![](assets/images/iStock-1188030610.jpg)
-^image by istock^
+![image by istock](assets/images/iStock-1188030610.jpg)
 
 **IN THIS SECTION, YOU WILL:** Get a summary of several resources to help you communicate more effectively, provide good feedback, and lead tough conversations.
 
@@ -28,8 +27,7 @@ Each resource can equip IT architects with the tools to improve their communicat
 
 **"So What? How to Communicate What Really Matters to Your Audience"** by Mark Magnacca is an essential guide for effectively communicating their ideas and solutions to stakeholders, team members, or clients. This book emphasizes the importance of delivering clear, concise, and relevant messages that resonate with the audience's needs and concerns. By applying the principles outlined in "So What!", IT architects can enhance their communication skills, ensuring their technical insights are understood and valued.
 
-![](assets/images/iStock-1214110598.jpg)
-^image by istock^
+![image by istock](assets/images/iStock-1214110598.jpg)
 
 ### Key Concepts from the Book
 
@@ -184,8 +182,7 @@ Here are a few examples of how you could use "So What!" techniques in IT practic
 
 **"Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity"** by Kim Scott is an invaluable resource for IT and software architects who engage in critical conversations. The book provides a framework for giving and receiving feedback, building solid relationships, and fostering a culture of open communication. These principles can greatly enhance team dynamics, project efficiency, and overall job satisfaction.
 
-![](assets/images/iStock-1383890701.jpg)
-^image by istock^
+![image by istock](assets/images/iStock-1383890701.jpg)
 
 ### Key Concepts from the Book
 
@@ -249,8 +246,7 @@ well-being is important to me. To grow as a team, we need to be open and honest 
 
 "Never Split the Difference" means not compromising or settling for less than what you want in a negotiation. Instead of agreeing to a middle-ground solution where both parties give up something, Voss advocates using strategic and psychological techniques to achieve a more favorable outcome. The idea is to aim for the best possible deal rather than a mediocre one that leaves both sides partially dissatisfied. For instance, the teams can agree to work on two projects to avoid blame and tense discussion even if they know they lack capacity and the planning is too optimistic. They then fail both projects. Alternatively, they should reject or postpone one project and commit to delivering only one with a lower risk of failure.
 
-![](assets/images/iStock-154933978.jpg)
-^image by istock^
+![image by istock](assets/images/iStock-154933978.jpg)
 
 ### Key Concepts from the Book
 
@@ -295,6 +291,10 @@ Show Tactical Empathy by understanding the team's hesitation towards learning an
 Show Tactical Empathy by understanding senior management's pressures regarding market competition and business goals: "It sounds like there's significant pressure to meet market demands quickly." Use Mirroring when a senior manager says, "We need the project completed in three months," by responding, "Three months?" When they say, "Yes, any longer, and we risk falling behind our competitors," they respond with, "Falling behind competitors?" When they add, "Yes, we must launch before they do," you could say, "Launch before they do?" leading to, "Yes, to capture the market share we're targeting." Label this by saying, "It sounds like you're worried about losing market share if we take longer." Perform an Accusation Audit, stating, "You might think we're not committed to meeting the company's goals." Use Calibrated Questions such as, "How can we ensure that the quality of the project is not compromised while aiming for a faster timeline?" or "What are the most critical features that need to be prioritized to meet this deadline?" Use The Power of No: "How am I supposed to deliver a high-quality, fully-tested product in three months with the current resources and constraints?"
 
 The last example, "How am I supposed to do that?" is a calibrated question designed to make the other party reconsider the feasibility of their demand and encourage a more realistic and collaborative discussion about what can be achieved. This approach helps negotiate more reasonable timelines or secure additional resources to meet tight deadlines.
+
+## To Probe Further
+
+* [So What! Storylines Explorer](https://obren.io/tools/sowhat/)
 
 ## Questions to Consider
 
