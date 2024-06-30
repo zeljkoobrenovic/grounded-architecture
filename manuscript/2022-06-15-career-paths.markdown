@@ -2,7 +2,8 @@
 
 # Architects' Career Paths: Raising the Bar {#career}
 
-![image by istock tableatny (cc by 2.0)](assets/images/arch/pole-vault.jpg)
+![](assets/images/arch/pole-vault.jpg)
+^image by istock tableatny (cc by 2.0)^
 
 **IN THIS SECTION, YOU WILL:**  Get ideas and tips about developing architects' career paths.
 
@@ -20,7 +21,8 @@ My view of architecture has **a strong engineering bias**. Architects' career pa
 
 Regarding career progression, Figure 1 shows an example of architectural career paths in relation to engineering, which I used to define architectural career paths. 
 
-![Figure 1: An example of an IT architect career paths in relation to engineering.](assets/images/arch/career-paths.png)
+![](assets/images/arch/career-paths.png)
+***Figure 1:** An example of an IT architect career paths in relation to engineering.*
 
 Stepping from an engineering position to an architecture requires three changes:
 * Getting **a broader scope** of work,
@@ -78,13 +80,15 @@ Performance targets need to be closely aligned with the organization's strategic
 
 3. **Leveling Up**: Encouraging continuous improvement and development, Enhancing skills, processes, and performance standards, and fostering a culture of growth and excellence within the organization.
 
-![Figure 2: An example framework for defining goals of architects: aligned with ogranizationals strategic goals, mesured in terms of three pillars of impact (big-picture thinking, execution, and leveling up).](assets/images/performance-goals-impact.png)
+![](assets/images/performance-goals-impact.png)
+***Figure 2:** An example framework for defining goals of architects: aligned with ogranizationals strategic goals, mesured in terms of three pillars of impact (big-picture thinking, execution, and leveling up).*
 
 ### Growth Management
 
 Another idea I borrow from Radical Candor is the recognition that employees have different career trajectories and aspirations in growth and performance. It divides these into two main categories: the steep growth trajectory (superstars) and the stable growth trajectory (rock stars, solid as a rock). People of both growth trajectories could have poor or exceptional performance (Figure 3).
 
-![Figure 3: An example framework for measuring the performance of architects of different growth trajectories.](assets/images/performance-growth.png)
+![](assets/images/performance-growth.png)
+***Figure 3:** An example framework for measuring the performance of architects of different growth trajectories.*
 
 Here's an overview of how views growth and performance for rock stars and superstar:
 
