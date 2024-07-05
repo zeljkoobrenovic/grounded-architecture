@@ -164,7 +164,10 @@ Aligning on these rules with the teams helps ensure productive conversations abo
 
 So, set those expectations, establish your rules of engagement, and watch as your architecture function goes from a sparkly unicorn to a well-oiled machine!
 
+## To Probe Further
 
+* [Scaling the Practice of Architecture, Conversationally](https://martinfowler.com/articles/scaling-architecture-conversationally.html) by Andrew Harmel-Law, December 2021
+* [Scaling Engineering Teams via RFCs: Writing Things Down](https://blog.pragmaticengineer.com/scaling-engineering-teams-via-writing-things-down-rfcs/) by Gergely Orosz, September 2022
 
 ## Questions to Consider
 

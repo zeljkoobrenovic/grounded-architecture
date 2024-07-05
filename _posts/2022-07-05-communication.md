@@ -118,7 +118,7 @@ Here are a few examples of how you could use "So What!" techniques in IT practic
 * We will prioritize this as a new initiative but not create shortcuts. We will follow our standard structured approach involving requirement gathering, design, development, testing, deployment, and post-deployment monitoring.
 
 **Supporting Points**: 
-* As this is a complex and risky feature, we must follow a disciplined process. 
+* As this is a complex and risky feature, we must follow an existing disciplined process. 
 * We will gather requirements by collaborating with stakeholders to define the feature, create design documents approved by the architecture team, implement the feature using our standard methodology, conduct thorough unit and integration testing, deploy the feature to production, and monitor its performance post-deployment. 
 * This process ensures a successful feature launch with minimal risks.
 
@@ -128,7 +128,7 @@ Here are a few examples of how you could use "So What!" techniques in IT practic
 **Scenario**: Proposing a new tool for automated testing.
 
 **Introductory Narrative:**
-* **Context**: Our current testing process is time-consuming and prone to human error. We have previously evaluated several tools and identified Tool X as the best option for automation. At that point, we decided not to adopt it to lack of resources. 
+* **Context**: Our current testing process is time-consuming and prone to human error. We have previously evaluated several tools and identified Tool X as the best option for automation. At that point, we decided not to adopt it due to a lack of resources. 
 * **Trigger**: Recent delays and errors in the last project highlighted the inefficiency of our manual testing, reopening requests to adopt an automation tool. However, adoption of the tool would require additional resources.
 * **Question**: Why should we invest resources and adopt Tool X for automated testing?
 
@@ -140,43 +140,7 @@ Here are a few examples of how you could use "So What!" techniques in IT practic
 * These benefits make Tool X a valuable addition to our testing toolkit.
 
 
-#### Example 3: **Traffic Light**
-
-**Scenario**: Providing a status update on a software development project.
-
-**Introductory Narrative:**
-* **Context**: Our project is midway through the development phase.
-* **Trigger**: Stakeholders need an update on the project status.
-* **Question**: What is the project's current status, and what actions are needed?
-
-**Key Point**: 
-* The project is progressing overall, but the frontend development and integration testing areas require attention to stay on track.
-
-**Supporting Points**: 
-* Backend development is on schedule and 80% complete (green). 
-* Frontend development is slightly behind due to resource constraints (yellow). 
-* Integration testing is delayed by unexpected bugs (red). 
-* To address these issues, we must resolve integration bugs and allocate additional resources to front-end development.
-
-
-#### Example 4: **Close the Gap**
-
-**Scenario**: Convincing stakeholders to approve a migration to a new cloud platform.
-
-**Introductory Narrative:**
-* **Context**: Our current infrastructure is costly and lacks scalability.
-* **Trigger**: We must improve cost efficiency and scalability to close the gap with our competitors.
-* **Question**: Why should we migrate to Cloud Platform Y?
-
-**Key Point**: 
-* Migrating to Cloud Platform Y will improve cost efficiency and improve scalability, enabling us to onboard more new customers.
-
-**Supporting Points**: 
-* Our current state involves high costs and limited scalability. 
-* By migrating to Cloud Platform Y, we will achieve significant cost savings and scalability improvements, ensuring we can meet future demands efficiently.
-
-
-#### Example 5: **Houston, We Have a Problem**
+#### Example 3: **Houston, We Have a Problem**
 
 **Scenario**: Addressing a critical performance issue in the software.
 
@@ -186,14 +150,14 @@ Here are a few examples of how you could use "So What!" techniques in IT practic
 * **Question**: How do we resolve this performance issue?
 
 **Key Point**: 
-* The performance issue is serious and will not disappear by itself. We need to take proactive steps to resolve it. We must thoroughly analyze, optimize queries, and reindex the database.
+* The performance issue is serious and will not disappear by itself. We need to take proactive steps to resolve it. We must thoroughly analyze, optimize queries, and likely reindex the database.
 
 **Supporting Points**: 
 * The performance issue is due to inefficient database query optimization. 
 * We will diagnose the problem, pinpoint inefficient queries and indexing issues, implement optimizations, and continuously monitor performance to ensure improvement.
 
 
-#### Example 6: **To B, or Not to B**
+#### Example 4: **To B, or Not to B**
 
 **Scenario**: Deciding between two software development frameworks.
 
@@ -210,21 +174,22 @@ Here are a few examples of how you could use "So What!" techniques in IT practic
 * Based on our requirements and long-term goals, Framework A aligns better despite its higher cost.
 
 
-#### Example 7: **Watch Out**
+#### Example 5: **Watch Out**
 
 **Scenario**: Advising on potential risks in a software project.
 
 **Introductory Narrative:**
-* **Context**: Our project is progressing, but with some minor manageable security risks.
+* **Context**: Our project is progressing, but with some known manageable existing security risks.
 * **Trigger**: The upcoming API integration opens significant new security risks.
-* **Question**: How do we mitigate these risks?
+* **Question**: How do we mitigate these new risks?
 
 **Key Point**: 
-* We need to implement additional security measures and conduct thorough testing.
+* It's imperative that we implement additional security measures and conduct more thorough testing to address the seriousness of the situation.
 
 **Supporting Points**: 
-* Although our development process is efficient and on schedule, the API integration introduces security risks. 
+* Although our development process is efficient and on schedule, the API integration has the potential to disrupt this, introducing security risks that need immediate attention. 
 * With our team's expertise, we can implement additional security measures and conduct thorough testing before integration, proactively addressing these risks and ensuring project success.
+* Extra resources may be temporarily needed to avoid significant delays in the roadmap.
 
 
 <br>
@@ -259,6 +224,33 @@ Radical Candor is the only favorable option, which only happens when you:
 "Radical Candor" offers a framework that IT architects can use to enhance their leadership and communication skills. By applying Scott's principles of caring personally and challenging directly, IT professionals can build stronger teams, foster a culture of continuous improvement, and drive successful project outcomes. The contrasting examples from other quadrants (Ruinous Empathy, Obnoxious Aggression, and Manipulative Insincerity) illustrate the importance of balancing care and directness to achieve the best results.
 
 
+### Feedback Interactions
+
+Radical Candor work also promotes the Center for Creative Leadership’s SBI Model is a powerful tool for providing structured and constructive feedback. It helps in delivering feedback in a clear, concise, and focused manner by breaking it down into three key components:
+
+1. **Situation**: This involves describing the context or specific situation in which the behavior occurred. It sets the stage for the feedback by providing background information, which helps the receiver understand the circumstances surrounding the feedback.
+   - Example: "During our team meeting last Friday..."
+
+2. **Behavior**: This is about pinpointing the specific behavior observed. It focuses on what the person did or said without interpreting or judging the behavior.
+   - Example: "...you interrupted several colleagues while they were speaking..."
+
+3. **Impact**: This articulates the effect of the behavior on others, the team, or the project. It helps the receiver understand the consequences of their actions.
+   - Example: "...which led to some team members feeling undervalued and disrupted the flow of the meeting."
+
+For future reference, the Radical Candor authors have developed a derivative of the SBI model called the SWI Model, which is adapted to focus more on the work performed and its outcomes. It consists of:
+
+1. **Situation**: This remains the same as in the SBI model. It involves describing the context or specific situation in which the work was performed.
+   - Example: "During the development phase of the project last month..."
+
+2. **Work**: This replaces the "Behavior" component with a focus on the specific work product, project, deliverable, or performance goal. It highlights what was done, achieved, or delivered.
+   - Example: "...you developed a comprehensive report on market trends..."
+
+3. **Impact**: As in the SBI model, this component articulates the impact of the work product or specific performance. It explains the effect or outcome of the work.
+   - Example: "...which provided valuable insights that helped shape our marketing strategy and increased team confidence in our approach."
+
+By using the SWI model, feedback is tailored to emphasize the quality and impact of the work itself, making it particularly useful for performance reviews and project evaluations. Both models aim to provide clear, actionable feedback that helps individuals understand their strengths and areas for improvement, fostering a constructive and supportive feedback culture.
+
+
 ### Examples
 
 Here are a few examples you could use to get inspiration onhow tu use Radical Candor in IT practice:
@@ -273,32 +265,10 @@ might be some minor scalability issues. Do whatever you think is best."
 Using Radical Candor, you could say, "I know everyone has been working tirelessly to meet our deadlines. We need to allocate time to reduce our technical debt. It will hinder our future development and slow us down if we don't address it now." On the other hand, Ruinous Empathy might be, "You all have worked so hard; let's not worry about technical debt right now. We can deal with it later." Obnoxious Aggression would sound like, "The technical debt is getting out of control. This is unacceptable, and we need to fix it now." With Manipulative Insincerity, you might say, "There might be
 some technical debt, but it's not a big deal. Just keep doing what you're doing."
 
-#### **Scenario 3**: Providing feedback to a team member who consistently writes inefficient code.
+#### **Scenario 3**: Managing unrealistic project expectations from upper management.
 
-Radical Candor might involve saying, "I've noticed you're very dedicated to your work and always eager to help. However, I've seen some inefficiencies in your code that we need to improve. Let's work together to optimize it and follow best practices." Ruinous Empathy would be, "You're doing a great job, keep it up! We can look at the code optimization some other time." Obnoxious Aggression could sound like, "Your code is inefficient and needs to be fixed immediately. This is not acceptable." Manipulative Insincerity might be, "Your code is fine, but there might be a few inefficiencies. It's not a big deal, though."
+Using Radical Candor, you might say, "I know there's a lot of pressure to deliver quickly in a competitive market. However, the current expectations are unrealistic given our resources. We must discuss what can be realistically achieved within the given timeframe and how we can adjust our approach." Ruinous Empathy would be, "We'll try our best to meet the deadlines, we understand the importance of the project." Obnoxious Aggression could be, "These expectations are completely unrealistic and unachievable. We can't do it." Manipulative Insincerity might be, "Sure, we'll meet the deadlines, I am confident we will find a way."
 
-#### **Scenario 4**: Discussing the adoption of new coding standards with the team.
-
-With Radical Candor, you could say, "You all have done an excellent job adapting to new standards and technologies in the past. To maintain code quality and ensure consistency, we need to adopt these new coding standards. I understand it's an additional effort, but it will benefit us in the long run." Ruinous Empathy might be, "You're all doing great; there's no need to change our coding standards right now." Obnoxious Aggression would be, "We need to adopt these new coding standards immediately. I don't care how much extra work it is." Manipulative Insincerity would come across as," These new coding standards are optional. Use them if you want, but it's not a big deal if you don't."
-
-#### **Scenario 5**: Addressing a conflict between team members regarding code ownership.
-
-Using Radical Candor, you might say, "I appreciate the hard work both of you have put into this project. There seems to be some tension regarding code ownership. Let's discuss how we can collaborate more effectively and ensure everyone's contributions are recognized." Ruinous Empathy would be, "You're both doing great work; let's not worry about who owns what code. It's not important." Obnoxious Aggression could be, "This conflict over code ownership is ridiculous. Figure it out or I'll reassign the tasks." Manipulative Insincerity might be, "I'm not sure whose code is whose, but just try to get along and make it work."
-
-#### **Scenario 6**: Encouraging a junior architect to take on more challenging tasks.
-
-With Radical Candor, you could say, "I've seen a lot of potential in your work, and you've grown significantly since joining the team. I'd like to see you take on some more challenging tasks. It might be tough at first, but I believe it will help you develop your skills further." Ruinous Empathy might sound like, "You're doing well; no need to take on more challenging tasks right now. Just keep doing what you're comfortable with." Obnoxious Aggression would be, "You need to take on more challenging tasks. Stop taking the easy way out." Manipulative Insincerity would be, "You could try
-some more challenging tasks if you want, but it's fine if you don't feel up to it."
-
-#### **Scenario 7**: Managing unrealistic project expectations from upper management.
-
-Using Radical Candor, you might say, "I know there's a lot of pressure to deliver quickly in a competitive market.
-However, the current expectations are unrealistic given our resources. We must discuss what can be realistically achieved within the given timeframe and how we can adjust our approach." Ruinous Empathy would be, "We'll try our best to meet the deadlines, even if it's unrealistic." Obnoxious Aggression could be, "These expectations are completely unrealistic and unachievable. We can't do it." Manipulative Insincerity might be, "Sure, we'll do our best to meet the deadlines, but it might be tough."
-
-#### **Scenario 8**: Fostering a culture of open feedback within the team.
-
-With Radical Candor, you could say, "I want everyone to know that your contributions are highly valued and your
-well-being is important to me. To grow as a team, we need to be open and honest with each other. Please feel free to share your thoughts and feedback, whether positive or critical, so we can continuously improve." Ruinous Empathy might be, "Everyone's doing great, so there's no need for much feedback. Let's keep things as they are." Obnoxious Aggression would be, "We need to be brutally honest with each other. If you can't handle criticism, this isn't your place." Manipulative Insincerity might be, "Feel free to share your feedback if you want, but it's not a big deal if you don't."
 
 <br>
 ## Never Split the Difference
@@ -316,13 +286,13 @@ Image by iStock
 
 ### Key Concepts from the Book
 
-The books apply several key concepts and techniques you can use in difficult negotiations:
+The books apply several vital concepts and techniques you can use under challenging negotiations:
 
 1. **Tactical Empathy**: Understanding and actively listening to the counterpart's perspective to build rapport and trust.
 2. **Mirroring**: Repeating the last few words the other person said to encourage them to elaborate.
 3. **Labeling**: Identifying and acknowledging the other person's feelings to validate their emotions.
 4. **Accusation Audit**: Preemptively addressing any negative assumptions the other party might have.
-5. **Calibrated Questions**: Asking open-ended questions that begin with "What" or "How" to steer conversations and gather information.
+5. **Calibrated Questions**: Ask open-ended questions that begin with "What" or "How" to steer conversations and gather information. Avoid using "why" as it can sound accusatory. For instance, ***"How am I supposed to do that?"*** is a powerful, widely applicable, calibrated question designed to make the other party reconsider the feasibility of their demand and encourage a more realistic and collaborative discussion about what can be achieved.
 6. **The Power of No**: Understanding that hearing "No" can be a pathway to uncovering the real issues and fostering a sense of control for the other party.
 
 "Never Split the Difference" offers valuable techniques for IT and software architects to enhance their negotiation skills, enabling them to navigate difficult conversations and achieve favorable outcomes. By applying Voss's strategies, IT professionals can address concerns, build consensus, and drive successful implementation of critical architectural changes.
@@ -334,30 +304,16 @@ Here are a few examples you could use to get inspiration on how to use described
 
 #### **Scenario 1**: Convincing stakeholders to adopt a new cloud architecture.
 
-Use Tactical Empathy by understanding the concerns of stakeholders who may worry about data security or cost
-implications. You might say, "It sounds like you are concerned about the security of our data in the cloud." Employ Mirroring when a stakeholder says, "I'm worried about the cost," by responding, "The cost?" Utilize Labeling by saying, "It seems like you're feeling uncertain about the transition." Conduct an Accusation Audit with, "You might think this is going to be too expensive and risky, and I understand why you'd feel that way." Ask Calibrated Questions such as, "What are the main challenges you see with moving to the cloud?" or "How can we ensure our data remains secure?" Finally, use The Power of No: "Would it be a ridiculous idea to explore a hybrid model?"
+Use Tactical Empathy by understanding the concerns of stakeholders who may worry about data security or cost implications. You might say, "It sounds like you are concerned about the security of our data in the cloud." Employ Mirroring when a stakeholder says, "I'm worried about the cost," by responding, "The cost?" Utilize Labeling by saying, "It seems like you're feeling uncertain about the transition." Conduct an Accusation Audit with, "You might think this is going to be too expensive and risky, and I understand why you'd feel that way." Ask Calibrated Questions such as, "What are the main challenges you see with moving to the cloud?" or "How can we ensure our data remains secure?" Finally, use The Power of No: "Would it be a ridiculous idea to explore a hybrid model?"
 
-#### **Scenario 2**: Negotiating adopting a new software development methodology.
-
-Recognize the team's attachment to the current methodology with Tactical Empathy: "I see that you've been very comfortable with our current Agile practices." When a team member says, "I don't think this new methodology will work," respond with Mirroring: "Won't work?" When they elaborate, continue mirroring their key phrases to draw more details. For example, if the team member says, "Yes, it's too different from what we're used to," respond, "Too different from what we're used to?" When they add, "Yes, we have established routines and this new approach will disrupt them," say, "Established routines and disruptions?" This might lead to, "Yes, we're worried that it will slow down our progress and make us less efficient initially." Label their concerns with, "It sounds like you're worried that this change will lead to inefficiencies and slow down our progress." Perform an Accusation Audit, stating, "You might think this change is unnecessary and disruptive." Use Calibrated Questions like, "What steps can we take to ensure this new methodology integrates smoothly with our existing processes?" or "How do you see this change improving our current workflow?" Use The Power of No with, "Is it a terrible idea to pilot this methodology on a smaller project first?"
-
-#### **Scenario 3**: Negotiating deadlines with the product management team.
+#### **Scenario 2**: Negotiating deadlines with the product management team.
 
 Show Tactical Empathy by understanding the pressure the product management team might be under to deliver on time: "It sounds like you're under a lot of pressure to meet these deadlines." Use Mirroring when a product manager says, "We need this feature by the end of the month," by responding, "By the end of the month?" When they say, "Yes, the marketing team has already planned a campaign around it," you might respond with, "Planned a campaign?" They might elaborate, "Yes, and if we miss the deadline, it will throw everything off." Follow up with, "Throw everything off?" leading to, "Yes, it will affect our quarterly targets." Label this by saying, "It seems like you're worried about how delays might affect the quarterly targets." Perform an Accusation Audit with, "You might think the engineering team is slow and unresponsive to deadlines." Use Calibrated Questions such as, "What can we do to ensure the most critical features are delivered on time?" or "How can we prioritize tasks to meet your needs without compromising quality?" Use The Power of No: "Would it be unreasonable to extend the deadline by two weeks to ensure the feature is fully tested?"
 
-#### **Scenario 4**: Convincing a team to refactor legacy code.
-
-Show Tactical Empathy by understanding the team's attachment to the existing codebase and the fear of extensive changes: "It sounds like you're concerned about the potential risks of changing the existing codebase." Use Mirroring when a team member says, "The legacy code works fine as it is," by responding, "Works fine as it is?" When they say, "Yes, we haven't had any major issues with it," respond with, "No major issues?" When they add, "Right, and changing it might introduce new problems," you could say, "Introduce new problems?" leading to, "Yes, and we're not sure if the benefits are worth the risks." Label this by saying, "It sounds like you're worried that refactoring might introduce new problems and the benefits might not be worth the risks." Perform an Accusation Audit by stating, "You might think this refactor is just going to be a huge time sink without much benefit." Use Calibrated Questions such as, "What are the biggest risks you see with refactoring the legacy code?" or "How can we ensure the refactor improves performance without disrupting current functionality?" Use The Power of No: "Would it be a bad idea to refactor the code in small, manageable sections?"
-
-#### **Scenario 5**: Gaining team buy-in for adopting a new technology stack.
+#### **Scenario 3**: Gaining team buy-in for adopting a new technology stack.
 
 Show Tactical Empathy by understanding the team's hesitation towards learning and integrating new technologies: "It sounds like you're concerned about the learning curve associated with this new technology." Use Mirroring when a team member says, "I don't see the need for this change," by responding, "Don't see the need?" When they say, "Yes, our current stack is working fine for us," respond with, "Working fine for us?" When they add, "Yes, we're familiar with it, and it meets our needs," you could say, "Meets our needs?" leading to, "Yes, switching to something new would be a hassle." Label this by saying, "It sounds like you're worried about the hassle of switching to a new technology, and you feel the current stack meets our needs." Perform an Accusation Audit by stating, "You might think this new technology will be too complex and time-consuming to adopt." Use Calibrated Questions such as, "What are the main challenges you anticipate with adopting this new technology?" or "How can we support the team to make the transition smoother?" Use The Power of No: "Would it be a terrible idea to start with a small, non-critical project to evaluate the benefits of the new stack?"
 
-#### **Scenario 6**: Managing unrealistic project timelines imposed by senior management.
-
-Show Tactical Empathy by understanding senior management's pressures regarding market competition and business goals: "It sounds like there's significant pressure to meet market demands quickly." Use Mirroring when a senior manager says, "We need the project completed in three months," by responding, "Three months?" When they say, "Yes, any longer, and we risk falling behind our competitors," they respond with, "Falling behind competitors?" When they add, "Yes, we must launch before they do," you could say, "Launch before they do?" leading to, "Yes, to capture the market share we're targeting." Label this by saying, "It sounds like you're worried about losing market share if we take longer." Perform an Accusation Audit, stating, "You might think we're not committed to meeting the company's goals." Use Calibrated Questions such as, "How can we ensure that the quality of the project is not compromised while aiming for a faster timeline?" or "What are the most critical features that need to be prioritized to meet this deadline?" Use The Power of No: "How am I supposed to deliver a high-quality, fully-tested product in three months with the current resources and constraints?"
-
-The last example, "How am I supposed to do that?" is a calibrated question designed to make the other party reconsider the feasibility of their demand and encourage a more realistic and collaborative discussion about what can be achieved. This approach helps negotiate more reasonable timelines or secure additional resources to meet tight deadlines.
 
 <br>
 ## To Probe Further

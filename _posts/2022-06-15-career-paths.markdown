@@ -167,6 +167,30 @@ These individuals are highly ambitious and driven, continuously seeking new chal
 By applying these principles, we aimed to create an environment where employees feel supported and challenged, leading to higher engagement, better performance, and more effective personal and professional growth.
 
 <br>
+### Career Coversations
+
+Whenever I can, I incorporate [Radical Candor](https://www.radicalcandor.com/blog/how-to-have-career-conversations/) career conversations with architects. While you need to find a way for your team and organization, for me, it helped organize architects' careers. The Radical Candor framework proposes three career conversations: Life Story, Dreams, and Career Action Plan.
+
+**Understanding Motivations and Values - Life Story**
+
+The first step in the Radical Candor career conversations approach is understanding the motivations and values driving individuals. You can gain valuable insights by paying close attention to a person's life story and asking about their significant pivots and transitions. Why did they make those choices? What did those transitions teach them about their preferences in their work?
+
+**Exploring Aspirations - Dreams**
+
+The second step is to understand where people aim to be at the peak of their careers. While some managers might doubt that younger workers know what they want to be when they grow up, everyone has dreams. It's essential to help individuals make these dreams more tangible. Some managers might worry about asking employees to focus on a single vision too early in their careers.
+
+However, these concerns should not prevent you from having Career Conversations. People and their dreams evolve, so regular Career Conversations are crucial. Just like seeking feedback from your team, these discussions are an ongoing practice.
+
+**Creating an Action Plan - Career Action Plan**
+
+With an understanding of both the past and future, you can now develop a relevant and thoughtful action plan with clear responsibilities and timelines.
+
+While Career Conversations take time, I integrated them into my usual one-on-one meetings. These discussions often become some of the most enjoyable and productive interactions.
+
+
+
+
+<br>
 ## Hiring Architects
 
 
@@ -244,6 +268,7 @@ With the described steps, you can get a solid overview of all critical aspects o
   * [Start, Stop, Continue Feedback](https://obren.io/tools/start-stop-continue-feedback/)
   * [Impact Filter Template](https://docs.google.com/presentation/d/1UTE8b2WTPg_Rtjd71ySNURXa8yq820uAr_cmNozhAmc/edit#slide=id.g2b92d0f5db5_0_38)
   * [Competent Jerks, Lovable Fools Matrix](https://obren.io/tools/matrix/?matrix=jerksFools)
+  * [Situation-Behavior-Impact (SBI) Feedback](https://www.ccl.org/articles/leading-effectively-articles/closing-the-gap-between-intent-vs-impact-sbii/), Center for Creative Leadership
 
 <br>
 ## Questions to Consider

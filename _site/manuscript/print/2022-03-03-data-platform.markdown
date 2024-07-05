@@ -179,6 +179,11 @@ Interpreting and using data requires a bit of effort—think of it as a detectiv
 
 So there you have it. The data's ready to spill its secrets—you need to know the right questions to ask. So, what is your question?
 
+## To Probe Further
+
+* Open-source [architecture dashboard examples](https://zeljkoobrenovic.github.io/grounded-architecture-dashboard-examples/)
+* [Sokrates](https://sokrates.dev), an open-source polyglot source code examination tool
+
 ## Appendix: Examples of Insights From Source Code Analyses
 
 Figures 6 to 10 show some insights from source code analyses with Sokrates. 
