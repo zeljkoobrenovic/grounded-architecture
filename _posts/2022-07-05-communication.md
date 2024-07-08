@@ -81,15 +81,8 @@ The book underscores the paramount importance of **knowing your audience**. This
 
 Another critical point is keeping the **audience engaged**; interactive communication helps maintain interest and promotes better understanding. Finally, **preparation and practice** are essential; rehearsing your communication ensures clarity and builds confidence in your delivery.
 
-The **use of stories and analogies** is recommended to make technical concepts more relatable and easier to understand. Mark Magnacca also provides practical tips on communicating different types of messages. He describes [various kinds of storylines](https://obren.io/tools/sowhat/) you can use to communicate almost any topic:
 
-* **Action Jackson:** A simple storyline describing steps. Use it when you want to spell out an action plan. Build it to map overall recommendations and supporting steps. Avoid it when the audience still needs to be convinced.
-* **The Pitch:** Articulates and supports a recommendation. Use it when you need to persuade someone. Highlight your value proposition 'right up front.' Avoid being glib; your supporting reasons must convince your audience.
-* **Traffic Light:** Use it for status updates. It enables you to provide an overview and explain your current position in detail. Avoid being sloppy.
-* **Close the Gap:** Use it to gain your audience's buy-in in one meeting. Explain where you are and where you need to get. Build it to outline the case for your action plan. Stick to storyline rules so your audience supports your action plan.
-* **Houston, We Have a Problem:** Use when you need to convince an audience of a problem and talk them through actions. Great at combining diagnostics and action. Maps problems, the cause, and resulting steps. Avoid overkill; it is about convincing.
-* **To B, or Not to B:** Use to take your audience on the journey through your thinking. It argues for one particular option. It enables you to explain first and then make recommendations last. Make sure it's complete - great when you need to work through all options, not just one option you like.
-* **Watch Out:** This storyline persuades the audience of the need to change direction. It combines what's working, risks, and action in the same story. Maps what's succeeded, the risks, and remedies. Avoid crafting a narrative that flows without compelling logic.
+### Structured Framework
 
 The book also proposes a **structured framework** to communicate ideas clearly and persuasively. The framework suggests that each communication has three main parts:
 
@@ -101,6 +94,19 @@ The book also proposes a **structured framework** to communicate ideas clearly a
 * **Supporting points**: These support the proposed answer with data, examples, or logical reasoning. They provide the justification for the recommendation and help convince the audience of its validity.
 
 This structure helps ensure that communication is clear, logical, and persuasive, making it easier for the audience to understand and buy into the proposed solutions.
+
+
+### Storylines
+
+The **use of stories and analogies** is recommended to make technical concepts more relatable and easier to understand. Mark Magnacca also provides practical tips on communicating different types of messages. He describes [various kinds of storylines](https://obren.io/tools/sowhat/) you can use to communicate almost any topic:
+
+* **Action Jackson:** A simple storyline describing steps. Use it when you want to spell out an action plan. Build it to map overall recommendations and supporting steps. Avoid it when the audience still needs to be convinced.
+* **The Pitch:** Articulates and supports a recommendation. Use it when you need to persuade someone. Highlight your value proposition 'right up front.' Avoid being glib; your supporting reasons must convince your audience.
+* **Traffic Light:** Use it for status updates. It enables you to provide an overview and explain your current position in detail. Avoid being sloppy.
+* **Close the Gap:** Use it to gain your audience's buy-in in one meeting. Explain where you are and where you need to get. Build it to outline the case for your action plan. Stick to storyline rules so your audience supports your action plan.
+* **Houston, We Have a Problem:** Use when you need to convince an audience of a problem and talk them through actions. Great at combining diagnostics and action. Maps problems, the cause, and resulting steps. Avoid overkill; it is about convincing.
+* **To B, or Not to B:** Use to take your audience on the journey through your thinking. It argues for one particular option. It enables you to explain first and then make recommendations last. Make sure it's complete - great when you need to work through all options, not just one option you like.
+* **Watch Out:** This storyline persuades the audience of the need to change direction. It combines what's working, risks, and action in the same story. Maps what's succeeded, the risks, and remedies. Avoid crafting a narrative that flows without compelling logic.
 
 
 ### Inspiration for IT Architects
