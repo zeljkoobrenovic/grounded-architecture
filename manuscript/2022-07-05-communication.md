@@ -2,7 +2,8 @@
 
 # Effective Communication {#communication}
 
-![image by istock](assets/images/iStock-1188030610.jpg)
+![](assets/images/iStock-1188030610.jpg)
+^image by istock^
 
 **IN THIS SECTION, YOU WILL:** Get a summary of several resources to help you communicate more effectively, provide good feedback, and lead tough conversations.
 
@@ -30,7 +31,8 @@ Each resource can equip IT architects with the tools to improve their communicat
 
 **"So What? How to Communicate What Really Matters to Your Audience"** by Mark Magnacca is an essential guide for effectively communicating their ideas and solutions to stakeholders, team members, or clients. This book emphasizes the importance of delivering clear, concise, and relevant messages that resonate with the audience's needs and concerns. By applying the principles outlined in "So What!", IT architects can enhance their communication skills, ensuring their technical insights are understood and valued.
 
-![image by istock](assets/images/iStock-1214110598.jpg)
+![](assets/images/iStock-1214110598.jpg)
+^image by istock^
 
 ### Key Concepts from the Book
 
@@ -127,7 +129,8 @@ Here are a few examples of how you could use "So What!" techniques in IT practic
 
 **"Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity"** by Kim Scott is an invaluable resource for IT and software architects who engage in critical conversations. The book provides a framework for giving and receiving feedback, building solid relationships, and fostering a culture of open communication. These principles can greatly enhance team dynamics, project efficiency, and overall job satisfaction.
 
-![image by istock](assets/images/iStock-1383890701.jpg)
+![](assets/images/iStock-1383890701.jpg)
+^image by istock^
 
 ### Key Concepts from the Book
 
@@ -209,7 +212,8 @@ By adopting the principles of Radical Candor, IT and software architects can sig
 
 "Never Split the Difference" means not compromising or settling for less than what you want in a negotiation. Instead of agreeing to a middle-ground solution where both parties give up something, Voss advocates using strategic and psychological techniques to achieve a more favorable outcome. The idea is to aim for the best possible deal rather than a mediocre one that leaves both sides partially dissatisfied. For instance, the teams can agree to work on two projects to avoid blame and tense discussion even if they know they lack capacity and the planning is too optimistic. They then fail both projects. Alternatively, they should reject or postpone one project and commit to delivering only one with a lower risk of failure.
 
-![image by istock](assets/images/iStock-154933978.jpg)
+![](assets/images/iStock-154933978.jpg)
+^image by istock^
 
 ### Key Concepts from the Book
 
@@ -257,7 +261,8 @@ In his book *[Supercommunicators](https://www.charlesduhigg.com/supercommunicato
 
 Duhigg reminds us that we do not have to be perfect to be good communicators. What's important is wanting to connect, understand someone, and have a deep conversation, even when it is hard and scary, or it would be much easier to walk away. Some skills and insights can help us satisfy that desire for connection, and they are worth learning, practicing, and committing to.
 
-![image by istock](assets/images/iStock-2147692837.jpg)
+![](assets/images/iStock-2147692837.jpg)
+^image by istock^
 
 ### Lesson 1: The Foundation of Great Communication is Alignment
 
