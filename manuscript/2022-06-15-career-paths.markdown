@@ -2,8 +2,7 @@
 
 # Architects' Career Paths: Raising the Bar {#career}
 
-![](assets/images/arch/pole-vault.jpg)
-^image by istock tableatny (cc by 2.0)^
+![image by istock tableatny (cc by 2.0)](assets/images/arch/pole-vault.jpg)
 
 **IN THIS SECTION, YOU WILL:**  Get ideas and tips about developing architects' career paths.
 
@@ -21,8 +20,7 @@ My view of architecture has **a strong engineering bias**. Architects' career pa
 
 Regarding career progression, Figure 1 shows an example of architectural career paths in relation to engineering, which I used to define architectural career paths. 
 
-![](assets/images/arch/career-paths.png)
-***Figure 1:** An example of an IT architect career paths in relation to engineering.*
+![Figure 1: An example of an IT architect career paths in relation to engineering.](assets/images/arch/career-paths.png)
 
 Stepping from an engineering position to an architecture requires three changes:
 * Getting **a broader scope** of work,
@@ -80,15 +78,13 @@ Performance targets need to be closely aligned with the organization's strategic
 
 3. **Leveling Up**: Encouraging continuous improvement and development, Enhancing skills, processes, and performance standards, and fostering a culture of growth and excellence within the organization.
 
-![](assets/images/performance-goals-impact.png)
-***Figure 2:** An example framework for defining goals of architects: aligned with ogranizationals strategic goals, mesured in terms of three pillars of impact (big-picture thinking, execution, and leveling up).*
+![Figure 2: An example framework for defining goals of architects: aligned with ogranizationals strategic goals, mesured in terms of three pillars of impact (big-picture thinking, execution, and leveling up).](assets/images/performance-goals-impact.png)
 
 ### Growth Management
 
 Another idea I borrow from Radical Candor is the recognition that employees have different career trajectories and aspirations in growth and performance. It divides these into two main categories: the steep growth trajectory (superstars) and the stable growth trajectory (rock stars, solid as a rock). People of both growth trajectories could have poor or exceptional performance (Figure 3).
 
-![](assets/images/performance-growth.png)
-***Figure 3:** An example framework for measuring the performance of architects of different growth trajectories.*
+![Figure 3: An example framework for measuring the performance of architects of different growth trajectories.](assets/images/performance-growth.png)
 
 Here's an overview of how views growth and performance for rock stars and superstar:
 
@@ -121,6 +117,26 @@ These individuals are highly ambitious and driven, continuously seeking new chal
 - **Recognition:** Acknowledge their contributions and potential for future leadership roles within the organization.
 
 By applying these principles, we aimed to create an environment where employees feel supported and challenged, leading to higher engagement, better performance, and more effective personal and professional growth.
+
+### Career Conversations
+
+Whenever I can, I incorporate [Radical Candor](https://www.radicalcandor.com/blog/how-to-have-career-conversations/) career conversations with architects. While you need to find a way for your team and organization, for me, it helped organize architects' careers. The Radical Candor framework proposes three career conversations: Life Story, Dreams, and Career Action Plan.
+
+**Understanding Motivations and Values - Life Story**
+
+The first step in the Radical Candor career conversations approach is understanding the motivations and values driving individuals. You can gain valuable insights by paying close attention to a person's life story and asking about their significant pivots and transitions. Why did they make those choices? What did those transitions teach them about their preferences in their work?
+
+**Exploring Aspirations - Dreams**
+
+The second step is to understand where people aim to be at the peak of their careers. While some managers might doubt that younger workers know what they want to be when they grow up, everyone has dreams. It's essential to help individuals make these dreams more tangible. Some managers might worry about asking employees to focus on a single vision too early in their careers.
+
+However, these concerns should not prevent you from having Career Conversations. People and their dreams evolve, so regular Career Conversations are crucial. Just like seeking feedback from your team, these discussions are an ongoing practice.
+
+**Creating an Action Plan - Career Action Plan**
+
+With an understanding of both the past and future, you can now develop a relevant and thoughtful action plan with clear responsibilities and timelines.
+
+While Career Conversations take time, I integrated them into my usual one-on-one meetings. These discussions often become some of the most enjoyable and productive interactions.
 
 ## Hiring Architects
 
@@ -193,6 +209,7 @@ With the described steps, you can get a solid overview of all critical aspects o
   * [Start, Stop, Continue Feedback](https://obren.io/tools/start-stop-continue-feedback/)
   * [Impact Filter Template](https://docs.google.com/presentation/d/1UTE8b2WTPg_Rtjd71ySNURXa8yq820uAr_cmNozhAmc/edit#slide=id.g2b92d0f5db5_0_38)
   * [Competent Jerks, Lovable Fools Matrix](https://obren.io/tools/matrix/?matrix=jerksFools)
+  * [Situation-Behavior-Impact (SBI) Feedback](https://www.ccl.org/articles/leading-effectively-articles/closing-the-gap-between-intent-vs-impact-sbii/), Center for Creative Leadership
 
 ## Questions to Consider
 

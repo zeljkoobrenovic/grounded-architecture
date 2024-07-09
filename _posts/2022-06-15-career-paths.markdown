@@ -167,7 +167,7 @@ These individuals are highly ambitious and driven, continuously seeking new chal
 By applying these principles, we aimed to create an environment where employees feel supported and challenged, leading to higher engagement, better performance, and more effective personal and professional growth.
 
 <br>
-### Career Coversations
+### Career Conversations
 
 Whenever I can, I incorporate [Radical Candor](https://www.radicalcandor.com/blog/how-to-have-career-conversations/) career conversations with architects. While you need to find a way for your team and organization, for me, it helped organize architects' careers. The Radical Candor framework proposes three career conversations: Life Story, Dreams, and Career Action Plan.
 
