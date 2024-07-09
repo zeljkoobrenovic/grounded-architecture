@@ -528,6 +528,22 @@ transactions, event logs, and much more.
 </a>
 </td>
 </tr>
+
+<tr>
+<td class="icon-container">
+<img src="assets/images/books/supercommunicators.jpeg" class="book">
+</td>
+<td>
+<b>Supercommunicators: Simple Secrets to Unlock the Power of Connection</b> by Paul A. Argenti explores the critical skills and strategies necessary for effective communication in today's fast-paced and digitally connected world. Argenti emphasizes the importance of clarity, empathy, and authenticity, providing practical techniques to enhance listening, storytelling, and engagement.
+                                                  
+</td>
+<td style="font-size: 50%; line-height: 12px; text-align: center">
+<a target="_blank" href="https://www.bbc.com/future/article/20240222-how-to-become-a-supercommunicator">
+<img src="assets/icons/web.png" class="icon"><div>summary</div>
+</a>
+</td>
+</tr>
+
 </table>
 
 ## Organization and Processes
