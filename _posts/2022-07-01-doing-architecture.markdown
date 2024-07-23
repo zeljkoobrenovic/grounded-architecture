@@ -51,6 +51,6 @@ In the following sections, I will introduce several resources that I use as insp
 
 ### Decision Making
 
-* **[Economic Modeling: ROI and Financial Options](economics)**: I sketch two answers to the question of the economic value of technology investments and architecture: the return on investment metaphor and the financial options metaphor.
 * **[Decision Intelligence in IT Architecture](decision-intelligence)**: Decision intelligence is the discipline of turning information into better actions. The future of IT architecture will be closely related to decision intelligence.
 * **[The Human Side of Decision-Making](human-decisions)** Decision-making is a human activity subject to human biases and limitations. Fundamental biases influencing decision-making include outcome, hindsight, and confirmation biases.
+* **[Economic Modeling: ROI and Financial Options](economics)**: I sketch two answers to the question of the economic value of technology investments and architecture: the return on investment metaphor and the financial options metaphor.
