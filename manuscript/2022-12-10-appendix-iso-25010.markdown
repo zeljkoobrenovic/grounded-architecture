@@ -2,8 +2,7 @@
 
 # ISO 25010 Standard {#concepts-iso25010}
 
-![](assets/images/arch/board-3317496_1280.jpg)
-^image by pexels from pixabay^
+![image by pexels from pixabay](assets/images/arch/board-3317496_1280.jpg)
 
 **IN THIS SECTION, YOU WILL:** Get an overview of ISO/IEC 25010 standard that provides guidelines and recommendations for evaluating software product quality.
 
