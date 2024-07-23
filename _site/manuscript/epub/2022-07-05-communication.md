@@ -13,6 +13,7 @@ A> * "So What! How to Communicate What Really Matters to Your Audience" by Mark 
 A> * "Radical Candor" by Kim Scott provides a framework for IT leaders to combine personal empathy with direct challenges to foster robust team dynamics and honest communication, which is crucial for project success and team development.
 A> * "Never Split the Difference" by Chris Voss introduces negotiation techniques from high-stakes FBI scenarios, adapted for IT and software architecture discussions, to help professionals achieve better outcomes through strategic empathy and questioning.
 A> * In his book "Supercommunicators", Charles Duhigg offers several lessons to help you communicate better than ever.
+A> * Goulston, a psychologist, consultant, author, and frequent TV contributor, has written an insightful book "Just Listen" that delves into effective communication via listening. .
 
 This text presents three practical and influential resources I've found beneficial for IT and software architects to enhance their communication skills.
 
@@ -24,36 +25,38 @@ This text presents three practical and influential resources I've found benefici
 
 * In **"Supercommunicators,"** Charles Duhigg offers three key lessons for improving communication. First, effective communication relies on the "matching principle," aligning tone and content with the conversation's context—whether practical, emotional, or social—to foster understanding and trust. Second, most conversations fall into three categories: decision-making, emotional, and social identity, each requiring a different approach. Third, transforming any discussion into a learning conversation involves four rules: recognizing the conversation type, sharing goals, inquiring about feelings, and considering identities.
 
+* Goulston, a psychologist, consultant, author, and frequent TV contributor, has written an insightful book that delves into effective communication, not just listening. His book **"Just Listen: Discover the Secret to Getting Through to Absolutely Anyone"** outlines nine core rules for connecting with people. It provides twelve quick and easy techniques to achieve buy-in and effective communication.
+
 Each resource can equip IT architects with the tools to improve their communication and leadership skills, which are crucial for influencing stakeholders, driving successful project outcomes,  and managing teams in the fast-paced technology field.
 
 ## So What!
 
-**"So What? How to Communicate What Really Matters to Your Audience"** by Mark Magnacca is an essential guide for effectively communicating their ideas and solutions to stakeholders, team members, or clients. This book emphasizes the importance of delivering clear, concise, and relevant messages that resonate with the audience's needs and concerns. By applying the principles outlined in "So What!", IT architects can enhance their communication skills, ensuring their technical insights are understood and valued.
+**"So What? How to Communicate What Really Matters to Your Audience"** by Mark Magnacca is a guide for effectively communicating your ideas and solutions to stakeholders, team members, or clients. This book emphasizes the importance of delivering clear, concise, and relevant messages that resonate with the audience's needs and concerns. The principles outlined in "So What!" can serve as an inspiration for IT architects to enhance their communication skills, ensuring their technical insights are understood and valued.
 
 ![image by istock](assets/images/iStock-1214110598.jpg)
 
 ### Key Concepts from the Book
 
-The book underscores the paramount importance of **knowing your audience**. This understanding, which includes their interests, concerns, and motivations, is the bedrock of effective communication. It also emphasizes the necessity of focusing on **the "So What?" factor,** urging communicators always to clarify their messages' relevance and why the audience should care. **Clarity and brevity** are also essential—you should deliver messages straightforwardly, avoiding jargon and complex terms.
+The book underscores the paramount importance of **knowing your audience**. This understanding, which includes their interests, concerns, and motivations, is the bedrock of effective communication. It also emphasizes the necessity of focusing on the **"So What?" factor,** urging communicators always to clarify their messages' relevance and why the audience should care. **Clarity and brevity** are also essential—you should deliver messages straightforwardly, avoiding jargon and complex terms.
 
 Another critical point is keeping the **audience engaged**; interactive communication helps maintain interest and promotes better understanding. Finally, **preparation and practice** are essential; rehearsing your communication ensures clarity and builds confidence in your delivery.
 
 ### Structured Framework
 
-The book also proposes a **structured framework** to communicate ideas clearly and persuasively. The framework suggests that each communication has three main parts:
+The book proposes a **structured framework** to communicate ideas clearly and persuasively. The framework suggests that each communication has three main parts:
 
-* A short introductory narrative with three elements:
-  * **Context**: This sets the stage by providing the background information or the current situation. It helps the audience understand the environment or circumstances in which the issue or opportunity exists. Not everyone knows the situation as you do.
-  * **Trigger**: This specific event or observation prompts the need for discussion or action right now. It highlights what has changed or what new information has come to light that necessitates addressing the issue.
-  * **Question**: This is the pivotal "so what!" question that captures the main concern or the central issue that needs to be addressed.
-* **One key point** that is a focus of your storyline. It should provide a clear and concise answer to the question from the introductory narrative.
-* **Supporting points**: These support the proposed answer with data, examples, or logical reasoning. They provide the justification for the recommendation and help convince the audience of its validity.
+1. **A short introductory narrative** describing:
+  * **Context**: Sets the stage by providing the background information or the current situation. It helps the audience understand the environment or circumstances in which the issue or opportunity exists. Not everyone knows the situation as you do.
+  * **Trigger**: Describes which specific event or observation prompts the need for discussion or action *right now.* It highlights what has changed or what new information has come to light that necessitates addressing the issue.
+  * **Question**: The pivotal *"so what!"* question that captures the main concern or the central issue that needs to be addressed.
+2. **One key point** that is a focus of your storyline. It should provide a clear and concise answer to the question from the introductory narrative.
+3. **Supporting points**: These support the proposed answer with data, examples, or logical reasoning. They provide the justification for the recommendation and help convince the audience of its validity.
 
 This structure helps ensure that communication is clear, logical, and persuasive, making it easier for the audience to understand and buy into the proposed solutions.
 
 ### Storylines
 
-The **use of stories and analogies** is recommended to make technical concepts more relatable and easier to understand. Mark Magnacca also provides practical tips on communicating different types of messages. He describes [various kinds of storylines](https://obren.io/tools/sowhat/) you can use to communicate almost any topic:
+**Stories and analogies** can make technical concepts more relatable and easier to understand. Mark Magnacca provides practical tips on communicating different types of messages. He describes [various kinds of storylines](https://obren.io/tools/sowhat/) you can use to communicate almost any topic:
 
 * **Action Jackson:** A simple storyline describing steps. Use it when you want to spell out an action plan. Build it to map overall recommendations and supporting steps. Avoid it when the audience still needs to be convinced.
 * **The Pitch:** Articulates and supports a recommendation. Use it when you need to persuade someone. Highlight your value proposition 'right up front.' Avoid being glib; your supporting reasons must convince your audience.
@@ -65,7 +68,7 @@ The **use of stories and analogies** is recommended to make technical concepts m
 
 ### Inspiration for IT Architects
 
-"So What?" is highly relevant for IT architects because it focuses on effective communication—an essential skill for this role. IT architects often need to convey complex technical ideas to stakeholders, team members, or clients, and this book provides strategies to ensure their messages are clear, concise, and relevant.
+"So What?" is relevant for IT architects because it focuses on effective communication—an essential skill for this role. IT architects often need to convey complex technical ideas to stakeholders, team members, or clients, and this book provides strategies to ensure their messages are clear, concise, and relevant.
 
 Key concepts from the book emphasize the importance of knowing your audience, which includes understanding their interests, concerns, and motivations. By focusing on the "So What?" factor, IT architects can make their messages directly relevant, explaining why the audience should care about their insights. The book also stresses clarity and brevity, encouraging communicators to avoid jargon and complex terms.
 
@@ -125,7 +128,7 @@ Here are a few examples of how you could use "So What!" techniques in IT practic
 
 ## Radical Candor
 
-**"Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity"** by Kim Scott is an invaluable resource for IT and software architects who engage in critical conversations. The book provides a framework for giving and receiving feedback, building solid relationships, and fostering a culture of open communication. These principles can greatly enhance team dynamics, project efficiency, and overall job satisfaction.
+**"Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity"** by Kim Scott is a resource that can inspire IT architects who engage in critical conversations. The book provides a framework for giving and receiving feedback, building solid relationships, and fostering a culture of open communication. These principles can enhance team dynamics, project efficiency, and job satisfaction.
 
 ![image by istock](assets/images/iStock-1383890701.jpg)
 
@@ -133,7 +136,7 @@ Here are a few examples of how you could use "So What!" techniques in IT practic
 
 Scott defines a feedback-providing communication framework as having two access points: the directness of challenge and the amount of personal caring. Based on this framework, she describes four quadrants, representing different styles of how people provide feedback:
 
-- **Radical Candor**: Caring personally while challenging directly.
+- **Radical Candor** (Ideal): Caring personally while challenging directly.
 - **Ruinous Empathy**: Caring personally without challenging directly.
 - **Obnoxious Aggression**: Challenging directly without caring personally.
 - **Manipulative Insincerity**: Neither caring personally nor challenging directly.
@@ -146,7 +149,7 @@ Radical Candor is the only favorable option, which only happens when you:
 
 ### Feedback Interactions
 
-Radical Candor work also promotes the Center for Creative Leadership’s SBI Model is a powerful tool for providing structured and constructive feedback. It helps in delivering feedback in a clear, concise, and focused manner by breaking it down into three key components:
+Radical Candor work also promotes the Center for Creative Leadership’s SBI Model as a tool for providing structured and constructive feedback. It helps in delivering feedback in a clear, concise, and focused manner by breaking it down into three key components:
 
 1. **Situation**: This involves describing the context or specific situation in which the behavior occurred. It sets the stage for the feedback by providing background information, which helps the receiver understand the circumstances surrounding the feedback.
    - Example: "During our team meeting last Friday..."
@@ -201,13 +204,13 @@ The SBI and SWI models discussed in the book are practical tools for structured 
 - **SWI Model (Situation-Work-Impact)**: Focuses on the work product and its outcomes, suitable for project evaluations.
   - Example: "In the last sprint (Situation), you refactored the authentication module (Work), which significantly improved the system's security and performance (Impact)."
 
-By adopting the principles of Radical Candor, IT and software architects can significantly improve their leadership and communication skills, leading to more effective teams and successful project outcomes. The balance of personally caring and challenging directly helps create a work environment that values honesty, respect, and continuous improvement.
+By adopting the principles of Radical Candor, IT and software architects can get inspiration on how to improve their leadership and communication skills, leading to more effective teams and successful project outcomes. The balance of personally caring and challenging directly helps create a work environment that values honesty, respect, and continuous improvement.
 
 ## Never Split the Difference
 
-**"Never Split the Difference: Negotiating As If Your Life Depended On It"** by Chris Voss is an essential read for IT and software architects who frequently face challenging conversations and negotiations—drawing from his experience as an FBI hostage negotiator, Voss shares effective techniques and strategies that you can apply directly to IT architecture and software architecture discussions, ensuring better outcomes without compromising on critical objectives.
+**"Never Split the Difference: Negotiating As If Your Life Depended On It"** by Chris Voss is an good read for IT and software architects who frequently face challenging conversations and negotiations—drawing from his experience as an FBI hostage negotiator, Voss shares effective techniques and strategies that you can apply directly to IT architecture and software architecture discussions, ensuring better outcomes without compromising on critical objectives.
 
-"Never Split the Difference" means not compromising or settling for less than what you want in a negotiation. Instead of agreeing to a middle-ground solution where both parties give up something, Voss advocates using strategic and psychological techniques to achieve a more favorable outcome. The idea is to aim for the best possible deal rather than a mediocre one that leaves both sides partially dissatisfied. For instance, the teams can agree to work on two projects to avoid blame and tense discussion even if they know they lack capacity and the planning is too optimistic. They then fail both projects. Alternatively, they should reject or postpone one project and commit to delivering only one with a lower risk of failure.
+"Never Split the Difference" means not compromising or settling for less than what you want in a negotiation. Instead of agreeing to a middle-ground solution where both parties give up something, Voss advocates using strategic and psychological techniques to achieve a more favorable outcome. The idea is to aim for the best possible deal rather than a mediocre one that leaves both sides partially dissatisfied. For instance, the teams can agree to work on two projects to avoid blame and tense discussion even if they know they lack capacity and the planning is too optimistic. They then fail both projects. Alternatively, they should reject or postpone one project and commit to delivering the other one with a lower risk of failure.
 
 ![image by istock](assets/images/iStock-154933978.jpg)
 
@@ -303,6 +306,127 @@ Effective communication is essential for engaging with stakeholders, gathering a
 Simple communication and relationship-building rules ensure clarity and alignment, aiding conflict resolution and strategic influence. These rules are vital for advocating ideas and gaining support. Good communication facilitates digital transformation by clearly articulating visions and benefits to stakeholders.
 
 Moreover, these skills enhance team collaboration, ensuring better teamwork and problem-solving. Clear communication leads to improved documentation and maintaining accurate records of system designs and decisions. Duhigg's principles help IT and enterprise architects achieve better project outcomes through improved clarity, alignment, and collaboration.
+
+## Listening Skills
+
+Goulston, a psychologist, consultant, author, and frequent TV contributor, has written an insightful book that delves into effective communication, not just listening. His book **"Just Listen: Discover the Secret to Getting Through to Absolutely Anyone"** outlines nine core rules for connecting with people. It provides twelve quick and easy techniques to achieve buy-in and effective communication.
+
+![image by istock](assets/images/iStock-1150384570.jpg)
+
+Goulston explains that all persuasion involves moving people through steps he calls the "Persuasion Cycle":
+* From resisting to **listening**
+* From listening to **considering**
+* From considering to being **willing to do**
+* From willing to do to **doing**
+* From doing to **glad they did** and **continuing to do**
+
+The core idea is that getting through to people involves getting them to "buy-in," which happens when they move from resisting to listening to what you're saying. The key to achieving this is not what you tell them but what you get them to say to you and what happens in their minds during this process.
+
+### Nine core rules
+
+Here are Goulston's nine core rules:
+#### 1. **Move Yourself from “Oh F#@& to Ok”**
+
+Stress interferes with your ability to reach people, so it's crucial to quickly get your emotions under control. Aim to move through the following phases:
+
+1. **Initial Reaction (“Oh F#@&”)**: Acknowledge your immediate emotional response.
+2. **Release/Realization**: Let go of the intense initial reaction or come to a realization about the situation.
+3. **Recenter**: Regain your composure and center yourself.
+4. **Refocus**: Shift your attention to what needs to be done.
+5. **Reengage**: Engage with the situation or person with a calm and clear mindset.
+
+By moving through these phases, you transition from being fixated on how you think the world should be to being ready to deal with it as it is.
+
+#### 2. **Rewire Yourself to Listen**
+
+We often size up people instantly based on what we’ve heard about them or experienced firsthand. However, these first impressions are a jumbled mix of truth, fiction, and prejudice. This means we often interact with a fictional version of the person, not who they truly are. To open the lines of communication, first, open your own mind to understand who they really are.
+
+#### 3. **Make the Other Person Feel “Felt”**
+
+This means putting yourself in the other person’s shoes. When you truly understand each other, you can transform a strained situation or relationship into one of cooperation, collaboration, and effective communication.
+
+#### 4. **Be More Interested than Interesting**
+
+To master the skill of being genuinely interested, stop viewing conversations as a tennis match where the goal is to outscore your opponent. Instead, think of it as a **detective game** where your objective is to learn as much about the other person as possible. Ask questions that show your desire to understand them, prompting responses like “I feel X,” “I think Y,” or “I did or would do Z.”
+
+#### 5. **Make People Feel Valuable**
+
+Everyone needs to feel valuable, including (or perhaps especially) complainers, whiners, and obstructers. Both the supportive and challenging individuals in your life deserve reassurance that they matter. When you make people feel important, they are more likely to respond positively and provide what you need. While everyone competes for time, no one should have to compete for a sense of importance.
+
+#### 6. **Help People to Exhale Emotionally and Mentally**
+
+Stress isn't inherently bad—it helps us focus, become determined, and test our mettle. Problems arise when stress turns into distress. Although it can be challenging, allow people to vent and express their emotions fully without interrupting or judging them. The saying goes, "Forget the music. If you want to soothe the savage beast, get the beast to exhale."
+
+#### 7. **Check Your Dissonance at the Door**
+
+Dissonance occurs when you think you’re coming across in one way, but people perceive you differently. For instance, you might think you’re confident, energetic, and passionate, but others see you as arrogant, hyper, and impulsive. Similarly, you may think you understand someone accurately, but they might disagree. To understand how others perceive you, ask for feedback from friends, relatives, and coworkers.
+
+#### 8. **When All Seems Lost, Bare Your Neck**
+
+When you feel cornered and defensive, resist the urge to bare your teeth. Instead, reach deeper, acknowledge your fear, face your deficiencies, and commit to improvement. As Keith Ferrazzi says, "Don’t be afraid of sharing your vulnerabilities. Vulnerability doesn’t make you weak; it makes you accessible."
+
+#### 9. **Steer Clear of Toxic People**
+
+Avoid people who want to con you, bully you, thwart you, or scapegoat you for their mistakes. Goulston advises, "If you’re hesitant to say 'No,' you may be neurotic. If you’re truly afraid to say 'No,' you’re probably dealing with a toxic person. And if nobody ever says 'No' to you, that toxic person could be you."
+
+### Twelve Quick and Easy Ways to Achieve Buy-In and Get Through
+
+Here are Goulston's twelve quick techniques:
+
+#### 1. **The Impossibility Question (or “kicking but”)**
+
+Ask, “What’s something that would be impossible to do, but if you could do it, would dramatically increase your success?” Then, after they respond, ask, “What would make it possible?”
+
+#### 2. **The Magic Paradox**
+
+By helping someone articulate their reasons for negativity or disagreement, you can shift them towards a more positive and agreeable attitude.
+
+#### 3. **The Empathy Jolt**
+
+When people are more focused on attacking than listening, inject empathy into the conversation. Anger and empathy can’t coexist, so strive to understand the challenges the other person is facing.
+
+#### 4. **The Reverse Play, Empathy Jolt #2**
+
+If someone isn’t giving 100% despite having the skills, instead of criticizing them, mention ways you might have disappointed them. By apologizing, you shift them out of defensive mode and encourage them to mirror your humility and concern. “An ounce of apology is worth a pound of resentment.”
+
+#### 5. **Ask “Do You Really Believe That?”**
+
+Before solving someone else’s problem, find out if there really is a problem.
+
+#### 6. **The Power of “Hmmm…”**
+
+Respond to someone who is mad and defensive with neutral phrases like “Hmmm,” “Tell me more,” “Really?” “Then what happened?” or “What else can you tell me?” Avoid defensiveness and delve deeper.
+
+#### 7. **The Stipulation Gambit**
+
+Instead of hiding a weakness or problem, neutralize it by openly expressing the misgivings people have about you. This will likely gain their positive and undivided attention.
+
+#### 8. **From Transaction to Transformation**
+
+Move beyond transactional communication to relating by asking questions that reveal deeper thoughts and desires. Use questions that prompt responses like “This is what I think,” “This is who I am,” “This is what I want to achieve,” or “This is how you can play a part in making my life better.”
+
+#### 9. **Side by Side**
+
+During shared moments, ask questions and deepen the conversation with more questions, using the Socratic Method. This works better than lecturing, encourages revelation, and builds understanding.
+
+#### 10. **Fill In the Blanks**
+
+Use a fill-in-the-blanks approach instead of direct questions to invite people into the conversation. This makes them feel you’re talking with them rather than at them.
+
+#### 11. **Take It All the Way to “No”**
+
+Push for what you want until you receive a “no.” Then, move from “no” to “yes” by acknowledging you might have pushed too hard or missed something important. Use the fill-in-the-blanks approach or other questioning techniques to build on the moment.
+
+#### 12. **The Power Thank You and Power Apology**:
+
+- **Power Thank You**: Use when an ordinary “thanks” won’t suffice. It has three parts: reference something specific the person did for you, acknowledge the effort it took them, and explain the personal impact of their act.
+- **Power Apology**: When warranted, use the 4 R’s: Remorse, Restitution, Rehabilitation, and Requesting forgiveness.
+
+### Inspiration for IT Architects
+
+Mark Goulston’s book offers valuable insights for IT Architects, emphasizing the importance of effective communication. The core idea is that successful persuasion involves moving people through a “Persuasion Cycle” from resistance to listening, considering, willingness to act, doing, and eventually to satisfaction and continued action. Fundamental principles include managing stress to maintain clarity, genuinely listening to understand others, and making people feel valued and understood. IT Architects can benefit from these principles by building stronger relationships, enhancing collaboration, and fostering a supportive team culture. Techniques such as empathizing, asking insightful questions, and acknowledging contributions can lead to better project outcomes.
+
+Additionally, vulnerability, seeking feedback, and avoiding toxic influences help maintain a positive work environment. Goulston’s twelve techniques for achieving buy-in include encouraging creative problem-solving, addressing resistance, using empathy to diffuse tension, and engaging in meaningful conversations to understand deeper needs. One of the most essential techniques is acknowledging contributions. By recognizing the efforts and achievements of team members, IT Architects can make them feel more appreciated and motivated. By adopting these strategies, IT Architects can improve their leadership and communication, ultimately driving more successful projects.
 
 ## To Probe Further
 
