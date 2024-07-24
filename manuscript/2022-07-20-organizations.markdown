@@ -2,7 +2,8 @@
 
 # Organizational Alignment: Introduction {#organizations}
 
-![image by istock](assets/images/iStock-1473231525.jpg)
+![](assets/images/iStock-1473231525.jpg)
+^image by istock^
 
 **IN THIS SECTION, YOU WILL:**  Get a summary of the inspirations about doing architecture.
 
