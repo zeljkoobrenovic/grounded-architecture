@@ -2,8 +2,7 @@
 
 # Summary {#summary}
 
-![](assets/images/arch/iStock-462294849.jpg)
-^image by istock^
+![image by istock](assets/images/arch/iStock-462294849.jpg)
 
 **IN THIS SECTION, YOU WILL:** Look back at the content in this book.
 
@@ -25,8 +24,7 @@ Figure 1 shows the structure of the Grounded Architecture consisting of three el
 * [People Foundation](#people),
 * [Architecture Activities Platform](#activities).
 
-![](assets/images/model.png)
-***Figure 1:** The structure of Grounded Architecture.*
+![Figure 1: The structure of Grounded Architecture.](assets/images/model.png)
 
 The *[Data Foundation](#data)* ensures that architects can make data-informed decisions based on a real-time and complete overview of the organization's technology landscape.
 

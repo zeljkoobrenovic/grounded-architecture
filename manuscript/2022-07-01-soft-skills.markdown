@@ -2,8 +2,7 @@
 
 # Soft Skills: Introduction {#soft-skills}
 
-![](assets/images/iStock-1201288484.jpg)
-^image by istock^
+![image by istock](assets/images/iStock-1201288484.jpg)
 
 **IN THIS SECTION, YOU WILL:**  Get a summary of the inspirations about doing architecture.
 
