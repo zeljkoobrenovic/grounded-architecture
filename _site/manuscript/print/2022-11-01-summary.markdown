@@ -34,23 +34,26 @@ The *[People Foundation](#people)* is another essential element of Grounded Arch
 
 Lastly, the *[Architecture Activities Platform](#activities)*  defines a set of processes and agreements enabling architects to do everything architecture typically does, leveraging data and People Foundations to create a data-informed, organization-wide impact.
 
-As a part of my work on Grounded Architecture, I also provided several guiding principles and tools that I found helpful to introduce the ideas of Grounded Architecture in practice. I grouped these resources into two parts:
+As a part of my work on Grounded Architecture, I also provided several guiding principles and tools that I found helpful to introduce the ideas of Grounded Architecture in practice. I grouped these resources into several parts:
 
-* [Being an Architect](#being-architect):
+* [**On Being an Architect**](#being-architect):
   * [Architects as Superglue](#superglue)
   * [Skills](#skills)
   * [Impact](#impact)
   * [Architects' Career Paths](#career)
-* [Doing Architecture: Inspirations](#doing-architecture):
-  * [Culture Map: Architects' Culture Mindfield Compass](#culture-map)
+* [**On Soft Skills**](soft-skills):
+  * [The Culture Map: Architects' Culture Mindfield Compass](#culture-map)
   * [Effective Communication](communication)
   * [Leadership](#leadership)
-  * [Managing Organization Complexity: Six Simple Rules](#six-simple-rules)
-  * [Understanding Product Development](#product-development)
-  * [Architecture Governance: Mandates, Taxation, Nudge](#governance)
-  * [Economic Modeling: ROI and Financial Options](#economics)
+* [**On Decision-Making**](decision-making):
   * [Decision Intelligence in IT Architecture](#decision-intelligence)
   * [The Human Side of Decision-Making](#human-decisions)
+  * [Economic Modeling: ROI and Financial Options](#economics)
+  * [Effortless Architecture](#effortless)
+* [**On Organizational Factors**](organizations):
+  * [Cooperation-Based Organizations: Six Simple Rules](#six-simple-rules)
+  * [Product-Led Organizations](product) 
+  * [Organizational Governance: Nudge, Taxation, Mandates](#governance)
 
 When Grounded Architecture is in place, it can have a significant [positive impact](#impact) on the functioning of an organization:
 
