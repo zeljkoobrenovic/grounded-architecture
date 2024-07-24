@@ -95,7 +95,7 @@ Image by iStock
 > * Architects' career paths ideally stem from a strong engineering background.
 > * Hiring architects requires constantly raising the bar to ensure a strong and diverse team structure.  
 
-## Doing Architecture: Introduction
+## Soft Skills: Introduction
 
 ### The Culture Map: Architects' Culture Compass
 > * I have found the work of Erin Meyer, The Culture Map, to be a beneficial tool for architects to work harmoniously with people from various cultures and backgrounds.
@@ -105,43 +105,19 @@ Image by iStock
 > * "So What! How to Communicate What Really Matters to Your Audience" by Mark Magnacca focuses on tailored communication for IT professionals. It emphasizes the importance of relevance and audience understanding to enhance the effectiveness of technical discussions.
 > * "Radical Candor" by Kim Scott provides a framework for IT leaders to combine personal empathy with direct challenges to foster robust team dynamics and honest communication, which is crucial for project success and team development.
 > * "Never Split the Difference" by Chris Voss introduces negotiation techniques from high-stakes FBI scenarios, adapted for IT and software architecture discussions, to help professionals achieve better outcomes through strategic empathy and questioning.
+> * In his book "Supercommunicators", Charles Duhigg offers several lessons to help you communicate better than ever.
+> * Goulston, a psychologist, consultant, author, and frequent TV contributor, has written an insightful book "Just Listen" that delves into effective communication via listening. .
 
 ### Leadership
 > * My view of architecture leadership is inspired by David Marquet's work and Netflix's valued behaviors.
 > * Marquet focused on leadership and organizational management, particularly emphasizing the principles of Intent-Based Leadership.
 > * Borrowing from Netflix's original values, the following behavioral traits are crucial for architects: communication, judgment, impact, inclusion, selflessness, courage, integrity, curiosity, innovation, and passion.
 
-### Managing Organizational Complexity: Six Simple Rules
-> * The Six Simple Rules approach emphasizes that in today’s complicated business environment, you must set up organizational structures based on cooperation. 
-> * To deal with complexity, organizations should depend on the judgment of their people and on these people cooperating. 
-> * This view is well aligned with the ideas of Grounded Architecture.
-
-### Effortless Architecture
-> * Greg McKeown's "Effortless: Make It Easier to Do What Matters Most" advocates for a paradigm shift from hard work to smart, effective work by simplifying tasks and processes. 
-> * Key principles include prioritizing important tasks, leveraging automation, and embracing a mindset that values ease and enjoyment in work.
-> * Greg McKeown's book offers invaluable insights that are particularly relevant for IT architects and software engineers. McKeown's emphasis on simplifying tasks and processes is crucial in the tech industry, where complexity often dominates. 
-
-### Understanding Product Development
-> * When it comes to product development, I generally recommend two resources for architects: “Escaping the Build Trap: How Effective Product Management Creates Real Value” by Melissa Perri and “The Discipline of Market Leader” by Michael Treacy and Fred Wiersema. 
-> * The build trap occurs when businesses focus too much on their product’s features and functionalities, overlooking customers’ needs and preferences.
-> * The Discipline of Market Leader highlights three strategic paths a company can use to achieve market leadership: operational excellence, product leadership, and customer intimacy. 
-
-### Architecture Governance: Nudge, Taxation, Mandates
-> * Architecture practice should support governance models adaptable to organizations' complex and diverse needs. A technology governance model should be a well-balanced hybrid of three different styles of governing: mandates and bans, taxes, and nudging.
-> * Nudging is a form of governing where you create subtle or indirect suggestions influencing someone's behavior or decision-making without forcing them or limiting their freedom of choice.
-> * Governing with taxes (economic incentives) is a form of guiding in which people are not forbidden to make some decisions but need to "pay" some form of taxes on used resources.
-> * With mandates and bans, you guide people by explicitly defining what they should or should not do.
-
-### Economic Modeling: ROI and Financial Options
-> * Architects are frequently asked about the (economic) value of architecture or technology investments.
-> * Answering this question is a crucial skill for any senior architect. However, answering it concisely and convincingly to a non-technical audience may be difficult.
-> * Borrowing from existing literature, I sketch two answers to the question of the economic value of architecture: the return on investment metaphor and the selling options metaphor.
+## Decision-Making: Introduction
 
 ### Decision Intelligence in IT Architecture
 > * Decision intelligence is the discipline of turning information into better actions.
-> * A decision involves more than just selecting from available options; it represents a commitment of resources you cannot take back.
-> * Many factors make the decision-making process more or less complex, such as the number of options, costs, cognitive load, emotions, and access to information. 
-> * Data can significantly improve decision-making, but data do not guarantee objectivity and can even lead to more subjectivity.
+> * A decision involves more than just selecting from available options; it represents a commitment of resources you
 
 ### The Human Side of Decision-Making
 > * Decision-making is a human activity subject to human biases and limitations. 
@@ -149,6 +125,33 @@ Image by iStock
 > * Human intuition plays a vital role in decision-making.
 > * Group decision-making offers significant advantages but increases complexity as it requires higher decision-making skills from each member.
 
+### Economic Modeling: ROI and Financial Options
+> * Architects are frequently asked about the (economic) value of architecture or technology investments.
+> * Answering this question is a crucial skill for any senior architect. However, answering it concisely and convincingly to a non-technical audience may be difficult.
+> * Borrowing from existing literature, I sketch two answers to the question of the economic value of architecture: the return on investment metaphor and the selling options metaphor.
+
+### Effortless Architecture
+> * Greg McKeown's "Effortless: Make It Easier to Do What Matters Most" advocates for a paradigm shift from hard work to smart, effective work by simplifying tasks and processes. 
+> * Key principles include prioritizing important tasks, leveraging automation, and embracing a mindset that values ease and enjoyment in work.
+> * Greg McKeown's book offers invaluable insights that are particularly relevant for IT architects and software engineers. McKeown's emphasis on simplifying tasks and processes is crucial in the tech industry, where complexity often dominates. 
+
+## Organizational Alignment: Introduction
+
+### Cooperation-Based Organizations: Six Simple Rules
+> * The Six Simple Rules approach emphasizes that in today’s complicated business environment, you must set up organizational structures based on cooperation. 
+> * To deal with complexity, organizations should depend on the judgment of their people and on these people cooperating. 
+> * This view is well aligned with the ideas of Grounded Architecture.
+
+### Product-Led Organizations
+> * When it comes to product development, I generally recommend two resources for architects: “Escaping the Build Trap: How Effective Product Management Creates Real Value” by Melissa Perri and “The Discipline of Market Leader” by Michael Treacy and Fred Wiersema. 
+> * The build trap occurs when businesses focus too much on their product’s features and functionalities, overlooking customers’ needs and preferences.
+> * The Discipline of Market Leader highlights three strategic paths a company can use to achieve market leadership: operational excellence, product leadership, and customer intimacy. 
+
+### Organizational Governance: Nudge, Taxation, Mandates
+> * Architecture practice should support governance models adaptable to organizations' complex and diverse needs. A technology governance model should be a well-balanced hybrid of three different styles of governing: mandates and bans, taxes, and nudging.
+> * Nudging is a form of governing where you create subtle or indirect suggestions influencing someone's behavior or decision-making without forcing them or limiting their freedom of choice.
+> * Governing with taxes (economic incentives) is a form of guiding in which people are not forbidden to make some decisions but need to "pay" some form of taxes on used resources.
+> * With mandates and bans, you guide people by explicitly defining what they should or should not do.
 
 
 

@@ -1,6 +1,6 @@
 
 
-# Architecture Governance: Nudge, Taxation, Mandates {#governance}
+# Organizational Governance: Nudge, Taxation, Mandates {#governance}
 
 ![image by nonbirinonko from pixabay](assets/images/arch/greece-1594689_1920.jpg)
 

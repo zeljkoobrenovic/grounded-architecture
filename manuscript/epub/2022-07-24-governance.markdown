@@ -1,9 +1,8 @@
 
 
-# Architecture Governance: Nudge, Taxation, Mandates {#governance}
+# Organizational Governance: Nudge, Taxation, Mandates {#governance}
 
-![](assets/images/arch/greece-1594689_1920.jpg)
-^image by nonbirinonko from pixabay^
+![image by nonbirinonko from pixabay](assets/images/arch/greece-1594689_1920.jpg)
 
 **IN THIS SECTION, YOU WILL:** Understand that a technology governance model should be a well-balanced hybrid of three different styles of governing: mandates and bans, taxes, and nudging.
 
@@ -28,8 +27,7 @@ Architecture practice should support governance models that are aligned and adap
 
 In behavioral economics and psychology, a **nudge is a subtle or indirect suggestion** influencing someone's behavior or decision-making **without forcing them or limiting their freedom of choice**. Nudges can be applied in various settings, such as policy-making, marketing, and personal interactions, to encourage people to make better choices, improve their well-being, or achieve specific goals.
 
-![](assets/images/arch/iStock-1390608248.jpg)
-^image by istock^
+![image by istock](assets/images/arch/iStock-1390608248.jpg)
 
 A nudge can take many forms, such as a slight change in the environment, a gentle reminder, positive reinforcement, or a default option. For example, placing healthy food options at eye level in a cafeteria can nudge people to choose healthier meals. Setting a default option for organ donation can increase the number of donors.
 
@@ -54,8 +52,7 @@ Grounded Architecture is well aligned with ideas of nudging. I designed many [Da
 
 Governing with taxes is a form of guidance in which we do not forbid people to make choices or decisions, but they **need to "pay" some form of taxes on used resources**. For instance, costs of public cloud usage could be **cross-charged across the organization**, providing a helpful feedback loop to optimize our systems and avoid unnecessary resource consumption, avoiding the "tragedy of commons" which frequently happens when there are no limits on shared resource consumption (e.g., public cloud budget). Compared to nudging, taxes are not only an information feedback loop, but they have consequences (e.g., some projects could be banned if they exceed the cross-chared IT budget).
 
-![](assets/images/arch/credit-squeeze-g61ddead85_1920.png)
-^image by steve buissinne from pixabay^
+![image by steve buissinne from pixabay](assets/images/arch/credit-squeeze-g61ddead85_1920.png)
 
 The role of architecture practice in this form of governance should be to ensure that "taxation" is **data-driven and transparent** and to create efficient feedback loops on critical metrics related to "taxes."
 
@@ -67,8 +64,7 @@ By governing with mandates and bans, I mean guiding people by **explicitly defin
 
 You should **use bans with care** and as a last resort to avoid unnecessary blocking or slowing down development and innovation. Nevertheless, they could help clarify critical topics where nudging or taxation would not be sufficient. For instance, having clear rules and control mechanisms to avoid breaking privacy or financial laws can prevent unnecessary incidents and damage. 
 
-![](assets/images/arch/ethics-g277df4183_1920.jpg)
-^image by tumisu from pixabay^
+![image by tumisu from pixabay](assets/images/arch/ethics-g277df4183_1920.jpg)
 
 The role of architecture in this form of governing should be to be **a stakeholder but not a sole owner in defining mandates and bans**. Mandates and bans must frequently be determined in collaboration with others, such as security and legal functions. The architecture practice can help by **creating clarity and providing transparency**.
 

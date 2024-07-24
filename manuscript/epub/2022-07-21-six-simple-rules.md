@@ -1,6 +1,6 @@
 
 
-# Managing Organizational Complexity: Six Simple Rules {#six-simple-rules}
+# Cooperation-Based Organizations: Six Simple Rules {#six-simple-rules}
 
 ![image by nat aggiato from pixabay](assets/images/arch/spices-g253b7ca36_1920.jpg)
 
