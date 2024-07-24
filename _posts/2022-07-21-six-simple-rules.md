@@ -1,8 +1,8 @@
 ---
 layout: post
-section: "Doing Architecture: Inspirations"
-title: "Managing Organizational Complexity: Six Simple Rules"
-position: 7009
+section: "Organizational Factors"
+title: "Cooperation-Based Organizations: Six Simple Rules"
+position: 7021
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 icon: six.png

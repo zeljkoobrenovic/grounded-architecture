@@ -1,8 +1,8 @@
 ---
 layout: post
-section: "Doing Architecture: Inspirations"
-title: "Architecture Governance: Nudge, Taxation, Mandates"
-position: 7012
+section: "Organizational Factors"
+title: "Organizational Governance: Nudge, Taxation, Mandates"
+position: 7024
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 icon: pragmatics.png

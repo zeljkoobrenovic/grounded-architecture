@@ -1,6 +1,6 @@
 ---
 layout: post
-section: "Doing Architecture: Inspirations"
+section: "Soft Skills"
 title: "Effective Communication"
 position: 7005
 date:   2021-10-21 21:12:01 +0100

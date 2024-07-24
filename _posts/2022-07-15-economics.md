@@ -1,8 +1,8 @@
 ---
 layout: post
-section: "Doing Architecture: Inspirations"
+section: "Decision-Making"
 title: "Economic Modeling: ROI and Financial Options"
-position: 7025
+position: 7015
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 icon: economics.png

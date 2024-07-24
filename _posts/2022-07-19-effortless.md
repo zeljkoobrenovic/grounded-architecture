@@ -1,14 +1,14 @@
 ---
 layout: post
-section: "Doing Architecture: Inspirations"
+section: "Decision-Making"
 title: "Effortless Architecture"
-position: 7009
+position: 7019
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 icon: effortless.png
 permalink: effortless
 timetoread: 11 min
-excerpt: "A summary of lessons learned from the Greg McKeown' Effortless book that offers invaluable insights that are particularly relevant for IT architects and software engineers. McKeown's emphasis on simplifying tasks and processes is crucial in the tech industry, where complexity often dominates. "
+excerpt: "A summary of lessons learned from the Greg McKeown' Effortless book that offers invaluable insights that are particularly relevant for IT architects and software engineers. McKeown's emphasis on simplifying tasks and processes is crucial in the tech industry, where complexity often dominates."
 
 ---
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 

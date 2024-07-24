@@ -2,8 +2,7 @@
 
 # Being Architect: Introduction {#being-architect}
 
-![](assets/images/arch/architect-3979490_1920.jpg)
-^image by borko manigoda from pixabay^
+![image by borko manigoda from pixabay](assets/images/arch/architect-3979490_1920.jpg)
 
 **IN THIS SECTION, YOU WILL:**  Get an overview of guiding principles that generalize my view on what it means to be an architect in practice.
 

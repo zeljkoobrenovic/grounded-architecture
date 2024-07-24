@@ -36,23 +36,26 @@ The *[People Foundation](#people)* represents a strong network of people working
 
 Lastly, the *[Architecture Activities Platform](#activities)* defines a collection of processes and agreements that lets architects do their thing, leveraging data and people to create a powerful, organization-wide impact.
 
-As part of my Grounded Architecture quest, I've devised several guiding principles and tools to help you sprinkle Grounded Architecture magic in your practice. These resources are grouped into two parts and are sure to make your journey both insightful and entertaining:
+As part of my Grounded Architecture quest, I've devised several guiding principles and tools to help you sprinkle Grounded Architecture magic in your practice. These resources are grouped into several parts and are sure to make your journey both insightful and entertaining:
 
-* [Being an Architect](#being-architect), where I introduce several perspectives on what it means to be an architect in practice:
+* [**On Being an Architect**](#being-architect):
   * [Architects as Superglue](#superglue)
   * [Skills](#skills)
   * [Impact](#impact)
   * [Architects' Career Paths](#career)
-* [Doing Architecture: Inspirations](#doing-architecture), where I introduce several resources that I use as inspiration for running the Grounded Architecture practice in complex organizations:
-  * [Culture Map: Architects' Culture Mindfield Compass](#culture-map)
+* [**On Soft Skills**](soft-skills):
+  * [The Culture Map: Architects' Culture Mindfield Compass](#culture-map)
   * [Effective Communication](communication)
   * [Leadership](#leadership)
-  * [Managing Organization Complexity: Six Simple Rules](#six-simple-rules)
-  * [Understanding Product Development](#product-development)
-  * [Architecture Governance: Mandates, Taxation, Nudge](#governance)
-  * [Economic Modeling: ROI and Financial Options](#economics)
+* [**On Decision-Making**](decision-making):
   * [Decision Intelligence in IT Architecture](#decision-intelligence)
   * [The Human Side of Decision-Making](#human-decisions)
+  * [Economic Modeling: ROI and Financial Options](#economics)
+  * [Effortless Architecture](#effortless)
+* [**On Organizational Factors**](organizations):
+  * [Cooperation-Based Organizations: Six Simple Rules](#six-simple-rules)
+  * [Product-Led Organizations](product) 
+  * [Organizational Governance: Nudge, Taxation, Mandates](#governance)
 
 The rest of this book will explain the Grounded Architecture approach in detail. In this section, I want to share a few things about my motivation to write this book.
 

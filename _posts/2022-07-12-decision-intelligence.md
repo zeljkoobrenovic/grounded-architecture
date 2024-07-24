@@ -1,8 +1,8 @@
 ---
 layout: post
-section: "Doing Architecture: Inspirations"
+section: "Decision-Making"
 title: "Decision Intelligence in IT Architecture"
-position: 7022
+position: 7012
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 icon: decision.png

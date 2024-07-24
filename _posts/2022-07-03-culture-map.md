@@ -1,6 +1,6 @@
 ---
 layout: post
-section: "Doing Architecture: Inspirations"
+section: "Soft Skills"
 title: "The Culture Map: Architects' Culture Compass"
 position: 7003
 date:   2021-10-21 21:12:01 +0100
