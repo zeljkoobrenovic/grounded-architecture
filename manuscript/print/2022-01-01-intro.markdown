@@ -56,7 +56,7 @@ As part of my Grounded Architecture quest, I've devised several guiding principl
   * [Effortless Architecture](#effortless)
 * [**On Organizational Factors**](organizations):
   * [Cooperation-Based Organizations: Six Simple Rules](#six-simple-rules)
-  * [Product-Led Organizations](product) 
+  * [Product-Led Organizations](#product) 
   * [Organizational Governance: Nudge, Taxation, Mandates](#governance)
 
 The rest of this book will explain the Grounded Architecture approach in detail. In this section, I want to share a few things about my motivation to write this book.
