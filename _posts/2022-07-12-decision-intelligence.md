@@ -1,6 +1,6 @@
 ---
 layout: post
-section: "Decision-Making"
+section: "On Decision-Making"
 title: "Decision Intelligence in IT Architecture"
 position: 7012
 date:   2021-10-21 21:12:01 +0100

@@ -2,8 +2,7 @@
 
 # Building Data Foundation Website: Lean Design Patterns and Techniques {#data-website}
 
-![](assets/images/education-6241609_1280.png)
-^image by jozef mikulcik from pixabay^
+![image by jozef mikulcik from pixabay](assets/images/education-6241609_1280.png)
 
 **IN THIS SECTION, YOU WILL:**Get a few practical tips on building lean architecture dashboards and documents (e.g., to create the data foundation) using simple, widely available tools.
 
@@ -42,8 +41,7 @@ Who says you need a high-tech toolbox to create dazzling visuals? Sometimes, sti
 
 Earlier, I always used heavyweight visualization and UI frameworks to build interactive tools. But nowadays, I leave the heavy frameworks at the door. You can create beautiful, functional interfaces with just the basics—no React, Angular, or Vue here – just pure, unadulterated HTML and CSS magic.
 
-![](assets/images/data_site_simple_html.png)
-***Figure 1:** Simple generated HTML visual of source code analysis results.*
+![Figure 1: Simple generated HTML visual of source code analysis results.](assets/images/data_site_simple_html.png)
 
 ### Embedding JSON in HTML Documents
 
@@ -64,8 +62,7 @@ Let's talk visuals. Here are some simple, proven methods I always use (you can f
 
 Icons are the unsung heroes of data visualization. They add clarity and visual appeal and help communicate concepts quickly. Explore websites like thenounproject.com (my favorite) for a treasure trove of icons to enhance your visualizations.
 
-![](assets/images/data_site_icons.png)
-***Figure 2:** A screenshot from thenounproject.com.*
+![Figure 2: A screenshot from thenounproject.com.](assets/images/data_site_icons.png)
 
 ## Version Controlled Lean Documents
 
@@ -108,8 +105,7 @@ To facilitate collaborative editing of data that requires manual changes, I freq
 
 I embedded a JavaScript script within the Google Sheet to further streamline this process. This script's primary function was to export the data into a JSON format, which you can use to generate visual documents using HTML templates.
 
-![](assets/images/data_site_sheet_json.png)
-***Figure 4:** Exporting Google Sheet data to JSON for document generation.*
+![Figure 4: Exporting Google Sheet data to JSON for document generation.](assets/images/data_site_sheet_json.png)
 
 ## Two Examples Deployments
 

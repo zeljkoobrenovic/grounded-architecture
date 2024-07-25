@@ -1,6 +1,6 @@
 ---
 layout: post
-section: "Soft Skills"
+section: "On Soft Skills"
 title: "Leadership"
 position: 7007
 date:   2021-10-21 21:12:01 +0100

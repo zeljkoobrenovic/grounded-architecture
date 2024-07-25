@@ -1,9 +1,8 @@
 
 
-# Organizational Alignment: Introduction {#organizations}
+# On Organizational Factors: Introduction {#organizations}
 
-![](assets/images/iStock-1473231525.jpg)
-^image by istock^
+![image by istock](assets/images/iStock-1473231525.jpg)
 
 **IN THIS SECTION, YOU WILL:**  Get a summary of the inspirations about doing architecture.
 

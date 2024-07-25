@@ -1,6 +1,6 @@
 ---
 layout: post
-section: "Decision-Making"
+section: "On Decision-Making"
 title: "The Human Side of Decision-Making"
 position: 7013
 date:   2021-10-21 21:12:01 +0100

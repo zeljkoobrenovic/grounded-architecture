@@ -1,6 +1,6 @@
 ---
 layout: post
-section: "Being Architect"
+section: "On Being Architect"
 title: "Architects' Career Paths: Raising the Bar"
 position: 6015
 date:   2021-10-21 21:12:01 +0100

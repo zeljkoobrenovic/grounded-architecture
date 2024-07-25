@@ -1,6 +1,6 @@
 ---
 layout: post
-section: "Decision-Making"
+section: "On Decision-Making"
 title: "Effortless Architecture"
 position: 7019
 date:   2021-10-21 21:12:01 +0100

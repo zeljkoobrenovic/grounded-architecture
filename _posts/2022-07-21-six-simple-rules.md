@@ -1,6 +1,6 @@
 ---
 layout: post
-section: "Organizational Factors"
+section: "On Organizational Factors"
 title: "Cooperation-Based Organizations: Six Simple Rules"
 position: 7021
 date:   2021-10-21 21:12:01 +0100

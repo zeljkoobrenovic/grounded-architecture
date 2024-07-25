@@ -75,7 +75,7 @@ def copy_post(post, counter):
                     line = line.replace('](doing-architecture)', '](#doing-architecture)')
                     line = line.replace('](culture-map)', '](#culture-map)')
                     line = line.replace('](six-simple-rules)', '](#six-simple-rules)')
-                    line = line.replace('](product-development)', '](#product-development)')
+                    line = line.replace('](product)', '](#product)')
                     line = line.replace('](governance)', '](#governance)')
                     line = line.replace('](economics)', '](#economics)')
                     line = line.replace('](decision-intelligence)', '](#decision-intelligence)')

@@ -1,7 +1,7 @@
 ---
 layout: post
-section: "Organizational Factors"
-title: "Organizational Alignment: Introduction"
+section: "On Organizational Factors"
+title: "On Organizational Factors: Introduction"
 position: 7020
 date: 2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)

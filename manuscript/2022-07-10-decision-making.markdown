@@ -1,9 +1,8 @@
 
 
-# Decision-Making: Introduction {#decision-making}
+# On Decision-Making: Introduction {#decision-making}
 
-![](assets/images/iStock-1138420319.jpg)
-^image by istock^
+![image by istock](assets/images/iStock-1138420319.jpg)
 
 **IN THIS SECTION, YOU WILL:**  Get a summary of the inspirations about doing architecture.
 

@@ -1,6 +1,6 @@
 
 
-# Soft Skills: Introduction {#soft-skills}
+# On Soft Skills: Introduction {#soft-skills}
 
 ![](assets/images/iStock-1201288484.jpg)
 ^image by istock^

@@ -1,6 +1,6 @@
 ---
 layout: post
-section: "Decision-Making"
+section: "On Decision-Making"
 title: "Economic Modeling: ROI and Financial Options"
 position: 7015
 date:   2021-10-21 21:12:01 +0100

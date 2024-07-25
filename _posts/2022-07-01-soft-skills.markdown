@@ -1,7 +1,7 @@
 ---
 layout: post
-section: "Soft Skills"
-title: "Soft Skills: Introduction"
+section: "On Soft Skills"
+title: "On Soft Skills: Introduction"
 position: 7001
 date: 2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)

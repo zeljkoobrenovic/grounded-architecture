@@ -1,6 +1,6 @@
 ---
 layout: post
-section: "Being Architect"
+section: "On Being Architect"
 title: "Impact"
 position: 6010
 date:   2021-10-21 21:12:01 +0100

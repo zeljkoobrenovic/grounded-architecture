@@ -1,6 +1,6 @@
 ---
 layout: post
-section: "Organizational Factors"
+section: "On Organizational Factors"
 title: "Organizational Governance: Nudge, Taxation, Mandates"
 position: 7024
 date:   2021-10-21 21:12:01 +0100

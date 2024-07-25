@@ -1,6 +1,6 @@
 ---
 layout: post
-section: "Soft Skills"
+section: "On Soft Skills"
 title: "Effective Communication"
 position: 7005
 date:   2021-10-21 21:12:01 +0100

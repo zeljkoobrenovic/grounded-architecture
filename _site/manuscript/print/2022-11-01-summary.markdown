@@ -52,7 +52,7 @@ As a part of my work on Grounded Architecture, I also provided several guiding p
   * [Effortless Architecture](#effortless)
 * [**On Organizational Factors**](organizations):
   * [Cooperation-Based Organizations: Six Simple Rules](#six-simple-rules)
-  * [Product-Led Organizations](product) 
+  * [Product-Led Organizations](#product) 
   * [Organizational Governance: Nudge, Taxation, Mandates](#governance)
 
 When Grounded Architecture is in place, it can have a significant [positive impact](#impact) on the functioning of an organization:
