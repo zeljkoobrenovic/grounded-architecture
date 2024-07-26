@@ -1,6 +1,6 @@
 
 
-# Organizational Alignment: Introduction {#organizations}
+# On Organizational Factors: Introduction {#organizations}
 
 ![](assets/images/iStock-1473231525.jpg)
 ^image by istock^

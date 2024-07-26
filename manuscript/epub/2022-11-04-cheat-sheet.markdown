@@ -22,7 +22,7 @@
 ### Evolution of Architecture: Embracing Adaptability, Scalability, and Data-Driven Decisions
 * I identified the following needs that an architecture function should support: Executing At Scale, Adaptivity, Improving the Quality of Decision-Making with Data, and Maximizing Organizational Alignment & Learning.
 
-## Grounded Architecture: Introduction
+## Grounded Architecture
 
 ### Data Foundation
 * The architecture Data Foundation serves as a medium to create a complete, up-to-date picture of critical elements of the technology landscapes of big organizations. 
@@ -41,7 +41,7 @@
 * When a Grounded Architecture structure is in place, it can positively transform an organization's functioning.
 * These impact categories are Executing At Scale, Improving the Quality of Decision-Making with Data, Maximizing Organizational Alignment & Learning, and Higher Adaptivity.
 
-## Being Architect: Introduction
+## On Being Architect
 
 ### Architects as Superglue
 * Architects in IT organizations should develop as “superglue,” people who hold architecture, technical details, business needs, and people together across a large organization or complex projects.
@@ -59,7 +59,7 @@
 * Architects' career paths ideally stem from a strong engineering background.
 * Hiring architects requires constantly raising the bar to ensure a strong and diverse team structure.  
 
-## Soft Skills: Introduction
+## On Soft Skills
 
 ### The Culture Map: Architects' Culture Compass
 * I have found the work of Erin Meyer, The Culture Map, to be a beneficial tool for architects to work harmoniously with people from various cultures and backgrounds.
@@ -77,7 +77,7 @@
 * Marquet focused on leadership and organizational management, particularly emphasizing the principles of Intent-Based Leadership.
 * Borrowing from Netflix's original values, the following behavioral traits are crucial for architects: communication, judgment, impact, inclusion, selflessness, courage, integrity, curiosity, innovation, and passion.
 
-## Decision-Making: Introduction
+## On Decision-Making
 
 ### Decision Intelligence in IT Architecture
 * Decision intelligence is the discipline of turning information into better actions.
@@ -99,7 +99,7 @@
 * Key principles include prioritizing important tasks, leveraging automation, and embracing a mindset that values ease and enjoyment in work.
 * Greg McKeown's book offers invaluable insights that are particularly relevant for IT architects and software engineers. McKeown's emphasis on simplifying tasks and processes is crucial in the tech industry, where complexity often dominates. 
 
-## Organizational Alignment: Introduction
+## On Organizational Factors
 
 ### Cooperation-Based Organizations: Six Simple Rules
 * The Six Simple Rules approach emphasizes that in today’s complicated business environment, you must set up organizational structures based on cooperation. 

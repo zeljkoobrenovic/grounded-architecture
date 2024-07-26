@@ -18,7 +18,7 @@ def extract_key_topics(post, counter):
                     elif line.startswith('title:'):
                         title = line.replace('title:', '').replace('"', '').strip()
                         if ': Introduction' in title:
-                            content += '## ' + title + '\n\n'
+                            content += '## ' + title.replace(': Introduction', '').strip() + '\n\n'
                             in_header = False
                             found_topics = True
                         else:

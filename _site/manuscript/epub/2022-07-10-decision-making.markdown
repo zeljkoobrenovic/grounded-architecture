@@ -1,6 +1,6 @@
 
 
-# Decision-Making: Introduction {#decision-making}
+# On Decision-Making: Introduction {#decision-making}
 
 ![image by istock](assets/images/iStock-1138420319.jpg)
 

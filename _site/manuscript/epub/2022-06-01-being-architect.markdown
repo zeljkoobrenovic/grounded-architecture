@@ -1,6 +1,6 @@
 
 
-# Being Architect: Introduction {#being-architect}
+# On Being Architect: Introduction {#being-architect}
 
 ![image by borko manigoda from pixabay](assets/images/arch/architect-3979490_1920.jpg)
 

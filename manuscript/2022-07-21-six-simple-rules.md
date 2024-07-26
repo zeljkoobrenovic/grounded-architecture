@@ -2,8 +2,7 @@
 
 # Cooperation-Based Organizations: Six Simple Rules {#six-simple-rules}
 
-![](assets/images/arch/spices-g253b7ca36_1920.jpg)
-^image by nat aggiato from pixabay^
+![image by nat aggiato from pixabay](assets/images/arch/spices-g253b7ca36_1920.jpg)
 
 **IN THIS SECTION, YOU WILL:**  Get an introduction to Six Simple Rules, a model for setting up organizational structures based on cooperation.
 
@@ -55,8 +54,7 @@ This difference between **Autonomy** and **Self-Sufficiency** leads us to the se
 
 The first rule states that you must genuinely understand performance: **what people do** and **why they do it**. When you know why people do what they do and how it drives performance, you can define the **minimum sufficient set of interventions with surgical accuracy**. 
  
-![](assets/images/arch/iStock-1179186162.jpg)
-^image by istock^
+![image by istock](assets/images/arch/iStock-1179186162.jpg)
 
 ### Guidelines for Understanding Performance
 
@@ -78,8 +76,7 @@ Architecture practice can significantly aid in understanding organizational beha
 
 The Six Simple Rules approach emphasizes the importance of reinforcing integrators by looking at those **directly involved in the work**, giving them **power and interest to foster cooperation in dealing with complexity** instead of resorting to the paraphernalia of overarching hierarchies, overlays, dedicated interfaces, balanced scorecards, or coordination procedures.
  
-![](assets/images/arch/agree-g1f407320e_1920.png)
-^image by robert owen-wahl from pixabay^
+![image by robert owen-wahl from pixabay](assets/images/arch/agree-g1f407320e_1920.png)
 
 ### Guidelines for Reinforcing Integrators
 
@@ -101,8 +98,7 @@ Architecture practice can play a vital role in reinforcing integrators by:
 
 Whenever you consider an **addition to** your organization’s **structure, processes, and systems**, think about **increasing the quantity of power**. Doing so may **save you from increasing complicatedness** and enable you to achieve a more significant impact with less cost. You can increase the quantity of power by allowing some functions to influence performance and stakes that matter to others. 
 
-![](assets/images/arch/iStock-1201215883.jpg)
-^image by istock^
+![image by istock](assets/images/arch/iStock-1201215883.jpg)
 
 ### Guidelines for Increasing Power Quantity
 
@@ -124,8 +120,7 @@ Architecture practice can support the increase in power quantity through an oper
 
 In the face of business complexity, work is becoming more interdependent. To meet multiple and often contradictory performance requirements, **people must rely more on each other**. They need to **cooperate directly** instead of depending on dedicated interfaces, coordination structures, or procedures that only add to complicatedness. 
 
-![](assets/images/arch/iStock-1072898930.jpg)
-^image by istock^
+![image by istock](assets/images/arch/iStock-1072898930.jpg)
 
 ### Guidelines for Enhancing Reciprocity
 
@@ -147,8 +142,7 @@ Architecture practice can significantly increase reciprocity within an organizat
 The Six Simple Rules approach emphasizes the importance of making visible and clear **what happens tomorrow as a consequence of what they do today**. You can manage complex requirements by making simple changes while removing organizational complexity. With the strategic alignment typical of the hard approach, these simple solutions—for instance, career paths—often come at the end of a sequence that starts by installing the most cumbersome changes: new structure, processes, systems, metrics, etc. Simple and effective solutions are then impossible.
  
 
-![](assets/images/arch/trees-gc38b3c617_1920.jpg)
-^image by joe from pixabay^
+![image by joe from pixabay](assets/images/arch/trees-gc38b3c617_1920.jpg)
 
 ### Guidelines for Extending the Shadow of the Future
 
@@ -170,8 +164,7 @@ Architecture practice can play a crucial role in extending the shadow of the fut
 
 Lastly, the Six Simple Rules approach recommends that when you cannot create direct feedback loops embedded in people’s tasks, you need **management’s intervention to close the loop**. Managers must then use the familiar performance evaluation tool but in a very different way. 
 
-![](assets/images/arch/people-gac98109e9_1920.jpg)
-^image by stocksnap from pixabay^
+![image by stocksnap from pixabay](assets/images/arch/people-gac98109e9_1920.jpg)
 
 ### Guidelines for Rewarding Cooperation
 
