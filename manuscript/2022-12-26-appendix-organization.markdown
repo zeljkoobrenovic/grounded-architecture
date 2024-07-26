@@ -2,7 +2,8 @@
 
 # High Performing Technology Organizations {#concepts-org}
 
-![image by paul brennan from pixabay](assets/images/arch/car-engine-1701029_1280.jpg)
+![](assets/images/arch/car-engine-1701029_1280.jpg)
+^image by paul brennan from pixabay^
 
 **IN THIS SECTION, YOU WILL:** Get a summary of the characteristics of high-performing technology organizations.
 
