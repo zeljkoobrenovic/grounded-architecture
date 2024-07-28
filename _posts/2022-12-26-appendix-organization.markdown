@@ -5,7 +5,7 @@ title: "High Performing Technology Organizations"
 position: 12126
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
-permalink: concepts-org
+permalink: high-performing-organizations
 icon: organizations.png
 timetoread: 15 min
 excerpt: A summary of characteristics of high-performing technology organizations.

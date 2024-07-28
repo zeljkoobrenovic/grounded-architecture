@@ -1,8 +1,8 @@
 ---
 layout: post
-section: "On Soft Skills"
-title: "Effective Communication"
-position: 7005
+section: "Appendix"
+title: "Resources for Effective Communication"
+position: 12128
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 icon: communication.png
@@ -522,11 +522,6 @@ Push for what you want until you receive a “no.” Then, move from “no” to
 Mark Goulston’s book offers valuable insights for IT Architects, emphasizing the importance of effective communication. The core idea is that successful persuasion involves moving people through a “Persuasion Cycle” from resistance to listening, considering, willingness to act, doing, and eventually to satisfaction and continued action. Fundamental principles include managing stress to maintain clarity, genuinely listening to understand others, and making people feel valued and understood. IT Architects can benefit from these principles by building stronger relationships, enhancing collaboration, and fostering a supportive team culture. Techniques such as empathizing, asking insightful questions, and acknowledging contributions can lead to better project outcomes.
 
 Additionally, vulnerability, seeking feedback, and avoiding toxic influences help maintain a positive work environment. Goulston’s twelve techniques for achieving buy-in include encouraging creative problem-solving, addressing resistance, using empathy to diffuse tension, and engaging in meaningful conversations to understand deeper needs. One of the most essential techniques is acknowledging contributions. By recognizing the efforts and achievements of team members, IT Architects can make them feel more appreciated and motivated. By adopting these strategies, IT Architects can improve their leadership and communication, ultimately driving more successful projects.
-
-<br>
-## To Probe Further
-
-* [So What! Storylines Explorer](https://obren.io/tools/sowhat/)
 
 <br>
 ## Questions to Consider

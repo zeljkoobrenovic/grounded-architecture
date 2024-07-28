@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-07-26T21:14:17+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: Redefining IT Architecture Practice</title><subtitle></subtitle><entry><title type="html">Building Data Foundation Website: Lean Design Patterns and Techniques</title><link href="http://localhost:4000/data-website" rel="alternate" type="text/html" title="Building Data Foundation Website: Lean Design Patterns and Techniques" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/appendix-data-website-techniques</id><content type="html" xml:base="http://localhost:4000/data-website"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/education-6241609_1280.png" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-07-28T13:19:01+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: Redefining IT Architecture Practice</title><subtitle></subtitle><entry><title type="html">Building Data Foundation Website: Lean Design Patterns and Techniques</title><link href="http://localhost:4000/data-website" rel="alternate" type="text/html" title="Building Data Foundation Website: Lean Design Patterns and Techniques" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/appendix-data-website-techniques</id><content type="html" xml:base="http://localhost:4000/data-website"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/education-6241609_1280.png" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/jozefm84-10215106/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=6241609">Jozef Mikulcik</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=6241609">Pixabay</a>
 </div>
@@ -181,13 +181,8 @@ Image by <a href="https://pixabay.com/users/paulbr75-2938186/?utm_source=link-at
 </style>
 
 <p><br />
-My approach to creating and running an architecture function is not an abstract idea. Instead, it is the generalization of lessons learned while solving specific problems in a particular context.</p>
+To truly grasp any idea or solution, you need to understand the context in which these ideas were born. My work on creating and running an architecture practice isn’t just a lofty idea; it’s a practical approach sharpened from real-world experience. My perspective comes from roles like Chief Architect at AVIV Group and Principal Architect at eBay Classifieds and Adevinta. Here’s a peek into the unique context that shaped my Grounded Architecture approach:</p>
 
-<div class="quote">
-My approach to creating and running an architecture function is not an abstract idea. Instead, it is the generalization of many lessons learned while solving specific problems in a particular context.
-</div>
-
-<p>To truly grasp any idea or solution, you need to understand the context in which these ideas were born. I base my views on my time as a Chief Architect at AVIV Group and as a Principal Architect at eBay Classifieds and Adevinta. Let’s dive into some key characteristics of the organizational context that shaped my Grounded Architecture approach:</p>
 <ul>
   <li><strong>Global scale</strong>: operating across multiple countries and continents with millions of users.</li>
   <li><strong>Multi-dimensional diversity</strong>: the organizations I worked in were diverse, including customer base, workforce, business models, team topologies, and technology stacks.</li>
@@ -359,7 +354,7 @@ Image by <a href="https://pixabay.com/users/shire777-19410672/?utm_source=link-a
   <li><em>What are the growth dynamics of your organization?</em></li>
   <li><em>Are you experiencing synergy and transformation pressures?</em></li>
   <li><em>How (de)centralized is your organization?</em></li>
-</ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[The Grounded Architecture approach has evolved in the context of global, loosely coupled organizations that are diverse, with nonlinear growth dynamics, and under transformation pressures. My work reflects my experiences at AVIV Group, eBay Classifieds, and Adevinta.]]></summary></entry><entry><title type="html">Evolution of Architecture: Embracing Adaptability, Scalability, and Data-Driven Decisions</title><link href="http://localhost:4000/goals" rel="alternate" type="text/html" title="Evolution of Architecture: Embracing Adaptability, Scalability, and Data-Driven Decisions" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/requirements</id><content type="html" xml:base="http://localhost:4000/goals"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/change-4777508_1280.jpg" /></p>
+</ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[The Grounded Architecture approach has evolved in the context of global, loosely coupled organizations that are diverse, with nonlinear growth dynamics, and under transformation pressures. My work reflects my experiences at AVIV Group, eBay Classifieds, and Adevinta.]]></summary></entry><entry><title type="html">Embracing Adaptability, Scalability, and Data</title><link href="http://localhost:4000/goals" rel="alternate" type="text/html" title="Embracing Adaptability, Scalability, and Data" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/requirements</id><content type="html" xml:base="http://localhost:4000/goals"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/change-4777508_1280.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/bluehouseskis-14931490/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4777508">Bluehouse Skis</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4777508">Pixabay</a>
 </div>
@@ -391,24 +386,20 @@ Image by <a href="https://pixabay.com/users/bluehouseskis-14931490/?utm_source=l
 
 <p><br /></p>
 
-<p>Grounded Architecture emerged as a necessity in response to our <a href="context">intricate and multifaceted challenges</a>. Grounded Architecture was designed to address these specific challenges. By moving away from manual processes and embracing automation, data-driven decision-making, and adaptive frameworks, we aimed to create a <strong>more resilient and effective</strong> architectural practice.</p>
+<p>Grounded Architecture emerged as a necessity in response to our <a href="context">intricate and multifaceted challenges</a>. The Grounded Architecture framework was designed to address these specific challenges. By moving away from manual processes and embracing automation, data-driven decision-making, and adaptive frameworks, we aimed to create a <strong>more resilient and effective</strong> architectural practice.</p>
 
-<p><img src="assets/images/stress-gc7a712a2f_1920.jpg" alt="" /></p>
-<div style="text-align: center; font-size: 70%; color: grey; margin-bottom: 12px; margin-top: -12px;">
-Image by <a href="https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=7446584">Gerd Altmann</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=7446584">Pixabay</a>
-</div>
-
+<p><br /></p>
 <h2 id="goals">Goals</h2>
 
 <p>Here’s a detailed breakdown of the goals we set to revamp our approach.</p>
 
 <h3 id="goal-1-executing-at-scale">Goal 1: Executing At Scale</h3>
 
-<p>Our organization comprises hundreds of teams and thousands of projects, each with unique complexity and requirements. Traditional, one-size-fits-all approaches to architecture practice cannot keep up. We needed a system that could support this vast and varied ecosystem. Grounded Architecture was designed to provide the scalability necessary to <strong>handle such diversity at scale</strong>, ensuring that teams and projects received the support they needed without being constrained by the limitations of processes.</p>
+<p>Our organizations were like a bustling city with hundreds of teams and thousands of projects, each with its own unique complexity and requirements. Traditional, one-size-fits-all approaches to architecture practice simply couldn’t keep up with this dynamic environment. We needed a system that could support this vast and varied ecosystem. Grounded Architecture was designed to <strong>handle such diversity at scale,</strong> ensuring that teams and projects received the tailored support they needed without being bogged down by rigid processes.</p>
 
 <h3 id="goal-2-adaptivity">Goal 2: Adaptivity</h3>
 
-<p>In our dynamic environment, significant change is not just frequent; it’s expected. Whether these changes are organic, like evolving business needs, or inorganic, like mergers and acquisitions, our architecture must be <strong>able to adapt swiftly</strong>. Grounded Architecture was crafted to be flexible and responsive, allowing us to pivot quickly in response to new challenges and opportunities. This adaptability ensures that our architectural framework remains relevant and effective, no matter how the organizational landscape shifts.</p>
+<p>In our dynamic environments, significant change is not just frequent; it’s expected. Whether these changes are organic, like evolving business needs, or inorganic, like mergers and acquisitions, our architecture must be <strong>able to adapt swiftly</strong>. Grounded Architecture was crafted to be flexible and responsive, allowing us to pivot quickly in response to new challenges and opportunities. This adaptability ensures that our architectural framework remains relevant and effective, no matter how the organizational landscape shifts.</p>
 
 <h3 id="goal-3-increasing-quality-of-decisions-with-data">Goal 3: Increasing Quality of Decisions with Data</h3>
 
@@ -424,6 +415,7 @@ Image by <a href="https://pixabay.com/users/geralt-9301/?utm_source=link-attribu
 
 <p>Grounded Architecture aims to transform a typically cumbersome, manual-process-driven practice into a streamlined, adaptive, and learning-focused powerhouse.</p>
 
+<p><br /></p>
 <h2 id="questions-to-consider">Questions to Consider</h2>
 
 <p>Knowing what goals architecture practice needs to support in your organization is crucial to defining structures and measuring your impact. Some of the plans may be universally applicable. Others may be unique to your context. Ask yourself the following questions:</p>
@@ -434,12 +426,12 @@ Image by <a href="https://pixabay.com/users/geralt-9301/?utm_source=link-attribu
   <li><em>How aligned are units in your organizations? How much friction is there? How can architecture function help?</em></li>
   <li><em>How much is your organization learning? How is the learning supported?</em></li>
   <li><em>How stable is your organization? How likely is it that significant changes will occur in your organization?</em></li>
-</ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[I identified the following needs that an architecture function should support: Executing At Scale, Adaptivity, Improving the Quality of Decision-Making with Data, and Maximizing Organizational Alignment & Learning.]]></summary></entry><entry><title type="html">Grounded Architecture: Introduction</title><link href="http://localhost:4000/grounded-architecture" rel="alternate" type="text/html" title="Grounded Architecture: Introduction" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/grounded-architecture</id><content type="html" xml:base="http://localhost:4000/grounded-architecture"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/buildings-205986_1920.jpg" /></p>
+</ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[I identified the following needs that an architecture function should support: Executing At Scale, Adaptivity, Improving the Quality of Decision-Making with Data, and Maximizing Organizational Alignment & Learning.]]></summary></entry><entry><title type="html">Grounded Architecture Framework: Introduction</title><link href="http://localhost:4000/grounded-architecture" rel="alternate" type="text/html" title="Grounded Architecture Framework: Introduction" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/grounded-architecture</id><content type="html" xml:base="http://localhost:4000/grounded-architecture"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/buildings-205986_1920.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/ichigo121212-11728/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=205986">Ichigo121212</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=205986">Pixabay</a>
 </div>
 <blockquote>
-  <p><strong>IN THIS SECTION, YOU WILL:</strong> Get an overview of the Grounded Architecture structure: Data Foundation, People Foundation, and Architecture Activities Platform.</p>
+  <p><strong>IN THIS SECTION, YOU WILL:</strong> Get an overview of the Grounded Architecture framework: Data Foundation, People Foundation, and Architecture Activities Platform.</p>
 
   <p><strong>KEY POINTS:</strong></p>
 
@@ -466,7 +458,7 @@ Image by <a href="https://pixabay.com/users/ichigo121212-11728/?utm_source=link-
 </style>
 
 <p><br />
-In this part, I will briefly introduce the structure of Grounded Architecture. I chose the term “Grounded Architecture” to highlight that the primary goal of my approach is <strong>avoid having an “ivory tower” architecture function</strong> disconnected from the organization. This disconnection is a real danger in a <a href="context">fast-moving, global, and diverse setting</a>. In other words, I wanted to create an architectural function that is <strong>well-grounded in the organization</strong>.</p>
+In this part, I will briefly introduce the Grounded Architecture framework. I chose the term “Grounded Architecture” to highlight that the primary goal of my approach is <strong>avoid having an “ivory tower” architecture function</strong> disconnected from the organization. This disconnection is a real danger in a <a href="context">fast-moving, global, and diverse setting</a>. In other words, I wanted to create an architectural function that is <strong>well-grounded in the organization</strong>.</p>
 
 <p>Prioritizing people’s interactions and data over processes and tools, Grounded Architecture aims to connect architecture practice to all organizational parts and levels as an antidote to the “ivory tower” architecture.</p>
 
@@ -480,7 +472,7 @@ In this part, I will briefly introduce the structure of Grounded Architecture. I
 
 <p><img src="assets/images/model.png" alt="" /></p>
 
-<p><em><strong>Figure 1:</strong> The structure of Grounded Architecture.</em></p>
+<p><em><strong>Figure 1:</strong> The Grounded Architecture framework.</em></p>
 
 <p>The <em>Data Foundation</em> is <strong>a system of tools and resources</strong> that enables architects to make <strong>data-informed decisions</strong> based on a real-time and complete overview of the organization’s technology landscape. The <a href="data">Data Foundation section</a> provides more details.</p>
 
@@ -1223,9 +1215,9 @@ Image by engineering.atspotify.com
 <p>One of the amusing challenges with setting up an architecture function in an organization is that everyone seems to have a different idea of what “architecture” should entail. It’s like asking people to describe a unicorn: some imagine a mythical, majestic creature, while others picture a sparkly horse with a horn that grants wishes. Good architects can do many things, but this versatility might not always be the most effective way to support the organization. We need to <strong>set boundaries</strong> so that we can focus on what’s important rather than becoming frazzled by what’s not.</p>
 
 <p><br />
-<img src="assets/images/unicorn.png" alt="" /></p>
+<img src="assets/images/iStock-92285726.jpg" alt="" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by <a href="https://pixabay.com/users/gdj-1086657/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1302152">Gordon Johnson</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1302152">Pixabay</a>
+Image by iStock
 </div>
 <p><br /></p>
 
@@ -1295,7 +1287,7 @@ Image by iStock
   <p><strong>KEY POINTS:</strong></p>
 
   <ul>
-    <li>When a Grounded Architecture structure is in place, it can positively transform an organization’s functioning.</li>
+    <li>When a Grounded Architecture framework is in place, it can positively transform an organization’s functioning.</li>
     <li>These impact categories are Executing At Scale, Improving the Quality of Decision-Making with Data, Maximizing Organizational Alignment &amp; Learning, and Higher Adaptivity.</li>
   </ul>
 </blockquote>
@@ -1317,7 +1309,7 @@ Image by iStock
 </style>
 
 <p><br />
-When a Grounded Architecture structure is in place, it can positively transform an organization’s functioning. These categories of impact, aligned with <a href="goals">defined goals</a>, are:</p>
+When a Grounded Architecture framework is in place, it can positively transform an organization’s functioning. These categories of impact, aligned with <a href="goals">defined goals</a>, are:</p>
 
 <ul>
   <li>Enabling Execution of Architecture Function At Scale,</li>
@@ -1379,7 +1371,7 @@ Image by <a href="https://pixabay.com/users/wikiimages-1897/?utm_source=link-att
 Image by <a href="https://pixabay.com/users/painter06-3732158/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3388163">Francis Ray</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3388163">Pixabay</a>
 </div>
 
-<p>The Grounded Architecture structure has core elements that provide a highly flexible and adaptive setting. Here are the key drivers of flexibility within this structure:</p>
+<p>The Grounded Architecture framework has core elements that provide a highly flexible and adaptive setting. Here are the key drivers of flexibility within this structure:</p>
 
 <h3 id="data-foundation-1">Data Foundation</h3>
 
@@ -1504,7 +1496,7 @@ Image by iStock
 Image by iStock
 </div>
 
-<p>The Grounded Architecture structure offers comprehensive support through its Data Foundation, People Foundation, and Architecture Activities Platform to help organizations learn quickly, stay up-to-date with emerging technologies, and recommend technology upgrades.</p>
+<p>The Grounded Architecture framework offers comprehensive support through its Data Foundation, People Foundation, and Architecture Activities Platform to help organizations learn quickly, stay up-to-date with emerging technologies, and recommend technology upgrades.</p>
 
 <h3 id="data-foundation-3">Data Foundation</h3>
 <p>The Data Foundation plays a pivotal role in accelerating the learning and adoption of new technologies. Here’s how:</p>
@@ -1530,7 +1522,7 @@ Image by iStock
   <li><strong>Systematic Knowledge Capture and Application</strong>: The platform ensures that knowledge is systematically captured, shared, and applied. This approach minimizes overhead while maximizing learning opportunities, enabling the organization to quickly adapt and apply new insights and technologies.</li>
 </ul>
 
-<p>By leveraging the Data Foundation, People Foundation, and Architecture Activities Platform, the Grounded Architecture structure ensures that learning is continuous, efficient, and embedded within the organization’s fabric. This comprehensive support system helps organizations stay up-to-date with emerging technologies and industry trends and fosters a proactive learning environment that drives innovation and growth.</p>
+<p>By leveraging the Data Foundation, People Foundation, and Architecture Activities Platform, the Grounded Architecture framework ensures that learning is continuous, efficient, and embedded within the organization’s fabric. This comprehensive support system helps organizations stay up-to-date with emerging technologies and industry trends and fosters a proactive learning environment that drives innovation and growth.</p>
 
 <p><br /></p>
 <h2 id="questions-to-consider">Questions to Consider</h2>
@@ -1547,7 +1539,7 @@ Image by iStock
   <li><em>Reflecting on the value of the “Data Foundation” concept, how effectively is your organization tracking changes or supporting what-if scenarios analysis?</em></li>
   <li><em>What role do most senior architects play in your organization? Could their time be better utilized on strategic initiatives?</em></li>
   <li><em>How sustainable is the architectural function in your organization in the absence of a strong central team? Could implementing a Data Foundation and well-connected architects help mitigate this?</em></li>
-</ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[When Grounded Architecture structure is in place, it can have a significant positive impact on the functioning of an organization: Executing At Scale, Adaptivity, Improving the Quality of Decision-Making with Data, Maximizing Organizational Alignment & Learning.]]></summary></entry><entry><title type="html">On Being Architect: Introduction</title><link href="http://localhost:4000/being-architect" rel="alternate" type="text/html" title="On Being Architect: Introduction" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/being-architect</id><content type="html" xml:base="http://localhost:4000/being-architect"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/architect-3979490_1920.jpg" /></p>
+</ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[When Grounded Architecture framework is in place, it can have a significant positive impact on the functioning of an organization: Executing At Scale, Adaptivity, Improving the Quality of Decision-Making with Data, Maximizing Organizational Alignment & Learning.]]></summary></entry><entry><title type="html">On Being Architect: Introduction</title><link href="http://localhost:4000/being-architect" rel="alternate" type="text/html" title="On Being Architect: Introduction" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/being-architect</id><content type="html" xml:base="http://localhost:4000/being-architect"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/architect-3979490_1920.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/borevina-9505414/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3979490">Borko Manigoda</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3979490">Pixabay</a>
 </div>
@@ -1573,16 +1565,16 @@ Image by <a href="https://pixabay.com/users/borevina-9505414/?utm_source=link-at
 </blockquote>
 
 <p><br />
-The role of an architect in the IT industry is multifaceted and crucial. It requires combining technical expertise, strategic thinking, and interpersonal skills to drive successful outcomes in complex organizational environments. In this part of the book, I offer a deep dive into various perspectives on what it means to be an architect in practice, providing a holistic understanding of the responsibilities and expectations associated with this role.</p>
+The role of an architect in the IT industry is like a Swiss Army knife—multifaceted and indispensable. It requires blending technical expertise, strategic thinking, and interpersonal skills to drive successful outcomes in complex organizational environments. In this part of the book, I offer a deep dive into various perspectives on what it means to be an architect in practice, providing a holistic understanding of the responsibilities and expectations associated with this role.</p>
 
 <ul>
-  <li><strong><a href="superglue">Architects as Superglue</a></strong>: In IT organizations, architects are the essential connectors, often referred to as “superglue.” Their primary function is integrating different aspects of the organization—architecture, technical details, business requirements, and team dynamics—ensuring that everything works together seamlessly. This role is vital in large organizations and complex projects where cohesion and coordination are paramount to success.</li>
-  <li><strong><a href="impact">Skills</a></strong>: The skill set of an influential architect is diverse and comprehensive. It includes hard (technical) skills fundamental to understanding and designing complex systems. Soft (people and social) skills are crucial for effective communication, collaboration, and leadership. Business skills are also essential, enabling architects to align their technical strategies with organizational goals and drive business value.</li>
-  <li><strong><a href="impact">Impact</a></strong>: The true measure of an architect’s success is their impact on the organization. Architects must demonstrate their ability to identify, tackle, and solve strategic problems. Their influence should be deep and broad, shaping the direction of projects and the organization. They are expected to deliver innovative solutions that address key challenges and opportunities, setting them apart as indispensable contributors.</li>
-  <li><strong><a href="career">Architects’ Career Paths: Raising the Bar</a></strong>: The ideal career path for architects is rooted in a strong engineering background. This foundation provides the technical proficiency necessary for advanced architectural roles. When hiring architects, it is crucial to continually raise the bar, ensuring that the team is composed of highly skilled and diverse individuals who can contribute unique perspectives and expertise.</li>
+  <li><strong><a href="superglue">Mindset: Architects as Superglue</a></strong>: In IT organizations, architects are the essential connectors, often referred to as “superglue.” Their primary function is integrating different aspects of the organization—architecture, technical details, business requirements, and team dynamics—ensuring that everything works together seamlessly. This role is vital in large organizations and complex projects where cohesion and coordination are paramount to success.</li>
+  <li><strong><a href="impact">Building Skills</a></strong>: The skill set of an influential architect is diverse and comprehensive. It includes hard (technical) skills fundamental to understanding and designing complex systems. Soft (people and social) skills are crucial for effective communication, collaboration, and leadership. Business skills are also essential, enabling architects to align their technical strategies with organizational goals and drive business value.</li>
+  <li><strong><a href="impact">Making Impact</a></strong>: The true measure of an architect’s success is their impact on the organization. Architects must demonstrate their ability to identify, tackle, and solve strategic problems. Their influence should be deep and broad, shaping the direction of projects and the organization. They are expected to deliver innovative solutions that address key challenges and opportunities, setting them apart as indispensable contributors.</li>
+  <li><strong><a href="career">Architects’ Career Paths</a></strong>: The ideal career path for architects is rooted in a strong engineering background. This foundation provides the technical proficiency necessary for advanced architectural roles.</li>
 </ul>
 
-<p>By examining these perspectives, readers will understand the essential qualities and responsibilities of architects. This exploration highlights the importance of a well-rounded skill set and a strategic approach to significantly impacting an organization. Whether you are an aspiring architect or a seasoned professional, these insights will provide valuable guidance on navigating and excelling in this dynamic and evolving field.</p>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[I introduce guiding principles that generalize my view on what it means to be an architect in practice.]]></summary></entry><entry><title type="html">Architects as Superglue</title><link href="http://localhost:4000/superglue" rel="alternate" type="text/html" title="Architects as Superglue" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/superglue</id><content type="html" xml:base="http://localhost:4000/superglue"><![CDATA[<style>
+<p>By examining these perspectives, readers can uncover some of the architects’ essential qualities and responsibilities. This exploration highlights the importance of a well-rounded skill set and a strategic approach, proving that being an architect is more than just wearing stylish glasses and nodding thoughtfully in meetings. Whether you’re an aspiring architect or a seasoned pro, these insights will provide valuable guidance on navigating and excelling in this dynamic and evolving field—like a GPS for your career, but with fewer wrong turns and reroutes.</p>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[I introduce guiding principles that generalize my view on what it means to be an architect in practice.]]></summary></entry><entry><title type="html">Mindset: Architects as Superglue</title><link href="http://localhost:4000/superglue" rel="alternate" type="text/html" title="Mindset: Architects as Superglue" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/superglue</id><content type="html" xml:base="http://localhost:4000/superglue"><![CDATA[<style>
      h2 {
           margin-top: 40px;
      }
@@ -1591,8 +1583,9 @@ The role of an architect in the IT industry is multifaceted and crucial. It requ
      }
 </style>
 
-<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/superglue/superglue.png" /></p>
+<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/iStock-185061908.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by iStock
 </div>
 <blockquote>
   <p><strong>IN THIS SECTION, YOU WILL:</strong>  Understand the view on architects as superglue (people who hold architecture, technical details, business needs, and people together across a large organization or complex projects) and get valuable tips on developing “superglue” abilities.</p>
@@ -1623,62 +1616,115 @@ The role of an architect in the IT industry is multifaceted and crucial. It requ
 </style>
 
 <p><br />
-I believe architects in IT organizations should develop into “superglue.” I borrowed this concept from <a href="https://saturn2016.sched.com/event/63m9/cant-find-superheroes-to-help-you-out-of-a-crisis-how-about-some-architecture-and-lots-of-superglue">Adam Bar-Niv and Amir Shenhav from Intel</a>, who suggested that instead of needing superheroes, we need “superglue” architects—<strong>the people who hold architecture, technical details, business needs, and people together</strong> across large organizations or complex projects. More recently, Tanya Reilly presented a <a href="https://noidea.dog/glue">similar view</a> concerning software engineering roles.</p>
-
-<p>Superglue architects act as the <strong>organizational connective tissue</strong>, linking the “<strong>business wheelhouse</strong>” with the “<strong>engine room</strong>.” While technical prowess is essential, their unique strength lies in their ability to relate, or glue, technical issues with business and broader organizational matters.</p>
+The concept of “superglue” architects in IT organizations emphasizes the critical role of those who act as the <strong>binding force</strong> across various facets of an organization. This idea, championed by <a href="https://saturn2016.sched.com/event/63m9/cant-find-superheroes-to-help-you-out-of-a-crisis-how-about-some-architecture-and-lots-of-superglue">Adam Bar-Niv and Amir Shenhav from Intel</a>, and echoed by <a href="https://noidea.dog/glue">Tanya Reilly</a> in her discussions on software engineering roles, underscores the need for individuals who excel in more than just technical skills. These “superglue” architects are the ones who hold together architecture, technical details, business needs, and people within large organizations or complex projects.</p>
 
 <div class="quote">
-Architects, of course, need to be technically strong. But their unique strengths should stem from being able to relate, or glue, technical issues with business and broader issues.
+While technical expertise is indispensable, what sets superglue architects apart is their relational skills.
 </div>
 
-<p>Based on discussions with engineering leaders, engineers, and architects, Figure 1 illustrates the “superglue” metaphor for architects.</p>
+<p>Superglue architects function as the <strong>organizational connective tissue</strong>. They bridge the gap between the “business wheelhouse” and the “engine room,” ensuring that technical solutions align with business goals. Their primary strength lies in their ability to relate technical issues to broader organizational and business contexts.</p>
 
-<p>Architects must build strong relationships with developer teams, local business stakeholders, and various functions. Simultaneously, they need to be well-connected with broader internal communities. External visibility is also crucial, allowing architects to bring fresh ideas into the organization and promote the organization to the outside world.</p>
+<p>A crucial aspect of their role involves building <strong>robust relationships</strong> with various stakeholders, including developer teams, local business stakeholders, and different functional areas within the organization. By fostering these connections, superglue architects ensure everyone is on the same page and working towards common objectives.</p>
 
-<p>In essence, while superheroes might be great for saving the day, it’s the superglue architects who keep everything together, ensuring that the whole machine runs smoothly. So, forget about donning a cape—grab a bottle of superglue and start connecting the dots!</p>
+<p>Superglue architects must be <strong>well-integrated</strong> within <strong>internal communities.</strong> They should actively participate in internal discussions, knowledge sharing, and collaborations to stay updated and contribute meaningfully. Additionally, <strong>external visibility</strong> is vital. By engaging with the external community, these architects bring in fresh ideas and promote their organization’s innovations and achievements to the outside world. It’s like attending industry mixers and bringing back the best hors d’oeuvres recipes to impress your own team.</p>
 
-<p><br /></p>
-<h2 id="supergluing-in-action-reducing-tension-among-business-functions-product-technology-organization">Supergluing in Action: Reducing Tension among Business Functions, Product, Technology, Organization</h2>
+<p>In essence, being a “superglue” architect is like being the life of the office party—keeping everyone connected, and ensuring no one spills punch on the server racks. It’s a demanding role, but it’s what keeps the whole operation running smoothly.</p>
 
-<p>The primary value of superglue architects in complex organizations is <strong>aligning business, product, technology, and organizational functions</strong>. Each of these four parts has its own designs or architectures.</p>
+<h2 id="superglue-architects">Superglue Architects</h2>
 
-<p>Technology, product, organization, and business functions face specific challenges. Ideally, these structures all change simultaneously and stay in perfect sync. But in practice, these structures change and move at different speeds, leading to <strong>misalignment and tension among them</strong> (Figure 2). For example, we may organize teams using a well-defined domain model (organizational design). However, our IT system is a monolith (technical design). In that case, our teams will have many dependencies and collaborate in a different pattern than the organizational design suggests. On the other hand, if our teams are well-aligned with the technical domain model and implementation (e.g., teams have full ownership of microservices and can deploy them independently), but the product architecture differs from the microservice modularization (e.g., product features are grouped differently than the technical services supporting them), we may need to change dozens of microservices when introducing a relatively simple product change. Similarly, tension occurs when business objectives are misaligned with product or technology objectives (e.g., reducing short-term costs while adding new features and migrating to the public cloud).</p>
+<p>While technical expertise is indispensable, what sets superglue architects apart is their exceptional relational skills. They must communicate effectively, negotiate, and influence various stakeholders to achieve alignment and drive projects forward. This unique blend of technical and interpersonal skills makes them invaluable in maintaining the organization’s coherence and efficiency.</p>
 
-<div class="quote">
-While technology, product, organization, and business functions face challenges, additional problems occur when there is tension among them.
-</div>
+<p><img src="assets/images/superglue/architect-as-superglue.png" alt="Architects as Superglue" />
+<em><strong>Figure 1:</strong> Architects serve as superglue, connecting development teams with business stakeholders and linking their teams with internal and external communities.</em></p>
 
-<p><img src="assets/images/tension.png" alt="" />
-<em><strong>Figure 2:</strong> The tensions between technology, product, organization, and business functions.</em></p>
-
-<p>The main problem with this tension is that it can significantly slow things down due to <strong>miscommunication</strong> or other <strong>misalignments</strong>, lead to costly and <strong>detrimental decisions</strong> due to lack of information, introduce overwhelming and <strong>unnecessary complexity</strong>, and cause critical <strong>missed opportunities</strong>. This is a pressing issue that needs immediate attention. Too frequently, architecture sits on the sidelines, shouting principles and abstract ideals that everyone ignores.</p>
-
-<p>By acting as a superglue, the architecture practice can effectively help reduce tension between technology, product, organization, and business functions, ensuring that critical conversations happen between these units. As Figure 3 illustrates, architecture should not try to be superglue by adding new constructs between these four elements but by bringing them closer together. I sometimes joke that architecture practice is a self-destructive function because by bringing these elements together, you remove the need for an architecture practice.</p>
-
-<p><img src="assets/images/tension-architecture.png" alt="" />
-<em><strong>Figure 3:</strong> Architects should be in the middle of reducing tensions between technology, product, organization, and business functions.</em></p>
-
-<p>While staying close to technology (the engine room), architects must ensure that technology serves the needs of customers and the business, and that technical architecture is well-aligned with organizational design. At the same time, architects can help ensure that business, product, and organizational designs are well-informed about the state, risks, and opportunities of an organization’s technology to avoid creating impractical strategies, setting unrealistic goals, or missing opportunities. More specifically, there are several <strong>key risks</strong> that misalignment brings, and architects need to be aware of them:</p>
+<p><strong>Figure 1</strong> captures the <strong>superglue metaphor</strong> for architects, showing how they, like superglue, bond various parts of the organization:</p>
 
 <ul>
-  <li><strong>Building the wrong products</strong>: If technology implementation makes incorrect assumptions not aligned with product requirements, you might end up with a toaster when you really needed a coffee maker.</li>
-  <li><strong>Wrong prioritization of activities</strong>: Without clear business and product metrics, we may build “interesting” products that do not create value for our customers and business. Picture making an app that tracks how often your cat blinks—fascinating, but not exactly a bestseller.</li>
-  <li><strong>Unexpected delivery delays</strong>: Underestimating complexity, effort, and dependencies can lead to delays that make your project feel like it’s stuck in a time loop.</li>
-  <li><strong>Duplication of effort</strong>: Without business or product harmonization needed to facilitate building shared components, you end up reinventing the wheel so often you could start a wheel shop.</li>
-  <li><strong>Building too complex products</strong>: Creating an overly complex, configurable system to address all possible cases can lead to a labyrinthine solution when a simpler, more harmonized approach would have sufficed. It’s like using a Swiss Army knife when you just needed a spoon.</li>
-  <li><strong>Overengineering</strong>: A lack of pushback to simplify products and a lack of understanding of technology can lead to using a complex and expensive messaging middleware capable of handling millions of messages per hour for a use case where you only have a few thousand messages per day. It’s like buying a monster truck to drive to the grocery store.</li>
-  <li><strong>Building too simple, unscalable products</strong>: Assuming we will simplify and harmonize our processes, but in reality, needing to keep essential complexity and support many variations, can result in a system that’s as robust as a house of cards.</li>
-  <li><strong>Building low-quality products</strong>: Unnecessary complexity and a lack of critical knowledge and expertise in the organization can lead to products that fall apart faster than a dollar-store umbrella in a hurricane.</li>
-  <li><strong>Having complicated dependencies between teams that slow them down</strong>: Suboptimal organizational design and lack of awareness of all the links between systems and people can turn team coordination into a bureaucratic nightmare.</li>
-  <li><strong>Creating fragile, unsustainable team structures</strong>: Having only one or two developers in some critical technology can make your team as resilient as a chocolate teapot.</li>
+  <li><strong>Developer Whisperers:</strong> Architects work closely with developers, understanding their challenges and ensuring architectural decisions enhance development efficiency and effectiveness.</li>
+  <li><strong>Tech-to-Business Translators:</strong> They decode technical jargon into business terms, helping stakeholders grasp the value and implications of technical decisions.</li>
+  <li><strong>Cross-Functional Diplomats:</strong> By engaging with operations, marketing, and finance, architects ensure technical solutions are practical, viable, and aligned with organizational strategies.</li>
+  <li><strong>Community Connectors:</strong> Active engagement within internal communities keeps architects informed and contributes to the collective knowledge pool.</li>
+  <li><strong>Industry Influencers:</strong> By being visible externally, architects learn from and influence the broader industry, bringing in fresh perspectives and establishing their organization as a thought leader.</li>
 </ul>
 
-<p>In summary, while architects stay close to the technology, they must ensure it’s working for the business and customers, not the other way around. By keeping everyone in the loop and aligned, architects help steer clear of the many pitfalls of misalignment and keep the organizational machine running smoothly.</p>
+<p>Superglue architects are essential for the seamless operation of large and complex IT organizations. Unlike superheroes who save the day with dramatic rescues, superglue architects ensure continuous, smooth operation by connecting the dots across various organizational aspects. They are the unsung heroes who keep the entire machine running smoothly without the need for capes or dramatic flair.</p>
 
-<p><br /></p>
-<h2 id="superglue-abilities">Superglue Abilities</h2>
+<p>So, instead of looking for a cape, IT architects should focus on becoming the superglue that holds everything together, ensuring stability, coherence, and progress within their organizations. Think of them as the organizational equivalent of duct tape—versatile, indispensable, and always ready to fix the seemingly unfixable.</p>
 
-<p>Setting the architects’ goals to be “superglue” also requires some thought on developing architects as superglue. Borrowing from Gregor Hohpe’s view on architect development from his book <em>Software Architecture Elevator</em>, I share the view that our architects should stand on three legs (Figure 4):</p>
+<h2 id="superglueing-in-action-reducing-tensions">Superglueing in Action: Reducing Tensions</h2>
+
+<p>The primary value of superglue architects in complex organizations lies in their uncanny ability to align business, product, technology, and organizational functions. In practice, technology, product, organization, and business functions face specific challenges and change at different rates. Ideally, these structures should evolve simultaneously, staying in perfect sync like a well-rehearsed dance troupe. However, reality often resembles a poorly synchronized flash mob, full of tension and missteps, as illustrated in Figure 2.</p>
+
+<p><img src="assets/images/tension.png" alt="Tensions Between Functions" />
+<em><strong>Figure 2:</strong> The tensions between technology, product, organization, and business functions.</em></p>
+
+<p>Imagine an organization where the teams are designed based on a well-defined domain model. Sounds great, right? Now, throw in a monolithic IT system that forces teams to collaborate in ways that resemble a traffic jam. The result? Chaos and inefficiency.</p>
+
+<p>Now, flip the script: teams are aligned with a microservices architecture, each owning their service domains. However, the product architecture groups feature differently, causing a simple product change to resemble a game of “Whac-A-Mole” across dozens of services.</p>
+
+<p>And let’s not forget when business objectives are as aligned as a roundabout during rush hour. In one minute, the goal is to slash costs at all costs; in the next, to add new features and migrate to the public cloud. These conflicting objectives make different parts of the organization feel like they’re playing tug-of-war—without a rope.</p>
+
+<p>The main problem with the tension between technology, product, organization, and business functions is that it can significantly impede progress. Miscommunication or misalignments can turn simple tasks into bureaucratic nightmares. Furthermore, these issues can introduce overwhelming and unnecessary complexity, causing critical missed opportunities.</p>
+
+<p>Enter the superglue architects acting as your favorite multitool’s organizational equivalent (Figure 3). They facilitate communication and collaboration across different domains, ensuring that changes in one area are understood and accommodated in others. In other words, they keep the chaos at bay and make sure everyone’s dance steps are in sync.</p>
+
+<p><img src="assets/images/tension-architecture.png" alt="Architects Reducing Tensions" />
+<em><strong>Figure 3:</strong> Architects should be in the middle of reducing tensions between technology, product, organization, and business functions.</em></p>
+
+<p>Superglue architects are navigating the wild complexities of modern organizations. They ensure that the various architectures—business, product, technology, or organizational design—don’t just coexist but thrive together. This holistic approach reduces tension and misalignment, making the organization run smoother than butter on hot toast.</p>
+
+<p>Acting as superglue, the architects can effectively reduce tension among technology, product, organization, and business functions. This act includes facilitating critical conversations between these units and ensuring alignment and cohesion. As depicted in Figure 3, the goal of architecture is not to add new constructs between these four elements, but to bring them closer together. By fostering closer relationships and better communication, architects can help these elements work in unison rather than at cross purposes.</p>
+
+<p>Architects must actively engage with all stakeholders, translating technical jargon into business-friendly terms. For example, if the business wants to cut costs, architects highlight how it might impact product timelines or technical debt. Similarly, if new tech is introduced, architects ensure it aligns with product goals and organizational capabilities.</p>
+
+<p>Ironically, the more successful superglue architects are in their role, the less visible their needs become. But fear not—this doesn’t make architecture redundant; it evolves the practice to be the invisible hand that keeps everything running smoothly, embedded in the daily operations of the organization. So, superglue architects, your true superpower is keeping everything stuck together!</p>
+
+<h2 id="superglue-impact">Superglue Impact</h2>
+
+<p>Tensions among technology, product, organization, and business functions can slow down progress, lead to poor decisions, introduce complexity, and cause missed opportunities. Acting as superglue, architects can mitigate these issues by fostering better communication and alignment among these elements. The goal is not to create new barriers but to bring these functions closer together, ensuring a cohesive and efficient operation. This approach may appear to diminish the need for a formal architecture practice, but in reality, it transforms the role into one integral to the organization’s success.</p>
+
+<p>While staying close to technology (the engine room), architects must ensure that technology serves the needs of customers and the business and that technical architecture is well-aligned with organizational design. At the same time, architects can help ensure that business, product, and organizational designs are well-informed about the state, risks, and opportunities of an organization’s technology to avoid creating impractical strategies, setting unrealistic goals, or missing opportunities.</p>
+
+<p>Misalignment between these elements can introduce several key risks, which architects need to be aware of and mitigate:</p>
+
+<ul>
+  <li>
+    <p><strong>Building the Wrong Products:</strong> If technology implementation is based on incorrect assumptions, you might create a product that doesn’t meet the actual needs. Misalignment can lead to producing irrelevant solutions, like trying to sell snow boots in the Sahara.</p>
+  </li>
+  <li>
+    <p><strong>Wrong Prioritization of Activities:</strong> Without clear business and product metrics, resources might be directed towards developing “interesting” but non-valuable products. Proper alignment ensures development efforts are focused on initiatives that add real value, not on quirky side projects.</p>
+  </li>
+  <li>
+    <p><strong>Unexpected Delivery Delays:</strong> Misalignment can lead to underestimating projects’ complexity, effort, and dependencies, causing significant delays. This misalignment can make a project feel perpetually stuck, like being in a time loop where unforeseen obstacles continuously hinder progress.</p>
+  </li>
+  <li>
+    <p><strong>Duplication of Effort:</strong> Without harmonization across business and product strategies, efforts may be duplicated, leading to inefficiencies. This duplication is akin to repeatedly reinventing the wheel, which is wasteful and counterproductive.</p>
+  </li>
+  <li>
+    <p><strong>Building Too Complex Products:</strong> Overly complex and configurable systems can be developed to address all possible scenarios, resulting in cumbersome solutions where simpler, more harmonized approaches would suffice. This complexity is like using a Swiss Army knife when only a spoon is needed—overkill and overly complicated.</p>
+  </li>
+  <li>
+    <p><strong>Overengineering:</strong> Without pushback to simplify products and a lack of understanding of the technology, overengineering can occur. Imagine using a monster truck for a grocery run—impressive, but entirely unnecessary.</p>
+  </li>
+  <li>
+    <p><strong>Building Too Simple, Unscalable Products:</strong> Assuming processes will be simplified and harmonized when, in reality, essential complexity needs to be supported, can lead to fragile systems. It’s like building a house of cards lacking robustness and scalability.</p>
+  </li>
+  <li>
+    <p><strong>Building Low-Quality Products:</strong> Unnecessary complexity and lack of critical knowledge and expertise can lead to low-quality products that fail under pressure, like a dollar-store umbrella in a hurricane. Ensuring quality requires aligning expertise and simplifying designs where possible.</p>
+  </li>
+  <li>
+    <p><strong>Complicated Dependencies Between Teams:</strong> Suboptimal organizational design and lack of awareness of system and team dependencies can slow down coordination, creating a bureaucratic nightmare. Efficient team structures and clear communication channels are crucial to maintaining momentum.</p>
+  </li>
+  <li>
+    <p><strong>Creating Fragile, Unsustainable Team Structures:</strong> Relying on a small number of developers for critical technologies can make teams extremely vulnerable. Building resilient team structures with adequate support and redundancy is essential.</p>
+  </li>
+</ul>
+
+<p>While architects stay close to the technology, they must ensure it works for the business and customers, not the other way around. By keeping everyone in the loop and aligned, architects help clear the many pitfalls of misalignment and keep the organizational machine running smoothly. Their role is to facilitate communication, ensure alignment, and guide the organization toward cohesive and practical solutions, preventing the myriad risks associated with misalignment.</p>
+
+<h2 id="superglue-powers">Super(glue) Powers</h2>
+
+<p>Setting the architects’ goals to be “superglue” also requires some thought on developing architects as superglue. Borrowing from Gregor Hohpe’s view on architect development from his book <em>Software Architecture Elevator</em>, I share the view that our architects should stand on three legs:</p>
 
 <ul>
   <li>Skills</li>
@@ -1686,20 +1732,17 @@ While technology, product, organization, and business functions face challenges,
   <li>Leadership</li>
 </ul>
 
-<p><img src="assets/images/superglue/architect-skills.png" alt="Architect Profile" />
-<em><strong>Figure 4:</strong> Architect Profile: Skills + Impact + Leadership.</em></p>
-
 <h3 id="skills">Skills</h3>
 
 <p>Architects must have a solid skill set, possessing both knowledge and the ability to apply relevant knowledge in practice. These skills should include technical (e.g., cloud architecture or Kubernetes technology) as well as communication and influence skills.</p>
 
 <p>A typical skillset of an architect includes:</p>
 <ul>
-  <li><strong>Hard (technical) skills</strong>, including extensive knowledge of both new technology and legacy technology stacks,</li>
-  <li><strong>Soft skills</strong>,</li>
-  <li><strong>Product development knowledge</strong>,</li>
-  <li><strong>Business domain knowledge</strong>, and</li>
-  <li><strong>Decision-making skills</strong>.</li>
+  <li><strong>Hard (technical) skills</strong>: including extensive knowledge of both new technology and legacy technology stacks,</li>
+  <li><strong>Soft skills</strong>: like the ability to calm a panicking developer or decode the cryptic language of a business executive,</li>
+  <li><strong>Product development knowledge</strong>: knowing what makes a product tick,</li>
+  <li><strong>Business domain knowledge</strong>: understanding those endless spreadsheets,</li>
+  <li><strong>Decision-making skills</strong>: choosing the right path, even when both options look doomed.</li>
 </ul>
 
 <p>The section <a href="skills">Skills</a> provides more details.</p>
@@ -1735,13 +1778,14 @@ While technology, product, organization, and business functions face challenges,
 
 <p>The section <a href="leadership">Leadership</a> provides more details.</p>
 
-<h3 id="balanced-development">Balanced Development</h3>
+<h3 id="balanced-powers">Balanced Powers</h3>
 
-<p>Architects must have a <strong>minimal “length”</strong> of all of these “legs” to be successful (Figure 5). For instance, having skills and impact without leadership frequently leads to <strong>hitting a glass ceiling</strong>. Such architects plateau at an intermediate level and cannot direct the company to innovative or transformative solutions. Leadership without impact lacks foundation and may signal that you have become an <strong>ivory tower architect</strong> with a weak relation to reality. And having impact and leadership qualities but no skills leads to <strong>impractical decisions</strong> not informed by in-depth knowledge.</p>
+<p>Architects must have a <strong>minimal “length”</strong> of all of these “legs” to be successful (Figure 4). For instance, having skills and impact without leadership frequently leads to <strong>hitting a glass ceiling</strong>. Such architects plateau at an intermediate level and cannot direct the company to innovative or transformative solutions. Leadership without impact lacks foundation and may signal that you have become an <strong>ivory tower architect</strong> with a weak relation to reality. And having impact and leadership qualities but no skills leads to <strong>impractical decisions</strong> not informed by in-depth knowledge.</p>
 
-<p>In summary, developing architects as “superglue” means fostering a balanced combination of skills, impact, and leadership. Just like a three-legged stool, if one leg is too short, the whole thing topples over—quite possibly spilling your coffee in the process.
-<img src="assets/images/arch/architect-legs.png" alt="" />
-<em><strong>Figure 5:</strong> Architects must have a minimal “length” of all “legs” to be successful.</em></p>
+<p>In summary, developing architects as “superglue” means fostering a balanced combination of skills, impact, and leadership. Just like a three-legged stool, if one leg is too short, the whole thing topples over—quite possibly spilling your coffee in the process.</p>
+
+<p><img src="assets/images/arch/architect-legs.png" alt="" />
+<em><strong>Figure 4:</strong> Architects must have a minimal “length” of all “legs” to be successful.</em></p>
 
 <h2 id="questions-to-consider">Questions to Consider</h2>
 

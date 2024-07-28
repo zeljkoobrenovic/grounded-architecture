@@ -74,7 +74,7 @@ Image by iStock
 > * Examples of activities include: supporting teams in their daily work; tracking tech debt, defining tech debt reduction programs; performing technical due diligence; standardizing processes and documentation; defining cloud, data, and platform strategies.
 
 ### Transforming Organizations with Grounded Architecture
-> * When a Grounded Architecture structure is in place, it can positively transform an organization's functioning.
+> * When a Grounded Architecture framework is in place, it can positively transform an organization's functioning.
 > * These impact categories are Executing At Scale, Improving the Quality of Decision-Making with Data, Maximizing Organizational Alignment & Learning, and Higher Adaptivity.
 
 ## On Being Architect

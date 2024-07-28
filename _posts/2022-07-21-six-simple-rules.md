@@ -1,11 +1,11 @@
 ---
 layout: post
-section: "On Organizational Factors"
-title: "Cooperation-Based Organizations: Six Simple Rules"
+section: "On Human Complexity"
+title: "Six Simple Rules"
 position: 7021
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
-icon: six.png
+icon: org-alignment.png
 permalink: six-simple-rules
 timetoread: 11 min
 excerpt: "The Six Simple Rules approach emphasizes that in today’s complicated business environment, you must set up organizational structures based on cooperation. To deal with complexity, organizations should depend on the judgment of their people and on these people cooperating to utilize the organization's capabilities to cope with complex problems. This view is well aligned with the ideas of Grounded Architecture."
@@ -56,7 +56,7 @@ In this chapter, I explore how Grounded Architecture and Six Simple Rules are be
 
 
 <br>
-## Background: Limitations of Hard and Soft Management Approaches
+## Limitations of Hard and Soft Management
 
 One of the Six Simple Rules' central premises is that **conventional management approaches**, which the authors split into hard and soft, are neither sufficient nor appropriate for the complexity of organizations nowadays.  
 

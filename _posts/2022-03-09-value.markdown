@@ -1,6 +1,6 @@
 ---
 layout: post
-section: "Structure"
+section: "Grounded Architecture Framework"
 title: "Transforming Organizations with Grounded Architecture"
 position: 3009
 date:   2021-10-21 21:12:01 +0100
@@ -8,7 +8,7 @@ author: by Željko Obrenović (obren.io)
 permalink: transformation
 icon: value.png
 timetoread: 15 min
-excerpt: "When Grounded Architecture structure is in place, it can have a significant positive impact on the functioning of an organization: Executing At Scale, Adaptivity, Improving the Quality of Decision-Making with Data, Maximizing Organizational Alignment & Learning."
+excerpt: "When Grounded Architecture framework is in place, it can have a significant positive impact on the functioning of an organization: Executing At Scale, Adaptivity, Improving the Quality of Decision-Making with Data, Maximizing Organizational Alignment & Learning."
 
 ---
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
@@ -20,7 +20,7 @@ Image by iStock
 > 
 > **KEY POINTS:**
 >
-> * When a Grounded Architecture structure is in place, it can positively transform an organization's functioning.
+> * When a Grounded Architecture framework is in place, it can positively transform an organization's functioning.
 > * These impact categories are Executing At Scale, Improving the Quality of Decision-Making with Data, Maximizing Organizational Alignment & Learning, and Higher Adaptivity.
 <style>
  .quote {
@@ -40,7 +40,7 @@ Image by iStock
 </style>
 
 <br>
-When a Grounded Architecture structure is in place, it can positively transform an organization's functioning. These categories of impact, aligned with [defined goals](goals), are: 
+When a Grounded Architecture framework is in place, it can positively transform an organization's functioning. These categories of impact, aligned with [defined goals](goals), are: 
 
 * Enabling Execution of Architecture Function At Scale,
 * Increasing Architecture Function Adaptivity,
@@ -97,7 +97,7 @@ The second goal, ensuring that architectural functions can adapt quickly to stay
 Image by <a href="https://pixabay.com/users/painter06-3732158/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3388163">Francis Ray</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3388163">Pixabay</a>
 </div>
 
-The Grounded Architecture structure has core elements that provide a highly flexible and adaptive setting. Here are the key drivers of flexibility within this structure:
+The Grounded Architecture framework has core elements that provide a highly flexible and adaptive setting. Here are the key drivers of flexibility within this structure:
 
 ### Data Foundation
 
@@ -211,7 +211,7 @@ Image by iStock
 </div>
 
 
-The Grounded Architecture structure offers comprehensive support through its Data Foundation, People Foundation, and Architecture Activities Platform to help organizations learn quickly, stay up-to-date with emerging technologies, and recommend technology upgrades.
+The Grounded Architecture framework offers comprehensive support through its Data Foundation, People Foundation, and Architecture Activities Platform to help organizations learn quickly, stay up-to-date with emerging technologies, and recommend technology upgrades.
 
 ### Data Foundation
 The Data Foundation plays a pivotal role in accelerating the learning and adoption of new technologies. Here's how:
@@ -231,7 +231,7 @@ The Architecture Activities Platform integrates learning into daily workflows th
 - **Embedding Learning into Processes**: Learning is accelerated by embedding it into the organization's processes. This is achieved by defining and distributing knowledge-sharing and lesson-learned processes across the organization. By doing so, learning becomes a seamless part of daily activities rather than an additional task. 
 - **Systematic Knowledge Capture and Application**: The platform ensures that knowledge is systematically captured, shared, and applied. This approach minimizes overhead while maximizing learning opportunities, enabling the organization to quickly adapt and apply new insights and technologies.
 
-By leveraging the Data Foundation, People Foundation, and Architecture Activities Platform, the Grounded Architecture structure ensures that learning is continuous, efficient, and embedded within the organization's fabric. This comprehensive support system helps organizations stay up-to-date with emerging technologies and industry trends and fosters a proactive learning environment that drives innovation and growth.
+By leveraging the Data Foundation, People Foundation, and Architecture Activities Platform, the Grounded Architecture framework ensures that learning is continuous, efficient, and embedded within the organization's fabric. This comprehensive support system helps organizations stay up-to-date with emerging technologies and industry trends and fosters a proactive learning environment that drives innovation and growth.
 
 
 <br>

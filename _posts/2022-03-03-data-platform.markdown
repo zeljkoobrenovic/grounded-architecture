@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Data Foundation"
-section: "Structure"
+section: "Grounded Architecture Framework"
 position: 3004
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)

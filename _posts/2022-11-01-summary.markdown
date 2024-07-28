@@ -11,7 +11,7 @@ timetoread: 15 min
 excerpt: This playbook aims to share my approach to running an IT architecture practice in larger organizations based on my experience as Chief Architect at AVIV Group, eBay Classifieds, and Adevinta.
 
 ---
-<img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/iStock-462294849.jpg">
+<img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/iStock-496666941.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by iStock
 </div>
@@ -62,23 +62,32 @@ Lastly, the *[Architecture Activities Platform](activities)*  defines a set of p
 As a part of my work on Grounded Architecture, I also provided several guiding principles and tools that I found helpful to introduce the ideas of Grounded Architecture in practice. I grouped these resources into several parts:
 
 * [**On Being an Architect**](being-architect):
-  * [Architects as Superglue](superglue)
-  * [Skills](skills)
-  * [Impact](impact)
+  * [Mindset: Architects as Superglue](superglue)
+  * [Building Skills](skills)
+  * [Making Impact](impact)
   * [Architects' Career Paths](career)
 * [**On Soft Skills**](soft-skills):
   * [The Culture Map: Architects' Culture Mindfield Compass](culture-map)
-  * [Effective Communication](communication)
   * [Leadership](leadership)
 * [**On Decision-Making**](decision-making):
   * [Decision Intelligence in IT Architecture](decision-intelligence)
   * [The Human Side of Decision-Making](human-decisions)
   * [Economic Modeling: ROI and Financial Options](economics)
+* [**On Human Complexity**](complexity):
   * [Effortless Architecture](effortless)
-* [**On Organizational Factors**](organizations):
-  * [Cooperation-Based Organizations: Six Simple Rules](six-simple-rules)
+  * [Six Simple Rules](six-simple-rules)
+* [**On Execution and Governance**](complexity):
   * [Product-Led Organizations](product) 
-  * [Organizational Governance: Nudge, Taxation, Mandates](governance)
+  * [Governance: Nudge, Taxation, Mandates](governance)
+
+If all this is not enough, in the appendix I outline several resources that have proven vital in my journey as an IT architect and have reminded me about what I always need to know about crucial aspects of IT practice:
+
+* [EIC/ISO 25010 Standard](concepts-iso25010)
+* [Cloud Design Patterns](concepts-cloud)
+* [Characteristics of High Performing Organizations](concepts-org)
+* [Resources for Managing, Growing, and Hiring Architects](career-resources)
+* [Resources for Effective Communication](communication)
+* [Building Data Foundation Website: Lean Design Patterns and Techniques (Online Only)](data-website)
 
 When Grounded Architecture is in place, it can have a significant [positive impact](impact) on the functioning of an organization:
 

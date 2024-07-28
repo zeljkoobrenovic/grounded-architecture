@@ -51,7 +51,7 @@ h3 {
 <br>
 
 
-My approach to architecture leadership draws inspiration from two sources: **[David Marquet's](https://davidmarquet.com/) leadership principles**, as articulated in his book "Turn the Ship Around!" and Netflix's valued behaviors. Marquet's ideas emphasize empowering team members, providing clarity, decentralizing decision-making, striving for continuous improvement, and practicing servant leadership. Meanwhile, **[Netflix's valued behaviors](https://jobs.netflix.com/culture)** offer useful guidance for coaching and developing architects aligned with the "superglue" version.
+My approach to architecture leadership draws inspiration from two standout sources: **[David Marquet's](https://davidmarquet.com/) leadership principles**, brilliantly articulated in his book "Turn the Ship Around!", and Netflix's valued behaviors. Marquet's ideas are all about empowering team members, providing clarity, decentralizing decision-making, striving for continuous improvement, and practicing servant leadership. Meanwhile, **[Netflix's valued behaviors](https://jobs.netflix.com/culture)** offers a masterclass in coaching and developing architects to develop the "superglue" mindset that holds teams together and drives success. Together, these resources form a robust framework for leading with insight and influence in the IT architecture.
 
 ## David Marquet's Work: The Leader-Leader Model
 

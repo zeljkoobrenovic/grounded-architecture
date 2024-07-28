@@ -1,6 +1,6 @@
 ---
 layout: post
-section: "Structure"
+section: "Grounded Architecture Framework"
 title: "Architecture Activities Platform"
 position: 3006
 date:   2021-10-21 21:12:01 +0100
@@ -196,9 +196,9 @@ Golden Paths can be crucial to an organization's IT development landscape as a d
 One of the amusing challenges with setting up an architecture function in an organization is that everyone seems to have a different idea of what "architecture" should entail. It's like asking people to describe a unicorn: some imagine a mythical, majestic creature, while others picture a sparkly horse with a horn that grants wishes. Good architects can do many things, but this versatility might not always be the most effective way to support the organization. We need to **set boundaries** so that we can focus on what's important rather than becoming frazzled by what's not.
 
 <br>
-![](assets/images/unicorn.png)
+![](assets/images/iStock-92285726.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by <a href="https://pixabay.com/users/gdj-1086657/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1302152">Gordon Johnson</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1302152">Pixabay</a>
+Image by iStock
 </div>
 <br>
 

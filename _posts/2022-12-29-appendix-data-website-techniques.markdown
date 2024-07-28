@@ -2,7 +2,7 @@
 layout: post
 section: "Appendix"
 title: "Building Data Foundation Website: Lean Design Patterns and Techniques"
-position: 12126
+position: 12129
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 permalink: data-website

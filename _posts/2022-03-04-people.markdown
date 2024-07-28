@@ -1,6 +1,6 @@
 ---
 layout: post
-section: "Structure"
+section: "Grounded Architecture Framework"
 title: "People Foundation"
 position: 3005
 date:   2021-10-21 21:12:01 +0100

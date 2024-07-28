@@ -5,7 +5,7 @@ title: "Cloud Design Patterns"
 position: 12115
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
-permalink: concepts-cloud
+permalink: cloud-design-patterns
 icon: cloud-patterns.png
 timetoread: 15 min
 excerpt: A mix of key distributed and messaging system topics combined with modern public cloud engineering themes.
