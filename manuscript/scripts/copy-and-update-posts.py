@@ -119,7 +119,7 @@ posts = [
     '2022-07-21-six-simple-rules.md',
     '2022-09-20-organizations.markdown',
     '2022-09-23-product.md',
-    '2022-09-24-governance.markdown'
+    '2022-09-24-governance.markdown',
     '2022-11-01-summary.markdown'
 ]
 
