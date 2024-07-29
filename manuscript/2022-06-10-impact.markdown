@@ -1,6 +1,6 @@
 
 
-# Impact {#impact}
+# Making Impact {#impact}
 
 ![](assets/images/iStock-980883274.jpg)
 ^image by istock^
@@ -13,89 +13,120 @@ A> **KEY POINTS:**
 A> * Architects' work is evaluated based on their impact on the organization. 
 A> * Architects can make an impact via three pillars: Big-Picture Thinking, Execution, and Leveling-Up.
 
-Architects’ work is evaluated based on **their impact on the organization**. Architects typically make an impact by:
+Architects' work is evaluated based on **their impact on the organization**. Their contributions are typically assessed through the following key areas:
 
-* **Identifying, tackling, and delivering on strategic problems** at the organization and area levels (domain or technical
-  areas). Architects' work needs to be prioritized based on global strategic objectives.
-* **Having a deep and broad influence** on a domain, product, or technology area. Architects sometimes need to go deep,
-  addressing specific critical issues in one area. And frequently, that needs to look broad, creating impact by leveraging
-  the results across multiple teams.
-* **Delivering solutions that few others can**, sometimes by their heavy lifting but more often by their ability to 
-  orchestrate extensive group efforts. Architects can help move the organization forward by leveraging their hard technical skills and soft strategic, execution, and people skills.
+* **Identifying, Tackling, and Delivering on Strategic Problems**: Architects are responsible for recognizing and addressing strategic issues at both the organizational and area-specific levels (such as domains or technical areas). Their work must align with the broader strategic objectives of the organization, ensuring that their efforts are prioritized to support global goals. By tackling these strategic problems, architects contribute to the overall direction and success of the organization, providing solutions that align with long-term visions and targets.
 
-To make this impact, architects need a few key competencies.
+* **Having a Deep and Broad Influence**: Architects must have a profound and extensive impact on their specific domain, product, or technology area. This requires them to delve deeply into particular critical issues, providing targeted solutions that address pressing challenges. Simultaneously, they need to maintain a broad perspective, creating value by leveraging their solutions across multiple teams and projects. This dual focus ensures that their influence is both specific and widespread, enhancing the overall efficiency and effectiveness of the organization.
+
+* **Delivering Solutions that Few Others Can**: Architects are often tasked with providing solutions that are beyond the reach of others, either through their direct efforts or by orchestrating large-scale group endeavors. Their unique combination of hard technical skills and soft skills in strategy, execution, and people management enables them to navigate complex challenges and drive significant progress. By leveraging these skills, architects can move the organization forward, ensuring that the solutions they deliver are both innovative and implementable, fostering growth and development across the board.
+
+Architects make a significant impact by identifying and solving strategic problems, exerting deep and broad influence across domains, and delivering unique solutions through a blend of technical expertise and strategic leadership. This multifaceted approach ensures that their work is not only aligned with organizational objectives but also drives substantial progress and innovation.
 
 ## Pillars of Impact
 
-Architects must have [strong technical, people, and business skills](#skills), ideally obtained through years of practice. On top of this **strong foundation**, architects need to develop competencies that enable them to use their experiences and abilities to **impact organizational performance positively**. The more senior architects become, the more their competency development should be driven by the impact they need to have rather than mere skills development. I typically coach architects in the context of concrete activities, guiding their development via involvement in the proper set of actions and crafting skills developments based on challenges in making an expected impact in practice.
+Architects must possess **strong technical, people, and business skills**, which are ideally developed through extensive practice and experience. Building on this robust foundation, architects need to cultivate specific competencies that enable them to leverage their experiences and abilities to **positively impact organizational performance**. As architects advance in their careers, their competency development should be increasingly driven by the desired impact on the organization rather than solely on acquiring new skills. 
 
-I use Staff Engineering roles as an inspiration for the development of architects. Tanya Reilly's
-book [The Staff Engineer's Path](https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/) and Will
-Larson's book [Staff Engineer: Leadership beyond the management track](https://staffeng.com/guides/staff-archetypes/) are helpful guides in defining the responsibilities of architects.
+I typically coach architects within the framework of concrete activities, focusing on real-world challenges and guiding their development through hands-on involvement in appropriate actions. This practical approach helps tailor their skill development to address specific challenges and achieve the expected impact in practice.
 
-Inspired by The Staff Engineer's Path by Tanya Reilly, I group architects' impact-making competencies into three groups (Figure 1):
-
-* Big-picture thinking,
-* Execution, and
-* Leveling up.
+To develop architects, I draw inspiration from Staff Engineering roles. Tanya Reilly's book *[The Staff Engineer's Path](https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/)* and Will Larson's book *[Staff Engineer: Leadership beyond the management track](https://staffeng.com/guides/staff-archetypes/)* provide valuable insights into defining the responsibilities and expectations of architects.
 
 ![](assets/images/arch/pillars.png)
 ***Figure 1:** Key competencies of architects. Inspired by The Staff Engineer's Path by Tanya Reilly.*
 
+Inspired by *The Staff Engineer's Path* by Tanya Reilly (Figure 1), I categorize the competencies that enable architects to make an impact into three groups:
+
+* **Big-picture Thinking**: Architects need to develop the ability to see the broader context of their work. This involves understanding how their architectural decisions align with organizational goals, market trends, and technological advancements. Big-picture thinking allows architects to foresee potential challenges and opportunities, ensuring their designs are future-proof and scalable. This competency involves strategic planning, vision setting, and the ability to articulate how technical solutions contribute to overall business objectives.
+
+* **Execution**: Execution is about turning ideas into reality. Architects must be adept at implementing their designs and ensuring that projects are completed efficiently and effectively. This involves project management skills, the ability to coordinate with cross-functional teams, and a deep understanding of the technical intricacies involved in bringing a project to fruition. Architects must also be capable of troubleshooting issues, adapting to changes, and ensuring that the final deliverables meet the required standards and expectations.
+
+* **Leveling Up**: Leveling up refers to the continuous improvement of both the architect's skills and the capabilities of their teams. Architects must be committed to personal growth and the development of those around them. This involves mentoring junior team members, fostering a culture of learning, and staying abreast of the latest technological advancements and industry best practices. Architects should also focus on enhancing the overall skill set of their teams, ensuring that knowledge and expertise are shared and that the team collectively grows stronger and more capable.
+
+By focusing on these three competency groups—big-picture thinking, execution, and leveling up—architects can significantly enhance their impact on organizational performance. This structured approach to competency development ensures that architects are not only skilled practitioners but also strategic leaders capable of driving meaningful change and innovation within their organizations.
+
 ### Big-Picture Thinking 
 
-Architects are frequently the only people in the organization with **a "helicopter view,"** overseeing vast domains and being able to foresee the consequences of decisions in a broader context. As big-picture thinkers, architects can help organizations in multiple ways:
+Architects are often the only individuals within an organization who possess a **"helicopter view,"** allowing them to oversee vast domains and anticipate the broader consequences of decisions. 
 
-* Seeing the **big picture** can identify high-leverage points for maximum impact.
-* **Helping others to see the big picture** and create tools (e.g., [Data Foundation](#data)) that facilitate big-picture thinking.
-* Being able to **zoom in and out**, having a strategic overview, but being able to go deep and engage with implementation details.
-* Using big-picture thinking to **consistently root out inefficiencies** and lead the adoption of technologies and
-  processes that **make multiple teams more efficient**.
+![](assets/images/iStock-1145283550.jpg)
+^image by istock^
+
+This unique perspective positions them as crucial big-picture thinkers who can contribute to the organization in several significant ways:
+
+* **Identifying High-Leverage Points for Maximum Impact**: With their ability to see the big picture, architects can pinpoint areas within the organization where small changes or strategic investments can yield substantial benefits. This capability allows them to recommend and implement solutions that maximize impact, ensuring resources are allocated efficiently and effectively. By focusing on high-leverage points, architects can drive significant improvements in performance and productivity across the organization.
+
+* **Helping Others to See the Big Picture**: Architects can facilitate a broader understanding of the organizational landscape among their colleagues. By helping others see the big picture, they enable more informed decision-making at all levels. They can create tools and frameworks, such as a comprehensive [Data Foundation](#data), that promote big-picture thinking. These tools help team members understand how their work fits into the larger organizational context and the impact of their contributions. Through workshops, presentations, and collaborative tools, architects can disseminate their vision, fostering a culture of strategic awareness.
+
+* **Zooming In and Out**: Architects have the rare ability to both maintain a strategic overview and delve into implementation details when necessary. This flexibility allows them to bridge the gap between high-level strategy and on-the-ground execution. They can provide strategic guidance while also engaging deeply with technical teams to ensure that the finer details align with broader organizational goals. This dual capability ensures that strategic initiatives are feasible and that practical implementations stay aligned with the overall vision.
+
+* **Rooting Out Inefficiencies**: Using their big-picture perspective, architects are adept at identifying and eliminating inefficiencies within organizational processes and systems. They can lead the adoption of new technologies and processes that enhance the efficiency and effectiveness of multiple teams. By doing so, architects help streamline operations, reduce redundancies, and improve overall performance. This proactive approach to efficiency ensures that the organization remains competitive and can adapt to changing market conditions and technological advancements.
+
+Architects play a pivotal role in organizations by leveraging their helicopter view to identify high-leverage points, help others understand the big picture, seamlessly transition between strategic and detailed thinking, and root out inefficiencies. Their ability to see and act on the broader context makes them invaluable in driving organizational success and fostering a culture of strategic innovation.
 
 ### Execution
 
-As execution-focused practitioners, architects must be able to help deliver results and improve collaboration.
+As execution-focused practitioners, architects must not only deliver tangible results but also enhance collaboration across the organization. Their ability to combine technical expertise with pragmatic approaches and foster effective teamwork is crucial for achieving these goals. 
 
-Architects can help deliver results by combining their skills with a high dose of pragmatism:
-* **Create meaningful solutions** rather than theoretical ideals and models.
-* **Break down complex problems** to enable the delivery of impactful results.
-* **Craft pragmatic plans** by considering technical, logistical, and organizational constraints.
+![](assets/images/iStock-1887444236.jpg)
+^image by istock^
 
-Architects also can help execution by finding ways to enable others to collaborate and work better:
+Here’s how architects can excel in these areas:
 
-* **Creating alignment** and **improving collaboration** within their areas or the wider engineering organization.
-* **Collaborate meaningfully across groups** to build trust and increase execution speed.
+#### Delivering Results with Pragmatism
+
+Architects must blend their technical expertise with practical approaches to ensure their solutions are impactful and feasible. This involves creating meaningful solutions that address real-world problems and are implementable within the organizational context, breaking down complex issues into manageable components to facilitate smooth project progression, and crafting pragmatic plans that consider technical, logistical, and organizational constraints. By prioritizing practicality and feasibility, architects can ensure their contributions lead to tangible improvements and successful outcomes.
+
+* **Create Meaningful Solutions**: Architects should focus on developing solutions that are practical and impactful rather than getting caught up in theoretical ideals and models. These solutions must address real-world problems and be implementable within the current organizational context. By prioritizing practicality, architects ensure that their contributions lead to tangible improvements and benefits.
+
+* **Break Down Complex Problems**: To enable the delivery of impactful results, architects must be skilled at deconstructing complex issues into manageable components. This approach allows teams to tackle problems step-by-step, reducing overwhelm and increasing the likelihood of successful outcomes. By simplifying complexity, architects help ensure that projects progress smoothly and deliver the desired impact.
+
+* **Craft Pragmatic Plans**: When planning projects, architects must consider various constraints, including technical limitations, logistical challenges, and organizational dynamics. Pragmatic planning involves balancing ideal solutions with what is feasible given these constraints. This ensures that plans are realistic, actionable, and more likely to succeed in the real world.
+
+#### Enhancing Collaboration
+
+Architects play a crucial role in fostering effective collaboration and creating alignment within their teams and across the broader engineering organization. This involves ensuring that all stakeholders are on the same page regarding strategic objectives and how their work supports these goals, which is achieved through clear communication and shared understanding. Additionally, architects work to improve collaboration by facilitating communication, coordinating efforts, and resolving conflicts to promote smooth cooperation. By engaging meaningfully with various teams and departments, architects build trust and enhance execution speed, leading to better overall productivity and execution.
+
+* **Creating Alignment**: Architects play a key role in creating alignment within their teams and the broader engineering organization. This involves ensuring that all stakeholders understand the strategic objectives and how their work contributes to these goals. Clear communication and shared understanding help align efforts and focus resources on common objectives.
+
+* **Improving Collaboration**: Architects must work to improve collaboration both within their teams and across different groups in the organization. This can involve facilitating communication, coordinating efforts, and resolving conflicts to ensure smooth cooperation. By fostering a collaborative environment, architects help teams work more effectively together, leading to better execution and faster results.
+
+* **Collaborating Meaningfully Across Groups**: Architects should actively engage with various teams and departments to build trust and improve execution speed. Meaningful collaboration involves understanding the needs and perspectives of different groups and finding ways to integrate their efforts. Building trust through consistent, open communication and by demonstrating reliability helps break down silos and enhances overall productivity.
+
+As execution-focused practitioners, architects must blend their technical skills with a pragmatic approach to deliver meaningful solutions and break down complex problems. They must also play a vital role in creating alignment and improving collaboration within and across teams. By doing so, they not only achieve impactful results but also enhance the overall efficiency and effectiveness of the organization.
 
 ### Leveling Up
 
-Many frequently see architects as leaders and role models that should help organizations to raise 
-the bar on the technical and cultural fronts. I group such role of an architect into three categories:
-citizenship, design and architecture, and software engineering.
+Architects are often seen as leaders and role models who can help organizations raise the bar on both technical and cultural fronts. 
+
+![](assets/images/iStock-968924118.jpg)
+^image by istock^
+
+Their role can be categorized into three key areas: citizenship, design and architecture, and software engineering.
 
 #### Citizenship
 
-Architects should look broader and raise the bar of practices and behaviors in their organizations:
+Architects should look beyond their immediate responsibilities and work to elevate practices and behaviors across their organizations:
 
-* **Contribute to the broader technical community** through tech talks, education, publications, open-source projects,
-  etc.
-* **Have influence that extends** beyond their organization and reaches the industry at large.
-* **Lead efforts** that solve **important problems** in their areas.
-* **Raise the bar** of the engineering culture across the company.
+* **Contribute to the broader technical community** through tech talks, education, publications, and open-source projects. This involvement helps spread knowledge and innovation.
+* **Extend their influence** beyond their organization to make an impact on the industry at large, sharing insights and best practices that benefit a wider audience.
+* **Lead efforts** to solve **significant problems** in their areas, demonstrating leadership and commitment to continuous improvement.
+* **Elevate the engineering culture** within the company, fostering an environment of excellence and continuous learning.
 
 #### Design and Architecture
 
-Architects are leading authority for systematic and strategic design and architecture topics:
+As leading authorities on systematic and strategic design, architects play a critical role in shaping the architecture of their organizations:
 
-* **Identify and solve systemic architectural problems**. Architects quickly
-  recognize systemic problems and can **articulate possible solutions** to them.
-* **Improve the definition of best practices** and architecture with deep domain knowledge.
+* **Identify and solve systemic architectural problems** by quickly recognizing issues and articulating possible solutions. Their ability to address these challenges ensures the stability and scalability of systems.
+* **Improve the definition of best practices** in design and architecture through their deep domain knowledge, ensuring that standards are maintained and enhanced over time.
 
 #### Software Engineering
 
-Lastly, architects can help by staying well-connected to software engineering practice, leveraging their experience to:
+Architects also stay deeply connected to software engineering practices, leveraging their experience to enhance technical execution:
 
-* **Promote and demonstrate best-in-class** of code, documentation, testing, and monitoring practices.
-* **Solve challenging technical and execution problems** that few others can.
+* **Promote and demonstrate best-in-class practices** in coding, documentation, testing, and monitoring. By setting high standards, they ensure that quality and efficiency are prioritized.
+* **Solve challenging technical and execution problems** that few others can, using their expertise to tackle issues that require advanced skills and innovative thinking.
+
+By excelling in these areas, architects can significantly contribute to raising the technical and cultural standards of their organizations, leading by example and driving continuous improvement across all levels.
 
 ## Questions to Consider
 

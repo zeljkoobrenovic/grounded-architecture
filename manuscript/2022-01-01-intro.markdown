@@ -2,7 +2,7 @@
 
 # Introduction {#intro}
 
-![](assets/images/arch/staircase-274614_1920.jpg)
+![](assets/images/arch/iStock-462294849.jpg)
 ^image by fda54 from pixabay^
 
 **IN THIS SECTION, YOU WILL:** Understand what this book is about and how to use it.
@@ -21,16 +21,16 @@ The approach presented in this book connects architecture to every nook and cran
 The name "Grounded Architecture" is a hat-tip to the [Grounded Theory](https://en.wikipedia.org/wiki/Grounded_theory) methodology. Grounded Theory is about developing theories straight from the data you gather from the real world rather than pulling them out of thin air. Likewise, Grounded Architecture evolves from honest feedback and data, not from some dusty old book of abstract principles.
 
 This book breaks down Grounded Architecture into two main parts:
-* **Structure:** The nuts and bolts you need to get your Grounded Architecture practice up and running.
+* **Framework:** The nuts and bolts you need to get your Grounded Architecture practice up and running.
 * **Guiding Principles:** Handy tips and inspirations to help you bring these ideas to life.
 
-Figure 1 shows the structure of the Grounded Architecture consisting of three elements:
+Figure 1 shows the Grounded Architecture framework consisting of three elements:
 * [Data Foundation](#data),
 * [People Foundation](#people),
 * [Architecture Activities Platform](#activities).
 
 ![](assets/images/model.png)
-***Figure 1:** The structure of Grounded Architecture.*
+***Figure 1:** The Grounded Architecture framework.*
 
 The *[Data Foundation](#data)* keeps your architecture decisions based on up-to-date and complete information about your organization's tech landscape.
 
@@ -38,32 +38,41 @@ The *[People Foundation](#people)* represents a strong network of people working
 
 Lastly, the *[Architecture Activities Platform](#activities)* defines a collection of processes and agreements that lets architects do their thing, leveraging data and people to create a powerful, organization-wide impact.
 
-As part of my Grounded Architecture quest, I've devised several guiding principles and tools to help you sprinkle Grounded Architecture magic in your practice. These resources are grouped into several parts and are sure to make your journey both insightful and entertaining:
+As part of my Grounded Architecture quest, I've devised several guiding principles and tools to help you sprinkle Grounded Architecture magic in your practice. While traditional IT architecture literature often zeros in on technical know-how, this collection dares you to think differently about IT architecture and to dive into the rich insights of social, behavioral, and management sciences. These resources are grouped into several parts and are sure to make your journey both insightful and entertaining:
 
 * [**On Being an Architect**](#being-architect):
-  * [Architects as Superglue](#superglue)
-  * [Skills](#skills)
-  * [Impact](#impact)
+  * [Mindset: Architects as Superglue](#superglue)
+  * [Building Skills](#skills)
+  * [Making Impact](#impact)
   * [Architects' Career Paths](#career)
-* [**On Soft Skills**](soft-skills):
+* [**On Soft Skills**](#soft-skills):
   * [The Culture Map: Architects' Culture Mindfield Compass](#culture-map)
-  * [Effective Communication](communication)
   * [Leadership](#leadership)
-* [**On Decision-Making**](decision-making):
+* [**On Decision-Making**](#decision-making):
   * [Decision Intelligence in IT Architecture](#decision-intelligence)
   * [The Human Side of Decision-Making](#human-decisions)
   * [Economic Modeling: ROI and Financial Options](#economics)
+* [**On Human Complexity**](#complexity):
   * [Effortless Architecture](#effortless)
-* [**On Organizational Factors**](organizations):
-  * [Cooperation-Based Organizations: Six Simple Rules](#six-simple-rules)
+  * [Six Simple Rules](#six-simple-rules)
+* [**On Execution and Governance**](#complexity):
   * [Product-Led Organizations](#product) 
-  * [Organizational Governance: Nudge, Taxation, Mandates](#governance)
+  * [Governance: Nudge, Taxation, Mandates](#governance)
+
+If all this is not enough, in the appendix I outline several resources that have proven vital in my journey as an IT architect and have reminded me about what I always need to know about crucial aspects of IT practice. I routinely refer back to them and carry them in my practitioner "backpack," so I added their summaries in the appendix, including:
+
+* [Resources for Managing, Growing, and Hiring Architects](career-resources)
+* [Resources for Effective Communication](communication)
+* [EIC/ISO 25010 Standard](concepts-iso25010)
+* [Cloud Design Patterns](concepts-cloud)
+* [Characteristics of High Performing Organizations](concepts-org)
+* [Building Data Foundation Website: Lean Design Patterns and Techniques (Online Only)](data-website)
 
 The rest of this book will explain the Grounded Architecture approach in detail. In this section, I want to share a few things about my motivation to write this book.
 
 ## What Will You Learn?
 
-The three parts of the book (Structure, Being an Architect, and Doing Architecture) correspond to the aspects of work of **Chief Architects** or **Heads of Architecture** that need to set up and run modern IT architecture practices:
+Different parts of the book correspond to the aspects of work of **Chief Architects** or **Heads of Architecture** that need to set up and run modern IT architecture practices:
 
 * Create organizational and technical **structures** to  support IT architecture work,
 * Define IT **architecture roles** and responsibilities, skills, and career paths,
@@ -158,13 +167,13 @@ Lastly, my hands-on experience as a **software developer** has proven invaluable
 
 I have organized the book into several main parts. In the introductory part, I describe the context in which my ideas have developed. 
 
-In the second part, I discuss the Grounded Architecture structure, describing its three elements: the Data Foundation, the People Foundation, and the Architecture Activities Platform. 
+In the second part, I discuss the Grounded Architecture framework, describing its three elements: the Data Foundation, the People Foundation, and the Architecture Activities Platform. 
 
 In the third part, I discuss the Guiding Principles of Grounded Architecture, grouped into two sections: Being an Architect and Doing Architecture. 
 
 I conclude with a summary and pointers to external resources for those who want to explore more.
 
-The [bookshelf](#bookshelf) section shows many other books and resources that have influenced my approach and ideas.
+The [bookshelf](bookshelf) section shows many other books and resources that have influenced my approach and ideas.
 
 ## Stay Connected
 

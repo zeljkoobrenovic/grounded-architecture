@@ -2,7 +2,7 @@ import json
 import datetime
 import re
 
-permalinks = ''
+permalinks = []
 
 
 def extract_permalink(post, counter):
@@ -12,7 +12,7 @@ def extract_permalink(post, counter):
         for line in inputfile:
             if line.strip().startswith('permalink:'):
                 global permalinks
-                permalinks += (line.replace('permalink:', '').strip() + '\n')
+                permalinks.append(line.replace('permalink:', '').strip())
                 break
 
 
@@ -42,19 +42,7 @@ posts = [
     '2022-07-21-six-simple-rules.md',
     '2022-09-20-organizations.markdown',
     '2022-09-23-product.md',
-    '2022-09-24-governance.markdown',
-    '2022-11-01-summary.markdown',
-    '2022-12-02-appendix.markdown',
-    '2022-12-03-appendix-quotes.markdown',
-    '2022-12-04-appendix-bookshelf.markdown',
-    '2022-12-05-appendix-career-resources.markdown',
-    '2022-12-06-appendix-communication.md',
-    '2022-12-08-appendix-tools.markdown',
-    '2022-12-10-appendix-iso-25010.markdown',
-    '2022-12-15-appendix-cloud.markdown',
-    '2022-12-26-appendix-organization.markdown',
-    '2022-12-29-appendix-data-website-techniques.markdown',
-    '2022-12-30-appendix-cheat-sheet.markdown'
+    '2022-09-24-governance.markdown'
 ]
 
 counter = 0
@@ -64,4 +52,4 @@ for post in posts:
     extract_permalink(post, counter)
 
 with open('permalinks.txt', 'w') as html_file:
-    html_file.write(permalinks)
+    html_file.write( json.dumps(permalinks))

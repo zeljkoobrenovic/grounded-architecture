@@ -1,3 +1,3 @@
 
 {class: part}
-# Grounded Architecture Structure #
+# Grounded Architecture Framework #
