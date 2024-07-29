@@ -1,8 +1,8 @@
 ---
 layout: post
-section: "To Probe Further"
+section: "Appendix 1: Inspiration and Further Learning"
 title: "Favorite Quotes"
-position: 11103
+position: 12103
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 permalink: quotes

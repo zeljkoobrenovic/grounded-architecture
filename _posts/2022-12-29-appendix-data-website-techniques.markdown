@@ -1,6 +1,6 @@
 ---
 layout: post
-section: "Appendix"
+section: "Appendix 4: Software Tools"
 title: "Building Data Foundation Website: Lean Design Patterns and Techniques"
 position: 12129
 date:   2021-10-21 21:12:01 +0100

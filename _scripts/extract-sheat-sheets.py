@@ -2,7 +2,6 @@ import json
 import datetime
 import re
 
-
 def extract_key_topics(post, counter):
     print(str(counter) + '. ' + post)
     content = ''
@@ -54,17 +53,17 @@ posts = [
     '2022-06-15-career-paths.markdown',
     '2022-07-01-soft-skills.markdown',
     '2022-07-03-culture-map.md',
-    '2022-07-05-communication.md',
     '2022-07-07-leadership.markdown',
     '2022-07-10-decision-making.markdown',
     '2022-07-12-decision-intelligence.md',
     '2022-07-13-human-decisions.md',
     '2022-07-15-economics.md',
+    '2022-07-18-complexity.md',
     '2022-07-19-effortless.md',
-    '2022-07-20-organizations.markdown',
     '2022-07-21-six-simple-rules.md',
-    '2022-07-23-product.md',
-    '2022-07-24-governance.markdown'
+    '2022-09-20-organizations.markdown',
+    '2022-09-23-product.md',
+    '2022-09-24-governance.markdown'
 ]
 
 all_content = '## Introductions\n\n'

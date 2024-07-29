@@ -1,8 +1,8 @@
 ---
 layout: post
-section: "Appendix"
+section: "Appendix 2: Tools for Developing Soft Skills"
 title: "Resources for Managing, Growing, and Hiring Architects: Raising the Bar"
-position: 12127
+position: 12105
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 permalink: career-resources

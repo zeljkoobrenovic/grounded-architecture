@@ -80,15 +80,6 @@ As a part of my work on Grounded Architecture, I also provided several guiding p
   * [Product-Led Organizations](product) 
   * [Governance: Nudge, Taxation, Mandates](governance)
 
-If all this is not enough, in the appendix I outline several resources that have proven vital in my journey as an IT architect and have reminded me about what I always need to know about crucial aspects of IT practice:
-
-* [EIC/ISO 25010 Standard](concepts-iso25010)
-* [Cloud Design Patterns](concepts-cloud)
-* [Characteristics of High Performing Organizations](concepts-org)
-* [Resources for Managing, Growing, and Hiring Architects](career-resources)
-* [Resources for Effective Communication](communication)
-* [Building Data Foundation Website: Lean Design Patterns and Techniques (Online Only)](data-website)
-
 When Grounded Architecture is in place, it can have a significant [positive impact](impact) on the functioning of an organization:
 
 * Enable Execution of Architecture Function At Scale,

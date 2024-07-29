@@ -1,14 +1,14 @@
 ---
 layout: post
-section: "Appendix"
-title: "Appendix Overview"
+section: "Summary"
+title: "To Probe Further: Online Appendix Overview"
 position: 12102
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 permalink: appendix
 icon: backpack.png
 timetoread: 15 min
-excerpt: An overview of three resources in the appendix.
+excerpt: An overview of the resources in the appendix.
 
 
 ---
@@ -23,9 +23,23 @@ Image by <a href="https://pixabay.com/users/pexels-2286921/?utm_source=link-attr
     }
 </style>
 
-> **IN THIS SECTION, YOU WILL:** Get an overview of three resources in the appendix.
+> **IN THIS SECTION, YOU WILL:** Get an overview of the resources in the appendix.
 
-As we bring this book to a close, I would like to equip you with a helpful appendix. In this part, I outline several resources that have proven vital in my journey as an IT architect and have reminded me about what I always need to know about crucial aspects of IT practice. I routinely refer back to them and carry them in my practitioner "backpack," so I added their summaries in the appendix.
+As we bring this book to a close, I would like to equip you with a helpful appendix. These resources have proven vital in my journey as an IT architect and have reminded me about what I always need to know about crucial aspects of IT practice. I routinely refer back to them and carry them in my practitioner "backpack," so I added their summaries in the appendix.
+
+Inspiration and Further Learning:
+
+* **[Favorite Quotes](quotes)**: a selection of my favorite quotes about architecture.
+* **[Bookshelf](bookshelf)**: an overview of the background work to probe further, linking several external resources inspiring my work.
+
+
+Tools for Developing Soft Skills:
+
+* **[Resources for Managing, Growing, and Hiring Architects](career-resources)**: Pointers to resources for managin, growing and hiring architects.When growing and hiring architects, it is crucial to continually raise the bar, ensuring that the team is composed of highly skilled and diverse individuals who can contribute unique perspectives and expertise.
+
+* **[Effective Communication](communication)**: This section synthesizes various resources specifically designed to enhance your ability to communicate effectively, provide constructive feedback, and manage challenging conversations with confidence and clarity. These resources are not just theoretical, but they provide practical strategies and techniques that you can apply in your daily interactions.
+
+Pragmatic Knowledge Resources:
 
 * **[EIC/ISO 25010 Standard](concepts-iso25010)** focuses on product quality and system quality models. While imperfect, this standard is a reasonably complete yet compact source for understanding software maintainability, security, reliability, and performance efficiency. 
 
@@ -33,9 +47,7 @@ As we bring this book to a close, I would like to equip you with a helpful appen
 
 * **[Characteristics of High Performing Organizations](concepts-org)** from the 'Accelerate' book by Nicole Forsgren, Jez Humble, and Gene Kim is an excellent source of empirical knowledge about crucial practices of high-performing technology organizations.
 
-* **[Resources for Managing, Growing, and Hiring Architects](career-resources)**: Pointers to resources for managin, growing and hiring architects.When growing and hiring architects, it is crucial to continually raise the bar, ensuring that the team is composed of highly skilled and diverse individuals who can contribute unique perspectives and expertise.
-
-* **[Effective Communication](communication)**: This section synthesizes various resources specifically designed to enhance your ability to communicate effectively, provide constructive feedback, and manage challenging conversations with confidence and clarity. These resources are not just theoretical, but they provide practical strategies and techniques that you can apply in your daily interactions.
-
-* **[Building Data Foundation Website: Lean Design Patterns and Techniques (Online Only)](data-website)** a few practical tips on building lean architecture dashboards and documents (e.g., to create the data foundation) using simple, widely available tools.
+Software Tools:
+* **[Software Tools](tools)** an overview of several tools I’ve built and use in daily architectural work.
+* **[Building Data Foundation Website: Lean Design Patterns and Techniques](data-website)** a few practical tips on building lean architecture dashboards and documents (e.g., to create the data foundation) using simple, widely available tools.
 

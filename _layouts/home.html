@@ -148,7 +148,11 @@ layout: default
         {%- if post.title contains '[DRAFT]' -%}
         {%- else -%}
         {%- if post.section <> prev_section -%}
-        <h1 class="page-heading" style="text-align: center">{{ post.section }}</h1>
+        {%- if post.section contains 'Appendix 1'-%}
+        <h1 class="page-heading" style="margin-top: 64px; margin-bottom: 32px; text-align: center; border-bottom: 2px dashed #808080">APPENDIXES</h1>
+        {% assign prev_section = post.section %}
+        {%- endif -%}
+        <h1 class="page-heading" style="color: grey; margin-top: 64px; margin-bottom: 22px; text-align: center">{{ post.section }}</h1>
         {% assign prev_section = post.section %}
         {%- endif -%}
         <li>

@@ -1,6 +1,6 @@
 ---
 layout: post
-section: "Appendix"
+section: "Appendix 3: Pragmatic Knowledge Resources"
 title: "Cloud Design Patterns"
 position: 12115
 date:   2021-10-21 21:12:01 +0100

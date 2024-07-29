@@ -1,6 +1,6 @@
 ---
 layout: post
-section: "Appendix"
+section: "Appendix 3: Pragmatic Knowledge Resources"
 title: "High Performing Technology Organizations"
 position: 12126
 date:   2021-10-21 21:12:01 +0100

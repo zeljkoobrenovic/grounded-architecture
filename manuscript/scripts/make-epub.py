@@ -79,5 +79,6 @@ posts = [
     '2022-12-26-appendix-organization.markdown',
     '2022-12-29-appendix-data-website-techniques.markdown'
 ]
+
 for post in posts:
     copy_post(post)

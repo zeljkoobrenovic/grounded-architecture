@@ -1,155 +1,229 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-07-28T13:19:01+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: Redefining IT Architecture Practice</title><subtitle></subtitle><entry><title type="html">Building Data Foundation Website: Lean Design Patterns and Techniques</title><link href="http://localhost:4000/data-website" rel="alternate" type="text/html" title="Building Data Foundation Website: Lean Design Patterns and Techniques" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/appendix-data-website-techniques</id><content type="html" xml:base="http://localhost:4000/data-website"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/education-6241609_1280.png" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-07-29T19:08:06+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: Redefining IT Architecture Practice</title><subtitle></subtitle><entry><title type="html">Cheat Sheet</title><link href="http://localhost:4000/cheat-sheet" rel="alternate" type="text/html" title="Cheat Sheet" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/appendix-cheat-sheet</id><content type="html" xml:base="http://localhost:4000/cheat-sheet"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/iStock-1182643171.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by <a href="https://pixabay.com/users/jozefm84-10215106/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=6241609">Jozef Mikulcik</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=6241609">Pixabay</a>
+Image by iStock
 </div>
 <style>
-    h1 {
-        font-size: 210%;
-    }
+ blockquote {
+     border-left: 6px dotted #454545;
+     padding-left: 12px;
+     margin-top: -10px;
+     margin-bottom: 40px;
+     margin-left: 2px;
+     font-size: 100%;
+     font-style: italic;
+     color: #767676;
+     width: 600px;
+ }
+ ul {
+   list-style-type: "→   ";
+ }
+ h2 {
+    margin-top: 62px;
+    margin-bottom: 22px;
+ }
+ h3 {
+ }
+ li {
+    margin-bottom: 4px;
+ }
 </style>
 
 <blockquote>
-  <p><strong>IN THIS SECTION, YOU WILL:</strong>Get a few practical tips on building lean architecture dashboards and documents (e.g., to create the data foundation) using simple, widely available tools.</p>
+  <p><strong>IN THIS SECTION, YOU WILL:</strong> Get a cheatsheet with all key points from in all sections.</p>
 </blockquote>
 
-<p><br />
-While the lessons in this book are not limited to specific technologies and tools, I will share a few of my secrets for easily and affordably creating dashboards and documents that are crucial for data-informed decision-making.</p>
+<h2 id="introductions">Introductions</h2>
 
-<p>Have you ever felt overwhelmed by the many specialized tools for creating architectural artifacts? Fear not! I’m here to show you that simplicity is often the key to brilliance. Imagine crafting high-quality documentation and stunning visualizations without complex software or extensive training. Not only is it possible, but it’s also incredibly efficient.</p>
+<h3 id="introduction">Introduction</h3>
+<blockquote>
+  <ul>
+    <li>This book will share my approach to running an IT architecture practice in larger organizations based on my experience at AVIV Group, eBay Classifieds, and Adevinta. I call this approach “Grounded Architecture”—architecture with strong foundations and deep roots.</li>
+    <li>Prioritizing people interactions and data over processes and tools, Grounded Architecture aims to connect architecture practice to all organizational levels as an antidote to the “ivory tower” architecture.</li>
+    <li>I also explain my motivation to write this book.</li>
+  </ul>
+</blockquote>
 
-<p>In this guide, I’ll explore the power of leveraging simple, lean tools that are widely available and easy to use. You don’t need to be a tech wizard to create impressive <a href="data">Data Foundation</a> dashboards and architectural documents. I hope you will find these techniques refreshingly straightforward and efficient.</p>
+<h3 id="context-fast-moving-global-organizations">Context: Fast-Moving Global Organizations</h3>
+<blockquote>
+  <ul>
+    <li>To better understand any idea or solution, it is crucial to understand the context in which this idea developed.</li>
+    <li>The Grounded Architecture approach has evolved in the context of global, loosely coupled organizations that are diverse, with nonlinear growth dynamics, and under transformation pressures.</li>
+  </ul>
+</blockquote>
 
-<p>Here are two examples to illustrate the power of simplicity:</p>
+<h3 id="evolution-of-architecture-embracing-adaptability-scalability-and-data-driven-decisions">Evolution of Architecture: Embracing Adaptability, Scalability, and Data-Driven Decisions</h3>
+<blockquote>
+  <ul>
+    <li>I identified the following needs that an architecture function should support: Executing At Scale, Adaptivity, Improving the Quality of Decision-Making with Data, and Maximizing Organizational Alignment &amp; Learning.</li>
+  </ul>
+</blockquote>
 
-<ul>
-  <li>I’ve developed several plain <a href="https://zeljkoobrenovic.github.io/grounded-architecture-dashboard-examples/apps/docs/index.html">HTML/CSS/DOM templates</a> (with <a href="https://github.com/zeljkoobrenovic/grounded-architecture-dashboard-examples">open-source code</a>) that I leverage in my daily work, and you can use for free yourself.</li>
-  <li><a href="https://sokrates.dev">Sokrates.dev</a>, a tool I developed, generates all reports in plain old HTML without any special libraries. Check out the example of the Apache Foundation <a href="https://d3axxy9bcycpv7.cloudfront.net/asf/_sokrates_landscape/index.html">source code landscape</a>.</li>
-</ul>
+<h2 id="grounded-architecture">Grounded Architecture</h2>
 
-<p>These documents work on any browser, can be hosted on any simple HTTP server, and can be opened directly on any laptop or PC. They are also easy to maintain since no complex frameworks are used.</p>
+<h3 id="data-foundation">Data Foundation</h3>
+<blockquote>
+  <ul>
+    <li>The architecture Data Foundation serves as a medium to create a complete, up-to-date picture of critical elements of the technology landscapes of big organizations.</li>
+    <li>The Data Foundation provides an architecture-centric view of data about a technology landscape based on source code analyses, public cloud billing reports, vibrancy reports, or incident tickets.</li>
+    <li>To facilitate the creation of a Data Foundation, I have been working on creating open-source tools that can help obtain valuable architectural insights from data sources, such as source code repositories. Check out open-source <a href="https://zeljkoobrenovic.github.io/grounded-architecture-dashboard-examples/">architecture dashboard examples</a> and <a href="https://sokrates.dev">Sokrates</a>.</li>
+  </ul>
+</blockquote>
 
-<p>So, grab your digital toolkit and join us on this exciting journey. We’ll harness the power of everyday tools to create extraordinary results. Get ready to transform your architectural documentation process and discover the magic of simplicity!</p>
+<h3 id="people-foundation">People Foundation</h3>
+<blockquote>
+  <ul>
+    <li>Developing the architecture function requires having competent, empowered, and motivated architects. Architecture practice must carefully organize, empower, and leverage scarce talent.</li>
+    <li>In my work in the past few years, I combined two teams of architects: a small central architecture team and a cross-organizational distributed virtual team.</li>
+  </ul>
+</blockquote>
 
-<p><br /></p>
-<h2 id="implementation-principles">Implementation Principles</h2>
+<h3 id="architecture-activities-platform">Architecture Activities Platform</h3>
+<blockquote>
+  <ul>
+    <li>The Architecture Activities Platform is a system of processes and agreements enabling architects to do everything architecture typically does, leveraging Data and People Foundations to create a data-informed, organization-wide impact.</li>
+    <li>Examples of activities include: supporting teams in their daily work; tracking tech debt, defining tech debt reduction programs; performing technical due diligence; standardizing processes and documentation; defining cloud, data, and platform strategies.</li>
+  </ul>
+</blockquote>
 
-<p>When setting out on any journey, it’s having a clear set of principles is vital to guide you. These principles are your trusty map and compass, ensuring you navigate the architectural landscape efficiently and effectively. Here are the fundamental principles that will keep you on track:</p>
+<h3 id="transforming-organizations-with-grounded-architecture">Transforming Organizations with Grounded Architecture</h3>
+<blockquote>
+  <ul>
+    <li>When a Grounded Architecture framework is in place, it can positively transform an organization’s functioning.</li>
+    <li>These impact categories are Executing At Scale, Improving the Quality of Decision-Making with Data, Maximizing Organizational Alignment &amp; Learning, and Higher Adaptivity.</li>
+  </ul>
+</blockquote>
 
-<ul>
-  <li><strong>Leverage Existing Infrastructure</strong>: Why reinvent the wheel when you can turbocharge what you already have? Utilizing existing infrastructure saves time and resources.</li>
-  <li><strong>Maintainable by a Small Architecture Team</strong>: Keep it simple! The architecture team normally does not have much time to polish self-created tools.</li>
-  <li><strong>Broad Access Inside Organization</strong>: Everyone should have a ticket to the show. Broad access ensures that all stakeholders can engage and contribute.</li>
-</ul>
+<h2 id="on-being-architect">On Being Architect</h2>
 
-<p><br /></p>
-<h2 id="lean-implementation-techniques">Lean Implementation Techniques</h2>
+<h3 id="architects-as-superglue">Architects as Superglue</h3>
+<blockquote>
+  <ul>
+    <li>Architects in IT organizations should develop as “superglue,” people who hold architecture, technical details, business needs, and people together across a large organization or complex projects.</li>
+    <li>Architects need to be technically strong. But their unique strengths should stem from being able to relate technical issues with business and broader issues.</li>
+    <li>Architects should stand on three legs: skills, impact, and leadership.</li>
+  </ul>
+</blockquote>
 
-<p>Here are a few techniques I leverage in my work.</p>
+<h3 id="skills">Skills</h3>
+<blockquote>
+  <ul>
+    <li>A typical skillset of an architect includes hard (technical) skills, soft (people &amp; social) skills, product development, business skills, and decision-making skills.</li>
+  </ul>
+</blockquote>
 
-<h3 id="visualization-with-plain-old-htmlcssdom">Visualization With Plain Old HTML/CSS/DOM</h3>
+<h3 id="impact">Impact</h3>
+<blockquote>
+  <ul>
+    <li>Architects’ work is evaluated based on their impact on the organization.</li>
+    <li>Architects can make an impact via three pillars: Big-Picture Thinking, Execution, and Leveling-Up.</li>
+  </ul>
+</blockquote>
 
-<p>Who says you need a high-tech toolbox to create dazzling visuals? Sometimes, sticking with the basics can yield the most elegant and practical results. Embrace the simplicity and power of plain old HTML, CSS, and the DOM.</p>
+<h3 id="architects-career-paths-raising-the-bar">Architects’ Career Paths: Raising the Bar</h3>
+<blockquote>
+  <ul>
+    <li>Architects’ career paths ideally stem from a strong engineering background.</li>
+    <li>Hiring architects requires constantly raising the bar to ensure a strong and diverse team structure.</li>
+  </ul>
+</blockquote>
 
-<p>Earlier, I always used heavyweight visualization and UI frameworks to build interactive tools. But nowadays, I leave the heavy frameworks at the door. You can create beautiful, functional interfaces with just the basics—no React, Angular, or Vue here – just pure, unadulterated HTML and CSS magic.</p>
+<h2 id="on-soft-skills">On Soft Skills</h2>
 
-<p><img src="assets/images/data_site_simple_html.png" alt="" />
-<em><strong>Figure 1:</strong> Simple generated HTML visual of source code analysis results.</em></p>
+<h3 id="the-culture-map-architects-culture-compass">The Culture Map: Architects’ Culture Compass</h3>
+<blockquote>
+  <ul>
+    <li>I have found the work of Erin Meyer, The Culture Map, to be a beneficial tool for architects to work harmoniously with people from various cultures and backgrounds.</li>
+    <li>Meyer’s model contains eight scales, each representing a key area, showing how cultures vary from extreme to extreme: Communicating, Evaluating, Persuading, Leading, Deciding, Trusting, Disagreeing, and Scheduling.</li>
+  </ul>
+</blockquote>
 
-<p><br /></p>
-<h3 id="embedding-json-in-html-documents">Embedding JSON in HTML Documents</h3>
+<h3 id="effective-communication">Effective Communication</h3>
+<blockquote>
+  <ul>
+    <li>“So What! How to Communicate What Really Matters to Your Audience” by Mark Magnacca focuses on tailored communication for IT professionals. It emphasizes the importance of relevance and audience understanding to enhance the effectiveness of technical discussions.</li>
+    <li>“Radical Candor” by Kim Scott provides a framework for IT leaders to combine personal empathy with direct challenges to foster robust team dynamics and honest communication, which is crucial for project success and team development.</li>
+    <li>“Never Split the Difference” by Chris Voss introduces negotiation techniques from high-stakes FBI scenarios, adapted for IT and software architecture discussions, to help professionals achieve better outcomes through strategic empathy and questioning.</li>
+    <li>In his book “Supercommunicators”, Charles Duhigg offers several lessons to help you communicate better than ever.</li>
+    <li>Goulston, a psychologist, consultant, author, and frequent TV contributor, has written an insightful book “Just Listen” that delves into effective communication via listening. .</li>
+  </ul>
+</blockquote>
 
-<p>Most of the documents I create are data-driven. This approach means that I generate visuals using templates based on structured data. For my tools, I primarily export data in JSON format and embed it into a copy of an HTML template. JSON is the lifeblood of these data-driven applications. I can dynamically display data by insode HTML documents. This method makes the documents more portable and ensures you can open and view them on various devices.</p>
+<h3 id="leadership">Leadership</h3>
+<blockquote>
+  <ul>
+    <li>My view of architecture leadership is inspired by David Marquet’s work and Netflix’s valued behaviors.</li>
+    <li>Marquet focused on leadership and organizational management, particularly emphasizing the principles of Intent-Based Leadership.</li>
+    <li>Borrowing from Netflix’s original values, the following behavioral traits are crucial for architects: communication, judgment, impact, inclusion, selflessness, courage, integrity, curiosity, innovation, and passion.</li>
+  </ul>
+</blockquote>
 
-<h3 id="simple-proven-html-based-2d--3d-visuals">Simple Proven HTML-Based 2D &amp; 3D Visuals</h3>
+<h2 id="on-decision-making">On Decision-Making</h2>
 
-<p>Let’s talk visuals. Here are some simple, proven methods I always use (you can find HTML templates of these visuals <a href="https://github.com/zeljkoobrenovic/grounded-architecture-dashboard-examples/tree/main/template/templates/visuals">here</a>):</p>
+<h3 id="decision-intelligence-in-it-architecture">Decision Intelligence in IT Architecture</h3>
+<blockquote>
+  <ul>
+    <li>Decision intelligence is the discipline of turning information into better actions.</li>
+    <li>A decision involves more than just selecting from available options; it represents a commitment of resources you</li>
+  </ul>
+</blockquote>
 
-<ul>
-  <li><strong><a href="https://d3axxy9bcycpv7.cloudfront.net/asf/activemq/_sokrates_landscape/index.html">Bar Charts</a></strong>: Classic and practical, perfect for showing comparisons.</li>
-  <li><strong><a href="https://d3axxy9bcycpv7.cloudfront.net/asf/_sokrates_landscape/visuals/extension_dependencies_30d.svg">Graphviz</a></strong>: Ideal for easily creating complex graphs and diagrams.</li>
-  <li><strong><a href="https://d3axxy9bcycpv7.cloudfront.net/asf/_sokrates_landscape/visuals/people_dependencies_including_repositories_30_2_force_3d.html">3D Node Graph</a></strong>: Add an extra dimension to your data visualization.</li>
-  <li><strong><a href="https://d3axxy9bcycpv7.cloudfront.net/asf/_sokrates_landscape/visuals/bubble_chart_extensions_contributors_30d.html">Bubble Chart</a></strong>: Perfect for showing relationships between data points in a visually engaging way.</li>
-  <li><strong><a href="https://d3axxy9bcycpv7.cloudfront.net/asf/activemq/activemq/html/visuals/zoomable_circles_main.html">Zoomable Circles</a> / <a href="https://d3axxy9bcycpv7.cloudfront.net/asf/activemq/activemq/html/visuals/zoomable_sunburst_main.html">Sunbursts</a></strong>: Great for exploring hierarchical data with interactive zoom.</li>
-  <li><strong><a href="https://d3axxy9bcycpv7.cloudfront.net/asf/_sokrates_landscape/visuals/tree_map_extensions_contributors_30d.html">Treemap</a></strong>: Perfect for visualizing nested data structures in a compact form.</li>
-</ul>
+<h3 id="the-human-side-of-decision-making">The Human Side of Decision-Making</h3>
+<blockquote>
+  <ul>
+    <li>Decision-making is a human activity subject to human biases and limitations.</li>
+    <li>Fundamental biases influencing decision-making include outcome, hindsight, and confirmation biases.</li>
+    <li>Human intuition plays a vital role in decision-making.</li>
+    <li>Group decision-making offers significant advantages but increases complexity as it requires higher decision-making skills from each member.</li>
+  </ul>
+</blockquote>
 
-<h3 id="icon-libraries">Icon Libraries</h3>
+<h3 id="economic-modeling-roi-and-financial-options">Economic Modeling: ROI and Financial Options</h3>
+<blockquote>
+  <ul>
+    <li>Architects are frequently asked about the (economic) value of architecture or technology investments.</li>
+    <li>Answering this question is a crucial skill for any senior architect. However, answering it concisely and convincingly to a non-technical audience may be difficult.</li>
+    <li>Borrowing from existing literature, I sketch two answers to the question of the economic value of architecture: the return on investment metaphor and the selling options metaphor.</li>
+  </ul>
+</blockquote>
 
-<p>Icons are the unsung heroes of data visualization. They add clarity and visual appeal and help communicate concepts quickly. Explore websites like thenounproject.com (my favorite) for a treasure trove of icons to enhance your visualizations.</p>
+<h3 id="effortless-architecture">Effortless Architecture</h3>
+<blockquote>
+  <ul>
+    <li>Greg McKeown’s “Effortless: Make It Easier to Do What Matters Most” advocates for a paradigm shift from hard work to smart, effective work by simplifying tasks and processes.</li>
+    <li>Key principles include prioritizing important tasks, leveraging automation, and embracing a mindset that values ease and enjoyment in work.</li>
+    <li>Greg McKeown’s book offers invaluable insights that are particularly relevant for IT architects and software engineers. McKeown’s emphasis on simplifying tasks and processes is crucial in the tech industry, where complexity often dominates.</li>
+  </ul>
+</blockquote>
 
-<p><img src="assets/images/data_site_icons.png" alt="" />
-<em><strong>Figure 2:</strong> A screenshot from thenounproject.com.</em></p>
+<h2 id="on-organizational-factors">On Organizational Factors</h2>
 
-<p><br /></p>
-<h2 id="version-controlled-lean-documents">Version Controlled Lean Documents</h2>
+<h3 id="cooperation-based-organizations-six-simple-rules">Cooperation-Based Organizations: Six Simple Rules</h3>
+<blockquote>
+  <ul>
+    <li>The Six Simple Rules approach emphasizes that in today’s complicated business environment, you must set up organizational structures based on cooperation.</li>
+    <li>To deal with complexity, organizations should depend on the judgment of their people and on these people cooperating.</li>
+    <li>This view is well aligned with the ideas of Grounded Architecture.</li>
+  </ul>
+</blockquote>
 
-<p>I generate documents that are small, lean, and capable of being version-controlled, along with the data used to generate them.</p>
+<h3 id="product-led-organizations">Product-Led Organizations</h3>
+<blockquote>
+  <ul>
+    <li>When it comes to product development, I generally recommend two resources for architects: “Escaping the Build Trap: How Effective Product Management Creates Real Value” by Melissa Perri and “The Discipline of Market Leader” by Michael Treacy and Fred Wiersema.</li>
+    <li>The build trap occurs when businesses focus too much on their product’s features and functionalities, overlooking customers’ needs and preferences.</li>
+    <li>The Discipline of Market Leader highlights three strategic paths a company can use to achieve market leadership: operational excellence, product leadership, and customer intimacy.</li>
+  </ul>
+</blockquote>
 
-<h3 id="small-and-lean-documents">Small and Lean Documents</h3>
-
-<p>The documents must be compact, ensuring they do not consume excessive storage space and are suitable for large projects. They are efficient, containing only essential information without unnecessary bloat, which makes them easy to read, understand, and manage.</p>
-
-<h3 id="version-controlled">Version Controlled</h3>
-
-<p>I manage these documents using a version control system (VCS) like Git. This system tracks changes over time and allows users to revert to previous versions if needed. It also enables multiple users to work on the same documents simultaneously, providing a clear history of changes, which improves collaboration and reduces conflicting edits.</p>
-
-<h3 id="together-with-data">Together with Data</h3>
-
-<p>I also store data used to generate the documents alongside the documents. This approach ensures that the documents and data are always in sync. The approach allows for reproducing any document version precisely as it was at any point in time, maintaining integrity and reliability.</p>
-
-<h3 id="lean-hosting-techniques">Lean Hosting Techniques</h3>
-
-<p>When it comes to hosting static HTML documents, two simple yet crucial requirements are essential:</p>
-
-<ol>
-  <li>
-    <p><strong>Open Documents on Your Laptop</strong>: You can easily open your documents directly on your laptop without needing to install any servers or special frameworks. This ensures accessibility anytime, anywhere—no setup required!</p>
-  </li>
-  <li>
-    <p><strong>Share Across the Organization</strong>: Use any simple HTTP server (like GitHub Pages) for straightforward sharing. There is no complex setup; it is just pure, effortless sharing.</p>
-  </li>
-</ol>
-
-<p>Keeping things simple keeps your documents accessible, easy to share, and maintainable. No advanced technical knowledge or elaborate configurations are necessary. So, create your documents, open them anywhere, and share them effortlessly!</p>
-
-<h3 id="benefits">Benefits</h3>
-
-<p>Lean documents are efficient to generate, easy to store, and fast to process. They provide detailed traceability, enhancing transparency and accountability through a comprehensive history of changes. Consistency is maintained as the context and basis for documents are always available, preventing inconsistencies and errors. Multiple users can efficiently collaborate with clear mechanisms to resolve conflicts and track contributions.</p>
-
-<p>By ensuring all generated documents are small, lean, and version-controlled along with their data, the system maximizes efficiency, consistency, and collaboration while maintaining high traceability and reproducibility.</p>
-
-<p><br /></p>
-<h2 id="collaborative-editing-via-google-sheets">Collaborative Editing via Google Sheets</h2>
-
-<p>To facilitate collaborative editing of data that requires manual changes, I frequently relied on Google Sheets to provide a controlled collaborative editor to a broader audience. By leveraging Google Sheets, multiple users can simultaneously access, edit, and update data in real-time, ensuring that everyone works with the most current information.</p>
-
-<p><img src="assets/images/data_site_actors.png" alt="A simple runtime architecture leveraging GitHub pages and Google Sheets." />
-<em><strong>Figure 3:</strong> A collaborative editing model.</em></p>
-
-<p>I embedded a JavaScript script within the Google Sheet to further streamline this process. This script’s primary function was to export the data into a JSON format, which you can use to generate visual documents using HTML templates.</p>
-
-<p><img src="assets/images/data_site_sheet_json.png" alt="" />
-<em><strong>Figure 4:</strong> Exporting Google Sheet data to JSON for document generation.</em></p>
-
-<p><br /></p>
-<h2 id="two-examples-deployments">Two Examples Deployments</h2>
-
-<p>In my recent experiences, I have utilized the following two examples to create a dynamic ecosystem of collaborative, data-driven dashboards.</p>
-
-<p><strong>Simple Setup with GitHub Pages and Google Sheets:</strong> Start with a straightforward setup using GitHub Pages for hosting and Google Sheets for data management. This combination is powerful, easy to maintain, and highly accessible. The open-source example is available at <a href="https://zeljkoobrenovic.github.io/grounded-architecture-dashboard-examples/apps/docs/index.html">the Grounded Architecture resources site</a></p>
-
-<p><img src="assets/images/data_site_simple_arch_1.png" alt="A simple runtime architecture leveraging GitHub pages and Google Sheets." />
-<em><strong>Figure 5:</strong> A simple runtime architecture leveraging GitHub pages and Google Sheets.</em></p>
-
-<p><strong>Simple Setup with GitHub Pages and Google Sheets:</strong> Start with a straightforward setup using GitHub Pages for hosting and Google Sheets for data management. This combination is powerful, easy to maintain, and highly accessible. The open-source example is available at</p>
-
-<p><img src="assets/images/data_site_simple_arch_2.png" alt="Slightly more flexible runtime architecture leveraging CDNs, internal IAM, and Google Sheets." />
-<em><strong>Figure 6:</strong> Slightly more flexible runtime architecture leveraging CDNs, internal IAM, and Google Sheets.</em></p>
-
-<p><br /></p>
-<h2 id="its-your-turn-now">It’s Your Turn Now!</h2>
-
-<p>By adhering to the principles and techniques described, you’ll be well-equipped to create stunning, maintainable architectural documentation and visualizations that everyone in your organization can appreciate and utilize. Happy architecting!</p>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[A few practical tips on building lean architecture dashboards and documents (e.g., to create the data foundation) using simple, widely available tools.]]></summary></entry><entry><title type="html">Context: Fast-Moving Global Organizations</title><link href="http://localhost:4000/context" rel="alternate" type="text/html" title="Context: Fast-Moving Global Organizations" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/context</id><content type="html" xml:base="http://localhost:4000/context"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/roller-coaster-3605743_1920.jpg" /></p>
+<h3 id="organizational-governance-nudge-taxation-mandates">Organizational Governance: Nudge, Taxation, Mandates</h3>
+<blockquote>
+  <ul>
+    <li>Architecture practice should support governance models adaptable to organizations’ complex and diverse needs. A technology governance model should be a well-balanced hybrid of three different styles of governing: mandates and bans, taxes, and nudging.</li>
+    <li>Nudging is a form of governing where you create subtle or indirect suggestions influencing someone’s behavior or decision-making without forcing them or limiting their freedom of choice.</li>
+    <li>Governing with taxes (economic incentives) is a form of guiding in which people are not forbidden to make some decisions but need to “pay” some form of taxes on used resources.</li>
+    <li>With mandates and bans, you guide people by explicitly defining what they should or should not do.</li>
+  </ul>
+</blockquote>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[Key points from all sections in one place.]]></summary></entry><entry><title type="html">Context: Fast-Moving Global Organizations</title><link href="http://localhost:4000/context" rel="alternate" type="text/html" title="Context: Fast-Moving Global Organizations" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/context</id><content type="html" xml:base="http://localhost:4000/context"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/roller-coaster-3605743_1920.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/paulbr75-2938186/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3605743">Paul Brennan</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3605743">Pixabay</a>
 </div>
