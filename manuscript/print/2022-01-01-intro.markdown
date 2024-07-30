@@ -67,8 +67,6 @@ If all this is not enough, in the appendix I outline several online resources th
 * [Resources for Effective Communication](https://grounded-architecture.io/communication)
 * [EIC/ISO 25010 Standard](https://grounded-architecture.io/iso25010)
 * [Cloud Design Patterns](https://grounded-architecture.io/cloud-design-patterns)
-* [Characteristics of High Performing Organizations](https://grounded-architecture.io/high-performing-organizations)
-* [Building Data Foundation Website: Lean Design Patterns and Techniques](https://grounded-architecture.io/data-website)
 
 The rest of this book will explain the Grounded Architecture approach in detail. In this section, I want to share a few things about my motivation to write this book.
 

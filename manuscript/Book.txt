@@ -32,3 +32,4 @@ Part6.txt
 2022-09-24-governance.markdown
 Part7.txt
 2022-11-01-summary.markdown
+2022-12-02-appendix.markdown

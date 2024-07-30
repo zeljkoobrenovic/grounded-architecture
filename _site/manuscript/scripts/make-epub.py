@@ -70,7 +70,8 @@ posts = [
     '2022-09-20-execution.markdown',
     '2022-09-23-product.md',
     '2022-09-24-governance.markdown',
-    '2022-11-01-summary.markdown'
+    '2022-11-01-summary.markdown',
+    '2022-12-02-appendix.markdown'
 ]
 
 for post in posts:

@@ -55,7 +55,7 @@ Some typical hard skills that architects need in their work include:
 
 By mastering these skills, technical architects can effectively contribute to the success of their organizations, ensuring that technology solutions are well-designed, secure, efficient, and user-centric.
 
-The section [Appendix](appendix) provides some pointers for resources to build your technical skills.
+The section [Appendix](#appendix) provides some pointers for resources to build your technical skills.
 
 ## Soft Skills
 A> To change the architecture of a software-intensive system ensconced in a large organization, you often have to change the architecture of the organization. And ultimately, that is a political problem, not just a technical one. 
