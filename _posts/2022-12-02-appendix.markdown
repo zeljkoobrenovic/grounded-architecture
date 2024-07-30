@@ -8,7 +8,7 @@ author: by Željko Obrenović (obren.io)
 permalink: appendix
 icon: backpack.png
 timetoread: 15 min
-excerpt: An overview of the resources in the appendix.
+excerpt: An overview of the resources in the online appendix.
 
 
 ---

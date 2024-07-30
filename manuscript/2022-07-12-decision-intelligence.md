@@ -2,8 +2,7 @@
 
 # Decision Intelligence in IT Architecture {#decision-intelligence}
 
-![](assets/images/arch/iStock-1365878406.jpg)
-^image by istock^
+![image by istock](assets/images/arch/iStock-1365878406.jpg)
 
 **IN THIS SECTION, YOU WILL:**  Learn the basics of decision intelligence, the discipline of turning information into
 
@@ -35,8 +34,7 @@ they flex their decision intelligence:
 In every twist and turn, decision intelligence is the secret sauce that makes IT architects the unsung heroes of the
 tech world. So, grab your data-driven cape and dive into the art of smart decision-making!
 
-![](assets/images/arch/iStock-1194231226.jpg)
-^image by istock^
+![image by istock](assets/images/arch/iStock-1194231226.jpg)
 
 ## Basics of Decision-Making
 
@@ -124,8 +122,7 @@ decisions need to be treated like a royal decree. Save the deep dives for the bi
 Decisions are the steering wheel for reaching our goals. Consequently, it is crucial to understand and define goals
 properly and to understand whether a decision needs to be made at all.
 
-![](assets/images/arch/iStock-1301200404.jpg)
-^image by istock^
+![image by istock](assets/images/arch/iStock-1301200404.jpg)
 
 ### Setting Goals
 
@@ -218,8 +215,7 @@ So, next time you're in a meeting and wondering if you're there to make a differ
 advisor in a decision-making drama, remember to whip out the magic question. It's your ticket to knowing whether you're
 in for an epic decision-making saga or a cameo appearance.
 
-![](assets/images/arch/iStock-1043738948.jpg)
-^image by istock^
+![image by istock](assets/images/arch/iStock-1043738948.jpg)
 
 ## Decision-Making Complexity
 
@@ -399,8 +395,7 @@ I use in [Data Foundation](#data), while visually appealing and powerful when us
 ** in making informed decisions. It's a means to an impactful end, but **without purposeful application, data is
 ineffective**.
 
-![](assets/images/arch/iStock-1316937637.jpg)
-^image by istock^
+![image by istock](assets/images/arch/iStock-1316937637.jpg)
 
 ### Remember that data has limitations
 
