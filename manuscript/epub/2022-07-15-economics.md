@@ -13,7 +13,15 @@ A> * Architects are frequently asked about the (economic) value of architecture 
 A> * Answering this question is a crucial skill for any senior architect. However, answering it concisely and convincingly to a non-technical audience may be difficult.
 A> * Borrowing from existing literature, I sketch two answers to the question of the economic value of architecture: the return on investment metaphor and the selling options metaphor.
 
-Economic and risk modeling is an essential exercise in organizations. Organizations conduct financial and risk modeling exercises, such as ROI calculations, for several key reasons:
+Decision-making in the corporate world is frequently an economic risk exercise. Financial and risk modeling is like the crystal ball of the corporate world. It helps organizations make intelligent decisions, like choosing between investing in a new project or finally fixing the office coffee machine. These models forecast financial performance and assess economic scenarios, ensuring companies aren't just throwing darts in the dark.
+
+Economic and risk modeling is a game-changer in resource allocation. By predicting future trends and disruptions, these models help organizations use their resources wisely, for instance, to ensure they don't run out of coffee (a critical issue for any IT business). It's all about efficient resource management and avoiding those 'Oops, we should have seen that coming' moments.
+
+These models majorly upgrade strategic planning, helping companies anticipate challenges and opportunities instead of reacting like a cat to a cucumber. Identifying risks before they bite means organizations can implement preventative measures, keeping things running smoothly.
+
+Economic and risk modeling is the secret weapon for staying ahead of the game, achieving long-term goals, and ensuring the office party budget doesn't get blown on a single extravagant cake.
+
+Organizations conduct financial and risk modeling exercises, such as ROI calculations, for several key reasons:
 
 * **Decision-Making Support**: Evaluate investments and compare alternatives to allocate resources effectively.
 * **Risk Management**: Identify potential risks and perform sensitivity analysis to anticipate and mitigate issues.
@@ -23,8 +31,6 @@ Economic and risk modeling is an essential exercise in organizations. Organizati
 * **Strategic Planning**: Explore different strategic scenarios and support growth-related decisions.
 * **Operational Efficiency**: Identify cost reduction opportunities and optimize business processes.
 * **Regulatory Compliance**: Ensure accurate financial reporting and assess regulatory risks.
-
-These exercises enable informed decision-making, efficient resource management, and strategic planning, helping organizations achieve long-term objectives.
 
 As financial and risk modeling is essential in any organization, architects frequently need to answer questions about the (economic) value of technology investments and architecture. Answering this question is a crucial skill for any senior architect. Still, it may take much work to answer this seemingly harmless question concisely and convincingly to a non-technical audience without sounding like a techie version of Shakespeare.
 
@@ -74,19 +80,30 @@ I separate the value of investments in two buckets:
 * Increasing and protecting revenue and
 * Reducing costs and risks.
 
-Increasing and protecting revenue investments have three forms:
-* **Investments that create new revenue streams** by creating new products or adding new features. These investments are typically easier to defend and control, as most stakeholders intuitively understand that new functionality is needed to create new value for customers and generate more revenue. An essential aspect of this type of investment is tracking the product's success. Adding new features will not automatically create value for customers or revenue.
-* **Investments needed to stay ahead.** This type of investment is a less obvious way to protect and increase revenue. It boils down to the fact that you cannot stop developing your product as the rest of the world moves on. As the saying goes, **"It takes all the running you can do to keep in the same place."** For instance, you must keep essential features in parity with the competition, your system must comply with changes in regulations, and your UX must be modern.
-* **Investments needed to create future options** refer to being in shape to adapt to changes in the market more quickly and to bring new features to the market more quickly. Investing in keeping your system easy to maintain and extend directly creates more opportunities. Another way to look at this value driver is to frame it as preventing a revenue loss due to the impossibility of quickly adapting to future opportunities.
+### Top Line: Increasing and Protecting Revenue
+
+Increasing and protecting revenue investments have three forms.
+
+**Investments that create new revenue streams** by creating new products or adding new features. These investments are typically easier to defend and control, as most stakeholders intuitively understand that new functionality is needed to create new value for customers and generate more revenue. An essential aspect of this type of investment is tracking the product's success. Adding new features will not automatically create value for customers or revenue.
+
+**Investments needed to stay ahead.** This type of investment is a less obvious way to protect and increase revenue. It boils down to the fact that you cannot stop developing your product as the rest of the world moves on. As the saying goes, **"It takes all the running you can do to keep in the same place."** For instance, you must keep essential features in parity with the competition, your system must comply with changes in regulations, and your UX must be modern.
+
+**Investments needed to create future options** refer to being in shape to adapt to changes in the market more quickly and to bring new features to the market more quickly. Investing in keeping your system easy to maintain and extend directly creates more opportunities. Another way to look at this value driver is to frame it as preventing a revenue loss due to the impossibility of quickly adapting to future opportunities.
+
+### Bottom Line: Reducing Costs and Risks
 
 The second bucket relates to the more invisible part of the value created by investments:
-* **Investments to reduce maintenance costs** need to ensure that your code is easy to understand, change, and test. Such investments directly reduce your most significant cost, people costs, as code that is easy to maintain requires fewer people (and other way around, see Figure 5). Alternatively, you can look at these investments as a way to spend more effort on innovation and creating new revenue streams rather than merely keeping the systems in the air.
-* **Investments in reducing infrastructure costs** reduce spending and, if successful, are more directly visible. Such investments could take the form of redesigning your application to be more elastic, scaling up and down with minimal overhead. They could also create more transparency to have a precise image of all cost drivers and mechanisms to react quickly to any undesirable cost increases.
-* **Investments in reducing license and vendor costs** ensure that there is no unnecessary diversity of technologies and vendor contracts and that you can leverage economies of scale, as having fewer vendors with more users enables negotiating more favorable contracts. 
-* **Investments in reducing risk costs**. When your system is down, your business is disrupted, and you lose revenue. According to [diverse studies](https://www.atlassian.com/incident-management/kpis/cost-of-downtime), the average cost of downtime ranges from $2,300 to $9,000 per minute. You must invest in keeping your system reliable and secure to avoid losing revenue and disrupting your business. While the benefits of these types of investments are huge, the challenge with building the business case for this investment is that a reliable system will only create a few incidents, making it less tangible for many stakeholders to understand the importance of continuing such investments. Or, as noted by Repenning and Sterman "[Nobody Ever Gets Credit for Fixing Problems that Never Happened](https://web.mit.edu/nelsonr/www/CMR_Getting_Quality_v1.0.html)".
+
+**Investments to reduce maintenance costs** need to ensure that your code is easy to understand, change, and test. Such investments directly reduce your most significant cost, people costs, as code that is easy to maintain requires fewer people. Alternatively, you can look at these investments as a way to spend more effort on innovation and creating new revenue streams rather than merely keeping the systems in the air. Figure 5 illustrates what may happen if you do not invest. As systems grow in size and complexity, more developers are needed to maintain them. If the system is not easy to maintain, people will avoid touching code as they can easily break it. This situation will lead to a workaround (such as copying and pasting code and diverse hacks). These inefficient workarounds further increase the size and complexity of code, requiring even more developers to maintain it. And the vicious, expensive cycle continues.
 
 {pagebreak}
-![Figure 5: A downward spiral of poorly maintainable code. As such systems grow in size and complexity, more developers are needed to maintain them. If the system is not easy to maintain, people will avoid touching code as they can easily break it. This situation will lead to a workaround (such as copying and pasting code and diverse hacks). These inefficient workarounds further increase the size and complexity of code, requiring even more developers to maintain it. And the vicious cycle continues.](assets/images/economics/unsustainable-sw-dev.png)
+![Figure 5: A downward spiral of poorly maintainable code.](assets/images/economics/unsustainable-sw-dev.png)
+
+**Investments in reducing infrastructure costs** reduce spending and, if successful, are more directly visible. Such investments could take the form of redesigning your application to be more elastic, scaling up and down with minimal overhead. They could also create more transparency to have a precise image of all cost drivers and mechanisms to react quickly to any undesirable cost increases.
+
+**Investments in reducing license and vendor costs** ensure that there is no unnecessary diversity of technologies and vendor contracts and that you can leverage economies of scale, as having fewer vendors with more users enables negotiating more favorable contracts. 
+
+**Investments in reducing risk costs**. When your system is down, your business is disrupted, and you lose revenue. According to [diverse studies](https://www.atlassian.com/incident-management/kpis/cost-of-downtime), the average cost of downtime ranges from $2,300 to $9,000 per minute. You must invest in keeping your system reliable and secure to avoid losing revenue and disrupting your business. While the benefits of these types of investments are huge, the challenge with building the business case for this investment is that a reliable system will only create a few incidents, making it less tangible for many stakeholders to understand the importance of continuing such investments. Or, as noted by Repenning and Sterman "[Nobody Ever Gets Credit for Fixing Problems that Never Happened](https://web.mit.edu/nelsonr/www/CMR_Getting_Quality_v1.0.html)".
 
 ## Questions to Consider
 
