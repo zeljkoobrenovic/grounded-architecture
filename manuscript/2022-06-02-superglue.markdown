@@ -2,7 +2,8 @@
 
 # Mindset: Architects as Superglue {#superglue}
 
-![image by istock](assets/images/iStock-185061908.jpg)
+![](assets/images/iStock-185061908.jpg)
+^image by istock^
 
 **IN THIS SECTION, YOU WILL:**  Understand the view on architects as superglue (people who hold architecture, technical details, business needs, and people together across a large organization or complex projects) and get valuable tips on developing "superglue" abilities.
 
@@ -154,7 +155,8 @@ Architects must have a **minimal "length"** of all of these "legs" to be success
 
 In summary, developing architects as "superglue" means fostering a balanced combination of skills, impact, and leadership. Just like a three-legged stool, if one leg is too short, the whole thing topples over—quite possibly spilling your coffee in the process.
 
-![Figure 4: Architects must have a minimal "length" of all "legs" to be successful.](assets/images/arch/architect-legs.png)
+![](assets/images/arch/architect-legs.png)
+***Figure 4:** Architects must have a minimal "length" of all "legs" to be successful.*
 
  
 ## Questions to Consider
