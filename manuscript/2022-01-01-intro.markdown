@@ -59,14 +59,16 @@ As part of my Grounded Architecture quest, I've devised several guiding principl
   * [Product-Led Organizations](#product) 
   * [Governance: Nudge, Taxation, Mandates](#governance)
 
-If all this is not enough, in the appendix I outline several resources that have proven vital in my journey as an IT architect and have reminded me about what I always need to know about crucial aspects of IT practice. I routinely refer back to them and carry them in my practitioner "backpack," so I added their summaries in the appendix, including:
+If all this is not enough, in the appendix I outline several online resources that have proven vital in my journey as an IT architect and have reminded me about what I always need to know about crucial aspects of IT practice. I routinely refer back to them and carry them in my practitioner "backpack," so I added their summaries in the online [appendix](#appendix), including:
 
-* [Resources for Managing, Growing, and Hiring Architects](career-resources)
-* [Resources for Effective Communication](communication)
-* [EIC/ISO 25010 Standard](concepts-iso25010)
-* [Cloud Design Patterns](concepts-cloud)
-* [Characteristics of High Performing Organizations](concepts-org)
-* [Building Data Foundation Website: Lean Design Patterns and Techniques (Online Only)](data-website)
+* [Favorite Quotes](https://grounded-architecture.io/quotes)
+* [Bookshelf](https://grounded-architecture.io/bookshelf)
+* [Resources for Managing, Growing, and Hiring Architects](https://grounded-architecture.io/career-resources)
+* [Resources for Effective Communication](https://grounded-architecture.io/communication)
+* [EIC/ISO 25010 Standard](https://grounded-architecture.io/iso25010)
+* [Cloud Design Patterns](https://grounded-architecture.io/cloud-design-patterns)
+* [Characteristics of High Performing Organizations](https://grounded-architecture.io/high-performing-organizations)
+* [Building Data Foundation Website: Lean Design Patterns and Techniques](https://grounded-architecture.io/data-website)
 
 The rest of this book will explain the Grounded Architecture approach in detail. In this section, I want to share a few things about my motivation to write this book.
 
@@ -119,7 +121,7 @@ The Grounded Architecture approach also builds on many ideas that others have su
 
 In my quest to define modern architectural roles, I used Staff+ Engineering jobs as an inspiration for the development of architects. Tanya Reilly's book [**The Staff Engineer's Path**](https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/) and Will Larson's book [**Staff Engineer: Leadership beyond the management track**](https://staffeng.com/guides/staff-archetypes/) are helpful guides in defining the responsibilities of modern architects. Overall, the Staff-plus engineering roles provide excellent examples of the development of architects.
 
-Many other sources have influenced my work. Some of them you can find in the [Bookshelf section](#bookshelf).
+Many other sources have influenced my work. Some of them you can find in the [Bookshelf section](https://grounded-architecture.io/bookshelf).
 
 ## Why This Book?
 

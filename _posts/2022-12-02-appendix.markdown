@@ -29,25 +29,25 @@ As we bring this book to a close, I would like to equip you with a helpful appen
 
 Inspiration and Further Learning:
 
-* **[Favorite Quotes](quotes)**: a selection of my favorite quotes about architecture.
-* **[Bookshelf](bookshelf)**: an overview of the background work to probe further, linking several external resources inspiring my work.
+* **[Favorite Quotes](https://grounded-architecture.io/quotes)**: a selection of my favorite quotes about architecture.
+* **[Bookshelf](https://grounded-architecture.io/bookshelf)**: an overview of the background work to probe further, linking several external resources inspiring my work.
 
 
 Tools for Developing Soft Skills:
 
-* **[Resources for Managing, Growing, and Hiring Architects](career-resources)**: Pointers to resources for managin, growing and hiring architects.When growing and hiring architects, it is crucial to continually raise the bar, ensuring that the team is composed of highly skilled and diverse individuals who can contribute unique perspectives and expertise.
+* **[Resources for Managing, Growing, and Hiring Architects](https://grounded-architecture.io/career-resources)**: Pointers to resources for managin, growing and hiring architects.When growing and hiring architects, it is crucial to continually raise the bar, ensuring that the team is composed of highly skilled and diverse individuals who can contribute unique perspectives and expertise.
 
-* **[Effective Communication](communication)**: This section synthesizes various resources specifically designed to enhance your ability to communicate effectively, provide constructive feedback, and manage challenging conversations with confidence and clarity. These resources are not just theoretical, but they provide practical strategies and techniques that you can apply in your daily interactions.
+* **[Effective Communication](https://grounded-architecture.io/communication)**: This section synthesizes various resources specifically designed to enhance your ability to communicate effectively, provide constructive feedback, and manage challenging conversations with confidence and clarity. These resources are not just theoretical, but they provide practical strategies and techniques that you can apply in your daily interactions.
 
 Pragmatic Knowledge Resources:
 
-* **[EIC/ISO 25010 Standard](concepts-iso25010)** focuses on product quality and system quality models. While imperfect, this standard is a reasonably complete yet compact source for understanding software maintainability, security, reliability, and performance efficiency. 
+* **[EIC/ISO 25010 Standard](https://grounded-architecture.io/iso25010)** focuses on product quality and system quality models. While imperfect, this standard is a reasonably complete yet compact source for understanding software maintainability, security, reliability, and performance efficiency. 
 
-* **[Cloud Design Patterns](concepts-cloud)** offer a mix of crucial distributed system and messaging system topics combined with modern public cloud engineering themes.
+* **[Cloud Design Patterns](https://grounded-architecture.io/cloud-design-patterns)** offer a mix of crucial distributed system and messaging system topics combined with modern public cloud engineering themes.
 
-* **[Characteristics of High Performing Organizations](concepts-org)** from the 'Accelerate' book by Nicole Forsgren, Jez Humble, and Gene Kim is an excellent source of empirical knowledge about crucial practices of high-performing technology organizations.
+* **[Characteristics of High Performing Organizations](https://grounded-architecture.io/high-performing-organizations)** from the 'Accelerate' book by Nicole Forsgren, Jez Humble, and Gene Kim is an excellent source of empirical knowledge about crucial practices of high-performing technology organizations.
 
 Software Tools:
-* **[Software Tools](tools)** an overview of several tools I’ve built and use in daily architectural work.
-* **[Building Data Foundation Website: Lean Design Patterns and Techniques](data-website)** a few practical tips on building lean architecture dashboards and documents (e.g., to create the data foundation) using simple, widely available tools.
+* **[Software Tools](https://grounded-architecture.io/tools)** an overview of several tools I’ve built and use in daily architectural work.
+* **[Building Data Foundation Website: Lean Design Patterns and Techniques](https://grounded-architecture.io/data-website)** a few practical tips on building lean architecture dashboards and documents (e.g., to create the data foundation) using simple, widely available tools.
 
