@@ -58,29 +58,17 @@ def copy_post(post, counter):
                         sub_line = sub_line.strip()
                         content += '\n![](' + sub_line + ')'
                 elif not line.strip().startswith('<img') and not line.strip().startswith('src=') and not line.strip().startswith('style=') and not line.strip().startswith('<br'):
-                    line = line.replace('](intro)', '](#intro)')
-                    line = line.replace('](context)', '](#context)')
-                    line = line.replace('](goals)', '](#goals)')
-                    line = line.replace('](grounded-architecture)', '](#grounded-architecture)')
-                    line = line.replace('](data)', '](#data)')
-                    line = line.replace('](people)', '](#people)')
-                    line = line.replace('](activities)', '](#activities)')
-                    line = line.replace('](being-architect)', '](#being-architect)')
-                    line = line.replace('](superglue)', '](#superglue)')
-                    line = line.replace('](skills)', '](#skills)')
-                    line = line.replace('](impact)', '](#impact)')
-                    line = line.replace('](leadership)', '](#leadership)')
-                    line = line.replace('](effortless)', '](#effortless)')
-                    line = line.replace('](career)', '](#career)')
-                    line = line.replace('](doing-architecture)', '](#doing-architecture)')
-                    line = line.replace('](culture-map)', '](#culture-map)')
-                    line = line.replace('](six-simple-rules)', '](#six-simple-rules)')
-                    line = line.replace('](product)', '](#product)')
-                    line = line.replace('](governance)', '](#governance)')
-                    line = line.replace('](economics)', '](#economics)')
-                    line = line.replace('](decision-intelligence)', '](#decision-intelligence)')
-                    line = line.replace('](human-decisions)', '](#human-decisions)')
-                    line = line.replace('](bookshelf)', '](#bookshelf)')
+                    sections = ['intro', 'context', 'goals', 
+                                'grounded-architecture', 'data', 'people', 'activities', 'transformation', 
+                                'being-architect', 'superglue', 'skills', 'impact', 'career', 
+                                'soft-skills', 'culture-map', 'leadership', 
+                                'decision-making', 'decision-intelligence', 'human-decisions', 'economics', 
+                                'complexity', 'effortless', 'six-simple-rules', 
+                                'execution', 'product', 'governance'];
+
+                    for section in sections:
+                        line = line.replace('](' + section + ')', '](#' + section + ')')
+
                     line = re.sub('<.*?>', '', line)
                     content += line
             else:
@@ -126,25 +114,18 @@ posts = [
     '2022-06-15-career-paths.markdown',
     '2022-07-01-soft-skills.markdown',
     '2022-07-03-culture-map.md',
-    '2022-07-05-communication.md',
     '2022-07-07-leadership.markdown',
     '2022-07-10-decision-making.markdown',
     '2022-07-12-decision-intelligence.md',
     '2022-07-13-human-decisions.md',
     '2022-07-15-economics.md',
+    '2022-07-18-complexity.md',
     '2022-07-19-effortless.md',
-    '2022-07-20-organizations.markdown',
     '2022-07-21-six-simple-rules.md',
-    '2022-07-23-product.md',
-    '2022-07-24-governance.markdown',
-    '2022-11-01-summary.markdown',
-    '2022-11-04-cheat-sheet.markdown',
-    '2022-11-31-quotes.markdown',
-    '2022-12-02-appendix.markdown',
-    '2022-12-10-appendix-iso-25010.markdown',
-    '2022-12-15-appendix-cloud.markdown',
-    '2022-12-26-appendix-organization.markdown',
-    '2022-12-29-appendix-data-website-techniques.markdown'
+    '2022-09-20-execution.markdown',
+    '2022-09-23-product.md',
+    '2022-09-24-governance.markdown',
+    '2022-11-01-summary.markdown'
 ]
 
 counter = 0

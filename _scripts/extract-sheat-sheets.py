@@ -61,7 +61,7 @@ posts = [
     '2022-07-18-complexity.md',
     '2022-07-19-effortless.md',
     '2022-07-21-six-simple-rules.md',
-    '2022-09-20-organizations.markdown',
+    '2022-09-20-execution.markdown',
     '2022-09-23-product.md',
     '2022-09-24-governance.markdown'
 ]

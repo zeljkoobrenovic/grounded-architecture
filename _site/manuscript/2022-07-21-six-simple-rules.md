@@ -1,6 +1,6 @@
 
 
-# Cooperation-Based Organizations: Six Simple Rules {#six-simple-rules}
+# Six Simple Rules {#six-simple-rules}
 
 ![](assets/images/arch/spices-g253b7ca36_1920.jpg)
 ^image by nat aggiato from pixabay^
@@ -20,7 +20,7 @@ The Six Simple Rules approach is a practical solution for today's complex busine
 
 In this chapter, I explore how Grounded Architecture and Six Simple Rules are best friends. The Six Simple Rules ideas have been a significant source of inspiration for my work. [**Conway's Law**](https://martinfowler.com/bliki/ConwaysLaw.html) shows that the link between organizational structures and IT architecture is like peanut butter and jelly—strong and better together. The Six Simple Rules approach and architectural work are all about managing complexity without getting tangled up.
 
-## Background: Limitations of Hard and Soft Management Approaches
+## Limitations of Hard and Soft Management
 
 One of the Six Simple Rules' central premises is that **conventional management approaches**, which the authors split into hard and soft, are neither sufficient nor appropriate for the complexity of organizations nowadays.  
 

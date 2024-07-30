@@ -58,8 +58,13 @@ def copy_post(post, counter):
                         sub_line = sub_line.strip()
                         content += '\n![](' + sub_line + ')'
                 elif not line.strip().startswith('<img') and not line.strip().startswith('src=') and not line.strip().startswith('style=') and not line.strip().startswith('<br'):
-                    sections = ['intro', 'context', 'goals', 'grounded-architecture', 'data', 'people', 'activities', 'transformation', 'being-architect', 'superglue', 'skills', 'impact', 'career', 'soft-skills', 'culture-map',
-                                'leadership', 'decision-making', 'decision-intelligence', 'human-decisions', 'economics', 'complexity', 'effortless', 'six-simple-rules', 'organizations', 'product', 'governance'];
+                    sections = ['intro', 'context', 'goals', 
+                                'grounded-architecture', 'data', 'people', 'activities', 'transformation', 
+                                'being-architect', 'superglue', 'skills', 'impact', 'career', 
+                                'soft-skills', 'culture-map', 'leadership', 
+                                'decision-making', 'decision-intelligence', 'human-decisions', 'economics', 
+                                'complexity', 'effortless', 'six-simple-rules', 
+                                'execution', 'product', 'governance'];
 
                     for section in sections:
                         line = line.replace('](' + section + ')', '](#' + section + ')')
@@ -117,7 +122,7 @@ posts = [
     '2022-07-18-complexity.md',
     '2022-07-19-effortless.md',
     '2022-07-21-six-simple-rules.md',
-    '2022-09-20-organizations.markdown',
+    '2022-09-20-execution.markdown',
     '2022-09-23-product.md',
     '2022-09-24-governance.markdown',
     '2022-11-01-summary.markdown'
