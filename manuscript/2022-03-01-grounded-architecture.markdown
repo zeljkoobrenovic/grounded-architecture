@@ -2,7 +2,8 @@
 
 # Grounded Architecture Framework: Introduction {#grounded-architecture}
 
-![image by ichigo121212 from pixabay](assets/images/iStock-1767471664.jpg)
+![](assets/images/iStock-1767471664.jpg)
+^image by ichigo121212 from pixabay^
 
 **IN THIS SECTION, YOU WILL:** Get an overview of the Grounded Architecture framework: Data Foundation, People Foundation, and Architecture Activities Platform.
 
@@ -22,7 +23,9 @@ Grounded Architecture framework, as an approach to setting organizational struct
 * The People Foundation,
 * The Architecture Activities Platform.
 
-![Figure 1: The Grounded Architecture framework.](assets/images/model.png)
+![](assets/images/model.png)
+
+***Figure 1:** The Grounded Architecture framework.*
 
 The *Data Foundation* is **a system of tools and resources** that enables architects to make **data-informed decisions** based on a real-time and complete overview of the organization's technology landscape. The [Data Foundation section](#data) provides more details.
 
