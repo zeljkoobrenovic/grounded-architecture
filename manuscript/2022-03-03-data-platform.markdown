@@ -2,8 +2,7 @@
 
 # Data Foundation {#data}
 
-![](assets/images/arch/architecture-1857175_1920.jpg)
-^image by lorenzo cafaro from pixabay^
+![image by lorenzo cafaro from pixabay](assets/images/arch/architecture-1857175_1920.jpg)
 
 **IN THIS SECTION, YOU WILL:**  Understand how to use diverse data sources to support architecture decision-making processes and get concrete tips on creating architecture-centric data tools.
 
@@ -18,8 +17,7 @@ A> *"If we have data, let's look at data. If all we have are opinions, let's go 
 
 Everywhere I worked on creating architectural functions, I strongly (aka obsessively) emphasized data. Consequently, one of the first steps I make in any architecture practice is to create an architecture Data Foundation to get a complete, up-to-date picture of critical elements of an organization's technology landscapes (Figure 1). Manual documentation does not scale, and relying on data ensures the reliability and scalability of decision-making. In the past several years, I have also been working on creating open-source tools, such as [Sokrates](https://sokrates.dev), that can help obtain valuable architectural insights from data sources, such as source code repositories or public cloud billing reports. 
 
-![](assets/images/model-data.png)
-***Figure 1:** The structure of Grounded Architecture: The Data Foundation.*
+![Figure 1: The structure of Grounded Architecture: The Data Foundation.](assets/images/model-data.png)
 
 The good news is that **big organizations have lots of data** that, if used wisely, can provide an excellent basis for an architectural Data Foundation. With some automation and curation, getting a crystal clear overview of the technology landscape may be closer than it initially appears.
 
@@ -34,11 +32,9 @@ To illustrate what I mean by Data Foundation, I will give a few concrete example
 
 In the following sections, I detail several of these architectural data-driven tools.
 
-![](assets/images/apps.png) 
-**Figure 2:** *A screenshot of the start page of the architecture data dashboard we've built and used at AVIV Group.*
+![Figure 2: A screenshot of the start page of the architecture data dashboard we've built and used at AVIV Group.](assets/images/apps.png) 
 
-![](assets/images/apps-ebay.png) 
-**Figure 3:** *A screenshot of the start page of the architecture data dashboard we've built and used at eBay Classifieds.*
+![Figure 3: A screenshot of the start page of the architecture data dashboard we've built and used at eBay Classifieds.](assets/images/apps-ebay.png) 
 
 ### Example 1: Source Code and Commit History
 
@@ -70,8 +66,7 @@ Developing in or migrating to the public cloud can dramatically increase transpa
 
 Figure 4 shows the anonymous screenshot of the Cloud usage explorer, a tool I built to visualize automatically-collected data from standard Google Cloud Platform (GCP) usage reports.
 
-![](assets/images/archdata/cloud-usage-explorer.png)
-***Figure 4:** An example of a cloud usage explorer.*
+![Figure 4: An example of a cloud usage explorer.](assets/images/archdata/cloud-usage-explorer.png)
 
 ### Example 3: Financial and Vibrancy Data
 
@@ -81,50 +76,25 @@ These finance sleuths need this juicy data to, for instance, link the performanc
 
 So, next time you're knee-deep in architectural plans, don't forget to call the finance for top-notch data insights!
 
-![](assets/images/arch/cross-data.png)
-***Figure 5:** Combining data from a different source (e.g., cloud billing reports and vibrancy or revenue can lead to new insights (e.g., identifying inefficiencies in the application portfolio).*
+![Figure 5: Combining data from a different source (e.g., cloud billing reports and vibrancy or revenue can lead to new insights (e.g., identifying inefficiencies in the application portfolio).](assets/images/arch/cross-data.png)
 
 ### Example 4: Data-Driven Capability Map
 
-[Capability models](https://pubs.opengroup.org/togaf-standard/business-architecture/business-capabilities.html) are frequently associated with Enterprise Architecture, providing a structured approach to organizing and managing an organization's capabilities. Traditionally, these capability maps are maintained manually, which can be time-consuming and prone to inaccuracies. A data-driven version of the capability map enhances this approach by integrating real-time data sources, offering a more dynamic and accurate representation of capabilities. A data-driven version of the capability map enhances this approach by integrating real-time data sources, making the capability map **dynamic, alive**, and significantly more useful.
+[Capability models](https://pubs.opengroup.org/togaf-standard/business-architecture/business-capabilities.html) are frequently associated with Enterprise Architecture, providing a structured approach to organizing and managing an organization's capabilities. Traditionally, these capability maps are maintained manually, which can be time-consuming and prone to inaccuracies. A data-driven version of the capability map enhances this approach by integrating real-time data sources, offering a more dynamic and accurate representation of capabilities, making the capability map dynamic, alive, and significantly more helpful.
 
-I have created several versions of data-driven capability maps, where a capability map includes capability data cards that consolidate various data types relevant to each capability. We then automatically generated sites and visuals from these data for self-service use within the organization. These cards provide a comprehensive view of the current state and performance of each capability, integrating multiple data sources:
+I have created several versions of **data-driven capability** maps that include capability data cards consolidating various data types relevant to each capability. We then automatically **generated sites and visuals** from these data for self-service use within the organization. These cards provide a comprehensive view of the current state and performance of each capability, integrating multiple data sources:
 
-1. **Documentation Data:**
-   - **Links to Key Documents:** Direct access to important documents related to the capability.
-   - **Automated Summaries:** Using generative AI to automatically summarize key documents, making it easier to quickly understand the essential points and status.
+Documentation includes links to **key documents,** offering direct access to important documents related to the capability, and automated summaries using generative AI to summarize key documents, making it easier to understand the essential points and status quickly.
 
-2. **Technical Implementation Evidence:**
-   Source Code Repositories:** These repositories link to and analyze all source code related to the capability, providing insight into the technical implementation.
-   - **Cloud Accounts and Billing Reports:** Detailed analyses of cloud accounts, including costs, services used, and geographical distribution (regions).
-   - **Infrastructure Costs and Analyses:** Detailed breakdown of the capability's associated infrastructure costs.
-   - **Legacy Assets List:** This is an Inventory of legacy systems and components that are part of or impact the capability.
-   - **Technical Debt Inventory:** Identification and assessment of technical debt associated with the capability.
+Technical implementation evidence encompasses **source code** repositories, linking to and analyzing all source code related to the capability, **cloud billing reports,** providing detailed analyses of cloud accounts, including costs, services used, geographical distribution (regions), infrastructure costs, and analyses, giving a detailed breakdown of the capability's associated infrastructure costs, a legacy assets list, inventorying legacy systems and components that impact the capability, and a technical debt inventory, identifying and assessing technical debt associated with the capability.
 
-3. **Planning Evidence:**
-   - **Detailed Planning Data:** Information from planning systems like Jira, including detailed task breakdowns and timelines.
-   - **Effort Estimates:** Projections of the efforts required to develop or maintain the capability.
+Planning evidence consists of detailed **planning data** from systems like Jira, including detailed task breakdowns, timelines, and effort estimates, which project the efforts required to develop or maintain the capability.
 
-4. **Execution Data:**
-   - **Product and Business Evidence:** 
-     - **Documentation of Demos:** Links to slides, videos, and other demo materials.
-     - **Product Analytics Data:** Metrics such as user engagement (vibrancy), conversion rates, and other relevant analytics.
-   - **HR Evidence:**
-     - **People and Teams:** Information about the personnel and teams working on the capability.
-     - **Time Tracking Data:** Detailed reports on the time spent on the capability by different team members.
+Execution eata includes **product and business evidence,** with **demo** documentation, links to slides, videos, and other demo materials, as well as product analytics data, providing metrics such as user engagement (vibrancy), conversion rates, and other relevant analytics. HR evidence encompasses information about the personnel and teams working on the capability and time tracking data, offering detailed reports on the time spent on the capability by different team members.
 
-Real-time data integration allows for creating dynamic and aggregated views across capabilities. These views can be grouped by criteria, such as domain programs or themes, providing a broader perspective on how capabilities interrelate and contribute to strategic objectives. Examples include:
+Real-time data integration allows for creating dynamic and aggregated views across capabilities. These views can be grouped by criteria such as **domain programs or themes,** providing a broader perspective on how capabilities interrelate and contribute to strategic objectives. This strategic alignment is a key feature of the data-driven capability maps, ensuring that capabilities are always in sync with broader organizational goals and initiatives.
 
-- **Domain Programs:** Grouping capabilities by specific business domains (e.g., finance, marketing, operations) to understand domain-specific strengths and weaknesses.
-- **Themes:** Aggregating capabilities around strategic themes or initiatives (e.g., digital transformation, customer experience improvement) to track progress and resource allocation.
-
-Key benefits of a data-driven capability map include:
-
-1. **Enhanced Decision-Making:** Real-time data provides a current and accurate picture of capabilities, enabling better-informed strategic decisions.
-2. **Increased Transparency:** Detailed evidence and summaries help us understand the status and needs of each capability.
-3. **Improved Efficiency:** Automated data aggregation and reporting reduce manual effort and speed up the analysis process.
-4. **Strategic Alignment:** Aggregated views help ensure that capabilities are aligned with broader organizational goals and initiatives.
-5. **Resource Optimization:** Detailed cost and effort data help optimize resource allocation and manage budgets effectively.
+Key benefits of a data-driven capability map include **enhanced decision-making,** with real-time data providing a current and accurate picture of capabilities, enabling better-informed strategic decisions, increased **transparency,** with detailed evidence and summaries helping us understand the status and needs of each capability, improved efficiency, with automated data aggregation and reporting reducing manual effort and speeding up the analysis process, strategic alignment, with aggregated views helping ensure that capabilities are aligned with broader organizational goals and initiatives, and resource optimization, with detailed cost and effort data helping optimize resource allocation and manage budgets effectively.
 
 By leveraging a data-driven capability map, organizations can achieve a more dynamic, transparent, and efficient approach to managing their capabilities, leading to improved strategic outcomes and operational performance.
 
@@ -189,25 +159,15 @@ So there you have it. The data's ready to spill its secrets—you need to know t
 
 Figures 6 to 10 show some insights from source code analyses with Sokrates. 
 
-![](assets/images/archdata/src_1.png)
+![Figure 6: Sokrates can instantly create a helicopter view of the technology landscape, programming languages, active contributors, and commit trends.](assets/images/archdata/src_1.png)
 
-**Figure 6**: *Sokrates can instantly create a helicopter view of the technology landscape, programming languages, active contributors, and commit trends.*
-
-![](assets/images/archdata/src_2.png)
-
-**Figure 7**: *Sokrates can show detailed code and contributors' trends per repository, enabling zooming in each repository up to the code level.*
+![Figure 7: Sokrates can show detailed code and contributors' trends per repository, enabling zooming in each repository up to the code level.](assets/images/archdata/src_2.png)
  
-![](assets/images/archdata/src_5.png)
+![Figure 8: Sokrates can create a tech radar by tagging projects with identified technologies.](assets/images/archdata/src_5.png)
 
-**Figure 8**: *Sokrates can create a tech radar by tagging projects with identified technologies.*
-
-![](assets/images/archdata/src_3.png)
-
-**Figure 9**: *Sokrates can show contributor trends, distribution of "veterans" and "rookies," and dependencies between people and repositories, enabling zooming in into patterns of the contribution of individual contributors.*
+![Figure 9: Sokrates can show contributor trends, distribution of "veterans" and "rookies," and dependencies between people and repositories, enabling zooming in into patterns of the contribution of individual contributors.](assets/images/archdata/src_3.png)
  
-![](assets/images/arch/sokrates_teams.png)
-
-**Figure 10**: *Sokrates can reveal the team topologies by plotting 2D and 3D graphs of dependencies that people create through working on the same repositories in the same period.*
+![Figure 10: Sokrates can reveal the team topologies by plotting 2D and 3D graphs of dependencies that people create through working on the same repositories in the same period.](assets/images/arch/sokrates_teams.png)
 
 ## Questions to Consider
 

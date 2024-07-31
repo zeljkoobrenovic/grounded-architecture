@@ -13,12 +13,12 @@ A> **KEY POINTS:**
 A> * To better understand any idea or solution, it is crucial to understand the context in which this idea developed. 
 A> * The Grounded Architecture approach has evolved in the context of global, loosely coupled organizations that are diverse, with nonlinear growth dynamics, and under transformation pressures. 
 
-To truly grasp any idea or solution, you need to understand the context in which these ideas were born. My work on creating and running an architecture practice isn't just a lofty idea; it's a practical approach sharpened from real-world experience. My perspective comes from roles like Chief Architect at AVIV Group and Principal Architect at eBay Classifieds and Adevinta. Here's a peek into the unique context that shaped my Grounded Architecture approach:
+To truly grasp any idea or solution, you need to understand the context in which these ideas were born. My work on creating and running an architecture practice isn't just a lofty idea; it's a practical approach sharpened from real-world experience. My perspective comes from lessons I learned as a Chief Architect at AVIV Group and Principal Architect at eBay Classifieds and Adevinta. Here's a peek into the context that shaped my Grounded Architecture approach:
 
 * **Global scale**: operating across multiple countries and continents with millions of users.
 * **Multi-dimensional diversity**: the organizations I worked in were diverse, including customer base, workforce, business models, team topologies, and technology stacks.
-* **Nonlinear growth dynamics**: besides organic growth, big organizations change their portfolio through mergers and acquisitions of new businesses or divestments.
-* **Synergies and transformation pressures**: big organizations do not want just to be big. They want to exploit the benefits of the economies of scale and reduce duplication of efforts.
+* **Nonlinear growth dynamics**: in addition to organic growth, big organizations change their portfolio through mergers and acquisitions of new businesses or divestments.
+* **Synergies and transformation pressures**: big organizations do not want just to be big, they want to exploit the benefits of the economies of scale and reduce duplication of efforts.
 * **Decentralized, loosely-coupled organizational units**: organizational units have significant autonomy.
 
 ## Global Scale
@@ -37,27 +37,27 @@ Operating on a global scale introduces several compelling opportunities for orga
 
 However, the global and massive scale also presents numerous challenges. It results in **high organizational complexity**, with thousands of potential communication channels within the organization. The **complex technology landscape** entails numerous interconnected services. Managing a large talent pool incurs **high workforce costs**. Furthermore, such organizations face high computing resource expenses due to the need to serve a vast customer base around the clock. The operational complexity increases with high and variable customer demands across multiple locations. Additionally, global organizations have a **vast attack surface**, with many potential entry points for attackers. Lastly, any manual process, such as creating an organizational or technology landscape overview, is limited due to the scale involved.
 
-Balancing these opportunities and challenges on a global scale has been one of the most challenging and rewarding aspects of my architectural work.
+Balancing opportunities and challenges on a global scale has been one of the most demanding and rewarding aspects of my architectural work.
 
 ## Multi-Dimensional Diversity
 
 The organizations I worked with were incredibly diverse across multiple dimensions:
 
-* **Cultures**: Collaborated with a varied workforce and clientele, both local and remote.
-* **Organization**: Engaged with units of different sizes, complexities, and organizational styles.
-* **Product**: Managed diverse features catering to various markets and customer segments.
-* **IT Architecture**: Balanced legacy systems with modern approaches.
-* **Technology**: Utilized numerous programming languages and thousands of third-party libraries, frameworks, and services.
+* **Cultures**: A varied workforce and clientele, both local and remote.
+* **Organization**: Units of different sizes, complexities, and organizational styles.
+* **Product**: Diverse product features catering to various markets and customer segments.
+* **IT Architecture**: Combination of legacy systems and modern approaches.
+* **Technology**: Numerous programming languages and thousands of third-party libraries, frameworks, and services.
 
 ![](assets/images/arch/pictures-g139ff7ebb_1280.jpg)
 ^image by simon from pixabay^
 
-I worked with units differing in several aspects:
+For instance, I worked with organizational units differing in several aspects:
 * **Unit Size**: Ranged from hundreds of employees to just a dozen.
 * **Team Topologies**: Spanned from single-team setups to hierarchical team organizations.
 * **Architectural Roles**: Varied from having dedicated local architecture teams and lead architects to smaller units where team members handled architectural duties alongside other responsibilities.
 
-We managed a range of styles in active production systems, from legacy **monolithic** applications to intricate modern **microservice and serverless** ecosystems. Each organizational segment had its own unique history and legacy systems.
+Technology-wise, we managed a range of styles in active production systems, from legacy **monolithic** applications to intricate modern **microservice and serverless** ecosystems. Each organizational segment had its own unique history and legacy systems.
 
 Our technology stack was extensive, covering multiple mainstream technologies. The infrastructure included several public cloud providers (AWS, GCP, Azure) and custom-built private data centers. Our systems employed a variety of application technologies, such as:
 * **Database Technologies**: MySQL, PostgreSQL, MongoDB, Cassandra, AWS RDS, and more.
@@ -121,7 +121,7 @@ In contrast, a **loosely coupled organization** lacks some elements of a tightly
 ![](assets/images/iStock-1321965054.jpg)
 ^image by istock^
 
-Due to historical and strategic reasons, most organizational units I worked with were loosely coupled. Our companies frequently grew through acquisitions of companies in different marketplaces. Business strategies also promoted the independent evolution of local units to address local market needs more effectively and quickly. These units often enjoyed a high level of autonomy, frequently with their development teams and sometimes with local CFOs, CMOs, or CEOs.
+Most organizational units I worked with were loosely coupled. Our companies frequently grew through acquisitions of companies in different marketplaces. Business strategies also promoted the independent evolution of local units to address local market needs more effectively and quickly. These units often enjoyed a high level of autonomy, frequently with their development teams and sometimes with local CFOs, CMOs, or CEOs.
 
 Loose coupling offers several advantages:
 - **Higher Flexibility**: Units can develop independently, addressing specific needs without synchronizing with other units.

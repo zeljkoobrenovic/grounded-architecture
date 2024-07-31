@@ -181,6 +181,7 @@ So there you have it. The data's ready to spill its secrets—you need to know t
 
 ## To Probe Further
 
+* Online Appendix [Building Data Foundation Website: Lean Design Patterns and Techniques](https://grounded-architecture.io/data-website) a few practical tips on building lean architecture dashboards and documents (e.g., to create the data foundation) using simple, widely available tools.
 * Open-source [architecture dashboard examples](https://zeljkoobrenovic.github.io/grounded-architecture-dashboard-examples/)
 * [Sokrates](https://sokrates.dev), an open-source polyglot source code examination tool
 

@@ -16,7 +16,7 @@ Grounded Architecture emerged as a necessity in response to our [intricate and m
 
 ## Goals
 
-Here's a detailed breakdown of the goals we set to revamp our approach.
+Here's a detailed breakdown of the goals I set for an architecture practice.
 
 ### Goal 1: Executing At Scale
 

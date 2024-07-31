@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-07-31T23:30:10+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: Redefining IT Architecture Practice</title><subtitle></subtitle><entry><title type="html">Cheat Sheet</title><link href="http://localhost:4000/cheat-sheet" rel="alternate" type="text/html" title="Cheat Sheet" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/appendix-cheat-sheet</id><content type="html" xml:base="http://localhost:4000/cheat-sheet"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/iStock-1182643171.jpg" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-08-01T01:11:50+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: Redefining IT Architecture Practice</title><subtitle></subtitle><entry><title type="html">Cheat Sheet</title><link href="http://localhost:4000/cheat-sheet" rel="alternate" type="text/html" title="Cheat Sheet" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/appendix-cheat-sheet</id><content type="html" xml:base="http://localhost:4000/cheat-sheet"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/iStock-1182643171.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by iStock
 </div>
@@ -272,10 +272,10 @@ To truly grasp any idea or solution, you need to understand the context in which
 <p>I have honed my approach within genuinely global and multicultural organizations on a massive scale:</p>
 
 <ul>
-  <li>Operating across numerous geographies, cultures, and languages,</li>
-  <li>Serving millions of users daily,</li>
-  <li>Collaborating with thousands of software developers across hundreds of product and development teams,</li>
-  <li>Implementing systems comprising hundreds of millions of lines of source code.</li>
+  <li>Operating across numerous <strong>geographies, cultures, and languages,</strong></li>
+  <li>Serving <strong>millions of users</strong> daily,</li>
+  <li>Collaborating with thousands of software <strong>developers</strong> across hundreds of product and development <strong>teams,</strong></li>
+  <li>Implementing systems comprising hundreds of <strong>millions of lines of source code</strong>.</li>
 </ul>
 
 <p><img src="assets/images/arch/earth-g217b5730b_1920.jpg" alt="" /></p>
@@ -307,37 +307,15 @@ Image by <a href="https://pixabay.com/users/thedigitalartist-202249/?utm_source=
 Image by <a href="https://pixabay.com/users/simon-3/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=381937">Simon</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=381937">Pixabay</a>
 </div>
 
-<p>For instance, I worked with organizational units differing in several aspects:</p>
-<ul>
-  <li><strong>Unit Size</strong>: Ranged from hundreds of employees to just a dozen.</li>
-  <li><strong>Team Topologies</strong>: Spanned from single-team setups to hierarchical team organizations.</li>
-  <li><strong>Architectural Roles</strong>: Varied from having dedicated local architecture teams and lead architects to smaller units where team members handled architectural duties alongside other responsibilities.</li>
-</ul>
+<p>For instance, I worked with organizational units differing in several aspects, including <strong>unit size,</strong> which ranged from hundreds of employees to just a dozen. The <strong>team topologies</strong> varied, spanning from single-team setups to hierarchical team organizations. Additionally, the <strong>architectural roles</strong> varied, with some units having dedicated local architecture teams and lead architects. In contrast, in smaller units, team members handled architectural duties alongside other responsibilities.</p>
 
-<p>Technology-wise, we managed a range of styles in active production systems, from legacy <strong>monolithic</strong> applications to intricate modern <strong>microservice and serverless</strong> ecosystems. Each organizational segment had its own unique history and legacy systems.</p>
+<p>Similarly, technology-wise, we managed a range of styles in active production systems, from legacy <strong>monolithic</strong> applications to intricate modern <strong>microservice</strong> and <strong>serverless</strong> ecosystems. Each organizational segment had its own unique history and legacy systems. Our technology stack was extensive, covering multiple mainstream technologies. The infrastructure included several public cloud providers such as AWS, GCP, Azure, and custom-built private data centers. Our systems employ various application technologies, including database technologies like MySQL, PostgreSQL, MongoDB, Cassandra, AWS RDS, and more. The backend programming languages used were Java, C#, Go, Scala, PHP, Node.js. We used Swift, Objective-C, Java, Kotlin, Flutter/Dart, and more for mobile app programming. The frontend programming languages and frameworks included React, AngularJS, Vue, jQuery, and others.</p>
 
-<p>Our technology stack was extensive, covering multiple mainstream technologies. The infrastructure included several public cloud providers (AWS, GCP, Azure) and custom-built private data centers. Our systems employed a variety of application technologies, such as:</p>
-<ul>
-  <li><strong>Database Technologies</strong>: MySQL, PostgreSQL, MongoDB, Cassandra, AWS RDS, and more.</li>
-  <li><strong>Backend Programming Languages</strong>: Java, C#, Go, Scala, PHP, Node.js, Kotlin, among others.</li>
-  <li><strong>Mobile App Programming Languages</strong>: Swift, Objective-C, Java, Kotlin, Flutter/Dart, and more.</li>
-  <li><strong>Frontend Programming Languages and Frameworks</strong>: React, AngularJS, Vue, jQuery, and others.</li>
-</ul>
+<p>Diversity offers several <strong>opportunities,</strong> including increased technology <strong>innovation.</strong> A diverse workforce can explore a variety of technologies and tools creatively. It also leads to better implementation because access to a broader <strong>pool of diverse resources</strong> allows for the selection of the best tool for the job.</p>
 
-<p>Diversity offers several opportunities, including:</p>
-<ul>
-  <li><strong>Increased Technology Innovation</strong>: A diverse workforce can explore more technologies and tools creatively.</li>
-  <li><strong>Better Implementation</strong>: Access to a broader pool of resources allows for selecting the best tool for the job.</li>
-</ul>
+<p>However, diversity also brings challenges. One such challenge is <strong>increased complexity,</strong> resulting in a higher system landscape complexity and greater cognitive load for teams mastering numerous topics simultaneously. Additionally, there is <strong>reduced flexibility,</strong> as expertise spread across many domains and technologies limits reorganization possibilities. Furthermore, diversity can lead to higher <strong>technical debt</strong> due to multiple technology stacks, increasing legacy components, and outdated technologies.</p>
 
-<p>However, diversity also brings challenges:</p>
-<ul>
-  <li><strong>Increased Complexity</strong>: Higher system landscape complexity and cognitive load for teams mastering numerous topics simultaneously.</li>
-  <li><strong>Reduced Flexibility</strong>: Expertise is spread across many domains and technologies, limiting reorganization possibilities.</li>
-  <li><strong>Higher Technical Debt</strong>: Multiple technology stacks can lead to increased legacy components and outdated technologies.</li>
-</ul>
-
-<p>In conclusion, while diversity is a rich source of new possibilities from an architectural perspective, it also necessitates managing complexity carefully.</p>
+<p>In conclusion, while diversity is a rich source of new possibilities from an architectural perspective, it also necessitates carefully managing complexity.</p>
 
 <p><br /></p>
 
@@ -368,21 +346,9 @@ Image by <a href="https://pixabay.com/users/pexels-2286921/?utm_source=link-attr
 Image by <a href="https://pixabay.com/users/mustangjoe-2162920/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1236578">MustangJoe</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1236578">Pixabay</a>
 </div>
 
-<p>Pursuing synergies and transformations offers several opportunities:</p>
-<ul>
-  <li><strong>Cost Reductions</strong>: Synergies lead to less duplication and lower expenses.</li>
-  <li><strong>Accelerated Innovation</strong>: Savings from cost reductions free up resources for innovation.</li>
-  <li><strong>Reuse and Sharing</strong>: Creating synergistic components enables more possibilities for reuse.</li>
-  <li><strong>Increased Efficiency</strong>: Well-executed transformations result in greater efficiencies and lower unit costs.</li>
-</ul>
+<p>Pursuing synergies and transformations offers several opportunities, such as <strong>cost reductions</strong> through less duplication and lower expenses. <strong>Accelerated innovation</strong> can occur as savings from cost reductions free up resources for new developments. Additionally, creating synergistic components enables more possibilities for <strong>reuse and sharing,</strong> while well-executed transformations result in increased <strong>efficiency</strong> and <strong>lower unit costs.</strong></p>
 
-<p>However, striving for synergies and efficiency presents challenges:</p>
-<ul>
-  <li><strong>Up-Front Investment</strong>: Significant initial investment is required to realize benefits, which carries high risks.</li>
-  <li><strong>Performance Pressure</strong>: Teams must deliver excellent short-term results while undergoing significant transformations.</li>
-  <li><strong>Temporary Productivity Drops</strong>: Balancing transformation activities with regular work can temporarily reduce productivity.</li>
-  <li><strong>Increased Complexity</strong>: Post-transformation, the organization and technology landscape may become more complex due to increased dependencies, such as reusing central services.</li>
-</ul>
+<p>However, striving for synergies and efficiency presents challenges. There is a need for significant <strong>initial investment</strong> to realize benefits, which carries high risks. Performance pressure arises as teams must deliver excellent <strong>short-term results</strong> while undergoing significant transformations. Balancing transformation activities with regular work can temporarily <strong>reduce productivity.</strong> Moreover, post-transformation, the organization and technology landscape may become more complex due to increased dependencies, such as reusing central services.</p>
 
 <p>The pressure to achieve synergies and efficiency can lead to high expectations and complicate regular architectural work. Nonetheless, these forces also create numerous opportunities for growth and improvement.</p>
 
@@ -401,19 +367,9 @@ Image by iStock
 
 <p>Most organizational units I worked with were loosely coupled. Our companies frequently grew through acquisitions of companies in different marketplaces. Business strategies also promoted the independent evolution of local units to address local market needs more effectively and quickly. These units often enjoyed a high level of autonomy, frequently with their development teams and sometimes with local CFOs, CMOs, or CEOs.</p>
 
-<p>Loose coupling offers several advantages:</p>
-<ul>
-  <li><strong>Higher Flexibility</strong>: Units can develop independently, addressing specific needs without synchronizing with other units.</li>
-  <li><strong>Faster Time-to-Market</strong>: Fewer dependencies enable marketplaces to rapidly change and evolve their products for local needs.</li>
-  <li><strong>Innovation</strong>: Opportunities to quickly explore ideas in smaller contexts.</li>
-</ul>
+<p>Loose coupling offers several advantages. It provides <strong>higher flexibility,</strong> allowing units to develop independently and address specific needs without synchronizing with other units. This flexibility leads to <strong>reduced time-to-market,</strong> as fewer dependencies enable marketplaces to rapidly change and evolve their products for local needs. Additionally, loose coupling <strong>fosters innovation</strong> by offering opportunities to quickly explore ideas in smaller contexts.</p>
 
-<p>However, loose coupling also presents several challenges:</p>
-<ul>
-  <li><strong>Duplication of Effort</strong>: While local market needs differ, there is often significant overlap in product features and technology, leading to redundant efforts as each marketplace creates solutions for the same problems.</li>
-  <li><strong>Increased Accidental Diversity</strong>: Limited synchronization may result in significantly different design and technology choices for the same problem, making it challenging to consolidate solutions, move personnel between teams, or benefit from economies of scale.</li>
-  <li><strong>Limited Central Control</strong>: Fewer dependencies and varying goals make it more difficult to implement changes across the organization.</li>
-</ul>
+<p>However, loose coupling also presents several challenges. It can lead to duplication of effort, as local market needs might differ but often have significant overlap in product features and technology, resulting in <strong>redundant efforts</strong> as each marketplace creates solutions for the same problems. This approach also increases <strong>accidental diversity,</strong> where limited synchronization may result in significantly different design and technology choices for the same problem, making it difficult to consolidate solutions, move personnel between teams, or benefit from economies of scale. Moreover, loose coupling results in <strong>limited control,</strong> as fewer dependencies and varying goals make it more challenging to implement changes across the organization.</p>
 
 <p>From an architectural perspective, loose coupling presents an interesting challenge as it often leads to a conflict between global alignment and control and local autonomy.</p>
 
@@ -689,66 +645,21 @@ Source code and its commit history include an astonishing amount of information 
 <p><br /></p>
 <h3 id="example-4-data-driven-capability-map">Example 4: Data-Driven Capability Map</h3>
 
-<p><a href="https://pubs.opengroup.org/togaf-standard/business-architecture/business-capabilities.html">Capability models</a> are frequently associated with Enterprise Architecture, providing a structured approach to organizing and managing an organization’s capabilities. Traditionally, these capability maps are maintained manually, which can be time-consuming and prone to inaccuracies. A data-driven version of the capability map enhances this approach by integrating real-time data sources, offering a more dynamic and accurate representation of capabilities. A data-driven version of the capability map enhances this approach by integrating real-time data sources, making the capability map <strong>dynamic, alive</strong>, and significantly more useful.</p>
+<p><a href="https://pubs.opengroup.org/togaf-standard/business-architecture/business-capabilities.html">Capability models</a> are frequently associated with Enterprise Architecture, providing a structured approach to organizing and managing an organization’s capabilities. Traditionally, these capability maps are maintained manually, which can be time-consuming and prone to inaccuracies. A data-driven version of the capability map enhances this approach by integrating real-time data sources, offering a more dynamic and accurate representation of capabilities, making the capability map dynamic, alive, and significantly more helpful.</p>
 
-<p>I have created several versions of data-driven capability maps, where a capability map includes capability data cards that consolidate various data types relevant to each capability. We then automatically generated sites and visuals from these data for self-service use within the organization. These cards provide a comprehensive view of the current state and performance of each capability, integrating multiple data sources:</p>
+<p>I have created several versions of <strong>data-driven capability</strong> maps that include capability data cards consolidating various data types relevant to each capability. We then automatically <strong>generated sites and visuals</strong> from these data for self-service use within the organization. These cards provide a comprehensive view of the current state and performance of each capability, integrating multiple data sources:</p>
 
-<ol>
-  <li><strong>Documentation Data:</strong>
-    <ul>
-      <li><strong>Links to Key Documents:</strong> Direct access to important documents related to the capability.</li>
-      <li><strong>Automated Summaries:</strong> Using generative AI to automatically summarize key documents, making it easier to quickly understand the essential points and status.</li>
-    </ul>
-  </li>
-  <li><strong>Technical Implementation Evidence:</strong>
-Source Code Repositories:** These repositories link to and analyze all source code related to the capability, providing insight into the technical implementation.
-    <ul>
-      <li><strong>Cloud Accounts and Billing Reports:</strong> Detailed analyses of cloud accounts, including costs, services used, and geographical distribution (regions).</li>
-      <li><strong>Infrastructure Costs and Analyses:</strong> Detailed breakdown of the capability’s associated infrastructure costs.</li>
-      <li><strong>Legacy Assets List:</strong> This is an Inventory of legacy systems and components that are part of or impact the capability.</li>
-      <li><strong>Technical Debt Inventory:</strong> Identification and assessment of technical debt associated with the capability.</li>
-    </ul>
-  </li>
-  <li><strong>Planning Evidence:</strong>
-    <ul>
-      <li><strong>Detailed Planning Data:</strong> Information from planning systems like Jira, including detailed task breakdowns and timelines.</li>
-      <li><strong>Effort Estimates:</strong> Projections of the efforts required to develop or maintain the capability.</li>
-    </ul>
-  </li>
-  <li><strong>Execution Data:</strong>
-    <ul>
-      <li><strong>Product and Business Evidence:</strong>
-        <ul>
-          <li><strong>Documentation of Demos:</strong> Links to slides, videos, and other demo materials.</li>
-          <li><strong>Product Analytics Data:</strong> Metrics such as user engagement (vibrancy), conversion rates, and other relevant analytics.</li>
-        </ul>
-      </li>
-      <li><strong>HR Evidence:</strong>
-        <ul>
-          <li><strong>People and Teams:</strong> Information about the personnel and teams working on the capability.</li>
-          <li><strong>Time Tracking Data:</strong> Detailed reports on the time spent on the capability by different team members.</li>
-        </ul>
-      </li>
-    </ul>
-  </li>
-</ol>
+<p>Documentation includes links to <strong>key documents,</strong> offering direct access to important documents related to the capability, and automated summaries using generative AI to summarize key documents, making it easier to understand the essential points and status quickly.</p>
 
-<p>Real-time data integration allows for creating dynamic and aggregated views across capabilities. These views can be grouped by criteria, such as domain programs or themes, providing a broader perspective on how capabilities interrelate and contribute to strategic objectives. Examples include:</p>
+<p>Technical implementation evidence encompasses <strong>source code</strong> repositories, linking to and analyzing all source code related to the capability, <strong>cloud billing reports,</strong> providing detailed analyses of cloud accounts, including costs, services used, geographical distribution (regions), infrastructure costs, and analyses, giving a detailed breakdown of the capability’s associated infrastructure costs, a legacy assets list, inventorying legacy systems and components that impact the capability, and a technical debt inventory, identifying and assessing technical debt associated with the capability.</p>
 
-<ul>
-  <li><strong>Domain Programs:</strong> Grouping capabilities by specific business domains (e.g., finance, marketing, operations) to understand domain-specific strengths and weaknesses.</li>
-  <li><strong>Themes:</strong> Aggregating capabilities around strategic themes or initiatives (e.g., digital transformation, customer experience improvement) to track progress and resource allocation.</li>
-</ul>
+<p>Planning evidence consists of detailed <strong>planning data</strong> from systems like Jira, including detailed task breakdowns, timelines, and effort estimates, which project the efforts required to develop or maintain the capability.</p>
 
-<p>Key benefits of a data-driven capability map include:</p>
+<p>Execution eata includes <strong>product and business evidence,</strong> with <strong>demo</strong> documentation, links to slides, videos, and other demo materials, as well as product analytics data, providing metrics such as user engagement (vibrancy), conversion rates, and other relevant analytics. HR evidence encompasses information about the personnel and teams working on the capability and time tracking data, offering detailed reports on the time spent on the capability by different team members.</p>
 
-<ol>
-  <li><strong>Enhanced Decision-Making:</strong> Real-time data provides a current and accurate picture of capabilities, enabling better-informed strategic decisions.</li>
-  <li><strong>Increased Transparency:</strong> Detailed evidence and summaries help us understand the status and needs of each capability.</li>
-  <li><strong>Improved Efficiency:</strong> Automated data aggregation and reporting reduce manual effort and speed up the analysis process.</li>
-  <li><strong>Strategic Alignment:</strong> Aggregated views help ensure that capabilities are aligned with broader organizational goals and initiatives.</li>
-  <li><strong>Resource Optimization:</strong> Detailed cost and effort data help optimize resource allocation and manage budgets effectively.</li>
-</ol>
+<p>Real-time data integration allows for creating dynamic and aggregated views across capabilities. These views can be grouped by criteria such as <strong>domain programs or themes,</strong> providing a broader perspective on how capabilities interrelate and contribute to strategic objectives. This strategic alignment is a key feature of the data-driven capability maps, ensuring that capabilities are always in sync with broader organizational goals and initiatives.</p>
+
+<p>Key benefits of a data-driven capability map include <strong>enhanced decision-making,</strong> with real-time data providing a current and accurate picture of capabilities, enabling better-informed strategic decisions, increased <strong>transparency,</strong> with detailed evidence and summaries helping us understand the status and needs of each capability, improved efficiency, with automated data aggregation and reporting reducing manual effort and speeding up the analysis process, strategic alignment, with aggregated views helping ensure that capabilities are aligned with broader organizational goals and initiatives, and resource optimization, with detailed cost and effort data helping optimize resource allocation and manage budgets effectively.</p>
 
 <p>By leveraging a data-driven capability map, organizations can achieve a more dynamic, transparent, and efficient approach to managing their capabilities, leading to improved strategic outcomes and operational performance.</p>
 
