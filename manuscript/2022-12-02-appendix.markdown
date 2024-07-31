@@ -2,7 +2,8 @@
 
 # To Probe Further: Online Appendix Overview {#appendix}
 
-![image by pexels from pixabay](assets/images/arch/backpack-gc5da70386_1280.jpg)
+![](assets/images/arch/backpack-gc5da70386_1280.jpg)
+^image by pexels from pixabay^
 
 **IN THIS SECTION, YOU WILL:** Get an overview of the resources in the appendix.
 
