@@ -8,7 +8,7 @@ author: by Željko Obrenović (obren.io)
 permalink: activities
 icon: activities.png
 timetoread: 15 min
-excerpt: "The Architecture Activities Platform is where, by leveraging data and People Foundations, we perform activities that help an organization reach its goals. Here are examples: supporting teams in their daily work; tracking tech debt; defining tech debt reduction programs; performing technical due diligence; standardizing processes and documentation; defining cloud, data, and platform strategies."
+excerpt: "The Architecture Activities Platform is where, by leveraging data and People Foundations, we perform activities that help an organization reach its goals. Examples include supporting teams in their daily work, tracking tech debt, performing technical due diligence, standardizing processes and documentation, and defining cloud, data, and platform strategies."
 
 ---
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 

@@ -8,7 +8,7 @@ author: by Željko Obrenović (obren.io)
 permalink: people
 icon: community.png
 timetoread: 15 min
-excerpt: "We should not take our architectural talent for granted. Architects, and other people doing architecture work, are bridging local business, product, organizational, and technology issues. Architects are difficult to hire because they need in-depth technical, domain-specific, and organizational knowledge. Therefore, we must support, organize, and leverage architecture talent."
+excerpt: "We should not take our architectural talent for granted. Architects are difficult to hire because they need in-depth technical, domain-specific, and managerial knowledge. Therefore, we must support, organize, and leverage architecture talent."
 
 ---
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover"

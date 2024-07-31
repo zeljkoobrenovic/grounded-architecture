@@ -8,7 +8,7 @@ author: by Željko Obrenović (obren.io)
 permalink: career-resources
 icon: career.png
 timetoread: 15 min
-excerpt: "Architects' career paths ideally stem from a strong engineering background. Hiring architects requires constantly raising the bar to ensure a strong and diverse team structure."
+excerpt: "Pointers to resources for managin, growing and hiring architects. When growing and hiring architects, it is crucial to continually raise the bar, ensuring that the team is composed of highly skilled and diverse individuals who can contribute unique perspectives and expertise."
 
 ---
 
@@ -22,8 +22,7 @@ Image by iStock <a href="https://flic.kr/p/8zKRAU">tableatny</a> (CC BY 2.0)
 > 
 > **KEY POINTS:**
 >
-> * Architects' career paths ideally stem from a strong engineering background.
-> * Hiring architects requires constantly raising the bar to ensure a strong and diverse team structure.  
+> * When growing and hiring architects, it is crucial to continually raise the bar, ensuring that the team is composed of highly skilled and diverse individuals who can contribute unique perspectives and expertise.  
 <style>
  .quote {
      border-left: 8px solid #d9ead3;

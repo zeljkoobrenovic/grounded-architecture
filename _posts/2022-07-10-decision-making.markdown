@@ -8,7 +8,7 @@ author: by Željko Obrenović (obren.io)
 permalink: decision-making
 icon: dice.png
 timetoread: 15 min
-excerpt: "In the following sections, I introduce several resources that I use as inspiration for developing the decision-making skills of IT architects."
+excerpt: "I introduce several resources that I use as inspiration for developing the decision-making skills of IT architects."
 
 ---
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 

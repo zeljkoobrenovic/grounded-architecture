@@ -8,7 +8,7 @@ author: by Željko Obrenović (obren.io)
 icon: culture.png
 permalink: culture-map
 timetoread: 11 min
-excerpt: "Architects will work with many different cultures in multinational organizations. I have found the work of Erin Meyer, The Culture Map, to be a beneficial tool for architects to work harmoniously with people from various cultures and backgrounds."
+excerpt: "Architects work with many different cultures in multinational organizations. I have found Erin Meyer's work, The Culture Map, to be a beneficial tool for architects to work harmoniously with people from various cultures and backgrounds."
 
 ---
 

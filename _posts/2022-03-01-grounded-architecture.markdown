@@ -8,7 +8,7 @@ author: by Željko Obrenović (obren.io)
 permalink: grounded-architecture
 icon: bridge.png
 timetoread: 15 min
-excerpt: "I introduce three elements of Grounded Architecture: The Data Foundation, The People Foundation, and The Architecture Activities Platform."
+excerpt: "I introduce three elements of Grounded Architecture Framework: The Data Foundation, The People Foundation, and The Architecture Activities Platform."
 
 ---
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
@@ -20,7 +20,7 @@ Image by <a href="https://pixabay.com/users/ichigo121212-11728/?utm_source=link-
 >
 > **KEY POINTS:**
 >
-> * I introduce three elements of Grounded Architecture: The Data Foundation, The People Foundation, and The Architecture Activities Platform as an approach to setting organizational structures for a modern IT architecture practice.
+> * I introduce three elements of Grounded Architecture Framework: The Data Foundation, The People Foundation, and The Architecture Activities Platform as an approach to setting organizational structures for a modern IT architecture practice.
 > * Prioritizing people interactions and data over processes and tools, Grounded Architecture aims to connect architecture practice to all organizational levels as an antidote to the "ivory tower" architecture.
 <style>
  .quote {
@@ -44,7 +44,7 @@ In this part, I will briefly introduce the Grounded Architecture framework. I ch
 
 Prioritizing people's interactions and data over processes and tools, Grounded Architecture aims to connect architecture practice to all organizational parts and levels as an antidote to the "ivory tower" architecture.
 
-Grounded Architecture, as an approach to setting organizational structures for architectural practice, has three elements:
+Grounded Architecture framework, as an approach to setting organizational structures for architectural practice, has three elements:
 
 * The Data Foundation,
 * The People Foundation,

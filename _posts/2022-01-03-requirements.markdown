@@ -8,7 +8,7 @@ author: by Željko Obrenović (obren.io)
 permalink: goals
 icon: requirements.png
 timetoread: 15 min
-excerpt: "I identified the following needs that an architecture function should support: Executing At Scale, Adaptivity, Improving the Quality of Decision-Making with Data, and Maximizing Organizational Alignment & Learning."
+excerpt: "I identified the following needs that an architecture practice should support: Executing At Scale, Adaptivity, Improving the Quality of Decision-Making with Data, and Maximizing Organizational Alignment & Learning."
 
 ---
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
@@ -46,7 +46,7 @@ Grounded Architecture emerged as a necessity in response to our [intricate and m
 <br>
 ## Goals
 
-Here's a detailed breakdown of the goals we set to revamp our approach.
+Here's a detailed breakdown of the goals I set for an architecture practice.
 
 ### Goal 1: Executing At Scale
 

@@ -8,7 +8,7 @@ author: by Željko Obrenović (obren.io)
 permalink: execution
 icon: execution.png
 timetoread: 15 min
-excerpt: "I introduce several resources that I use as inspiration for running the Grounded Architecture practice in complex organizations."
+excerpt: "I introduce several resources that I use as inspiration for developing architecture skills related to execution and governance."
 
 ---
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 

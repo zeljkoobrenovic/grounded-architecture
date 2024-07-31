@@ -8,7 +8,7 @@ author: by Željko Obrenović (obren.io)
 permalink: transformation
 icon: value.png
 timetoread: 15 min
-excerpt: "When Grounded Architecture framework is in place, it can have a significant positive impact on the functioning of an organization: Executing At Scale, Adaptivity, Improving the Quality of Decision-Making with Data, Maximizing Organizational Alignment & Learning."
+excerpt: "When the Grounded Architecture Framework is in place, it can significantly impact an organization's functioning: Executing At Scale, Adaptivity, Improving the Quality of Decision-Making with Data, and Maximizing Organizational Alignment & Learning."
 
 ---
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 

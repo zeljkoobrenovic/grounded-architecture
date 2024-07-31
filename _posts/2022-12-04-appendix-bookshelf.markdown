@@ -8,7 +8,7 @@ author: by Željko Obrenović (obren.io)
 permalink: bookshelf
 icon: books.png
 timetoread: 15 min
-excerpt: Overview of the background to probe further. External resources inspiring my work.
+excerpt: External key resources inspiring my work.
 
 
 ---

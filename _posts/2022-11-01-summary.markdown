@@ -8,7 +8,7 @@ author: by Željko Obrenović (obren.io)
 permalink: summary
 icon: summary.png
 timetoread: 15 min
-excerpt: This playbook aims to share my approach to running an IT architecture practice in larger organizations based on my experience as Chief Architect at AVIV Group, eBay Classifieds, and Adevinta.
+excerpt: A brief summary of this book.
 
 ---
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/iStock-496666941.jpg">

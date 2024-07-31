@@ -8,7 +8,7 @@ author: by Željko Obrenović (obren.io)
 icon: org-alignment.png
 permalink: six-simple-rules
 timetoread: 11 min
-excerpt: "The Six Simple Rules approach emphasizes that in today’s complicated business environment, you must set up organizational structures based on cooperation. To deal with complexity, organizations should depend on the judgment of their people and on these people cooperating to utilize the organization's capabilities to cope with complex problems. This view is well aligned with the ideas of Grounded Architecture."
+excerpt: "The Six Simple Rules approach emphasizes that you must set up organizational structures based on cooperation in today's complicated business environment. To deal with complexity, organizations should depend on the judgment of their people, and these people cooperate to utilize the organization's capabilities to cope with complex problems."
 
 ---
 

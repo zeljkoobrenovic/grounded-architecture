@@ -8,7 +8,7 @@ author: by Željko Obrenović (obren.io)
 icon: effortless.png
 permalink: effortless
 timetoread: 11 min
-excerpt: "A summary of lessons learned from the Greg McKeown' Effortless book that offers invaluable insights that are particularly relevant for IT architects and software engineers. McKeown's emphasis on simplifying tasks and processes is crucial in the tech industry, where complexity often dominates."
+excerpt: "A summary of lessons learned from Greg McKeown's Effortless book, which offers invaluable insights that are particularly relevant for IT architects and software engineers. McKeown's emphasis on simplifying tasks and processes is crucial in the tech industry, where complexity often dominates."
 
 ---
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 

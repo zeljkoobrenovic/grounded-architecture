@@ -8,7 +8,7 @@ author: by Željko Obrenović (obren.io)
 icon: economics.png
 permalink: economics
 timetoread: 11 min
-excerpt: "I sketch two answers to the question of the economic value of technology investments and architecture: the return on investment metaphor and the financial options metaphor."
+excerpt: "I sketch two methods of determining the economic value of technology investments and architecture: the return on investment metaphor and the financial options metaphor."
 
 ---
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 

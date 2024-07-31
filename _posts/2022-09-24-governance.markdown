@@ -8,7 +8,7 @@ author: by Željko Obrenović (obren.io)
 icon: govern.png
 permalink: governance
 timetoread: 15 min
-excerpt: "Architecture practice should support governance models adaptable to organizations' complex and diverse needs. I see a technology governance model as a well-balanced hybrid of three different styles of governing: nudging, taxes, and mandates and bans."
+excerpt: "Architecture practice should support governance models that are adaptable to organizations' complex and diverse needs. I see a technology governance model as a well-balanced hybrid of three different styles of governing: nudging, taxes, and mandates and bans."
 
 ---
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
