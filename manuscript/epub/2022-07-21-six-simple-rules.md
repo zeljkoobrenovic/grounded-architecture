@@ -2,7 +2,7 @@
 
 # Six Simple Rules {#six-simple-rules}
 
-![image by nat aggiato from pixabay](assets/images/arch/spices-g253b7ca36_1920.jpg)
+![image by istock](assets/images/iStock-2031547179.jpg)
 
 **IN THIS SECTION, YOU WILL:**  Get an introduction to Six Simple Rules, a model for setting up organizational structures based on cooperation.
 

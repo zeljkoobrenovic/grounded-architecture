@@ -13,9 +13,9 @@ excerpt: "The Six Simple Rules approach emphasizes that in today’s complicated
 ---
 
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
-     src="assets/images/arch/spices-g253b7ca36_1920.jpg">
+     src="assets/images/iStock-2031547179.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by <a href="https://pixabay.com/users/nataliaaggiato-470329/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=667115">Nat Aggiato</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=667115">Pixabay</a>
+Image by iStock
 </div>
 <style>
  .quote {

@@ -1,6 +1,6 @@
 
 
-# Mindset: Architects as Superglue {#superglue}
+# Adopting a Mindset: Architects as Superglue {#superglue}
 
 ![image by istock](assets/images/iStock-185061908.jpg)
 

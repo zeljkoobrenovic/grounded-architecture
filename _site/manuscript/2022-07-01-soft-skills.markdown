@@ -2,7 +2,7 @@
 
 # On Soft Skills: Introduction {#soft-skills}
 
-![](assets/images/iStock-1201288484.jpg)
+![](assets/images/iStock-1465173464.jpg)
 ^image by istock^
 
 **IN THIS SECTION, YOU WILL:**  Get a summary several resources that I use as inspiration for developing the soft skills of IT architects.

@@ -3,7 +3,7 @@
 # Introduction {#intro}
 
 ![](assets/images/arch/iStock-462294849.jpg)
-^image by fda54 from pixabay^
+^image by rasica from istock.com^
 
 **IN THIS SECTION, YOU WILL:** Understand what this book is about and how to use it.
 

@@ -2,7 +2,7 @@
 
 # Introduction {#intro}
 
-![image by fda54 from pixabay](assets/images/arch/iStock-462294849.jpg)
+![image by rasica from istock.com](assets/images/arch/iStock-462294849.jpg)
 
 **IN THIS SECTION, YOU WILL:** Understand what this book is about and how to use it.
 
