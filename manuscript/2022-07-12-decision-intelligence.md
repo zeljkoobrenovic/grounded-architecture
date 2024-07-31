@@ -2,7 +2,8 @@
 
 # Decision Intelligence in IT Architecture {#decision-intelligence}
 
-![image by istock](assets/images/arch/iStock-1365878406.jpg)
+![](assets/images/arch/iStock-1365878406.jpg)
+^image by istock^
 
 **IN THIS SECTION, YOU WILL:**  Learn the basics of decision intelligence, the discipline of turning information into
 
@@ -33,7 +34,8 @@ they flex their decision intelligence:
 
 Decision intelligence is the secret sauce of IT architects' work in every twist and turn.
 
-![image by istock](assets/images/arch/iStock-1194231226.jpg)
+![](assets/images/arch/iStock-1194231226.jpg)
+^image by istock^
 
 ## Basics of Decision-Making
 
@@ -120,7 +122,8 @@ decisions need to be treated like a royal decree. Save the deep dives for the bi
 Decisions are the steering wheel for reaching our goals. Consequently, it is crucial to understand and define goals
 properly and to understand whether a decision needs to be made at all.
 
-![image by istock](assets/images/arch/iStock-1301200404.jpg)
+![](assets/images/arch/iStock-1301200404.jpg)
+^image by istock^
 
 ### Setting Goals
 
@@ -212,7 +215,8 @@ So, next time you're in a meeting and wondering if you're there to make a differ
 advisor in a decision-making drama, remember to whip out the magic question. It's your ticket to knowing whether you're
 in for an epic decision-making saga or a cameo appearance.
 
-![image by istock](assets/images/arch/iStock-1043738948.jpg)
+![](assets/images/arch/iStock-1043738948.jpg)
+^image by istock^
 
 ## Decision-Making Complexity
 
@@ -392,7 +396,8 @@ I use in [Data Foundation](#data), while visually appealing and powerful when us
 ** in making informed decisions. It's a means to an impactful end, but **without purposeful application, data is
 ineffective**.
 
-![image by istock](assets/images/arch/iStock-1316937637.jpg)
+![](assets/images/arch/iStock-1316937637.jpg)
+^image by istock^
 
 ### Remember that data has limitations
 

@@ -2,7 +2,8 @@
 
 # Introduction {#intro}
 
-![image by rasica from istock.com](assets/images/arch/iStock-462294849.jpg)
+![](assets/images/arch/iStock-462294849.jpg)
+^image by rasica from istock.com^
 
 **IN THIS SECTION, YOU WILL:** Understand what this book is about and how to use it.
 
@@ -28,7 +29,8 @@ Figure 1 shows the Grounded Architecture framework consisting of three elements:
 * [People Foundation](#people),
 * [Architecture Activities Platform](#activities).
 
-![Figure 1: The Grounded Architecture framework.](assets/images/model.png)
+![](assets/images/model.png)
+***Figure 1:** The Grounded Architecture framework.*
 
 The *[Data Foundation](#data)* keeps your architecture decisions based on up-to-date and complete information about your organization's tech landscape.
 
@@ -82,7 +84,8 @@ I approach designing an architecture practice in complex organizations as an art
 
 In this culinary adventure, I'll share some tasty tips and savory secrets on "cooking" up a thriving architecture practice. But remember, every kitchen is different. Some ingredients and recipes are essential, while others might be left on the shelf. And don't be surprised if you need to add a pinch of something special from other sources to spice things up.
 
-![image by istock](assets/images/arch/iStock-1409729992.jpg)
+![](assets/images/arch/iStock-1409729992.jpg)
+^image by istock^
 
 When I start an architecture practice, I see myself as a chef stepping into a new restaurant with a suitcase full of favorite spices. I blend in **core preferred elements and foundational frameworks** like a chef using their trusty spices and kitchen tools. But the authentic flavor—the magic that makes a dish unforgettable—comes from the local ingredients. In an organization, these local ingredients are the people: the **in-house talent and culture that give the enterprise its unique taste**.
 
@@ -122,7 +125,8 @@ Many other sources have influenced my work. Some of them you can find in the [Bo
 
 This book **generalizes my experiences** in written form. I have written these articles for several reasons. Firstly, the act of writing helps me clarify and improve my ideas (Figure 2). As Gregor Hohpe once noted, every sentence I write frees up brain cells to learn new things. 
 
-![Figure 2: Writing a book helped me organize ideas, obtain new insights, improve principles and tools, and share the lessons learned.](assets/images/writing.png)
+![](assets/images/writing.png)
+***Figure 2:** Writing a book helped me organize ideas, obtain new insights, improve principles and tools, and share the lessons learned.*
 
 I also needed this book for the **education of architects** and to **increase awareness about modern architecture practices** in organizations I worked in. Having written content can significantly help to spread the message. As nicely described by Hohpe written word has distinct advantages over the spoken word:
 
@@ -136,7 +140,8 @@ Lastly, by generalizing and putting my experiences on paper, I aim to create mor
 
 This book is a part of the [**collection of open-source tools and resources**](https://obren.io/) I have built in the past ten years to help me in architectural work (Figure 3).
 
-![Figure 3: Grounded Architecture is a part of the collection of open-source tools and resources I have built in the past ten years to help me in architectural work.](assets/images/arch/obren_io_vertical.png)
+![](assets/images/arch/obren_io_vertical.png)
+***Figure 3:** Grounded Architecture is a part of the collection of open-source tools and resources I have built in the past ten years to help me in architectural work.*
 
 The other resources include:
 
@@ -184,5 +189,6 @@ I want to thank all AVIV Group's Architecture Center of Excellence members and e
 
 The cover image is [a photo of Nesciobrug](https://commons.wikimedia.org/wiki/File:Nesciobrug_4.jpg). Credit: the botster, CC BY-SA 2.0, via Wikimedia Commons.
 
-![image by henk monster cc by 3 0 via wikimedia commons](assets/images/arch/nescio_brug_boat.jpeg)
+![](assets/images/arch/nescio_brug_boat.jpeg)
+^image by henk monster cc by 3 0 via wikimedia commons^
 
