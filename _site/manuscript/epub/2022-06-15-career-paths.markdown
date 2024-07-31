@@ -1,215 +1,90 @@
 
 
-# Architects' Career Paths: Raising the Bar {#career}
+# Architects' Career Paths {#career}
 
-![image by istock tableatny (cc by 2.0)](assets/images/arch/pole-vault.jpg)
+![image by istock](assets/images/iStock-490772190.jpg)
 
 **IN THIS SECTION, YOU WILL:**  Get ideas and tips about developing architects' career paths.
 
 {pagebreak}
 
 A> **KEY POINTS:**
-A> * Architects' career paths ideally stem from a strong engineering background.
-A> * Hiring architects requires constantly raising the bar to ensure a strong and diverse team structure.  
+A> * A strong engineering background is essential for architects to make informed technology decisions and build effective relationships with developer teams.
+A> * Moving from an engineering role to an architecture role involves broadening scope, increasing diversity, and developing strong communication and influencer skills.
+A> * Career tracks include Senior Architects (broader responsibilities), Principal Architects (specialized focus), and Enterprise Architects (aligning technical strategy with business objectives).
+A> * Architecture roles can lead to tech leadership positions such as Engineering Director or Chief Technology Officer (CTO), leveraging strategic vision, decision-making, and leadership skills.
 
-Hiring and developing architects will differ significantly per organization. Nevertheless, here I share some of the ideas and lessons learned.
+My view of architecture has a strong engineering bias. Architects' career paths ideally stem from a strong engineering background. While there may be exceptions, an architect without significant real-world exposure to software engineering challenges cannot obtain enough practical knowledge to make informed technology decisions and build effective relationships with developer teams.
 
-My view of architecture has **a strong engineering bias**. Architects' career paths ideally stem from a **strong engineering background**. While there may be exceptions, an architect without significant real-world exposure to software engineering challenges cannot obtain enough practical knowledge to make technology decisions and build relations with developer teams. 
+![Figure 1: An example of IT architect career paths in relation.](assets/images/arch/career-paths.png)
 
-## Typical Architect's Career Paths
+In this section, I elaborate on possible career paths of architects. In the Appendix, you can also find additional [resources for managing, drowing, and hiring architects](career-resources).
 
-Regarding career progression, Figure 1 shows an example of architectural career paths in relation to engineering, which I used to define architectural career paths. 
+## Solid Engineering Background
 
-![Figure 1: An example of an IT architect career paths in relation to engineering.](assets/images/arch/career-paths.png)
+Architects with a strong engineering background have hands-on experience with coding, debugging, and problem-solving, which is crucial for understanding the technical complexities and constraints of a project. This practical knowledge allows them to make more informed and realistic decisions about technology stacks, architectural patterns, and system design.
 
-Stepping from an engineering position to an architecture requires three changes:
-* Getting **a broader scope** of work,
-* Having **a higher diversity** of work, and 
-* **Changing skills**, as communication and influencer skills become crucial to success.
+When architects have a solid engineering foundation, they can earn the trust and respect of developer teams more easily. Developers are more likely to follow the guidance and recommendations of someone who has walked in their shoes and understands their daily challenges. An engineering background equips architects with the technical language and concepts necessary to communicate effectively with developers. This shared language helps bridge the gap between high-level architectural visions and the detailed implementation work carried out by development teams.
 
-All architects are responsible for the direction, quality, and approach within some critical area. They must combine in-depth knowledge of technical constraints, user needs, and organization-level leadership.
+![image by istock](assets/images/iStock-1442990932.jpg)
 
-After the role of an Architect, I usually envision three tracks of progression:
-* **Senior Architects**, generalists with broader responsibilities who can dig deep into complex issues and identifies a suitable course of action. They often navigate from one critical area to another, guided by the organization's direction.
-* **Principal Architects**, senior architects with a particular focus on some area of strategic interest for an organization (e.g., data, distributed systems, frontend).
-* **Enterprise Architects**, being closer to product, management, strategy, and business functions, frequently serving as senior engineering leaders' right hand. 
+Engineers are trained to think critically and solve complex problems. This skill set is invaluable for architects, who must navigate technical challenges, identify potential issues, and devise robust solutions that align with business goals.
 
-But an architect's path can take many different directions and have many other names. More important than a formal title is a continuous search for staying relevant and making an [impact](#impact).
+While a strong engineering background is essential, architects must also develop additional skills to succeed in their roles. Architects must look beyond individual components to see the system as a whole, considering the interactions and dependencies between various parts. The work becomes more varied, encompassing different technologies, processes, and organizational needs. Architects need to articulate their vision clearly and persuasively to various stakeholders, from developers to senior management. They must be able to sell their ideas and build consensus around architectural decisions.
 
-## Performance & Growth Management
+While the path to becoming a successful architect is multifaceted, a strong engineering background provides a solid foundation upon which to build the necessary additional skills and knowledge.
 
-I have frequently used the Radical Candor framework (a management philosophy developed by Kim Scott) to manage the performance and growth of IT architects, focusing on fostering an environment of honest communication and personal development. Here's how we apply the fundamental principles that you could use as an inspiration for your processes.
+## Entering Architecture Space
 
-### Key Principles
+Regarding career progression, Figure 1 shows an example of architectural career paths in relation to engineering, which I used to define architectural career paths.
 
-#### Care Personally
-- **Build Relationships:** Prioritize building strong relationships with each IT architect, understanding their motivations, career aspirations, and personal goals. This foundation of trust makes it easier to give and receive feedback.
-- **Support and Empathy:** Ensure each team member feels valued and supported, showing genuine care for their well-being and professional growth.
+![image by istock](assets/images/iStock-529522453.jpg)
 
-#### Challenge Directly
-- **Honest Feedback:** Provide clear, specific feedback on their performance, ensuring it is both direct and constructive. This feedback helps IT architects understand their strengths and areas for improvement without ambiguity.
-- **Timely Interventions:** Address performance issues promptly as they arise, preventing small problems from escalating and ensuring continuous improvement.
+Stepping from an engineering position to an architecture role requires three significant changes:
 
-#### Give Praise and Criticism
-- **Balanced Approach:** Maintain a balance between praising good performance and providing constructive criticism. This approach ensures that IT architects feel recognized for their achievements while being aware of areas needing development.
-- **Actionable Feedback:** Deliver specific and actionable criticism, giving clear guidance on how to improve and succeed.
+1. **Broader Scope**: Architects must look beyond individual components to see the system as a whole, considering the interactions and dependencies between various parts. This holistic view is essential for creating cohesive and scalable solutions that integrate seamlessly with the entire ecosystem of the organization.
 
-#### Create a Feedback Culture
-- **Encourage Two-Way Feedback:** Foster an environment where IT architects feel comfortable giving feedback to us and their peers, promoting openness and trust within the team.
-- **Regular Check-ins:** Conduct regular one-on-one meetings to discuss performance, goals, and feedback, ensuring continuous communication and alignment.
+2. **Higher Diversity**: The work becomes more varied, encompassing different technologies, processes, and organizational needs. Architects need to be versatile, adapting to various domains and understanding how different technologies and processes can be leveraged to solve complex problems. This diversity also includes interacting with different teams and stakeholders, each with unique perspectives and requirements.
 
-#### Focus on Growth
-- **Development Plans:** Use feedback to create personalized development plans for each IT architect, aligning their growth with the organization's objectives and career aspirations.
-- **Continuous Learning:** Encourage a culture of continuous learning, providing resources and opportunities for skill enhancement and professional growth.
+3. **Changing Skills**: Communication and influencer skills become crucial to success, as architects need to articulate their vision and persuade others to follow it. They must effectively communicate complex technical concepts to non-technical stakeholders, build consensus, and drive strategic initiatives. This shift emphasizes the importance of soft skills alongside technical expertise.
 
-#### Manage Performance Reviews
-- **Transparent Criteria:** Ensure that performance reviews are based on transparent and fair criteria so IT architects understand how their performance is assessed.
-- **Consistency:** Apply performance standards consistently across the team to maintain fairness and equity in evaluations.
+All architects are responsible for the direction, quality, and approach within some critical area. They must combine in-depth knowledge of technical constraints, user needs, and organization-level leadership. This multifaceted responsibility requires architects to be not only technically proficient but also adept at understanding and aligning with business goals and user requirements.
 
-The described framework aims to create a supportive environment that promotes growth, accountability, and high performance.
+## Career Progression in IT Architecture
 
-### Performance Management
+An architect's path can take many different directions and have many other names. 
 
-Performance targets need to be closely aligned with the organization's strategic goals and should be articulated in terms of their impact (refer to the [impact section](#impact) for more details). These targets should encompass the following aspects (Figure 2):
+![image by istock](assets/images/iStock-511542244.jpg)
 
-1. **Big-Picture Thinking**: Ensuring that every target supports the organization's overarching vision and long-term objectives. It involves understanding how individual contributions fit into the broader context and drive the organization forward.
+I usually envision three tracks of progression:
 
-2. **Execution**: Focusing on effectively implementing strategies and plans. Support efficient and timely achievement of tasks and projects.
+* **Senior Architects**: These professionals are generalists with broader responsibilities who can dig deep into complex issues and identify suitable courses of action. They often navigate from one critical area to another, guided by the organization's direction. Senior Architects play a pivotal role in bridging the gap between different technical teams and ensuring the overall architectural integrity of projects.
 
-3. **Leveling Up**: Encouraging continuous improvement and development, Enhancing skills, processes, and performance standards, and fostering a culture of growth and excellence within the organization.
+* **Principal Architects**: These are Senior Architects with a particular focus on some area of strategic interest for an organization (e.g., data, distributed systems, frontend). Principal Architects dive deep into their specialized areas, providing thought leadership and driving innovation. They are often involved in setting standards, defining best practices, and mentoring other architects and engineers.
 
-![Figure 2: An example framework for defining goals of architects: aligned with ogranizationals strategic goals, mesured in terms of three pillars of impact (big-picture thinking, execution, and leveling up).](assets/images/performance-goals-impact.png)
+* **Enterprise Architects**: Positioned closer to product, management, strategy, and business functions, Enterprise Architects frequently serve as the right hand to senior engineering leaders. They are responsible for aligning the technical strategy with the business objectives, ensuring that the architecture supports the overall goals of the organization. Enterprise Architects often work on cross-functional initiatives and play a key role in strategic decision-making.
 
-### Growth Management
+More important than a formal title is the continuous search for relevance and the ability to make an impact. Successful architects are those who continuously learn, adapt, and drive meaningful change within their organizations. They focus on adding value through innovative solutions, effective communication, and strategic alignment with business goals. Whether formally recognized or not, their influence and contributions are pivotal to the success of their teams and the broader organization.
 
-Another idea I borrow from Radical Candor is the recognition that employees have different career trajectories and aspirations in growth and performance. It divides these into two main categories: the steep growth trajectory (superstars) and the stable growth trajectory (rock stars, solid as a rock). People of both growth trajectories could have poor or exceptional performance (Figure 3).
+## Career Progression Beyond IT Architecture
 
-![Figure 3: An example framework for measuring the performance of architects of different growth trajectories.](assets/images/performance-growth.png)
+In addition to the technical and communication skills, a senior career in IT architecture also opens possibilities of pursuing tech leadership positions such as Engineering Director or Chief Technology Officer (CTO). The reason for this is multifaceted.
 
-Here's an overview of how views growth and performance for rock stars and superstar:
+![image by istock](assets/images/iStock-1397610425.jpg)
 
-#### Stable Growth Trajectory (Rock Stars)
+Firstly, architects develop a strategic vision that aligns technology with business goals, a critical skill for any tech leadership role. They gain experience in making high-stakes decisions that impact the entire organization, which is directly relevant to positions like Engineering Director or CTO.
 
-These employees excel in their current roles and derive satisfaction from achieving excellence in a stable, consistent manner.  They prefer deepening their expertise and maintaining a high level of performance without necessarily seeking rapid promotion.
+Secondly, architects often work closely with senior management and various departments, providing them with a broad perspective on organizational dynamics and strategic planning. This experience is invaluable for leadership roles that require a holistic understanding of both technology and business.
 
-**Growth Opportunities for Rock Stars:**
-- **Enhanced Responsibilities:** Taking on critical projects, mentoring others, and providing technical oversight.
-- **Expertise Development:** Becoming subject matter experts, gaining a "guru" status, and engaging in teaching and coaching.
-- **Role Variability:** Shifting between roles (e.g., Senior, Principal, Enterprise Architect) to change the scope of work and maintain engagement.
+Thirdly, architects' roles require strong leadership and mentorship abilities, as they often guide and influence engineering teams. These skills are essential for higher-level leadership positions, where the ability to inspire and manage large teams is crucial.
 
-**Performance Management of Rock Stars:**
-- **Feedback:** Offer constructive feedback that helps them refine their expertise and maintain high performance.
-- **Support:** Provide opportunities for continuous learning, such as advanced training or involvement in specialized projects.
-- **Recognition:** Value their deep expertise and stability, acknowledging their critical role in the team's success.
+Lastly, the transition from an architect to a tech leadership role is a natural progression as both roles require a deep understanding of technology, strategic vision, and the ability to drive innovation within an organization. This career path leverages the architect’s experience in building robust systems and their ability to foresee and mitigate potential risks, ensuring the technology infrastructure supports the organization's long-term goals.
 
-#### Steep Growth Trajectory (Superstars)
-
-These individuals are highly ambitious and driven, continuously seeking new challenges and responsibilities. They have a rapid professional development pace and are often on the path to leadership roles.
-
-**Growth Opportunities for Superstars:**
-- **Career Advancement:** Superstars often aim for significant promotions, such as moving from Architect to Senior Architect, Chief Architect, or even transitioning to roles like Director of Engineering or CTO.
-- **Skill Development:** They focus on acquiring new skills, mastering advanced technologies, and improving leadership capabilities.
-- **Increased Responsibilities:** Taking on more complex projects, leading teams, and contributing to strategic initiatives.
-
-**Performance Management of Superstars:**
-- **Feedback:** Provide challenging feedback that pushes them to grow while recognizing their achievements.
-- **Support:** Offer opportunities for further education, mentorship, and exposure to high-stakes projects.
-- **Recognition:** Acknowledge their contributions and potential for future leadership roles within the organization.
-
-By applying these principles, we aimed to create an environment where employees feel supported and challenged, leading to higher engagement, better performance, and more effective personal and professional growth.
-
-### Career Conversations
-
-Whenever I can, I incorporate [Radical Candor](https://www.radicalcandor.com/blog/how-to-have-career-conversations/) career conversations with architects. While you need to find a way for your team and organization, for me, it helped organize architects' careers. The Radical Candor framework proposes three career conversations: Life Story, Dreams, and Career Action Plan.
-
-**Understanding Motivations and Values - Life Story**
-
-The first step in the Radical Candor career conversations approach is understanding the motivations and values driving individuals. You can gain valuable insights by paying close attention to a person's life story and asking about their significant pivots and transitions. Why did they make those choices? What did those transitions teach them about their preferences in their work?
-
-**Exploring Aspirations - Dreams**
-
-The second step is to understand where people aim to be at the peak of their careers. While some managers might doubt that younger workers know what they want to be when they grow up, everyone has dreams. It's essential to help individuals make these dreams more tangible. Some managers might worry about asking employees to focus on a single vision too early in their careers.
-
-However, these concerns should not prevent you from having Career Conversations. People and their dreams evolve, so regular Career Conversations are crucial. Just like seeking feedback from your team, these discussions are an ongoing practice.
-
-**Creating an Action Plan - Career Action Plan**
-
-With an understanding of both the past and future, you can now develop a relevant and thoughtful action plan with clear responsibilities and timelines.
-
-While Career Conversations take time, I integrated them into my usual one-on-one meetings. These discussions often become some of the most enjoyable and productive interactions.
-
-## Hiring Architects
-
-Developing and hiring architects requires **constantly raising the bar** to ensure a strong and diverse team structure. Having more architects does not necessarily leads to a better team. Having good **alignment and diversity of perspectives** is even more important for an architecture team than for other groups.
-
-It is vital to take more **active ownership of hiring architects**. Due to the vast diversity of how different companies define the architect's role, recruiters may need help understanding the role's requirements.
-
-While you will need to design your hiring process, the hiring process should ensure a solid evaluation of the candidates:
-  * **[Technical skills](#skills)**: An architect must possess a solid technical background in the relevant areas, such as software development, infrastructure, cloud computing, and security. The process can assess their expertise through technical questions, tests, or case studies.
-  * **[Communication and collaboration skills](#skills)**: Architects often work with stakeholders, including business leaders, developers, and project managers. Therefore, the process could evaluate the candidate's ability to communicate effectively, work in a team, and manage stakeholders.
-  * **[Leadership and problem-solving abilities](#impact)**: As a senior team member, an architect should have strong leadership skills and the ability to solve complex problems. The process could assess the candidate's experience leading teams, making critical decisions, and resolving technical challenges.
-  * **[Cultural fit](#leadership)**: The process could also evaluate the candidate's fit with the company's culture, values, and mission. The cultural fit is vital to ensure the candidate shares the same vision and will likely thrive in the organization.
-
-In terms of steps, I typically work with some version of the following process (after standard recruitment screening):
-
-**Step 1: Initial Screening Interview with Chief Architect**
-
-* Typical duration 60 min
-* In this step, assessing the candidate's overall fit for the role is crucial, determining whether they possess the necessary skills, experience, and qualifications. 
-* Overall, the initial screening aims to identify the most promising candidates who possess the necessary skills, experience, and fit for the role of a senior solutions architect and who should proceed to the next stage of the interview process.
-* Extra focus on:
-  * Cultural fit
-  * Leadership and problem-solving abilities
-    
-**Step 2: In-Depth Interview with Senior/Principle/Enterprise Architects**
-
-* Typical duration 90 min
-* Extra focus on:
-  * Evaluating the candidate's technical skills
-  * Assessing the candidate's communication and collaboration skills
-  * Understanding the candidate's leadership and problem-solving abilities
-
-**Step 3: In-Depth Interview with Architects and Senior Engineers**
-
-* Typical duration 90 min
-* Preparation:
-  * A document describing a recent solution architecture of a candidate, providing the content for discussion and helping estimate the candidate's written skills.
-  * (Optional) open-source code review of a candidate
-* Extra focus on:
-  * Any topics identified during Step 2 as areas that needed to explore further.
-  
-For senior positions, I typically introduce an additional step of meeting senior leadership:
-
-**Step 4: Non-technical stakeholders evaluation**
-
-* Interview with Engineering Leaders
-* Interview with Product and Business Function Leaders (e.g., CPO, CMO, CFO)
-* Interview with a CTO
-* Extra focus on:
-   * Leadership abilities
-   * Communication and collaboration skills
-
-With the described steps, you can get a solid overview of all critical aspects of superglue architects. In particular, the involvement of people outside architecture or engineering is crucial to minimize risk related to a lack of interest and ability to engage with all relevant stakeholders.
+While the path to becoming a successful architect is multifaceted, a strong engineering background provides a solid foundation upon which to build the necessary additional skills and knowledge. This foundation not only supports success in architecture but also opens doors to higher-level tech leadership positions such as Engineering Director or CTO.
 
 ## To Probe Further
 
-* General:
-  * [Performance Reviews for Software Developers](https://blog.pragmaticengineer.com/performance-reviews-for-software-engineers/) by Gergely Orosz, May 2022. 
-  * [A Software Engineering Culture Test](https://blog.pragmaticengineer.com/the-developer-culture-test/) by Gergely Orosz
-* For individual contributors:
-  * [Performance Self Review Template and Example for Software Engineers](Performance Self Review Template and Example for Software Engineers)  by Gergely Orosz
-  * [A Work Log Template for Software Engineers](https://blog.pragmaticengineer.com/work-log-template-for-software-engineers/),  by Gergely Orosz 
-  * [Get your work recognized: write a brag document](https://jvns.ca/blog/brag-documents/) by Julia Evans
-* For managers:
-  * [Performance Review Example and Template for Engineering Managers
-](https://blog.pragmaticengineer.com/performance-review-example-and-template-for-engineering-managers/)  by Gergely Orosz
-  * [Things I've learned transitioning from engineer to engineering manager](https://blog.pragmaticengineer.com/things-ive-learned-transitioning-from-engineer-to-engineering-manager/)  by Gergely Orosz
-* Tools
-  * [Coaching Situation Management Matrix](https://obren.io/tools/matrix/?matrix=situationalManagement)
-  * [Start, Stop, Continue Feedback](https://obren.io/tools/start-stop-continue-feedback/)
-  * [Impact Filter Template](https://docs.google.com/presentation/d/1UTE8b2WTPg_Rtjd71ySNURXa8yq820uAr_cmNozhAmc/edit#slide=id.g2b92d0f5db5_0_38)
-  * [Competent Jerks, Lovable Fools Matrix](https://obren.io/tools/matrix/?matrix=jerksFools)
-  * [Situation-Behavior-Impact (SBI) Feedback](https://www.ccl.org/articles/leading-effectively-articles/closing-the-gap-between-intent-vs-impact-sbii/), Center for Creative Leadership
+* [Resources for Managing, Growing, and Hiring Architects](career-resources)
 
 ## Questions to Consider
 

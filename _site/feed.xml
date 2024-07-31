@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-07-30T14:29:25+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: Redefining IT Architecture Practice</title><subtitle></subtitle><entry><title type="html">Cheat Sheet</title><link href="http://localhost:4000/cheat-sheet" rel="alternate" type="text/html" title="Cheat Sheet" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/appendix-cheat-sheet</id><content type="html" xml:base="http://localhost:4000/cheat-sheet"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/iStock-1182643171.jpg" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-07-31T10:51:07+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: Redefining IT Architecture Practice</title><subtitle></subtitle><entry><title type="html">Cheat Sheet</title><link href="http://localhost:4000/cheat-sheet" rel="alternate" type="text/html" title="Cheat Sheet" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/appendix-cheat-sheet</id><content type="html" xml:base="http://localhost:4000/cheat-sheet"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/iStock-1182643171.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by iStock
 </div>
@@ -394,9 +394,9 @@ Image by <a href="https://pixabay.com/users/mustangjoe-2162920/?utm_source=link-
 
 <p>In contrast, a <strong>loosely coupled organization</strong> lacks some elements of a tightly coupled one. Employees have <strong>more autonomy</strong>, and different departments may operate with <strong>little coordination</strong>.</p>
 
-<p><img src="assets/images/arch/world-trade-center-g707209d17_1920.jpg" alt="" /></p>
+<p><img src="assets/images/iStock-1321965054.jpg" alt="" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by <a href="https://pixabay.com/users/shire777-19410672/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5889199">Shire777</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5889199">Pixabay</a>
+Image by iStock
 </div>
 
 <p>Due to historical and strategic reasons, most organizational units I worked with were loosely coupled. Our companies frequently grew through acquisitions of companies in different marketplaces. Business strategies also promoted the independent evolution of local units to address local market needs more effectively and quickly. These units often enjoyed a high level of autonomy, frequently with their development teams and sometimes with local CFOs, CMOs, or CEOs.</p>
@@ -500,7 +500,7 @@ Image by <a href="https://pixabay.com/users/bluehouseskis-14931490/?utm_source=l
   <li><em>How aligned are units in your organizations? How much friction is there? How can architecture function help?</em></li>
   <li><em>How much is your organization learning? How is the learning supported?</em></li>
   <li><em>How stable is your organization? How likely is it that significant changes will occur in your organization?</em></li>
-</ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[I identified the following needs that an architecture function should support: Executing At Scale, Adaptivity, Improving the Quality of Decision-Making with Data, and Maximizing Organizational Alignment & Learning.]]></summary></entry><entry><title type="html">Grounded Architecture Framework: Introduction</title><link href="http://localhost:4000/grounded-architecture" rel="alternate" type="text/html" title="Grounded Architecture Framework: Introduction" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/grounded-architecture</id><content type="html" xml:base="http://localhost:4000/grounded-architecture"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/buildings-205986_1920.jpg" /></p>
+</ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[I identified the following needs that an architecture function should support: Executing At Scale, Adaptivity, Improving the Quality of Decision-Making with Data, and Maximizing Organizational Alignment & Learning.]]></summary></entry><entry><title type="html">Grounded Architecture Framework: Introduction</title><link href="http://localhost:4000/grounded-architecture" rel="alternate" type="text/html" title="Grounded Architecture Framework: Introduction" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/grounded-architecture</id><content type="html" xml:base="http://localhost:4000/grounded-architecture"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/iStock-1767471664.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/ichigo121212-11728/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=205986">Ichigo121212</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=205986">Pixabay</a>
 </div>
@@ -1155,35 +1155,38 @@ There is no one-size-fits-all approach: each organization must find activities a
 
 <p>To provide a clearer understanding of what I mean by an Architecture Activities Platform, here are detailed examples of the activities I have been engaged in with architects.</p>
 
-<p><strong>Designing Mechanisms for Teams to Make Better Decisions</strong>
-    - This involves creating global decision-support frameworks such as advisory forums, which facilitate informed discussions across teams. For compliance-sensitive projects, we establish formal design authorities. Additionally, we develop team-specific mechanisms, like escalation paths, to resolve decision conflicts effectively (e.g., when teams disagree on a common messaging middleware).</p>
-
-<p><strong>Supporting Teams in Their Daily Work</strong>
-    - This entails integrating into key team activities, aligning architectural work with team rituals to provide timely support. We assist teams during all critical phases, such as reviewing architecture proposals before the commencement of a project or sprint, ensuring alignment with overall architectural standards.</p>
-
-<p><strong>Supporting Planned New Initiatives and Projects</strong>
-    - Ensuring seamless alignment between projects that require multi-team collaboration is crucial. We work to facilitate communication and coordination, ensuring all teams are on the same page regarding project goals and requirements.</p>
-
-<p><strong>Supporting Teams in Dealing with the Legacy Landscape</strong>
-    - We provide data and insights about the legacy landscape, identifying problematic areas such as frequently changed, low-quality, untested legacy code. We help define scenarios and roadmaps for legacy modernization, ensuring a structured approach to updating and maintaining legacy systems.</p>
-
-<p><strong>Tracking Tech Debt and Defining Tech Debt Reduction Programs</strong>
-    - This involves creating a centrally aligned backlog of technical debt and defining programs for its reduction. We integrate these programs into the planning processes to ensure that tech debt is managed proactively and effectively.</p>
-
-<p><strong>Performing SWOT and Other Analyses of Platforms and Systems</strong>
-    - Conducting deep dives to understand specific areas of the technology landscape, We perform SWOT (Strengths, Weaknesses, Opportunities, Threats) analyses and other assessments. These analyses help in creating comprehensive plans and roadmaps for improvement.</p>
-
-<p><strong>Standardizing Processes and Documentation</strong>
-    - We define standard templates for key documents such as Architectural Decision Records (ADRs), Technical Design Reviews (TDRs), and common diagrams. This standardization ensures consistency and clarity across all architectural documentation.</p>
-
-<p><strong>Supporting Merger and Acquisition (M&amp;A) Activities with Expertise and Analyses</strong>
-    - We provide analyses, recommendations, and integration planning for mergers and acquisitions. My support ensures that architectural considerations are well-integrated into M&amp;A activities, facilitating smoother transitions and integrations.</p>
-
-<p><strong>Defining Key Technology Strategies</strong>
-    - We contribute to the development of essential technology strategies, including those for Cloud, Data, and Platforms. These strategies provide a clear roadmap for technological development and investment, ensuring alignment with business goals.</p>
-
-<p><strong>Defining Vision and Direction of Technology</strong>
-    - In collaboration with Engineering Leaders, We work on creating a sustainable organizational setting that aligns with the overarching technology strategies. This involves setting a clear vision and direction for the technology landscape within the organization.</p>
+<ul>
+  <li>
+    <p><strong>Designing Mechanisms for Teams to Make Better Decisions</strong>: This involves creating global decision-support frameworks such as advisory forums, which facilitate informed discussions across teams. For compliance-sensitive projects, we establish formal design authorities. Additionally, we develop team-specific mechanisms, like escalation paths, to resolve decision conflicts effectively (e.g., when teams disagree on a common messaging middleware).</p>
+  </li>
+  <li>
+    <p><strong>Supporting Teams in Their Daily Work</strong>: This entails integrating into key team activities, aligning architectural work with team rituals to provide timely support. We assist teams during all critical phases, such as reviewing architecture proposals before the commencement of a project or sprint, ensuring alignment with overall architectural standards.</p>
+  </li>
+  <li>
+    <p><strong>Supporting Planned New Initiatives and Projects</strong>: Ensuring seamless alignment between projects that require multi-team collaboration is crucial. We work to facilitate communication and coordination, ensuring all teams are on the same page regarding project goals and requirements.</p>
+  </li>
+  <li>
+    <p><strong>Supporting Teams in Dealing with the Legacy Landscape</strong>: We provide data and insights about the legacy landscape, identifying problematic areas such as frequently changed, low-quality, untested legacy code. We help define scenarios and roadmaps for legacy modernization, ensuring a structured approach to updating and maintaining legacy systems.</p>
+  </li>
+  <li>
+    <p><strong>Tracking Tech Debt and Defining Tech Debt Reduction Programs</strong>: This involves creating a centrally aligned backlog of technical debt and defining programs for its reduction. We integrate these programs into the planning processes to ensure that tech debt is managed proactively and effectively.</p>
+  </li>
+  <li>
+    <p><strong>Performing SWOT and Other Analyses of Platforms and Systems</strong>: Conducting deep dives to understand specific areas of the technology landscape, We perform SWOT (Strengths, Weaknesses, Opportunities, Threats) analyses and other assessments. These analyses help in creating comprehensive plans and roadmaps for improvement.</p>
+  </li>
+  <li>
+    <p><strong>Standardizing Processes and Documentation</strong>: We define standard templates for key documents such as Architectural Decision Records (ADRs), Technical Design Reviews (TDRs), and common diagrams. This standardization ensures consistency and clarity across all architectural documentation.</p>
+  </li>
+  <li>
+    <p><strong>Supporting Merger and Acquisition (M&amp;A) Activities with Expertise and Analyses</strong>: We provide analyses, recommendations, and integration planning for mergers and acquisitions. My support ensures that architectural considerations are well-integrated into M&amp;A activities, facilitating smoother transitions and integrations.</p>
+  </li>
+  <li>
+    <p><strong>Defining Key Technology Strategies</strong>: We contribute to the development of essential technology strategies, including those for Cloud, Data, and Platforms. These strategies provide a clear roadmap for technological development and investment, ensuring alignment with business goals.</p>
+  </li>
+  <li>
+    <p><strong>Defining Vision and Direction of Technology</strong>: In collaboration with Engineering Leaders, We work on creating a sustainable organizational setting that aligns with the overarching technology strategies. This involves setting a clear vision and direction for the technology landscape within the organization.</p>
+  </li>
+</ul>
 
 <p>These activities collectively form an Architecture Activities Platform, enabling a structured and strategic approach to architectural practices within the organization.</p>
 
@@ -1613,9 +1616,9 @@ Image by iStock
   <li><em>Reflecting on the value of the “Data Foundation” concept, how effectively is your organization tracking changes or supporting what-if scenarios analysis?</em></li>
   <li><em>What role do most senior architects play in your organization? Could their time be better utilized on strategic initiatives?</em></li>
   <li><em>How sustainable is the architectural function in your organization in the absence of a strong central team? Could implementing a Data Foundation and well-connected architects help mitigate this?</em></li>
-</ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[When Grounded Architecture framework is in place, it can have a significant positive impact on the functioning of an organization: Executing At Scale, Adaptivity, Improving the Quality of Decision-Making with Data, Maximizing Organizational Alignment & Learning.]]></summary></entry><entry><title type="html">On Being Architect: Introduction</title><link href="http://localhost:4000/being-architect" rel="alternate" type="text/html" title="On Being Architect: Introduction" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/being-architect</id><content type="html" xml:base="http://localhost:4000/being-architect"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/architect-3979490_1920.jpg" /></p>
+</ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[When Grounded Architecture framework is in place, it can have a significant positive impact on the functioning of an organization: Executing At Scale, Adaptivity, Improving the Quality of Decision-Making with Data, Maximizing Organizational Alignment & Learning.]]></summary></entry><entry><title type="html">On Being Architect: Introduction</title><link href="http://localhost:4000/being-architect" rel="alternate" type="text/html" title="On Being Architect: Introduction" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/being-architect</id><content type="html" xml:base="http://localhost:4000/being-architect"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/iStock-1194454929.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by <a href="https://pixabay.com/users/borevina-9505414/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3979490">Borko Manigoda</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3979490">Pixabay</a>
+Image by iStock
 </div>
 <style>
  .quote {
@@ -1642,13 +1645,13 @@ Image by <a href="https://pixabay.com/users/borevina-9505414/?utm_source=link-at
 The role of an architect in the IT industry is like a Swiss Army knife—multifaceted and indispensable. It requires blending technical expertise, strategic thinking, and interpersonal skills to drive successful outcomes in complex organizational environments. In this part of the book, I offer a deep dive into various perspectives on what it means to be an architect in practice, providing a holistic understanding of the responsibilities and expectations associated with this role.</p>
 
 <ul>
-  <li><strong><a href="superglue">Mindset: Architects as Superglue</a></strong>: In IT organizations, architects are the essential connectors, often referred to as “superglue.” Their primary function is integrating different aspects of the organization—architecture, technical details, business requirements, and team dynamics—ensuring that everything works together seamlessly. This role is vital in large organizations and complex projects where cohesion and coordination are paramount to success.</li>
+  <li><strong><a href="superglue">Adopting a Mindset: Architects as Superglue</a></strong>: In IT organizations, architects are the essential connectors, often referred to as “superglue.” Their primary function is integrating different aspects of the organization—architecture, technical details, business requirements, and team dynamics—ensuring that everything works together seamlessly. This role is vital in large organizations and complex projects where cohesion and coordination are paramount to success.</li>
   <li><strong><a href="impact">Building Skills</a></strong>: The skill set of an influential architect is diverse and comprehensive. It includes hard (technical) skills fundamental to understanding and designing complex systems. Soft (people and social) skills are crucial for effective communication, collaboration, and leadership. Business skills are also essential, enabling architects to align their technical strategies with organizational goals and drive business value.</li>
   <li><strong><a href="impact">Making Impact</a></strong>: The true measure of an architect’s success is their impact on the organization. Architects must demonstrate their ability to identify, tackle, and solve strategic problems. Their influence should be deep and broad, shaping the direction of projects and the organization. They are expected to deliver innovative solutions that address key challenges and opportunities, setting them apart as indispensable contributors.</li>
   <li><strong><a href="career">Architects’ Career Paths</a></strong>: The ideal career path for architects is rooted in a strong engineering background. This foundation provides the technical proficiency necessary for advanced architectural roles.</li>
 </ul>
 
-<p>By examining these perspectives, readers can uncover some of the architects’ essential qualities and responsibilities. This exploration highlights the importance of a well-rounded skill set and a strategic approach, proving that being an architect is more than just wearing stylish glasses and nodding thoughtfully in meetings. Whether you’re an aspiring architect or a seasoned pro, these insights will provide valuable guidance on navigating and excelling in this dynamic and evolving field—like a GPS for your career, but with fewer wrong turns and reroutes.</p>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[I introduce guiding principles that generalize my view on what it means to be an architect in practice.]]></summary></entry><entry><title type="html">Mindset: Architects as Superglue</title><link href="http://localhost:4000/superglue" rel="alternate" type="text/html" title="Mindset: Architects as Superglue" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/superglue</id><content type="html" xml:base="http://localhost:4000/superglue"><![CDATA[<style>
+<p>By examining these perspectives, readers can uncover some of the architects’ essential qualities and responsibilities. This exploration highlights the importance of a well-rounded skill set and a strategic approach, proving that being an architect is more than just wearing stylish glasses and nodding thoughtfully in meetings. Whether you’re an aspiring architect or a seasoned pro, these insights will provide valuable guidance on navigating and excelling in this dynamic and evolving field—like a GPS for your career, but with fewer wrong turns and reroutes.</p>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[I introduce guiding principles that generalize my view on what it means to be an architect in practice.]]></summary></entry><entry><title type="html">Adopting a Mindset: Architects as Superglue</title><link href="http://localhost:4000/superglue" rel="alternate" type="text/html" title="Adopting a Mindset: Architects as Superglue" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/superglue</id><content type="html" xml:base="http://localhost:4000/superglue"><![CDATA[<style>
      h2 {
           margin-top: 40px;
      }

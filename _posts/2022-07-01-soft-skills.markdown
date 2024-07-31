@@ -12,7 +12,7 @@ excerpt: "In the following sections, I introduce several resources that I use as
 
 ---
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
-     src="assets/images/iStock-1201288484.jpg">
+     src="assets/images/iStock-1465173464.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by iStock
 </div>

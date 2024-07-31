@@ -12,9 +12,9 @@ excerpt: "I introduce guiding principles that generalize my view on what it mean
 
 ---
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
-     src="assets/images/arch/architect-3979490_1920.jpg">
+     src="assets/images/iStock-1194454929.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by <a href="https://pixabay.com/users/borevina-9505414/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3979490">Borko Manigoda</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3979490">Pixabay</a>
+Image by iStock
 </div>
 <style>
  .quote {
@@ -37,7 +37,7 @@ Image by <a href="https://pixabay.com/users/borevina-9505414/?utm_source=link-at
 <br>
 The role of an architect in the IT industry is like a Swiss Army knife—multifaceted and indispensable. It requires blending technical expertise, strategic thinking, and interpersonal skills to drive successful outcomes in complex organizational environments. In this part of the book, I offer a deep dive into various perspectives on what it means to be an architect in practice, providing a holistic understanding of the responsibilities and expectations associated with this role.
 
-* **[Mindset: Architects as Superglue](superglue)**: In IT organizations, architects are the essential connectors, often referred to as “superglue.” Their primary function is integrating different aspects of the organization—architecture, technical details, business requirements, and team dynamics—ensuring that everything works together seamlessly. This role is vital in large organizations and complex projects where cohesion and coordination are paramount to success.
+* **[Adopting a Mindset: Architects as Superglue](superglue)**: In IT organizations, architects are the essential connectors, often referred to as “superglue.” Their primary function is integrating different aspects of the organization—architecture, technical details, business requirements, and team dynamics—ensuring that everything works together seamlessly. This role is vital in large organizations and complex projects where cohesion and coordination are paramount to success.
 * **[Building Skills](impact)**: The skill set of an influential architect is diverse and comprehensive. It includes hard (technical) skills fundamental to understanding and designing complex systems. Soft (people and social) skills are crucial for effective communication, collaboration, and leadership. Business skills are also essential, enabling architects to align their technical strategies with organizational goals and drive business value.
 * **[Making Impact](impact)**: The true measure of an architect’s success is their impact on the organization. Architects must demonstrate their ability to identify, tackle, and solve strategic problems. Their influence should be deep and broad, shaping the direction of projects and the organization. They are expected to deliver innovative solutions that address key challenges and opportunities, setting them apart as indispensable contributors.
 * **[Architects' Career Paths](career)**: The ideal career path for architects is rooted in a strong engineering background. This foundation provides the technical proficiency necessary for advanced architectural roles.

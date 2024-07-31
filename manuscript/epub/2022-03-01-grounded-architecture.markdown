@@ -2,7 +2,7 @@
 
 # Grounded Architecture Framework: Introduction {#grounded-architecture}
 
-![image by ichigo121212 from pixabay](assets/images/arch/buildings-205986_1920.jpg)
+![image by ichigo121212 from pixabay](assets/images/iStock-1767471664.jpg)
 
 **IN THIS SECTION, YOU WILL:** Get an overview of the Grounded Architecture framework: Data Foundation, People Foundation, and Architecture Activities Platform.
 

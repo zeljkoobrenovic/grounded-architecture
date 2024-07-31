@@ -2,8 +2,7 @@
 
 # Decision Intelligence in IT Architecture {#decision-intelligence}
 
-![](assets/images/arch/iStock-1365878406.jpg)
-^image by istock^
+![image by istock](assets/images/arch/iStock-1365878406.jpg)
 
 **IN THIS SECTION, YOU WILL:**  Learn the basics of decision intelligence, the discipline of turning information into
 
@@ -32,11 +31,9 @@ they flex their decision intelligence:
 * By **creating [options](https://architectelevator.com/architecture/architecture-options/)** for teams to make
   decisions later.
 
-In every twist and turn, decision intelligence is the secret sauce that makes IT architects the unsung heroes of the
-tech world. So, grab your data-driven cape and dive into the art of smart decision-making!
+Decision intelligence is the secret sauce of IT architects' work in every twist and turn.
 
-![](assets/images/arch/iStock-1194231226.jpg)
-^image by istock^
+![image by istock](assets/images/arch/iStock-1194231226.jpg)
 
 ## Basics of Decision-Making
 
@@ -91,8 +88,7 @@ So remember, while we can't control the outcome of the dice roll, we can master 
 ### Economics of Decision-Making
 
 I've often found myself tangled up in trivial decisions that sucked up all my time and energy. Not all decisions are
-worth that kind of investment. Enter the "[**value of clairvoyance
-**](https://en.wikipedia.org/wiki/Value_of_information)" concept (also known as the value of perfect information) in
+worth that kind of investment. Enter the "[value of clairvoyance](https://en.wikipedia.org/wiki/Value_of_information)" concept (also known as the value of perfect information) in
 decision analysis. This nifty idea helps you determine how much effort, info, and resources you should throw at a
 decision.
 
@@ -124,8 +120,7 @@ decisions need to be treated like a royal decree. Save the deep dives for the bi
 Decisions are the steering wheel for reaching our goals. Consequently, it is crucial to understand and define goals
 properly and to understand whether a decision needs to be made at all.
 
-![](assets/images/arch/iStock-1301200404.jpg)
-^image by istock^
+![image by istock](assets/images/arch/iStock-1301200404.jpg)
 
 ### Setting Goals
 
@@ -163,20 +158,19 @@ processes, all while staying flexible and responsive to life's curveballs.
 One of the classic headaches in goal setting for complex organizations is the **principal-agent problem**. This nifty
 concept from economics is like a plot twist in a soap opera: the interests of the decision-maker (the agent) are as
 different from those of the owner (the principal). For example, the owners (principals) may be about growth and
-expansion. At the same time, the managers (agents) might dream of longer lunch breaks and fatter paychecks. This clash
-of interests can lead to a mismanagement mess if mishandled.
+expansion. At the same time, the managers (agents) might dream of longer lunch breaks and fatter paychecks. This **clash
+of interests** can lead to a mismanagement mess if mishandled.
 
-In the wild world of IT, a prime example is technology selection. Individual teams might want to use the latest, coolest
+In the wild world of IT, a prime example is **technology selection.** Individual teams might want to use the latest, coolest
 tech based on their personal preferences. But letting each team run wild can turn your technology landscape into a
 tangled jungle. It's usually better for an IT organization to keep the tech menu limited. This way, it's easier to train
 newbies, maintain the codebase, and shuffle people between teams without causing a tech meltdown.
 
-So, how do we get these misaligned interests on the same page? The principal needs to set up some **rules or constraints
-** to align the agent's decisions with their interests. This is like giving your dog a fenced yard—freedom to play, but
+So, how do we get these misaligned interests on the same page? The principal needs to set up some **rules or constraints** to align the agent's decisions with their interests. This is like giving your dog a fenced yard—freedom to play, but
 within safe boundaries.
 
-This principle also applies to personal decision-making, especially when juggling short-term temptations and long-term
-goals. By setting up pre-emptive constraints, you can steer your choices toward those long-term dreams and avoid
+This principle also applies to personal decision-making, especially when juggling **short-term temptations** and **long-term
+goals.** By setting up **pre-emptive constraints,** you can steer your choices toward those long-term dreams and avoid
 decisions that might look tempting now but are as regrettable as a midnight snack of expired sushi.
 
 For instance, in the technology selection saga, one strategy I often use is to
@@ -218,8 +212,7 @@ So, next time you're in a meeting and wondering if you're there to make a differ
 advisor in a decision-making drama, remember to whip out the magic question. It's your ticket to knowing whether you're
 in for an epic decision-making saga or a cameo appearance.
 
-![](assets/images/arch/iStock-1043738948.jpg)
-^image by istock^
+![image by istock](assets/images/arch/iStock-1043738948.jpg)
 
 ## Decision-Making Complexity
 
@@ -399,8 +392,7 @@ I use in [Data Foundation](#data), while visually appealing and powerful when us
 ** in making informed decisions. It's a means to an impactful end, but **without purposeful application, data is
 ineffective**.
 
-![](assets/images/arch/iStock-1316937637.jpg)
-^image by istock^
+![image by istock](assets/images/arch/iStock-1316937637.jpg)
 
 ### Remember that data has limitations
 

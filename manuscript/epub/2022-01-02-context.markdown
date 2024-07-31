@@ -113,7 +113,7 @@ Researcher Karl Weick developed the concepts of tight and loose coupling to desc
 
 In contrast, a **loosely coupled organization** lacks some elements of a tightly coupled one. Employees have **more autonomy**, and different departments may operate with **little coordination**.
 
-![image by shire777 from pixabay](assets/images/arch/world-trade-center-g707209d17_1920.jpg)
+![image by istock](assets/images/iStock-1321965054.jpg)
 
 Due to historical and strategic reasons, most organizational units I worked with were loosely coupled. Our companies frequently grew through acquisitions of companies in different marketplaces. Business strategies also promoted the independent evolution of local units to address local market needs more effectively and quickly. These units often enjoyed a high level of autonomy, frequently with their development teams and sometimes with local CFOs, CMOs, or CEOs.
 

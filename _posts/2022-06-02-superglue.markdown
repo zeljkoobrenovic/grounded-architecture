@@ -1,7 +1,7 @@
 ---
 layout: post
 section: "On Being Architect"
-title: "Mindset: Architects as Superglue"
+title: "Adopting a Mindset: Architects as Superglue"
 position: 6002
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)

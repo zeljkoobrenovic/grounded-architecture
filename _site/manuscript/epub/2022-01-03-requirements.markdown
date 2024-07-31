@@ -1,6 +1,6 @@
 
 
-# Evolution of Architecture: Embracing Adaptability, Scalability, and Data-Driven Decisions {#goals}
+# Embracing Adaptability, Scalability, and Data {#goals}
 
 ![image by bluehouse skis from pixabay](assets/images/change-4777508_1280.jpg)
 
@@ -11,9 +11,7 @@
 A> **KEY POINTS:**
 A> * I identified the following needs that an architecture function should support: Executing At Scale, Adaptivity, Improving the Quality of Decision-Making with Data, and Maximizing Organizational Alignment & Learning.
 
-Grounded Architecture emerged as a necessity in response to our [intricate and multifaceted challenges](#context). Grounded Architecture was designed to address these specific challenges. By moving away from manual processes and embracing automation, data-driven decision-making, and adaptive frameworks, we aimed to create a **more resilient and effective** architectural practice. 
-
-![image by gerd altmann from pixabay](assets/images/stress-gc7a712a2f_1920.jpg)
+Grounded Architecture emerged as a necessity in response to our [intricate and multifaceted challenges](#context). The Grounded Architecture framework was designed to address these specific challenges. By moving away from manual processes and embracing automation, data-driven decision-making, and adaptive frameworks, we aimed to create a **more resilient and effective** architectural practice. 
 
 ## Goals
 
@@ -21,11 +19,11 @@ Here's a detailed breakdown of the goals we set to revamp our approach.
 
 ### Goal 1: Executing At Scale
 
-Our organization comprises hundreds of teams and thousands of projects, each with unique complexity and requirements. Traditional, one-size-fits-all approaches to architecture practice cannot keep up. We needed a system that could support this vast and varied ecosystem. Grounded Architecture was designed to provide the scalability necessary to **handle such diversity at scale**, ensuring that teams and projects received the support they needed without being constrained by the limitations of processes.
+Our organizations were like a bustling city with hundreds of teams and thousands of projects, each with its own unique complexity and requirements. Traditional, one-size-fits-all approaches to architecture practice simply couldn’t keep up with this dynamic environment. We needed a system that could support this vast and varied ecosystem. Grounded Architecture was designed to **handle such diversity at scale,** ensuring that teams and projects received the tailored support they needed without being bogged down by rigid processes.
 
 ### Goal 2: Adaptivity
 
-In our dynamic environment, significant change is not just frequent; it's expected. Whether these changes are organic, like evolving business needs, or inorganic, like mergers and acquisitions, our architecture must be **able to adapt swiftly**. Grounded Architecture was crafted to be flexible and responsive, allowing us to pivot quickly in response to new challenges and opportunities. This adaptability ensures that our architectural framework remains relevant and effective, no matter how the organizational landscape shifts.
+In our dynamic environments, significant change is not just frequent; it's expected. Whether these changes are organic, like evolving business needs, or inorganic, like mergers and acquisitions, our architecture must be **able to adapt swiftly**. Grounded Architecture was crafted to be flexible and responsive, allowing us to pivot quickly in response to new challenges and opportunities. This adaptability ensures that our architectural framework remains relevant and effective, no matter how the organizational landscape shifts.
 
 ### Goal 3: Increasing Quality of Decisions with Data
 

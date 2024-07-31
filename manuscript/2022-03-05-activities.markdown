@@ -2,8 +2,7 @@
 
 # Architecture Activities Platform {#activities}
 
-![](assets/images/arch/parliament-366199_1920.jpg)
-^image by anja from pixabay^
+![image by anja from pixabay](assets/images/arch/parliament-366199_1920.jpg)
 
 **IN THIS SECTION, YOU WILL:**  Understand what activities you can do as a part of architecture practice and get tips on creating pragmatic operating models for an architecture practice.
 
@@ -22,8 +21,7 @@ Considering Gregor Hohpe's previous two points, I approach defining an architect
 
 No matter which operating models you select, it's crucial to develop **explicit agreements** and "rules of engagement" with key stakeholders. This collaborative approach is essential to create a sustainable and practical architectural function. It's like establishing the house rules for game night; everyone's input is valued and necessary to keep things fun and functional.
 
-![](assets/images/model-strategy.png)
-***Figure 1:** The structure of Grounded Architecture: Architecture Activities Platform.*
+![Figure 1: The structure of Grounded Architecture: Architecture Activities Platform.](assets/images/model-strategy.png)
 
 The Architecture Activities Platform (Figure 1) is a set of processes and agreements that allows architects to do everything architecture practice typically does. It leverages Data and People Foundations to develop a data-informed, organization-wide impact. Data and People Foundations provide a basis for data-informed decision-making well embedded in the organization. It's about instilling confidence and trust in your decision-making process.
 
@@ -31,35 +29,25 @@ The Architecture Activities Platform (Figure 1) is a set of processes and agreem
 
 To provide a clearer understanding of what I mean by an Architecture Activities Platform, here are detailed examples of the activities I have been engaged in with architects.
 
-**Designing Mechanisms for Teams to Make Better Decisions**
-    - This involves creating global decision-support frameworks such as advisory forums, which facilitate informed discussions across teams. For compliance-sensitive projects, we establish formal design authorities. Additionally, we develop team-specific mechanisms, like escalation paths, to resolve decision conflicts effectively (e.g., when teams disagree on a common messaging middleware).
+* **Designing Mechanisms for Teams to Make Better Decisions**: This involves creating global decision-support frameworks such as advisory forums, which facilitate informed discussions across teams. For compliance-sensitive projects, we establish formal design authorities. Additionally, we develop team-specific mechanisms, like escalation paths, to resolve decision conflicts effectively (e.g., when teams disagree on a common messaging middleware).
 
-**Supporting Teams in Their Daily Work**
-    - This entails integrating into key team activities, aligning architectural work with team rituals to provide timely support. We assist teams during all critical phases, such as reviewing architecture proposals before the commencement of a project or sprint, ensuring alignment with overall architectural standards.
+* **Supporting Teams in Their Daily Work**: This entails integrating into key team activities, aligning architectural work with team rituals to provide timely support. We assist teams during all critical phases, such as reviewing architecture proposals before the commencement of a project or sprint, ensuring alignment with overall architectural standards.
 
-**Supporting Planned New Initiatives and Projects**
-    - Ensuring seamless alignment between projects that require multi-team collaboration is crucial. We work to facilitate communication and coordination, ensuring all teams are on the same page regarding project goals and requirements.
+* **Supporting Planned New Initiatives and Projects**: Ensuring seamless alignment between projects that require multi-team collaboration is crucial. We work to facilitate communication and coordination, ensuring all teams are on the same page regarding project goals and requirements.
 
-**Supporting Teams in Dealing with the Legacy Landscape**
-    - We provide data and insights about the legacy landscape, identifying problematic areas such as frequently changed, low-quality, untested legacy code. We help define scenarios and roadmaps for legacy modernization, ensuring a structured approach to updating and maintaining legacy systems.
+* **Supporting Teams in Dealing with the Legacy Landscape**: We provide data and insights about the legacy landscape, identifying problematic areas such as frequently changed, low-quality, untested legacy code. We help define scenarios and roadmaps for legacy modernization, ensuring a structured approach to updating and maintaining legacy systems.
 
-**Tracking Tech Debt and Defining Tech Debt Reduction Programs**
-    - This involves creating a centrally aligned backlog of technical debt and defining programs for its reduction. We integrate these programs into the planning processes to ensure that tech debt is managed proactively and effectively.
+* **Tracking Tech Debt and Defining Tech Debt Reduction Programs**: This involves creating a centrally aligned backlog of technical debt and defining programs for its reduction. We integrate these programs into the planning processes to ensure that tech debt is managed proactively and effectively.
 
-**Performing SWOT and Other Analyses of Platforms and Systems**
-    - Conducting deep dives to understand specific areas of the technology landscape, We perform SWOT (Strengths, Weaknesses, Opportunities, Threats) analyses and other assessments. These analyses help in creating comprehensive plans and roadmaps for improvement.
+* **Performing SWOT and Other Analyses of Platforms and Systems**: Conducting deep dives to understand specific areas of the technology landscape, We perform SWOT (Strengths, Weaknesses, Opportunities, Threats) analyses and other assessments. These analyses help in creating comprehensive plans and roadmaps for improvement.
 
-**Standardizing Processes and Documentation**
-    - We define standard templates for key documents such as Architectural Decision Records (ADRs), Technical Design Reviews (TDRs), and common diagrams. This standardization ensures consistency and clarity across all architectural documentation.
+* **Standardizing Processes and Documentation**: We define standard templates for key documents such as Architectural Decision Records (ADRs), Technical Design Reviews (TDRs), and common diagrams. This standardization ensures consistency and clarity across all architectural documentation.
 
-**Supporting Merger and Acquisition (M&A) Activities with Expertise and Analyses**
-    - We provide analyses, recommendations, and integration planning for mergers and acquisitions. My support ensures that architectural considerations are well-integrated into M&A activities, facilitating smoother transitions and integrations.
+* **Supporting Merger and Acquisition (M&A) Activities with Expertise and Analyses**: We provide analyses, recommendations, and integration planning for mergers and acquisitions. My support ensures that architectural considerations are well-integrated into M&A activities, facilitating smoother transitions and integrations.
 
-**Defining Key Technology Strategies**
-    - We contribute to the development of essential technology strategies, including those for Cloud, Data, and Platforms. These strategies provide a clear roadmap for technological development and investment, ensuring alignment with business goals.
+* **Defining Key Technology Strategies**: We contribute to the development of essential technology strategies, including those for Cloud, Data, and Platforms. These strategies provide a clear roadmap for technological development and investment, ensuring alignment with business goals.
 
-**Defining Vision and Direction of Technology**
-    - In collaboration with Engineering Leaders, We work on creating a sustainable organizational setting that aligns with the overarching technology strategies. This involves setting a clear vision and direction for the technology landscape within the organization.
+* **Defining Vision and Direction of Technology**: In collaboration with Engineering Leaders, We work on creating a sustainable organizational setting that aligns with the overarching technology strategies. This involves setting a clear vision and direction for the technology landscape within the organization.
 
 These activities collectively form an Architecture Activities Platform, enabling a structured and strategic approach to architectural practices within the organization.
 
@@ -71,8 +59,7 @@ In this section, I address different guiding principles of architectural work. T
 
 While exact activities and their scope will depend on an organization setting and will change over time, I usually followed a common operational model in daily work inspired by Gregor Hohpe's strategy-principles-decisions model (Figure 2). 
 
-![](assets/images/arch/architecture-system.png)
-**Figure 2:** *A common operating model I typically use for Grounded Architecture activities.*
+![Figure 2: A common operating model I typically use for Grounded Architecture activities.](assets/images/arch/architecture-system.png)
 
 Here are the key characteristics of this operating model. 
 
@@ -104,8 +91,7 @@ To give maximal autonomy to the teams while maintaining a **minimal** level of g
 
 The **decision pyramid** highlights that development teams should make most decisions. However, several strategic and area-level choices may provide team decision boundaries. For example, selecting the public cloud provider is typically a CTO-level strategic decision. Similarly, engineering leaders in some areas may want to limit some choices, such as the number of programming languages, to more easily train new people, maintain code, and support moves between teams.
 
-![](assets/images/arch/decision-pyramid.png)
-***Figure 3:** A decision pyramid. The development teams should make most decisions. However, several strategic and area-level decisions may provide decision boundaries for teams (e.g., a public cloud provider).*
+![Figure 3: A decision pyramid. The development teams should make most decisions. However, several strategic and area-level decisions may provide decision boundaries for teams (e.g., a public cloud provider).](assets/images/arch/decision-pyramid.png)
 
 ### General Architecture Decision Policy
 
@@ -128,8 +114,7 @@ While it may not always be enough, this simple policy resonates well. It encoura
 
 I have found that the concept of Golden Paths provides an excellent ground to drive alignment and collaboration in architecture activities. Golden Paths is an approach utilized to streamline and unify the development process within a software ecosystem, aiming to tackle fragmentation and foster consistency, inspired by [Spotify's implementation](https://engineering.atspotify.com/2020/08/how-we-use-golden-paths-to-solve-fragmentation-in-our-software-ecosystem/). Golden Paths can be described as "**opinionated and supported**" routes developers can follow to build systems efficiently and effectively. 
 
-![](assets/images/spotify-golden-paths_infrastructure-and-tooling-700x327.png)
-^image by engineering.atspotify.com^
+![image by engineering.atspotify.com](assets/images/spotify-golden-paths_infrastructure-and-tooling-700x327.png)
 
 Golden paths provide a solid **foundation for aligning** architecture activities, serving as a common target of work for Guilds and central architectural teams. Rather than being solely knowledge-sharing entities, guilds can be empowered to develop golden paths, serving as an excellent catalyst for more effective community engagement. This approach not only enhances the role of guilds but also increases the adoption of golden paths as they are created collaboratively.
 
@@ -139,8 +124,7 @@ Golden Paths can be crucial to an organization's IT development landscape as a d
 
 One of the amusing challenges with setting up an architecture function in an organization is that everyone seems to have a different idea of what "architecture" should entail. It's like asking people to describe a unicorn: some imagine a mythical, majestic creature, while others picture a sparkly horse with a horn that grants wishes. Good architects can do many things, but this versatility might not always be the most effective way to support the organization. We need to **set boundaries** so that we can focus on what's important rather than becoming frazzled by what's not.
 
-![](assets/images/iStock-92285726.jpg)
-^image by istock^
+![image by istock](assets/images/iStock-92285726.jpg)
 
 To be effective, I've found it crucial to establish and clearly communicate some "**rules of engagement**" (ROE). Think of ROE as the office playbook for how architects should operate. In a corporate setting, ROE are the principles that guide how employees and departments interact with each other, clients, and stakeholders. This includes communication protocols, decision-making processes, and conflict-resolution mechanisms. Essentially, ROE sets the stage for what's expected and what's not, ensuring everyone plays nicely and fairly.
 

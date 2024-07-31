@@ -169,9 +169,9 @@ Researcher Karl Weick developed the concepts of tight and loose coupling to desc
 
 In contrast, a **loosely coupled organization** lacks some elements of a tightly coupled one. Employees have **more autonomy**, and different departments may operate with **little coordination**.
 
-![](assets/images/arch/world-trade-center-g707209d17_1920.jpg)
+![](assets/images/iStock-1321965054.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by <a href="https://pixabay.com/users/shire777-19410672/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5889199">Shire777</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5889199">Pixabay</a>
+Image by iStock
 </div>
 
 
