@@ -1,9 +1,8 @@
 
 
-# Embracing Adaptability, Scalability, and Data {#goals}
+# Goals: Adapting, Growing, and Using Data {#goals}
 
-![](assets/images/change-4777508_1280.jpg)
-^image by bluehouse skis from pixabay^
+![image by bluehouse skis from pixabay](assets/images/change-4777508_1280.jpg)
 
 **IN THIS SECTION, YOU WILL:** Understand the requirements I identified for an architecture function in complex organizations.
 

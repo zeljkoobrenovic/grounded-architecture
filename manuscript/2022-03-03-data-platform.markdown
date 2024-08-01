@@ -2,8 +2,7 @@
 
 # Data Foundation {#data}
 
-![](assets/images/arch/architecture-1857175_1920.jpg)
-^image by lorenzo cafaro from pixabay^
+![image by lorenzo cafaro from pixabay](assets/images/arch/architecture-1857175_1920.jpg)
 
 **IN THIS SECTION, YOU WILL:**  Understand how to use diverse data sources to support architecture decision-making processes and get concrete tips on creating architecture-centric data tools.
 
@@ -16,29 +15,26 @@ A> * To facilitate the creation of a Data Foundation, I have been working on cre
 
 A> *"If we have data, let's look at data. If all we have are opinions, let's go with mine."* -— Jim Barksdale
 
-Everywhere I worked on creating architectural functions, I strongly (aka obsessively) emphasized data. Consequently, one of the first steps I make in any architecture practice is to create an architecture Data Foundation to get a complete, up-to-date picture of critical elements of an organization's technology landscapes (Figure 1). Manual documentation does not scale, and relying on data ensures the reliability and scalability of decision-making. In the past several years, I have also been working on creating open-source tools, such as [Sokrates](https://sokrates.dev), that can help obtain valuable architectural insights from data sources, such as source code repositories or public cloud billing reports. 
+Everywhere I worked on creating architectural functions, I strongly (aka obsessively) **emphasized data.** Consequently, one of the first steps I make in any architecture practice is to create an architecture Data Foundation to get a complete, up-to-date picture of critical elements of an organization's technology landscapes (Figure 1). Manual documentation does not scale, and relying on data ensures the reliability and scalability of decision-making. In the past several years, I have also been working on creating open-source tools, such as [Sokrates](https://sokrates.dev), that can help obtain valuable architectural insights from data sources, such as source code repositories or public cloud billing reports.
 
-![](assets/images/model-data.png)
-***Figure 1:** The structure of Grounded Architecture: The Data Foundation.*
+![Figure 1: The structure of Grounded Architecture: The Data Foundation.](assets/images/model-data.png)
 
 The good news is that **big organizations have lots of data** that, if used wisely, can provide an excellent basis for an architectural Data Foundation. With some automation and curation, getting a crystal clear overview of the technology landscape may be closer than it initially appears.
 
 ## Examples of Data Foundation Tools
 
 To illustrate what I mean by Data Foundation, I will give a few concrete examples from my recent work. Data I typically used include (Figures 2 and 3):
-* **Source code** contains an incredible amount of information about technology, people's activity, team dependencies, and the quality of software systems. By analyzing commit histories, code complexity, and contributions, we can identify critical areas of improvement, understand team dynamics, and ensure code quality.
-* **Public cloud billing reports** provide an overview and trends about used cloud services, regions, and budgets. Monitoring billing reports helps manage budgets, identify cost-saving opportunities, and understand usage patterns across different services and regions.
+* **Source code**, which contain an incredible amount of information about technology, people's activity, team dependencies, and the quality of software systems. By analyzing commit histories, code complexity, and contributions, we can identify critical areas of improvement, understand team dynamics, and ensure code quality.
+* **Public cloud billing reports**, which provide an overview and trends about used cloud services, regions, and budgets. Monitoring billing reports helps manage budgets, identify cost-saving opportunities, and understand usage patterns across different services and regions.
 * **Incident reports** can reveal trends and dependencies among incidents. Analyzing these reports reveals trends, common issues, and dependencies among incidents, helping in proactive problem management and improving system reliability.
 * **Key business metrics**, like vibrancy, which can show user activity on our systems. Tracking these metrics helps in assessing the health of the business, understanding user behavior, and guiding strategic decisions to enhance user experience.
 * **Messaging and collaboration platforms (such as Slack) activity reports**, which can help understand discussion topics and team interactions. Analyzing these reports helps in understanding collaboration patterns, identifying key discussion areas, and improving team communication and productivity.
 
 In the following sections, I detail several of these architectural data-driven tools.
 
-![](assets/images/apps.png) 
-**Figure 2:** *A screenshot of the start page of the architecture data dashboard we've built and used at AVIV Group.*
+![Figure 2: A screenshot of the start page of the architecture data dashboard we've built and used at AVIV Group.](assets/images/apps.png) 
 
-![](assets/images/apps-ebay.png) 
-**Figure 3:** *A screenshot of the start page of the architecture data dashboard we've built and used at eBay Classifieds.*
+![Figure 3: A screenshot of the start page of the architecture data dashboard we've built and used at eBay Classifieds.](assets/images/apps-ebay.png) 
 
 ### Example 1: Source Code and Commit History
 
@@ -70,8 +66,7 @@ Developing in or migrating to the public cloud can dramatically increase transpa
 
 Figure 4 shows the anonymous screenshot of the Cloud usage explorer, a tool I built to visualize automatically-collected data from standard Google Cloud Platform (GCP) usage reports.
 
-![](assets/images/archdata/cloud-usage-explorer.png)
-***Figure 4:** An example of a cloud usage explorer.*
+![Figure 4: An example of a cloud usage explorer.](assets/images/archdata/cloud-usage-explorer.png)
 
 ### Example 3: Financial and Vibrancy Data
 
@@ -81,8 +76,7 @@ These finance sleuths need this juicy data to, for instance, link the performanc
 
 So, next time you're knee-deep in architectural plans, don't forget to call the finance for top-notch data insights!
 
-![](assets/images/arch/cross-data.png)
-***Figure 5:** Combining data from a different source (e.g., cloud billing reports and vibrancy or revenue can lead to new insights (e.g., identifying inefficiencies in the application portfolio).*
+![Figure 5: Combining data from a different source (e.g., cloud billing reports and vibrancy or revenue can lead to new insights (e.g., identifying inefficiencies in the application portfolio).](assets/images/arch/cross-data.png)
 
 ### Example 4: Data-Driven Capability Map
 
@@ -165,25 +159,15 @@ So there you have it. The data's ready to spill its secrets—you need to know t
 
 Figures 6 to 10 show some insights from source code analyses with Sokrates. 
 
-![](assets/images/archdata/src_1.png)
+![Figure 6: Sokrates can instantly create a helicopter view of the technology landscape, programming languages, active contributors, and commit trends.](assets/images/archdata/src_1.png)
 
-**Figure 6**: *Sokrates can instantly create a helicopter view of the technology landscape, programming languages, active contributors, and commit trends.*
-
-![](assets/images/archdata/src_2.png)
-
-**Figure 7**: *Sokrates can show detailed code and contributors' trends per repository, enabling zooming in each repository up to the code level.*
+![Figure 7: Sokrates can show detailed code and contributors' trends per repository, enabling zooming in each repository up to the code level.](assets/images/archdata/src_2.png)
  
-![](assets/images/archdata/src_5.png)
+![Figure 8: Sokrates can create a tech radar by tagging projects with identified technologies.](assets/images/archdata/src_5.png)
 
-**Figure 8**: *Sokrates can create a tech radar by tagging projects with identified technologies.*
-
-![](assets/images/archdata/src_3.png)
-
-**Figure 9**: *Sokrates can show contributor trends, distribution of "veterans" and "rookies," and dependencies between people and repositories, enabling zooming in into patterns of the contribution of individual contributors.*
+![Figure 9: Sokrates can show contributor trends, distribution of "veterans" and "rookies," and dependencies between people and repositories, enabling zooming in into patterns of the contribution of individual contributors.](assets/images/archdata/src_3.png)
  
-![](assets/images/arch/sokrates_teams.png)
-
-**Figure 10**: *Sokrates can reveal the team topologies by plotting 2D and 3D graphs of dependencies that people create through working on the same repositories in the same period.*
+![Figure 10: Sokrates can reveal the team topologies by plotting 2D and 3D graphs of dependencies that people create through working on the same repositories in the same period.](assets/images/arch/sokrates_teams.png)
 
 ## Questions to Consider
 

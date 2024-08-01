@@ -48,11 +48,7 @@ Image by iStock
 </style>
 
 <br>
-My view of architecture has a strong engineering bias. Architects' career paths ideally stem from a strong engineering background. While there may be exceptions, an architect without significant real-world exposure to software engineering challenges cannot obtain enough practical knowledge to make informed technology decisions and build effective relationships with developer teams.
-
-<div class="quote">
-My view of architecture has a strong engineering bias. Architects' career paths ideally stem from a strong engineering background. 
-</div>
+My view of architecture has a **strong engineering bias.** Architects' career paths ideally stem from a strong engineering background. While there may be exceptions, an architect without significant real-world exposure to software engineering challenges cannot obtain enough practical knowledge to make informed technology decisions and build effective relationships with developer teams.
 
 
 ![](assets/images/arch/career-paths.png)

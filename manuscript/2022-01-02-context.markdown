@@ -2,8 +2,7 @@
 
 # Context: Fast-Moving Global Organizations {#context}
 
-![](assets/images/arch/roller-coaster-3605743_1920.jpg)
-^image by paul brennan from pixabay^
+![image by paul brennan from pixabay](assets/images/arch/roller-coaster-3605743_1920.jpg)
 
 **IN THIS SECTION, YOU WILL:** Understand the context in which the ideas in this book developed.
 
@@ -13,7 +12,9 @@ A> **KEY POINTS:**
 A> * To better understand any idea or solution, it is crucial to understand the context in which this idea developed. 
 A> * The Grounded Architecture approach has evolved in the context of global, loosely coupled organizations that are diverse, with nonlinear growth dynamics, and under transformation pressures. 
 
-To truly grasp any idea or solution, you need to understand the context in which these ideas were born. My work on creating and running an architecture practice isn't just a lofty idea; it's a practical approach sharpened from real-world experience. My perspective comes from lessons I learned as a Chief Architect at AVIV Group and Principal Architect at eBay Classifieds and Adevinta. Here's a peek into the context that shaped my Grounded Architecture approach:
+My work on creating and running an architecture practice isn't just a lofty idea; it's a practical approach sharpened from real-world experience. My perspective comes from lessons I learned as a Chief Architect at AVIV Group and Principal Architect at eBay Classifieds and Adevinta. 
+
+However, to truly grasp any idea or solution, you need to understand the context in which these ideas were born. Here's a peek into the context that shaped my Grounded Architecture approach:
 
 * **Global scale**: operating across multiple countries and continents with millions of users.
 * **Multi-dimensional diversity**: the organizations I worked in were diverse, including customer base, workforce, business models, team topologies, and technology stacks.
@@ -30,8 +31,7 @@ I have honed my approach within genuinely global and multicultural organizations
 * Collaborating with thousands of software **developers** across hundreds of product and development **teams,**
 * Implementing systems comprising hundreds of **millions of lines of source code**.
 
-![](assets/images/arch/earth-g217b5730b_1920.jpg)
-^image by pete linforth from pixabay^
+![image by pete linforth from pixabay](assets/images/arch/earth-g217b5730b_1920.jpg)
 
 Operating on a global scale introduces several compelling opportunities for organizations. It can significantly increase organizational effectiveness by **reducing duplication of effort** through centralized shared activities. Additionally, leveraging **economies of scale** allows for cost advantages, such as lowering the unit prices of utilized technologies. Global operations also enhance **business resilience and flexibility**, enabling compensation for local market fluctuations with global resources. The expansive talent pool available to global organizations supports local and international initiatives. Moreover, these organizations possess significant resources to invest in supporting nonlinear growth through mergers and acquisitions (M&As).
 
@@ -49,8 +49,7 @@ The organizations I worked with were incredibly diverse across multiple dimensio
 * **IT Architecture**: Combination of legacy systems and modern approaches.
 * **Technology**: Numerous programming languages and thousands of third-party libraries, frameworks, and services.
 
-![](assets/images/arch/pictures-g139ff7ebb_1280.jpg)
-^image by simon from pixabay^
+![image by simon from pixabay](assets/images/arch/pictures-g139ff7ebb_1280.jpg)
 
 For instance, I worked with organizational units differing in several aspects, including **unit size,** which ranged from hundreds of employees to just a dozen. The **team topologies** varied, spanning from single-team setups to hierarchical team organizations. Additionally, the **architectural roles** varied, with some units having dedicated local architecture teams and lead architects. In contrast, in smaller units, team members handled architectural duties alongside other responsibilities.
 
@@ -64,10 +63,9 @@ In conclusion, while diversity is a rich source of new possibilities from an arc
 
 ## Nonlinear Growth Dynamics
 
-Complex organizations like the ones I have worked in are often highly dynamic. These organizations frequently undergo significant growth, contraction, and reorganization, evolving both organically and inorganically. 
+Complex organizations like the ones I have worked in are often highly dynamic. These organizations frequently undergo significant growth, contraction, and reorganization, evolving both **organically** and **inorganically.**
 
-![](assets/images/arch/blur-g6bc6ee2cc_1920.jpg)
-^image by pexels from pixabay^
+![image by pexels from pixabay](assets/images/arch/blur-g6bc6ee2cc_1920.jpg)
 
 **Organic growth** refers to internal expansion driven by the company's own operations. **Inorganic change** involves acquiring other businesses, opening new locations, or divesting parts of the company.
 
@@ -81,8 +79,7 @@ In summary, while nonlinear growth offers substantial benefits, it also presents
 
 Complex organizations aim to grow not just in size, but also in efficiency by leveraging economies of scale, cost synergies, and enhancing their capacity for innovation. Our investors expect us to become **more than the sum of our original parts**.
 
-![](assets/images/arch/gears-g06fe4e9a5_1920.jpg)
-^image by mustangjoe from pixabay^
+![image by mustangjoe from pixabay](assets/images/arch/gears-g06fe4e9a5_1920.jpg)
 
 Pursuing synergies and transformations offers several opportunities, such as **cost reductions** through less duplication and lower expenses. **Accelerated innovation** can occur as savings from cost reductions free up resources for new developments. Additionally, creating synergistic components enables more possibilities for **reuse and sharing,** while well-executed transformations result in increased **efficiency** and **lower unit costs.**
 
@@ -96,8 +93,7 @@ Researcher Karl Weick developed the concepts of tight and loose coupling to desc
 
 In contrast, a **loosely coupled organization** lacks some elements of a tightly coupled one. Employees have **more autonomy**, and different departments may operate with **little coordination**.
 
-![](assets/images/iStock-1321965054.jpg)
-^image by istock^
+![image by istock](assets/images/iStock-1321965054.jpg)
 
 Most organizational units I worked with were loosely coupled. Our companies frequently grew through acquisitions of companies in different marketplaces. Business strategies also promoted the independent evolution of local units to address local market needs more effectively and quickly. These units often enjoyed a high level of autonomy, frequently with their development teams and sometimes with local CFOs, CMOs, or CEOs.
 

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-08-01T01:11:50+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: Redefining IT Architecture Practice</title><subtitle></subtitle><entry><title type="html">Cheat Sheet</title><link href="http://localhost:4000/cheat-sheet" rel="alternate" type="text/html" title="Cheat Sheet" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/appendix-cheat-sheet</id><content type="html" xml:base="http://localhost:4000/cheat-sheet"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/iStock-1182643171.jpg" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-08-01T11:33:49+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: Redefining IT Architecture Practice</title><subtitle></subtitle><entry><title type="html">Cheat Sheet</title><link href="http://localhost:4000/cheat-sheet" rel="alternate" type="text/html" title="Cheat Sheet" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/appendix-cheat-sheet</id><content type="html" xml:base="http://localhost:4000/cheat-sheet"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/iStock-1182643171.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by iStock
 </div>
@@ -255,7 +255,9 @@ Image by <a href="https://pixabay.com/users/paulbr75-2938186/?utm_source=link-at
 </style>
 
 <p><br />
-To truly grasp any idea or solution, you need to understand the context in which these ideas were born. My work on creating and running an architecture practice isn’t just a lofty idea; it’s a practical approach sharpened from real-world experience. My perspective comes from lessons I learned as a Chief Architect at AVIV Group and Principal Architect at eBay Classifieds and Adevinta. Here’s a peek into the context that shaped my Grounded Architecture approach:</p>
+My work on creating and running an architecture practice isn’t just a lofty idea; it’s a practical approach sharpened from real-world experience. My perspective comes from lessons I learned as a Chief Architect at AVIV Group and Principal Architect at eBay Classifieds and Adevinta.</p>
+
+<p>However, to truly grasp any idea or solution, you need to understand the context in which these ideas were born. Here’s a peek into the context that shaped my Grounded Architecture approach:</p>
 
 <ul>
   <li><strong>Global scale</strong>: operating across multiple countries and continents with millions of users.</li>
@@ -321,7 +323,7 @@ Image by <a href="https://pixabay.com/users/simon-3/?utm_source=link-attribution
 
 <h2 id="nonlinear-growth-dynamics">Nonlinear Growth Dynamics</h2>
 
-<p>Complex organizations like the ones I have worked in are often highly dynamic. These organizations frequently undergo significant growth, contraction, and reorganization, evolving both organically and inorganically.</p>
+<p>Complex organizations like the ones I have worked in are often highly dynamic. These organizations frequently undergo significant growth, contraction, and reorganization, evolving both <strong>organically</strong> and <strong>inorganically.</strong></p>
 
 <p><img src="assets/images/arch/blur-g6bc6ee2cc_1920.jpg" alt="" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
@@ -373,6 +375,7 @@ Image by iStock
 
 <p>From an architectural perspective, loose coupling presents an interesting challenge as it often leads to a conflict between global alignment and control and local autonomy.</p>
 
+<p><br /></p>
 <h2 id="questions-to-consider">Questions to Consider</h2>
 
 <p>To better understand any idea or solution, it is crucial to understand the context in which these ideas developed. When using ideas from this book, ask yourself how your organizational context differs from mine:</p>
@@ -384,7 +387,7 @@ Image by iStock
   <li><em>What are the growth dynamics of your organization?</em></li>
   <li><em>Are you experiencing synergy and transformation pressures?</em></li>
   <li><em>How (de)centralized is your organization?</em></li>
-</ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[The Grounded Architecture approach has evolved in the context of global, loosely coupled organizations that are diverse, with nonlinear growth dynamics, and under transformation pressures.]]></summary></entry><entry><title type="html">Embracing Adaptability, Scalability, and Data</title><link href="http://localhost:4000/goals" rel="alternate" type="text/html" title="Embracing Adaptability, Scalability, and Data" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/requirements</id><content type="html" xml:base="http://localhost:4000/goals"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/change-4777508_1280.jpg" /></p>
+</ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[The Grounded Architecture approach has evolved in the context of global, loosely coupled organizations that are diverse, with nonlinear growth dynamics, and under transformation pressures.]]></summary></entry><entry><title type="html">Goals: Adapting, Growing, and Using Data</title><link href="http://localhost:4000/goals" rel="alternate" type="text/html" title="Goals: Adapting, Growing, and Using Data" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/requirements</id><content type="html" xml:base="http://localhost:4000/goals"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/change-4777508_1280.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/bluehouseskis-14931490/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4777508">Bluehouse Skis</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4777508">Pixabay</a>
 </div>
@@ -550,7 +553,7 @@ Image by <a href="https://pixabay.com/users/3844328-3844328/?utm_source=link-att
 </blockquote>
 
 <p><br />
-Everywhere I worked on creating architectural functions, I strongly (aka obsessively) emphasized data. Consequently, one of the first steps I make in any architecture practice is to create an architecture Data Foundation to get a complete, up-to-date picture of critical elements of an organization’s technology landscapes (Figure 1). Manual documentation does not scale, and relying on data ensures the reliability and scalability of decision-making. In the past several years, I have also been working on creating open-source tools, such as <a href="https://sokrates.dev">Sokrates</a>, that can help obtain valuable architectural insights from data sources, such as source code repositories or public cloud billing reports.</p>
+Everywhere I worked on creating architectural functions, I strongly (aka obsessively) <strong>emphasized data.</strong> Consequently, one of the first steps I make in any architecture practice is to create an architecture Data Foundation to get a complete, up-to-date picture of critical elements of an organization’s technology landscapes (Figure 1). Manual documentation does not scale, and relying on data ensures the reliability and scalability of decision-making. In the past several years, I have also been working on creating open-source tools, such as <a href="https://sokrates.dev">Sokrates</a>, that can help obtain valuable architectural insights from data sources, such as source code repositories or public cloud billing reports.</p>
 
 <p><img src="assets/images/model-data.png" alt="" />
 <em><strong>Figure 1:</strong> The structure of Grounded Architecture: The Data Foundation.</em></p>
@@ -566,8 +569,8 @@ Manual documentation does not scale, and relying on data ensures reliability and
 
 <p>To illustrate what I mean by Data Foundation, I will give a few concrete examples from my recent work. Data I typically used include (Figures 2 and 3):</p>
 <ul>
-  <li><strong>Source code</strong> contains an incredible amount of information about technology, people’s activity, team dependencies, and the quality of software systems. By analyzing commit histories, code complexity, and contributions, we can identify critical areas of improvement, understand team dynamics, and ensure code quality.</li>
-  <li><strong>Public cloud billing reports</strong> provide an overview and trends about used cloud services, regions, and budgets. Monitoring billing reports helps manage budgets, identify cost-saving opportunities, and understand usage patterns across different services and regions.</li>
+  <li><strong>Source code</strong>, which contain an incredible amount of information about technology, people’s activity, team dependencies, and the quality of software systems. By analyzing commit histories, code complexity, and contributions, we can identify critical areas of improvement, understand team dynamics, and ensure code quality.</li>
+  <li><strong>Public cloud billing reports</strong>, which provide an overview and trends about used cloud services, regions, and budgets. Monitoring billing reports helps manage budgets, identify cost-saving opportunities, and understand usage patterns across different services and regions.</li>
   <li><strong>Incident reports</strong> can reveal trends and dependencies among incidents. Analyzing these reports reveals trends, common issues, and dependencies among incidents, helping in proactive problem management and improving system reliability.</li>
   <li><strong>Key business metrics</strong>, like vibrancy, which can show user activity on our systems. Tracking these metrics helps in assessing the health of the business, understanding user behavior, and guiding strategic decisions to enhance user experience.</li>
   <li><strong>Messaging and collaboration platforms (such as Slack) activity reports</strong>, which can help understand discussion topics and team interactions. Analyzing these reports helps in understanding collaboration patterns, identifying key discussion areas, and improving team communication and productivity.</li>
@@ -833,21 +836,17 @@ Image by <a href="https://pixabay.com/users/mostafa_meraji-13551092/?utm_source=
     }
 </style>
 
-<p><br /></p>
+<p><br />
+Good architects are a rare breed. They bridge the gaps between business, product, organizational, and technology issues. They’re like the Swiss Army knives of the tech world. Hiring architects is like searching for a unicorn who’s also a full-stack developer with a knack for diplomacy. They need not only in-depth technical knowledge but also domain-specific and organizational knowledge.</p>
 
-<p>As the wise Gregor Hohpe noted, transforming an organization isn’t about solving mathematical equations. No, it’s about moving people. Developing the architecture function requires competent, empowered, and motivated architects. This makes <strong>a strong network of people doing architecture</strong> crucial for any real impact. In simpler terms, <strong>Strong Architecture = Strong Architects</strong>.</p>
-
-<div class="quote">
-Strong Architecture = Strong Architects.
-</div>
-
-<p>Good architects are a rare breed. They bridge the gaps between business, product, organizational, and technology issues. They’re like the Swiss Army knives of the tech world. Hiring architects is like searching for a unicorn who’s also a full-stack developer with a knack for diplomacy. They need not only in-depth technical knowledge but also domain-specific and organizational knowledge. So, you cannot just 3D print your architects or hire them in buckets. But what you can do is to carefully organize, empower, and leverage this scarce talent (Figure 1).</p>
+<p>So, you cannot just 3D print your architects or hire them in buckets. But what you can do is to carefully organize, empower, and leverage this scarce talent (Figure 1). A strong network of people doing architecture is crucial for any real impact. In simpler terms, <strong>Strong Architecture = Strong Architects</strong>.</p>
 
 <p><img src="assets/images/model-people.png" alt="" />
 <em><strong>Figure 1:</strong> The structure of Grounded Architecture: The People Foundation.</em></p>
 
 <p>In my recent escapades, I worked with two teams of architect teams: a small <strong>central architecture team</strong> and <strong>a cross-organizational distributed virtual team</strong>. The central team is like the wise elders, guiding and supporting the rest of the organization. The distributed virtual team, on the other hand, is a merry band of rebels, working locally but also connecting across the organization, increasing transparency, building networks, and implementing change.</p>
 
+<p><br /></p>
 <h2 id="background-central-vs-federated-architecture-function">Background: Central vs. Federated Architecture Function</h2>
 
 <p>IT architecture practices generally follow one of two fundamental models: central or federated (Figure 2, <a href="https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/tech-forward/crafting-the-optimal-model-for-the-it-architecture-organization">McKinsey 2022</a>).</p>
@@ -1055,7 +1054,7 @@ Each organization will have different architectural needs and contexts. When for
 There is no one-size-fits-all approach: each organization must find activities and operating models that enable architecture to solve the most critical problems.
 </div>
 
-<p>No matter which operating models you select, it’s crucial to develop <strong>explicit agreements</strong> and “rules of engagement” with key stakeholders. This collaborative approach is essential to create a sustainable and practical architectural function. It’s like establishing the house rules for game night; everyone’s input is valued and necessary to keep things fun and functional.</p>
+<p>No matter which operating models you select, it’s crucial to develop <strong>explicit agreements</strong> and “rules of engagement” with key stakeholders. This collaborative approach is essential to create a sustainable and practical architectural function.</p>
 
 <p><img src="assets/images/model-strategy.png" alt="" />
 <em><strong>Figure 1:</strong> The structure of Grounded Architecture: Architecture Activities Platform.</em></p>
@@ -1105,7 +1104,7 @@ There is no one-size-fits-all approach: each organization must find activities a
 <p><br /></p>
 <h2 id="guiding-principles-for-architectural-excellence-policies-autonomy-and-engagement">Guiding Principles for Architectural Excellence: Policies, Autonomy, and Engagement</h2>
 
-<p>In this section, I address different guiding principles of architectural work. The operating model emphasizes a collaborative and supportive approach. Architects empower development teams to make most decisions while ensuring strategic alignment and minimal compatibility. Architects engage early in processes to avoid bureaucratic delays, focus on constant motion between daily support and strategic tasks, and use data to inform decisions. The distributed decision-making model promotes team autonomy complemented by high transparency and alignment, guided by principles that balance autonomy with global consistency. The “Golden Paths” concept enhances uniformity and efficiency.</p>
+<p>In this section, I address different guiding principles of architectural work. The <strong>operating model</strong> emphasizes a <strong>collaborative</strong> and <strong>supportive</strong> approach. Architects empower development teams to make most decisions while ensuring strategic alignment and minimal compatibility. Architects engage early in processes to <strong>avoid bureaucratic delays,</strong> focus on constant motion between daily support and strategic tasks, and use data to inform decisions. The <strong>distributed decision-making</strong> model promotes team autonomy complemented by high transparency and alignment, guided by principles that balance autonomy with global consistency. The “Golden Paths” concept enhances uniformity and efficiency.</p>
 
 <h3 id="high-level-operating-model">High-Level Operating Model</h3>
 
@@ -1187,7 +1186,7 @@ Grounded Architecture aims to make relevant information more readily available t
 <p><br /></p>
 <h3 id="golden-paths">Golden Paths</h3>
 
-<p>I have found that the concept of Golden Paths provides an excellent ground to drive alignment and collaboration in architecture activities. Golden Paths is an approach utilized to streamline and unify the development process within a software ecosystem, aiming to tackle fragmentation and foster consistency, inspired by <a href="https://engineering.atspotify.com/2020/08/how-we-use-golden-paths-to-solve-fragmentation-in-our-software-ecosystem/">Spotify’s implementation</a>. Golden Paths can be described as “<strong>opinionated and supported</strong>” routes developers can follow to build systems efficiently and effectively.</p>
+<p>I have found that the concept of Golden Paths provides an excellent ground to <strong>drive alignment and collaboration</strong> in architecture activities. Golden Paths is an approach utilized to streamline and unify the development process within a software ecosystem, aiming to tackle fragmentation and foster consistency, inspired by <a href="https://engineering.atspotify.com/2020/08/how-we-use-golden-paths-to-solve-fragmentation-in-our-software-ecosystem/">Spotify’s implementation</a>. Golden Paths can be described as “<strong>opinionated and supported</strong>” routes developers can follow to build systems efficiently and effectively.</p>
 
 <p><img style="" src="assets/images/spotify-golden-paths_infrastructure-and-tooling-700x327.png" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
@@ -1563,7 +1562,7 @@ The role of an architect in the IT industry is like a Swiss Army knife—multifa
   <li><strong><a href="career">Architects’ Career Paths</a></strong>: The ideal career path for architects is rooted in a strong engineering background. This foundation provides the technical proficiency necessary for advanced architectural roles.</li>
 </ul>
 
-<p>By examining these perspectives, readers can uncover some of the architects’ essential qualities and responsibilities. This exploration highlights the importance of a well-rounded skill set and a strategic approach, proving that being an architect is more than just wearing stylish glasses and nodding thoughtfully in meetings. Whether you’re an aspiring architect or a seasoned pro, these insights will provide valuable guidance on navigating and excelling in this dynamic and evolving field—like a GPS for your career, but with fewer wrong turns and reroutes.</p>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[I introduce guiding principles that generalize my view on what it means to be an architect in practice.]]></summary></entry><entry><title type="html">Adopting a Mindset: Architects as Superglue</title><link href="http://localhost:4000/superglue" rel="alternate" type="text/html" title="Adopting a Mindset: Architects as Superglue" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/superglue</id><content type="html" xml:base="http://localhost:4000/superglue"><![CDATA[<style>
+<p>By examining these perspectives, readers can uncover some of the architects’ essential qualities and responsibilities. This exploration highlights the importance of a well-rounded skill set and a strategic approach, proving that being an architect is more than just wearing stylish glasses and nodding thoughtfully in meetings. Whether you’re an aspiring architect or a seasoned pro, these insights will provide valuable guidance on navigating and excelling in this dynamic and evolving field.</p>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[I introduce guiding principles that generalize my view on what it means to be an architect in practice.]]></summary></entry><entry><title type="html">Adopting a Mindset: Architects as Superglue</title><link href="http://localhost:4000/superglue" rel="alternate" type="text/html" title="Adopting a Mindset: Architects as Superglue" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/superglue</id><content type="html" xml:base="http://localhost:4000/superglue"><![CDATA[<style>
      h2 {
           margin-top: 40px;
      }
@@ -1605,23 +1604,16 @@ Image by iStock
 </style>
 
 <p><br />
-The concept of “superglue” architects in IT organizations emphasizes the critical role of those who act as the <strong>binding force</strong> across various facets of an organization. This idea, championed by <a href="https://saturn2016.sched.com/event/63m9/cant-find-superheroes-to-help-you-out-of-a-crisis-how-about-some-architecture-and-lots-of-superglue">Adam Bar-Niv and Amir Shenhav from Intel</a>, and echoed by <a href="https://noidea.dog/glue">Tanya Reilly</a> in her discussions on software engineering roles, underscores the need for individuals who excel in more than just technical skills. These “superglue” architects are the ones who hold together architecture, technical details, business needs, and people within large organizations or complex projects.</p>
+The concept of “superglue” architects in IT organizations emphasizes the critical role of those who act as the <strong>binding force</strong> across various facets of an organization. This idea, championed by <a href="https://saturn2016.sched.com/event/63m9/cant-find-superheroes-to-help-you-out-of-a-crisis-how-about-some-architecture-and-lots-of-superglue">Adam Bar-Niv and Amir Shenhav from Intel</a>, and echoed by <a href="https://noidea.dog/glue">Tanya Reilly</a>, underscores the need for individuals who excel in more than just technical skills. Gregor Hohpe similarly describes modern architects’ primary role as gluing different organizational functions by riding the <a href="https://architectelevator.com/">Architect Elevator</a> from the penthouse, where the business strategy is set, to the engine room, where engineers implement enabling technologies.</p>
 
-<div class="quote">
-While technical expertise is indispensable, what sets superglue architects apart is their relational skills.
-</div>
+<p>The architects acting as “superglue” <strong>hold together</strong> architecture, technical details, business needs, and people within large organizations or complex projects. Architects should function as the <strong>organizational connective tissue</strong>. They should bridge the gap between the “business wheelhouse” and the “engine room,” ensuring that technical solutions align with business goals. Their primary strength should be their ability to relate technical issues to broader organizational and business contexts.</p>
 
-<p>Superglue architects function as the <strong>organizational connective tissue</strong>. They bridge the gap between the “business wheelhouse” and the “engine room,” ensuring that technical solutions align with business goals. Their primary strength lies in their ability to relate technical issues to broader organizational and business contexts.</p>
+<p>A crucial aspect of their role involves building <strong>robust relationships</strong> with various stakeholders, including developer teams, local business stakeholders, and different functional areas within the organization. By fostering these connections, superglue architects ensure everyone is on the same page and working towards common objectives. Superglue architects must be <strong>well-integrated</strong> within <strong>internal communities.</strong> They should actively participate in internal discussions, knowledge sharing, and collaborations to stay updated and contribute meaningfully. Additionally, <strong>external visibility</strong> is vital. By engaging with the external community, these architects bring in fresh ideas and promote their organization’s innovations and achievements to the outside world.</p>
 
-<p>A crucial aspect of their role involves building <strong>robust relationships</strong> with various stakeholders, including developer teams, local business stakeholders, and different functional areas within the organization. By fostering these connections, superglue architects ensure everyone is on the same page and working towards common objectives.</p>
-
-<p>Superglue architects must be <strong>well-integrated</strong> within <strong>internal communities.</strong> They should actively participate in internal discussions, knowledge sharing, and collaborations to stay updated and contribute meaningfully. Additionally, <strong>external visibility</strong> is vital. By engaging with the external community, these architects bring in fresh ideas and promote their organization’s innovations and achievements to the outside world. It’s like attending industry mixers and bringing back the best hors d’oeuvres recipes to impress your own team.</p>
-
-<p>In essence, being a “superglue” architect is like being the life of the office party—keeping everyone connected, and ensuring no one spills punch on the server racks. It’s a demanding role, but it’s what keeps the whole operation running smoothly.</p>
-
+<p><br /></p>
 <h2 id="superglue-architects">Superglue Architects</h2>
 
-<p>While technical expertise is indispensable, what sets superglue architects apart is their exceptional relational skills. They must communicate effectively, negotiate, and influence various stakeholders to achieve alignment and drive projects forward. This unique blend of technical and interpersonal skills makes them invaluable in maintaining the organization’s coherence and efficiency.</p>
+<p>While technical expertise is indispensable, what should set superglue architects apart is their exceptional <strong>relational skills.</strong> They must communicate effectively, negotiate, and influence various stakeholders to achieve alignment and drive projects forward. This unique blend of technical and interpersonal skills makes them invaluable in maintaining the organization’s coherence and efficiency.</p>
 
 <p><img src="assets/images/superglue/architect-as-superglue.png" alt="Architects as Superglue" />
 <em><strong>Figure 1:</strong> Architects serve as superglue, connecting development teams with business stakeholders and linking their teams with internal and external communities.</em></p>
@@ -1636,13 +1628,17 @@ While technical expertise is indispensable, what sets superglue architects apart
   <li><strong>Industry Influencers:</strong> By being visible externally, architects learn from and influence the broader industry, bringing in fresh perspectives and establishing their organization as a thought leader.</li>
 </ul>
 
-<p>Superglue architects are essential for the seamless operation of large and complex IT organizations. Unlike superheroes who save the day with dramatic rescues, superglue architects ensure continuous, smooth operation by connecting the dots across various organizational aspects. They are the unsung heroes who keep the entire machine running smoothly without the need for capes or dramatic flair.</p>
+<p>Superglue architects are essential for the seamless operation of large and complex IT organizations. Unlike superheroes who save the day with dramatic rescues, superglue architects ensure continuous, <strong>smooth operation</strong> by connecting the dots across various organizational aspects.</p>
 
 <p>So, instead of looking for a cape, IT architects should focus on becoming the superglue that holds everything together, ensuring stability, coherence, and progress within their organizations. Think of them as the organizational equivalent of duct tape—versatile, indispensable, and always ready to fix the seemingly unfixable.</p>
 
 <h2 id="superglueing-in-action-reducing-tensions">Superglueing in Action: Reducing Tensions</h2>
 
-<p>The primary value of superglue architects in complex organizations lies in their uncanny ability to align business, product, technology, and organizational functions. In practice, technology, product, organization, and business functions face specific challenges and change at different rates. Ideally, these structures should evolve simultaneously, staying in perfect sync like a well-rehearsed dance troupe. However, reality often resembles a poorly synchronized flash mob, full of tension and missteps, as illustrated in Figure 2.</p>
+<p>The primary value of superglue architects in complex organizations lies in their uncanny ability to align business, product, technology, and organizational functions.</p>
+
+<h3 id="tensions">Tensions</h3>
+
+<p>Technology, product, organization, and business functions face specific challenges and change at different rates. Ideally, these structures should <strong>evolve simultaneously,</strong> staying in perfect sync like a well-rehearsed dance troupe. However, reality often resembles a <strong>poorly synchronized</strong> flash mob, full of tension and missteps, as illustrated in Figure 2.</p>
 
 <p><img src="assets/images/tension.png" alt="Tensions Between Functions" />
 <em><strong>Figure 2:</strong> The tensions between technology, product, organization, and business functions.</em></p>
@@ -1653,16 +1649,18 @@ While technical expertise is indispensable, what sets superglue architects apart
 
 <p>And let’s not forget when business objectives are as aligned as a roundabout during rush hour. In one minute, the goal is to slash costs at all costs; in the next, to add new features and migrate to the public cloud. These conflicting objectives make different parts of the organization feel like they’re playing tug-of-war—without a rope.</p>
 
-<p>The main problem with the tension between technology, product, organization, and business functions is that it can significantly impede progress. Miscommunication or misalignments can turn simple tasks into bureaucratic nightmares. Furthermore, these issues can introduce overwhelming and unnecessary complexity, causing critical missed opportunities.</p>
+<p>The main problem with the tension between technology, product, organization, and business functions is that it can significantly impede progress. <strong>Miscommunication</strong> or <strong>misalignments</strong> can turn simple tasks into bureaucratic nightmares. Furthermore, these issues can introduce overwhelming and unnecessary complexity, causing critical missed opportunities.</p>
 
-<p>Enter the superglue architects acting as your favorite multitool’s organizational equivalent (Figure 3). They facilitate communication and collaboration across different domains, ensuring that changes in one area are understood and accommodated in others. In other words, they keep the chaos at bay and make sure everyone’s dance steps are in sync.</p>
+<h3 id="reducing-tensions">Reducing Tensions</h3>
+
+<p>Superglue architects should be able to <strong>navigate the wild complexities</strong> of modern organizations. They should ensure that the various architectures—business, product, technology, or organizational design—<strong>don’t just coexist</strong> but thrive together. This holistic approach reduces tension and misalignment, making the organization run smoother than butter on hot toast.</p>
+
+<p>Architects should <strong>facilitate communication and collaboration</strong> across different domains, ensuring that changes in one area are understood and accommodated in others. In other words, they keep the chaos at bay and make sure everyone’s dance steps are in sync.</p>
 
 <p><img src="assets/images/tension-architecture.png" alt="Architects Reducing Tensions" />
 <em><strong>Figure 3:</strong> Architects should be in the middle of reducing tensions between technology, product, organization, and business functions.</em></p>
 
-<p>Superglue architects are navigating the wild complexities of modern organizations. They ensure that the various architectures—business, product, technology, or organizational design—don’t just coexist but thrive together. This holistic approach reduces tension and misalignment, making the organization run smoother than butter on hot toast.</p>
-
-<p>Acting as superglue, the architects can effectively reduce tension among technology, product, organization, and business functions. This act includes facilitating critical conversations between these units and ensuring alignment and cohesion. As depicted in Figure 3, the goal of architecture is not to add new constructs between these four elements, but to bring them closer together. By fostering closer relationships and better communication, architects can help these elements work in unison rather than at cross purposes.</p>
+<p>Acting as superglue, the architects can effectively <strong>reduce tensions</strong> among technology, product, organization, and business functions. This act includes facilitating <strong>critical conversations</strong> between these units and ensuring alignment and cohesion. As depicted in Figure 3, the goal of architecture is not to add new constructs between these four elements, but to <strong>bring them closer together.</strong> By fostering closer relationships and better communication, architects can help these elements work in unison rather than at cross purposes.</p>
 
 <p>Architects must actively engage with all stakeholders, translating technical jargon into business-friendly terms. For example, if the business wants to cut costs, architects highlight how it might impact product timelines or technical debt. Similarly, if new tech is introduced, architects ensure it aligns with product goals and organizational capabilities.</p>
 
@@ -1670,11 +1668,11 @@ While technical expertise is indispensable, what sets superglue architects apart
 
 <h2 id="superglue-impact">Superglue Impact</h2>
 
-<p>Tensions among technology, product, organization, and business functions can slow down progress, lead to poor decisions, introduce complexity, and cause missed opportunities. Acting as superglue, architects can mitigate these issues by fostering better communication and alignment among these elements. The goal is not to create new barriers but to bring these functions closer together, ensuring a cohesive and efficient operation. This approach may appear to diminish the need for a formal architecture practice, but in reality, it transforms the role into one integral to the organization’s success.</p>
+<p>Tensions among technology, product, organization, and business functions can slow down progress, lead to poor decisions, introduce complexity, and cause missed opportunities. Acting as superglue, architects can mitigate these issues by fostering better communication and alignment among these elements. The goal is <strong>not to create new barriers</strong> but to bring these functions closer together, ensuring a cohesive and efficient operation. This approach may appear to diminish the need for a formal architecture practice, but in reality, it transforms the role into one integral to the organization’s success.</p>
 
 <p>While staying close to technology (the engine room), architects must ensure that technology serves the needs of customers and the business and that technical architecture is well-aligned with organizational design. At the same time, architects can help ensure that business, product, and organizational designs are well-informed about the state, risks, and opportunities of an organization’s technology to avoid creating impractical strategies, setting unrealistic goals, or missing opportunities.</p>
 
-<p>Misalignment between these elements can introduce several key risks, which architects need to be aware of and mitigate:</p>
+<p>Misalignment between these elements can introduce several <strong>key risks,</strong> which architects need to be aware of and mitigate:</p>
 
 <ul>
   <li>

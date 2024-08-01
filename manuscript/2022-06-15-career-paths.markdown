@@ -2,8 +2,7 @@
 
 # Architects' Career Paths {#career}
 
-![](assets/images/iStock-490772190.jpg)
-^image by istock^
+![image by istock](assets/images/iStock-490772190.jpg)
 
 **IN THIS SECTION, YOU WILL:**  Get ideas and tips about developing architects' career paths.
 
@@ -15,10 +14,9 @@ A> * Moving from an engineering role to an architecture role involves broadening
 A> * Career tracks include Senior Architects (broader responsibilities), Principal Architects (specialized focus), and Enterprise Architects (aligning technical strategy with business objectives).
 A> * Architecture roles can lead to tech leadership positions such as Engineering Director or Chief Technology Officer (CTO), leveraging strategic vision, decision-making, and leadership skills.
 
-My view of architecture has a strong engineering bias. Architects' career paths ideally stem from a strong engineering background. While there may be exceptions, an architect without significant real-world exposure to software engineering challenges cannot obtain enough practical knowledge to make informed technology decisions and build effective relationships with developer teams.
+My view of architecture has a **strong engineering bias.** Architects' career paths ideally stem from a strong engineering background. While there may be exceptions, an architect without significant real-world exposure to software engineering challenges cannot obtain enough practical knowledge to make informed technology decisions and build effective relationships with developer teams.
 
-![](assets/images/arch/career-paths.png)
-***Figure 1:** An example of IT architect career paths in relation.*
+![Figure 1: An example of IT architect career paths in relation.](assets/images/arch/career-paths.png)
 
 In this section, I elaborate on possible career paths of architects. In the Appendix, you can also find additional [resources for managing, drowing, and hiring architects](career-resources).
 
@@ -28,8 +26,7 @@ Architects with a strong engineering background have hands-on experience with co
 
 When architects have a solid engineering foundation, they can earn the trust and respect of developer teams more easily. Developers are more likely to follow the guidance and recommendations of someone who has walked in their shoes and understands their daily challenges. An engineering background equips architects with the technical language and concepts necessary to communicate effectively with developers. This shared language helps bridge the gap between high-level architectural visions and the detailed implementation work carried out by development teams.
 
-![](assets/images/iStock-1442990932.jpg)
-^image by istock^
+![image by istock](assets/images/iStock-1442990932.jpg)
 
 Engineers are trained to think critically and solve complex problems. This skill set is invaluable for architects, who must navigate technical challenges, identify potential issues, and devise robust solutions that align with business goals.
 
@@ -41,8 +38,7 @@ While the path to becoming a successful architect is multifaceted, a strong engi
 
 Regarding career progression, Figure 1 shows an example of architectural career paths in relation to engineering, which I used to define architectural career paths.
 
-![](assets/images/iStock-529522453.jpg)
-^image by istock^
+![image by istock](assets/images/iStock-529522453.jpg)
 
 Stepping from an engineering position to an architecture role requires three significant changes:
 
@@ -58,8 +54,7 @@ All architects are responsible for the direction, quality, and approach within s
 
 An architect's path can take many different directions and have many other names. 
 
-![](assets/images/iStock-511542244.jpg)
-^image by istock^
+![image by istock](assets/images/iStock-511542244.jpg)
 
 I usually envision three tracks of progression:
 
@@ -75,8 +70,7 @@ More important than a formal title is the continuous search for relevance and th
 
 In addition to the technical and communication skills, a senior career in IT architecture also opens possibilities of pursuing tech leadership positions such as Engineering Director or Chief Technology Officer (CTO). The reason for this is multifaceted.
 
-![](assets/images/iStock-1397610425.jpg)
-^image by istock^
+![image by istock](assets/images/iStock-1397610425.jpg)
 
 Firstly, architects develop a strategic vision that aligns technology with business goals, a critical skill for any tech leadership role. They gain experience in making high-stakes decisions that impact the entire organization, which is directly relevant to positions like Engineering Director or CTO.
 

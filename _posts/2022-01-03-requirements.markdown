@@ -1,7 +1,7 @@
 ---
 layout: post
 section: "Introduction"
-title: "Embracing Adaptability, Scalability, and Data"
+title: "Goals: Adapting, Growing, and Using Data"
 position: 1003
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
