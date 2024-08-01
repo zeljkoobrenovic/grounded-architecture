@@ -20,7 +20,7 @@ Each organization will have different architectural needs and contexts. When for
 
 Considering Gregor Hohpe's previous two points, I approach defining an architecture practice with the mindset that there is no one-size-fits-all method. You must find your own activities and operating models to enable architecture to solve the most critical problems.
 
-No matter which operating models you select, it's crucial to develop **explicit agreements** and "rules of engagement" with key stakeholders. This collaborative approach is essential to create a sustainable and practical architectural function. It's like establishing the house rules for game night; everyone's input is valued and necessary to keep things fun and functional.
+No matter which operating models you select, it's crucial to develop **explicit agreements** and "rules of engagement" with key stakeholders. This collaborative approach is essential to create a sustainable and practical architectural function.
 
 ![](assets/images/model-strategy.png)
 ***Figure 1:** The structure of Grounded Architecture: Architecture Activities Platform.*
@@ -55,7 +55,7 @@ These activities collectively form an Architecture Activities Platform, enabling
 
 ## Guiding Principles for Architectural Excellence: Policies, Autonomy, and Engagement
 
-In this section, I address different guiding principles of architectural work. The operating model emphasizes a collaborative and supportive approach. Architects empower development teams to make most decisions while ensuring strategic alignment and minimal compatibility. Architects engage early in processes to avoid bureaucratic delays, focus on constant motion between daily support and strategic tasks, and use data to inform decisions. The distributed decision-making model promotes team autonomy complemented by high transparency and alignment, guided by principles that balance autonomy with global consistency. The "Golden Paths" concept enhances uniformity and efficiency.
+In this section, I address different guiding principles of architectural work. The **operating model** emphasizes a **collaborative** and **supportive** approach. Architects empower development teams to make most decisions while ensuring strategic alignment and minimal compatibility. Architects engage early in processes to **avoid bureaucratic delays,** focus on constant motion between daily support and strategic tasks, and use data to inform decisions. The **distributed decision-making** model promotes team autonomy complemented by high transparency and alignment, guided by principles that balance autonomy with global consistency. The "Golden Paths" concept enhances uniformity and efficiency.
 
 ### High-Level Operating Model
 
@@ -116,7 +116,7 @@ While it may not always be enough, this simple policy resonates well. It encoura
 
 ### Golden Paths
 
-I have found that the concept of Golden Paths provides an excellent ground to drive alignment and collaboration in architecture activities. Golden Paths is an approach utilized to streamline and unify the development process within a software ecosystem, aiming to tackle fragmentation and foster consistency, inspired by [Spotify's implementation](https://engineering.atspotify.com/2020/08/how-we-use-golden-paths-to-solve-fragmentation-in-our-software-ecosystem/). Golden Paths can be described as "**opinionated and supported**" routes developers can follow to build systems efficiently and effectively. 
+I have found that the concept of Golden Paths provides an excellent ground to **drive alignment and collaboration** in architecture activities. Golden Paths is an approach utilized to streamline and unify the development process within a software ecosystem, aiming to tackle fragmentation and foster consistency, inspired by [Spotify's implementation](https://engineering.atspotify.com/2020/08/how-we-use-golden-paths-to-solve-fragmentation-in-our-software-ecosystem/). Golden Paths can be described as "**opinionated and supported**" routes developers can follow to build systems efficiently and effectively. 
 
 ![](assets/images/spotify-golden-paths_infrastructure-and-tooling-700x327.png)
 ^image by engineering.atspotify.com^

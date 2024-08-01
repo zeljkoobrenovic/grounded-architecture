@@ -14,9 +14,9 @@ A> * In my work in the past few years, I combined two teams of architects: a sma
 
  
 
-As the wise Gregor Hohpe noted, transforming an organization isn't about solving mathematical equations. No, it's about moving people. Developing the architecture function requires competent, empowered, and motivated architects. This makes **a strong network of people doing architecture** crucial for any real impact. In simpler terms, **Strong Architecture = Strong Architects**.
+Good architects are a rare breed. They bridge the gaps between business, product, organizational, and technology issues. They're like the Swiss Army knives of the tech world. Hiring architects is like searching for a unicorn who's also a full-stack developer with a knack for diplomacy. They need not only in-depth technical knowledge but also domain-specific and organizational knowledge. 
 
-Good architects are a rare breed. They bridge the gaps between business, product, organizational, and technology issues. They're like the Swiss Army knives of the tech world. Hiring architects is like searching for a unicorn who's also a full-stack developer with a knack for diplomacy. They need not only in-depth technical knowledge but also domain-specific and organizational knowledge. So, you cannot just 3D print your architects or hire them in buckets. But what you can do is to carefully organize, empower, and leverage this scarce talent (Figure 1).
+So, you cannot just 3D print your architects or hire them in buckets. But what you can do is to carefully organize, empower, and leverage this scarce talent (Figure 1). A strong network of people doing architecture is crucial for any real impact. In simpler terms, **Strong Architecture = Strong Architects**.
 
 ![Figure 1: The structure of Grounded Architecture: The People Foundation.](assets/images/model-people.png)
 

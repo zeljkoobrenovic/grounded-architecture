@@ -2,8 +2,7 @@
 
 # Adopting a Mindset: Architects as Superglue {#superglue}
 
-![](assets/images/iStock-185061908.jpg)
-^image by istock^
+![image by istock](assets/images/iStock-185061908.jpg)
 
 **IN THIS SECTION, YOU WILL:**  Understand the view on architects as superglue (people who hold architecture, technical details, business needs, and people together across a large organization or complex projects) and get valuable tips on developing "superglue" abilities.
 
@@ -14,9 +13,11 @@ A> * Architects in IT organizations should develop as “superglue,” people wh
 A> * Architects need to be technically strong. But their unique strengths should stem from being able to relate technical issues with business and broader issues.
 A> * Architects should stand on three legs: skills, impact, and leadership.
 
-The concept of "superglue" architects in IT organizations emphasizes the critical role of those who act as the **binding force** across various facets of an organization. This idea, championed by [Adam Bar-Niv and Amir Shenhav from Intel](https://saturn2016.sched.com/event/63m9/cant-find-superheroes-to-help-you-out-of-a-crisis-how-about-some-architecture-and-lots-of-superglue), and echoed by [Tanya Reilly](https://noidea.dog/glue), underscores the need for individuals who excel in more than just technical skills. Gregor Hohpe similarly describes modern architects' primary role as gluing different organizational functions by riding the [Architect Elevator](https://architectelevator.com/) from the penthouse, where the business strategy is set, to the engine room, where engineers implement enabling technologies.
+To succeed as an IT architect, you need the skills and the right **mindset**—a set of attitudes, beliefs, and mental frameworks that shape how you perceive and respond to situations. Regarding their role in organizations, I have found the **"superglue" metaphor** to be an effective way to put architects into the mindset that sets them up for success and making an impact.
 
-The architects acting as "superglue" **hold together** architecture, technical details, business needs, and people within large organizations or complex projects. Architects should function as the **organizational connective tissue**. They should bridge the gap between the "business wheelhouse" and the "engine room," ensuring that technical solutions align with business goals. Their primary strength should be their ability to relate technical issues to broader organizational and business contexts.
+The concept of "superglue" people in IT organizations emphasizes the critical role of those who act as the **binding force** across various facets of an organization. This idea, championed by [Adam Bar-Niv and Amir Shenhav from Intel](https://saturn2016.sched.com/event/63m9/cant-find-superheroes-to-help-you-out-of-a-crisis-how-about-some-architecture-and-lots-of-superglue), and echoed by [Tanya Reilly](https://noidea.dog/glue), underscores the need for individuals who excel in more than just technical skills. Gregor Hohpe similarly describes modern architects' primary role as gluing different organizational functions by riding the [Architect Elevator](https://architectelevator.com/) from the penthouse, where the business strategy is set, to the engine room, where engineers implement enabling technologies.
+
+The architects acting as "superglue" should aim to **hold together** architecture, technical details, business needs, and people within large organizations or complex projects. Architects should function as the **organizational connective tissue**. They should bridge the gap between the "business wheelhouse" and the "engine room," ensuring that technical solutions align with business goals. Their primary strength should be their ability to relate technical issues to broader organizational and business contexts.
 
 A crucial aspect of their role involves building **robust relationships** with various stakeholders, including developer teams, local business stakeholders, and different functional areas within the organization. By fostering these connections, superglue architects ensure everyone is on the same page and working towards common objectives. Superglue architects must be **well-integrated** within **internal communities.** They should actively participate in internal discussions, knowledge sharing, and collaborations to stay updated and contribute meaningfully. Additionally, **external visibility** is vital. By engaging with the external community, these architects bring in fresh ideas and promote their organization's innovations and achievements to the outside world. 
 
@@ -157,8 +158,7 @@ Architects must have a **minimal "length"** of all of these "legs" to be success
 
 In summary, developing architects as "superglue" means fostering a balanced combination of skills, impact, and leadership. Just like a three-legged stool, if one leg is too short, the whole thing topples over—quite possibly spilling your coffee in the process.
 
-![](assets/images/arch/architect-legs.png)
-***Figure 4:** Architects must have a minimal "length" of all "legs" to be successful.*
+![Figure 4: Architects must have a minimal "length" of all "legs" to be successful.](assets/images/arch/architect-legs.png)
 
  
 ## Questions to Consider

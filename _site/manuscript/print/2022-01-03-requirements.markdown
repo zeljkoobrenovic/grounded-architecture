@@ -1,6 +1,6 @@
 
 
-# Embracing Adaptability, Scalability, and Data {#goals}
+# Goals: Adapting, Growing, and Using Data {#goals}
 
 ![](assets/images/change-4777508_1280.jpg)
 ^image by bluehouse skis from pixabay^

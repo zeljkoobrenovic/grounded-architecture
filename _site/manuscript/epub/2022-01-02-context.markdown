@@ -12,7 +12,9 @@ A> **KEY POINTS:**
 A> * To better understand any idea or solution, it is crucial to understand the context in which this idea developed. 
 A> * The Grounded Architecture approach has evolved in the context of global, loosely coupled organizations that are diverse, with nonlinear growth dynamics, and under transformation pressures. 
 
-To truly grasp any idea or solution, you need to understand the context in which these ideas were born. My work on creating and running an architecture practice isn't just a lofty idea; it's a practical approach sharpened from real-world experience. My perspective comes from lessons I learned as a Chief Architect at AVIV Group and Principal Architect at eBay Classifieds and Adevinta. Here's a peek into the context that shaped my Grounded Architecture approach:
+My work on creating and running an architecture practice isn't just a lofty idea; it's a practical approach sharpened from real-world experience. My perspective comes from lessons I learned as a Chief Architect at AVIV Group and Principal Architect at eBay Classifieds and Adevinta. 
+
+However, to truly grasp any idea or solution, you need to understand the context in which these ideas were born. Here's a peek into the context that shaped my Grounded Architecture approach:
 
 * **Global scale**: operating across multiple countries and continents with millions of users.
 * **Multi-dimensional diversity**: the organizations I worked in were diverse, including customer base, workforce, business models, team topologies, and technology stacks.
@@ -61,7 +63,7 @@ In conclusion, while diversity is a rich source of new possibilities from an arc
 
 ## Nonlinear Growth Dynamics
 
-Complex organizations like the ones I have worked in are often highly dynamic. These organizations frequently undergo significant growth, contraction, and reorganization, evolving both organically and inorganically. 
+Complex organizations like the ones I have worked in are often highly dynamic. These organizations frequently undergo significant growth, contraction, and reorganization, evolving both **organically** and **inorganically.**
 
 ![image by pexels from pixabay](assets/images/arch/blur-g6bc6ee2cc_1920.jpg)
 
