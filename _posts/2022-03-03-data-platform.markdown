@@ -43,17 +43,12 @@ Image by <a href="https://pixabay.com/users/3844328-3844328/?utm_source=link-att
 > *"If we have data, let's look at data. If all we have are opinions, let's go with mine."* -— Jim Barksdale
 
 <br>
-Everywhere I worked on creating architectural functions, I strongly (aka obsessively) **emphasized data.** Consequently, one of the first steps I make in any architecture practice is to create an architecture Data Foundation to get a complete, up-to-date picture of critical elements of an organization's technology landscapes (Figure 1). Manual documentation does not scale, and relying on data ensures the reliability and scalability of decision-making. In the past several years, I have also been working on creating open-source tools, such as [Sokrates](https://sokrates.dev), that can help obtain valuable architectural insights from data sources, such as source code repositories or public cloud billing reports.
+Everywhere I worked on creating architectural functions, I strongly (aka obsessively) **emphasized data.** Consequently, one of the first steps I make in any architecture practice is to create an architecture Data Foundation to get a complete, up-to-date picture of critical elements of an organization's technology landscapes (Figure 1). Manual documentation does not scale, and relying on data ensures the reliability and scalability of decision-making.
 
 ![](assets/images/model-data.png)
 ***Figure 1:** The structure of Grounded Architecture: The Data Foundation.*
 
-The good news is that **big organizations have lots of data** that, if used wisely, can provide an excellent basis for an architectural Data Foundation. With some automation and curation, getting a crystal clear overview of the technology landscape may be closer than it initially appears.
-
-<div class="quote">
-Manual documentation does not scale, and relying on data ensures reliability and scalability.
-</div>
-
+The good news is that **big organizations have lots of data** that, if used wisely, can provide an excellent basis for an architectural Data Foundation. With some automation and curation, getting a crystal clear overview of the technology landscape may be closer than it initially appears. To facilitate the creation of a Data Foundation, I have been working on creating **lean open-source tools** that can help obtain valuable architectural insights from data sources, such as source code repositories. Check out open-source [architecture dashboard examples](https://zeljkoobrenovic.github.io/grounded-architecture-dashboard-examples/) and [Sokrates](https://sokrates.dev).
 
 <br>
 ## Examples of Data Foundation Tools
@@ -72,11 +67,6 @@ In the following sections, I detail several of these architectural data-driven t
  
 **Figure 2:** *A screenshot of the start page of the architecture data dashboard we've built and used at AVIV Group.*
 
-
-<img src="assets/images/apps-ebay.png" style="padding: 4px; padding-top: 8px; padding-bottom: 8px; box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px; margin-bottom: 6px">
-<br>
- 
-**Figure 3:** *A screenshot of the start page of the architecture data dashboard we've built and used at eBay Classifieds.*
 
 <br>
 ### Example 1: Source Code and Commit History
@@ -212,53 +202,13 @@ So there you have it. The data's ready to spill its secrets—you need to know t
 <br>
 ## To Probe Further
 
-* Online Appendix [Building Data Foundation Website: Lean Design Patterns and Techniques](https://grounded-architecture.io/data-website) a few practical tips on building lean architecture dashboards and documents (e.g., to create the data foundation) using simple, widely available tools.
+* **[Software Tools: Examples and Screenshots](https://grounded-architecture.io/screenshots)** screenshots of concrete tools I built as a part of Data Foundation websites.
+* Online Appendix [Building Data Foundation Website: Lean Design Patterns and Techniques](https://grounded-architecture.io/data-website) a few practical tips on building lean architecture dashboards and * Online Appendix [Building Data Foundation Website: Lean Design Patterns and Techniques](https://grounded-architecture.io/data-website) a few practical tips on building lean architecture dashboards and documents (e.g., to create the data foundation) using simple, widely available tools.
 * Open-source [architecture dashboard examples](https://zeljkoobrenovic.github.io/grounded-architecture-dashboard-examples/)
 * [Sokrates](https://sokrates.dev), an open-source polyglot source code examination tool
 
 
 <br>
-<br>
-## Appendix: Examples of Insights From Source Code Analyses
-
-Figures 6 to 10 show some insights from source code analyses with Sokrates. 
-
-<br>
-![](assets/images/archdata/src_1.png)
-
-**Figure 6**: *Sokrates can instantly create a helicopter view of the technology landscape, programming languages, active contributors, and commit trends.*
-<br>
-<br>
-
-![](assets/images/archdata/src_2.png)
-
-**Figure 7**: *Sokrates can show detailed code and contributors' trends per repository, enabling zooming in each repository up to the code level.*
-<br>
-<br>
-<br>
- 
-![](assets/images/archdata/src_5.png)
-
-**Figure 8**: *Sokrates can create a tech radar by tagging projects with identified technologies.*
-<br>
-<br>
-<br>
-
-![](assets/images/archdata/src_3.png)
-
-**Figure 9**: *Sokrates can show contributor trends, distribution of "veterans" and "rookies," and dependencies between people and repositories, enabling zooming in into patterns of the contribution of individual contributors.*
-<br>
-<br>
-<br>
- 
-![](assets/images/arch/sokrates_teams.png)
-
-**Figure 10**: *Sokrates can reveal the team topologies by plotting 2D and 3D graphs of dependencies that people create through working on the same repositories in the same period.*
-<br>
-<br>
-<br>
-
-
 ## Questions to Consider
 
 Using data can significantly improve the efficiency and impact of architectural practice. But there are no simple tools that can instantly provide you insights. Ask yourself the following questions: 

@@ -12,9 +12,9 @@ A> **KEY POINTS:**
 A> * To better understand any idea or solution, it is crucial to understand the context in which this idea developed. 
 A> * The Grounded Architecture approach has evolved in the context of global, loosely coupled organizations that are diverse, with nonlinear growth dynamics, and under transformation pressures. 
 
-My work on creating and running an architecture practice isn't just a lofty idea; it's a practical approach sharpened from real-world experience. My perspective comes from lessons I learned as a Chief Architect at AVIV Group and Principal Architect at eBay Classifieds and Adevinta. 
+My work on creating and running an architecture practice isn't just a lofty idea; it's a **practical approach** sharpened from **real-world experience.** My perspective comes from lessons I learned as a Chief Architect at AVIV Group and Principal Architect at eBay Classifieds and Adevinta. 
 
-However, to truly grasp any idea or solution, you need to understand the context in which these ideas were born. Here's a peek into the context that shaped my Grounded Architecture approach:
+However, to truly grasp any idea or solution, you need to understand **the context** in which these ideas were born. Here's a peek into the context that shaped my Grounded Architecture approach:
 
 * **Global scale**: operating across multiple countries and continents with millions of users.
 * **Multi-dimensional diversity**: the organizations I worked in were diverse, including customer base, workforce, business models, team topologies, and technology stacks.

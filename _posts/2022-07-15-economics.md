@@ -43,11 +43,11 @@ Image by <a href="https://pixabay.com/users/nattanan23-6312362/?utm_source=link-
      }
 </style>
 
-Decision-making in the corporate world is frequently an economic risk exercise. Financial and risk modeling is like the crystal ball of the corporate world. It helps organizations make intelligent decisions, like choosing between investing in a new project or finally fixing the office coffee machine. These models forecast financial performance and assess economic scenarios, ensuring companies aren't just throwing darts in the dark.
+Decision-making in the corporate world is frequently an **economic risk exercise.** Financial and risk modeling is like the crystal ball of the corporate world. It helps organizations make intelligent decisions, like choosing between investing in a new project or finally fixing the office coffee machine. These models forecast financial performance and assess economic scenarios, ensuring companies aren't just throwing darts in the dark.
 
-Economic and risk modeling is a game-changer in resource allocation. By predicting future trends and disruptions, these models help organizations use their resources wisely, for instance, to ensure they don't run out of coffee (a critical issue for any IT business). It's all about efficient resource management and avoiding those 'Oops, we should have seen that coming' moments.
+Economic and risk modeling is a game-changer in resource allocation. By predicting future trends and disruptions, these models help organizations **use their resources wisely,** for instance, to ensure they don't run out of coffee (a critical issue for any IT business). It's all about efficient resource management and avoiding those 'Oops, we should have seen that coming' moments.
 
-These models majorly upgrade strategic planning, helping companies anticipate challenges and opportunities instead of reacting like a cat to a cucumber. Identifying risks before they bite means organizations can implement preventative measures, keeping things running smoothly.
+These models majorly upgrade strategic planning, helping companies **anticipate challenges and opportunities** instead of reacting like a cat to a cucumber. Identifying risks before they bite means organizations can implement preventative measures, keeping things running smoothly.
 
 Economic and risk modeling is the secret weapon for staying ahead of the game, achieving long-term goals, and ensuring the office party budget doesn't get blown on a single extravagant cake.
 
@@ -64,7 +64,7 @@ Organizations conduct financial and risk modeling exercises, such as ROI calcula
 
 
 
-As financial and risk modeling is essential in any organization, architects frequently need to answer questions about the (economic) value of technology investments and architecture. Answering this question is a crucial skill for any senior architect. Still, it may take much work to answer this seemingly harmless question concisely and convincingly to a non-technical audience without sounding like a techie version of Shakespeare.
+As financial and risk modeling is essential in any organization, architects frequently need to answer questions about the **(economic) value of technology investments and architecture**. Answering this question is a crucial skill for any senior architect. Still, it may take much work to answer this seemingly harmless question concisely and convincingly to a non-technical audience without sounding like a techie version of Shakespeare.
 
 Good architecture requires some investment. This investment is time and effort spent implementing an architecture pattern, reducing technical debt, or refactoring code to align with our architecture. Consequently, we need to explain the expected value of this investment. It's all about showing that a little investment now will save a lot of headaches—and money—later.
 

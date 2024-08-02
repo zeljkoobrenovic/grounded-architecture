@@ -92,14 +92,14 @@ Continuous learning and keeping up with new technologies can feel overwhelming a
 
 ### 3. RELEASE: The Power Of Letting Go
 
-As the saying goes, *"the best thing one can do when it is raining is to let it rain."* By acknowledging and embracing our circumstances, we can focus on what we have rather than what we lack, fostering gratitude and emotional resilience. 
+As the saying goes, ***"the best thing one can do when it is raining is to let it rain."*** By acknowledging and embracing our circumstances, we can focus on what we have rather than what we lack, fostering gratitude and emotional resilience. 
 
-Regrets that continue to haunt us, grudges we can't seem to let go of, and expectations that once were realistic but now hinder us all contribute to our emotional burdens. When we fall victim to misfortune, we easily obsess, lament, or complain about all we have lost. Complaining is one of the easiest things to do.
+Regrets that continue to haunt us, grudges we can't seem to let go of, and expectations that once were realistic but now hinder us all contribute to our emotional burdens. When we fall victim to misfortune, we easily obsess, lament, or complain about all we have lost. **Complaining** is one of the easiest things to do.
 
 ![](assets/images/iStock-1464747516.jpg)
 ^image by istock^
 
-Similrarly, IT and software engineering professionals can release unnecessary emotional burdens, fostering a positive and resilient mindset that enhances personal well-being and professional effectiveness. 
+Similarly, IT and software engineering professionals can release unnecessary **emotional burdens,** fostering a positive and resilient mindset that enhances personal well-being and professional effectiveness. 
 
 Here are a few examples that IT architects as an inspiration to help their organizations let go:
 
@@ -157,9 +157,9 @@ Progress in Effortless Action is made by **pacing yourself** rather than powerin
 
 ### 6. DEFINE: What "Done" Looks Like
 
-To begin an important project effectively, start by defining what "done" looks like. Establish clear conditions for completion, outlining specific criteria that indicate the project is finished. This clarity helps you stay focused and prevents unnecessary overextension. Once these conditions are met, stop and acknowledge your progress.
+To begin an important project effectively, start by defining what "done" looks like. Establish **clear conditions for completion,** outlining specific criteria that indicate the project is finished. This clarity **helps you stay focused** and prevents **unnecessary overextension.** Once these conditions are met, stop and acknowledge your progress.
 
-McKeown suggests some simple techniques that everyone can use daily to focus and have a stronger sense of establishment. Spend sixty seconds focusing on your desired outcome. Visualize what success looks like, and remember this image as you work. This brief period of concentration can align your efforts and provide a clear direction. Or create a "Done for the Day" list, limited to items that would constitute meaningful progress. This list should include achievable tasks that contribute significantly toward your overall goal. Focusing on these critical activities ensures that each day ends with a sense of accomplishment and forward momentum.
+McKeown suggests some simple techniques that everyone can use daily to focus and have a stronger sense of establishment. Spend **sixty seconds focusing** on your desired outcome. **Visualize** what success looks like, and remember this image as you work. This brief period of concentration can align your efforts and provide a clear direction. Or create a **"Done for the Day"** list, limited to items that would constitute meaningful progress. This list should include achievable tasks that contribute significantly toward your overall goal. Focusing on these critical activities ensures that each day ends with a sense of accomplishment and forward momentum.
 
 ![](assets/images/iStock-1569348514.jpg)
 ^image by istock^
