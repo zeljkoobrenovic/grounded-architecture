@@ -47,7 +47,7 @@ Good architects are a rare breed. They bridge the gaps between business, product
 So, you cannot just 3D print your architects or hire them in buckets. But what you can do is to carefully organize, empower, and leverage this scarce talent (Figure 1). A strong network of people doing architecture is crucial for any real impact. In simpler terms, **Strong Architecture = Strong Architects**.
 
 ![](assets/images/model-people.png)
-***Figure 1:** The structure of Grounded Architecture: The People Foundation.*
+***Figure 1:** The Grounded Architecture framework: The People Foundation.*
 
 In my recent escapades, I worked with two teams of architect teams: a small **central architecture team** and **a cross-organizational distributed virtual team**. The central team is like the wise elders, guiding and supporting the rest of the organization. The distributed virtual team, on the other hand, is a merry band of rebels, working locally but also connecting across the organization, increasing transparency, building networks, and implementing change.
 

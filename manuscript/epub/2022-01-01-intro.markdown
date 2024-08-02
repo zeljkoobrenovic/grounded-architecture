@@ -2,7 +2,7 @@
 
 # Introduction {#intro}
 
-![image by rasica from istock.com](assets/images/arch/iStock-462294849.jpg)
+![image by rasica from istock](assets/images/arch/iStock-462294849.jpg)
 
 **IN THIS SECTION, YOU WILL:** Understand what this book is about and how to use it.
 
@@ -82,7 +82,7 @@ I approach designing an architecture practice in complex organizations as an **a
 
 In this culinary adventure, I'll share some tasty tips and savory secrets on "cooking" up a thriving architecture practice. But remember, **every kitchen is different.** Some ingredients and recipes are essential, while others might be left on the shelf. And don't be surprised if you need to add a pinch of something special from other sources to spice things up.
 
-![image by istock](assets/images/arch/iStock-1409729992.jpg)
+![image by hispanolistic from istock](assets/images/arch/iStock-1409729992.jpg)
 
 When I start an architecture practice, I see myself as a chef stepping into a new restaurant with a suitcase full of favorite spices. I blend in core preferred elements and foundational frameworks like a chef using their trusty spices and kitchen tools. But the **authentic flavor**—the magic that makes a dish unforgettable—comes from the **local ingredients.** In an organization, these local ingredients are the people: the in-house talent and culture that give the enterprise its unique taste.
 
