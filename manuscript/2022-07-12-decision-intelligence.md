@@ -2,8 +2,7 @@
 
 # Decision Intelligence in IT Architecture {#decision-intelligence}
 
-![](assets/images/arch/iStock-1365878406.jpg)
-^image by istock^
+![image by istock](assets/images/arch/iStock-1365878406.jpg)
 
 **IN THIS SECTION, YOU WILL:**  Learn the basics of decision intelligence, the discipline of turning information into
 
@@ -34,8 +33,7 @@ they flex their decision intelligence:
 
 Decision intelligence is the secret sauce of IT architects' work in every twist and turn.
 
-![](assets/images/arch/iStock-1194231226.jpg)
-^image by istock^
+![image by istock](assets/images/arch/iStock-1194231226.jpg)
 
 ## Basics of Decision-Making
 
@@ -122,8 +120,7 @@ decisions need to be treated like a royal decree. Save the deep dives for the bi
 Decisions are the steering wheel for reaching our goals. Consequently, it is crucial to understand and define goals
 properly and to understand whether a decision needs to be made at all.
 
-![](assets/images/arch/iStock-1301200404.jpg)
-^image by istock^
+![image by istock](assets/images/arch/iStock-1301200404.jpg)
 
 ### Setting Goals
 
@@ -215,8 +212,7 @@ So, next time you're in a meeting and wondering if you're there to make a differ
 advisor in a decision-making drama, remember to whip out the magic question. It's your ticket to knowing whether you're
 in for an epic decision-making saga or a cameo appearance.
 
-![](assets/images/arch/iStock-1043738948.jpg)
-^image by istock^
+![image by istock](assets/images/arch/iStock-1043738948.jpg)
 
 ## Decision-Making Complexity
 
@@ -251,15 +247,11 @@ are easier when these associated costs are low.
 
 ### Costs of reversing a decision
 
-While decisions typically involve a commitment of resources you can't undo, some are considered reversible. If you can *
-*change your decision quickly and with little cost**, the consequences of a wrong choice are less severe, making the
-decision easier.
+While decisions typically involve a commitment of resources you can't undo, some are considered reversible. If you can **change your decision quickly and with little cost**, the consequences of a wrong choice are less severe, making the decision easier.
 
 ### Cognitive load
 
-If a decision requires **significant mental effort**, such as remembering **many details** or making choices while *
-*distracted,** it becomes more challenging. On the other hand, if you can make the decision easily and consistently,
-even amidst other tasks or distractions, then it's a simpler decision.
+If a decision requires **significant mental effort**, such as remembering **many details** or making choices while **distracted,** it becomes more challenging. On the other hand, if you can make the decision easily and consistently, even amidst other tasks or distractions, then it's a simpler decision.
 
 A lot of IT architects' work involves creating visualizations and abstractions that can reduce cognitive load and help
 others make better decisions about complex systems.
@@ -392,12 +384,10 @@ stakeholder feedback, and identifying lessons learned all refine future decision
 ## Decision-Making With Data and Tools
 
 Decision-making has evolved beyond pen and paper, with data playing a crucial role in modern methods. Data, like the one
-I use in [Data Foundation](#data), while visually appealing and powerful when used correctly, is **only a tool to assist
-** in making informed decisions. It's a means to an impactful end, but **without purposeful application, data is
-ineffective**.
+I use in [Data Foundation](#data), while visually appealing and powerful when used correctly, 
+is **only a tool to assist** in making informed decisions. It's a means to an impactful end, but **without purposeful application, data is ineffective**.
 
-![](assets/images/arch/iStock-1316937637.jpg)
-^image by istock^
+![image by istock](assets/images/arch/iStock-1316937637.jpg)
 
 ### Remember that data has limitations
 

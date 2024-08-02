@@ -15,7 +15,7 @@ A> * Prioritizing people interactions and data over processes and tools, Grounde
 
 In this part, I will briefly introduce the Grounded Architecture framework. I chose the term "Grounded Architecture" to highlight that the primary goal of my approach is **avoid having an "ivory tower" architecture function** disconnected from the organization. This disconnection is a real danger in a [fast-moving, global, and diverse setting](#context). In other words, I wanted to create an architectural function that is **well-grounded in the organization**.
 
-Prioritizing people's interactions and data over processes and tools, Grounded Architecture aims to connect architecture practice to all organizational parts and levels as an antidote to the "ivory tower" architecture.
+Prioritizing **people's interactions and data** over processes and tools, Grounded Architecture aims to connect architecture practice to all organizational parts and levels as an antidote to the "ivory tower" architecture.
 
 Grounded Architecture framework, as an approach to setting organizational structures for architectural practice, has three elements:
 
