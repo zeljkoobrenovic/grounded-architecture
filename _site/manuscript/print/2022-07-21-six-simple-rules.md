@@ -118,7 +118,7 @@ To enhance the quantity of power within your organization, consider these action
 Architecture practice can support the increase in power quantity through an operating model that promotes distributed decision-making:
 
 * Through the **[People Foundation](#people)**, you can enhance decision-making power by distributing architectural decision-making across the organization and embedding it within development teams, which typically have the best insights and most relevant information.
-* Additionally, the **[Data Foundation]*(data)*, accessible to all interested members of the organization, can provide data and insights that empower individuals in their daily work.
+* Additionally, the **[Data Foundation](#data)**, accessible to all interested members of the organization, can provide data and insights that empower individuals in their daily work.
 
 ## Rule 4: Increase Reciprocity
 
