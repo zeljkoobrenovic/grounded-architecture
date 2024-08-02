@@ -2,8 +2,7 @@
 
 # Data Foundation {#data}
 
-![](assets/images/arch/architecture-1857175_1920.jpg)
-^image by lorenzo cafaro from pixabay^
+![image by lorenzo cafaro from pixabay](assets/images/arch/architecture-1857175_1920.jpg)
 
 **IN THIS SECTION, YOU WILL:**  Understand how to use diverse data sources to support architecture decision-making processes and get concrete tips on creating architecture-centric data tools.
 
@@ -18,14 +17,13 @@ A> *"If we have data, let's look at data. If all we have are opinions, let's go 
 
 Everywhere I worked on creating architectural functions, I strongly (aka obsessively) **emphasized data.** Consequently, one of the first steps I make in any architecture practice is to create an architecture Data Foundation to get a complete, up-to-date picture of critical elements of an organization's technology landscapes (Figure 1). Manual documentation does not scale, and relying on data ensures the reliability and scalability of decision-making.
 
-![](assets/images/model-data.png)
-***Figure 1:** The structure of Grounded Architecture: The Data Foundation.*
+![Figure 1: The structure of Grounded Architecture: The Data Foundation.](assets/images/model-data.png)
 
-The good news is that **big organizations have lots of data** that, if used wisely, can provide an excellent basis for an architectural Data Foundation. With some automation and curation, getting a crystal clear overview of the technology landscape may be closer than it initially appears. To facilitate the creation of a Data Foundation, I have been working on creating **lean open-source tools** that can help obtain valuable architectural insights from data sources, such as source code repositories. Check out open-source [architecture dashboard examples](https://zeljkoobrenovic.github.io/grounded-architecture-dashboard-examples/) and [Sokrates](https://sokrates.dev).
+The good news is that **big organizations have lots of data** that, if used wisely, can provide an excellent basis for an architectural Data Foundation. With some **automation** and lots of **curation**, getting a crystal clear overview of the technology landscape may be closer than it initially appears. 
 
 ## Examples of Data Foundation Tools
 
-To illustrate what I mean by Data Foundation, I will give a few concrete examples from my recent work. Data I typically used include (Figures 2 and 3):
+To illustrate what I mean by Data Foundation, I will give a few concrete examples from my recent work. Data I typically used include (Figure 2):
 * **Source code**, which contain an incredible amount of information about technology, people's activity, team dependencies, and the quality of software systems. By analyzing commit histories, code complexity, and contributions, we can identify critical areas of improvement, understand team dynamics, and ensure code quality.
 * **Public cloud billing reports**, which provide an overview and trends about used cloud services, regions, and budgets. Monitoring billing reports helps manage budgets, identify cost-saving opportunities, and understand usage patterns across different services and regions.
 * **Incident reports** can reveal trends and dependencies among incidents. Analyzing these reports reveals trends, common issues, and dependencies among incidents, helping in proactive problem management and improving system reliability.
@@ -34,16 +32,15 @@ To illustrate what I mean by Data Foundation, I will give a few concrete example
 
 In the following sections, I detail several of these architectural data-driven tools.
 
-![](assets/images/apps.png) 
-**Figure 2:** *A screenshot of the start page of the architecture data dashboard we've built and used at AVIV Group.*
+![Figure 2: A screenshot of the start page of the architecture data dashboard we've built and used at AVIV Group.](assets/images/apps.png) 
 
 ### Example 1: Source Code and Commit History
 
-The source code and its commit history are like a treasure chest for creating data-driven architecture documentation—packed with nuggets of wisdom about technology, team activities, dependencies, and software quality. To help dig up this treasure without getting your hands too dirty, I've developed and actively maintain a project called [Sokrates](https://sokrates.dev).
+The **source code** and its **commit history** are like a treasure chest for creating data-driven architecture documentation—packed with nuggets of wisdom about **technology**, team **activities,** **dependencies,** and software quality. 
 
-Sokrates is designed with an architect's x-ray vision, allowing you to zoom in and out of source code landscapes. It provides a high-level overview of the IT landscape, summarizing data from various teams and groups, while also letting you dive deep into the code-level details. This dual functionality makes it the perfect sidekick for both CTO-level strategy powwows and developer-level code critiques.
+Many tools can help you reveal these insights. In this section, I will focus on a simple tool I built to get these insights. To help you dig up this treasure without getting your hands too dirty, I've developed and actively maintained a free, open-source project called **[Sokrates](https://sokrates.dev).** Sokrates generates reports with essential source code insights. Its reports are designed to be user-friendly, making it easy for a broader audience to navigate and understand their source code and its history. Sokrates is designed with an **architect's x-ray vision,** allowing you to **zoom in and out** of source code landscapes. It provides a **high-level overview** of the IT landscape, summarizing data from various teams and groups while also letting you dive deep into the **code-level details.** This dual functionality makes it the perfect sidekick for **CTO-level** strategy powwows and **developer-level** code critiques.
 
-For a more entertaining look at what Sokrates can do, check out the [Sokrates examples](https://www.sokrates.dev/). Here are some blockbusters:
+Show me, don't tell me, you said? All right, for a more entertaining look at what Sokrates can do, check out the [Sokrates examples](https://www.sokrates.dev/). Here are some blockbusters:
 
 - **[Apache Software Foundation Repositories](https://d3axxy9bcycpv7.cloudfront.net/asf/_sokrates_landscape/index.html)**: An epic saga of over 1,000 repositories with more than 180 million lines of code, 22,000 contributors, and 2.4 million commits.
 - **[Facebook/Meta OSS Repositories](https://d3axxy9bcycpv7.cloudfront.net/meta/_sokrates_landscape/index.html)**: A thriller with 800 repositories, 120 million lines of code, 20,000 contributors, and over 2 million commits.
@@ -65,41 +62,19 @@ Developing in or migrating to the public cloud can dramatically increase transpa
 
 [Amazon Web Services (AWS)](https://aws.amazon.com), [Google Cloud Platform (GCP)](https://cloud.google.com/), [Microsoft Azure](https://azure.microsoft.com/), and other public cloud providers give detailed data about which platform uses which services, resource family, and budget. You can also understand which people and teams have access to each service. Getting real-time information about cloud usage and automatically understanding the trends is straightforward.
 
-Figure 4 shows the anonymous screenshot of the Cloud usage explorer, a tool I built to visualize automatically-collected data from standard Google Cloud Platform (GCP) usage reports.
+Figure 3 shows the anonymous screenshot of the Cloud usage explorer, a tool I built to visualize automatically-collected data from standard Google Cloud Platform (GCP) usage reports.
 
-![](assets/images/archdata/cloud-usage-explorer.png)
-***Figure 4:** An example of a cloud usage explorer.*
+![Figure 3: An example of a cloud usage explorer.](assets/images/archdata/cloud-usage-explorer.png)
 
 ### Example 3: Financial and Vibrancy Data
 
 Finance departments are like Sherlock Holmes in the business world—super data-driven and always on the case with high-quality data that could be a goldmine for architects. Beyond the usual suspects of costs, budgets, and other dry financial stuff, I've discovered they also track the fun stuff, like **vibrancy and usage levels**. 
 
-These finance sleuths need this juicy data to, for instance, link the performance of their financial systems with how much they're being used. This kind of usage data is a secret weapon for architecture discussions. By linking systems' usage levels and vibrancy with their public cloud costs, we can uncover hidden areas of improvement and inefficiencies (Figure 5).
+These finance sleuths need this juicy data to, for instance, link the performance of their financial systems with how much they're being used. This kind of usage data is a secret weapon for architecture discussions. By linking systems' usage levels and vibrancy with their public cloud costs, we can uncover hidden areas of improvement and inefficiencies (Figure 4).
 
 So, next time you're knee-deep in architectural plans, don't forget to call the finance for top-notch data insights!
 
-![](assets/images/arch/cross-data.png)
-***Figure 5:** Combining data from a different source (e.g., cloud billing reports and vibrancy or revenue can lead to new insights (e.g., identifying inefficiencies in the application portfolio).*
-
-### Example 4: Data-Driven Capability Map
-
-[Capability models](https://pubs.opengroup.org/togaf-standard/business-architecture/business-capabilities.html) are frequently associated with Enterprise Architecture, providing a structured approach to organizing and managing an organization's capabilities. Traditionally, these capability maps are maintained manually, which can be time-consuming and prone to inaccuracies. A data-driven version of the capability map enhances this approach by integrating real-time data sources, offering a more dynamic and accurate representation of capabilities, making the capability map dynamic, alive, and significantly more helpful.
-
-I have created several versions of **data-driven capability** maps that include capability data cards consolidating various data types relevant to each capability. We then automatically **generated sites and visuals** from these data for self-service use within the organization. These cards provide a comprehensive view of the current state and performance of each capability, integrating multiple data sources:
-
-Documentation includes links to **key documents,** offering direct access to important documents related to the capability, and automated summaries using generative AI to summarize key documents, making it easier to understand the essential points and status quickly.
-
-Technical implementation evidence encompasses **source code** repositories, linking to and analyzing all source code related to the capability, **cloud billing reports,** providing detailed analyses of cloud accounts, including costs, services used, geographical distribution (regions), infrastructure costs, and analyses, giving a detailed breakdown of the capability's associated infrastructure costs, a legacy assets list, inventorying legacy systems and components that impact the capability, and a technical debt inventory, identifying and assessing technical debt associated with the capability.
-
-Planning evidence consists of detailed **planning data** from systems like Jira, including detailed task breakdowns, timelines, and effort estimates, which project the efforts required to develop or maintain the capability.
-
-Execution eata includes **product and business evidence,** with **demo** documentation, links to slides, videos, and other demo materials, as well as product analytics data, providing metrics such as user engagement (vibrancy), conversion rates, and other relevant analytics. HR evidence encompasses information about the personnel and teams working on the capability and time tracking data, offering detailed reports on the time spent on the capability by different team members.
-
-Real-time data integration allows for creating dynamic and aggregated views across capabilities. These views can be grouped by criteria such as **domain programs or themes,** providing a broader perspective on how capabilities interrelate and contribute to strategic objectives. This strategic alignment is a key feature of the data-driven capability maps, ensuring that capabilities are always in sync with broader organizational goals and initiatives.
-
-Key benefits of a data-driven capability map include **enhanced decision-making,** with real-time data providing a current and accurate picture of capabilities, enabling better-informed strategic decisions, increased **transparency,** with detailed evidence and summaries helping us understand the status and needs of each capability, improved efficiency, with automated data aggregation and reporting reducing manual effort and speeding up the analysis process, strategic alignment, with aggregated views helping ensure that capabilities are aligned with broader organizational goals and initiatives, and resource optimization, with detailed cost and effort data helping optimize resource allocation and manage budgets effectively.
-
-By leveraging a data-driven capability map, organizations can achieve a more dynamic, transparent, and efficient approach to managing their capabilities, leading to improved strategic outcomes and operational performance.
+![Figure 4: Combining data from a different source (e.g., cloud billing reports and vibrancy or revenue can lead to new insights (e.g., identifying inefficiencies in the application portfolio).](assets/images/arch/cross-data.png)
 
 ## Requirements For A Data Foundation
 
