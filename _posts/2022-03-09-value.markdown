@@ -14,7 +14,7 @@ excerpt: "When the Grounded Architecture Framework is in place, it can significa
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
      src="assets/images/iStock-1893527682.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by iStock
+Image by gremlin from iStock
 </div>
 > **IN THIS SECTION, YOU WILL:**  Understand the value that architecture practice based on the ideas of Grounded Architecture can create for an organization.
 > 

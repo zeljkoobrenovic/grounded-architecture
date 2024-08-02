@@ -14,7 +14,7 @@ excerpt: "I introduce three elements of Grounded Architecture Framework: The Dat
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
      src="assets/images/iStock-1767471664.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by <a href="https://pixabay.com/users/ichigo121212-11728/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=205986">Ichigo121212</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=205986">Pixabay</a>
+Image by Dario Truco from iStock
 </div>
 > **IN THIS SECTION, YOU WILL:** Get an overview of the Grounded Architecture framework: Data Foundation, People Foundation, and Architecture Activities Platform.
 >
