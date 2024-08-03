@@ -15,7 +15,7 @@ excerpt: "My view of architecture leadership is inspired by David Marquet’s wo
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
      src="assets/images/iStock-1356210519.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by iStock
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/NiseriN">NiseriN</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 > **IN THIS SECTION, YOU WILL:**  Understand how to apply ideas from David Marquet's work and Netflix's valued behaviors to develop architects' leadership traits.
 > 
@@ -69,7 +69,7 @@ One of the key benefits of a leader-leader model is that it creates **a more col
 
 ![](assets/images/arch/iStock-1130373923.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by iStock
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Motortion">Motortion</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 
 David Marquet's book "Leadership is Language" provides practical advice for leaders looking to create a more collaborative, innovative, and inclusive organizational culture. He emphasizes the importance of language and communication in leadership and introduces **the phrase "I intend to"** as a powerful tool for clarifying intent and **empowering team members** (Figure 1). When team members give intent, the psychological ownership of those actions shifts to them, making them the originators of thought and direction instead of passive followers. This shift in language helps to promote a more collaborative work environment.

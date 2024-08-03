@@ -15,7 +15,7 @@ excerpt: "Decision-making is a human activity subject to human biases and limita
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover"
 src="assets/images/arch/iStock-1286627625.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by iStock
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/metamorworks">metamorworks</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 <style>
  .quote {
@@ -62,7 +62,7 @@ The big trap in decision-making is falling into the **outcome bias** pit, where 
 
 ![](assets/images/arch/iStock-1400056155.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by iStock
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/meshcube">mesh cube</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 
 A decision and its outcome are like two different TV show episodes. The outcome is just what happens after the decision's cliffhanger. You can make a totally solid decision and still end up with a plot twist no one saw coming. Remember, outcomes are a cocktail mixed with decision-making, randomness, and a **splash of luck**. And luck, as we all know, is that elusive ingredient we can't control, often playing a starring role in our most complex dramas.
@@ -110,7 +110,7 @@ If you don't jot down this process, it's like trying to remember a dream—you'l
 
 ![](assets/images/arch/iStock-1394993248.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by iStock
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/designer491">designer491</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 
 Hindsight bias in IT can lead to an oversimplified understanding of past events and decisions, creating an illusion of predictability. It is crucial to recognize the context and constraints under which decisions were made to learn accurately from past experiences and improve future practices.
@@ -160,7 +160,7 @@ Confirmation bias is like your brain's way of playing a one-sided game of teleph
 
 ![](assets/images/arch/iStock-1307396842.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by iStock
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/designer491">designer491</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 
 Beating confirmation bias is like prepping for a magic show: you need a plan before the curtain goes up. **Set clear objectives** before you peek at the data. Consider what the data should mean to you beforehand so you don't get dazzled by surprising plot twists. This way, you can make genuinely data-driven decisions instead of falling into the trap of your brain's sneaky biases.
@@ -204,7 +204,7 @@ In a classic behavioral economics study, researchers showed that **how you say s
 
 ![](assets/images/arch/iStock-1333976612.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by iStock
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/AaronAmat">AaronAmat</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 
 This means that dealing with data isn't as objective as we like to think. How we mentally wrestle with data matters a lot. We may aim to use data to become more objective, but if we're not careful, it can pump up our pre-existing beliefs like a bouncy castle. Instead of uncovering new insights, we end up with our same old convictions, sabotaging our quest for objectivity and learning.
@@ -248,7 +248,7 @@ One of the main advantages of intuition in decision-making is that accessing it 
 
 ![](assets/images/arch/iStock-1193842896.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by iStock
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/metamorworks">metamorworks</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 
 Intuition is especially appropriate under certain conditions:
@@ -293,7 +293,7 @@ Effective decision-making often involves recognizing that **you might not be the
 
 ![](assets/images/arch/iStock-1198639725.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by iStock
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Milkos">Prostock-Studio</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 
 Group decision-making offers significant advantages. While you might believe you have the best solutions, incorporating diverse perspectives can help cover your blind spots. Multiple decision-makers can counterbalance an individual's extreme tendencies and compensate for human limitations like fatigue.

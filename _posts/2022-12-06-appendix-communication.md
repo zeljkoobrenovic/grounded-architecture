@@ -14,7 +14,7 @@ tough conversations."
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover"
 src="assets/images/iStock-1188030610.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by iStock
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/RichVintage">RichVintage</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 > **IN THIS SECTION, YOU WILL:** Get a summary of several resources to help you communicate more effectively, provide good feedback, and lead tough conversations.
 >
@@ -79,7 +79,7 @@ Each resource can equip IT architects with the tools to improve their communicat
 
 ![](assets/images/iStock-1214110598.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by iStock
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/benzoix">benzoix</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 
 ### Key Concepts from the Book
@@ -189,7 +189,7 @@ Here are a few examples of how you could use "So What!" techniques in IT practic
 <img style="margin-top: -20px; width: 100%; " 
      src="assets/images/iStock-1383890701.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by iStock
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/asiseeit">SDI Productions</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 
 ### Key Concepts from the Book
@@ -286,7 +286,7 @@ By adopting the principles of Radical Candor, IT and software architects can get
 <img style="margin-top: -20px; width: 100%; " 
      src="assets/images/iStock-154933978.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by iStock
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/GlobalStock">GlobalStock</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 
 ### Key Concepts from the Book
@@ -342,7 +342,7 @@ Duhigg reminds us that we do not have to be perfect to be good communicators. Wh
 <img style="margin-top: -20px; width: 100%; " 
      src="assets/images/iStock-2147692837.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by iStock
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/SolStock">SolStock</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 
 ### Lesson 1: The Foundation of Great Communication is Alignment
@@ -401,7 +401,7 @@ Goulston, a psychologist, consultant, author, and frequent TV contributor, has w
 
 ![](assets/images/iStock-1150384570.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by iStock
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/fizkes">fizkes</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 
 

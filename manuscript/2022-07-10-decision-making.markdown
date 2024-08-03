@@ -2,8 +2,7 @@
 
 # On Decision-Making: Introduction {#decision-making}
 
-![](assets/images/iStock-1138420319.jpg)
-^image by istock^
+![image by zbynek pospisil from istock](assets/images/iStock-1138420319.jpg)
 
 **IN THIS SECTION, YOU WILL:**  Get a summary of several resources that I use as inspiration for developing the decision-making skills of IT architects.
 

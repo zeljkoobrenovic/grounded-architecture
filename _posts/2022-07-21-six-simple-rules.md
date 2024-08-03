@@ -15,7 +15,7 @@ excerpt: "The Six Simple Rules approach emphasizes that you must set up organiza
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
      src="assets/images/iStock-2031547179.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by iStock
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/NanoStockk">NanoStockk</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 <style>
  .quote {
@@ -98,7 +98,7 @@ The first rule states that you must genuinely understand performance: **what peo
  
 ![](assets/images/arch/iStock-1179186162.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by iStock
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/scyther5">scyther5</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 
 ### Guidelines for Understanding Performance
@@ -151,7 +151,7 @@ Whenever you consider an **addition to** your organization’s **structure, proc
 
 ![](assets/images/arch/iStock-1201215883.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by iStock
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Milkos">Prostock-Studio</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 
 ### Guidelines for Increasing Power Quantity
@@ -178,7 +178,7 @@ In the face of business complexity, work is becoming more interdependent. To mee
 
 <img src="assets/images/arch/iStock-1072898930.jpg" style="width: 100%">
 <div style="text-align: center; font-size: 70%; color: grey; margin-bottom: 12px; margin-top: -12px;">
-Image by iStock
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Natnan_Srisuwan">Natnan Srisuwan</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 
 ### Guidelines for Enhancing Reciprocity

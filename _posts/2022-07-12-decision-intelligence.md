@@ -16,7 +16,7 @@ improving decision-making, reliable data-driven decisions, and avoiding biases."
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover"
 src="assets/images/arch/iStock-1365878406.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by iStock
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/sasunbughdaryan">sasun bughdaryan</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 <style>
  .quote {
@@ -75,7 +75,7 @@ Decision intelligence is the secret sauce of IT architects' work in every twist 
 
 ![](assets/images/arch/iStock-1194231226.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by iStock
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/francescoch">francescoch</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 
 <br>
@@ -171,7 +171,7 @@ properly and to understand whether a decision needs to be made at all.
 
 ![](assets/images/arch/iStock-1301200404.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by iStock
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/DilokKlaisataporn">Dilok Klaisataporn</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 
 ### Setting Goals
@@ -266,7 +266,7 @@ in for an epic decision-making saga or a cameo appearance.
 
 ![](assets/images/arch/iStock-1043738948.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by iStock
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/chaiyapruek2520">chaiyapruek2520</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 
 <br>
@@ -449,7 +449,7 @@ is **only a tool to assist** in making informed decisions. It's a means to an im
 
 ![](assets/images/arch/iStock-1316937637.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by iStock
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Blue Planet Studio">Blue Planet Studio</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 
 ### Remember that data has limitations

@@ -2,7 +2,7 @@
 
 # Decision Intelligence in IT Architecture {#decision-intelligence}
 
-![image by istock](assets/images/arch/iStock-1365878406.jpg)
+![image by sasun bughdaryan from istock](assets/images/arch/iStock-1365878406.jpg)
 
 **IN THIS SECTION, YOU WILL:**  Learn the basics of decision intelligence, the discipline of turning information into
 
@@ -33,7 +33,7 @@ they flex their decision intelligence:
 
 Decision intelligence is the secret sauce of IT architects' work in every twist and turn.
 
-![image by istock](assets/images/arch/iStock-1194231226.jpg)
+![image by francescoch from istock](assets/images/arch/iStock-1194231226.jpg)
 
 ## Basics of Decision-Making
 
@@ -120,7 +120,7 @@ decisions need to be treated like a royal decree. Save the deep dives for the bi
 Decisions are the steering wheel for reaching our goals. Consequently, it is crucial to understand and define goals
 properly and to understand whether a decision needs to be made at all.
 
-![image by istock](assets/images/arch/iStock-1301200404.jpg)
+![image by dilok klaisataporn from istock](assets/images/arch/iStock-1301200404.jpg)
 
 ### Setting Goals
 
@@ -212,7 +212,7 @@ So, next time you're in a meeting and wondering if you're there to make a differ
 advisor in a decision-making drama, remember to whip out the magic question. It's your ticket to knowing whether you're
 in for an epic decision-making saga or a cameo appearance.
 
-![image by istock](assets/images/arch/iStock-1043738948.jpg)
+![image by chaiyapruek2520 from istock](assets/images/arch/iStock-1043738948.jpg)
 
 ## Decision-Making Complexity
 
@@ -387,7 +387,7 @@ Decision-making has evolved beyond pen and paper, with data playing a crucial ro
 I use in [Data Foundation](#data), while visually appealing and powerful when used correctly, 
 is **only a tool to assist** in making informed decisions. It's a means to an impactful end, but **without purposeful application, data is ineffective**.
 
-![image by istock](assets/images/arch/iStock-1316937637.jpg)
+![image by blue planet studio from istock](assets/images/arch/iStock-1316937637.jpg)
 
 ### Remember that data has limitations
 

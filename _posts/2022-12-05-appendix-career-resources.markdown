@@ -15,7 +15,7 @@ excerpt: "Pointers to resources for managin, growing and hiring architects. When
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
      src="assets/images/arch/pole-vault.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by iStock <a href="https://flic.kr/p/8zKRAU">tableatny</a> (CC BY 2.0)
+Image by <a target="_blank" href="https://flic.kr/p/8zKRAU">tableatny</a> from <a target="_blank" href="https://www.flickr.com/">flickr</a> (CC BY 2.0)
 </div>
 
 > **IN THIS SECTION, YOU WILL:**  Get ideas and tips about developing architects' career paths.

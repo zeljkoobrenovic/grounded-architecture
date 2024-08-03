@@ -3,7 +3,7 @@
 # Adopting a Mindset: Architects as Superglue {#superglue}
 
 ![](assets/images/iStock-185061908.jpg)
-^image by istock^
+^image by pagadesign from istock^
 
 **IN THIS SECTION, YOU WILL:**  Understand the view on architects as superglue (people who hold architecture, technical details, business needs, and people together across a large organization or complex projects) and get valuable tips on developing "superglue" abilities.
 

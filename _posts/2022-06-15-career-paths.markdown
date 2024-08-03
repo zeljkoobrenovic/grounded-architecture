@@ -15,7 +15,7 @@ excerpt: "Architects' career paths ideally stem from a strong engineering backgr
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
      src="assets/images/iStock-490772190.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by iStock
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/RichVintage">RichVintage</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 
 > **IN THIS SECTION, YOU WILL:**  Get ideas and tips about developing architects' career paths.
@@ -64,7 +64,7 @@ When architects have a solid engineering foundation, they can **earn the trust a
 
 ![](assets/images/iStock-1442990932.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by iStock
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/KobusLouw">Kobus Louw</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 
 Engineers are trained to think critically and solve complex problems. This skill set is invaluable for architects, who must navigate technical challenges, identify potential issues, and devise robust solutions that align with business goals.
@@ -78,7 +78,7 @@ While a strong engineering background is essential, architects must also develop
 
 ![](assets/images/iStock-529522453.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by iStock
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/vm">vm</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 
 Stepping from an engineering position to an architecture role requires three significant changes:
@@ -98,7 +98,7 @@ An architect's path can take many different directions and have many other names
 
 ![](assets/images/iStock-511542244.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by iStock
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/bowie15">bowie15</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 
 I usually envision three tracks of progression (Figrue 1):
@@ -126,7 +126,7 @@ In addition to the technical and communication skills, a senior career in IT arc
 
 ![](assets/images/iStock-1397610425.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by iStock
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/miniseries">miniseries</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 
 

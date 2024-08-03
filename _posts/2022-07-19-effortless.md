@@ -14,7 +14,7 @@ excerpt: "A summary of lessons learned from Greg McKeown's Effortless book, whic
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
      src="assets/images/iStock-1183657530.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by iStock
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Chinnapong">Chinnapong</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 > **IN THIS SECTION, YOU WILL:** Get summary of lessons learned from the Effortles s book on how you functionally structure your work to make the most essential activities the easiest ones to achieve.
 >
@@ -87,7 +87,7 @@ By asking, *"What if this could be easy?"* you can reset your thinking. This sim
 
 ![](assets/images/iStock-1359088740.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by iStock
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/mironovkonstantin">Mironov Konstantin</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 
 IT and software engineering have integrated the principles of effortless inversion, transforming many complex tasks into efficient processes. But we must always remind ourselves not to overthink our work. 
@@ -115,7 +115,7 @@ This approach helps you stay engaged and motivated, making even the most mundane
 <img style="margin-top: -20px; width: 100%; " 
      src="assets/images/iStock-1294958620.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by iStock
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/AzmanL">AzmanL</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 
 Pairing essential activities with enjoyable ones creates a harmonious and engaging work environment for IT and software engineering professionals. This approach enhances productivity, promotes well-being, and increases job satisfaction by turning routine tasks into opportunities for joy and creativity. 
@@ -143,7 +143,7 @@ Regrets that continue to haunt us, grudges we can't seem to let go of, and expec
 <img style="margin-top: -20px; width: 100%; " 
      src="assets/images/iStock-1464747516.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by iStock
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Mixmike">Mixmike</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 
 Similarly, IT and software engineering professionals can release unnecessary **emotional burdens,** fostering a positive and resilient mindset that enhances personal well-being and professional effectiveness. 
@@ -168,7 +168,7 @@ By incorporating periods of **rest and reflection,** you create a balanced routi
 <img style="margin-top: -20px; width: 100%; " 
      src="assets/images/iStock-1474437915.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by iStock
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Chinnapong">Chinnapong</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 
 By embracing the art of doing nothing and incorporating structured work sessions, rest periods, and balanced routines, IT and software engineering professionals can enhance their productivity and well-being. This approach promotes sustainable productivity, prevents burnout, and ensures that engineers can consistently perform at their best.
@@ -199,7 +199,7 @@ Set aside your opinions, advice, and judgment to truly see others. Prioritize th
 <img style="margin-top: -20px; width: 100%; " 
      src="assets/images/iStock-514368940.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by iStock
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Portra">Portra</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 
 IT and software engineering professionals can achieve a state of heightened awareness, improving productivity and enriching their interactions with others. This approach fosters a work environment where presence and mindfulness lead to meaningful connections and effective collaboration.
@@ -233,7 +233,7 @@ McKeown suggests some simple techniques that everyone can use daily to focus and
 <img style="margin-top: -20px; width: 100%; " 
      src="assets/images/iStock-1569348514.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by iStock
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/evgenyatamanenko">evgenyatamanenko</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 
 Similarly, by defining what "done" looks like, IT and software engineering professionals can stay focused on their goals, prevent overextension, and maintain a clear direction in their work. This approach fosters productivity, ensures high-quality outcomes, and provides a satisfying sense of accomplishment.
@@ -267,7 +267,7 @@ McKeown suggests some simple techniques to identify the first obvious action:
 <img style="margin-top: -20px; width: 100%; " 
      src="assets/images/iStock-471660478.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by iStock
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/ChristianChan">ChristianChan</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 
 By breaking down the first action into the most apparent, tiny steps and visualizing the desired outcome, IT and software engineering professionals can effectively begin essential projects, build momentum, and ensure clear direction from the start. This approach reduces inertia and makes it easier to dive deeper into tasks confidently.
@@ -297,7 +297,7 @@ This concept aligns with the "Swedish Death Cleaning philosophy," which involves
 <img style="margin-top: -20px; width: 100%; " 
      src="assets/images/iStock-665241484.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by iStock
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/arismart">arismart</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 
 
@@ -327,7 +327,7 @@ Fred Brooks encapsulated this wisdom: *"Good judgment comes from experience, and
 <img style="margin-top: -20px; width: 100%; " 
      src="assets/images/iStock-1276946528.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by iStock
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/CristianGheorghe">Cristian Gheorghe</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 
 By embracing the courage to be rubbish and starting with imperfect versions, IT and software engineering professionals can bypass perfectionism, accelerate learning, and create a foundation for continuous improvement and eventual mastery. This approach encourages experimentation and iteration, leading to better outcomes over time.
@@ -357,7 +357,7 @@ To achieve sustained productivity, set an effortless pace: slow is smooth, smoot
 <img style="margin-top: -20px; width: 100%; " 
      src="assets/images/iStock-2038048731.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by iStock
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Flashvector">Flashvector</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 
 By adopting a balanced approach and setting a sustainable pace, IT and software engineering professionals can maintain high productivity while ensuring quality and preserving their well-being. This method emphasizes the importance of consistent, manageable efforts that lead to meaningful and lasting results.
@@ -402,7 +402,7 @@ Effortless Results stem from a deep understanding of first principles and the ab
 <img style="margin-top: -20px; width: 100%; " 
      src="assets/images/iStock-467625592.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by iStock
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/lvcandy">lvcandy</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 
 
@@ -436,7 +436,7 @@ One motivation for writing this book is to create reusable material that teaches
 <img style="margin-top: -20px; width: 100%; " 
      src="assets/images/iStock-1049828098.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by iStock
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Nattakorn_Maneerat">Nattakorn Maneerat</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 
 
@@ -467,7 +467,7 @@ Automating as many essential tasks as possible frees up space in your brain. Thi
 <img style="margin-top: -20px; width: 100%; " 
      src="assets/images/iStock-1442064282.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by iStock
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Shutter2U">Shutter2U</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 
 
@@ -515,7 +515,7 @@ Being an architect is much easier in high-trust organizations. In low-trust orga
 <img style="margin-top: -20px; width: 100%; " 
      src="assets/images/iStock-1387451522.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by iStock
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/nathaphat">nathaphat</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 
 By establishing and maintaining a high-trust environment, IT and software engineering teams can work more efficiently and effectively. Trust reduces friction, enables better decision-making, and fosters a positive, collaborative culture where team members feel valued and empowered.
@@ -550,7 +550,7 @@ This proactive approach is the long tail of time management. When you invest you
 <img style="margin-top: -20px; width: 100%; " 
      src="assets/images/iStock-1441914456.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by iStock
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/ipuwadol">ipuwadol</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 
 IT and software engineering teams can solve potential problems before they occur, leading to smoother operations, fewer disruptions, and a more efficient workflow. This proactive approach saves time and resources, allowing teams to focus on innovation and continuous improvement.
