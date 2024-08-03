@@ -188,7 +188,7 @@ One of the amusing challenges with setting up an architecture function in an org
 <br>
 ![](assets/images/iStock-92285726.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by iStock
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Ingenui">Ingenui</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 <br>
 

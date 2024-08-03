@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-08-03T01:50:31+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: Redefining IT Architecture Practice</title><subtitle></subtitle><entry><title type="html">Cheat Sheet</title><link href="http://localhost:4000/cheat-sheet" rel="alternate" type="text/html" title="Cheat Sheet" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/appendix-cheat-sheet</id><content type="html" xml:base="http://localhost:4000/cheat-sheet"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/iStock-1182643171.jpg" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-08-03T10:34:18+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: Redefining IT Architecture Practice</title><subtitle></subtitle><entry><title type="html">Cheat Sheet</title><link href="http://localhost:4000/cheat-sheet" rel="alternate" type="text/html" title="Cheat Sheet" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/appendix-cheat-sheet</id><content type="html" xml:base="http://localhost:4000/cheat-sheet"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/iStock-1182643171.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by iStock
 </div>
@@ -364,8 +364,7 @@ Image by <a href="https://pixabay.com/users/mustangjoe-2162920/?utm_source=link-
 
 <p><img src="assets/images/iStock-1321965054.jpg" alt="" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by iStock
-</div>
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/AndriiYalanskyi">Andrii Yalanskyi</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a></div>
 
 <p>Most organizational units I worked with were loosely coupled. Our companies frequently grew through acquisitions of companies in different marketplaces. Business strategies also promoted the independent evolution of local units to address local market needs more effectively and quickly. These units often enjoyed a high level of autonomy, frequently with their development teams and sometimes with local CFOs, CMOs, or CEOs.</p>
 
@@ -461,7 +460,7 @@ Image by <a href="https://pixabay.com/users/bluehouseskis-14931490/?utm_source=l
   <li><em>How stable is your organization? How likely is it that significant changes will occur in your organization?</em></li>
 </ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[I identified the following needs that an architecture practice should support: Executing At Scale, Adaptivity, Improving the Quality of Decision-Making with Data, and Maximizing Organizational Alignment & Learning.]]></summary></entry><entry><title type="html">Grounded Architecture Framework: Introduction</title><link href="http://localhost:4000/grounded-architecture" rel="alternate" type="text/html" title="Grounded Architecture Framework: Introduction" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/grounded-architecture</id><content type="html" xml:base="http://localhost:4000/grounded-architecture"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/iStock-1767471664.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by Dario Truco from iStock
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/DarioTruco">Dario Truco</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 <blockquote>
   <p><strong>IN THIS SECTION, YOU WILL:</strong> Get an overview of the Grounded Architecture framework: Data Foundation, People Foundation, and Architecture Activities Platform.</p>
@@ -1133,7 +1132,7 @@ Image by engineering.atspotify.com
 <p><br />
 <img src="assets/images/iStock-92285726.jpg" alt="" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by iStock
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Ingenui">Ingenui</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 <p><br /></p>
 
@@ -1195,7 +1194,7 @@ Image by iStock
   <li><em>Which strategic and area-level decisions provide team decision boundaries in your organization? Are there areas where you need more or less limitations to optimize performance?</em></li>
 </ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[The Architecture Activities Platform is where, by leveraging data and People Foundations, we perform activities that help an organization reach its goals. Examples include supporting teams in their daily work, tracking tech debt, performing technical due diligence, standardizing processes and documentation, and defining cloud, data, and platform strategies.]]></summary></entry><entry><title type="html">Transforming Organizations with Grounded Architecture</title><link href="http://localhost:4000/transformation" rel="alternate" type="text/html" title="Transforming Organizations with Grounded Architecture" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/value</id><content type="html" xml:base="http://localhost:4000/transformation"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/iStock-1893527682.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by gremlin from iStock
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/gremlin">gremlin</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 <blockquote>
   <p><strong>IN THIS SECTION, YOU WILL:</strong>  Understand the value that architecture practice based on the ideas of Grounded Architecture can create for an organization.</p>
@@ -1372,7 +1371,7 @@ Image by <a href="https://pixabay.com/users/qimono-1962238/?utm_source=link-attr
 
 <p><img src="assets/images/arch/iStock-165954660.jpg" alt="" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by iStock
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/CurvaBezier">CurvaBezier</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 
 <p>Misalignments often occur in such settings due to various factors, including complex structures and diverse objectives. However, a well-grounded architecture can address and reduce these misalignments through its foundations.</p>
@@ -1409,7 +1408,7 @@ Image by iStock
 <p><br />
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/iStock-871461580.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by iStock
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Rawpixel">Rawpixel</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 
 <p>The Grounded Architecture framework offers comprehensive support through its Data Foundation, People Foundation, and Architecture Activities Platform to help organizations learn quickly, stay up-to-date with emerging technologies, and recommend technology upgrades.</p>
@@ -1457,7 +1456,7 @@ Image by iStock
   <li><em>How sustainable is the architectural function in your organization in the absence of a strong central team? Could implementing a Data Foundation and well-connected architects help mitigate this?</em></li>
 </ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[When the Grounded Architecture Framework is in place, it can significantly impact an organization's functioning: Executing At Scale, Adaptivity, Improving the Quality of Decision-Making with Data, and Maximizing Organizational Alignment & Learning.]]></summary></entry><entry><title type="html">On Being Architect: Introduction</title><link href="http://localhost:4000/being-architect" rel="alternate" type="text/html" title="On Being Architect: Introduction" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/being-architect</id><content type="html" xml:base="http://localhost:4000/being-architect"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/iStock-1194454929.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by iStock
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/AzmanL">AzmanL</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 <style>
  .quote {
@@ -1501,7 +1500,7 @@ The role of an architect in the IT industry is like a Swiss Army knife—multifa
 
 <p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/iStock-185061908.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by iStock
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/pagadesign">pagadesign</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 <blockquote>
   <p><strong>IN THIS SECTION, YOU WILL:</strong>  Understand the view on architects as superglue (people who hold architecture, technical details, business needs, and people together across a large organization or complex projects) and get valuable tips on developing “superglue” abilities.</p>

@@ -126,7 +126,7 @@ Focusing on these foundational elements and their key actions can transform our 
 The fourth goal emphasizes that the architecture function should be a cohesive factor in minimizing misalignments within large organizations. 
 
 ![](assets/images/arch/iStock-165954660.jpg)
-^image by istock^
+^image by curvabezier from istock^
 
 Misalignments often occur in such settings due to various factors, including complex structures and diverse objectives. However, a well-grounded architecture can address and reduce these misalignments through its foundations.
 
@@ -154,7 +154,7 @@ A> *" I expect you to learn to be better each day. I challenge you to look at ea
 The last goal is that architecture should help organizations learn quickly, stay up-to-date with emerging technologies and industry trends, and recommend technology upgrades. Learning is one of the primary daily tasks of architects. Architects must proactively identify relevant new technology developments and create pragmatic technology recommendations for concrete platforms across the organization based on their understanding.
 
 ![](assets/images/arch/iStock-871461580.jpg)
-^image by istock^
+^image by rawpixel from istock^
 
 The Grounded Architecture framework offers comprehensive support through its Data Foundation, People Foundation, and Architecture Activities Platform to help organizations learn quickly, stay up-to-date with emerging technologies, and recommend technology upgrades.
 

@@ -19,7 +19,7 @@ A> *"If we have data, let's look at data. If all we have are opinions, let's go 
 Everywhere I worked on creating architectural functions, I strongly (aka obsessively) **emphasized data.** Consequently, one of the first steps I make in any architecture practice is to create an architecture Data Foundation to get a complete, up-to-date picture of critical elements of an organization's technology landscapes (Figure 1). Manual documentation does not scale, and relying on data ensures the reliability and scalability of decision-making.
 
 ![](assets/images/model-data.png)
-***Figure 1:** The structure of Grounded Architecture: The Data Foundation.*
+***Figure 1:** The Grounded Architecture framework: The Data Foundation.*
 
 The good news is that **big organizations have lots of data** that, if used wisely, can provide an excellent basis for an architectural Data Foundation. With some **automation** and lots of **curation**, getting a crystal clear overview of the technology landscape may be closer than it initially appears. 
 

@@ -14,7 +14,7 @@ excerpt: "When the Grounded Architecture Framework is in place, it can significa
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
      src="assets/images/iStock-1893527682.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by gremlin from iStock
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/gremlin">gremlin</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 > **IN THIS SECTION, YOU WILL:**  Understand the value that architecture practice based on the ideas of Grounded Architecture can create for an organization.
 > 
@@ -172,7 +172,7 @@ The fourth goal emphasizes that the architecture function should be a cohesive f
 
 ![](assets/images/arch/iStock-165954660.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by iStock
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/CurvaBezier">CurvaBezier</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 
 Misalignments often occur in such settings due to various factors, including complex structures and diverse objectives. However, a well-grounded architecture can address and reduce these misalignments through its foundations.
@@ -207,7 +207,7 @@ The last goal is that architecture should help organizations learn quickly, stay
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
      src="assets/images/arch/iStock-871461580.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by iStock
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Rawpixel">Rawpixel</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 
 
