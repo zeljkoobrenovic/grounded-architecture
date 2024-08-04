@@ -2,8 +2,7 @@
 
 # On Execution and Governance: Introduction {#execution}
 
-![](assets/images/iStock-1444086274.jpg)
-^image by worawee meepian from istock^
+![image by worawee meepian from istock](assets/images/iStock-1444086274.jpg)
 
 **IN THIS SECTION, YOU WILL:**  Get a summary of several resources that I use as inspiration for running the Grounded Architecture practice in complex organizations.
 
