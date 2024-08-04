@@ -52,6 +52,8 @@ The approach presented in this book connects architecture to every nook and cran
 
 The name "Grounded Architecture" is a hat-tip to the [Grounded Theory](https://en.wikipedia.org/wiki/Grounded_theory) methodology. Grounded Theory is about developing theories from the data you gather from the real world rather than pulling them out of thin air. Likewise, Grounded Architecture evolves from honest feedback and data, not from dusty old books of abstract principles.
 
+## Grounded Architecture
+
 This book breaks down Grounded Architecture into two main parts:
 * **Framework:** The nuts and bolts you need to get your Grounded Architecture practice up and running.
 * **Guiding Principles:** Handy tips and inspirations to help you bring these ideas to life.
@@ -68,7 +70,7 @@ The *[Data Foundation](data)* keeps your architecture decisions based on up-to-d
 
 The *[People Foundation](people)* represents a strong network of people working on architecture across your organization, ensuring your efforts make a difference.
 
-Lastly, the *[Architecture Activities Platform](activities)* defines a collection of processes and agreements that lets architects do their thing, leveraging data and people to create a powerful, organization-wide impact.
+Lastly, the *[Architecture Activities Platform](activities)* defines a collection of processes and agreements that lets architects do their thing, leveraging data and people connections to create a powerful, organization-wide impact.
 
 As part of my Grounded Architecture quest, I've devised several guiding principles and tools to help you sprinkle Grounded Architecture magic in your practice. While traditional IT architecture literature often zeros in on technical know-how, this collection dares you to think differently about IT architecture and to dive into the rich insights of social, behavioral, and management sciences. These resources are grouped into several parts and are sure to make your journey both insightful and entertaining:
 
@@ -78,7 +80,7 @@ As part of my Grounded Architecture quest, I've devised several guiding principl
   * [Making Impact](impact)
   * [Architects' Career Paths](career)
 * [**On Soft Skills**](soft-skills):
-  * [The Culture Map: Architects' Culture Mindfield Compass](culture-map)
+  * [The Culture Map: Architects' Culture Compass](culture-map)
   * [Leadership](leadership)
 * [**On Decision-Making**](decision-making):
   * [Decision Intelligence in IT Architecture](decision-intelligence)
@@ -91,7 +93,7 @@ As part of my Grounded Architecture quest, I've devised several guiding principl
   * [Product-Led Organizations](product) 
   * [Governance: Nudge, Taxation, Mandates](governance)
 
-If all this is not enough, in the appendix I outline several online resources that have proven vital in my journey as an IT architect and have reminded me about what I always need to know about crucial aspects of IT practice. I routinely refer back to them and carry them in my practitioner "backpack," so I added their summaries in the online [appendix](appendix), including:
+If all this is not enough, in the online appendix I outline several resources that have proven vital in my journey as an IT architect. I routinely refer back to them and carry them in my practitioner "backpack," so I added their summaries in the online [appendix](appendix), including:
 
 * [Favorite Quotes](https://grounded-architecture.io/quotes)
 * [Bookshelf](https://grounded-architecture.io/bookshelf)
@@ -104,17 +106,24 @@ The rest of this book will explain the Grounded Architecture approach in detail.
 
 ## What Will You Learn?
 
-Different parts of the book correspond to the aspects of work of **Chief Architects** or **Heads of Architecture** that need to set up and run modern IT architecture practices:
+This books serves as a guideline to build and **operate a robust IT architecture practice,** ensuring alignment with organizational goals while adapting to the challenges of modern IT environments. 
+
+
+### Key Topics
+
+The book will provide you with tips and inspirations about work that you need to set up and run modern IT architecture practices, including:
 
 * Create organizational and technical **structures** to  support IT architecture work,
 * Define IT **architecture roles** and responsibilities, skills, and career paths,
 * Operate **effective IT architecture practice** in complex multicultural organizations.
 
+I also provide a number of other ad-hoc lessons and inspirations from my work.
+
 ### General Philosophy
 
 I approach designing an architecture practice in complex organizations as an **art of cooking.** Modern IT architecture practice is like a master chef's kitchen. As you will always work with many local ingredients, you can't just copy a recipe from one restaurant to another and expect it to taste the same. 
 
-In this culinary adventure, I'll share some tasty tips and savory secrets on "cooking" up a thriving architecture practice. But remember, **every kitchen is different.** Some ingredients and recipes are essential, while others might be left on the shelf. And don't be surprised if you need to add a pinch of something special from other sources to spice things up.
+I'll share some tasty tips and savory secrets on "cooking" up a thriving architecture practice. But remember, **every kitchen is different.** Some ingredients and recipes are essential, while others might be left on the shelf. And don't be surprised if you need to add a pinch of something special from other sources to spice things up.
 
 ![](assets/images/arch/iStock-1409729992.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
@@ -124,7 +133,7 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Hispa
 
 When I start an architecture practice, I see myself as a chef stepping into a new restaurant with a suitcase full of favorite spices. I blend in core preferred elements and foundational frameworks like a chef using their trusty spices and kitchen tools. But the **authentic flavor**—the magic that makes a dish unforgettable—comes from the **local ingredients.** In an organization, these local ingredients are the people: the in-house talent and culture that give the enterprise its unique taste.
 
-While fundamental structures and practices may be consistent across diverse business scenarios, the most crucial elements—akin to fresh, **local ingredients** in cooking—must be procured locally. The staff's skills, experiences, and insights are the secret ingredients that personalize and refine the architecture to align with specific business needs and goals. They are what render the architecture truly unique and effective.
+While fundamental structures and practices may be consistent across diverse businesses, the most crucial elements—akin to fresh, **local ingredients** in cooking—you must procure locally. The staff's skills, experiences, and insights are the secret ingredients that personalize and refine the architecture to align with specific business needs and goals. They are what render the architecture truly unique and effective.
 
 
 ### Format
@@ -154,14 +163,14 @@ When writing this book, I had a broad audience in mind. The articles should be h
 
 The Grounded Architecture approach also builds on many ideas that others have successfully used. Gregor Hohpe's [**Architecture Elevator**](https://architectelevator.com/) view of architecture has heavily inspired my work. In many ways, my work reflects the lessons learned from implementing Gregor's ideas in practice. Gregor described modern architects' functions as aligning organization and technology, reducing friction, and charting transformation journeys. Such modern architects ride the Architect Elevator from the penthouse, where the business strategy is set, to the engine room, where engineers implement enabling technologies.
 
-In my quest to define modern architectural roles, I used Staff+ Engineering jobs as an inspiration for the development of architects. Tanya Reilly's book [**The Staff Engineer's Path**](https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/) and Will Larson's book [**Staff Engineer: Leadership beyond the management track**](https://staffeng.com/guides/staff-archetypes/) are helpful guides in defining the responsibilities of modern architects. Overall, the Staff-plus engineering roles provide excellent examples of the development of architects.
+In my quest to define modern architectural roles, I used Staff+ Engineering jobs as an inspiration for the development of architects. Tanya Reilly's book [**The Staff Engineer's Path**](https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/) and Will Larson's book [**Staff Engineer: Leadership beyond the management track**](https://staffeng.com/guides/staff-archetypes/) are helpful guides in defining the responsibilities of modern architects. Overall, the Staff-plus engineering roles provide excellent examples for the development of architects.
 
-Many other sources have influenced my work. Some of them you can find in the online [Bookshelf appendix](https://grounded-architecture.io/bookshelf).
+Many other sources have influenced my work. You can find them in the online [Bookshelf appendix](https://grounded-architecture.io/bookshelf).
 
 
 ## Why This Book?
 
-This book **generalizes my experiences** in written form. I have written these articles for several reasons. Firstly, writing helps me clarify and improve my ideas (Figure 2). As Gregor Hohpe once noted, every sentence I write frees up brain cells to learn new things. 
+This book **generalizes my experiences** in written form. I have written these articles for several reasons. Firstly, writing helps me clarify and improve my ideas (Figure 2). As Gregor Hohpe once noted, every sentence you write frees up brain cells to learn new things. 
 
 ![](assets/images/writing.png)
 ***Figure 2:** Writing a book helped me organize ideas, obtain new insights, improve principles and tools, and share the lessons learned.*
@@ -183,8 +192,8 @@ This book is a part of the [**collection of open-source tools and resources**](h
 
 The other resources include:
 
-* [**Sokrates**](https://sokrates.dev): an open-source polyglot code analysis tool. Sokrates provides a pragmatic, inexpensive way to extract rich data from source code repositories. Sokrates can help you understand your code by making the size, complexity, and coupling of software, people interactions, and team topologies visible.
-* [**Productivity Tools**](https://obren.io/tools): A collection of more than 100 online tools I built to help me in my daily work as an architect.
+* [**Sokrates**](https://sokrates.dev): an open-source polyglot source code analysis tool. Sokrates provides a pragmatic, inexpensive way to extract rich data from source code repositories. Sokrates can help you understand your code by making the size, complexity, and coupling of software, people interactions, and team topologies visible.
+* [**Productivity Tools**](https://obren.io/tools): A collection of more than 100 online tools I built to help me in my daily work.
 * [**359° Overview of Tech Trends**](https://www.obren359.com/) is my collection of knowledge resources with podcasts and videos from over 20 authoritative, high-quality sources (IEEE, ACM, GOTO Conf, SE Radio, Martin Fowler's site, Ph.D. Theses). Architects need to learn fast, and finding good knowledge sources is difficult.
 
 You can find more details about these tools on my homepage **[obren.io](https://obren.io/)**.
@@ -194,11 +203,11 @@ You can find more details about these tools on my homepage **[obren.io](https://
 
 The work presented in this book builds on **several years of my experience**. Most of this work originates from my current work as a **Chief Architect** at AVIV Group and previous works as a Principal Architect for eBay Classifieds and Adevinta.
 
-Another vital part of my experience that shaped this book was my earlier experience as a **consultant and analyst** at the [Software Improvement Group](https://www.softwareimprovementgroup.com/). I've learned the value and pragmatics of data-informed decision-making. As a spin-off of this work, I've also built a tool called [Sokrates](sokrates.dev), which enables efficient and pragmatic extraction of data about technology and organization from source code. This work has directly influenced my view of the architecture [Data Foundation](data).
+Another vital part of my experience that shaped this book was my earlier experience as a **consultant and analyst** at the [Software Improvement Group](https://www.softwareimprovementgroup.com/), where I've learned the value and pragmatics of data-informed decision-making. As a spin-off of this work, I've also built a tool called [Sokrates](https://sokrates.dev), which enables efficient and pragmatic extraction of data about technology and organization from source code. This work has directly influenced my view of the [Data Foundation](data) part of the Grounded Architecture framework.
 
 My experience as a **CTO** of [Incision](https://incision.care), a startup, has helped me better understand the challenges of creating and running an IT organization.
 
-My experience as a **researcher** at [Dutch Center for Computer Science and Mathematics (CWI)](https://www.cwi.nl/en/) and [Eindhoven Technical University (TU/e)](https://www.tue.nl/en/) provided me with a valuable background to do rigorous data analyses and research. From this research period, I want to highlight a collection of essays, [Design Instability](https://design-instability.com/), that I co-authored with Erik Stolterman, where we connected experiences of designing/architecting in three disciplines: classical design, UX design, and software engineering. This work has helped me better relate to and learn from non-technical fields.
+My experience as a **researcher** at [Dutch Center for Computer Science and Mathematics (CWI)](https://www.cwi.nl/en/) and [Eindhoven Technical University (TU/e)](https://www.tue.nl/en/) provided me with a valuable background to do rigorous data analyses and research. From this research period, I want to highlight a collection of essays, [Design Instability](https://design-instability.com/), that I co-authored with Erik Stolterman, where we connected experiences of designing/architecting in three disciplines: classical design, UX design, and software engineering. This work has helped me better relate to and learn from non-technical fields, a vital part of IT architects' job.
 
 Lastly, my hands-on experience as a **software developer** has proven invaluable for my work as an architect.
 
@@ -211,7 +220,7 @@ In the second part, I discuss the Grounded Architecture framework and describe i
 
 In the third part, I discuss the Guiding Principles of Grounded Architecture, grouped into several sub-parts: On Being an Architect, On Soft Skills, On Decision-Making, On Human Complexity, and On Execution and Governance. 
 
-Finally, I conclude with a summary and encourage you to explore further with the help of the plentiful external resources I've provided, supporting your journey of understanding and implementation.
+Finally, I conclude with a summary and encourage you to explore further with the help of the plentiful external resources I've provided.
 
 
 ## Stay Connected
