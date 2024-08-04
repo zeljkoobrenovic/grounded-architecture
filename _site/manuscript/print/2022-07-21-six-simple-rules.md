@@ -3,7 +3,7 @@
 # Six Simple Rules {#six-simple-rules}
 
 ![](assets/images/iStock-2031547179.jpg)
-^image by istock^
+^image by nanostockk from istock^
 
 **IN THIS SECTION, YOU WILL:**  Get an introduction to Six Simple Rules, a model for setting up organizational structures based on cooperation.
 
@@ -56,7 +56,7 @@ This difference between **Autonomy** and **Self-Sufficiency** leads us to the se
 The first rule states that you must genuinely understand performance: **what people do** and **why they do it**. When you know why people do what they do and how it drives performance, you can define the **minimum sufficient set of interventions with surgical accuracy**. 
  
 ![](assets/images/arch/iStock-1179186162.jpg)
-^image by istock^
+^image by scyther5 from istock^
 
 ### Guidelines for Understanding Performance
 
@@ -102,7 +102,7 @@ Architecture practice can play a vital role in reinforcing integrators by:
 Whenever you consider an **addition to** your organization’s **structure, processes, and systems**, think about **increasing the quantity of power**. Doing so may **save you from increasing complicatedness** and enable you to achieve a more significant impact with less cost. You can increase the quantity of power by allowing some functions to influence performance and stakes that matter to others. 
 
 ![](assets/images/arch/iStock-1201215883.jpg)
-^image by istock^
+^image by prostock-studio from istock^
 
 ### Guidelines for Increasing Power Quantity
 
@@ -125,7 +125,7 @@ Architecture practice can support the increase in power quantity through an oper
 In the face of business complexity, work is becoming more interdependent. To meet multiple and often contradictory performance requirements, **people must rely more on each other**. They need to **cooperate directly** instead of depending on dedicated interfaces, coordination structures, or procedures that only add to complicatedness. 
 
 ![](assets/images/arch/iStock-1072898930.jpg)
-^image by istock^
+^image by natnan srisuwan from istock^
 
 ### Guidelines for Enhancing Reciprocity
 

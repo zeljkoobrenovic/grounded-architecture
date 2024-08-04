@@ -2,8 +2,7 @@
 
 # Making Impact {#impact}
 
-![](assets/images/iStock-980883274.jpg)
-^image by tuiphotoengineer from istock^
+![image by tuiphotoengineer from istock](assets/images/iStock-980883274.jpg)
 
 **IN THIS SECTION, YOU WILL:**  Understand that architects’ work is evaluated based on their impact on the organization and get guidelines for making an impact.
 
@@ -31,8 +30,7 @@ I typically coach architects within the framework of concrete activities, focusi
 
 To develop architects, I draw inspiration from Staff Engineering roles. Tanya Reilly's book *[The Staff Engineer's Path](https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/)* and Will Larson's book *[Staff Engineer: Leadership beyond the management track](https://staffeng.com/guides/staff-archetypes/)* provide valuable insights into defining the responsibilities and expectations of architects.
 
-![](assets/images/arch/pillars.png)
-***Figure 1:** Key competencies of architects. Inspired by The Staff Engineer's Path by Tanya Reilly.*
+![Figure 1: Key competencies of architects. Inspired by The Staff Engineer's Path by Tanya Reilly.](assets/images/arch/pillars.png)
 
 Inspired by *The Staff Engineer's Path* by Tanya Reilly (Figure 1), I categorize the competencies that enable architects to make an impact into three groups:
 
@@ -48,8 +46,7 @@ By focusing on these three competency groups—big-picture thinking, execution, 
 
 Architects are often the only individuals within an organization who possess a **"helicopter view,"** allowing them to oversee vast domains and anticipate the broader consequences of decisions. 
 
-![](assets/images/iStock-1145283550.jpg)
-^image by guvendemir from istock^
+![image by guvendemir from istock](assets/images/iStock-1145283550.jpg)
 
 This unique perspective positions them as crucial big-picture thinkers who can contribute to the organization in several significant ways:
 
@@ -67,8 +64,7 @@ Architects play a pivotal role in organizations by leveraging their helicopter v
 
 As execution-focused practitioners, architects must not only deliver tangible results but also enhance collaboration across the organization. Their ability to combine technical expertise with pragmatic approaches and foster effective teamwork is crucial for achieving these goals. 
 
-![](assets/images/iStock-1887444236.jpg)
-^image by laylabird from istock^
+![image by laylabird from istock](assets/images/iStock-1887444236.jpg)
 
 Here’s how architects can excel in these areas:
 
@@ -98,8 +94,7 @@ As execution-focused practitioners, architects must blend their technical skills
 
 Architects are often seen as leaders and role models who can help organizations raise the bar on both technical and cultural fronts. 
 
-![](assets/images/iStock-968924118.jpg)
-^image by sanjeri from istock^
+![image by sanjeri from istock](assets/images/iStock-968924118.jpg)
 
 Their role can be categorized into three key areas: citizenship, design and architecture, and software engineering.
 
