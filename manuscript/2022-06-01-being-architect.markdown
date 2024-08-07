@@ -2,7 +2,8 @@
 
 # On Being Architect: Introduction {#being-architect}
 
-![image by azmanl from istock](assets/images/iStock-1194454929.jpg)
+![](assets/images/iStock-1194454929.jpg)
+^image by azmanl from istock^
 
 **IN THIS SECTION, YOU WILL:**  Get an overview of guiding principles that generalize my view on what it means to be an architect in practice.
 
@@ -10,7 +11,8 @@
 
 With this section, we start the second part of our book, which unveils a wealth of practical ideas and inspiration to help you bring the framework we outlined in the first part to life. This section and the following parts of the book will equip you with valuable tips and insights for running an IT architecture practice, contributing to your continued success and growth in this field (Figure 1).
 
-![Figure 1:  Grounded Architecture Overview: Ideas and Inspirations.](assets/images/model-inspirations.png)
+![](assets/images/model-inspirations.png)
+***Figure 1:**  Grounded Architecture Overview: Ideas and Inspirations.*
 
 We begin this second part by exploring resources about what it means to be an architect. The role of an architect in the IT industry is like a Swiss Army knife—multifaceted and indispensable. It requires blending technical expertise, strategic thinking, and interpersonal skills to drive successful outcomes in complex organizational environments. In this part of the book, I offer a deep dive into various perspectives on what it means to be an architect in practice, providing a holistic understanding of the responsibilities and expectations associated with this role.
 
