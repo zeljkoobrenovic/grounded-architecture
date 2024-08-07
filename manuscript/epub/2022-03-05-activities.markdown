@@ -1,6 +1,6 @@
 
 
-# Operating Model {#activities}
+# Operating Model {#operating-model}
 
 ![image by anja from pixabay](assets/images/arch/parliament-366199_1920.jpg)
 
@@ -68,7 +68,7 @@ Here are the key characteristics of this operating model.
   * Architects aim to **empower the teams** so that they make most of the decisions.
 
 **Contributions of architects**: 
-  * **Bring relevant data** to inform decisions leveraging a [Architectural Analytics](analytics).
+  * **Bring relevant data** to inform decisions leveraging a [Architectural Analytics](#analytics).
   * **Define decision boundaries** to enable minimal compatibility and strategic alignment (e.g., public cloud provider, golden paths, or tech stack constraints).
   * **Define fundamental principles** to facilitate consistency in decision-making.
   * **Share and generalize** lessons learned via a [Collaborative Networks](#people).

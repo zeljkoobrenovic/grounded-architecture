@@ -38,7 +38,7 @@ def extract_key_topics(post, counter):
 
 
 posts = [
-    '2022-01-01-intro.markdown',
+        '2022-01-01-intro.markdown',
     '2022-01-02-context.markdown',
     '2022-01-03-requirements.markdown',
     '2022-03-01-grounded-architecture.markdown',
