@@ -2,8 +2,7 @@
 
 # Architectural Analytics {#analytics}
 
-![](assets/images/arch/architecture-1857175_1920.jpg)
-^image by lorenzo cafaro from pixabay^
+![image by lorenzo cafaro from pixabay](assets/images/arch/architecture-1857175_1920.jpg)
 
 **IN THIS SECTION, YOU WILL:**  Understand how to use diverse data sources to support architecture decision-making processes and get concrete tips on creating architecture-centric data tools.
 
@@ -18,8 +17,7 @@ A> *"If we have data, let's look at data. If all we have are opinions, let's go 
 
 Everywhere I worked on creating architectural functions, I strongly (aka obsessively) **emphasized data.** Consequently, one of the first steps I make in any architecture practice is to create an Architectural Analytics to get a complete, up-to-date picture of critical elements of an organization's technology landscapes (Figure 1). Manual documentation does not scale, and relying on data ensures the reliability and scalability of decision-making.
 
-![](assets/images/model-data.png)
-***Figure 1:** The Grounded Architecture framework: Architectural Analytics.*
+![Figure 1: The Grounded Architecture framework: Architectural Analytics.](assets/images/model-data.png)
 
 The good news is that **big organizations have lots of data** that, if used wisely, can provide an excellent basis for an architectural Architectural Analytics. With some **automation** and lots of **curation**, getting a crystal clear overview of the technology landscape may be closer than it initially appears. 
 
@@ -34,8 +32,7 @@ To illustrate what I mean by Architectural Analytics, I will give a few concrete
 
 In the following sections, I detail several of these architectural data-driven tools.
 
-![](assets/images/apps.png) 
-**Figure 2:** *A screenshot of the start page of the architecture data dashboard we've built and used at AVIV Group.*
+![Figure 2: A screenshot of the start page of the architecture data dashboard we've built and used at AVIV Group.](assets/images/apps.png) 
 
 ### Example 1: Source Code and Commit History
 
@@ -67,8 +64,7 @@ Developing in or migrating to the public cloud can dramatically increase transpa
 
 Figure 3 shows the anonymous screenshot of the Cloud usage explorer, a tool I built to visualize automatically-collected data from standard Google Cloud Platform (GCP) usage reports.
 
-![](assets/images/archdata/cloud-usage-explorer.png)
-***Figure 3:** An example of a cloud usage explorer.*
+![Figure 3: An example of a cloud usage explorer.](assets/images/archdata/cloud-usage-explorer.png)
 
 ### Example 3: Financial and Vibrancy Data
 
@@ -78,8 +74,7 @@ These finance sleuths need this juicy data to, for instance, link the performanc
 
 So, next time you're knee-deep in architectural plans, don't forget to call the finance for top-notch data insights!
 
-![](assets/images/arch/cross-data.png)
-***Figure 4:** Combining data from a different source (e.g., cloud billing reports and vibrancy or revenue can lead to new insights (e.g., identifying inefficiencies in the application portfolio).*
+![Figure 4: Combining data from a different source (e.g., cloud billing reports and vibrancy or revenue can lead to new insights (e.g., identifying inefficiencies in the application portfolio).](assets/images/arch/cross-data.png)
 
 ## Requirements For A Architectural Analytics
 
