@@ -2,7 +2,8 @@
 
 # Collaborative Networks {#people}
 
-![image by mostafa meraji from pixabay](assets/images/arch/construction-4939383_1920.jpg)
+![](assets/images/arch/construction-4939383_1920.jpg)
+^image by mostafa meraji from pixabay^
 
 **IN THIS SECTION, YOU WILL:**  Understand that architecture practice is all about people and get tips on creating organizational structures that support practical IT architecture practice.
 
@@ -18,7 +19,8 @@ Good architects are a rare breed. They bridge the gaps between business, product
 
 So, you cannot just 3D print your architects or hire them in buckets. But what you can do is to carefully organize, empower, and leverage this scarce talent (Figure 1). A strong network of people doing architecture is crucial for any real impact. In simpler terms, **Strong Architecture = Strong Architects**.
 
-![Figure 1: The Grounded Architecture framework: Collaborative Networks.](assets/images/model-people.png)
+![](assets/images/model-people.png)
+***Figure 1:** The Grounded Architecture framework: Collaborative Networks.*
 
 In my recent escapades, I worked with two teams of architect teams: a small **central architecture team** and **a cross-organizational distributed virtual team**. The central team is like the wise elders, guiding and supporting the rest of the organization. The distributed virtual team, on the other hand, is a merry band of rebels, working locally but also connecting across the organization, increasing transparency, building networks, and implementing change.
 
@@ -26,7 +28,8 @@ In my recent escapades, I worked with two teams of architect teams: a small **ce
 
 IT architecture practices generally follow one of two fundamental models: central or federated (Figure 2, [McKinsey 2022](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/tech-forward/crafting-the-optimal-model-for-the-it-architecture-organization)).
 
-![Figure 2: Central vs. Federated Architecture Function..](assets/images/arch/arch_teams.png)
+![](assets/images/arch/arch_teams.png)
+***Figure 2:** Central vs. Federated Architecture Function..*
 
 **The central model** is like a tightly run coffee shop. A large central team sets the rules, approves new work, and ensures everyone follows the script. Development teams in this model are like customers with no coffee-making skills, relying entirely on the central baristas. The central team handles infrastructure, operations, and security—essentially controlling the caffeine supply chain.
 
@@ -116,7 +119,8 @@ While each organization will need its unique approach, here are some tips I foun
 
 * **Externalize**. Reach out and connect. Participate in external events. Publish your work. Being strong externally can help you grow and attract architectural talent. Everyone wants to join the band when you're rocking the stage.
 
-![image by chantellev from pixabay](assets/images/arch/pyramid-g88f894074_1920.jpg)
+![](assets/images/arch/pyramid-g88f894074_1920.jpg)
+^image by chantellev from pixabay^
 
 ## To Probe Further
 
