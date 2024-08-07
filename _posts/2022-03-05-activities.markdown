@@ -5,7 +5,7 @@ title: "Operating Model"
 position: 3006
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
-permalink: activities
+permalink: operating-model
 icon: activities.png
 timetoread: 15 min
 excerpt: "Operating Model defines how, by leveraging Architectural Analytics and Collaborative Networks, we perform activities that help an organization reach its goals. Examples include supporting teams in their daily work, tracking tech debt, performing technical due diligence, standardizing processes and documentation, and defining cloud, data, and platform strategies."

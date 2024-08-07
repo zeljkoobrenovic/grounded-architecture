@@ -58,12 +58,12 @@ def copy_post(post, counter):
                         sub_line = sub_line.strip()
                         content += '\n![](' + sub_line + ')'
                 elif not line.strip().startswith('<img') and not line.strip().startswith('src=') and not line.strip().startswith('style=') and not line.strip().startswith('<br'):
-                    sections = ['intro', 'context', 'goals', 
-                                'grounded-architecture', 'data', 'people', 'activities', 'transformation', 
-                                'being-architect', 'superglue', 'skills', 'impact', 'career', 
-                                'soft-skills', 'culture-map', 'leadership', 
-                                'decision-making', 'decision-intelligence', 'human-decisions', 'economics', 
-                                'complexity', 'effortless', 'six-simple-rules', 
+                    sections = ['intro', 'context', 'goals',
+                                'grounded-architecture', 'analytics', 'people', 'operating-model', 'transformation',
+                                'being-architect', 'superglue', 'skills', 'impact', 'career',
+                                'soft-skills', 'culture-map', 'leadership',
+                                'decision-making', 'decision-intelligence', 'human-decisions', 'economics',
+                                'complexity', 'effortless', 'six-simple-rules',
                                 'execution', 'product', 'governance', 'summary', 'appendix'];
 
                     for section in sections:

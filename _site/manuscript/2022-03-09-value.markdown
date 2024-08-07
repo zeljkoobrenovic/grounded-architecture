@@ -30,22 +30,22 @@ Our first goal was to find a way to support hundreds of teams and thousands of p
 
 Each element of Grounded Architecture enables architecture function to operate at scale in several ways.
 
-### Data Foundation
-The **Data Foundation** can support large-scale operations by:
+### Architectural Analytics
+The **Architectural Analytics** can support large-scale operations by:
 
 - **Self-Service Data Access**: Providing data as a self-service resource allows teams to access the information they need independently, reducing the reliance on manual sharing methods. This can be facilitated through internal websites or portals where data tools and insights are readily available.
 - **Elimination of Meetings**: We significantly reduced the need for numerous information-sharing or data-gathering meetings using automated data tools (every time we added a new data app, I got a few hours back in my calendar and had fewer Slack messages). This reduction saves time and ensures that data is consistently up-to-date and accessible.
 - **Automation**: Automation minimizes manual effort, which is crucial as manual processes do not scale efficiently. Automating data management processes ensures that data can be collected, processed, and analyzed without extensive human intervention.
 
-### People Foundation
-The **People Foundation** enhances execution at scale by focusing on:
+### Collaborative Networks
+The **Collaborative Networks** enhances execution at scale by focusing on:
 
 - **Developing Connections**: Building strong relationships at all levels of the organization is crucial. This network facilitates quicker alignment of objectives, efficient information sharing, and swift execution of shared decisions.
 - **Speeding Up Alignment**: Effective communication channels and collaborative tools help align teams rapidly, ensuring everyone is on the same page and working towards common goals.
 - **Facilitating Shared Decisions**: Enabling a culture where shared decisions are made quickly can enhance the responsiveness and adaptability of the organization.
 
-### Architecture Activities Platform
-The **Architecture Activities Platform** promotes scalability by:
+### Operating Model
+The **Operating Model** promotes scalability by:
 
 - **Distributed Decision-Making**: Encouraging organizational decision-making prevents bottlenecks associated with centralized decision-making processes. This empowers more people to take ownership and make decisions within their scope, leading to faster and more effective outcomes.
 - **Promoting a Collaborative Operating Model**: An operating model that supports distributed decision-making and collaboration ensures that the organization can handle more projects simultaneously without overburdening any single entity or individual.
@@ -61,25 +61,25 @@ The second goal, ensuring that architectural functions can adapt quickly to stay
 
 The Grounded Architecture framework has core elements that provide a highly flexible and adaptive setting. Here are the key drivers of flexibility within this structure:
 
-### Data Foundation
+### Architectural Analytics
 
-The **Data Foundation** can support adaptability by:
+The **Architectural Analytics** can support adaptability by:
 
-* **Automation and Extensibility**: We could swiftly extend and reconfigure our data infrastructure by implementing a highly automated Data Foundation to accommodate changes. For example, this could involve integrating new source code repositories and data sources following acquisitions or mergers. Automation ensures that data remains relevant and up-to-date, providing essential connections and feedback tailored to the organization's evolving needs.
-* **Configurable Adaptation to Organizational Changes**: A robust Data Foundation adapts its views to the changing realities of different parts of the organization, ensuring that data insights are always aligned with current operational contexts.
+* **Automation and Extensibility**: We could swiftly extend and reconfigure our data infrastructure by implementing a highly automated Architectural Analytics to accommodate changes. For example, this could involve integrating new source code repositories and data sources following acquisitions or mergers. Automation ensures that data remains relevant and up-to-date, providing essential connections and feedback tailored to the organization's evolving needs.
+* **Configurable Adaptation to Organizational Changes**: A robust Architectural Analytics adapts its views to the changing realities of different parts of the organization, ensuring that data insights are always aligned with current operational contexts.
 
-### People Foundation
+### Collaborative Networks
 
-The **People Foundation** can support adaptability by:
+The **Collaborative Networks** can support adaptability by:
 
-* **Capacity Redistribution**: The People Foundation, through a central team, can alleviate the temporary capacity shortages experienced by distributed teams. This ensures that architectural functions continue to operate smoothly even during periods of high demand or limited resources.
+* **Capacity Redistribution**: Collaborative Networks, through a central team, can alleviate the temporary capacity shortages experienced by distributed teams. This ensures that architectural functions continue to operate smoothly even during periods of high demand or limited resources.
 * **Decentralized Support**: By maintaining a network of well-connected architects, the architecture function can support the organization effectively without relying solely on a central team. This decentralization fosters resilience and adaptability, enabling architectural guidance and oversight across various teams and projects.
 
-### Architecture Activities Platform
+### Operating Model
 
-The **Architecture Activities Platform** can support adaptability by:
+The **Operating Model** can support adaptability by:
 
-* **Flexible Decision-Making**: The Architecture Activities Platform supports adaptivity by promoting a flexible setting and distributing decision-making authority throughout the company. This distribution helps prevent the architecture function from becoming a bottleneck or a single point of failure.
+* **Flexible Decision-Making**: The Operating Model supports adaptivity by promoting a flexible setting and distributing decision-making authority throughout the company. This distribution helps prevent the architecture function from becoming a bottleneck or a single point of failure.
 * **Delegation of Architectural Decisions**: Senior architects can delegate most architectural decisions to teams, allowing them to focus on critical strategic initiatives. This includes defining cloud, data, or platform strategies and supporting significant decisions related to mergers and acquisitions.
 
 By grounding the architecture with data and people connections, organizations empower senior architects to concentrate on high-impact areas. This structure enhances the architectural function's flexibility and adaptivity. It ensured we could respond promptly and effectively to new challenges and opportunities.
@@ -93,27 +93,27 @@ The third goal stated that we need tools and mechanisms to make a decision proce
 
 To make the decision process more data-informed and less dependent on opinions, we need to focus on the interplay between three foundational elements. These elements collectively create a robust framework for data-driven decision-making in architectural discussions. 
 
-### Data Foundation
+### Architectural Analytics
 
-The **Data Foundation** ensures the availability and readiness of data needed for decisions, fueling data-informed discussions and decision-making via:
+The **Architectural Analytics** ensures the availability and readiness of data needed for decisions, fueling data-informed discussions and decision-making via:
 
 - **Data Collection:** Systematically gather high-quality data on relevant internal and external technology developments.
 - **Data Management:** Maintain a well-organized and easily accessible database that supports quickly retrieving relevant data.
 - **Data Analytics:** Employ advanced analytics tools to process and interpret the data, providing meaningful insights to support decisions.
 - **Real-Time Data Availability:** Ensure that data is updated regularly and available in real-time to inform ongoing discussions and decisions.
 
-### People Foundation
+### Collaborative Networks
 
-Data is not enough; you need to make this data available to and used by critical people. The **People Foundation** ensures people are available and well-connected to share information and make decisions via:
+Data is not enough; you need to make this data available to and used by critical people. The **Collaborative Networks** ensures people are available and well-connected to share information and make decisions via:
 
 - **Expert Network:** Establish and maintain a network of knowledgeable experts and stakeholders who can provide insights on various architectural aspects.
 - **Collaboration Tools:** Implement collaboration tools that facilitate seamless communication and information sharing among team members.
 - **Training and Development:** Provide training programs to enhance the data literacy and analytical skills of architects and decision-makers.
 - **Engagement Practices:** Develop practices for regularly engaging stakeholders and ensuring their input is considered in decision-making.
 
-### Architecture Activities Platform
+### Operating Model
 
-The **Architecture Activities Platform** provides processes that enable architects to move from opinion-based decisions to data-driven economic risk modeling via:
+The **Operating Model** provides processes that enable architects to move from opinion-based decisions to data-driven economic risk modeling via:
 - **Process Implementation:** Implement processes that guide architects in dismantling hype and buzzwords, presenting problems clearly, and making data-driven decisions.
 - **Data Integration:** Develop methodologies for integrating relevant data into discussions, ensuring that data supports and guides the conversation.
 - **Economic Risk Modeling:** Create models that translate drivers and data into economic risk assessments, helping to identify the best solutions for the given business context.
@@ -130,17 +130,17 @@ The fourth goal emphasizes that the architecture function should be a cohesive f
 
 Misalignments often occur in such settings due to various factors, including complex structures and diverse objectives. However, a well-grounded architecture can address and reduce these misalignments through its foundations.
 
-### The Data Foundation
+### Architectural Analytics
 
-The **Data Foundation** improves organization alignment by **creating transparency**. By establishing a robust data foundation, organizations can enhance transparency, which is necessary for building trust and facilitating alignment. This involves making data easily accessible and understandable across different departments, ensuring everyone has the same information and can make informed decisions. Transparent data practices help align objectives and actions, reducing the chances of misalignment.
+The **Architectural Analytics** improves organization alignment by **creating transparency**. By establishing a robust Architectural Analytics, organizations can enhance transparency, which is necessary for building trust and facilitating alignment. This involves making data easily accessible and understandable across different departments, ensuring everyone has the same information and can make informed decisions. Transparent data practices help align objectives and actions, reducing the chances of misalignment.
 
-### The People Foundation
+### Collaborative Networks
 
-The **People Foundation** improves organization alignment by **facilitating collaboration.** The People Foundation focuses on developing global structures that connect employees across various functions and geographies. By making it easier for people to collaborate, share knowledge, and work together, this foundation helps create a unified approach to organizational goals. Collaborative environments foster alignment by ensuring that everyone is working towards common objectives.
+The **Collaborative Networks** improves organization alignment by **facilitating collaboration.** Collaborative Networks focuses on developing global structures that connect employees across various functions and geographies. By making it easier for people to collaborate, share knowledge, and work together, this foundation helps create a unified approach to organizational goals. Collaborative environments foster alignment by ensuring that everyone is working towards common objectives.
 
-### The Architecture Activities Platform
+### The Operating Model
 
-The **Architecture Activities Platform** improves organization alignment by:
+The **Operating Model** improves organization alignment by:
 
 - Facilitating **pre-decision alignment** via **collaborative decision-making.** This platform plays a pivotal role in minimizing misalignments by enabling individuals and teams working on similar projects or topics to identify each other and collaborate. This early alignment minimizes duplication of efforts and optimizes resource utilization, ensuring that efforts are aligned from the outset.
 - Facilitating **post-decision dissemination** via **knowledge sharing and more awareness.** After decisions are made, the platform ensures that these decisions are communicated across the organization. This widespread dissemination helps all parts of the organization benefit from the insights and lessons learned from one unit, leading to more cohesive and aligned operations.
@@ -156,27 +156,27 @@ The last goal is that architecture should help organizations learn quickly, stay
 ![](assets/images/arch/iStock-871461580.jpg)
 ^image by rawpixel from istock^
 
-The Grounded Architecture framework offers comprehensive support through its Data Foundation, People Foundation, and Architecture Activities Platform to help organizations learn quickly, stay up-to-date with emerging technologies, and recommend technology upgrades.
+The Grounded Architecture framework offers comprehensive support through its Architectural Analytics, Collaborative Networks, and Operating Model to help organizations learn quickly, stay up-to-date with emerging technologies, and recommend technology upgrades.
 
-### Data Foundation
-The Data Foundation plays a pivotal role in accelerating the learning and adoption of new technologies. Here's how:
+### Architectural Analytics
+Architectural Analytics plays a pivotal role in accelerating the learning and adoption of new technologies. Here's how:
 
-- **Facilitating Exploration and Reflection**: The Data Foundation enables individuals and teams to explore new tools and technologies effectively by providing relevant and comprehensive data. Access to this data allows for thorough experimentation, analysis of outcomes, and reflection, which is crucial for understanding and refining new technology implementations. For instance, it may not be easy to calculate the cost of a new cloud service. However, running proofs-of-concept and analyzing collected data can provide good insights.
+- **Facilitating Exploration and Reflection**: Architectural Analytics enables individuals and teams to explore new tools and technologies effectively by providing relevant and comprehensive data. Access to this data allows for thorough experimentation, analysis of outcomes, and reflection, which is crucial for understanding and refining new technology implementations. For instance, it may not be easy to calculate the cost of a new cloud service. However, running proofs-of-concept and analyzing collected data can provide good insights.
 - **Supporting Informed Decision-Making**: Architects and teams can make informed decisions regarding technology adoption and upgrades with up-to-date data. This minimizes the risk associated with implementing new technologies and ensures that the choices are based on solid evidence and insights.
 
-### People Foundation
-The People Foundation enhances learning by creating and maintaining a culture of knowledge sharing. It achieves this through:
+### Collaborative Networks
+Collaborative Networks enhances learning by creating and maintaining a culture of knowledge sharing. It achieves this through:
 
 - **Spaces for Sharing Knowledge**: Regular update calls, knowledge-sharing sessions, and conferences are organized to facilitate the exchange of architectural and technological knowledge. These events are critical for informing the organization about the latest developments and best practices.
-- **Maximizing Personal Learning**: The People Foundation ensures that individual lessons are transformed into shared guidelines by deriving generalized insights from cross-group cases. This collective intelligence benefits the entire organization and fosters continuous personal and professional growth among team members.
+- **Maximizing Personal Learning**: Collaborative Networks ensures that individual lessons are transformed into shared guidelines by deriving generalized insights from cross-group cases. This collective intelligence benefits the entire organization and fosters continuous personal and professional growth among team members.
 
-### Architecture Activities Platform
-The Architecture Activities Platform integrates learning into daily workflows through structured processes:
+### Operating Model
+The Operating Model integrates learning into daily workflows through structured processes:
 
 - **Embedding Learning into Processes**: Learning is accelerated by embedding it into the organization's processes. This is achieved by defining and distributing knowledge-sharing and lesson-learned processes across the organization. By doing so, learning becomes a seamless part of daily activities rather than an additional task. 
 - **Systematic Knowledge Capture and Application**: The platform ensures that knowledge is systematically captured, shared, and applied. This approach minimizes overhead while maximizing learning opportunities, enabling the organization to quickly adapt and apply new insights and technologies.
 
-By leveraging the Data Foundation, People Foundation, and Architecture Activities Platform, the Grounded Architecture framework ensures that learning is continuous, efficient, and embedded within the organization's fabric. This comprehensive support system helps organizations stay up-to-date with emerging technologies and industry trends and fosters a proactive learning environment that drives innovation and growth.
+By leveraging Architectural Analytics, Collaborative Networks, and Operating Model, the Grounded Architecture framework ensures that learning is continuous, efficient, and embedded within the organization's fabric. This comprehensive support system helps organizations stay up-to-date with emerging technologies and industry trends and fosters a proactive learning environment that drives innovation and growth.
 
 ## Questions to Consider
 
@@ -184,11 +184,11 @@ It is always essential to be thoughtful about the value and impact of your work.
 
 * *How effective is your organization's current architectural function at scale? How valuable could principles of Grounded Architecture be in enhancing its efficiency?*
 * *To what extent does your organization use data to inform architectural decisions? What steps could you take to move your organization from opinion-based to more data-driven decision-making?*
-* *How well-aligned are the different areas within your organization, and how does this affect your architectural function? Could the Data and People Foundations principles be utilized to improve alignment?*
+* *How well-aligned are the different areas within your organization, and how does this affect your architectural function? Could the Architectural Analytics and Collaborative Networks principles be utilized to improve alignment?*
 * *What strategies does your organization currently have to foster organizational learning? How could the methods described in the Grounded Architecture model enhance this?*
 * *How quickly can your organization adopt and utilize new technologies? How could your architecture practice accelerate this process?*
 * *Consider the adaptivity of your organization's architectural function. How could your architecture practice improve it?*
-* *Reflecting on the value of the "Data Foundation" concept, how effectively is your organization tracking changes or supporting what-if scenarios analysis?*
+* *Reflecting on the value of the "Architectural Analytics" concept, how effectively is your organization tracking changes or supporting what-if scenarios analysis?*
 * *What role do most senior architects play in your organization? Could their time be better utilized on strategic initiatives?*
-* *How sustainable is the architectural function in your organization in the absence of a strong central team? Could implementing a Data Foundation and well-connected architects help mitigate this?*
+* *How sustainable is the architectural function in your organization in the absence of a strong central team? Could implementing a Architectural Analytics and well-connected architects help mitigate this?*
 

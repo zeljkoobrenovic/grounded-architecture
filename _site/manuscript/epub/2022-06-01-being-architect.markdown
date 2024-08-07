@@ -8,7 +8,11 @@
 
 {pagebreak}
 
-The role of an architect in the IT industry is like a Swiss Army knife—multifaceted and indispensable. It requires blending technical expertise, strategic thinking, and interpersonal skills to drive successful outcomes in complex organizational environments. In this part of the book, I offer a deep dive into various perspectives on what it means to be an architect in practice, providing a holistic understanding of the responsibilities and expectations associated with this role.
+With this section, we start the second part of our book, which unveils a wealth of practical ideas and inspiration to help you bring the framework we outlined in the first part to life. This section and the following parts of the book will equip you with valuable tips and insights for running an IT architecture practice, contributing to your continued success and growth in this field (Figure 1).
+
+![Figure 1:  Grounded Architecture Overview: Ideas and Inspirations.](assets/images/model-inspirations.png)
+
+We begin this second part by exploring resources about what it means to be an architect. The role of an architect in the IT industry is like a Swiss Army knife—multifaceted and indispensable. It requires blending technical expertise, strategic thinking, and interpersonal skills to drive successful outcomes in complex organizational environments. In this part of the book, I offer a deep dive into various perspectives on what it means to be an architect in practice, providing a holistic understanding of the responsibilities and expectations associated with this role.
 
 * **[Adopting a Mindset: Architects as Superglue](#superglue)**: In IT organizations, architects are the essential connectors, often referred to as “superglue.” Their primary function is integrating different aspects of the organization—architecture, technical details, business requirements, and team dynamics—ensuring that everything works together seamlessly. This role is vital in large organizations and complex projects where cohesion and coordination are paramount to success.
 * **[Building Skills](#impact)**: The skill set of an influential architect is diverse and comprehensive. It includes hard (technical) skills fundamental to understanding and designing complex systems. Soft (people and social) skills are crucial for effective communication, collaboration, and leadership. Business skills are also essential, enabling architects to align their technical strategies with organizational goals and drive business value.
