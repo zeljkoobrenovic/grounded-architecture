@@ -49,7 +49,7 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/metam
 > * Group decision-making offers significant advantages but increases complexity as it requires higher decision-making skills from each member.
 
 <br>
-[Cassie Kozyrkov](https://en.wikipedia.org/wiki/Cassie_Kozyrkov), in her [posts](https://www.linkedin.com/pulse/introduction-decision-intelligence-cassie-kozyrkov/) and [online lessons](https://www.linkedin.com/learning/decision-intelligence/) about design intelligence, often reminds us that decision-making is a uniquely human sport. It's a wild mix of brilliance, bias, and blunders. Just like how having a gourmet kitchen doesn't make you a master chef, having the best [data and IT  tools](#data) won't magically conjure up good decisions. IT architects need to remember that every decision is flavored by the quirks and quibbles of the human mind.
+[Cassie Kozyrkov](https://en.wikipedia.org/wiki/Cassie_Kozyrkov), in her [posts](https://www.linkedin.com/pulse/introduction-decision-intelligence-cassie-kozyrkov/) and [online lessons](https://www.linkedin.com/learning/decision-intelligence/) about design intelligence, often reminds us that decision-making is a uniquely human sport. It's a wild mix of brilliance, bias, and blunders. Just like how having a gourmet kitchen doesn't make you a master chef, having the best [data and IT  tools](analytics) won't magically conjure up good decisions. IT architects need to remember that every decision is flavored by the quirks and quibbles of the human mind.
 
 <br>
 ## Biases and Limitations

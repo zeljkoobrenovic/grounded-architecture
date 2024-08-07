@@ -2,8 +2,7 @@
 
 # Grounded Architecture Framework: Introduction {#grounded-architecture}
 
-![](assets/images/iStock-1767471664.jpg)
-^image by dario truco from istock^
+![image by dario truco from istock](assets/images/iStock-1767471664.jpg)
 
 **IN THIS SECTION, YOU WILL:** Get an overview of the Grounded Architecture framework: Architectural Analytics, Collaborative Networks, and Operating Model.
 
@@ -23,9 +22,7 @@ Grounded Architecture framework, as an approach to setting organizational struct
 * Collaborative Networks,
 * The Operating Model.
 
-![](assets/images/model-framework.png)
-
-***Figure 1:** The Grounded Architecture framework.*
+![Figure 1: The Grounded Architecture framework.](assets/images/model-framework.png)
 
 *Architectural Analytics* is **a system of tools and resources** that enables architects to make **data-informed decisions** based on a real-time and complete overview of the organization's technology landscape. [Architectural Analytics section](#analytics) provides more details.
 
