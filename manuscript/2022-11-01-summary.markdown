@@ -2,7 +2,8 @@
 
 # Summary {#summary}
 
-![image by ruhey from istock](assets/images/iStock-496666941.jpg)
+![](assets/images/iStock-496666941.jpg)
+^image by ruhey from istock^
 
 **IN THIS SECTION, YOU WILL:** Look back at the content in this book.
 
@@ -24,7 +25,8 @@ The Grounded Architecture framework consists of three elements:
 * [Collaborative Networks](#people),
 * [Operating Model](#operating-model).
 
-![Figure 1: Grounded Architecture Overview.](assets/images/model.png)
+![](assets/images/model.png)
+***Figure 1:** Grounded Architecture Overview.*
 
 *[Architectural Analytics](#analytics)* ensures that architects can make data-informed decisions based on a real-time and complete overview of the organization's technology landscape.
 
