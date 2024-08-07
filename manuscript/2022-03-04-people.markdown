@@ -1,9 +1,8 @@
 
 
-# People Foundation {#people}
+# Collaborative Networks {#people}
 
-![](assets/images/arch/construction-4939383_1920.jpg)
-^image by mostafa meraji from pixabay^
+![image by mostafa meraji from pixabay](assets/images/arch/construction-4939383_1920.jpg)
 
 **IN THIS SECTION, YOU WILL:**  Understand that architecture practice is all about people and get tips on creating organizational structures that support practical IT architecture practice.
 
@@ -19,8 +18,7 @@ Good architects are a rare breed. They bridge the gaps between business, product
 
 So, you cannot just 3D print your architects or hire them in buckets. But what you can do is to carefully organize, empower, and leverage this scarce talent (Figure 1). A strong network of people doing architecture is crucial for any real impact. In simpler terms, **Strong Architecture = Strong Architects**.
 
-![](assets/images/model-people.png)
-***Figure 1:** The Grounded Architecture framework: The People Foundation.*
+![Figure 1: The Grounded Architecture framework: Collaborative Networks.](assets/images/model-people.png)
 
 In my recent escapades, I worked with two teams of architect teams: a small **central architecture team** and **a cross-organizational distributed virtual team**. The central team is like the wise elders, guiding and supporting the rest of the organization. The distributed virtual team, on the other hand, is a merry band of rebels, working locally but also connecting across the organization, increasing transparency, building networks, and implementing change.
 
@@ -28,8 +26,7 @@ In my recent escapades, I worked with two teams of architect teams: a small **ce
 
 IT architecture practices generally follow one of two fundamental models: central or federated (Figure 2, [McKinsey 2022](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/tech-forward/crafting-the-optimal-model-for-the-it-architecture-organization)).
 
-![](assets/images/arch/arch_teams.png)
-***Figure 2:** Central vs. Federated Architecture Function..*
+![Figure 2: Central vs. Federated Architecture Function..](assets/images/arch/arch_teams.png)
 
 **The central model** is like a tightly run coffee shop. A large central team sets the rules, approves new work, and ensures everyone follows the script. Development teams in this model are like customers with no coffee-making skills, relying entirely on the central baristas. The central team handles infrastructure, operations, and security—essentially controlling the caffeine supply chain.
 
@@ -56,7 +53,7 @@ I prefer the **hybrid team structure** as it scales better in complex organizati
 
 The roles of people in central teams may differ depending on the organization. However, it's crucial to recognize the value of dedicated roles in central architecture teams. These roles, in addition to the usual suspects doing architecture work, are instrumental in covering these crucial yet often overlooked responsibilities:
 
-* **Build and maintain the architecture [Data Foundation](#data).** With all AI advances, it will not build itself! You need clear ownership, curation, and technical support to make it work.
+* **Build and maintain the architecture [Architectural Analytics](analytics).** With all AI advances, it will not build itself! You need clear ownership, curation, and technical support to make it work.
 
 * **Promote data-informed decision-making.** It's not enough to have data; you've got to *use* it. This is like trying to convince your grandpa to use a smartphone—challenging but doable. Architects should be tech-savvy wizards who show everyone else how things are done, making data the critical actor of every decision.
 
@@ -105,9 +102,9 @@ There is no one-size-fits-all solution for assigning architecture responsibiliti
     
 Remember, there is no magic bullet. Different structures work for various organizations; sometimes, the best solution is a mix of these approaches.
 
-## Building People Foundation
+## Building Collaborative Networks
 
-While each organization will need its unique approach, here are some tips I found helpful when forming architecture teams and building a "[People Foundation](#people)":
+While each organization will need its unique approach, here are some tips I found helpful when forming architecture teams and building a "[Collaborative Networks](#people)":
 
 * Before making grandiose plans for reorganizations, **connect with the people already doing architectural work** in an organization. Think of it like forming a superhero team: bring together all the critical tech leaders, regardless of their position and title. You never know when you'll need an architectural Batman or Wonder Woman. Being well-connected to these folks will be crucial in any architecture organization, so this effort is like adding a secret weapon to your utility belt.
 
@@ -119,8 +116,7 @@ While each organization will need its unique approach, here are some tips I foun
 
 * **Externalize**. Reach out and connect. Participate in external events. Publish your work. Being strong externally can help you grow and attract architectural talent. Everyone wants to join the band when you're rocking the stage.
 
-![](assets/images/arch/pyramid-g88f894074_1920.jpg)
-^image by chantellev from pixabay^
+![image by chantellev from pixabay](assets/images/arch/pyramid-g88f894074_1920.jpg)
 
 ## To Probe Further
 

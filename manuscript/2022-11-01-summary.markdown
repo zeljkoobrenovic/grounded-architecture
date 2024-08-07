@@ -2,8 +2,7 @@
 
 # Summary {#summary}
 
-![](assets/images/iStock-496666941.jpg)
-^image by ruhey from istock^
+![image by ruhey from istock](assets/images/iStock-496666941.jpg)
 
 **IN THIS SECTION, YOU WILL:** Look back at the content in this book.
 
@@ -16,23 +15,22 @@ A> * In this section, I summarize the key points from the playbook.
 
 This book shared my approach to running an IT architecture practice in larger organizations based on my experience at AVIV Group, eBay Classifieds, and Adevinta. I called this approach "Grounded Architecture"—architecture with strong foundations and deep roots. Prioritizing people interactions and data over processes and tools, Grounded Architecture aims to connect architecture practice to all organizational parts and levels, serving as an antidote to the "ivory tower" architecture.
 
-This book introduced Grounded Architecture as an IT architecture practice with two main parts:
+This book introduced Grounded Architecture as an IT architecture practice with two main parts (Figure 1):
 * **Structure**, elements you need to have to run Grounded Architecture practice, and
 * **Guiding Principles**, pieces of advice that can help put the ideas of Grounded Architecture into practice.
 
-Figure 1 shows the structure of the Grounded Architecture consisting of three elements:
-* [Data Foundation](#data),
-* [People Foundation](#people),
-* [Architecture Activities Platform](#activities).
+The Grounded Architecture framework consists of three elements:
+* [Architectural Analytics](analytics),
+* [Collaborative Networks](#people),
+* [Operating Model](operating-model).
 
-![](assets/images/model.png)
-***Figure 1:** The structure of Grounded Architecture.*
+![Figure 1: Grounded Architecture Overview.](assets/images/model.png)
 
-The *[Data Foundation](#data)* ensures that architects can make data-informed decisions based on a real-time and complete overview of the organization's technology landscape.
+*[Architectural Analytics](analytics)* ensures that architects can make data-informed decisions based on a real-time and complete overview of the organization's technology landscape.
 
-The *[People Foundation](#people)* is another essential element of Grounded Architecture. A strong network of people doing architecture across the organization is crucial to ensure that architecture function has any tangible impact.
+*[Collaborative Networks](#people)* is another essential element of Grounded Architecture. A strong network of people doing architecture across the organization is crucial to ensure that architecture function has any tangible impact.
 
-Lastly, the *[Architecture Activities Platform](#activities)*  defines a set of processes and agreements enabling architects to do everything architecture typically does, leveraging data and People Foundations to create a data-informed, organization-wide impact.
+Lastly, the *[Operating Model](operating-model)*  defines a set of processes and agreements enabling architects to do everything architecture typically does, leveraging Architectural Analytics and Collaborative Networks to create a data-informed, organization-wide impact.
 
 As a part of my work on Grounded Architecture, I also provided several guiding principles and tools that I found helpful to introduce the ideas of Grounded Architecture in practice. I grouped these resources into several parts:
 

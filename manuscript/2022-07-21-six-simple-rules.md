@@ -2,8 +2,7 @@
 
 # Six Simple Rules {#six-simple-rules}
 
-![](assets/images/iStock-2031547179.jpg)
-^image by nanostockk from istock^
+![image by nanostockk from istock](assets/images/iStock-2031547179.jpg)
 
 **IN THIS SECTION, YOU WILL:**  Get an introduction to Six Simple Rules, a model for setting up organizational structures based on cooperation.
 
@@ -55,8 +54,7 @@ This difference between **Autonomy** and **Self-Sufficiency** leads us to the se
 
 The first rule states that you must genuinely understand performance: **what people do** and **why they do it**. When you know why people do what they do and how it drives performance, you can define the **minimum sufficient set of interventions with surgical accuracy**. 
  
-![](assets/images/arch/iStock-1179186162.jpg)
-^image by scyther5 from istock^
+![image by scyther5 from istock](assets/images/arch/iStock-1179186162.jpg)
 
 ### Guidelines for Understanding Performance
 
@@ -71,15 +69,14 @@ To genuinely understand performance, consider the following principles:
 
 Architecture practice can significantly aid in understanding organizational behaviors through:
 
-* Establishing a **[Data Foundation](#data)** with an overview of various data sources to reveal where activities occur, visible trends, and cooperation among people. One principle of the Data Foundation, **build maps, not control units,** supports understanding and orientation rather than merely serving as a metric tool.
-* Utilizing the **[People Foundation](#people)** to connect individuals and enable them to learn about activities in different parts of the organization.
+* Establishing a **[Architectural Analytics](analytics)** with an overview of various data sources to reveal where activities occur, visible trends, and cooperation among people. One principle of Architectural Analytics, **build maps, not control units,** supports understanding and orientation rather than merely serving as a metric tool.
+* Utilizing the **[Collaborative Networks](#people)** to connect individuals and enable them to learn about activities in different parts of the organization.
 
 ## Rule 2: Reinforce Integrators
 
 The Six Simple Rules approach emphasizes the importance of reinforcing integrators by looking at those **directly involved in the work**, giving them **power and interest to foster cooperation in dealing with complexity** instead of resorting to the paraphernalia of overarching hierarchies, overlays, dedicated interfaces, balanced scorecards, or coordination procedures.
  
-![](assets/images/arch/agree-g1f407320e_1920.png)
-^image by robert owen-wahl from pixabay^
+![image by robert owen-wahl from pixabay](assets/images/arch/agree-g1f407320e_1920.png)
 
 ### Guidelines for Reinforcing Integrators
 
@@ -93,16 +90,15 @@ To strengthen integrators within your organization, consider these strategies:
 
 Architecture practice can play a vital role in reinforcing integrators by:
 
-* Utilizing the **[People Foundation](#people)** to help identify and connect integrators, leveraging their work effectively.
+* Utilizing the **[Collaborative Networks](#people)** to help identify and connect integrators, leveraging their work effectively.
 * Emphasizing architects as critical integrators and integrator role models within the organization, defining them as essential components of the organizational "superglue."
-* Establishing a **[Data Foundation](#data)** to support integrators with data and insights, enabling them to perform more informed and effective work.
+* Establishing a **[Architectural Analytics](analytics)** to support integrators with data and insights, enabling them to perform more informed and effective work.
 
 ## Rule 3: Increase the Total Quantity of Power
 
 Whenever you consider an **addition to** your organization’s **structure, processes, and systems**, think about **increasing the quantity of power**. Doing so may **save you from increasing complicatedness** and enable you to achieve a more significant impact with less cost. You can increase the quantity of power by allowing some functions to influence performance and stakes that matter to others. 
 
-![](assets/images/arch/iStock-1201215883.jpg)
-^image by prostock-studio from istock^
+![image by prostock-studio from istock](assets/images/arch/iStock-1201215883.jpg)
 
 ### Guidelines for Increasing Power Quantity
 
@@ -117,15 +113,14 @@ To enhance the quantity of power within your organization, consider these action
 
 Architecture practice can support the increase in power quantity through an operating model that promotes distributed decision-making:
 
-* Through the **[People Foundation](#people)**, you can enhance decision-making power by distributing architectural decision-making across the organization and embedding it within development teams, which typically have the best insights and most relevant information.
-* Additionally, the **[Data Foundation](#data)**, accessible to all interested members of the organization, can provide data and insights that empower individuals in their daily work.
+* Through the **[Collaborative Networks](#people)**, you can enhance decision-making power by distributing architectural decision-making across the organization and embedding it within development teams, which typically have the best insights and most relevant information.
+* Additionally, **[Architectural Analytics](analytics)**, accessible to all interested members of the organization, can provide data and insights that empower individuals in their daily work.
 
 ## Rule 4: Increase Reciprocity
 
 In the face of business complexity, work is becoming more interdependent. To meet multiple and often contradictory performance requirements, **people must rely more on each other**. They need to **cooperate directly** instead of depending on dedicated interfaces, coordination structures, or procedures that only add to complicatedness. 
 
-![](assets/images/arch/iStock-1072898930.jpg)
-^image by natnan srisuwan from istock^
+![image by natnan srisuwan from istock](assets/images/arch/iStock-1072898930.jpg)
 
 ### Guidelines for Enhancing Reciprocity
 
@@ -139,7 +134,7 @@ Reciprocity involves recognizing that people or units in an organization have a 
 
 Architecture practice can significantly increase reciprocity within an organization:
 
-* The **[People Foundation](#people)** supports creating new networks of interactions, directly reinforcing reciprocity.
+* The **[Collaborative Networks](#people)** supports creating new networks of interactions, directly reinforcing reciprocity.
 * A hybrid operating model relies on the mutual success of architecture practices and development teams. Architects' impact is essential, and their support depends on the feedback from the groups they assist. Integrating this feedback into architects' performance evaluations is crucial for enhancing reciprocity between architecture and other units.
 
 ## Rule 5: Extend the Shadow of the Future
@@ -147,8 +142,7 @@ Architecture practice can significantly increase reciprocity within an organizat
 The Six Simple Rules approach emphasizes the importance of making visible and clear **what happens tomorrow as a consequence of what they do today**. You can manage complex requirements by making simple changes while removing organizational complexity. With the strategic alignment typical of the hard approach, these simple solutions—for instance, career paths—often come at the end of a sequence that starts by installing the most cumbersome changes: new structure, processes, systems, metrics, etc. Simple and effective solutions are then impossible.
  
 
-![](assets/images/arch/trees-gc38b3c617_1920.jpg)
-^image by joe from pixabay^
+![image by joe from pixabay](assets/images/arch/trees-gc38b3c617_1920.jpg)
 
 ### Guidelines for Extending the Shadow of the Future
 
@@ -163,15 +157,14 @@ The Six Simple Rules approach recommends four strategies to extend the shadow of
 
 Architecture practice can play a crucial role in extending the shadow of the future through various methods:
 
-* The **[Data Foundation](#data)** can create transparency and provide the data necessary to model the future. This data can be used to develop simulations and roadmap options.
+* **[Architectural Analytics](analytics)** can create transparency and provide the data necessary to model the future. This data can be used to develop simulations and roadmap options.
 * Applying **[economic modeling](#economics)** to architecture decision-making helps describe the future consequences of today's actions, directly supporting long-term planning and decision-making.
 
 ## Rule 6: Reward Those Who Cooperate
 
 Lastly, the Six Simple Rules approach recommends that when you cannot create direct feedback loops embedded in people’s tasks, you need **management’s intervention to close the loop**. Managers must then use the familiar performance evaluation tool but in a very different way. 
 
-![](assets/images/arch/people-gac98109e9_1920.jpg)
-^image by stocksnap from pixabay^
+![image by stocksnap from pixabay](assets/images/arch/people-gac98109e9_1920.jpg)
 
 ### Guidelines for Rewarding Cooperation
 
@@ -185,8 +178,8 @@ To effectively reward those who cooperate, managers should:
 
 Architecture practice can facilitate rewarding cooperation by making it easier for individuals to help others and ask for help:
 
-* A strong **[People Foundation](#people)** can provide the context and networks necessary for easier collaboration.
-* Adding diverse data sources to the **[Data Foundation](#data)** can create transparency about cooperation opportunities and challenges, supporting a more collaborative environment.
+* A strong **[Collaborative Networks](#people)** can provide the context and networks necessary for easier collaboration.
+* Adding diverse data sources to **[Architectural Analytics](analytics)** can create transparency about cooperation opportunities and challenges, supporting a more collaborative environment.
 
 ## Questions to Consider
 

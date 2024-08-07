@@ -1,14 +1,14 @@
 ---
 layout: post
 section: "Grounded Architecture Framework"
-title: "Architecture Activities Platform"
+title: "Operating Model"
 position: 3006
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 permalink: activities
 icon: activities.png
 timetoread: 15 min
-excerpt: "The Architecture Activities Platform is where, by leveraging data and People Foundations, we perform activities that help an organization reach its goals. Examples include supporting teams in their daily work, tracking tech debt, performing technical due diligence, standardizing processes and documentation, and defining cloud, data, and platform strategies."
+excerpt: "Operating Model defines how, by leveraging Architectural Analytics and Collaborative Networks, we perform activities that help an organization reach its goals. Examples include supporting teams in their daily work, tracking tech debt, performing technical due diligence, standardizing processes and documentation, and defining cloud, data, and platform strategies."
 
 ---
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
@@ -20,7 +20,7 @@ Image by <a href="https://pixabay.com/users/cocoparisienne-127419/?utm_source=li
 >
 > **KEY POINTS:**
 >
-> * The Architecture Activities Platform is a system of processes and agreements enabling architects to do everything architecture typically does, leveraging Data and People Foundations to create a data-informed, organization-wide impact.
+> * The Operating Model is a system of processes and agreements enabling architects to do everything architecture typically does, leveraging Architectural Analytics and Collaborative Networks to create a data-informed, organization-wide impact.
 > * Examples of activities include: supporting teams in their daily work; tracking tech debt, defining tech debt reduction programs; performing technical due diligence; standardizing processes and documentation; defining cloud, data, and platform strategies.
 <style>
     .quote {
@@ -56,16 +56,16 @@ There is no one-size-fits-all approach: each organization must find activities a
 
 No matter which operating models you select, it's crucial to develop **explicit agreements** and "rules of engagement" with key stakeholders. This collaborative approach is essential to create a sustainable and practical architectural function.
 
-![](assets/images/model-strategy.png)
-***Figure 1:** The Grounded Architecture framework: Architecture Activities Platform.*
+![](assets/images/model-operating-model.png)
+***Figure 1:** The Grounded Architecture framework: Operating Model.*
 
-The Architecture Activities Platform (Figure 1) is a set of processes and agreements that allows architects to do everything architecture practice typically does. It leverages Data and People Foundations to develop a data-informed, organization-wide impact. Data and People Foundations provide a basis for data-informed decision-making well embedded in the organization. It's about instilling confidence and trust in your decision-making process.
+The Operating Model (Figure 1) is a set of processes and agreements that allows architects to do everything architecture practice typically does. It leverages Architectural Analytics and Collaborative Networks to develop a data-informed, organization-wide impact. Architectural Analytics and Collaborative Networks provide a basis for data-informed decision-making well embedded in the organization. It's about instilling confidence and trust in your decision-making process.
 
 
 <br>
 ## Examples of Architecture Activities
 
-To provide a clearer understanding of what I mean by an Architecture Activities Platform, here are detailed examples of the activities I have been engaged in with architects.
+To provide a clearer understanding of what I mean by an Operating Model, here are detailed examples of the activities I have been engaged in with architects.
 
 * **Designing Mechanisms for Teams to Make Better Decisions**: This involves creating global decision-support frameworks such as advisory forums, which facilitate informed discussions across teams. For compliance-sensitive projects, we establish formal design authorities. Additionally, we develop team-specific mechanisms, like escalation paths, to resolve decision conflicts effectively (e.g., when teams disagree on a common messaging middleware).
 
@@ -87,7 +87,7 @@ To provide a clearer understanding of what I mean by an Architecture Activities 
 
 * **Defining Vision and Direction of Technology**: In collaboration with Engineering Leaders, We work on creating a sustainable organizational setting that aligns with the overarching technology strategies. This involves setting a clear vision and direction for the technology landscape within the organization.
 
-These activities collectively form an Architecture Activities Platform, enabling a structured and strategic approach to architectural practices within the organization.
+These activities collectively form an Operating Model, enabling a structured and strategic approach to architectural practices within the organization.
 
 
 <br>
@@ -115,10 +115,10 @@ Here are the key characteristics of this operating model.
   * Architects aim to **empower the teams** so that they make most of the decisions.
 
 **Contributions of architects**: 
-  * **Bring relevant data** to inform decisions leveraging a [Data Foundation](data).
+  * **Bring relevant data** to inform decisions leveraging a [Architectural Analytics](analytics).
   * **Define decision boundaries** to enable minimal compatibility and strategic alignment (e.g., public cloud provider, golden paths, or tech stack constraints).
   * **Define fundamental principles** to facilitate consistency in decision-making.
-  * **Share and generalize** lessons learned via a [People Foundation](people).
+  * **Share and generalize** lessons learned via a [Collaborative Networks](people).
 
 **Social dynamics of architects**:
   * Architects spend their time in **constant motion** between supporting teams' **daily work** and working on **strategic topics**, helping the organization achieve alignment between strategy and implementation.
@@ -227,7 +227,7 @@ Your architecture practice job is to solve the biggest problems in your organiza
 
 * *How can you identify the most critical problems that your architects need to solve in your organization?*
 * *What activities and operating models can you think of that will best enable architecture in your organization to work on these critical problems?*
-* *What does the Architecture Activities Platform look like in your organization, and how could it be improved?*
+* *What does the Operating Model look like in your organization, and how could it be improved?*
 * *Which of the provided examples of architectural activities are you currently performing in your organization?*
 * *How does the proposed common operating model align with your current operational practices in your organization? What changes might be necessary to adopt this model?*
 * *In your experience, how early are architects involved in projects and activities? Do you agree with the goal of 'shifting left' the architecture work?*

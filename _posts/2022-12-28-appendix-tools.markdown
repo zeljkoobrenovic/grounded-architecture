@@ -49,7 +49,7 @@ Image by <a href="https://pixabay.com/users/pexels-2286921/?utm_source=link-attr
 <img src="assets/icons/architecture.png" class="book">
 </td>
 <td>
-<b>Architecture Dashboard Examples</b>: source code of examples of how to build an Architecture Data Dashboard as a part of the Grounded Architecture Data Foundation. The dashboard is a simple static website generated from JSON files and published via GitHub pages.
+<b>Architecture Dashboard Examples</b>: source code of examples of how to build an Architecture Data Dashboard as a part of the Architectural Analytics. The dashboard is a simple static website generated from JSON files and published via GitHub pages.
 </td>
 <td style="font-size: 50%; line-height: 12px; text-align: center">
 <div>
@@ -86,7 +86,7 @@ Sokrates can help you understand your code by making visible the size, complexit
 <img src="assets/images/books/productivity_tools.png" class="book">
 </td>
 <td>
-<b>Productivity Tools</b>: a collection of more than 100 online tools I built to help me in my daily work as an architect. I reuse these tools and lessons learned in building these tools when designing Data Foundation parts of the Grounded Architecture.
+<b>Productivity Tools</b>: a collection of more than 100 online tools I built to help me in my daily work as an architect. I reuse these tools and lessons learned in building these tools when designing Architectural Analytics parts of the Grounded Architecture.
 </td>
 <td style="font-size: 50%; line-height: 12px; text-align: center">
 <div>

@@ -114,8 +114,8 @@ To genuinely understand performance, consider the following principles:
 
 Architecture practice can significantly aid in understanding organizational behaviors through:
 
-* Establishing a **[Data Foundation](data)** with an overview of various data sources to reveal where activities occur, visible trends, and cooperation among people. One principle of the Data Foundation, **build maps, not control units,** supports understanding and orientation rather than merely serving as a metric tool.
-* Utilizing the **[People Foundation](people)** to connect individuals and enable them to learn about activities in different parts of the organization.
+* Establishing a **[Architectural Analytics](analytics)** with an overview of various data sources to reveal where activities occur, visible trends, and cooperation among people. One principle of Architectural Analytics, **build maps, not control units,** supports understanding and orientation rather than merely serving as a metric tool.
+* Utilizing the **[Collaborative Networks](people)** to connect individuals and enable them to learn about activities in different parts of the organization.
 
 <br>
 ## Rule 2: Reinforce Integrators
@@ -139,9 +139,9 @@ To strengthen integrators within your organization, consider these strategies:
 
 Architecture practice can play a vital role in reinforcing integrators by:
 
-* Utilizing the **[People Foundation](people)** to help identify and connect integrators, leveraging their work effectively.
+* Utilizing the **[Collaborative Networks](people)** to help identify and connect integrators, leveraging their work effectively.
 * Emphasizing architects as critical integrators and integrator role models within the organization, defining them as essential components of the organizational "superglue."
-* Establishing a **[Data Foundation](data)** to support integrators with data and insights, enabling them to perform more informed and effective work.
+* Establishing a **[Architectural Analytics](analytics)** to support integrators with data and insights, enabling them to perform more informed and effective work.
 
 <br>
 ## Rule 3: Increase the Total Quantity of Power
@@ -167,8 +167,8 @@ To enhance the quantity of power within your organization, consider these action
 
 Architecture practice can support the increase in power quantity through an operating model that promotes distributed decision-making:
 
-* Through the **[People Foundation](people)**, you can enhance decision-making power by distributing architectural decision-making across the organization and embedding it within development teams, which typically have the best insights and most relevant information.
-* Additionally, the **[Data Foundation](data)**, accessible to all interested members of the organization, can provide data and insights that empower individuals in their daily work.
+* Through the **[Collaborative Networks](people)**, you can enhance decision-making power by distributing architectural decision-making across the organization and embedding it within development teams, which typically have the best insights and most relevant information.
+* Additionally, **[Architectural Analytics](analytics)**, accessible to all interested members of the organization, can provide data and insights that empower individuals in their daily work.
 
 
 <br>
@@ -193,7 +193,7 @@ Reciprocity involves recognizing that people or units in an organization have a 
 
 Architecture practice can significantly increase reciprocity within an organization:
 
-* The **[People Foundation](people)** supports creating new networks of interactions, directly reinforcing reciprocity.
+* The **[Collaborative Networks](people)** supports creating new networks of interactions, directly reinforcing reciprocity.
 * A hybrid operating model relies on the mutual success of architecture practices and development teams. Architects' impact is essential, and their support depends on the feedback from the groups they assist. Integrating this feedback into architects' performance evaluations is crucial for enhancing reciprocity between architecture and other units.
 
 <br>
@@ -221,7 +221,7 @@ The Six Simple Rules approach recommends four strategies to extend the shadow of
 
 Architecture practice can play a crucial role in extending the shadow of the future through various methods:
 
-* The **[Data Foundation](data)** can create transparency and provide the data necessary to model the future. This data can be used to develop simulations and roadmap options.
+* **[Architectural Analytics](analytics)** can create transparency and provide the data necessary to model the future. This data can be used to develop simulations and roadmap options.
 * Applying **[economic modeling](economics)** to architecture decision-making helps describe the future consequences of today's actions, directly supporting long-term planning and decision-making.
 
 
@@ -248,8 +248,8 @@ To effectively reward those who cooperate, managers should:
 
 Architecture practice can facilitate rewarding cooperation by making it easier for individuals to help others and ask for help:
 
-* A strong **[People Foundation](people)** can provide the context and networks necessary for easier collaboration.
-* Adding diverse data sources to the **[Data Foundation](data)** can create transparency about cooperation opportunities and challenges, supporting a more collaborative environment.
+* A strong **[Collaborative Networks](people)** can provide the context and networks necessary for easier collaboration.
+* Adding diverse data sources to **[Architectural Analytics](analytics)** can create transparency about cooperation opportunities and challenges, supporting a more collaborative environment.
 
 <br>
 ## Questions to Consider

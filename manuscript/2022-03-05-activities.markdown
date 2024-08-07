@@ -1,16 +1,15 @@
 
 
-# Architecture Activities Platform {#activities}
+# Operating Model {#activities}
 
-![](assets/images/arch/parliament-366199_1920.jpg)
-^image by anja from pixabay^
+![image by anja from pixabay](assets/images/arch/parliament-366199_1920.jpg)
 
 **IN THIS SECTION, YOU WILL:**  Understand what activities you can do as a part of architecture practice and get tips on creating pragmatic operating models for an architecture practice.
 
 {pagebreak}
 
 A> **KEY POINTS:**
-A> * The Architecture Activities Platform is a system of processes and agreements enabling architects to do everything architecture typically does, leveraging Data and People Foundations to create a data-informed, organization-wide impact.
+A> * The Operating Model is a system of processes and agreements enabling architects to do everything architecture typically does, leveraging Architectural Analytics and Collaborative Networks to create a data-informed, organization-wide impact.
 A> * Examples of activities include: supporting teams in their daily work; tracking tech debt, defining tech debt reduction programs; performing technical due diligence; standardizing processes and documentation; defining cloud, data, and platform strategies.
 
 Each organization will have different architectural needs and contexts. When forming architecture functions, I use as a starting point these [two pieces of advice from Gregor Hohpe](https://architectelevator.com/architecture/organizing-architecture/):
@@ -22,14 +21,13 @@ Considering Gregor Hohpe's previous two points, I approach defining an architect
 
 No matter which operating models you select, it's crucial to develop **explicit agreements** and "rules of engagement" with key stakeholders. This collaborative approach is essential to create a sustainable and practical architectural function.
 
-![](assets/images/model-strategy.png)
-***Figure 1:** The Grounded Architecture framework: Architecture Activities Platform.*
+![Figure 1: The Grounded Architecture framework: Operating Model.](assets/images/model-operating-model.png)
 
-The Architecture Activities Platform (Figure 1) is a set of processes and agreements that allows architects to do everything architecture practice typically does. It leverages Data and People Foundations to develop a data-informed, organization-wide impact. Data and People Foundations provide a basis for data-informed decision-making well embedded in the organization. It's about instilling confidence and trust in your decision-making process.
+The Operating Model (Figure 1) is a set of processes and agreements that allows architects to do everything architecture practice typically does. It leverages Architectural Analytics and Collaborative Networks to develop a data-informed, organization-wide impact. Architectural Analytics and Collaborative Networks provide a basis for data-informed decision-making well embedded in the organization. It's about instilling confidence and trust in your decision-making process.
 
 ## Examples of Architecture Activities
 
-To provide a clearer understanding of what I mean by an Architecture Activities Platform, here are detailed examples of the activities I have been engaged in with architects.
+To provide a clearer understanding of what I mean by an Operating Model, here are detailed examples of the activities I have been engaged in with architects.
 
 * **Designing Mechanisms for Teams to Make Better Decisions**: This involves creating global decision-support frameworks such as advisory forums, which facilitate informed discussions across teams. For compliance-sensitive projects, we establish formal design authorities. Additionally, we develop team-specific mechanisms, like escalation paths, to resolve decision conflicts effectively (e.g., when teams disagree on a common messaging middleware).
 
@@ -51,7 +49,7 @@ To provide a clearer understanding of what I mean by an Architecture Activities 
 
 * **Defining Vision and Direction of Technology**: In collaboration with Engineering Leaders, We work on creating a sustainable organizational setting that aligns with the overarching technology strategies. This involves setting a clear vision and direction for the technology landscape within the organization.
 
-These activities collectively form an Architecture Activities Platform, enabling a structured and strategic approach to architectural practices within the organization.
+These activities collectively form an Operating Model, enabling a structured and strategic approach to architectural practices within the organization.
 
 ## Guiding Principles for Architectural Excellence: Policies, Autonomy, and Engagement
 
@@ -61,8 +59,7 @@ In this section, I address different guiding principles of architectural work. T
 
 While exact activities and their scope will depend on an organization setting and will change over time, I usually followed a common operational model in daily work inspired by Gregor Hohpe's strategy-principles-decisions model (Figure 2). 
 
-![](assets/images/arch/architecture-system.png)
-**Figure 2:** *A common operating model I typically use for Grounded Architecture activities.*
+![Figure 2: A common operating model I typically use for Grounded Architecture activities.](assets/images/arch/architecture-system.png)
 
 Here are the key characteristics of this operating model. 
 
@@ -71,10 +68,10 @@ Here are the key characteristics of this operating model.
   * Architects aim to **empower the teams** so that they make most of the decisions.
 
 **Contributions of architects**: 
-  * **Bring relevant data** to inform decisions leveraging a [Data Foundation](#data).
+  * **Bring relevant data** to inform decisions leveraging a [Architectural Analytics](analytics).
   * **Define decision boundaries** to enable minimal compatibility and strategic alignment (e.g., public cloud provider, golden paths, or tech stack constraints).
   * **Define fundamental principles** to facilitate consistency in decision-making.
-  * **Share and generalize** lessons learned via a [People Foundation](#people).
+  * **Share and generalize** lessons learned via a [Collaborative Networks](#people).
 
 **Social dynamics of architects**:
   * Architects spend their time in **constant motion** between supporting teams' **daily work** and working on **strategic topics**, helping the organization achieve alignment between strategy and implementation.
@@ -94,8 +91,7 @@ To give maximal autonomy to the teams while maintaining a **minimal** level of g
 
 The **decision pyramid** highlights that development teams should make most decisions. However, several strategic and area-level choices may provide team decision boundaries. For example, selecting the public cloud provider is typically a CTO-level strategic decision. Similarly, engineering leaders in some areas may want to limit some choices, such as the number of programming languages, to more easily train new people, maintain code, and support moves between teams.
 
-![](assets/images/arch/decision-pyramid.png)
-***Figure 3:** A decision pyramid. The development teams should make most decisions. However, several strategic and area-level decisions may provide decision boundaries for teams (e.g., a public cloud provider).*
+![Figure 3: A decision pyramid. The development teams should make most decisions. However, several strategic and area-level decisions may provide decision boundaries for teams (e.g., a public cloud provider).](assets/images/arch/decision-pyramid.png)
 
 ### General Architecture Decision Policy
 
@@ -118,8 +114,7 @@ While it may not always be enough, this simple policy resonates well. It encoura
 
 I have found that the concept of Golden Paths provides an excellent ground to **drive alignment and collaboration** in architecture activities. Golden Paths is an approach utilized to streamline and unify the development process within a software ecosystem, aiming to tackle fragmentation and foster consistency, inspired by [Spotify's implementation](https://engineering.atspotify.com/2020/08/how-we-use-golden-paths-to-solve-fragmentation-in-our-software-ecosystem/). Golden Paths can be described as "**opinionated and supported**" routes developers can follow to build systems efficiently and effectively. 
 
-![](assets/images/spotify-golden-paths_infrastructure-and-tooling-700x327.png)
-^image by engineering.atspotify.com^
+![image by engineering.atspotify.com](assets/images/spotify-golden-paths_infrastructure-and-tooling-700x327.png)
 
 Golden paths provide a solid **foundation for aligning** architecture activities, serving as a common target of work for Guilds and central architectural teams. Rather than being solely knowledge-sharing entities, guilds can be empowered to develop golden paths, serving as an excellent catalyst for more effective community engagement. This approach not only enhances the role of guilds but also increases the adoption of golden paths as they are created collaboratively.
 
@@ -129,8 +124,7 @@ Golden Paths can be crucial to an organization's IT development landscape as a d
 
 One of the amusing challenges with setting up an architecture function in an organization is that everyone seems to have a different idea of what "architecture" should entail. It's like asking people to describe a unicorn: some imagine a mythical, majestic creature, while others picture a sparkly horse with a horn that grants wishes. Good architects can do many things, but this versatility might not always be the most effective way to support the organization. We need to **set boundaries** so that we can focus on what's important rather than becoming frazzled by what's not.
 
-![](assets/images/iStock-92285726.jpg)
-^image by ingenui from istock^
+![image by ingenui from istock](assets/images/iStock-92285726.jpg)
 
 To be effective, I've found it crucial to establish and clearly communicate some "**rules of engagement**" (ROE). Think of ROE as the office playbook for how architects should operate. In a corporate setting, ROE are the principles that guide how employees and departments interact with each other, clients, and stakeholders. This includes communication protocols, decision-making processes, and conflict-resolution mechanisms. Essentially, ROE sets the stage for what's expected and what's not, ensuring everyone plays nicely and fairly.
 
@@ -165,7 +159,7 @@ Your architecture practice job is to solve the biggest problems in your organiza
 
 * *How can you identify the most critical problems that your architects need to solve in your organization?*
 * *What activities and operating models can you think of that will best enable architecture in your organization to work on these critical problems?*
-* *What does the Architecture Activities Platform look like in your organization, and how could it be improved?*
+* *What does the Operating Model look like in your organization, and how could it be improved?*
 * *Which of the provided examples of architectural activities are you currently performing in your organization?*
 * *How does the proposed common operating model align with your current operational practices in your organization? What changes might be necessary to adopt this model?*
 * *In your experience, how early are architects involved in projects and activities? Do you agree with the goal of 'shifting left' the architecture work?*
