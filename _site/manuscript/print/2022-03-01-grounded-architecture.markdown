@@ -27,11 +27,11 @@ Grounded Architecture framework, as an approach to setting organizational struct
 
 ***Figure 1:** The Grounded Architecture framework.*
 
-*Architectural Analytics* is **a system of tools and resources** that enables architects to make **data-informed decisions** based on a real-time and complete overview of the organization's technology landscape. [Architectural Analytics section](analytics) provides more details.
+*Architectural Analytics* is **a system of tools and resources** that enables architects to make **data-informed decisions** based on a real-time and complete overview of the organization's technology landscape. [Architectural Analytics section](#analytics) provides more details.
 
 *Collaborative Networks* is **a network of people** doing architecture across the organization. This Pillar is crucial to ensure that the architecture function has any **tangible impact**. The [Collaborative Networks section](#people) provides more details.
 
-Lastly, the *Operating Model* defines **a set of processes and agreements** enabling architects to do everything that architecture typically does, leveraging Architectural Analytics and Collaborative Networks to create a data-informed, organization-wide impact. The [Operating Model section](operating-model) provides more details on the Operating Model.
+Lastly, the *Operating Model* defines **a set of processes and agreements** enabling architects to do everything that architecture typically does, leveraging Architectural Analytics and Collaborative Networks to create a data-informed, organization-wide impact. The [Operating Model section](#operating-model) provides more details on the Operating Model.
 
 The Operating Model is **only valid with the healthy Architectural Analytics and Collaborative Networks**. Without data and people connections, an Operating Model leads to an ivory tower institution, generating opinion-based decisions disconnected from reality.
 

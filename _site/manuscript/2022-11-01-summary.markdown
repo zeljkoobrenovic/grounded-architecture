@@ -21,18 +21,18 @@ This book introduced Grounded Architecture as an IT architecture practice with t
 * **Guiding Principles**, pieces of advice that can help put the ideas of Grounded Architecture into practice.
 
 The Grounded Architecture framework consists of three elements:
-* [Architectural Analytics](analytics),
+* [Architectural Analytics](#analytics),
 * [Collaborative Networks](#people),
-* [Operating Model](operating-model).
+* [Operating Model](#operating-model).
 
 ![](assets/images/model.png)
 ***Figure 1:** Grounded Architecture Overview.*
 
-*[Architectural Analytics](analytics)* ensures that architects can make data-informed decisions based on a real-time and complete overview of the organization's technology landscape.
+*[Architectural Analytics](#analytics)* ensures that architects can make data-informed decisions based on a real-time and complete overview of the organization's technology landscape.
 
 *[Collaborative Networks](#people)* is another essential element of Grounded Architecture. A strong network of people doing architecture across the organization is crucial to ensure that architecture function has any tangible impact.
 
-Lastly, the *[Operating Model](operating-model)*  defines a set of processes and agreements enabling architects to do everything architecture typically does, leveraging Architectural Analytics and Collaborative Networks to create a data-informed, organization-wide impact.
+Lastly, the *[Operating Model](#operating-model)*  defines a set of processes and agreements enabling architects to do everything architecture typically does, leveraging Architectural Analytics and Collaborative Networks to create a data-informed, organization-wide impact.
 
 As a part of my work on Grounded Architecture, I also provided several guiding principles and tools that I found helpful to introduce the ideas of Grounded Architecture in practice. I grouped these resources into several parts:
 
