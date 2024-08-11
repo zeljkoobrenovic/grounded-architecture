@@ -2,7 +2,8 @@
 
 # Operating Model {#operating-model}
 
-![image by anja from pixabay](assets/images/arch/parliament-366199_1920.jpg)
+![](assets/images/arch/parliament-366199_1920.jpg)
+^image by anja from pixabay^
 
 **IN THIS SECTION, YOU WILL:**  Understand what activities you can do as a part of an architecture practice and get tips on creating pragmatic operating models for an architecture practice.
 
@@ -21,7 +22,8 @@ Considering Gregor Hohpe's previous two points, I approach defining an architect
 
 No matter which operating models you select, it's crucial to develop **explicit agreements** and "rules of engagement" with key stakeholders. This collaborative approach is essential to create a sustainable and practical an architecture practice.
 
-![Figure 1: The Grounded Architecture framework: Operating Model.](assets/images/model-operating-model.png)
+![](assets/images/model-operating-model.png)
+***Figure 1:** The Grounded Architecture framework: Operating Model.*
 
 This section outlines some lessons I learned when defining IT architecture operating models. The Operating Model (Figure 1) is a part of the Grounded Architecture framework that defines a set of **processes and agreements** that allow architects to do everything an architecture practice typically does. The model should leverage Architectural Analytics and Collaborative Networks to develop a data-informed, organization-wide impact. Architectural Analytics and Collaborative Networks provide a basis for data-informed decision-making that is well-embedded in the organization.
 
@@ -62,7 +64,8 @@ In this section, I address different guiding principles of architectural work:
 
 While exact activities and their scope will depend on an organization setting and will change over time, I usually followed a common operational framework in daily work inspired by Gregor Hohpe's strategy-principles-decisions model (Figure 2). 
 
-![Figure 2: A common operating framework I typically use for Grounded Architecture activities.](assets/images/arch/architecture-system.png)
+![](assets/images/arch/architecture-system.png)
+**Figure 2:** *A common operating framework I typically use for Grounded Architecture activities.*
 
 Here are the key characteristics of this operating framework: 
 
@@ -94,7 +97,8 @@ I have sometimes implemented the concept of a **decision pyramid** (Figure 3) to
 
 The **decision pyramid** highlights that development teams should make most decisions. However, several strategic and area-level choices may provide team decision boundaries. For example, selecting the public cloud provider is typically a CTO-level strategic decision. Similarly, engineering leaders in some areas may want to limit some choices, such as the number of programming languages, to more easily train new people, maintain code, and support moves between teams.
 
-![Figure 3: A decision pyramid. The development teams should make most decisions. However, several strategic and area-level decisions may provide decision boundaries for teams (e.g., golden paths or tech stack constraints).](assets/images/arch/decision-pyramid.png)
+![](assets/images/arch/decision-pyramid.png)
+***Figure 3:** A decision pyramid. The development teams should make most decisions. However, several strategic and area-level decisions may provide decision boundaries for teams (e.g., golden paths or tech stack constraints).*
 
 ### General Architecture Decision Policy
 
@@ -117,7 +121,8 @@ While it may not always be enough, this simple policy can resonate well with man
 
 I have found that the concept of Golden Paths provides an excellent ground to **drive alignment and collaboration** in architecture activities. Golden Paths is an approach utilized to streamline and unify the development process within a software ecosystem, aiming to tackle fragmentation and foster consistency, inspired by [Spotify's implementation](https://engineering.atspotify.com/2020/08/how-we-use-golden-paths-to-solve-fragmentation-in-our-software-ecosystem/). Golden Paths can be described as "**opinionated and supported**" routes developers can follow to build systems efficiently and effectively. 
 
-![image by engineering.atspotify.com](assets/images/spotify-golden-paths_infrastructure-and-tooling-700x327.png)
+![](assets/images/spotify-golden-paths_infrastructure-and-tooling-700x327.png)
+^image by engineering.atspotify.com^
 
 Golden paths provide a solid **foundation for aligning** architecture activities, serving as a common target of work for Guilds and central architectural teams. Rather than being solely knowledge-sharing entities, **guilds** can be empowered to **develop golden paths,** serving as an excellent catalyst for more effective community engagement. This approach not only enhances the role of guilds but also increases the adoption of golden paths as they are created collaboratively.
 
@@ -127,7 +132,8 @@ Golden Paths can be crucial to an organization's IT development landscape as a d
 
 One of the amusing challenges with setting up an architecture practice in an organization is that everyone seems to have a different idea of what "architecture" should entail. It's like asking people to describe a unicorn: some imagine a mythical, majestic creature, while others picture a sparkly horse with a horn that grants wishes. Good architects can do many things, but this versatility might not always be the most effective way to support the organization. We need to **set boundaries** so that we can focus on what's important rather than becoming frazzled by what's not.
 
-![image by ingenui from istock](assets/images/iStock-92285726.jpg)
+![](assets/images/iStock-92285726.jpg)
+^image by ingenui from istock^
 
 To be effective, I've found it crucial to establish and clearly communicate some "**rules of engagement**" (ROE). Think of ROE as the office playbook for how architects should operate. In a corporate setting, ROE are the principles that guide how employees and departments interact with each other, clients, and stakeholders. This includes communication protocols, decision-making processes, and conflict-resolution mechanisms. Essentially, ROE sets the stage for what's expected and what's not, ensuring everyone plays nicely and fairly.
 
