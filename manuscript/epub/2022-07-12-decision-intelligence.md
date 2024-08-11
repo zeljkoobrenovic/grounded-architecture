@@ -8,7 +8,7 @@
 
 {pagebreak}
 
-A> better actions, and its relevance for IT architecture practice.
+A> better actions, and its relevance for an IT architecture practice.
 A> **KEY POINTS:**
 A> * Decision intelligence is the discipline of turning information into better actions.
 A> * A decision involves more than just selecting from available options; it represents a commitment of resources you

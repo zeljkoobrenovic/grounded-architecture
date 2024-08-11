@@ -430,7 +430,7 @@ Use teaching as a lever to harness the strength of ten, achieving a far-reaching
 
 Ensuring your messages are easy to understand and hard to misunderstand is not just a communication strategy. It's a powerful tool for amplifying your impact. By simplifying and clarifying your communication, you make it easier for others to grasp and remember the knowledge you share, thereby increasing the reach and effectiveness of your message. This underscores the crucial role you play in knowledge sharing and the impact you can have on others.
 
-One motivation for writing this book is to create reusable material that teaches others about pragmatic approaches to running architecture practices and give them material they can reuse to teach others the same.
+One motivation for writing this book is to create reusable material that teaches others about pragmatic approaches to running an architecture practice and give them material they can reuse to teach others the same.
 
 <br>
 <img style="margin-top: -20px; width: 100%; " 
@@ -508,7 +508,7 @@ Establishing clear expectations and structures creates a high-trust environment 
 
 Leverage trust as the essential lubricant of frictionless and high-functioning teams. Making the right hire once can produce results repeatedly. Follow the Three I's Rule: hire people with integrity, intelligence, and initiative. Design high-trust agreements to clarify results, roles, rules, resources, and rewards.
 
-Being an architect is much easier in high-trust organizations. In low-trust organizations, people frequently expect architects to be police agents. IT governance processes frequently associated with architecture practice are used or misused to force bureaucratic controls as teams often do not trust each other. 
+Being an architect is much easier in high-trust organizations. In low-trust organizations, people frequently expect architects to be police agents. IT governance processes frequently associated with an architecture practice are used or misused to force bureaucratic controls as teams often do not trust each other. 
 
 
 <br>

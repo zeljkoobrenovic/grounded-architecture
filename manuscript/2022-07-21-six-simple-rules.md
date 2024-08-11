@@ -2,8 +2,7 @@
 
 # Six Simple Rules {#six-simple-rules}
 
-![](assets/images/iStock-2031547179.jpg)
-^image by nanostockk from istock^
+![image by nanostockk from istock](assets/images/iStock-2031547179.jpg)
 
 **IN THIS SECTION, YOU WILL:**  Get an introduction to Six Simple Rules, a model for setting up organizational structures based on cooperation.
 
@@ -14,7 +13,7 @@ A> * The Six Simple Rules approach emphasizes that in today’s complicated busi
 A> * To deal with complexity, organizations should depend on the judgment of their people and on these people cooperating. 
 A> * This view is well aligned with the ideas of Grounded Architecture.
 
-The book Six Simple Rules: How to Manage Complexity without Getting Complicated by Yves Morieux and Peter Tollman offered fresh air for my vision of architecture practice. Morieux and Tollman introduced the concept of Smart Simplicity with six rules or strategies that enable organizations to promote new behaviors and improve performance. The Six Simple Rules approach emphasizes that in today's business environment, you **need to set up organizational structures based on cooperation**.
+The book Six Simple Rules: How to Manage Complexity without Getting Complicated by Yves Morieux and Peter Tollman offered fresh air for my vision of an architecture practice. Morieux and Tollman introduced the concept of Smart Simplicity with six rules or strategies that enable organizations to promote new behaviors and improve performance. The Six Simple Rules approach emphasizes that in today's business environment, you **need to set up organizational structures based on cooperation**.
 
 The Six Simple Rules approach is a practical solution for today's complex business environment. It advocates for the setup of organizational structures that harmonize, empowering individuals with more autonomy to act. This approach is about trusting the capabilities of the organization's people to handle complex problems, fostering a cooperative and efficient work environment.
 
@@ -55,8 +54,7 @@ This difference between **Autonomy** and **Self-Sufficiency** leads us to the se
 
 The first rule states that you must genuinely understand performance: **what people do** and **why they do it**. When you know why people do what they do and how it drives performance, you can define the **minimum sufficient set of interventions with surgical accuracy**. 
  
-![](assets/images/arch/iStock-1179186162.jpg)
-^image by scyther5 from istock^
+![image by scyther5 from istock](assets/images/arch/iStock-1179186162.jpg)
 
 ### Guidelines for Understanding Performance
 
@@ -78,8 +76,7 @@ Architecture practice can significantly aid in understanding organizational beha
 
 The Six Simple Rules approach emphasizes the importance of reinforcing integrators by looking at those **directly involved in the work**, giving them **power and interest to foster cooperation in dealing with complexity** instead of resorting to the paraphernalia of overarching hierarchies, overlays, dedicated interfaces, balanced scorecards, or coordination procedures.
  
-![](assets/images/arch/agree-g1f407320e_1920.png)
-^image by robert owen-wahl from pixabay^
+![image by robert owen-wahl from pixabay](assets/images/arch/agree-g1f407320e_1920.png)
 
 ### Guidelines for Reinforcing Integrators
 
@@ -101,8 +98,7 @@ Architecture practice can play a vital role in reinforcing integrators by:
 
 Whenever you consider an **addition to** your organization’s **structure, processes, and systems**, think about **increasing the quantity of power**. Doing so may **save you from increasing complicatedness** and enable you to achieve a more significant impact with less cost. You can increase the quantity of power by allowing some functions to influence performance and stakes that matter to others. 
 
-![](assets/images/arch/iStock-1201215883.jpg)
-^image by prostock-studio from istock^
+![image by prostock-studio from istock](assets/images/arch/iStock-1201215883.jpg)
 
 ### Guidelines for Increasing Power Quantity
 
@@ -124,8 +120,7 @@ Architecture practice can support the increase in power quantity through an oper
 
 In the face of business complexity, work is becoming more interdependent. To meet multiple and often contradictory performance requirements, **people must rely more on each other**. They need to **cooperate directly** instead of depending on dedicated interfaces, coordination structures, or procedures that only add to complicatedness. 
 
-![](assets/images/arch/iStock-1072898930.jpg)
-^image by natnan srisuwan from istock^
+![image by natnan srisuwan from istock](assets/images/arch/iStock-1072898930.jpg)
 
 ### Guidelines for Enhancing Reciprocity
 
@@ -140,15 +135,14 @@ Reciprocity involves recognizing that people or units in an organization have a 
 Architecture practice can significantly increase reciprocity within an organization:
 
 * The **[Collaborative Networks](#people)** supports creating new networks of interactions, directly reinforcing reciprocity.
-* A hybrid operating model relies on the mutual success of architecture practices and development teams. Architects' impact is essential, and their support depends on the feedback from the groups they assist. Integrating this feedback into architects' performance evaluations is crucial for enhancing reciprocity between architecture and other units.
+* A hybrid operating model relies on the mutual success of an architecture practice and development teams. Architects' impact is essential, and their support depends on the feedback from the groups they assist. Integrating this feedback into architects' performance evaluations is crucial for enhancing reciprocity between architecture and other units.
 
 ## Rule 5: Extend the Shadow of the Future
 
 The Six Simple Rules approach emphasizes the importance of making visible and clear **what happens tomorrow as a consequence of what they do today**. You can manage complex requirements by making simple changes while removing organizational complexity. With the strategic alignment typical of the hard approach, these simple solutions—for instance, career paths—often come at the end of a sequence that starts by installing the most cumbersome changes: new structure, processes, systems, metrics, etc. Simple and effective solutions are then impossible.
  
 
-![](assets/images/arch/trees-gc38b3c617_1920.jpg)
-^image by joe from pixabay^
+![image by joe from pixabay](assets/images/arch/trees-gc38b3c617_1920.jpg)
 
 ### Guidelines for Extending the Shadow of the Future
 
@@ -170,8 +164,7 @@ Architecture practice can play a crucial role in extending the shadow of the fut
 
 Lastly, the Six Simple Rules approach recommends that when you cannot create direct feedback loops embedded in people’s tasks, you need **management’s intervention to close the loop**. Managers must then use the familiar performance evaluation tool but in a very different way. 
 
-![](assets/images/arch/people-gac98109e9_1920.jpg)
-^image by stocksnap from pixabay^
+![image by stocksnap from pixabay](assets/images/arch/people-gac98109e9_1920.jpg)
 
 ### Guidelines for Rewarding Cooperation
 
@@ -200,5 +193,5 @@ Architecture practice can facilitate rewarding cooperation by making it easier f
 * *How can your organization increase reciprocity and make each person's success dependent on the success of others?*
 * *How can your organization extend the shadow of the future? Are there feedback mechanisms in place to make people accountable for their decisions?*
 * *How are those who cooperate rewarded in your organization? Are there mechanisms in place to increase the payoff for all when they cooperate beneficially?*
-* *How can the architecture practice in your organization support the implementation of the Six Simple Rules?*
+* *How can architecture practice in your organization support the implementation of the Six Simple Rules?*
 * *How do your organization's current systems and structures promote or hinder the cooperation needed to make autonomy effective?*

@@ -43,7 +43,7 @@ Image by <a href="https://pixabay.com/users/3844328-3844328/?utm_source=link-att
 > *"If we have data, let's look at data. If all we have are opinions, let's go with mine."* -— Jim Barksdale
 
 <br>
-Everywhere I worked on creating architectural functions, I strongly (aka obsessively) **emphasized data.** Consequently, one of the first steps I make in any architecture practice is to create an Architectural Analytics to get a complete, up-to-date picture of critical elements of an organization's technology landscapes (Figure 1). Manual documentation does not scale, and relying on data ensures the reliability and scalability of decision-making.
+Everywhere I worked on creating an architecture practice, I strongly (aka obsessively) **emphasized data.** Consequently, one of the first steps I make in any an architecture practice is to create an Architectural Analytics to get a complete, up-to-date picture of critical elements of an organization's technology landscapes (Figure 1). Manual documentation does not scale, and relying on data ensures the reliability and scalability of decision-making.
 
 ![](assets/images/model-data.png)
 ***Figure 1:** The Grounded Architecture framework: Architectural Analytics.*
@@ -190,7 +190,7 @@ So there you have it. The data's ready to spill its secrets—you need to know t
 <br>
 ## Questions to Consider
 
-Using data can significantly improve the efficiency and impact of architectural practice. Ask yourself the following questions: 
+Using data can significantly improve the efficiency and impact of an architecture practice. Ask yourself the following questions: 
 
 * *What steps would you take to create an Architectural Analytics in your organization?*
 * *Are there untapped data sources within your organization that could inform your architectural decisions?*

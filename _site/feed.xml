@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-08-09T20:35:19+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: Redefining IT Architecture Practice</title><subtitle></subtitle><entry><title type="html">Cheat Sheet</title><link href="http://localhost:4000/cheat-sheet" rel="alternate" type="text/html" title="Cheat Sheet" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/appendix-cheat-sheet</id><content type="html" xml:base="http://localhost:4000/cheat-sheet"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/iStock-1182643171.jpg" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-08-11T14:06:46+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: Redefining IT Architecture Practice</title><subtitle></subtitle><entry><title type="html">Cheat Sheet</title><link href="http://localhost:4000/cheat-sheet" rel="alternate" type="text/html" title="Cheat Sheet" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/appendix-cheat-sheet</id><content type="html" xml:base="http://localhost:4000/cheat-sheet"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/iStock-1182643171.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Tashulia">Tashulia</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
@@ -38,7 +38,7 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Tashu
 <blockquote>
   <ul>
     <li>This book will share my approach to running an IT architecture practice in larger organizations based on my experience at AVIV Group, eBay Classifieds, and Adevinta. I call this approach “Grounded Architecture”—architecture with strong foundations and deep roots.</li>
-    <li>Prioritizing people interactions and data over processes and tools, Grounded Architecture aims to connect architecture practice to all organizational levels as an antidote to the “ivory tower” architecture.</li>
+    <li>Prioritizing people interactions and data over processes and tools, Grounded Architecture aims to connect an architecture practice to all organizational levels as an antidote to the “ivory tower” architecture.</li>
     <li>I also explain my motivation to write this book.</li>
   </ul>
 </blockquote>
@@ -54,7 +54,7 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Tashu
 <h3 id="goals-adapting-growing-and-using-data">Goals: Adapting, Growing, and Using Data</h3>
 <blockquote>
   <ul>
-    <li>I identified the following needs that an architecture function should support: Executing At Scale, Adaptivity, Improving the Quality of Decision-Making with Data, and Maximizing Organizational Alignment &amp; Learning.</li>
+    <li>I identified the following needs that an architecture practice should support: Executing At Scale, Adaptivity, Improving the Quality of Decision-Making with Data, and Maximizing Organizational Alignment &amp; Learning.</li>
   </ul>
 </blockquote>
 
@@ -72,7 +72,7 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Tashu
 <h3 id="collaborative-networks">Collaborative Networks</h3>
 <blockquote>
   <ul>
-    <li>Developing the architecture function requires having competent, empowered, and motivated architects. Architecture practice must carefully organize, empower, and leverage scarce talent.</li>
+    <li>Developing an architecture practice requires having competent, empowered, and motivated architects. Architecture practice must carefully organize, empower, and leverage scarce talent.</li>
     <li>In my work in the past few years, I combined two teams of architects: a small central architecture team and a cross-organizational distributed virtual team.</li>
   </ul>
 </blockquote>
@@ -282,7 +282,7 @@ Image by <a href="https://pixabay.com/users/thedigitalartist-202249/?utm_source=
 
 <p>However, the global and massive scale also presents numerous challenges. It results in <strong>high organizational complexity</strong>, with thousands of potential communication channels within the organization. The <strong>complex technology landscape</strong> entails numerous interconnected services. Managing a large talent pool incurs <strong>high workforce costs</strong>. Furthermore, such organizations face high computing resource expenses due to the need to serve a vast customer base around the clock. The operational complexity increases with high and variable customer demands across multiple locations. Additionally, global organizations have a <strong>vast attack surface</strong>, with many potential entry points for attackers. Lastly, any manual process, such as creating an organizational or technology landscape overview, is limited due to the scale involved.</p>
 
-<p>Balancing opportunities and challenges on a global scale has been one of the most demanding and rewarding aspects of my architectural work. Such a magnitude makes any manual process inefficient and difficult to scale. The global scale was one of the main drivers behind the aggressive datafication of our architectural practices. It has also led us to create more decentralized collaborative networks and operating models to execute and track decision-making across the board.</p>
+<p>Balancing opportunities and challenges on a global scale has been one of the most demanding and rewarding aspects of my architectural work. Such a magnitude makes any manual process inefficient and difficult to scale. The global scale was one of the main drivers behind the aggressive datafication of our an architecture practice. It has also led us to create more decentralized collaborative networks and operating models to execute and track decision-making across the board.</p>
 
 <p><br /></p>
 <h2 id="multi-dimensional-diversity">Multi-Dimensional Diversity</h2>
@@ -310,7 +310,7 @@ Image by <a href="https://pixabay.com/users/simon-3/?utm_source=link-attribution
 
 <p>However, diversity also brings challenges. One such challenge is <strong>increased complexity,</strong> resulting in a higher system landscape complexity and greater cognitive load for teams mastering numerous topics simultaneously. Additionally, there is <strong>reduced flexibility,</strong> as expertise spread across many domains and technologies limits reorganization possibilities. Furthermore, diversity can lead to higher <strong>technical debt</strong> due to multiple technology stacks, increasing legacy components, and outdated technologies. While diversity is a rich source of new possibilities from an architectural perspective, it always necessitates carefully managing complexity.</p>
 
-<p>Diversity has influenced our architectural practices in multiple ways. It has led to the development of lean tools that can cover a broad range of technology stacks rather than the adoption of specialized ones that can go deep on one stack but cannot cover 95% of our landscape. We also adopted a more flexible governance model to help all teams in a practical way that is aligned with their diverse ways of working.</p>
+<p>Diversity has influenced our an architecture practice in multiple ways. It has led to the development of lean tools that can cover a broad range of technology stacks rather than the adoption of specialized ones that can go deep on one stack but cannot cover 95% of our landscape. We also adopted a more flexible governance model to help all teams in a practical way that is aligned with their diverse ways of working.</p>
 
 <p><br /></p>
 
@@ -329,7 +329,7 @@ Image by <a href="https://pixabay.com/users/pexels-2286921/?utm_source=link-attr
 
 <p>However, nonlinear growth dynamics significantly impact architectural activities. The sudden integration of new companies <strong>increases organizational complexity</strong>, introducing many new units. Acquiring a new company also <strong>brings in new technology and engineering units</strong>, along with their unique processes and technology stacks. Furthermore, these nonlinear dynamics <strong>necessitate a flexible architecture</strong> to accommodate potential divestitures.</p>
 
-<p>Nonlinear growth offers substantial benefits but also challenges managing increased complexity and the need to maintain architectural flexibility. In terms of its impact on architectural practices, such dynamics lead to constantly high levels of complexity and more uncertainty. This has led us to prioritize the creation of better transparency to track changes that such dynamics introduce. We also needed to collaborate closely with business and finance stakeholders on developing tools for economics and risk modeling of investments and divestments.</p>
+<p>Nonlinear growth offers substantial benefits but also challenges managing increased complexity and the need to maintain architectural flexibility. In terms of its impact on an architecture practice, such dynamics lead to constantly high levels of complexity and more uncertainty. This has led us to prioritize the creation of better transparency to track changes that such dynamics introduce. We also needed to collaborate closely with business and finance stakeholders on developing tools for economics and risk modeling of investments and divestments.</p>
 
 <p><br /></p>
 <h2 id="synergy-and-transformation-pressures">Synergy and Transformation Pressures</h2>
@@ -345,7 +345,7 @@ Image by <a href="https://pixabay.com/users/mustangjoe-2162920/?utm_source=link-
 
 <p>However, striving for synergies and efficiency presents challenges. There is a need for significant <strong>initial investment</strong> to realize benefits, which carries high risks. Performance pressure arises as teams must deliver excellent <strong>short-term results</strong> while undergoing significant transformations. Balancing transformation activities with regular work can temporarily <strong>reduce productivity.</strong> Moreover, post-transformation, the organization and technology landscape may become more complex due to increased dependencies, such as reusing central services.</p>
 
-<p>The pressure to achieve synergies and efficiency can lead to high expectations and complicate regular architectural work. Nonetheless, these forces also create numerous opportunities for growth and improvement. For architecture practice, these pressures created a strong need for better tracking project costs, value, and risks. Being able to calculate and back with data decisions for both innovative projects and legacy retirements was a critical aspect of our work.</p>
+<p>The pressure to achieve synergies and efficiency can lead to high expectations and complicate regular architectural work. Nonetheless, these forces also create numerous opportunities for growth and improvement. For an architecture practice, these pressures created a strong need for better tracking project costs, value, and risks. Being able to calculate and back with data decisions for both innovative projects and legacy retirements was a critical aspect of our work.</p>
 
 <p><br /></p>
 
@@ -365,7 +365,7 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Andri
 
 <p>However, loose coupling also presents several challenges. It can lead to duplication of effort, as local market needs might differ but often have significant overlap in product features and technology, resulting in <strong>redundant efforts</strong> as each marketplace creates solutions for the same problems. This approach also increases <strong>accidental diversity,</strong> where limited synchronization may result in significantly different design and technology choices for the same problem, making it difficult to consolidate solutions, move personnel between teams, or benefit from economies of scale. Moreover, loose coupling results in <strong>limited control,</strong> as fewer dependencies and varying goals make it more challenging to implement changes across the organization.</p>
 
-<p>From an architectural perspective, loose coupling presents an interesting challenge, often leading to a conflict between global alignment and control and local autonomy. For our architecture practices, decentralization and loose coupling led to many changes. We emphasized “hands off, eyes on,” leaving teams autonomy in their work but creating complete transparency based on data. Our operating model has a high level of decentralization to enable both scaling and alignment of architecture work.</p>
+<p>From an architectural perspective, loose coupling presents an interesting challenge, often leading to a conflict between global alignment and control and local autonomy. For our an architecture practice, decentralization and loose coupling led to many changes. We emphasized “hands off, eyes on,” leaving teams autonomy in their work but creating complete transparency based on data. Our operating model has a high level of decentralization to enable both scaling and alignment of architecture work.</p>
 
 <p><br /></p>
 <h2 id="questions-to-consider">Questions to Consider</h2>
@@ -374,7 +374,7 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Andri
 
 <ul>
   <li><em>What are the unique characteristics of your organizational context?</em></li>
-  <li><em>What is the scale of your organization? How it affects architecture function?</em></li>
+  <li><em>What is the scale of your organization? How it affects your an architecture practice?</em></li>
   <li><em>How diverse is your organization?</em></li>
   <li><em>What are the growth dynamics of your organization?</em></li>
   <li><em>Are you experiencing synergy and transformation pressures?</em></li>
@@ -411,7 +411,7 @@ Image by <a href="https://pixabay.com/users/bluehouseskis-14931490/?utm_source=l
 
 <p><br /></p>
 
-<p>Grounded Architecture emerged as a necessity in response to our <a href="context">intricate and multifaceted challenges</a>. The Grounded Architecture framework was designed to address these specific challenges. By moving away from manual processes and embracing automation, data-driven decision-making, and adaptive frameworks, we aimed to create a <strong>more resilient and effective</strong> architectural practice.</p>
+<p>Grounded Architecture emerged as a necessity in response to our <a href="context">intricate and multifaceted challenges</a>. The Grounded Architecture framework was designed to address these specific challenges. By moving away from manual processes and embracing automation, data-driven decision-making, and adaptive frameworks, we aimed to create a <strong>more resilient and effective</strong> an architecture practice.</p>
 
 <p>In following sections I will outline a breakdown of the goals I set for an architecture practice:</p>
 <ul>
@@ -425,7 +425,7 @@ Image by <a href="https://pixabay.com/users/bluehouseskis-14931490/?utm_source=l
 <p><br /></p>
 <h2 id="goal-1-executing-at-scale">Goal 1: Executing At Scale</h2>
 
-<p>Our organizations were like a bustling city with hundreds of teams and thousands of projects, each with its own unique complexity and requirements. Traditional, one-size-fits-all approaches to architecture practice simply couldn’t keep up with this dynamic environment. We needed a system that could support this vast and varied ecosystem. Grounded Architecture was designed to <strong>handle such diversity at scale,</strong> ensuring that teams and projects received the tailored support they needed without being bogged down by rigid processes.</p>
+<p>Our organizations were like a bustling city with hundreds of teams and thousands of projects, each with its own unique complexity and requirements. Traditional, one-size-fits-all approaches to an architecture practice simply couldn’t keep up with this dynamic environment. We needed a system that could support this vast and varied ecosystem. Grounded Architecture was designed to <strong>handle such diversity at scale,</strong> ensuring that teams and projects received the tailored support they needed without being bogged down by rigid processes.</p>
 
 <p>Some of the success criteria for this goal included:</p>
 
@@ -493,12 +493,12 @@ Image by <a href="https://pixabay.com/users/bluehouseskis-14931490/?utm_source=l
 <p><br /></p>
 <h2 id="questions-to-consider">Questions to Consider</h2>
 
-<p>Knowing what goals architecture practice needs to support in your organization is crucial to defining structures and measuring your impact. Some of the plans may be universally applicable. Others may be unique to your context. Ask yourself the following questions:</p>
+<p>Knowing what goals an architecture practice needs to support in your organization is crucial to defining structures and measuring your impact. Some of the plans may be universally applicable. Others may be unique to your context. Ask yourself the following questions:</p>
 
 <ul>
-  <li><em>What is the scale of your architecture practice? Does your scale require special measures to ensure your architecture practice efficient operations?</em></li>
+  <li><em>What is the scale of your an architecture practice? Does your scale require special measures to ensure your an architecture practice efficient operations?</em></li>
   <li><em>What are the key decisions you need to make? Do you have the data to base your decisions?</em></li>
-  <li><em>How aligned are units in your organizations? How much friction is there? How can architecture practice help?</em></li>
+  <li><em>How aligned are units in your organizations? How much friction is there? How can an architecture practice help?</em></li>
   <li><em>How much is your organization learning? How is the learning supported?</em></li>
   <li><em>How stable is your organization? How likely is it that significant changes will occur in your organization?</em></li>
 </ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[I identified the following needs that an architecture practice should support: Executing At Scale, Adaptivity, Improving the Quality of Decision-Making with Data, and Maximizing Organizational Alignment & Learning.]]></summary></entry><entry><title type="html">Grounded Architecture Framework: Introduction</title><link href="http://localhost:4000/grounded-architecture" rel="alternate" type="text/html" title="Grounded Architecture Framework: Introduction" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/grounded-architecture</id><content type="html" xml:base="http://localhost:4000/grounded-architecture"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/iStock-1767471664.jpg" /></p>
@@ -512,7 +512,7 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Dario
 
   <ul>
     <li>I introduce three elements of Grounded Architecture Framework: Architectural Analytics, Collaborative Networks, and The Operating Model as an approach to setting organizational structures for a modern IT architecture practice.</li>
-    <li>Prioritizing people interactions and data over processes and tools, Grounded Architecture aims to connect architecture practice to all organizational levels as an antidote to the “ivory tower” architecture.</li>
+    <li>Prioritizing people interactions and data over processes and tools, Grounded Architecture aims to connect an architecture practice to all organizational levels as an antidote to the “ivory tower” architecture.</li>
   </ul>
 </blockquote>
 <style>
@@ -533,11 +533,11 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Dario
 </style>
 
 <p><br />
-In this part, I will briefly introduce the Grounded Architecture framework. I chose the term “Grounded Architecture” to highlight that the primary goal of my approach is <strong>avoid having an “ivory tower” architecture practice</strong> disconnected from the organization. This disconnection is a real danger in a <a href="context">fast-moving, global, and diverse setting</a>.</p>
+In this part, I will briefly introduce the Grounded Architecture framework. I chose the term “Grounded Architecture” to highlight that the primary goal of my approach is <strong>avoid having an “ivory tower” an architecture practice</strong> disconnected from the organization. This disconnection is a real danger in a <a href="context">fast-moving, global, and diverse setting</a>.</p>
 
-<p>The Grounded Architecture framework is designed to be a <strong>practical solution.</strong> It aims to be <strong>deeply rooted</strong> in the organization, prioritizing <strong>people’s interactions</strong> and <strong>data</strong> over processes and tools. The goal is to connect the architecture practice to all parts and levels of the organization, serving as a practical antidote to the ‘ivory tower’ architecture. In this part of the ebook, I will delve into the framework’s structure and how it can be applied in real-world scenarios.</p>
+<p>The Grounded Architecture framework is designed to be a <strong>practical solution.</strong> It aims to be <strong>deeply rooted</strong> in the organization, prioritizing <strong>people’s interactions</strong> and <strong>data</strong> over processes and tools. The goal is to connect an architecture practice to all parts and levels of the organization, serving as a practical antidote to the ‘ivory tower’ architecture. In this part of the ebook, I will delve into the framework’s structure and how it can be applied in real-world scenarios.</p>
 
-<p>Grounded Architecture framework is an approach to setting organizational structures for architectural practice, and it has three elements:</p>
+<p>Grounded Architecture framework is an approach to setting organizational structures for an architecture practice, and it has three elements:</p>
 
 <ul>
   <li>Architectural Analytics,</li>
@@ -551,9 +551,9 @@ In this part, I will briefly introduce the Grounded Architecture framework. I ch
 
 <p><em>Architectural Analytics</em> is <strong>a system of tools and resources</strong> that enables architects to make <strong>data-informed decisions</strong> based on a real-time and complete overview of the organization’s technology landscape. <a href="analytics">Architectural Analytics section</a> provides more details.</p>
 
-<p><em>Collaborative Networks</em> <strong>connect all the people</strong> doing architecture across the organization. Thse networks are crucial to ensure that the architecture practice has any <strong>tangible impact</strong>. The <a href="people">Collaborative Networks section</a> provides more details.</p>
+<p><em>Collaborative Networks</em> <strong>connect all the people</strong> doing architecture across the organization. Thse networks are crucial to ensure that an architecture practice has any <strong>tangible impact</strong>. The <a href="people">Collaborative Networks section</a> provides more details.</p>
 
-<p>Lastly, the <em>Operating Model</em> defines <strong>a set of processes and agreements</strong> enabling architects to do everything that architecture practice typically does, leveraging Architectural Analytics and Collaborative Networks to create a data-informed, organization-wide impact. The <a href="operating-model">Operating Model section</a> provides more details on the Operating Model.</p>
+<p>Lastly, the <em>Operating Model</em> defines <strong>a set of processes and agreements</strong> enabling architects to do everything that an architecture practice typically does, leveraging Architectural Analytics and Collaborative Networks to create a data-informed, organization-wide impact. The <a href="operating-model">Operating Model section</a> provides more details on the Operating Model.</p>
 
 <p>I want to emphasize that, in my view, any operating model is only relevant if there are <strong>healthy Architectural Analytics and Collaborative Networks</strong>. Without data and people connections, an operating model leads to an ivory tower institution, generating opinion-based decisions disconnected from reality.</p>
 
@@ -595,7 +595,7 @@ Image by <a href="https://pixabay.com/users/3844328-3844328/?utm_source=link-att
 </blockquote>
 
 <p><br />
-Everywhere I worked on creating architectural functions, I strongly (aka obsessively) <strong>emphasized data.</strong> Consequently, one of the first steps I make in any architecture practice is to create an Architectural Analytics to get a complete, up-to-date picture of critical elements of an organization’s technology landscapes (Figure 1). Manual documentation does not scale, and relying on data ensures the reliability and scalability of decision-making.</p>
+Everywhere I worked on creating an architecture practice, I strongly (aka obsessively) <strong>emphasized data.</strong> Consequently, one of the first steps I make in any an architecture practice is to create an Architectural Analytics to get a complete, up-to-date picture of critical elements of an organization’s technology landscapes (Figure 1). Manual documentation does not scale, and relying on data ensures the reliability and scalability of decision-making.</p>
 
 <p><img src="assets/images/model-data.png" alt="" />
 <em><strong>Figure 1:</strong> The Grounded Architecture framework: Architectural Analytics.</em></p>
@@ -757,7 +757,7 @@ The good news is that <strong>big organizations have lots of data</strong> that,
 <p><br /></p>
 <h2 id="questions-to-consider">Questions to Consider</h2>
 
-<p>Using data can significantly improve the efficiency and impact of architectural practice. Ask yourself the following questions:</p>
+<p>Using data can significantly improve the efficiency and impact of an architecture practice. Ask yourself the following questions:</p>
 
 <ul>
   <li><em>What steps would you take to create an Architectural Analytics in your organization?</em></li>
@@ -773,12 +773,12 @@ The good news is that <strong>big organizations have lots of data</strong> that,
 Image by <a href="https://pixabay.com/users/mostafa_meraji-13551092/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4939383">mostafa meraji</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4939383">Pixabay</a>
 </div>
 <blockquote>
-  <p><strong>IN THIS SECTION, YOU WILL:</strong>  Understand that architecture practice is all about people and get tips on creating organizational structures that support practical IT architecture practice.</p>
+  <p><strong>IN THIS SECTION, YOU WILL:</strong>  Understand that an architecture practice is all about people and get tips on creating organizational structures that support a practical IT architecture practice.</p>
 
   <p><strong>KEY POINTS:</strong></p>
 
   <ul>
-    <li>Developing the architecture practice requires having competent, empowered, and motivated architects. Architecture practice must carefully organize, empower, and leverage scarce talent.</li>
+    <li>Developing an architecture practice requires having competent, empowered, and motivated architects. An an architecture practice must carefully organize, empower, and leverage scarce talent.</li>
     <li>In my work in the past few years, I combined two teams of architects: a small central architecture team and a cross-organizational distributed virtual team.</li>
   </ul>
 </blockquote>
@@ -815,7 +815,7 @@ Good architects are a rare breed. They bridge the gaps between business, product
 <p><br /></p>
 <h2 id="background-central-vs-federated-architecture-practice">Background: Central vs. Federated Architecture Practice</h2>
 
-<p>IT architecture practices generally follow one of two fundamental models: central or federated (Figure 2, <a href="https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/tech-forward/crafting-the-optimal-model-for-the-it-architecture-organization">McKinsey 2022</a>).</p>
+<p>An IT architecture practice generally follow one of two fundamental models: central or federated (Figure 2, <a href="https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/tech-forward/crafting-the-optimal-model-for-the-it-architecture-organization">McKinsey 2022</a>).</p>
 
 <p><img src="assets/images/arch/arch_teams.png" alt="" />
 <em><strong>Figure 2:</strong> Central vs. Federated Architecture Practice.</em></p>
@@ -962,12 +962,12 @@ Image by <a href="https://pixabay.com/users/chantellev-2412495/?utm_source=link-
 <p><br /></p>
 <h2 id="questions-to-consider">Questions to Consider</h2>
 
-<p>It is difficult to overestimate the importance of people for architecture practice, yet many organizations take architectural talent for granted. To reflect on the importance of carefully organizing, empowering, and leveraging scarce architecture talent, ask yourself the following questions:</p>
+<p>It is difficult to overestimate the importance of people for an architecture practice, yet many organizations take architectural talent for granted. To reflect on the importance of carefully organizing, empowering, and leveraging scarce architecture talent, ask yourself the following questions:</p>
 
 <ul>
   <li><em>Do you have a strong network of architects across the organization?</em></li>
-  <li><em>Which central, federated, or hybrid model best represents your current architectural practice? Why was this model chosen, and how effective has it been for your organization?</em></li>
-  <li><em>If you are part of a central architecture team, how would you support the rest of the organization? How would you contribute to the global architecture practice if you were part of a distributed virtual team?</em></li>
+  <li><em>Which central, federated, or hybrid model best represents your current an architecture practice? Why was this model chosen, and how effective has it been for your organization?</em></li>
+  <li><em>If you are part of a central architecture team, how would you support the rest of the organization? How would you contribute to the global an architecture practice if you were part of a distributed virtual team?</em></li>
   <li><em>Consider having the roles of central architecture teams and federated architecture teams in your organization. How would they complement each other?</em></li>
   <li><em>How effective is the current division of responsibilities among architects in your organization? Are there areas of overlap or gaps in coverage?</em></li>
   <li><em>What steps has your organization taken to ensure architects are well-connected across all parts and levels? What impact has this had on transparency and the implementation of changes?</em></li>
@@ -977,13 +977,13 @@ Image by <a href="https://pixabay.com/users/chantellev-2412495/?utm_source=link-
 Image by <a href="https://pixabay.com/users/cocoparisienne-127419/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=366199">Anja</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=366199">Pixabay</a>
 </div>
 <blockquote>
-  <p><strong>IN THIS SECTION, YOU WILL:</strong>  Understand what activities you can do as a part of architecture practice and get tips on creating pragmatic operating models for an architecture practice.</p>
+  <p><strong>IN THIS SECTION, YOU WILL:</strong>  Understand what activities you can do as a part of an architecture practice and get tips on creating pragmatic operating models for an architecture practice.</p>
 
   <p><strong>KEY POINTS:</strong></p>
 
   <ul>
     <li>The Operating Model is a system of processes and agreements enabling architects to do everything architecture typically does, leveraging Architectural Analytics and Collaborative Networks to create a data-informed, organization-wide impact.</li>
-    <li>Examples of activities include: supporting teams in their daily work; tracking tech debt, defining tech debt reduction programs; performing technical due diligence; standardizing processes and documentation; defining cloud, data, and platform strategies.</li>
+    <li>Examples of activities include: supporting teams in their daily work; tracking tech debt; performing technical due diligence; standardizing processes and documentation; defining cloud, data, and platform strategies.</li>
   </ul>
 </blockquote>
 <style>
@@ -1007,11 +1007,11 @@ Image by <a href="https://pixabay.com/users/cocoparisienne-127419/?utm_source=li
 </style>
 
 <p><br />
-Each organization will have different architectural needs and contexts. When forming architecture functions, I use as a starting point these <a href="https://architectelevator.com/architecture/organizing-architecture/">two pieces of advice from Gregor Hohpe</a>:</p>
+Each organization will have different architectural needs and contexts. When forming an architecture practice, I use as a starting point these <a href="https://architectelevator.com/architecture/organizing-architecture/">two pieces of advice from Gregor Hohpe</a>:</p>
 
 <ul>
   <li><em>“Your architecture team’s job is to <strong>solve your biggest problems</strong>. The best setup is the one that allows it to accomplish that.”</em></li>
-  <li><em>“Your organization has to earn its way to an effective architecture function. <strong>You can’t just plug some architects into the current mess</strong> and expect it to solve all your problems.”</em></li>
+  <li><em>“Your organization has to earn its way to an effective an architecture practice. <strong>You can’t just plug some architects into the current mess</strong> and expect it to solve all your problems.”</em></li>
 </ul>
 
 <p>Considering Gregor Hohpe’s previous two points, I approach defining an architecture practice with the mindset that there is no one-size-fits-all method. You must find your own activities and operating models to enable architecture to solve the most critical problems.</p>
@@ -1020,83 +1020,88 @@ Each organization will have different architectural needs and contexts. When for
 There is no one-size-fits-all approach: each organization must find activities and operating models that enable architecture to solve the most critical problems.
 </div>
 
-<p>No matter which operating models you select, it’s crucial to develop <strong>explicit agreements</strong> and “rules of engagement” with key stakeholders. This collaborative approach is essential to create a sustainable and practical architectural function.</p>
+<p>No matter which operating models you select, it’s crucial to develop <strong>explicit agreements</strong> and “rules of engagement” with key stakeholders. This collaborative approach is essential to create a sustainable and practical an architecture practice.</p>
 
 <p><img src="assets/images/model-operating-model.png" alt="" />
 <em><strong>Figure 1:</strong> The Grounded Architecture framework: Operating Model.</em></p>
 
-<p>The Operating Model (Figure 1) is a set of processes and agreements that allows architects to do everything architecture practice typically does. It leverages Architectural Analytics and Collaborative Networks to develop a data-informed, organization-wide impact. Architectural Analytics and Collaborative Networks provide a basis for data-informed decision-making well embedded in the organization. It’s about instilling confidence and trust in your decision-making process.</p>
+<p>This section outlines some lessons I learned when defining IT architecture operating models. The Operating Model (Figure 1) is a part of the Grounded Architecture framework that defines a set of <strong>processes and agreements</strong> that allow architects to do everything an architecture practice typically does. The model should leverage Architectural Analytics and Collaborative Networks to develop a data-informed, organization-wide impact. Architectural Analytics and Collaborative Networks provide a basis for data-informed decision-making that is well-embedded in the organization.</p>
 
 <p><br /></p>
 <h2 id="examples-of-architecture-activities">Examples of Architecture Activities</h2>
 
-<p>To provide a clearer understanding of what I mean by an Operating Model, here are detailed examples of the activities I have been engaged in with architects.</p>
+<p>Here are examples of the activities I have been engaged in with architects to provide a clearer understanding of what I mean by an operating model.</p>
 
 <ul>
   <li>
-    <p><strong>Designing Mechanisms for Teams to Make Better Decisions</strong>: This involves creating global decision-support frameworks such as advisory forums, which facilitate informed discussions across teams. For compliance-sensitive projects, we establish formal design authorities. Additionally, we develop team-specific mechanisms, like escalation paths, to resolve decision conflicts effectively (e.g., when teams disagree on a common messaging middleware).</p>
+    <p><strong>Designing Mechanisms for Teams to Make Better Decisions</strong>: These mechanisms involved creating global decision-support frameworks such as advisory forums facilitating informed discussions across teams. For compliance-sensitive projects, we establish formal design authorities. Additionally, we develop team-specific mechanisms, like escalation paths, to resolve decision conflicts effectively (e.g., when teams disagree on a common messaging middleware).</p>
   </li>
   <li>
-    <p><strong>Supporting Teams in Their Daily Work</strong>: This entails integrating into key team activities, aligning architectural work with team rituals to provide timely support. We assist teams during all critical phases, such as reviewing architecture proposals before the commencement of a project or sprint, ensuring alignment with overall architectural standards.</p>
+    <p><strong>Supporting Teams in Their Daily Work</strong>: This support entailed integrating into key team activities and aligning architectural work with team rituals to provide timely support. We assisted teams during all critical phases, such as reviewing architecture proposals before the commencement of a project or sprint, ensuring alignment with overall architectural standards.</p>
   </li>
   <li>
-    <p><strong>Supporting Planned New Initiatives and Projects</strong>: Ensuring seamless alignment between projects that require multi-team collaboration is crucial. We work to facilitate communication and coordination, ensuring all teams are on the same page regarding project goals and requirements.</p>
+    <p><strong>Supporting Planned New Initiatives and Projects</strong>: Ensuring seamless alignment between projects that require multi-team collaboration is crucial. We worked to facilitate communication and coordination, ensuring all teams are on the same page regarding project goals and requirements.</p>
   </li>
   <li>
-    <p><strong>Supporting Teams in Dealing with the Legacy Landscape</strong>: We provide data and insights about the legacy landscape, identifying problematic areas such as frequently changed, low-quality, untested legacy code. We help define scenarios and roadmaps for legacy modernization, ensuring a structured approach to updating and maintaining legacy systems.</p>
+    <p><strong>Supporting Teams in Dealing with the Legacy Landscape</strong>: We provided data and insights about the legacy landscape, identifying problematic areas such as frequently changed, low-quality, untested legacy code. We helped define scenarios and roadmaps for legacy modernization, ensuring a structured approach to updating and maintaining legacy systems.</p>
   </li>
   <li>
     <p><strong>Tracking Tech Debt and Defining Tech Debt Reduction Programs</strong>: This involves creating a centrally aligned backlog of technical debt and defining programs for its reduction. We integrate these programs into the planning processes to ensure that tech debt is managed proactively and effectively.</p>
   </li>
   <li>
-    <p><strong>Performing SWOT and Other Analyses of Platforms and Systems</strong>: Conducting deep dives to understand specific areas of the technology landscape, We perform SWOT (Strengths, Weaknesses, Opportunities, Threats) analyses and other assessments. These analyses help in creating comprehensive plans and roadmaps for improvement.</p>
+    <p><strong>Performing SWOT and Other Analyses of Platforms and Systems</strong>: Conducting deep dives to understand specific areas of the technology landscape. We performed SWOT (Strengths, Weaknesses, Opportunities, Threats) analyses and other assessments. These analyses helped in creating comprehensive plans and roadmaps for improvement.</p>
   </li>
   <li>
-    <p><strong>Standardizing Processes and Documentation</strong>: We define standard templates for key documents such as Architectural Decision Records (ADRs), Technical Design Reviews (TDRs), and common diagrams. This standardization ensures consistency and clarity across all architectural documentation.</p>
+    <p><strong>Standardizing Processes and Documentation</strong>: We defined standard templates for key documents such as Architectural Decision Records (ADRs), Technical Design Reviews (TDRs), and common diagrams. This standardization ensures consistency and clarity across all architectural documentation.</p>
   </li>
   <li>
-    <p><strong>Supporting Merger and Acquisition (M&amp;A) Activities with Expertise and Analyses</strong>: We provide analyses, recommendations, and integration planning for mergers and acquisitions. My support ensures that architectural considerations are well-integrated into M&amp;A activities, facilitating smoother transitions and integrations.</p>
+    <p><strong>Supporting Merger and Acquisition (M&amp;A) Activities with Expertise and Analyses</strong>: We provided analyses, recommendations, and integration planning for mergers and acquisitions. Such support ensures that architectural considerations are well-integrated into M&amp;A activities, facilitating smoother transitions and integrations.</p>
   </li>
   <li>
-    <p><strong>Defining Key Technology Strategies</strong>: We contribute to the development of essential technology strategies, including those for Cloud, Data, and Platforms. These strategies provide a clear roadmap for technological development and investment, ensuring alignment with business goals.</p>
+    <p><strong>Defining Key Technology Strategies</strong>: We contributed to the development of essential technology strategies, including those for Cloud, Data, and Platforms. These strategies provide a clear roadmap for technological development and investment, ensuring alignment with business goals.</p>
   </li>
   <li>
-    <p><strong>Defining Vision and Direction of Technology</strong>: In collaboration with Engineering Leaders, We work on creating a sustainable organizational setting that aligns with the overarching technology strategies. This involves setting a clear vision and direction for the technology landscape within the organization.</p>
+    <p><strong>Defining Vision and Direction of Technology</strong>: In collaboration with Engineering Leaders, we created a sustainable organizational setting that aligns with the overarching technology strategies. This work involved setting a clear vision and direction for the technology landscape within the organization.</p>
   </li>
 </ul>
 
-<p>These activities collectively form an Operating Model, enabling a structured and strategic approach to architectural practices within the organization.</p>
+<p>These activities collectively formed our Operating Model, enabling a structured and strategic approach to an architecture practice within the organization.</p>
 
 <p><br /></p>
 <h2 id="guiding-principles-for-architectural-excellence-policies-autonomy-and-engagement">Guiding Principles for Architectural Excellence: Policies, Autonomy, and Engagement</h2>
 
-<p>In this section, I address different guiding principles of architectural work. The <strong>operating model</strong> emphasizes a <strong>collaborative</strong> and <strong>supportive</strong> approach. Architects empower development teams to make most decisions while ensuring strategic alignment and minimal compatibility. Architects engage early in processes to <strong>avoid bureaucratic delays,</strong> focus on constant motion between daily support and strategic tasks, and use data to inform decisions. The <strong>distributed decision-making</strong> model promotes team autonomy complemented by high transparency and alignment, guided by principles that balance autonomy with global consistency. The “Golden Paths” concept enhances uniformity and efficiency.</p>
+<p>In this section, I address different guiding principles of architectural work:</p>
+<ul>
+  <li>Our <strong>operating framework</strong> always emphasizes a <strong>collaborative</strong> and <strong>supportive</strong> approach. Architects should empower development teams to make most decisions while ensuring strategic alignment and minimal compatibility. Architects should engage early in processes to <strong>avoid bureaucratic delays,</strong> focus on constant motion between daily support and strategic tasks, and use data to inform decisions.</li>
+  <li>The <strong>distributed decision-making</strong> model promotes team autonomy complemented by high transparency and alignment, guided by principles that balance autonomy with global consistency.</li>
+  <li>The “Golden Paths” concept enhances uniformity and efficiency.</li>
+</ul>
 
-<h3 id="high-level-operating-model">High-Level Operating Model</h3>
+<h3 id="high-level-operating-framework">High-Level Operating Framework</h3>
 
-<p>While exact activities and their scope will depend on an organization setting and will change over time, I usually followed a common operational model in daily work inspired by Gregor Hohpe’s strategy-principles-decisions model (Figure 2).</p>
+<p>While exact activities and their scope will depend on an organization setting and will change over time, I usually followed a common operational framework in daily work inspired by Gregor Hohpe’s strategy-principles-decisions model (Figure 2).</p>
 
 <div>
 <a href="assets/images/arch/architecture-system.png" target="_blank">
     <img src="assets/images/arch/architecture-system.png" />
 </a>
 </div>
-<p><strong>Figure 2:</strong> <em>A common operating model I typically use for Grounded Architecture activities.</em></p>
+<p><strong>Figure 2:</strong> <em>A common operating framework I typically use for Grounded Architecture activities.</em></p>
 
 <p><br /></p>
 
-<p>Here are the key characteristics of this operating model.</p>
+<p>Here are the key characteristics of this operating framework:</p>
 
 <p><strong>Engagement mindset</strong>:</p>
 <ul>
-  <li>Architects engage with stakeholders and product and project teams in a <strong>collaborative and supportive manner</strong>.</li>
+  <li>Architects engage with stakeholders and teams in a <strong>collaborative and supportive manner</strong>.</li>
   <li>Architects aim to <strong>empower the teams</strong> so that they make most of the decisions.</li>
 </ul>
 
 <p><strong>Contributions of architects</strong>:</p>
 <ul>
   <li><strong>Bring relevant data</strong> to inform decisions leveraging a <a href="analytics">Architectural Analytics</a>.</li>
-  <li><strong>Define decision boundaries</strong> to enable minimal compatibility and strategic alignment (e.g., public cloud provider, golden paths, or tech stack constraints).</li>
+  <li><strong>Define decision boundaries</strong> to enable minimal compatibility and strategic alignment (e.g., golden paths or tech stack constraints).</li>
   <li><strong>Define fundamental principles</strong> to facilitate consistency in decision-making.</li>
   <li><strong>Share and generalize</strong> lessons learned via a <a href="people">Collaborative Networks</a>.</li>
 </ul>
@@ -1121,15 +1126,16 @@ There is no one-size-fits-all approach: each organization must find activities a
 Grounded Architecture aims to make relevant information more readily available to a broader audience and better connect people when making decisions.
 </div>
 
-<p>While I aim to create a mechanism to give teams autonomy, autonomy does not mean that teams are alone and do not align with anyone, do not get feedback from anyone, and do whatever they want. Teams must complement autonomy with high transparency and proactivity in alignment with other groups.</p>
+<p>While I aim to create a mechanism to give teams autonomy, autonomy does not mean that teams are alone, do not align with anyone, do not get feedback from anyone, and do whatever they want. Teams must complement <strong>autonomy</strong> with high <strong>transparency</strong> and <strong>proactivity</strong> in alignment with other groups.</p>
 
-<p>To give maximal autonomy to the teams while maintaining a <strong>minimal</strong> level of global <strong>alignment and compatibility</strong>, I have sometimes implemented the concept of a <strong>decision pyramid</strong>  (Figure 3).</p>
+<p>I have sometimes implemented the concept of a <strong>decision pyramid</strong> (Figure 3) to give the teams <strong>maximal autonomy</strong> while maintaining a <strong>minimal</strong> level of <strong>global alignment</strong> and compatibility.</p>
 
 <p>The <strong>decision pyramid</strong> highlights that development teams should make most decisions. However, several strategic and area-level choices may provide team decision boundaries. For example, selecting the public cloud provider is typically a CTO-level strategic decision. Similarly, engineering leaders in some areas may want to limit some choices, such as the number of programming languages, to more easily train new people, maintain code, and support moves between teams.</p>
 
 <p><img src="assets/images/arch/decision-pyramid.png" alt="" />
-<em><strong>Figure 3:</strong> A decision pyramid. The development teams should make most decisions. However, several strategic and area-level decisions may provide decision boundaries for teams (e.g., a public cloud provider).</em></p>
+<em><strong>Figure 3:</strong> A decision pyramid. The development teams should make most decisions. However, several strategic and area-level decisions may provide decision boundaries for teams (e.g., golden paths or tech stack constraints).</em></p>
 
+<p><br /></p>
 <h3 id="general-architecture-decision-policy">General Architecture Decision Policy</h3>
 
 <p>Distributed decision-making scales well, but it can lead to chaos if entirely uncoordinated. Some decision policies are needed. Inspired by the famous <strong><a href="https://hbr.org/2014/01/how-netflix-reinvented-hr">Netflix expense policy</a></strong>, <em>“Act in Netflix’s best interests”</em>, I frequently argued that architecture decision policy could similarly be summarized in six words:</p>
@@ -1140,14 +1146,14 @@ Grounded Architecture aims to make relevant information more readily available t
 
 <ul>
   <li><strong>Overall organizational complexity</strong>: Technology is more manageable by limiting tech diversity, size, and dependencies. Limiting technology choices reduces the attack surface with fewer third-party dependencies and tool ecosystems (build, testing, etc.).</li>
-  <li><strong>Ease of moving people</strong> between teams (both to get help and help others, get promoted): Do not unnecessarily create exotic islands with few experts in technologies not supported or widely used in the organization. People cannot get help or move across the organization as their expertise may be useless outside the team.</li>
-  <li><strong>Ease of training and onboarding</strong> of internal and external developers: Using conventional technologies, supported with external learning resources (books, tutorials, StackOverflow) significantly helps find and grow experts.</li>
-  <li><strong>Talent density</strong> and the possibility of performing at the world-scale level: Building world-scale technology and scaling requires in-depth knowledge and fine-tuning. It cannot be achieved with only a few in-house experts.</li>
+  <li><strong>Ease of moving people</strong> between teams (both to get help and help others): Do not unnecessarily create exotic islands with few experts in technologies not supported or widely used in the organization. People cannot get help or move across the organization as their expertise may be useless outside the team.</li>
+  <li><strong>Ease of training and onboarding</strong> of internal and external developers: Using conventional technologies supported by external learning resources (e.g., books, tutorials) significantly helps find and grow experts.</li>
+  <li><strong>Talent density</strong> and the possibility of performing at the world-scale level: Building world-scale technology and scaling requires in-depth knowledge and fine-tuning. You cannot achieve it with only a few in-house experts.</li>
   <li>New <strong>reorganizations</strong>: If the ownership of components changes (e.g., another team is taking it over), would your choices fit with other components from other areas?</li>
   <li>Reducing global <strong>duplication of effort</strong> and inefficiencies: Are you doing the work others are doing? Can others reuse your work? Can you reuse the work of others?</li>
 </ul>
 
-<p>While it may not always be enough, this simple policy resonates well. It encourages people to be more thoughtful when making decisions.</p>
+<p>While it may not always be enough, this simple policy can resonate well with many people and can encourage them to be more thoughtful when making decisions.</p>
 
 <p><br /></p>
 <h3 id="golden-paths">Golden Paths</h3>
@@ -1159,14 +1165,14 @@ Grounded Architecture aims to make relevant information more readily available t
 Image by engineering.atspotify.com
 </div>
 
-<p>Golden paths provide a solid <strong>foundation for aligning</strong> architecture activities, serving as a common target of work for Guilds and central architectural teams. Rather than being solely knowledge-sharing entities, guilds can be empowered to develop golden paths, serving as an excellent catalyst for more effective community engagement. This approach not only enhances the role of guilds but also increases the adoption of golden paths as they are created collaboratively.</p>
+<p>Golden paths provide a solid <strong>foundation for aligning</strong> architecture activities, serving as a common target of work for Guilds and central architectural teams. Rather than being solely knowledge-sharing entities, <strong>guilds</strong> can be empowered to <strong>develop golden paths,</strong> serving as an excellent catalyst for more effective community engagement. This approach not only enhances the role of guilds but also increases the adoption of golden paths as they are created collaboratively.</p>
 
-<p>Golden Paths can be crucial to an organization’s IT development landscape as a deliberate and strategic effort to promote uniformity, efficiency, and reliability. By advocating for a set of preferred technologies and practices that are well-supported, secure, and aligned with the organization’s broader objectives, Golden Paths can guide developers to build less fragmented, and faster-to-develop software. Ultimately, this leads to higher-quality and more maintainable IT systems.</p>
+<p>Golden Paths can be crucial to an organization’s IT development landscape as a deliberate and strategic effort to promote <strong>uniformity,</strong> <strong>efficiency,</strong> and <strong>reliability.</strong> By advocating for a set of preferred technologies and practices that are <strong>well-supported,</strong> <strong>secure,</strong> and aligned with the organization’s broader objectives, Golden Paths can guide developers to build less fragmented, and faster-to-develop software. Ultimately, this leads to higher-quality and more maintainable IT systems.</p>
 
 <p><br /></p>
 <h2 id="setting-boundaries">Setting Boundaries</h2>
 
-<p>One of the amusing challenges with setting up an architecture function in an organization is that everyone seems to have a different idea of what “architecture” should entail. It’s like asking people to describe a unicorn: some imagine a mythical, majestic creature, while others picture a sparkly horse with a horn that grants wishes. Good architects can do many things, but this versatility might not always be the most effective way to support the organization. We need to <strong>set boundaries</strong> so that we can focus on what’s important rather than becoming frazzled by what’s not.</p>
+<p>One of the amusing challenges with setting up an architecture practice in an organization is that everyone seems to have a different idea of what “architecture” should entail. It’s like asking people to describe a unicorn: some imagine a mythical, majestic creature, while others picture a sparkly horse with a horn that grants wishes. Good architects can do many things, but this versatility might not always be the most effective way to support the organization. We need to <strong>set boundaries</strong> so that we can focus on what’s important rather than becoming frazzled by what’s not.</p>
 
 <p><br />
 <img src="assets/images/iStock-92285726.jpg" alt="" /></p>
@@ -1177,11 +1183,11 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Ingen
 
 <p>To be effective, I’ve found it crucial to establish and clearly communicate some “<strong>rules of engagement</strong>” (ROE). Think of ROE as the office playbook for how architects should operate. In a corporate setting, ROE are the principles that guide how employees and departments interact with each other, clients, and stakeholders. This includes communication protocols, decision-making processes, and conflict-resolution mechanisms. Essentially, ROE sets the stage for what’s expected and what’s not, ensuring everyone plays nicely and fairly.</p>
 
-<p>While you may need to tailor these rules to fit your organization, I found it helpful to set expectations for what the team should be able to do to qualify for the architecture support. Here’s a handy list of expectations for teams seeking architecture support. This also helps clarify what architecture practice isn’t supposed to do:</p>
+<p>While you may need to tailor these rules to fit your organization, I found it helpful to set expectations for what the team should be able to do to qualify for the architecture support. Here’s a handy list of expectations for teams seeking architecture support. This also helps clarify what an architecture practice isn’t supposed to do:</p>
 
 <ol>
   <li>
-    <p><strong>Organizational Awareness and Connections:</strong> Teams should know all relevant stakeholders and actively engage with them. This includes product, development, and business stakeholders. Planning should be collaborative across all affected teams, with active working relationships with global functions like QA, DevOps, or Security.</p>
+    <p><strong>Organizational Awareness and Connections:</strong> Teams should know all relevant stakeholders and actively engage with them. This knowledge should include product, development, and business stakeholders. Planning should be collaborative across all affected teams, with active working relationships with global functions like QA, DevOps, or Security.</p>
   </li>
   <li>
     <p><strong>Enough Capacity and Skills:</strong> Teams should have adequate development capacity with the right skills and seniority to innovate and maintain their products.</p>
@@ -1203,9 +1209,9 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Ingen
   </li>
 </ol>
 
-<p>Aligning on these rules with the teams helps ensure productive conversations about architectural support. When these conditions are met, architecture practice can help teams level up. When they’re not, architecture support can’t be as effective. However, that doesn’t mean struggling teams are left in the lurch. Architecture can help teams meet these expectations but can’t compensate for their total lack. Teams need to take the initiative and lead. For instance, it’s impractical to have architects working full-time for months with one team as their senior developer. However, architects can coach and help developers grow. Similarly, architects can assist in building relationships with other teams, but the teams themselves need to be active and engaged.</p>
+<p>Aligning on these rules with the teams helps ensure productive conversations about architectural support. When these conditions are met, an architecture practice can help teams level up. When they’re not, architecture support can’t be as effective. However, that doesn’t mean struggling teams are left in the lurch. Architecture can help teams meet these expectations but can’t compensate for their total lack. Teams need to take the initiative and lead. For instance, it’s impractical to have architects working full-time for months with one team as their senior developer. However, architects can coach and help developers grow which is a more scalable appraoch. Similarly, architects can assist in building relationships with other teams, but the teams themselves need to be active and engaged.</p>
 
-<p>So, set those expectations, establish your rules of engagement, and watch as your architecture function goes from a sparkly unicorn to a well-oiled machine!</p>
+<p>So, set those expectations, establish your rules of engagement, and watch as your an architecture practice goes from a sparkly unicorn to a well-oiled machine!</p>
 
 <p><br /></p>
 <h2 id="to-probe-further">To Probe Further</h2>
@@ -1218,7 +1224,7 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Ingen
 <p><br /></p>
 <h2 id="questions-to-consider">Questions to Consider</h2>
 
-<p>Your architecture practice job is to solve the biggest problems in your organization. Ask yourself the following questions:</p>
+<p>Your an architecture practice job is to solve the biggest problems in your organization. Ask yourself the following questions:</p>
 
 <ul>
   <li><em>How can you identify the most critical problems that your architects need to solve in your organization?</em></li>
@@ -1228,15 +1234,15 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Ingen
   <li><em>How does the proposed common operating model align with your current operational practices in your organization? What changes might be necessary to adopt this model?</em></li>
   <li><em>In your experience, how early are architects involved in projects and activities? Do you agree with the goal of ‘shifting left’ the architecture work?</em></li>
   <li><em>How are architectural decisions distributed across your organization currently? How could this process be improved to ensure the people with the most relevant information make the decisions?</em></li>
-  <li><em>Reflect on the balance of autonomy and alignment in your organization. How could you better implement a mechanism to give teams autonomy while maintaining alignment and compatibility with global strategy?</em></li>
-  <li><em>How does the concept of a decision pyramid resonate with you? How is it reflected in your current organization, and how could it be better implemented?</em></li>
+  <li><em>How could you better implement a mechanism to give teams autonomy while maintaining alignment and compatibility with global strategy?</em></li>
+  <li><em>How does the concept of a decision pyramid resonate with you?</em></li>
   <li><em>Which strategic and area-level decisions provide team decision boundaries in your organization? Are there areas where you need more or less limitations to optimize performance?</em></li>
 </ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[Operating Model defines how, by leveraging Architectural Analytics and Collaborative Networks, we perform activities that help an organization reach its goals. Examples include supporting teams in their daily work, tracking tech debt, performing technical due diligence, standardizing processes and documentation, and defining cloud, data, and platform strategies.]]></summary></entry><entry><title type="html">Transforming Organizations with Grounded Architecture</title><link href="http://localhost:4000/transformation" rel="alternate" type="text/html" title="Transforming Organizations with Grounded Architecture" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/value</id><content type="html" xml:base="http://localhost:4000/transformation"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/iStock-1893527682.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/gremlin">gremlin</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 <blockquote>
-  <p><strong>IN THIS SECTION, YOU WILL:</strong>  Understand the value that architecture practice based on the ideas of Grounded Architecture can create for an organization.</p>
+  <p><strong>IN THIS SECTION, YOU WILL:</strong>  Understand the value that an architecture practice based on the ideas of Grounded Architecture can create for an organization.</p>
 
   <p><strong>KEY POINTS:</strong></p>
 
@@ -1266,8 +1272,8 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/greml
 When a Grounded Architecture framework is in place, it can positively transform an organization’s functioning. These categories of impact, aligned with <a href="goals">defined goals</a>, are:</p>
 
 <ul>
-  <li>Enabling Execution of Architecture Function At Scale,</li>
-  <li>Increasing Architecture Function Adaptivity,</li>
+  <li>Enabling Execution of Architecture Practice At Scale,</li>
+  <li>Increasing Architecture Practice Adaptivity,</li>
   <li>Improving the Quality of Decision-Making with Data,</li>
   <li>Maximizing Organizational Alignment, and</li>
   <li>Maximizing Organizational Learning.</li>
@@ -1284,14 +1290,14 @@ When a Grounded Architecture framework is in place, it can positively transform 
 Image by <a href="https://pixabay.com/users/wikiimages-1897/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=11595">WikiImages</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=11595">Pixabay</a>
 </div>
 
-<p>Each element of Grounded Architecture enables architecture function to operate at scale in several ways.</p>
+<p>Each element of Grounded Architecture enables an architecture practice to operate at scale in several ways.</p>
 
 <h3 id="architectural-analytics">Architectural Analytics</h3>
 <p>The <strong>Architectural Analytics</strong> can support large-scale operations by:</p>
 
 <ul>
-  <li><strong>Self-Service Data Access</strong>: Providing data as a self-service resource allows teams to access the information they need independently, reducing the reliance on manual sharing methods. This can be facilitated through internal websites or portals where data tools and insights are readily available.</li>
-  <li><strong>Elimination of Meetings</strong>: We significantly reduced the need for numerous information-sharing or data-gathering meetings using automated data tools (every time we added a new data app, I got a few hours back in my calendar and had fewer Slack messages). This reduction saves time and ensures that data is consistently up-to-date and accessible.</li>
+  <li><strong>Self-Service Data Access</strong>: Providing data as a self-service resource allows teams to access the information they need independently, reducing the reliance on manual sharing methods. This service can be facilitated through internal websites or portals where data tools and insights are readily available.</li>
+  <li><strong>Elimination of Meetings</strong>: As architects frequently own some unique pieces of information, in particular related to the big picture and overall dependecies, lots of architecture support goes on providing that information to the teams. Typically that means having meetings, workshops and exchanging lots of messages. With Architectural Analytics, we significantly reduced the need for such information-sharing or data-gathering meetings (every time we added a new data app, I got a few hours back in my calendar and exchanged fewer messages). Sharing data via Architatural Analytics dashboards also generates a useful feedback about how data are used, and helps ensuring that data is up-to-date and accessible.</li>
   <li><strong>Automation</strong>: Automation minimizes manual effort, which is crucial as manual processes do not scale efficiently. Automating data management processes ensures that data can be collected, processed, and analyzed without extensive human intervention.</li>
 </ul>
 
@@ -1305,10 +1311,10 @@ Image by <a href="https://pixabay.com/users/wikiimages-1897/?utm_source=link-att
 </ul>
 
 <h3 id="operating-model">Operating Model</h3>
-<p>The <strong>Operating Model</strong> promotes scalability by:</p>
+<p>The <strong>Operating Model</strong> promotes execution at scale by:</p>
 
 <ul>
-  <li><strong>Distributed Decision-Making</strong>: Encouraging organizational decision-making prevents bottlenecks associated with centralized decision-making processes. This empowers more people to take ownership and make decisions within their scope, leading to faster and more effective outcomes.</li>
+  <li><strong>Distributed Decision-Making</strong>: Distributing decision-making accrossd an organization prevents bottlenecks associated with centralized decision-making processes. This model empowers more people to take ownership and make decisions within their scope, leading to faster and more effective outcomes.</li>
   <li><strong>Promoting a Collaborative Operating Model</strong>: An operating model that supports distributed decision-making and collaboration ensures that the organization can handle more projects simultaneously without overburdening any single entity or individual.</li>
 </ul>
 
@@ -1317,7 +1323,7 @@ Image by <a href="https://pixabay.com/users/wikiimages-1897/?utm_source=link-att
 <p><br /></p>
 <h2 id="adaptivity">Adaptivity</h2>
 
-<p>The second goal, ensuring that architectural functions can adapt quickly to stay relevant in new contexts, is crucial for maintaining an organization’s agility and resilience.</p>
+<p>The second goal, ensuring that an architecture practice can adapt quickly to stay relevant in new contexts, is crucial for maintaining an organization’s agility and resilience.</p>
 
 <p><br />
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/lego-g7d6cf2046_1920.png" /></p>
@@ -1332,8 +1338,8 @@ Image by <a href="https://pixabay.com/users/painter06-3732158/?utm_source=link-a
 <p>The <strong>Architectural Analytics</strong> can support adaptability by:</p>
 
 <ul>
-  <li><strong>Automation and Extensibility</strong>: We could swiftly extend and reconfigure our data infrastructure by implementing a highly automated Architectural Analytics to accommodate changes. For example, this could involve integrating new source code repositories and data sources following acquisitions or mergers. Automation ensures that data remains relevant and up-to-date, providing essential connections and feedback tailored to the organization’s evolving needs.</li>
-  <li><strong>Configurable Adaptation to Organizational Changes</strong>: A robust Architectural Analytics adapts its views to the changing realities of different parts of the organization, ensuring that data insights are always aligned with current operational contexts.</li>
+  <li><strong>Automation and Extensibility</strong>: We used lean and flexible tools that we could swiftly extend and reconfigure to accommodate changes. For example, following acquisitions or mergers, with our lean tools and automation scripts, we were able to integrate all new source code repositories and many other data sources in a matter of hours or days. Automation ensures that data remains relevant and up-to-date, providing essential connections and feedback tailored to the organization’s evolving needs.</li>
+  <li><strong>Configurable Adaptation to Organizational Changes</strong>: We created robust Architectural Analytics to adapt its views to the changing realities of different parts of the organization, ensuring that data insights are always aligned with current operational contexts. For instance, we developed tools that enable explorative, on-the-fly aggregation of diverse data sources (e.g., created aggregated source code statistic reports based on repository tags or name conventions).</li>
 </ul>
 
 <h3 id="collaborative-networks-1">Collaborative Networks</h3>
@@ -1341,8 +1347,8 @@ Image by <a href="https://pixabay.com/users/painter06-3732158/?utm_source=link-a
 <p>The <strong>Collaborative Networks</strong> can support adaptability by:</p>
 
 <ul>
-  <li><strong>Capacity Redistribution</strong>: Collaborative Networks, through a central team, can alleviate the temporary capacity shortages experienced by distributed teams. This ensures that architectural functions continue to operate smoothly even during periods of high demand or limited resources.</li>
-  <li><strong>Decentralized Support</strong>: By maintaining a network of well-connected architects, the architecture function can support the organization effectively without relying solely on a central team. This decentralization fosters resilience and adaptability, enabling architectural guidance and oversight across various teams and projects.</li>
+  <li><strong>Capacity Redistribution</strong>: Collaborative Networks, through a central team, can alleviate the temporary capacity shortages experienced by distributed teams. This flexibility ensures that an architecture practice continue to operate smoothly even during periods of high demand or limited resources.</li>
+  <li><strong>Decentralized Support</strong>: By maintaining a network of well-connected architects, an architecture practice can support the organization effectively without relying solely on a central team. This decentralization fosters resilience and adaptability, enabling architectural guidance and oversight across various teams and projects.</li>
 </ul>
 
 <h3 id="operating-model-1">Operating Model</h3>
@@ -1350,11 +1356,11 @@ Image by <a href="https://pixabay.com/users/painter06-3732158/?utm_source=link-a
 <p>The <strong>Operating Model</strong> can support adaptability by:</p>
 
 <ul>
-  <li><strong>Flexible Decision-Making</strong>: The Operating Model supports adaptivity by promoting a flexible setting and distributing decision-making authority throughout the company. This distribution helps prevent the architecture function from becoming a bottleneck or a single point of failure.</li>
-  <li><strong>Delegation of Architectural Decisions</strong>: Senior architects can delegate most architectural decisions to teams, allowing them to focus on critical strategic initiatives. This includes defining cloud, data, or platform strategies and supporting significant decisions related to mergers and acquisitions.</li>
+  <li><strong>Flexible Decision-Making</strong>: The Operating Model supports adaptivity by promoting a flexible setting and distributing decision-making authority throughout the company. This distribution helps prevent an architecture practice from becoming a bottleneck or a single point of failure.</li>
+  <li><strong>Delegation of Architectural Decisions</strong>: Senior architects can delegate most architectural decisions to teams, allowing them to focus on critical strategic initiatives, such as defining cloud, data, or platform strategies and supporting significant decisions related to mergers and acquisitions. By grounding the architecture with data and people connections, organizations empower senior architects to concentrate on high-impact areas.</li>
 </ul>
 
-<p>By grounding the architecture with data and people connections, organizations empower senior architects to concentrate on high-impact areas. This structure enhances the architectural function’s flexibility and adaptivity. It ensured we could respond promptly and effectively to new challenges and opportunities.</p>
+<p>This structure enhances an architecture practice’s flexibility and adaptivity. It ensured we could respond promptly and effectively to new challenges and opportunities.</p>
 
 <p><br /></p>
 <h2 id="improving-the-quality-of-decision-making-with-data">Improving the Quality of Decision-Making with Data</h2>
@@ -1371,21 +1377,21 @@ Image by <a href="https://pixabay.com/users/qimono-1962238/?utm_source=link-attr
 
 <h3 id="architectural-analytics-2">Architectural Analytics</h3>
 
-<p>The <strong>Architectural Analytics</strong> ensures the availability and readiness of data needed for decisions, fueling data-informed discussions and decision-making via:</p>
+<p>The <strong>Architectural Analytics</strong> ensures the availability and readiness of data needed for decisions, fueling data-informed discussions:</p>
 
 <ul>
   <li><strong>Data Collection:</strong> Systematically gather high-quality data on relevant internal and external technology developments.</li>
   <li><strong>Data Management:</strong> Maintain a well-organized and easily accessible database that supports quickly retrieving relevant data.</li>
-  <li><strong>Data Analytics:</strong> Employ advanced analytics tools to process and interpret the data, providing meaningful insights to support decisions.</li>
+  <li><strong>Data Analytics:</strong> Employ analytics tools to process and interpret the data, providing meaningful insights to support decisions.</li>
   <li><strong>Real-Time Data Availability:</strong> Ensure that data is updated regularly and available in real-time to inform ongoing discussions and decisions.</li>
 </ul>
 
 <h3 id="collaborative-networks-2">Collaborative Networks</h3>
 
-<p>Data is not enough; you need to make this data available to and used by critical people. The <strong>Collaborative Networks</strong> ensures people are available and well-connected to share information and make decisions via:</p>
+<p>Data is not enough; you need to make this data available to decision-makers. The <strong>Collaborative Networks</strong> ensures people are well-connected to share information and make decisions via:</p>
 
 <ul>
-  <li><strong>Expert Network:</strong> Establish and maintain a network of knowledgeable experts and stakeholders who can provide insights on various architectural aspects.</li>
+  <li><strong>Expert Network:</strong> Establish and maintain a network of experts and stakeholders who can provide insights on various architectural aspects.</li>
   <li><strong>Collaboration Tools:</strong> Implement collaboration tools that facilitate seamless communication and information sharing among team members.</li>
   <li><strong>Training and Development:</strong> Provide training programs to enhance the data literacy and analytical skills of architects and decision-makers.</li>
   <li><strong>Engagement Practices:</strong> Develop practices for regularly engaging stakeholders and ensuring their input is considered in decision-making.</li>
@@ -1398,7 +1404,7 @@ Image by <a href="https://pixabay.com/users/qimono-1962238/?utm_source=link-attr
   <li><strong>Process Implementation:</strong> Implement processes that guide architects in dismantling hype and buzzwords, presenting problems clearly, and making data-driven decisions.</li>
   <li><strong>Data Integration:</strong> Develop methodologies for integrating relevant data into discussions, ensuring that data supports and guides the conversation.</li>
   <li><strong>Economic Risk Modeling:</strong> Create models that translate drivers and data into economic risk assessments, helping to identify the best solutions for the given business context.</li>
-  <li><strong>Decision Support Tools:</strong> Deploy tools and technologies that assist in visualizing data, modeling risks, and objectively evaluating options.</li>
+  <li><strong>Decision Support Tools:</strong> Deploy tools and technologies that assist in visualizing data, modeling risks, and evaluating options.</li>
 </ul>
 
 <p>Focusing on these foundational elements and their key actions can transform our architectural discussions into a more data-informed process. This focus ultimately led us to better, more objective decision-making that aligns with our business context and goals.</p>
@@ -1406,7 +1412,7 @@ Image by <a href="https://pixabay.com/users/qimono-1962238/?utm_source=link-attr
 <p><br /></p>
 <h2 id="maximizing-organizational-alignment">Maximizing Organizational Alignment</h2>
 
-<p>The fourth goal emphasizes that the architecture function should be a cohesive factor in minimizing misalignments within large organizations.</p>
+<p>The fourth goal emphasizes that an architecture practice should be a cohesive factor in minimizing misalignments within large organizations.</p>
 
 <p><img src="assets/images/arch/iStock-165954660.jpg" alt="" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
@@ -1429,20 +1435,18 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Curva
 
 <ul>
   <li>Facilitating <strong>pre-decision alignment</strong> via <strong>collaborative decision-making.</strong> This platform plays a pivotal role in minimizing misalignments by enabling individuals and teams working on similar projects or topics to identify each other and collaborate. This early alignment minimizes duplication of efforts and optimizes resource utilization, ensuring that efforts are aligned from the outset.</li>
-  <li>Facilitating <strong>post-decision dissemination</strong> via <strong>knowledge sharing and more awareness.</strong> After decisions are made, the platform ensures that these decisions are communicated across the organization. This widespread dissemination helps all parts of the organization benefit from the insights and lessons learned from one unit, leading to more cohesive and aligned operations.</li>
+  <li>Facilitating <strong>post-decision dissemination</strong> via <strong>knowledge sharing and more awareness.</strong> After decisions are made, we can leverage the collaborative networks can ensure that these decisions are communicated across the organization. This widespread dissemination helps all parts of the organization benefit from the insights and lessons learned from one unit, leading to more cohesive and aligned operations.</li>
 </ul>
 
-<p>An architecture function can reduce misalignments and drive a more unified, efficient, and aligned organization by integrating data transparency, enhanced collaboration, and structured processes for decision-making and dissemination.</p>
+<p>An an architecture practice can reduce misalignments and drive a more unified, efficient, and aligned organization by integrating data transparency, enhanced collaboration, and structured processes for decision-making and dissemination.</p>
 
 <p><br /></p>
 <h2 id="maximizing-organizational-learning">Maximizing Organizational Learning</h2>
 <blockquote>
   <p><em>“Good judgment comes from experience, and experience comes from bad judgment.”</em> – Fred Brooks</p>
-
-  <p><em>” I expect you to learn to be better each day. I challenge you to look at each working day as an opportunity to learn more and, by doing so, to grow as a person.”</em> – L. David Marquet</p>
 </blockquote>
 
-<p>The last goal is that architecture should help organizations learn quickly, stay up-to-date with emerging technologies and industry trends, and recommend technology upgrades. Learning is one of the primary daily tasks of architects. Architects must proactively identify relevant new technology developments and create pragmatic technology recommendations for concrete platforms across the organization based on their understanding.</p>
+<p>Our last goal is that architecture should help organizations learn quickly, stay up-to-date with emerging technologies and industry trends, and recommend technology upgrades. Learning is one of the primary daily tasks of architects. Architects must proactively identify relevant new technology developments and create pragmatic technology recommendations for concrete platforms across the organization based on their understanding.</p>
 
 <p><br />
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/iStock-871461580.jpg" /></p>
@@ -1461,11 +1465,11 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Rawpi
 </ul>
 
 <h3 id="collaborative-networks-4">Collaborative Networks</h3>
-<p>Collaborative Networks enhances learning by creating and maintaining a culture of knowledge sharing. It achieves this through:</p>
+<p>Collaborative Networks enhance learning by creating and maintaining a culture of knowledge sharing. It achieves this through:</p>
 
 <ul>
-  <li><strong>Spaces for Sharing Knowledge</strong>: Regular update calls, knowledge-sharing sessions, and conferences are organized to facilitate the exchange of architectural and technological knowledge. These events are critical for informing the organization about the latest developments and best practices.</li>
-  <li><strong>Maximizing Personal Learning</strong>: Collaborative Networks ensures that individual lessons are transformed into shared guidelines by deriving generalized insights from cross-group cases. This collective intelligence benefits the entire organization and fosters continuous personal and professional growth among team members.</li>
+  <li><strong>Spaces for Sharing Knowledge</strong>: Regular update calls, knowledge-sharing sessions, and conferences need to be organized to facilitate the exchange of architectural and technological knowledge. These events are critical for informing the organization about the latest developments and best practices.</li>
+  <li><strong>Maximizing Personal Learning</strong>: Collaborative Networks ensure that individual lessons are transformed into shared guidelines by deriving generalized insights from cross-group cases. This collective intelligence benefits the entire organization and fosters continuous personal and professional growth among team members.</li>
 </ul>
 
 <h3 id="operating-model-3">Operating Model</h3>
@@ -1484,15 +1488,15 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Rawpi
 <p>It is always essential to be thoughtful about the value and impact of your work. Ask yourself the following questions:</p>
 
 <ul>
-  <li><em>How effective is your organization’s current architectural function at scale? How valuable could principles of Grounded Architecture be in enhancing its efficiency?</em></li>
+  <li><em>How effective is your organization’s current an architecture practice at scale? How valuable could principles of Grounded Architecture be in enhancing its efficiency?</em></li>
   <li><em>To what extent does your organization use data to inform architectural decisions? What steps could you take to move your organization from opinion-based to more data-driven decision-making?</em></li>
-  <li><em>How well-aligned are the different areas within your organization, and how does this affect your architectural function? Could the Architectural Analytics and Collaborative Networks principles be utilized to improve alignment?</em></li>
+  <li><em>How well-aligned are the different areas within your organization, and how does this affect your an architecture practice? Could the Architectural Analytics and Collaborative Networks principles be utilized to improve alignment?</em></li>
   <li><em>What strategies does your organization currently have to foster organizational learning? How could the methods described in the Grounded Architecture model enhance this?</em></li>
-  <li><em>How quickly can your organization adopt and utilize new technologies? How could your architecture practice accelerate this process?</em></li>
-  <li><em>Consider the adaptivity of your organization’s architectural function. How could your architecture practice improve it?</em></li>
+  <li><em>How quickly can your organization adopt and utilize new technologies? How could your an architecture practice accelerate this process?</em></li>
+  <li><em>Consider the adaptivity of your organization’s an architecture practice. How could your an architecture practice improve it?</em></li>
   <li><em>Reflecting on the value of the “Architectural Analytics” concept, how effectively is your organization tracking changes or supporting what-if scenarios analysis?</em></li>
   <li><em>What role do most senior architects play in your organization? Could their time be better utilized on strategic initiatives?</em></li>
-  <li><em>How sustainable is the architectural function in your organization in the absence of a strong central team? Could implementing a Architectural Analytics and well-connected architects help mitigate this?</em></li>
+  <li><em>How sustainable is an architecture practice in your organization in the absence of a strong central team? Could implementing a Architectural Analytics and well-connected architects help mitigate this?</em></li>
 </ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[When the Grounded Architecture Framework is in place, it can significantly impact an organization's functioning: Executing At Scale, Adaptivity, Improving the Quality of Decision-Making with Data, and Maximizing Organizational Alignment & Learning.]]></summary></entry><entry><title type="html">On Being Architect: Introduction</title><link href="http://localhost:4000/being-architect" rel="alternate" type="text/html" title="On Being Architect: Introduction" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/being-architect</id><content type="html" xml:base="http://localhost:4000/being-architect"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/iStock-1194454929.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/AzmanL">AzmanL</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
@@ -1642,7 +1646,7 @@ To succeed as an IT architect, you need the skills and the right <strong>mindset
 
 <h2 id="superglue-impact">Superglue Impact</h2>
 
-<p>Tensions among technology, product, organization, and business functions can slow down progress, lead to poor decisions, introduce complexity, and cause missed opportunities. Acting as superglue, architects can mitigate these issues by fostering better communication and alignment among these elements. The goal is <strong>not to create new barriers</strong> but to bring these functions closer together, ensuring a cohesive and efficient operation. This approach may appear to diminish the need for a formal architecture practice, but in reality, it transforms the role into one integral to the organization’s success.</p>
+<p>Tensions among technology, product, organization, and business functions can slow down progress, lead to poor decisions, introduce complexity, and cause missed opportunities. Acting as superglue, architects can mitigate these issues by fostering better communication and alignment among these elements. The goal is <strong>not to create new barriers</strong> but to bring these functions closer together, ensuring a cohesive and efficient operation. This approach may appear to diminish the need for a formal an architecture practice, but in reality, it transforms the role into one integral to the organization’s success.</p>
 
 <p>While staying close to technology (the engine room), architects must ensure that technology serves the needs of customers and the business and that technical architecture is well-aligned with organizational design. At the same time, architects can help ensure that business, product, and organizational designs are well-informed about the state, risks, and opportunities of an organization’s technology to avoid creating impractical strategies, setting unrealistic goals, or missing opportunities.</p>
 

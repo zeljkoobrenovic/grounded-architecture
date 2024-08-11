@@ -40,7 +40,7 @@ Image by <a href="https://pixabay.com/users/bluehouseskis-14931490/?utm_source=l
 
 <br>
 
-Grounded Architecture emerged as a necessity in response to our [intricate and multifaceted challenges](context). The Grounded Architecture framework was designed to address these specific challenges. By moving away from manual processes and embracing automation, data-driven decision-making, and adaptive frameworks, we aimed to create a **more resilient and effective** architectural practice. 
+Grounded Architecture emerged as a necessity in response to our [intricate and multifaceted challenges](context). The Grounded Architecture framework was designed to address these specific challenges. By moving away from manual processes and embracing automation, data-driven decision-making, and adaptive frameworks, we aimed to create a **more resilient and effective** an architecture practice. 
 
 In following sections I will outline a breakdown of the goals I set for an architecture practice:
 * Goal 1: Executing At Scale,
@@ -52,7 +52,7 @@ In following sections I will outline a breakdown of the goals I set for an archi
 <br>
 ## Goal 1: Executing At Scale
 
-Our organizations were like a bustling city with hundreds of teams and thousands of projects, each with its own unique complexity and requirements. Traditional, one-size-fits-all approaches to architecture practice simply couldn't keep up with this dynamic environment. We needed a system that could support this vast and varied ecosystem. Grounded Architecture was designed to **handle such diversity at scale,** ensuring that teams and projects received the tailored support they needed without being bogged down by rigid processes.
+Our organizations were like a bustling city with hundreds of teams and thousands of projects, each with its own unique complexity and requirements. Traditional, one-size-fits-all approaches to an architecture practice simply couldn't keep up with this dynamic environment. We needed a system that could support this vast and varied ecosystem. Grounded Architecture was designed to **handle such diversity at scale,** ensuring that teams and projects received the tailored support they needed without being bogged down by rigid processes.
 
 Some of the success criteria for this goal included:
 
@@ -113,10 +113,10 @@ These criteria aim to create an inclusive and dynamic environment where knowledg
 <br>
 ## Questions to Consider
 
-Knowing what goals architecture practice needs to support in your organization is crucial to defining structures and measuring your impact. Some of the plans may be universally applicable. Others may be unique to your context. Ask yourself the following questions:
+Knowing what goals an architecture practice needs to support in your organization is crucial to defining structures and measuring your impact. Some of the plans may be universally applicable. Others may be unique to your context. Ask yourself the following questions:
 
-* *What is the scale of your architecture practice? Does your scale require special measures to ensure your architecture practice efficient operations?*
+* *What is the scale of your an architecture practice? Does your scale require special measures to ensure your an architecture practice efficient operations?*
 * *What are the key decisions you need to make? Do you have the data to base your decisions?*
-* *How aligned are units in your organizations? How much friction is there? How can architecture practice help?*
+* *How aligned are units in your organizations? How much friction is there? How can an architecture practice help?*
 * *How much is your organization learning? How is the learning supported?*
 * *How stable is your organization? How likely is it that significant changes will occur in your organization?* 

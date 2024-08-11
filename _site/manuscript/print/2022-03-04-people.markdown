@@ -10,32 +10,34 @@
 {pagebreak}
 
 A> **KEY POINTS:**
-A> * Developing the architecture function requires having competent, empowered, and motivated architects. Architecture practice must carefully organize, empower, and leverage scarce talent.
+A> * Developing the architecture practice requires having competent, empowered, and motivated architects. Architecture practice must carefully organize, empower, and leverage scarce talent.
 A> * In my work in the past few years, I combined two teams of architects: a small central architecture team and a cross-organizational distributed virtual team.
 
  
 
 Good architects are a rare breed. They bridge the gaps between business, product, organizational, and technology issues. They're like the Swiss Army knives of the tech world. Hiring architects is like searching for a unicorn who's also a full-stack developer with a knack for diplomacy. They need not only in-depth technical knowledge but also domain-specific and organizational knowledge. 
 
-So, you cannot just 3D print your architects or hire them in buckets. But what you can do is to carefully organize, empower, and leverage this scarce talent (Figure 1). A strong network of people doing architecture is crucial for any real impact. In simpler terms, **Strong Architecture = Strong Architects**.
+So, you cannot just 3D print your architects or hire them in buckets. But you can carefully organize, empower, and leverage this scarce talent (Figure 1). 
 
 ![](assets/images/model-people.png)
 ***Figure 1:** The Grounded Architecture framework: Collaborative Networks.*
 
-In my recent escapades, I worked with two teams of architect teams: a small **central architecture team** and **a cross-organizational distributed virtual team**. The central team is like the wise elders, guiding and supporting the rest of the organization. The distributed virtual team, on the other hand, is a merry band of rebels, working locally but also connecting across the organization, increasing transparency, building networks, and implementing change.
+A strong network of people doing architecture is crucial for any real impact. In simpler terms, **Strong Architecture = Strong Architects**.
 
-## Background: Central vs. Federated Architecture Function
+In my recent escapades, I worked with two teams of architect teams: a small **central architecture team** and **a cross-organizational distributed virtual team**. The central team is like the wise elders, guiding and supporting the rest of the organization. The distributed virtual team, on the other hand, is a merry band of rebels, working locally but also connecting across the organization, increasing transparency, building networks, and implementing change. Together, such a mix of central and distributed teams can create a robust **collaborative network** driving change across an organization.
+
+## Background: Central vs. Federated Architecture Practice
 
 IT architecture practices generally follow one of two fundamental models: central or federated (Figure 2, [McKinsey 2022](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/tech-forward/crafting-the-optimal-model-for-the-it-architecture-organization)).
 
 ![](assets/images/arch/arch_teams.png)
-***Figure 2:** Central vs. Federated Architecture Function..*
+***Figure 2:** Central vs. Federated Architecture Practice.*
 
 **The central model** is like a tightly run coffee shop. A large central team sets the rules, approves new work, and ensures everyone follows the script. Development teams in this model are like customers with no coffee-making skills, relying entirely on the central baristas. The central team handles infrastructure, operations, and security—essentially controlling the caffeine supply chain.
 
 **The federated model** is more like a coffee co-op, where each team has its own barista. A small central team or an **architecture center of excellence (CoE)** might provide high-level guidance, but the real magic happens locally. These baristas (architects) are embedded in development teams, facilitating high-level planning and acting as on-demand service providers.
 
-The **federated model** is a favorite among **cross-functional DevOps cultures**, integrating infrastructure, operations, and security into their brews. Architects in this model focus on **facilitation and enablement**, not just making sure no one spills the beans. Modern agile organizations love the federated model. It keeps architects close to the action, ensuring they're evaluated based on the success of the products they support. This focus on performance and reducing complexity is the secret recipe for a well-brewed architecture.
+The **federated model** is a favorite among **cross-functional DevOps cultures**. It integrates infrastructure, operations, and security into its brews. Architects in this model focus on **facilitation and enablement**, and stay close to the action.
 
 ## The Hybrid Model
 
@@ -50,11 +52,12 @@ Think of it as a symphony orchestra, where the central team is the conductor, an
 
 I prefer the **hybrid team structure** as it scales better in complex organizations:
 * **Guilds** and virtual architecture teams support execution by **increasing the number of people involved** in architectural activities and increasing work efficiency through better alignment. Members representing various organizational units can have much **more impact across the board**.
-* Having some capacity on the central level serves as a catalyst, helping people at local levels to do their jobs while being aligned and better connected with overall strategic goals and other teams working on related topics. It's like having a superhero headquarters where everyone knows the plan to save the day.
+
+* Having some **capacity on the central level** serves as a **catalyst,** helping people at local levels to do their jobs while being aligned and better connected with overall strategic goals and other teams working on related topics.
 
 ### Central Architecture Team
 
-The roles of people in central teams may differ depending on the organization. However, it's crucial to recognize the value of dedicated roles in central architecture teams. These roles, in addition to the usual suspects doing architecture work, are instrumental in covering these crucial yet often overlooked responsibilities:
+The roles of people in central teams may differ depending on the organization. However, it's crucial to recognize uniwue value a central architecture team. Such a team, in addition to the doing architecture work, can be instrumental in covering these often overlooked responsibilities:
 
 * **Build and maintain the architecture [Architectural Analytics](#analytics).** With all AI advances, it will not build itself! You need clear ownership, curation, and technical support to make it work.
 
@@ -68,27 +71,23 @@ While guilds and virtual teams can handle many of these activities, their volunt
 
 ### Architecture Guilds & Virtual Architecture Teams
 
-A> "*A lot of cheap seats in the arena are filled with people who never venture onto the floor. They just hurl
-mean-spirited criticisms and put-downs from a safe distance. ... we need to be selective about the feedback we let into our lives. For me, if you're not in the arena getting your ass kicked, I'm not interested in your feedback.*" — Brené
-A> Brown, Rising Strong
-
 I've always found it crucial to rally passionate troops about architecture through a guild, a community of interest, or a virtual team. After all, who doesn't love a good architecture geek meet-up?
 
-Our guilds or virtual teams typically double as architects or tech leads in their respective departments, but they also moonlight by collaborating with their counterparts from other areas. These peer-to-peer communities are collectively responsible for spotting and nurturing architectural talent, mentoring, and helping each other out of sticky situations.
+Our guilds or virtual team members typically double as architects or tech leads in their respective departments. But they also moonlight by collaborating with their counterparts from other areas. These **peer-to-peer communities** are collectively responsible for spotting and nurturing architectural talent, mentoring, and helping each other out of sticky situations.
 
-When we have an overabundance of guilds and teams, we split our architects into different cliques:
+If you end up having an overabundance of guilds and teams, you can try splitting them into different cliques:
 
-* **General or core teams**: These folks tackle a wide range of general architectural topics.
-* **Specialist teams**: Focused on specific parts of the tech stack, like native mobile apps, web frontends, or public cloud.
-* **Strategic initiatives teams**: Working on the big picture stuff like data strategy, public cloud strategy, transactions, or verticalization.
+* **General or core teams**: These folks could tackle various general architectural topics.
+* **Specialist teams**: These teams can focus on specific parts of the tech stack, such as native mobile apps, web frontends, or public clouds.
+* **Strategic initiatives teams**: These teams work on the big picture, such as data strategy, public cloud strategy, transactions, or verticalization.
 
-Connecting the central and distributed teams is essential. In most places I've worked, these gatherings follow a well-trodden path:
+Connecting the central and distributed teams is essential. In most places I've worked, we organized gatherings to facilitate regular alignments, such as:
 
 * **Regular (e.g., bi-weekly) forums**: Here, updates are shared, architectural spikes are announced, and decisions are debated.
 * **Annual or bi-annual summits**: These are the architecture equivalent of Comic-Con, with several days of intense knowledge sharing and workshops.
 * **Ad-hoc workshops**: These focus on specific topics and deep dives into niche subjects.
 
-While the central team can provide essential support, all communities must take the initiative and get as many people as possible involved in these events. It's crucial that people are active participants rather than passive spectators to ensure more engagement and commitment. So, get ready to roll up your sleeves and dive in, because architecture is a team sport, and everyone needs to play their part!
+While the central team can provide essential support, all communities must take the initiative and get many people involved in these events. It's crucial that people are **active participants** rather than passive spectators to ensure more engagement and commitment. So, get ready to roll up your sleeves and dive in, because architecture is a team sport, and everyone needs to play their part!
 
 ### Embracing Diverse Team Structures
 
@@ -107,13 +106,13 @@ Remember, there is no magic bullet. Different structures work for various organi
 
 ## Building Collaborative Networks
 
-While each organization will need its unique approach, here are some tips I found helpful when forming architecture teams and building a "[Collaborative Networks](#people)":
+While each organization will need its unique approach, here are some tips I found helpful when forming architecture teams and building Collaborative Networks:
 
-* Before making grandiose plans for reorganizations, **connect with the people already doing architectural work** in an organization. Think of it like forming a superhero team: bring together all the critical tech leaders, regardless of their position and title. You never know when you'll need an architectural Batman or Wonder Woman. Being well-connected to these folks will be crucial in any architecture organization, so this effort is like adding a secret weapon to your utility belt.
+* Before making grandiose plans for reorganizations, **connect with the people already doing architectural work** in an organization. Bring together all the critical tech leaders, regardless of their position and title. Being well-connected to these folks will be crucial in any architecture organization, so this effort is never wasted.
 
-* If creating a virtual team is part of your architecture strategy, move away from the informal community of practice and start **building a team with more accountability and responsibility**.
+* If creating a virtual team is a part of your architecture strategy, move away from the informal community of practice and start **building a team with more accountability and responsibility**.
 
-* **Connect with non-architecture stakeholders** early to gain broader support for building architecture teams and guilds. Imagine it as building alliances in a grand strategy game; you need their support to conquer the world of architecture. Being well-connected to these stakeholders is crucial, so think of it as adding allies to your quest.
+* **Connect with non-architecture people** early to gain broader support for building architecture teams and guilds. Being well-connected to these stakeholders is crucial to have strong collaborative networks.
 
 * **Avoid hiring [a digital hitman](https://architectelevator.com/transformation/dont-hire-hitman/)**. Instead, invest in growing internal talent. Think of it this way: architects need to know the technology, the domain, and the organization.
 
@@ -132,10 +131,9 @@ While each organization will need its unique approach, here are some tips I foun
 
 It is difficult to overestimate the importance of people for architecture practice, yet many organizations take architectural talent for granted. To reflect on the importance of carefully organizing, empowering, and leveraging scarce architecture talent, ask yourself the following questions:
 
-* *Reflect on your organization's current architecture function. Do you have a strong network of architects across the organization?*
-* *How do you ensure architects' competency, empowerment, and motivation in your organization? What systems do you have in place to develop architectural talent?*
-* *Which central, federated, or hybrid model best represents your current architectural function? Why was this model chosen, and how effective has it been for your organization?*
-* *If you are part of a central architecture team, how would you support the rest of the organization? How would you contribute to the global architecture function if you were part of a distributed virtual team?*
+* *Do you have a strong network of architects across the organization?*
+* *Which central, federated, or hybrid model best represents your current architectural practice? Why was this model chosen, and how effective has it been for your organization?*
+* *If you are part of a central architecture team, how would you support the rest of the organization? How would you contribute to the global architecture practice if you were part of a distributed virtual team?*
 * *Consider having the roles of central architecture teams and federated architecture teams in your organization. How would they complement each other?*
 * *How effective is the current division of responsibilities among architects in your organization? Are there areas of overlap or gaps in coverage?*
 * *What steps has your organization taken to ensure architects are well-connected across all parts and levels? What impact has this had on transparency and the implementation of changes?*

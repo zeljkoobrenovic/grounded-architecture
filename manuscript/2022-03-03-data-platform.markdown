@@ -2,8 +2,7 @@
 
 # Architectural Analytics {#analytics}
 
-![](assets/images/arch/architecture-1857175_1920.jpg)
-^image by lorenzo cafaro from pixabay^
+![image by lorenzo cafaro from pixabay](assets/images/arch/architecture-1857175_1920.jpg)
 
 **IN THIS SECTION, YOU WILL:**  Understand how to use diverse data sources to support architecture decision-making processes and get concrete tips on creating architecture-centric data tools.
 
@@ -16,10 +15,9 @@ A> * To facilitate the creation of Architectural Analytics, I have been creating
 
 A> *"If we have data, let's look at data. If all we have are opinions, let's go with mine."* -— Jim Barksdale
 
-Everywhere I worked on creating architectural functions, I strongly (aka obsessively) **emphasized data.** Consequently, one of the first steps I make in any architecture practice is to create an Architectural Analytics to get a complete, up-to-date picture of critical elements of an organization's technology landscapes (Figure 1). Manual documentation does not scale, and relying on data ensures the reliability and scalability of decision-making.
+Everywhere I worked on creating an architecture practice, I strongly (aka obsessively) **emphasized data.** Consequently, one of the first steps I make in any an architecture practice is to create an Architectural Analytics to get a complete, up-to-date picture of critical elements of an organization's technology landscapes (Figure 1). Manual documentation does not scale, and relying on data ensures the reliability and scalability of decision-making.
 
-![](assets/images/model-data.png)
-***Figure 1:** The Grounded Architecture framework: Architectural Analytics.*
+![Figure 1: The Grounded Architecture framework: Architectural Analytics.](assets/images/model-data.png)
 
 The good news is that **big organizations have lots of data** that, if used wisely, can provide an excellent basis for an architectural Architectural Analytics. With some **automation** and lots of **curation**, getting a crystal clear overview of the technology landscape may be closer than it initially appears. 
 
@@ -27,8 +25,7 @@ The good news is that **big organizations have lots of data** that, if used wise
 
 To illustrate what I mean by Architectural Analytics, I will give a few concrete examples from my recent work (Figure 2). 
 
-![](assets/images/apps.png) 
-**Figure 2:** *A screenshot of the start page of the architecture data dashboard we've built and used at AVIV Group.*
+![Figure 2: A screenshot of the start page of the architecture data dashboard we've built and used at AVIV Group.](assets/images/apps.png) 
 
 I typically implement Architectural Analytics as a dashboard with many data apps, typically leveraging the following data sources:
 * **Source code** contains an incredible amount of information about technology, people's activity, team dependencies, and the quality of software systems. By analyzing commit histories, code complexity, and contributions, you can identify critical areas of improvement, understand team dynamics, and ensure code quality.
@@ -45,8 +42,7 @@ The **source code** and its **commit history** are like a treasure chest for cre
 
 Many tools can help you reveal these insights. In this section, I will focus on a simple tool I built to get these insights. To help you dig up this treasure without getting your hands too dirty, I've developed and actively maintained a free, open-source project called **[Sokrates](https://sokrates.dev).** Sokrates generates reports with essential source code insights (see Figure 3). Its reports are designed to be user-friendly, making it easy for a broader audience to navigate and understand their source code and its history. Sokrates is designed with an **architect's x-ray vision,** allowing you to **zoom in and out** of source code landscapes. It provides a **high-level overview** of the IT landscape, summarizing data from various teams and groups while also letting you dive deep into the **code-level details.** This dual functionality makes it the perfect sidekick for **CTO-level** strategy powwows and **developer-level** code critiques.
 
-![](assets/images/sokrates-example-1.png) 
-**Figure 3:** *Screenshot of a Sokrates report.*
+![Figure 3: Screenshot of a Sokrates report.](assets/images/sokrates-example-1.png) 
 
 Show me, don't tell me, you said? All right, for a more entertaining look at what Sokrates can do, check out the Sokrates examples. Here are some blockbusters:
 
@@ -72,8 +68,7 @@ Thanks to **uniform automation and monitoring,** using the public cloud can dram
 
 Figure 4 shows an anonymized screenshot of the Cloud Usage Explorer, a tool I built to visualize automatically collected data from standard Google Cloud Platform (GCP) usage reports.
 
-![](assets/images/archdata/cloud-usage-explorer.png)
-***Figure 4:** An example of a cloud usage explorer.*
+![Figure 4: An example of a cloud usage explorer.](assets/images/archdata/cloud-usage-explorer.png)
 
 ### Example 3: Financial and Vibrancy Analytics
 
@@ -83,8 +78,7 @@ These finance operatives need this juicy data to, for instance, link the perform
 
 So, next time you're knee-deep in architectural plans, don't forget to call the finance for top-notch data insights!
 
-![](assets/images/arch/cross-data.png)
-***Figure 5:** Combining data from different sources (e.g., cloud billing reports and vibrancy or revenue can lead to new insights (e.g., identifying inefficiencies in the application portfolio).*
+![Figure 5: Combining data from different sources (e.g., cloud billing reports and vibrancy or revenue can lead to new insights (e.g., identifying inefficiencies in the application portfolio).](assets/images/arch/cross-data.png)
 
 ## Requirements For A Architectural Analytics
 
@@ -141,7 +135,7 @@ So there you have it. The data's ready to spill its secrets—you need to know t
 
 ## Questions to Consider
 
-Using data can significantly improve the efficiency and impact of architectural practice. Ask yourself the following questions: 
+Using data can significantly improve the efficiency and impact of an architecture practice. Ask yourself the following questions: 
 
 * *What steps would you take to create an Architectural Analytics in your organization?*
 * *Are there untapped data sources within your organization that could inform your architectural decisions?*

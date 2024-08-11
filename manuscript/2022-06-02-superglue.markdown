@@ -2,8 +2,7 @@
 
 # Adopting a Mindset: Architects as Superglue {#superglue}
 
-![](assets/images/iStock-185061908.jpg)
-^image by pagadesign from istock^
+![image by pagadesign from istock](assets/images/iStock-185061908.jpg)
 
 **IN THIS SECTION, YOU WILL:**  Understand the view on architects as superglue (people who hold architecture, technical details, business needs, and people together across a large organization or complex projects) and get valuable tips on developing "superglue" abilities.
 
@@ -77,7 +76,7 @@ Ironically, the more successful superglue architects are in their role, the less
 
 ## Superglue Impact
 
-Tensions among technology, product, organization, and business functions can slow down progress, lead to poor decisions, introduce complexity, and cause missed opportunities. Acting as superglue, architects can mitigate these issues by fostering better communication and alignment among these elements. The goal is **not to create new barriers** but to bring these functions closer together, ensuring a cohesive and efficient operation. This approach may appear to diminish the need for a formal architecture practice, but in reality, it transforms the role into one integral to the organization's success.
+Tensions among technology, product, organization, and business functions can slow down progress, lead to poor decisions, introduce complexity, and cause missed opportunities. Acting as superglue, architects can mitigate these issues by fostering better communication and alignment among these elements. The goal is **not to create new barriers** but to bring these functions closer together, ensuring a cohesive and efficient operation. This approach may appear to diminish the need for a formal an architecture practice, but in reality, it transforms the role into one integral to the organization's success.
 
 While staying close to technology (the engine room), architects must ensure that technology serves the needs of customers and the business and that technical architecture is well-aligned with organizational design. At the same time, architects can help ensure that business, product, and organizational designs are well-informed about the state, risks, and opportunities of an organization's technology to avoid creating impractical strategies, setting unrealistic goals, or missing opportunities.
 
@@ -159,8 +158,7 @@ Architects must have a **minimal "length"** of all of these "legs" to be success
 
 In summary, developing architects as "superglue" means fostering a balanced combination of skills, impact, and leadership. Just like a three-legged stool, if one leg is too short, the whole thing topples over—quite possibly spilling your coffee in the process.
 
-![](assets/images/arch/architect-legs.png)
-***Figure 4:** Architects must have a minimal "length" of all "legs" to be successful.*
+![Figure 4: Architects must have a minimal "length" of all "legs" to be successful.](assets/images/arch/architect-legs.png)
 
  
 ## Questions to Consider

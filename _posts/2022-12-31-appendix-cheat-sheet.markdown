@@ -48,7 +48,7 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Tashu
 
 ### Introduction
 > * This book will share my approach to running an IT architecture practice in larger organizations based on my experience at AVIV Group, eBay Classifieds, and Adevinta. I call this approach "Grounded Architecture"—architecture with strong foundations and deep roots.
-> * Prioritizing people interactions and data over processes and tools, Grounded Architecture aims to connect architecture practice to all organizational levels as an antidote to the "ivory tower" architecture.
+> * Prioritizing people interactions and data over processes and tools, Grounded Architecture aims to connect an architecture practice to all organizational levels as an antidote to the "ivory tower" architecture.
 > * I also explain my motivation to write this book.
 
 ### Context: Fast-Moving Global Organizations
@@ -56,7 +56,7 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Tashu
 > * The Grounded Architecture approach has evolved in the context of global, loosely coupled organizations that are diverse, with nonlinear growth dynamics, and under transformation pressures. 
 
 ### Goals: Adapting, Growing, and Using Data
-> * I identified the following needs that an architecture function should support: Executing At Scale, Adaptivity, Improving the Quality of Decision-Making with Data, and Maximizing Organizational Alignment & Learning.
+> * I identified the following needs that an architecture practice should support: Executing At Scale, Adaptivity, Improving the Quality of Decision-Making with Data, and Maximizing Organizational Alignment & Learning.
 
 ## Grounded Architecture Framework
 
@@ -66,7 +66,7 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Tashu
 > * To facilitate the creation of a Architectural Analytics, I have been working on creating open-source tools that can help obtain valuable architectural insights from data sources, such as source code repositories. Check out open-source [architecture dashboard examples](https://zeljkoobrenovic.github.io/grounded-architecture-dashboard-examples/) and [Sokrates](https://sokrates.dev).
 
 ### Collaborative Networks
-> * Developing the architecture function requires having competent, empowered, and motivated architects. Architecture practice must carefully organize, empower, and leverage scarce talent.
+> * Developing an architecture practice requires having competent, empowered, and motivated architects. Architecture practice must carefully organize, empower, and leverage scarce talent.
 > * In my work in the past few years, I combined two teams of architects: a small central architecture team and a cross-organizational distributed virtual team.
 
 ### Operating Model

@@ -42,7 +42,7 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/sasun
 </style>
 
 > **IN THIS SECTION, YOU WILL:**  Learn the basics of decision intelligence, the discipline of turning information into
-> better actions, and its relevance for IT architecture practice.
+> better actions, and its relevance for an IT architecture practice.
 >
 > **KEY POINTS:**
 > * Decision intelligence is the discipline of turning information into better actions.
