@@ -1,8 +1,8 @@
 ---
 layout: post
-section: "On Human Complexity"
-title: "Six Simple Rules"
-position: 7021
+section: "Grounded Architecture Framework"
+title: "Cooperation-Based Operating Model: Six Simple Rules"
+position: 3008
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 icon: org-alignment.png

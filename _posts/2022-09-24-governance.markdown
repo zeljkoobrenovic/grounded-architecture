@@ -1,7 +1,7 @@
 ---
 layout: post
 section: "On Execution and Governance"
-title: "Governance: Nudge, Taxation, Mandates"
+title: "IT Governance: Nudge, Taxation, Mandates"
 position: 9024
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
@@ -109,7 +109,7 @@ Image by <a href="https://pixabay.com/users/stevepb-282134/?utm_source=link-attr
 
 Compared to nudging, which influences behavior subtly by providing information or setting default choices without imposing direct consequences, taxes introduce tangible consequences. For example, projects that exceed budgeted IT costs due to excessive resource consumption might be canceled. The role of an architecture practice in this form of governance is crucial. It involves ensuring that taxation policies are based on accurate and comprehensive data, using public cloud cost reports and other relevant information to inform tax rates and policies. Transparency is essential, allowing all stakeholders to understand how and why taxes are levied and providing clear insights and reports detailing the basis of taxation and its impact on resource consumption.
 
-Developing efficient feedback loops is another critical aspect, providing timely and actionable feedback on critical metrics related to taxes and continually refining and optimizing the taxation system. [Architectural Analytics](analytics) plays a key role in this approach by aggregating and analyzing all data related to resource consumption and taxation, generating insights from public cloud cost reports, and guiding decision-making. Collaborative Networks ensures alignment of organizational processes, goals, and working methods with the taxation system, fostering a culture of responsible resource usage and continuous improvement.
+Developing efficient feedback loops is another critical aspect, providing timely and actionable feedback on critical metrics related to taxes and continually refining and optimizing the taxation system. [Architectural Analytics](analytics) plays a key role in this approach by aggregating and analyzing all data related to resource consumption and taxation, generating insights from public cloud cost reports, and guiding decision-making. Collaborative Networks ensures alignment of organizational processes, goals, and working methods with the taxation syst[2022-06-03-skills.markdown](2022-06-03-skills.markdown)em, fostering a culture of responsible resource usage and continuous improvement.
 
 In conclusion, governing with taxes is a robust approach to resource management that balances autonomy with accountability. By implementing a data-driven and transparent taxation system, organizations can optimize resource usage, prevent overconsumption, and drive meaningful change. An an architecture practice, supported by strong Architectural Analytics and Collaborative Networks, is essential in achieving these goals and ensuring the sustainability of shared resources.
 

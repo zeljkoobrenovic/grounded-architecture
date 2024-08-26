@@ -46,7 +46,14 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/TuiPh
 </style>
 
 <br>
-Architects' work is evaluated based on **their impact on the organization**. Their contributions are typically assessed through the following key areas:
+Architects' work is evaluated based on **their impact on the organization** (Figure 1). 
+
+![](assets/images/arch/architects_impact.png)
+***Figure 1:** Impact is one of the three main elements of being an architect (skills, impact, leadership). Leadership without impact lacks foundation and may signal that you have become an ivory tower architect with a weak relation to reality.*
+
+
+
+Architects' contributions are typically assessed through the following key areas:
 
 * **Identifying, Tackling, and Delivering on Strategic Problems**: Architects are responsible for recognizing and addressing strategic issues at both the organizational and area-specific levels (such as domains or technical areas). Their work must align with the broader strategic objectives of the organization, ensuring that their efforts are prioritized to support global goals. By tackling these strategic problems, architects contribute to the overall direction and success of the organization, providing solutions that align with long-term visions and targets.
 
@@ -74,10 +81,10 @@ To develop architects, I draw inspiration from Staff Engineering roles. Tanya Re
 <div style="width: 100%; text-align: center">
 <img src="assets/images/arch/pillars.png" style="width: 80%">
 </div>
-***Figure 1:** Key competencies of architects. Inspired by The Staff Engineer's Path by Tanya Reilly.*
+***Figure 2:** Key competencies of architects. Inspired by The Staff Engineer's Path by Tanya Reilly.*
 
 
-Inspired by *The Staff Engineer's Path* by Tanya Reilly (Figure 1), I categorize the competencies that enable architects to make an impact into three groups:
+Inspired by *The Staff Engineer's Path* by Tanya Reilly (Figure 2), I categorize the competencies that enable architects to make an impact into three groups:
 
 * **Big-picture Thinking**: Architects need to develop the ability to see the broader context of their work. This involves understanding how their architectural decisions align with organizational goals, market trends, and technological advancements. Big-picture thinking allows architects to foresee potential challenges and opportunities, ensuring their designs are future-proof and scalable. This competency involves strategic planning, vision setting, and the ability to articulate how technical solutions contribute to overall business objectives.
 

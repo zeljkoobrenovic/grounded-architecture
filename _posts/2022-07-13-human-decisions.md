@@ -1,6 +1,6 @@
 ---
 layout: post
-section: "On Decision-Making"
+section: "On Human Complexity"
 title: "The Human Side of Decision-Making"
 position: 7013
 date:   2021-10-21 21:12:01 +0100
@@ -46,7 +46,6 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/metam
 > * Decision-making is a human activity subject to human biases and limitations. 
 > * Fundamental biases influencing decision-making include outcome, hindsight, and confirmation biases.
 > * Human intuition plays a vital role in decision-making.
-> * Group decision-making offers significant advantages but increases complexity as it requires higher decision-making skills from each member.
 
 <br>
 [Cassie Kozyrkov](https://en.wikipedia.org/wiki/Cassie_Kozyrkov), in her [posts](https://www.linkedin.com/pulse/introduction-decision-intelligence-cassie-kozyrkov/) and [online lessons](https://www.linkedin.com/learning/decision-intelligence/) about design intelligence, often reminds us that decision-making is a uniquely human sport. It's a wild mix of brilliance, bias, and blunders. Just like how having a gourmet kitchen doesn't make you a master chef, having the best [data and IT  tools](analytics) won't magically conjure up good decisions. IT architects need to remember that every decision is flavored by the quirks and quibbles of the human mind.
@@ -286,84 +285,6 @@ Intuition in IT can be a powerful tool when informed by experience and used in c
 
 Balancing intuition with data-driven decision-making and collaborative input often leads to the best outcomes in software engineering.
 
-<br>
-## Group Decision-Making Dynamics
-
-Effective decision-making often involves recognizing that **you might not be the sole decision-maker**. In organizations, it's crucial to identify the actual decision-makers and understand how decision responsibility is distributed among them. Mastering this skill is essential for navigating organizational decision-making processes. It's important to question who really has the final say in decisions. In many cases, decision-making is more complex than it appears.
-
-![](assets/images/arch/iStock-1198639725.jpg)
-<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Milkos">Prostock-Studio</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
-</div>
-
-Group decision-making offers significant advantages. While you might believe you have the best solutions, incorporating diverse perspectives can help cover your blind spots. Multiple decision-makers can counterbalance an individual's extreme tendencies and compensate for human limitations like fatigue.
-
-While group decision-making might sometimes constrain individual creativity, it also **provides safeguards against poor decisions** and **aligns individual motives with the organization's goals** (see the principal-agent problem in the next section). Having several independent decision-makers can align individual incentives with the organization's needs, addressing this problem.
-
-However, group decision-making isn't perfect. It **increases complexity** as it **requires higher decision-making skills** from each member. True **collaboration in decision-making** is more challenging than individual decision-making. It also tends to **slow down the decision process**.
-
-Moreover, the benefits of group decision-making, like balancing individual biases, **rely on the independence of the decision-makers**. If everyone is in the same room, independence can be compromised by factors like **charisma or status**, potentially allowing the loudest voice to dominate rather than the wisest.
-
-Group settings can also **devolve into social exercises**, where **personal ego overshadows open-mindedness** to new information. Awareness of these pitfalls allows you to create rules that foster independent perspectives.
-
-The **role of the note-taker** in group settings is also influential, as is the phenomenon of **responsibility diffusion**, where **unclear responsibilities** lead to reduced individual contribution.
-
-In summary, **the more people involved in a decision, the higher the skill level required** to maximize the benefits and minimize the downsides of group decision-making. It's vital to structure the process to maintain independence, possibly by limiting decision-makers and increasing advisors. This approach distinguishes between making a decision and advocating for the execution of an already-made decision.
-
-Group decision-making dynamics in IT can take various forms, including consensus, hierarchical, voting, and conflict resolution approaches. Group decision-making dynamics in IT can vary widely depending on the context, team structure, and decision at hand. Here are some examples illustrating different aspects of group decision-making dynamics in IT:
-
-### Example 1: Consensus Decision-Making for Technology Adoption
-
-**Scenario:** An IT team must decide which cloud platform to use for a new project. The options are AWS, Azure, and Google Cloud.
-
-**Dynamics:**
-1. **Information Sharing**: Team members share their experiences and knowledge about each platform. This includes presenting pros and cons, costs, and performance benchmarks.
-2. **Brainstorming**: An open discussion is held where everyone is encouraged to voice their opinions and suggest potential solutions.
-3. **Evaluation**: Each option is evaluated based on predefined criteria such as scalability, cost, ease of integration, and existing team expertise.
-4. **Consensus Building**: The team works towards a consensus by discussing the trade-offs and attempting to agree on the platform that best meets the project's needs.
-5. **Decision**: After a thorough discussion, the team decides to use AWS due to its robust ecosystem and familiarity with it.
-
-**Influence**: Consensus decision-making ensures that all team members feel heard and can contribute to the decision, leading to higher buy-in and commitment to the chosen platform.
-
-### Example 2: Hierarchical Decision-Making for Security Policy
-
-**Scenario:** A decision must be made about implementing a new security policy to comply with regulatory requirements.
-
-**Dynamics:**
-1. **Top-Down Directive**: Senior management decides on the necessity of the new security policy based on compliance needs and risk assessments.
-2. **Expert Input**: Security experts within the organization are consulted to provide detailed recommendations on implementing measures.
-3. **Implementation Plan**: The IT manager creates an implementation plan based on the expert recommendations and communicates it to the team.
-4. **Team Execution**: The IT team is tasked with executing the plan, following the directives provided by management.
-
-**Influence**: Hierarchical decision-making can be efficient, especially when quick, decisive action is required and the decision involves specialized knowledge. However, it may result in less buy-in from the team if they are not involved in the decision-making process.
-
-### Example 3: Voting for Feature Prioritization
-
-**Scenario:** A software development team needs to prioritize features for the next release of their product.
-
-**Dynamics:**
-1. **Feature List**: A list of potential features is compiled based on customer feedback, market research, and internal brainstorming sessions.
-2. **Discussion**: The team discusses the importance and impact of each feature, considering factors such as user value, development effort, and strategic alignment.
-3. **Voting**: Each team member votes on their top features, often using a point system where they can allocate a certain number of points across the features.
-4. **Ranking**: Features are ranked based on the total points received, and the top-ranked features are selected for the next release.
-
-**Influence**: Voting democratizes the decision-making process and ensures that the prioritization reflects the team's collective opinion. This approach can enhance team morale and provide diverse perspectives are considered.
-
-### Example 4: Conflict Resolution in Architecture Decisions
-
-**Scenario:** The development team is divided over whether to build a new application using a microservices or monolithic architecture.
-
-**Dynamics**
-
-1. **Initial Positions**: Team members present their initial positions, with some advocating for microservices due to their scalability and flexibility and others for a monolithic architecture due to its simplicity and ease of deployment.
-2. **Evidence Gathering**: Both sides present evidence, including case studies, technical articles, and expert opinions, to support their arguments.
-3. **Facilitated Discussion**: A neutral facilitator (such as an architect) leads a structured discussion to explore the pros and cons of each approach.
-4. **Compromise and Integration**: The team seeks a compromise or an integrated solution, such as starting with a monolithic architecture and planning to evolve to microservices as the application grows.
-5. **Final Decision**: After thoroughly discussing and considering all viewpoints, the team decides to balance immediate needs with future scalability.
-
-**Influence**: Structured conflict resolution ensures that all voices are heard and helps the team make a well-considered decision. Combining the strengths of different viewpoints can enhance mutual understanding and lead to better decisions.
-
-Each method has its advantages and can be suitable for different decisions. Understanding these group dynamics can help teams navigate complex choices more effectively, leading to better outcomes and stronger team cohesion. 
 
 <br>
 ## Questions to Consider

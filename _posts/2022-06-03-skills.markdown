@@ -47,7 +47,12 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/MuchM
     }
 </style>
 
-Architects must possess a comprehensive skill set to manage the complexities of modern IT environments effectively. By skills, I mean not only having relevant knowledge but also the ability to apply that knowledge in practical situations. These skills encompass a blend of technical expertise, communication proficiency, and influence capabilities, ensuring architects can navigate technological challenges and organizational dynamics.
+Architects must possess a comprehensive skill set to manage the complexities of modern IT environments effectively (Figure 1). By skills, I mean not only having relevant knowledge but also the ability to apply that knowledge in practical situations. These skills encompass a blend of technical expertise, communication proficiency, and influence capabilities, ensuring architects can navigate technological challenges and organizational dynamics.
+
+
+![](assets/images/arch/architects_skills.png)
+***Figure 1:** Skills are one of the three main elements of being an architect (skills, impact, leadership). Lack of skills leads to impractical decisions that are not informed by in-depth knowledge.*
+
 
 Core skills of architects include:
 

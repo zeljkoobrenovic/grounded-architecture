@@ -1,8 +1,8 @@
 ---
 layout: post
-section: "On Soft Skills"
+section: "On Being Architect"
 title: "Leadership"
-position: 7007
+position: 6012
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 permalink: leadership
@@ -51,7 +51,12 @@ h3 {
 <br>
 
 
-My approach to architecture leadership draws inspiration from two standout sources: **[David Marquet's](https://davidmarquet.com/) leadership principles**, brilliantly articulated in his book "Turn the Ship Around!", and Netflix's valued behaviors. Marquet's ideas are all about empowering team members, providing clarity, decentralizing decision-making, striving for continuous improvement, and practicing servant leadership. Meanwhile, **[Netflix's valued behaviors](https://jobs.netflix.com/culture)** offers a masterclass in coaching and developing architects to develop the "superglue" mindset that holds teams together and drives success. Together, these resources form a robust framework for leading with insight and influence in the IT architecture.
+My approach to architecture leadership draws inspiration from two standout sources: **[David Marquet's](https://davidmarquet.com/) leadership principles**, brilliantly articulated in his book "Turn the Ship Around!", and Netflix's valued behaviors. Marquet's ideas are all about empowering team members, providing clarity, decentralizing decision-making, striving for continuous improvement, and practicing servant leadership. Meanwhile, **[Netflix's valued behaviors](https://jobs.netflix.com/culture)** offers a masterclass in coaching and developing architects to develop the "superglue" mindset that holds teams together and drives success. Together, these resources form a robust framework for leading with insight and influence in the IT architecture (Figure 1).
+
+![](assets/images/arch/architects_leadership.png)
+***Figure 1:** Leadership is one of the three main elements of being an architect (skills, impact, leadership). Having skills and impact without leadership frequently leads to hitting a glass ceiling. Such architects plateau at an intermediate level and cannot direct the company to innovative or transformative solutions.*
+
+
 
 ## David Marquet's Work: The Leader-Leader Model
 
@@ -72,7 +77,7 @@ One of the key benefits of a leader-leader model is that it creates **a more col
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Motortion">Motortion</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 
-David Marquet's book "Leadership is Language" provides practical advice for leaders looking to create a more collaborative, innovative, and inclusive organizational culture. He emphasizes the importance of language and communication in leadership and introduces **the phrase "I intend to"** as a powerful tool for clarifying intent and **empowering team members** (Figure 1). When team members give intent, the psychological ownership of those actions shifts to them, making them the originators of thought and direction instead of passive followers. This shift in language helps to promote a more collaborative work environment.
+David Marquet's book "Leadership is Language" provides practical advice for leaders looking to create a more collaborative, innovative, and inclusive organizational culture. He emphasizes the importance of language and communication in leadership and introduces **the phrase "I intend to"** as a powerful tool for clarifying intent and **empowering team members** (Figure 2). When team members give intent, the psychological ownership of those actions shifts to them, making them the originators of thought and direction instead of passive followers. This shift in language helps to promote a more collaborative work environment.
 
 <br>
 I have found a phase "I intend to" to be a powerful catalyst for positioning architecture work. The phrase helps describe the work **architect as someone others expect to take the initiative and lead efforts**. But also to describe the desired interaction of architects with the teams they work with, where we hope teams share their intentions which architects can help improve.
@@ -82,7 +87,7 @@ I have found a phase "I intend to" to be a powerful catalyst for positioning arc
 </div>
 
 ![](assets/images/arch/leader-leader.jpg)
-***Figure 1:** Leadership language. Based on Intent-Based Leadership, by David Marquet.*
+***Figure 2:** Leadership language. Based on Intent-Based Leadership, by David Marquet.*
 
  
 ## Netflix's Valued Behaviors: Leadership Behaviors
@@ -110,7 +115,7 @@ People frequently call architects to be objective judges when others cannot agre
 
 ### Impact
 
-As discussed in the [Architects as Superglue](superglue), the architect's impact should be measured as a benefit for the business. Architects need to ensure that what they are making profits the company. As an architect, you need to show the following impact traits:
+As discussed in the [Impact](impact) section, the architect's impact should be measured as a benefit for the business. Architects need to ensure that what they are making profits the company. As an architect, you need to show the following impact traits:
 
 * You accomplish significant amounts of **important work**
 * You **make your colleagues better**

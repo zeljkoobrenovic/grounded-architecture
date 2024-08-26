@@ -1,8 +1,8 @@
 ---
 layout: post
-section: "On Decision-Making"
+section: "On Execution and Governance"
 title: "Economic Modeling: ROI and Financial Options"
-position: 7015
+position: 9028
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 icon: economics.png

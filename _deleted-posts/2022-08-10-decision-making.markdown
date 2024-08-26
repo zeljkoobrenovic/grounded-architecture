@@ -2,7 +2,7 @@
 layout: post
 section: "On Decision-Making"
 title: "On Decision-Making: Introduction"
-position: 7010
+position: 10010
 date: 2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 permalink: decision-making

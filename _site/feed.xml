@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-08-26T14:31:40+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: Redefining IT Architecture Practice</title><subtitle></subtitle><entry><title type="html">Cheat Sheet</title><link href="http://localhost:4000/cheat-sheet" rel="alternate" type="text/html" title="Cheat Sheet" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/appendix-cheat-sheet</id><content type="html" xml:base="http://localhost:4000/cheat-sheet"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/iStock-1182643171.jpg" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-08-26T20:17:46+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: Redefining IT Architecture Practice</title><subtitle></subtitle><entry><title type="html">Cheat Sheet</title><link href="http://localhost:4000/cheat-sheet" rel="alternate" type="text/html" title="Cheat Sheet" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/appendix-cheat-sheet</id><content type="html" xml:base="http://localhost:4000/cheat-sheet"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/iStock-1182643171.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Tashulia">Tashulia</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
@@ -557,6 +557,8 @@ In this part, I will briefly introduce the Grounded Architecture framework. I ch
 
 <p>I want to emphasize that, in my view, any operating model is only relevant if there are <strong>healthy Architectural Analytics and Collaborative Networks</strong>. Without data and people connections, an operating model leads to an ivory tower institution, generating opinion-based decisions disconnected from reality.</p>
 
+<p>Grounded Architecture is particularly well-suited for organizations that are organized based on cooperation. Consequently, I use the <strong><a href="six-simple-rules">Six Simple Rules</a></strong> framework as an essential guideline. As businesses grow increasingly complex, you cannot overstate the importance of cooperation within organizational structures. The “Six Simple Rules” framework emphasizes that successful organizations leverage their members’ collective judgment and cooperation. By fostering a culture of collaboration, organizations can better utilize their capabilities to address and resolve complex problems. Grounded Architecture and Six Simple Rules are best friends. The Six Simple Rules ideas have been a significant source of inspiration for my work. This approach underscores the need for architects to build and support cooperative environments where teamwork and shared decision-making are paramount. Encouraging open communication, mutual respect, and shared goals can significantly enhance an organization’s ability to navigate complexities and adapt to change. Conway’s Law shows that the link between organizational structures and IT architecture is like peanut butter and jelly—strong and better together. The Six Simple Rules approach and architectural work involve managing complexity without getting tangled up.</p>
+
 <p>Now that we’ve completed the high-level Grounded Architecture tour let’s examine the specifics.</p>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[I introduce three elements of Grounded Architecture Framework: Architectural Analytics, Collaborative Networks, and The Operating Model.]]></summary></entry><entry><title type="html">Architectural Analytics</title><link href="http://localhost:4000/analytics" rel="alternate" type="text/html" title="Architectural Analytics" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/data-platform</id><content type="html" xml:base="http://localhost:4000/analytics"><![CDATA[<p><img src="assets/images/arch/architecture-1857175_1920.jpg" style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/3844328-3844328/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1857175">Lorenzo Cafaro</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1857175">Pixabay</a>
@@ -972,7 +974,7 @@ Image by <a href="https://pixabay.com/users/chantellev-2412495/?utm_source=link-
   <li><em>How effective is the current division of responsibilities among architects in your organization? Are there areas of overlap or gaps in coverage?</em></li>
   <li><em>What steps has your organization taken to ensure architects are well-connected across all parts and levels? What impact has this had on transparency and the implementation of changes?</em></li>
   <li><em>Reflect on the diversity of team structures within your organization. How does this diversity impact the roles and responsibilities of architects?</em></li>
-</ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[We should not take our architectural talent for granted. Architects are difficult to hire because they need in-depth technical, domain-specific, and managerial knowledge. Therefore, we must support, organize, and leverage architecture talent.]]></summary></entry><entry><title type="html">Operating Model</title><link href="http://localhost:4000/operating-model" rel="alternate" type="text/html" title="Operating Model" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/activities</id><content type="html" xml:base="http://localhost:4000/operating-model"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/parliament-366199_1920.jpg" /></p>
+</ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[We should not take our architectural talent for granted. Architects are difficult to hire because they need in-depth technical, domain-specific, and managerial knowledge. Therefore, we must support, organize, and leverage architecture talent.]]></summary></entry><entry><title type="html">General Operating Model</title><link href="http://localhost:4000/operating-model" rel="alternate" type="text/html" title="General Operating Model" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/activities</id><content type="html" xml:base="http://localhost:4000/operating-model"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/parliament-366199_1920.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/cocoparisienne-127419/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=366199">Anja</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=366199">Pixabay</a>
 </div>
@@ -1237,7 +1239,286 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Ingen
   <li><em>How could you better implement a mechanism to give teams autonomy while maintaining alignment and compatibility with global strategy?</em></li>
   <li><em>How does the concept of a decision pyramid resonate with you?</em></li>
   <li><em>Which strategic and area-level decisions provide team decision boundaries in your organization? Are there areas where you need more or less limitations to optimize performance?</em></li>
-</ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[Operating Model defines how, by leveraging Architectural Analytics and Collaborative Networks, we perform activities that help an organization reach its goals. Examples include supporting teams in their daily work, tracking tech debt, performing technical due diligence, standardizing processes and documentation, and defining cloud, data, and platform strategies.]]></summary></entry><entry><title type="html">Transforming Organizations with Grounded Architecture</title><link href="http://localhost:4000/transformation" rel="alternate" type="text/html" title="Transforming Organizations with Grounded Architecture" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/value</id><content type="html" xml:base="http://localhost:4000/transformation"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/iStock-1893527682.jpg" /></p>
+</ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[Operating Model defines how, by leveraging Architectural Analytics and Collaborative Networks, we perform activities that help an organization reach its goals. Examples include supporting teams in their daily work, tracking tech debt, performing technical due diligence, standardizing processes and documentation, and defining cloud, data, and platform strategies.]]></summary></entry><entry><title type="html">Cooperation-Based Operating Model: Six Simple Rules</title><link href="http://localhost:4000/six-simple-rules" rel="alternate" type="text/html" title="Cooperation-Based Operating Model: Six Simple Rules" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/six-simple-rules</id><content type="html" xml:base="http://localhost:4000/six-simple-rules"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/iStock-2031547179.jpg" /></p>
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/NanoStockk">NanoStockk</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
+</div>
+<style>
+ .quote {
+     border-left: 8px solid #d9ead3;
+     padding-left: 36px;
+     margin-top: 30px;
+     margin-bottom: 40px;
+     font-size: 140%;
+     font-style: normal;
+     color:#888;
+ }
+    @media only screen and (max-width: 768px) {
+        [class="quote"] {
+            display: none;
+        }
+    }
+</style>
+
+<blockquote>
+  <p><strong>IN THIS SECTION, YOU WILL:</strong>  Get an introduction to Six Simple Rules, a model for setting up organizational structures based on cooperation.</p>
+
+  <p><strong>KEY POINTS:</strong></p>
+
+  <ul>
+    <li>The Six Simple Rules approach emphasizes that in today’s complicated business environment, you must set up organizational structures based on cooperation.</li>
+    <li>To deal with complexity, organizations should depend on the judgment of their people and on these people cooperating.</li>
+    <li>This view is well aligned with the ideas of Grounded Architecture.</li>
+  </ul>
+</blockquote>
+
+<p><br />
+The book Six Simple Rules: How to Manage Complexity without Getting Complicated by Yves Morieux and Peter Tollman offered fresh air for my vision of an architecture practice. Morieux and Tollman introduced the concept of Smart Simplicity with six rules or strategies that enable organizations to promote new behaviors and improve performance. The Six Simple Rules approach emphasizes that in today’s business environment, you <strong>need to set up organizational structures based on cooperation</strong>.</p>
+
+<div class="quote">
+In today's complicated business environments, you must set up organizational structures based on cooperation.
+</div>
+
+<p>The Six Simple Rules approach is a practical solution for today’s complex business environment. It advocates for the setup of organizational structures that harmonize, empowering individuals with more autonomy to act. This approach is about trusting the capabilities of the organization’s people to handle complex problems, fostering a cooperative and efficient work environment.</p>
+
+<p>In this chapter, I explore how Grounded Architecture and Six Simple Rules are best friends. The Six Simple Rules ideas have been a significant source of inspiration for my work. <a href="https://martinfowler.com/bliki/ConwaysLaw.html"><strong>Conway’s Law</strong></a> shows that the link between organizational structures and IT architecture is like peanut butter and jelly—strong and better together. The Six Simple Rules approach and architectural work are all about managing complexity without getting tangled up.</p>
+
+<p><br /></p>
+<h2 id="limitations-of-hard-and-soft-management">Limitations of Hard and Soft Management</h2>
+
+<p>One of the Six Simple Rules’ central premises is that <strong>conventional management approaches</strong>, which the authors split into hard and soft, are neither sufficient nor appropriate for the complexity of organizations nowadays.</p>
+
+<p>The <strong>hard approach</strong> rests on two fundamental assumptions:</p>
+<ul>
+  <li>The first is the belief that <strong>structures, processes, and systems</strong> have a direct and predictable effect on performance, and as long as managers pick the right ones, they will get the performance they want.</li>
+  <li>The second assumption is that the <strong>human factor is the weakest and least reliable link</strong> of the organization and that it is essential to <strong>control people’s behavior through the proliferation of rules</strong> to specify their actions and through financial incentives linked to carefully designed metrics and key performance indicators (KPIs) to motivate them to perform in the way the organization wants them to.</li>
+</ul>
+
+<p>When the company needs to meet new performance requirements, the <strong>hard response</strong> is to <strong>add new structures, processes, and systems</strong> to help satisfy those requirements. Hence, introducing the innovation czar, the risk management team, the compliance unit, the customer-centricity leader, and the cohort of coordinators and interfaces have become so common in companies.</p>
+
+<p>On the other end, we have a soft management approach. According to the <strong>soft approach</strong>, an organization is a set of <strong>interpersonal relationships and the sentiments</strong> that govern them.</p>
+<ul>
+  <li><strong>Good performance is the by-product of good interpersonal relationships</strong>. Personal traits, psychological needs, and mindsets predetermine people’s actions.</li>
+  <li>To change behavior at work, you need to <strong>change the mindset (or change the people)</strong>.</li>
+</ul>
+
+<p>Both approaches are limited in today’s world and are harmful to cooperation. A <strong>hard approach introduces complicated mechanisms</strong>, compliance, and “checking the box” behaviors instead of the engagement and initiative to make things work. The <strong>soft approach’s emphasis on good interpersonal feelings creates cooperation obstacles</strong> as people want to maintain good feelings.</p>
+
+<p><br /></p>
+<h2 id="six-simple-rules-overview">Six Simple Rules Overview</h2>
+
+<p>The Six Simple Rules approach covers two areas: <strong>autonomy</strong> and <strong>cooperation</strong>. The first three rules create the conditions for <strong>individual autonomy and empowerment</strong> to improve performance.</p>
+
+<ul>
+  <li><strong>Understand what your people do</strong>. Trace performance back to behaviors and how they influence overall results. Understand the context of goals, resources, and constraints. Determine how an organization’s elements shape goals, resources, and constraints.</li>
+  <li><strong>Reinforce integrators</strong>. Identify integrators—those individuals or units whose influence makes a difference in the work of others—by looking for points of tension where people are doing the hard work of cooperating. Integrators bring others together and drive processes.</li>
+  <li><strong>Increase the total quantity of power</strong>. When creating new roles in the organization, empower them to make decisions without taking power away from others.</li>
+</ul>
+
+<p>The Six Simple Rules’ authors emphasize the difference between Autonomy and Self-Sufficiency. <strong>Autonomy</strong> is about fully mobilizing our intelligence and energy to <strong>influence outcomes</strong>, including those <strong>we do not entirely control</strong>. <strong>Self-sufficiency</strong> is about <strong>limiting our efforts</strong> only to those <strong>outcomes that we control entirely without depending on others</strong>. Autonomy is essential for coping with complexity; <strong>self-sufficiency is an obstacle</strong> because it <strong>hinders the cooperation</strong> needed to make autonomy effective.</p>
+
+<p>This difference between <strong>Autonomy</strong> and <strong>Self-Sufficiency</strong> leads us to the second set of rules that compels people to confront complexity and use their newfound autonomy to cooperate with others so that <strong>overall performance, not just individual performance</strong>, is radically improved.</p>
+<ul>
+  <li><strong>Increase reciprocity</strong>. Set clear objectives that stimulate mutual interest to cooperate. Make each person’s success dependent on the success of others. Eliminate monopolies, reduce resources, and create new networks of interaction.</li>
+  <li><strong>Extend the shadow of the future</strong>. Have people experience the consequences that result from their behavior and decisions. Tighten feedback loops. Shorten the duration of projects. Enable people to see how their success is aided by contributing to the success of others.</li>
+  <li><strong>Reward those who cooperate</strong>. Increase the payoff for all when they cooperate in a beneficial way. Establish penalties for those who fail to cooperate.</li>
+</ul>
+
+<p><br /></p>
+<h2 id="rule-1-understand-what-your-people-do">Rule 1: Understand What Your People Do</h2>
+
+<p>The first rule states that you must genuinely understand performance: <strong>what people do</strong> and <strong>why they do it</strong>. When you know why people do what they do and how it drives performance, you can define the <strong>minimum sufficient set of interventions with surgical accuracy</strong>.</p>
+
+<p><img src="assets/images/arch/iStock-1179186162.jpg" alt="" /></p>
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/scyther5">scyther5</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
+</div>
+
+<h3 id="guidelines-for-understanding-performance">Guidelines for Understanding Performance</h3>
+
+<p>To genuinely understand performance, consider the following principles:</p>
+
+<ul>
+  <li>Trace performance back to behaviors, understanding how these behaviors influence and combine to produce overall results.</li>
+  <li>Utilize observation, mapping, measurement, and discussion to gain insights.</li>
+  <li>Comprehend the context of goals, resources, and constraints within which current behaviors are rational strategies for people.</li>
+  <li>Discover how your organization’s elements—structure, scorecards, systems, and incentives—shape these goals, resources, and constraints.</li>
+</ul>
+
+<h3 id="leveraging-architecture-practice">Leveraging Architecture Practice</h3>
+
+<p>Architecture practice can significantly aid in understanding organizational behaviors through:</p>
+
+<ul>
+  <li>Establishing a <strong><a href="analytics">Architectural Analytics</a></strong> with an overview of various data sources to reveal where activities occur, visible trends, and cooperation among people. One principle of Architectural Analytics, <strong>build maps, not control units,</strong> supports understanding and orientation rather than merely serving as a metric tool.</li>
+  <li>Utilizing the <strong><a href="people">Collaborative Networks</a></strong> to connect individuals and enable them to learn about activities in different parts of the organization.</li>
+</ul>
+
+<p><br /></p>
+<h2 id="rule-2-reinforce-integrators">Rule 2: Reinforce Integrators</h2>
+
+<p>The Six Simple Rules approach emphasizes the importance of reinforcing integrators by looking at those <strong>directly involved in the work</strong>, giving them <strong>power and interest to foster cooperation in dealing with complexity</strong> instead of resorting to the paraphernalia of overarching hierarchies, overlays, dedicated interfaces, balanced scorecards, or coordination procedures.</p>
+
+<p><img src="assets/images/arch/agree-g1f407320e_1920.png" alt="" /></p>
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by <a href="https://pixabay.com/users/shutterbug75-2077322/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1238964">Robert Owen-Wahl</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1238964">Pixabay</a>
+</div>
+
+<h3 id="guidelines-for-reinforcing-integrators">Guidelines for Reinforcing Integrators</h3>
+
+<p>To strengthen integrators within your organization, consider these strategies:</p>
+
+<ul>
+  <li>Use emotions to identify candidates. Feelings provide crucial clues for analysis and can act as symptoms of integration issues.</li>
+  <li>Identify operational units that can be integrators among peer units due to their specific interests or power.</li>
+  <li>Remove managerial layers that do not add value and reinforce others as integrators by eliminating specific rules and relying on observation and judgment over metrics when cooperation is involved.</li>
+</ul>
+
+<h3 id="enhancing-integrators-through-architecture-practice">Enhancing Integrators Through Architecture Practice</h3>
+
+<p>Architecture practice can play a vital role in reinforcing integrators by:</p>
+
+<ul>
+  <li>Utilizing the <strong><a href="people">Collaborative Networks</a></strong> to help identify and connect integrators, leveraging their work effectively.</li>
+  <li>Emphasizing architects as critical integrators and integrator role models within the organization, defining them as essential components of the organizational “superglue.”</li>
+  <li>Establishing a <strong><a href="analytics">Architectural Analytics</a></strong> to support integrators with data and insights, enabling them to perform more informed and effective work.</li>
+</ul>
+
+<p><br /></p>
+<h2 id="rule-3-increase-the-total-quantity-of-power">Rule 3: Increase the Total Quantity of Power</h2>
+
+<p>Whenever you consider an <strong>addition to</strong> your organization’s <strong>structure, processes, and systems</strong>, think about <strong>increasing the quantity of power</strong>. Doing so may <strong>save you from increasing complicatedness</strong> and enable you to achieve a more significant impact with less cost. You can increase the quantity of power by allowing some functions to influence performance and stakes that matter to others.</p>
+
+<p><img src="assets/images/arch/iStock-1201215883.jpg" alt="" /></p>
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Milkos">Prostock-Studio</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
+</div>
+
+<h3 id="guidelines-for-increasing-power-quantity">Guidelines for Increasing Power Quantity</h3>
+
+<p>To enhance the quantity of power within your organization, consider these actions recommended by the Six Simple Rules approach:</p>
+
+<ul>
+  <li>When making design decisions that could shift the balance between central and unit power, functions, and line managers, ensure that some parts of the organization benefit from new power bases. This approach helps meet complexity requirements and avoids future disruptions from pendulum swings.</li>
+  <li>When creating new functions, ensure they have the power to fulfill their roles without diminishing the power others need to fulfill theirs.</li>
+  <li>When introducing new tools for managers, such as planning or evaluation systems, evaluate whether these tools act as resources or constraints. Implementing a few tools creates a critical mass of power, which is more effective than introducing many tools sequentially.</li>
+  <li>Regularly enrich power bases to maintain agility, flexibility, and adaptability.</li>
+</ul>
+
+<h3 id="enhancing-power-quantity-through-architecture-practice">Enhancing Power Quantity Through Architecture Practice</h3>
+
+<p>Architecture practice can support the increase in power quantity through an operating model that promotes distributed decision-making:</p>
+
+<ul>
+  <li>Through the <strong><a href="people">Collaborative Networks</a></strong>, you can enhance decision-making power by distributing architectural decision-making across the organization and embedding it within development teams, which typically have the best insights and most relevant information.</li>
+  <li>Additionally, <strong><a href="analytics">Architectural Analytics</a></strong>, accessible to all interested members of the organization, can provide data and insights that empower individuals in their daily work.</li>
+</ul>
+
+<p><br /></p>
+<h2 id="rule-4-increase-reciprocity">Rule 4: Increase Reciprocity</h2>
+
+<p>In the face of business complexity, work is becoming more interdependent. To meet multiple and often contradictory performance requirements, <strong>people must rely more on each other</strong>. They need to <strong>cooperate directly</strong> instead of depending on dedicated interfaces, coordination structures, or procedures that only add to complicatedness.</p>
+
+<p><img src="assets/images/arch/iStock-1072898930.jpg" style="width: 100%" /></p>
+<div style="text-align: center; font-size: 70%; color: grey; margin-bottom: 12px; margin-top: -12px;">
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Natnan_Srisuwan">Natnan Srisuwan</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
+</div>
+
+<h3 id="guidelines-for-enhancing-reciprocity">Guidelines for Enhancing Reciprocity</h3>
+
+<p>Reciprocity involves recognizing that people or units in an organization have a mutual interest in cooperation and that the success of one depends on the success of others. To foster this reciprocity, follow these guidelines:</p>
+
+<ul>
+  <li>Eliminate monopolies to ensure no single entity has exclusive control.</li>
+  <li>Reduce resources to encourage more efficient and collaborative use.</li>
+  <li>Create new networks of interaction to facilitate better communication and cooperation.</li>
+</ul>
+
+<h3 id="enhancing-reciprocity-through-architecture-practice">Enhancing Reciprocity Through Architecture Practice</h3>
+
+<p>Architecture practice can significantly increase reciprocity within an organization:</p>
+
+<ul>
+  <li>The <strong><a href="people">Collaborative Networks</a></strong> supports creating new networks of interactions, directly reinforcing reciprocity.</li>
+  <li>A hybrid operating model relies on the mutual success of an architecture practice and development teams. Architects’ impact is essential, and their support depends on the feedback from the groups they assist. Integrating this feedback into architects’ performance evaluations is crucial for enhancing reciprocity between architecture and other units.</li>
+</ul>
+
+<p><br /></p>
+<h2 id="rule-5-extend-the-shadow-of-the-future">Rule 5: Extend the Shadow of the Future</h2>
+
+<p>The Six Simple Rules approach emphasizes the importance of making visible and clear <strong>what happens tomorrow as a consequence of what they do today</strong>. You can manage complex requirements by making simple changes while removing organizational complexity. With the strategic alignment typical of the hard approach, these simple solutions—for instance, career paths—often come at the end of a sequence that starts by installing the most cumbersome changes: new structure, processes, systems, metrics, etc. Simple and effective solutions are then impossible.</p>
+
+<p><img src="assets/images/arch/trees-gc38b3c617_1920.jpg" alt="" /></p>
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by <a href="https://pixabay.com/users/jplenio-7645255/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3294681">Joe</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3294681">Pixabay</a>
+</div>
+
+<h3 id="guidelines-for-extending-the-shadow-of-the-future">Guidelines for Extending the Shadow of the Future</h3>
+
+<p>The Six Simple Rules approach recommends four strategies to extend the shadow of the future:</p>
+
+<ul>
+  <li>Tighten the feedback loop by increasing the frequency of moments when people experience the consequences of the fit between their contributions.</li>
+  <li>Bring the endpoint forward by shortening the duration of projects.</li>
+  <li>Tie futures together so that successful moves are conditioned on contributing to the success of others.</li>
+  <li>Ensure people walk in the shoes they make for others.</li>
+</ul>
+
+<h3 id="extending-the-shadow-of-the-future-through-architecture-practice">Extending the Shadow of the Future Through Architecture Practice</h3>
+
+<p>Architecture practice can play a crucial role in extending the shadow of the future through various methods:</p>
+
+<ul>
+  <li><strong><a href="analytics">Architectural Analytics</a></strong> can create transparency and provide the data necessary to model the future. This data can be used to develop simulations and roadmap options.</li>
+  <li>Applying <strong><a href="economics">economic modeling</a></strong> to architecture decision-making helps describe the future consequences of today’s actions, directly supporting long-term planning and decision-making.</li>
+</ul>
+
+<p><br /></p>
+<h2 id="rule-6-reward-those-who-cooperate">Rule 6: Reward Those Who Cooperate</h2>
+
+<p>Lastly, the Six Simple Rules approach recommends that when you cannot create direct feedback loops embedded in people’s tasks, you need <strong>management’s intervention to close the loop</strong>. Managers must then use the familiar performance evaluation tool but in a very different way.</p>
+
+<p><img src="assets/images/arch/people-gac98109e9_1920.jpg" alt="" /></p>
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by <a href="https://pixabay.com/users/stocksnap-894430/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2569234">StockSnap</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2569234">Pixabay</a>
+</div>
+
+<h3 id="guidelines-for-rewarding-cooperation">Guidelines for Rewarding Cooperation</h3>
+
+<p>To effectively reward those who cooperate, managers should:</p>
+
+<ul>
+  <li>Go beyond technical criteria and avoid placing blame solely on where the root cause originated. Accept that execution problems arise from various reasons. The smart approach is to reduce rewards for those who fail to cooperate in solving a problem, even if the problem isn’t in their direct area, and increase rewards for units that cooperate beneficially.</li>
+  <li>Avoid blaming failure and instead focus on blaming the inability to help or seek help.</li>
+  <li>Use simple questions to shift managerial conversations, making transparency and ambitious targets resources rather than constraints. This approach helps managers act as integrators, leveraging cooperation and rich information to achieve superior results.</li>
+</ul>
+
+<h3 id="rewarding-cooperation-through-architecture-practice">Rewarding Cooperation Through Architecture Practice</h3>
+
+<p>Architecture practice can facilitate rewarding cooperation by making it easier for individuals to help others and ask for help:</p>
+
+<ul>
+  <li>A strong <strong><a href="people">Collaborative Networks</a></strong> can provide the context and networks necessary for easier collaboration.</li>
+  <li>Adding diverse data sources to <strong><a href="analytics">Architectural Analytics</a></strong> can create transparency about cooperation opportunities and challenges, supporting a more collaborative environment.</li>
+</ul>
+
+<p><br /></p>
+<h2 id="questions-to-consider">Questions to Consider</h2>
+
+<ul>
+  <li><em>How can the concept of Smart Simplicity apply to your current role or position within your organization?</em></li>
+  <li><em>Do you feel the structures, processes, and systems directly and predictably affect performance in your organization?</em></li>
+  <li><em>Do you feel that your organization views the human factor is viewed as the weakest link? How does this affect how you and your colleagues perform?</em></li>
+  <li><em>How do you perceive the balance between your organization’s hard and soft management approaches? Is one approach more dominant?</em></li>
+  <li><em>How does your organization currently promote autonomy and cooperation among employees? Are there areas for improvement?</em></li>
+  <li><em>How do the assumptions of hard and soft management approaches hinder cooperation in your organization?</em></li>
+  <li><em>How can you increase the total power within your organization without taking power away from others?</em></li>
+  <li><em>How can your organization increase reciprocity and make each person’s success dependent on the success of others?</em></li>
+  <li><em>How can your organization extend the shadow of the future? Are there feedback mechanisms in place to make people accountable for their decisions?</em></li>
+  <li><em>How are those who cooperate rewarded in your organization? Are there mechanisms in place to increase the payoff for all when they cooperate beneficially?</em></li>
+  <li><em>How can architecture practice in your organization support the implementation of the Six Simple Rules?</em></li>
+  <li><em>How do your organization’s current systems and structures promote or hinder the cooperation needed to make autonomy effective?</em></li>
+</ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[The Six Simple Rules approach emphasizes that you must set up organizational structures based on cooperation in today's complicated business environment. To deal with complexity, organizations should depend on the judgment of their people, and these people cooperate to utilize the organization's capabilities to cope with complex problems.]]></summary></entry><entry><title type="html">Transforming Organizations with Grounded Architecture</title><link href="http://localhost:4000/transformation" rel="alternate" type="text/html" title="Transforming Organizations with Grounded Architecture" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/value</id><content type="html" xml:base="http://localhost:4000/transformation"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/iStock-1893527682.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/gremlin">gremlin</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
@@ -1519,183 +1800,36 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Azman
 </style>
 
 <blockquote>
-  <p><strong>IN THIS SECTION, YOU WILL:</strong>  Get an overview of guiding principles that generalize my view on what it means to be an architect in practice.</p>
+  <p><strong>IN THIS SECTION, YOU WILL:</strong>  Get an overview of lessons I learned on what it means to be an architect in practice.</p>
 </blockquote>
 
 <p><br /></p>
 
-<p>With this section, we start the second part of our book, which unveils a wealth of practical ideas and inspiration to help you bring the framework we outlined in the first part to life. This section and the following parts of the book will equip you with valuable tips and insights for running an IT architecture practice, contributing to your continued success and growth in this field (Figure 1).</p>
+<p>With this section, we start the second part of our book, which unveils a wealth of practical ideas and inspiration to help you bring the Grounded Architecture framework we outlined in the first part to life. This part of the book will equip you with <strong>valuable tips and insights</strong> for running an IT architecture practice (Figure 1). In complex organizations, you cannot just copy and paste other companies’ approaches. Instead of having a rigid structured framework, having a toolbox of inspirational resources is more practical for implementing a successful architectural practice.</p>
 
 <p><img src="assets/images/model-inspirations.png" alt="" />
 <em><strong>Figure 1:</strong>  Grounded Architecture Overview: Ideas and Inspirations.</em></p>
 
-<p>We begin this second part by exploring resources about what it means to be an architect. The role of an architect in the IT industry is like a Swiss Army knife—multifaceted and indispensable. It requires blending technical expertise, strategic thinking, and interpersonal skills to drive successful outcomes in complex organizational environments. In this part of the book, I offer a deep dive into various perspectives on what it means to be an architect in practice, providing a holistic understanding of the responsibilities and expectations associated with this role.</p>
+<p>We begin this second part with several resources about what it means to be an architect. The role of an architect in the IT industry is like a <strong>Swiss Army knife</strong>—multifaceted and indispensable. It requires blending technical expertise, strategic thinking, and interpersonal skills to drive successful outcomes in complex organizational environments. In this part of the book, I offer a deep dive into various perspectives on my view on what it means to be an architect in practice, providing a holistic understanding of the responsibilities and expectations associated with this role.</p>
 
-<ul>
-  <li><strong><a href="superglue">Adopting a Mindset: Architects as Superglue</a></strong>: In IT organizations, architects are the essential connectors, often referred to as “superglue.” Their primary function is integrating different aspects of the organization—architecture, technical details, business requirements, and team dynamics—ensuring that everything works together seamlessly. This role is vital in large organizations and complex projects where cohesion and coordination are paramount to success.</li>
-  <li><strong><a href="impact">Building Skills</a></strong>: The skill set of an influential architect is diverse and comprehensive. It includes hard (technical) skills fundamental to understanding and designing complex systems. Soft (people and social) skills are crucial for effective communication, collaboration, and leadership. Business skills are also essential, enabling architects to align their technical strategies with organizational goals and drive business value.</li>
-  <li><strong><a href="impact">Making Impact</a></strong>: The true measure of an architect’s success is their impact on the organization. Architects must demonstrate their ability to identify, tackle, and solve strategic problems. Their influence should be deep and broad, shaping the direction of projects and the organization. They are expected to deliver innovative solutions that address key challenges and opportunities, setting them apart as indispensable contributors.</li>
-  <li><strong><a href="career">Architects’ Career Paths</a></strong>: The ideal career path for architects is rooted in a strong engineering background. This foundation provides the technical proficiency necessary for advanced architectural roles.</li>
-</ul>
-
-<p>By examining these perspectives, readers can uncover some of the architects’ essential qualities and responsibilities. This exploration highlights the importance of a well-rounded skill set and a strategic approach, proving that being an architect is more than just wearing stylish glasses and nodding thoughtfully in meetings. Whether you’re an aspiring architect or a seasoned pro, these insights will provide valuable guidance on navigating and excelling in this dynamic and evolving field.</p>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[I introduce guiding principles that generalize my view on what it means to be an architect in practice.]]></summary></entry><entry><title type="html">Adopting a Mindset: Architects as Superglue</title><link href="http://localhost:4000/superglue" rel="alternate" type="text/html" title="Adopting a Mindset: Architects as Superglue" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/superglue</id><content type="html" xml:base="http://localhost:4000/superglue"><![CDATA[<style>
-     h2 {
-          margin-top: 40px;
-     }
-     h3 {
-          margin-top: 40px;
-     }
-</style>
-
-<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/iStock-185061908.jpg" /></p>
-<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/pagadesign">pagadesign</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
-</div>
-<blockquote>
-  <p><strong>IN THIS SECTION, YOU WILL:</strong>  Understand the view on architects as superglue (people who hold architecture, technical details, business needs, and people together across a large organization or complex projects) and get valuable tips on developing “superglue” abilities.</p>
-
-  <p><strong>KEY POINTS:</strong></p>
-
-  <ul>
-    <li>Architects in IT organizations should develop as “superglue,” people who hold architecture, technical details, business needs, and people together across a large organization or complex projects.</li>
-    <li>Architects need to be technically strong. But their unique strengths should stem from being able to relate technical issues with business and broader issues.</li>
-    <li>Architects should stand on three legs: skills, impact, and leadership.</li>
-  </ul>
-</blockquote>
-<style>
- .quote {
-     border-left: 8px solid #d9ead3;
-     padding-left: 36px;
-     margin-top: 30px;
-     margin-bottom: 40px;
-     font-size: 140%;
-     font-style: normal;
-     color:#888;
- }
-    @media only screen and (max-width: 768px) {
-        [class="quote"] {
-            display: none;
-        }
-    }
-</style>
-
-<p><br />
-To succeed as an IT architect, you need the skills and the right <strong>mindset</strong>—a set of attitudes, beliefs, and mental frameworks that shape how you perceive and respond to situations. Regarding their role in organizations, I have found the <strong>“superglue” metaphor</strong> to be an effective way to put architects into the mindset that sets them up for success and making an impact.</p>
-
-<p>The concept of “superglue” people in IT organizations emphasizes the critical role of those who act as the <strong>binding force</strong> across various facets of an organization. This idea, championed by <a href="https://saturn2016.sched.com/event/63m9/cant-find-superheroes-to-help-you-out-of-a-crisis-how-about-some-architecture-and-lots-of-superglue">Adam Bar-Niv and Amir Shenhav from Intel</a>, and echoed by <a href="https://noidea.dog/glue">Tanya Reilly</a>, underscores the need for individuals who excel in more than just technical skills. Gregor Hohpe similarly describes modern architects’ primary role as gluing different organizational functions by riding the <a href="https://architectelevator.com/">Architect Elevator</a> from the penthouse, where the business strategy is set, to the engine room, where engineers implement enabling technologies.</p>
-
-<p>The architects acting as “superglue” should aim to <strong>hold together</strong> architecture, technical details, business needs, and people within large organizations or complex projects. Architects should function as the <strong>organizational connective tissue</strong>. They should bridge the gap between the “business wheelhouse” and the “engine room,” ensuring that technical solutions align with business goals. Their primary strength should be their ability to relate technical issues to broader organizational and business contexts.</p>
-
-<p>A crucial aspect of their role involves building <strong>robust relationships</strong> with various stakeholders, including developer teams, local business stakeholders, and different functional areas within the organization. By fostering these connections, superglue architects ensure everyone is on the same page and working towards common objectives. Superglue architects must be <strong>well-integrated</strong> within <strong>internal communities.</strong> They should actively participate in internal discussions, knowledge sharing, and collaborations to stay updated and contribute meaningfully. Additionally, <strong>external visibility</strong> is vital. By engaging with the external community, these architects bring in fresh ideas and promote their organization’s innovations and achievements to the outside world.</p>
+<p>By examining these perspectives, readers can uncover some of the architects’ essential qualities and responsibilities. This exploration highlights the importance of a <strong>well-rounded skill</strong> set and a strategic approach, proving that being an architect is more than just wearing stylish glasses and nodding thoughtfully in meetings. Whether you’re an aspiring architect or a seasoned pro, these insights will provide valuable guidance on navigating and excelling in this dynamic and evolving field.</p>
 
 <p><br /></p>
-<h2 id="superglue-architects">Superglue Architects</h2>
 
-<p>While technical expertise is indispensable, what should set superglue architects apart is their exceptional <strong>relational skills.</strong> They must communicate effectively, negotiate, and influence various stakeholders to achieve alignment and drive projects forward. This unique blend of technical and interpersonal skills makes them invaluable in maintaining the organization’s coherence and efficiency.</p>
+<h2 id="growing-as-an-architect">Growing As An Architect</h2>
 
-<p><img src="assets/images/superglue/architect-as-superglue.png" alt="Architects as Superglue" />
-<em><strong>Figure 1:</strong> Architects serve as superglue, connecting development teams with business stakeholders and linking their teams with internal and external communities.</em></p>
-
-<p><strong>Figure 1</strong> captures the <strong>superglue metaphor</strong> for architects, showing how they, like superglue, bond various parts of the organization:</p>
-
-<ul>
-  <li><strong>Developer Whisperers:</strong> Architects work closely with developers, understanding their challenges and ensuring architectural decisions enhance development efficiency and effectiveness.</li>
-  <li><strong>Tech-to-Business Translators:</strong> They decode technical jargon into business terms, helping stakeholders grasp the value and implications of technical decisions.</li>
-  <li><strong>Cross-Functional Diplomats:</strong> By engaging with operations, marketing, and finance, architects ensure technical solutions are practical, viable, and aligned with organizational strategies.</li>
-  <li><strong>Community Connectors:</strong> Active engagement within internal communities keeps architects informed and contributes to the collective knowledge pool.</li>
-  <li><strong>Industry Influencers:</strong> By being visible externally, architects learn from and influence the broader industry, bringing in fresh perspectives and establishing their organization as a thought leader.</li>
-</ul>
-
-<p>Superglue architects are essential for the seamless operation of large and complex IT organizations. Unlike superheroes who save the day with dramatic rescues, superglue architects ensure continuous, <strong>smooth operation</strong> by connecting the dots across various organizational aspects.</p>
-
-<p>So, instead of looking for a cape, IT architects should focus on becoming the superglue that holds everything together, ensuring stability, coherence, and progress within their organizations. Think of them as the organizational equivalent of duct tape—versatile, indispensable, and always ready to fix the seemingly unfixable.</p>
-
-<h2 id="superglueing-in-action-reducing-tensions">Superglueing in Action: Reducing Tensions</h2>
-
-<p>The primary value of superglue architects in complex organizations lies in their uncanny ability to align business, product, technology, and organizational functions.</p>
-
-<h3 id="tensions">Tensions</h3>
-
-<p>Technology, product, organization, and business functions face specific challenges and change at different rates. Ideally, these structures should <strong>evolve simultaneously,</strong> staying in perfect sync like a well-rehearsed dance troupe. However, reality often resembles a <strong>poorly synchronized</strong> flash mob, full of tension and missteps, as illustrated in Figure 2.</p>
-
-<p><img src="assets/images/tension.png" alt="Tensions Between Functions" />
-<em><strong>Figure 2:</strong> The tensions between technology, product, organization, and business functions.</em></p>
-
-<p>Imagine an organization where the teams are designed based on a well-defined domain model. Sounds great, right? Now, throw in a monolithic IT system that forces teams to collaborate in ways that resemble a traffic jam. The result? Chaos and inefficiency.</p>
-
-<p>Now, flip the script: teams are aligned with a microservices architecture, each owning their service domains. However, the product architecture groups feature differently, causing a simple product change to resemble a game of “Whac-A-Mole” across dozens of services.</p>
-
-<p>And let’s not forget when business objectives are as aligned as a roundabout during rush hour. In one minute, the goal is to slash costs at all costs; in the next, to add new features and migrate to the public cloud. These conflicting objectives make different parts of the organization feel like they’re playing tug-of-war—without a rope.</p>
-
-<p>The main problem with the tension between technology, product, organization, and business functions is that it can significantly impede progress. <strong>Miscommunication</strong> or <strong>misalignments</strong> can turn simple tasks into bureaucratic nightmares. Furthermore, these issues can introduce overwhelming and unnecessary complexity, causing critical missed opportunities.</p>
-
-<h3 id="reducing-tensions">Reducing Tensions</h3>
-
-<p>Superglue architects should be able to <strong>navigate the wild complexities</strong> of modern organizations. They should ensure that the various architectures—business, product, technology, or organizational design—<strong>don’t just coexist</strong> but thrive together. This holistic approach reduces tension and misalignment, making the organization run smoother than butter on hot toast.</p>
-
-<p>Architects should <strong>facilitate communication and collaboration</strong> across different domains, ensuring that changes in one area are understood and accommodated in others. In other words, they keep the chaos at bay and make sure everyone’s dance steps are in sync.</p>
-
-<p><img src="assets/images/tension-architecture.png" alt="Architects Reducing Tensions" />
-<em><strong>Figure 3:</strong> Architects should be in the middle of reducing tensions between technology, product, organization, and business functions.</em></p>
-
-<p>Acting as superglue, the architects can effectively <strong>reduce tensions</strong> among technology, product, organization, and business functions. This act includes facilitating <strong>critical conversations</strong> between these units and ensuring alignment and cohesion. As depicted in Figure 3, the goal of architecture is not to add new constructs between these four elements, but to <strong>bring them closer together.</strong> By fostering closer relationships and better communication, architects can help these elements work in unison rather than at cross purposes.</p>
-
-<p>Architects must actively engage with all stakeholders, translating technical jargon into business-friendly terms. For example, if the business wants to cut costs, architects highlight how it might impact product timelines or technical debt. Similarly, if new tech is introduced, architects ensure it aligns with product goals and organizational capabilities.</p>
-
-<p>Ironically, the more successful superglue architects are in their role, the less visible their needs become. But fear not—this doesn’t make architecture redundant; it evolves the practice to be the invisible hand that keeps everything running smoothly, embedded in the daily operations of the organization. So, superglue architects, your true superpower is keeping everything stuck together!</p>
-
-<h2 id="superglue-impact">Superglue Impact</h2>
-
-<p>Tensions among technology, product, organization, and business functions can slow down progress, lead to poor decisions, introduce complexity, and cause missed opportunities. Acting as superglue, architects can mitigate these issues by fostering better communication and alignment among these elements. The goal is <strong>not to create new barriers</strong> but to bring these functions closer together, ensuring a cohesive and efficient operation. This approach may appear to diminish the need for a formal an architecture practice, but in reality, it transforms the role into one integral to the organization’s success.</p>
-
-<p>While staying close to technology (the engine room), architects must ensure that technology serves the needs of customers and the business and that technical architecture is well-aligned with organizational design. At the same time, architects can help ensure that business, product, and organizational designs are well-informed about the state, risks, and opportunities of an organization’s technology to avoid creating impractical strategies, setting unrealistic goals, or missing opportunities.</p>
-
-<p>Misalignment between these elements can introduce several <strong>key risks,</strong> which architects need to be aware of and mitigate:</p>
-
-<ul>
-  <li>
-    <p><strong>Building the Wrong Products:</strong> If technology implementation is based on incorrect assumptions, you might create a product that doesn’t meet the actual needs. Misalignment can lead to producing irrelevant solutions, like trying to sell snow boots in the Sahara.</p>
-  </li>
-  <li>
-    <p><strong>Wrong Prioritization of Activities:</strong> Without clear business and product metrics, resources might be directed towards developing “interesting” but non-valuable products. Proper alignment ensures development efforts are focused on initiatives that add real value, not on quirky side projects.</p>
-  </li>
-  <li>
-    <p><strong>Unexpected Delivery Delays:</strong> Misalignment can lead to underestimating projects’ complexity, effort, and dependencies, causing significant delays. This misalignment can make a project feel perpetually stuck, like being in a time loop where unforeseen obstacles continuously hinder progress.</p>
-  </li>
-  <li>
-    <p><strong>Duplication of Effort:</strong> Without harmonization across business and product strategies, efforts may be duplicated, leading to inefficiencies. This duplication is akin to repeatedly reinventing the wheel, which is wasteful and counterproductive.</p>
-  </li>
-  <li>
-    <p><strong>Building Too Complex Products:</strong> Overly complex and configurable systems can be developed to address all possible scenarios, resulting in cumbersome solutions where simpler, more harmonized approaches would suffice. This complexity is like using a Swiss Army knife when only a spoon is needed—overkill and overly complicated.</p>
-  </li>
-  <li>
-    <p><strong>Overengineering:</strong> Without pushback to simplify products and a lack of understanding of the technology, overengineering can occur. Imagine using a monster truck for a grocery run—impressive, but entirely unnecessary.</p>
-  </li>
-  <li>
-    <p><strong>Building Too Simple, Unscalable Products:</strong> Assuming processes will be simplified and harmonized when, in reality, essential complexity needs to be supported, can lead to fragile systems. It’s like building a house of cards lacking robustness and scalability.</p>
-  </li>
-  <li>
-    <p><strong>Building Low-Quality Products:</strong> Unnecessary complexity and lack of critical knowledge and expertise can lead to low-quality products that fail under pressure, like a dollar-store umbrella in a hurricane. Ensuring quality requires aligning expertise and simplifying designs where possible.</p>
-  </li>
-  <li>
-    <p><strong>Complicated Dependencies Between Teams:</strong> Suboptimal organizational design and lack of awareness of system and team dependencies can slow down coordination, creating a bureaucratic nightmare. Efficient team structures and clear communication channels are crucial to maintaining momentum.</p>
-  </li>
-  <li>
-    <p><strong>Creating Fragile, Unsustainable Team Structures:</strong> Relying on a small number of developers for critical technologies can make teams extremely vulnerable. Building resilient team structures with adequate support and redundancy is essential.</p>
-  </li>
-</ul>
-
-<p>While architects stay close to the technology, they must ensure it works for the business and customers, not the other way around. By keeping everyone in the loop and aligned, architects help clear the many pitfalls of misalignment and keep the organizational machine running smoothly. Their role is to facilitate communication, ensure alignment, and guide the organization toward cohesive and practical solutions, preventing the myriad risks associated with misalignment.</p>
-
-<h2 id="superglue-powers">Super(glue) Powers</h2>
-
-<p>Setting the architects’ goals to be “superglue” also requires some thought on developing architects as superglue. Borrowing from Gregor Hohpe’s view on architect development from his book <em>Software Architecture Elevator</em>, I share the view that our architects should stand on three legs:</p>
+<p>Borrowing from Gregor Hohpe’s view on architect development from his book <em>Software Architecture Elevator</em>, I share the view that our architects should stand on three legs:</p>
 
 <ul>
   <li>Skills</li>
   <li>Impact</li>
   <li>Leadership</li>
 </ul>
+
+<p>Architects must have a <strong>minimal “length”</strong> of all of these “legs” to be successful (Figure 2). For instance, having skills and impact without leadership frequently leads to <strong>hitting a glass ceiling</strong>. Such architects plateau at an intermediate level and cannot direct the company to innovative or transformative solutions. Leadership without impact lacks foundation and may signal that you have become an <strong>ivory tower architect</strong> with a weak relation to reality. And having impact and leadership qualities but no skills leads to <strong>impractical decisions</strong> not informed by in-depth knowledge.</p>
+
+<p><img src="assets/images/arch/architect-legs.png" alt="" />
+<em><strong>Figure 2:</strong> Architects must have a minimal “length” of all “legs” to be successful.</em></p>
 
 <h3 id="skills">Skills</h3>
 
@@ -1743,27 +1877,15 @@ To succeed as an IT architect, you need the skills and the right <strong>mindset
 
 <p>The section <a href="leadership">Leadership</a> provides more details.</p>
 
-<h3 id="balanced-powers">Balanced Powers</h3>
+<h3 id="architects-career-paths">Architects’ Career Paths</h3>
 
-<p>Architects must have a <strong>minimal “length”</strong> of all of these “legs” to be successful (Figure 4). For instance, having skills and impact without leadership frequently leads to <strong>hitting a glass ceiling</strong>. Such architects plateau at an intermediate level and cannot direct the company to innovative or transformative solutions. Leadership without impact lacks foundation and may signal that you have become an <strong>ivory tower architect</strong> with a weak relation to reality. And having impact and leadership qualities but no skills leads to <strong>impractical decisions</strong> not informed by in-depth knowledge.</p>
+<p>The ideal career path for architects is rooted in a strong engineering background. This foundation provides the technical proficiency necessary for advanced architectural roles.</p>
 
-<p>In summary, developing architects as “superglue” means fostering a balanced combination of skills, impact, and leadership. Just like a three-legged stool, if one leg is too short, the whole thing topples over—quite possibly spilling your coffee in the process.</p>
+<p>The section <a href="career">Architects’ Career Paths</a> provides more details.</p>
 
-<p><img src="assets/images/arch/architect-legs.png" alt="" />
-<em><strong>Figure 4:</strong> Architects must have a minimal “length” of all “legs” to be successful.</em></p>
+<p><br /></p>
+<h2 id="thinking-like-an-architect-architects-as-superglue">Thinking Like an Architect: Architects as Superglue</h2>
 
-<h2 id="questions-to-consider">Questions to Consider</h2>
+<p>In IT organizations, architects are the essential connectors, often referred to as “superglue.” Their primary function is integrating different aspects of the organization—architecture, technical details, business requirements, and team dynamics—ensuring that everything works together seamlessly. This role is vital in large organizations and complex projects where cohesion and coordination are paramount to success.</p>
 
-<p>Being a superglue architect means constantly developing and redefining your role to benefit a changing organization. Ask yourself the following questions:</p>
-
-<ul>
-  <li><em>How well do you think you currently embody the characteristics of a “superglue” architect? Which areas could you improve on to become more effective in this role?</em></li>
-  <li><em>Reflect on your ability to connect the “business wheelhouse” and the “engine room” within your organization. How effectively do you bridge the gap between technical issues and business needs?</em></li>
-  <li><em>How strong are your relationships with developer teams, local business stakeholders, and broader internal communities? How could you strengthen these connections?</em></li>
-  <li><em>How much external visibility do you currently have? How could this be enhanced to promote the flow of ideas into and out of the organization?</em></li>
-  <li><em>Can you identify specific instances of tension between your organization’s technology, product, organization, and business functions? What caused this tension, and how was it addressed?</em></li>
-  <li><em>How could your current architecture aid in reducing tension between these functions?</em></li>
-  <li><em>Have you witnessed the architecture sitting on the side, being ignored? If so, what steps can you take to actively involve architecture in decision-making processes?</em></li>
-  <li><em>Are conversations between the technical, product, organizational, and business functions encouraged and facilitated within your organization? If not, how might they be initiated and supported?</em></li>
-  <li><em>Considering the three legs of a successful architect (skills, impact, leadership), which are your strongest? Which might need more development?</em></li>
-</ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[Architects in IT organizations should develop as “superglue,” people who hold architecture, technical details, business needs, and people together across a large organization or complex projects.]]></summary></entry></feed>
+<p>The section <a href="superglue">Thinking Like an Architect: Architects as Superglue</a> provides more details.</p>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[I introduce guiding principles that generalize my view on what it means to be an architect in practice.]]></summary></entry></feed>
