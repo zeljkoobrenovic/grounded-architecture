@@ -39,7 +39,7 @@ Operating on a global scale introduces several compelling opportunities for orga
 
 However, the global and massive scale also presents numerous challenges. It results in **high organizational complexity**, with thousands of potential communication channels within the organization. The **complex technology landscape** entails numerous interconnected services. Managing a large talent pool incurs **high workforce costs**. Furthermore, such organizations face high computing resource expenses due to the need to serve a vast customer base around the clock. The operational complexity increases with high and variable customer demands across multiple locations. Additionally, global organizations have a **vast attack surface**, with many potential entry points for attackers. Lastly, any manual process, such as creating an organizational or technology landscape overview, is limited due to the scale involved.
 
-Balancing opportunities and challenges on a global scale has been one of the most demanding and rewarding aspects of my architectural work. Such a magnitude makes any manual process inefficient and difficult to scale. The global scale was one of the main drivers behind the aggressive datafication of our architectural practices. It has also led us to create more decentralized collaborative networks and operating models to execute and track decision-making across the board.
+Balancing opportunities and challenges on a global scale has been one of the most demanding and rewarding aspects of my architectural work. Such a magnitude makes any manual process inefficient and difficult to scale. The global scale was one of the main drivers behind the aggressive datafication of our an architecture practice. It has also led us to create more decentralized collaborative networks and operating models to execute and track decision-making across the board.
 
 ## Multi-Dimensional Diversity
 
@@ -62,7 +62,7 @@ Diversity offers several **opportunities,** including increased technology **inn
 
 However, diversity also brings challenges. One such challenge is **increased complexity,** resulting in a higher system landscape complexity and greater cognitive load for teams mastering numerous topics simultaneously. Additionally, there is **reduced flexibility,** as expertise spread across many domains and technologies limits reorganization possibilities. Furthermore, diversity can lead to higher **technical debt** due to multiple technology stacks, increasing legacy components, and outdated technologies. While diversity is a rich source of new possibilities from an architectural perspective, it always necessitates carefully managing complexity. 
 
-Diversity has influenced our architectural practices in multiple ways. It has led to the development of lean tools that can cover a broad range of technology stacks rather than the adoption of specialized ones that can go deep on one stack but cannot cover 95% of our landscape. We also adopted a more flexible governance model to help all teams in a practical way that is aligned with their diverse ways of working.
+Diversity has influenced our an architecture practice in multiple ways. It has led to the development of lean tools that can cover a broad range of technology stacks rather than the adoption of specialized ones that can go deep on one stack but cannot cover 95% of our landscape. We also adopted a more flexible governance model to help all teams in a practical way that is aligned with their diverse ways of working.
 
 ## Nonlinear Growth Dynamics
 
@@ -77,7 +77,7 @@ Nonlinear growth, in particular, can be advantageous in several scenarios. It ca
 
 However, nonlinear growth dynamics significantly impact architectural activities. The sudden integration of new companies **increases organizational complexity**, introducing many new units. Acquiring a new company also **brings in new technology and engineering units**, along with their unique processes and technology stacks. Furthermore, these nonlinear dynamics **necessitate a flexible architecture** to accommodate potential divestitures. 
 
-Nonlinear growth offers substantial benefits but also challenges managing increased complexity and the need to maintain architectural flexibility. In terms of its impact on architectural practices, such dynamics lead to constantly high levels of complexity and more uncertainty. This has led us to prioritize the creation of better transparency to track changes that such dynamics introduce. We also needed to collaborate closely with business and finance stakeholders on developing tools for economics and risk modeling of investments and divestments.
+Nonlinear growth offers substantial benefits but also challenges managing increased complexity and the need to maintain architectural flexibility. In terms of its impact on an architecture practice, such dynamics lead to constantly high levels of complexity and more uncertainty. This has led us to prioritize the creation of better transparency to track changes that such dynamics introduce. We also needed to collaborate closely with business and finance stakeholders on developing tools for economics and risk modeling of investments and divestments.
 
 ## Synergy and Transformation Pressures
 
@@ -90,7 +90,7 @@ Pursuing synergies and transformations offers several opportunities, such as **c
 
 However, striving for synergies and efficiency presents challenges. There is a need for significant **initial investment** to realize benefits, which carries high risks. Performance pressure arises as teams must deliver excellent **short-term results** while undergoing significant transformations. Balancing transformation activities with regular work can temporarily **reduce productivity.** Moreover, post-transformation, the organization and technology landscape may become more complex due to increased dependencies, such as reusing central services.
 
-The pressure to achieve synergies and efficiency can lead to high expectations and complicate regular architectural work. Nonetheless, these forces also create numerous opportunities for growth and improvement. For architecture practice, these pressures created a strong need for better tracking project costs, value, and risks. Being able to calculate and back with data decisions for both innovative projects and legacy retirements was a critical aspect of our work.
+The pressure to achieve synergies and efficiency can lead to high expectations and complicate regular architectural work. Nonetheless, these forces also create numerous opportunities for growth and improvement. For an architecture practice, these pressures created a strong need for better tracking project costs, value, and risks. Being able to calculate and back with data decisions for both innovative projects and legacy retirements was a critical aspect of our work.
 
 ## Decentralization and Loose Coupling
 
@@ -107,14 +107,14 @@ Loose coupling offers several advantages. It provides **higher flexibility,** al
 
 However, loose coupling also presents several challenges. It can lead to duplication of effort, as local market needs might differ but often have significant overlap in product features and technology, resulting in **redundant efforts** as each marketplace creates solutions for the same problems. This approach also increases **accidental diversity,** where limited synchronization may result in significantly different design and technology choices for the same problem, making it difficult to consolidate solutions, move personnel between teams, or benefit from economies of scale. Moreover, loose coupling results in **limited control,** as fewer dependencies and varying goals make it more challenging to implement changes across the organization.
 
-From an architectural perspective, loose coupling presents an interesting challenge, often leading to a conflict between global alignment and control and local autonomy. For our architecture practices, decentralization and loose coupling led to many changes. We emphasized "hands off, eyes on," leaving teams autonomy in their work but creating complete transparency based on data. Our operating model has a high level of decentralization to enable both scaling and alignment of architecture work.
+From an architectural perspective, loose coupling presents an interesting challenge, often leading to a conflict between global alignment and control and local autonomy. For our an architecture practice, decentralization and loose coupling led to many changes. We emphasized "hands off, eyes on," leaving teams autonomy in their work but creating complete transparency based on data. Our operating model has a high level of decentralization to enable both scaling and alignment of architecture work.
 
 ## Questions to Consider
 
 To better understand any idea or solution, it is crucial to understand the context in which these ideas developed. When using ideas from this book, ask yourself how your organizational context differs from mine:
 
 * *What are the unique characteristics of your organizational context?*
-* *What is the scale of your organization? How it affects architecture function?*
+* *What is the scale of your organization? How it affects your an architecture practice?*
 * *How diverse is your organization?*
 * *What are the growth dynamics of your organization?*
 * *Are you experiencing synergy and transformation pressures?*

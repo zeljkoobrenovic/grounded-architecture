@@ -14,7 +14,7 @@ A> * The Six Simple Rules approach emphasizes that in today’s complicated busi
 A> * To deal with complexity, organizations should depend on the judgment of their people and on these people cooperating. 
 A> * This view is well aligned with the ideas of Grounded Architecture.
 
-The book Six Simple Rules: How to Manage Complexity without Getting Complicated by Yves Morieux and Peter Tollman offered fresh air for my vision of architecture practice. Morieux and Tollman introduced the concept of Smart Simplicity with six rules or strategies that enable organizations to promote new behaviors and improve performance. The Six Simple Rules approach emphasizes that in today's business environment, you **need to set up organizational structures based on cooperation**.
+The book Six Simple Rules: How to Manage Complexity without Getting Complicated by Yves Morieux and Peter Tollman offered fresh air for my vision of an architecture practice. Morieux and Tollman introduced the concept of Smart Simplicity with six rules or strategies that enable organizations to promote new behaviors and improve performance. The Six Simple Rules approach emphasizes that in today's business environment, you **need to set up organizational structures based on cooperation**.
 
 The Six Simple Rules approach is a practical solution for today's complex business environment. It advocates for the setup of organizational structures that harmonize, empowering individuals with more autonomy to act. This approach is about trusting the capabilities of the organization's people to handle complex problems, fostering a cooperative and efficient work environment.
 
@@ -140,7 +140,7 @@ Reciprocity involves recognizing that people or units in an organization have a 
 Architecture practice can significantly increase reciprocity within an organization:
 
 * The **[Collaborative Networks](#people)** supports creating new networks of interactions, directly reinforcing reciprocity.
-* A hybrid operating model relies on the mutual success of architecture practices and development teams. Architects' impact is essential, and their support depends on the feedback from the groups they assist. Integrating this feedback into architects' performance evaluations is crucial for enhancing reciprocity between architecture and other units.
+* A hybrid operating model relies on the mutual success of an architecture practice and development teams. Architects' impact is essential, and their support depends on the feedback from the groups they assist. Integrating this feedback into architects' performance evaluations is crucial for enhancing reciprocity between architecture and other units.
 
 ## Rule 5: Extend the Shadow of the Future
 
@@ -200,5 +200,5 @@ Architecture practice can facilitate rewarding cooperation by making it easier f
 * *How can your organization increase reciprocity and make each person's success dependent on the success of others?*
 * *How can your organization extend the shadow of the future? Are there feedback mechanisms in place to make people accountable for their decisions?*
 * *How are those who cooperate rewarded in your organization? Are there mechanisms in place to increase the payoff for all when they cooperate beneficially?*
-* *How can the architecture practice in your organization support the implementation of the Six Simple Rules?*
+* *How can architecture practice in your organization support the implementation of the Six Simple Rules?*
 * *How do your organization's current systems and structures promote or hinder the cooperation needed to make autonomy effective?*
