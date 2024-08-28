@@ -80,7 +80,7 @@ As part of my Grounded Architecture quest, I've devised several guiding principl
   * [Making Impact](impact)
   * [Leadership](leadership)
   * [Thinking Like an Architect: Architects as Superglue](superglue)
-  * [Architects' Career Paths](career)
+  * [Architects' Career Paths](career-paths)
 * [**On Human Complexity**](human-complexity):
   * [The Culture Map: Architects' Culture Compass](culture-map)
   * [The Human Side of Decision-Making](human-decisions)

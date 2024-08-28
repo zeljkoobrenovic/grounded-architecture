@@ -43,7 +43,7 @@ With this section, we start the second part of our book, which unveils a wealth 
 
 We begin this second part with several resources about what it means to be an architect. The role of an architect in the IT industry is like a **Swiss Army knife**—multifaceted and indispensable. It requires blending technical expertise, strategic thinking, and interpersonal skills to drive successful outcomes in complex organizational environments. In this part of the book, I offer a deep dive into various perspectives on my view on what it means to be an architect in practice, providing a holistic understanding of the responsibilities and expectations associated with this role.
 
-By examining these perspectives, readers can uncover some of the architects' essential qualities and responsibilities. This exploration highlights the importance of a **well-rounded skill** set and a strategic approach, proving that being an architect is more than just wearing stylish glasses and nodding thoughtfully in meetings. Whether you're an aspiring architect or a seasoned pro, these insights will provide valuable guidance on navigating and excelling in this dynamic and evolving field.
+By examining these perspectives, I hope you will uncover some of the architects' essential qualities and responsibilities. My exploration highlights the importance of a **well-rounded skill** set and a strategic approach, showing that being an architect is more than just wearing stylish glasses and nodding thoughtfully in meetings. Whether you're an aspiring architect or a seasoned pro, I hope these insights can provide valuable guidance on navigating and excelling in this dynamic and evolving field.
 
 <br>
 
@@ -69,7 +69,7 @@ A typical skillset of an architect includes:
 - **Soft skills**: like the ability to calm a panicking developer or decode the cryptic language of a business executive,
 - **Product development knowledge**: knowing what makes a product tick,
 - **Business domain knowledge**: understanding those endless spreadsheets,
-- **Decision-making skills**: choosing the right path, even when both options look doomed.
+- **Decision-making skills**: choosing the right path, even when all options look doomed.
 
 The section [Skills](skills) provides more details.
 
@@ -91,12 +91,12 @@ The section [Impact](impact) provides more details.
 
 Leadership acknowledges that experienced architects should do more than make architecture:
 - They are a **role model for others** in the company on both the **technical** and **cultural** front.
-- Their **technical influence** may extend **beyond your organization and reach the industry at large**.
-- They **lead efforts** that **solve important problems** at the engineering area level.
+- Their **technical influence** may extend **beyond your organization** and reach the industry at large.
+- They **lead efforts** that **solve important problems**.
 - They may **contribute to the broader technical community** through **tech talks**, **education**, **publications**, **open-source projects**, etc.
-- They **raise the bar of the engineering culture** across the company.
+- They **raise the bar of the engineering culture** across the organization.
 
-**Mentoring junior architects** is the most crucial aspect of senior architects' leadership. Feedback cycles in (software) architecture are inherently slow. Mentoring can save new architects many years of learning by doing and making mistakes.
+I also support Gregor Hohpe's view that **mentoring other architects** is one of the most crucial aspects of senior architects' leadership. Feedback cycles in (software) architecture are inherently slow. Mentoring can save new architects many years of learning by doing and making mistakes.
 
 The section [Leadership](leadership) provides more details.
 
@@ -104,7 +104,7 @@ The section [Leadership](leadership) provides more details.
 
 The ideal career path for architects is rooted in a strong engineering background. This foundation provides the technical proficiency necessary for advanced architectural roles.
 
-The section [Architects' Career Paths](career) provides more details.
+The section [Architects' Career Paths](career-paths) provides more details.
 
 <br>
 ## Thinking Like an Architect: Architects as Superglue

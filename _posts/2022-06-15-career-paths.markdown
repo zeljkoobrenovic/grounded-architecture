@@ -5,7 +5,7 @@ title: "Architects' Career Paths"
 position: 6015
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
-permalink: career
+permalink: career-paths
 icon: career-path.png
 timetoread: 15 min
 excerpt: "Architects' career paths ideally stem from a strong engineering background. Hiring architects requires constantly raising the bar to ensure a strong and diverse team structure."
