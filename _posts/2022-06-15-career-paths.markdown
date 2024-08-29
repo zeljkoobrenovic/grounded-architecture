@@ -24,7 +24,7 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/RichV
 >
 > * A strong engineering background is essential for architects to make informed technology decisions and build effective relationships with developer teams.
 > * Moving from an engineering role to an architecture role involves broadening scope, increasing diversity, and developing strong communication and influencer skills.
-> * Career tracks include Senior Architects (broader responsibilities), Principal Architects (specialized focus), and Enterprise Architects (aligning technical strategy with business objectives).
+> * Career tracks can include Senior Architects (broader responsibilities), Principal Architects (specialized focus), and Enterprise Architects (aligning technical strategy with business objectives).
 > * Architecture roles can lead to tech leadership positions such as Engineering Director or Chief Technology Officer (CTO), leveraging strategic vision, decision-making, and leadership skills.
 <style>
  .quote {
@@ -50,7 +50,7 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/RichV
 <br>
 In any job, a **career path** is a sequence of jobs or roles that a person takes on throughout their professional life. It typically involves **progression** from entry-level positions to higher-level roles with increasing responsibilities and compensation. Career paths can be **linear,** with a clear upward trajectory, or **non-linear,** with lateral moves and changes in direction.
 
-In this section, I elaborate on possible career paths of architects. In the Appendix, you can also find additional [resources for managing, drowing, and hiring architects](career-resources).
+In this section, I elaborate on possible career paths of architects. In the Appendix, you can also find additional [resources for managing, developing, and hiring architects](career-resources).
 
 
 <br>
@@ -58,7 +58,7 @@ In this section, I elaborate on possible career paths of architects. In the Appe
 
 My view of architecture has a **strong engineering bias.** Architects' career paths ideally stem from a strong engineering background. While there may be exceptions, an architect without significant real-world exposure to software engineering challenges cannot obtain enough practical knowledge to make informed technology decisions and build effective relationships with developer teams.
 
-Architects with a strong engineering background have hands-on experience with coding, debugging, and problem-solving, which is crucial for understanding the technical complexities and constraints of a project. This practical knowledge allows them to make **more informed** and **realistic decisions** about technology stacks, architectural patterns, and system design.
+Architects with a strong engineering background have hands-on experience with coding, debugging, and problem-solving, which is crucial for understanding the technical complexities and constraints of any project. This practical knowledge allows them to make **more informed** and **realistic decisions** about technology stacks, architectural patterns, and system design.
 
 When architects have a solid engineering foundation, they can **earn the trust and respect of developer teams** more easily. Developers are more likely to follow the guidance and recommendations of someone who has walked in their shoes and understands their daily challenges. An engineering background equips architects with the technical language and concepts necessary to communicate effectively with developers. This shared language helps bridge the gap between high-level architectural visions and the detailed implementation work carried out by development teams.
 
@@ -74,14 +74,7 @@ While the path to becoming a successful architect is multifaceted, a strong engi
 <br>
 ## Entering Architecture Space
 
-While a strong engineering background is essential, architects must also develop additional skills to succeed in their roles. Architects must look beyond individual components to see the **system as a whole,** considering the **interactions and dependencies** between various parts. The work becomes **more varied,** encompassing different technologies, processes, and organizational needs. Architects need to **articulate their vision clearly**v and persuasively to various stakeholders, from developers to senior management. They must be able to sell their ideas and build consensus around architectural decisions.
-
-![](assets/images/iStock-529522453.jpg)
-<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/vm">vm</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
-</div>
-
-Stepping from an engineering position to an architecture role requires three significant changes:
+While a strong engineering background is essential, architects must also develop additional skills to succeed in their roles. Stepping from an engineering position to an architecture role requires three significant changes:
 
 1. **Broader Scope**: Architects must look beyond individual components to see the system as a whole, considering the interactions and dependencies between various parts. This holistic view is essential for creating cohesive and scalable solutions that integrate seamlessly with the entire ecosystem of the organization.
 
@@ -89,25 +82,30 @@ Stepping from an engineering position to an architecture role requires three sig
 
 3. **Changing Skills**: Communication and influencer skills become crucial to success, as architects need to articulate their vision and persuade others to follow it. They must effectively communicate complex technical concepts to non-technical stakeholders, build consensus, and drive strategic initiatives. This shift emphasizes the importance of soft skills alongside technical expertise.
 
-All architects are responsible for the direction, quality, and approach within some critical area. They must combine in-depth knowledge of technical constraints, user needs, and organization-level leadership. This multifaceted responsibility requires architects to be not only technically proficient but also adept at **understanding and aligning with business goals** and user requirements.
+![](assets/images/iStock-529522453.jpg)
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/vm">vm</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
+</div>
+
+Architects have multifaceted responsibility that requires them to be not only technically proficient but also adept at **understanding and aligning with business goals** and user requirements.
 
 <br>
 ## Career Progression in IT Architecture
 
-An architect's path can take many different directions and have many other names. 
+An architect's path can take many different directions, and the roles of this path can have many different names. 
 
 ![](assets/images/iStock-511542244.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/bowie15">bowie15</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 
-I usually envision three tracks of progression (Figrue 1):
+People typically enter an IT architecture space as hands-on solution architects. From that position, I usually envision three tracks of progression (Figure 1):
 
-* **Senior Architects**: These professionals are generalists with broader responsibilities who can dig deep into complex issues and identify suitable courses of action. They often navigate from one critical area to another, guided by the organization's direction. Senior Architects play a pivotal role in bridging the gap between different technical teams and ensuring the overall architectural integrity of projects.
+* **Generalist Track (Senior Architects)**: These architects are generalists with broader responsibilities who can dig deep into complex issues and identify suitable courses of action. They often navigate from one critical area to another, guided by the organization's direction. Senior Architects play a pivotal role in bridging the gap between different technical teams and ensuring the overall architectural integrity of projects.
 
-* **Principal Architects**: These are Senior Architects with a particular focus on some area of strategic interest for an organization (e.g., data, distributed systems, frontend). Principal Architects dive deep into their specialized areas, providing thought leadership and driving innovation. They are often involved in setting standards, defining best practices, and mentoring other architects and engineers.
+* **Specialized Track (Principal Architects)**: Senior architects with a specialized track focused on an organization's strategic interest (e.g., data, distributed systems, frontend). Principal Architects dive deep into their specialized areas, providing thought leadership and driving innovation. They often set standards, define best practices, and mentor other architects and engineers.
 
-* **Enterprise Architects**: Positioned closer to product, management, strategy, and business functions, Enterprise Architects frequently serve as the right hand to senior engineering leaders. They are responsible for aligning the technical strategy with the business objectives, ensuring that the architecture supports the overall goals of the organization. Enterprise Architects often work on cross-functional initiatives and play a key role in strategic decision-making.
+* **Enterprise Track (Enterprise Architects)**: Positioned closer to product, management, strategy, and business functions, Enterprise Architects frequently serve as the right hand to senior engineering leaders. They are responsible for aligning the technical strategy with the business objectives, ensuring that the architecture supports the organization's overall goals. Enterprise Architects often work on cross-functional initiatives and play a key role in strategic decision-making.
 
 
 <br>
@@ -122,7 +120,7 @@ More important than a formal title is the continuous search for relevance and th
 <br>
 ## Career Progression Beyond IT Architecture
 
-In addition to the technical and communication skills, a senior career in IT architecture also opens possibilities of pursuing **tech leadership positions** such as Engineering Director or Chief Technology Officer (CTO). The reason for this is multifaceted.
+A career in IT architecture also opens possibilities of pursuing **tech leadership positions** such as Engineering Director or Chief Technology Officer (CTO). The reason for this is multifaceted.
 
 ![](assets/images/iStock-1397610425.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
@@ -142,7 +140,8 @@ Lastly, the transition from an architect to a tech leadership role is a natural 
 <br>
 ## To Probe Further
 
-* [Resources for Managing, Growing, and Hiring Architects](career-resources)
+* [Appendix: Resources for Managing, Growing, and Hiring Architects](career-resources)
+* [Software Architect Archetypes](https://newsletter.pragmaticengineer.com/p/software-architect-archetypes), by Gergely Orosz, 2023
 
 <br>
 ## Questions to Consider

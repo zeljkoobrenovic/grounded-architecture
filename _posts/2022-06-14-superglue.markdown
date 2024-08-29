@@ -30,7 +30,6 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/pagad
 >
 > * Architects in IT organizations should develop as “superglue,” people who hold architecture, technical details, business needs, and people together across a large organization or complex projects.
 > * Architects need to be technically strong. But their unique strengths should stem from being able to relate technical issues with business and broader issues.
-> * Architects should stand on three legs: skills, impact, and leadership.
 <style>
  .quote {
      border-left: 8px solid #d9ead3;
@@ -51,35 +50,34 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/pagad
 <br>
 To succeed as an IT architect, you need the skills and the right **mindset**—a set of attitudes, beliefs, and mental frameworks that shape how you perceive and respond to situations. Regarding their role in organizations, I have found the **"superglue" metaphor** to be an effective way to put architects into the mindset that sets them up for success and making an impact.
 
-The concept of "superglue" people in IT organizations emphasizes the critical role of those who act as the **binding force** across various facets of an organization. This idea, championed by [Adam Bar-Niv and Amir Shenhav from Intel](https://saturn2016.sched.com/event/63m9/cant-find-superheroes-to-help-you-out-of-a-crisis-how-about-some-architecture-and-lots-of-superglue), and echoed by [Tanya Reilly](https://noidea.dog/glue), underscores the need for individuals who excel in more than just technical skills. Gregor Hohpe similarly describes modern architects' primary role as gluing different organizational functions by riding the [Architect Elevator](https://architectelevator.com/) from the penthouse, where the business strategy is set, to the engine room, where engineers implement enabling technologies.
+The concept of "superglue" people in IT organizations emphasizes the critical role of those who act as the **binding force** across various facets of an organization. This idea, championed by [Adam Bar-Niv and Amir Shenhav from Intel](https://saturn2016.sched.com/event/63m9/cant-find-superheroes-to-help-you-out-of-a-crisis-how-about-some-architecture-and-lots-of-superglue), and echoed by [Tanya Reilly](https://noidea.dog/glue), underscores the need for individuals who excel in more than just technical skills. Gregor Hohpe similarly describes modern architects' primary role as gluing different organizational functions by riding the [Architect Elevator](https://architectelevator.com/) from the penthouse, where the business strategy is set, to the engine room, where engineers implement enabling components, services and systems.
 
-The architects acting as "superglue" should aim to **hold together** architecture, technical details, business needs, and people within large organizations or complex projects. Architects should function as the **organizational connective tissue**. They should bridge the gap between the "business wheelhouse" and the "engine room," ensuring that technical solutions align with business goals. Their primary strength should be their ability to relate technical issues to broader organizational and business contexts.
-
-A crucial aspect of their role involves building **robust relationships** with various stakeholders, including developer teams, local business stakeholders, and different functional areas within the organization. By fostering these connections, superglue architects ensure everyone is on the same page and working towards common objectives. Superglue architects must be **well-integrated** within **internal communities.** They should actively participate in internal discussions, knowledge sharing, and collaborations to stay updated and contribute meaningfully. Additionally, **external visibility** is vital. By engaging with the external community, these architects bring in fresh ideas and promote their organization's innovations and achievements to the outside world. 
+Architects acting as "superglue" should aim to hold together architecture, technical details, business needs, and people within large organizations or complex projects. They should function as the **"organizational connective tissue,"** with their primary strength being the ability to relate technical issues to broader organizational and business contexts.
 
 <br>
 ## Superglue Architects
 
-While technical expertise is indispensable, what should set superglue architects apart is their exceptional **relational skills.** They must communicate effectively, negotiate, and influence various stakeholders to achieve alignment and drive projects forward. This unique blend of technical and interpersonal skills makes them invaluable in maintaining the organization's coherence and efficiency.
+While technical expertise is indispensable, what should set superglue architects apart from technical specialists is their exceptional **relational skills.** They must communicate effectively, negotiate, and influence various stakeholders to achieve alignment and drive projects forward. This unique blend of technical and interpersonal skills is the reason for having architects and makes them invaluable in maintaining the organization's coherence and efficiency.
 
 ![Architects as Superglue](assets/images/superglue/architect-as-superglue.png)
 ***Figure 1:** Architects serve as superglue, connecting development teams with business stakeholders and linking their teams with internal and external communities.*
 
-**Figure 1** captures the **superglue metaphor** for architects, showing how they, like superglue, bond various parts of the organization:
+**Figure 1** captures the **superglue metaphor** for architects, showing how they, like superglue, can bond various parts of the organization:
 
-- **Developer Whisperers:** Architects work closely with developers, understanding their challenges and ensuring architectural decisions enhance development efficiency and effectiveness.
-- **Tech-to-Business Translators:** They decode technical jargon into business terms, helping stakeholders grasp the value and implications of technical decisions.
-- **Cross-Functional Diplomats:** By engaging with operations, marketing, and finance, architects ensure technical solutions are practical, viable, and aligned with organizational strategies.
+- **Developer Whisperers:** Architects should work closely with developers, understanding their challenges and ensuring architectural decisions enhance development efficiency and effectiveness.
+- **Tech-to-Business Translators:** They should decode technical jargon into business terms, helping stakeholders grasp the value and implications of technical decisions.
+- **Cross-Functional Diplomats:** By engaging with operations, marketing, and finance, architects can ensure technical solutions are practical, viable, and aligned with organizational strategies.
 - **Community Connectors:** Active engagement within internal communities keeps architects informed and contributes to the collective knowledge pool.
-- **Industry Influencers:** By being visible externally, architects learn from and influence the broader industry, bringing in fresh perspectives and establishing their organization as a thought leader.
+- **Industry Influencers:** By being visible externally, architects can learn from and influence the broader industry, bringing in fresh perspectives and establishing their organization as a thought leader.
 
-Superglue architects are essential for the seamless operation of large and complex IT organizations. Unlike superheroes who save the day with dramatic rescues, superglue architects ensure continuous, **smooth operation** by connecting the dots across various organizational aspects.
+Superglue architects can play a unique and essential role in the smooth operation of large and complex IT organizations. Unlike superheroes who save the day with dramatic rescues, superglue architects ensure continuous, smooth operation by connecting the dots across various organizational aspects.
 
-So, instead of looking for a cape, IT architects should focus on becoming the superglue that holds everything together, ensuring stability, coherence, and progress within their organizations. Think of them as the organizational equivalent of duct tape—versatile, indispensable, and always ready to fix the seemingly unfixable.
-
+IT architects should focus on holding everything together, ensuring their organizations' stability, coherence, and progress. Think of them as the organizational equivalent of duct tape—versatile, indispensable, and always ready to fix the seemingly unfixable.
 
 
 ## Superglueing in Action: Reducing Tensions
+
+Tensions among technology, product, organization, and business functions can slow down progress, lead to poor decisions, introduce complexity, and cause missed opportunities. Acting as superglue, architects can mitigate these issues by fostering better communication and alignment among these elements. The goal is **not to create new barriers** but to bring these functions closer together, ensuring a cohesive and efficient operation.
 
 The primary value of superglue architects in complex organizations lies in their uncanny ability to align business, product, technology, and organizational functions. 
 
@@ -87,39 +85,35 @@ The primary value of superglue architects in complex organizations lies in their
 
 Technology, product, organization, and business functions face specific challenges and change at different rates. Ideally, these structures should **evolve simultaneously,** staying in perfect sync like a well-rehearsed dance troupe. However, reality often resembles a **poorly synchronized** flash mob, full of tension and missteps, as illustrated in Figure 2.
 
-![Tensions Between Functions](assets/images/tension.png)
+![](assets/images/tension.png)
 ***Figure 2:** The tensions between technology, product, organization, and business functions.*
 
 Imagine an organization where the teams are designed based on a well-defined domain model. Sounds great, right? Now, throw in a monolithic IT system that forces teams to collaborate in ways that resemble a traffic jam. The result? Chaos and inefficiency.
 
-Now, flip the script: teams are aligned with a microservices architecture, each owning their service domains. However, the product architecture groups feature differently, causing a simple product change to resemble a game of "Whac-A-Mole" across dozens of services.
+Now, flip the script: teams are aligned with a microservices architecture, each owning their service domains. However, the product architecture groups feature differently, causing a simple product change to resemble a game of "[Whac-A-Mole](https://en.wikipedia.org/wiki/Whac-A-Mole)" across dozens of teams and services.
 
 And let's not forget when business objectives are as aligned as a roundabout during rush hour. In one minute, the goal is to slash costs at all costs; in the next, to add new features and migrate to the public cloud. These conflicting objectives make different parts of the organization feel like they're playing tug-of-war—without a rope.
 
-The main problem with the tension between technology, product, organization, and business functions is that it can significantly impede progress. **Miscommunication** or **misalignments** can turn simple tasks into bureaucratic nightmares. Furthermore, these issues can introduce overwhelming and unnecessary complexity, causing critical missed opportunities.
+The main problem with the tension between technology, product, organization, and business functions is that it can significantly impede progress. **Miscommunication** or **misalignments** can turn simple tasks into bureaucratic nightmares. Furthermore, these issues can introduce overwhelming and unnecessary complexity, causing missed opportunities.
 
 ### Reducing Tensions
 
-Superglue architects should be able to **navigate the wild complexities** of modern organizations. They should ensure that the various architectures—business, product, technology, or organizational design—**don't just coexist** but thrive together. This holistic approach reduces tension and misalignment, making the organization run smoother than butter on hot toast.
+Superglue architects should be able to navigate the wild complexities of modern organizations. They should facilitate that the various architectures—business, product, technology, or organizational design—don't just coexist but thrive together. Architects' **holistic approach** not only reduces tension and misalignment but reassures the organization's smooth operation, like butter on hot toast.
 
-Architects should **facilitate communication and collaboration** across different domains, ensuring that changes in one area are understood and accommodated in others. In other words, they keep the chaos at bay and make sure everyone's dance steps are in sync. 
-
-![Architects Reducing Tensions](assets/images/tension-architecture.png)
+![](assets/images/tension-architecture.png)
 ***Figure 3:** Architects should be in the middle of reducing tensions between technology, product, organization, and business functions.*
 
 Acting as superglue, the architects can effectively **reduce tensions** among technology, product, organization, and business functions. This act includes facilitating **critical conversations** between these units and ensuring alignment and cohesion. As depicted in Figure 3, the goal of architecture is not to add new constructs between these four elements, but to **bring them closer together.** By fostering closer relationships and better communication, architects can help these elements work in unison rather than at cross purposes.
 
-Architects must actively engage with all stakeholders, translating technical jargon into business-friendly terms. For example, if the business wants to cut costs, architects highlight how it might impact product timelines or technical debt. Similarly, if new tech is introduced, architects ensure it aligns with product goals and organizational capabilities.
-
-Ironically, the more successful superglue architects are in their role, the less visible their needs become. But fear not—this doesn't make architecture redundant; it evolves the practice to be the invisible hand that keeps everything running smoothly, embedded in the daily operations of the organization. So, superglue architects, your true superpower is keeping everything stuck together!
-
-## Superglue Impact
-
-Tensions among technology, product, organization, and business functions can slow down progress, lead to poor decisions, introduce complexity, and cause missed opportunities. Acting as superglue, architects can mitigate these issues by fostering better communication and alignment among these elements. The goal is **not to create new barriers** but to bring these functions closer together, ensuring a cohesive and efficient operation. This approach may appear to diminish the need for a formal an architecture practice, but in reality, it transforms the role into one integral to the organization's success.
-
 While staying close to technology (the engine room), architects must ensure that technology serves the needs of customers and the business and that technical architecture is well-aligned with organizational design. At the same time, architects can help ensure that business, product, and organizational designs are well-informed about the state, risks, and opportunities of an organization's technology to avoid creating impractical strategies, setting unrealistic goals, or missing opportunities.
 
-Misalignment between these elements can introduce several **key risks,** which architects need to be aware of and mitigate:
+Architects must **actively engage** with all stakeholders, **translating technical jargon** into business-friendly terms. For example, if the business wants to cut costs, architects highlight how it might impact product timelines or **technical debt.** Similarly, if new tech is introduced, architects ensure it aligns with product goals and organizational capabilities.
+
+Ironically, the more successful superglue architects are in their role, the less visible their needs become. But fear not—this doesn't make architecture redundant; it evolves the practice to be the invisible hand that keeps everything running smoothly, embedded in the daily operations of the organization.
+
+## Superglue Impact: Reducing Risks of Misalignment
+
+Misalignment between these elements can introduce several **key risks,** which superglue architects need to be aware of and can mitigate:
 
 - **Building the Wrong Products:** If technology implementation is based on incorrect assumptions, you might create a product that doesn't meet the actual needs. Misalignment can lead to producing irrelevant solutions, like trying to sell snow boots in the Sahara.
 
@@ -133,7 +127,7 @@ Misalignment between these elements can introduce several **key risks,** which a
 
 - **Overengineering:** Without pushback to simplify products and a lack of understanding of the technology, overengineering can occur. Imagine using a monster truck for a grocery run—impressive, but entirely unnecessary. 
 
-- **Building Too Simple, Unscalable Products:** Assuming processes will be simplified and harmonized when, in reality, essential complexity needs to be supported, can lead to fragile systems. It's like building a house of cards lacking robustness and scalability.
+- **Building Too Simple, Unscalable Products:** Assuming processes will be simple when, in reality, essential complexity needs to be supported, can lead to fragile and rigid systems. 
 
 - **Building Low-Quality Products:** Unnecessary complexity and lack of critical knowledge and expertise can lead to low-quality products that fail under pressure, like a dollar-store umbrella in a hurricane. Ensuring quality requires aligning expertise and simplifying designs where possible.
 
@@ -144,6 +138,14 @@ Misalignment between these elements can introduce several **key risks,** which a
 While architects stay close to the technology, they must ensure it works for the business and customers, not the other way around. By keeping everyone in the loop and aligned, architects help clear the many pitfalls of misalignment and keep the organizational machine running smoothly. Their role is to facilitate communication, ensure alignment, and guide the organization toward cohesive and practical solutions, preventing the myriad risks associated with misalignment.
 
 
+<br>
+## To Probe Further
+
+* [Architects See More Dimensions](https://architectelevator.com/architecture/multiple-dimensions/), by Gregor Hohpe, 2020
+* [Architects Zoom In and Out, See Different Things](https://architectelevator.com/architecture/architects-zoom/), by Gregor Hohpe, 2020
+* [Architects Look For Causality](https://architectelevator.com/architecture/architects-causality/), by Gregor Hohpe, 2020
+* [Architects See Shades of Gray, Look for Balance](https://architectelevator.com/architecture/architects-shades-of-gray/), by Gregor Hohpe, 2020
+* [Here’s why enterprise IT is so complex](https://architectelevator.com/architecture/it-complexity/), by Gregor Hohpe, 2018
 
  
 ## Questions to Consider

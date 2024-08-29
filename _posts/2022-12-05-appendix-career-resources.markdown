@@ -221,16 +221,16 @@ With the described steps, you can get a solid overview of all critical aspects o
 ## To Probe Further
 
 * General:
-  * [Performance Reviews for Software Developers](https://blog.pragmaticengineer.com/performance-reviews-for-software-engineers/) <br>by Gergely Orosz, May 2022. 
+  * [Performance Reviews for Software Developers](https://blog.pragmaticengineer.com/performance-reviews-for-software-engineers/) , by Gergely Orosz, May 2022. 
   * [A Software Engineering Culture Test](https://blog.pragmaticengineer.com/the-developer-culture-test/) by Gergely Orosz
 * For individual contributors:
-  * [Performance Self Review Template and Example for Software Engineers](Performance Self Review Template and Example for Software Engineers) <br> by Gergely Orosz
-  * [A Work Log Template for Software Engineers](https://blog.pragmaticengineer.com/work-log-template-for-software-engineers/),  <br>by Gergely Orosz 
-  * [Get your work recognized: write a brag document](https://jvns.ca/blog/brag-documents/) <br>by Julia Evans
+  * [Performance Self Review Template and Example for Software Engineers](Performance Self Review Template and Example for Software Engineers) , by Gergely Orosz
+  * [A Work Log Template for Software Engineers](https://blog.pragmaticengineer.com/work-log-template-for-software-engineers/),  , by Gergely Orosz 
+  * [Get your work recognized: write a brag document](https://jvns.ca/blog/brag-documents/) , by Julia Evans
 * For managers:
   * [Performance Review Example and Template for Engineering Managers
-](https://blog.pragmaticengineer.com/performance-review-example-and-template-for-engineering-managers/) <br> by Gergely Orosz
-  * [Things I've learned transitioning from engineer to engineering manager](https://blog.pragmaticengineer.com/things-ive-learned-transitioning-from-engineer-to-engineering-manager/) <br> by Gergely Orosz
+](https://blog.pragmaticengineer.com/performance-review-example-and-template-for-engineering-managers/) , by Gergely Orosz
+  * [Things I've learned transitioning from engineer to engineering manager](https://blog.pragmaticengineer.com/things-ive-learned-transitioning-from-engineer-to-engineering-manager/) , by Gergely Orosz
 * Tools
   * [Coaching Situation Management Matrix](https://obren.io/tools/matrix/?matrix=situationalManagement)
   * [Start, Stop, Continue Feedback](https://obren.io/tools/start-stop-continue-feedback/)

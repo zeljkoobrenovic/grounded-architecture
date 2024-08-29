@@ -249,7 +249,17 @@ Here's how these skills come together in practice:
 
 Architects can effectively manage the interplay between technology, business, and organizational dynamics by developing and honing these skills. This comprehensive skill set enhances their ability to design innovative solutions and ensures they can lead teams and influence stakeholders to achieve a cohesive and successful architectural vision.
 
- 
+
+<br>
+## To Probe Further
+
+* [Appendix: Bookshelf](bookshelf)
+* [Old Books that Every Architect Should Read](https://architectelevator.com/architecture/classic-architecture-books/), by Gregor Hohpe, 2024
+* [Back from the engine room](https://architectelevator.com/transformation/debugging-architect/), by Gregor Hohpe, 2023
+* [Debugging Architects](https://architectelevator.com/architecture/engine-room/), by Gregor Hohpe, 2021
+
+
+<br> 
 ## Questions to Consider
 
 * *On a scale from 1 to 10, how would you rate your current architectural skill sets, considering technical, communication, product, business skills, and decision-making skills?*

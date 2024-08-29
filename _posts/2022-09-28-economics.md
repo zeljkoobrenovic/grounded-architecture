@@ -161,6 +161,12 @@ The second bucket relates to the more invisible part of the value created by inv
 
 **Investments in reducing risk costs**. When your system is down, your business is disrupted, and you lose revenue. According to [diverse studies](https://www.atlassian.com/incident-management/kpis/cost-of-downtime), the average cost of downtime ranges from $2,300 to $9,000 per minute. You must invest in keeping your system reliable and secure to avoid losing revenue and disrupting your business. While the benefits of these types of investments are huge, the challenge with building the business case for this investment is that a reliable system will only create a few incidents, making it less tangible for many stakeholders to understand the importance of continuing such investments. Or, as noted by Repenning and Sterman "[Nobody Ever Gets Credit for Fixing Problems that Never Happened](https://web.mit.edu/nelsonr/www/CMR_Getting_Quality_v1.0.html)".
 
+<br>
+## To Probe Further
+
+* [Architecture: Selling Options](https://architectelevator.com/architecture/architecture-options/), by Gregor Hohpe, 2016
+* [Is High Quality Software Worth the Cost?](https://martinfowler.com/articles/is-quality-worth-cost.html), by Martin Fowler, 2019
+* [Don't get locked up into avoiding lock-in](https://martinfowler.com/articles/oss-lockin.html), by Gregor Hohpe, 2019
 
 
 

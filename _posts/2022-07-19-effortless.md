@@ -578,6 +578,8 @@ When you leverage knowledge, automation, and trust, you create a system that pro
 
 <br>
 ## To Probe Further
+* [Here’s why enterprise IT is so complex](https://architectelevator.com/architecture/it-complexity/), by Gregor Hohpe, 2018
+* [Tidy First?](https://www.oreilly.com/library/view/tidy-first/9781098151232/), by Kent Beck, 2023
 * [Execution Management Matrix](https://obren.io/tools/matrix/?matrix=executionManagement)
 * [The Eisenhower Matrix](https://obren.io/tools/matrix/?matrix=eisenhowerMatrix)
 

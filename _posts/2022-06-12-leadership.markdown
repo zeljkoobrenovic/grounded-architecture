@@ -1,7 +1,7 @@
 ---
 layout: post
 section: "On Being Architect"
-title: "Leadership"
+title: "Leadership Traits"
 position: 6012
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
@@ -22,7 +22,7 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Niser
 > **KEY POINTS:**
 > * My view of architecture leadership is inspired by David Marquet's work and Netflix's valued behaviors.
 > * Marquet focused on leadership and organizational management, particularly emphasizing the principles of Intent-Based Leadership.
-> * Borrowing from Netflix's original values, the following behavioral traits are crucial for architects: communication, judgment, impact, inclusion, selflessness, courage, integrity, curiosity, innovation, and passion.
+> * Borrowing from Netflix's original values, I see the following behavioral traits as crucial for architects: communication, judgment, impact, inclusion, selflessness, courage, integrity, curiosity, innovation, and passion.
 <style>
  .quote {
      border-left: 8px solid #d9ead3;
@@ -51,7 +51,7 @@ h3 {
 <br>
 
 
-My approach to architecture leadership draws inspiration from two standout sources: **[David Marquet's](https://davidmarquet.com/) leadership principles**, brilliantly articulated in his book "Turn the Ship Around!", and Netflix's valued behaviors. Marquet's ideas are all about empowering team members, providing clarity, decentralizing decision-making, striving for continuous improvement, and practicing servant leadership. Meanwhile, **[Netflix's valued behaviors](https://jobs.netflix.com/culture)** offers a masterclass in coaching and developing architects to develop the "superglue" mindset that holds teams together and drives success. Together, these resources form a robust framework for leading with insight and influence in the IT architecture (Figure 1).
+My approach to architecture leadership draws inspiration from two standout sources: **[David Marquet's](https://davidmarquet.com/) leadership principles**, articulated in his book "[Turn the Ship Around!](https://davidmarquet.com/turn-the-ship-around-book/)" and "[Leadership Is Language](https://davidmarquet.com/leadership-is-language-book/)," and Netflix's valued behaviors. Marquet's ideas are about empowering team members, providing clarity, decentralizing decision-making, striving for continuous improvement, and practicing servant leadership. Meanwhile, **[Netflix's valued behaviors](https://jobs.netflix.com/culture)** offers a compact masterclass in coaching and developing people's leadership traits. Together, these resources form a robust framework for leading with insight and influence in the IT architecture (Figure 1).
 
 ![](assets/images/arch/architects_leadership.png)
 ***Figure 1:** Leadership is one of the three main elements of being an architect (skills, impact, leadership). Having skills and impact without leadership frequently leads to hitting a glass ceiling. Such architects plateau at an intermediate level and cannot direct the company to innovative or transformative solutions.*
@@ -68,7 +68,7 @@ This leadership approach empowers individuals to **take ownership of their work 
 The leader-leader model is an excellent standard for architects' leadership vision. Like managers in a leader-leader model, architects should act more as facilitators, coaches, and mentors than traditional top-down decision-makers.
 </div>
 
-The leader-leader model is an excellent standard for architects' leadership vision. Like managers in a leader-leader model, **architects should act more as facilitators, coaches, and mentors** than traditional top-down decision-makers. They provide team members guidance, support, or resources to help them achieve their goals and reach their full potential.
+The leader-leader model is an excellent standard for architects' leadership vision. Like managers in a leader-leader model, architects should act more as **facilitators, coaches, and mentors** than traditional top-down decision-makers. They should provide team members guidance, support, or resources to help them achieve their goals and reach their full potential.
 
 One of the key benefits of a leader-leader model is that it creates **a more collaborative and inclusive work environment**. It allows individuals to contribute their unique perspectives, experiences, and skills to the group, promoting ownership and accountability for the team's success. This model also **helps build trust and more robust team relationships**, increasing productivity, creativity, and innovation.
 
@@ -77,14 +77,28 @@ One of the key benefits of a leader-leader model is that it creates **a more col
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Motortion">Motortion</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 
-David Marquet's book "Leadership is Language" provides practical advice for leaders looking to create a more collaborative, innovative, and inclusive organizational culture. He emphasizes the importance of language and communication in leadership and introduces **the phrase "I intend to"** as a powerful tool for clarifying intent and **empowering team members** (Figure 2). When team members give intent, the psychological ownership of those actions shifts to them, making them the originators of thought and direction instead of passive followers. This shift in language helps to promote a more collaborative work environment.
+David Marquet's book "Leadership is Language" provides practical advice for leaders looking to create a more collaborative, innovative, and inclusive organizational culture. He emphasizes the importance of language and communication in leadership and introduces the phrase **"I intend to"** as a powerful tool for clarifying intent and **empowering team members** (Figure 2). When team members give intent, the psychological ownership of those actions shifts to them, making them the originators of thought and direction instead of passive followers. This shift in language helps to promote a more collaborative work environment.
 
 <br>
-I have found a phase "I intend to" to be a powerful catalyst for positioning architecture work. The phrase helps describe the work **architect as someone others expect to take the initiative and lead efforts**. But also to describe the desired interaction of architects with the teams they work with, where we hope teams share their intentions which architects can help improve.
+I have found a phase "I intend to" to be a powerful catalyst for positioning architecture work. The phrase helps describe the work architect as someone others can expect to **take the initiative and lead efforts**. In addition, this phase captures the desired interaction of the teams with whom architects work, expecting teams to take the initiative and share their intentions, which architects can support and level up.
 
 <div class="quote">
 I have found a phase "I intend to" to be a powerful catalyst for positioning architecture work.
 </div>
+
+
+The **Leader-Leader model** can and has been applied effectively in software engineering and IT architecture. Here are some examples:
+
+* **Empowering Teams:** In Agile environments, authority is often distributed among team members, embodying the Leader-Leader model. Instead of a project manager or lead developer dictating every detail, team members collaborate closely, take ownership of specific tasks, and make decisions within their areas of expertise. This approach empowers developers, testers, and other team members to contribute actively, promoting creativity and innovation.
+* **Cross-functional Collaboration:** In a DevOps environment, the boundaries between development and operations are blurred. Teams are empowered to take end-to-end ownership of the product lifecycle, from development to deployment and monitoring. This shared responsibility encourages collaboration and reduces the reliance on a single decision-maker, aligning closely with the Leader-Leader model.
+* **Continuous Improvement:** DevOps emphasizes continuous integration, continuous deployment, and continuous feedback. Teams are encouraged to experiment, learn from failures, and improve processes. Leaders in DevOps act as coaches, guiding teams to identify opportunities for improvement and innovation, rather than directing every action.
+* **Mentoring and Coaching:** Senior architects often take on the role of mentors and coaches rather than top-down decision-makers. They guide less experienced team members through complex architectural challenges, fostering a culture of learning and development. This approach helps build a strong, capable architecture team that can independently contribute to the organization's success.
+* **Community-Driven Leadership:** Open source projects often operate under the Leader-Leader model. Contributors from around the world collaborate on projects, and decision-making is distributed across the community. Leaders in open source projects often emerge organically, based on their contributions and the respect they earn from others, rather than through formal authority.
+* **Collaborative Problem-Solving:** In open-source communities, problems are solved through collaboration and shared knowledge. Contributors propose solutions, review each other's code, and collectively decide on the best approaches. This inclusive and collaborative environment encourages innovation and creativity, reflecting the principles of the Leader-Leader model.
+* **Decentralized Control:** In a microservices architecture, different teams manage different services independently. Each team is responsible for the full lifecycle of its services, from design to deployment and maintenance. This autonomy aligns with the Leader-Leader model, where each team is empowered to make the best decisions for their service while collaborating with other teams to ensure the overall system's success.
+* **Service Ownership:** Teams practicing microservices architecture are encouraged to adopt a "you build it, you run it" philosophy. This ownership means they develop the services and operate and maintain them in production. This ownership fosters accountability and drives teams to improve their services continuously.
+
+In all these examples, the Leader-Leader model promotes a collaborative, inclusive, and empowering work environment. Individuals are encouraged to take ownership of their work and contribute to the collective success of the team or organization. This approach enhances productivity and fosters innovation, creativity, and continuous improvement.
 
 ![](assets/images/arch/leader-leader.jpg)
 ***Figure 2:** Leadership language. Based on Intent-Based Leadership, by David Marquet.*
@@ -115,7 +129,7 @@ People frequently call architects to be objective judges when others cannot agre
 
 ### Impact
 
-As discussed in the [Impact](impact) section, the architect's impact should be measured as a benefit for the business. Architects need to ensure that what they are making profits the company. As an architect, you need to show the following impact traits:
+As discussed in the [Impact](impact) section, the architect's work should be measured as a benefit for the business. Architects need to ensure that what they are making profits the company. As an architect, you need to show the following impact traits:
 
 * You accomplish significant amounts of **important work**
 * You **make your colleagues better**

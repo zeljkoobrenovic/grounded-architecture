@@ -221,8 +221,10 @@ So, set those expectations, establish your rules of engagement, and watch as you
 <br>
 ## To Probe Further
 
-* [Scaling the Practice of Architecture, Conversationally](https://martinfowler.com/articles/scaling-architecture-conversationally.html) <br>by Andrew Harmel-Law, December 2021
-* [Scaling Engineering Teams via RFCs: Writing Things Down](https://blog.pragmaticengineer.com/scaling-engineering-teams-via-writing-things-down-rfcs/) <br>by Gergely Orosz, September 2022
+* [Scaling the Practice of Architecture, Conversationally](https://martinfowler.com/articles/scaling-architecture-conversationally.html), by Andrew Harmel-Law, 2021
+* [Scaling Engineering Teams via RFCs: Writing Things Down](https://blog.pragmaticengineer.com/scaling-engineering-teams-via-writing-things-down-rfcs/), by Gergely Orosz, 2022
+* [Transformation Agents: An Engagement Model](https://architectelevator.com/transformation/transformation-engagement-model/), by Gregor Hohpe, 2022
+
 
 <br>
 ## Questions to Consider

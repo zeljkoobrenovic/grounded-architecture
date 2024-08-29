@@ -583,6 +583,14 @@ Group decision-making dynamics in IT can take various forms, including consensus
 
 Each method has its advantages and can be suitable for different decisions. Understanding these group dynamics can help teams navigate complex choices more effectively, leading to better outcomes and stronger team cohesion. 
 
+<br>
+## To Probe Further
+* [Introduction to Decision Intelligence](https://www.linkedin.com/pulse/introduction-decision-intelligence-cassie-kozyrkov/), by Cassie Kozyrkov, 2020
+* [Decision Intelligence: The steering wheel for your life](https://www.linkedin.com/learning/decision-intelligence/), by Cassie Kozyrkov, 2024
+* [Making decisions right, even if they’re not always the right decision](https://architectelevator.com/strategy/always-be-right/), by Gregor Hohpe, 2021
+* [Are IT's biggest decisions its worst?](https://architectelevator.com/transformation/it-decisions/), by Gregor Hohpe, 2019
+* [Your most important architecture decisions might be the ones you didn't know you made](https://architectelevator.com/architecture/important-decisions/), by Gregor Hohpe, 2020
+
 
 <br>
 ## Questions to Consider
