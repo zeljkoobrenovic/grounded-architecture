@@ -516,7 +516,7 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Milko
 
 Group decision-making offers significant advantages. While you might believe you have the best solutions, incorporating diverse perspectives can help cover your blind spots. Multiple decision-makers can counterbalance an individual's extreme tendencies and compensate for human limitations like fatigue.
 
-While group decision-making might sometimes constrain individual creativity, it also **provides safeguards against poor decisions** and **aligns individual motives with the organization's goals** (see the principal-agent problem in the next section). Having several independent decision-makers can align individual incentives with the organization's needs, addressing this problem.
+While group decision-making might sometimes constrain individual creativity, it also **provides safeguards against poor decisions** and **aligns individual motives with the organization's goals**. Having several independent decision-makers can align individual incentives with the organization's needs, addressing this problem.
 
 However, group decision-making isn't perfect. It **increases complexity** as it **requires higher decision-making skills** from each member. True **collaboration in decision-making** is more challenging than individual decision-making. It also tends to **slow down the decision process**.
 

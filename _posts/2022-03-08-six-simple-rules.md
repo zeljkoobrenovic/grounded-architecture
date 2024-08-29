@@ -43,14 +43,14 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/NanoS
 > * This view is well aligned with the ideas of Grounded Architecture.
 
 <br>
-The book Six Simple Rules: How to Manage Complexity without Getting Complicated by Yves Morieux and Peter Tollman offered fresh air for my vision of an architecture practice. Morieux and Tollman introduced the concept of Smart Simplicity with six rules or strategies that enable organizations to promote new behaviors and improve performance. The Six Simple Rules approach emphasizes that in today's business environment, you **need to set up organizational structures based on cooperation**.
+The book [Six Simple Rules: How to Manage Complexity without Getting Complicated](https://www.bcg.com/capabilities/organization-strategy/smart-simplicity) by Yves Morieux and Peter Tollman offered fresh air for my vision of an architecture practice. Morieux and Tollman introduced the concept of **Smart Simplicity** with six rules or strategies that enable organizations to promote new behaviors and improve performance. The Six Simple Rules approach emphasizes that in today's business environment, you need to set up **organizational structures based on cooperation**.
 
 <div class="quote">
 In today's complicated business environments, you must set up organizational structures based on cooperation.
 </div>
 
 
-The Six Simple Rules approach is a practical solution for today's complex business environment. It advocates for the setup of organizational structures that harmonize, empowering individuals with more autonomy to act. This approach is about trusting the capabilities of the organization's people to handle complex problems, fostering a cooperative and efficient work environment.
+The authors developed the Six Simple Rules approach as a practical solution for today's complex business environment. The rules in the book are based on the premise that the key to managing complexity is the **combination of autonomy and cooperation.** The book advocates for the setup of organizational structures that harmonize, empowering individuals with more autonomy to act. This approach is about trusting the capabilities of the organization's people to handle complex problems, fostering a cooperative and efficient work environment.
 
 In this chapter, I explore how Grounded Architecture and Six Simple Rules are best friends. The Six Simple Rules ideas have been a significant source of inspiration for my work. [**Conway's Law**](https://martinfowler.com/bliki/ConwaysLaw.html) shows that the link between organizational structures and IT architecture is like peanut butter and jelly—strong and better together. The Six Simple Rules approach and architectural work are all about managing complexity without getting tangled up.
 
@@ -76,13 +76,14 @@ Both approaches are limited in today's world and are harmful to cooperation. A *
 <br>
 ## Six Simple Rules Overview 
 
-The Six Simple Rules approach covers two areas: **autonomy** and **cooperation**. The first three rules create the conditions for **individual autonomy and empowerment** to improve performance.
+The Six Simple Rules approach covers two areas: **autonomy** and **cooperation**. The Six Simple Rules' authors emphasize the difference between Autonomy and Self-Sufficiency. **Autonomy** is about fully mobilizing our intelligence and energy to **influence outcomes**, including those **we do not entirely control**. **Self-sufficiency** is about **limiting our efforts** only to those **outcomes that we control entirely without depending on others**. Autonomy is essential for coping with complexity; **self-sufficiency is an obstacle** because it **hinders the cooperation** needed to make autonomy effective.  
+
+The first three rules create the conditions for **individual autonomy and empowerment** to improve performance.
 
 * **Understand what your people do**. Trace performance back to behaviors and how they influence overall results. Understand the context of goals, resources, and constraints. Determine how an organization’s elements shape goals, resources, and constraints.
 * **Reinforce integrators**. Identify integrators—those individuals or units whose influence makes a difference in the work of others—by looking for points of tension where people are doing the hard work of cooperating. Integrators bring others together and drive processes.
 * **Increase the total quantity of power**. When creating new roles in the organization, empower them to make decisions without taking power away from others.
 
-The Six Simple Rules' authors emphasize the difference between Autonomy and Self-Sufficiency. **Autonomy** is about fully mobilizing our intelligence and energy to **influence outcomes**, including those **we do not entirely control**. **Self-sufficiency** is about **limiting our efforts** only to those **outcomes that we control entirely without depending on others**. Autonomy is essential for coping with complexity; **self-sufficiency is an obstacle** because it **hinders the cooperation** needed to make autonomy effective. 
 
 This difference between **Autonomy** and **Self-Sufficiency** leads us to the second set of rules that compels people to confront complexity and use their newfound autonomy to cooperate with others so that **overall performance, not just individual performance**, is radically improved.
 * **Increase reciprocity**. Set clear objectives that stimulate mutual interest to cooperate. Make each person’s success dependent on the success of others. Eliminate monopolies, reduce resources, and create new networks of interaction.
@@ -94,7 +95,7 @@ This difference between **Autonomy** and **Self-Sufficiency** leads us to the se
 <br>
 ## Rule 1: Understand What Your People Do
 
-The first rule states that you must genuinely understand performance: **what people do** and **why they do it**. When you know why people do what they do and how it drives performance, you can define the **minimum sufficient set of interventions with surgical accuracy**. 
+The first rule states that you must genuinely understand performance: **what people do** and **why they do it**. When you know why people do what they do and how it drives performance, you can define the minimum sufficient set of **interventions with surgical accuracy**. 
  
 ![](assets/images/arch/iStock-1179186162.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
@@ -114,7 +115,7 @@ To genuinely understand performance, consider the following principles:
 
 Architecture practice can significantly aid in understanding organizational behaviors through:
 
-* Establishing a **[Architectural Analytics](analytics)** with an overview of various data sources to reveal where activities occur, visible trends, and cooperation among people. One principle of Architectural Analytics, **build maps, not control units,** supports understanding and orientation rather than merely serving as a metric tool.
+* Establishing a **[Architectural Analytics](analytics)** with an overview of various data sources to reveal where activities occur, visible trends, and cooperation among people.
 * Utilizing the **[Collaborative Networks](people)** to connect individuals and enable them to learn about activities in different parts of the organization.
 
 <br>
@@ -131,16 +132,16 @@ Image by <a href="https://pixabay.com/users/shutterbug75-2077322/?utm_source=lin
 
 To strengthen integrators within your organization, consider these strategies:
 
-* Use emotions to identify candidates. Feelings provide crucial clues for analysis and can act as symptoms of integration issues.
-* Identify operational units that can be integrators among peer units due to their specific interests or power.
-* Remove managerial layers that do not add value and reinforce others as integrators by eliminating specific rules and relying on observation and judgment over metrics when cooperation is involved.
+* **Use emotions** to identify candidates. Feelings provide crucial clues for analysis and can act as symptoms of integration issues.
+* **Identify operational units** that can be integrators among peer units due to their specific interests or power.
+* **Remove managerial layers** that do not add value and reinforce others as integrators by eliminating specific rules and relying on observation and judgment over metrics when cooperation is involved.
 
 ### Enhancing Integrators Through Architecture Practice
 
 Architecture practice can play a vital role in reinforcing integrators by:
 
 * Utilizing the **[Collaborative Networks](people)** to help identify and connect integrators, leveraging their work effectively.
-* Emphasizing architects as critical integrators and integrator role models within the organization, defining them as essential components of the organizational "superglue."
+* Emphasizing architects as critical integrators and integrator role models within the organization, defining them as essential components of the organizational "[superglue](superglue)."
 * Establishing a **[Architectural Analytics](analytics)** to support integrators with data and insights, enabling them to perform more informed and effective work.
 
 <br>
@@ -158,10 +159,10 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Milko
 
 To enhance the quantity of power within your organization, consider these actions recommended by the Six Simple Rules approach:
 
-* When making design decisions that could shift the balance between central and unit power, functions, and line managers, ensure that some parts of the organization benefit from new power bases. This approach helps meet complexity requirements and avoids future disruptions from pendulum swings.
-* When creating new functions, ensure they have the power to fulfill their roles without diminishing the power others need to fulfill theirs.
-* When introducing new tools for managers, such as planning or evaluation systems, evaluate whether these tools act as resources or constraints. Implementing a few tools creates a critical mass of power, which is more effective than introducing many tools sequentially.
-* Regularly enrich power bases to maintain agility, flexibility, and adaptability.
+* When making design decisions that could shift the balance between central and unit power, functions, and line managers, ensure that some parts of the **organization benefit from new power bases.** This approach helps meet complexity requirements and avoids future disruptions from pendulum swings.
+* When creating new functions, ensure they have the power to fulfill their roles **without diminishing the power others need** to fulfill theirs.
+* When introducing new tools for managers, such as planning or evaluation systems, evaluate whether these tools **act as resources or constraints.** Implementing a few tools creates a critical mass of power, which is more effective than introducing many tools sequentially.
+* Regularly **enrich power bases** to maintain agility, flexibility, and adaptability.
 
 ### Enhancing Power Quantity Through Architecture Practice
 
@@ -185,21 +186,21 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Natna
 
 Reciprocity involves recognizing that people or units in an organization have a mutual interest in cooperation and that the success of one depends on the success of others. To foster this reciprocity, follow these guidelines:
 
-* Eliminate monopolies to ensure no single entity has exclusive control.
-* Reduce resources to encourage more efficient and collaborative use.
-* Create new networks of interaction to facilitate better communication and cooperation.
+* **Eliminate monopolies** to ensure no single entity has exclusive control.
+* **Reduce resources** to encourage more efficient and collaborative use.
+* **Create new networks** of interaction to facilitate better communication and cooperation.
 
 ### Enhancing Reciprocity Through Architecture Practice
 
 Architecture practice can significantly increase reciprocity within an organization:
 
 * The **[Collaborative Networks](people)** supports creating new networks of interactions, directly reinforcing reciprocity.
-* A hybrid operating model relies on the mutual success of an architecture practice and development teams. Architects' impact is essential, and their support depends on the feedback from the groups they assist. Integrating this feedback into architects' performance evaluations is crucial for enhancing reciprocity between architecture and other units.
+* A [hybrid operating model](operating-model) relies on the mutual success of an architecture practice and development teams. Architects' [impact](impact) is essential, and their support depends on the feedback from the groups they assist. Integrating this feedback into architects' performance evaluations is crucial for enhancing reciprocity between architecture and other units.
 
 <br>
 ## Rule 5: Extend the Shadow of the Future
 
-The Six Simple Rules approach emphasizes the importance of making visible and clear **what happens tomorrow as a consequence of what they do today**. You can manage complex requirements by making simple changes while removing organizational complexity. With the strategic alignment typical of the hard approach, these simple solutions—for instance, career paths—often come at the end of a sequence that starts by installing the most cumbersome changes: new structure, processes, systems, metrics, etc. Simple and effective solutions are then impossible.
+The Six Simple Rules approach emphasizes the importance of making visible and clear **what happens tomorrow as a consequence of what they do today**.
  
 
 ![](assets/images/arch/trees-gc38b3c617_1920.jpg)
@@ -212,10 +213,10 @@ Image by <a href="https://pixabay.com/users/jplenio-7645255/?utm_source=link-att
 
 The Six Simple Rules approach recommends four strategies to extend the shadow of the future:
 
-* Tighten the feedback loop by increasing the frequency of moments when people experience the consequences of the fit between their contributions.
-* Bring the endpoint forward by shortening the duration of projects.
-* Tie futures together so that successful moves are conditioned on contributing to the success of others.
-* Ensure people walk in the shoes they make for others.
+* **Tighten the feedback loop** by increasing the frequency of moments when people experience the consequences of the fit between their contributions.
+* **Bring the endpoint forward** by shortening the duration of projects.
+* **Tie futures together** so that successful moves are conditioned on contributing to the success of others.
+* Ensure people **walk in the shoes they make** for others.
 
 ### Extending the Shadow of the Future Through Architecture Practice
 
@@ -228,7 +229,7 @@ Architecture practice can play a crucial role in extending the shadow of the fut
 <br>
 ## Rule 6: Reward Those Who Cooperate
 
-Lastly, the Six Simple Rules approach recommends that when you cannot create direct feedback loops embedded in people’s tasks, you need **management’s intervention to close the loop**. Managers must then use the familiar performance evaluation tool but in a very different way. 
+Lastly, the Six Simple Rules approach recommends that when you cannot create direct feedback loops embedded in people’s tasks, you need **management’s intervention to close the loop**. Managers must then use the familiar performance evaluation tool but in a very different way to reward those who cooperate. 
 
 
 ![](assets/images/arch/people-gac98109e9_1920.jpg)
@@ -240,9 +241,9 @@ Image by <a href="https://pixabay.com/users/stocksnap-894430/?utm_source=link-at
 
 To effectively reward those who cooperate, managers should:
 
-* Go beyond technical criteria and avoid placing blame solely on where the root cause originated. Accept that execution problems arise from various reasons. The smart approach is to reduce rewards for those who fail to cooperate in solving a problem, even if the problem isn't in their direct area, and increase rewards for units that cooperate beneficially.
-* Avoid blaming failure and instead focus on blaming the inability to help or seek help.
-* Use simple questions to shift managerial conversations, making transparency and ambitious targets resources rather than constraints. This approach helps managers act as integrators, leveraging cooperation and rich information to achieve superior results.
+* **Go beyond technical criteria** and avoid placing blame solely on where the root cause originated. Accept that execution problems arise from various reasons. The smart approach is to reduce rewards for those who **fail to cooperate** in solving a problem, even if the problem isn't in their direct area, and increase rewards for units that cooperate beneficially.
+* **Avoid blaming failure** and instead focus on blaming the inability to **help or seek help.**
+* **Use simple questions** to shift managerial conversations, making transparency and ambitious targets resources rather than constraints. This approach helps managers act as integrators, **leveraging cooperation** and rich information to achieve superior results.
 
 ### Rewarding Cooperation Through Architecture Practice
 
@@ -250,6 +251,11 @@ Architecture practice can facilitate rewarding cooperation by making it easier f
 
 * A strong **[Collaborative Networks](people)** can provide the context and networks necessary for easier collaboration.
 * Adding diverse data sources to **[Architectural Analytics](analytics)** can create transparency about cooperation opportunities and challenges, supporting a more collaborative environment.
+
+<br>
+## To Probe Further
+* [Six Simple Rules: How to Manage Complexity without Getting Complicated](https://www.bcg.com/capabilities/organization-strategy/smart-simplicity)
+
 
 <br>
 ## Questions to Consider

@@ -48,7 +48,7 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/metam
 > * Human intuition plays a vital role in decision-making.
 
 <br>
-[Cassie Kozyrkov](https://en.wikipedia.org/wiki/Cassie_Kozyrkov), in her [posts](https://www.linkedin.com/pulse/introduction-decision-intelligence-cassie-kozyrkov/) and [online lessons](https://www.linkedin.com/learning/decision-intelligence/) about design intelligence, often reminds us that decision-making is a uniquely human sport. It's a wild mix of brilliance, bias, and blunders. Just like how having a gourmet kitchen doesn't make you a master chef, having the best [data and IT  tools](analytics) won't magically conjure up good decisions. IT architects need to remember that every decision is flavored by the quirks and quibbles of the human mind.
+[Cassie Kozyrkov](https://en.wikipedia.org/wiki/Cassie_Kozyrkov), in her [posts](https://www.linkedin.com/pulse/introduction-decision-intelligence-cassie-kozyrkov/) and [online lessons](https://www.linkedin.com/learning/decision-intelligence/) about design intelligence, often reminds us that decision-making is a uniquely human sport. It's a wild mix of brilliance, bias, and blunders. IT architects need to remember that every decision is flavored by the quirks and quibbles of the human mind.
 
 <br>
 ## Biases and Limitations
@@ -57,14 +57,14 @@ Fundamental biases influencing decision-making include outcome, hindsight, and c
 
 ### Outcome Bias
 
-The big trap in decision-making is falling into the **outcome bias** pit, where you **obsess over the results** rather than focusing on how you made the decision in the first place. If you trip over an unlucky result and think you picked the wrong option, you're learning how to fail with flair. This faulty thinking could make you make even wackier choices in the future.
+The big trap in decision-making is falling into the **outcome bias** pit, where you **obsess over the results** rather than focusing on how you decided in the first place. Results matter, but if you trip over an unlucky result and think you picked the wrong option, you're learning to fail with flair. This faulty thinking could make you make even wackier choices in the future.
 
 ![](assets/images/arch/iStock-1400056155.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/meshcube">mesh cube</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 
-A decision and its outcome are like two different TV show episodes. The outcome is just what happens after the decision's cliffhanger. You can make a totally solid decision and still end up with a plot twist no one saw coming. Remember, outcomes are a cocktail mixed with decision-making, randomness, and a **splash of luck**. And luck, as we all know, is that elusive ingredient we can't control, often playing a starring role in our most complex dramas.
+A decision and its outcome are like two different TV show episodes. The outcome is just what happens after the decision's cliffhanger. You can make a totally solid decision and still end up with a plot twist no one saw coming. Outcomes are a cocktail mixed with decision-making, randomness, and a **splash of luck**. And luck, as we all know, is that elusive ingredient we can't control, often playing a starring role in our most complex dramas.
 
 Suppose we only focus on the outcome, neglecting the rich backstory and the information available at the time of the decision. In that case, we're akin to a film critic who only watches the ending. This can lead to **misjudging people's abilities**, rewarding or penalizing them based on a volatile mix of luck and skill. Therefore, it's crucial to discern whether someone's success stems from their astute decision-making or sheer chance. When evaluating decisions, it's essential not to be overly dazzled by the outcome.
 
@@ -92,10 +92,6 @@ In IT, outcome bias can come in many different forms, typically leading to the r
 * A feature is implemented based on limited customer feedback and is launched successfully. The positive reception leads the team to assume their approach to gathering and acting on feedback is effective.
 * The team might conclude that extensive user research is unnecessary, believing that limited feedback is sufficient to guide development. This could result in future features missing critical insights from a broader user base, potentially leading to less successful outcomes.
 
-**Example 6: Hiring Decisions Based on Project Success**
-* A software engineer is hired because they were part of a highly successful project at their previous company. The project's success was primarily due to market conditions and team effort rather than the individual's contributions.
-* The hiring decision is heavily influenced by the success of the previous project, potentially overlooking the individual's actual skills and contributions. This could result in hiring someone who may not perform as expected in different circumstances, highlighting the risks of evaluating individual capabilities based on outcomes rather than detailed assessment.
-
 It's essential for teams to critically evaluate their methodologies and ensure that success is attributed to sound practices rather than favorable outcomes alone.
 
 ### Hindsight Bias
@@ -104,7 +100,7 @@ It's essential for teams to critically evaluate their methodologies and ensure t
 
 Think about what the decision-maker considered, how they played detective gathering info, and where they got their facts. Also, check if they collected enough intel for the decision's importance or were winging it.
 
-If you don't jot down this process, it's like trying to remember a dream—you'll miss many details and be left only with a vague feeling. This makes it tough to judge the quality of your decisions or anyone else's, stalling your growth as a decision-making wizard. Write down your decision-making process. This helps you determine if luck was messing with you or if your skills were on point. 
+If you don't **write down this process,** it's like trying to remember a dream—you'll miss many details and be left only with a vague feeling. This makes it tough to judge the quality of your decisions or anyone else's, stalling your growth as a decision-making wizard. Write down your decision-making process. This helps you determine if luck was messing with you or if your skills were on point. 
 
 
 ![](assets/images/arch/iStock-1394993248.jpg)
@@ -112,12 +108,12 @@ If you don't jot down this process, it's like trying to remember a dream—you'l
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/designer491">designer491</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 
-Hindsight bias in IT can lead to an oversimplified understanding of past events and decisions, creating an illusion of predictability. It is crucial to recognize the context and constraints under which decisions were made to learn accurately from past experiences and improve future practices.
+Hindsight bias in IT can lead to an **oversimplified understanding** of past events and decisions, creating an **illusion of predictability.** It is crucial to recognize the context and constraints under which decisions were made to learn accurately from past experiences and improve future practices.
 
 
 **Example 1: Technology Stack Decision**
 * A particular technology stack is chosen for a project, but it later turns out to be ill-suited, causing significant rework.
-* After the problems become apparent, developers and stakeholders might claim that it was clear from the beginning that this technology stack was not a good choice. They might forget that at the time of selection, the decision was made based on the best available information and the perceived advantages of the stack.
+* After the problems become apparent, developers and stakeholders might claim that it was clear from the beginning that this technology stack was not a good choice. They might forget that at the time of selection, the decision was made based on the best available information, the perceived advantages of the stack, and the extensive procurement process.
 
 **Example 2: Bug Discovery**
 * A critical bug is discovered in the production environment that causes significant downtime.
@@ -151,7 +147,7 @@ By acknowledging the role of hindsight bias, teams can foster a more realistic a
 
 **Confirmation bias** is like having a pair of magical glasses that only let you see what you already believe. When you stumble upon a new fact, your brain gives it a makeover to fit your beliefs, even before your morning coffee.
 
-Awareness of this sneaky bias is essential because your brain loves playing tricks on you. It makes you think you're being objective while sneakily reinforcing your pre-existing ideas. This subconscious nudge can twist your understanding and decision-making without you even noticing.
+Awareness of this sneaky bias is essential because your brain loves playing tricks on you. It makes you think you're being objective while sneakily **reinforcing your pre-existing ideas.** This subconscious nudge can twist your understanding and decision-making without you even noticing.
 
 Businesses are jumping on the data science bandwagon, hiring data scientists to make supposedly unbiased, data-driven decisions. But guess what? These decisions are often not as data-driven as they claim. For a decision to follow the data, it should be the data leading the dance, not your preconceived notions or biases—a simple idea harder to pull off than a flawless magic trick.
 
@@ -220,7 +216,7 @@ We frequently fall into the indecisiveness trap. Why? Well, people can be indeci
 
 ### Bad Habits
 
-First up, bad habits. Many folks don't realize that **dodging a decision is still a decision**. It's like standing in front of an ice cream shop, unable to choose a flavor until the shop closes, and boom—you've "decided" to go home ice cream-less. Delaying, postponing, or deprioritizing the decision-making process is an implicit choice.
+First up, bad habits. Many folks don't realize that **dodging a decision is still a decision**. It's like standing in front of an ice cream shop, unable to choose a flavor until the shop closes, and boom—you've "decided" to go home without ice cream. Delaying, postponing, or deprioritizing the decision-making process is an implicit choice.
 
 For instance, if a company can't decide on using one consolidated tech stack for its systems, it ends up with a tech landscape messier than a toddler's playroom. That implicit decision comes with all the extra costs and complexities you'd expect.
 
@@ -232,15 +228,15 @@ For instance, sometimes people treat IT architects like decision-making oracles,
 
 ### Emotions and Grief
 
-Indecisiveness also loves to rear its head when emotions are involved, especially when all options are as appealing as a soggy sandwich. When faced with **undesirable choices**, the practical move is to pick the least bad option. After thoroughly evaluating your choices and identifying the least awful one, it's time to bite the bullet and make the call.
+Indecisiveness also loves to rear its head when emotions are involved, especially when all options are as appealing as a soggy sandwich. When faced with **undesirable choices**, the practical move is to pick the **least bad option.** After thoroughly evaluating your choices and identifying the least awful one, it's time to bite the bullet and make the call.
 
-People often get tangled in a web of grief or frustration when stuck with lousy options, hoping for a miracle solution that'll never come. It's like searching for unicorns in a petting zoo. Once it's clear that no better options will appear, it takes courage to move forward with the least terrible choice.
+People often get tangled in a web of **grief or frustration** when stuck with lousy options, hoping for a miracle solution that'll never come. It's like searching for unicorns in a petting zoo. Once it's clear that no better options will appear, it takes courage to move forward with the least terrible choice.
 
 
 <br>
 ## Intuition 
 
-Human intuition plays a vital role in decision-making. Robert Glass provided one of the best definitions of intuitions, describing it as a function of our mind that allows it to access **a rich fund of historically gleaned information** we are not necessarily aware we possess by **a method we do not understand** ([Glass, 2006; page 125)](https://www.amazon.com/Software-Creativity-2-0-Robert-Glass/dp/0977213315). Our unawareness of such knowledge does not mean we cannot use it.
+Human intuition plays a vital role in decision-making. Robert Glass provided one of the best definitions of intuitions, describing it as a function of our mind that allows it to access **a rich fund of historically gleaned information** we are not necessarily aware we possess by **a method we do not understand** ([Glass, 2006; page 125)](https://www.amazon.com/Software-Creativity-2-0-Robert-Glass/dp/0977213315). But oOur unawareness of such knowledge does not mean we cannot use it.
 
 
 One of the main advantages of intuition in decision-making is that accessing it is a rapid process, making intuitive decisions straightforward. Intuition is particularly useful for low-value decisions with low stakes, and a quick resolution is preferable. As we'll explore in future discussions on prioritization and decisiveness, seeking perfection in every decision is impractical due to limited time and energy. Therefore, it's essential to choose where to focus your efforts.
@@ -251,15 +247,15 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/metam
 </div>
 
 Intuition is especially appropriate under certain conditions:
-* **Time Pressure**: When time is limited and a detailed analysis isn't feasible, intuition can guide you.
+* **Time Pressure**: When time is limited and a detailed analysis isn't feasible, intuition can guide you when otherwise you would be stuck.
 * **Expertise**: If you have experience in a particular area, relying on intuition makes sense, as you've likely faced similar decisions before. In contrast, in unfamiliar contexts, intuition may not be reliable.
 * **Unstructured Decisions**: Intuition can be valuable for decisions that lack a clear framework, like judging the quality of art. Expertise in the relevant field enhances the effectiveness of intuitive judgments.
 
-Conversely, you should avoid relying on intuition too much in situations where more effort is warranted, including those with ample time, high importance, lack of expertise, and a structured decision-making process.
+Conversely, you should avoid relying on intuition too much when more effort is warranted, including those with ample time, high importance, lack of expertise, and the possibility to use a structured decision-making process.
 
-Intuition in IT can be a powerful tool when informed by experience and used in conjunction with data and thorough analysis. It can guide efficient problem-solving and quick decision-making in familiar contexts. However, overreliance on intuition without considering empirical evidence and diverse viewpoints can lead to significant mistakes, especially in unfamiliar or complex situations. 
+Intuition in IT can be a **powerful tool** when informed by experience and used in conjunction with data and thorough analysis. It can guide efficient problem-solving and quick decision-making in familiar contexts. However, overreliance on intuition without considering empirical evidence and diverse viewpoints can lead to **significant mistakes,** especially in unfamiliar or complex situations. 
 
-#### Good Example: Intuitive Debugging
+### Good Example: Intuitive Debugging
 
 **Scenario:** A seasoned software engineer is working on a complex system that suddenly starts behaving unexpectedly. The logs provide little information, and initial debugging efforts do not yield apparent clues.
 
@@ -271,7 +267,7 @@ Intuition in IT can be a powerful tool when informed by experience and used in c
 
 **Outcome**: The engineer's intuition, honed by experience, helps quickly identify and resolve the issue, demonstrating how intuition can efficiently guide problem-solving in complex scenarios and under time pressure.
 
-#### Bad Example: Intuitive Decision on Technology Stack
+### Bad Example: Intuitive Decision on Technology Stack
 
 **Scenario:** A new project is starting, and the team needs to decide on the technology stack. The team lead has a strong intuitive preference for a specific new programming language and framework they have used.
 
