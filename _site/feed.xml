@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-08-29T16:19:38+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: Redefining IT Architecture Practice</title><subtitle></subtitle><entry><title type="html">Cheat Sheet</title><link href="http://localhost:4000/cheat-sheet" rel="alternate" type="text/html" title="Cheat Sheet" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/appendix-cheat-sheet</id><content type="html" xml:base="http://localhost:4000/cheat-sheet"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/iStock-1182643171.jpg" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-08-30T17:36:24+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: Redefining IT Architecture Practice</title><subtitle></subtitle><entry><title type="html">Cheat Sheet</title><link href="http://localhost:4000/cheat-sheet" rel="alternate" type="text/html" title="Cheat Sheet" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/appendix-cheat-sheet</id><content type="html" xml:base="http://localhost:4000/cheat-sheet"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/istock/iStock-1182643171.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Tashulia">Tashulia</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
@@ -355,7 +355,7 @@ Image by <a href="https://pixabay.com/users/mustangjoe-2162920/?utm_source=link-
 
 <p>In contrast, a <strong>loosely coupled organization</strong> lacks some elements of a tightly coupled one. Employees have <strong>more autonomy</strong>, and different departments may operate with <strong>little coordination</strong>.</p>
 
-<p><img src="assets/images/iStock-1321965054.jpg" alt="" /></p>
+<p><img src="assets/images/istock/iStock-1321965054.jpg" alt="" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/AndriiYalanskyi">Andrii Yalanskyi</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a></div>
 
@@ -501,7 +501,7 @@ Image by <a href="https://pixabay.com/users/bluehouseskis-14931490/?utm_source=l
   <li><em>How aligned are units in your organizations? How much friction is there? How can an architecture practice help?</em></li>
   <li><em>How much is your organization learning? How is the learning supported?</em></li>
   <li><em>How stable is your organization? How likely is it that significant changes will occur in your organization?</em></li>
-</ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[I identified the following needs that an architecture practice should support: Executing At Scale, Adaptivity, Improving the Quality of Decision-Making with Data, and Maximizing Organizational Alignment & Learning.]]></summary></entry><entry><title type="html">Grounded Architecture Framework: Introduction</title><link href="http://localhost:4000/grounded-architecture" rel="alternate" type="text/html" title="Grounded Architecture Framework: Introduction" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/grounded-architecture</id><content type="html" xml:base="http://localhost:4000/grounded-architecture"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/iStock-1767471664.jpg" /></p>
+</ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[I identified the following needs that an architecture practice should support: Executing At Scale, Adaptivity, Improving the Quality of Decision-Making with Data, and Maximizing Organizational Alignment & Learning.]]></summary></entry><entry><title type="html">Grounded Architecture Framework: Introduction</title><link href="http://localhost:4000/grounded-architecture" rel="alternate" type="text/html" title="Grounded Architecture Framework: Introduction" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/grounded-architecture</id><content type="html" xml:base="http://localhost:4000/grounded-architecture"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/istock/iStock-1767471664.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/DarioTruco">Dario Truco</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
@@ -559,9 +559,9 @@ In this part, I will briefly introduce the Grounded Architecture framework. I ch
 
 <p>Grounded Architecture is particularly well-suited for organizations that are organized based on cooperation. Consequently, I use the <strong><a href="six-simple-rules">Six Simple Rules</a></strong> framework as an essential guideline. As businesses grow increasingly complex, you cannot overstate the importance of cooperation within organizational structures. The “Six Simple Rules” framework emphasizes that successful organizations leverage their members’ collective judgment and cooperation. By fostering a culture of collaboration, organizations can better utilize their capabilities to address and resolve complex problems. Grounded Architecture and Six Simple Rules are best friends. The Six Simple Rules ideas have been a significant source of inspiration for my work. This approach underscores the need for architects to build and support cooperative environments where teamwork and shared decision-making are paramount. Encouraging open communication, mutual respect, and shared goals can significantly enhance an organization’s ability to navigate complexities and adapt to change. Conway’s Law shows that the link between organizational structures and IT architecture is like peanut butter and jelly—strong and better together. The Six Simple Rules approach and architectural work involve managing complexity without getting tangled up.</p>
 
-<p>Now that we’ve completed the high-level Grounded Architecture tour let’s examine the specifics.</p>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[I introduce three elements of Grounded Architecture Framework: Architectural Analytics, Collaborative Networks, and The Operating Model.]]></summary></entry><entry><title type="html">Architectural Analytics</title><link href="http://localhost:4000/analytics" rel="alternate" type="text/html" title="Architectural Analytics" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/data-platform</id><content type="html" xml:base="http://localhost:4000/analytics"><![CDATA[<p><img src="assets/images/arch/architecture-1857175_1920.jpg" style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" /></p>
+<p>Now that we’ve completed the high-level Grounded Architecture tour let’s examine the specifics.</p>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[I introduce three elements of Grounded Architecture Framework: Architectural Analytics, Collaborative Networks, and The Operating Model.]]></summary></entry><entry><title type="html">Architectural Analytics</title><link href="http://localhost:4000/analytics" rel="alternate" type="text/html" title="Architectural Analytics" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/data-platform</id><content type="html" xml:base="http://localhost:4000/analytics"><![CDATA[<p><img src="assets/images/istock/iStock-1414981473.jpg" style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by <a href="https://pixabay.com/users/3844328-3844328/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1857175">Lorenzo Cafaro</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1857175">Pixabay</a>
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/ko_orn">ko_orn</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 <blockquote>
   <p><strong>IN THIS SECTION, YOU WILL:</strong>  Understand how to use diverse data sources to support architecture decision-making processes and get concrete tips on creating architecture-centric data tools.</p>
@@ -975,9 +975,9 @@ Image by <a href="https://pixabay.com/users/chantellev-2412495/?utm_source=link-
   <li><em>How effective is the current division of responsibilities among architects in your organization? Are there areas of overlap or gaps in coverage?</em></li>
   <li><em>What steps has your organization taken to ensure architects are well-connected across all parts and levels? What impact has this had on transparency and the implementation of changes?</em></li>
   <li><em>Reflect on the diversity of team structures within your organization. How does this diversity impact the roles and responsibilities of architects?</em></li>
-</ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[We should not take our architectural talent for granted. Architects are difficult to hire because they need in-depth technical, domain-specific, and managerial knowledge. Therefore, we must support, organize, and leverage architecture talent.]]></summary></entry><entry><title type="html">General Operating Model</title><link href="http://localhost:4000/operating-model" rel="alternate" type="text/html" title="General Operating Model" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/activities</id><content type="html" xml:base="http://localhost:4000/operating-model"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/parliament-366199_1920.jpg" /></p>
+</ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[We should not take our architectural talent for granted. Architects are difficult to hire because they need in-depth technical, domain-specific, and managerial knowledge. Therefore, we must support, organize, and leverage architecture talent.]]></summary></entry><entry><title type="html">General Operating Model</title><link href="http://localhost:4000/operating-model" rel="alternate" type="text/html" title="General Operating Model" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/activities</id><content type="html" xml:base="http://localhost:4000/operating-model"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/istock/iStock-1126482102.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by <a href="https://pixabay.com/users/cocoparisienne-127419/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=366199">Anja</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=366199">Pixabay</a>
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/ma_rish">ma_rish</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 <blockquote>
   <p><strong>IN THIS SECTION, YOU WILL:</strong>  Understand what activities you can do as a part of an architecture practice and get tips on creating pragmatic operating models for an architecture practice.</p>
@@ -1178,7 +1178,7 @@ Image by engineering.atspotify.com
 <p>One of the amusing challenges with setting up an architecture practice in an organization is that everyone seems to have a different idea of what “architecture” should entail. It’s like asking people to describe a unicorn: some imagine a mythical, majestic creature, while others picture a sparkly horse with a horn that grants wishes. Good architects can do many things, but this versatility might not always be the most effective way to support the organization. We need to <strong>set boundaries</strong> so that we can focus on what’s important rather than becoming frazzled by what’s not.</p>
 
 <p><br />
-<img src="assets/images/iStock-92285726.jpg" alt="" /></p>
+<img src="assets/images/istock/iStock-92285726.jpg" alt="" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Ingenui">Ingenui</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
@@ -1241,7 +1241,7 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Ingen
   <li><em>How could you better implement a mechanism to give teams autonomy while maintaining alignment and compatibility with global strategy?</em></li>
   <li><em>How does the concept of a decision pyramid resonate with you?</em></li>
   <li><em>Which strategic and area-level decisions provide team decision boundaries in your organization? Are there areas where you need more or less limitations to optimize performance?</em></li>
-</ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[Operating Model defines how, by leveraging Architectural Analytics and Collaborative Networks, we perform activities that help an organization reach its goals. Examples include supporting teams in their daily work, tracking tech debt, performing technical due diligence, standardizing processes and documentation, and defining cloud, data, and platform strategies.]]></summary></entry><entry><title type="html">Cooperation-Based Operating Model: Six Simple Rules</title><link href="http://localhost:4000/six-simple-rules" rel="alternate" type="text/html" title="Cooperation-Based Operating Model: Six Simple Rules" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/six-simple-rules</id><content type="html" xml:base="http://localhost:4000/six-simple-rules"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/iStock-2031547179.jpg" /></p>
+</ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[Operating Model defines how, by leveraging Architectural Analytics and Collaborative Networks, we perform activities that help an organization reach its goals. Examples include supporting teams in their daily work, tracking tech debt, performing technical due diligence, standardizing processes and documentation, and defining cloud, data, and platform strategies.]]></summary></entry><entry><title type="html">Cooperation-Based Operating Model: Six Simple Rules</title><link href="http://localhost:4000/six-simple-rules" rel="alternate" type="text/html" title="Cooperation-Based Operating Model: Six Simple Rules" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/six-simple-rules</id><content type="html" xml:base="http://localhost:4000/six-simple-rules"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/istock/iStock-2031547179.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/NanoStockk">NanoStockk</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
@@ -1331,7 +1331,7 @@ In today's complicated business environments, you must set up organizational str
 
 <p>The first rule states that you must genuinely understand performance: <strong>what people do</strong> and <strong>why they do it</strong>. When you know why people do what they do and how it drives performance, you can define the minimum sufficient set of <strong>interventions with surgical accuracy</strong>.</p>
 
-<p><img src="assets/images/arch/iStock-1179186162.jpg" alt="" /></p>
+<p><img src="assets/images/istock/iStock-1179186162.jpg" alt="" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/scyther5">scyther5</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
@@ -1391,7 +1391,7 @@ Image by <a href="https://pixabay.com/users/shutterbug75-2077322/?utm_source=lin
 
 <p>Whenever you consider an <strong>addition to</strong> your organization’s <strong>structure, processes, and systems</strong>, think about <strong>increasing the quantity of power</strong>. Doing so may <strong>save you from increasing complicatedness</strong> and enable you to achieve a more significant impact with less cost. You can increase the quantity of power by allowing some functions to influence performance and stakes that matter to others.</p>
 
-<p><img src="assets/images/arch/iStock-1201215883.jpg" alt="" /></p>
+<p><img src="assets/images/istock/iStock-1201215883.jpg" alt="" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Milkos">Prostock-Studio</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
@@ -1421,7 +1421,7 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Milko
 
 <p>In the face of business complexity, work is becoming more interdependent. To meet multiple and often contradictory performance requirements, <strong>people must rely more on each other</strong>. They need to <strong>cooperate directly</strong> instead of depending on dedicated interfaces, coordination structures, or procedures that only add to complicatedness.</p>
 
-<p><img src="assets/images/arch/iStock-1072898930.jpg" style="width: 100%" /></p>
+<p><img src="assets/images/istock/iStock-1072898930.jpg" style="width: 100%" /></p>
 <div style="text-align: center; font-size: 70%; color: grey; margin-bottom: 12px; margin-top: -12px;">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Natnan_Srisuwan">Natnan Srisuwan</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
@@ -1526,7 +1526,7 @@ Image by <a href="https://pixabay.com/users/stocksnap-894430/?utm_source=link-at
   <li><em>How are those who cooperate rewarded in your organization? Are there mechanisms in place to increase the payoff for all when they cooperate beneficially?</em></li>
   <li><em>How can architecture practice in your organization support the implementation of the Six Simple Rules?</em></li>
   <li><em>How do your organization’s current systems and structures promote or hinder the cooperation needed to make autonomy effective?</em></li>
-</ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[The Six Simple Rules approach emphasizes that you must set up organizational structures based on cooperation in today's complicated business environment. To deal with complexity, organizations should depend on the judgment of their people, and these people cooperate to utilize the organization's capabilities to cope with complex problems.]]></summary></entry><entry><title type="html">Transforming Organizations with Grounded Architecture</title><link href="http://localhost:4000/transformation" rel="alternate" type="text/html" title="Transforming Organizations with Grounded Architecture" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/value</id><content type="html" xml:base="http://localhost:4000/transformation"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/iStock-1893527682.jpg" /></p>
+</ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[The Six Simple Rules approach emphasizes that you must set up organizational structures based on cooperation in today's complicated business environment. To deal with complexity, organizations should depend on the judgment of their people, and these people cooperate to utilize the organization's capabilities to cope with complex problems.]]></summary></entry><entry><title type="html">Transforming Organizations with Grounded Architecture</title><link href="http://localhost:4000/transformation" rel="alternate" type="text/html" title="Transforming Organizations with Grounded Architecture" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/value</id><content type="html" xml:base="http://localhost:4000/transformation"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/istock/iStock-1893527682.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/gremlin">gremlin</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
@@ -1615,9 +1615,9 @@ Image by <a href="https://pixabay.com/users/wikiimages-1897/?utm_source=link-att
 <p>The second goal, ensuring that an architecture practice can adapt quickly to stay relevant in new contexts, is crucial for maintaining an organization’s agility and resilience.</p>
 
 <p><br />
-<img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/lego-g7d6cf2046_1920.png" /></p>
+<img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/istock/iStock-1810224635.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by <a href="https://pixabay.com/users/painter06-3732158/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3388163">Francis Ray</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3388163">Pixabay</a>
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/porcorex">porcorex</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 
 <p>The Grounded Architecture framework has core elements that provide a highly flexible and adaptive setting. Here are the key drivers of flexibility within this structure:</p>
@@ -1657,9 +1657,9 @@ Image by <a href="https://pixabay.com/users/painter06-3732158/?utm_source=link-a
 <p>The third goal stated that we need tools and mechanisms to make a decision process more data-informed and less dependent on opinions. There are significant benefits to making our decision process as much as possible data-driven. Architectural <strong>discussions can be heated and opinionated</strong>, not leading to the best arguments and decisions.</p>
 
 <p><br />
-<img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/doors-gf67a9cff2_1920.jpg" /></p>
+<img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/istock/iStock-1500461725.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by <a href="https://pixabay.com/users/qimono-1962238/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1767563">Arek Socha</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1767563">Pixabay</a>
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/cofotoisme">cofotoisme</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 
 <p>To make the decision process more data-informed and less dependent on opinions, we need to focus on the interplay between three foundational elements. These elements collectively create a robust framework for data-driven decision-making in architectural discussions.</p>
@@ -1703,9 +1703,9 @@ Image by <a href="https://pixabay.com/users/qimono-1962238/?utm_source=link-attr
 
 <p>The fourth goal emphasizes that an architecture practice should be a cohesive factor in minimizing misalignments within large organizations.</p>
 
-<p><img src="assets/images/arch/iStock-165954660.jpg" alt="" /></p>
+<p><img src="assets/images/istock/iStock-163915213.jpg" alt="" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/CurvaBezier">CurvaBezier</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/36clicks">36clicks</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 
 <p>Misalignments often occur in such settings due to various factors, including complex structures and diverse objectives. However, a well-grounded architecture can address and reduce these misalignments through its foundations.</p>
@@ -1738,7 +1738,7 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Curva
 <p>Our last goal is that architecture should help organizations learn quickly, stay up-to-date with emerging technologies and industry trends, and recommend technology upgrades. Learning is one of the primary daily tasks of architects. Architects must proactively identify relevant new technology developments and create pragmatic technology recommendations for concrete platforms across the organization based on their understanding.</p>
 
 <p><br />
-<img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/iStock-871461580.jpg" /></p>
+<img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/istock/iStock-871461580.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Rawpixel">Rawpixel</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
@@ -1786,7 +1786,7 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Rawpi
   <li><em>Reflecting on the value of the “Architectural Analytics” concept, how effectively is your organization tracking changes or supporting what-if scenarios analysis?</em></li>
   <li><em>What role do most senior architects play in your organization? Could their time be better utilized on strategic initiatives?</em></li>
   <li><em>How sustainable is an architecture practice in your organization in the absence of a strong central team? Could implementing a Architectural Analytics and well-connected architects help mitigate this?</em></li>
-</ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[When the Grounded Architecture Framework is in place, it can significantly impact an organization's functioning: Executing At Scale, Adaptivity, Improving the Quality of Decision-Making with Data, and Maximizing Organizational Alignment & Learning.]]></summary></entry><entry><title type="html">On Being Architect: Introduction</title><link href="http://localhost:4000/being-architect" rel="alternate" type="text/html" title="On Being Architect: Introduction" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/being-architect</id><content type="html" xml:base="http://localhost:4000/being-architect"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/iStock-1194454929.jpg" /></p>
+</ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[When the Grounded Architecture Framework is in place, it can significantly impact an organization's functioning: Executing At Scale, Adaptivity, Improving the Quality of Decision-Making with Data, and Maximizing Organizational Alignment & Learning.]]></summary></entry><entry><title type="html">On Being Architect: Introduction</title><link href="http://localhost:4000/being-architect" rel="alternate" type="text/html" title="On Being Architect: Introduction" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/being-architect</id><content type="html" xml:base="http://localhost:4000/being-architect"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/istock/iStock-1194454929.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/AzmanL">AzmanL</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>

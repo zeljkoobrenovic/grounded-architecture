@@ -12,9 +12,9 @@ excerpt: "Operating Model defines how, by leveraging Architectural Analytics and
 
 ---
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
-     src="assets/images/arch/parliament-366199_1920.jpg">
+     src="assets/images/istock/iStock-1126482102.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by <a href="https://pixabay.com/users/cocoparisienne-127419/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=366199">Anja</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=366199">Pixabay</a>
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/ma_rish">ma_rish</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 > **IN THIS SECTION, YOU WILL:**  Understand what activities you can do as a part of an architecture practice and get tips on creating pragmatic operating models for an architecture practice.
 >
@@ -190,7 +190,7 @@ Golden Paths can be crucial to an organization's IT development landscape as a d
 One of the amusing challenges with setting up an architecture practice in an organization is that everyone seems to have a different idea of what "architecture" should entail. It's like asking people to describe a unicorn: some imagine a mythical, majestic creature, while others picture a sparkly horse with a horn that grants wishes. Good architects can do many things, but this versatility might not always be the most effective way to support the organization. We need to **set boundaries** so that we can focus on what's important rather than becoming frazzled by what's not.
 
 <br>
-![](assets/images/iStock-92285726.jpg)
+![](assets/images/istock/iStock-92285726.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Ingenui">Ingenui</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>

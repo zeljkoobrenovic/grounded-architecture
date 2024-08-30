@@ -62,7 +62,7 @@ In behavioral economics and psychology, a **nudge is a subtle or indirect sugges
 
 <br>
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
-     src="assets/images/arch/iStock-1390608248.jpg">
+     src="assets/images/istock/iStock-1390608248.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Chernetskaya">Liudmila Chernetska</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>

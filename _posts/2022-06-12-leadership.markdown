@@ -13,7 +13,7 @@ excerpt: "My view of architecture leadership is inspired by David Marquet’s wo
 ---
 
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
-     src="assets/images/iStock-1356210519.jpg">
+     src="assets/images/istock/iStock-1356210519.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/NiseriN">NiseriN</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
@@ -72,7 +72,7 @@ The leader-leader model is an excellent standard for architects' leadership visi
 
 One of the key benefits of a leader-leader model is that it creates **a more collaborative and inclusive work environment**. It allows individuals to contribute their unique perspectives, experiences, and skills to the group, promoting ownership and accountability for the team's success. This model also **helps build trust and more robust team relationships**, increasing productivity, creativity, and innovation.
 
-![](assets/images/arch/iStock-1130373923.jpg)
+![](assets/images/istock/iStock-1130373923.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Motortion">Motortion</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>

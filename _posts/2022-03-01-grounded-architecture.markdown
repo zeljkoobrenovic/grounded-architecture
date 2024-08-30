@@ -12,7 +12,7 @@ excerpt: "I introduce three elements of Grounded Architecture Framework: Archite
 
 ---
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
-     src="assets/images/iStock-1767471664.jpg">
+     src="assets/images/istock/iStock-1767471664.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/DarioTruco">Dario Truco</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>

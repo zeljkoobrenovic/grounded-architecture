@@ -12,7 +12,7 @@ excerpt: "A summary of several resources that can help you communicate more effe
 tough conversations."
 ---
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover"
-src="assets/images/iStock-1188030610.jpg">
+src="assets/images/istock/iStock-1188030610.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/RichVintage">RichVintage</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
@@ -77,7 +77,7 @@ Each resource can equip IT architects with the tools to improve their communicat
 
 **"So What? How to Communicate What Really Matters to Your Audience"** by Mark Magnacca is a guide for effectively communicating your ideas and solutions to stakeholders, team members, or clients. This book emphasizes the importance of delivering clear, concise, and relevant messages that resonate with the audience's needs and concerns. The principles outlined in "So What!" can serve as an inspiration for IT architects to enhance their communication skills, ensuring their technical insights are understood and valued.
 
-![](assets/images/iStock-1214110598.jpg)
+![](assets/images/istock/iStock-1214110598.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/benzoix">benzoix</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
@@ -187,7 +187,7 @@ Here are a few examples of how you could use "So What!" techniques in IT practic
 
 <br>
 <img style="margin-top: -20px; width: 100%; " 
-     src="assets/images/iStock-1383890701.jpg">
+     src="assets/images/istock/iStock-1383890701.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/asiseeit">SDI Productions</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
@@ -284,7 +284,7 @@ By adopting the principles of Radical Candor, IT and software architects can get
 
 <br>
 <img style="margin-top: -20px; width: 100%; " 
-     src="assets/images/iStock-154933978.jpg">
+     src="assets/images/istock/iStock-154933978.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/GlobalStock">GlobalStock</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
@@ -340,7 +340,7 @@ Duhigg reminds us that we do not have to be perfect to be good communicators. Wh
 
 <br>
 <img style="margin-top: -20px; width: 100%; " 
-     src="assets/images/iStock-2147692837.jpg">
+     src="assets/images/istock/iStock-2147692837.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/SolStock">SolStock</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
@@ -399,7 +399,7 @@ Moreover, these skills enhance team collaboration, ensuring better teamwork and 
 
 Goulston, a psychologist, consultant, author, and frequent TV contributor, has written an insightful book that delves into effective communication, not just listening. His book **"Just Listen: Discover the Secret to Getting Through to Absolutely Anyone"** outlines nine core rules for connecting with people. It provides twelve quick and easy techniques to achieve buy-in and effective communication.
 
-![](assets/images/iStock-1150384570.jpg)
+![](assets/images/istock/iStock-1150384570.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/fizkes">fizkes</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>

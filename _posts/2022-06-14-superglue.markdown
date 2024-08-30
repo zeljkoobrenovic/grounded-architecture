@@ -20,7 +20,7 @@ excerpt: "Architects in IT organizations should develop as “superglue,” peop
      }
 </style>
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
-     src="assets/images/iStock-185061908.jpg">
+     src="assets/images/istock/iStock-185061908.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/pagadesign">pagadesign</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>

@@ -72,7 +72,7 @@ I experience the culture map as enriching and broadening my interactions with pe
 
 Architects need to be [good communicators](https://architectelevator.com/strategy/complex-topics-stick/). But what do we mean when saying someone is **a good communicator**? The responses differ wildly from society to society.
 
-<img src="assets/images/arch/iStock-1308494001.jpg" style="width: 100%">
+<img src="assets/images/istock/iStock-1308494001.jpg" style="width: 100%">
 <div style="text-align: center; font-size: 70%; color: grey; margin-bottom: 12px; margin-top: -12px;">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/LuckyBusiness">LuckyBusiness</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
@@ -159,7 +159,7 @@ These examples illustrate how cultural differences in the perception of "constru
 
 Architects frequently need to persuade others about decisions and plans. How you **influence others and the arguments people find convincing** are deeply rooted in culture’s philosophical, religious, and educational assumptions and attitudes. 
 
-<img src="assets/images/arch/iStock-1257268399.jpg" style="width: 100%">
+<img src="assets/images/istock/iStock-1257268399.jpg" style="width: 100%">
 <div style="text-align: center; font-size: 70%; color: grey; margin-bottom: 12px; margin-top: -12px;">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/fizkes">fizkes</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
@@ -204,7 +204,7 @@ Architects have informal and sometimes formal authority. The leading scale measu
 This scale places countries on a spectrum from **egalitarian to hierarchical**. Egalitarian cultures expect leading to be in a **democratic** fashion. Hierarchical cultures expect leading to be **from top to bottom** (Figure 4).
 
 
-<img src="assets/images/arch/iStock-1351446226.jpg" style="width: 100%">
+<img src="assets/images/istock/iStock-1351446226.jpg" style="width: 100%">
 <div style="text-align: center; font-size: 70%; color: grey; margin-bottom: 12px; margin-top: -12px;">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/jacoblund">jacoblund</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
@@ -244,7 +244,7 @@ These examples show how differences in cultural attitudes towards authority and 
 
 Architectural work is about [making decisions](https://architectelevator.com/gregors-law/). The Deciding scale measures the degree to which a culture is **consensus-minded**. 
 
-<img src="assets/images/arch/iStock-1191132590.jpg" style="width: 100%">
+<img src="assets/images/istock/iStock-1191132590.jpg" style="width: 100%">
 <div style="text-align: center; font-size: 70%; color: grey; margin-bottom: 12px; margin-top: -12px;">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/fizkes">fizkes</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
@@ -286,7 +286,7 @@ These examples show how differing cultural expectations around decision-making c
 
 Architects need to build trust with multiple stakeholders. The culture map scale defines two extremes; **task-based cognitive trust** (from the head) and **relationship-based affective trust** (from the heart). 
 
-<img src="assets/images/arch/iStock-1200075866.jpg" style="width: 100%">
+<img src="assets/images/istock/iStock-1200075866.jpg" style="width: 100%">
 <div style="text-align: center; font-size: 70%; color: grey; margin-bottom: 12px; margin-top: -12px;">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/scyther5">scyther5</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
@@ -332,7 +332,7 @@ These examples highlight how differences in trust-building approaches can lead t
 
 Architectural work may lead to many disagreements and conflicts. Different cultures have very different ideas about how **productive confrontation** is for a team or an organization. The Disagreeing scale measures **tolerance for open debate** and inclination to see it as helpful or harmful to collegial relationships (Figure 7).
 
-<img src="assets/images/arch/iStock-1191132584.jpg" style="width: 100%">
+<img src="assets/images/istock/iStock-1191132584.jpg" style="width: 100%">
 <div style="text-align: center; font-size: 70%; color: grey; margin-bottom: 12px; margin-top: -12px;">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/fizkes">fizkes</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
@@ -372,7 +372,7 @@ These examples illustrate how different cultural attitudes towards disagreement 
 
 Architects will need to participate in many meetings and projects. All businesses follow agendas and timetables, but in some cultures, people **strictly adhere to the schedule**. In others, they **treat it as a suggestion**. The Scheduling scale assesses how much people value operating in a structured, linear fashion versus being flexible and reactive. This scale is based on the “monochronic” and “polychronic” distinction formalized by Edward Hall (Figure 8).
 
-<img src="assets/images/arch/iStock-1371834229.jpg" style="width: 100%">
+<img src="assets/images/istock/iStock-1371834229.jpg" style="width: 100%">
 <div style="text-align: center; font-size: 70%; color: grey; margin-bottom: 12px; margin-top: -12px;">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Bobex-73">Bobex-73</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>

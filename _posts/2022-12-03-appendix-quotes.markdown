@@ -100,6 +100,11 @@ Developers are <b>drawn to complexity like moths to a flame</b> often with the s
 <div class="author">-Neal Ford</div>
 </div>
 
+<div class="favorite-quote">
+Any time a company is in trouble, you’ll have people competing for power. Many of those people will swear up and down that the problem is simple and that they have the answer. Lesson: If you advocate for a more <b>inclusive, complexity-informed approach,</b> you’ll face people with influence (and likely past successes) actively <b>working to undermine you.</b>
+<div class="author">-John Cutler</div>
+</div>
+
 
 # Other
  

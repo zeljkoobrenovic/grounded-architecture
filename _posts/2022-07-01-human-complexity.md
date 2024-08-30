@@ -12,7 +12,7 @@ excerpt: "I introduce several resources that I use as inspiration for developing
 
 ---
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
-     src="assets/images/iStock-1473231525.jpg">
+     src="assets/images/istock/iStock-1473231525.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/cerro_photography">cerro_photography</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>

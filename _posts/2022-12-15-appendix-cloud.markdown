@@ -13,9 +13,9 @@ excerpt: A mix of key distributed and messaging system topics combined with mode
 
 ---
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover"
-src="assets/images/arch/fantasy-782001_1280.jpg">
+src="assets/images/istock/iStock-1181695869.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by <a href="https://pixabay.com/users/dlee-271284/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=782001">Donna Kirby</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=782001">Pixabay</a>
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Marje">Marje</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 <style>
     h1 {

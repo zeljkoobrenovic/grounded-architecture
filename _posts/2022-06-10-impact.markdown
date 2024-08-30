@@ -13,7 +13,7 @@ excerpt: "Architects' work is evaluated based on their impact on the organizatio
 ---
 
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
-     src="assets/images/iStock-980883274.jpg">
+     src="assets/images/istock/iStock-980883274.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/TuiPhotoengineer">TuiPhotoengineer</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
@@ -100,7 +100,7 @@ By focusing on these three competency groups—big-picture thinking, execution, 
 
 Architects are often the only individuals within an organization who possess a **"helicopter view,"** allowing them to oversee vast domains and anticipate the broader consequences of decisions. 
 
-![](assets/images/iStock-1145283550.jpg)
+![](assets/images/istock/iStock-1145283550.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/guvendemir">guvendemir</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
@@ -122,7 +122,7 @@ Architects play a pivotal role in organizations by leveraging their helicopter v
 
 As execution-focused practitioners, architects must not only deliver tangible results but also enhance collaboration across the organization. Their ability to combine technical expertise with **pragmatic approaches** and foster **effective teamwork** is crucial for achieving these goals. 
 
-![](assets/images/iStock-1887444236.jpg)
+![](assets/images/istock/iStock-1887444236.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/LaylaBird">LaylaBird</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
@@ -157,7 +157,7 @@ As execution-focused practitioners, architects must blend their technical skills
 
 Architects are often seen as leaders and role models who can help organizations raise the bar on both technical and cultural fronts. 
 
-![](assets/images/iStock-968924118.jpg)
+![](assets/images/istock/iStock-968924118.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/sanjeri">sanjeri</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>

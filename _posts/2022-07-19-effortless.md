@@ -12,7 +12,7 @@ excerpt: "A summary of lessons learned from Greg McKeown's Effortless book, whic
 
 ---
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
-     src="assets/images/iStock-1183657530.jpg">
+     src="assets/images/istock/iStock-1183657530.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Chinnapong">Chinnapong</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
@@ -85,7 +85,7 @@ Feeling overwhelmed is often not due to a situation's inherent complexity but be
 
 By asking, *"What if this could be easy?"* you can reset your thinking. Or, as Kent Beck famously stated, for each desired change, **make the change easy, then make the easy change.**
 
-![](assets/images/iStock-1359088740.jpg)
+![](assets/images/istock/iStock-1359088740.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/mironovkonstantin">Mironov Konstantin</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
@@ -112,7 +112,7 @@ This approach helps you stay engaged and motivated, making even the most mundane
 
 <br>
 <img style="margin-top: -20px; width: 100%; " 
-     src="assets/images/iStock-1294958620.jpg">
+     src="assets/images/istock/iStock-1294958620.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/AzmanL">AzmanL</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
@@ -140,7 +140,7 @@ Regrets that continue to haunt us, grudges we can't seem to let go of, and expec
 
 <br>
 <img style="margin-top: -20px; width: 100%; " 
-     src="assets/images/iStock-1464747516.jpg">
+     src="assets/images/istock/iStock-1464747516.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Mixmike">Mixmike</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
@@ -165,7 +165,7 @@ By incorporating periods of **rest and reflection,** you create a balanced routi
 
 <br>
 <img style="margin-top: -20px; width: 100%; " 
-     src="assets/images/iStock-1474437915.jpg">
+     src="assets/images/istock/iStock-1474437915.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Chinnapong">Chinnapong</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
@@ -196,7 +196,7 @@ Set aside your opinions, advice, and judgment to truly see others. Prioritize th
 
 <br>
 <img style="margin-top: -20px; width: 100%; " 
-     src="assets/images/iStock-514368940.jpg">
+     src="assets/images/istock/iStock-514368940.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Portra">Portra</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
@@ -230,7 +230,7 @@ McKeown suggests some simple techniques that everyone can use daily to focus and
 
 <br>
 <img style="margin-top: -20px; width: 100%; " 
-     src="assets/images/iStock-1569348514.jpg">
+     src="assets/images/istock/iStock-1569348514.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/evgenyatamanenko">evgenyatamanenko</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
@@ -264,7 +264,7 @@ McKeown suggests some simple techniques to identify the first obvious action:
 
 <br>
 <img style="margin-top: -20px; width: 100%; " 
-     src="assets/images/iStock-471660478.jpg">
+     src="assets/images/istock/iStock-471660478.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/ChristianChan">ChristianChan</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
@@ -294,7 +294,7 @@ This concept aligns with the "Swedish Death Cleaning philosophy," which involves
 
 <br>
 <img style="margin-top: -20px; width: 100%; " 
-     src="assets/images/iStock-665241484.jpg">
+     src="assets/images/istock/iStock-665241484.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/arismart">arismart</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
@@ -324,7 +324,7 @@ Fred Brooks encapsulated this wisdom: *"Good judgment comes from experience, and
 
 <br>
 <img style="margin-top: -20px; width: 100%; " 
-     src="assets/images/iStock-1276946528.jpg">
+     src="assets/images/istock/iStock-1276946528.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/CristianGheorghe">Cristian Gheorghe</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
@@ -354,7 +354,7 @@ To achieve sustained productivity, set an effortless pace: slow is smooth, smoot
 
 <br>
 <img style="margin-top: -20px; width: 100%; " 
-     src="assets/images/iStock-2038048731.jpg">
+     src="assets/images/istock/iStock-2038048731.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Flashvector">Flashvector</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
@@ -399,7 +399,7 @@ Effortless Results stem from a **deep understanding** of **first principles** an
 
 <br>
 <img style="margin-top: -20px; width: 100%; " 
-     src="assets/images/iStock-467625592.jpg">
+     src="assets/images/istock/iStock-467625592.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/lvcandy">lvcandy</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
@@ -433,7 +433,7 @@ For instance, one motivation for writing this book is to create reusable materia
 
 <br>
 <img style="margin-top: -20px; width: 100%; " 
-     src="assets/images/iStock-1049828098.jpg">
+     src="assets/images/istock/iStock-1049828098.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Nattakorn_Maneerat">Nattakorn Maneerat</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
@@ -464,7 +464,7 @@ Automating as many essential tasks as possible frees up space in your brain. Thi
 
 <br>
 <img style="margin-top: -20px; width: 100%; " 
-     src="assets/images/iStock-1442064282.jpg">
+     src="assets/images/istock/iStock-1442064282.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Shutter2U">Shutter2U</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
@@ -512,7 +512,7 @@ Being an architect is much **easier in high-trust organizations.** In low-trust 
 
 <br>
 <img style="margin-top: -20px; width: 100%; " 
-     src="assets/images/iStock-1387451522.jpg">
+     src="assets/images/istock/iStock-1387451522.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/nathaphat">nathaphat</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
@@ -546,7 +546,7 @@ This proactive approach is the long tail of time management. When you invest you
 
 <br>
 <img style="margin-top: -20px; width: 100%; " 
-     src="assets/images/iStock-1441914456.jpg">
+     src="assets/images/istock/iStock-1441914456.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/ipuwadol">ipuwadol</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>

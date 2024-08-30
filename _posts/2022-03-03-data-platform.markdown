@@ -11,10 +11,10 @@ timetoread: 15 min
 excerpt: Architectural Analytics serves as a medium to create a complete, up-to-date picture of critical elements of the technology landscapes of big organizations. The platform provides an architecture-centric view of data about a technology landscape based on source code analyses, public cloud billing reports, vibrancy reports, or incident tickets.
 
 ---
-<img src="assets/images/arch/architecture-1857175_1920.jpg" 
+<img src="assets/images/istock/iStock-1414981473.jpg" 
 style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by <a href="https://pixabay.com/users/3844328-3844328/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1857175">Lorenzo Cafaro</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1857175">Pixabay</a>
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/ko_orn">ko_orn</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 > **IN THIS SECTION, YOU WILL:**  Understand how to use diverse data sources to support architecture decision-making processes and get concrete tips on creating architecture-centric data tools.
 >

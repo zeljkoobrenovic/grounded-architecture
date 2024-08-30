@@ -13,7 +13,7 @@ excerpt: "Decision-making is a human activity subject to human biases and limita
 ---
 
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover"
-src="assets/images/arch/iStock-1286627625.jpg">
+src="assets/images/istock/iStock-1286627625.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/metamorworks">metamorworks</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
@@ -59,7 +59,7 @@ Fundamental biases influencing decision-making include outcome, hindsight, and c
 
 The big trap in decision-making is falling into the **outcome bias** pit, where you **obsess over the results** rather than focusing on how you decided in the first place. Results matter, but if you trip over an unlucky result and think you picked the wrong option, you're learning to fail with flair. This faulty thinking could make you make even wackier choices in the future.
 
-![](assets/images/arch/iStock-1400056155.jpg)
+![](assets/images/istock/iStock-1400056155.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/meshcube">mesh cube</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
@@ -103,7 +103,7 @@ Think about what the decision-maker considered, how they played detective gather
 If you don't **write down this process,** it's like trying to remember a dream—you'll miss many details and be left only with a vague feeling. This makes it tough to judge the quality of your decisions or anyone else's, stalling your growth as a decision-making wizard. Write down your decision-making process. This helps you determine if luck was messing with you or if your skills were on point. 
 
 
-![](assets/images/arch/iStock-1394993248.jpg)
+![](assets/images/istock/iStock-1394993248.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/designer491">designer491</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
@@ -153,7 +153,7 @@ Businesses are jumping on the data science bandwagon, hiring data scientists to 
 
 Confirmation bias is like your brain's way of playing a one-sided game of telephone with data. Even the most complex math won't save you if you still interpret results through your belief-tinted glasses. Extensive data analysis can be as helpful as a screen door on a submarine if it's warped by confirmation bias. The real challenge is resisting the urge to twist the story after seeing the data. So, watch for your brain's tricks and let the data speak for itself—or risk your analysis being as misleading as a carnival funhouse mirror.
 
-![](assets/images/arch/iStock-1307396842.jpg)
+![](assets/images/istock/iStock-1307396842.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/designer491">designer491</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
@@ -197,7 +197,7 @@ To mitigate the impact of confirmation bias, teams should actively seek out and 
 
 In a classic behavioral economics study, researchers showed that **how you say something** can be more magical than a rabbit out of a hat. They gave decision-makers the same facts but with some wordplay—different wording. Despite the identical information, decisions did a Houdini act and varied wildly. A tweak in phrasing or tossing in unrelated details can make people's choices wobble like a tightrope walker in a windstorm. Our brains are suckers for cognitive biases and illusions, even when the cold, hard facts are staring us in the face.
 
-![](assets/images/arch/iStock-1333976612.jpg)
+![](assets/images/istock/iStock-1333976612.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/AaronAmat">AaronAmat</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
@@ -241,7 +241,7 @@ Human intuition plays a vital role in decision-making. Robert Glass provided one
 
 One of the main advantages of intuition in decision-making is that accessing it is a rapid process, making intuitive decisions straightforward. Intuition is particularly useful for low-value decisions with low stakes, and a quick resolution is preferable. As we'll explore in future discussions on prioritization and decisiveness, seeking perfection in every decision is impractical due to limited time and energy. Therefore, it's essential to choose where to focus your efforts.
 
-![](assets/images/arch/iStock-1193842896.jpg)
+![](assets/images/istock/iStock-1193842896.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/metamorworks">metamorworks</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>

@@ -14,7 +14,7 @@ improving decision-making, reliable data-driven decisions, and avoiding biases."
 ---
 
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover"
-src="assets/images/arch/iStock-1365878406.jpg">
+src="assets/images/istock/iStock-1365878406.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/sasunbughdaryan">sasun bughdaryan</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
@@ -74,7 +74,7 @@ they flex their decision intelligence:
 
 Decision intelligence is the secret sauce of IT architects' work in every twist and turn.
 
-![](assets/images/arch/iStock-1194231226.jpg)
+![](assets/images/istock/iStock-1194231226.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/francescoch">francescoch</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
@@ -170,7 +170,7 @@ decisions need to be treated like a royal decree. Save the deep dives for the bi
 Decisions are the steering wheel for reaching our goals. Consequently, it is crucial to understand and define goals
 properly and to understand whether a decision needs to be made at all.
 
-![](assets/images/arch/iStock-1301200404.jpg)
+![](assets/images/istock/iStock-1301200404.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/DilokKlaisataporn">Dilok Klaisataporn</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
@@ -265,7 +265,7 @@ So, next time you're in a meeting and wondering if you're there to make a differ
 advisor in a decision-making drama, remember to whip out the magic question. It's your ticket to knowing whether you're
 in for an epic decision-making saga or a cameo appearance.
 
-![](assets/images/arch/iStock-1043738948.jpg)
+![](assets/images/istock/iStock-1043738948.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/chaiyapruek2520">chaiyapruek2520</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
@@ -448,7 +448,7 @@ Decision-making has evolved beyond pen and paper, with data playing a crucial ro
 I use in [Architectural Analytics](analytics), while visually appealing and powerful when used correctly, 
 is **only a tool to assist** in making informed decisions. It's a means to an impactful end, but **without purposeful application, data is ineffective**.
 
-![](assets/images/arch/iStock-1316937637.jpg)
+![](assets/images/istock/iStock-1316937637.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Blue Planet Studio">Blue Planet Studio</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
@@ -509,7 +509,7 @@ asking the right questions is like wandering into a labyrinth with a blindfold o
 
 Effective decision-making often involves recognizing that **you might not be the sole decision-maker**. In organizations, it's crucial to identify the actual decision-makers and understand how decision responsibility is distributed among them. Mastering this skill is essential for navigating organizational decision-making processes. It's important to question who really has the final say in decisions. In many cases, decision-making is more complex than it appears.
 
-![](assets/images/arch/iStock-1198639725.jpg)
+![](assets/images/istock/iStock-1198639725.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Milkos">Prostock-Studio</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>

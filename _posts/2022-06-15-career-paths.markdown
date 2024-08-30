@@ -13,7 +13,7 @@ excerpt: "Architects' career paths ideally stem from a strong engineering backgr
 ---
 
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
-     src="assets/images/iStock-490772190.jpg">
+     src="assets/images/istock/iStock-490772190.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/RichVintage">RichVintage</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
@@ -62,7 +62,7 @@ Architects with a strong engineering background have hands-on experience with co
 
 When architects have a solid engineering foundation, they can **earn the trust and respect of developer teams** more easily. Developers are more likely to follow the guidance and recommendations of someone who has walked in their shoes and understands their daily challenges. An engineering background equips architects with the technical language and concepts necessary to communicate effectively with developers. This shared language helps bridge the gap between high-level architectural visions and the detailed implementation work carried out by development teams.
 
-![](assets/images/iStock-1442990932.jpg)
+![](assets/images/istock/iStock-1442990932.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/KobusLouw">Kobus Louw</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
@@ -82,7 +82,7 @@ While a strong engineering background is essential, architects must also develop
 
 3. **Changing Skills**: Communication and influencer skills become crucial to success, as architects need to articulate their vision and persuade others to follow it. They must effectively communicate complex technical concepts to non-technical stakeholders, build consensus, and drive strategic initiatives. This shift emphasizes the importance of soft skills alongside technical expertise.
 
-![](assets/images/iStock-529522453.jpg)
+![](assets/images/istock/iStock-529522453.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/vm">vm</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
@@ -94,7 +94,7 @@ Architects have multifaceted responsibility that requires them to be not only te
 
 An architect's path can take many different directions, and the roles of this path can have many different names. 
 
-![](assets/images/iStock-511542244.jpg)
+![](assets/images/istock/iStock-511542244.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/bowie15">bowie15</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
@@ -122,7 +122,7 @@ More important than a formal title is the continuous search for relevance and th
 
 A career in IT architecture also opens possibilities of pursuing **tech leadership positions** such as Engineering Director or Chief Technology Officer (CTO). The reason for this is multifaceted.
 
-![](assets/images/iStock-1397610425.jpg)
+![](assets/images/istock/iStock-1397610425.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/miniseries">miniseries</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>

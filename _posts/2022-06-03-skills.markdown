@@ -20,7 +20,7 @@ excerpt: "A typical architect's skillset includes hard (technical) skills, soft 
      }
 </style>
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
-     src="assets/images/arch/iStock-531552876.jpg">
+     src="assets/images/istock/iStock-531552876.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/MuchMania">MuchMania</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
@@ -79,7 +79,7 @@ Core skills of architects include:
 
 Hard or technical skills are the abilities and knowledge needed for **designing, implementing, and maintaining** various aspects of an **organization's technology landscape**. 
 
-![](assets/images/iStock-1060399342.jpg)
+![](assets/images/istock/iStock-1060399342.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/RgStudio">RgStudio</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
@@ -114,7 +114,7 @@ The section [Appendix](appendix) provides some pointers for resources to build y
 
 Soft skills, often described as non-technical or interpersonal skills, are an integral part of social architecture, as they **enable individuals to navigate and contribute to these social systems** effectively. Social architecture refers to designing and managing social systems, interactions, and relationships within an organization or community. By developing and refining soft skills, individuals can more easily adapt to changes, collaborate with others, and foster a positive work environment. 
 
-![](assets/images/iStock-881068124.jpg)
+![](assets/images/istock/iStock-881068124.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/FlamingoImages">FlamingoImages</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
@@ -138,7 +138,7 @@ The [Appendix](appendix) provides some pointers for resources to build your soft
 
 Product development is creating and bringing new products or services to the market. It involves the entire journey from the conception of an idea to the product's final development, marketing, and distribution. Product development encompasses various activities and stages to transform an initial concept into a tangible and market-ready offering. Product-led companies understand that the **success of their products** is the primary **driver of growth and value** for their company. They prioritize, organize, and strategize around product success. 
 
-![](assets/images/iStock-1413642645.jpg)
+![](assets/images/istock/iStock-1413642645.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Tirachard">Tirachard</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
@@ -164,7 +164,7 @@ Understanding the product development process is not just beneficial, but essent
 
 Regardless of their technical or design expertise, architects must have **a solid understanding of business processes** to effectively contribute to an organization's success. 
 
-![](assets/images/iStock-1182436639.jpg)
+![](assets/images/istock/iStock-1182436639.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/AzmanL">AzmanL</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
@@ -195,7 +195,7 @@ By mastering these business skills, architects can ensure that their technical s
 
 Architects' work always requires pragmatic decision-making. Decisions are the steering wheel of organizations, and architects who are not involved in key decisions will have a limited impact on the organization.
 
-![](assets/images/iStock-1346156711.jpg)
+![](assets/images/istock/iStock-1346156711.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/gorodenkoff">gorodenkoff</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
@@ -232,7 +232,7 @@ Architects can enhance their ability to influence and drive organizational succe
 
 Architects must integrate these diverse skills into a cohesive approach to be truly effective. They must be lifelong learners, continuously updating their knowledge and adapting to new challenges. 
 
-![](assets/images/iStock-1398894062.jpg)
+![](assets/images/istock/iStock-1398894062.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Colorsandia">Colorsandia</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
