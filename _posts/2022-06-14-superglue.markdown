@@ -75,7 +75,8 @@ Superglue architects can play a unique and essential role in the smooth operatio
 IT architects should focus on holding everything together, ensuring their organizations' stability, coherence, and progress. Think of them as the organizational equivalent of duct tape—versatile, indispensable, and always ready to fix the seemingly unfixable.
 
 
-## Superglueing in Action: Reducing Tensions
+<br>
+## Superglueing in Action #1: Reducing Tensions
 
 Tensions among technology, product, organization, and business functions can slow down progress, lead to poor decisions, introduce complexity, and cause missed opportunities. Acting as superglue, architects can mitigate these issues by fostering better communication and alignment among these elements. The goal is **not to create new barriers** but to bring these functions closer together, ensuring a cohesive and efficient operation.
 
@@ -96,7 +97,7 @@ And let's not forget when business objectives are as aligned as a roundabout dur
 
 The main problem with the tension between technology, product, organization, and business functions is that it can significantly impede progress. **Miscommunication** or **misalignments** can turn simple tasks into bureaucratic nightmares. Furthermore, these issues can introduce overwhelming and unnecessary complexity, causing missed opportunities.
 
-### Reducing Tensions
+### Superglue Impact in Reducing Tensions
 
 Superglue architects should be able to navigate the wild complexities of modern organizations. They should facilitate that the various architectures—business, product, technology, or organizational design—don't just coexist but thrive together. Architects' **holistic approach** not only reduces tension and misalignment but reassures the organization's smooth operation, like butter on hot toast.
 
@@ -105,13 +106,85 @@ Superglue architects should be able to navigate the wild complexities of modern 
 
 Acting as superglue, the architects can effectively **reduce tensions** among technology, product, organization, and business functions. This act includes facilitating **critical conversations** between these units and ensuring alignment and cohesion. As depicted in Figure 3, the goal of architecture is not to add new constructs between these four elements, but to **bring them closer together.** By fostering closer relationships and better communication, architects can help these elements work in unison rather than at cross purposes.
 
+
+![](assets/images/istock/iStock-1465173464.jpg)
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/PeopleImages">PeopleImages</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
+</div>
+
+
 While staying close to technology (the engine room), architects must ensure that technology serves the needs of customers and the business and that technical architecture is well-aligned with organizational design. At the same time, architects can help ensure that business, product, and organizational designs are well-informed about the state, risks, and opportunities of an organization's technology to avoid creating impractical strategies, setting unrealistic goals, or missing opportunities.
 
 Architects must **actively engage** with all stakeholders, **translating technical jargon** into business-friendly terms. For example, if the business wants to cut costs, architects highlight how it might impact product timelines or **technical debt.** Similarly, if new tech is introduced, architects ensure it aligns with product goals and organizational capabilities.
 
 Ironically, the more successful superglue architects are in their role, the less visible their needs become. But fear not—this doesn't make architecture redundant; it evolves the practice to be the invisible hand that keeps everything running smoothly, embedded in the daily operations of the organization.
 
-## Superglue Impact: Reducing Risks of Misalignment
+<br>
+## Supergluing In Action #2: Resolving Disagreements About Problem, Solution and Implementation Approach
+
+The [Theory of Constraints (TOC)](https://en.wikipedia.org/wiki/Thinking_processes_(theory_of_constraints)), developed by Eliyahu M. Goldratt, is another source of inspiration I used to work as a superglue architect. TOC is a management philosophy focusing on identifying and addressing the most critical bottleneck (constraint) to improve overall performance. While Goldratt's work is much broader, the part I find inspiring is his view on resistance to change, which he sees as manifesting in three forms: disagreement about the problem, disagreement on the solution, and disagreement on the implementation (Figure 4). 
+
+![](assets/images/toc_disagreements.png)
+***Figure 4:** Goldratt's view on resistance to change: disagreement about the problem, disagreement on the solution, and disagreement on the implementation.*
+
+This model is a useful guide to help people resolve disagreements. This model can also be useful in showing that many disagreements stem from people not realizing they are talking about different topics (e.g., trying to decide on low-level technology choices while there is no agreement on which problem they are solving). 
+
+![](assets/images/istock/iStock-1350217421.jpg)
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/PeopleImages">PeopleImages</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
+</div>
+
+### Disagreement about the Problem (What to change?)
+
+Disagreement about the problem occurs when stakeholders or team members perceive the issue differently. In IT architecture and software engineering, this can lead to significant delays and inefficiencies because you might direct resources toward solving a problem that isn't the root cause of the constraint.
+
+For example, consider an IT team responsible for maintaining an e-commerce platform. The platform is experiencing slow response times, as users have reported. The database team believes the issue lies in inefficient database queries, while the network team thinks the problem is due to network latency. Meanwhile, the backend application developers suspect poorly optimized code. UX designers think that reported slowness is happening on the front end and is a consequence of the poor implementation of the user interface. These teams cannot agree on the primary problem. They may waste time optimizing areas that aren't the real bottleneck, leading to a patchwork of partial solutions that don't fully resolve the performance issue.
+
+### Disagreement on the Solution (What to change into?)
+
+Once you identify a problem, the next challenge is agreeing on the best solution. This disagreement can stem from differing experiences, knowledge, or biases toward particular technologies or methodologies.
+
+In the same e-commerce platform example, the team might disagree on the solution after identifying the database as the root cause of the problem. The database administrators might suggest migrating to a more powerful database server, while the developers propose rewriting the queries more efficiently. UI developers think they should significantly refactor frontend code to a new version of the UI library they wanted to use before but did not have time for the work. The operations team might push for a backend redesign and to scale the entire system horizontally by adding more servers. These conflicting solutions can cause delays as the team debates the best approach, potentially leading to a suboptimal compromise or a solution that introduces new problems.
+
+### Disagreement on the Implementation Approach (How to cause the change?)
+
+The implementation can still be contentious even when you agree upon a solution. The implementation phase is critical, as poor execution can negate the benefits of the chosen solution.
+
+Continuing with the e-commerce platform scenario, suppose the team agrees to optimize the database queries as the solution. Disagreements might arise regarding how to implement these changes. The development team might want to rewrite all queries in one go, while the operations team might prefer a phased approach to minimize downtime. Additionally, there might be disagreements about the testing environment, deployment strategies, or even the timeline. If you do not resolve these disagreements, the implementation could be delayed or poorly implemented, leading to new issues such as data integrity problems or complete system outages.
+
+### Confusion about the Level of Disagreement
+
+A more difficult-to-spot type of confusion can arise when people are unclear about the level of disagreement they are addressing. This misalignment can be particularly problematic in IT architecture and software engineering, where project complexity often involves multiple layers of decision-making. 
+
+People may think they are discussing and disagreeing on one aspect of a project—such as the implementation—when their disagreement stems from a deeper issue, such as not being aligned on the problem itself. This understanding can lead to more productive discussions, efficient use of effort, and decisions that effectively address the core issues.
+
+#### Example 1: Misalignment on the Problem vs. Implementation
+
+Imagine a software development team optimizing a web application's performance. The team starts debating how to implement changes—whether to refactor code, adjust server configurations, or optimize the database. However, underlying this discussion is a fundamental misalignment: they disagree on the problem. Some team members believe the issue is with the application code, while others think it's the database or the server infrastructure, and third think the problem is poor UX design.
+
+As they discuss implementation strategies, they may argue whether to prioritize refactoring code or upgrading hardware, going into a heated debate about low-level technology choices and versions of the libraries they plan to use. But this debate is fruitless because they haven't first aligned on the problem. The result is that they might implement a solution that doesn't effectively address the real issue, or they might go in circles without reaching a consensus, leading to delays and frustration.
+
+#### Example 2: Misalignment on the Solution vs. Problem
+
+Consider a scenario where an IT department is trying to improve the security of its systems. The team is debating whether to implement a new firewall or upgrade its encryption protocols. They might think they disagree on the solution—firewall vs. encryption—but the real issue is that they haven't agreed on the specific security problem they are trying to solve. 
+
+Some team members might be focused on external threats, while others are more concerned about internal data breaches. Because they are not aligned on the problem, their discussion about the solution is confused. One group pushes for a solution that addresses external threats, while another advocates for measures that protect against internal risks. Without recognizing this misalignment, the team risks implementing a solution that only partially addresses the organization's security needs.
+
+### Superglue Impact in Resolving Disagreements
+
+As connective tissue, the superglue architect can help resolve disagreements with effective communication, clear documentation, and a collaborative approach to the problem:
+
+1. **Clearly Identify and Agree on the Problem**: Before discussing solutions or implementation, ensure that everyone has a shared understanding of the problem.
+
+2. **Differentiate Between Problem, Solution, and Implementation**: Facilitate team members to recognize and articulate their discussion level. This differentiation helps prevent confusion and keeps discussions productive.
+
+3. **Facilitate Clear Communication**: Use structured methods like root cause analysis or problem statements to align everyone on the problem before discussing potential solutions and implementations.
+
+By being aware of the potential for confusion and actively working to clarify the level of disagreement, teams ican make more informed decisions, implement effective solutions, and, ultimately, improve project outcomes.
+
+
+<br>
+## Superglue Impact: Reducing Risks of Misalignments and Disagreements
 
 Misalignment between these elements can introduce several **key risks,** which superglue architects need to be aware of and can mitigate:
 
@@ -136,7 +209,6 @@ Misalignment between these elements can introduce several **key risks,** which s
 - **Creating Fragile, Unsustainable Team Structures:** Relying on a small number of developers for critical technologies can make teams extremely vulnerable. Building resilient team structures with adequate support and redundancy is essential.
 
 While architects stay close to the technology, they must ensure it works for the business and customers, not the other way around. By keeping everyone in the loop and aligned, architects help clear the many pitfalls of misalignment and keep the organizational machine running smoothly. Their role is to facilitate communication, ensure alignment, and guide the organization toward cohesive and practical solutions, preventing the myriad risks associated with misalignment.
-
 
 <br>
 ## To Probe Further
