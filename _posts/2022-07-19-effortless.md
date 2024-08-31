@@ -67,16 +67,22 @@ Similarly, Greg McKeown's book summarizes many well-known practices into a pragm
 
 * In high-pressure environments like the tech industry, **managing stress** is crucial. McKeown's strategies for reducing unnecessary effort and anxiety can help IT professionals focus on high-value tasks, improve mental health, and boost team morale, creating a more enjoyable work experience.
 
-In the following sections, I will review critical advice from McKeown's work, grouped into Effortless State, Effortless Action, and Effortless Results.
+In the following sections, I will review critical advice from McKeown's work, grouped into Effortless State, Effortless Action, and Effortless Results  (Figure 1).
+
+![](assets/images/figures/effortless.png)
+***Figure 1:** The McKeown's Effortless framework: Effortless State, Effortless Action, and Effortless Results.*
 
 <br>
 ## Effortless State
 
-Many have encountered the Effortless State, a **peak experience** when their physical, emotional, and mental well-being align perfectly. You feel physically rested, emotionally unburdened, and mentally energized in this state. You become entirely aware, alert, present, attentive, and focused on what's important. This state allows you to **concentrate on what matters** more quickly and efficiently.
+Many have encountered the Effortless State, a **peak experience** when their physical, emotional, and mental well-being align perfectly. You feel physically rested, emotionally unburdened, and mentally energized in this state. You become entirely aware, alert, present, attentive, and focused on what's important. This state allows you to **concentrate on what matters** more quickly and efficiently (Figure 2).
 
 When you achieve the Effortless State, it's a sign that **your brain is operating at its full capacity.** In this optimal condition, tasks that usually feel difficult become significantly easier. You can navigate challenges with a sense of flow and clarity, making decisions and performing actions with a heightened **sense of purpose and precision.** This state enhances your productivity and opens up new avenues for personal growth and development.
 
 However, reaching and maintaining this state can be impeded by **mental clutter.** Clutter can take many forms, including outdated assumptions, negative emotions, and toxic thought patterns. These mental obstacles drain your cognitive resources and make everything feel more complicated than it should be. By clearing this clutter and fostering a supportive mental environment, you can unlock your brain's full potential and access the Effortless State consistently.
+
+![](assets/images/figures/effortless_state.png)
+***Figure 2:** Effortless State is a part of the McKeown's Effortless framework (State, Action, Results).*
 
 <br>
 ### 1. INVERT: What If This Could Be Easy?
@@ -215,10 +221,12 @@ Here are a few examples that IT architects as an inspiration to help their organ
 <br>
 ## Effortless Action
 
-When you reach an Effortless State, you can perform Effortless Actions. Effortless Action is the art of **accomplishing more by trying less.** It involves finding a natural flow in your tasks and responsibilities, allowing you to achieve your goals with minimal strain. The process begins with taking the first obvious step, which helps overcome procrastination and sets you in motion. By avoiding overthinking, you can focus on reaching completion without getting bogged down in unnecessary details, preventing mental fatigue and keeping you moving forward.
+When you reach an Effortless State, you can perform Effortless Actions. Effortless Action is the art of **accomplishing more by trying less.** It involves finding a natural flow in your tasks and responsibilities, allowing you to achieve your goals with minimal strain. The process begins with taking the first obvious step, which helps overcome procrastination and sets you in motion. By avoiding overthinking, you can focus on reaching completion without getting bogged down in unnecessary details, preventing mental fatigue and keeping you moving forward (Figure 3).
 
 Progress in Effortless Action is made by **pacing yourself** rather than **powering through.** This sustainable approach ensures a steady momentum without the risk of burnout. Effortless Action allows you to exceed expectations without excessive effort, enabling you to overachieve while preserving your energy and well-being. Ultimately, it's about aligning your efforts with a natural rhythm, making work feel less like a struggle and more like a seamless part of your day.
 
+![](assets/images/figures/effortless_action.png)
+***Figure 3:** Effortless Action is a part of the McKeown's Effortless framework (State, Action, Results).*
 
 
 <br>
@@ -378,12 +386,15 @@ The traditional approach to debugging and testing a new feature often involves m
 <br>
 ## Effortless Results
 
-Effortless Results are the natural outcome of consistently cultivating your Effortless State and taking Effortless Action. By maintaining a clear objective, breaking tasks into tiny, obvious first steps, and working at a consistent, manageable pace, you achieve your desired outcomes with greater ease. However, the true power of Effortless Results lies in their sustainability.
+Effortless Results are the natural outcome of consistently cultivating your Effortless State and taking Effortless Action. By maintaining a clear objective, breaking tasks into tiny, obvious first steps, and working at a consistent, manageable pace, you achieve your desired outcomes with greater ease. However, the true power of Effortless Results lies in their sustainability (Figure 4).
 
 Effortless Results are those that continue to **flow to you repeatedly,** with minimal additional effort. You've established a system where **success becomes a cycle** rather than a one-time event. By refining your process and eliminating unnecessary steps, you ensure that your efforts yield ongoing benefits. This approach allows you to maintain high productivity and achieve your goals consistently, creating a seamless and continuous flow of accomplishments.
 
 In essence, Effortless Results are about creating a **self-sustaining loop** of success. By leveraging the principles of the Effortless State and Effortless Action, you set the stage for ongoing achievement, making it possible to reach your objectives repeatedly without constant exertion.
 
+
+![](assets/images/figures/effortless_results.png)
+***Figure 4:** Effortless Results is a part of the McKeown's Effortless framework (State, Action, Results).*
 
 
 
