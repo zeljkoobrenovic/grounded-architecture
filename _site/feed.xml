@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-08-31T14:00:38+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: Redefining IT Architecture Practice</title><subtitle></subtitle><entry><title type="html">Cheat Sheet</title><link href="http://localhost:4000/cheat-sheet" rel="alternate" type="text/html" title="Cheat Sheet" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/appendix-cheat-sheet</id><content type="html" xml:base="http://localhost:4000/cheat-sheet"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/istock/iStock-1182643171.jpg" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-09-02T12:47:30+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: Redefining IT Architecture Practice</title><subtitle></subtitle><entry><title type="html">Cheat Sheet</title><link href="http://localhost:4000/cheat-sheet" rel="alternate" type="text/html" title="Cheat Sheet" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/appendix-cheat-sheet</id><content type="html" xml:base="http://localhost:4000/cheat-sheet"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/istock/iStock-1182643171.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Tashulia">Tashulia</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
@@ -553,11 +553,20 @@ In this part, I will briefly introduce the Grounded Architecture framework. I ch
 
 <p><em>Collaborative Networks</em> <strong>connect all the people</strong> doing architecture across the organization. Thse networks are crucial to ensure that an architecture practice has any <strong>tangible impact</strong>. The <a href="people">Collaborative Networks section</a> provides more details.</p>
 
-<p>Lastly, the <em>Operating Model</em> defines <strong>a set of processes and agreements</strong> enabling architects to do everything that an architecture practice typically does, leveraging Architectural Analytics and Collaborative Networks to create a data-informed, organization-wide impact. The <a href="operating-model">Operating Model section</a> provides more details on the Operating Model.</p>
+<p>Lastly, the <em>Operating Model</em> defines:</p>
+<ul>
+  <li>
+    <p><strong><a href="operating-model">General Principles</a></strong>: I’ve defined several <strong>general guidelines</strong> on directing architects to do everything an architecture practice typically does, leveraging Architectural Analytics and Collaborative Networks to create a data-informed, organization-wide impact.</p>
+  </li>
+  <li>
+    <p><strong><a href="six-simple-rules">Cooperation-Based Operating Model: Six Simple Rules</a></strong>: Grounded Architecture is particularly well-suited for organizations organized based on cooperation. As businesses grow increasingly complex, the importance of cooperation within organizational structures cannot be overstated. The “Six Simple Rules” framework emphasizes that successful organizations leverage their members’ collective judgment and cooperation. By fostering a culture of collaboration, organizations can better utilize their capabilities to address and resolve complex problems.</p>
+  </li>
+  <li>
+    <p><strong><a href="governance">IT Governance: Nudge, Taxation, Mandates</a></strong>: Governance in technology is a critical aspect of any operating model. I propose a governance model incorporating three styles: nudging, taxation, and mandates. Nudging involves subtle policy shifts that guide behavior without restricting choices, while taxation uses economic incentives to encourage desired outcomes. Mandates and bans provide direct regulations to ensure compliance and standardization. This multifaceted approach allows for flexible and effective governance, balancing innovation with control and ensuring technological initiatives align with broader organizational goals.</p>
+  </li>
+</ul>
 
-<p>I want to emphasize that, in my view, any operating model is only relevant if there are <strong>healthy Architectural Analytics and Collaborative Networks</strong>. Without data and people connections, an operating model leads to an ivory tower institution, generating opinion-based decisions disconnected from reality.</p>
-
-<p>Grounded Architecture is particularly well-suited for organizations that are organized based on cooperation. Consequently, I use the <strong><a href="six-simple-rules">Six Simple Rules</a></strong> framework as an essential guideline. As businesses grow increasingly complex, you cannot overstate the importance of cooperation within organizational structures. The “Six Simple Rules” framework emphasizes that successful organizations leverage their members’ collective judgment and cooperation. By fostering a culture of collaboration, organizations can better utilize their capabilities to address and resolve complex problems. Grounded Architecture and Six Simple Rules are best friends. The Six Simple Rules ideas have been a significant source of inspiration for my work. This approach underscores the need for architects to build and support cooperative environments where teamwork and shared decision-making are paramount. Encouraging open communication, mutual respect, and shared goals can significantly enhance an organization’s ability to navigate complexities and adapt to change. Conway’s Law shows that the link between organizational structures and IT architecture is like peanut butter and jelly—strong and better together. The Six Simple Rules approach and architectural work involve managing complexity without getting tangled up.</p>
+<p>While I elaborately discuss many faces of the operating model, I want to emphasize that any Operating Model is only relevant if there are <strong>healthy Architectural Analytics and Collaborative Networks</strong>. Without data and people connections, an operating model leads to an ivory tower institution, generating opinion-based decisions disconnected from reality.</p>
 
 <p>Now that we’ve completed the high-level Grounded Architecture tour let’s examine the specifics.</p>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[I introduce three elements of Grounded Architecture Framework: Architectural Analytics, Collaborative Networks, and The Operating Model.]]></summary></entry><entry><title type="html">Architectural Analytics</title><link href="http://localhost:4000/analytics" rel="alternate" type="text/html" title="Architectural Analytics" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/data-platform</id><content type="html" xml:base="http://localhost:4000/analytics"><![CDATA[<p><img src="assets/images/istock/iStock-1414981473.jpg" style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
@@ -975,7 +984,7 @@ Image by <a href="https://pixabay.com/users/chantellev-2412495/?utm_source=link-
   <li><em>How effective is the current division of responsibilities among architects in your organization? Are there areas of overlap or gaps in coverage?</em></li>
   <li><em>What steps has your organization taken to ensure architects are well-connected across all parts and levels? What impact has this had on transparency and the implementation of changes?</em></li>
   <li><em>Reflect on the diversity of team structures within your organization. How does this diversity impact the roles and responsibilities of architects?</em></li>
-</ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[We should not take our architectural talent for granted. Architects are difficult to hire because they need in-depth technical, domain-specific, and managerial knowledge. Therefore, we must support, organize, and leverage architecture talent.]]></summary></entry><entry><title type="html">General Operating Model</title><link href="http://localhost:4000/operating-model" rel="alternate" type="text/html" title="General Operating Model" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/activities</id><content type="html" xml:base="http://localhost:4000/operating-model"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/istock/iStock-1126482102.jpg" /></p>
+</ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[We should not take our architectural talent for granted. Architects are difficult to hire because they need in-depth technical, domain-specific, and managerial knowledge. Therefore, we must support, organize, and leverage architecture talent.]]></summary></entry><entry><title type="html">Operating Model: General Principles</title><link href="http://localhost:4000/operating-model" rel="alternate" type="text/html" title="Operating Model: General Principles" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/activities</id><content type="html" xml:base="http://localhost:4000/operating-model"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/istock/iStock-1126482102.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/ma_rish">ma_rish</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
@@ -1286,9 +1295,11 @@ In today's complicated business environments, you must set up organizational str
 <p>In this chapter, I explore how Grounded Architecture and Six Simple Rules are best friends. The Six Simple Rules ideas have been a significant source of inspiration for my work. <a href="https://martinfowler.com/bliki/ConwaysLaw.html"><strong>Conway’s Law</strong></a> shows that the link between organizational structures and IT architecture is like peanut butter and jelly—strong and better together. The Six Simple Rules approach and architectural work are all about managing complexity without getting tangled up.</p>
 
 <p><br /></p>
-<h2 id="limitations-of-hard-and-soft-management">Limitations of Hard and Soft Management</h2>
+<h2 id="background-hard-and-soft-management">Background: Hard and Soft Management</h2>
 
 <p>One of the Six Simple Rules’ central premises is that <strong>conventional management approaches</strong>, which the authors split into hard and soft, are neither sufficient nor appropriate for the complexity of organizations nowadays.</p>
+
+<h3 id="hard-approach">Hard Approach</h3>
 
 <p>The <strong>hard approach</strong> rests on two fundamental assumptions:</p>
 <ul>
@@ -1298,16 +1309,33 @@ In today's complicated business environments, you must set up organizational str
 
 <p>When the company needs to meet new performance requirements, the <strong>hard response</strong> is to <strong>add new structures, processes, and systems</strong> to help satisfy those requirements. Hence, introducing the innovation czar, the risk management team, the compliance unit, the customer-centricity leader, and the cohort of coordinators and interfaces have become so common in companies.</p>
 
+<p>In my experience, IT architecture support  in organizations following a hard management approach has the following characteristics:</p>
+<ul>
+  <li><strong>Heavy Reliance on Tools:</strong> The architecture would focus on tools, automation, and workflows that <strong>enforce compliance,</strong> standardization, and control. There might be a strong reliance on enterprise resource planning (ERP) systems, centralized data warehouses, and other structured tools that enable <strong>strict adherence</strong> to predefined processes.</li>
+  <li><strong>Security and Compliance:</strong> There would be a significant emphasis on <strong>compliance frameworks,</strong> security protocols, and risk management systems. These systems would be designed to ensure that all actions are traceable, compliant with regulations, and aligned with the company’s <strong>predefined rules and processes.</strong></li>
+  <li><strong>Bureaucratic Systems:</strong> The architecture might include multiple <strong>layers of control</strong> and coordination units, such as a risk management system, compliance databases, and innovation management software. Each of these units would be designed to enforce specific aspects of the organization’s performance objectives.</li>
+</ul>
+
+<h3 id="soft-approach">Soft Approach</h3>
+
 <p>On the other end, we have a soft management approach. According to the <strong>soft approach</strong>, an organization is a set of <strong>interpersonal relationships and the sentiments</strong> that govern them.</p>
 <ul>
   <li><strong>Good performance is the by-product of good interpersonal relationships</strong>. Personal traits, psychological needs, and mindsets predetermine people’s actions.</li>
   <li>To change behavior at work, you need to <strong>change the mindset (or change the people)</strong>.</li>
 </ul>
 
+<p>In my experience, IT architecture support in organizations following a soft management approach has the following characteristics:</p>
+<ul>
+  <li><strong>Employee Empowerment:</strong> Systems would likely be designed to empower employees by providing the tools they need to <strong>succeed independently,</strong> such as access to real-time data, <strong>self-service</strong> analytics, and systems that encourage innovation and creativity.</li>
+  <li><strong>Employee-Centric:</strong> The architecture would focus on tools facilitating communication and <strong>knowledge sharing.</strong> These tools might include <strong>collaboration platforms,</strong> social intranets, and user-friendly interfaces that enable employees to interact more effectively.</li>
+  <li><strong>Personalization:</strong> Systems might be more personalized, offering <strong>customization options</strong> that align with individual preferences and needs. This personalization could include customizable dashboards and personalized workspaces.</li>
+</ul>
+
+<h3 id="limitations-of-hard-and-soft-management">Limitations of Hard and Soft Management</h3>
 <p>Both approaches are limited in today’s world and are harmful to cooperation. A <strong>hard approach introduces complicated mechanisms</strong>, compliance, and “checking the box” behaviors instead of the engagement and initiative to make things work. The <strong>soft approach’s emphasis on good interpersonal feelings creates cooperation obstacles</strong> as people want to maintain good feelings.</p>
 
 <p><br /></p>
-<h2 id="six-simple-rules-overview">Six Simple Rules Overview</h2>
+<h2 id="collaboration-approach-six-simple-rules-overview">Collaboration Approach: Six Simple Rules Overview</h2>
 
 <p>The Six Simple Rules approach covers two areas: <strong>autonomy</strong> and <strong>cooperation</strong>. The Six Simple Rules’ authors emphasize the difference between Autonomy and Self-Sufficiency. <strong>Autonomy</strong> is about fully mobilizing our intelligence and energy to <strong>influence outcomes</strong>, including those <strong>we do not entirely control</strong>. <strong>Self-sufficiency</strong> is about <strong>limiting our efforts</strong> only to those <strong>outcomes that we control entirely without depending on others</strong>. Autonomy is essential for coping with complexity; <strong>self-sufficiency is an obstacle</strong> because it <strong>hinders the cooperation</strong> needed to make autonomy effective.</p>
 
@@ -1526,7 +1554,150 @@ Image by <a href="https://pixabay.com/users/stocksnap-894430/?utm_source=link-at
   <li><em>How are those who cooperate rewarded in your organization? Are there mechanisms in place to increase the payoff for all when they cooperate beneficially?</em></li>
   <li><em>How can architecture practice in your organization support the implementation of the Six Simple Rules?</em></li>
   <li><em>How do your organization’s current systems and structures promote or hinder the cooperation needed to make autonomy effective?</em></li>
-</ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[The Six Simple Rules approach emphasizes that you must set up organizational structures based on cooperation in today's complicated business environment. To deal with complexity, organizations should depend on the judgment of their people, and these people cooperate to utilize the organization's capabilities to cope with complex problems.]]></summary></entry><entry><title type="html">Transforming Organizations with Grounded Architecture</title><link href="http://localhost:4000/transformation" rel="alternate" type="text/html" title="Transforming Organizations with Grounded Architecture" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/value</id><content type="html" xml:base="http://localhost:4000/transformation"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/istock/iStock-1893527682.jpg" /></p>
+</ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[The Six Simple Rules approach emphasizes that you must set up organizational structures based on cooperation in today's complicated business environment. To deal with complexity, organizations should depend on the judgment of their people, and these people cooperate to utilize the organization's capabilities to cope with complex problems.]]></summary></entry><entry><title type="html">Operating Model: Nudge, Taxation, Mandates</title><link href="http://localhost:4000/governance" rel="alternate" type="text/html" title="Operating Model: Nudge, Taxation, Mandates" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/governance</id><content type="html" xml:base="http://localhost:4000/governance"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/greece-1594689_1920.jpg" /></p>
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by <a href="https://pixabay.com/nl/users/nonbirinonko-3101900/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1594689">nonbirinonko</a> from <a href="https://pixabay.com/nl//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1594689">Pixabay</a>
+</div>
+<blockquote>
+  <p><strong>IN THIS SECTION, YOU WILL:</strong> Understand that a technology governance model should be a well-balanced hybrid of three different styles of governing: mandates and bans, taxes, and nudging.</p>
+
+  <p><strong>KEY POINTS:</strong></p>
+
+  <ul>
+    <li>Architecture practice should support governance models adaptable to organizations’ complex and diverse needs. A technology governance model should be a well-balanced hybrid of three different styles of governing: mandates and bans, taxes, and nudging.</li>
+    <li>Nudging is a form of governing where you create subtle or indirect suggestions influencing someone’s behavior or decision-making without forcing them or limiting their freedom of choice.</li>
+    <li>Governing with taxes (economic incentives) is a form of guiding in which people are not forbidden to make some decisions but need to “pay” some form of taxes on used resources.</li>
+    <li>With mandates and bans, you guide people by explicitly defining what they should or should not do.</li>
+  </ul>
+</blockquote>
+<style>
+ .quote {
+     border-left: 8px solid #d9ead3;
+     padding-left: 36px;
+     margin-top: 30px;
+     margin-bottom: 40px;
+     font-size: 140%;
+     font-style: normal;
+     color:#888;
+ }
+    @media only screen and (max-width: 768px) {
+        [class="quote"] {
+            display: none;
+        }
+    }
+</style>
+
+<p>Governance refers to the framework of rules, practices, and processes by which an organization is directed and controlled. It encompasses the mechanisms by which an organization’s goals are set, pursued, and monitored, ensuring accountability, fairness, and transparency. Governance can be applied to various domains, including corporate, IT, project, and data governance.</p>
+
+<p><strong>IT architecture is a form of governance</strong> because it <strong>establishes structured frameworks</strong> for managing and controlling an organization’s technology resources and processes. It ensures alignment with business objectives, promotes standardization, manages risks, optimizes resources, facilitates change management, supports decision-making, measures performance, and fosters innovation. IT architecture governance involves defining the technological infrastructure, setting standards for technology use, and ensuring that all technology-related activities align with the organization’s overall goals. This form of governance provides a comprehensive approach to managing technology, ensuring that it supports the organization’s strategic direction and operational needs.</p>
+
+<p>The difficulty of governance stems from the need to navigate a complex web of diverse interests, rapidly changing conditions, and multifaceted challenges. There is no one-size-fits-all form of governance, as each organization has unique needs, goals, and environments. Effective governance requires adaptability, collaboration, and a commitment to addressing immediate and long-term issues. It involves balancing various stakeholder interests, anticipating and responding to external changes, and continually refining governance practices to meet evolving demands. This complexity demands a strategic approach, robust communication, and a willingness to innovate and adapt to ensure that governance frameworks remain relevant and effective in achieving organizational objectives.</p>
+
+<p>Architecture practice should support governance models that are aligned and adaptable to organizations’ complex and diverse needs. Consequently, I see an architecture governance model as a well-balanced hybrid of three different styles of governing:</p>
+<ul>
+  <li><strong>nudging</strong>,</li>
+  <li><strong>taxes</strong> (economic incentives), and</li>
+  <li><strong>mandates and bans</strong>.</li>
+</ul>
+
+<div class="quote">
+Architecture practice should support governance models <b>adaptable to organizations' complex and diverse needs</b>.
+</div>
+<p><br /></p>
+<h2 id="nudging">Nudging</h2>
+
+<p>In behavioral economics and psychology, a <strong>nudge is a subtle or indirect suggestion</strong> influencing someone’s behavior or decision-making <strong>without forcing them or limiting their freedom of choice</strong>. Nudges can be applied in various settings, such as policy-making, marketing, and personal interactions, to encourage people to make better choices, improve their well-being, or achieve specific goals.</p>
+
+<p><br />
+<img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/istock/iStock-1390608248.jpg" /></p>
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Chernetskaya">Liudmila Chernetska</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
+</div>
+
+<p>A nudge can take many forms, such as a slight change in the environment, a gentle reminder, positive reinforcement, or a default option. For example, placing healthy food options at eye level in a cafeteria can nudge people to choose healthier meals. Setting a default option for organ donation can increase the number of donors.</p>
+
+<div class="quote">
+A nudge is a subtle or indirect suggestion influencing someone's behavior or decision-making without forcing them or limiting their freedom of choice.
+</div>
+
+<p>The concept of a nudge was popularized by the book <strong>“Nudge: Improving Decisions About Health, Wealth, and Happiness”</strong> by Richard Thaler and Cass Sunstein, which argues that various cognitive biases and heuristics often influence people’s decisions, and that nudges can help people overcome these biases and <strong>make better choices</strong>.</p>
+
+<p>Richard Thaler and Cass Sunstein also introduced the concept of choice architecture as a critical component of nudging. Choice architecture refers to how options are presented to individuals, which can significantly influence their choices. It is the design of the decision-making environment, which includes the layout, structure, and organization of available options.</p>
+
+<p>In IT architecture, examples of nudging include:</p>
+<ul>
+  <li>Architectural <strong>principles</strong> as informal decision guidelines. Such principles do not prescribe a solution but can subtly guide alignment.</li>
+  <li>Recommendations for <strong>best practices</strong> to stimulate introduction and alignment around such practices,</li>
+  <li>Default options for technology choices via 
+<a href="https://engineering.atspotify.com/2020/08/how-we-use-golden-paths-to-solve-fragmentation-in-our-software-ecosystem/"><strong>golden paths</strong></a></li>
+  <li><strong>Highlighting</strong> bad quality software on a <a href="analytics">Architectural Analytics</a> dashboard to create subtle pressure for people to improve it,</li>
+  <li>Tracking of <strong>tech debt</strong> to create awareness about its size and lead action to reduce it,</li>
+  <li><strong>Visualizing cost trends</strong> of cloud services per team to stimulate teams to improve the performance efficiency of their software.</li>
+</ul>
+
+<p>Nudges can frequently lead to better alignment and more harmonization without the negative consequences of mandates, bans, or taxation.</p>
+
+<p>Grounded Architecture is well aligned with ideas of nudging. I designed many <a href="analytics">Architectural Analytics</a> tools to <strong>highlight areas and issues</strong> we wanted (nudged) people to improve. The <a href="people">Collaborative Networks</a> can create mechanisms for sharing experiences, promoting <strong>positive examples</strong>, and capturing lessons learned to help people make better, more informed decisions. In the <a href="operating-model">Operating Model</a>, I use the operating model that stimulates people to make decisions autonomously but <strong>nudges them to stay well-aligned</strong> and connected to the organizational strategic direction.</p>
+
+<p><br /></p>
+<h2 id="taxation-economic-incentives">Taxation (Economic Incentives)</h2>
+
+<p>Governing with taxes is a strategic approach where individuals or departments are not prohibited from making choices or decisions. Instead, they are required to “pay” some form of tax on the resources they use. This system creates a feedback loop that encourages responsible resource consumption and helps optimize overall system efficiency. One practical application of this approach is in managing the costs of public cloud usage within an organization. By cross-charging these costs across various departments or projects, each unit receives a clear signal about their resource consumption. This not only helps in allocating costs accurately but also promotes awareness and encourages efforts to minimize unnecessary usage, effectively preventing the “tragedy of the commons,” where unrestricted access to shared resources can lead to overconsumption and depletion.</p>
+
+<div class="quote">
+Governing with taxes is a form of guiding in which people are not forbidden to make some decisions but need to "pay" some form of taxes on used resources.
+</div>
+
+<p><br />
+<img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/credit-squeeze-g61ddead85_1920.png" /></p>
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by <a href="https://pixabay.com/users/stevepb-282134/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=522549">Steve Buissinne</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=522549">Pixabay</a>
+</div>
+
+<p>Compared to nudging, which influences behavior subtly by providing information or setting default choices without imposing direct consequences, taxes introduce tangible consequences. For example, projects that exceed budgeted IT costs due to excessive resource consumption might be canceled. The role of an architecture practice in this form of governance is crucial. It involves ensuring that taxation policies are based on accurate and comprehensive data, using public cloud cost reports and other relevant information to inform tax rates and policies. Transparency is essential, allowing all stakeholders to understand how and why taxes are levied and providing clear insights and reports detailing the basis of taxation and its impact on resource consumption.</p>
+
+<p>Developing efficient feedback loops is another critical aspect, providing timely and actionable feedback on critical metrics related to taxes and continually refining and optimizing the taxation system. <a href="analytics">Architectural Analytics</a> plays a key role in this approach by aggregating and analyzing all data related to resource consumption and taxation, generating insights from public cloud cost reports, and guiding decision-making. Collaborative Networks ensures alignment of organizational processes, goals, and working methods with the taxation syst<a href="2022-06-03-skills.markdown">2022-06-03-skills.markdown</a>em, fostering a culture of responsible resource usage and continuous improvement.</p>
+
+<p>In conclusion, governing with taxes is a robust approach to resource management that balances autonomy with accountability. By implementing a data-driven and transparent taxation system, organizations can optimize resource usage, prevent overconsumption, and drive meaningful change. An an architecture practice, supported by strong Architectural Analytics and Collaborative Networks, is essential in achieving these goals and ensuring the sustainability of shared resources.</p>
+
+<p><br /></p>
+<h2 id="mandates-and-bans">Mandates and Bans</h2>
+
+<p>Governing with mandates and bans involves guiding people by explicitly defining what they should or should not do. In various workplaces, such mandates and bans have played a limited yet important role in defining the broader strategic boundaries of choices available to people. For instance, restricting the use of public cloud providers to specific vendors or adhering to strict privacy and security procedures needs to be explicitly defined and controlled.</p>
+
+<p>Using bans with care and as a last resort is essential to avoid unnecessary blocking or slowing down development and innovation. However, mandates and bans can help clarify critical topics where nudging or taxation would not be sufficient. For example, having clear rules and control mechanisms to avoid breaking privacy or financial laws can prevent unnecessary incidents and damage. Explicitly defined mandates and bans can ensure compliance with important regulations and safeguard the organization’s integrity and reputation.</p>
+
+<div class="quote">
+By governing with mandates and bans, I mean guiding people by explicitly defining what they should or should not do.
+</div>
+<p><br /></p>
+
+<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/ethics-g277df4183_1920.jpg" /></p>
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by <a href="https://pixabay.com/users/tumisu-148124/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2991600">Tumisu</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2991600">Pixabay</a>
+</div>
+
+<p>The role of architecture in this form of governance should be to act as <strong>a stakeholder but not the sole owner in defining mandates and bans</strong>. These mandates and bans should often be determined collaboratively with other functions, such as security and legal departments. The an architecture practice can contribute by <strong>creating clarity and providing transparency</strong>.</p>
+
+<p><a href="analytics">Architectural Analytics</a> is crucial for creating <strong>clarity and transparency</strong>. For example, it can provide insights through security reports or maps of areas in the source code or infrastructure that need monitoring and controlling based on privacy or security requirements. This foundation helps in identifying and mitigating risks, ensuring that the organization’s technology landscape aligns with its governance frameworks.</p>
+
+<p>The <a href="people">Collaborative Networks</a> can help propagate the decision and ensure its <strong>positive impact and acceptance</strong>. Mandates and bans should not be issued routinely without sufficient explanation. It is crucial to spend time with all stakeholders to explain the <strong>reasons and motivations</strong> behind introducing certain limitations. A strong Collaborative Networks fosters strong connections with key stakeholders, leveraging these relationships to implement changes smoothly. This foundation ensures that governance measures are understood, accepted, and integrated into the organization’s culture and practices, enhancing overall effectiveness.</p>
+
+<p>In summary, governing with mandates and bans involves setting clear, explicit guidelines for acceptable behavior and practices. It requires a balanced approach to ensure it does not stifle innovation while maintaining necessary controls. Effective implementation relies on collaboration, transparency, and communication to ensure that all stakeholders understand and accept the governance measures.</p>
+
+<p><br /></p>
+<h2 id="questions-to-consider">Questions to Consider</h2>
+
+<ul>
+  <li><em>What are the key components of the governance model in your organization, and how do mandates, taxes, and nudging influence them?</em></li>
+  <li><em>How does your organization currently handle mandates and bans? Are they explicit and aligned with the overall technology strategy?</em></li>
+  <li><em>How effective is the enforcement of these mandates and bans in your organization? Could improvements be made to create clarity and provide transparency?</em></li>
+  <li><em>How does your organization approach taxation as a form of governance? Is it transparent, data-driven, and efficient?</em></li>
+  <li><em>Can you identify any examples of ‘nudging’ in your current architectural environment? How effective are these subtle suggestions in influencing behavior or decision-making?</em></li>
+  <li><em>How does your organization promote best practices and align around them? Are there any ‘golden paths’ for technology choices?</em></li>
+  <li><em>How are your organization’s tech debt and the cost trends of cloud services tracked and visualized? Do these methods create enough awareness to stimulate improvement?</em></li>
+  <li><em>How could you better utilize nudging to improve organizational decision-making? What biases or barriers to effective decision-making could you target with this approach?</em></li>
+</ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[Architecture practice should support governance models that are adaptable to organizations' complex and diverse needs. I see a technology governance model as a well-balanced hybrid of three different styles of governing: nudging, taxes, and mandates and bans.]]></summary></entry><entry><title type="html">Transforming Organizations with Grounded Architecture</title><link href="http://localhost:4000/transformation" rel="alternate" type="text/html" title="Transforming Organizations with Grounded Architecture" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/value</id><content type="html" xml:base="http://localhost:4000/transformation"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/istock/iStock-1893527682.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/gremlin">gremlin</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
@@ -1786,114 +1957,4 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Rawpi
   <li><em>Reflecting on the value of the “Architectural Analytics” concept, how effectively is your organization tracking changes or supporting what-if scenarios analysis?</em></li>
   <li><em>What role do most senior architects play in your organization? Could their time be better utilized on strategic initiatives?</em></li>
   <li><em>How sustainable is an architecture practice in your organization in the absence of a strong central team? Could implementing a Architectural Analytics and well-connected architects help mitigate this?</em></li>
-</ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[When the Grounded Architecture Framework is in place, it can significantly impact an organization's functioning: Executing At Scale, Adaptivity, Improving the Quality of Decision-Making with Data, and Maximizing Organizational Alignment & Learning.]]></summary></entry><entry><title type="html">On Being Architect: Introduction</title><link href="http://localhost:4000/being-architect" rel="alternate" type="text/html" title="On Being Architect: Introduction" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/being-architect</id><content type="html" xml:base="http://localhost:4000/being-architect"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/istock/iStock-1194454929.jpg" /></p>
-<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/AzmanL">AzmanL</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
-</div>
-<style>
- .quote {
-     border-left: 8px solid #d9ead3;
-     padding-left: 36px;
-     margin-top: 30px;
-     margin-bottom: 40px;
-     font-size: 140%;
-     font-style: normal;
-     color:#888;
- }
-    @media only screen and (max-width: 768px) {
-        [class="quote"] {
-            display: none;
-        }
-    }
-</style>
-
-<blockquote>
-  <p><strong>IN THIS SECTION, YOU WILL:</strong>  Get an overview of lessons I learned on what it means to be an architect in practice.</p>
-</blockquote>
-
-<p><br /></p>
-
-<p>With this section, we start the second part of our book, which unveils a wealth of practical ideas and inspiration to help you bring the Grounded Architecture framework we outlined in the first part to life. This part of the book will equip you with <strong>valuable tips and insights</strong> for running an IT architecture practice (Figure 1). In complex organizations, you cannot just copy and paste other companies’ approaches. Instead of having a rigid structured framework, having a toolbox of inspirational resources is more practical for implementing a successful architectural practice.</p>
-
-<p><img src="assets/images/model-inspirations.png" alt="" />
-<em><strong>Figure 1:</strong>  Grounded Architecture Overview: Ideas and Inspirations.</em></p>
-
-<p>We begin this second part with several resources about what it means to be an architect. The role of an architect in the IT industry is like a <strong>Swiss Army knife</strong>—multifaceted and indispensable. It requires blending technical expertise, strategic thinking, and interpersonal skills to drive successful outcomes in complex organizational environments. In this part of the book, I offer a deep dive into various perspectives on my view on what it means to be an architect in practice, providing a holistic understanding of the responsibilities and expectations associated with this role.</p>
-
-<p>By examining these perspectives, I hope you will uncover some of the architects’ essential qualities and responsibilities. My exploration highlights the importance of a <strong>well-rounded skill</strong> set and a strategic approach, showing that being an architect is more than just wearing stylish glasses and nodding thoughtfully in meetings. Whether you’re an aspiring architect or a seasoned pro, I hope these insights can provide valuable guidance on navigating and excelling in this dynamic and evolving field.</p>
-
-<p><br /></p>
-
-<h2 id="growing-as-an-architect">Growing As An Architect</h2>
-
-<p>Borrowing from Gregor Hohpe’s view on architect development from his book <em>Software Architecture Elevator</em>, I share the view that our architects should stand on three legs:</p>
-
-<ul>
-  <li>Skills</li>
-  <li>Impact</li>
-  <li>Leadership</li>
-</ul>
-
-<p>Architects must have a <strong>minimal “length”</strong> of all of these “legs” to be successful (Figure 2). For instance, having skills and impact without leadership frequently leads to <strong>hitting a glass ceiling</strong>. Such architects plateau at an intermediate level and cannot direct the company to innovative or transformative solutions. Leadership without impact lacks foundation and may signal that you have become an <strong>ivory tower architect</strong> with a weak relation to reality. And having impact and leadership qualities but no skills leads to <strong>impractical decisions</strong> not informed by in-depth knowledge.</p>
-
-<p><img src="assets/images/arch/architect-legs.png" alt="" />
-<em><strong>Figure 2:</strong> Architects must have a minimal “length” of all “legs” to be successful.</em></p>
-
-<h3 id="skills">Skills</h3>
-
-<p>Architects must have a solid skill set, possessing both knowledge and the ability to apply relevant knowledge in practice. These skills should include technical (e.g., cloud architecture or Kubernetes technology) as well as communication and influence skills.</p>
-
-<p>A typical skillset of an architect includes:</p>
-<ul>
-  <li><strong>Hard (technical) skills</strong>: including extensive knowledge of both new technology and legacy technology stacks,</li>
-  <li><strong>Soft skills</strong>: like the ability to calm a panicking developer or decode the cryptic language of a business executive,</li>
-  <li><strong>Product development knowledge</strong>: knowing what makes a product tick,</li>
-  <li><strong>Business domain knowledge</strong>: understanding those endless spreadsheets,</li>
-  <li><strong>Decision-making skills</strong>: choosing the right path, even when all options look doomed.</li>
-</ul>
-
-<p>The section <a href="skills">Skills</a> provides more details.</p>
-
-<h3 id="impact">Impact</h3>
-
-<p>Impact should be measured as a benefit for the business. Architects need to ensure that what they are doing profits the business. Architects that do not make an impact do not have a place in a for-profit business.</p>
-
-<p>Examples of such impact may include:</p>
-<ul>
-  <li><strong>Aligning</strong> business, product, technology, and organizational strategies,</li>
-  <li><strong>Process</strong> optimizations and improvements with real, measurable impact on the work of an organization,</li>
-  <li><strong>Cost</strong> optimizations of systems based on data-informed decisions,</li>
-  <li>Developing pragmatic <strong>technology strategies</strong>, helping businesses reach goals sustainably,</li>
-  <li>Driving <strong>delivery of products</strong>, supporting teams to increase quality and speed of delivery,</li>
-  <li>Supporting <strong>business innovation</strong>, bringing new pragmatic ideas aligned with business strategy and goals.</li>
-</ul>
-
-<p>The section <a href="impact">Impact</a> provides more details.</p>
-
-<h3 id="leadership">Leadership</h3>
-
-<p>Leadership acknowledges that experienced architects should do more than make architecture:</p>
-<ul>
-  <li>They are a <strong>role model for others</strong> in the company on both the <strong>technical</strong> and <strong>cultural</strong> front.</li>
-  <li>Their <strong>technical influence</strong> may extend <strong>beyond your organization</strong> and reach the industry at large.</li>
-  <li>They <strong>lead efforts</strong> that <strong>solve important problems</strong>.</li>
-  <li>They may <strong>contribute to the broader technical community</strong> through <strong>tech talks</strong>, <strong>education</strong>, <strong>publications</strong>, <strong>open-source projects</strong>, etc.</li>
-  <li>They <strong>raise the bar of the engineering culture</strong> across the organization.</li>
-</ul>
-
-<p>I also support Gregor Hohpe’s view that <strong>mentoring other architects</strong> is one of the most crucial aspects of senior architects’ leadership. Feedback cycles in (software) architecture are inherently slow. Mentoring can save new architects many years of learning by doing and making mistakes.</p>
-
-<p>The section <a href="leadership">Leadership</a> provides more details.</p>
-
-<h3 id="architects-career-paths">Architects’ Career Paths</h3>
-
-<p>The ideal career path for architects is rooted in a strong engineering background. This foundation provides the technical proficiency necessary for advanced architectural roles.</p>
-
-<p>The section <a href="career-paths">Architects’ Career Paths</a> provides more details.</p>
-
-<p><br /></p>
-<h2 id="thinking-like-an-architect-architects-as-superglue">Thinking Like an Architect: Architects as Superglue</h2>
-
-<p>In IT organizations, architects are the essential connectors, often referred to as “superglue.” Their primary function is integrating different aspects of the organization—architecture, technical details, business requirements, and team dynamics—ensuring that everything works together seamlessly. This role is vital in large organizations and complex projects where cohesion and coordination are paramount to success.</p>
-
-<p>The section <a href="superglue">Thinking Like an Architect: Architects as Superglue</a> provides more details.</p>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[I introduce guiding principles that generalize my view on what it means to be an architect in practice.]]></summary></entry></feed>
+</ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[When the Grounded Architecture Framework is in place, it can significantly impact an organization's functioning: Executing At Scale, Adaptivity, Improving the Quality of Decision-Making with Data, and Maximizing Organizational Alignment & Learning.]]></summary></entry></feed>

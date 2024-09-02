@@ -56,9 +56,11 @@ In this chapter, I explore how Grounded Architecture and Six Simple Rules are be
 
 
 <br>
-## Limitations of Hard and Soft Management
+## Background: Hard and Soft Management
 
 One of the Six Simple Rules' central premises is that **conventional management approaches**, which the authors split into hard and soft, are neither sufficient nor appropriate for the complexity of organizations nowadays.  
+
+### Hard Approach
 
 The **hard approach** rests on two fundamental assumptions:
  * The first is the belief that **structures, processes, and systems** have a direct and predictable effect on performance, and as long as managers pick the right ones, they will get the performance they want. 
@@ -66,15 +68,28 @@ The **hard approach** rests on two fundamental assumptions:
  
  When the company needs to meet new performance requirements, the **hard response** is to **add new structures, processes, and systems** to help satisfy those requirements. Hence, introducing the innovation czar, the risk management team, the compliance unit, the customer-centricity leader, and the cohort of coordinators and interfaces have become so common in companies.
 
+In my experience, IT architecture support  in organizations following a hard management approach has the following characteristics:
+* **Heavy Reliance on Tools:** The architecture would focus on tools, automation, and workflows that **enforce compliance,** standardization, and control. There might be a strong reliance on enterprise resource planning (ERP) systems, centralized data warehouses, and other structured tools that enable **strict adherence** to predefined processes.
+* **Security and Compliance:** There would be a significant emphasis on **compliance frameworks,** security protocols, and risk management systems. These systems would be designed to ensure that all actions are traceable, compliant with regulations, and aligned with the company’s **predefined rules and processes.**
+* **Bureaucratic Systems:** The architecture might include multiple **layers of control** and coordination units, such as a risk management system, compliance databases, and innovation management software. Each of these units would be designed to enforce specific aspects of the organization’s performance objectives.
+
+### Soft Approach
+
 On the other end, we have a soft management approach. According to the **soft approach**, an organization is a set of **interpersonal relationships and the sentiments** that govern them. 
 * **Good performance is the by-product of good interpersonal relationships**. Personal traits, psychological needs, and mindsets predetermine people's actions. 
 * To change behavior at work, you need to **change the mindset (or change the people)**. 
 
+In my experience, IT architecture support in organizations following a soft management approach has the following characteristics:
+* **Employee Empowerment:** Systems would likely be designed to empower employees by providing the tools they need to **succeed independently,** such as access to real-time data, **self-service** analytics, and systems that encourage innovation and creativity.
+* **Employee-Centric:** The architecture would focus on tools facilitating communication and **knowledge sharing.** These tools might include **collaboration platforms,** social intranets, and user-friendly interfaces that enable employees to interact more effectively.
+* **Personalization:** Systems might be more personalized, offering **customization options** that align with individual preferences and needs. This personalization could include customizable dashboards and personalized workspaces.
+
+### Limitations of Hard and Soft Management
 Both approaches are limited in today's world and are harmful to cooperation. A **hard approach introduces complicated mechanisms**, compliance, and "checking the box" behaviors instead of the engagement and initiative to make things work. The **soft approach's emphasis on good interpersonal feelings creates cooperation obstacles** as people want to maintain good feelings.
 
 
 <br>
-## Six Simple Rules Overview 
+## Collaboration Approach: Six Simple Rules Overview 
 
 The Six Simple Rules approach covers two areas: **autonomy** and **cooperation**. The Six Simple Rules' authors emphasize the difference between Autonomy and Self-Sufficiency. **Autonomy** is about fully mobilizing our intelligence and energy to **influence outcomes**, including those **we do not entirely control**. **Self-sufficiency** is about **limiting our efforts** only to those **outcomes that we control entirely without depending on others**. Autonomy is essential for coping with complexity; **self-sufficiency is an obstacle** because it **hinders the cooperation** needed to make autonomy effective.  
 

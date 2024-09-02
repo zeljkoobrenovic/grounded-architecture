@@ -1,7 +1,7 @@
 ---
 layout: post
 section: "Grounded Architecture Framework"
-title: "General Operating Model"
+title: "Operating Model: General Principles"
 position: 3006
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)

@@ -97,7 +97,7 @@ And let's not forget when business objectives are as aligned as a roundabout dur
 
 The main problem with the tension between technology, product, organization, and business functions is that it can significantly impede progress. **Miscommunication** or **misalignments** can turn simple tasks into bureaucratic nightmares. Furthermore, these issues can introduce overwhelming and unnecessary complexity, causing missed opportunities.
 
-### Superglue Impact in Reducing Tensions
+### Superglue Role in Reducing Tensions
 
 Superglue architects should be able to navigate the wild complexities of modern organizations. They should facilitate that the various architectures—business, product, technology, or organizational design—don't just coexist but thrive together. Architects' **holistic approach** not only reduces tension and misalignment but reassures the organization's smooth operation, like butter on hot toast.
 
@@ -120,7 +120,7 @@ Architects must **actively engage** with all stakeholders, **translating technic
 Ironically, the more successful superglue architects are in their role, the less visible their needs become. But fear not—this doesn't make architecture redundant; it evolves the practice to be the invisible hand that keeps everything running smoothly, embedded in the daily operations of the organization.
 
 <br>
-## Supergluing In Action #2: Resolving Disagreements About Problem, Solution and Implementation Approach
+## Supergluing In Action #2: Resolving Disagreements About Problem, Solution and Implementation
 
 The [Theory of Constraints (TOC)](https://en.wikipedia.org/wiki/Thinking_processes_(theory_of_constraints)), developed by Eliyahu M. Goldratt, is another source of inspiration I used to work as a superglue architect. TOC is a management philosophy focusing on identifying and addressing the most critical bottleneck (constraint) to improve overall performance. While Goldratt's work is much broader, the part I find inspiring is his view on resistance to change, which he sees as manifesting in three forms: disagreement about the problem, disagreement on the solution, and disagreement on the implementation (Figure 4). 
 
@@ -170,7 +170,7 @@ Consider a scenario where an IT department is trying to improve the security of 
 
 Some team members might be focused on external threats, while others are more concerned about internal data breaches. Because they are not aligned on the problem, their discussion about the solution is confused. One group pushes for a solution that addresses external threats, while another advocates for measures that protect against internal risks. Without recognizing this misalignment, the team risks implementing a solution that only partially addresses the organization's security needs.
 
-### Superglue Impact in Resolving Disagreements
+### Superglue Role in Resolving Disagreements
 
 As connective tissue, the superglue architect can help resolve disagreements with effective communication, clear documentation, and a collaborative approach to the problem:
 
@@ -208,7 +208,12 @@ Misalignment between these elements can introduce several **key risks,** which s
 
 - **Creating Fragile, Unsustainable Team Structures:** Relying on a small number of developers for critical technologies can make teams extremely vulnerable. Building resilient team structures with adequate support and redundancy is essential.
 
-While architects stay close to the technology, they must ensure it works for the business and customers, not the other way around. By keeping everyone in the loop and aligned, architects help clear the many pitfalls of misalignment and keep the organizational machine running smoothly. Their role is to facilitate communication, ensure alignment, and guide the organization toward cohesive and practical solutions, preventing the myriad risks associated with misalignment.
+![](assets/images/istock/iStock-483590421.jpg)
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/mbbirdy">mbbirdy</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
+</div>
+
+While architects stay close to the technology, they must ensure it works for the business and customers, not the other way around. By keeping everyone **in the loop and aligned,** architects help clear the many pitfalls of misalignment and keep the organizational machine running smoothly. Their role is to facilitate communication, ensure alignment, and guide the organization toward cohesive and practical solutions, preventing the myriad risks associated with misalignment.
 
 <br>
 ## To Probe Further

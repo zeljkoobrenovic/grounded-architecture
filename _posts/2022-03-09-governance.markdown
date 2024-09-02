@@ -1,8 +1,8 @@
 ---
 layout: post
-section: "On Execution and Governance"
-title: "IT Governance: Nudge, Taxation, Mandates"
-position: 9024
+section: "Grounded Architecture Framework"
+title: "Operating Model: Nudge, Taxation, Mandates"
+position: 3009
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 icon: govern.png
