@@ -1,8 +1,8 @@
 
 
-# Operating Model {#operating-model}
+# Operating Model: General Principles {#operating-model}
 
-![image by anja from pixabay](assets/images/arch/parliament-366199_1920.jpg)
+![image by ma_rish from istock](assets/images/istock/iStock-1126482102.jpg)
 
 **IN THIS SECTION, YOU WILL:**  Understand what activities you can do as a part of an architecture practice and get tips on creating pragmatic operating models for an architecture practice.
 
@@ -127,7 +127,7 @@ Golden Paths can be crucial to an organization's IT development landscape as a d
 
 One of the amusing challenges with setting up an architecture practice in an organization is that everyone seems to have a different idea of what "architecture" should entail. It's like asking people to describe a unicorn: some imagine a mythical, majestic creature, while others picture a sparkly horse with a horn that grants wishes. Good architects can do many things, but this versatility might not always be the most effective way to support the organization. We need to **set boundaries** so that we can focus on what's important rather than becoming frazzled by what's not.
 
-![image by ingenui from istock](assets/images/iStock-92285726.jpg)
+![image by ingenui from istock](assets/images/istock/iStock-92285726.jpg)
 
 To be effective, I've found it crucial to establish and clearly communicate some "**rules of engagement**" (ROE). Think of ROE as the office playbook for how architects should operate. In a corporate setting, ROE are the principles that guide how employees and departments interact with each other, clients, and stakeholders. This includes communication protocols, decision-making processes, and conflict-resolution mechanisms. Essentially, ROE sets the stage for what's expected and what's not, ensuring everyone plays nicely and fairly.
 
@@ -153,8 +153,9 @@ So, set those expectations, establish your rules of engagement, and watch as you
 
 ## To Probe Further
 
-* [Scaling the Practice of Architecture, Conversationally](https://martinfowler.com/articles/scaling-architecture-conversationally.html) by Andrew Harmel-Law, December 2021
-* [Scaling Engineering Teams via RFCs: Writing Things Down](https://blog.pragmaticengineer.com/scaling-engineering-teams-via-writing-things-down-rfcs/) by Gergely Orosz, September 2022
+* [Scaling the Practice of Architecture, Conversationally](https://martinfowler.com/articles/scaling-architecture-conversationally.html), by Andrew Harmel-Law, 2021
+* [Scaling Engineering Teams via RFCs: Writing Things Down](https://blog.pragmaticengineer.com/scaling-engineering-teams-via-writing-things-down-rfcs/), by Gergely Orosz, 2022
+* [Transformation Agents: An Engagement Model](https://architectelevator.com/transformation/transformation-engagement-model/), by Gregor Hohpe, 2022
 
 ## Questions to Consider
 

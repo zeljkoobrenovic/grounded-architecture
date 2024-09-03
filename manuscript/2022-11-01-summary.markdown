@@ -2,8 +2,7 @@
 
 # Summary {#summary}
 
-![](assets/images/iStock-496666941.jpg)
-^image by ruhey from istock^
+![image by ruhey from istock](assets/images/istock/iStock-496666941.jpg)
 
 **IN THIS SECTION, YOU WILL:** Look back at the content in this book.
 
@@ -25,35 +24,31 @@ The Grounded Architecture framework consists of three elements:
 * [Collaborative Networks](#people),
 * [Operating Model](#operating-model).
 
-![](assets/images/model.png)
-***Figure 1:** Grounded Architecture Overview.*
+![Figure 1: Grounded Architecture Overview.](assets/images/model.png)
 
 *[Architectural Analytics](#analytics)* ensures that architects can make data-informed decisions based on a real-time and complete overview of the organization's technology landscape.
 
 *[Collaborative Networks](#people)* is another essential element of Grounded Architecture. A strong network of people doing architecture across the organization is crucial to ensure that an architecture practice has any tangible impact.
 
-Lastly, the *[Operating Model](#operating-model)*  defines a set of processes and agreements enabling architects to do everything architecture typically does, leveraging Architectural Analytics and Collaborative Networks to create a data-informed, organization-wide impact.
+Lastly, the sections *[Operating Model: General Principles](#operating-model)*, *[Cooperation-Based Operating Model](#six-simple-rules)*, and *[IT Governance: Nudge, Taxation, Mandates](#governance)* define a collection of processes and agreements that lets architects do their thing, leveraging data and people connections to create a powerful, organization-wide impact.
 
 As a part of my work on Grounded Architecture, I also provided several guiding principles and tools that I found helpful to introduce the ideas of Grounded Architecture in practice. I grouped these resources into several parts:
 
 * [**On Being an Architect**](#being-architect):
-  * [Mindset: Architects as Superglue](#superglue)
   * [Building Skills](#skills)
   * [Making Impact](#impact)
-  * [Architects' Career Paths](#career)
-* [**On Soft Skills**](#soft-skills):
-  * [The Culture Map: Architects' Culture Mindfield Compass](#culture-map)
   * [Leadership](#leadership)
-* [**On Decision-Making**](#decision-making):
-  * [Decision Intelligence in IT Architecture](#decision-intelligence)
+  * [Thinking Like an Architect: Architects as Superglue](#superglue)
+  * [Architects' Career Paths](career-paths)
+* [**On Human Complexity**](human-complexity):
+  * [The Culture Map: Architects' Culture Compass](#culture-map)
   * [The Human Side of Decision-Making](#human-decisions)
-  * [Economic Modeling: ROI and Financial Options](#economics)
-* [**On Human Complexity**](#complexity):
   * [Effortless Architecture](#effortless)
-  * [Six Simple Rules](#six-simple-rules)
-* [**On Execution and Governance**](#complexity):
+* [**On Execution and Governance**](#execution):
   * [Product-Led Organizations](#product) 
   * [Governance: Nudge, Taxation, Mandates](#governance)
+  * [Decision Intelligence in IT Architecture](#decision-intelligence)
+  * [Economic Modeling: ROI and Financial Options](#economics)
 
 When Grounded Architecture is in place, it can have a significant [positive impact](#impact) on the functioning of an organization:
 
