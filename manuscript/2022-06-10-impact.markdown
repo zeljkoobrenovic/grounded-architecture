@@ -2,7 +2,8 @@
 
 # Making Impact {#impact}
 
-![image by tuiphotoengineer from istock](assets/images/istock/iStock-980883274.jpg)
+![](assets/images/istock/iStock-980883274.jpg)
+^image by tuiphotoengineer from istock^
 
 **IN THIS SECTION, YOU WILL:**  Understand that architects’ work is evaluated based on their impact on the organization and get guidelines for making an impact.
 
@@ -14,7 +15,8 @@ A> * Architects can make an impact via three pillars: Big-Picture Thinking, Exec
 
 Architects' work is evaluated based on **their impact on the organization** (Figure 1). 
 
-![Figure 1: Impact is one of the three main elements of being an architect (skills, impact, leadership). Leadership without impact lacks foundation and may signal that you have become an ivory tower architect with a weak relation to reality.](assets/images/arch/architects_impact.png)
+![](assets/images/arch/architects_impact.png)
+***Figure 1:** Impact is one of the three main elements of being an architect (skills, impact, leadership). Leadership without impact lacks foundation and may signal that you have become an ivory tower architect with a weak relation to reality.*
 
 Architects' contributions are typically assessed through the following key areas:
 
@@ -34,7 +36,8 @@ I typically coach architects within the framework of concrete activities, focusi
 
 To develop a structured approach to teach architects how to make an impact, I draw inspiration from Staff Engineering roles. Tanya Reilly's book *[The Staff Engineer's Path](https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/)* and Will Larson's book *[Staff Engineer: Leadership beyond the management track](https://staffeng.com/guides/staff-archetypes/)* provide valuable insights into defining the responsibilities and expectations of architects.
 
-![Figure 2: Key competencies of architects. Inspired by The Staff Engineer's Path by Tanya Reilly.](assets/images/arch/pillars.png)
+![](assets/images/arch/pillars.png)
+***Figure 2:** Key competencies of architects. Inspired by The Staff Engineer's Path by Tanya Reilly.*
 
 Inspired by *The Staff Engineer's Path* by Tanya Reilly (Figure 2), I categorize the competencies that enable architects to make an impact into three groups:
 
@@ -50,7 +53,8 @@ By focusing on these three competency groups—big-picture thinking, execution, 
 
 Architects are often the only individuals within an organization who possess a **"helicopter view,"** allowing them to oversee vast domains and anticipate the broader consequences of decisions. 
 
-![image by guvendemir from istock](assets/images/istock/iStock-1145283550.jpg)
+![](assets/images/istock/iStock-1145283550.jpg)
+^image by guvendemir from istock^
 
 This unique perspective positions them as crucial big-picture thinkers who can contribute to the organization in several significant ways:
 
@@ -68,7 +72,8 @@ Architects play a pivotal role in organizations by leveraging their helicopter v
 
 As execution-focused practitioners, architects must not only deliver tangible results but also enhance collaboration across the organization. Their ability to combine technical expertise with **pragmatic approaches** and foster **effective teamwork** is crucial for achieving these goals. 
 
-![image by laylabird from istock](assets/images/istock/iStock-1887444236.jpg)
+![](assets/images/istock/iStock-1887444236.jpg)
+^image by laylabird from istock^
 
 Here’s how architects can excel in these areas:
 
@@ -98,7 +103,8 @@ As execution-focused practitioners, architects must blend their technical skills
 
 Architects are often seen as leaders and role models who can help organizations raise the bar on both technical and cultural fronts. 
 
-![image by sanjeri from istock](assets/images/istock/iStock-968924118.jpg)
+![](assets/images/istock/iStock-968924118.jpg)
+^image by sanjeri from istock^
 
 This role I categorize into three key areas: citizenship, design and architecture, and software engineering.
 

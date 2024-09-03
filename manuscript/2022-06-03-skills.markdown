@@ -2,7 +2,8 @@
 
 # Building Skills {#skills}
 
-![image by muchmania from istock](assets/images/istock/iStock-531552876.jpg)
+![](assets/images/istock/iStock-531552876.jpg)
+^image by muchmania from istock^
 
 **IN THIS SECTION, YOU WILL:**  Understand that architects' skills should include a mix of technical, communication, product development, and business skills, and get valuable pointers to resources for developing these skills.
 
@@ -18,7 +19,8 @@ A> * Decision-making skills ensure that architectural decisions are sound, susta
 
 Architects must possess a comprehensive skill set to manage the complexities of modern IT environments effectively (Figure 1). By skills, I mean not only having relevant knowledge but also the ability to apply that knowledge in practical situations. These skills encompass a blend of technical expertise, communication proficiency, and influence capabilities, ensuring architects can navigate technological challenges and organizational dynamics.
 
-![Figure 1: Skills are one of the three main elements of being an architect (skills, impact, leadership). Lack of skills leads to impractical decisions that are not informed by in-depth knowledge.](assets/images/arch/architects_skills.png)
+![](assets/images/arch/architects_skills.png)
+***Figure 1:** Skills are one of the three main elements of being an architect (skills, impact, leadership). Lack of skills leads to impractical decisions that are not informed by in-depth knowledge.*
 
 Core skills of architects include:
 
@@ -38,7 +40,8 @@ Core skills of architects include:
 
 Hard or technical skills are the abilities and knowledge needed for **designing, implementing, and maintaining** various aspects of an **organization's technology landscape**. 
 
-![image by rgstudio from istock](assets/images/istock/iStock-1060399342.jpg)
+![](assets/images/istock/iStock-1060399342.jpg)
+^image by rgstudio from istock^
 
 Some typical hard skills that architects need in their work include:
 
@@ -68,7 +71,8 @@ A>--Grady Booch
 
 Soft skills, often described as non-technical or interpersonal skills, are an integral part of social architecture, as they **enable individuals to navigate and contribute to these social systems** effectively. Social architecture refers to designing and managing social systems, interactions, and relationships within an organization or community. By developing and refining soft skills, individuals can more easily adapt to changes, collaborate with others, and foster a positive work environment. 
 
-![image by flamingoimages from istock](assets/images/istock/iStock-881068124.jpg)
+![](assets/images/istock/iStock-881068124.jpg)
+^image by flamingoimages from istock^
 
 Critical soft skills include:
 
@@ -88,7 +92,8 @@ The [Appendix](#appendix) provides some pointers for resources to build your sof
 
 Product development is creating and bringing new products or services to the market. It involves the entire journey from the conception of an idea to the product's final development, marketing, and distribution. Product development encompasses various activities and stages to transform an initial concept into a tangible and market-ready offering. Product-led companies understand that the **success of their products** is the primary **driver of growth and value** for their company. They prioritize, organize, and strategize around product success. 
 
-![image by tirachard from istock](assets/images/istock/iStock-1413642645.jpg)
+![](assets/images/istock/iStock-1413642645.jpg)
+^image by tirachard from istock^
 
 Some processes specific to product development include:
 
@@ -110,7 +115,8 @@ Understanding the product development process is not just beneficial, but essent
 
 Regardless of their technical or design expertise, architects must have **a solid understanding of business processes** to effectively contribute to an organization's success. 
 
-![image by azmanl from istock](assets/images/istock/iStock-1182436639.jpg)
+![](assets/images/istock/iStock-1182436639.jpg)
+^image by azmanl from istock^
 
 Essential business skills for architects include:
 
@@ -136,7 +142,8 @@ By mastering these business skills, architects can ensure that their technical s
 
 Architects' work always requires pragmatic decision-making. Decisions are the steering wheel of organizations, and architects who are not involved in key decisions will have a limited impact on the organization.
 
-![image by gorodenkoff from istock](assets/images/istock/iStock-1346156711.jpg)
+![](assets/images/istock/iStock-1346156711.jpg)
+^image by gorodenkoff from istock^
 
 Architects will have three roles concerning decision-making:
 1. **Be actual decision-makers**
@@ -169,7 +176,8 @@ Architects can enhance their ability to influence and drive organizational succe
 
 Architects must integrate these diverse skills into a cohesive approach to be truly effective. They must be lifelong learners, continuously updating their knowledge and adapting to new challenges. 
 
-![image by colorsandia from istock](assets/images/istock/iStock-1398894062.jpg)
+![](assets/images/istock/iStock-1398894062.jpg)
+^image by colorsandia from istock^
 
 Here's how these skills come together in practice:
 
