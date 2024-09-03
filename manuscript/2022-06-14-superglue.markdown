@@ -2,8 +2,7 @@
 
 # Thinking Like an Architect: Architects as Superglue {#superglue}
 
-![](assets/images/istock/iStock-185061908.jpg)
-^image by pagadesign from istock^
+![image by pagadesign from istock](assets/images/istock/iStock-185061908.jpg)
 
 **IN THIS SECTION, YOU WILL:**  Understand the view on architects as superglue (people who hold architecture, technical details, business needs, and people together across a large organization or complex projects) and get valuable tips on developing "superglue" abilities.
 
@@ -48,8 +47,7 @@ The primary value of superglue architects in complex organizations lies in their
 
 Technology, product, organization, and business functions face specific challenges and change at different rates. Ideally, these structures should **evolve simultaneously,** staying in perfect sync like a well-rehearsed dance troupe. However, reality often resembles a **poorly synchronized** flash mob, full of tension and missteps, as illustrated in Figure 2.
 
-![](assets/images/tension.png)
-***Figure 2:** The tensions between technology, product, organization, and business functions.*
+![Figure 2: The tensions between technology, product, organization, and business functions.](assets/images/tension.png)
 
 Imagine an organization where the teams are designed based on a well-defined domain model. Sounds great, right? Now, throw in a monolithic IT system that forces teams to collaborate in ways that resemble a traffic jam. The result? Chaos and inefficiency.
 
@@ -63,13 +61,11 @@ The main problem with the tension between technology, product, organization, and
 
 Superglue architects should be able to navigate the wild complexities of modern organizations. They should facilitate that the various architectures—business, product, technology, or organizational design—don't just coexist but thrive together. Architects' **holistic approach** not only reduces tension and misalignment but reassures the organization's smooth operation, like butter on hot toast.
 
-![](assets/images/tension-architecture.png)
-***Figure 3:** Architects should be in the middle of reducing tensions between technology, product, organization, and business functions.*
+![Figure 3: Architects should be in the middle of reducing tensions between technology, product, organization, and business functions.](assets/images/tension-architecture.png)
 
 Acting as superglue, the architects can effectively **reduce tensions** among technology, product, organization, and business functions. This act includes facilitating **critical conversations** between these units and ensuring alignment and cohesion. As depicted in Figure 3, the goal of architecture is not to add new constructs between these four elements, but to **bring them closer together.** By fostering closer relationships and better communication, architects can help these elements work in unison rather than at cross purposes.
 
-![](assets/images/istock/iStock-1465173464.jpg)
-^image by peopleimages from istock^
+![image by peopleimages from istock](assets/images/istock/iStock-1465173464.jpg)
 
 While staying close to technology (the engine room), architects must ensure that technology serves the needs of customers and the business and that technical architecture is well-aligned with organizational design. At the same time, architects can help ensure that business, product, and organizational designs are well-informed about the state, risks, and opportunities of an organization's technology to avoid creating impractical strategies, setting unrealistic goals, or missing opportunities.
 
@@ -81,13 +77,11 @@ Ironically, the more successful superglue architects are in their role, the less
 
 The [Theory of Constraints (TOC)](https://en.wikipedia.org/wiki/Thinking_processes_(theory_of_constraints)), developed by Eliyahu M. Goldratt, is another source of inspiration I used to work as a superglue architect. TOC is a management philosophy focusing on identifying and addressing the most critical bottleneck (constraint) to improve overall performance. While Goldratt's work is much broader, the part I find inspiring is his view on resistance to change, which he sees as manifesting in three forms: disagreement about the problem, disagreement on the solution, and disagreement on the implementation (Figure 4). 
 
-![](assets/images/toc_disagreements.png)
-***Figure 4:** Goldratt's view on resistance to change: disagreement about the problem, disagreement on the solution, and disagreement on the implementation.*
+![Figure 4: Goldratt's view on resistance to change: disagreement about the problem, disagreement on the solution, and disagreement on the implementation.](assets/images/toc_disagreements.png)
 
 This model is a useful guide to help people resolve disagreements. This model can also be useful in showing that many disagreements stem from people not realizing they are talking about different topics (e.g., trying to decide on low-level technology choices while there is no agreement on which problem they are solving). 
 
-![](assets/images/istock/iStock-1350217421.jpg)
-^image by peopleimages from istock^
+![image by peopleimages from istock](assets/images/istock/iStock-1350217421.jpg)
 
 ### Disagreement about the Problem (What to change?)
 
@@ -161,8 +155,7 @@ Misalignment between these elements can introduce several **key risks,** which s
 
 - **Creating Fragile, Unsustainable Team Structures:** Relying on a small number of developers for critical technologies can make teams extremely vulnerable. Building resilient team structures with adequate support and redundancy is essential.
 
-![](assets/images/istock/iStock-483590421.jpg)
-^image by mbbirdy from istock^
+![image by mbbirdy from istock](assets/images/istock/iStock-483590421.jpg)
 
 While architects stay close to the technology, they must ensure it works for the business and customers, not the other way around. By keeping everyone **in the loop and aligned,** architects help clear the many pitfalls of misalignment and keep the organizational machine running smoothly. Their role is to facilitate communication, ensure alignment, and guide the organization toward cohesive and practical solutions, preventing the myriad risks associated with misalignment.
 
