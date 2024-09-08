@@ -2,42 +2,49 @@
 
 # Building Skills {#skills}
 
-![image by muchmania from istock](assets/images/arch/iStock-531552876.jpg)
+![image by muchmania from istock](assets/images/istock/iStock-531552876.jpg)
 
 **IN THIS SECTION, YOU WILL:**  Understand that architects' skills should include a mix of technical, communication, product development, and business skills, and get valuable pointers to resources for developing these skills.
 
 {pagebreak}
 
 A> **KEY POINTS:**
-A> * A typical skillset of an architect includes hard (technical) skills, soft (people & social) skills, product development, business skills, and decision-making skills.
+A> * An architect's typical skillset includes hard (technical) skills, soft (people & social) skills, product development, business skills, and decision-making skills.
+A> * Hard (technical) skills are essential for designing, implementing, and maintaining an organization's technology landscape.
+A> * Soft skills are integral to social architecture, enabling individuals to navigate and contribute to these social systems effectively.
+* Product development knowledge is the bridge that helps architects align technical solutions with customer needs and business objectives.
+* Business domain knowledge is not just useful but essential for architects to create solutions that deliver real value.
+A> * Decision-making skills ensure that architectural decisions are sound, sustainable, and aligned with long-term strategic objectives.
 
-Architects must possess a comprehensive skill set to manage the complexities of modern IT environments effectively. By skills, I mean not only having relevant knowledge but also the ability to apply that knowledge in practical situations. These skills encompass a blend of technical expertise, communication proficiency, and influence capabilities, ensuring architects can navigate technological challenges and organizational dynamics.
+Architects must possess a comprehensive skill set to manage the complexities of modern IT environments effectively (Figure 1). By skills, I mean not only having relevant knowledge but also the ability to apply that knowledge in practical situations. These skills encompass a blend of technical expertise, communication proficiency, and influence capabilities, ensuring architects can navigate technological challenges and organizational dynamics.
+
+![Figure 1: Skills are one of the three main elements of being an architect (skills, impact, leadership). Lack of skills leads to impractical decisions that are not informed by in-depth knowledge.](assets/images/arch/architects_skills.png)
 
 Core skills of architects include:
 
-* **Technical Skills:** Architects need a robust foundation in new and legacy technology stacks. This foundation includes proficiency in cloud architecture, containerization technologies like Kubernetes, and a deep understanding of various programming languages and frameworks. Staying updated with emerging technologies and industry trends is essential for making informed decisions that align with organizational goals.
+* **Technical Skills:** Architects need a robust foundation in new and legacy technology stacks. This foundation includes proficiency in topics like cloud architecture, containerization technologies like Kubernetes, and a deep understanding of various programming languages and frameworks. Staying updated with emerging technologies and industry trends is essential for making informed decisions that align with organizational goals.
 
 * **Communication Skills:** Effective communication is crucial for architects. They must articulate complex technical concepts in a way that is understandable to non-technical stakeholders. These skills involve clear verbal and written communication, active listening, and the ability to tailor messages to different audiences. Strong communication skills help bridge the gap between technical teams and business units, fostering collaboration and mutual understanding.
 
 * **Influence Skills:** Architects often need to persuade and influence others, including stakeholders, developers, and executives. This requires negotiation skills, the ability to build consensus, and the credibility to advocate for necessary changes. Influence skills enable architects to drive strategic initiatives and ensure that architectural decisions are implemented effectively across the organization.
 
-* **Product Development Skills:** Understanding the product development lifecycle is vital for architects. This includes knowledge of agile methodologies, user experience design, and product management principles. Architects should be able to contribute to product strategy, ensuring that technical solutions align with customer needs and business objectives.
+* **Product Development Skills:** Architects must understand the product development lifecycle. This understanding should include knowledge of product development methodologies, user experience design, and product management principles. Architects should be able to contribute to product strategy, ensuring that technical solutions align with customer needs and business objectives.
 
-* **Business Domain Knowledge:** A deep understanding of the business domain is essential for architects to create solutions that deliver real value. This includes knowledge of industry-specific regulations, market trends, and competitive landscape. Business acumen helps architects align technical initiatives with business goals, driving growth and innovation.
+* **Business Domain Knowledge:** A deep understanding of the business domain is essential for architects to create solutions that deliver real value. This knowledge includes industry-specific regulations, market trends, and competitive landscape. Business acumen helps architects align technical initiatives with business goals, driving growth and innovation.
 
 * **Decision-Making Skills:** Architects are often required to make critical decisions that impact the entire organization. This involves assessing risks, evaluating trade-offs, and making informed choices based on data and experience. Strong decision-making skills ensure that architectural decisions are sound, sustainable, and aligned with long-term strategic objectives.
 
 ## Technical Skills
 
-Hard or technical skills are the abilities and knowledge needed to perform specific tasks in a professional setting. In technical architecture, these skills are essential for **designing, implementing, and maintaining** various aspects of an **organization's technology landscape**. 
+Hard or technical skills are the abilities and knowledge needed for **designing, implementing, and maintaining** various aspects of an **organization's technology landscape**. 
 
-![image by rgstudio from istock](assets/images/iStock-1060399342.jpg)
+![image by rgstudio from istock](assets/images/istock/iStock-1060399342.jpg)
 
 Some typical hard skills that architects need in their work include:
 
 * [**System design**](https://blog.pragmaticengineer.com/system-design-interview-an-insiders-guide-review/): This involves defining and developing a complex system's architecture. An architect with this skill set can create comprehensive system designs incorporating various components and sub-systems to achieve the desired functionality. System design skills ensure the architect can envision and structure systems effectively to meet organizational goals.
 
-* [**Engineering processes**](https://obren.io/tools/catalogs/?id=design-tactics-high-performing-technology-organizations): An in-depth understanding of engineering processes, including the software development life cycle, Agile development, DevOps, and continuous delivery, is crucial. Architects must ensure their design systems are developed efficiently and effectively, adhering to best practices and methodologies that enhance productivity and quality.
+* [**Engineering processes**](https://obren.io/tools/catalogs/?id=design-tactics-high-performing-technology-organizations): An in-depth understanding of engineering processes, including the software development life cycle, Agile development, DevOps, and continuous delivery, is crucial. Architects must ensure their systems are developed efficiently and effectively, adhering to best practices and methodologies that enhance software development productivity and quality.
 
 * **[Design patterns](https://obren.io/tools?tag=design_patterns) and [tactics](https://obren.io/tools?tag=design_tactics)**: Familiarity with design patterns and tactics such as Cloud Design Patterns, Model-View-Controller (MVC), Service-Oriented Architecture (SOA), and Microservices is essential. These patterns help architects design modular, scalable, and maintainable systems, providing solutions to common design problems and ensuring that the systems can evolve and adapt over time.
 
@@ -61,11 +68,11 @@ A>--Grady Booch
 
 Soft skills, often described as non-technical or interpersonal skills, are an integral part of social architecture, as they **enable individuals to navigate and contribute to these social systems** effectively. Social architecture refers to designing and managing social systems, interactions, and relationships within an organization or community. By developing and refining soft skills, individuals can more easily adapt to changes, collaborate with others, and foster a positive work environment. 
 
-![image by flamingoimages from istock](assets/images/iStock-881068124.jpg)
+![image by flamingoimages from istock](assets/images/istock/iStock-881068124.jpg)
 
-Critical soft skills related to social architecture include:
+Critical soft skills include:
 
-* [**Communication skills**](https://obren.io/tools?tag=consultancy), [written](https://obren.io/tools/sowhat/), [visual](https://obren.io/tools?tag=visuals), verbal (presentation), and listening skills: Effective communication involves expressing oneself clearly and understanding and empathizing with others. These skills are essential for building and maintaining relationships, as well as for conveying ideas and facilitating discussions. Written communication ensures clear and concise messages, visual communication enhances understanding through diagrams and presentations, verbal communication is critical in delivering impactful presentations, and active listening fosters understanding and collaboration.
+* [**Communication skills**](https://obren.io/tools?tag=consultancy), including [written](https://obren.io/tools/sowhat/), [visual](https://obren.io/tools?tag=visuals), verbal (presentation), and listening skills: Effective communication involves expressing oneself clearly and understanding and empathizing with others. These skills are essential for building and maintaining relationships, as well as for conveying ideas and facilitating discussions. Written communication ensures clear and concise messages, visual communication enhances understanding through diagrams and presentations, verbal communication is critical in delivering impactful presentations, and active listening fosters understanding and collaboration.
 
 * [**Networking and collaboration skills**](https://obren.io/tools?tag=leadership): Networking involves building and maintaining diverse professional connections. Collaboration skills encompass working effectively with others, regardless of their role or seniority. These skills include partnering with peers, junior and senior colleagues, managers, and executives to achieve common goals. Effective networking opens doors to new opportunities and resources, while strong collaboration skills ensure that team efforts are synergistic and productive.
 
@@ -75,13 +82,13 @@ Critical soft skills related to social architecture include:
 
 By developing these soft skills, individuals can significantly enhance their ability to function effectively within organizations. These skills foster environments where collaboration, efficiency, and innovation thrive, leading to personal success and contributing to the overall health and productivity of the organizations and communities they are a part of.
 
-The section [Soft Skills](#soft-skills) provides some pointers for resources to build your soft skills.
+The [Appendix](#appendix) provides some pointers for resources to build your soft skills.
 
 ## Product Development Skills
 
-Product development is creating and bringing new products or services to the market. It involves the entire journey from the conception of an idea to the product's final development, marketing, and distribution. Product development encompasses various activities and stages to transform an initial concept into a tangible and market-ready offering. Product-led companies understand that the success of their products is the primary **driver of growth and value for their company**. They prioritize, organize, and strategize around product success. 
+Product development is creating and bringing new products or services to the market. It involves the entire journey from the conception of an idea to the product's final development, marketing, and distribution. Product development encompasses various activities and stages to transform an initial concept into a tangible and market-ready offering. Product-led companies understand that the **success of their products** is the primary **driver of growth and value** for their company. They prioritize, organize, and strategize around product success. 
 
-![image by tirachard from istock](assets/images/iStock-1413642645.jpg)
+![image by tirachard from istock](assets/images/istock/iStock-1413642645.jpg)
 
 Some processes specific to product development include:
 
@@ -91,21 +98,19 @@ Some processes specific to product development include:
 
 * **Product Design and Development**: This phase involves turning the validated concept into a detailed product design. It includes creating prototypes, testing, and refining the product design based on feedback and performance metrics. Collaboration between design and engineering teams is crucial to ensure the product is functional, aesthetically pleasing, and manufacturable.
 
-* **Testing and Validation**: The product undergoes rigorous testing before full-scale production to ensure it meets quality standards and performs as expected. This stage includes usability testing, user performance testing, and sometimes beta testing with a limited audience. Feedback collected during this phase is used to make necessary adjustments and improvements.
-
-* **Production and Manufacturing**: Once the product design is finalized and validated, the focus shifts to production and manufacturing. This activity involves setting up manufacturing processes, ensuring quality control, and managing supply chains to produce the product at scale. Efficiency and cost-effectiveness are vital considerations during this phase.
+* **Testing and Validation**: The product undergoes rigorous testing to ensure it meets quality standards and performs as expected. This stage includes usability testing, user performance testing, and sometimes beta testing with a limited audience. Feedback collected during this phase is used to make necessary adjustments and improvements.
 
 * **Marketing and Launch**: Before launching the product, marketing strategies and plans are developed to create awareness, generate demand, and promote the product to the target market. The activities include branding, pricing, distribution, and marketing communication activities. A successful launch plan ensures the product reaches the intended audience effectively.
 
 * **Post-Launch Evaluation and Iteration**: After the product launch, it is important to monitor its performance in the market. This activity includes collecting customer feedback, analyzing sales data, and assessing overall market reception. Continuous improvement is essential; iterations based on this feedback help refine the product and address any issues.
 
-Understanding the product development process is not just beneficial, but essential for architects. It requires a multidisciplinary approach involving teams from various functions such as product management, design, engineering, and marketing. This understanding is crucial for architects, as it helps them align their technical designs with the overall product strategy, ensuring that the final product is not only technically sound but also meets market demands and customer expectations. The process aims to create innovative, desirable, and commercially viable products that meet customer needs and provide a competitive advantage in the market.
+Understanding the product development process is not just beneficial, but essential for architects. It requires a multidisciplinary approach involving teams from various functions such as product management, design, engineering, and marketing. This understanding is crucial for architects, as it helps them align their technical designs with the overall product strategy, ensuring that a product is not only technically sound but also meets market demands and customer expectations. The process aims to create innovative, desirable, and commercially viable products that meet customer needs and provide a competitive advantage in the market.
 
 ## Business Skills
 
 Regardless of their technical or design expertise, architects must have **a solid understanding of business processes** to effectively contribute to an organization's success. 
 
-![image by azmanl from istock](assets/images/iStock-1182436639.jpg)
+![image by azmanl from istock](assets/images/istock/iStock-1182436639.jpg)
 
 Essential business skills for architects include:
 
@@ -117,9 +122,9 @@ Essential business skills for architects include:
 
 * **Stakeholder Management**: Communication and relationship management with stakeholders is crucial. Architects must understand the interests and concerns of different stakeholders, including executives, managers, employees, and customers. This understanding helps gain buy-in for architectural decisions and ensure that the solutions meet stakeholder needs.
 
-* **Project Management**: Basic project management skills enable architects to oversee the implementation of their designs, ensuring projects are completed on time, within scope, and budget. Understanding project management methodologies such as Agile, Scrum, or Waterfall can help architects work effectively with project managers and development teams.
+* **Project Management**: Basic project management skills enable architects to oversee the implementation of their designs, ensuring projects are completed on time, within scope, and budget. Understanding project management methodologies can help architects work effectively with project managers and development teams.
 
-* **Financial Acumen**: Architects should understand basic financial principles, including budgeting, cost-benefit analysis, and return on investment (ROI). This knowledge helps them make cost-effective decisions and justify the financial viability of proposed solutions.
+* **Finance**: Architects should understand basic financial principles, including budgeting, cost-benefit analysis, return on investment (ROI), and "Earnings Before Interest, Taxes, Depreciation, and Amortization" (EBITDA). This knowledge helps them make cost-effective decisions and justify the financial viability of proposed solutions.
 
 * **Strategic Thinking**: Architects need to think strategically and understand how their work supports the organization's long-term goals. This thinking includes aligning technology initiatives with business strategy, identifying opportunities for innovation, and anticipating future business needs.
 
@@ -131,7 +136,7 @@ By mastering these business skills, architects can ensure that their technical s
 
 Architects' work always requires pragmatic decision-making. Decisions are the steering wheel of organizations, and architects who are not involved in key decisions will have a limited impact on the organization.
 
-![image by gorodenkoff from istock](assets/images/iStock-1346156711.jpg)
+![image by gorodenkoff from istock](assets/images/istock/iStock-1346156711.jpg)
 
 Architects will have three roles concerning decision-making:
 1. **Be actual decision-makers**
@@ -150,8 +155,6 @@ Essential decision-making skills include:
 
 * **Understand that there is no such thing as not making a decision**: Delaying or postponing a decision is a decision with its own set of consequences. Architects must know the implications of inaction and understand that deferring decisions can lead to missed opportunities, increased risks, and reduced organizational agility.
 
-* **Critical Thinking**: Architects must be able to analyze complex situations, identify underlying issues, and evaluate potential solutions. Critical thinking helps make logical, unbiased decisions based on facts and reasoned arguments.
-
 * **Risk Assessment**: Understanding and assessing risks is crucial for making informed decisions. Architects should evaluate potential risks associated with different options and develop strategies to mitigate these risks.
 
 * **Collaborative Decision-Making**: Involving relevant stakeholders in decision-making ensures that diverse perspectives are considered, leading to more robust and well-rounded decisions. Architects should facilitate collaboration and consensus-building among team members.
@@ -166,7 +169,7 @@ Architects can enhance their ability to influence and drive organizational succe
 
 Architects must integrate these diverse skills into a cohesive approach to be truly effective. They must be lifelong learners, continuously updating their knowledge and adapting to new challenges. 
 
-![image by colorsandia from istock](assets/images/iStock-1398894062.jpg)
+![image by colorsandia from istock](assets/images/istock/iStock-1398894062.jpg)
 
 Here's how these skills come together in practice:
 
@@ -179,7 +182,13 @@ Here's how these skills come together in practice:
 
 Architects can effectively manage the interplay between technology, business, and organizational dynamics by developing and honing these skills. This comprehensive skill set enhances their ability to design innovative solutions and ensures they can lead teams and influence stakeholders to achieve a cohesive and successful architectural vision.
 
- 
+## To Probe Further
+
+* [Appendix: Bookshelf](bookshelf)
+* [Old Books that Every Architect Should Read](https://architectelevator.com/architecture/classic-architecture-books/), by Gregor Hohpe, 2024
+* [Back from the engine room](https://architectelevator.com/transformation/debugging-architect/), by Gregor Hohpe, 2023
+* [Debugging Architects](https://architectelevator.com/architecture/engine-room/), by Gregor Hohpe, 2021
+
 ## Questions to Consider
 
 * *On a scale from 1 to 10, how would you rate your current architectural skill sets, considering technical, communication, product, business skills, and decision-making skills?*

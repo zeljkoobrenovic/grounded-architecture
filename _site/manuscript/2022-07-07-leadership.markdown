@@ -2,8 +2,7 @@
 
 # Leadership {#leadership}
 
-![](assets/images/iStock-1356210519.jpg)
-^image by niserin from istock^
+![image by niserin from istock](assets/images/iStock-1356210519.jpg)
 
 **IN THIS SECTION, YOU WILL:**  Understand how to apply ideas from David Marquet's work and Netflix's valued behaviors to develop architects' leadership traits.
 
@@ -26,15 +25,13 @@ The leader-leader model is an excellent standard for architects' leadership visi
 
 One of the key benefits of a leader-leader model is that it creates **a more collaborative and inclusive work environment**. It allows individuals to contribute their unique perspectives, experiences, and skills to the group, promoting ownership and accountability for the team's success. This model also **helps build trust and more robust team relationships**, increasing productivity, creativity, and innovation.
 
-![](assets/images/arch/iStock-1130373923.jpg)
-^image by motortion from istock^
+![image by motortion from istock](assets/images/arch/iStock-1130373923.jpg)
 
 David Marquet's book "Leadership is Language" provides practical advice for leaders looking to create a more collaborative, innovative, and inclusive organizational culture. He emphasizes the importance of language and communication in leadership and introduces **the phrase "I intend to"** as a powerful tool for clarifying intent and **empowering team members** (Figure 1). When team members give intent, the psychological ownership of those actions shifts to them, making them the originators of thought and direction instead of passive followers. This shift in language helps to promote a more collaborative work environment.
 
 I have found a phase "I intend to" to be a powerful catalyst for positioning architecture work. The phrase helps describe the work **architect as someone others expect to take the initiative and lead efforts**. But also to describe the desired interaction of architects with the teams they work with, where we hope teams share their intentions which architects can help improve.
 
-![](assets/images/arch/leader-leader.jpg)
-***Figure 1:** Leadership language. Based on Intent-Based Leadership, by David Marquet.*
+![Figure 1: Leadership language. Based on Intent-Based Leadership, by David Marquet.](assets/images/arch/leader-leader.jpg)
 
  
 ## Netflix's Valued Behaviors: Leadership Behaviors

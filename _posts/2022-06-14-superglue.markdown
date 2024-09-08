@@ -107,9 +107,9 @@ Superglue architects should be able to navigate the wild complexities of modern 
 Acting as superglue, the architects can effectively **reduce tensions** among technology, product, organization, and business functions. This act includes facilitating **critical conversations** between these units and ensuring alignment and cohesion. As depicted in Figure 3, the goal of architecture is not to add new constructs between these four elements, but to **bring them closer together.** By fostering closer relationships and better communication, architects can help these elements work in unison rather than at cross purposes.
 
 
-![](assets/images/istock/iStock-1465173464.jpg)
+![](assets/images/istock/iStock-881068124.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/PeopleImages">PeopleImages</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/FlamingoImages">FlamingoImages</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 
 
