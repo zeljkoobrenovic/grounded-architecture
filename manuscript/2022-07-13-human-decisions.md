@@ -2,7 +2,8 @@
 
 # The Human Side of Decision-Making {#human-decisions}
 
-![image by metamorworks from istock](assets/images/istock/iStock-1286627625.jpg)
+![](assets/images/istock/iStock-1286627625.jpg)
+^image by metamorworks from istock^
 
 **IN THIS SECTION, YOU WILL:**  Learn the basic human factors influencing decision-making.
 
@@ -23,7 +24,8 @@ Fundamental biases influencing decision-making include outcome, hindsight, and c
 
 The big trap in decision-making is falling into the **outcome bias** pit, where you **obsess over the results** rather than focusing on how you decided in the first place. Results matter, but if you trip over an unlucky result and think you picked the wrong option, you're learning to fail with flair. This faulty thinking could make you make even wackier choices in the future.
 
-![image by mesh cube from istock](assets/images/istock/iStock-1400056155.jpg)
+![](assets/images/istock/iStock-1400056155.jpg)
+^image by mesh cube from istock^
 
 A decision and its outcome are like two different TV show episodes. The outcome is just what happens after the decision's cliffhanger. You can make a totally solid decision and still end up with a plot twist no one saw coming. Outcomes are a cocktail mixed with decision-making, randomness, and a **splash of luck**. And luck, as we all know, is that elusive ingredient we can't control, often playing a starring role in our most complex dramas.
 
@@ -63,7 +65,8 @@ Think about what the decision-maker considered, how they played detective gather
 
 If you don't **write down this process,** it's like trying to remember a dream—you'll miss many details and be left only with a vague feeling. This makes it tough to judge the quality of your decisions or anyone else's, stalling your growth as a decision-making wizard. Write down your decision-making process. This helps you determine if luck was messing with you or if your skills were on point. 
 
-![image by designer491 from istock](assets/images/istock/iStock-1394993248.jpg)
+![](assets/images/istock/iStock-1394993248.jpg)
+^image by designer491 from istock^
 
 Hindsight bias in IT can lead to an **oversimplified understanding** of past events and decisions, creating an **illusion of predictability.** It is crucial to recognize the context and constraints under which decisions were made to learn accurately from past experiences and improve future practices.
 
@@ -107,7 +110,8 @@ Businesses are jumping on the data science bandwagon, hiring data scientists to 
 
 Confirmation bias is like your brain's way of playing a one-sided game of telephone with data. Even the most complex math won't save you if you still interpret results through your belief-tinted glasses. Extensive data analysis can be as helpful as a screen door on a submarine if it's warped by confirmation bias. The real challenge is resisting the urge to twist the story after seeing the data. So, watch for your brain's tricks and let the data speak for itself—or risk your analysis being as misleading as a carnival funhouse mirror.
 
-![image by designer491 from istock](assets/images/istock/iStock-1307396842.jpg)
+![](assets/images/istock/iStock-1307396842.jpg)
+^image by designer491 from istock^
 
 Beating confirmation bias is like prepping for a magic show: you need a plan before the curtain goes up. **Set clear objectives** before you peek at the data. Consider what the data should mean to you beforehand so you don't get dazzled by surprising plot twists. This way, you can make genuinely data-driven decisions instead of falling into the trap of your brain's sneaky biases.
 
@@ -147,7 +151,8 @@ To mitigate the impact of confirmation bias, teams should actively seek out and 
 
 In a classic behavioral economics study, researchers showed that **how you say something** can be more magical than a rabbit out of a hat. They gave decision-makers the same facts but with some wordplay—different wording. Despite the identical information, decisions did a Houdini act and varied wildly. A tweak in phrasing or tossing in unrelated details can make people's choices wobble like a tightrope walker in a windstorm. Our brains are suckers for cognitive biases and illusions, even when the cold, hard facts are staring us in the face.
 
-![image by aaronamat from istock](assets/images/istock/iStock-1333976612.jpg)
+![](assets/images/istock/iStock-1333976612.jpg)
+^image by aaronamat from istock^
 
 This means that dealing with data isn't as objective as we like to think. How we mentally wrestle with data matters a lot. We may aim to use data to become more objective, but if we're not careful, it can pump up our pre-existing beliefs like a bouncy castle. Instead of uncovering new insights, we end up with our same old convictions, sabotaging our quest for objectivity and learning.
 
@@ -183,7 +188,8 @@ Human intuition plays a vital role in decision-making. Robert Glass provided one
 
 One of the main advantages of intuition in decision-making is that accessing it is a rapid process, making intuitive decisions straightforward. Intuition is particularly useful for low-value decisions with low stakes, and a quick resolution is preferable. As we'll explore in future discussions on prioritization and decisiveness, seeking perfection in every decision is impractical due to limited time and energy. Therefore, it's essential to choose where to focus your efforts.
 
-![image by metamorworks from istock](assets/images/istock/iStock-1193842896.jpg)
+![](assets/images/istock/iStock-1193842896.jpg)
+^image by metamorworks from istock^
 
 Intuition is especially appropriate under certain conditions:
 * **Time Pressure**: When time is limited and a detailed analysis isn't feasible, intuition can guide you when otherwise you would be stuck.
