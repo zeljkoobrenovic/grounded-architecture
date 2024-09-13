@@ -2,8 +2,7 @@
 
 # Operating Model: General Principles {#operating-model}
 
-![](assets/images/istock/iStock-1126482102.jpg)
-^image by ma_rish from istock^
+![image by ma_rish from istock](assets/images/istock/iStock-1126482102.jpg)
 
 **IN THIS SECTION, YOU WILL:**  Understand what activities you can do as a part of an architecture practice and get tips on creating pragmatic operating models for an architecture practice.
 
@@ -22,8 +21,7 @@ Considering Gregor Hohpe's previous two points, I approach defining an architect
 
 No matter which operating models you select, it's crucial to develop **explicit agreements** and "rules of engagement" with key stakeholders. This collaborative approach is essential to create a sustainable and practical an architecture practice.
 
-![](assets/images/model-operating-model.png)
-***Figure 1:** The Grounded Architecture framework: Operating Model.*
+![Figure 1: The Grounded Architecture framework: Operating Model.](assets/images/model-operating-model.png)
 
 This section outlines some lessons I learned when defining IT architecture operating models. The Operating Model (Figure 1) is a part of the Grounded Architecture framework that defines a set of **processes and agreements** that allow architects to do everything an architecture practice typically does. The model should leverage Architectural Analytics and Collaborative Networks to develop a data-informed, organization-wide impact. Architectural Analytics and Collaborative Networks provide a basis for data-informed decision-making that is well-embedded in the organization.
 
@@ -31,8 +29,7 @@ This section outlines some lessons I learned when defining IT architecture opera
 
 An Operating Model enables a structured and strategic approach to an architecture practice within the organization.
 
-![](assets/images/istock/iStock-479875962.jpg)
-^image by brauns from istock^
+![image by brauns from istock](assets/images/istock/iStock-479875962.jpg)
 
 Here are examples of the activities I have been engaged in with architects to provide a clearer understanding of what I mean by an operating model.
 
@@ -67,8 +64,7 @@ In this section, I address different guiding principles of architectural work:
 
 While exact activities and their scope will depend on an organization setting and will change over time, I usually followed a common operational framework in daily work inspired by Gregor Hohpe's strategy-principles-decisions model (Figure 2). 
 
-![](assets/images/arch/architecture-system.png)
-**Figure 2:** *A common operating framework I typically use for Grounded Architecture activities.*
+![Figure 2: A common operating framework I typically use for Grounded Architecture activities.](assets/images/arch/architecture-system.png)
 
 Here are the key characteristics of this operating framework: 
 
@@ -100,8 +96,7 @@ I have sometimes implemented the concept of a **decision pyramid** (Figure 3) to
 
 The **decision pyramid** highlights that development teams should make most decisions. However, several strategic and area-level choices may provide team decision boundaries. For example, selecting the public cloud provider is typically a CTO-level strategic decision. Similarly, engineering leaders in some areas may want to limit some choices, such as the number of programming languages, to more easily train new people, maintain code, and support moves between teams.
 
-![](assets/images/arch/decision-pyramid.png)
-***Figure 3:** A decision pyramid. The development teams should make most decisions. However, several strategic and area-level decisions may provide decision boundaries for teams (e.g., golden paths or tech stack constraints).*
+![Figure 3: A decision pyramid. The development teams should make most decisions. However, several strategic and area-level decisions may provide decision boundaries for teams (e.g., golden paths or tech stack constraints).](assets/images/arch/decision-pyramid.png)
 
 ### General Architecture Decision Policy
 
@@ -124,8 +119,7 @@ While it may not always be enough, this simple policy can resonate well with man
 
 I have found that the concept of Golden Paths provides an excellent ground to **drive alignment and collaboration** in architecture activities. Golden Paths is an approach utilized to streamline and unify the development process within a software ecosystem, aiming to tackle fragmentation and foster consistency, inspired by [Spotify's implementation](https://engineering.atspotify.com/2020/08/how-we-use-golden-paths-to-solve-fragmentation-in-our-software-ecosystem/). Golden Paths can be described as "**opinionated and supported**" routes developers can follow to build systems efficiently and effectively. 
 
-![](assets/images/spotify-golden-paths_infrastructure-and-tooling-700x327.png)
-^image by engineering.atspotify.com^
+![image by engineering.atspotify.com](assets/images/spotify-golden-paths_infrastructure-and-tooling-700x327.png)
 
 Golden paths provide a solid **foundation for aligning** architecture activities, serving as a common target of work for Guilds and central architectural teams. Rather than being solely knowledge-sharing entities, **guilds** can be empowered to **develop golden paths,** serving as an excellent catalyst for more effective community engagement. This approach not only enhances the role of guilds but also increases the adoption of golden paths as they are created collaboratively.
 
@@ -135,8 +129,7 @@ Golden Paths can be crucial to an organization's IT development landscape as a d
 
 When building architecture guilds and virtual architecture teams, it's crucial to acknowledge that organizational units have diverse structures and sizes. In big organizations, **embracing diversity** is a prerequisite to having a broad impact.
 
-![](assets/images/istock/iStock-1384284589.jpg)
-^image by annaspoka from istock^
+![image by annaspoka from istock](assets/images/istock/iStock-1384284589.jpg)
 
 There is no one-size-fits-all solution for assigning architecture responsibilities within departments. Based on Gregor Hohpe's view of architects and their teams' relationships, I've generally encountered three types of team-architect systems:
 
@@ -152,8 +145,7 @@ Remember, there is no magic bullet. Different structures work for various organi
 
 One of the amusing challenges with setting up an architecture practice in an organization is that everyone seems to have a different idea of what "architecture" should entail. It's like asking people to describe a unicorn: some imagine a mythical, majestic creature, while others picture a sparkly horse with a horn that grants wishes. Good architects can do many things, but this versatility might not always be the most effective way to support the organization. We need to **set boundaries** so that we can focus on what's important rather than becoming frazzled by what's not.
 
-![](assets/images/istock/iStock-92285726.jpg)
-^image by ingenui from istock^
+![image by ingenui from istock](assets/images/istock/iStock-92285726.jpg)
 
 To be effective, I've found it crucial to establish and clearly communicate some "**rules of engagement**" (ROE). Think of ROE as the office playbook for how architects should operate. In a corporate setting, ROE are the principles that guide how employees and departments interact with each other, clients, and stakeholders. This includes communication protocols, decision-making processes, and conflict-resolution mechanisms. Essentially, ROE sets the stage for what's expected and what's not, ensuring everyone plays nicely and fairly.
 

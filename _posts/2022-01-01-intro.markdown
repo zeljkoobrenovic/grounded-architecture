@@ -87,7 +87,6 @@ As part of my Grounded Architecture quest, I've devised several guiding principl
   * [Effortless Architecture](effortless)
 * [**On Execution and Governance**](execution):
   * [Product-Led Organizations](product) 
-  * [Governance: Nudge, Taxation, Mandates](governance)
   * [Decision Intelligence in IT Architecture](decision-intelligence)
   * [Economic Modeling: ROI and Financial Options](economics)
 
