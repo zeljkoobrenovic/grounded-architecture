@@ -133,7 +133,7 @@ The **Architectural Analytics** improves organization alignment by **creating tr
 
 The **Collaborative Networks** improves organization alignment by **facilitating collaboration.** Collaborative Networks focuses on developing global structures that connect employees across various functions and geographies. By making it easier for people to collaborate, share knowledge, and work together, this foundation helps create a unified approach to organizational goals. Collaborative environments foster alignment by ensuring that everyone is working towards common objectives.
 
-### The Operating Model
+### Operating Model
 
 The **Operating Model** improves organization alignment by:
 

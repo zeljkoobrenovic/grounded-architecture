@@ -65,6 +65,14 @@ This section outlines some lessons I learned when defining IT architecture opera
 <br>
 ## Examples of Architecture Activities
 
+An Operating Model enables a structured and strategic approach to an architecture practice within the organization.
+
+
+![](assets/images/istock/iStock-479875962.jpg)
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/StockPlanets">BraunS</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
+</div>
+
 Here are examples of the activities I have been engaged in with architects to provide a clearer understanding of what I mean by an operating model.
 
 * **Designing Mechanisms for Teams to Make Better Decisions**: These mechanisms involved creating global decision-support frameworks such as advisory forums facilitating informed discussions across teams. For compliance-sensitive projects, we establish formal design authorities. Additionally, we develop team-specific mechanisms, like escalation paths, to resolve decision conflicts effectively (e.g., when teams disagree on a common messaging middleware).
@@ -86,8 +94,6 @@ Here are examples of the activities I have been engaged in with architects to pr
 * **Defining Key Technology Strategies**: We contributed to the development of essential technology strategies, including those for Cloud, Data, and Platforms. These strategies provide a clear roadmap for technological development and investment, ensuring alignment with business goals.
 
 * **Defining Vision and Direction of Technology**: In collaboration with Engineering Leaders, we created a sustainable organizational setting that aligns with the overarching technology strategies. This work involved setting a clear vision and direction for the technology landscape within the organization.
-
-These activities collectively formed our Operating Model, enabling a structured and strategic approach to an architecture practice within the organization.
 
 
 <br>
@@ -118,10 +124,10 @@ Here are the key characteristics of this operating framework:
   * Architects aim to **empower the teams** so that they make most of the decisions.
 
 **Contributions of architects**: 
-  * **Bring relevant data** to inform decisions leveraging a [Architectural Analytics](analytics).
+  * **Bring relevant data** to inform decisions leveraging [Architectural Analytics](analytics).
   * **Define decision boundaries** to enable minimal compatibility and strategic alignment (e.g., golden paths or tech stack constraints).
   * **Define fundamental principles** to facilitate consistency in decision-making.
-  * **Share and generalize** lessons learned via a [Collaborative Networks](people).
+  * **Share and generalize** lessons learned via [Collaborative Networks](people).
 
 **Social dynamics of architects**:
   * Architects spend their time in **constant motion** between supporting teams' **daily work** and working on **strategic topics**, helping the organization achieve alignment between strategy and implementation.
@@ -185,6 +191,26 @@ Golden Paths can be crucial to an organization's IT development landscape as a d
 
 
 <br>
+## Embracing Diversity
+
+When building architecture guilds and virtual architecture teams, it's crucial to acknowledge that organizational units have diverse structures and sizes. In big organizations, **embracing diversity** is a prerequisite to having a broad impact.
+
+![](assets/images/istock/iStock-1384284589.jpg)
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Annaspoka">Annaspoka</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
+</div>
+
+There is no one-size-fits-all solution for assigning architecture responsibilities within departments. Based on Gregor Hohpe's view of architects and their teams' relationships, I've generally encountered three types of team-architect systems:
+
+1. **Benevolent "dictator"**: An architect or architecture team tells developers what to do or how to do things. The key nuance here is whether the communication is unidirectional or bi-directional.
+     
+2. **Primus inter pares (first among equals)**: Architects are embedded within teams where each is just another team member, but with a focus on the system structure and trade-offs and taking a longer-term view than other team members.
+   
+3. **Architecture without architects**: Architecture is done within teams, but the task is a shared responsibility among multiple (or all) team members. This approach is often the preferred model in modern technology organizations.
+    
+Remember, there is no magic bullet. Different structures work for various organizations; sometimes, the best solution is a mix of these approaches.
+
+<br>
 ## Setting Boundaries
 
 One of the amusing challenges with setting up an architecture practice in an organization is that everyone seems to have a different idea of what "architecture" should entail. It's like asking people to describe a unicorn: some imagine a mythical, majestic creature, while others picture a sparkly horse with a horn that grants wishes. Good architects can do many things, but this versatility might not always be the most effective way to support the organization. We need to **set boundaries** so that we can focus on what's important rather than becoming frazzled by what's not.
@@ -224,6 +250,7 @@ So, set those expectations, establish your rules of engagement, and watch as you
 * [Scaling the Practice of Architecture, Conversationally](https://martinfowler.com/articles/scaling-architecture-conversationally.html), by Andrew Harmel-Law, 2021
 * [Scaling Engineering Teams via RFCs: Writing Things Down](https://blog.pragmaticengineer.com/scaling-engineering-teams-via-writing-things-down-rfcs/), by Gergely Orosz, 2022
 * [Transformation Agents: An Engagement Model](https://architectelevator.com/transformation/transformation-engagement-model/), by Gregor Hohpe, 2022
+* [Would you like architects with your architecture?](https://architectelevator.com/architecture/organizing-architecture/), by Gregor Hohpe, 2021
 
 
 <br>

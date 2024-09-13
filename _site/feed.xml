@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-09-12T17:26:19+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: Redefining IT Architecture Practice</title><subtitle></subtitle><entry><title type="html">Cheat Sheet</title><link href="http://localhost:4000/cheat-sheet" rel="alternate" type="text/html" title="Cheat Sheet" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/appendix-cheat-sheet</id><content type="html" xml:base="http://localhost:4000/cheat-sheet"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/istock/iStock-1182643171.jpg" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-09-13T12:24:06+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: Redefining IT Architecture Practice</title><subtitle></subtitle><entry><title type="html">Cheat Sheet</title><link href="http://localhost:4000/cheat-sheet" rel="alternate" type="text/html" title="Cheat Sheet" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/appendix-cheat-sheet</id><content type="html" xml:base="http://localhost:4000/cheat-sheet"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/istock/iStock-1182643171.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Tashulia">Tashulia</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
@@ -864,7 +864,14 @@ Good architects are a rare breed. They bridge the gaps between business, product
 <p><br /></p>
 <h3 id="central-architecture-team">Central Architecture Team</h3>
 
-<p>The roles of people in central teams may differ depending on the organization. However, it’s crucial to recognize uniwue value a central architecture team. Such a team, in addition to the doing architecture work, can be instrumental in covering these often overlooked responsibilities:</p>
+<p>The roles of people in central teams may differ depending on the organization. However, it’s crucial to recognize uniwue value a central architecture team.</p>
+
+<p><img src="assets/images/istock/iStock-480342200.jpg" alt="" /></p>
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/simonkr">simonkr</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
+</div>
+
+<p>Such a team, in addition to the doing architecture work, can be instrumental in covering these often overlooked responsibilities:</p>
 
 <ul>
   <li>
@@ -888,6 +895,11 @@ Good architects are a rare breed. They bridge the gaps between business, product
 
 <p>I’ve always found it crucial to rally passionate troops about architecture through a guild, a community of interest, or a virtual team. After all, who doesn’t love a good architecture geek meet-up?</p>
 
+<p><img src="assets/images/istock/iStock-1199706305.jpg" alt="" /></p>
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/asiseeit">SDI Productions</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
+</div>
+
 <p>Our guilds or virtual team members typically double as architects or tech leads in their respective departments. But they also moonlight by collaborating with their counterparts from other areas. These <strong>peer-to-peer communities</strong> are collectively responsible for spotting and nurturing architectural talent, mentoring, and helping each other out of sticky situations.</p>
 
 <p>If you end up having an overabundance of guilds and teams, you can try splitting them into different cliques:</p>
@@ -907,31 +919,6 @@ Good architects are a rare breed. They bridge the gaps between business, product
 </ul>
 
 <p>While the central team can provide essential support, all communities must take the initiative and get many people involved in these events. It’s crucial that people are <strong>active participants</strong> rather than passive spectators to ensure more engagement and commitment. So, get ready to roll up your sleeves and dive in, because architecture is a team sport, and everyone needs to play their part!</p>
-
-<p><br /></p>
-<h3 id="embracing-diverse-team-structures">Embracing Diverse Team Structures</h3>
-
-<p>When building architecture guilds and virtual architecture teams, it’s crucial to acknowledge that organizational units have diverse structures and sizes. In big organizations, <strong>embracing diversity</strong> is a prerequisite to having a broad impact.</p>
-
-<div class="quote">
-In big organizations, embracing diversity is a prerequisite to having a broad impact.
-</div>
-
-<p>There is no one-size-fits-all solution for assigning architecture responsibilities within departments. Based on Gregor Hohpe’s view of architects and their teams’ relationships, I’ve generally encountered three types of team-architect systems:</p>
-
-<ol>
-  <li>
-    <p><strong>Benevolent “dictator”</strong>: An architect or architecture team tells developers what to do or how to do things. The key nuance here is whether the communication is unidirectional or bi-directional.</p>
-  </li>
-  <li>
-    <p><strong>Primus inter pares (first among equals)</strong>: Architects are embedded within teams where each is just another team member, but with a focus on the system structure and trade-offs and taking a longer-term view than other team members.</p>
-  </li>
-  <li>
-    <p><strong>Architecture without architects</strong>: Architecture is done within teams, but the task is a shared responsibility among multiple (or all) team members. This approach is often the preferred model in modern technology organizations.</p>
-  </li>
-</ol>
-
-<p>Remember, there is no magic bullet. Different structures work for various organizations; sometimes, the best solution is a mix of these approaches.</p>
 
 <p><br /></p>
 <h2 id="building-collaborative-networks">Building Collaborative Networks</h2>
@@ -966,7 +953,6 @@ Image by <a href="https://pixabay.com/users/chantellev-2412495/?utm_source=link-
 
 <ul>
   <li><a href="https://architectelevator.com/transformation/agile_architecture/">Agile and Architecture: Friend, not Foe</a>, by Gregor Hohpe, 2020</li>
-  <li><a href="https://architectelevator.com/architecture/organizing-architecture/">Would you like architects with your architecture?</a>, by Gregor Hohpe, 2021</li>
   <li><a href="https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/tech-forward/crafting-the-optimal-model-for-the-it-architecture-organization">Crafting the optimal model for the IT architecture organization</a>, by Christian Lilley et al., 2022</li>
   <li><a href="https://blog.pragmaticengineer.com/developers-mentoring-other-developers/">Developers mentoring other developers: practices I’ve seen work well</a>, by Gergely Orosz, 2022</li>
 </ul>
@@ -1042,6 +1028,13 @@ There is no one-size-fits-all approach: each organization must find activities a
 <p><br /></p>
 <h2 id="examples-of-architecture-activities">Examples of Architecture Activities</h2>
 
+<p>An Operating Model enables a structured and strategic approach to an architecture practice within the organization.</p>
+
+<p><img src="assets/images/istock/iStock-479875962.jpg" alt="" /></p>
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/StockPlanets">BraunS</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
+</div>
+
 <p>Here are examples of the activities I have been engaged in with architects to provide a clearer understanding of what I mean by an operating model.</p>
 
 <ul>
@@ -1077,8 +1070,6 @@ There is no one-size-fits-all approach: each organization must find activities a
   </li>
 </ul>
 
-<p>These activities collectively formed our Operating Model, enabling a structured and strategic approach to an architecture practice within the organization.</p>
-
 <p><br /></p>
 <h2 id="guiding-principles-for-architectural-excellence-policies-autonomy-and-engagement">Guiding Principles for Architectural Excellence: Policies, Autonomy, and Engagement</h2>
 
@@ -1112,10 +1103,10 @@ There is no one-size-fits-all approach: each organization must find activities a
 
 <p><strong>Contributions of architects</strong>:</p>
 <ul>
-  <li><strong>Bring relevant data</strong> to inform decisions leveraging a <a href="analytics">Architectural Analytics</a>.</li>
+  <li><strong>Bring relevant data</strong> to inform decisions leveraging <a href="analytics">Architectural Analytics</a>.</li>
   <li><strong>Define decision boundaries</strong> to enable minimal compatibility and strategic alignment (e.g., golden paths or tech stack constraints).</li>
   <li><strong>Define fundamental principles</strong> to facilitate consistency in decision-making.</li>
-  <li><strong>Share and generalize</strong> lessons learned via a <a href="people">Collaborative Networks</a>.</li>
+  <li><strong>Share and generalize</strong> lessons learned via <a href="people">Collaborative Networks</a>.</li>
 </ul>
 
 <p><strong>Social dynamics of architects</strong>:</p>
@@ -1182,6 +1173,32 @@ Image by engineering.atspotify.com
 <p>Golden Paths can be crucial to an organization’s IT development landscape as a deliberate and strategic effort to promote <strong>uniformity,</strong> <strong>efficiency,</strong> and <strong>reliability.</strong> By advocating for a set of preferred technologies and practices that are <strong>well-supported,</strong> <strong>secure,</strong> and aligned with the organization’s broader objectives, Golden Paths can guide developers to build less fragmented, and faster-to-develop software. Ultimately, this leads to higher-quality and more maintainable IT systems.</p>
 
 <p><br /></p>
+<h2 id="embracing-diversity">Embracing Diversity</h2>
+
+<p>When building architecture guilds and virtual architecture teams, it’s crucial to acknowledge that organizational units have diverse structures and sizes. In big organizations, <strong>embracing diversity</strong> is a prerequisite to having a broad impact.</p>
+
+<p><img src="assets/images/istock/iStock-1384284589.jpg" alt="" /></p>
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Annaspoka">Annaspoka</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
+</div>
+
+<p>There is no one-size-fits-all solution for assigning architecture responsibilities within departments. Based on Gregor Hohpe’s view of architects and their teams’ relationships, I’ve generally encountered three types of team-architect systems:</p>
+
+<ol>
+  <li>
+    <p><strong>Benevolent “dictator”</strong>: An architect or architecture team tells developers what to do or how to do things. The key nuance here is whether the communication is unidirectional or bi-directional.</p>
+  </li>
+  <li>
+    <p><strong>Primus inter pares (first among equals)</strong>: Architects are embedded within teams where each is just another team member, but with a focus on the system structure and trade-offs and taking a longer-term view than other team members.</p>
+  </li>
+  <li>
+    <p><strong>Architecture without architects</strong>: Architecture is done within teams, but the task is a shared responsibility among multiple (or all) team members. This approach is often the preferred model in modern technology organizations.</p>
+  </li>
+</ol>
+
+<p>Remember, there is no magic bullet. Different structures work for various organizations; sometimes, the best solution is a mix of these approaches.</p>
+
+<p><br /></p>
 <h2 id="setting-boundaries">Setting Boundaries</h2>
 
 <p>One of the amusing challenges with setting up an architecture practice in an organization is that everyone seems to have a different idea of what “architecture” should entail. It’s like asking people to describe a unicorn: some imagine a mythical, majestic creature, while others picture a sparkly horse with a horn that grants wishes. Good architects can do many things, but this versatility might not always be the most effective way to support the organization. We need to <strong>set boundaries</strong> so that we can focus on what’s important rather than becoming frazzled by what’s not.</p>
@@ -1232,6 +1249,7 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Ingen
   <li><a href="https://martinfowler.com/articles/scaling-architecture-conversationally.html">Scaling the Practice of Architecture, Conversationally</a>, by Andrew Harmel-Law, 2021</li>
   <li><a href="https://blog.pragmaticengineer.com/scaling-engineering-teams-via-writing-things-down-rfcs/">Scaling Engineering Teams via RFCs: Writing Things Down</a>, by Gergely Orosz, 2022</li>
   <li><a href="https://architectelevator.com/transformation/transformation-engagement-model/">Transformation Agents: An Engagement Model</a>, by Gregor Hohpe, 2022</li>
+  <li><a href="https://architectelevator.com/architecture/organizing-architecture/">Would you like architects with your architecture?</a>, by Gregor Hohpe, 2021</li>
 </ul>
 
 <p><br /></p>
@@ -1299,7 +1317,7 @@ In today's complicated business environments, you must set up organizational str
 
 <p>One of the Six Simple Rules’ central premises is that <strong>conventional management approaches</strong>, which the authors split into hard and soft, are neither sufficient nor appropriate for the complexity of organizations nowadays.</p>
 
-<h3 id="hard-approach">Hard Approach</h3>
+<h3 id="hard-approach-military-model">Hard Approach (Military Model)</h3>
 
 <p>The <strong>hard approach</strong> rests on two fundamental assumptions:</p>
 <ul>
@@ -1309,6 +1327,11 @@ In today's complicated business environments, you must set up organizational str
 
 <p>When the company needs to meet new performance requirements, the <strong>hard response</strong> is to <strong>add new structures, processes, and systems</strong> to help satisfy those requirements. Hence, introducing the innovation czar, the risk management team, the compliance unit, the customer-centricity leader, and the cohort of coordinators and interfaces have become so common in companies.</p>
 
+<p><img src="assets/images/istock/iStock-936995400.jpg" alt="" /></p>
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/cyano66">cyano66</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
+</div>
+
 <p>In my experience, IT architecture support  in organizations following a hard management approach has the following characteristics:</p>
 <ul>
   <li><strong>Heavy Reliance on Tools:</strong> The architecture would focus on tools, automation, and workflows that <strong>enforce compliance,</strong> standardization, and control. There might be a strong reliance on enterprise resource planning (ERP) systems, centralized data warehouses, and other structured tools that enable <strong>strict adherence</strong> to predefined processes.</li>
@@ -1316,13 +1339,18 @@ In today's complicated business environments, you must set up organizational str
   <li><strong>Bureaucratic Systems:</strong> The architecture might include multiple <strong>layers of control</strong> and coordination units, such as a risk management system, compliance databases, and innovation management software. Each of these units would be designed to enforce specific aspects of the organization’s performance objectives.</li>
 </ul>
 
-<h3 id="soft-approach">Soft Approach</h3>
+<h3 id="soft-approach-family-model">Soft Approach (Family Model)</h3>
 
 <p>On the other end, we have a soft management approach. According to the <strong>soft approach</strong>, an organization is a set of <strong>interpersonal relationships and the sentiments</strong> that govern them.</p>
 <ul>
   <li><strong>Good performance is the by-product of good interpersonal relationships</strong>. Personal traits, psychological needs, and mindsets predetermine people’s actions.</li>
   <li>To change behavior at work, you need to <strong>change the mindset (or change the people)</strong>.</li>
 </ul>
+
+<p><img src="assets/images/istock/iStock-1482584637.jpg" alt="" /></p>
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/AlessandroBiascioli">Alessandro Biascioli</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
+</div>
 
 <p>In my experience, IT architecture support in organizations following a soft management approach has the following characteristics:</p>
 <ul>
@@ -1331,13 +1359,12 @@ In today's complicated business environments, you must set up organizational str
   <li><strong>Personalization:</strong> Systems might be more personalized, offering <strong>customization options</strong> that align with individual preferences and needs. This personalization could include customizable dashboards and personalized workspaces.</li>
 </ul>
 
-<h3 id="limitations-of-hard-and-soft-management">Limitations of Hard and Soft Management</h3>
-<p>Both approaches are limited in today’s world and are harmful to cooperation. A <strong>hard approach introduces complicated mechanisms</strong>, compliance, and “checking the box” behaviors instead of the engagement and initiative to make things work. The <strong>soft approach’s emphasis on good interpersonal feelings creates cooperation obstacles</strong> as people want to maintain good feelings.</p>
-
 <p><br /></p>
-<h2 id="collaboration-approach-six-simple-rules-overview">Collaboration Approach: Six Simple Rules Overview</h2>
+<h2 id="collaboration-approach-professional-sport-team-model">Collaboration Approach (Professional Sport Team Model)</h2>
 
-<p>The Six Simple Rules approach covers two areas: <strong>autonomy</strong> and <strong>cooperation</strong>. The Six Simple Rules’ authors emphasize the difference between Autonomy and Self-Sufficiency. <strong>Autonomy</strong> is about fully mobilizing our intelligence and energy to <strong>influence outcomes</strong>, including those <strong>we do not entirely control</strong>. <strong>Self-sufficiency</strong> is about <strong>limiting our efforts</strong> only to those <strong>outcomes that we control entirely without depending on others</strong>. Autonomy is essential for coping with complexity; <strong>self-sufficiency is an obstacle</strong> because it <strong>hinders the cooperation</strong> needed to make autonomy effective.</p>
+<p>Hard and soft management approaches are limited in today’s world and are harmful to cooperation. A <strong>hard approach</strong> introduces <strong>complicated mechanisms</strong>, compliance, and “checking the box” behaviors instead of the engagement and initiative to make things work. The <strong>soft approach’s</strong> emphasis on <strong>good interpersonal feelings</strong> creates <strong>cooperation obstacles</strong> as people want to maintain good feelings.</p>
+
+<p>The Six Simple Rules approach emphasizes that in today’s business environment, you must set up <strong>organizational structures based on cooperation</strong>. More specifically, the Six Simple Rules approach involves the interplay of <strong>autonomy</strong> and <strong>cooperation</strong>. The authors emphasize the critical difference between autonomy and self-sufficiency. <strong>Autonomy</strong> is about fully mobilizing our intelligence and energy to <strong>influence outcomes</strong>, including those <strong>we do not entirely control</strong>. <strong>Self-sufficiency</strong> is about <strong>limiting our efforts</strong> only to those outcomes that we <strong>control entirely without depending</strong> on others. Autonomy is essential for coping with complexity; <strong>self-sufficiency</strong> is an obstacle because it <strong>hinders the cooperation</strong> needed to make autonomy effective.</p>
 
 <p>The first three rules create the conditions for <strong>individual autonomy and empowerment</strong> to improve performance.</p>
 
@@ -1889,7 +1916,7 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/36cli
 
 <p>The <strong>Collaborative Networks</strong> improves organization alignment by <strong>facilitating collaboration.</strong> Collaborative Networks focuses on developing global structures that connect employees across various functions and geographies. By making it easier for people to collaborate, share knowledge, and work together, this foundation helps create a unified approach to organizational goals. Collaborative environments foster alignment by ensuring that everyone is working towards common objectives.</p>
 
-<h3 id="the-operating-model">The Operating Model</h3>
+<h3 id="operating-model-3">Operating Model</h3>
 
 <p>The <strong>Operating Model</strong> improves organization alignment by:</p>
 
@@ -1932,7 +1959,7 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Rawpi
   <li><strong>Maximizing Personal Learning</strong>: Collaborative Networks ensure that individual lessons are transformed into shared guidelines by deriving generalized insights from cross-group cases. This collective intelligence benefits the entire organization and fosters continuous personal and professional growth among team members.</li>
 </ul>
 
-<h3 id="operating-model-3">Operating Model</h3>
+<h3 id="operating-model-4">Operating Model</h3>
 <p>The Operating Model integrates learning into daily workflows through structured processes:</p>
 
 <ul>

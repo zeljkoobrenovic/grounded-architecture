@@ -27,7 +27,7 @@ The leader-leader model is an excellent standard for architects' leadership visi
 
 One of the key benefits of a leader-leader model is that it creates **a more collaborative and inclusive work environment**. It allows individuals to contribute their unique perspectives, experiences, and skills to the group, promoting ownership and accountability for the team's success. This model also **helps build trust and more robust team relationships**, increasing productivity, creativity, and innovation.
 
-![image by motortion from istock](assets/images/istock/iStock-1130373923.jpg)
+![image by caiaimage/martin barraud from istock](assets/images/istock/iStock-513438213.jpg)
 
 David Marquet's book "Leadership is Language" provides practical advice for leaders looking to create a more collaborative, innovative, and inclusive organizational culture. He emphasizes the importance of language and communication in leadership and introduces the phrase **"I intend to"** as a powerful tool for clarifying intent and **empowering team members** (Figure 2). When team members give intent, the psychological ownership of those actions shifts to them, making them the originators of thought and direction instead of passive followers. This shift in language helps to promote a more collaborative work environment.
 
@@ -48,10 +48,11 @@ In all these examples, the Leader-Leader model promotes a collaborative, inclusi
 
 ![Figure 2: Leadership language. Based on Intent-Based Leadership, by David Marquet.](assets/images/arch/leader-leader.jpg)
 
- 
 ## Netflix's Valued Behaviors: Leadership Behaviors
 
 The [Netflix overview of their valued behaviors](https://jobs.netflix.com/culture) is a leading inspiration for how I coach and develop architects. The following sections summarize these behaviors, borrowing from the Netflix original values but rearranging them in the order I see as more relevant for architects. 
+
+![image by chaiyon021/martin barraud from istock](assets/images/istock/iStock-480185329.jpg)
 
 ### Communication
 

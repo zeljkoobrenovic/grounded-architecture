@@ -57,7 +57,12 @@ I prefer the **hybrid team structure** as it scales better in complex organizati
 
 ### Central Architecture Team
 
-The roles of people in central teams may differ depending on the organization. However, it's crucial to recognize uniwue value a central architecture team. Such a team, in addition to the doing architecture work, can be instrumental in covering these often overlooked responsibilities:
+The roles of people in central teams may differ depending on the organization. However, it's crucial to recognize uniwue value a central architecture team. 
+
+![](assets/images/istock/iStock-480342200.jpg)
+^image by simonkr from istock^
+
+Such a team, in addition to the doing architecture work, can be instrumental in covering these often overlooked responsibilities:
 
 * **Build and maintain the architecture [Architectural Analytics](#analytics).** With all AI advances, it will not build itself! You need clear ownership, curation, and technical support to make it work.
 
@@ -72,6 +77,9 @@ While guilds and virtual teams can handle many of these activities, their volunt
 ### Architecture Guilds & Virtual Architecture Teams
 
 I've always found it crucial to rally passionate troops about architecture through a guild, a community of interest, or a virtual team. After all, who doesn't love a good architecture geek meet-up?
+
+![](assets/images/istock/iStock-1199706305.jpg)
+^image by sdi productions from istock^
 
 Our guilds or virtual team members typically double as architects or tech leads in their respective departments. But they also moonlight by collaborating with their counterparts from other areas. These **peer-to-peer communities** are collectively responsible for spotting and nurturing architectural talent, mentoring, and helping each other out of sticky situations.
 
@@ -88,21 +96,6 @@ Connecting the central and distributed teams is essential. In most places I've w
 * **Ad-hoc workshops**: These focus on specific topics and deep dives into niche subjects.
 
 While the central team can provide essential support, all communities must take the initiative and get many people involved in these events. It's crucial that people are **active participants** rather than passive spectators to ensure more engagement and commitment. So, get ready to roll up your sleeves and dive in, because architecture is a team sport, and everyone needs to play their part!
-
-### Embracing Diverse Team Structures
-
-When building architecture guilds and virtual architecture teams, it's crucial to acknowledge that organizational units have diverse structures and sizes. In big organizations, **embracing diversity** is a prerequisite to having a broad impact.
-
-There is no one-size-fits-all solution for assigning architecture responsibilities within departments. Based on Gregor Hohpe's view of architects and their teams' relationships, I've generally encountered three types of team-architect systems:
-
-1. **Benevolent "dictator"**: An architect or architecture team tells developers what to do or how to do things. The key nuance here is whether the communication is unidirectional or bi-directional.
-     
-2. **Primus inter pares (first among equals)**: Architects are embedded within teams where each is just another team member, but with a focus on the system structure and trade-offs and taking a longer-term view than other team members.
-  
-   
-3. **Architecture without architects**: Architecture is done within teams, but the task is a shared responsibility among multiple (or all) team members. This approach is often the preferred model in modern technology organizations.
-    
-Remember, there is no magic bullet. Different structures work for various organizations; sometimes, the best solution is a mix of these approaches.
 
 ## Building Collaborative Networks
 
@@ -124,7 +117,6 @@ While each organization will need its unique approach, here are some tips I foun
 ## To Probe Further
 
 * [Agile and Architecture: Friend, not Foe](https://architectelevator.com/transformation/agile_architecture/), by Gregor Hohpe, 2020
-* [Would you like architects with your architecture?](https://architectelevator.com/architecture/organizing-architecture/), by Gregor Hohpe, 2021
 * [Crafting the optimal model for the IT architecture organization](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/tech-forward/crafting-the-optimal-model-for-the-it-architecture-organization), by Christian Lilley et al., 2022
 * [Developers mentoring other developers: practices I've seen work well](https://blog.pragmaticengineer.com/developers-mentoring-other-developers/), by Gergely Orosz, 2022
 

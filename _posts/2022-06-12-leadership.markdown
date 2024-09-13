@@ -72,10 +72,11 @@ The leader-leader model is an excellent standard for architects' leadership visi
 
 One of the key benefits of a leader-leader model is that it creates **a more collaborative and inclusive work environment**. It allows individuals to contribute their unique perspectives, experiences, and skills to the group, promoting ownership and accountability for the team's success. This model also **helps build trust and more robust team relationships**, increasing productivity, creativity, and innovation.
 
-![](assets/images/istock/iStock-1130373923.jpg)
+![](assets/images/istock/iStock-513438213.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Motortion">Motortion</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
+Image by <a target="_blank" href="https://www.istockphoto.com/nl/search/photographer?photographer=Caiaimage%2FMartin%20Barraud">Caiaimage/Martin Barraud</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
+
 
 David Marquet's book "Leadership is Language" provides practical advice for leaders looking to create a more collaborative, innovative, and inclusive organizational culture. He emphasizes the importance of language and communication in leadership and introduces the phrase **"I intend to"** as a powerful tool for clarifying intent and **empowering team members** (Figure 2). When team members give intent, the psychological ownership of those actions shifts to them, making them the originators of thought and direction instead of passive followers. This shift in language helps to promote a more collaborative work environment.
 
@@ -103,10 +104,16 @@ In all these examples, the Leader-Leader model promotes a collaborative, inclusi
 ![](assets/images/arch/leader-leader.jpg)
 ***Figure 2:** Leadership language. Based on Intent-Based Leadership, by David Marquet.*
 
- 
+<br> 
 ## Netflix's Valued Behaviors: Leadership Behaviors
 
 The [Netflix overview of their valued behaviors](https://jobs.netflix.com/culture) is a leading inspiration for how I coach and develop architects. The following sections summarize these behaviors, borrowing from the Netflix original values but rearranging them in the order I see as more relevant for architects. 
+
+![](assets/images/istock/iStock-480185329.jpg)
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by <a target="_blank" href="https://www.istockphoto.com/nl/portfolio/chaiyon021">chaiyon021/Martin Barraud</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
+</div>
+
 
 ### Communication
 
@@ -203,7 +210,7 @@ Architects are frequently role models for others. As such, you need to show the 
 * You are **quietly confident** and **openly humble**
  
 
-
+<br>
 ## Questions to Consider
 
 * *Reflect on the Leader-Leader model of leadership model in your work. How can you empower your team members and encourage them to take ownership of their work?*

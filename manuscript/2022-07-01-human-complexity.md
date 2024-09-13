@@ -2,8 +2,7 @@
 
 # On Human Complexity: Introduction {#human-complexity}
 
-![](assets/images/istock/iStock-1473231525.jpg)
-^image by cerro_photography from istock^
+![image by cerro_photography from istock](assets/images/istock/iStock-1473231525.jpg)
 
 **IN THIS SECTION, YOU WILL:**  Get a summary of several resources that I use as inspiration for developing awareness of human complexities.
 

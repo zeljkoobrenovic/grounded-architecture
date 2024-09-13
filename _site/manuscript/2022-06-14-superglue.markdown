@@ -38,7 +38,7 @@ Superglue architects can play a unique and essential role in the smooth operatio
 
 IT architects should focus on holding everything together, ensuring their organizations' stability, coherence, and progress. Think of them as the organizational equivalent of duct tape—versatile, indispensable, and always ready to fix the seemingly unfixable.
 
-## Superglueing in Action #1: Reducing Tensions
+## Superglueing in Action #1: Aligning Organization
 
 Tensions among technology, product, organization, and business functions can slow down progress, lead to poor decisions, introduce complexity, and cause missed opportunities. Acting as superglue, architects can mitigate these issues by fostering better communication and alignment among these elements. The goal is **not to create new barriers** but to bring these functions closer together, ensuring a cohesive and efficient operation.
 
@@ -129,7 +129,7 @@ Acting as superglue, the architects can effectively **reduce tensions** among te
 
 The "superglue architect" helps navigate these tensions by being deeply involved in the organizational, technical, and product conversations. They bridge the gap between different stakeholders, ensuring smooth collaboration. Their success is measured by the seamless operation of business, product, and technical goals, even when their role becomes less visible over time.
 
-## Supergluing In Action #2: Resolving Disagreements About Problem, Solution and Implementation
+## Supergluing In Action #2: Aligning Discussions About Problems, Solutions and Implementations
 
 The [Theory of Constraints (TOC)](https://en.wikipedia.org/wiki/Thinking_processes_(theory_of_constraints)), developed by Eliyahu M. Goldratt, is another source of inspiration I used to work as a superglue architect. TOC is a management philosophy focusing on identifying and addressing the most critical bottleneck (constraint) to improve overall performance. 
 

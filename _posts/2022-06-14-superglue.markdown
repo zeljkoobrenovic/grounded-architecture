@@ -232,13 +232,15 @@ As connective tissue, the superglue architect can help resolve disagreements wit
 
 3. **Facilitate Clear Communication**: Use structured methods like root cause analysis or problem statements to align everyone on the problem before discussing potential solutions and implementations.
 
+4. **Seeing Multiple Dimensions:** As [Gregor Hophe elaborated nicely](https://architectelevator.com/architecture/multiple-dimensions/), when architects encounter stalemate situations, they may try to find a new model to demonstrate that everyone is simply looking at the same thing from different perspectives.
+
 By being aware of the potential for confusion and actively working to clarify the level of disagreement, teams ican make more informed decisions, implement effective solutions, and, ultimately, improve project outcomes.
 
 
 <br>
-## Superglue Impact: Reducing Risks of Misalignments and Disagreements
+## Superglue Impact: Keeping Everyone in the Same Boat, Upon a Stormy Sea
 
-While architects stay close to the technology, they must ensure it works for the business and customers, not the other way around. By keeping everyone **in the loop and aligned,** architects help clear the many pitfalls of misalignment and keep the organizational machine running smoothly. Their role is to facilitate communication, ensure alignment, and guide the organization toward cohesive and practical solutions, preventing the myriad risks associated with misalignment.
+While architects stay close to the technology, they must ensure it works for the business and customers, not the other way around. By keeping everyone **in the loop** and **aligned,** architects help clear the many **pitfalls of misalignment** and keep the organizational machine running smoothly. Their role is to facilitate communication, ensure alignment, and guide the organization toward cohesive and practical solutions, preventing the myriad risks associated with misalignment.
 
 ![](assets/images/istock/iStock-483590421.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
@@ -277,7 +279,7 @@ Misalignment between these elements can introduce several **key risks,** which s
 * [Architects See Shades of Gray, Look for Balance](https://architectelevator.com/architecture/architects-shades-of-gray/), by Gregor Hohpe, 2020
 * [Here’s why enterprise IT is so complex](https://architectelevator.com/architecture/it-complexity/), by Gregor Hohpe, 2018
 
- 
+<br> 
 ## Questions to Consider
 
 Being a superglue architect means constantly developing and redefining your role to benefit a changing organization. Ask yourself the following questions:
