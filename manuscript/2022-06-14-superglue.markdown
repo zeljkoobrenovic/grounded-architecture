@@ -2,7 +2,8 @@
 
 # Thinking Like an Architect: Architects as Superglue {#superglue}
 
-![image by pagadesign from istock](assets/images/istock/iStock-185061908.jpg)
+![](assets/images/istock/iStock-185061908.jpg)
+^image by pagadesign from istock^
 
 **IN THIS SECTION, YOU WILL:**  Understand the view on architects as superglue (people who hold architecture, technical details, business needs, and people together across a large organization or complex projects) and get valuable tips on developing "superglue" abilities.
 
@@ -41,7 +42,8 @@ IT architects should focus on holding everything together, ensuring their organi
 
 Tensions among technology, product, organization, and business functions can slow down progress, lead to poor decisions, introduce complexity, and cause missed opportunities. Acting as superglue, architects can mitigate these issues by fostering better communication and alignment among these elements. The goal is **not to create new barriers** but to bring these functions closer together, ensuring a cohesive and efficient operation.
 
-![image by flamingoimages from istock](assets/images/istock/iStock-881068124.jpg)
+![](assets/images/istock/iStock-881068124.jpg)
+^image by flamingoimages from istock^
 
 The primary value of superglue architects in complex organizations lies in their uncanny ability to align business, product, technology, and organizational functions. 
 
@@ -49,7 +51,8 @@ The primary value of superglue architects in complex organizations lies in their
 
 Technology, product, organization, and business functions face specific challenges and change at different rates. Ideally, these structures should **evolve simultaneously,** staying in perfect sync like a well-rehearsed dance troupe. However, reality often resembles a **poorly synchronized** flash mob, full of tension and missteps, as illustrated in Figure 2.
 
-![Figure 2: The tensions between technology, product, organization, and business functions.](assets/images/tension.png)
+![](assets/images/tension.png)
+***Figure 2:** The tensions between technology, product, organization, and business functions.*
 
 Tension between technology, product, organization, and business functions can significantly impede progress. Miscommunication or misalignments can turn simple tasks into bureaucratic nightmares. Furthermore, these issues can introduce overwhelming and unnecessary complexity, causing missed opportunities. Here are specific examples of these tensions:
 
@@ -83,7 +86,8 @@ When not addressed, these tensions can severely limit an organization's ability 
 
 Superglue architects should be able to navigate the wild complexities of modern organizations. They should facilitate that the various architectures—business, product, technology, or organizational design—don't just coexist but thrive together. Architects' **holistic approach** not only reduces tension and misalignment but reassures the organization's smooth operation, like butter on hot toast.
 
-![Figure 3: Architects should be in the middle of reducing tensions between technology, product, organization, and business functions.](assets/images/tension-architecture.png)
+![](assets/images/tension-architecture.png)
+***Figure 3:** Architects should be in the middle of reducing tensions between technology, product, organization, and business functions.*
 
 Acting as superglue, the architects can effectively **reduce tensions** among technology, product, organization, and business functions. This act includes facilitating **critical conversations** between these units and ensuring alignment and cohesion. As depicted in Figure 3, the goal of architecture is not to add new constructs between these four elements, but to **bring them closer together.** By fostering closer relationships and better communication, architects can help these elements work in unison rather than at cross purposes. Here are examples of how architects reduce tensions and ensure these different domains work cohesively:
 
@@ -129,11 +133,13 @@ The "superglue architect" helps navigate these tensions by being deeply involved
 
 The [Theory of Constraints (TOC)](https://en.wikipedia.org/wiki/Thinking_processes_(theory_of_constraints)), developed by Eliyahu M. Goldratt, is another source of inspiration I used to work as a superglue architect. TOC is a management philosophy focusing on identifying and addressing the most critical bottleneck (constraint) to improve overall performance. 
 
-![image by peopleimages from istock](assets/images/istock/iStock-1350217421.jpg)
+![](assets/images/istock/iStock-1350217421.jpg)
+^image by peopleimages from istock^
 
 While Goldratt's work is much broader, the part I find inspiring is his view on resistance to change, which he sees as manifesting in three forms: disagreement about the problem, disagreement on the solution, and disagreement on the implementation (Figure 4). This model is a useful guide to help people resolve disagreements. This model can also be useful in showing that many disagreements stem from people not realizing they are talking about different topics (e.g., trying to decide on low-level technology choices while there is no agreement on which problem they are solving). 
 
-![Figure 4: Goldratt's view on resistance to change: disagreement about the problem, disagreement on the solution, and disagreement on the implementation.](assets/images/toc_disagreements.png)
+![](assets/images/toc_disagreements.png)
+***Figure 4:** Goldratt's view on resistance to change: disagreement about the problem, disagreement on the solution, and disagreement on the implementation.*
 
 ### Disagreement about the Problem (What to change?)
 
@@ -189,7 +195,8 @@ By being aware of the potential for confusion and actively working to clarify th
 
 While architects stay close to the technology, they must ensure it works for the business and customers, not the other way around. By keeping everyone **in the loop** and **aligned,** architects help clear the many **pitfalls of misalignment** and keep the organizational machine running smoothly. Their role is to facilitate communication, ensure alignment, and guide the organization toward cohesive and practical solutions, preventing the myriad risks associated with misalignment.
 
-![image by mbbirdy from istock](assets/images/istock/iStock-483590421.jpg)
+![](assets/images/istock/iStock-483590421.jpg)
+^image by mbbirdy from istock^
 
 Misalignment between these elements can introduce several **key risks,** which superglue architects need to be aware of and can mitigate:
 
