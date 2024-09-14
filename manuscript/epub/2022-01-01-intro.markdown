@@ -28,11 +28,11 @@ This book breaks down Grounded Architecture into two main parts (Figure 1):
 ![Figure 1:  Grounded Architecture Overview.](assets/images/model.png)
 
 Grounded Architecture framework consists of three elements:
-* [Architectural Analytics](#analytics),
+* [Lightweight Architectural Analytics](#analytics),
 * [Collaborative Networks](#people),
 * [Operating Model](#operating-model).
 
-*[Architectural Analytics](#analytics)* keeps your architecture decisions based on up-to-date and complete information about your organization's tech landscape.
+*[Lightweight Architectural Analytics](#analytics)* keeps your architecture decisions based on up-to-date and complete information about your organization's tech landscape.
 
 *[Collaborative Networks](#people)* represents a strong network of people working on architecture across your organization, ensuring your efforts make a difference.
 
@@ -152,7 +152,7 @@ You can find more details about these tools on my homepage **[obren.io](https://
 
 The work presented in this book builds on **several years of my experience**. Most of this work originates from my current work as a **Chief Architect** at AVIV Group and previous works as a Principal Architect for eBay Classifieds and Adevinta.
 
-Another vital part of my experience that shaped this book was my earlier experience as a **consultant and analyst** at the [Software Improvement Group](https://www.softwareimprovementgroup.com/), where I've learned the value and pragmatics of data-informed decision-making. As a spin-off of this work, I've also built a tool called [Sokrates](https://sokrates.dev), which enables efficient and pragmatic extraction of data about technology and organization from source code. This work has directly influenced my view of [Architectural Analytics](#analytics) part of the Grounded Architecture framework.
+Another vital part of my experience that shaped this book was my earlier experience as a **consultant and analyst** at the [Software Improvement Group](https://www.softwareimprovementgroup.com/), where I've learned the value and pragmatics of data-informed decision-making. As a spin-off of this work, I've also built a tool called [Sokrates](https://sokrates.dev), which enables efficient and pragmatic extraction of data about technology and organization from source code. This work has directly influenced my view of [Lightweight Architectural Analytics](#analytics) part of the Grounded Architecture framework.
 
 My experience as a **CTO** of [Incision](https://incision.care), a startup, has helped me better understand the challenges of creating and running an IT organization.
 
@@ -164,7 +164,7 @@ Lastly, my hands-on experience as a **software developer** has proven invaluable
 
 I have organized the book into several main parts. In the introductory part, I describe the context in which my ideas have developed. 
 
-In the second part, I discuss the Grounded Architecture framework and describe its three elements: Architectural Analytics, Collaborative Networks, and the Operating Model. 
+In the second part, I discuss the Grounded Architecture framework and describe its three elements: Lightweight Architectural Analytics, Collaborative Networks, and the Operating Model. 
 
 In the third part, I discuss the Guiding Principles of Grounded Architecture, grouped into several sub-parts: On Being an Architect, On Soft Skills, On Decision-Making, On Human Complexity, and On Execution and Governance. 
 

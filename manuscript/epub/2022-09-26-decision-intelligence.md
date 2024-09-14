@@ -385,7 +385,7 @@ stakeholder feedback, and identifying lessons learned all refine future decision
 ## Decision-Making With Data and Tools
 
 Decision-making has evolved beyond pen and paper, with data playing a crucial role in modern methods. Data, like the one
-I use in [Architectural Analytics](#analytics), while visually appealing and powerful when used correctly, 
+I use in [Lightweight Architectural Analytics](#analytics), while visually appealing and powerful when used correctly, 
 is **only a tool to assist** in making informed decisions. It's a means to an impactful end, but **without purposeful application, data is ineffective**.
 
 ![image by blue planet studio from istock](assets/images/istock/iStock-1316937637.jpg)

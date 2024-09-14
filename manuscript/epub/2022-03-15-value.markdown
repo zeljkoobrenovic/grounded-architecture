@@ -28,11 +28,11 @@ Our first goal was to find a way to support hundreds of teams and thousands of p
 
 Each element of Grounded Architecture enables an architecture practice to operate at scale in several ways.
 
-### Architectural Analytics
-The **Architectural Analytics** can support large-scale operations by:
+### Lightweight Architectural Analytics
+The **Lightweight Architectural Analytics** can support large-scale operations by:
 
 - **Self-Service Data Access**: Providing data as a self-service resource allows teams to access the information they need independently, reducing the reliance on manual sharing methods. This service can be facilitated through internal websites or portals where data tools and insights are readily available.
-- **Elimination of Meetings**: As architects frequently own some unique pieces of information, in particular related to the big picture and overall dependecies, lots of architecture support goes on providing that information to the teams. Typically that means having meetings, workshops and exchanging lots of messages. With Architectural Analytics, we significantly reduced the need for such information-sharing or data-gathering meetings (every time we added a new data app, I got a few hours back in my calendar and exchanged fewer messages). Sharing data via Architatural Analytics dashboards also generates a useful feedback about how data are used, and helps ensuring that data is up-to-date and accessible.
+- **Elimination of Meetings**: As architects frequently own some unique pieces of information, in particular related to the big picture and overall dependecies, lots of architecture support goes on providing that information to the teams. Typically that means having meetings, workshops and exchanging lots of messages. With Lightweight Architectural Analytics, we significantly reduced the need for such information-sharing or data-gathering meetings (every time we added a new data app, I got a few hours back in my calendar and exchanged fewer messages). Sharing data via Architatural Analytics dashboards also generates a useful feedback about how data are used, and helps ensuring that data is up-to-date and accessible.
 - **Automation**: Automation minimizes manual effort, which is crucial as manual processes do not scale efficiently. Automating data management processes ensures that data can be collected, processed, and analyzed without extensive human intervention.
 
 ### Collaborative Networks
@@ -58,12 +58,12 @@ The second goal, ensuring that an architecture practice can adapt quickly to sta
 
 The Grounded Architecture framework has core elements that provide a highly flexible and adaptive setting. Here are the key drivers of flexibility within this structure:
 
-### Architectural Analytics
+### Lightweight Architectural Analytics
 
-The **Architectural Analytics** can support adaptability by:
+The **Lightweight Architectural Analytics** can support adaptability by:
 
 * **Automation and Extensibility**: We used lean and flexible tools that we could swiftly extend and reconfigure to accommodate changes. For example, following acquisitions or mergers, with our lean tools and automation scripts, we were able to integrate all new source code repositories and many other data sources in a matter of hours or days. Automation ensures that data remains relevant and up-to-date, providing essential connections and feedback tailored to the organization's evolving needs.
-* **Configurable Adaptation to Organizational Changes**: We created robust Architectural Analytics to adapt its views to the changing realities of different parts of the organization, ensuring that data insights are always aligned with current operational contexts. For instance, we developed tools that enable explorative, on-the-fly aggregation of diverse data sources (e.g., created aggregated source code statistic reports based on repository tags or name conventions).
+* **Configurable Adaptation to Organizational Changes**: We created robust Lightweight Architectural Analytics to adapt its views to the changing realities of different parts of the organization, ensuring that data insights are always aligned with current operational contexts. For instance, we developed tools that enable explorative, on-the-fly aggregation of diverse data sources (e.g., created aggregated source code statistic reports based on repository tags or name conventions).
 
 ### Collaborative Networks
 
@@ -89,9 +89,9 @@ The third goal stated that we need tools and mechanisms to make a decision proce
 
 To make the decision process more data-informed and less dependent on opinions, we need to focus on the interplay between three foundational elements. These elements collectively create a robust framework for data-driven decision-making in architectural discussions. 
 
-### Architectural Analytics
+### Lightweight Architectural Analytics
 
-The **Architectural Analytics** ensures the availability and readiness of data needed for decisions, fueling data-informed discussions:
+The **Lightweight Architectural Analytics** ensures the availability and readiness of data needed for decisions, fueling data-informed discussions:
 
 - **Data Collection:** Systematically gather high-quality data on relevant internal and external technology developments.
 - **Data Management:** Maintain a well-organized and easily accessible database that supports quickly retrieving relevant data.
@@ -125,9 +125,9 @@ The fourth goal emphasizes that an architecture practice should be a cohesive fa
 
 Misalignments often occur in such settings due to various factors, including complex structures and diverse objectives. However, a well-grounded architecture can address and reduce these misalignments through its foundations.
 
-### Architectural Analytics
+### Lightweight Architectural Analytics
 
-The **Architectural Analytics** improves organization alignment by **creating transparency**. By establishing a robust Architectural Analytics, organizations can enhance transparency, which is necessary for building trust and facilitating alignment. This involves making data easily accessible and understandable across different departments, ensuring everyone has the same information and can make informed decisions. Transparent data practices help align objectives and actions, reducing the chances of misalignment.
+The **Lightweight Architectural Analytics** improves organization alignment by **creating transparency**. By establishing a robust Lightweight Architectural Analytics, organizations can enhance transparency, which is necessary for building trust and facilitating alignment. This involves making data easily accessible and understandable across different departments, ensuring everyone has the same information and can make informed decisions. Transparent data practices help align objectives and actions, reducing the chances of misalignment.
 
 ### Collaborative Networks
 
@@ -149,12 +149,12 @@ Our last goal is that architecture should help organizations learn quickly, stay
 
 ![image by rawpixel from istock](assets/images/istock/iStock-871461580.jpg)
 
-The Grounded Architecture framework offers comprehensive support through its Architectural Analytics, Collaborative Networks, and Operating Model to help organizations learn quickly, stay up-to-date with emerging technologies, and recommend technology upgrades.
+The Grounded Architecture framework offers comprehensive support through its Lightweight Architectural Analytics, Collaborative Networks, and Operating Model to help organizations learn quickly, stay up-to-date with emerging technologies, and recommend technology upgrades.
 
-### Architectural Analytics
-Architectural Analytics plays a pivotal role in accelerating the learning and adoption of new technologies. Here's how:
+### Lightweight Architectural Analytics
+Lightweight Architectural Analytics plays a pivotal role in accelerating the learning and adoption of new technologies. Here's how:
 
-- **Facilitating Exploration and Reflection**: Architectural Analytics enables individuals and teams to explore new tools and technologies effectively by providing relevant and comprehensive data. Access to this data allows for thorough experimentation, analysis of outcomes, and reflection, which is crucial for understanding and refining new technology implementations. For instance, it may not be easy to calculate the cost of a new cloud service. However, running proofs-of-concept and analyzing collected data can provide good insights.
+- **Facilitating Exploration and Reflection**: Lightweight Architectural Analytics enables individuals and teams to explore new tools and technologies effectively by providing relevant and comprehensive data. Access to this data allows for thorough experimentation, analysis of outcomes, and reflection, which is crucial for understanding and refining new technology implementations. For instance, it may not be easy to calculate the cost of a new cloud service. However, running proofs-of-concept and analyzing collected data can provide good insights.
 - **Supporting Informed Decision-Making**: Architects and teams can make informed decisions regarding technology adoption and upgrades with up-to-date data. This minimizes the risk associated with implementing new technologies and ensures that the choices are based on solid evidence and insights.
 
 ### Collaborative Networks
@@ -169,7 +169,7 @@ The Operating Model integrates learning into daily workflows through structured 
 - **Embedding Learning into Processes**: Learning is accelerated by embedding it into the organization's processes. This is achieved by defining and distributing knowledge-sharing and lesson-learned processes across the organization. By doing so, learning becomes a seamless part of daily activities rather than an additional task. 
 - **Systematic Knowledge Capture and Application**: The platform ensures that knowledge is systematically captured, shared, and applied. This approach minimizes overhead while maximizing learning opportunities, enabling the organization to quickly adapt and apply new insights and technologies.
 
-By leveraging Architectural Analytics, Collaborative Networks, and Operating Model, the Grounded Architecture framework ensures that learning is continuous, efficient, and embedded within the organization's fabric. This comprehensive support system helps organizations stay up-to-date with emerging technologies and industry trends and fosters a proactive learning environment that drives innovation and growth.
+By leveraging Lightweight Architectural Analytics, Collaborative Networks, and Operating Model, the Grounded Architecture framework ensures that learning is continuous, efficient, and embedded within the organization's fabric. This comprehensive support system helps organizations stay up-to-date with emerging technologies and industry trends and fosters a proactive learning environment that drives innovation and growth.
 
 ## Questions to Consider
 
@@ -177,11 +177,11 @@ It is always essential to be thoughtful about the value and impact of your work.
 
 * *How effective is your organization's current an architecture practice at scale? How valuable could principles of Grounded Architecture be in enhancing its efficiency?*
 * *To what extent does your organization use data to inform architectural decisions? What steps could you take to move your organization from opinion-based to more data-driven decision-making?*
-* *How well-aligned are the different areas within your organization, and how does this affect your an architecture practice? Could the Architectural Analytics and Collaborative Networks principles be utilized to improve alignment?*
+* *How well-aligned are the different areas within your organization, and how does this affect your an architecture practice? Could the Lightweight Architectural Analytics and Collaborative Networks principles be utilized to improve alignment?*
 * *What strategies does your organization currently have to foster organizational learning? How could the methods described in the Grounded Architecture model enhance this?*
 * *How quickly can your organization adopt and utilize new technologies? How could your an architecture practice accelerate this process?*
 * *Consider the adaptivity of your organization's an architecture practice. How could your an architecture practice improve it?*
-* *Reflecting on the value of the "Architectural Analytics" concept, how effectively is your organization tracking changes or supporting what-if scenarios analysis?*
+* *Reflecting on the value of the "Lightweight Architectural Analytics" concept, how effectively is your organization tracking changes or supporting what-if scenarios analysis?*
 * *What role do most senior architects play in your organization? Could their time be better utilized on strategic initiatives?*
-* *How sustainable is an architecture practice in your organization in the absence of a strong central team? Could implementing a Architectural Analytics and well-connected architects help mitigate this?*
+* *How sustainable is an architecture practice in your organization in the absence of a strong central team? Could implementing a Lightweight Architectural Analytics and well-connected architects help mitigate this?*
 

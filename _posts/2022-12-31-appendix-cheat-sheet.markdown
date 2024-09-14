@@ -60,17 +60,17 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Tashu
 
 ## Grounded Architecture Framework
 
-### Architectural Analytics
-> * The Architectural Analytics serves as a medium to create a complete, up-to-date picture of critical elements of the technology landscapes of big organizations. 
-> * Architectural Analytics provides an architecture-centric view of data about a technology landscape based on source code analyses, public cloud billing reports, vibrancy reports, or incident tickets.
-> * To facilitate the creation of a Architectural Analytics, I have been working on creating open-source tools that can help obtain valuable architectural insights from data sources, such as source code repositories. Check out open-source [architecture dashboard examples](https://zeljkoobrenovic.github.io/grounded-architecture-dashboard-examples/) and [Sokrates](https://sokrates.dev).
+### Lightweight Architectural Analytics
+> * Lightweight Architectural Analytics serves as a medium to create a complete, up-to-date picture of critical elements of the technology landscapes of big organizations. 
+> * Lightweight Architectural Analytics provides an architecture-centric view of data about a technology landscape based on source code analyses, public cloud billing reports, vibrancy reports, or incident tickets.
+> * To facilitate the creation of a Lightweight Architectural Analytics, I have been working on creating open-source tools that can help obtain valuable architectural insights from data sources, such as source code repositories. Check out open-source [architecture dashboard examples](https://zeljkoobrenovic.github.io/grounded-architecture-dashboard-examples/) and [Sokrates](https://sokrates.dev).
 
 ### Collaborative Networks
 > * Developing an architecture practice requires having competent, empowered, and motivated architects. Architecture practice must carefully organize, empower, and leverage scarce talent.
 > * In my work in the past few years, I combined two teams of architects: a small central architecture team and a cross-organizational distributed virtual team.
 
 ### Operating Model
-> * The Operating Model is a system of processes and agreements enabling architects to do everything architecture typically does, leveraging Architectural Analytics and Collaborative Networks to create a data-informed, organization-wide impact.
+> * The Operating Model is a system of processes and agreements enabling architects to do everything architecture typically does, leveraging Lightweight Architectural Analytics and Collaborative Networks to create a data-informed, organization-wide impact.
 > * Examples of activities include: supporting teams in their daily work; tracking tech debt, defining tech debt reduction programs; performing technical due diligence; standardizing processes and documentation; defining cloud, data, and platform strategies.
 
 ### Transforming Organizations with Grounded Architecture

@@ -8,7 +8,7 @@ author: by Željko Obrenović (obren.io)
 permalink: operating-model
 icon: activities.png
 timetoread: 15 min
-excerpt: "Operating Model defines how, by leveraging Architectural Analytics and Collaborative Networks, we perform activities that help an organization reach its goals. Examples include supporting teams in their daily work, tracking tech debt, performing technical due diligence, standardizing processes and documentation, and defining cloud, data, and platform strategies."
+excerpt: "Operating Model defines how, by leveraging Lightweight Architectural Analytics and Collaborative Networks, we perform activities that help an organization reach its goals. Examples include supporting teams in their daily work, tracking tech debt, performing technical due diligence, standardizing processes and documentation, and defining cloud, data, and platform strategies."
 
 ---
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
@@ -20,7 +20,7 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/ma_ri
 >
 > **KEY POINTS:**
 >
-> * The Operating Model is a system of processes and agreements enabling architects to do everything architecture typically does, leveraging Architectural Analytics and Collaborative Networks to create a data-informed, organization-wide impact.
+> * The Operating Model is a system of processes and agreements enabling architects to do everything architecture typically does, leveraging Lightweight Architectural Analytics and Collaborative Networks to create a data-informed, organization-wide impact.
 > * Examples of activities include: supporting teams in their daily work; tracking tech debt; performing technical due diligence; standardizing processes and documentation; defining cloud, data, and platform strategies.
 <style>
     .quote {
@@ -59,7 +59,7 @@ No matter which operating models you select, it's crucial to develop **explicit 
 ![](assets/images/model-operating-model.png)
 ***Figure 1:** The Grounded Architecture framework: Operating Model.*
 
-This section outlines some lessons I learned when defining IT architecture operating models. The Operating Model (Figure 1) is a part of the Grounded Architecture framework that defines a set of **processes and agreements** that allow architects to do everything an architecture practice typically does. The model should leverage Architectural Analytics and Collaborative Networks to develop a data-informed, organization-wide impact. Architectural Analytics and Collaborative Networks provide a basis for data-informed decision-making that is well-embedded in the organization.
+This section outlines some lessons I learned when defining IT architecture operating models. The Operating Model (Figure 1) is a part of the Grounded Architecture framework that defines a set of **processes and agreements** that allow architects to do everything an architecture practice typically does. The model should leverage Lightweight Architectural Analytics and Collaborative Networks to develop a data-informed, organization-wide impact. Lightweight Architectural Analytics and Collaborative Networks provide a basis for data-informed decision-making that is well-embedded in the organization.
 
 
 <br>
@@ -124,7 +124,7 @@ Here are the key characteristics of this operating framework:
   * Architects aim to **empower the teams** so that they make most of the decisions.
 
 **Contributions of architects**: 
-  * **Bring relevant data** to inform decisions leveraging [Architectural Analytics](analytics).
+  * **Bring relevant data** to inform decisions leveraging [Lightweight Architectural Analytics](analytics).
   * **Define decision boundaries** to enable minimal compatibility and strategic alignment (e.g., golden paths or tech stack constraints).
   * **Define fundamental principles** to facilitate consistency in decision-making.
   * **Share and generalize** lessons learned via [Collaborative Networks](people).

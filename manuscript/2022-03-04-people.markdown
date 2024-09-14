@@ -2,8 +2,7 @@
 
 # Collaborative Networks {#people}
 
-![](assets/images/arch/construction-4939383_1920.jpg)
-^image by mostafa meraji from pixabay^
+![image by mostafa meraji from pixabay](assets/images/arch/construction-4939383_1920.jpg)
 
 **IN THIS SECTION, YOU WILL:**  Understand that an architecture practice is all about people and get tips on creating organizational structures that support a practical IT architecture practice.
 
@@ -19,8 +18,7 @@ Good architects are a rare breed. They bridge the gaps between business, product
 
 So, you cannot just 3D print your architects or hire them in buckets. But you can carefully organize, empower, and leverage this scarce talent (Figure 1). 
 
-![](assets/images/model-people.png)
-***Figure 1:** The Grounded Architecture framework: Collaborative Networks.*
+![Figure 1: The Grounded Architecture framework: Collaborative Networks.](assets/images/model-people.png)
 
 A strong network of people doing architecture is crucial for any real impact. In simpler terms, **Strong Architecture = Strong Architects**.
 
@@ -30,8 +28,7 @@ In my recent escapades, I worked with two teams of architect teams: a small **ce
 
 An IT architecture practice generally follow one of two fundamental models: central or federated (Figure 2, [McKinsey 2022](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/tech-forward/crafting-the-optimal-model-for-the-it-architecture-organization)).
 
-![](assets/images/arch/arch_teams.png)
-***Figure 2:** Central vs. Federated Architecture Practice.*
+![Figure 2: Central vs. Federated Architecture Practice.](assets/images/arch/arch_teams.png)
 
 **The central model** is like a tightly run coffee shop. A large central team sets the rules, approves new work, and ensures everyone follows the script. Development teams in this model are like customers with no coffee-making skills, relying entirely on the central baristas. The central team handles infrastructure, operations, and security—essentially controlling the caffeine supply chain.
 
@@ -59,12 +56,11 @@ I prefer the **hybrid team structure** as it scales better in complex organizati
 
 The roles of people in central teams may differ depending on the organization. However, it's crucial to recognize uniwue value a central architecture team. 
 
-![](assets/images/istock/iStock-480342200.jpg)
-^image by simonkr from istock^
+![image by simonkr from istock](assets/images/istock/iStock-480342200.jpg)
 
 Such a team, in addition to the doing architecture work, can be instrumental in covering these often overlooked responsibilities:
 
-* **Build and maintain the architecture [Architectural Analytics](#analytics).** With all AI advances, it will not build itself! You need clear ownership, curation, and technical support to make it work.
+* **Build and maintain the architecture [Lightweight Architectural Analytics](#analytics).** With all AI advances, it will not build itself! You need clear ownership, curation, and technical support to make it work.
 
 * **Promote data-informed decision-making.** It's not enough to have data; you've got to *use* it. This is like trying to convince your grandpa to use a smartphone—challenging but doable. Architects should be tech-savvy wizards who show everyone else how things are done, making data the critical actor of every decision.
 
@@ -78,8 +74,7 @@ While guilds and virtual teams can handle many of these activities, their volunt
 
 I've always found it crucial to rally passionate troops about architecture through a guild, a community of interest, or a virtual team. After all, who doesn't love a good architecture geek meet-up?
 
-![](assets/images/istock/iStock-1199706305.jpg)
-^image by sdi productions from istock^
+![image by sdi productions from istock](assets/images/istock/iStock-1199706305.jpg)
 
 Our guilds or virtual team members typically double as architects or tech leads in their respective departments. But they also moonlight by collaborating with their counterparts from other areas. These **peer-to-peer communities** are collectively responsible for spotting and nurturing architectural talent, mentoring, and helping each other out of sticky situations.
 
@@ -111,8 +106,7 @@ While each organization will need its unique approach, here are some tips I foun
 
 * **Externalize**. Reach out and connect. Participate in external events. Publish your work. Being strong externally can help you grow and attract architectural talent. Everyone wants to join the band when you're rocking the stage.
 
-![](assets/images/arch/pyramid-g88f894074_1920.jpg)
-^image by chantellev from pixabay^
+![image by chantellev from pixabay](assets/images/arch/pyramid-g88f894074_1920.jpg)
 
 ## To Probe Further
 

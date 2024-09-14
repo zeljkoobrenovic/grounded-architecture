@@ -2,8 +2,7 @@
 
 # Decision Intelligence in IT Architecture {#decision-intelligence}
 
-![](assets/images/istock/iStock-1365878406.jpg)
-^image by sasun bughdaryan from istock^
+![image by sasun bughdaryan from istock](assets/images/istock/iStock-1365878406.jpg)
 
 **IN THIS SECTION, YOU WILL:**  Learn the basics of decision intelligence, the discipline of turning information into
 
@@ -35,8 +34,7 @@ they flex their decision intelligence:
 
 Decision intelligence is the secret sauce of IT architects' work in every twist and turn.
 
-![](assets/images/istock/iStock-1194231226.jpg)
-^image by francescoch from istock^
+![image by francescoch from istock](assets/images/istock/iStock-1194231226.jpg)
 
 ## Basics of Decision-Making
 
@@ -123,8 +121,7 @@ decisions need to be treated like a royal decree. Save the deep dives for the bi
 Decisions are the steering wheel for reaching our goals. Consequently, it is crucial to understand and define goals
 properly and to understand whether a decision needs to be made at all.
 
-![](assets/images/istock/iStock-1301200404.jpg)
-^image by dilok klaisataporn from istock^
+![image by dilok klaisataporn from istock](assets/images/istock/iStock-1301200404.jpg)
 
 ### Setting Goals
 
@@ -216,8 +213,7 @@ So, next time you're in a meeting and wondering if you're there to make a differ
 advisor in a decision-making drama, remember to whip out the magic question. It's your ticket to knowing whether you're
 in for an epic decision-making saga or a cameo appearance.
 
-![](assets/images/istock/iStock-1043738948.jpg)
-^image by chaiyapruek2520 from istock^
+![image by chaiyapruek2520 from istock](assets/images/istock/iStock-1043738948.jpg)
 
 ## Decision-Making Complexity
 
@@ -389,11 +385,10 @@ stakeholder feedback, and identifying lessons learned all refine future decision
 ## Decision-Making With Data and Tools
 
 Decision-making has evolved beyond pen and paper, with data playing a crucial role in modern methods. Data, like the one
-I use in [Architectural Analytics](#analytics), while visually appealing and powerful when used correctly, 
+I use in [Lightweight Architectural Analytics](#analytics), while visually appealing and powerful when used correctly, 
 is **only a tool to assist** in making informed decisions. It's a means to an impactful end, but **without purposeful application, data is ineffective**.
 
-![](assets/images/istock/iStock-1316937637.jpg)
-^image by blue planet studio from istock^
+![image by blue planet studio from istock](assets/images/istock/iStock-1316937637.jpg)
 
 ### Remember that data has limitations
 
@@ -450,8 +445,7 @@ asking the right questions is like wandering into a labyrinth with a blindfold o
 
 Effective decision-making often involves recognizing that **you might not be the sole decision-maker**. In organizations, it's crucial to identify the actual decision-makers and understand how decision responsibility is distributed among them. Mastering this skill is essential for navigating organizational decision-making processes. It's important to question who really has the final say in decisions. In many cases, decision-making is more complex than it appears.
 
-![](assets/images/istock/iStock-1198639725.jpg)
-^image by prostock-studio from istock^
+![image by prostock-studio from istock](assets/images/istock/iStock-1198639725.jpg)
 
 Group decision-making offers significant advantages. While you might believe you have the best solutions, incorporating diverse perspectives can help cover your blind spots. Multiple decision-makers can counterbalance an individual's extreme tendencies and compensate for human limitations like fatigue.
 

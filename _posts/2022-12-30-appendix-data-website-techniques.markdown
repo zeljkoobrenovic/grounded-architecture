@@ -1,14 +1,14 @@
 ---
 layout: post
 section: "Appendix 4: Software Tools"
-title: "Building Architectural Analytics Website: Lean Design Patterns and Techniques"
+title: "Building Lightweight Architectural Analytics"
 position: 12130
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 permalink: data-website
 icon: data-website.png
 timetoread: 15 min
-excerpt: A few practical tips on building lean architecture dashboards and documents (e.g., to create Architectural Analytics) using simple, widely available tools.
+excerpt: A few practical tips on building lean architecture dashboards and documents (e.g., to create Lightweight Architectural Analytics) using simple, widely available tools.
 
 ---
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover"
@@ -22,14 +22,14 @@ Image by <a href="https://pixabay.com/users/jozefm84-10215106/?utm_source=link-a
     }
 </style>
 
-> **IN THIS SECTION, YOU WILL:**Get a few practical tips on building lean architecture dashboards and documents (e.g., to create Architectural Analytics) using simple, widely available tools.
+> **IN THIS SECTION, YOU WILL:**Get a few practical tips on building lean architecture dashboards and documents (e.g., to create Lightweight Architectural Analytics) using simple, widely available tools.
 
 <br>
 While the lessons in this book are not limited to specific technologies and tools, I will share a few of my secrets for easily and affordably creating dashboards and documents that are crucial for data-informed decision-making.
 
 Have you ever felt overwhelmed by the many specialized tools for creating architectural artifacts? Fear not! I'm here to show you that simplicity is often the key to brilliance. Imagine crafting high-quality documentation and stunning visualizations without complex software or extensive training. Not only is it possible, but it's also incredibly efficient.
 
-In this guide, I'll explore the power of leveraging simple, lean tools that are widely available and easy to use. You don't need to be a tech wizard to create impressive [Architectural Analytics](analytics) dashboards and architectural documents. I hope you will find these techniques refreshingly straightforward and efficient.
+In this guide, I'll explore the power of leveraging simple, lean tools that are widely available and easy to use. You don't need to be a tech wizard to create impressive [Lightweight Architectural Analytics](analytics) dashboards and architectural documents. I hope you will find these techniques refreshingly straightforward and efficient.
 
 Here are two examples to illustrate the power of simplicity:
 

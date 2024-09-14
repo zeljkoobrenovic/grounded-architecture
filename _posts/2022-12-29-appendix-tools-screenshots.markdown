@@ -8,7 +8,7 @@ author: by Željko Obrenović (obren.io)
 permalink: screenshots
 icon: examples.png
 timetoread: 15 min
-excerpt: Screenshots of concrete tools I built as a part of Architectural Analytics websites.
+excerpt: Screenshots of concrete tools I built as a part of Lightweight Architectural Analytics websites.
 
 
 ---
@@ -18,7 +18,7 @@ src="assets/images/sokrates_screenshot.png">
 A screenshot of a Sokrates report 
 </div>
 
-> **IN THIS SECTION, YOU WILL:** See a few screenshots of concrete tools I built as a part of Architectural Analytics websites.
+> **IN THIS SECTION, YOU WILL:** See a few screenshots of concrete tools I built as a part of Lightweight Architectural Analytics websites.
 
 <style>
     .book {
@@ -45,7 +45,7 @@ A screenshot of a Sokrates report
 <br>
 ## Dashboards
 
-Here are the screenshots from Architectural Analytics websites I built in AVIV Group (Figure 1) and eBay Classifieds (Figure 2):
+Here are the screenshots from Lightweight Architectural Analytics websites I built in AVIV Group (Figure 1) and eBay Classifieds (Figure 2):
 
 <br>
 <img src="assets/images/apps.png" style="padding: 4px; padding-top: 8px; padding-bottom: 8px; box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px; margin-bottom: 6px">

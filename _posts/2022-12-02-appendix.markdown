@@ -49,6 +49,6 @@ Pragmatic Knowledge Resources:
 
 Software Tools:
 * **[Software Tools](https://grounded-architecture.io/tools)** an overview of several tools I’ve built and use in daily architectural work.
-* **[Software Tools: Examples and Screenshots](https://grounded-architecture.io/screenshots)** screenshots of concrete tools I built as a part of Architectural Analytics websites.
-* **[Building Architectural Analytics Website: Lean Design Patterns and Techniques](https://grounded-architecture.io/data-website)** a few practical tips on building lean architecture dashboards and documents (e.g., to create Architectural Analytics) using simple, widely available tools.
+* **[Software Tools: Examples and Screenshots](https://grounded-architecture.io/screenshots)** screenshots of concrete tools I built as a part of Lightweight Architectural Analytics websites.
+* **[Building Lightweight Architectural Analytics](https://grounded-architecture.io/data-website)** a few practical tips on building lean architecture dashboards and documents (e.g., to create Lightweight Architectural Analytics) using simple, widely available tools.
 

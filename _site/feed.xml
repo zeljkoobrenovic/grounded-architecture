@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-09-13T16:15:36+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: Redefining IT Architecture Practice</title><subtitle></subtitle><entry><title type="html">Cheat Sheet</title><link href="http://localhost:4000/cheat-sheet" rel="alternate" type="text/html" title="Cheat Sheet" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/appendix-cheat-sheet</id><content type="html" xml:base="http://localhost:4000/cheat-sheet"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/istock/iStock-1182643171.jpg" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-09-14T14:02:47+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: Redefining IT Architecture Practice</title><subtitle></subtitle><entry><title type="html">Cheat Sheet</title><link href="http://localhost:4000/cheat-sheet" rel="alternate" type="text/html" title="Cheat Sheet" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/appendix-cheat-sheet</id><content type="html" xml:base="http://localhost:4000/cheat-sheet"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/istock/iStock-1182643171.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Tashulia">Tashulia</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
@@ -60,12 +60,12 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Tashu
 
 <h2 id="grounded-architecture-framework">Grounded Architecture Framework</h2>
 
-<h3 id="architectural-analytics">Architectural Analytics</h3>
+<h3 id="lightweight-architectural-analytics">Lightweight Architectural Analytics</h3>
 <blockquote>
   <ul>
-    <li>The Architectural Analytics serves as a medium to create a complete, up-to-date picture of critical elements of the technology landscapes of big organizations.</li>
-    <li>Architectural Analytics provides an architecture-centric view of data about a technology landscape based on source code analyses, public cloud billing reports, vibrancy reports, or incident tickets.</li>
-    <li>To facilitate the creation of a Architectural Analytics, I have been working on creating open-source tools that can help obtain valuable architectural insights from data sources, such as source code repositories. Check out open-source <a href="https://zeljkoobrenovic.github.io/grounded-architecture-dashboard-examples/">architecture dashboard examples</a> and <a href="https://sokrates.dev">Sokrates</a>.</li>
+    <li>Lightweight Architectural Analytics serves as a medium to create a complete, up-to-date picture of critical elements of the technology landscapes of big organizations.</li>
+    <li>Lightweight Architectural Analytics provides an architecture-centric view of data about a technology landscape based on source code analyses, public cloud billing reports, vibrancy reports, or incident tickets.</li>
+    <li>To facilitate the creation of a Lightweight Architectural Analytics, I have been working on creating open-source tools that can help obtain valuable architectural insights from data sources, such as source code repositories. Check out open-source <a href="https://zeljkoobrenovic.github.io/grounded-architecture-dashboard-examples/">architecture dashboard examples</a> and <a href="https://sokrates.dev">Sokrates</a>.</li>
   </ul>
 </blockquote>
 
@@ -80,7 +80,7 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Tashu
 <h3 id="operating-model">Operating Model</h3>
 <blockquote>
   <ul>
-    <li>The Operating Model is a system of processes and agreements enabling architects to do everything architecture typically does, leveraging Architectural Analytics and Collaborative Networks to create a data-informed, organization-wide impact.</li>
+    <li>The Operating Model is a system of processes and agreements enabling architects to do everything architecture typically does, leveraging Lightweight Architectural Analytics and Collaborative Networks to create a data-informed, organization-wide impact.</li>
     <li>Examples of activities include: supporting teams in their daily work; tracking tech debt, defining tech debt reduction programs; performing technical due diligence; standardizing processes and documentation; defining cloud, data, and platform strategies.</li>
   </ul>
 </blockquote>
@@ -506,12 +506,12 @@ Image by <a href="https://pixabay.com/users/bluehouseskis-14931490/?utm_source=l
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/DarioTruco">Dario Truco</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 <blockquote>
-  <p><strong>IN THIS SECTION, YOU WILL:</strong> Get an overview of the Grounded Architecture framework: Architectural Analytics, Collaborative Networks, and Operating Model.</p>
+  <p><strong>IN THIS SECTION, YOU WILL:</strong> Get an overview of the Grounded Architecture framework: Lightweight Architectural Analytics, Collaborative Networks, and Operating Model.</p>
 
   <p><strong>KEY POINTS:</strong></p>
 
   <ul>
-    <li>I introduce three elements of Grounded Architecture Framework: Architectural Analytics, Collaborative Networks, and The Operating Model as an approach to setting organizational structures for a modern IT architecture practice.</li>
+    <li>I introduce three elements of Grounded Architecture Framework: Lightweight Architectural Analytics, Collaborative Networks, and The Operating Model as an approach to setting organizational structures for a modern IT architecture practice.</li>
     <li>Prioritizing people interactions and data over processes and tools, Grounded Architecture aims to connect an architecture practice to all organizational levels as an antidote to the “ivory tower” architecture.</li>
   </ul>
 </blockquote>
@@ -540,7 +540,7 @@ In this part, I will briefly introduce the Grounded Architecture framework. I ch
 <p>Grounded Architecture framework is an approach to setting organizational structures for an architecture practice, and it has three elements:</p>
 
 <ul>
-  <li>Architectural Analytics,</li>
+  <li>Lightweight Architectural Analytics,</li>
   <li>Collaborative Networks,</li>
   <li>The Operating Model.</li>
 </ul>
@@ -549,14 +549,14 @@ In this part, I will briefly introduce the Grounded Architecture framework. I ch
 
 <p><em><strong>Figure 1:</strong> The Grounded Architecture framework.</em></p>
 
-<p><em>Architectural Analytics</em> is <strong>a system of tools and resources</strong> that enables architects to make <strong>data-informed decisions</strong> based on a real-time and complete overview of the organization’s technology landscape. <a href="analytics">Architectural Analytics section</a> provides more details.</p>
+<p><em>Lightweight Architectural Analytics</em> is <strong>a system of tools and resources</strong> that enables architects to make <strong>data-informed decisions</strong> based on a real-time and complete overview of the organization’s technology landscape. <a href="analytics">Lightweight Architectural Analytics section</a> provides more details.</p>
 
 <p><em>Collaborative Networks</em> <strong>connect all the people</strong> doing architecture across the organization. Thse networks are crucial to ensure that an architecture practice has any <strong>tangible impact</strong>. The <a href="people">Collaborative Networks section</a> provides more details.</p>
 
 <p>Lastly, the <em>Operating Model</em> defines:</p>
 <ul>
   <li>
-    <p><strong><a href="operating-model">General Principles</a></strong>: I’ve defined several <strong>general guidelines</strong> on directing architects to do everything an architecture practice typically does, leveraging Architectural Analytics and Collaborative Networks to create a data-informed, organization-wide impact.</p>
+    <p><strong><a href="operating-model">General Principles</a></strong>: I’ve defined several <strong>general guidelines</strong> on directing architects to do everything an architecture practice typically does, leveraging Lightweight Architectural Analytics and Collaborative Networks to create a data-informed, organization-wide impact.</p>
   </li>
   <li>
     <p><strong><a href="six-simple-rules">Cooperation-Based Operating Model: Six Simple Rules</a></strong>: Grounded Architecture is particularly well-suited for organizations organized based on cooperation. As businesses grow increasingly complex, the importance of cooperation within organizational structures cannot be overstated. The “Six Simple Rules” framework emphasizes that successful organizations leverage their members’ collective judgment and cooperation. By fostering a culture of collaboration, organizations can better utilize their capabilities to address and resolve complex problems.</p>
@@ -566,9 +566,9 @@ In this part, I will briefly introduce the Grounded Architecture framework. I ch
   </li>
 </ul>
 
-<p>While I elaborately discuss many faces of the operating model, I want to emphasize that any Operating Model is only relevant if there are <strong>healthy Architectural Analytics and Collaborative Networks</strong>. Without data and people connections, an operating model leads to an ivory tower institution, generating opinion-based decisions disconnected from reality.</p>
+<p>While I elaborately discuss many faces of the operating model, I want to emphasize that any Operating Model is only relevant if there are <strong>healthy Lightweight Architectural Analytics and Collaborative Networks</strong>. Without data and people connections, an operating model leads to an ivory tower institution, generating opinion-based decisions disconnected from reality.</p>
 
-<p>Now that we’ve completed the high-level Grounded Architecture tour let’s examine the specifics.</p>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[I introduce three elements of Grounded Architecture Framework: Architectural Analytics, Collaborative Networks, and The Operating Model.]]></summary></entry><entry><title type="html">Architectural Analytics</title><link href="http://localhost:4000/analytics" rel="alternate" type="text/html" title="Architectural Analytics" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/data-platform</id><content type="html" xml:base="http://localhost:4000/analytics"><![CDATA[<p><img src="assets/images/istock/iStock-1414981473.jpg" style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" /></p>
+<p>Now that we’ve completed the high-level Grounded Architecture tour let’s examine the specifics.</p>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[I introduce three elements of Grounded Architecture Framework: Lightweight Architectural Analytics, Collaborative Networks, and The Operating Model.]]></summary></entry><entry><title type="html">Lightweight Architectural Analytics</title><link href="http://localhost:4000/analytics" rel="alternate" type="text/html" title="Lightweight Architectural Analytics" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/data-platform</id><content type="html" xml:base="http://localhost:4000/analytics"><![CDATA[<p><img src="assets/images/istock/iStock-1414981473.jpg" style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/ko_orn">ko_orn</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
@@ -578,9 +578,9 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/ko_or
   <p><strong>KEY POINTS:</strong></p>
 
   <ul>
-    <li>The Architectural Analytics serves as a medium to create a complete, up-to-date picture of critical elements of the organization’s technology landscapes.</li>
-    <li>Architectural Analytics provides an architecture-centric view of data about a technology landscape based on source code analyses, public cloud billing reports, vibrancy reports, or incident tickets.</li>
-    <li>To facilitate the creation of Architectural Analytics, I have been creating open-source tools that can help you obtain valuable architectural insights from data sources, such as source code repositories. Check out open-source <a href="https://zeljkoobrenovic.github.io/grounded-architecture-dashboard-examples/">architecture dashboard examples</a> and <a href="https://sokrates.dev">Sokrates</a>.</li>
+    <li>Lightweight Architectural Analytics serves as a medium to create a complete, up-to-date picture of critical elements of the organization’s technology landscapes.</li>
+    <li>Such analytics provides an architecture-centric view of data about a technology landscape based on source code analyses, public cloud billing reports, vibrancy reports, or incident tickets.</li>
+    <li>To facilitate the creation of Lightweight Architectural Analytics, I have been creating open-source tools that can help you obtain valuable architectural insights from data sources, such as source code repositories. Check out open-source <a href="https://zeljkoobrenovic.github.io/grounded-architecture-dashboard-examples/">architecture dashboard examples</a> and <a href="https://sokrates.dev">Sokrates</a>.</li>
   </ul>
 </blockquote>
 <style>
@@ -606,25 +606,27 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/ko_or
 </blockquote>
 
 <p><br />
-Everywhere I worked on creating an architecture practice, I strongly (aka obsessively) <strong>emphasized data.</strong> Consequently, one of the first steps I make in any an architecture practice is to create an Architectural Analytics to get a complete, up-to-date picture of critical elements of an organization’s technology landscapes (Figure 1). Manual documentation does not scale, and relying on data ensures the reliability and scalability of decision-making.</p>
+Everywhere I worked on creating an architecture practice, I strongly (aka obsessively) <strong>emphasized data.</strong> Consequently, one of the first steps I make in any an architecture practice is to create an Lightweight Architectural Analytics to get a complete, up-to-date picture of critical elements of an organization’s technology landscapes (Figure 1). Manual documentation does not scale, and relying on data ensures the reliability and scalability of decision-making.</p>
 
 <p><img src="assets/images/model-data.png" alt="" />
-<em><strong>Figure 1:</strong> The Grounded Architecture framework: Architectural Analytics.</em></p>
+<em><strong>Figure 1:</strong> The Grounded Architecture framework: Lightweight Architectural Analytics.</em></p>
 
 <p><br />
-The good news is that <strong>big organizations have lots of data</strong> that, if used wisely, can provide an excellent basis for an architectural Architectural Analytics. With some <strong>automation</strong> and lots of <strong>curation</strong>, getting a crystal clear overview of the technology landscape may be closer than it initially appears.</p>
+The good news is that <strong>big organizations have lots of data</strong> that, if used wisely, can provide an excellent basis for an architectural Lightweight Architectural Analytics. With some <strong>automation</strong> and lots of <strong>curation</strong>, getting a crystal clear overview of the technology landscape may be closer than it initially appears.</p>
+
+<p>I call the tools I will discuss in this section <strong>lightweight</strong> to emphasize that, you don’t need to begin with costly or overly complicated software platforms. Plenty of simple and affordable tools—many of them open-source—can help you gain meaningful insights without breaking the bank.</p>
 
 <p><br /></p>
-<h2 id="examples-of-architectural-analytics-tools">Examples of Architectural Analytics Tools</h2>
+<h2 id="examples-of-lightweight-architectural-analytics-tools">Examples of Lightweight Architectural Analytics Tools</h2>
 
-<p>To illustrate what I mean by Architectural Analytics, I will give a few concrete examples from my recent work (Figure 2).</p>
+<p>To illustrate what I mean by Lightweight Architectural Analytics, I will give a few concrete examples from my recent work (Figure 2).</p>
 
 <p><img src="assets/images/apps.png" style="padding: 4px; padding-top: 8px; padding-bottom: 8px; box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px; margin-bottom: 6px" />
 <br /></p>
 
 <p><strong>Figure 2:</strong> <em>A screenshot of the start page of the architecture data dashboard we’ve built and used at AVIV Group.</em></p>
 
-<p>I typically implement Architectural Analytics as a dashboard with many data apps, typically leveraging the following data sources:</p>
+<p>I typically implement Lightweight Architectural Analytics as a dashboard with many data apps, typically leveraging the following data sources:</p>
 <ul>
   <li><strong>Source code</strong> contains an incredible amount of information about technology, people’s activity, team dependencies, and the quality of software systems. By analyzing commit histories, code complexity, and contributions, you can identify critical areas of improvement, understand team dynamics, and ensure code quality.</li>
   <li><strong>Public cloud billing reports</strong> provide an overview of trends in used cloud services, regions, and budgets. Monitoring billing reports can help manage budgets, identify cost-saving opportunities, and understand usage patterns across different services and regions.</li>
@@ -694,11 +696,11 @@ The good news is that <strong>big organizations have lots of data</strong> that,
 <em><strong>Figure 5:</strong> Combining data from different sources (e.g., cloud billing reports and vibrancy or revenue can lead to new insights (e.g., identifying inefficiencies in the application portfolio).</em></p>
 
 <p><br /></p>
-<h2 id="requirements-for-a-architectural-analytics">Requirements For A Architectural Analytics</h2>
+<h2 id="requirements-for-a-lightweight-architectural-analytics">Requirements For A Lightweight Architectural Analytics</h2>
 
-<p>Architectural Analytics should be a central place with <strong>authoritative, relevant, and curated data</strong> about the organizational technology landscape. Technically, you can implement Architectural Analytics tools like those discussed in the previous section, using simple resources like Google Drive, with documents organized in folders or as an internal website. I recommend investing some effort in creating better infrastructure and user experience, as it can enable more people to access and benefit from data. A solid setup will make it easier for more people to access and benefit from the data, turning it into a real asset rather than a digital junk drawer.</p>
+<p>Lightweight Architectural Analytics should be a central place with <strong>authoritative, relevant, and curated data</strong> about the organizational technology landscape. Technically, you can implement Lightweight Architectural Analytics tools like those discussed in the previous section, using simple resources like Google Drive, with documents organized in folders or as an internal website. I recommend investing some effort in creating better infrastructure and user experience, as it can enable more people to access and benefit from data. A solid setup will make it easier for more people to access and benefit from the data, turning it into a real asset rather than a digital junk drawer.</p>
 
-<p>Simply collecting and putting data in one place will not create any value. Regardless of how you implement your Architectural Analytics, with papers on the wall, in Google Drive, in Confluence, or with a nicely designed internal website, I have identified the following requirements that Architectural Analytics needs to have:</p>
+<p>Simply collecting and putting data in one place will not create any value. Regardless of how you implement your Lightweight Architectural Analytics, with papers on the wall, in Google Drive, in Confluence, or with a nicely designed internal website, I have identified the following requirements that Lightweight Architectural Analytics needs to have:</p>
 
 <ul>
   <li><strong>It is the single point of truth</strong> for all relevant architectural data. People should be able to go to one place and get relevant data.</li>
@@ -707,28 +709,28 @@ The good news is that <strong>big organizations have lots of data</strong> that,
   <li><strong>It is kept up to date</strong>, ideally in an automated fashion (or semi-automated, repeatable way).</li>
   <li><strong>It is accessible to the whole organization</strong>. I genuinely believe that when you give employees access to information generally reserved for specialists, architects, or “higher levels,” they get more done independently. They can work faster without stopping to ask for information and approval. And they make better decisions without needing input from architects or the top.</li>
   <li><strong>It is used in decision-making</strong>. Having nicely curated and valuable data has zero value if you cannot ensure that such data informs vital decisions.</li>
-  <li><strong>It is built like a map.</strong> Maps are some of the most crucial documents in human history—they help us store and exchange knowledge about space and place. One thing all maps do is provide readers with a <strong>sense of orientation.</strong> And that, in a nutshell, is what Architectural Analytics should offer people in your organization: a sense of orientation in a waste space of technology, organizational, and business topics. The map metaphor is also helpful, as maps come with <strong>multiple layers.</strong> Similarly, the architecture of Architectural Analytics should give readers data layers about systems that describe their sizes, connections, quality, security, or human activity. It’s like having a trusty map that shows you where the treasure is and warns you about the dragons.</li>
+  <li><strong>It is built like a map.</strong> Maps are some of the most crucial documents in human history—they help us store and exchange knowledge about space and place. One thing all maps do is provide readers with a <strong>sense of orientation.</strong> And that, in a nutshell, is what Lightweight Architectural Analytics should offer people in your organization: a sense of orientation in a waste space of technology, organizational, and business topics. The map metaphor is also helpful, as maps come with <strong>multiple layers.</strong> Similarly, the architecture of Lightweight Architectural Analytics should give readers data layers about systems that describe their sizes, connections, quality, security, or human activity. It’s like having a trusty map that shows you where the treasure is and warns you about the dragons.</li>
 </ul>
 
 <p><br /></p>
-<h2 id="building-architectural-analytics">Building Architectural Analytics</h2>
+<h2 id="building-lightweight-architectural-analytics">Building Lightweight Architectural Analytics</h2>
 
-<p>While each organization has its own quirky set of data, here are some tips I’ve found helpful in forming the Architectural Analytics:</p>
+<p>While each organization has its own quirky set of data, here are some tips I’ve found helpful in forming the Lightweight Architectural Analytics:</p>
 
 <ul>
   <li><strong>Start with the source code.</strong> My motto is <strong><em>“Talk is expensive. Show me the code.”</em></strong> Because let’s face it, code never lies—people, on the other hand, might forget a detail or two. I scan source code as soon as possible using tools like <a href="https://sokrates.dev">Sokrates</a>. Modern IT enterprises store almost everything as code. It’s the richest and most up-to-date documentation on what’s happening. Quick source code scans can reveal that your “simple” system is actually a digital spaghetti monster.</li>
   <li><strong>Connect with finance and governance teams.</strong> My second motto is <strong><em>“Follow the money!”</em></strong> You’d be amazed at what you can learn from finance data (minus the sensitive parts, like revenue projections—let’s keep those secrets safe). Cloud billing reports and tech usage trends are collected anyway. Extract and connect these to get new insights without pestering people for more details.</li>
   <li><strong>Maintain a culture of transparency.</strong> A culture of transparency means having an organizational environment where open communication, honest information sharing, and accountability are actively encouraged and practiced at all levels. Such a culture allows simplicity, as you need less complex authorization mechanisms.</li>
-  <li><strong>Own the curation.</strong> People need to trust your data like they trust their morning coffee to wake them up. Spend time understanding data sets, curate them, and ensure they’re consistently presented. Think of yourself as the master curator and chief UX designer of Architectural Analytics.</li>
+  <li><strong>Own the curation.</strong> People need to trust your data like they trust their morning coffee to wake them up. Spend time understanding data sets, curate them, and ensure they’re consistently presented. Think of yourself as the master curator and chief UX designer of Lightweight Architectural Analytics.</li>
   <li><strong>Use simple and easy-to-maintain infrastructures.</strong> For example, I publish the results of Sokrates analyses and other data tools as static resources on our enterprise GitHub pages. Avoid the headache of complex databases and backend software. In the <a href="https://github.com/zeljkoobrenovic/grounded-architecture-dashboard-examples">Architecture Dashboard Examples repository</a>, you’ll find the source code for building the Architecture Data Dashboard. The dashboard is a simple static website generated from JSON files and <a href="https://zeljkoobrenovic.github.io/grounded-architecture-dashboard-examples/">published via GitHub pages</a>.</li>
 </ul>
 
 <p>These tips might save you from drowning in the sea of data chaos and make your architectural life a bit smoother—or at least give you a few laughs.</p>
 
 <p><br /></p>
-<h2 id="using-architectural-analytics">Using Architectural Analytics</h2>
+<h2 id="using-lightweight-architectural-analytics">Using Lightweight Architectural Analytics</h2>
 
-<p>Architectural Analytics can churn out data by the bucketful. Think of it like an atlas or a map—it’s great for finding your bearings and understanding the lay of the land. But, with the <strong>right mindset,</strong> you can turn that data into a treasure trove of insights.</p>
+<p>Lightweight Architectural Analytics can churn out data by the bucketful. Think of it like an atlas or a map—it’s great for finding your bearings and understanding the lay of the land. But, with the <strong>right mindset,</strong> you can turn that data into a treasure trove of insights.</p>
 
 <p>Interpreting and using data requires a bit of effort—think of it as a <strong>detective game</strong> where the data holds the answers, but you need to come armed with the right questions. Here are some of the questions you should ask when you’ve got a pile of data at your fingertips:</p>
 
@@ -759,8 +761,8 @@ The good news is that <strong>big organizations have lots of data</strong> that,
 <h2 id="to-probe-further">To Probe Further</h2>
 
 <ul>
-  <li>Online Appendix <a href="https://grounded-architecture.io/screenshots">Software Tools: Examples and Screenshots</a> screenshots of concrete tools I built as a part of Architectural Analytics websites.</li>
-  <li>Online Appendix <a href="https://grounded-architecture.io/data-website">Building Architectural Analytics Website: Lean Design Patterns and Techniques</a> a few practical tips on building lean architecture dashboards and documents using simple, widely available tools.</li>
+  <li>Online Appendix <a href="https://grounded-architecture.io/screenshots">Software Tools: Examples and Screenshots</a> screenshots of concrete tools I built as a part of Lightweight Architectural Analytics websites.</li>
+  <li>Online Appendix <a href="https://grounded-architecture.io/data-website">Building Lightweight Architectural Analytics</a> a few practical tips on building lean architecture dashboards and documents using simple, widely available tools.</li>
   <li>Open-source <a href="https://zeljkoobrenovic.github.io/grounded-architecture-dashboard-examples/">architecture dashboard examples</a></li>
   <li><a href="https://sokrates.dev">Sokrates</a>, an open-source polyglot source code examination tool</li>
 </ul>
@@ -771,7 +773,7 @@ The good news is that <strong>big organizations have lots of data</strong> that,
 <p>Using data can significantly improve the efficiency and impact of an architecture practice. Ask yourself the following questions:</p>
 
 <ul>
-  <li><em>What steps would you take to create an Architectural Analytics in your organization?</em></li>
+  <li><em>What steps would you take to create an Lightweight Architectural Analytics in your organization?</em></li>
   <li><em>Are there untapped data sources within your organization that could inform your architectural decisions?</em></li>
   <li><em>How could you automate gathering data for architectural insights in your organization?</em></li>
   <li><em>What examples can you provide of the data you’ve used to gain reliable information about technology in your organization?</em></li>
@@ -779,7 +781,7 @@ The good news is that <strong>big organizations have lots of data</strong> that,
   <li><em>How can you ensure your data is reliable and up-to-date?</em></li>
   <li><em>Do you collaborate with finance and governance teams to incorporate financial and vibrancy data into your data analysis?</em></li>
   <li><em>Is there a culture of transparency in your organization?</em></li>
-</ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[Architectural Analytics serves as a medium to create a complete, up-to-date picture of critical elements of the technology landscapes of big organizations. The platform provides an architecture-centric view of data about a technology landscape based on source code analyses, public cloud billing reports, vibrancy reports, or incident tickets.]]></summary></entry><entry><title type="html">Collaborative Networks</title><link href="http://localhost:4000/people" rel="alternate" type="text/html" title="Collaborative Networks" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/people</id><content type="html" xml:base="http://localhost:4000/people"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/construction-4939383_1920.jpg" /></p>
+</ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[Lightweight Architectural Analytics serves as a medium to create a complete, up-to-date picture of critical elements of the technology landscapes of big organizations. The platform provides an architecture-centric view of data about a technology landscape based on source code analyses, public cloud billing reports, vibrancy reports, or incident tickets.]]></summary></entry><entry><title type="html">Collaborative Networks</title><link href="http://localhost:4000/people" rel="alternate" type="text/html" title="Collaborative Networks" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/people</id><content type="html" xml:base="http://localhost:4000/people"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/construction-4939383_1920.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/mostafa_meraji-13551092/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4939383">mostafa meraji</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4939383">Pixabay</a>
 </div>
@@ -875,7 +877,7 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/simon
 
 <ul>
   <li>
-    <p><strong>Build and maintain the architecture <a href="analytics">Architectural Analytics</a>.</strong> With all AI advances, it will not build itself! You need clear ownership, curation, and technical support to make it work.</p>
+    <p><strong>Build and maintain the architecture <a href="analytics">Lightweight Architectural Analytics</a>.</strong> With all AI advances, it will not build itself! You need clear ownership, curation, and technical support to make it work.</p>
   </li>
   <li>
     <p><strong>Promote data-informed decision-making.</strong> It’s not enough to have data; you’ve got to <em>use</em> it. This is like trying to convince your grandpa to use a smartphone—challenging but doable. Architects should be tech-savvy wizards who show everyone else how things are done, making data the critical actor of every decision.</p>
@@ -980,7 +982,7 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/ma_ri
   <p><strong>KEY POINTS:</strong></p>
 
   <ul>
-    <li>The Operating Model is a system of processes and agreements enabling architects to do everything architecture typically does, leveraging Architectural Analytics and Collaborative Networks to create a data-informed, organization-wide impact.</li>
+    <li>The Operating Model is a system of processes and agreements enabling architects to do everything architecture typically does, leveraging Lightweight Architectural Analytics and Collaborative Networks to create a data-informed, organization-wide impact.</li>
     <li>Examples of activities include: supporting teams in their daily work; tracking tech debt; performing technical due diligence; standardizing processes and documentation; defining cloud, data, and platform strategies.</li>
   </ul>
 </blockquote>
@@ -1023,7 +1025,7 @@ There is no one-size-fits-all approach: each organization must find activities a
 <p><img src="assets/images/model-operating-model.png" alt="" />
 <em><strong>Figure 1:</strong> The Grounded Architecture framework: Operating Model.</em></p>
 
-<p>This section outlines some lessons I learned when defining IT architecture operating models. The Operating Model (Figure 1) is a part of the Grounded Architecture framework that defines a set of <strong>processes and agreements</strong> that allow architects to do everything an architecture practice typically does. The model should leverage Architectural Analytics and Collaborative Networks to develop a data-informed, organization-wide impact. Architectural Analytics and Collaborative Networks provide a basis for data-informed decision-making that is well-embedded in the organization.</p>
+<p>This section outlines some lessons I learned when defining IT architecture operating models. The Operating Model (Figure 1) is a part of the Grounded Architecture framework that defines a set of <strong>processes and agreements</strong> that allow architects to do everything an architecture practice typically does. The model should leverage Lightweight Architectural Analytics and Collaborative Networks to develop a data-informed, organization-wide impact. Lightweight Architectural Analytics and Collaborative Networks provide a basis for data-informed decision-making that is well-embedded in the organization.</p>
 
 <p><br /></p>
 <h2 id="examples-of-architecture-activities">Examples of Architecture Activities</h2>
@@ -1103,7 +1105,7 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Stock
 
 <p><strong>Contributions of architects</strong>:</p>
 <ul>
-  <li><strong>Bring relevant data</strong> to inform decisions leveraging <a href="analytics">Architectural Analytics</a>.</li>
+  <li><strong>Bring relevant data</strong> to inform decisions leveraging <a href="analytics">Lightweight Architectural Analytics</a>.</li>
   <li><strong>Define decision boundaries</strong> to enable minimal compatibility and strategic alignment (e.g., golden paths or tech stack constraints).</li>
   <li><strong>Define fundamental principles</strong> to facilitate consistency in decision-making.</li>
   <li><strong>Share and generalize</strong> lessons learned via <a href="people">Collaborative Networks</a>.</li>
@@ -1268,7 +1270,7 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Ingen
   <li><em>How could you better implement a mechanism to give teams autonomy while maintaining alignment and compatibility with global strategy?</em></li>
   <li><em>How does the concept of a decision pyramid resonate with you?</em></li>
   <li><em>Which strategic and area-level decisions provide team decision boundaries in your organization? Are there areas where you need more or less limitations to optimize performance?</em></li>
-</ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[Operating Model defines how, by leveraging Architectural Analytics and Collaborative Networks, we perform activities that help an organization reach its goals. Examples include supporting teams in their daily work, tracking tech debt, performing technical due diligence, standardizing processes and documentation, and defining cloud, data, and platform strategies.]]></summary></entry><entry><title type="html">Cooperation-Based Operating Model: Six Simple Rules</title><link href="http://localhost:4000/six-simple-rules" rel="alternate" type="text/html" title="Cooperation-Based Operating Model: Six Simple Rules" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/six-simple-rules</id><content type="html" xml:base="http://localhost:4000/six-simple-rules"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/istock/iStock-2031547179.jpg" /></p>
+</ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[Operating Model defines how, by leveraging Lightweight Architectural Analytics and Collaborative Networks, we perform activities that help an organization reach its goals. Examples include supporting teams in their daily work, tracking tech debt, performing technical due diligence, standardizing processes and documentation, and defining cloud, data, and platform strategies.]]></summary></entry><entry><title type="html">Cooperation-Based Operating Model: Six Simple Rules</title><link href="http://localhost:4000/six-simple-rules" rel="alternate" type="text/html" title="Cooperation-Based Operating Model: Six Simple Rules" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/six-simple-rules</id><content type="html" xml:base="http://localhost:4000/six-simple-rules"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/istock/iStock-2031547179.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/NanoStockk">NanoStockk</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
@@ -1407,7 +1409,7 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/scyth
 <p>Architecture practice can significantly aid in understanding organizational behaviors through:</p>
 
 <ul>
-  <li>Establishing a <strong><a href="analytics">Architectural Analytics</a></strong> with an overview of various data sources to reveal where activities occur, visible trends, and cooperation among people.</li>
+  <li>Establishing a <strong><a href="analytics">Lightweight Architectural Analytics</a></strong> with an overview of various data sources to reveal where activities occur, visible trends, and cooperation among people.</li>
   <li>Utilizing the <strong><a href="people">Collaborative Networks</a></strong> to connect individuals and enable them to learn about activities in different parts of the organization.</li>
 </ul>
 
@@ -1438,7 +1440,7 @@ Image by <a href="https://pixabay.com/users/shutterbug75-2077322/?utm_source=lin
 <ul>
   <li>Utilizing the <strong><a href="people">Collaborative Networks</a></strong> to help identify and connect integrators, leveraging their work effectively.</li>
   <li>Emphasizing architects as critical integrators and integrator role models within the organization, defining them as essential components of the organizational “<a href="superglue">superglue</a>.”</li>
-  <li>Establishing a <strong><a href="analytics">Architectural Analytics</a></strong> to support integrators with data and insights, enabling them to perform more informed and effective work.</li>
+  <li>Establishing a <strong><a href="analytics">Lightweight Architectural Analytics</a></strong> to support integrators with data and insights, enabling them to perform more informed and effective work.</li>
 </ul>
 
 <p><br /></p>
@@ -1468,7 +1470,7 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Milko
 
 <ul>
   <li>Through the <strong><a href="people">Collaborative Networks</a></strong>, you can enhance decision-making power by distributing architectural decision-making across the organization and embedding it within development teams, which typically have the best insights and most relevant information.</li>
-  <li>Additionally, <strong><a href="analytics">Architectural Analytics</a></strong>, accessible to all interested members of the organization, can provide data and insights that empower individuals in their daily work.</li>
+  <li>Additionally, <strong><a href="analytics">Lightweight Architectural Analytics</a></strong>, accessible to all interested members of the organization, can provide data and insights that empower individuals in their daily work.</li>
 </ul>
 
 <p><br /></p>
@@ -1526,7 +1528,7 @@ Image by <a href="https://pixabay.com/users/jplenio-7645255/?utm_source=link-att
 <p>Architecture practice can play a crucial role in extending the shadow of the future through various methods:</p>
 
 <ul>
-  <li><strong><a href="analytics">Architectural Analytics</a></strong> can create transparency and provide the data necessary to model the future. This data can be used to develop simulations and roadmap options.</li>
+  <li><strong><a href="analytics">Lightweight Architectural Analytics</a></strong> can create transparency and provide the data necessary to model the future. This data can be used to develop simulations and roadmap options.</li>
   <li>Applying <strong><a href="economics">economic modeling</a></strong> to architecture decision-making helps describe the future consequences of today’s actions, directly supporting long-term planning and decision-making.</li>
 </ul>
 
@@ -1556,7 +1558,7 @@ Image by <a href="https://pixabay.com/users/stocksnap-894430/?utm_source=link-at
 
 <ul>
   <li>A strong <strong><a href="people">Collaborative Networks</a></strong> can provide the context and networks necessary for easier collaboration.</li>
-  <li>Adding diverse data sources to <strong><a href="analytics">Architectural Analytics</a></strong> can create transparency about cooperation opportunities and challenges, supporting a more collaborative environment.</li>
+  <li>Adding diverse data sources to <strong><a href="analytics">Lightweight Architectural Analytics</a></strong> can create transparency about cooperation opportunities and challenges, supporting a more collaborative environment.</li>
 </ul>
 
 <p><br /></p>
@@ -1657,14 +1659,14 @@ A nudge is a subtle or indirect suggestion influencing someone's behavior or dec
   <li>Recommendations for <strong>best practices</strong> to stimulate introduction and alignment around such practices,</li>
   <li>Default options for technology choices via 
 <a href="https://engineering.atspotify.com/2020/08/how-we-use-golden-paths-to-solve-fragmentation-in-our-software-ecosystem/"><strong>golden paths</strong></a></li>
-  <li><strong>Highlighting</strong> bad quality software on a <a href="analytics">Architectural Analytics</a> dashboard to create subtle pressure for people to improve it,</li>
+  <li><strong>Highlighting</strong> bad quality software on a <a href="analytics">Lightweight Architectural Analytics</a> dashboard to create subtle pressure for people to improve it,</li>
   <li>Tracking of <strong>tech debt</strong> to create awareness about its size and lead action to reduce it,</li>
   <li><strong>Visualizing cost trends</strong> of cloud services per team to stimulate teams to improve the performance efficiency of their software.</li>
 </ul>
 
 <p>Nudges can frequently lead to better alignment and more harmonization without the negative consequences of mandates, bans, or taxation.</p>
 
-<p>Grounded Architecture is well aligned with ideas of nudging. I designed many <a href="analytics">Architectural Analytics</a> tools to <strong>highlight areas and issues</strong> we wanted (nudged) people to improve. The <a href="people">Collaborative Networks</a> can create mechanisms for sharing experiences, promoting <strong>positive examples</strong>, and capturing lessons learned to help people make better, more informed decisions. In the <a href="operating-model">Operating Model</a>, I use the operating model that stimulates people to make decisions autonomously but <strong>nudges them to stay well-aligned</strong> and connected to the organizational strategic direction.</p>
+<p>Grounded Architecture is well aligned with ideas of nudging. I designed many <a href="analytics">Lightweight Architectural Analytics</a> tools to <strong>highlight areas and issues</strong> we wanted (nudged) people to improve. The <a href="people">Collaborative Networks</a> can create mechanisms for sharing experiences, promoting <strong>positive examples</strong>, and capturing lessons learned to help people make better, more informed decisions. In the <a href="operating-model">Operating Model</a>, I use the operating model that stimulates people to make decisions autonomously but <strong>nudges them to stay well-aligned</strong> and connected to the organizational strategic direction.</p>
 
 <p><br /></p>
 <h2 id="taxation-economic-incentives">Taxation (Economic Incentives)</h2>
@@ -1683,9 +1685,9 @@ Image by <a href="https://pixabay.com/users/stevepb-282134/?utm_source=link-attr
 
 <p>Compared to nudging, which influences behavior subtly by providing information or setting default choices without imposing direct consequences, taxes introduce tangible consequences. For example, projects that exceed budgeted IT costs due to excessive resource consumption might be canceled. The role of an architecture practice in this form of governance is crucial. It involves ensuring that taxation policies are based on accurate and comprehensive data, using public cloud cost reports and other relevant information to inform tax rates and policies. Transparency is essential, allowing all stakeholders to understand how and why taxes are levied and providing clear insights and reports detailing the basis of taxation and its impact on resource consumption.</p>
 
-<p>Developing efficient feedback loops is another critical aspect, providing timely and actionable feedback on critical metrics related to taxes and continually refining and optimizing the taxation system. <a href="analytics">Architectural Analytics</a> plays a key role in this approach by aggregating and analyzing all data related to resource consumption and taxation, generating insights from public cloud cost reports, and guiding decision-making. Collaborative Networks ensures alignment of organizational processes, goals, and working methods with the taxation syst<a href="2022-06-03-skills.markdown">2022-06-03-skills.markdown</a>em, fostering a culture of responsible resource usage and continuous improvement.</p>
+<p>Developing efficient feedback loops is another critical aspect, providing timely and actionable feedback on critical metrics related to taxes and continually refining and optimizing the taxation system. <a href="analytics">Lightweight Architectural Analytics</a> plays a key role in this approach by aggregating and analyzing all data related to resource consumption and taxation, generating insights from public cloud cost reports, and guiding decision-making. Collaborative Networks ensures alignment of organizational processes, goals, and working methods with the taxation syst<a href="2022-06-03-skills.markdown">2022-06-03-skills.markdown</a>em, fostering a culture of responsible resource usage and continuous improvement.</p>
 
-<p>In conclusion, governing with taxes is a robust approach to resource management that balances autonomy with accountability. By implementing a data-driven and transparent taxation system, organizations can optimize resource usage, prevent overconsumption, and drive meaningful change. An an architecture practice, supported by strong Architectural Analytics and Collaborative Networks, is essential in achieving these goals and ensuring the sustainability of shared resources.</p>
+<p>In conclusion, governing with taxes is a robust approach to resource management that balances autonomy with accountability. By implementing a data-driven and transparent taxation system, organizations can optimize resource usage, prevent overconsumption, and drive meaningful change. An an architecture practice, supported by strong Lightweight Architectural Analytics and Collaborative Networks, is essential in achieving these goals and ensuring the sustainability of shared resources.</p>
 
 <p><br /></p>
 <h2 id="mandates-and-bans">Mandates and Bans</h2>
@@ -1706,7 +1708,7 @@ Image by <a href="https://pixabay.com/users/tumisu-148124/?utm_source=link-attri
 
 <p>The role of architecture in this form of governance should be to act as <strong>a stakeholder but not the sole owner in defining mandates and bans</strong>. These mandates and bans should often be determined collaboratively with other functions, such as security and legal departments. The an architecture practice can contribute by <strong>creating clarity and providing transparency</strong>.</p>
 
-<p><a href="analytics">Architectural Analytics</a> is crucial for creating <strong>clarity and transparency</strong>. For example, it can provide insights through security reports or maps of areas in the source code or infrastructure that need monitoring and controlling based on privacy or security requirements. This foundation helps in identifying and mitigating risks, ensuring that the organization’s technology landscape aligns with its governance frameworks.</p>
+<p><a href="analytics">Lightweight Architectural Analytics</a> is crucial for creating <strong>clarity and transparency</strong>. For example, it can provide insights through security reports or maps of areas in the source code or infrastructure that need monitoring and controlling based on privacy or security requirements. This foundation helps in identifying and mitigating risks, ensuring that the organization’s technology landscape aligns with its governance frameworks.</p>
 
 <p>The <a href="people">Collaborative Networks</a> can help propagate the decision and ensure its <strong>positive impact and acceptance</strong>. Mandates and bans should not be issued routinely without sufficient explanation. It is crucial to spend time with all stakeholders to explain the <strong>reasons and motivations</strong> behind introducing certain limitations. A strong Collaborative Networks fosters strong connections with key stakeholders, leveraging these relationships to implement changes smoothly. This foundation ensures that governance measures are understood, accepted, and integrated into the organization’s culture and practices, enhancing overall effectiveness.</p>
 
@@ -1779,12 +1781,12 @@ Image by <a href="https://pixabay.com/users/wikiimages-1897/?utm_source=link-att
 
 <p>Each element of Grounded Architecture enables an architecture practice to operate at scale in several ways.</p>
 
-<h3 id="architectural-analytics">Architectural Analytics</h3>
-<p>The <strong>Architectural Analytics</strong> can support large-scale operations by:</p>
+<h3 id="lightweight-architectural-analytics">Lightweight Architectural Analytics</h3>
+<p>The <strong>Lightweight Architectural Analytics</strong> can support large-scale operations by:</p>
 
 <ul>
   <li><strong>Self-Service Data Access</strong>: Providing data as a self-service resource allows teams to access the information they need independently, reducing the reliance on manual sharing methods. This service can be facilitated through internal websites or portals where data tools and insights are readily available.</li>
-  <li><strong>Elimination of Meetings</strong>: As architects frequently own some unique pieces of information, in particular related to the big picture and overall dependecies, lots of architecture support goes on providing that information to the teams. Typically that means having meetings, workshops and exchanging lots of messages. With Architectural Analytics, we significantly reduced the need for such information-sharing or data-gathering meetings (every time we added a new data app, I got a few hours back in my calendar and exchanged fewer messages). Sharing data via Architatural Analytics dashboards also generates a useful feedback about how data are used, and helps ensuring that data is up-to-date and accessible.</li>
+  <li><strong>Elimination of Meetings</strong>: As architects frequently own some unique pieces of information, in particular related to the big picture and overall dependecies, lots of architecture support goes on providing that information to the teams. Typically that means having meetings, workshops and exchanging lots of messages. With Lightweight Architectural Analytics, we significantly reduced the need for such information-sharing or data-gathering meetings (every time we added a new data app, I got a few hours back in my calendar and exchanged fewer messages). Sharing data via Architatural Analytics dashboards also generates a useful feedback about how data are used, and helps ensuring that data is up-to-date and accessible.</li>
   <li><strong>Automation</strong>: Automation minimizes manual effort, which is crucial as manual processes do not scale efficiently. Automating data management processes ensures that data can be collected, processed, and analyzed without extensive human intervention.</li>
 </ul>
 
@@ -1820,13 +1822,13 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/porco
 
 <p>The Grounded Architecture framework has core elements that provide a highly flexible and adaptive setting. Here are the key drivers of flexibility within this structure:</p>
 
-<h3 id="architectural-analytics-1">Architectural Analytics</h3>
+<h3 id="lightweight-architectural-analytics-1">Lightweight Architectural Analytics</h3>
 
-<p>The <strong>Architectural Analytics</strong> can support adaptability by:</p>
+<p>The <strong>Lightweight Architectural Analytics</strong> can support adaptability by:</p>
 
 <ul>
   <li><strong>Automation and Extensibility</strong>: We used lean and flexible tools that we could swiftly extend and reconfigure to accommodate changes. For example, following acquisitions or mergers, with our lean tools and automation scripts, we were able to integrate all new source code repositories and many other data sources in a matter of hours or days. Automation ensures that data remains relevant and up-to-date, providing essential connections and feedback tailored to the organization’s evolving needs.</li>
-  <li><strong>Configurable Adaptation to Organizational Changes</strong>: We created robust Architectural Analytics to adapt its views to the changing realities of different parts of the organization, ensuring that data insights are always aligned with current operational contexts. For instance, we developed tools that enable explorative, on-the-fly aggregation of diverse data sources (e.g., created aggregated source code statistic reports based on repository tags or name conventions).</li>
+  <li><strong>Configurable Adaptation to Organizational Changes</strong>: We created robust Lightweight Architectural Analytics to adapt its views to the changing realities of different parts of the organization, ensuring that data insights are always aligned with current operational contexts. For instance, we developed tools that enable explorative, on-the-fly aggregation of diverse data sources (e.g., created aggregated source code statistic reports based on repository tags or name conventions).</li>
 </ul>
 
 <h3 id="collaborative-networks-1">Collaborative Networks</h3>
@@ -1862,9 +1864,9 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/cofot
 
 <p>To make the decision process more data-informed and less dependent on opinions, we need to focus on the interplay between three foundational elements. These elements collectively create a robust framework for data-driven decision-making in architectural discussions.</p>
 
-<h3 id="architectural-analytics-2">Architectural Analytics</h3>
+<h3 id="lightweight-architectural-analytics-2">Lightweight Architectural Analytics</h3>
 
-<p>The <strong>Architectural Analytics</strong> ensures the availability and readiness of data needed for decisions, fueling data-informed discussions:</p>
+<p>The <strong>Lightweight Architectural Analytics</strong> ensures the availability and readiness of data needed for decisions, fueling data-informed discussions:</p>
 
 <ul>
   <li><strong>Data Collection:</strong> Systematically gather high-quality data on relevant internal and external technology developments.</li>
@@ -1908,9 +1910,9 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/36cli
 
 <p>Misalignments often occur in such settings due to various factors, including complex structures and diverse objectives. However, a well-grounded architecture can address and reduce these misalignments through its foundations.</p>
 
-<h3 id="architectural-analytics-3">Architectural Analytics</h3>
+<h3 id="lightweight-architectural-analytics-3">Lightweight Architectural Analytics</h3>
 
-<p>The <strong>Architectural Analytics</strong> improves organization alignment by <strong>creating transparency</strong>. By establishing a robust Architectural Analytics, organizations can enhance transparency, which is necessary for building trust and facilitating alignment. This involves making data easily accessible and understandable across different departments, ensuring everyone has the same information and can make informed decisions. Transparent data practices help align objectives and actions, reducing the chances of misalignment.</p>
+<p>The <strong>Lightweight Architectural Analytics</strong> improves organization alignment by <strong>creating transparency</strong>. By establishing a robust Lightweight Architectural Analytics, organizations can enhance transparency, which is necessary for building trust and facilitating alignment. This involves making data easily accessible and understandable across different departments, ensuring everyone has the same information and can make informed decisions. Transparent data practices help align objectives and actions, reducing the chances of misalignment.</p>
 
 <h3 id="collaborative-networks-3">Collaborative Networks</h3>
 
@@ -1941,13 +1943,13 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/36cli
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Rawpixel">Rawpixel</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 
-<p>The Grounded Architecture framework offers comprehensive support through its Architectural Analytics, Collaborative Networks, and Operating Model to help organizations learn quickly, stay up-to-date with emerging technologies, and recommend technology upgrades.</p>
+<p>The Grounded Architecture framework offers comprehensive support through its Lightweight Architectural Analytics, Collaborative Networks, and Operating Model to help organizations learn quickly, stay up-to-date with emerging technologies, and recommend technology upgrades.</p>
 
-<h3 id="architectural-analytics-4">Architectural Analytics</h3>
-<p>Architectural Analytics plays a pivotal role in accelerating the learning and adoption of new technologies. Here’s how:</p>
+<h3 id="lightweight-architectural-analytics-4">Lightweight Architectural Analytics</h3>
+<p>Lightweight Architectural Analytics plays a pivotal role in accelerating the learning and adoption of new technologies. Here’s how:</p>
 
 <ul>
-  <li><strong>Facilitating Exploration and Reflection</strong>: Architectural Analytics enables individuals and teams to explore new tools and technologies effectively by providing relevant and comprehensive data. Access to this data allows for thorough experimentation, analysis of outcomes, and reflection, which is crucial for understanding and refining new technology implementations. For instance, it may not be easy to calculate the cost of a new cloud service. However, running proofs-of-concept and analyzing collected data can provide good insights.</li>
+  <li><strong>Facilitating Exploration and Reflection</strong>: Lightweight Architectural Analytics enables individuals and teams to explore new tools and technologies effectively by providing relevant and comprehensive data. Access to this data allows for thorough experimentation, analysis of outcomes, and reflection, which is crucial for understanding and refining new technology implementations. For instance, it may not be easy to calculate the cost of a new cloud service. However, running proofs-of-concept and analyzing collected data can provide good insights.</li>
   <li><strong>Supporting Informed Decision-Making</strong>: Architects and teams can make informed decisions regarding technology adoption and upgrades with up-to-date data. This minimizes the risk associated with implementing new technologies and ensures that the choices are based on solid evidence and insights.</li>
 </ul>
 
@@ -1967,7 +1969,7 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Rawpi
   <li><strong>Systematic Knowledge Capture and Application</strong>: The platform ensures that knowledge is systematically captured, shared, and applied. This approach minimizes overhead while maximizing learning opportunities, enabling the organization to quickly adapt and apply new insights and technologies.</li>
 </ul>
 
-<p>By leveraging Architectural Analytics, Collaborative Networks, and Operating Model, the Grounded Architecture framework ensures that learning is continuous, efficient, and embedded within the organization’s fabric. This comprehensive support system helps organizations stay up-to-date with emerging technologies and industry trends and fosters a proactive learning environment that drives innovation and growth.</p>
+<p>By leveraging Lightweight Architectural Analytics, Collaborative Networks, and Operating Model, the Grounded Architecture framework ensures that learning is continuous, efficient, and embedded within the organization’s fabric. This comprehensive support system helps organizations stay up-to-date with emerging technologies and industry trends and fosters a proactive learning environment that drives innovation and growth.</p>
 
 <p><br /></p>
 <h2 id="questions-to-consider">Questions to Consider</h2>
@@ -1977,11 +1979,11 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Rawpi
 <ul>
   <li><em>How effective is your organization’s current an architecture practice at scale? How valuable could principles of Grounded Architecture be in enhancing its efficiency?</em></li>
   <li><em>To what extent does your organization use data to inform architectural decisions? What steps could you take to move your organization from opinion-based to more data-driven decision-making?</em></li>
-  <li><em>How well-aligned are the different areas within your organization, and how does this affect your an architecture practice? Could the Architectural Analytics and Collaborative Networks principles be utilized to improve alignment?</em></li>
+  <li><em>How well-aligned are the different areas within your organization, and how does this affect your an architecture practice? Could the Lightweight Architectural Analytics and Collaborative Networks principles be utilized to improve alignment?</em></li>
   <li><em>What strategies does your organization currently have to foster organizational learning? How could the methods described in the Grounded Architecture model enhance this?</em></li>
   <li><em>How quickly can your organization adopt and utilize new technologies? How could your an architecture practice accelerate this process?</em></li>
   <li><em>Consider the adaptivity of your organization’s an architecture practice. How could your an architecture practice improve it?</em></li>
-  <li><em>Reflecting on the value of the “Architectural Analytics” concept, how effectively is your organization tracking changes or supporting what-if scenarios analysis?</em></li>
+  <li><em>Reflecting on the value of the “Lightweight Architectural Analytics” concept, how effectively is your organization tracking changes or supporting what-if scenarios analysis?</em></li>
   <li><em>What role do most senior architects play in your organization? Could their time be better utilized on strategic initiatives?</em></li>
-  <li><em>How sustainable is an architecture practice in your organization in the absence of a strong central team? Could implementing a Architectural Analytics and well-connected architects help mitigate this?</em></li>
+  <li><em>How sustainable is an architecture practice in your organization in the absence of a strong central team? Could implementing a Lightweight Architectural Analytics and well-connected architects help mitigate this?</em></li>
 </ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[When the Grounded Architecture Framework is in place, it can significantly impact an organization's functioning: Executing At Scale, Adaptivity, Improving the Quality of Decision-Making with Data, and Maximizing Organizational Alignment & Learning.]]></summary></entry></feed>

@@ -2,8 +2,7 @@
 
 # Operating Model: Nudge, Taxation, Mandates {#governance}
 
-![](assets/images/arch/greece-1594689_1920.jpg)
-^image by nonbirinonko from pixabay^
+![image by nonbirinonko from pixabay](assets/images/arch/greece-1594689_1920.jpg)
 
 **IN THIS SECTION, YOU WILL:** Understand that a technology governance model should be a well-balanced hybrid of three different styles of governing: mandates and bans, taxes, and nudging.
 
@@ -30,8 +29,7 @@ Architecture practice should support governance models that are aligned and adap
 
 In behavioral economics and psychology, a **nudge is a subtle or indirect suggestion** influencing someone's behavior or decision-making **without forcing them or limiting their freedom of choice**. Nudges can be applied in various settings, such as policy-making, marketing, and personal interactions, to encourage people to make better choices, improve their well-being, or achieve specific goals.
 
-![](assets/images/istock/iStock-1390608248.jpg)
-^image by liudmila chernetska from istock^
+![image by liudmila chernetska from istock](assets/images/istock/iStock-1390608248.jpg)
 
 A nudge can take many forms, such as a slight change in the environment, a gentle reminder, positive reinforcement, or a default option. For example, placing healthy food options at eye level in a cafeteria can nudge people to choose healthier meals. Setting a default option for organ donation can increase the number of donors.
 
@@ -44,26 +42,25 @@ In IT architecture, examples of nudging include:
 * Recommendations for **best practices** to stimulate introduction and alignment around such practices, 
 * Default options for technology choices via 
 [**golden paths**](https://engineering.atspotify.com/2020/08/how-we-use-golden-paths-to-solve-fragmentation-in-our-software-ecosystem/)
-* **Highlighting** bad quality software on a [Architectural Analytics](#analytics) dashboard to create subtle pressure for people to improve it,
+* **Highlighting** bad quality software on a [Lightweight Architectural Analytics](#analytics) dashboard to create subtle pressure for people to improve it,
 * Tracking of **tech debt** to create awareness about its size and lead action to reduce it,
 * **Visualizing cost trends** of cloud services per team to stimulate teams to improve the performance efficiency of their software.
 
 Nudges can frequently lead to better alignment and more harmonization without the negative consequences of mandates, bans, or taxation.
 
-Grounded Architecture is well aligned with ideas of nudging. I designed many [Architectural Analytics](#analytics) tools to **highlight areas and issues** we wanted (nudged) people to improve. The [Collaborative Networks](#people) can create mechanisms for sharing experiences, promoting **positive examples**, and capturing lessons learned to help people make better, more informed decisions. In the [Operating Model](#operating-model), I use the operating model that stimulates people to make decisions autonomously but **nudges them to stay well-aligned** and connected to the organizational strategic direction.
+Grounded Architecture is well aligned with ideas of nudging. I designed many [Lightweight Architectural Analytics](#analytics) tools to **highlight areas and issues** we wanted (nudged) people to improve. The [Collaborative Networks](#people) can create mechanisms for sharing experiences, promoting **positive examples**, and capturing lessons learned to help people make better, more informed decisions. In the [Operating Model](#operating-model), I use the operating model that stimulates people to make decisions autonomously but **nudges them to stay well-aligned** and connected to the organizational strategic direction.
 
 ## Taxation (Economic Incentives)
 
 Governing with taxes is a strategic approach where individuals or departments are not prohibited from making choices or decisions. Instead, they are required to "pay" some form of tax on the resources they use. This system creates a feedback loop that encourages responsible resource consumption and helps optimize overall system efficiency. One practical application of this approach is in managing the costs of public cloud usage within an organization. By cross-charging these costs across various departments or projects, each unit receives a clear signal about their resource consumption. This not only helps in allocating costs accurately but also promotes awareness and encourages efforts to minimize unnecessary usage, effectively preventing the "tragedy of the commons," where unrestricted access to shared resources can lead to overconsumption and depletion.
 
-![](assets/images/arch/credit-squeeze-g61ddead85_1920.png)
-^image by steve buissinne from pixabay^
+![image by steve buissinne from pixabay](assets/images/arch/credit-squeeze-g61ddead85_1920.png)
 
 Compared to nudging, which influences behavior subtly by providing information or setting default choices without imposing direct consequences, taxes introduce tangible consequences. For example, projects that exceed budgeted IT costs due to excessive resource consumption might be canceled. The role of an architecture practice in this form of governance is crucial. It involves ensuring that taxation policies are based on accurate and comprehensive data, using public cloud cost reports and other relevant information to inform tax rates and policies. Transparency is essential, allowing all stakeholders to understand how and why taxes are levied and providing clear insights and reports detailing the basis of taxation and its impact on resource consumption.
 
-Developing efficient feedback loops is another critical aspect, providing timely and actionable feedback on critical metrics related to taxes and continually refining and optimizing the taxation system. [Architectural Analytics](#analytics) plays a key role in this approach by aggregating and analyzing all data related to resource consumption and taxation, generating insights from public cloud cost reports, and guiding decision-making. Collaborative Networks ensures alignment of organizational processes, goals, and working methods with the taxation syst[2022-06-03-skills.markdown](2022-06-03-skills.markdown)em, fostering a culture of responsible resource usage and continuous improvement.
+Developing efficient feedback loops is another critical aspect, providing timely and actionable feedback on critical metrics related to taxes and continually refining and optimizing the taxation system. [Lightweight Architectural Analytics](#analytics) plays a key role in this approach by aggregating and analyzing all data related to resource consumption and taxation, generating insights from public cloud cost reports, and guiding decision-making. Collaborative Networks ensures alignment of organizational processes, goals, and working methods with the taxation syst[2022-06-03-skills.markdown](2022-06-03-skills.markdown)em, fostering a culture of responsible resource usage and continuous improvement.
 
-In conclusion, governing with taxes is a robust approach to resource management that balances autonomy with accountability. By implementing a data-driven and transparent taxation system, organizations can optimize resource usage, prevent overconsumption, and drive meaningful change. An an architecture practice, supported by strong Architectural Analytics and Collaborative Networks, is essential in achieving these goals and ensuring the sustainability of shared resources.
+In conclusion, governing with taxes is a robust approach to resource management that balances autonomy with accountability. By implementing a data-driven and transparent taxation system, organizations can optimize resource usage, prevent overconsumption, and drive meaningful change. An an architecture practice, supported by strong Lightweight Architectural Analytics and Collaborative Networks, is essential in achieving these goals and ensuring the sustainability of shared resources.
 
 ## Mandates and Bans
 
@@ -71,12 +68,11 @@ Governing with mandates and bans involves guiding people by explicitly defining 
 
 Using bans with care and as a last resort is essential to avoid unnecessary blocking or slowing down development and innovation. However, mandates and bans can help clarify critical topics where nudging or taxation would not be sufficient. For example, having clear rules and control mechanisms to avoid breaking privacy or financial laws can prevent unnecessary incidents and damage. Explicitly defined mandates and bans can ensure compliance with important regulations and safeguard the organization's integrity and reputation.
 
-![](assets/images/arch/ethics-g277df4183_1920.jpg)
-^image by tumisu from pixabay^
+![image by tumisu from pixabay](assets/images/arch/ethics-g277df4183_1920.jpg)
 
 The role of architecture in this form of governance should be to act as **a stakeholder but not the sole owner in defining mandates and bans**. These mandates and bans should often be determined collaboratively with other functions, such as security and legal departments. The an architecture practice can contribute by **creating clarity and providing transparency**.
 
-[Architectural Analytics](#analytics) is crucial for creating **clarity and transparency**. For example, it can provide insights through security reports or maps of areas in the source code or infrastructure that need monitoring and controlling based on privacy or security requirements. This foundation helps in identifying and mitigating risks, ensuring that the organization's technology landscape aligns with its governance frameworks.
+[Lightweight Architectural Analytics](#analytics) is crucial for creating **clarity and transparency**. For example, it can provide insights through security reports or maps of areas in the source code or infrastructure that need monitoring and controlling based on privacy or security requirements. This foundation helps in identifying and mitigating risks, ensuring that the organization's technology landscape aligns with its governance frameworks.
 
 The [Collaborative Networks](#people) can help propagate the decision and ensure its **positive impact and acceptance**. Mandates and bans should not be issued routinely without sufficient explanation. It is crucial to spend time with all stakeholders to explain the **reasons and motivations** behind introducing certain limitations. A strong Collaborative Networks fosters strong connections with key stakeholders, leveraging these relationships to implement changes smoothly. This foundation ensures that governance measures are understood, accepted, and integrated into the organization's culture and practices, enhancing overall effectiveness.
 
