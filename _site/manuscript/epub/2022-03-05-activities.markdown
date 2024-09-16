@@ -9,7 +9,7 @@
 {pagebreak}
 
 A> **KEY POINTS:**
-A> * The Operating Model is a system of processes and agreements enabling architects to do everything architecture typically does, leveraging Architectural Analytics and Collaborative Networks to create a data-informed, organization-wide impact.
+A> * The Operating Model is a system of processes and agreements enabling architects to do everything architecture typically does, leveraging Lightweight Architectural Analytics and Collaborative Networks to create a data-informed, organization-wide impact.
 A> * Examples of activities include: supporting teams in their daily work; tracking tech debt; performing technical due diligence; standardizing processes and documentation; defining cloud, data, and platform strategies.
 
 Each organization will have different architectural needs and contexts. When forming an architecture practice, I use as a starting point these [two pieces of advice from Gregor Hohpe](https://architectelevator.com/architecture/organizing-architecture/):
@@ -23,7 +23,7 @@ No matter which operating models you select, it's crucial to develop **explicit 
 
 ![Figure 1: The Grounded Architecture framework: Operating Model.](assets/images/model-operating-model.png)
 
-This section outlines some lessons I learned when defining IT architecture operating models. The Operating Model (Figure 1) is a part of the Grounded Architecture framework that defines a set of **processes and agreements** that allow architects to do everything an architecture practice typically does. The model should leverage Architectural Analytics and Collaborative Networks to develop a data-informed, organization-wide impact. Architectural Analytics and Collaborative Networks provide a basis for data-informed decision-making that is well-embedded in the organization.
+This section outlines some lessons I learned when defining IT architecture operating models. The Operating Model (Figure 1) is a part of the Grounded Architecture framework that defines a set of **processes and agreements** that allow architects to do everything an architecture practice typically does. The model should leverage Lightweight Architectural Analytics and Collaborative Networks to develop a data-informed, organization-wide impact. Lightweight Architectural Analytics and Collaborative Networks provide a basis for data-informed decision-making that is well-embedded in the organization.
 
 ## Examples of Architecture Activities
 
@@ -73,7 +73,7 @@ Here are the key characteristics of this operating framework:
   * Architects aim to **empower the teams** so that they make most of the decisions.
 
 **Contributions of architects**: 
-  * **Bring relevant data** to inform decisions leveraging [Architectural Analytics](#analytics).
+  * **Bring relevant data** to inform decisions leveraging [Lightweight Architectural Analytics](#analytics).
   * **Define decision boundaries** to enable minimal compatibility and strategic alignment (e.g., golden paths or tech stack constraints).
   * **Define fundamental principles** to facilitate consistency in decision-making.
   * **Share and generalize** lessons learned via [Collaborative Networks](#people).

@@ -1,6 +1,6 @@
 ---
 layout: post
-section: "On Execution and Governance"
+section: "Expanding the Architect's Toolkit"
 title: "Economic Modeling: ROI and Financial Options"
 position: 9028
 date:   2021-10-21 21:12:01 +0100

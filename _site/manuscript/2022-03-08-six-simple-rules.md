@@ -91,7 +91,7 @@ To genuinely understand performance, consider the following principles:
 
 Architecture practice can significantly aid in understanding organizational behaviors through:
 
-* Establishing a **[Architectural Analytics](#analytics)** with an overview of various data sources to reveal where activities occur, visible trends, and cooperation among people.
+* Establishing a **[Lightweight Architectural Analytics](#analytics)** with an overview of various data sources to reveal where activities occur, visible trends, and cooperation among people.
 * Utilizing the **[Collaborative Networks](#people)** to connect individuals and enable them to learn about activities in different parts of the organization.
 
 ## Rule 2: Reinforce Integrators
@@ -115,7 +115,7 @@ Architecture practice can play a vital role in reinforcing integrators by:
 
 * Utilizing the **[Collaborative Networks](#people)** to help identify and connect integrators, leveraging their work effectively.
 * Emphasizing architects as critical integrators and integrator role models within the organization, defining them as essential components of the organizational "[superglue](#superglue)."
-* Establishing a **[Architectural Analytics](#analytics)** to support integrators with data and insights, enabling them to perform more informed and effective work.
+* Establishing a **[Lightweight Architectural Analytics](#analytics)** to support integrators with data and insights, enabling them to perform more informed and effective work.
 
 ## Rule 3: Increase the Total Quantity of Power
 
@@ -138,7 +138,7 @@ To enhance the quantity of power within your organization, consider these action
 Architecture practice can support the increase in power quantity through an operating model that promotes distributed decision-making:
 
 * Through the **[Collaborative Networks](#people)**, you can enhance decision-making power by distributing architectural decision-making across the organization and embedding it within development teams, which typically have the best insights and most relevant information.
-* Additionally, **[Architectural Analytics](#analytics)**, accessible to all interested members of the organization, can provide data and insights that empower individuals in their daily work.
+* Additionally, **[Lightweight Architectural Analytics](#analytics)**, accessible to all interested members of the organization, can provide data and insights that empower individuals in their daily work.
 
 ## Rule 4: Increase Reciprocity
 
@@ -183,7 +183,7 @@ The Six Simple Rules approach recommends four strategies to extend the shadow of
 
 Architecture practice can play a crucial role in extending the shadow of the future through various methods:
 
-* **[Architectural Analytics](#analytics)** can create transparency and provide the data necessary to model the future. This data can be used to develop simulations and roadmap options.
+* **[Lightweight Architectural Analytics](#analytics)** can create transparency and provide the data necessary to model the future. This data can be used to develop simulations and roadmap options.
 * Applying **[economic modeling](#economics)** to architecture decision-making helps describe the future consequences of today's actions, directly supporting long-term planning and decision-making.
 
 ## Rule 6: Reward Those Who Cooperate
@@ -206,7 +206,7 @@ To effectively reward those who cooperate, managers should:
 Architecture practice can facilitate rewarding cooperation by making it easier for individuals to help others and ask for help:
 
 * A strong **[Collaborative Networks](#people)** can provide the context and networks necessary for easier collaboration.
-* Adding diverse data sources to **[Architectural Analytics](#analytics)** can create transparency about cooperation opportunities and challenges, supporting a more collaborative environment.
+* Adding diverse data sources to **[Lightweight Architectural Analytics](#analytics)** can create transparency about cooperation opportunities and challenges, supporting a more collaborative environment.
 
 ## To Probe Further
 * [Six Simple Rules: How to Manage Complexity without Getting Complicated](https://www.bcg.com/capabilities/organization-strategy/smart-simplicity)

@@ -1,11 +1,11 @@
 ---
 layout: post
-section: "On Execution and Governance"
-title: "On Execution and Governance: Introduction"
+section: "Expanding the Architect's Toolkit"
+title: "Expanding the Architect's Toolkit: Multidisciplinary Approaches"
 position: 9020
 date: 2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
-permalink: execution
+permalink: expanding-toolkit
 icon: execution.png
 timetoread: 15 min
 excerpt: "I introduce several resources that I use as inspiration for developing architecture skills related to execution and governance."

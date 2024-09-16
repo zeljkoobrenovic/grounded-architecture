@@ -60,7 +60,7 @@ The roles of people in central teams may differ depending on the organization. H
 
 Such a team, in addition to the doing architecture work, can be instrumental in covering these often overlooked responsibilities:
 
-* **Build and maintain the architecture [Architectural Analytics](#analytics).** With all AI advances, it will not build itself! You need clear ownership, curation, and technical support to make it work.
+* **Build and maintain the architecture [Lightweight Architectural Analytics](#analytics).** With all AI advances, it will not build itself! You need clear ownership, curation, and technical support to make it work.
 
 * **Promote data-informed decision-making.** It's not enough to have data; you've got to *use* it. This is like trying to convince your grandpa to use a smartphone—challenging but doable. Architects should be tech-savvy wizards who show everyone else how things are done, making data the critical actor of every decision.
 
