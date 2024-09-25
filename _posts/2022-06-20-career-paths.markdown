@@ -2,7 +2,7 @@
 layout: post
 section: "On Being Architect"
 title: "Architects' Career Paths"
-position: 6015
+position: 6020
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 permalink: career-paths
@@ -141,6 +141,7 @@ Lastly, the transition from an architect to a tech leadership role is a natural 
 ## To Probe Further
 
 * [Appendix: Resources for Managing, Growing, and Hiring Architects](career-resources)
+* [Appendix: Architect Archetypes](archetypes)
 * [Software Architect Archetypes](https://newsletter.pragmaticengineer.com/p/software-architect-archetypes), by Gergely Orosz, 2023
 
 <br>

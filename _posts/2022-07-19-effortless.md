@@ -123,6 +123,7 @@ This approach helps you stay engaged and motivated, making even the most mundane
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/AzmanL">AzmanL</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 
+
 Pairing essential activities with enjoyable ones creates a harmonious and engaging work environment for IT and software engineering professionals. This approach enhances productivity, promotes well-being, and increases job satisfaction by turning routine tasks into opportunities for joy and creativity. 
 
 Here are a few examples that IT architects as an inspiration to help their organizations integrate work and play:

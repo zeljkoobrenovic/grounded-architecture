@@ -2,7 +2,7 @@
 layout: post
 section: "Appendix 2: Tools for Developing Soft Skills"
 title: "Resources for Effective Communication"
-position: 12106
+position: 12108
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 icon: communication.png

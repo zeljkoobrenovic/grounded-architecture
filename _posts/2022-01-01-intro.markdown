@@ -48,7 +48,7 @@ h3 {
 <br>
 Have you ever wondered how to run an IT architecture practice without **feeling stuck in an ivory tower?** Look no further! This book will share an approach to running an IT architecture practice in larger organizations based on my experience at AVIV Group, eBay Classifieds, and Adevinta. I call it "Grounded Architecture"—because it's all about having your feet on the ground and your **architecture firmly planted in reality.**
 
-The approach presented in this book connects architecture to every nook and cranny of your organization, making sure you're not a lone wizard in a tower casting spells that no one understands. Grounded Architecture prioritizes connections with people and data over fancy theories, processes, and tools. 
+The approach presented in this book connects architecture to every nook and cranny of your organization, making sure you're not a lone wizard in a tower casting spells that no one understands. Grounded Architecture prioritizes connections with people and data over fancy theories, processes, and tools. The books will offer you new insight into IT architecture, arguing that IT architecture should be less about static designs and more about **adaptable**, **outcome-oriented** practice.
 
 The name "Grounded Architecture" is a hat-tip to the [Grounded Theory](https://en.wikipedia.org/wiki/Grounded_theory) methodology. Grounded Theory is about developing theories from the data you gather from the real world rather than pulling them out of thin air. Likewise, Grounded Architecture evolves from honest feedback and data, not from dusty old books of abstract principles.
 
@@ -80,6 +80,7 @@ As part of my Grounded Architecture quest, I've devised several guiding principl
   * [Making Impact](impact)
   * [Leadership](leadership)
   * [Thinking Like an Architect: Architects as Superglue](superglue)
+  * [Thinking Like an Architect: Balancing Curiosity, Doubt, Vision, and Skepticism](balancing)
   * [Architects' Career Paths](career-paths)
 * [**On Human Complexity**](human-complexity):
   * [The Culture Map: Architects' Culture Compass](culture-map)
