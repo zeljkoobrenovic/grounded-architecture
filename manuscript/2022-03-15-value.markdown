@@ -2,8 +2,7 @@
 
 # Transforming Organizations with Grounded Architecture {#transformation}
 
-![](assets/images/istock/iStock-1893527682.jpg)
-^image by gremlin from istock^
+![image by gremlin from istock](assets/images/istock/iStock-1893527682.jpg)
 
 **IN THIS SECTION, YOU WILL:**  Understand the value that an architecture practice based on the ideas of Grounded Architecture can create for an organization.
 
@@ -25,8 +24,7 @@ When a Grounded Architecture framework is in place, it can positively transform 
 
 Our first goal was to find a way to support hundreds of teams and thousands of projects with significant complexity and diversity. 
 
-![](assets/images/arch/earth-g8ffaadaba_1920.png)
-^image by wikiimages from pixabay^
+![image by wikiimages from pixabay](assets/images/arch/earth-g8ffaadaba_1920.png)
 
 Each element of Grounded Architecture enables an architecture practice to operate at scale in several ways.
 
@@ -56,8 +54,7 @@ By leveraging these foundations, we managed the complexities and diversity of nu
 
 The second goal, ensuring that an architecture practice can adapt quickly to stay relevant in new contexts, is crucial for maintaining an organization's agility and resilience. 
 
-![](assets/images/istock/iStock-1810224635.jpg)
-^image by porcorex from istock^
+![image by porcorex from istock](assets/images/istock/iStock-1810224635.jpg)
 
 The Grounded Architecture framework has core elements that provide a highly flexible and adaptive setting. Here are the key drivers of flexibility within this structure:
 
@@ -88,8 +85,7 @@ This structure enhances an architecture practice's flexibility and adaptivity. I
 
 The third goal stated that we need tools and mechanisms to make a decision process more data-informed and less dependent on opinions. There are significant benefits to making our decision process as much as possible data-driven. Architectural **discussions can be heated and opinionated**, not leading to the best arguments and decisions. 
 
-![](assets/images/istock/iStock-1500461725.jpg)
-^image by cofotoisme from istock^
+![image by cofotoisme from istock](assets/images/istock/iStock-1500461725.jpg)
 
 To make the decision process more data-informed and less dependent on opinions, we need to focus on the interplay between three foundational elements. These elements collectively create a robust framework for data-driven decision-making in architectural discussions. 
 
@@ -125,8 +121,7 @@ Focusing on these foundational elements and their key actions can transform our 
 
 The fourth goal emphasizes that an architecture practice should be a cohesive factor in minimizing misalignments within large organizations. 
 
-![](assets/images/istock/iStock-163915213.jpg)
-^image by 36clicks from istock^
+![image by 36clicks from istock](assets/images/istock/iStock-163915213.jpg)
 
 Misalignments often occur in such settings due to various factors, including complex structures and diverse objectives. However, a well-grounded architecture can address and reduce these misalignments through its foundations.
 
@@ -152,8 +147,7 @@ A> *"Good judgment comes from experience, and experience comes from bad judgment
 
 Our last goal is that architecture should help organizations learn quickly, stay up-to-date with emerging technologies and industry trends, and recommend technology upgrades. Learning is one of the primary daily tasks of architects. Architects must proactively identify relevant new technology developments and create pragmatic technology recommendations for concrete platforms across the organization based on their understanding.
 
-![](assets/images/istock/iStock-871461580.jpg)
-^image by rawpixel from istock^
+![image by rawpixel from istock](assets/images/istock/iStock-871461580.jpg)
 
 The Grounded Architecture framework offers comprehensive support through its Lightweight Architectural Analytics, Collaborative Networks, and Operating Model to help organizations learn quickly, stay up-to-date with emerging technologies, and recommend technology upgrades.
 
