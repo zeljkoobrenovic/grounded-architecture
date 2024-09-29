@@ -2,7 +2,8 @@
 
 # On Being Architect: Introduction {#being-architect}
 
-![image by azmanl from istock](assets/images/istock/iStock-1194454929.jpg)
+![](assets/images/istock/iStock-1194454929.jpg)
+^image by azmanl from istock^
 
 **IN THIS SECTION, YOU WILL:**  Get an overview of lessons I learned on what it means to be an architect in practice.
 
@@ -10,7 +11,8 @@
 
 With this section, we start the second part of our book, which unveils a wealth of practical ideas and inspiration to help you bring the Grounded Architecture framework we outlined in the first part to life. This part of the book will equip you with **valuable tips and insights** for running an IT architecture practice (Figure 1). In complex organizations, you cannot just copy and paste other companies' approaches. Instead of having a rigid structured framework, having a toolbox of inspirational resources is more practical for implementing a successful architectural practice. 
 
-![Figure 1:  Grounded Architecture Overview: Ideas and Inspirations.](assets/images/model-inspirations.png)
+![](assets/images/model-inspirations.png)
+***Figure 1:**  Grounded Architecture Overview: Ideas and Inspirations.*
 
 We begin this second part with several resources about what it means to be an architect. The role of an architect in the IT industry is like a **Swiss Army knife**—multifaceted and indispensable. It requires blending technical expertise, strategic thinking, and interpersonal skills to drive successful outcomes in complex organizational environments. In this part of the book, I offer a deep dive into various perspectives on my view on what it means to be an architect in practice, providing a holistic understanding of the responsibilities and expectations associated with this role.
 
@@ -26,7 +28,8 @@ Borrowing from Gregor Hohpe's view on architect development from his book *Softw
 
 Architects must have a **minimal "length"** of all of these "legs" to be successful (Figure 2). For instance, having skills and impact without leadership frequently leads to **hitting a glass ceiling**. Such architects plateau at an intermediate level and cannot direct the company to innovative or transformative solutions. Leadership without impact lacks foundation and may signal that you have become an **ivory tower architect** with a weak relation to reality. And having impact and leadership qualities but no skills leads to **impractical decisions** not informed by in-depth knowledge.
 
-![Figure 2: Architects must have a minimal "length" of all "legs" to be successful.](assets/images/arch/architect-legs.png)
+![](assets/images/arch/architect-legs.png)
+***Figure 2:** Architects must have a minimal "length" of all "legs" to be successful.*
 
 ### Skills 
 
