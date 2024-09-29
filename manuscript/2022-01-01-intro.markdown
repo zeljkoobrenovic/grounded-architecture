@@ -2,8 +2,7 @@
 
 # Introduction {#intro}
 
-![](assets/images/istock/iStock-462294849.jpg)
-^image by rasica from istock^
+![image by rasica from istock](assets/images/istock/iStock-462294849.jpg)
 
 **IN THIS SECTION, YOU WILL:** Understand what this book is about and how to use it.
 
@@ -26,8 +25,7 @@ This book breaks down Grounded Architecture into two main parts (Figure 1):
 * **Framework:** The nuts and bolts you need to get your Grounded Architecture practice up and running.
 * **Guiding Principles:** Handy tips and inspirations to help you bring these ideas to life.
 
-![](assets/images/model.png)
-***Figure 1:**  Grounded Architecture Overview.*
+![Figure 1:  Grounded Architecture Overview.](assets/images/model.png)
 
 Grounded Architecture framework consists of three elements:
 * [Lightweight Architectural Analytics](#analytics),
@@ -109,8 +107,7 @@ I approach designing an architecture practice in complex organizations as an **a
 
 This book shares some tasty tips and savory secrets on "cooking" up a thriving an architecture practice. But remember, **every kitchen is different.** Some ingredients and recipes are essential, while others might be left on the shelf. And don't be surprised if you need to add a pinch of something special from other sources to spice things up.
 
-![](assets/images/istock/iStock-1409729992.jpg)
-^image by hispanolistic from istock^
+![image by hispanolistic from istock](assets/images/istock/iStock-1409729992.jpg)
 
 When I start an architecture practice, I see myself as a chef stepping into a new restaurant with a suitcase full of favorite spices. I blend in core preferred elements and foundational frameworks like a chef using their trusty spices and kitchen tools. But the **authentic flavor**—the magic that makes a dish unforgettable—comes from the **local ingredients.** In an organization, these local ingredients are the people: the in-house talent and culture that give the enterprise its unique taste.
 
@@ -128,8 +125,7 @@ Many other sources have influenced my work. You can find them in the online [Boo
 
 This book **generalizes my experiences** in written form. I have written these articles for several reasons. Firstly, writing helps me clarify and improve my ideas (Figure 2). As Gregor Hohpe once noted, every sentence you write frees up brain cells to learn new things. 
 
-![](assets/images/writing.png)
-***Figure 2:** Writing a book helped me organize ideas, obtain new insights, improve principles and tools, and share the lessons learned.*
+![Figure 2: Writing a book helped me organize ideas, obtain new insights, improve principles and tools, and share the lessons learned.](assets/images/writing.png)
 
 I also needed this book for the **education of architects** and to **increase awareness about modern an architecture practices** in organizations I worked in. Having written content can significantly help to spread the message. As nicely described by Hohpe written word has distinct advantages over the spoken word:
 
@@ -143,8 +139,7 @@ Lastly, by generalizing and putting my experiences on paper, I aim to create mor
 
 This book is a part of the [**collection of open-source tools and resources**](https://obren.io/) I have built to help me in architectural work (Figure 3).
 
-![](assets/images/arch/obren_io_vertical.png)
-***Figure 3:** Grounded Architecture is a part of the collection of open-source tools and resources I have built in the past ten years to help me in architectural work.*
+![Figure 3: Grounded Architecture is a part of the collection of open-source tools and resources I have built in the past ten years to help me in architectural work.](assets/images/arch/obren_io_vertical.png)
 
 The other resources include:
 
@@ -190,6 +185,5 @@ I want to thank all AVIV Group's Architecture Center of Excellence members and e
 
 The cover image is [a photo of Nesciobrug](https://commons.wikimedia.org/wiki/File:Nesciobrug_4.jpg). Credit: the botster, CC BY-SA 2.0, via Wikimedia Commons.
 
-![](assets/images/arch/nescio_brug_boat.jpeg)
-^image by henk monster cc by 3 0 via wikimedia commons^
+![image by henk monster cc by 3 0 via wikimedia commons](assets/images/arch/nescio_brug_boat.jpeg)
 
