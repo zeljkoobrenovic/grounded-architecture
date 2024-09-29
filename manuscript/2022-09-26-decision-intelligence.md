@@ -21,7 +21,7 @@ A> * Group decision-making offers significant advantages but increases complexit
 
 **Decision intelligence** is a discipline concerned with selecting between options. It combines the best of **applied data science**, **social science**, and **managerial science** into a unified field that helps people use data to improve their lives, businesses, and the world around them. **[Cassie Kozyrkov](https://en.wikipedia.org/wiki/Cassie_Kozyrkov)** has popularized the field of decision intelligence and created several valuable resources to understand the decision-making process. I recommended her [posts](https://www.linkedin.com/pulse/introduction-decision-intelligence-cassie-kozyrkov/) and [online lessons](https://www.linkedin.com/learning/decision-intelligence/) to all architects because decision-making is an essential part of IT architects' job. 
 
-Now, in this and the next chapter, I want to share some golden nuggets I've gleaned from her teachings and how I've used
+Now, in this chapter, I want to share some golden nuggets I've gleaned from her teachings and how I've used
 them in the wild world of IT. IT architects, like decision-making ninjas, face critical choices every day. Here's how
 they flex their decision intelligence:
 
@@ -121,13 +121,13 @@ decisions need to be treated like a royal decree. Save the deep dives for the bi
 Decisions are the steering wheel for reaching our goals. Consequently, it is crucial to understand and define goals
 properly and to understand whether a decision needs to be made at all.
 
-![image by dilok klaisataporn from istock](assets/images/istock/iStock-1301200404.jpg)
-
 ### Setting Goals
 
 Practical goal setting is like trying to find your way out of an escape room—you need to understand your priorities and
 opportunities, or you'll run in circles. By identifying what's truly important and ignoring everyone else's
 distractions, you can focus on what really counts.
+
+![image by dilok klaisataporn from istock](assets/images/istock/iStock-1301200404.jpg)
 
 Common goal-setting blunders include making goals so vague that they float away like a helium balloon or so rigid that
 they shatter at the first sign of trouble. The secret sauce? **Layered goals** that bring clarity, each serving a
@@ -162,6 +162,8 @@ different from those of the owner (the principal). For example, the owners (prin
 expansion. At the same time, the managers (agents) might dream of longer lunch breaks and fatter paychecks. This **clash
 of interests** can lead to a mismanagement mess if mishandled.
 
+![image by maria stavreva from istock](assets/images/istock/iStock-1446703605.jpg)
+
 In the wild world of IT, a prime example is **technology selection.** Individual teams might want to use the latest, coolest
 tech based on their personal preferences. But letting each team run wild can turn your technology landscape into a
 tangled jungle. It's usually better for an IT organization to keep the tech menu limited. This way, it's easier to train
@@ -188,6 +190,8 @@ In decision-making, especially when you're not the one calling the shots, it's c
 effectively as the decision whisperer. First things first: determine if there's even a space for a decision to be made.
 Sometimes, the big cheese has already decided and needs you to rubber-stamp it like a bureaucratic formality.
 
+![image by pheelings media from istock](assets/images/istock/iStock-1303761470.jpg)
+
 Before diving into the murky waters of faux decision-making, clarify whether there's room for a decision. According to
 Cassie Kozyrkov, this involves two simple steps.
 
@@ -213,12 +217,12 @@ So, next time you're in a meeting and wondering if you're there to make a differ
 advisor in a decision-making drama, remember to whip out the magic question. It's your ticket to knowing whether you're
 in for an epic decision-making saga or a cameo appearance.
 
-![image by chaiyapruek2520 from istock](assets/images/istock/iStock-1043738948.jpg)
-
 ## Decision-Making Complexity
 
 Some decisions are easier to make than others. Kozyrkov identifies 14 factors that can make decision-making more or less
 complex:
+
+![image by chaiyapruek2520 from istock](assets/images/istock/iStock-1043738948.jpg)
 
 ### Number of options
 
@@ -316,34 +320,35 @@ companies with different technology stacks (e.g., one using React and Java in AW
 and want to consolidate on one stack, you may end up in competition and opposition with people from each company wanting
 a consolidated stack to be as close as possible to their previous one.
 
-## Decision is a Step in the Process, Not the End Goal
+## Decision is a Step in the Process
 
 The Radical Candor book introduces a [productivity-focused strategy](https://www.radicalcandor.com/wp-content/uploads/2022/09/How-To-Get-Shit-Done-With-Radical-Candor.pdf) to improve decision-making processes, reduce time
 spent in unproductive meetings, and enhance overall efficiency. The central premise of this methodology is that you
 cannot just make a decision. To have any impact, you need to go through several steps: Listen, Clarify, Debate, Decide,
 Persuade, Implement, and Learn.
 
+![image by t_kimura from istock](assets/images/istock/iStock-1262959028.jpg)
+
 ### Listen
 
 The first step is to **Listen**. Gathering relevant data, feedback, and insights from various sources is crucial.
 Understanding different perspectives from stakeholders, team members, and experts helps form a comprehensive view of the
-situation. This step ensures a thorough understanding of the situation by gathering relevant data and insights from
-various sources. It also ensures consideration of diverse perspectives, which helps form a well-rounded view of the
-issue. By following these seven steps—listen, Clarify, Debate, Decide, Persuade, Implement, and Learn—you can make
-better decisions and get things done efficiently.
+situation. This step ensures a thorough **understanding of the situation** by gathering relevant data and insights from
+various sources. It also ensures consideration of **diverse perspectives,** which helps form a well-rounded view of the
+issue.
 
 ### Clarify
 
-Next, you need to **Clarify**. Clearly articulate the issue or decision to ensure everyone understands the context.
+Next, you need to **Clarify**. Clearly articulate the issue or decision to ensure **everyone understands the context.**
 Establishing clear, specific goals and desired outcomes for the decision is essential. This sets the stage for focused
 discussions and aligned efforts. Clarifying the problem or decision you need to make ensures clear articulation and
-alignment on objectives and desired outcomes. This step eliminates misunderstandings and ambiguities, solidifying the
+alignment on objectives and desired outcomes. This step **eliminates misunderstandings** and ambiguities, solidifying the
 foundation for focused discussions.
 
 ### Debate
 
 Following clarification, the step is to **Debate**. Engage in discussing potential solutions and alternatives, weighing
-the pros and cons of each option. Encourage an open discussion where team members can freely share their ideas and
+the **pros and cons** of each option. Encourage an **open discussion** where team members can freely share their ideas and
 constructively challenge each other's viewpoints. This collaborative approach helps in exploring various aspects of the
 decision. Debating potential solutions ensures a thorough evaluation of all possible options. It promotes an open
 exchange of ideas and constructive challenges, allowing for exploring various aspects and implications of the decision.
@@ -352,22 +357,22 @@ exchange of ideas and constructive challenges, allowing for exploring various as
 
 Once the debate has provided a thorough evaluation of options, it's time to **Decide**. Choose the best course of action
 based on the gathered information and discussions. Depending on your organizational culture, you may reach a consensus
-among the team or have the decision made by a designated leader. The key is to make an explicit and informed choice. The
+among the team or have the decision made by a designated leader. The key is to make an **explicit and informed choice.** The
 decision-making step ensures an informed and thoughtful choice based on the available information and discussions. It
 provides a clear resolution and direction for moving forward, ensuring the best action is selected.
 
 ### Persuade
 
-After making the decision, the next step is to **Persuade**. Clearly communicate the decision and the rationale behind
-it to all stakeholders. It's essential to gain buy-in from team members and stakeholders by addressing their concerns
+After making the decision, the next step is to **Persuade**. Clearly **communicate** the decision and the rationale behind
+it to all stakeholders. It's essential to **gain buy-in** from team members and stakeholders by addressing their concerns
 and objections, convincing them of the decision's validity and importance. Persuading stakeholders and team members
 ensures effective communication of the decision and its rationale. This step secures buy-in and support, addressing and
 mitigating any concerns or objections that may arise.
 
 ### Implement
 
-With buy-in secured, you move to **Implement**. Execute the plan by assigning tasks and responsibilities to the
-appropriate individuals. Ensure everyone understands their role in the overall plan, providing the necessary resources
+With buy-in secured, you move to **Implement**. Execute the plan by **assigning tasks and responsibilities** to the
+appropriate individuals. Ensure everyone understands their role in the overall plan, providing the **necessary resources**
 and support to facilitate effective implementation. Alignment and clear communication are vital during this phase.
 Implementing the decision ensures the execution of the plan through the assignment of tasks and responsibilities. It
 ensures alignment and understanding of roles and the provision of necessary resources and support for successful
@@ -376,9 +381,9 @@ implementation.
 ### Learn
 
 Finally, it's crucial to **Learn**. Monitor the implementation process and measure the outcomes against the set
-objectives. Collect feedback from stakeholders and team members to assess the effectiveness of the decision. Analyze the
-results to identify lessons learned and make necessary adjustments to improve future decision-making processes. This
-continuous improvement approach helps refine strategies and enhance productivity over time. Learning from the process
+objectives. **Collect feedback** from stakeholders and team members to assess the effectiveness of the decision. **Analyze the
+results** to identify lessons learned and make necessary adjustments to improve future decision-making processes. This
+continuous improvement approach helps **refine strategies** and **enhance productivity** over time. Learning from the process
 ensures continuous improvement. Monitoring and measuring the implementation and outcomes, collecting and analyzing
 stakeholder feedback, and identifying lessons learned all refine future decision-making processes.
 
@@ -441,81 +446,6 @@ brainpower**. Once you've identified those critical decisions, then—and only t
 statistical or other methods to get more accurate answers in the murky waters of uncertainty. Diving into data without
 asking the right questions is like wandering into a labyrinth with a blindfold on.
 
-## Group Decision-Making Dynamics
-
-Effective decision-making often involves recognizing that **you might not be the sole decision-maker**. In organizations, it's crucial to identify the actual decision-makers and understand how decision responsibility is distributed among them. Mastering this skill is essential for navigating organizational decision-making processes. It's important to question who really has the final say in decisions. In many cases, decision-making is more complex than it appears.
-
-![image by prostock-studio from istock](assets/images/istock/iStock-1198639725.jpg)
-
-Group decision-making offers significant advantages. While you might believe you have the best solutions, incorporating diverse perspectives can help cover your blind spots. Multiple decision-makers can counterbalance an individual's extreme tendencies and compensate for human limitations like fatigue.
-
-While group decision-making might sometimes constrain individual creativity, it also **provides safeguards against poor decisions** and **aligns individual motives with the organization's goals**. Having several independent decision-makers can align individual incentives with the organization's needs, addressing this problem.
-
-However, group decision-making isn't perfect. It **increases complexity** as it **requires higher decision-making skills** from each member. True **collaboration in decision-making** is more challenging than individual decision-making. It also tends to **slow down the decision process**.
-
-Moreover, the benefits of group decision-making, like balancing individual biases, **rely on the independence of the decision-makers**. If everyone is in the same room, independence can be compromised by factors like **charisma or status**, potentially allowing the loudest voice to dominate rather than the wisest.
-
-Group settings can also **devolve into social exercises**, where **personal ego overshadows open-mindedness** to new information. Awareness of these pitfalls allows you to create rules that foster independent perspectives.
-
-The **role of the note-taker** in group settings is also influential, as is the phenomenon of **responsibility diffusion**, where **unclear responsibilities** lead to reduced individual contribution.
-
-In summary, **the more people involved in a decision, the higher the skill level required** to maximize the benefits and minimize the downsides of group decision-making. It's vital to structure the process to maintain independence, possibly by limiting decision-makers and increasing advisors. This approach distinguishes between making a decision and advocating for the execution of an already-made decision.
-
-Group decision-making dynamics in IT can take various forms, including consensus, hierarchical, voting, and conflict resolution approaches. Group decision-making dynamics in IT can vary widely depending on the context, team structure, and decision at hand. Here are some examples illustrating different aspects of group decision-making dynamics in IT:
-
-### Example 1: Consensus Decision-Making for Technology Adoption
-
-**Scenario:** An IT team must decide which cloud platform to use for a new project. The options are AWS, Azure, and Google Cloud.
-
-**Dynamics:**
-1. **Information Sharing**: Team members share their experiences and knowledge about each platform. This includes presenting pros and cons, costs, and performance benchmarks.
-2. **Brainstorming**: An open discussion is held where everyone is encouraged to voice their opinions and suggest potential solutions.
-3. **Evaluation**: Each option is evaluated based on predefined criteria such as scalability, cost, ease of integration, and existing team expertise.
-4. **Consensus Building**: The team works towards a consensus by discussing the trade-offs and attempting to agree on the platform that best meets the project's needs.
-5. **Decision**: After a thorough discussion, the team decides to use AWS due to its robust ecosystem and familiarity with it.
-
-**Influence**: Consensus decision-making ensures that all team members feel heard and can contribute to the decision, leading to higher buy-in and commitment to the chosen platform.
-
-### Example 2: Hierarchical Decision-Making for Security Policy
-
-**Scenario:** A decision must be made about implementing a new security policy to comply with regulatory requirements.
-
-**Dynamics:**
-1. **Top-Down Directive**: Senior management decides on the necessity of the new security policy based on compliance needs and risk assessments.
-2. **Expert Input**: Security experts within the organization are consulted to provide detailed recommendations on implementing measures.
-3. **Implementation Plan**: The IT manager creates an implementation plan based on the expert recommendations and communicates it to the team.
-4. **Team Execution**: The IT team is tasked with executing the plan, following the directives provided by management.
-
-**Influence**: Hierarchical decision-making can be efficient, especially when quick, decisive action is required and the decision involves specialized knowledge. However, it may result in less buy-in from the team if they are not involved in the decision-making process.
-
-### Example 3: Voting for Feature Prioritization
-
-**Scenario:** A software development team needs to prioritize features for the next release of their product.
-
-**Dynamics:**
-1. **Feature List**: A list of potential features is compiled based on customer feedback, market research, and internal brainstorming sessions.
-2. **Discussion**: The team discusses the importance and impact of each feature, considering factors such as user value, development effort, and strategic alignment.
-3. **Voting**: Each team member votes on their top features, often using a point system where they can allocate a certain number of points across the features.
-4. **Ranking**: Features are ranked based on the total points received, and the top-ranked features are selected for the next release.
-
-**Influence**: Voting democratizes the decision-making process and ensures that the prioritization reflects the team's collective opinion. This approach can enhance team morale and provide diverse perspectives are considered.
-
-### Example 4: Conflict Resolution in Architecture Decisions
-
-**Scenario:** The development team is divided over whether to build a new application using a microservices or monolithic architecture.
-
-**Dynamics**
-
-1. **Initial Positions**: Team members present their initial positions, with some advocating for microservices due to their scalability and flexibility and others for a monolithic architecture due to its simplicity and ease of deployment.
-2. **Evidence Gathering**: Both sides present evidence, including case studies, technical articles, and expert opinions, to support their arguments.
-3. **Facilitated Discussion**: A neutral facilitator (such as an architect) leads a structured discussion to explore the pros and cons of each approach.
-4. **Compromise and Integration**: The team seeks a compromise or an integrated solution, such as starting with a monolithic architecture and planning to evolve to microservices as the application grows.
-5. **Final Decision**: After thoroughly discussing and considering all viewpoints, the team decides to balance immediate needs with future scalability.
-
-**Influence**: Structured conflict resolution ensures that all voices are heard and helps the team make a well-considered decision. Combining the strengths of different viewpoints can enhance mutual understanding and lead to better decisions.
-
-Each method has its advantages and can be suitable for different decisions. Understanding these group dynamics can help teams navigate complex choices more effectively, leading to better outcomes and stronger team cohesion. 
-
 ## To Probe Further
 * [Introduction to Decision Intelligence](https://www.linkedin.com/pulse/introduction-decision-intelligence-cassie-kozyrkov/), by Cassie Kozyrkov, 2020
 * [Decision Intelligence: The steering wheel for your life](https://www.linkedin.com/learning/decision-intelligence/), by Cassie Kozyrkov, 2024
@@ -539,7 +469,5 @@ Each method has its advantages and can be suitable for different decisions. Unde
   led to ineffective decision-making?*
 * *What factors have you found to increase the complexity of decision-making in your experience? How do you manage these
   complexities effectively?*
-* *Can you identify any habits or emotional factors contributing to your indecisiveness? What strategies can you employ
-  to overcome these challenges?*
 * *How do you use data in your decision-making process? Are there instances where data has misled your decisions, and
   how can you safeguard against this in the future?*

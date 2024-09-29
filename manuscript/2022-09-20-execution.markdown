@@ -1,6 +1,6 @@
 
 
-# On Execution and Governance: Introduction {#execution}
+# Expanding the Architect's Toolkit: Multidisciplinary Approaches {#expanding-toolkit}
 
 ![image by worawee meepian from istock](assets/images/istock/iStock-1444086274.jpg)
 

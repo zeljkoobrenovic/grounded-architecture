@@ -15,7 +15,8 @@ Part2.txt
 2022-06-10-impact.markdown
 2022-06-12-leadership.markdown
 2022-06-14-superglue.markdown
-2022-06-15-career-paths.markdown
+2022-06-16-balancing.markdown
+2022-06-20-career-paths.markdown
 Part3.txt
 2022-07-01-human-complexity.md
 2022-07-03-culture-map.md
