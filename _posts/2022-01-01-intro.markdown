@@ -97,6 +97,7 @@ If all this is not enough, in the online appendix I outline several resources th
 * [Bookshelf](https://grounded-architecture.io/bookshelf)
 * [Resources for Managing, Growing, and Hiring Architects](https://grounded-architecture.io/career-resources)
 * [Resources for Effective Communication](https://grounded-architecture.io/communication)
+* [Working With Toxic Colleagues](https://grounded-architecture.io/toxic-colleagues)
 * [EIC/ISO 25010 Standard](https://grounded-architecture.io/iso25010)
 * [Cloud Design Patterns](https://grounded-architecture.io/cloud-design-patterns)
 

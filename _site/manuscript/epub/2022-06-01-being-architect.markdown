@@ -68,14 +68,14 @@ I also support Gregor Hohpe's view that **mentoring other architects** is one of
 
 The section [Leadership](#leadership) provides more details.
 
+## Thinking Like an Architect
+
+In IT organizations, architects are the **essential connectors,** often referred to as "superglue." Their primary function is integrating different aspects of the organization—architecture, technical details, business requirements, and team dynamics—ensuring that everything works together seamlessly. This role is vital in large organizations and complex projects where cohesion and coordination are paramount to success. The section [Thinking Like an Architect: Architects as Superglue](#superglue) provides more details.
+
+Balancing curiosity, doubt, vision, and skepticism is essential for driving sustainable innovation and change in organizations. Architects must constantly reflect on how well they balance these forces. In doing so, they can ensure that their efforts are driven by a healthy combination of exploration, critical validation, strategic guidance, and cautious realism—all crucial to achieving lasting success in any organizational change. The section [Thinking Like an Architect: Balancing Curiosity, Doubt, Vision, and Skepticism](balancing) provides more details.
+
 ### Architects' Career Paths
 
 The ideal career path for architects is rooted in a strong engineering background. This foundation provides the technical proficiency necessary for advanced architectural roles.
 
 The section [Architects' Career Paths](career-paths) provides more details.
-
-## Thinking Like an Architect: Architects as Superglue
-
-In IT organizations, architects are the essential connectors, often referred to as “superglue.” Their primary function is integrating different aspects of the organization—architecture, technical details, business requirements, and team dynamics—ensuring that everything works together seamlessly. This role is vital in large organizations and complex projects where cohesion and coordination are paramount to success.
-
-The section [Thinking Like an Architect: Architects as Superglue](#superglue) provides more details.

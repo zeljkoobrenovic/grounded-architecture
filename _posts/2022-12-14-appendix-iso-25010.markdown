@@ -2,7 +2,7 @@
 layout: post
 section: "Appendix 3: Pragmatic Knowledge Resources"
 title: "ISO 25010 Standard"
-position: 12110
+position: 12114
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 permalink: iso25010

@@ -22,8 +22,7 @@ Architects acting as "superglue" should aim to hold together architecture, techn
 
 While technical expertise is indispensable, what should set superglue architects apart from technical specialists is their exceptional **relational skills.** They must communicate effectively, negotiate, and influence various stakeholders to achieve alignment and drive projects forward. This unique blend of technical and interpersonal skills is the reason for having architects and makes them invaluable in maintaining the organization's coherence and efficiency.
 
-![Architects as Superglue](assets/images/superglue/architect-as-superglue.png)
-***Figure 1:** Architects serve as superglue, connecting development teams with business stakeholders and linking their teams with internal and external communities.*
+![Figure 1: Architects serve as superglue, connecting development teams with business stakeholders and linking their teams with internal and external communities.](assets/images/superglue/architect-as-superglue.png)
 
 **Figure 1** captures the **superglue metaphor** for architects, showing how they, like superglue, can bond various parts of the organization:
 

@@ -39,6 +39,8 @@ Tools for Developing Soft Skills:
 
 * **[Effective Communication](https://grounded-architecture.io/communication)**: This section synthesizes various resources specifically designed to enhance your ability to communicate effectively, provide constructive feedback, and manage challenging conversations with confidence and clarity. These resources are not just theoretical, but they provide practical strategies and techniques that you can apply in your daily interactions.
 
+* **[Working With Toxic Colleagues](https://grounded-architecture.io/toxic-colleagues)**: This section summarizes how challenging personalities like the Kiss-Up/Kick-Down, Credit Stealer, and Bulldozer in high-pressure environments can undermine team dynamics. However, techniques such as documenting contributions and fostering transparency can help manage their negative impact.
+
 Pragmatic Knowledge Resources:
 
 * **[EIC/ISO 25010 Standard](https://grounded-architecture.io/iso25010)** focuses on product quality and system quality models. While imperfect, this standard is a reasonably complete yet compact source for understanding software maintainability, security, reliability, and performance efficiency. 
