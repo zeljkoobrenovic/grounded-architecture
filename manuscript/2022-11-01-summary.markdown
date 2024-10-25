@@ -47,10 +47,11 @@ As a part of my work on Grounded Architecture, I also provided several guiding p
   * [The Culture Map: Architects' Culture Compass](#culture-map)
   * [The Human Side of Decision-Making](#human-decisions)
   * [Effortless Architecture](#effortless)
-* [**On Execution and Governance**](execution):
-  * [Product-Led Organizations](#product) 
-  * [Decision Intelligence in IT Architecture](#decision-intelligence)
-  * [Economic Modeling: ROI and Financial Options](#economics)
+* [**Expanding the Architect's Toolkit: Learning From Other Fields**](#expanding-toolkit):
+  * [Architecture in Product-Led Organizations: Learning From Customer-Centric Fields](#product) 
+  * [Decision Intelligence in IT Architecture: Learning From Data, Social, and Managerial Fields](#decision-intelligence)
+  * [Economic Modeling With ROI and Financial Options: Learning From the Finance Field](#economics)
+  * [How Big Transformations Get Done: Learning From Mega-Projects](big-transformations)
 
 When Grounded Architecture is in place, it can have a significant [positive impact](#impact) on the functioning of an organization:
 

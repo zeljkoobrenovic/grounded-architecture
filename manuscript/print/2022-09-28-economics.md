@@ -1,6 +1,6 @@
 
 
-# Economic Modeling: ROI and Financial Options {#economics}
+# Economic Modeling With ROI and Financial Options: Learning From the Finance Field {#economics}
 
 ![](assets/images/arch/money-g45f6788de_1920.jpg)
 ^image by nattanan kanchanaprat from pixabay^

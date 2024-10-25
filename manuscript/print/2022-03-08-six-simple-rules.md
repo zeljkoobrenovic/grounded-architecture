@@ -24,7 +24,7 @@ In this chapter, I explore how Grounded Architecture and Six Simple Rules are be
 
 One of the Six Simple Rules' central premises is that **conventional management approaches**, which the authors split into hard and soft, are neither sufficient nor appropriate for the complexity of organizations nowadays.  
 
-### Hard Approach (Military Model)
+### Hard Approach
 
 The **hard approach** rests on two fundamental assumptions:
  * The first is the belief that **structures, processes, and systems** have a direct and predictable effect on performance, and as long as managers pick the right ones, they will get the performance they want. 
@@ -40,7 +40,7 @@ In my experience, IT architecture support  in organizations following a hard man
 * **Security and Compliance:** There would be a significant emphasis on **compliance frameworks,** security protocols, and risk management systems. These systems would be designed to ensure that all actions are traceable, compliant with regulations, and aligned with the company’s **predefined rules and processes.**
 * **Bureaucratic Systems:** The architecture might include multiple **layers of control** and coordination units, such as a risk management system, compliance databases, and innovation management software. Each of these units would be designed to enforce specific aspects of the organization’s performance objectives.
 
-### Soft Approach (Family Model)
+### Soft Approach
 
 On the other end, we have a soft management approach. According to the **soft approach**, an organization is a set of **interpersonal relationships and the sentiments** that govern them. 
 * **Good performance is the by-product of good interpersonal relationships**. Personal traits, psychological needs, and mindsets predetermine people's actions. 
@@ -54,7 +54,7 @@ In my experience, IT architecture support in organizations following a soft mana
 * **Employee-Centric:** The architecture would focus on tools facilitating communication and **knowledge sharing.** These tools might include **collaboration platforms,** social intranets, and user-friendly interfaces that enable employees to interact more effectively.
 * **Personalization:** Systems might be more personalized, offering **customization options** that align with individual preferences and needs. This personalization could include customizable dashboards and personalized workspaces.
 
-## Collaboration Approach (Professional Sport Team Model) 
+## Collaboration Approach 
 
 Hard and soft management approaches are limited in today's world and are harmful to cooperation. A **hard approach** introduces **complicated mechanisms**, compliance, and "checking the box" behaviors instead of the engagement and initiative to make things work. The **soft approach's** emphasis on **good interpersonal feelings** creates **cooperation obstacles** as people want to maintain good feelings.
 

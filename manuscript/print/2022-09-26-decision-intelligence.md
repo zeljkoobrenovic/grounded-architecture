@@ -1,6 +1,6 @@
 
 
-# Decision Intelligence in IT Architecture {#decision-intelligence}
+# Decision Intelligence in IT Architecture: Learning From Data, Social, and Managerial Fields {#decision-intelligence}
 
 ![](assets/images/istock/iStock-1365878406.jpg)
 ^image by sasun bughdaryan from istock^
