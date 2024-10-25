@@ -1,7 +1,7 @@
 ---
 layout: post
 section: "Expanding the Architect's Toolkit"
-title: "Economic Modeling: ROI and Financial Options"
+title: "Economic Modeling With ROI and Financial Options: Learning From the Finance Field"
 position: 9028
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)

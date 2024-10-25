@@ -1,7 +1,7 @@
 ---
 layout: post
 section: "Expanding the Architect's Toolkit"
-title: "Decision Intelligence in IT Architecture"
+title: "Decision Intelligence in IT Architecture: Learning From Data, Social, and Managerial Fields"
 position: 9026
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)

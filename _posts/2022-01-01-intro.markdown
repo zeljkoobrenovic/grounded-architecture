@@ -86,11 +86,11 @@ As part of my Grounded Architecture quest, I've devised several guiding principl
   * [The Culture Map: Architects' Culture Compass](culture-map)
   * [The Human Side of Decision-Making](human-decisions)
   * [Effortless Architecture](effortless)
-* [**On Execution and Governance**](execution):
-  * [Product-Led Organizations](product) 
-  * [Decision Intelligence in IT Architecture](decision-intelligence)
-  * [Economic Modeling: ROI and Financial Options](economics)
-  * [How Big Projects Get Done](big-projects)
+* [**Expanding the Architect's Toolkit: Learning From Other Fields**](expanding-toolkit):
+  * [Architecture in Product-Led Organizations: Learning From Customer-Centric Fields](product) 
+  * [Decision Intelligence in IT Architecture: Learning From Data, Social, and Managerial Fields](decision-intelligence)
+  * [Economic Modeling With ROI and Financial Options: Learning From the Finance Field](economics)
+  * [How Big Transformations Get Done: Learning From Mega-Projects](big-transformations)
 
 If all this is not enough, in the online appendix I outline several resources that have proven vital in my journey as an IT architect. I routinely refer back to them and carry them in my practitioner "backpack," so I added their summaries in the online [appendix](appendix), including:
 
