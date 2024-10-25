@@ -76,6 +76,7 @@ As a part of my work on Grounded Architecture, I also provided several guiding p
   * [Product-Led Organizations](product) 
   * [Decision Intelligence in IT Architecture](decision-intelligence)
   * [Economic Modeling: ROI and Financial Options](economics)
+  * [How Big Projects Get Done](big-projects)
 
 When Grounded Architecture is in place, it can have a significant [positive impact](impact) on the functioning of an organization:
 

@@ -90,6 +90,7 @@ As part of my Grounded Architecture quest, I've devised several guiding principl
   * [Product-Led Organizations](product) 
   * [Decision Intelligence in IT Architecture](decision-intelligence)
   * [Economic Modeling: ROI and Financial Options](economics)
+  * [How Big Projects Get Done](big-projects)
 
 If all this is not enough, in the online appendix I outline several resources that have proven vital in my journey as an IT architect. I routinely refer back to them and carry them in my practitioner "backpack," so I added their summaries in the online [appendix](appendix), including:
 
