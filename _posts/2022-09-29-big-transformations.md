@@ -541,28 +541,24 @@ Climate mitigation should no longer be seen as an optional "nice to have" in pro
 <br>
 ## Questions to Consider
 
-* *How can organizations balance the ambition of IT transformation projects with the need for realistic, data-driven planning?*
-
 * *What strategies can be employed to avoid strategic misrepresentation and ensure that initial project forecasts are honest and achievable?*
 
 * *In what ways can IT leaders apply the lessons learned from other industries (e.g., construction, entertainment) to improve the success rates of large IT projects?*
 
 * *How can organizations identify and address "sunk cost" and "commitment fallacies" in their IT transformation projects?*
 
-* *What are the qualities of a ''master builder'' in IT transformations, and how can organizations ensure they have the right leadership in place?*
+* *What are the qualities of a "master builder" in IT transformations, and how can organizations ensure they have the right leadership in place?*
 
-* *How can IT teams stay focused on the core ''why'' of the transformation and avoid being sidetracked by unnecessary features or scope creep?*
+* *How can IT teams stay focused on the core "why" of the transformation and avoid being sidetracked by unnecessary features or scope creep?*
 
-* *How can organizations apply the ''build with Lego approach" in IT projects to create scalable, modular systems?*
+* *How can organizations apply the "build with Lego approach" in IT projects to create scalable, modular systems?*
 
 * *How can taking an outside view, or reference-class forecasting, help IT leaders better estimate timelines, costs, and risks in their projects?*
 
 * *What strategies can IT leaders use to foster strong, collaborative relationships with stakeholders to support project success?*
 
-* *What are the risks of failing to ''watch your downside'' in IT transformations, and how can organizations better prioritize risk mitigation?*
+* *What are the risks of failing to "watch your downside" in IT transformations, and how can organizations better prioritize risk mitigation?*
 
 * *What role do cognitive biases, particularly overconfidence, play in IT transformation failures, and how can teams safeguard against them?*
-
-* *When is it appropriate for IT leaders to say ''no'' or walk away from a project, and how can this prevent larger failures down the line?*
 
 * *How can climate mitigation be integrated into IT transformation projects, and why is this essential for the organization and society?*

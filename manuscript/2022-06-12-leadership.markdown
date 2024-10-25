@@ -2,8 +2,7 @@
 
 # Leadership Traits {#leadership}
 
-![](assets/images/istock/iStock-1356210519.jpg)
-^image by niserin from istock^
+![image by niserin from istock](assets/images/istock/iStock-1356210519.jpg)
 
 **IN THIS SECTION, YOU WILL:**  Understand how to apply ideas from David Marquet's work and Netflix's valued behaviors to develop architects' leadership traits.
 
@@ -16,8 +15,7 @@ A> * Borrowing from Netflix's original values, I see the following behavioral tr
 
 My approach to architecture leadership draws inspiration from two standout sources: **[David Marquet's](https://davidmarquet.com/) leadership principles**, articulated in his book "[Turn the Ship Around!](https://davidmarquet.com/turn-the-ship-around-book/)" and "[Leadership Is Language](https://davidmarquet.com/leadership-is-language-book/)," and Netflix's valued behaviors. Marquet's ideas are about empowering team members, providing clarity, decentralizing decision-making, striving for continuous improvement, and practicing servant leadership. Meanwhile, **[Netflix's valued behaviors](https://jobs.netflix.com/culture)** offers a compact masterclass in coaching and developing people's leadership traits. Together, these resources form a robust framework for leading with insight and influence in the IT architecture (Figure 1).
 
-![](assets/images/arch/architects_leadership.png)
-***Figure 1:** Leadership is one of the three main elements of being an architect (skills, impact, leadership). Having skills and impact without leadership frequently leads to hitting a glass ceiling. Such architects plateau at an intermediate level and cannot direct the company to innovative or transformative solutions.*
+![Figure 1: Leadership is one of the three main elements of being an architect (skills, impact, leadership). Having skills and impact without leadership frequently leads to hitting a glass ceiling. Such architects plateau at an intermediate level and cannot direct the company to innovative or transformative solutions.](assets/images/arch/architects_leadership.png)
 
 ## David Marquet's Work: The Leader-Leader Model
 
@@ -29,8 +27,7 @@ The leader-leader model is an excellent standard for architects' leadership visi
 
 One of the key benefits of a leader-leader model is that it creates **a more collaborative and inclusive work environment**. It allows individuals to contribute their unique perspectives, experiences, and skills to the group, promoting ownership and accountability for the team's success. This model also **helps build trust and more robust team relationships**, increasing productivity, creativity, and innovation.
 
-![](assets/images/istock/iStock-513438213.jpg)
-^image by caiaimage/martin barraud from istock^
+![image by caiaimage/martin barraud from istock](assets/images/istock/iStock-513438213.jpg)
 
 David Marquet's book "Leadership is Language" provides practical advice for leaders looking to create a more collaborative, innovative, and inclusive organizational culture. He emphasizes the importance of language and communication in leadership and introduces the phrase **"I intend to"** as a powerful tool for clarifying intent and **empowering team members** (Figure 2). When team members give intent, the psychological ownership of those actions shifts to them, making them the originators of thought and direction instead of passive followers. This shift in language helps to promote a more collaborative work environment.
 
@@ -49,15 +46,13 @@ The **Leader-Leader model** can and has been applied effectively in software eng
 
 In all these examples, the Leader-Leader model promotes a collaborative, inclusive, and empowering work environment. Individuals are encouraged to take ownership of their work and contribute to the collective success of the team or organization. This approach enhances productivity and fosters innovation, creativity, and continuous improvement.
 
-![](assets/images/arch/leader-leader.jpg)
-***Figure 2:** Leadership language. Based on Intent-Based Leadership, by David Marquet.*
+![Figure 2: Leadership language. Based on Intent-Based Leadership, by David Marquet.](assets/images/arch/leader-leader.jpg)
 
 ## Netflix's Valued Behaviors: Leadership Behaviors
 
 The [Netflix overview of their valued behaviors](https://jobs.netflix.com/culture) is a leading inspiration for how I coach and develop architects. The following sections summarize these behaviors, borrowing from the Netflix original values but rearranging them in the order I see as more relevant for architects. 
 
-![](assets/images/istock/iStock-480185329.jpg)
-^image by chaiyon021/martin barraud from istock^
+![image by chaiyon021/martin barraud from istock](assets/images/istock/iStock-480185329.jpg)
 
 ### Communication
 
