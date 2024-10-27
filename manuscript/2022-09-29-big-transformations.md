@@ -2,8 +2,7 @@
 
 # How Big Transformations Get Done: Learning From Mega-Projects {#big-transformations}
 
-![](assets/images/istock/iStock-1336416570.jpg)
-^image by elxeneize from istock^
+![image by elxeneize from istock](assets/images/istock/iStock-1336416570.jpg)
 
 **IN THIS SECTION, YOU WILL:** Learn that IT transformation projects face similar challenges as other mega-projects, often failing due to cognitive biases and poor planning, but applying key lessons from successful projects—such as risk mitigation, modular design, and stakeholder engagement—can significantly improve their outcomes.
 
@@ -35,8 +34,7 @@ Here's what the data shows from their study of 16,000 such projects:
 
 That is, sadly, typical. On project after project, **rushed, superficial planning** is followed by a **quick start** that makes everybody happy because shovels are in the ground. But inevitably, the project crashes into **problems that were overlooked** or not seriously analyzed and dealt with in planning. People run around trying to fix things. More stuff breaks. There is more running around. Flyvbjerg and Gardner call this the **"break-fix cycle",** like a "mammoth stuck in a tar pit." Several cognitive biases and decision-making fallacies often sabotage these efforts, leading to cost overruns, delays, and underperformance. All these factors together frequently lead to a negative learning loop (Figure 1): *"The more you learn, the more difficult and costly it gets."*
 
-![](assets/images/figures/big_projects_negative_learning.png)
-***Figure 1:**  The negative learning loop behind many mega-projects.*
+![Figure 1:  The negative learning loop behind many mega-projects.](assets/images/figures/big_projects_negative_learning.png)
 
 For IT projects, Flyvbjerg and Gardner gave the following conservative estimates of base rates for cost risks based on their database of projects:
 * Mean cost of overrun of IT projects is 73%
@@ -45,8 +43,7 @@ For IT projects, Flyvbjerg and Gardner gave the following conservative estimates
 
 This analysis means that even if you reserve an extra 100% of your planned budget for unforeseen problems, you still have a fair chance of ending up in the long tail, where costs could be arbitrarily high. 
 
-![](assets/images/istock/iStock-458725591.jpg)
-^image by johncarnemolla from istock^
+![image by johncarnemolla from istock](assets/images/istock/iStock-458725591.jpg)
 
 Let's explore some of typical mega-project pitfalls:
 * Optimism and Overconfidence (Hope Is Not a Strategy)
@@ -60,8 +57,7 @@ Let's explore some of typical mega-project pitfalls:
 
 Leaders and stakeholders frequently **overestimate their ability** to deliver complex transformations. Flyvbjerg and Gardner's key heuristic for managing optimism on projects is *"You want the flight attendant, not the pilot, to be an optimist."*
 
-![](assets/images/istock/iStock-1202038339.jpg)
-^image by skynesher from istock^
+![image by skynesher from istock](assets/images/istock/iStock-1202038339.jpg)
 
 It's common for optimism and overconfidence to rear their heads in IT projects. Leaders and stakeholders may find themselves underestimating the complexity and risks involved. Here are some examples that you might find familiar:
 
@@ -79,8 +75,7 @@ An interesting form of overconfidence is that **early delays** are **not seen as
 
 In some cases, leaders **knowingly present overly optimistic forecasts** to get funding approval or to gain executive buy-in. This strategy **avoids rejection** from stakeholders who may be wary of the true timeline and costs. 
 
-![](assets/images/istock/iStock-997546004.jpg)
-^image by catalin205 from istock^
+![image by catalin205 from istock](assets/images/istock/iStock-997546004.jpg)
 
 Here are some specific examples:
 
@@ -98,8 +93,7 @@ In all of these cases, **strategic misrepresentation** might provide **short-ter
 
 A strong, cohesive team is essential in mega-projects, where complexity and stakes are high. A **lousy team** not only **undermines performance** but also magnifies risks, leading to **cascading failures** that jeopardize the entire project's success. In IT mega-projects a bad team can have severely negative impacts, amplifying the inherent complexities and risks. 
 
-![](assets/images/istock/iStock-1141421597.jpg)
-^image by charday penn from istock^
+![image by charday penn from istock](assets/images/istock/iStock-1141421597.jpg)
 
 When team members are disjointed, unmotivated, or lack trust in one another, several issues arise that can derail the project:
 - **Poor Communication and Collaboration**: A lack of cohesion in the team leads to miscommunication, misunderstandings, and siloed efforts. This results in inefficient workflows, duplicated work, and critical information being missed or ignored, causing delays and costly rework.
@@ -132,8 +126,7 @@ In these examples, a **lousy team dynamic,** characterized by poor communication
 
 Uniqueness bias means people see their projects as unique, one-off ventures with **little or nothing to learn from earlier projects.** If you imagine that your project is so different from other projects that you have nothing to learn from them, you will **overlook risks** you would catch and mitigate if you switched to the outside view instead.
 
-![](assets/images/istock/iStock-527133383.jpg)
-^image by yuri_arcurs from istock^
+![image by yuri_arcurs from istock](assets/images/istock/iStock-527133383.jpg)
 
 IT transformations are often seen as unique by those executing them, leading to a reluctance to learn from other industries or similar projects. However, the reality is that lessons from other sectors, such as construction or film production, can be valuable. Here are some examples of how this bias plays out and its consequences:
 
@@ -153,8 +146,7 @@ In each of these cases, **uniqueness bias** prevents teams from benefiting from 
 
 When an organization embarks on its first large-scale IT transformation, it often lacks experience in managing complex systems and technologies. This **lack of institutional memory** leads to **repeated mistakes** that more experienced teams could have avoided. For instance, in an IT architecture overhaul, the team might struggle to implement a scalable infrastructure due to poor planning or inadequate tools despite established best practices in the industry. In software engineering, teams might make the same coding mistakes, like inadequate version control or failure to manage dependencies properly, because they lack a disciplined software development lifecycle (SDLC).
 
-![](assets/images/istock/iStock-1851616241.jpg)
-^image by skynesher from istock^
+![image by skynesher from istock](assets/images/istock/iStock-1851616241.jpg)
 
 Here are some examples illustrating this issue:
 
@@ -174,8 +166,7 @@ In these examples, **Lack of Experience and Eternal Beginner Syndrome** leads to
 
 The **Sunk Cost Fallacy** and **Commitment Fallacy** are closely related cognitive biases that lead decision-makers to continue investing in a project, often well past the point of viability, to justify previous investments or out of reluctance to admit failure. Together, they create a cycle of sustained investment in projects that may be outdated, inefficient, or otherwise unworkable.
 
-![](assets/images/istock/iStock-1733703987.jpg)
-^image by georgeclerk from istock^
+![image by georgeclerk from istock](assets/images/istock/iStock-1733703987.jpg)
 
 The **Sunk Cost Fallacy** occurs when organizations persist in allocating resources—time, money, or effort—based on what has already been invested rather than the project's current and future benefits. Meanwhile, the **Commitment Fallacy** or **Commitment Bias** arises when decision-makers feel compelled to push forward with a failing initiative, fearing that abandoning it would mean admitting defeat or wasting prior commitments. This push often results in quick "lock-in" decisions that overlook alternatives and elevate project risk.
 
@@ -201,8 +192,7 @@ To avoid these biases, organizations should adopt a data-driven approach that in
 
 Cognitive biases and fallacies represent a significant risk in IT transformations. Overcoming them requires **rigorous active planning,** the **willingness to learn** from other industries and past mistakes, and a focus on making data-driven decisions. Successful IT transformations often involve **transparency,** **adaptability,** and a **willingness to pivot** when necessary rather than sticking to flawed assumptions, unrealistic optimism, or sunk investments.
 
-![](assets/images/istock/iStock-1255897367.jpg)
-^image by skynesher from istock^
+![image by skynesher from istock](assets/images/istock/iStock-1255897367.jpg)
 
 Flyvbjerg and Gardner do not only analyze projects but have identified 11 heuristics for better project leadership:
 * Hire a Masterbuilder
@@ -219,8 +209,7 @@ Flyvbjerg and Gardner do not only analyze projects but have identified 11 heuris
 
 These techniques can set a project on the right path, creating a positive learning loop that pushes projects forward and improves over time.
 
-![](assets/images/figures/big_projects_positive_learning.png)
-***Figure 2:**  The positive learning loop.*
+![Figure 2:  The positive learning loop.](assets/images/figures/big_projects_positive_learning.png)
 
 ### Hire Experienced Masterbuilders
 
@@ -230,8 +219,7 @@ It is important to understand what Flyvbjerg and Gardner mean by a master builde
 
 In IT projects, a master builder could be a **Chief Technology Officer (CTO),** **Chief Product Officer (CTO),** a **Chief Architect,** a Senior Product Manager (or a team of them)—any senior leader with strong, relevant experience, the deep expertise and strategic vision required to steer the team through unforeseen challenges. They don't merely impose a rigid vision; they understand the technical and business intricacies, foresee potential risks, and know how to pivot when things don't go as planned. Essentially, they act as adaptive leaders who empower their teams and navigate uncertainty, keeping the project aligned with its goals while responding to emerging challenges.
 
-![](assets/images/istock/iStock-1288664671.jpg)
-^image by freshsplash from istock^
+![image by freshsplash from istock](assets/images/istock/iStock-1288664671.jpg)
 
 For instance, if you're overseeing a major system integration, your master builder might be a **seasoned CTO, chief architect, or principal engineer** who's navigated the complexities of combining legacy systems with modern cloud services. They'll know the potential pitfalls—like data migration challenges or API compatibility issues—and how to avoid them. Their domain experience allows them to **anticipate risks,** adapt to changes, and keep the project on track.
 
@@ -245,8 +233,7 @@ In any case, whether you hire an established expert or grow your own, the key is
 
 This heuristic is the one that every successful project leader will tell you is **non-negotiable:** *Get your team right*. As Ed Catmull, co-founder of Pixar, wisely said, ***"Give a good idea to a mediocre team, and they will screw it up. Give a mediocre idea to a great team, and they will either fix it or come up with something better. If you get the team right, chances are they will get the ideas right."*** This statement holds especially true in IT, where complex systems, evolving technologies, and tight deadlines make teamwork essential to success.
 
-![](assets/images/istock/iStock-1133992458.jpg)
-^image by simonkr from istock^
+![image by simonkr from istock](assets/images/istock/iStock-1133992458.jpg)
 
 But who should assemble the team? Ideally, this should be the responsibility of a *master builder*. Picking the right team is arguably the master builder's most important job. Whether you're building a new cloud infrastructure, implementing a security overhaul, or leading a software development project, the right team can overcome technical obstacles, innovate on the fly, and adapt to changing requirements.
 
@@ -262,8 +249,7 @@ Remember, teams, not individuals, deliver projects. So, to amend the earlier adv
 
 Asking why you're doing your project is one of the most powerful ways to **stay focused on what really matters**—your ultimate purpose and the desired result. IT  projects often get bogged down in technical details, changing requirements, or unforeseen obstacles, constantly returning to the core *"Why?"* keeps you **grounded in the bigger picture.** This overarching goal should be placed in the metaphorical "box on the right" of your project plan—a constant reminder of the result you're striving for.
 
-![](assets/images/istock/iStock-1419416419.jpg)
-^image by courtneyk from istock^
+![image by courtneyk from istock](assets/images/istock/iStock-1419416419.jpg)
 
 For example, if you're leading a project to migrate systems to the cloud, the ultimate purpose is improving scalability and reducing operational costs. As the project progresses and technical challenges arise—such as data migration delays, compatibility issues, or security concerns—it's easy to get lost in the details. But a strong leader continuously asks, *"Why are we doing this?"* If your actions, resources, or decisions don't contribute directly to achieving the project's purpose, they need to be reconsidered.
 
@@ -277,8 +263,7 @@ By continuously asking *"Why?"* throughout the life of your project, you ensure 
 
 **Big is best built from small.** Just like how a towering wedding cake is essentially a stack of smaller cakes, many large-scale projects in IT and engineering are constructed from simple, repeatable building blocks. This modular approach allows you to **scale systems efficiently,** getting **better, faster, and cheaper as you grow.** Think of each small unit as a **Lego brick**—a fundamental building block that, when replicated, creates something far more powerful.
 
-![](assets/images/istock/iStock-1474410944.jpg)
-^image by albertpego from istock^
+![image by albertpego from istock](assets/images/istock/iStock-1474410944.jpg)
 
 In IT, this principle is at the core of many successful architectures. For instance, consider **server farms**: the server is the Lego brick. A data center isn't a massive, monolithic structure; it's a collection of individual servers stacked and connected in ways that allow them to scale up or down as needed. Similarly, in cloud computing, **virtual machines** or **containers** act as Lego bricks, providing modular, repeatable computation units that can be easily replicated or distributed across a global network.
 
@@ -298,8 +283,7 @@ Taking the time to **plan thoroughly** is crucial because the stakes during exec
 
 You do this by **thinking slowly** during the active planning phase. In this stage, the **cost of reworking** a system design or rethinking your technology choices is **relatively low.** You can test ideas, simulate failures, and anticipate potential issues with little consequence. Thinking through every detail—designing the architecture for a new platform, setting up cloud infrastructure, or defining security protocols—pays off massively when it's time for action. 
 
-![](assets/images/istock/iStock-2154995789.jpg)
-^image by nanostockk from istock^
+![image by nanostockk from istock](assets/images/istock/iStock-2154995789.jpg)
 
 Again, it is essential to understand what Flyvbjerg and Gardner mean by thinking slowly. Planning and thinking slowly is neither a theoretical exercise nor a traditional waterfall approach where you decide everything up front without room for adjustment. Instead, it's a practical, iterative, and dynamic process that involves experimenting, simulating, exploring, and doing everything necessary to clarify your roadmap, reduce risks, and minimize surprises. In IT architecture and software engineering, this means testing different approaches, running simulations to expose potential failures, and experimenting with configurations to see what works best. The goal is to refine your strategy and eliminate uncertainties before you hit the high-stakes phase of full-scale delivery.
 
@@ -339,8 +323,7 @@ Good planning boosts the odds of a quick, effective delivery. It allows you to a
 
 Your project may **feel unique and special,** but it is likely **part of a larger class of projects** unless you are working on something that has never been done before—like developing an AI that achieves accurate general intelligence or creating a quantum computing network. Getting caught up in the specifics of your application or system can be easy. However, thinking of your project as **"one of those "** (for example, one of many cloud migrations, microservices refactor, or platform integrations) will allow you to gather data and learn from the collective experience of similar initiatives.
 
-![](assets/images/istock/iStock-1828723767.jpg)
-^image by eoneren from istock^
+![image by eoneren from istock](assets/images/istock/iStock-1828723767.jpg)
 
 **Reference-class forecasting** is a powerful tool here. For instance, if you're planning a cloud migration, you can look at data from other companies or projects that have done the same thing. How long did it take them? What common issues did they face, like underestimating data transfer times or managing service disruptions? By using this data, you'll make more accurate predictions about your own project's timeline and resource needs.
 
@@ -354,8 +337,7 @@ By shifting your focus from your project's uniqueness to the class of projects i
 
 A leader of a multibillion-dollar public sector project once told the authors he spent more than half his time **acting like a diplomat,** fostering the understanding and support of stakeholders who could significantly influence his project. Why? Because **it's risk management.** Stakeholder relationships can be as critical to project success as technical proficiency.
 
-![](assets/images/istock/iStock-530685719.jpg)
-^image by caiaimage/sam edwards from istock^
+![image by caiaimage/sam edwards from istock](assets/images/istock/iStock-530685719.jpg)
 
 Consider an IT project to build a company-wide data lake. From the CTO to the heads of various business units and the security team, each stakeholder has a vested interest in the project. The CTO is focused on innovation and delivery, business unit leaders are concerned about how it will impact their workflows, and the security team worries about data governance and compliance. If one of these groups becomes disengaged or adversarial, it could stall the project at a critical juncture. By taking the time to understand and address each stakeholder's concerns early, you **create allies** who are **more likely to help resolve issues** when they inevitably arise.
 
@@ -369,8 +351,7 @@ The lesson is clear: **build your bridges before you need them.** Invest time cu
 
 It's often said that opportunity is as important as risk. However, this is a misconception. The truth is, **risk can significantly disrupt your project,** and **no potential upside can compensate** for catastrophic failure. This is particularly crucial in the face of fat-tailed risks—rare but severe issues that can have a disproportionate impact. Instead of relying on forecasting risk probabilities, your focus should be on risk mitigation. Failure to manage these risks could lead to severe consequences for your project.
 
-![](assets/images/istock/iStock-156982341.jpg)
-^image by glenn_hewitt from istock^
+![image by glenn_hewitt from istock](assets/images/istock/iStock-156982341.jpg)
 
 For example, consider a project to migrate a company's entire infrastructure to the cloud. On paper, the opportunities are massive—scalability, cost savings, and improved performance. However, the risks, such as data loss during migration, misconfigurations that lead to security vulnerabilities, or unexpected downtime, could spell disaster. It doesn't matter how great the benefits are if a critical outage compromises your customer's trust or results in costly compliance violations. A wise project leader in this situation would focus first on ensuring robust data backup strategies, rigorous testing, and failover systems before getting excited about the potential upside of cloud performance.
 
@@ -384,8 +365,7 @@ In short, successful project leaders prioritize downside protection. They unders
 
 It's easy to think that projects fail because of external factors—scope changes, unforeseen technical issues, new regulations, or shifting management priorities. While these challenges certainly arise, they are not the root cause of most project failures. In reality, many projects fail because we fall **prey to our biases and blind spots.** Jim Lasko's Great Chicago Fire Festival didn't fail because he couldn't predict the specific malfunction of the ignition system—it failed because he didn't take the *outside view*, which would have shown him how failure typically occurs in live events. He focused on his project's unique details and ignored the broader lessons from similar events.
 
-![](assets/images/istock/iStock-182021337.jpg)
-^image by martin barraud from istock^
+![image by martin barraud from istock](assets/images/istock/iStock-182021337.jpg)
 
 In IT, this **inside view** bias can manifest in many ways. A project manager might assume that a new system will integrate smoothly with existing infrastructure because they've seen their team solve integration challenges before, ignoring that the vast majority of similar projects encounter delays or failures during this phase. Or a software engineer might believe they can implement a cutting-edge technology stack because they're excited about its potential, disregarding the typical risks associated with introducing unproven tools.
 
@@ -401,8 +381,7 @@ By acknowledging that your biggest risk is you—your biases, assumptions, and o
 
 **Staying focused** is critical for getting projects done, especially in IT projects, where **complexity can spiral quickly.** The **ability to say no** is essential for maintaining that focus. At the outset of any project, you must assess whether you have the people, the budget, and the contingencies needed to succeed. If the answer is no, you must have the discipline to walk away, or at the very least, reconsider or delay the project until the conditions are right.
 
-![](assets/images/istock/iStock-2000064911.jpg)
-^image by deepak sethi from istock^
+![image by deepak sethi from istock](assets/images/istock/iStock-2000064911.jpg)
 
 Saying no early on protects you from a variety of pitfalls. For example, if a proposed system integration lacks an adequate budget or experienced engineers, pushing ahead will likely result in delays, technical debt, or outright failure. Declining or rescoping the project is better than proceeding with insufficient resources. Similarly, during the project, continuously ask: *Does this action directly contribute to achieving the goal?* If it doesn’t, skip it. This discussion means saying no to **monuments**—features or systems that look impressive but add no real value—or to **untested technologies** that might introduce unnecessary risk without a clear payoff.
 
@@ -418,8 +397,7 @@ Ultimately, **saying no is about discipline.** It keeps the team focused on the 
 
 No task is more urgent today than mitigating the climate crisis. **The time to act is now,** not only for the common good but for your organization, yourself, and your family. In the realm of IT projects, climate action should be a core consideration for any project you undertake.
 
-![](assets/images/istock/iStock-1304758575.jpg)
-^image by francesco scatena from istock^
+![image by francesco scatena from istock](assets/images/istock/iStock-1304758575.jpg)
 
 For IT and software engineers, this might mean focusing on **energy efficiency** in data centers, applications, and infrastructure. For example, consider not just performance and cost but also the environmental impact when designing a cloud architecture. Choose cloud providers that prioritize renewable energy in their data centers. Many leading cloud platforms, such as AWS, Google Cloud, and Microsoft Azure, have committed to sustainability goals and offer carbon-neutral options. By selecting these, you reduce the carbon footprint of your project while maintaining its technical excellence.
 

@@ -62,13 +62,15 @@ def copy_post(post, counter):
                                 'grounded-architecture', 'analytics', 'people', 'operating-model',
                                 'six-simple-rules', 'governance', 'value',
                                 'being-architect', 'superglue', 'skills', 'impact', 'career-paths',
-                                'soft-skills', 'culture-map', 'leadership', 'balancing', 'human-complexity'
+                                'soft-skills', 'culture-map', 'leadership', 'balancing', 'human-complexity',
                                 'decision-making', 'decision-intelligence', 'human-decisions', 'economics',
-                                'complexity', 'effortless', 'expanding-toolkit', 'big-transformations'
+                                'complexity', 'big-transformations', 'effortless', 'expanding-toolkit',
                                 'expanding-toolkit', 'product', 'summary', 'appendix']
 
                     for section in sections:
-                        line = line.replace('](' + section + ')', '](#' + section + ')')
+                        fragment = '](' + section + ')'
+                        if fragment in line:
+                            line = line.replace(fragment, '](#' + section + ')')
 
                     line = re.sub('<.*?>', '', line)
                     content += line

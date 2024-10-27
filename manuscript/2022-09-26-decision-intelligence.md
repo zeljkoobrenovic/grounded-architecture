@@ -2,8 +2,7 @@
 
 # Decision Intelligence in IT Architecture: Learning From Data, Social, and Managerial Fields {#decision-intelligence}
 
-![](assets/images/istock/iStock-1365878406.jpg)
-^image by sasun bughdaryan from istock^
+![image by sasun bughdaryan from istock](assets/images/istock/iStock-1365878406.jpg)
 
 **IN THIS SECTION, YOU WILL:**  Learn the basics of decision intelligence, the discipline of turning information into
 
@@ -35,8 +34,7 @@ they flex their decision intelligence:
 
 Decision intelligence is the secret sauce of IT architects' work in every twist and turn.
 
-![](assets/images/istock/iStock-1194231226.jpg)
-^image by francescoch from istock^
+![image by francescoch from istock](assets/images/istock/iStock-1194231226.jpg)
 
 ## Basics of Decision-Making
 
@@ -129,8 +127,7 @@ Practical goal setting is like trying to find your way out of an escape room—y
 opportunities, or you'll run in circles. By identifying what's truly important and ignoring everyone else's
 distractions, you can focus on what really counts.
 
-![](assets/images/istock/iStock-1301200404.jpg)
-^image by dilok klaisataporn from istock^
+![image by dilok klaisataporn from istock](assets/images/istock/iStock-1301200404.jpg)
 
 Common goal-setting blunders include making goals so vague that they float away like a helium balloon or so rigid that
 they shatter at the first sign of trouble. The secret sauce? **Layered goals** that bring clarity, each serving a
@@ -165,8 +162,7 @@ different from those of the owner (the principal). For example, the owners (prin
 expansion. At the same time, the managers (agents) might dream of longer lunch breaks and fatter paychecks. This **clash
 of interests** can lead to a mismanagement mess if mishandled.
 
-![](assets/images/istock/iStock-1446703605.jpg)
-^image by maria stavreva from istock^
+![image by maria stavreva from istock](assets/images/istock/iStock-1446703605.jpg)
 
 In the wild world of IT, a prime example is **technology selection.** Individual teams might want to use the latest, coolest
 tech based on their personal preferences. But letting each team run wild can turn your technology landscape into a
@@ -194,8 +190,7 @@ In decision-making, especially when you're not the one calling the shots, it's c
 effectively as the decision whisperer. First things first: determine if there's even a space for a decision to be made.
 Sometimes, the big cheese has already decided and needs you to rubber-stamp it like a bureaucratic formality.
 
-![](assets/images/istock/iStock-1303761470.jpg)
-^image by pheelings media from istock^
+![image by pheelings media from istock](assets/images/istock/iStock-1303761470.jpg)
 
 Before diving into the murky waters of faux decision-making, clarify whether there's room for a decision. According to
 Cassie Kozyrkov, this involves two simple steps.
@@ -227,8 +222,7 @@ in for an epic decision-making saga or a cameo appearance.
 Some decisions are easier to make than others. Kozyrkov identifies 14 factors that can make decision-making more or less
 complex:
 
-![](assets/images/istock/iStock-1043738948.jpg)
-^image by chaiyapruek2520 from istock^
+![image by chaiyapruek2520 from istock](assets/images/istock/iStock-1043738948.jpg)
 
 ### Number of options
 
@@ -333,8 +327,7 @@ spent in unproductive meetings, and enhance overall efficiency. The central prem
 cannot just make a decision. To have any impact, you need to go through several steps: Listen, Clarify, Debate, Decide,
 Persuade, Implement, and Learn.
 
-![](assets/images/istock/iStock-1262959028.jpg)
-^image by t_kimura from istock^
+![image by t_kimura from istock](assets/images/istock/iStock-1262959028.jpg)
 
 ### Listen
 
@@ -400,8 +393,7 @@ Decision-making has evolved beyond pen and paper, with data playing a crucial ro
 I use in [Lightweight Architectural Analytics](#analytics), while visually appealing and powerful when used correctly, 
 is **only a tool to assist** in making informed decisions. It's a means to an impactful end, but **without purposeful application, data is ineffective**.
 
-![](assets/images/istock/iStock-1316937637.jpg)
-^image by blue planet studio from istock^
+![image by blue planet studio from istock](assets/images/istock/iStock-1316937637.jpg)
 
 ### Remember that data has limitations
 

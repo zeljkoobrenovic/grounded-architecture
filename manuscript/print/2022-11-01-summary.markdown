@@ -43,7 +43,7 @@ As a part of my work on Grounded Architecture, I also provided several guiding p
   * [Thinking Like an Architect: Architects as Superglue](#superglue)
   * [Thinking Like an Architect: Balancing Curiosity, Doubt, Vision, and Skepticism](#balancing)
   * [Architects' Career Paths](#career-paths)
-* [**On Human Complexity**](human-complexity):
+* [**On Human Complexity**](#human-complexity):
   * [The Culture Map: Architects' Culture Compass](#culture-map)
   * [The Human Side of Decision-Making](#human-decisions)
   * [Effortless Architecture](#effortless)
@@ -51,7 +51,7 @@ As a part of my work on Grounded Architecture, I also provided several guiding p
   * [Architecture in Product-Led Organizations: Learning From Customer-Centric Fields](#product) 
   * [Decision Intelligence in IT Architecture: Learning From Data, Social, and Managerial Fields](#decision-intelligence)
   * [Economic Modeling With ROI and Financial Options: Learning From the Finance Field](#economics)
-  * [How Big Transformations Get Done: Learning From Mega-Projects](big-transformations)
+  * [How Big Transformations Get Done: Learning From Mega-Projects](#big-transformations)
 
 When Grounded Architecture is in place, it can have a significant [positive impact](#impact) on the functioning of an organization:
 
