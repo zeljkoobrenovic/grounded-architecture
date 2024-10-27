@@ -2,8 +2,7 @@
 
 # Summary {#summary}
 
-![](assets/images/istock/iStock-496666941.jpg)
-^image by ruhey from istock^
+![image by ruhey from istock](assets/images/istock/iStock-496666941.jpg)
 
 **IN THIS SECTION, YOU WILL:** Look back at the content in this book.
 
@@ -25,8 +24,7 @@ The Grounded Architecture framework consists of three elements:
 * [Collaborative Networks](#people),
 * [Operating Model](#operating-model).
 
-![](assets/images/model.png)
-***Figure 1:** Grounded Architecture Overview.*
+![Figure 1: Grounded Architecture Overview.](assets/images/model.png)
 
 *[Lightweight Architectural Analytics](#analytics)* ensures that architects can make data-informed decisions based on a real-time and complete overview of the organization's technology landscape.
 
@@ -41,8 +39,8 @@ As a part of my work on Grounded Architecture, I also provided several guiding p
   * [Making Impact](#impact)
   * [Leadership](#leadership)
   * [Thinking Like an Architect: Architects as Superglue](#superglue)
-  * [Thinking Like an Architect: Balancing Curiosity, Doubt, Vision, and Skepticism](balancing)
-  * [Architects' Career Paths](career-paths)
+  * [Thinking Like an Architect: Balancing Curiosity, Doubt, Vision, and Skepticism](#balancing)
+  * [Architects' Career Paths](#career-paths)
 * [**On Human Complexity**](human-complexity):
   * [The Culture Map: Architects' Culture Compass](#culture-map)
   * [The Human Side of Decision-Making](#human-decisions)

@@ -2,8 +2,7 @@
 
 # On Being Architect: Introduction {#being-architect}
 
-![](assets/images/istock/iStock-1194454929.jpg)
-^image by azmanl from istock^
+![image by azmanl from istock](assets/images/istock/iStock-1194454929.jpg)
 
 **IN THIS SECTION, YOU WILL:**  Get an overview of lessons I learned on what it means to be an architect in practice.
 
@@ -11,8 +10,7 @@
 
 With this section, we start the second part of our book, which unveils a wealth of practical ideas and inspiration to help you bring the Grounded Architecture framework we outlined in the first part to life. This part of the book will equip you with **valuable tips and insights** for running an IT architecture practice (Figure 1). In complex organizations, you cannot just copy and paste other companies' approaches. Instead of having a rigid structured framework, having a toolbox of inspirational resources is more practical for implementing a successful architectural practice. 
 
-![](assets/images/model-inspirations.png)
-***Figure 1:**  Grounded Architecture Overview: Ideas and Inspirations.*
+![Figure 1:  Grounded Architecture Overview: Ideas and Inspirations.](assets/images/model-inspirations.png)
 
 We begin this second part with several resources about what it means to be an architect. The role of an architect in the IT industry is like a **Swiss Army knife**—multifaceted and indispensable. It requires blending technical expertise, strategic thinking, and interpersonal skills to drive successful outcomes in complex organizational environments. In this part of the book, I offer a deep dive into various perspectives on my view on what it means to be an architect in practice, providing a holistic understanding of the responsibilities and expectations associated with this role.
 
@@ -28,8 +26,7 @@ Borrowing from Gregor Hohpe's view on architect development from his book *Softw
 
 Architects must have a **minimal "length"** of all of these "legs" to be successful (Figure 2). For instance, having skills and impact without leadership frequently leads to **hitting a glass ceiling**. Such architects plateau at an intermediate level and cannot direct the company to innovative or transformative solutions. Leadership without impact lacks foundation and may signal that you have become an **ivory tower architect** with a weak relation to reality. And having impact and leadership qualities but no skills leads to **impractical decisions** not informed by in-depth knowledge.
 
-![](assets/images/arch/architect-legs.png)
-***Figure 2:** Architects must have a minimal "length" of all "legs" to be successful.*
+![Figure 2: Architects must have a minimal "length" of all "legs" to be successful.](assets/images/arch/architect-legs.png)
 
 ### Skills 
 
@@ -75,10 +72,8 @@ The section [Leadership](#leadership) provides more details.
 
 In IT organizations, architects are the **essential connectors,** often referred to as "superglue." Their primary function is integrating different aspects of the organization—architecture, technical details, business requirements, and team dynamics—ensuring that everything works together seamlessly. This role is vital in large organizations and complex projects where cohesion and coordination are paramount to success. The section [Thinking Like an Architect: Architects as Superglue](#superglue) provides more details.
 
-Balancing curiosity, doubt, vision, and skepticism is essential for driving sustainable innovation and change in organizations. Architects must constantly reflect on how well they balance these forces. In doing so, they can ensure that their efforts are driven by a healthy combination of exploration, critical validation, strategic guidance, and cautious realism—all crucial to achieving lasting success in any organizational change. The section [Thinking Like an Architect: Balancing Curiosity, Doubt, Vision, and Skepticism](balancing) provides more details.
+Balancing curiosity, doubt, vision, and skepticism is essential for driving sustainable innovation and change in organizations. Architects must constantly reflect on how well they balance these forces. In doing so, they can ensure that their efforts are driven by a healthy combination of exploration, critical validation, strategic guidance, and cautious realism—all crucial to achieving lasting success in any organizational change. The section [Thinking Like an Architect: Balancing Curiosity, Doubt, Vision, and Skepticism](#balancing) provides more details.
 
-### Architects' Career Paths
-
-The ideal career path for architects is rooted in a strong engineering background. This foundation provides the technical proficiency necessary for advanced architectural roles.
-
-The section [Architects' Career Paths](career-paths) provides more details.
+The ideal career path for architects is rooted in a strong engineering background. This foundation provides the technical proficiency necessary for advanced architectural roles. Moving from an engineering role to an architecture role involves broadening scope, increasing diversity, and developing strong communication and influencer skills. Architecture roles can lead to tech leadership positions such as Engineering Director or Chief Technology Officer (CTO), leveraging strategic vision, decision-making, and leadership skills.
+ 
+The section [Architects' Career Paths](#career-paths) provides more details.

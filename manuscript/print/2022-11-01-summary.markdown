@@ -41,8 +41,8 @@ As a part of my work on Grounded Architecture, I also provided several guiding p
   * [Making Impact](#impact)
   * [Leadership](#leadership)
   * [Thinking Like an Architect: Architects as Superglue](#superglue)
-  * [Thinking Like an Architect: Balancing Curiosity, Doubt, Vision, and Skepticism](balancing)
-  * [Architects' Career Paths](career-paths)
+  * [Thinking Like an Architect: Balancing Curiosity, Doubt, Vision, and Skepticism](#balancing)
+  * [Architects' Career Paths](#career-paths)
 * [**On Human Complexity**](human-complexity):
   * [The Culture Map: Architects' Culture Compass](#culture-map)
   * [The Human Side of Decision-Making](#human-decisions)
