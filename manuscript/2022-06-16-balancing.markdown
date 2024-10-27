@@ -2,7 +2,8 @@
 
 # Thinking Like an Architect: Balancing Curiosity, Doubt, Vision, and Skepticism {#balancing}
 
-![image by vawiley from istock](assets/images/istock/iStock-499257719.jpg)
+![](assets/images/istock/iStock-499257719.jpg)
+^image by vawiley from istock^
 
 **IN THIS SECTION, YOU WILL:**  Understand that balancing curiosity, doubt, vision, and skepticism is essential for driving sustainable innovation and change in organizations.
 
@@ -22,7 +23,8 @@ IT architects must help organizations innovate and transform responsibly and sus
 * **Vision** aligns efforts with long-term goals, and 
 * **Skepticism** questions feasibility and assumptions.
 
-![Figure 1: The compass for driving sustainable innovation and change in organizations.](assets/images/figures/compass.png)
+![](assets/images/figures/compass.png)
+***Figure 1:** The compass for driving sustainable innovation and change in organizations.*
 
 IT architects can be crucial in recognizing these different motivators and actively supporting contributions from all four. Their role is to ensure that:
 * **Curiosity** is harnessed productively through experimentation and exploration.
@@ -39,11 +41,13 @@ In the following sections, I describe these four forces in more detail.
 
 Curiosity and wonder are often the most intuitive and powerful motivators for change. Curiosity usually drives innovation—developers and engineers are drawn to explore new technologies, tools, or methods, and their **natural desire to learn** fuels progress. Organizations that encourage autonomy and innovation create environments where curiosity thrives.
 
-![image by mtstock studio from istock](assets/images/istock/iStock-2160910155.jpg)
+![](assets/images/istock/iStock-2160910155.jpg)
+^image by mtstock studio from istock^
 
 Architects too frequently become less curious and focus on reviewing and criticizing other ideas. However, I see them as critical drivers for the **responsible exploration of new technologies**. Architects have a background knowledge that enables them to quickly understand the pros and cons of new directions. As per [ThoughWorks analysis](https://www.thoughtworks.com/en-ec/insights/blog/seven-tenets-new-age-business-analysis), there is a massive gap between the exponential growth of technology and organizations' ability to harness it, and this gap will only increase with time. Staying curious and being able to follow new technology developments is a crucial competitive advantage of any organization.
 
-![Figure 2: Over time, technology grows at an exponential rate. But businesses aren't able to keep up fast enough. Curiosity is an important force that helps organizations adopt new technologies. Source: thoughtworks.com](assets/images/figures/tech_adoption_gap.png)
+![](assets/images/figures/tech_adoption_gap.png)
+***Figure 2:** Over time, technology grows at an exponential rate. But businesses aren't able to keep up fast enough. Curiosity is an important force that helps organizations adopt new technologies. Source: thoughtworks.com*
 
 However, over-reliance on curiosity can lead to a focus on novelty rather than sustainability. Rapid, uncritical adoption of new technologies may lead to **naive solutions**, overlooking potential risks or **technical debt**. There is a fine line between innovation fueled by curiosity and a risk of unsustainable growth if curiosity is not tempered with critical thinking.
 
@@ -73,7 +77,8 @@ When we make some visible progress, we may ask ourselves if our results are **wr
 
 Doubt is a critical motivator that drives rigorous validation and testing of new ideas. Doubt is primarily a **positive force.** Contrary to skepticism, doubt does not question the possibility of knowing something or the validity of pursuing some direction. When we doubt some finding, we want to set it on **firmer ground** and add **more certainty**.
 
-![image by hiraman from istock](assets/images/istock/iStock-1420814839.jpg)
+![](assets/images/istock/iStock-1420814839.jpg)
+^image by hiraman from istock^
 
 In software engineering, doubt manifests in practices like code reviews, testing frameworks, and peer reviews of architectural designs. IT architects must foster a **culture of constructive doubt,** where teams constantly question whether their solutions are robust, scalable, and fit for purpose.
 
@@ -107,7 +112,8 @@ In all these cases, doubt catalyzes the creation of **robust, validated solution
 
 While the term belief may have a negative connotation, it is difficult to imagine any transformation activity without some form of belief or guiding vision. Vision and belief are **long-term strategic motivators** that guide large-scale change initiatives. Successful IT architecture often begins with a bold vision—such as a belief in the transformative potential of a new technology.
 
-![image by georgepeters from istock](assets/images/istock/iStock-1530562630.jpg)
+![](assets/images/istock/iStock-1530562630.jpg)
+^image by georgepeters from istock^
 
 However, vision without critical evaluation can lead to **confirmation bias.** Architects must balance visionary thinking with the rigor of curiosity and doubt to avoid pursuing misguided or overly narrow goals.
 
@@ -137,7 +143,8 @@ In all these examples, vision and belief served as powerful, **long-term forces*
 
 Skepticism is a loaded term with several definitions. Closest to the meaning I use here is the Wikipedia definition of skepticism as *"doubt regarding claims that are taken for granted elsewhere"*. Similarly, I view skepticism as a **reality checker** that questions the fundamental premises we usually take as a given. As such, skepticism can call attention to the **viability, feasibility, or practicality** of a direction or approach. Contrary to doubt, which can motivate us to investigate some topic further to obtain more certainty, skepticism may call us to abandon some lines of inquiry and consider alternatives.
 
-![image by izusek from istock](assets/images/istock/iStock-1250272161.jpg)
+![](assets/images/istock/iStock-1250272161.jpg)
+^image by izusek from istock^
 
 Fred Brooks's paper ["**No Silver Bullet—Essence and Accidents of Software Engineering**"](https://en.wikipedia.org/wiki/No_Silver_Bullet) is probably one of the best examples of helpful skeptical thought in software engineering. Brooks expressed his skepticism toward approaches to software engineering research that aim to discover a single solution that can improve software productivity by an order of magnitude. Brooks seriously questioned the possibility of ever finding such "startling breakthroughs," arguing that such solutions may be inconsistent with the nature of software. Brooks also made clear that his **skepticism is not pessimism.** While Brooks questioned the possibility of finding a single startling breakthrough that would improve software productivity by an order of magnitude, he believed that such improvement can be achieved through disciplined, consistent effort to develop, propagate, and exploit a number of smaller, more modest innovations. 
 
@@ -175,7 +182,8 @@ Skepticism is probably one of the most complex forces. Contrary to doubt, which 
 
 The four points of the compass—curiosity, doubt, vision, and skepticism—are not mutually exclusive. Effective IT architecture teams **blend these motivations** into their work. For example, curiosity may drive the exploration of new technology, while doubt leads to rigorous testing, and vision provides the strategic framework for long-term development.
 
-![image by happyphoton from istock](assets/images/istock/iStock-1454792457.jpg)
+![](assets/images/istock/iStock-1454792457.jpg)
+^image by happyphoton from istock^
 
 Balancing these motivators at an organizational level is essential for fostering a culture of innovation, resilience, and continuous improvement. Without vision and belief, there would be no forward momentum; without skepticism and doubt, there would be no accountability or critical evaluation.
 
