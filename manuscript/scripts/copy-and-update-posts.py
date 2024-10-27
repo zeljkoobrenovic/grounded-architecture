@@ -65,7 +65,7 @@ def copy_post(post, counter):
                                 'soft-skills', 'culture-map', 'leadership', 'balancing', 'human-complexity'
                                 'decision-making', 'decision-intelligence', 'human-decisions', 'economics',
                                 'complexity', 'effortless', 'expanding-toolkit', 'big-transformations'
-                                'expanding-toolkit', 'product', 'summary', 'appendix'];
+                                'expanding-toolkit', 'product', 'summary', 'appendix']
 
                     for section in sections:
                         line = line.replace('](' + section + ')', '](#' + section + ')')
