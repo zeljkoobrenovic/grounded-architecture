@@ -65,10 +65,11 @@ posts = [
     '2022-07-03-culture-map.md',
     '2022-07-13-human-decisions.md',
     '2022-07-19-effortless.md',
-    '2022-09-20-execution.markdown',
+    '2022-09-20-expanding-toolkit.markdown',
     '2022-09-23-product.md',
     '2022-09-26-decision-intelligence.md',
     '2022-09-28-economics.md',
+    '2022-09-29-big-transformations.md',
     '2022-11-01-summary.markdown',
     '2022-12-02-appendix.markdown'
 ]

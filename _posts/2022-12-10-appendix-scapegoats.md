@@ -53,7 +53,7 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/erhui
 
 In the fast-paced, high-pressure world of IT projects, mistakes or failures in systems, designs, or code can significantly impact projects, organizations, and users. *"Scapegoats at Work: Taking the Bull's-Eye Off Your Back,"* by Katherine Crowley and Kathi Elster, offers valuable insights into the **toxic scapegoating dynamic** that can arise in such environments. The book is a practical guide for professionals who blame themselves unfairly when things go wrong. Crowley and Elster explore the **psychology and organizational behaviors** that lead to scapegoating while providing people with strategies to protect their professional reputations and thrive despite these challenges. Scapegoating can occur at any level in tech projects, whether you're a junior developer being blamed for a bug, an architect blamed for system failures, or a team lead dealing with a significant release gone wrong. 
 
-**IT architects** are **especially prone** to being scapegoated because of the distinct nature of their roles, which positions them in evident and intricate parts of an organization. Their duties frequently involve coordinating across various teams, technologies, and business areas, making them **key to a project's success** and **easy to blame when issues arise.**
+**IT architects** are **especially prone** to being scapegoated because of the distinct nature of their roles, which positions them in evident and intricate parts of an organization. Their duties frequently involve coordinating across various teams, technologies, and business areas, making them **key to a project's success** and **crucial in identifying issues** when they arise. For instance, a case study by Maija Ylinen and Samuli Pekkola entitled "[Enterprise Architecture as a Scapegoat for Difficulties in Public Sector Organizational Transformation](https://aisel.aisnet.org/icis2018/governance/Presentations/7/)" suggests that problems often associated with Enterprise Architecture (EA) do not originate from EA. Instead, they are **manifestations of underlying organizational tensions** arising from the ambiguous and changing role of the IT department. Rather than causing these tensions, the **IT architecture makes them visible,** but this visibility can make IT architecture and IT architects target for scapegoating.
 
 <br>
 ## What Is Skapegoating?
@@ -266,7 +266,7 @@ To prevent or recover from scapegoating, especially in roles like IT professiona
 
 ### Emotional Resilience and Self-Reflection
    - **Stay calm in the face of blame:** When scapegoating occurs, it can be tempting to react defensively. However, maintaining emotional control and responding calmly can prevent escalating situations. It also helps you project professionalism and confidence, reducing the perception that you are at fault.
-   - *Don't internalize the blame:** Recognize that scapegoating is often more about organizational dynamics than personal failure. Reflect on the situation objectively to determine if there was anything you could have done differently, butdon'tt internalize unfair blame.
+   - **Don't internalize the blame:** Recognize that scapegoating is often more about organizational dynamics than personal failure. Reflect on the situation objectively to determine if there was anything you could have done differently, butdon'tt internalize unfair blame.
    - **Seek support:** Building a network of allies and mentors can provide valuable perspective and advice. If you're scapegoated, these relationships can help validate your experiences and offer guidance on how to recover.
 
 ### Reputation Management
@@ -305,16 +305,10 @@ Here are additional examples from the world of IT that illustrate how scapegoati
 
 
 
-**The Software Bug Blame Game:**
-   - **Scenario:** A development team releases a new version of an application. Shortly after deployment, users begin experiencing major issues—frequent crashes, data corruption, and slow performance. Under pressure from upper management, the product owner quickly points fingers at a specific developer, claiming their code introduced the critical bug. The developer is scapegoated, even though the root cause is rushed development, insufficient testing, and outdated infrastructure.
-   - **Scapegoating Dynamic:** In this situation, the developer becomes the easy target, especially if they were involved in the final touches of the code. The blame deflects attention from the poor planning and tight deadlines that led to cutting corners during testing.
-   - **Solution:** Crowley and Elster's approach would be to focus on system improvements rather than individual blame. Implementing **blameless postmortems** would allow the team to conduct a root cause analysis, where it becomes clear that the real issue was inadequate testing, poor code review processes, and tight timelines. By promoting a culture of shared responsibility, everyone involved can learn from the mistake without pinning the blame on one person.
-
-
 
 **Architectural Decisions Gone Wrong:**
    - **Scenario:** An IT architect designs a complex microservices architecture for a large-scale web application. As the project progresses, integration problems arise, and the system experiences frequent downtime. The engineering manager singles out the architect for making "poor design choices," ignoring that the issues stem from a lack of communication between different teams and incomplete design implementation due to resource constraints.
-   Scapegoating Dynamic:** Here, the architect is unfairly blamed for failures that result from broader organizational problems, such as insufficient resources or misalignment between development and operations teams. Scapegoating often occurs because the complexity of system architecture makes it easy to focus on one person's decisions rather than examining the wider context.
+   - **Scapegoating Dynamic:** Here, the architect is unfairly blamed for failures that result from broader organizational problems, such as insufficient resources or misalignment between development and operations teams. Scapegoating often occurs because the complexity of system architecture makes it easy to focus on one person's decisions rather than examining the wider context.
    - **Solution:** The authors recommend that the architect document the decision-making process throughout the project. Keeping records of conversations, resource constraints, and alternative solutions that were considered will demonstrate that the design was sound given the context. In addition, setting clear **expectations and boundaries** upfront—by ensuring everyone understands the limitations of the design given the resources—would help mitigate future scapegoating. 
 
 
@@ -340,17 +334,15 @@ Here are additional examples from the world of IT that illustrate how scapegoati
 
 
 
-**Feature Creep in Agile Projects:**
-   - **Scenario:** During an Agile sprint, the product owner continues to add new features mid-sprint, increasing the scope of work without adjusting deadlines. The development team becomes overwhelmed and fails to complete several key user stories by the end of the sprint. When asked about the delay, the product owner blames the developers for "not being productive enough."
-   - **Scapegoating Dynamic:** Here, the development team is scapegoated for the sprint failure, even though feature creep and the constantly shifting priorities made it impossible to deliver on time. The product owner avoids taking responsibility for the constant changes and the lack of adherence to Agile principles.
-   - **Solution:** Crowley and Elster would suggest using **conflict resolution techniques** to address issues early. The developers should push back on scope creep and insist on following proper Agile practices, where changes are evaluated after the sprint is completed, not mid-sprint. By setting boundaries and refusing to take on unrealistic work, the team can avoid being blamed for failures that are caused by poor project management.
-
-
-
 **Legacy System Maintenance Issues:**
    - **Scenario:** A software engineer is responsible for maintaining a legacy system that is critical to the business. Due to outdated technology, the system frequently goes down, but leadership refuses to invest in upgrading or replacing it. When another outage occurs, the engineer is blamed for not "keeping the system running smoothly."
    - **Scapegoating Dynamic:** The engineer is scapegoated for issues that directly result from management's unwillingness to invest in modernizing the system. This type of scapegoating occurs frequently when long-standing technical debt is ignored by leadership, and individuals responsible for legacy systems are unfairly blamed for inevitable failures.
    - **Solution:** Crowley and Elster would recommend **managing expectations and transparency** by consistently communicating the risks of relying on outdated technology. The engineer should regularly document the system's limitations, advocate for modernization, and ensure that leadership understands the risks of not addressing technical debt. By continuously presenting data on system failures and potential solutions, the engineer can shift the focus to the broader problem rather than being scapegoated when the system fails.
+
+**The Software Bug Blame Game:**
+   - **Scenario:** A development team releases a new version of an application. Shortly after deployment, users begin experiencing major issues—frequent crashes, data corruption, and slow performance. Under pressure from upper management, the product owner quickly points fingers at a specific developer, claiming their code introduced the critical bug. The developer is scapegoated, even though the root cause is rushed development, insufficient testing, and outdated infrastructure.
+   - **Scapegoating Dynamic:** In this situation, the developer becomes the easy target, especially if they were involved in the final touches of the code. The blame deflects attention from the poor planning and tight deadlines that led to cutting corners during testing.
+   - **Solution:** Crowley and Elster's approach would be to focus on system improvements rather than individual blame. Implementing **blameless postmortems** would allow the team to conduct a root cause analysis, where it becomes clear that the real issue was inadequate testing, poor code review processes, and tight timelines. By promoting a culture of shared responsibility, everyone involved can learn from the mistake without pinning the blame on one person.
 
 
 
@@ -361,6 +353,8 @@ Scapegoating in IT organizations can arise from systemic issues like poor planni
 ## To Probe Further
 
 * [Scapegoats at Work Taking the Bull's-Eye Off Your Back](https://www.bloomsbury.com/us/scapegoats-at-work-9780313072086/), by John M. Dyckman and Joseph A. Cutler, 2003
+
+* [Enterprise Architecture as a Scapegoat for Difficulties in Public Sector Organizational Transformation](https://aisel.aisnet.org/icis2018/governance/Presentations/7/), by Maija Ylinen and Samuli Pekkola, Proceedings of International Conference on Information systems (ICIS), 2018
 
 <br>
 ## Questions to Consider
