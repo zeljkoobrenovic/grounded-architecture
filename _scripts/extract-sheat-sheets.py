@@ -17,7 +17,7 @@ def extract_key_topics(post, counter):
                         in_header = True
                     elif line.startswith('title:'):
                         title = line.replace('title:', '').replace('"', '').strip()
-                        if ': Introduction' in title:
+                        if ': Introduction' in title or ': Learning From Other Fields' in title:
                             content += '## ' + title.replace(': Introduction', '').strip() + '\n\n'
                             in_header = False
                             found_topics = True
@@ -46,25 +46,27 @@ posts = [
     '2022-03-03-data-platform.markdown',
     '2022-03-04-people.markdown',
     '2022-03-05-activities.markdown',
-    '2022-03-09-value.markdown',
+    '2022-03-08-six-simple-rules.md',
+    '2022-03-09-governance.markdown',
+    '2022-03-15-value.markdown',
     '2022-06-01-being-architect.markdown',
-    '2022-06-02-superglue.markdown',
     '2022-06-03-skills.markdown',
     '2022-06-10-impact.markdown',
-    '2022-06-15-career-paths.markdown',
-    '2022-07-01-soft-skills.markdown',
+    '2022-06-12-leadership.markdown',
+    '2022-06-14-superglue.markdown',
+    '2022-06-16-balancing.markdown',
+    '2022-06-20-career-paths.markdown',
+    '2022-07-01-human-complexity.md',
     '2022-07-03-culture-map.md',
-    '2022-07-07-leadership.markdown',
-    '2022-07-10-decision-making.markdown',
-    '2022-07-12-decision-intelligence.md',
     '2022-07-13-human-decisions.md',
-    '2022-07-15-economics.md',
-    '2022-07-18-complexity.md',
     '2022-07-19-effortless.md',
-    '2022-07-21-six-simple-rules.md',
-    '2022-09-20-execution.markdown',
+    '2022-09-20-expanding-toolkit.markdown',
     '2022-09-23-product.md',
-    '2022-09-24-governance.markdown'
+    '2022-09-26-decision-intelligence.md',
+    '2022-09-28-economics.md',
+    '2022-09-29-big-transformations.md',
+    '2022-11-01-summary.markdown',
+    '2022-12-02-appendix.markdown'
 ]
 
 all_content = '## Introductions\n\n'
