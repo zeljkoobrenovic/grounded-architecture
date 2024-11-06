@@ -157,8 +157,3 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Tashu
 > * Common cognitive biases and decision-making fallacies like overconfidence, strategic misrepresentation, and the sunk cost fallacy often derail these projects, leading to cost overruns, delays, and underperformance.
 > * Flyvbjerg and Gardner’s book "How Big Things Get Done" highlights lessons from successful and failed mega-projects across various industries, offering 11 practical heuristics for improving project leadership, including hiring the right experts, building modular systems, and focusing on risk mitigation.
 > * Key strategies for IT success include taking the outside view to learn from similar projects, fostering strong stakeholder relationships, and avoiding unnecessary complexity or scope creep by staying focused on core objectives.
-
-### Summary
-> * This playbook aims to share my approach to running an IT architecture practice in larger organizations based on my experience as Chief Architect at AVIV Group, eBay Classifieds, and Adevinta. 
-> * I called this approach "Grounded Architecture," highlighting the need for any IT architecture practice to stay well-connected to all levels of an organization and led by data.
-> * In this section, I summarize the key points from the playbook.
