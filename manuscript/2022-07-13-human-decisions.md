@@ -2,8 +2,7 @@
 
 # The Human Side of Decision-Making {#human-decisions}
 
-![](assets/images/istock/iStock-1286627625.jpg)
-^image by metamorworks from istock^
+![image by metamorworks from istock](assets/images/istock/iStock-1286627625.jpg)
 
 **IN THIS SECTION, YOU WILL:**  Learn the basic human factors influencing decision-making.
 
@@ -24,8 +23,7 @@ Fundamental biases influencing decision-making include outcome, hindsight, and c
 
 The big trap in decision-making is falling into the **outcome bias** pit, where you **obsess over the results** rather than focusing on how you decided in the first place. Results matter, but if you trip over an unlucky result and think you picked the wrong option, you're learning to fail with flair. This faulty thinking could make you make even wackier choices in the future.
 
-![](assets/images/istock/iStock-1400056155.jpg)
-^image by mesh cube from istock^
+![image by mesh cube from istock](assets/images/istock/iStock-1400056155.jpg)
 
 A decision and its outcome are like two different TV show episodes. The outcome is just what happens after the decision's cliffhanger. You can make a totally solid decision and still end up with a plot twist no one saw coming. Outcomes are a cocktail mixed with decision-making, randomness, and a **splash of luck**. And luck, as we all know, is that elusive ingredient we can't control, often playing a starring role in our most complex dramas.
 
@@ -61,8 +59,7 @@ It's essential for teams to critically evaluate their methodologies and ensure t
 
 **Looking back** at decisions can be as tricky as explaining a magic trick once you know the secret, thanks to **hindsight bias**. Everything seems obvious in hindsight, even though it was as clear as mud at the time. The real way to judge a decision is to dig into the info and context available when it was made—like a detective piecing together clues.
 
-![](assets/images/istock/iStock-1394993248.jpg)
-^image by designer491 from istock^
+![image by designer491 from istock](assets/images/istock/iStock-1394993248.jpg)
 
 Think about what the decision-maker considered, how they played detective gathering info, and where they got their facts. Also, check if they collected enough intel for the decision's importance or were winging it.
 
@@ -104,8 +101,7 @@ By acknowledging the role of hindsight bias, teams can foster a more realistic a
 
 **Confirmation bias** is like having a pair of magical glasses that only let you see what you already believe. When you stumble upon a new fact, your brain gives it a makeover to fit your beliefs, even before your morning coffee.
 
-![](assets/images/istock/iStock-1307396842.jpg)
-^image by designer491 from istock^
+![image by designer491 from istock](assets/images/istock/iStock-1307396842.jpg)
 
 Awareness of this sneaky bias is essential because your brain loves playing tricks on you. It makes you think you're being objective while sneakily **reinforcing your pre-existing ideas.** This subconscious nudge can twist your understanding and decision-making without you even noticing.
 
@@ -151,8 +147,7 @@ To mitigate the impact of confirmation bias, teams should actively seek out and 
 
 In a classic behavioral economics study, researchers showed that **how you say something** can be more magical than a rabbit out of a hat. They gave decision-makers the same facts but with some wordplay—different wording. Despite the identical information, decisions did a Houdini act and varied wildly. A tweak in phrasing or tossing in unrelated details can make people's choices wobble like a tightrope walker in a windstorm. Our brains are suckers for cognitive biases and illusions, even when the cold, hard facts are staring us in the face.
 
-![](assets/images/istock/iStock-1333976612.jpg)
-^image by aaronamat from istock^
+![image by aaronamat from istock](assets/images/istock/iStock-1333976612.jpg)
 
 This means that dealing with data isn't as objective as we like to think. How we mentally wrestle with data matters a lot. We may aim to use data to become more objective, but if we're not careful, it can pump up our pre-existing beliefs like a bouncy castle. Instead of uncovering new insights, we end up with our same old convictions, sabotaging our quest for objectivity and learning.
 
@@ -164,8 +159,7 @@ A jaw-dropping example is in the legal system: studies show that judges can hand
 
 Human intuition plays a vital role in decision-making. Robert Glass provided one of the best definitions of intuitions, describing it as a function of our mind that allows it to access **a rich fund of historically gleaned information** we are not necessarily aware we possess by **a method we do not understand** ([Glass, 2006; page 125)](https://www.amazon.com/Software-Creativity-2-0-Robert-Glass/dp/0977213315). But oOur unawareness of such knowledge does not mean we cannot use it.
 
-![](assets/images/istock/iStock-1193842896.jpg)
-^image by metamorworks from istock^
+![image by metamorworks from istock](assets/images/istock/iStock-1193842896.jpg)
 
 One of the main advantages of intuition in decision-making is that accessing it is a rapid process, making intuitive decisions straightforward. Intuition is particularly useful for low-value decisions with low stakes, and a quick resolution is preferable. As we'll explore in future discussions on prioritization and decisiveness, seeking perfection in every decision is impractical due to limited time and energy. Therefore, it's essential to choose where to focus your efforts.
 
@@ -212,8 +206,7 @@ We frequently fall into the indecisiveness trap. Why? Well, people can be indeci
 
 Many folks don't realize that **dodging a decision is still a decision**. It's like standing in front of an ice cream shop, unable to choose a flavor until the shop closes, and boom—you've "decided" to go home without ice cream. Delaying, postponing, or deprioritizing the decision-making process is an implicit choice.
 
-![](assets/images/istock/iStock-2143629746.jpg)
-^image by dragon claws from istock^
+![image by dragon claws from istock](assets/images/istock/iStock-2143629746.jpg)
 
 Dodging decisions often lead to significant consequences, even if they aren't immediately obvious. Here are a few examples:
 
@@ -243,8 +236,7 @@ In all of these cases, failing to make a decision is itself a decision—and oft
 
 Then there's the classic "**too many choices**" dilemma. When faced with an array of decisions, especially those of lower priority, our brains feel like an overstuffed suitcase. Our cognitive capacity is limited—we can't focus intensely on everything simultaneously. Suppose we spend too much mental energy deciding what color to paint the break room. In that case, we might leave no brainpower for the big decisions, like how to keep the servers from catching fire.
 
-![](assets/images/istock/iStock-1304877755.jpg)
-^image by cyano66 from istock^
+![image by cyano66 from istock](assets/images/istock/iStock-1304877755.jpg)
 
 The "too many choices" dilemma is a common problem where teams or decision-makers become overwhelmed by many low-priority decisions, often detracting from critical, high-impact choices. Here are a few examples:
 
@@ -276,8 +268,7 @@ Indecisiveness also loves to rear its head when emotions are involved, especiall
 
 People often get tangled in a web of **grief or frustration** when stuck with lousy options, hoping for a miracle solution that'll never come. It's like searching for unicorns in a petting zoo. Once it's clear that no better options will appear, it takes courage to move forward with the least terrible choice.
 
-![](assets/images/istock/iStock-2031282851.jpg)
-^image by violetastoimenova from istock^
+![image by violetastoimenova from istock](assets/images/istock/iStock-2031282851.jpg)
 
 Teams often face situations where every option feels undesirable, and indecisiveness can creep in due to emotional frustration or the hope for a perfect solution. Here are some examples:
 
@@ -322,8 +313,7 @@ In each case, the choices are less than ideal, and emotions like frustration, an
 
 Effective decision-making often involves recognizing that **you might not be the sole decision-maker**. In organizations, it's crucial to identify the actual decision-makers and understand how decision responsibility is distributed among them. Mastering this skill is essential for navigating organizational decision-making processes. It's important to question who really has the final say in decisions. In many cases, decision-making is more complex than it appears.
 
-![](assets/images/istock/iStock-1198639725.jpg)
-^image by prostock-studio from istock^
+![image by prostock-studio from istock](assets/images/istock/iStock-1198639725.jpg)
 
 Group decision-making offers significant advantages. While you might believe you have the best solutions, incorporating diverse perspectives can help cover your blind spots. Multiple decision-makers can counterbalance an individual's extreme tendencies and compensate for human limitations like fatigue.
 

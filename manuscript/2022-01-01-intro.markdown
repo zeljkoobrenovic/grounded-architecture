@@ -2,8 +2,7 @@
 
 # Introduction {#intro}
 
-![](assets/images/istock/iStock-462294849.jpg)
-^image by rasica from istock^
+![image by rasica from istock](assets/images/istock/iStock-462294849.jpg)
 
 **IN THIS SECTION, YOU WILL:** Understand what this book is about and how to use it.
 
@@ -26,8 +25,7 @@ This book breaks down Grounded Architecture into two main parts (Figure 1):
 * **Framework:** The nuts and bolts you need to get your Grounded Architecture practice up and running.
 * **Guiding Principles:** Handy tips and inspirations to help you bring these ideas to life.
 
-![](assets/images/model.png)
-***Figure 1:**  Grounded Architecture Overview.*
+![Figure 1:  Grounded Architecture Overview.](assets/images/model.png)
 
 Grounded Architecture framework consists of three elements:
 * [Lightweight Architectural Analytics](#analytics),
@@ -80,7 +78,7 @@ This books serves as a guideline to build and **operate a robust IT architecture
 
 The book will provide you with tips and inspirations about work that you need to set up and run a modern IT architecture practice, including:
 
-* Create organizational and technical **structures** to  support IT architecture work,
+* Create flexible organizational and technical **structures** to  support IT architecture work,
 * Define IT **architecture roles** and responsibilities, skills, and career paths,
 * Operate an **effective IT architecture practice** in complex multicultural organizations.
 
@@ -112,12 +110,31 @@ I approach designing an architecture practice in complex organizations as an **a
 
 This book shares some tasty tips and savory secrets on "cooking" up a thriving an architecture practice. But remember, **every kitchen is different.** Some ingredients and recipes are essential, while others might be left on the shelf. And don't be surprised if you need to add a pinch of something special from other sources to spice things up.
 
-![](assets/images/istock/iStock-1409729992.jpg)
-^image by hispanolistic from istock^
+![image by hispanolistic from istock](assets/images/istock/iStock-1409729992.jpg)
 
 When I start an architecture practice, I see myself as a chef stepping into a new restaurant with a suitcase full of favorite spices. I blend in core preferred elements and foundational frameworks like a chef using their trusty spices and kitchen tools. But the **authentic flavor**—the magic that makes a dish unforgettable—comes from the **local ingredients.** In an organization, these local ingredients are the people: the in-house talent and culture that give the enterprise its unique taste.
 
 While fundamental structures and practices may be consistent across diverse businesses, the most crucial elements—akin to fresh, **local ingredients** in cooking—you must procure locally. The staff's skills, experiences, and insights are the secret ingredients that personalize and refine the architecture to align with specific business needs and goals. They are what render the architecture truly unique and effective.
+
+## Beyond Rigid Frameworks: IT Architecture As an Adaptable Outcome-Oriented Practice
+
+In this book, I will use **IT architecture** and **IT architects** in a broad sense. I don’t adhere to strict divisions between enterprise, solution, technical, or software architecture, nor do I narrowly define roles such as enterprise architects, solution architects, or Staff+ technical leaders like principal engineers. Instead, I view IT architecture as a **cohesive function**—a bridge connecting technology, business, product, and organizational strategy. IT architecture is more than a set of duties; it serves as essential connective tissue, aligning these domains to work harmoniously. Rather than advocating for rigid role distinctions, I propose **rethinking and empowering these roles** with an **outcome-oriented, data-informed perspective,** where each role is adaptable, focused on delivering value and impactful outcomes that align with the organization’s broader goals.
+
+I believe IT architecture **isn’t one-size-fits-all**; it adapts to each company’s context, spanning strategic guidance, system integration, solution design, technical implementation, or hands-on leadership. This **adaptability** makes architecture both **powerful and relevant,** enabling architects to align with business goals while remaining responsive to technological change.
+
+In some organizations, architecture may emphasize **business alignment,** ensuring technology investments support the mission. In others, it might focus on **technical depth,** where architects closely collaborate with engineering to build robust, scalable systems. Despite these variations, the core function remains: architecture guides coherence in complex ecosystems. For this reason, I consider IT architects anyone performing this bridging work, regardless of their title.
+
+![image by brightstars from istock](assets/images/istock/iStock-1376008059.jpg)
+
+Focusing on architecture as an **integrative and adaptable function** allows us to appreciate the unique contributions of each architectural role. Rather than defining roles rigidly, this approach highlights architecture as a continuous, evolving practice that balances immediate technical needs with **long-term strategic vision.** This perspective empowers architecture to drive sustainable growth, adaptability, and innovation across the business.
+
+This broader view of IT architecture, while robust and integrative, presents unique challenges. Unlike traditional frameworks with well-defined roles and responsibilities, this perspective **requires constant adaptation** to evolving organizational needs. Traditional frameworks bring clarity and stability, outlining roles and providing structured pathways, making it easier to align efforts across a project’s lifecycle.
+
+In contrast, an adaptive, integrative view of architecture is **less rigid** and **more attuned** to a company’s specific, shifting needs. This flexibility allows architects to bridge technology, business, product, and strategy holistically, responsive to change. However, IT architects and technical leaders must continually **evaluate and recalibrate** their approach. This evolution might mean adjusting priorities, balancing high-level strategy with hands-on guidance, and frequently engaging with stakeholders to ensure alignment.
+
+I believe deeply in this approach, though I acknowledge its demands. It calls for **insight** into business and technology, a readiness to **embrace ambiguity,** and the ability to make decisions amid shifting priorities. IT architects working within this model need a strong grasp of the company’s vision and an **acute sense of timing**—knowing when to emphasize strategy or technical details. It requires agility, resilience, and the willingness to pivot as needs shift and to challenge assumptions to serve the business.
+
+While challenging, this adaptive model of architecture offers rewards that traditional frameworks may lack. By not confining architects to strict roles, it enables solutions genuinely aligned with the organization’s mission, fostering closer collaboration and responsiveness to new opportunities or challenges. This flexibility ultimately allows architecture to drive lasting value and growth—creating a foundation that supports both current goals and future innovation.
 
 ## Key Influences
 
@@ -131,8 +148,7 @@ Many other sources have influenced my work. You can find them in the online [Boo
 
 This book **generalizes my experiences** in written form. I have written these articles for several reasons. Firstly, writing helps me clarify and improve my ideas (Figure 2). As Gregor Hohpe once noted, every sentence you write frees up brain cells to learn new things. 
 
-![](assets/images/writing.png)
-***Figure 2:** Writing a book helped me organize ideas, obtain new insights, improve principles and tools, and share the lessons learned.*
+![Figure 2: Writing a book helped me organize ideas, obtain new insights, improve principles and tools, and share the lessons learned.](assets/images/writing.png)
 
 I also needed this book for the **education of architects** and to **increase awareness about modern an architecture practices** in organizations I worked in. Having written content can significantly help to spread the message. As nicely described by Hohpe written word has distinct advantages over the spoken word:
 
@@ -146,8 +162,7 @@ Lastly, by generalizing and putting my experiences on paper, I aim to create mor
 
 This book is a part of the [**collection of open-source tools and resources**](https://obren.io/) I have built to help me in architectural work (Figure 3).
 
-![](assets/images/arch/obren_io_vertical.png)
-***Figure 3:** Grounded Architecture is a part of the collection of open-source tools and resources I have built in the past ten years to help me in architectural work.*
+![Figure 3: Grounded Architecture is a part of the collection of open-source tools and resources I have built in the past ten years to help me in architectural work.](assets/images/arch/obren_io_vertical.png)
 
 The other resources include:
 
@@ -193,6 +208,5 @@ I want to thank all AVIV Group's Architecture Center of Excellence members and e
 
 The cover image is [a photo of Nesciobrug](https://commons.wikimedia.org/wiki/File:Nesciobrug_4.jpg). Credit: the botster, CC BY-SA 2.0, via Wikimedia Commons.
 
-![](assets/images/arch/nescio_brug_boat.jpeg)
-^image by henk monster cc by 3 0 via wikimedia commons^
+![image by henk monster cc by 3 0 via wikimedia commons](assets/images/arch/nescio_brug_boat.jpeg)
 
