@@ -2,7 +2,8 @@
 
 # Effortless Architecture {#effortless}
 
-![image by chinnapong from istock](assets/images/istock/iStock-1183657530.jpg)
+![](assets/images/istock/iStock-1183657530.jpg)
+^image by chinnapong from istock^
 
 **IN THIS SECTION, YOU WILL:** Get a summary of lessons learned from Greg McKeown's book Effortless on how to functionally structure your work to make the essential activities the easiest ones to achieve.
 
@@ -37,7 +38,8 @@ Similarly, Greg McKeown's book summarizes many well-known practices into a pragm
 
 In the following sections, I will review critical advice from McKeown's work, grouped into Effortless State, Effortless Action, and Effortless Results  (Figure 1).
 
-![Figure 1: The McKeown's Effortless framework: Effortless State, Effortless Action, and Effortless Results.](assets/images/figures/effortless.png)
+![](assets/images/figures/effortless.png)
+***Figure 1:** The McKeown's Effortless framework: Effortless State, Effortless Action, and Effortless Results.*
 
 ## Effortless State
 
@@ -47,7 +49,8 @@ When you achieve the Effortless State, it's a sign that **your brain is operatin
 
 However, reaching and maintaining this state can be impeded by **mental clutter.** Clutter can take many forms, including outdated assumptions, negative emotions, and toxic thought patterns. These mental obstacles drain your cognitive resources and make everything feel more complicated than it should be. By clearing this clutter and fostering a supportive mental environment, you can unlock your brain's full potential and access the Effortless State consistently.
 
-![Figure 2: Effortless State is a part of the McKeown's Effortless framework (State, Action, Results).](assets/images/figures/effortless_state.png)
+![](assets/images/figures/effortless_state.png)
+***Figure 2:** Effortless State is a part of the McKeown's Effortless framework (State, Action, Results).*
 
 ### 1. INVERT: What If This Could Be Easy?
 
@@ -55,7 +58,8 @@ Feeling overwhelmed is often not due to a situation's inherent complexity but be
 
 By asking, *"What if this could be easy?"* you can reset your thinking. Or, as Kent Beck famously stated, for each desired change, **make the change easy, then make the easy change.**
 
-![image by mironov konstantin from istock](assets/images/istock/iStock-1359088740.jpg)
+![](assets/images/istock/iStock-1359088740.jpg)
+^image by mironov konstantin from istock^
 
 IT and software engineering have integrated the principles of effortless inversion, transforming many complex tasks into efficient processes. But we must always remind ourselves not to overthink our work. 
 
@@ -75,7 +79,8 @@ Combining essential tasks with pleasurable activities can enhance your productiv
 
 This approach helps you stay engaged and motivated, making even the most mundane tasks feel more fulfilling and less burdensome. Letting joy and laughter permeate your daily routine creates a positive, dynamic environment where productivity and happiness thrive together.
 
-![image by azmanl from istock](assets/images/istock/iStock-1294958620.jpg)
+![](assets/images/istock/iStock-1294958620.jpg)
+^image by azmanl from istock^
 
 Pairing essential activities with enjoyable ones creates a harmonious and engaging work environment for IT and software engineering professionals. This approach enhances productivity, promotes well-being, and increases job satisfaction by turning routine tasks into opportunities for joy and creativity. 
 
@@ -96,7 +101,8 @@ As the saying goes, ***"the best thing one can do when it is raining is to let i
 
 Regrets that continue to haunt us, grudges we can't seem to let go of, and expectations that once were realistic but now hinder us all contribute to our emotional burdens. When we fall victim to misfortune, we easily obsess, lament, or complain about all we have lost. **Complaining** is one of the easiest things to do.
 
-![image by mixmike from istock](assets/images/istock/iStock-1464747516.jpg)
+![](assets/images/istock/iStock-1464747516.jpg)
+^image by mixmike from istock^
 
 Similarly, IT and software engineering professionals can release unnecessary **emotional burdens,** fostering a positive and resilient mindset that enhances personal well-being and professional effectiveness. 
 
@@ -112,7 +118,8 @@ Here are a few examples that IT architects as an inspiration to help their organ
 
 By incorporating periods of **rest and reflection,** you create a balanced routine that enhances productivity and overall quality of life. This structured approach allows you to maintain high levels of energy and concentration, preventing burnout and ensuring that you can consistently perform at your best. Embrace the art of doing nothing. Avoid overextending yourself by not doing more today than you can fully recover from by tomorrow. This approach promotes sustainable productivity and well-being.
 
-![image by chinnapong from istock](assets/images/istock/iStock-1474437915.jpg)
+![](assets/images/istock/iStock-1474437915.jpg)
+^image by chinnapong from istock^
 
 By embracing the art of doing nothing and incorporating structured work sessions, rest periods, and balanced routines, IT and software engineering professionals can enhance their productivity and well-being. This approach promotes sustainable productivity, prevents burnout, and ensures that engineers can consistently perform at their best.
 
@@ -134,7 +141,8 @@ Harness the power of presence to achieve a state of heightened awareness. Train 
 
 Set aside your opinions, advice, and judgment to truly see others. Prioritize their truth above your own. Clear the clutter in your physical environment before tackling the clutter in your mind. This process of decluttering helps create a space conducive to presence.
 
-![image by portra from istock](assets/images/istock/iStock-514368940.jpg)
+![](assets/images/istock/iStock-514368940.jpg)
+^image by portra from istock^
 
 IT and software engineering professionals can achieve a state of heightened awareness, improving productivity and enriching their interactions with others. This approach fosters a work environment where presence lead to meaningful connections and effective collaboration.
 
@@ -152,7 +160,8 @@ When you reach an Effortless State, you can perform Effortless Actions. Effortle
 
 Progress in Effortless Action is made by **pacing yourself** rather than **powering through.** This sustainable approach ensures a steady momentum without the risk of burnout. Effortless Action allows you to exceed expectations without excessive effort, enabling you to overachieve while preserving your energy and well-being. Ultimately, it's about aligning your efforts with a natural rhythm, making work feel less like a struggle and more like a seamless part of your day.
 
-![Figure 3: Effortless Action is a part of the McKeown's Effortless framework (State, Action, Results).](assets/images/figures/effortless_action.png)
+![](assets/images/figures/effortless_action.png)
+***Figure 3:** Effortless Action is a part of the McKeown's Effortless framework (State, Action, Results).*
 
 ### 6. DEFINE: What "Done" Looks Like
 
@@ -160,7 +169,8 @@ To begin an important project effectively, start by defining what "done" looks l
 
 McKeown suggests some simple techniques that everyone can use daily to focus and have a stronger sense of establishment. For instance, create a **"Done for the Day"** list, limited to items that would constitute meaningful progress. This list should include achievable tasks that contribute significantly toward your overall goal. Focusing on these critical activities ensures that each day ends with a sense of accomplishment and momentum.
 
-![image by evgenyatamanenko from istock](assets/images/istock/iStock-1569348514.jpg)
+![](assets/images/istock/iStock-1569348514.jpg)
+^image by evgenyatamanenko from istock^
 
 Similarly, by defining what "done" looks like, IT and software engineering professionals can stay focused on their goals, prevent overextension, and maintain a clear direction in their work. This approach fosters productivity, ensures high-quality outcomes, and provides a satisfying sense of accomplishment.
 
@@ -185,7 +195,8 @@ McKeown suggests some simple techniques to identify the first obvious action:
 * Spend **sixty seconds focusing** on your desired outcome. Visualize what success looks like, and remember this image as you work. This brief period of concentration aligns your efforts and provides clear direction, making it easier to start.
 * Gain maximum learning from a minimal viable effort by starting with a **ten-minute microburst** of focused activity. This short, intense work period can boost motivation and energy, making diving deeper into the project more manageable. This approach helps you overcome the inertia of starting and builds momentum for continued progress.
 
-![image by christianchan from istock](assets/images/istock/iStock-471660478.jpg)
+![](assets/images/istock/iStock-471660478.jpg)
+^image by christianchan from istock^
 
 By breaking down the first action into the most apparent, tiny steps and visualizing the desired outcome, IT and software engineering professionals can effectively begin essential projects, build momentum, and ensure clear direction from the start. This approach reduces inertia and makes it easier to dive deeper into tasks confidently.
 
@@ -206,7 +217,8 @@ To simplify the process of completing an essential project, don't focus on simpl
 
 This concept aligns with the "Swedish Death Cleaning philosophy," which involves decluttering your life by eliminating accumulated unnecessary items. Apply this principle to your project by removing redundant tasks and focusing only on what truly matters. This approach helps you maintain clarity and efficiency, ensuring that your efforts are directed toward meaningful progress without being bogged down by extraneous activities.
 
-![image by arismart from istock](assets/images/istock/iStock-665241484.jpg)
+![](assets/images/istock/iStock-665241484.jpg)
+^image by arismart from istock^
 
 By applying the "Start With Zero" approach, IT and software engineering professionals can eliminate unnecessary steps, streamline workflows, and focus on what truly matters. This approach enhances productivity and ensures that efforts are directed toward meaningful progress, making projects more efficient and manageable.
 
@@ -227,7 +239,8 @@ When beginning a project, it is crucial to adopt the mindset that it is perfectl
 
 Fred Brooks encapsulated this wisdom: *"Good judgment comes from experience, and experience comes from bad judgment."* This quote highlights the necessity of mistakes for achieving mastery. Initial drafts are not meant to be perfect. Courage to produce imperfect work is a vital component of growth. By starting messy and allowing for errors, a solid foundation for continuous improvement and eventual mastery is established.
 
-![image by cristian gheorghe from istock](assets/images/istock/iStock-1276946528.jpg)
+![](assets/images/istock/iStock-1276946528.jpg)
+^image by cristian gheorghe from istock^
 
 By embracing the courage to be rubbish and starting with imperfect versions, IT and software engineering professionals can bypass perfectionism, accelerate learning, and create a foundation for continuous improvement and eventual mastery. This approach encourages experimentation and iteration, leading to better outcomes over time.
 
@@ -248,7 +261,8 @@ Maintaining a deliberate and **measured pace** can achieve more meaningful and l
 
 To achieve sustained productivity, set an effortless pace: slow is smooth, smooth is fast. Reject the **false economy** of "**powering through,**" which often leads to burnout and decreased efficiency. Instead, create a balanced approach to your work by defining a suitable range for your efforts: determine that you will never do less than X and never more than Y. This ensures a consistent, manageable workload that promotes steady progress. Recognize that not all progress is created equal. Focus on the quality and significance of your achievements rather than merely the quantity. 
 
-![image by flashvector from istock](assets/images/istock/iStock-2038048731.jpg)
+![](assets/images/istock/iStock-2038048731.jpg)
+^image by flashvector from istock^
 
 By adopting a balanced approach and setting a sustainable pace, IT and software engineering professionals can maintain high productivity while ensuring quality and preserving their well-being. This method emphasizes the importance of consistent, manageable efforts that lead to meaningful and lasting results.
 
@@ -271,7 +285,8 @@ Effortless Results are those that continue to **flow to you repeatedly,** with m
 
 In essence, Effortless Results are about creating a **self-sustaining loop** of success. By leveraging the principles of the Effortless State and Effortless Action, you set the stage for ongoing achievement, making it possible to reach your objectives repeatedly without constant exertion.
 
-![Figure 4: Effortless Results is a part of the McKeown's Effortless framework (State, Action, Results).](assets/images/figures/effortless_results.png)
+![](assets/images/figures/effortless_results.png)
+***Figure 4:** Effortless Results is a part of the McKeown's Effortless framework (State, Action, Results).*
 
 ### 11. LEARN: Leverage the Best of What Others Know
 
@@ -281,7 +296,8 @@ In addition, one must focus on **learning principles,** not just facts and metho
 
 Effortless Results stem from a **deep understanding** of **first principles** and the ability to apply them creatively and consistently. By building on the knowledge of others and developing your unique insights, you create a sustainable pathway to continuous achievement and innovation.
 
-![image by lvcandy from istock](assets/images/istock/iStock-467625592.jpg)
+![](assets/images/istock/iStock-467625592.jpg)
+^image by lvcandy from istock^
 
 By understanding and applying first principles, leveraging experts' knowledge, and building unique insights, IT and software engineering professionals can achieve effortless results. This approach fosters innovation and continuous improvement, ensuring that complex tasks become more manageable and maximize productive efforts.
 
@@ -306,7 +322,8 @@ Ensuring your messages are easy to understand and hard to misunderstand is not j
 
 For instance, one motivation for writing this book is to create reusable material that teaches others about pragmatic approaches to running an architecture practice. It also gives them material they can reuse to teach others the same.
 
-![image by nattakorn maneerat from istock](assets/images/istock/iStock-1049828098.jpg)
+![](assets/images/istock/iStock-1049828098.jpg)
+^image by nattakorn maneerat from istock^
 
 By teaching and teaching others to teach, IT and software engineering professionals can amplify their impact and foster a culture of continuous learning and improvement. This approach reinforces their knowledge and equips the team with the skills and understanding necessary for greater efficiency and innovation.
 
@@ -325,7 +342,8 @@ A developer who excels at creating clear, concise documentation holds workshops 
 
 Automating as many essential tasks as possible frees up space in your brain. This space allows you to focus your mental energy on more important matters. One effective way to ensure consistency and accuracy is using checklists, which help you get it right every time without relying on memory. Automation creates a more efficient and less cluttered mental environment, enabling you to perform at your best with minimal effort.
 
-![image by shutter2u from istock](assets/images/istock/iStock-1442064282.jpg)
+![](assets/images/istock/iStock-1442064282.jpg)
+^image by shutter2u from istock^
 
 By automating essential tasks and using checklists for routine processes, IT and software engineering professionals can streamline their workflows, reduce errors, and free up mental space for more important activities. This approach leads to increased efficiency, consistency, and overall productivity.
 
@@ -363,7 +381,8 @@ Leverage trust as the essential lubricant of frictionless and high-functioning t
 
 Being an architect is much **easier in high-trust organizations.** In low-trust organizations, people frequently expect architects to be **police agents.** IT governance processes frequently associated with an architecture practice are used or misused to force bureaucratic controls as teams often do not trust each other. 
 
-![image by nathaphat from istock](assets/images/istock/iStock-1387451522.jpg)
+![](assets/images/istock/iStock-1387451522.jpg)
+^image by nathaphat from istock^
 
 By establishing and maintaining a high-trust environment, IT and software engineering teams can work more efficiently and effectively. Trust reduces friction, enables **better decision-making,** and fosters a positive, collaborative culture where team members feel valued and empowered.
 
@@ -386,7 +405,8 @@ In other words, don’t just manage problems—solve them before they happen. Se
 
 This proactive approach is the long tail of time management. When you invest your time in actions with a long tail, you reap the benefits over a long period. For example, spending two minutes to organize your workspace can save you countless hours of searching for items in the future. Catch mistakes before they occur by adopting a measure-twice, cut-once mentality.
 
-![image by ipuwadol from istock](assets/images/istock/iStock-1441914456.jpg)
+![](assets/images/istock/iStock-1441914456.jpg)
+^image by ipuwadol from istock^
 
 IT and software engineering teams can solve potential problems before they occur, leading to smoother operations, fewer disruptions, and a more efficient workflow. This proactive approach saves time and resources, allowing teams to focus on innovation and continuous improvement.
 
