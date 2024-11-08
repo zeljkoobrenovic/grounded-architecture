@@ -110,3 +110,10 @@ Figures 3 to 7 show some insights from source code analyses with Sokrates.
 **Figure 7**: *Sokrates can reveal the team topologies by plotting 2D and 3D graphs of dependencies that people create through working on the same repositories in the same period.*
 <br>
 <br>
+
+<br>
+![](assets/images/figures/kpis.png)
+
+**Figure 8**: *Example Architecture Practice keyt performance indicators (KPIs) dashboard (generated from a JSON configuration file).*
+<br>
+<br>
