@@ -1,7 +1,7 @@
 ---
 layout: post
 section: "Appendix 2: Tools for Developing Soft Skills"
-title: "Resources for Managing, Growing, and Hiring Architects: Raising the Bar"
+title: "Resources for Managing, Growing, and Hiring Architects"
 position: 12105
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
@@ -221,6 +221,7 @@ With the described steps, you can get a solid overview of all critical aspects o
 ## To Probe Further
 
 * General:
+  * [Performance Reviews for IT Architects Template](https://docs.google.com/document/d/17Q_UIzwMORXl_6olofh6iEmVbCZ_rdGUQtpo0qWakik/edit?usp=sharing). 
   * [Performance Reviews for Software Developers](https://blog.pragmaticengineer.com/performance-reviews-for-software-engineers/) , by Gergely Orosz, May 2022. 
   * [A Software Engineering Culture Test](https://blog.pragmaticengineer.com/the-developer-culture-test/) by Gergely Orosz
 * For individual contributors:
