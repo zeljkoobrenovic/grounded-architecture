@@ -106,6 +106,18 @@ Any time a company is in trouble, you’ll have people competing for power. Many
 </div>
 
 
+# Legacy
+ 
+<div class="favorite-quote">
+The real definition of legacy software: <b>runs and makes money.</b>
+<div class="author">-Gregor Hohpe</div>
+</div>
+ 
+<div class="favorite-quote">
+Legacy eats <b>strategy</b> for breakfast.
+<div class="author">-Stephan Wimoesterer</div>
+</div>
+ 
 # Other
  
 <div class="favorite-quote">
