@@ -70,7 +70,7 @@ The option's value originates from being able to **defer the decision until you 
 
 As with any analogy, the financial options analogy has its limits. Again, it **is not easy to quantify** architecture values and have metrics for the value of separation of concerns or horizontal scaling. Second, while the metaphor may be easy to grasp for an economic audience, it may **require explaining** to other stakeholders, who may be less familiar with financial options markets.
 
-## A Communication Framework
+## Communication Frameworks
 
 In the end, I share a communication framework I developed and used to explain holistically the economic value of architecture and technology investment (Figure 4).
 
@@ -104,6 +104,22 @@ The second bucket relates to the more invisible part of the value created by inv
 **Investments in reducing license and vendor costs** ensure that there is no unnecessary diversity of technologies and vendor contracts and that you can leverage economies of scale, as having fewer vendors with more users enables negotiating more favorable contracts. 
 
 **Investments in reducing risk costs**. When your system is down, your business is disrupted, and you lose revenue. According to [diverse studies](https://www.atlassian.com/incident-management/kpis/cost-of-downtime), the average cost of downtime ranges from $2,300 to $9,000 per minute. You must invest in keeping your system reliable and secure to avoid losing revenue and disrupting your business. While the benefits of these types of investments are huge, the challenge with building the business case for this investment is that a reliable system will only create a few incidents, making it less tangible for many stakeholders to understand the importance of continuing such investments. Or, as noted by Repenning and Sterman "[Nobody Ever Gets Credit for Fixing Problems that Never Happened](https://web.mit.edu/nelsonr/www/CMR_Getting_Quality_v1.0.html)".
+
+### Example: The Tech Debt Reduction ROI Framework
+
+In addition to the general framework discussion in this section, I frequently used the following framework to visually communicate how increasing technical debt progressively reduces profit through added operating, delay, and instability costs, emphasizing the importance of managing technical debt to preserve profitability.
+
+![Figure 6: A framework for discussing ROI of tech debt reduction from a profitability standpoint.](assets/images/figures/tech_debt_profitability.png)
+
+Figure 6 illustrates a framework for understanding the ROI (Return on Investment) of reducing technical debt, showing the impact on profit and costs across three progressive scenarios:
+
+1. **Extra Operating Costs**: Technical debt increases operating costs due to inefficiencies, reducing the profit.
+
+2. **Costs of Delays**: "Costs of delays" represent costs related to feature delays or bug fixing. These costs illustrate a further erosion of profit due to delays caused by technical debt, which impacts the ability to deliver new features or fix issues promptly.
+
+3. **Instability Costs**: Instability costs" (e.g., cost per minute of downtime) add to "Costs of delays" and "Extra operating costs." This scenario shows the compounded effect of technical debt, where instability and downtime further reduce profit, creating multiple layers of costs and significantly impacting profitability.
+
+This framework shows the compounded effect of technical debt, where extra operating costs increase the bottom line, and instability and downtime further reduce profit (reduce top line), creating multiple layers of costs and significantly impacting profitability.
 
 ## To Probe Further
 
