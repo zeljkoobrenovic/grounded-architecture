@@ -125,7 +125,7 @@ Figure 6 illustrates a framework for understanding the ROI (Return on Investment
 
 2. **Costs of Delays**: This dimension represents the loss of profit related to feature delays or delays in bug fixing. These costs illustrate a further erosion of profit due to delays caused by technical debt, which impacts the ability to deliver new features or fix issues promptly.
 
-3. **Instability Costs**: Tech debt can lead to less stable systems, with more frequent and longer downtimes and errors. Instability and downtime further reduce profit.
+3. **Instability Costs**: Tech debt is a risk that can lead to less stable systems, with more frequent and longer downtimes and errors. Instability and downtime further reduce profit.
 
 This framework shows the compounded effect of technical debt, where extra operating costs increase overall costs, and instability and downtime further reduce profit.
 

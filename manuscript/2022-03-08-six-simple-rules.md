@@ -2,7 +2,8 @@
 
 # Cooperation-Based Operating Model: Six Simple Rules {#six-simple-rules}
 
-![image by nanostockk from istock](assets/images/istock/iStock-2031547179.jpg)
+![](assets/images/istock/iStock-2031547179.jpg)
+^image by nanostockk from istock^
 
 **IN THIS SECTION, YOU WILL:**  Get an introduction to Six Simple Rules, a model for setting up organizational structures based on cooperation.
 
@@ -31,7 +32,8 @@ The **hard approach** rests on two fundamental assumptions:
  
  When the company needs to meet new performance requirements, the **hard response** is to **add new structures, processes, and systems** to help satisfy those requirements. Hence, introducing the innovation czar, the risk management team, the compliance unit, the customer-centricity leader, and the cohort of coordinators and interfaces have become so common in companies.
 
-![image by cyano66 from istock](assets/images/istock/iStock-936995400.jpg)
+![](assets/images/istock/iStock-936995400.jpg)
+^image by cyano66 from istock^
 
 In my experience, IT architecture support  in organizations following a hard management approach has the following characteristics:
 * **Heavy Reliance on Tools:** The architecture would focus on tools, automation, and workflows that **enforce compliance,** standardization, and control. There might be a strong reliance on enterprise resource planning (ERP) systems, centralized data warehouses, and other structured tools that enable **strict adherence** to predefined processes.
@@ -44,7 +46,8 @@ On the other end, we have a soft management approach. According to the **soft ap
 * **Good performance is the by-product of good interpersonal relationships**. Personal traits, psychological needs, and mindsets predetermine people's actions. 
 * To change behavior at work, you need to **change the mindset (or change the people)**. 
 
-![image by alessandro biascioli from istock](assets/images/istock/iStock-1482584637.jpg)
+![](assets/images/istock/iStock-1482584637.jpg)
+^image by alessandro biascioli from istock^
 
 In my experience, IT architecture support in organizations following a soft management approach has the following characteristics:
 * **Employee Empowerment:** Systems would likely be designed to empower employees by providing the tools they need to **succeed independently,** such as access to real-time data, **self-service** analytics, and systems that encourage innovation and creativity.
@@ -72,7 +75,8 @@ This difference between **Autonomy** and **Self-Sufficiency** leads us to the se
 
 The first rule states that you must genuinely understand performance: **what people do** and **why they do it**. When you know why people do what they do and how it drives performance, you can define the minimum sufficient set of **interventions with surgical accuracy**. 
  
-![image by scyther5 from istock](assets/images/istock/iStock-1179186162.jpg)
+![](assets/images/istock/iStock-1179186162.jpg)
+^image by scyther5 from istock^
 
 ### Guidelines for Understanding Performance
 
@@ -94,7 +98,8 @@ Architecture practice can significantly aid in understanding organizational beha
 
 The Six Simple Rules approach emphasizes the importance of reinforcing integrators by looking at those **directly involved in the work**, giving them **power and interest to foster cooperation in dealing with complexity** instead of resorting to the paraphernalia of overarching hierarchies, overlays, dedicated interfaces, balanced scorecards, or coordination procedures.
  
-![image by robert owen-wahl from pixabay](assets/images/arch/agree-g1f407320e_1920.png)
+![](assets/images/arch/agree-g1f407320e_1920.png)
+^image by robert owen-wahl from pixabay^
 
 ### Guidelines for Reinforcing Integrators
 
@@ -116,7 +121,8 @@ Architecture practice can play a vital role in reinforcing integrators by:
 
 Whenever you consider an **addition to** your organization’s **structure, processes, and systems**, think about **increasing the quantity of power**. Doing so may **save you from increasing complicatedness** and enable you to achieve a more significant impact with less cost. You can increase the quantity of power by allowing some functions to influence performance and stakes that matter to others. 
 
-![image by prostock-studio from istock](assets/images/istock/iStock-1201215883.jpg)
+![](assets/images/istock/iStock-1201215883.jpg)
+^image by prostock-studio from istock^
 
 ### Guidelines for Increasing Power Quantity
 
@@ -138,7 +144,8 @@ Architecture practice can support the increase in power quantity through an oper
 
 In the face of business complexity, work is becoming more interdependent. To meet multiple and often contradictory performance requirements, **people must rely more on each other**. They need to **cooperate directly** instead of depending on dedicated interfaces, coordination structures, or procedures that only add to complicatedness. 
 
-![image by natnan srisuwan from istock](assets/images/istock/iStock-1072898930.jpg)
+![](assets/images/istock/iStock-1072898930.jpg)
+^image by natnan srisuwan from istock^
 
 ### Guidelines for Enhancing Reciprocity
 
@@ -160,7 +167,8 @@ Architecture practice can significantly increase reciprocity within an organizat
 The Six Simple Rules approach emphasizes the importance of making visible and clear **what happens tomorrow as a consequence of what they do today**.
  
 
-![image by joe from pixabay](assets/images/arch/trees-gc38b3c617_1920.jpg)
+![](assets/images/arch/trees-gc38b3c617_1920.jpg)
+^image by joe from pixabay^
 
 ### Guidelines for Extending the Shadow of the Future
 
@@ -182,7 +190,8 @@ Architecture practice can play a crucial role in extending the shadow of the fut
 
 Lastly, the Six Simple Rules approach recommends that when you cannot create direct feedback loops embedded in people’s tasks, you need **management’s intervention to close the loop**. Managers must then use the familiar performance evaluation tool but in a very different way to reward those who cooperate. 
 
-![image by stocksnap from pixabay](assets/images/arch/people-gac98109e9_1920.jpg)
+![](assets/images/arch/people-gac98109e9_1920.jpg)
+^image by stocksnap from pixabay^
 
 ### Guidelines for Rewarding Cooperation
 
