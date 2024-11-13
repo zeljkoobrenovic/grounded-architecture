@@ -113,9 +113,9 @@ In addition to the general framework discussion in this section, I frequently us
 
 Figure 6 illustrates a framework for understanding the ROI (Return on Investment) of reducing technical debt, showing the impact on profit and costs across three progressive dimensions:
 
-1. **Extra Operating Costs**: Technical debt can increase operating costs due to inefficiencies (e.g., complexity or lack of automation may require more people and time to make changes), reducing profit by increasing costs.
+1. **Extra Operating Costs**: Technical debt can increase operating costs due to inefficiencies (e.g., complexity or lack of automation may require more people and time to make changes), reducing profit by raising expenses.
 
-2. **Costs of Delays**: This dimension represents the loss of profit related to feature delays or delays in bug fixing. These costs illustrate a further erosion of profit due to delays caused by technical debt, which impacts the ability to deliver new features or fix issues promptly.
+2. **Costs of Delays**: This dimension represents the loss of profit related to delays. Technical debt can impact the ability to deliver new features or fix issues promptly.
 
 3. **Instability Costs**: Tech debt is a risk that can lead to less stable systems, with more frequent and longer downtimes and errors. Instability and downtime further reduce profit.
 

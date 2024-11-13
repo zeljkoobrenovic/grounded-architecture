@@ -111,15 +111,15 @@ In addition to the general framework discussion in this section, I frequently us
 
 ![Figure 6: A framework for discussing ROI of tech debt reduction from a profitability standpoint.](assets/images/figures/tech_debt_profitability.png)
 
-Figure 6 illustrates a framework for understanding the ROI (Return on Investment) of reducing technical debt, showing the impact on profit and costs across three progressive scenarios:
+Figure 6 illustrates a framework for understanding the ROI (Return on Investment) of reducing technical debt, showing the impact on profit and costs across three progressive dimensions:
 
-1. **Extra Operating Costs**: Technical debt increases operating costs due to inefficiencies, reducing the profit.
+1. **Extra Operating Costs**: Technical debt can increase operating costs due to inefficiencies (e.g., complexity or lack of automation may require more people and time to make changes), reducing profit by increasing costs.
 
-2. **Costs of Delays**: "Costs of delays" represent costs related to feature delays or bug fixing. These costs illustrate a further erosion of profit due to delays caused by technical debt, which impacts the ability to deliver new features or fix issues promptly.
+2. **Costs of Delays**: This dimension represents the loss of profit related to feature delays or delays in bug fixing. These costs illustrate a further erosion of profit due to delays caused by technical debt, which impacts the ability to deliver new features or fix issues promptly.
 
-3. **Instability Costs**: Instability costs" (e.g., cost per minute of downtime) add to "Costs of delays" and "Extra operating costs." This scenario shows the compounded effect of technical debt, where instability and downtime further reduce profit, creating multiple layers of costs and significantly impacting profitability.
+3. **Instability Costs**: Tech debt is a risk that can lead to less stable systems, with more frequent and longer downtimes and errors. Instability and downtime further reduce profit.
 
-This framework shows the compounded effect of technical debt, where extra operating costs increase the bottom line, and instability and downtime further reduce profit (reduce top line), creating multiple layers of costs and significantly impacting profitability.
+This framework shows the compounded effect of technical debt, where extra operating costs increase overall costs, and instability and downtime further reduce profit.
 
 ## To Probe Further
 
