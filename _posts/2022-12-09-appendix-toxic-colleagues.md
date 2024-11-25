@@ -1,7 +1,7 @@
 ---
 layout: post
 section: "Appendix 2: Tools for Developing Soft Skills"
-title: "Resources for Working With Toxic Colleagues"
+title: "Working With Toxic Colleagues"
 position: 12109
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
