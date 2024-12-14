@@ -356,6 +356,8 @@ Scapegoating in IT organizations can arise from systemic issues like poor planni
 
 * [Enterprise Architecture as a Scapegoat for Difficulties in Public Sector Organizational Transformation](https://aisel.aisnet.org/icis2018/governance/Presentations/7/), by Maija Ylinen and Samuli Pekkola, Proceedings of International Conference on Information systems (ICIS), 2018
 
+* [Hot Takes and Parochial Altruism](https://cutlefish.substack.com/p/tbm-327-hot-takes-and-parochial-altruism), by John Cutler, 2024
+
 <br>
 ## Questions to Consider
 
