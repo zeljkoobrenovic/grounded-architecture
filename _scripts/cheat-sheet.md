@@ -92,10 +92,15 @@
 
 ## Expanding the Architect's Toolkit: Learning From Other Fields
 
+### IT Architecture and Business Strategy
+> * Business strategy and IT must align dynamically, with IT enabling execution through innovation, efficiency, and data-driven decisions.
+> * Enterprise Architecture frameworks emphasize operating models, flexibility (global vs. local), and stages of IT alignment from silos to modularity.
+> * Companies succeed by excelling in one strategic path—operational excellence, product leadership, or customer intimacy—supported by tailored IT architecture.
+
 ### Architecture in Product-Led Organizations: Learning From Customer-Centric Fields
-> * When it comes to product development, I generally recommend two resources for architects: “Escaping the Build Trap: How Effective Product Management Creates Real Value” by Melissa Perri and “The Discipline of Market Leader” by Michael Treacy and Fred Wiersema. 
+> * When it comes to product development, I generally recommend two resources for architects: “Escaping the Build Trap: How Effective Product Management Creates Real Value” by Melissa Perri and “Product Operations” by Melissa Perri and Denise Tilles. 
 > * The build trap occurs when businesses focus too much on their product’s features and functionalities, overlooking customers’ needs and preferences.
-> * The Discipline of Market Leader highlights three strategic paths a company can use to achieve market leadership: operational excellence, product leadership, and customer intimacy. 
+> * Product Operations is the discipline of helping product management scales well, surrounding teams with essential inputs to set strategy, prioritize, and streamline ways of working.
 
 ### Decision Intelligence in IT Architecture: Learning From Data, Social, and Managerial Fields
 > * Decision intelligence is the discipline of turning information into better actions.
@@ -112,9 +117,3 @@
 > * Flyvbjerg and Gardner’s book "How Big Things Get Done" highlights lessons from successful and failed mega-projects across various industries, offering 11 practical heuristics for improving project leadership, including hiring the right experts, building modular systems, and focusing on risk mitigation.
 > * Key strategies for IT success include taking the outside view to learn from similar projects, fostering strong stakeholder relationships, and avoiding unnecessary complexity or scope creep by staying focused on core objectives.
 
-### Summary
-> * This playbook aims to share my approach to running an IT architecture practice in larger organizations based on my experience as Chief Architect at AVIV Group, eBay Classifieds, and Adevinta. 
-> * I called this approach "Grounded Architecture," highlighting the need for any IT architecture practice to stay well-connected to all levels of an organization and led by data.
-> * In this section, I summarize the key points from the playbook.
-
-### To Probe Further: Online Appendix Overview
