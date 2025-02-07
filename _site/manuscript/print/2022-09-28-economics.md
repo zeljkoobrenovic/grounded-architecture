@@ -2,8 +2,8 @@
 
 # Economic Modeling With ROI and Financial Options: Learning From the Finance Field {#economics}
 
-![](assets/images/arch/money-g45f6788de_1920.jpg)
-^image by nattanan kanchanaprat from pixabay^
+![](assets/images/istock/iStock-1503371245.jpg)
+^image by microstockhub from istock^
 
 **IN THIS SECTION, YOU WILL:** Get two answers to the question of the economic value of architecture: the return on investment metaphor and the selling options metaphor.
 
@@ -43,7 +43,12 @@ In this post, I sketch two answers to the question of the economic value of arch
 
 ## The Return-on-Investment Metaphor
 
-In economic terms, **return on investment (ROI)** is a ratio between profits and costs over some period. In other words, ROI shows how much you **get back from your investment**. A high ROI means the investment's gains compare favorably to its cost. As a performance measure, you can use ROI to evaluate an investment's efficiency or compare the efficiencies of several different investments (Figure 1).
+In economic terms, **return on investment (ROI)** is a ratio between profits and costs over some period. In other words, ROI shows how much you **get back from your investment**. 
+
+![](assets/images/istock/iStock-1386532266.jpg)
+^image by nicoelnino from istock^
+
+A high ROI means the investment's gains compare favorably to its cost. As a performance measure, you can use ROI to evaluate an investment's efficiency or compare the efficiencies of several different investments (Figure 1).
 
 ![](assets/images/economics/roi-model.png)
 **Figure 1:** *An illustration of the ROI metaphor. Investment leads to lower costs or higher value. It takes some time to reach a break-even point when an additional value has compensated for the investment. After the break-even point, we earn more than without the investment.*
@@ -61,6 +66,9 @@ An ROI metaphor is easy to understand by a non-technical audience. Still, it has
 
 Gregor Hohpe has frequently argued that the best way to explain architecture to non-technical people is by using **a financial option metaphor.** A financial option is **a right, but not an obligation, to buy or sell financial instruments at a future time with some predefined price**. As such, a financial option is **a way to defer a decision**: instead of deciding to buy or sell a stock today, you have the right to make that decision in the future at a known price.
 
+![](assets/images/istock/iStock-1283813790.jpg)
+^image by olivier le moal from istock^
+
 Options are not free, and a complex market exists for buying and selling financial options. Fischer Black and Myron Scholes computed the value of an option with the [Black-Scholes Formula](https://en.wikipedia.org/wiki/Black%E2%80%93Scholes_model). A critical parameter in establishing the option's value is the price at which you can purchase the stock in the future, the so-called strike price. The lower this strike price, the higher the value of the option (Figure 3).
 
 ![](assets/images/economics/options-model.png)
@@ -76,7 +84,14 @@ As with any analogy, the financial options analogy has its limits. Again, it **i
 
 ## Communication Frameworks
 
-In the end, I share a communication framework I developed and used to explain holistically the economic value of architecture and technology investment (Figure 4).
+UNESCO's [manual for investigative journalism](https://unesdoc.unesco.org/ark:/48223/pf0000193078) says that *"The facts do not tell the story. The story tells the facts."* The same applies to any financial analysis. Good data and analysis can have zero impact if they are not communicated in a way that people understand and lead to action.
+
+![](assets/images/istock/iStock-1436794232.jpg)
+^image by makhbubakhon ismatova from istock^
+
+### General Framework For Communicting Value of IT Investments
+
+Here, I share communication frameworks I developed and used to explain holistically the economic value of architecture and technology investment (Figure 4).
 
 ![](assets/images/economics/economics_framework.png)
 **Figure 4:** *A framework for discussing investments and options.*
@@ -85,7 +100,7 @@ I separate the value of investments in two buckets:
 * Increasing and protecting revenue and
 * Reducing costs and risks.
 
-### Top Line: Increasing and Protecting Revenue
+#### Top Line: Increasing and Protecting Revenue
 
 Increasing and protecting revenue investments have three forms.
 
@@ -95,7 +110,7 @@ Increasing and protecting revenue investments have three forms.
 
 **Investments needed to create future options** refer to being in shape to adapt to changes in the market more quickly and to bring new features to the market more quickly. Investing in keeping your system easy to maintain and extend directly creates more opportunities. Another way to look at this value driver is to frame it as preventing a revenue loss due to the impossibility of quickly adapting to future opportunities.
 
-### Bottom Line: Reducing Costs and Risks
+#### Bottom Line: Reducing Costs and Risks
 
 The second bucket relates to the more invisible part of the value created by investments:
 
@@ -112,7 +127,7 @@ The second bucket relates to the more invisible part of the value created by inv
 
 **Investments in reducing risk costs**. When your system is down, your business is disrupted, and you lose revenue. According to [diverse studies](https://www.atlassian.com/incident-management/kpis/cost-of-downtime), the average cost of downtime ranges from $2,300 to $9,000 per minute. You must invest in keeping your system reliable and secure to avoid losing revenue and disrupting your business. While the benefits of these types of investments are huge, the challenge with building the business case for this investment is that a reliable system will only create a few incidents, making it less tangible for many stakeholders to understand the importance of continuing such investments. Or, as noted by Repenning and Sterman "[Nobody Ever Gets Credit for Fixing Problems that Never Happened](https://web.mit.edu/nelsonr/www/CMR_Getting_Quality_v1.0.html)".
 
-### Example: The Tech Debt Reduction ROI Framework
+### The Tech Debt Reduction ROI Framework
 
 In addition to the general framework discussion in this section, I frequently used the following framework to visually communicate how increasing technical debt progressively reduces profit through added operating, delay, and instability costs, emphasizing the importance of managing technical debt to preserve profitability.
 

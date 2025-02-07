@@ -2,7 +2,8 @@
 
 # Expanding the Architect's Toolkit: Learning From Other Fields {#expanding-toolkit}
 
-![image by worawee meepian from istock](assets/images/istock/iStock-1444086274.jpg)
+![](assets/images/istock/iStock-1444086274.jpg)
+^image by worawee meepian from istock^
 
 **IN THIS SECTION, YOU WILL:**  Get a summary of several resources that I use as inspiration for running the Grounded Architecture practice in complex organizations.
 
@@ -10,7 +11,9 @@
 
 A holistic approach is essential for achieving success in the intricate and fast-paced world of IT architecture, especially within complex organizations. Traditional IT architecture literature often fails to address the multifaceted challenges architects face today. To bridge this gap, I have curated a selection of resources that provide a broader perspective, drawing inspiration from social sciences, behavioral sciences, product management, and political sciences. These resources offer valuable insights and practical strategies for running the Grounded Architecture practice in complex organizational environments.
 
-* **[Architecture in Product-Led Organizations: Learning From Customer-Centric Fields](#product)**: Effective product development is a cornerstone of organizational success. Several essential resources for architects in this realm include Melissa Perri's "Escaping the Build Trap: How Effective Product Management Creates Real Value" and "The Discipline of Market Leaders" by Michael Treacy and Fred Wiersema. Perri's work highlights the pitfalls of focusing too narrowly on outputs rather than outcomes, urging architects to align product development with real customer value. Treacy and Wiersema provide a strategic framework for achieving market leadership by focusing on customer intimacy, product leadership, and operational excellence. These resources offer a comprehensive guide for architects to drive product-led growth and innovation.
+* **[IT Architecture and Business Strategy](strategy)**: Business strategy and IT must align dynamically, with IT enabling execution through innovation, efficiency, and data-driven decisions. Enterprise Architecture frameworks emphasize operating models, flexibility (global vs. local), and stages of IT alignment from silos to modularity. Companies succeed by excelling in one strategic path—operational excellence, product leadership, or customer intimacy—supported by tailored IT architecture.
+
+* **[Architecture in Product-Led Organizations: Learning From Customer-Centric Fields](#product)**: Effective product development is a cornerstone of organizational success. When it comes to product development, I generally recommend two resources for architects: “Escaping the Build Trap: How Effective Product Management Creates Real Value” by Melissa Perri and “Product Operations” by Melissa Perri and Denise Tilles. The build trap occurs when businesses focus too much on their product’s features and functionalities, overlooking customers’ needs and preferences. Product Operations is the discipline of helping product management scales well, surrounding teams with essential inputs to set strategy, prioritize, and streamline ways of working.
 
 * **[Decision Intelligence in IT Architecture: Learning From Data, Social, and Managerial Fields](#decision-intelligence)**: Decision intelligence is a burgeoning field that combines data science, social science, and managerial science to transform information into actionable insights. In the context of IT architecture, decision intelligence is becoming increasingly vital. It equips architects with the tools and frameworks to analyze data effectively, foresee potential outcomes, and make strategic decisions that align with organizational goals. Understanding decision intelligence is essential for architects who aspire to drive innovation and efficiency in their projects.
 

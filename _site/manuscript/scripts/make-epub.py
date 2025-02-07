@@ -66,6 +66,7 @@ posts = [
     '2022-07-13-human-decisions.md',
     '2022-07-19-effortless.md',
     '2022-09-20-expanding-toolkit.markdown',
+    '2022-09-22-business-strategy.md',
     '2022-09-23-product.md',
     '2022-09-26-decision-intelligence.md',
     '2022-09-28-economics.md',

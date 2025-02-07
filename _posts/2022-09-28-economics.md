@@ -141,11 +141,6 @@ As with any analogy, the financial options analogy has its limits. Again, it **i
 
 UNESCO's [manual for investigative journalism](https://unesdoc.unesco.org/ark:/48223/pf0000193078) says that *"The facts do not tell the story. The story tells the facts."* The same applies to any financial analysis. Good data and analysis can have zero impact if they are not communicated in a way that people understand and lead to action.
 
-![](assets/images/istock/iStock-1436794232.jpg)
-<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/MakhbubakhonIsmatova">Makhbubakhon Ismatova</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
-</div>
-
 <br>
 ### General Framework For Communicting Value of IT Investments
 
