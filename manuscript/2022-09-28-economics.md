@@ -2,8 +2,7 @@
 
 # Economic Modeling With ROI and Financial Options: Learning From the Finance Field {#economics}
 
-![](assets/images/istock/iStock-1503371245.jpg)
-^image by microstockhub from istock^
+![image by microstockhub from istock](assets/images/istock/iStock-1503371245.jpg)
 
 **IN THIS SECTION, YOU WILL:** Get two answers to the question of the economic value of architecture: the return on investment metaphor and the selling options metaphor.
 
@@ -45,20 +44,17 @@ In this post, I sketch two answers to the question of the economic value of arch
 
 In economic terms, **return on investment (ROI)** is a ratio between profits and costs over some period. In other words, ROI shows how much you **get back from your investment**. 
 
-![](assets/images/istock/iStock-1386532266.jpg)
-^image by nicoelnino from istock^
+![image by nicoelnino from istock](assets/images/istock/iStock-1386532266.jpg)
 
 A high ROI means the investment's gains compare favorably to its cost. As a performance measure, you can use ROI to evaluate an investment's efficiency or compare the efficiencies of several different investments (Figure 1).
 
-![](assets/images/economics/roi-model.png)
-**Figure 1:** *An illustration of the ROI metaphor. Investment leads to lower costs or higher value. It takes some time to reach a break-even point when an additional value has compensated for the investment. After the break-even point, we earn more than without the investment.*
+![Figure 1: An illustration of the ROI metaphor. Investment leads to lower costs or higher value. It takes some time to reach a break-even point when an additional value has compensated for the investment. After the break-even point, we earn more than without the investment.](assets/images/economics/roi-model.png)
 
 An investment in **good architecture can help increase the ROI of IT**. An excellent example of using the ROI metaphor to argue for investing in architecture is the port of Martin Fowler, who uses this argument to argue for the importance of [investing in improving internal quality](https://martinfowler.com/articles/is-quality-worth-cost.html). Figure 2 summarizes his argument.
 
 Well-architected systems are typically much easier to understand and change. As our systems continuously evolve, the return on investing in making them easier to understand and change can be significant. The primary value of such investment comes from generating fewer errors and bugs, more straightforward modifications, a short time to market, and improved developer satisfaction.
 
-![](assets/images/economics/roi-internal-quality.png)
-**Figure 2:** *Software with high internal quality gets a short initial slowdown but delivers more rapidly and cheaply later (source martinfowler.com/articles/is-quality-worth-cost.html).*
+![Figure 2: Software with high internal quality gets a short initial slowdown but delivers more rapidly and cheaply later (source martinfowler.com/articles/is-quality-worth-cost.html).](assets/images/economics/roi-internal-quality.png)
 
 An ROI metaphor is easy to understand by a non-technical audience. Still, it has limitations when describing the value of architecture. The first limitation is that **measuring architecture, quality, and productivity is challenging**. Consequently, too much focus on ROI can lead to an obsession with cost-cutting. Costs are easy to measure, but the value of attributes like shorter time-to-market is much more difficult to quantify. Second, ROI is a good measure, but only some investments in architecture will increase profit. That is because we frequently have to make decisions with lots of uncertainty. Nevertheless, that does not mean that we should not make such investments. The following section explains why.
 
@@ -66,13 +62,11 @@ An ROI metaphor is easy to understand by a non-technical audience. Still, it has
 
 Gregor Hohpe has frequently argued that the best way to explain architecture to non-technical people is by using **a financial option metaphor.** A financial option is **a right, but not an obligation, to buy or sell financial instruments at a future time with some predefined price**. As such, a financial option is **a way to defer a decision**: instead of deciding to buy or sell a stock today, you have the right to make that decision in the future at a known price.
 
-![](assets/images/istock/iStock-1283813790.jpg)
-^image by olivier le moal from istock^
+![image by olivier le moal from istock](assets/images/istock/iStock-1283813790.jpg)
 
 Options are not free, and a complex market exists for buying and selling financial options. Fischer Black and Myron Scholes computed the value of an option with the [Black-Scholes Formula](https://en.wikipedia.org/wiki/Black%E2%80%93Scholes_model). A critical parameter in establishing the option's value is the price at which you can purchase the stock in the future, the so-called strike price. The lower this strike price, the higher the value of the option (Figure 3).
 
-![](assets/images/economics/options-model.png)
-**Figure 3:** *An illustration of the financial option metaphor. Options have a price, leading to higher initial costs. However, if an opportunity can generate more value, we gain additional profit (or lose it if we do not invest).*
+![Figure 3: An illustration of the financial option metaphor. Options have a price, leading to higher initial costs. However, if an opportunity can generate more value, we gain additional profit (or lose it if we do not invest).](assets/images/economics/options-model.png)
 
 Applying the financial option metaphor to IT architecture, we can argue that **buying options gives the business and IT a way to defer decisions**. Gregor Hohpe gives an example of the server size you need to purchase for a system. If your application is architected to be horizontally scalable, you can defer this decision: additional (virtual) servers can be ordered later at a known unit cost.
 
@@ -86,15 +80,13 @@ As with any analogy, the financial options analogy has its limits. Again, it **i
 
 UNESCO's [manual for investigative journalism](https://unesdoc.unesco.org/ark:/48223/pf0000193078) says that *"The facts do not tell the story. The story tells the facts."* The same applies to any financial analysis. Good data and analysis can have zero impact if they are not communicated in a way that people understand and lead to action.
 
-![](assets/images/istock/iStock-1436794232.jpg)
-^image by makhbubakhon ismatova from istock^
+![image by makhbubakhon ismatova from istock](assets/images/istock/iStock-1436794232.jpg)
 
 ### General Framework For Communicting Value of IT Investments
 
 Here, I share communication frameworks I developed and used to explain holistically the economic value of architecture and technology investment (Figure 4).
 
-![](assets/images/economics/economics_framework.png)
-**Figure 4:** *A framework for discussing investments and options.*
+![Figure 4: A framework for discussing investments and options.](assets/images/economics/economics_framework.png)
 
 I separate the value of investments in two buckets:
 * Increasing and protecting revenue and
@@ -117,9 +109,7 @@ The second bucket relates to the more invisible part of the value created by inv
 **Investments to reduce maintenance costs** need to ensure that your code is easy to understand, change, and test. Such investments directly reduce your most significant cost, people costs, as code that is easy to maintain requires fewer people. Alternatively, you can look at these investments as a way to spend more effort on innovation and creating new revenue streams rather than merely keeping the systems in the air. Figure 5 illustrates what may happen if you do not invest. As systems grow in size and complexity, more developers are needed to maintain them. If the system is not easy to maintain, people will avoid touching code as they can easily break it. This situation will lead to a workaround (such as copying and pasting code and diverse hacks). These inefficient workarounds further increase the size and complexity of code, requiring even more developers to maintain it. And the vicious, expensive cycle continues.
 
 {pagebreak}
-![](assets/images/economics/unsustainable-sw-dev.png)
-
-**Figure 5:** *A downward spiral of poorly maintainable code.*
+![Figure 5: A downward spiral of poorly maintainable code.](assets/images/economics/unsustainable-sw-dev.png)
 
 **Investments in reducing infrastructure costs** reduce spending and, if successful, are more directly visible. Such investments could take the form of redesigning your application to be more elastic, scaling up and down with minimal overhead. They could also create more transparency to have a precise image of all cost drivers and mechanisms to react quickly to any undesirable cost increases.
 
@@ -131,8 +121,7 @@ The second bucket relates to the more invisible part of the value created by inv
 
 In addition to the general framework discussion in this section, I frequently used the following framework to visually communicate how increasing technical debt progressively reduces profit through added operating, delay, and instability costs, emphasizing the importance of managing technical debt to preserve profitability.
 
-![](assets/images/figures/tech_debt_profitability.png)
-**Figure 6:** *A framework for discussing ROI of tech debt reduction from a profitability standpoint.*
+![Figure 6: A framework for discussing ROI of tech debt reduction from a profitability standpoint.](assets/images/figures/tech_debt_profitability.png)
 
 Figure 6 illustrates a framework for understanding the ROI (Return on Investment) of reducing technical debt, showing the impact on profit and costs across three progressive dimensions:
 

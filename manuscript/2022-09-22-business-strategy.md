@@ -2,8 +2,7 @@
 
 # IT Architecture and Business Strategy {#strategy}
 
-![](assets/images/istock/iStock-1404888013.jpg)
-^image by eoneren from istock^
+![image by eoneren from istock](assets/images/istock/iStock-1404888013.jpg)
 
 **IN THIS SECTION, YOU WILL:** Learn about the dynamic alignment between business strategy and IT, and how tailored IT solutions driving organizational agility, innovation, and competitive advantage.
 
@@ -56,8 +55,7 @@ These concepts collectively provide a framework for understanding how IT archite
 
 The **Operating Model** is a core concept in *Enterprise Architecture as Strategy*, representing how an organization structures its business processes and systems to deliver value. It determines the degree of business process standardization (consistency) and integration (information sharing) across business units. The book introduces the concept of the Operating Model, which defines the necessary level of business process standardization and integration. 
 
-![](assets/images/figures/strategy_operating_models.png)
-***Figure 1:** Four types of operating models: diversification (low integration, low standardization), coordination (high integration, low standardization), replication (low integration, high standardization), and unification (high integration, high standardization).*
+![Figure 1: Four types of operating models: diversification (low integration, low standardization), coordination (high integration, low standardization), replication (low integration, high standardization), and unification (high integration, high standardization).](assets/images/figures/strategy_operating_models.png)
 
 There are four types of operating models (Figure 1):
 
@@ -70,15 +68,13 @@ There are four types of operating models (Figure 1):
 
 The **Diversification Model** features low integration and low standardization. Business units operate autonomously, catering to distinct markets or customer bases with little need to share data or processes. 
 
-![](assets/images/istock/iStock-1043605040.jpg)
-^image by elenabs from istock^
+![image by elenabs from istock](assets/images/istock/iStock-1043605040.jpg)
 
 This model is ideal for conglomerates or holding companies with diverse business interests, such as General Electric or Berkshire Hathaway. 
 
 While it allows maximum flexibility and localized innovation, it misses synergies or cost savings opportunities. Business units operate independently and focus on autonomy to address unique markets or products (Figure 2). This approach is suited for organizations with diverse units serving distinct markets or customer bases, such as holding companies or conglomerates, where operational overlap is minimal.
 
-![](assets/images/figures/strategy_diversification.png)
-***Figure 2:** A high-level core diagram of the diversification operating model.*
+![Figure 2: A high-level core diagram of the diversification operating model.](assets/images/figures/strategy_diversification.png)
 
 The model offers flexibility and innovation at the business unit level, enabling rapid adaptation to local or market-specific conditions. However, it comes with challenges, including missed opportunities for synergies, difficulties in achieving cost efficiencies, and potential complexities if integration becomes necessary.
 
@@ -88,13 +84,11 @@ Typical examples include conglomerates like GE or Berkshire Hathaway, which mana
 
 The **Coordination Model** emphasizes high integration but low standardization. In this model, business units operate independently while sharing data and resources to ensure collaboration. The focus is on enabling interdependent parts of the organization to work together effectively. This model suits organizations with distinct business units that rely on shared data, such as healthcare systems where hospitals, clinics, and pharmacies collaborate through shared patient records.
 
-![](assets/images/istock/iStock-1400028174.jpg)
-^image by nicoelnino from istock^
+![image by nicoelnino from istock](assets/images/istock/iStock-1400028174.jpg)
 
 While it fosters informed decision-making and innovation, it demands robust integration technologies and governance mechanisms. The Coordination Operating Model emphasizes independent business units working collaboratively by sharing data and resources to align activities (Figure 3). It prioritizes collaboration and ensures that different parts of the organization can access and exchange critical information efficiently. This model is well-suited for organizations with distinct but interdependent units, such as those serving the same customers or operating within complex value chains where each unit brings specialized expertise while depending on others for overall efficiency.
 
-![](assets/images/figures/strategy_coordination.png)
-***Figure 3:** A high-level core diagram of the coordination operating model.*
+![Figure 3: A high-level core diagram of the coordination operating model.](assets/images/figures/strategy_coordination.png)
 
 The model supports informed decision-making by enabling access to shared data and fosters innovation at the business unit level without imposing rigid standardization. However, it also introduces challenges, such as managing the complexity of integrating diverse systems and processes and relying on advanced integration technologies and governance structures to maintain cohesion.
 
@@ -104,13 +98,11 @@ Examples of this model include healthcare systems (where hospitals, clinics, and
 
 The **Replication Model** combines low integration with high standardization. Business units function independently but follow standardized systems and processes. This model focuses on scalability and consistency, making it ideal for franchise-based organizations like McDonald’s or hotel chains. It allows for rapid scaling by replicating proven operations, though it can limit information sharing and create inefficiencies if local units require unique processes.
 
-![](assets/images/istock/iStock-1554955512.jpg)
-^image by bim from istock^
+![image by bim from istock](assets/images/istock/iStock-1554955512.jpg)
 
 The Replication Operating Model combines operational autonomy with standardized processes, systems, or templates (Figure 4). It focuses on scalability and consistency, enabling organizations to replicate successful practices across multiple locations or units. This approach is ideal for decentralized organizations performing similar functions, such as franchises or businesses expanding operations into new geographies.
 
-![](assets/images/figures/strategy_replication.png)
-***Figure 4:** A high-level core diagram of the replication operating model.*
+![Figure 4: A high-level core diagram of the replication operating model.](assets/images/figures/strategy_replication.png)
 
 This model facilitates rapid scaling while maintaining consistency by reusing proven processes and systems. It also allows for local customization to address specific market needs. However, the model can face challenges, such as limited information sharing between units, which may stifle innovation, and potential inefficiencies when standardized processes do not align with local requirements.
 
@@ -120,13 +112,11 @@ Common examples include franchise operations like McDonald’s or Starbucks, whe
 
 The **Unification Model** involves both high integration and high standardization. Here, business units are tightly connected and operate with consistent processes, emphasizing efficiency and a unified operating approach. This model suits organizations with centralized structures, such as retail chains or airlines, where a consistent customer experience and streamlined operations are critical. While the model enhances efficiency and consistency, it limits flexibility and requires substantial investment in standardized systems.
 
-![](assets/images/istock/iStock-469802212.jpg)
-^image by ollo from istock^
+![image by ollo from istock](assets/images/istock/iStock-469802212.jpg)
 
 The Unification Operating Model is characterized by tightly integrated business units operating with standardized processes, emphasizing efficiency and a single operating approach across the enterprise (Figure 5). This model is best suited for organizations with centralized structures that require consistent customer experiences or aim to achieve economies of scale, particularly when delivering similar products or services across regions or customer segments.
 
-![](assets/images/figures/strategy_unification.png)
-***Figure 5:** A high-level core diagram of the unification operating model.*
+![Figure 5: A high-level core diagram of the unification operating model.](assets/images/figures/strategy_unification.png)
 
 Streamlined operations and standardized systems drive cost efficiencies and ensure consistency, improving quality and customer satisfaction. However, this approach can limit the flexibility of individual units and requires substantial investment in unified systems and processes to function effectively.
 
@@ -145,15 +135,13 @@ Each operating model offers a distinct balance of standardization and integratio
 
 Global flexibility refers to the organization's ability to adapt and respond to external changes, opportunities, and challenges that affect the entire enterprise or its overarching strategy. Local flexibility is the ability of individual business units, departments, or regions to respond quickly to their specific needs, opportunities, and challenges (Figure 6). Organizations can (a) focus on local flexibility at the cost of global flexibility,(b) focus on global flexibility at the cost of local flexibility, or (c) implement a standardized modular architecture that enables both high global and high local flexibility.
 
-![](assets/images/figures/strategy_global_local_flexibility.png)
-***Figure 6:** Balancing local and global business flexibility.*
+![Figure 6: Balancing local and global business flexibility.](assets/images/figures/strategy_global_local_flexibility.png)
 
 ### Global Flexibility
 
 Global flexibility refers to the organization's ability to adapt and respond to external changes, opportunities, and challenges that affect the entire enterprise or its overarching strategy. An example is a global retailer implements a centralized inventory management system that provides real-time stock visibility across all regions. This system enables the company to adapt to global supply chain disruptions or launch new global initiatives efficiently.
 
-![](assets/images/istock/iStock-904482308.jpg)
-^image by metamorworks from istock^
+![image by metamorworks from istock](assets/images/istock/iStock-904482308.jpg)
 
 Global flexibility is characterized by an enterprise-wide perspective that emphasizes solutions, processes, and systems designed to enable adaptability across the organization. This approach ensures that shared capabilities, such as common data standards and unified platforms, are structured to support rapid pivots or innovation.
 
@@ -165,8 +153,7 @@ However, achieving global flexibility is not without its challenges. It can some
 
 Local flexibility is the ability of individual business units, departments, or regions to respond quickly to their specific needs, opportunities, and challenges. An example is a multinational company operating in different countries that allows its regional offices to customize marketing campaigns based on local cultural preferences and consumer behavior.
 
-![](assets/images/istock/iStock-468616573.jpg)
-^image by _marqs from istock^
+![image by _marqs from istock](assets/images/istock/iStock-468616573.jpg)
 
 Local flexibility is defined by a unit-specific perspective that prioritizes empowering local teams with tailored processes and solutions to address unique demands. This approach emphasizes decentralization and grants autonomy to individual business units or regions, fostering a focus on localized needs and innovation.
 
@@ -178,8 +165,7 @@ This flexibility enhances customer satisfaction by addressing local or niche nee
 
 The real challenge lies in balancing global and local flexibility to maximize the organization's effectiveness. 
 
-![](assets/images/istock/iStock-1972025987.jpg)
-^image by carl lokko from istock^
+![image by carl lokko from istock](assets/images/istock/iStock-1972025987.jpg)
 
 This balance depends on the operating model and the nature of the business.
 
@@ -202,16 +188,14 @@ The Enterprise Architecture as Strategy book identifies four stages of Technolog
 
 In this context, the concepts of **global flexibility** and **local flexibility** refer to different ways organizations balance standardization and customization to achieve efficiency and adaptability (Figure 7).
 
-![](assets/images/figures/strategy_flexibility_phases.png)
-***Figure 7:** Balancing local and global business flexibility in different stages of Technology and IT Alignment.*
+![Figure 7: Balancing local and global business flexibility in different stages of Technology and IT Alignment.](assets/images/figures/strategy_flexibility_phases.png)
 
 Each stage reflects the level of standardization, integration, and strategic value IT systems provide. Progressing through these stages enables an organization to move from fragmented IT systems to a flexible, reusable architecture supporting strategic goals.
 
 ### Stage 1: Business Silos
 In the **Business Silos** stage, IT systems and business processes are developed independently within business units, resulting in fragmentation and inefficiencies. There is little to no integration or standardization, and each business unit prioritizes its goals and initiatives.
 
-![](assets/images/istock/iStock-1398685325.jpg)
-^image by mathisworks from istock^
+![image by mathisworks from istock](assets/images/istock/iStock-1398685325.jpg)
 
 In this approach, systems are designed specifically to meet the needs of individual business units, with minimal consideration for enterprise-wide goals. Data is often stored in silos, limiting the ability to share information across the organization. IT functions primarily as a support role, addressing local requirements rather than serving as a strategic enabler. 
 
@@ -221,8 +205,7 @@ This localized focus presents several challenges, including significant duplicat
 
 At the **Standardized Technology** stage, organizations begin consolidating and standardizing IT infrastructure across the enterprise. This standardization reduces complexity and costs but still lacks a focus on business process integration.
 
-![](assets/images/istock/iStock-1398685351.jpg)
-^image by mathisworks from istock^
+![image by mathisworks from istock](assets/images/istock/iStock-1398685351.jpg)
 
 This approach is characterized by a centralized IT infrastructure that relies on shared platforms, tools, and technologies. While business units maintain operational independence, they utilize standardized technology, resulting in reduced IT costs through economies of scale and streamlined support.
 
@@ -232,8 +215,7 @@ Despite these benefits, challenges persist. Business processes often remain frag
 
 The **Optimized Core** stage marks a shift from a technology-driven focus to a business process-driven approach. Organizations standardize and integrate critical processes aligned with the operating model to improve efficiency and coordination across business units.
 
-![](assets/images/istock/iStock-1398685343.jpg)
-^image by mathisworks from istock^
+![image by mathisworks from istock](assets/images/istock/iStock-1398685343.jpg)
 
 This model emphasizes standardized and integrated core business processes, such as finance, supply chain, and HR, to ensure consistency across the enterprise. With enterprise-wide data and process alignment, organizations can make more informed decisions, and IT takes on a strategic role in optimizing operations to support the overall operating model.
 
@@ -243,8 +225,7 @@ The benefits include enhanced operational efficiency, scalability, and an improv
 
 The **Business Modularity** stage represents the highest business and IT alignment level. Organizations adopt a modular approach, creating reusable business and technology components that can be quickly reconfigured to support innovation and changing strategies.
 
-![](assets/images/istock/iStock-1398685301.jpg)
-^image by mathisworks from istock^
+![image by mathisworks from istock](assets/images/istock/iStock-1398685301.jpg)
 
 This approach is defined by modular and reusable business and IT components, such as APIs, microservices, and plug-and-play processes. It provides high flexibility and agility, enabling the organization to adapt swiftly to new opportunities or disruptions. Business units are empowered to innovate while leveraging shared enterprise resources.
 
@@ -272,8 +253,7 @@ Each strategy serves different purposes and should be chosen based on the organi
 ### Strategic Outsourcing
 Strategic outsourcing involves long-term partnerships with external providers to achieve critical business objectives. This strategy is closely aligned with the organization's operating model and strategic goals, with the provider contributing to operational efficiency, innovation, and value creation.
 
-![](assets/images/istock/iStock-487800730.jpg)
-^image by nes from istock^
+![image by nes from istock](assets/images/istock/iStock-487800730.jpg)
 
 This approach centers on high-value, strategic functions critical to the organization's success. It prioritizes collaboration and alignment between the organization and its outsourcing partner, often involving a shared approach to risks and rewards. 
 
@@ -284,8 +264,7 @@ This model's advantages include access to specialized expertise and innovation, 
 ### Co-Sourcing
 Co-sourcing is a hybrid approach where the organization and the outsourcing provider share responsibility for a function or process. It combines the benefits of outsourcing expertise with the organization’s in-house knowledge, ensuring that both parties contribute to achieving shared goals.
 
-![](assets/images/istock/iStock-1385097502.jpg)
-^image by peopleimages from istock^
+![image by peopleimages from istock](assets/images/istock/iStock-1385097502.jpg)
 
 This model emphasizes close collaboration between internal teams and the outsourcing provider, making it ideal for complex or critical processes where retaining some control is essential. Governance structures are established to clearly define roles, responsibilities, and decision-making processes.
 
@@ -299,8 +278,7 @@ However, the model presents challenges, such as clear governance and effective c
 
 Transactional outsourcing is a more tactical approach focused on outsourcing routine, non-strategic tasks or processes to external providers. The primary goal is cost efficiency, achieved by transferring repetitive or easily standardized functions to providers.
 
-![](assets/images/istock/iStock-2111368574.jpg)
-^image by nes from istock^
+![image by nes from istock](assets/images/istock/iStock-2111368574.jpg)
 
 This model is typically short-term or contract-based, with clearly defined deliverables and performance metrics. It focuses on cost reduction and operational efficiency, primarily for non-core activities, with minimal collaboration or strategic alignment between the organization and the provider.
 
@@ -314,8 +292,7 @@ However, this model has challenges, such as providing limited long-term value be
 
 Another strategic tool I found helpful in my work as an architect is **[The Discipline of Market Leader](https://hbr.org/1993/01/customer-intimacy-and-other-value-disciplines)**, a concept developed by Michael Treacy and Fred Wiersema. 
 
-![](assets/images/istock/iStock-1442333787.jpg)
-^image by just_super from istock^
+![image by just_super from istock](assets/images/istock/iStock-1442333787.jpg)
 
 The Discipline of Market Leader highlights a company's three strategic paths to achieve market leadership: **operational excellence**, **product leadership**, and **customer intimacy** (Figure 8):
 
@@ -326,8 +303,7 @@ Which also includes time spent to purchase, future product maintenance, and ease
 
 * **Customer Intimacy** companies do not deliver what the market wants but **what a specific customer wants**. Creating results for carefully selected and nurtured clients. Continually tailors products/services to customers to offer the '**best total solution**.' Exemplars are Salesforce, LMS Providers, HomeDepot.
 
-![](assets/images/arch/discipline-market-leader.png)
-***Figure 8:** The Discipline of Market Leader model postulates that any successful business needs to maintain at least "acceptable" levels of performance in each of the three dimensions (operational excellence, product leadership, and customer intimacy) but would need to choose one of them to become a market leader in its field.*
+![Figure 8: The Discipline of Market Leader model postulates that any successful business needs to maintain at least "acceptable" levels of performance in each of the three dimensions (operational excellence, product leadership, and customer intimacy) but would need to choose one of them to become a market leader in its field.](assets/images/arch/discipline-market-leader.png)
 
 The model postulates that any successful business needs to maintain at least "acceptable" performance levels in each of the three dimensions but would need to **choose one of them to become a market leader** in its field. The model suggests that if you genuinely want to excel in any of the three disciplines, you must make **sacrifices in the other two** as these become mutually exclusive. By focusing on one (and one only) value to excel at, they beat competitors by dividing their attention and resources among more than one discipline. Each value discipline demands **a different operating model to capture the value best**. Customers know that expecting superior value in every dimension is unreasonable. You don't go to Walmart for the best-personalized service or buy Nike sneakers because of low prices.
 
@@ -350,8 +326,7 @@ It is important to remember that the Discipline of Market Leader is **not a one-
 
 As IT architects, we often focus on designing scalable, secure, and efficient systems. However, true architectural success comes from aligning IT strategy with business value creation. Felix Oberholzer-Gee's article "[Eliminate Strategic Overload](https://hbr.org/2021/05/eliminate-strategic-overload)" introduces a **value-based strategy,** which simplifies strategic decision-making by focusing on initiatives that create substantial value for customers, employees, and suppliers. This concept directly relates to IT architecture, underscoring how technology decisions should support overarching business goals.
 
-![](assets/images/istock/iStock-1344940351.jpg)
-^image by dilok klaisataporn from istock^
+![image by dilok klaisataporn from istock](assets/images/istock/iStock-1344940351.jpg)
 
 At its core, value-based strategy focuses on three key elements:  
 
