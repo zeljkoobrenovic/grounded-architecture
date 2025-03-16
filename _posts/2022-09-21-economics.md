@@ -2,7 +2,7 @@
 layout: post
 section: "Expanding the Architect's Toolkit"
 title: "Economic Modeling With ROI and Financial Options: Learning From the Finance Field"
-position: 9028
+position: 9021
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 icon: economics.png
@@ -80,7 +80,8 @@ In this post, I sketch two answers to the question of the economic value of arch
 
 In economic terms, **return on investment (ROI)** is a ratio between profits and costs over some period. In other words, ROI shows how much you **get back from your investment**. 
 
-![](assets/images/istock/iStock-1386532266.jpg)
+<img style="margin-top: 0px; width: 100%; height: 400px; object-fit: cover" 
+     src="assets/images/istock/iStock-1386532266.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/NicoElNino">NicoElNino</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
@@ -112,7 +113,8 @@ An ROI metaphor is easy to understand by a non-technical audience. Still, it has
 
 Gregor Hohpe has frequently argued that the best way to explain architecture to non-technical people is by using **a financial option metaphor.** A financial option is **a right, but not an obligation, to buy or sell financial instruments at a future time with some predefined price**. As such, a financial option is **a way to defer a decision**: instead of deciding to buy or sell a stock today, you have the right to make that decision in the future at a known price.
 
-![](assets/images/istock/iStock-1283813790.jpg)
+<img style="margin-top: 0px; width: 100%; height: 400px; object-fit: cover" 
+     src="assets/images/istock/iStock-1283813790.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/olm26250">Olivier Le Moal</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>

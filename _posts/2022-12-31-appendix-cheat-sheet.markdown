@@ -138,7 +138,7 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Tashu
 
 ## Expanding the Architect's Toolkit: Learning From Other Fields
 
-### IT Architecture and Business Strategy
+### On Strategy
 > * Business strategy and IT must align dynamically, with IT enabling execution through innovation, efficiency, and data-driven decisions.
 > * Enterprise Architecture frameworks emphasize operating models, flexibility (global vs. local), and stages of IT alignment from silos to modularity.
 > * Companies succeed by excelling in one strategic path—operational excellence, product leadership, or customer intimacy—supported by tailored IT architecture.

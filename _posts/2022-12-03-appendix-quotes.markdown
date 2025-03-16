@@ -56,6 +56,11 @@ To change the architecture of a software-intensive system ensconced in a large o
 <div class="author">-Grady Booch</div>
 </div>
 
+<div class="favorite-quote">
+When driving change in an organization, one key metric is your <b>political capital bank account balance.</b> Calling out the emperor's new clothes, questioning the status quo, bringing change, all make withdrawals from your account. Make sure you deposit sufficiently: by keeping your word, delivering value, sharing your knowledge, or being transparent. There is no online banking site to check your account balance, so make sure to keep some reserve. At the same time, <b>political capital is meant to be spent!</b> Just don't overspend...
+<div class="author">-Gregor Hohpe</div>
+</div>
+
 # Changing Role of Architecture
 
 <div class="favorite-quote">

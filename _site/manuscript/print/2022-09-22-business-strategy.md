@@ -178,9 +178,6 @@ This flexibility enhances customer satisfaction by addressing local or niche nee
 
 The real challenge lies in balancing global and local flexibility to maximize the organization's effectiveness. 
 
-![](assets/images/istock/iStock-1972025987.jpg)
-^image by carl lokko from istock^
-
 This balance depends on the operating model and the nature of the business.
 
 * **When to Emphasize Global Flexibility**: For processes or capabilities that drive enterprise-wide efficiency, compliance, and scalability (e.g., finance, supply chain, IT infrastructure). In industries where consistency and standardization are critical (e.g., pharmaceuticals, aviation).
@@ -265,15 +262,15 @@ By progressing through these stages, organizations can achieve operational excel
 
 In *Enterprise Architecture as Strategy*, the authors outline three key outsourcing strategies: **strategic outsourcing**, **transactional outsourcing**, and **co-sourcing**. These strategies reflect different approaches to how organizations leverage external providers based on their business goals, operational needs, and levels of control.
 
+![](assets/images/istock/iStock-487800730.jpg)
+^image by nes from istock^
+
 Strategic outsourcing supports long-term goals and drives innovation by closely aligning with the organization's business strategy. Transactional outsourcing, in contrast, focuses on achieving cost reduction and operational efficiency for routine, non-strategic tasks. Co-sourcing offers a balanced approach, fostering collaboration and shared responsibility for critical or complex processes, combining the strengths of both internal teams and external providers.
 
 Each strategy serves different purposes and should be chosen based on the organization's needs, priorities, and the function being outsourced. These strategies also align with the organization's maturity in enterprise architecture and ability to manage relationships with external providers.
 
 ### Strategic Outsourcing
 Strategic outsourcing involves long-term partnerships with external providers to achieve critical business objectives. This strategy is closely aligned with the organization's operating model and strategic goals, with the provider contributing to operational efficiency, innovation, and value creation.
-
-![](assets/images/istock/iStock-487800730.jpg)
-^image by nes from istock^
 
 This approach centers on high-value, strategic functions critical to the organization's success. It prioritizes collaboration and alignment between the organization and its outsourcing partner, often involving a shared approach to risks and rewards. 
 
@@ -283,9 +280,6 @@ This model's advantages include access to specialized expertise and innovation, 
 
 ### Co-Sourcing
 Co-sourcing is a hybrid approach where the organization and the outsourcing provider share responsibility for a function or process. It combines the benefits of outsourcing expertise with the organization’s in-house knowledge, ensuring that both parties contribute to achieving shared goals.
-
-![](assets/images/istock/iStock-1385097502.jpg)
-^image by peopleimages from istock^
 
 This model emphasizes close collaboration between internal teams and the outsourcing provider, making it ideal for complex or critical processes where retaining some control is essential. Governance structures are established to clearly define roles, responsibilities, and decision-making processes.
 
@@ -298,9 +292,6 @@ However, the model presents challenges, such as clear governance and effective c
 ### Transactional Outsourcing
 
 Transactional outsourcing is a more tactical approach focused on outsourcing routine, non-strategic tasks or processes to external providers. The primary goal is cost efficiency, achieved by transferring repetitive or easily standardized functions to providers.
-
-![](assets/images/istock/iStock-2111368574.jpg)
-^image by nes from istock^
 
 This model is typically short-term or contract-based, with clearly defined deliverables and performance metrics. It focuses on cost reduction and operational efficiency, primarily for non-core activities, with minimal collaboration or strategic alignment between the organization and the provider.
 

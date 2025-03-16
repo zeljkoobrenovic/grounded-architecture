@@ -5,7 +5,7 @@ title: "Transforming Organizations with Grounded Architecture"
 position: 3015
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
-permalink: value
+permalink: transforming
 icon: transformation.png
 timetoread: 15 min
 excerpt: "When the Grounded Architecture Framework is in place, it can significantly impact an organization's functioning: Executing At Scale, Adaptivity, Improving the Quality of Decision-Making with Data, and Maximizing Organizational Alignment & Learning."

@@ -194,7 +194,7 @@ For example, consider an IT team responsible for maintaining an e-commerce platf
 
 ### Disagreement on the Solution (What to change into?)
 
-Once you identify a problem, the next challenge is agreeing on the best solution. This disagreement can stem from differing experiences, knowledge, or biases toward particular technologies or methodologies.
+Once you identify a problem, the next challenge is agreeing on the best solution. This disagreement can stem from different experiences, knowledge, or biases toward particular technologies or methodologies.
 
 In the same e-commerce platform example, the team might disagree on the solution after identifying the database as the root cause of the problem. The database administrators might suggest migrating to a more powerful database server, while the developers propose rewriting the queries more efficiently. UI developers think they should significantly refactor frontend code to a new version of the UI library they wanted to use before but did not have time for the work. The operations team might push for a backend redesign and to scale the entire system horizontally by adding more servers. These conflicting solutions can cause delays as the team debates the best approach, potentially leading to a suboptimal compromise or a solution that introduces new problems.
 
@@ -235,6 +235,35 @@ As connective tissue, the superglue architect can help resolve disagreements wit
 4. **Seeing Multiple Dimensions:** As [Gregor Hophe elaborated nicely](https://architectelevator.com/architecture/multiple-dimensions/), when architects encounter stalemate situations, they may try to find a new model to demonstrate that everyone is simply looking at the same thing from different perspectives.
 
 By being aware of the potential for confusion and actively working to clarify the level of disagreement, teams ican make more informed decisions, implement effective solutions, and, ultimately, improve project outcomes.
+
+<br>
+## Superglueing in Action #3: Navigating Organizational Conflicts
+
+Conflicts in organizations are inevitable, particularly in complex environments where different teams, priorities, and personalities intersect. IT architects often find themselves in the middle of these tensions, acting as facilitators who help bridge gaps between stakeholders. 
+
+![](assets/images/figures/conflict-sources.png)
+***Figure 5:** Three common sources of workplace conflict: different agendas, different perceptions, and different personal styles.*
+
+Jeff Weiss, a conflict management expert, identifies three common sources of workplace conflict (Figure 5): different agendas, different perceptions, and different personal styles. Understanding these sources can help architects navigate disagreements more effectively.
+
+### Managing Conflicts Arising from Different Agendas  
+Teams within an organization often pursue different yet valid goals. For example, a product team may prioritize new features to gain market advantage, while an engineering team may push for reducing technical debt to improve long-term stability. These conflicting priorities can lead to friction, especially if discussions become a zero-sum game where one team’s success is perceived as another’s loss.  
+
+Architects can facilitate discussions that uncover the underlying motivations behind each agenda. For instance, rather than debating whether to prioritize feature delivery or technical refactoring, an architect might propose a phased approach—introducing foundational improvements alongside incremental feature releases. By framing decisions regarding business outcomes, architects can help teams find common ground rather than focusing on competing interests.  
+
+### Addressing Conflicts Driven by Different Perceptions
+Sometimes, conflicts emerge not from fundamental disagreements but from different interpretations of the same situation. A classic example is when a business leader walks away from a meeting, assuming a project will be delivered in three months, while engineers believe they agreed only to an exploratory phase.  
+
+To reduce such misunderstandings, architects can improve clarity and alignment. This improvement might involve summarizing key decisions and next steps in a shared document, using structured frameworks like architecture decision records (ADRs) or visual roadmaps. Additionally, they can encourage discussions where each party explains their perspective, helping to surface implicit assumptions before they lead to misalignment. [Architecture analytics](analytics) can further help understand the different perspectives and align them by providing data.
+
+### Navigating Conflicts Stemming from Different Personal Styles
+Organizational conflicts are not always about goals or facts—sometimes, they stem from differences in how individuals prefer to work. Some professionals thrive in structured environments with strict deadlines, while others prefer flexibility and iterative decision-making. These different styles can lead to friction, particularly in cross-functional teams.  
+
+Architects can help by recognizing and adapting to these differences. For example, suppose a detail-oriented technical leader struggles to align with a high-level strategist. In that case, an architect might act as a bridge—translating broad strategic goals into actionable technical plans. Architects can foster understanding when team members have clashing communication styles by facilitating discussions that help each side appreciate the other’s approach.  
+
+### Superglue Architects as Conflict Resolvers Catalysts
+
+IT architects are not necessarily conflict resolvers, but they often find themselves uniquely positioned to help navigate organizational tensions. Understanding the common sources of conflict—different agendas, perceptions, and styles—can facilitate productive conversations, improve clarity, and help teams work together more effectively. Whether through structured decision-making, improved documentation, or adaptive communication, architects have many ways to resolve conflicts while ensuring alignment between technology and business objectives. Tools such as the [culture map](culture-map) can provide useful insights into the different personal styles and preferences within a team, helping architects tailor their approach to each individual.
 
 <br>
 ## Superglue Impact: Keeping Everyone in the Same Boat, Upon a Stormy Sea
