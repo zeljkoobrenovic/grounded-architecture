@@ -5,7 +5,7 @@ title: "Connecting Marketing, Sales, and Customer Service Strategies"
 position: 8013
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
-icon: marketplace.png
+icon: marketing-sales-customer-support.png
 permalink: marketing-sales-strategy
 timetoread: 11 min
 excerpt: "IT architects play a vital role in optimizing marketing, sales, and customer care by integrating technology, data, automation, and security to create seamless customer experiences, improve efficiency, and drive business growth."

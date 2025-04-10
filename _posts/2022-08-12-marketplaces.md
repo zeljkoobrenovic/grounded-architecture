@@ -5,7 +5,7 @@ title: "Marketplace Strategies: What Digital Marketplaces Sell?"
 position: 8012
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
-icon: value-based-strategy.png
+icon: marketplace.png
 permalink: marketplaces
 timetoread: 11 min
 excerpt: "Digital marketplaces facilitate transactions by reducing search, negotiation, and enforcement costs while monetizing through commissions, subscriptions, promoted listings, and value-added services."
