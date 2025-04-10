@@ -53,8 +53,6 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/gorod
 
 Digital marketplaces facilitate transactions between buyers and sellers but do not act as the sellers or buyers themselves. They primarily sell a reduction in transaction costs across three dimensions: Search and Information Costs, Bargaining and Negotiation Costs, and Policing and Enforcement Costs. Various monetization strategies exist, including paid subscriptions, promoted listings, and additional services that reduce transaction costs.
 
-## Understanding Digital Marketplaces
-
 A digital marketplace serves as an intermediary platform that connects buyers and sellers, facilitating transactions without holding inventory or providing the services themselves. Unlike traditional retailers, which manage their stock and directly sell goods or services, digital marketplaces provide infrastructure, trust, and efficiency to enable commerce.
 
 Some well-known examples include:
@@ -96,6 +94,12 @@ Digital marketplaces do not sell physical goods or services directly. Instead, t
 By understanding these fundamental dynamics, businesses can effectively leverage digital marketplaces—either by participating as sellers or by developing new marketplace models tailored to specific industries and consumer needs.
 
 The IT architecture of digital marketplaces is distinct from traditional e-commerce platforms due to its focus on scalability, automation, and multi-sided interactions. Unlike single-vendor online stores, digital marketplaces require a robust technology stack that supports seamless interactions between multiple buyers and sellers while ensuring platform reliability and security.
+
+<img style="margin-top: 0px; width: 100%; height: 400px; object-fit: cover" 
+     src="assets/images/istock/iStock-2087790196.jpg">
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/NanoStockk">NanoStockk</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
+</div>
 
 Key components of a digital marketplace architecture include:
 
