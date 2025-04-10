@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Hunting the Ghost of Business Architecture | Grounded Architecture: Redefining IT Architecture Practice</title>
+<meta name="generator" content="Jekyll v4.2.2" />
+<meta property="og:title" content="Hunting the Ghost of Business Architecture" />
+<meta name="author" content="by Željko Obrenović (obren.io)" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Business architecture is a shared, often invisible practice that helps organizations understand how they create value — even if no one formally owns or names it." />
+<meta property="og:description" content="Business architecture is a shared, often invisible practice that helps organizations understand how they create value — even if no one formally owns or names it." />
+<link rel="canonical" href="http://localhost:4000/business-architecture" />
+<meta property="og:url" content="http://localhost:4000/business-architecture" />
+<meta property="og:site_name" content="Grounded Architecture: Redefining IT Architecture Practice" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2021-10-21T22:12:01+02:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Hunting the Ghost of Business Architecture" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"by Željko Obrenović (obren.io)"},"dateModified":"2021-10-21T22:12:01+02:00","datePublished":"2021-10-21T22:12:01+02:00","description":"Business architecture is a shared, often invisible practice that helps organizations understand how they create value — even if no one formally owns or names it.","headline":"Hunting the Ghost of Business Architecture","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/business-architecture"},"url":"http://localhost:4000/business-architecture"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Grounded Architecture: Redefining IT Architecture Practice" /></head>
+<body style="overflow-x: hidden"><header class="site-header">
+    <div class="wrapper"><a class="site-title" rel="author" href="/" style="margin-bottom: 0; color: grey; white-space: nowrap; overflow: none; max-width: 100%">
+        <div style="height: 44px; white-space: nowrap; overflow: hidden; margin-bottom: -10px">Grounded Architecture: Redefining IT Architecture Practice</div>
+        <div style="color: #a0a0a0; font-size: 13px;">Version 0.9</div>
+        </a><nav class="site-nav">
+            <input type="checkbox" id="nav-trigger" class="nav-trigger"/>
+            <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+            </label>
+
+            <div class="trigger"><a class="page-link" href="/about/" style="color: #b0b0b0">About</a></div>
+        </nav><table style="border: none; font-size: 80%; margin: 0; padding: 0;">
+    <tr style="border: none; margin: 0; padding: 0">
+        <td style="border: none; margin: 0; padding: 0"><div style="font-size: 90%; color: #898989">On Strategy</div><a class="u-url" href="ea-as-strategy">← Enterprise Architecture as Strategy</a></td>
+        <td style="border: none; text-align: right; margin: 0; padding: 0"><div style="font-size: 90%; color: #898989">On Strategy</div><a class="u-url" href="outsourcing">Outsourcing Strategies →</a></td>
+    </tr>
+</table>
+</div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-129891352-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+    gtag('config', 'UA-129891352-1');
+</script>
+
+
+<style>
+
+    #markdown-toc::before {
+        content: "Contents";
+        font-weight: bold;
+        font-size: 110%;
+        margin-left: 176px;
+        padding-bottom: 30px;
+        text-align: center;
+        width: 100%;
+    }
+
+
+    #markdown-toc ul {
+        list-style: decimal;
+    }
+
+    #markdown-toc {
+        border: 1px solid #aaa;
+        padding: 1.5em;
+        padding-left: 2.5em;
+        list-style: decimal;
+        display: inline-block;
+        margin: 0;
+    }
+</style>
+
+
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting" style="margin-top: -12px">
+    <header class="post-header"><div style="margin-bottom: 4px; margin-top: 10px">On Strategy</div><h1 class="post-title p-name" itemprop="name headline">Hunting the Ghost of Business Architecture</h1>
+        <p class="post-meta"><span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card"
+                                                                                        itemprop="name">by Željko Obrenović (obren.io)</span></span></p>
+    </header>
+
+    <div class="post-content e-content" itemprop="articleBody" style="font-size: 110%">
+        <p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/istock/iStock-908707430.jpg" /></p>
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/ismagilov">ismagilov</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
+</div>
+<style>
+ .quote {
+     border-left: 8px solid #d9ead3;
+     padding-left: 36px;
+     margin-top: 30px;
+     margin-bottom: 40px;
+     font-size: 140%;
+     font-style: normal;
+     color:#888;
+ }
+    @media only screen and (max-width: 768px) {
+        [class="quote"] {
+            display: none;
+        }
+    }
+</style>
+
+<blockquote>
+  <p><strong>IN THIS SECTION, YOU WILL:</strong> Understand that business architecture is a shared, often invisible practice that helps organizations understand how they create value — even if no one formally owns or names it.</p>
+
+  <p><strong>KEY POINTS:</strong></p>
+  <ul>
+    <li>Business architecture is a loosely defined, often invisible discipline that spans strategy, operations, design, and technology — making it hard to pin down or assign to a single owner.</li>
+    <li>There’s ongoing debate about whether it exists as a standalone function or if it’s simply a set of shared perspectives and practices scattered across roles.</li>
+    <li>Different roles shape business architecture in different ways — from enterprise architects and COOs to service designers and heads of strategy — often without using the term.</li>
+    <li>Rather than centralizing ownership, the most effective approach could be shared stewardship, where multiple teams contribute to a common understanding of how the business works and changes.</li>
+    <li>Ultimately, business architecture may be less about definitions and more about creating clarity — helping organizations see the whole, make better decisions, and connect intent with execution.</li>
+  </ul>
+</blockquote>
+
+<style>
+    h2 {
+        margin-top: 42px;    
+    }
+</style>
+
+<p><br /></p>
+
+<p>When we talk about business strategy and architecture, the term “business architecture” naturally comes up. But talk to a few people about business architecture, and you’ll quickly realize there’s no single, agreed-upon view. Some see it as a way to connect strategy to operations, while others think in terms of capabilities and value streams. Some associate it with enterprise architecture, while others associate it with service design or transformation.</p>
+
+<p>And some quietly ask: <em>“Does this even exist as a real, standalone discipline?”</em></p>
+
+<p>It’s a fair question. Unlike more established functions like software architecture or product management, business architecture doesn’t always have a clear job title, team, or mandate. Some organizations formalize it. In others, it’s embedded, implicit, or scattered across teams that don’t use the term.</p>
+
+<p>To help ground the discussion, here are a few reference points that often come up:</p>
+
+<blockquote>
+  <p><strong>Business Architecture Guild</strong>: “A blueprint of the enterprise that provides a common understanding of the organization and is used to align strategic objectives and tactical demands.”</p>
+
+  <p><strong>TOGAF</strong>: “The business strategy, governance, organization, and key business processes, at a high level.”</p>
+</blockquote>
+
+<p>Thus, business architecture shows what a business does (its capabilities), how it delivers value (its value streams), and how it’s structured to operate (its people, processes, and systems). These are all helpful, but they are still just starting points.</p>
+
+<p>Gregor Hohpe captures this ambiguity well when he writes, “Every organization has a business architecture, even if they don’t have business architects.”* The work is happening but might not be recognized as “architecture, “ and it rarely fits in a neat box.</p>
+
+<p>This section explores what business architecture could mean, why it’s often hard to define or own, and who shapes it—whether by design or by default.</p>
+
+<p><br /></p>
+<h2 id="business-architecture-as-a-way-of-seeing">Business Architecture as a Way of Seeing</h2>
+
+<p>Rather than defining business architecture as a fixed discipline, it might be more helpful to ask: <em>What kinds of thinking and coordination does it enable? What kinds of problems does it try to solve?</em></p>
+
+<p><img style="margin-top: 0px; width: 100%; height: 400px; object-fit: cover" src="assets/images/istock/iStock-1830042746.jpg" /></p>
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/RerF">RerF</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
+</div>
+
+<p>Because one of the deeper questions behind all the definitions is this: <strong>Does business architecture exist as its own thing? Or is it simply a collection of perspectives borrowed from strategy, operations, technology, and design?</strong></p>
+
+<p>In some organizations, it’s a named role or a structured practice. In others, it’s a loose set of activities across transformation programs, architecture teams, or service design efforts. Whether or not it exists “formally,” the need it tries to meet is real: making sense of how the business works and how it needs to change.</p>
+
+<p>Some teams express this through capability models, others through service blueprints, value streams, or operating models. Some draw it out in workshops, and others manage it through planning spreadsheets. The tools and language vary, but the impulse is the same: to bring structure and clarity to how the business creates and delivers value.</p>
+
+<p>Maybe that’s what makes business architecture compelling, even if it’s elusive:  It doesn’t prescribe one way of working — it invites a more holistic way of seeing.</p>
+
+<p><br /></p>
+<h2 id="why-its-hard-to-own-and-that-might-be-okay">Why It’s Hard to Own (And That Might Be Okay)</h2>
+
+<p>One of the most common questions around business architecture is: <em>“Who owns it?”</em> The most honest answer is: <em>“Well… kind of everyone, and kind of no one.”</em></p>
+
+<p>Because business architecture lives at the intersection of so many disciplines—strategy, operations, technology, and design—it rarely fits neatly within one function. Trying to force it into a single box often misses the point. It’s not just about control or ownership. It’s about creating shared models that help people make better decisions.</p>
+
+<p>Part of the difficulty is that everyone approaches it from a different angle:</p>
+<ul>
+  <li>Strategy teams might see it as connecting goals to initiatives.</li>
+  <li>Operations leaders might focus on how to streamline and scale.</li>
+  <li>Designers often see flows of experience and service value.</li>
+  <li>Architects see how systems and capabilities interconnect.</li>
+</ul>
+
+<p><strong>None of these are wrong.</strong> The challenge is stitching them together into a coherent, flexible view of the business that doesn’t just live in one person’s head or team’s slide deck.</p>
+
+<p><br /></p>
+<h2 id="who-shapes-business-architecture">Who Shapes Business Architecture?</h2>
+
+<p>So instead of asking who owns business architecture, it’s often more useful to ask:<br />
+<strong>Who’s already shaping it — knowingly or not?</strong></p>
+
+<p><img style="margin-top: 0px; width: 100%; height: 400px; object-fit: cover" src="assets/images/istock/iStock-904479942.jpg" /></p>
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/chombosan">metamorworks</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
+</div>
+
+<p>Here are some of the usual suspects:</p>
+
+<h3 id="business-architecture-teams">Business Architecture Teams</h3>
+<p>In larger or more mature organizations, dedicated business architects—often in strategy or transformation offices—might focus on modeling capabilities, designing operating models, and creating alignment frameworks.</p>
+
+<h3 id="enterprise-architects">Enterprise Architects</h3>
+<p>In many orgs, enterprise architects must step into the business architecture space. They bridge tech and business, and often use capability mapping to link solutions to outcomes. They may not “own” business architecture, but they carry much of its weight.</p>
+
+<h3 id="coos-and-operational-leaders">COOs and Operational Leaders</h3>
+<p>When business architecture is about getting things to work — streamlining operations, improving service delivery, building cross-functional capability — the COO or ops leadership often plays a key role. They may never use the term “architecture,” but their work reflects its principles.</p>
+
+<h3 id="strategy-and-planning-functions">Strategy and Planning Functions</h3>
+<p>The Head of Strategy, Chief of Staff, or enterprise planning team often develops views of the business that <em>are</em> architectural — even if they don’t call them that. They’re thinking about themes, investments, future state visions, and what the business needs to become.</p>
+
+<h3 id="org-design-and-people-teams">Org Design and People Teams</h3>
+<p>When the focus is on structure, roles, capabilities, and how teams fit together, business architecture overlaps with organization design. These teams often model the human and structural side of the architecture — sometimes more clearly than anyone else.</p>
+
+<h3 id="department-leaders">Department Leaders</h3>
+<p>Every business unit has its mini-architecture — whether formalized or not. Department heads define how their teams function, what they need to deliver, and how they measure success. These localized views are valuable inputs into the broader enterprise picture.</p>
+
+<h3 id="design-and-service-strategy">Design and Service Strategy</h3>
+<p>Designers — especially in service or experience roles — often create maps of how value flows through the organization from a user’s perspective. These models reflect real business architecture concerns: handoffs, pain points, silos, and dependencies.</p>
+
+<p><br /></p>
+<h2 id="business-architecture-as-shared-space">Business Architecture as Shared Space</h2>
+
+<p>So maybe the best way to think about business architecture isn’t as a fixed function or framework, but as a <strong>shared space</strong> — one that invites multiple perspectives and requires active coordination.</p>
+
+<p><img style="margin-top: 0px; width: 100%; height: 400px; object-fit: cover" src="assets/images/istock/iStock-1505278419.jpg" /></p>
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Worawee">Worawee Meepian</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
+</div>
+
+<p>It’s less about who owns the models and more about:</p>
+<ul>
+  <li>Who contributes to them?</li>
+  <li>Who uses them to make better decisions?</li>
+  <li>Who ensures they stay relevant as the business evolves?</li>
+</ul>
+
+<p>When that space is nurtured—with the right conversations, models, and governance—business architecture can become an incredibly powerful enabler of strategy, agility, and clarity.</p>
+
+<p><br /></p>
+<h2 id="final-thought">Final Thought</h2>
+
+<p>If you’re an IT or enterprise architect, you’re probably already contributing to business architecture — even if you’re not calling it that. You’re modeling capabilities, aligning systems to business needs, helping teams make sense of complexity.</p>
+
+<p>You don’t need to own business architecture to shape it.<br />
+You just need to bring curiosity, structure, and empathy.</p>
+
+<p>And maybe that’s what business architecture is really about: <strong>not having all the answers, but building better shared understanding — together.</strong></p>
+
+<p><br /></p>
+<h2 id="to-probe-further">To Probe Further</h2>
+<ul>
+  <li><a href="https://www.businessarchitectureguild.org/">Business Architecture Guild</a></li>
+  <li><a href="https://pubs.opengroup.org/togaf-standard/adm/chap04.html">TOGAF / Business Architecture</a></li>
+</ul>
+
+<p><br /></p>
+<h2 id="questions-to-consider">Questions to Consider</h2>
+
+<ul>
+  <li>
+    <p><em>Where in your organization is business architecture happening — even if no one calls it that? Is it in strategy, enterprise architecture, ops, or somewhere unexpected?</em></p>
+  </li>
+  <li>
+    <p><em>Do you think business architecture exists as a distinct discipline in your company — or is it embedded across functions?</em></p>
+  </li>
+  <li>
+    <p><em>Who currently shapes the way your organization views capabilities, value, and structure? Is it formalized, or more implicit and ad hoc?</em></p>
+  </li>
+  <li>
+    <p><em>Is there a shared understanding of how your business creates value? Or does each team have its own mental model?</em></p>
+  </li>
+  <li>
+    <p><em>How often do strategy, operations, design, and technology teams align on how the business is structured?</em></p>
+  </li>
+  <li>
+    <p><em>What artifacts (if any) guide your organization’s understanding of business architecture? Capability maps, journey maps, operating models, org charts… or none of the above?</em></p>
+  </li>
+  <li>
+    <p><em>Do your technology architecture decisions reflect a clear view of business priorities and value delivery?</em></p>
+  </li>
+  <li>
+    <p><em>What would it take for business architecture to become more intentional and collaborative in your organization?</em></p>
+  </li>
+  <li>
+    <p><em>If you had to draw your organization’s business architecture today, where would you start — and who would you invite to help?</em></p>
+  </li>
+  <li>
+    <p><em>How might shifting from “ownership” to “shared stewardship” change how your org approaches business architecture?</em></p>
+  </li>
+</ul>
+
+        <div style="margin-bottom: -32px; margin-top: 28px"><table style="border: none; font-size: 80%; margin: 0; padding: 0;">
+    <tr style="border: none; margin: 0; padding: 0">
+        <td style="border: none; margin: 0; padding: 0"><div style="font-size: 90%; color: #898989">On Strategy</div><a class="u-url" href="ea-as-strategy">← Enterprise Architecture as Strategy</a></td>
+        <td style="border: none; text-align: right; margin: 0; padding: 0"><div style="font-size: 90%; color: #898989">On Strategy</div><a class="u-url" href="outsourcing">Outsourcing Strategies →</a></td>
+    </tr>
+</table>
+</div>
+    </div><a class="u-url" href="/business-architecture" hidden></a>
+</article>
+
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">Grounded Architecture: Redefining IT Architecture Practice</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">Grounded Architecture: Redefining IT Architecture Practice</li><li><a class="u-email" href="mailto:zeljko.obren@gmail.com">zeljko.obren@gmail.com</a></li></ul>
+      </div>
+
+      <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a href="https://github.com/zeljkoobrenovic"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg> <span class="username">zeljkoobrenovic</span></a></li><li><a href="https://www.twitter.com/zeljko_obren"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#twitter"></use></svg> <span class="username">zeljko_obren</span></a></li></ul>
+</div>
+
+      <div class="footer-col footer-col-3">
+        <p></p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+</body>
+</html>
