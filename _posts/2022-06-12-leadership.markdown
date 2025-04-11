@@ -50,7 +50,10 @@ h3 {
 </style>
 <br>
 
+"*A leader is anyone who takes **responsibility** for **recognizing** the **potential in people and ideas**, and has the **courage** to develop that potential.*" --Brené Brown 
 
+<hr>
+<br>
 My approach to architecture leadership draws inspiration from two standout sources: **[David Marquet's](https://davidmarquet.com/) leadership principles**, articulated in his book "[Turn the Ship Around!](https://davidmarquet.com/turn-the-ship-around-book/)" and "[Leadership Is Language](https://davidmarquet.com/leadership-is-language-book/)," and Netflix's valued behaviors. Marquet's ideas are about empowering team members, providing clarity, decentralizing decision-making, striving for continuous improvement, and practicing servant leadership. Meanwhile, **[Netflix's valued behaviors](https://jobs.netflix.com/culture)** offers a compact masterclass in coaching and developing people's leadership traits. Together, these resources form a robust framework for leading with insight and influence in the IT architecture (Figure 1).
 
 ![](assets/images/arch/architects_leadership.png)
