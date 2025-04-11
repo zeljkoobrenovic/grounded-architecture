@@ -60,15 +60,18 @@ To illustrate what I mean by Lightweight Architectural Analytics, I will give a 
 
 <img src="assets/images/apps.png" style="padding: 4px; padding-top: 8px; padding-bottom: 8px; box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px; margin-bottom: 6px">
 <br>
- 
 **Figure 2:** *A screenshot of the start page of the architecture data dashboard we've built and used at AVIV Group.*
 
-I typically implement Lightweight Architectural Analytics as a dashboard with many data apps, typically leveraging the following data sources:
+I typically implement Lightweight Architectural Analytics as a dashboard with many data apps, typically leveraging the following data sources (Figure 3):
 * **Source code** contains an incredible amount of information about technology, people's activity, team dependencies, and the quality of software systems. By analyzing commit histories, code complexity, and contributions, you can identify critical areas of improvement, understand team dynamics, and ensure code quality.
 * **Public cloud billing reports** provide an overview of trends in used cloud services, regions, and budgets. Monitoring billing reports can help manage budgets, identify cost-saving opportunities, and understand usage patterns across different services and regions.
 * **Incident reports** can reveal trends and dependencies among incidents. Analyzing these reports can reveal trends, common issues, and dependencies among incidents, helping manage problems and improving system reliability.
 * **Key business metrics**, like vibrancy, can show user activity on our systems. Tracking these metrics can help assess the business's health, understand user behavior, and guide strategic decisions to enhance user experience.
 * **Activity reports from messaging and collaboration platforms (such as Slack)** can help understand discussion topics and team interactions. Analyzing these reports can help understand collaboration patterns, identify key discussion areas, and improve team communication and productivity.
+
+<img src="assets/images/figures/architecture-dashboard-data-sources.png" style="padding: 4px; padding-top: 8px; padding-bottom: 8px; box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px; margin-bottom: 6px">
+**Figure 3:** *A overview of data sources for the architecture dahsboard in the AVIV Group.*
+
 
 In the following sections, I detail several of these architectural data-driven tools.
 
@@ -78,12 +81,11 @@ In the following sections, I detail several of these architectural data-driven t
 
 The **source code** and its **commit history** are like a treasure chest for creating data-driven architecture documentation—packed with nuggets of wisdom about **technology**, team **activities,** **dependencies,** and software quality. 
 
-Many tools can help you reveal these insights. In this section, I will focus on a simple tool I built to get these insights. To help you dig up this treasure without getting your hands too dirty, I've developed and actively maintained a free, open-source project called **[Sokrates](https://sokrates.dev).** Sokrates generates reports with essential source code insights (see Figure 3). Its reports are designed to be user-friendly, making it easy for a broader audience to navigate and understand their source code and its history. Sokrates is designed with an **architect's x-ray vision,** allowing you to **zoom in and out** of source code landscapes. It provides a **high-level overview** of the IT landscape, summarizing data from various teams and groups while also letting you dive deep into the **code-level details.** This dual functionality makes it the perfect sidekick for **CTO-level** strategy powwows and **developer-level** code critiques.
+Many tools can help you reveal these insights. In this section, I will focus on a simple tool I built to get these insights. To help you dig up this treasure without getting your hands too dirty, I've developed and actively maintained a free, open-source project called **[Sokrates](https://sokrates.dev).** Sokrates generates reports with essential source code insights (see Figure 4). Its reports are designed to be user-friendly, making it easy for a broader audience to navigate and understand their source code and its history. Sokrates is designed with an **architect's x-ray vision,** allowing you to **zoom in and out** of source code landscapes. It provides a **high-level overview** of the IT landscape, summarizing data from various teams and groups while also letting you dive deep into the **code-level details.** This dual functionality makes it the perfect sidekick for **CTO-level** strategy powwows and **developer-level** code critiques.
 
 <img src="assets/images/sokrates-example-1.png" style="padding: 4px; padding-top: 8px; padding-bottom: 8px; box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px; margin-bottom: 6px">
 <br>
- 
-**Figure 3:** *Screenshot of a Sokrates report.*
+**Figure 4:** *Screenshot of a Sokrates report.*
 
 
 Show me, don't tell me, you said? All right, for a more entertaining look at what Sokrates can do, check out the Sokrates examples. Here are some blockbusters:
@@ -109,24 +111,24 @@ Thanks to **uniform automation and monitoring,** using the public cloud can dram
 
 [Amazon Web Services (AWS)](https://aws.amazon.com), [Google Cloud Platform (GCP)](https://cloud.google.com/), [Microsoft Azure](https://azure.microsoft.com/), and other public cloud providers give detailed data about which platform uses which services, resource family, and budget. You can also understand which people and teams have access to each service. Getting real-time information about cloud usage and automatically understanding the trends is straightforward.
 
-Figure 4 shows an anonymized screenshot of the Cloud Usage Explorer, a tool I built to visualize automatically collected data from standard Google Cloud Platform (GCP) usage reports.
+Figure 5 shows an anonymized screenshot of the Cloud Usage Explorer, a tool I built to visualize automatically collected data from standard Google Cloud Platform (GCP) usage reports.
 
 ![](assets/images/archdata/cloud-usage-explorer.png)
 <br>
-***Figure 4:** An example of a cloud usage explorer.*
+***Figure 5:** An example of a cloud usage explorer.*
 
 <br>
 ### Example 3: Financial and Vibrancy Analytics
 
 **Finance departments** are like Sherlock Holmes in the business world—super data-driven and always on the case with high-quality data that could be a goldmine for architects. Beyond the usual suspects of costs, budgets, and other dry financial stuff, I've discovered they also track the fun stuff, like vibrancy and usage levels. This data is not just interesting; it's invaluable for architects' work. 
 
-These finance operatives need this juicy data to, for instance, link the performance of their financial systems with how much they're being used. This kind of usage data is a secret weapon for architecture discussions. For instance, by connecting systems' usage levels and vibrancy with their public cloud costs, we can uncover hidden areas of improvement and inefficiencies (Figure 5).
+These finance operatives need this juicy data to, for instance, link the performance of their financial systems with how much they're being used. This kind of usage data is a secret weapon for architecture discussions. For instance, by connecting systems' usage levels and vibrancy with their public cloud costs, we can uncover hidden areas of improvement and inefficiencies (Figure 6).
 
 So, next time you're knee-deep in architectural plans, don't forget to call the finance for top-notch data insights!
 
 ![](assets/images/arch/cross-data.png)
 <br>
-***Figure 5:** Combining data from different sources (e.g., cloud billing reports and vibrancy or revenue can lead to new insights (e.g., identifying inefficiencies in the application portfolio).*
+***Figure 6:** Combining data from different sources (e.g., cloud billing reports and vibrancy or revenue can lead to new insights (e.g., identifying inefficiencies in the application portfolio).*
 
 
 

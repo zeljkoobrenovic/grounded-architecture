@@ -147,6 +147,3 @@ The IT architecture of digital marketplaces is built for scalability, security, 
 * *What IT architecture decisions are crucial for building a scalable and resilient digital marketplace?*
 * *How do marketplace regulations (such as GDPR or competition laws) influence platform design and operations?*
 * *What new industries or niche markets could benefit from a marketplace model that reduces transaction costs?*
-
-
-
