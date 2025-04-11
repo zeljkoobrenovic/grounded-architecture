@@ -53,7 +53,10 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/gorod
 
 Digital marketplaces facilitate transactions between buyers and sellers but do not act as the sellers or buyers themselves. They primarily sell a reduction in transaction costs across three dimensions: Search and Information Costs, Bargaining and Negotiation Costs, and Policing and Enforcement Costs. Various monetization strategies exist, including paid subscriptions, promoted listings, and additional services that reduce transaction costs.
 
-A digital marketplace serves as an intermediary platform that connects buyers and sellers, facilitating transactions without holding inventory or providing the services themselves. Unlike traditional retailers, which manage their stock and directly sell goods or services, digital marketplaces provide infrastructure, trust, and efficiency to enable commerce.
+A digital marketplace serves as an intermediary platform that connects buyers and sellers, facilitating transactions without holding inventory or providing the services themselves. Unlike traditional retailers, which manage their stock and directly sell goods or services, digital marketplaces provide infrastructure, trust, and efficiency to enable commerce (Figure 1).
+
+![](assets/images/figures/marketplace.png)
+***Figure 1:**  The structure of multi-sided marketplaces, where a central platform facilitates interactions among various participants including buyers, sellers, advertisers, support agents, additional service providers (e.g., transport, insurance), and optionally intermediaries. The platform delivers core functions such as search and information, bargaining and negotiation, fulfillment, and policing and enforcement to enable smooth, trusted, and efficient transactions. Each stakeholder interacts with the platform in different ways, contributing to and benefiting from the ecosystem’s value exchange.*
 
 Some well-known examples include:
 
@@ -64,13 +67,18 @@ Some well-known examples include:
 
 ## The Core Value Proposition: Reducing Transaction Costs
 
-Digital marketplaces generate value by reducing the costs associated with transactions. These transaction costs fall into three primary categories:
+Digital marketplaces generate value by reducing the costs associated with transactions.
 
-**Search and Information Costs**: This cost includes the effort and time required for buyers and sellers to find each other and access relevant information. Marketplaces mitigate this by providing centralized platforms with search tools, filtering mechanisms, and reviews. Example: Craigslist simplifies search by acting as a directory, while Amazon enhances search through advanced recommendation algorithms.
+![](assets/images/figures/marketplace-value.png)
+***Figure 2:**  Marketplaces sell a reduction in transaction costs: Search and Information Costs, Bargaining and Negotiation Costs, Policing and Enforcement Costs.*
 
-**Bargaining and Negotiation Costs**: These are costs related to setting a price, defining terms, and ensuring mutual agreement between buyers and sellers. Marketplaces reduce these by offering fixed pricing models, automated pricing tools, or pre-negotiated agreements. Example: Uber eliminates fare negotiations by using an algorithm to set prices dynamically.
+These transaction costs fall into three primary categories (Figure 2):
 
-**Policing and Enforcement Costs**: These refer to the costs of ensuring that both parties fulfill their obligations, that transactions are fair, and that disputes are resolved efficiently. Marketplaces manage these by implementing rating systems, buyer/seller guarantees, and dispute resolution services. For example, Airbnb provides host and guest reviews, secure payments, and insurance to protect against damages.
+* **Search and Information Costs**: This cost includes the effort and time required for buyers and sellers to find each other and access relevant information. Marketplaces mitigate this by providing centralized platforms with search tools, filtering mechanisms, and reviews. Example: Craigslist simplifies search by acting as a directory, while Amazon enhances search through advanced recommendation algorithms.
+
+* **Bargaining and Negotiation Costs**: These are costs related to setting a price, defining terms, and ensuring mutual agreement between buyers and sellers. Marketplaces reduce these by offering fixed pricing models, automated pricing tools, or pre-negotiated agreements. Example: Uber eliminates fare negotiations by using an algorithm to set prices dynamically.
+
+* **Policing and Enforcement Costs**: These refer to the costs of ensuring that both parties fulfill their obligations, that transactions are fair, and that disputes are resolved efficiently. Marketplaces manage these by implementing rating systems, buyer/seller guarantees, and dispute resolution services. For example, Airbnb provides host and guest reviews, secure payments, and insurance to protect against damages.
 
 Here are a few examples of marketplaces and their transaction cost-reduction strategies:
 
@@ -117,7 +125,16 @@ Key components of a digital marketplace architecture include:
 
 The IT architecture of digital marketplaces is built for scalability, security, and automation, distinguishing it from traditional e-commerce platforms. These platforms provide a seamless and trusted transaction environment by leveraging cloud infrastructure, AI-driven recommendations, secure payment systems, and API integrations. Understanding these technical and business dynamics enables companies to effectively build, participate in, or enhance digital marketplaces for various industries and needs.
 
-<br>
+## To Probe Further
+
+* [History of Online Marketplaces](https://web.stanford.edu/class/msande238/projects/2014/Marketplaces.docx), 2014, by Andrew Adams and Lance Martin
+* [Marketplace](https://en.wikipedia.org/wiki/Marketplace), 2021, Wikipedia
+* [A History of Shopping, Marketplaces, and Experiences](https://www.starkenterprises.com/a-history-of-shopping-marketplaces-and-experiences/), 2021, by Ezra Stark
+* [Ezra Stark](https://www.sutherlandlabs.com/blog/history-repeating-how-digital-marketplaces-conquered-retail/), 2018, sutherlandlabs.com
+* [Search, Matching, and the Role of Digital Marketplace Design in Enabling Trade: Evidence from Airbnb](https://ide.mit.edu/sites/default/files/publications/SearchMatchingEfficiency.pdf), 2017, by Andrey Fradkin
+* [Digital Marketplaces](https://andreyfradkin.com/assets/econ_of_digital.pdf), 2017, by Andrey Fradkin
+* [The Economics of Digital Marketplaces](https://www.nber.org/papers/w24700), 2018, by Andrey Fradkin
+
 ## Questions to Consider
 
 * *How do digital marketplaces differ from traditional e-commerce platforms in terms of business model and operations?*
