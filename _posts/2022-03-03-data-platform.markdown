@@ -130,6 +130,51 @@ So, next time you're knee-deep in architectural plans, don't forget to call the 
 <br>
 ***Figure 6:** Combining data from different sources (e.g., cloud billing reports and vibrancy or revenue can lead to new insights (e.g., identifying inefficiencies in the application portfolio).*
 
+Nice — that’s a great addition and feels totally aligned with the whole **“data as a map”** metaphor from the main text. You're basically saying: *once you have that map, you can start asking your digital guide (ChatGPT, Gemini, etc.) for directions, insights, or even a little code to fix potholes.*
+
+Here’s a draft for your new subsection under **"Examples of Lightweight Architectural Analytics Tools"**:
+
+<br>
+### Example 4: Leveraging Generative AI
+
+Once you've built a solid foundation of **curated, up-to-date, and accessible data**, a whole new layer of value becomes available through **generative AI tools** such as ChatGPT, Gemini, or open-source LLMs. These tools can act as intelligent companions for architectural work, transforming your data into **interactive conversations**.
+
+Instead of static dashboards or one-off reports, you can now ask natural-language questions like:
+
+- "What teams are committing most to legacy systems?"
+- "Which services have the highest cost-to-vibrancy ratio?"
+- "Can you cluster microservices based on team ownership and code activity?"
+- "What are some anomalies in our incident frequency over the past 90 days?"
+
+This approach works *only* when data is already available, curated, and reasonably structured. That's why **Lightweight Architectural Analytics** is such a critical enabler—it ensures that the **fuel for AI analysis** is already there.
+
+Some practical applications of this integration include:
+
+- **Additional Source Code Insights**: Upload commit logs or Sokrates reports and prompt AI with questions about team dynamics, code complexity, or deployment patterns.
+
+- **Exploring Cloud Usage and Cost Optimization**: Share public cloud billing exports and ask the AI to identify trends, inefficiencies, or underutilized services.
+
+- **Incident Pattern Analysis**: Feed in incident ticket logs and ask for root cause patterns, recurring services, or teams with frequent incident ownership.
+
+- **Business Metrics Exploration**: Ask the AI to find correlations between system vibrancy and cloud costs, or between system uptime and team size.
+
+- **Communication Trends**: Analyze Slack activity logs to find dominant discussion themes or cross-team communication patterns.
+
+In [the appendix](gen-ai-prompts), you'll find **example prompts** and **sample curated datasets** you can upload or use as inspiration to get started.
+
+Generative AI doesn't replace the need for good architectural judgment—but it **amplifies it**, by giving you fast feedback, exploratory analysis, and sometimes even fresh angles you might not have considered.
+
+
+Interestingly, prompts themselves are more than just one-time queries—they can evolve into a **formal, reusable description of typical architectural tasks**. By writing and refining prompts, architects essentially codify their thought process and decision-making patterns.
+
+Prompts become:
+
+- Lightweight, transparent documentation of analysis goals  
+- A repeatable way to “ask the same question” of new data  
+- A way to share architectural thinking across teams and roles  
+- A medium to teach junior team members how to approach common problems  
+
+You can think of prompts as *scripts for architectural sensemaking.*
 
 
 <br>
@@ -165,6 +210,11 @@ These tips might save you from drowning in the sea of data chaos and make your a
 ## Using Lightweight Architectural Analytics
 
 Lightweight Architectural Analytics can churn out data by the bucketful. Think of it like an atlas or a map—it's great for finding your bearings and understanding the lay of the land. But, with the **right mindset,** you can turn that data into a treasure trove of insights.
+
+![](assets/images/istock/iStock-2166193783.jpg)
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/cofotoisme">cofotoisme</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
+</div>
 
 Interpreting and using data requires a bit of effort—think of it as a **detective game** where the data holds the answers, but you need to come armed with the right questions. Here are some of the questions you should ask when you've got a pile of data at your fingertips:
 

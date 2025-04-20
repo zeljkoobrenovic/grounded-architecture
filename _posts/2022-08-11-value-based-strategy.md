@@ -88,9 +88,9 @@ Companies that improve supplier efficiency through optimized logistics, data ins
 
 By embedding these principles into IT architecture, enterprises can create a technology ecosystem directly contributing to business success.  
 
-![](assets/images/istock/iStock-2166193783.jpg)
+![](assets/images/istock/iStock-2083917031.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/cofotoisme">cofotoisme</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/FasaiBudkaew">Fasai Budkaew</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 
 IT leaders should move beyond technical efficiency and align architectures with strategic value creation by:  

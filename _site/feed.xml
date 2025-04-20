@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-04-11T12:00:59+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: Redefining IT Architecture Practice</title><subtitle></subtitle><entry><title type="html">Cheat Sheet</title><link href="http://localhost:4000/cheat-sheet" rel="alternate" type="text/html" title="Cheat Sheet" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/appendix-cheat-sheet</id><content type="html" xml:base="http://localhost:4000/cheat-sheet"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/istock/iStock-1182643171.jpg" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-04-20T22:31:35+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: Redefining IT Architecture Practice</title><subtitle></subtitle><entry><title type="html">Cheat Sheet</title><link href="http://localhost:4000/cheat-sheet" rel="alternate" type="text/html" title="Cheat Sheet" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/appendix-cheat-sheet</id><content type="html" xml:base="http://localhost:4000/cheat-sheet"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/istock/iStock-1182643171.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Tashulia">Tashulia</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
@@ -721,6 +721,63 @@ The good news is that <strong>big organizations have lots of data</strong> that,
 <br />
 <em><strong>Figure 6:</strong> Combining data from different sources (e.g., cloud billing reports and vibrancy or revenue can lead to new insights (e.g., identifying inefficiencies in the application portfolio).</em></p>
 
+<p>Nice — that’s a great addition and feels totally aligned with the whole <strong>“data as a map”</strong> metaphor from the main text. You’re basically saying: <em>once you have that map, you can start asking your digital guide (ChatGPT, Gemini, etc.) for directions, insights, or even a little code to fix potholes.</em></p>
+
+<p>Here’s a draft for your new subsection under <strong>“Examples of Lightweight Architectural Analytics Tools”</strong>:</p>
+
+<p><br /></p>
+<h3 id="example-4-leveraging-generative-ai">Example 4: Leveraging Generative AI</h3>
+
+<p>Once you’ve built a solid foundation of <strong>curated, up-to-date, and accessible data</strong>, a whole new layer of value becomes available through <strong>generative AI tools</strong> such as ChatGPT, Gemini, or open-source LLMs. These tools can act as intelligent companions for architectural work, transforming your data into <strong>interactive conversations</strong>.</p>
+
+<p>Instead of static dashboards or one-off reports, you can now ask natural-language questions like:</p>
+
+<ul>
+  <li>“What teams are committing most to legacy systems?”</li>
+  <li>“Which services have the highest cost-to-vibrancy ratio?”</li>
+  <li>“Can you cluster microservices based on team ownership and code activity?”</li>
+  <li>“What are some anomalies in our incident frequency over the past 90 days?”</li>
+</ul>
+
+<p>This approach works <em>only</em> when data is already available, curated, and reasonably structured. That’s why <strong>Lightweight Architectural Analytics</strong> is such a critical enabler—it ensures that the <strong>fuel for AI analysis</strong> is already there.</p>
+
+<p>Some practical applications of this integration include:</p>
+
+<ul>
+  <li>
+    <p><strong>Additional Source Code Insights</strong>: Upload commit logs or Sokrates reports and prompt AI with questions about team dynamics, code complexity, or deployment patterns.</p>
+  </li>
+  <li>
+    <p><strong>Exploring Cloud Usage and Cost Optimization</strong>: Share public cloud billing exports and ask the AI to identify trends, inefficiencies, or underutilized services.</p>
+  </li>
+  <li>
+    <p><strong>Incident Pattern Analysis</strong>: Feed in incident ticket logs and ask for root cause patterns, recurring services, or teams with frequent incident ownership.</p>
+  </li>
+  <li>
+    <p><strong>Business Metrics Exploration</strong>: Ask the AI to find correlations between system vibrancy and cloud costs, or between system uptime and team size.</p>
+  </li>
+  <li>
+    <p><strong>Communication Trends</strong>: Analyze Slack activity logs to find dominant discussion themes or cross-team communication patterns.</p>
+  </li>
+</ul>
+
+<p>In <a href="gen-ai-prompts">the appendix</a>, you’ll find <strong>example prompts</strong> and <strong>sample curated datasets</strong> you can upload or use as inspiration to get started.</p>
+
+<p>Generative AI doesn’t replace the need for good architectural judgment—but it <strong>amplifies it</strong>, by giving you fast feedback, exploratory analysis, and sometimes even fresh angles you might not have considered.</p>
+
+<p>Interestingly, prompts themselves are more than just one-time queries—they can evolve into a <strong>formal, reusable description of typical architectural tasks</strong>. By writing and refining prompts, architects essentially codify their thought process and decision-making patterns.</p>
+
+<p>Prompts become:</p>
+
+<ul>
+  <li>Lightweight, transparent documentation of analysis goals</li>
+  <li>A repeatable way to “ask the same question” of new data</li>
+  <li>A way to share architectural thinking across teams and roles</li>
+  <li>A medium to teach junior team members how to approach common problems</li>
+</ul>
+
+<p>You can think of prompts as <em>scripts for architectural sensemaking.</em></p>
+
 <p><br /></p>
 <h2 id="requirements-for-a-lightweight-architectural-analytics">Requirements For A Lightweight Architectural Analytics</h2>
 
@@ -757,6 +814,11 @@ The good news is that <strong>big organizations have lots of data</strong> that,
 <h2 id="using-lightweight-architectural-analytics">Using Lightweight Architectural Analytics</h2>
 
 <p>Lightweight Architectural Analytics can churn out data by the bucketful. Think of it like an atlas or a map—it’s great for finding your bearings and understanding the lay of the land. But, with the <strong>right mindset,</strong> you can turn that data into a treasure trove of insights.</p>
+
+<p><img src="assets/images/istock/iStock-2166193783.jpg" alt="" /></p>
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/cofotoisme">cofotoisme</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
+</div>
 
 <p>Interpreting and using data requires a bit of effort—think of it as a <strong>detective game</strong> where the data holds the answers, but you need to come armed with the right questions. Here are some of the questions you should ask when you’ve got a pile of data at your fingertips:</p>
 

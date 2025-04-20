@@ -2,7 +2,7 @@
 layout: post
 section: "Appendix 3: Pragmatic Knowledge Resources"
 title: "High Performing Technology Organizations"
-position: 12126
+position: 12120
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 permalink: high-performing-organizations
