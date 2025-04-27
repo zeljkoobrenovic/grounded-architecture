@@ -11,7 +11,7 @@ timetoread: 15 min
 excerpt: "The brief podcast style generated dialogs summarizing each book chapter."
 
 ---
-<img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/istock/istockphoto-1409652094-1024x1024.jpg">
+<img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/istock/iStock-1409652094.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/gorodenkoff">gorodenkoff</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
