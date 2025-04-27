@@ -1,0 +1,1 @@
+ffmpeg -i input.wav output.mp3
