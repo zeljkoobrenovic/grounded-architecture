@@ -4,6 +4,7 @@ section: "Introduction"
 title: "Introduction"
 position: 1001
 podcast: intro.mp3
+spotify: https://open.spotify.com/episode/5SSpNetZevRe4h0NCig9cJ?si=03cdce5ef5094958
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 permalink: intro

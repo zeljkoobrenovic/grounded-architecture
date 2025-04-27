@@ -4,6 +4,7 @@ title: "Context: Fast-Moving Global Organizations"
 section: "Introduction"
 position: 1002
 podcast: context-and-goals.mp3
+spotify: https://open.spotify.com/episode/6zqsjQMnHMU6W06V4o2w9q?si=9e71085abda64e8b
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 permalink: context

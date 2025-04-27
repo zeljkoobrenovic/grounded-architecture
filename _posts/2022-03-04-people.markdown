@@ -4,6 +4,7 @@ section: "Grounded Architecture Framework"
 title: "Collaborative Networks"
 position: 3005
 podcast: people.mp3
+spotify: https://open.spotify.com/episode/0CrTzVSl9QNfFSi92QgHpn?si=200873a5ba174bf2
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 permalink: people

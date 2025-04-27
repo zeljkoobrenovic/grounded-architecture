@@ -4,6 +4,7 @@ section: "Grounded Architecture Framework"
 title: "Operating Model: Nudge, Taxation, Mandates"
 position: 3011
 podcast: governance.mp3
+spotify: https://open.spotify.com/episode/2UTAYFVJoWRmvX5CvJsJST?si=83969e560b6c4886
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 icon: govern.png
