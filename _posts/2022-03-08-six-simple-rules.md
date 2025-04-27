@@ -3,6 +3,7 @@ layout: post
 section: "Grounded Architecture Framework"
 title: "Cooperation-Based Operating Model: Six Simple Rules"
 position: 3008
+podcast: six-simple-rules.mp3
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 icon: org-alignment.png

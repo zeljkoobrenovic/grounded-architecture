@@ -3,6 +3,7 @@ layout: post
 section: "Grounded Architecture Framework"
 title: "Operating Model: General Principles"
 position: 3006
+podcast: operating-model.mp3
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 permalink: operating-model

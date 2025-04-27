@@ -3,6 +3,7 @@ layout: post
 title: "Context: Fast-Moving Global Organizations"
 section: "Introduction"
 position: 1002
+podcast: context-and-goals.mp3
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 permalink: context

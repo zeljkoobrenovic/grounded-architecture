@@ -3,6 +3,7 @@ layout: post
 title: "Lightweight Architectural Analytics"
 section: "Grounded Architecture Framework"
 position: 3004
+podcast: analytics.mp3
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 permalink: analytics

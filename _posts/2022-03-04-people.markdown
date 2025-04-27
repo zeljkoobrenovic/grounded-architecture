@@ -3,6 +3,7 @@ layout: post
 section: "Grounded Architecture Framework"
 title: "Collaborative Networks"
 position: 3005
+podcast: people.mp3
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 permalink: people
