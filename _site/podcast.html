@@ -143,12 +143,14 @@ h3 {
                     title: "Introduction",
                     subtitle: "A summary of the <a href='intro'>introduction</a> chapter.",
                     file: "intro.mp3",
+                    spotify: "https://open.spotify.com/episode/5SSpNetZevRe4h0NCig9cJ?si=03cdce5ef5094958",
                     notebooklm: "https://notebooklm.google.com/notebook/9f3e8678-91a4-42e3-bcbc-d50b2190132b/audio"
                 },
                 {
                     title: "Context & Goals",
                     subtitle: "Summary of the <a href='context'>context</a> and <a href='goals'>goals</a> chapters.",
                     file: "context-and-goals.mp3",
+                    spotify: "https://open.spotify.com/episode/6zqsjQMnHMU6W06V4o2w9q?si=9e71085abda64e8b",
                     notebooklm: "https://notebooklm.google.com/notebook/ecdd13d1-bc07-4381-8dc8-2ad4388989a4/audio" 
                 }
             ]
@@ -228,6 +230,11 @@ Listen on <a target="_blank" href="https://open.spotify.com/show/7lZFRV61H4oQ4uh
             html += '<audio controls src="/assets/podcast/' + episode.file + '"></audio>';
             html += '<a href="/assets/podcast/' + episode.file + '"><img src="assets/icons/download.png" title="download" style="vertical-align: top; width: 24px; padding-top: 14px; padding-left: 22px"></a>';
             html += '<a href="' + episode.notebooklm + '"><img src="assets/icons/notebooklm.png" title="NotebookLM" style="vertical-align: top; width: 34px; padding-top: 10px; padding-left: 12px"></a>';
+            if (episode.spotify) {
+                html += '<a href="' + episode.spotify + '" style="margin: 0; margin-left: 16px; ">';
+                html += '<img style="padding: 0; margin: 0; padding-top: 10px; width: 33px; vertical-align: top" title="Listen on Spotify" src="assets/icons/spotify.png">';
+                html += '</a>';
+            }
             html += '</figure>';
             html += '</td>';
             html += '</tr>';
