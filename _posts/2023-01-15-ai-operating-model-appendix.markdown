@@ -75,6 +75,8 @@ The true potential arises from converging these capabilities, such as using anal
 
 The practical value lies in applying GenAI capabilities to Grounded Architecture's elements.
 
+![](assets/images/figures/gen-ai-ga.png)
+
 ### GenAI in Lightweight Architectural Analytics:
 
 * **Data Gathering & Processing:** Automate extraction, parsing, summarization from sources like code analysis, cloud bills, tickets, docs<sup>2</sup>. RAG can help query scattered info.<sup>28</sup>
@@ -218,7 +220,7 @@ Grounded Architecture's principles (data-driven, collaborative networks, pragmat
 <br>
 ## The Evolving Landscape: Future of GenAI in Enterprise Architecture
 
-* **Towards Real-Time, Augmented EA:** Shift from periodic documentation to dynamic, "living" EA<sup>5</sup>. AI agents monitor digital signals, updating models/graphs<sup>5</sup>. Architects become "augmented architects" using AI as "cognitive prosthetics" or "copilots" for real-time navigation and decision-making<sup>5</sup>. EA repository becomes an "operating system for change"<sup>5</sup>.
+* **Towards Real-Time, Augmented EA:** Shift from periodic documentation to dynamic, "living" EA<sup>5</sup>. AI agents monitor digital signals, updating models/graphs<sup>5</sup>. Architects become "augmented architects" using AI as "cognitive prosthetics" or "copilots" for real-time navigation and decision-making<sup>5</sup>. Lightweight Architecture Analytics as an EA repository becomes an "operating system for change"<sup>5</sup>.
 * **Rise of Agentic AI:** Systems with greater AI autonomy performing complex, multi-step tasks (reasoning, planning, tool use, learning) with minimal human input.<sup>82,63</sup> Potential EA uses: continuous governance checks<sup>5</sup>, proactive architectural drift detection/remediation, impact simulation, workflow optimization<sup>5</sup>. Possibility of "self-optimizing organizations".<sup>60</sup> Introduces new risks (control, security).<sup>63</sup>
 * **Digital Twins of Organizations (DTOs):** Dynamic, data-rich digital replicas of operations, processes, systems,<sup>60</sup> fueled by real-time data and AI/GenAI for simulation, prediction, "what-if" analysis.<sup>60</sup> Resonates with Grounded Architecture goal of complete, current understanding. Examples: BMW, UPS.<sup>49</sup>
 * **Increased Democratization and Collaboration:** Intuitive AI tools (NLP interfaces, auto-visualizations) make architectural insights accessible to broader stakeholders<sup>5</sup>. Chatbots querying EA repos<sup>5</sup> or AI reports<sup>26</sup> strengthen Grounded Architecture's Collaborative Networks.
