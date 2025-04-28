@@ -54,6 +54,7 @@ Image by <a href="https://pixabay.com/nl/users/nonbirinonko-3101900/?utm_source=
 <br>
 ## To Probe Further
 
+* [How People Are Really Using Gen AI in 2025](https://hbr.org/2025/04/how-people-are-really-using-gen-ai-in-2025)
 
 <br>
 ## Questions to Consider
