@@ -1,12 +1,12 @@
 ---
 layout: post
-section: "Grounded Architecture Framework"
-title: "Operating Model: Leveraging Generative AI"
-position: 3011
+section: "Grounded Architecture Framework: Generative AI"
+title: "Leveraging Generative AI: First Steps"
+position: 3021
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 icon: gen-ai.png
-permalink: leveraging-ai
+permalink: gen-ai
 timetoread: 15 min
 excerpt: "Generative AI, when used wisely and critically, can empower IT Architects to work faster, think deeper, and stay grounded in real-world needs—amplifying creativity, governance, and innovation without losing human judgment."
 
@@ -51,7 +51,7 @@ I've found that used wisely, AI fits perfectly into the **Grounded Architecture*
 In this chapter, I'll share how I use generative AI today: streamlining documentation, speeding up decision-making, improving design, supporting governance, fueling innovation, and even enhancing modeling. I'll keep it practical, grounded, and real—just as Grounded Architecture teaches us.
 
 
-In the [Appendix: Deep Dive: Generative AI Potential for IT Architecture](gen-ai-potential) you can find a more detailed overview of the potential of Generative AI for IT Architecture. In this chapter, I want to share my practical experiences and insights on how to leverage AI effectively in our field. 
+In the [Generative AI Potential for IT Architecture](gen-ai-potential) section you can find a more detailed overview of the potential of Generative AI for IT Architecture. In this chapter, I want to share my practical experiences and insights on how to leverage AI effectively in our field. 
 
 Let's dive in.
 
@@ -179,11 +179,6 @@ So, I treat AI like a junior partner: fast, smart, helpful, but always needing m
 Used this way, AI doesn't make architecture less important—it makes **good architecture even more valuable**. It frees me up to focus on tangible business outcomes, strategic design, and connecting systems to human needs.
 
 In short, just like Grounded Architecture, Generative AI helps me stay more **grounded**, more impactful, and (honestly) a lot more excited about the future of architecture.
-
-<br>
-## To Probe Further
-
-* [Appendix: Deep Dive: Generative AI Potential for IT Architecture](gen-ai-potential)
 
 <br>
 ## Questions to Consider
