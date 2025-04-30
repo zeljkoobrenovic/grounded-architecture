@@ -3,6 +3,7 @@ layout: post
 section: "On Being Architect"
 title: "Making Impact"
 position: 6010
+podcast: impact.mp3
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 permalink: impact

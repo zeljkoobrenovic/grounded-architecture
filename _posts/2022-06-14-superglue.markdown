@@ -3,6 +3,7 @@ layout: post
 section: "On Being Architect"
 title: "Thinking Like an Architect: Architects as Superglue"
 position: 6014
+podcast: superglue.mp3
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 permalink: superglue

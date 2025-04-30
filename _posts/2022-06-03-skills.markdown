@@ -3,6 +3,7 @@ layout: post
 section: "On Being Architect"
 title: "Building Skills"
 position: 6003
+podcast: skills.mp3
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 permalink: skills

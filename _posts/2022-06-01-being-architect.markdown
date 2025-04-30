@@ -6,6 +6,7 @@ position: 6000
 date: 2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 permalink: being-architect
+podcast: being-architect.mp3
 icon: principles.png
 timetoread: 15 min
 excerpt: "I introduce guiding principles that generalize my view on what it means to be an architect in practice."
