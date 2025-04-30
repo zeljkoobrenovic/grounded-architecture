@@ -37,12 +37,31 @@ layout: default
         <div style="margin-bottom: 4px; margin-top: 10px">{{ page.section }}</div>
         {%- endif -%}
         <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+        <table style="border: none">
+        <tr>
+        <td style="padding: 0; border: none">
         <p class="post-meta">
             {%- if page.author -%}
             <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card"
                                                                                         itemprop="name">{{ page.author | escape }}</span></span>
             {%- endif -%}
         </p>
+        </td>
+        <td style="padding: 0; border: none; text-align: right">
+        {%- if page.spotify -%}
+        <a href="{{ page.spotify }}" style="margin: 0; margin-left: 16px;" target="_blank">
+            <img style="padding: 0; margin: 0; width: 34px; vertical-align: middle" title="Listen on Spotify" src="assets/icons/spotify.png">
+        </a>
+        {%- endif -%}
+        {%- if page.spotify2 -%}
+        <a href="{{ page.spotify2 }}" style="margin: 0; margin-left: 16px;" target="_blank">
+            <img style="padding: 0; margin: 0; width: 34px; vertical-align: middle" title="Listen on Spotify" src="assets/icons/spotify.png">
+        </a>
+        {%- endif -%}
+        </td>
+        </tr>
+        </table>
+
     </header>
 
     <div class="post-content e-content" itemprop="articleBody" style="font-size: 110%">
