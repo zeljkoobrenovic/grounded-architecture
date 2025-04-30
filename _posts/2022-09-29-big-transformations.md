@@ -3,6 +3,8 @@ layout: post
 section: "Expanding the Architect's Toolkit"
 title: "How Big Transformations Get Done: Learning From Mega-Projects"
 position: 9029
+podcast: big-transformations.mp3
+spotify: https://open.spotify.com/episode/4d80CL2AZQGSRCEZKmMcWH?si=84db4691f27445d2
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 icon: big-projects.png

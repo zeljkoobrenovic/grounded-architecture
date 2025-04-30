@@ -3,6 +3,8 @@ layout: post
 section: "On Strategy"
 title: "Connecting Marketing, Sales, and Customer Service Strategies"
 position: 8013
+podcast: marketing-sales-strategy.mp3
+spotify: https://open.spotify.com/episode/3rydyBBckD2BmhvQsgIfDJ?si=HzM9hnNYTgOM377-T9KwGw
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 icon: marketing-sales-customer-support.png

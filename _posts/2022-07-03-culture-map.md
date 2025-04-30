@@ -3,6 +3,9 @@ layout: post
 section: "On Human Complexity"
 title: "The Culture Map: Architects' Culture Compass"
 position: 7003
+podcast: culture-map-confrontational.mp3
+spotify: https://open.spotify.com/episode/5DNNUjMolzJz5hvw2o6JH3?si=E63LplSPT8y5GTGVwHKoKw
+spotify2: https://open.spotify.com/episode/7AqRd8JM5s2xwzSOCJSuKb?si=cL61lm-mTnOmO4JoudPAXQ
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 icon: culture.png

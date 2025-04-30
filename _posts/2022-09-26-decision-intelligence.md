@@ -3,6 +3,8 @@ layout: post
 section: "Expanding the Architect's Toolkit"
 title: "Decision Intelligence in IT Architecture: Learning From Data, Social, and Managerial Fields"
 position: 9026
+podcast: decision-intelligence.mp3
+spotify: https://open.spotify.com/episode/5yz8glpHVNYA4qJXH8tFh1?si=968-czNVQiC_lvPIGGaR6w
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 icon: decision.png

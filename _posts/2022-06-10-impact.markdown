@@ -4,6 +4,7 @@ section: "On Being Architect"
 title: "Making Impact"
 position: 6010
 podcast: impact.mp3
+spotify: https://open.spotify.com/episode/3IcKdwPbkfPX0ZqSfREwb4?si=diPB2DuYR0Gb1uaOjB7hmQ
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 permalink: impact

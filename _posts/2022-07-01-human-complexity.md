@@ -3,6 +3,8 @@ layout: post
 section: "On Human Complexity"
 title: "On Human Complexity: Introduction"
 position: 7001
+podcast: culture-map.mp3
+spotify: https://open.spotify.com/episode/1QGRyF9eHOcOftpbaZm6Wv?si=Zb5dTbDiQLOKpIvvPnao1Q
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 icon: complexity.png

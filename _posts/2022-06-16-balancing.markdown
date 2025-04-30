@@ -4,6 +4,7 @@ section: "On Being Architect"
 title: "Thinking Like an Architect: Balancing Curiosity, Doubt, Vision, and Skepticism"
 position: 6016
 podcast: balancing.mp3
+spotify: https://open.spotify.com/episode/1VY8J9LhSPjQvbHCkN2y7I?si=sEFc9RHLSt6ObyxW8CnbgA
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 permalink: balancing

@@ -3,6 +3,8 @@ layout: post
 section: "Expanding the Architect's Toolkit"
 title: "Expanding the Architect's Toolkit: Learning From Other Fields"
 position: 9020
+podcast: expanding-toolkit.mp3
+spotify: https://open.spotify.com/episode/5JZ6E0FcillI4mCoK2aymu?si=YWPiwzZGSna6nX7Ppr--Qg
 date: 2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 permalink: expanding-toolkit

@@ -3,6 +3,8 @@ layout: post
 section: "On Human Complexity"
 title: "The Human Side of Decision-Making"
 position: 7013
+podcast: human-decisions.mp3
+spotify: https://open.spotify.com/episode/0wPe0d2uCDGOwjLdFvfLpG?si=k9P84u3oRtC5tA0WjcvPtQ
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 icon: human-side.png

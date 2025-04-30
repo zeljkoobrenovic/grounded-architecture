@@ -3,6 +3,8 @@ layout: post
 section: "On Strategy"
 title: "Outsourcing Strategies"
 position: 8005
+podcast: outsourcing.mp3
+spotify: https://open.spotify.com/episode/32vfl26QpLOVM9bAFrPkQe?si=R8TDIEIBQh2ZjCA67fIqaQ
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 icon: outsourcing.png

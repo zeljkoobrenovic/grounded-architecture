@@ -3,6 +3,8 @@ layout: post
 section: "Expanding the Architect's Toolkit"
 title: "Economic Modeling With ROI and Financial Options: Learning From the Finance Field"
 position: 9021
+podcast: economics.mp3
+spotify: https://open.spotify.com/episode/1bUhfia9TkwvVKEBJLdzhp?si=F5aXU59GTImA89dJHeQKqg
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 icon: economics.png

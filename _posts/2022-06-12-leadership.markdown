@@ -4,6 +4,7 @@ section: "On Being Architect"
 title: "Leadership Traits"
 position: 6012
 podcast: leadership.mp3
+spotify: https://open.spotify.com/episode/2tlTR5giWoHFjG7pRUCD0p?si=HQPhu78zRX2idM9twzfHdw
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 permalink: leadership

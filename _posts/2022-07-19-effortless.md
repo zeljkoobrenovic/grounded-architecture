@@ -3,6 +3,8 @@ layout: post
 section: "On Human Complexity"
 title: "Effortless Architecture"
 position: 7019
+podcast: effortless.mp3
+spotify: https://open.spotify.com/episode/1H824sdiV7Ju2ZncaCHzIR?si=CSFjbLLTTryC_-70BymmMw
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 icon: effortless.png

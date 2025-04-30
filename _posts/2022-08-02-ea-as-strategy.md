@@ -3,6 +3,8 @@ layout: post
 section: "On Strategy"
 title: "Enterprise Architecture as Strategy"
 position: 8002
+podcast: ea-as-strategy.mp3
+spotify: https://open.spotify.com/episode/2vnGmCiZUSR6WRH76hknGv?si=KCcx0PGVQTKtRqIkB-4bGQ
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 icon: ea-strategy.png

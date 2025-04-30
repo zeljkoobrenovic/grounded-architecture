@@ -3,10 +3,11 @@ layout: post
 section: "On Being Architect"
 title: "On Being Architect: Introduction"
 position: 6000
+podcast: being-architect.mp3
+spotify: https://open.spotify.com/episode/0kS3XyLgOoQgjx4wsyfif1?si=hHV8N6DpS5G10ir7PE9YaQ
 date: 2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 permalink: being-architect
-podcast: being-architect.mp3
 icon: principles.png
 timetoread: 15 min
 excerpt: "I introduce guiding principles that generalize my view on what it means to be an architect in practice."

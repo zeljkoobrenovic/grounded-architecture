@@ -3,6 +3,8 @@ layout: post
 section: "On Strategy"
 title: "On Strategy"
 position: 8001
+podcast: strategy.mp3
+spotify: https://open.spotify.com/episode/5ibFMUv68hrYOOnKOSaCv5?si=T4a-D4_qTh2lIPkLBClTnw
 date: 2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 permalink: strategy
