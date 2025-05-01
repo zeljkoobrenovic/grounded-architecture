@@ -1,1 +1,1 @@
-ffmpeg -i input.wav output.mp3
+ffmpeg -i input.wav originals/output.mp3

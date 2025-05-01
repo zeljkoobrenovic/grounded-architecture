@@ -105,14 +105,14 @@ layout: default
                                 {%- if post.podcast -%}
                                 <td style="height: 12px; border: none; width: 100px; padding: 6px 0 0 14px;background-color: white; vertical-align: middle">
                                     <figure style="margin: 0; padding: 0">
-                                        <audio controls src="/assets/podcast/{{ post.podcast }}" style="margin: 0; padding: 0"></audio>
+                                        <audio controls src="/assets/podcast/production/{{ post.podcast }}" style="margin: 0; padding: 0"></audio>
                                     </figure>
                                 </td>
                                 {%- endif -%}
                                 {%- if post.spotify -%}
                                 <td style="height: 12px; border: none; text-align: left; padding: 0; background-color: white">
-                                    <a href="{{ post.spotify }}" style="margin: 0; margin-left: 16px; ">
-                                        <img style="padding: 0; margin: 0; width: 34px; vertical-align: middle; filter: grayscale(100%)" title="Listen on Spotify" src="assets/icons/spotify.png">
+                                    <a href="{{ post.spotify }}" target="_blank" style="margin: 0; margin-left: 16px; ">
+                                        <img style="padding: 0; margin: 0; width: 34px; vertical-align: middle" title="Listen on Spotify" src="assets/icons/spotify.png">
                                     </a>
                                 </td>
                                 {%- endif -%}
