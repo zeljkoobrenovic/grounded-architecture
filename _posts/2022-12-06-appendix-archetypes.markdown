@@ -3,6 +3,8 @@ layout: post
 section: "Appendix 2: Tools for Developing Soft Skills"
 title: "Architect Archetypes"
 position: 12106
+podcast: archetypes.mp3
+spotify: https://open.spotify.com/episode/1GigfcjM5twnYEYp20GAz0?si=45b4f18ae7864260
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 permalink: archetypes

@@ -87,37 +87,25 @@ layout: default
                             </a>
                         </h3>
                         <i>{{ post.excerpt }}</i>
-                        <table style="border: none; margin-top: -10px; margin-left: -10px; margin-bottom: 0px; padding: 0">
+                        {%- if post.podcast -%}
+                        <table style="border: none; padding: 0; margin-top: 14px">
                             <tr>
-                                {%- if post.podcast -%}
-                                <td style="height: 12px; border: none; width: 100px; padding: 0; padding-left: 14px; background-color: white">
-                                    <a href="podcast" style="color: #a0a0a0; font-size: 70%; margin-left: 10px; margin-top: 0px; padding: 0">
-                                        <div style="">tldr podcast:</div>
-                                    </a>
-                                </td>
-                                {%- endif -%}
-                                {%- if post.spotify -%}
-                                <td style="height: 12px; border: none; text-align: left; padding: 0px;">
-                                </td>
-                                {%- endif -%}
-                            </tr>
-                            <tr>
-                                {%- if post.podcast -%}
-                                <td style="height: 12px; border: none; width: 100px; padding: 6px 0 0 14px;background-color: white; vertical-align: middle">
-                                    <figure style="margin: 0; padding: 0">
-                                        <audio controls src="/assets/podcast/production/{{ post.podcast }}" style="margin: 0; padding: 0"></audio>
-                                    </figure>
-                                </td>
-                                {%- endif -%}
-                                {%- if post.spotify -%}
-                                <td style="height: 12px; border: none; text-align: left; padding: 0; background-color: white">
-                                    <a href="{{ post.spotify }}" target="_blank" style="margin: 0; margin-left: 16px; ">
+                                <td style="height: 12px; border: none; width: 100px; padding: 0; background-color: white; font-size: 80%; color: darkgrey">
+                                    {%- if post.podcast -%}
+                                    <a href="{{ post.spotify }}" target="_blank" style="margin: 0; text-decoration: none">
                                         <img style="padding: 0; margin: 0; width: 34px; vertical-align: middle" title="Listen on Spotify" src="assets/icons/spotify.png">
                                     </a>
+                                    {%- endif -%}
+                                    {%- if post.spotify2 -%}
+                                    <a href="{{ post.spotify2 }}" style="margin: 0; margin-left: 6px; text-decoration: none;" target="_blank">
+                                        <img style="padding: 0; margin: 0; width: 34px; vertical-align: middle" title="Listen on Spotify" src="assets/icons/spotify.png">
+                                    </a>
+                                    {%- endif -%}
+                                    TL;DR on Spotify
                                 </td>
-                                {%- endif -%}
                             </tr>
                         </table>
+                        {%- endif -%}
 
                     </td>
                 </tr>

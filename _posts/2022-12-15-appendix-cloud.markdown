@@ -3,6 +3,8 @@ layout: post
 section: "Appendix 3: Pragmatic Knowledge Resources"
 title: "Cloud Design Patterns"
 position: 12115
+podcast: cloud-design-patterns.mp3
+spotify: https://open.spotify.com/episode/7oEv067ot97RKn6octRks8?si=53b5d55cdd7248ba
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 permalink: cloud-design-patterns

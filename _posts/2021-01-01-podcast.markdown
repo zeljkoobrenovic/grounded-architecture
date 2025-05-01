@@ -379,77 +379,77 @@ h3 {
                     subtitle: "A summary of the <a href='communication'>Effective Communication</a> appendix.",
                     file: "communication.mp3",
                     notebooklm: "https://notebooklm.google.com/notebook/b4e7492f-3dd4-4860-92de-a8fefad955bd/audio",
-                    spotify: ""
+                    spotify: "https://open.spotify.com/episode/0mpZVIDYld1lPPL9vZjN9Y?si=112619d0cc274b48"
                 },
                 {
                     title: "Working With Toxic Colleagues",
                     subtitle: "A summary of the <a href='toxic-colleagues'>Working With Toxic Colleagues</a> appendix.",
                     file: "toxic-colleagues.mp3",
                     notebooklm: "https://notebooklm.google.com/notebook/7aa68e15-536a-4bd2-9bd2-1489e4deee05/audio",
-                    spotify: ""
+                    spotify: "https://open.spotify.com/episode/2MoZuIChz4OxGvs1ykdTh5?si=ca85bc21caeb456c"
                 },
                 {
                     title: "Dealing With Scapegoating at Work",
                     subtitle: "A summary of the <a href='scapegoating'>Dealing With Scapegoating at Work</a> appendix.",
                     file: "scapegoating.mp3",
                     notebooklm: "https://notebooklm.google.com/notebook/933fc023-3a41-4cd9-9983-cb99e6806f7c/audio",
-                    spotify: ""
+                    spotify: "https://open.spotify.com/episode/7lsDGhQV81PwpcHCEKadRA?si=0eef02a3c3934517"
                 },
                 {
                     title: "ISO 25010 Standard",
                     subtitle: "A summary of the <a href='iso25010'>ISO 25010 Standard</a> appendix.",
                     file: "iso25010.mp3",
                     notebooklm: "https://notebooklm.google.com/notebook/d2e7c236-fb02-4200-b15e-d7b455aa6813/audio",
-                    spotify: ""
+                    spotify: "https://open.spotify.com/episode/1YxB9Mfw9uMHhoVvlWJIqA?si=6774817a2f974168"
                 },
                 {
                     title: "Cloud Design Patterns",
                     subtitle: "A summary of the <a href='cloud-design-patterns'>Cloud Design Patterns</a> appendix.",
                     file: "cloud-design-patterns.mp3",
                     notebooklm: "https://notebooklm.google.com/notebook/2fcee684-6a87-4ac6-af3c-35b6c9f3b746/audio",
-                    spotify: ""
+                    spotify: "https://open.spotify.com/episode/7oEv067ot97RKn6octRks8?si=53b5d55cdd7248ba"
                 },
                 {
                     title: "High Performing Technology Organizations",
                     subtitle: "A summary of the <a href='high-performing-organizations'>High Performing Technology Organizations</a> appendix.",
                     file: "high-performing-organizations.mp3",
                     notebooklm: "https://notebooklm.google.com/notebook/cd54def8-6f4d-484c-8c9c-f51fb6b7a888/audio",
-                    spotify: ""
+                    spotify: "https://open.spotify.com/episode/33IujE7DIOFxUBgm2s1i0i?si=8acb338a5945499b"
                 },
                 {
                     title: "Tools",
                     subtitle: "A summary of the <a href='tools'>Tools</a> appendix.",
                     file: "tools.mp3",
                     notebooklm: "https://notebooklm.google.com/notebook/c5229211-47b4-4495-ba04-35e456176a71/audio",
-                    spotify: ""
+                    spotify: "https://open.spotify.com/episode/7aMdcwV5z9Yu6bC78TGQ3v?si=e84208717f8a435c"
                 },
                 {
                     title: "Software Tools: Generative AI Prompts",
                     subtitle: "A summary of the <a href='gen-ai-prompts'>Software Tools: Generative AI Prompts</a> appendix.",
                     file: "gen-ai-prompts.mp3",
                     notebooklm: "https://notebooklm.google.com/notebook/e6124aaf-a7a4-46b7-b5f3-f3a32d32f038/audio",
-                    spotify: ""
+                    spotify: "https://open.spotify.com/episode/22MPFDRMsAwkvQWPkk26yq?si=24f3b0c2552f4808"
                 },
                 {
                     title: "Software Tools: Examples and Screenshots",
                     subtitle: "A summary of the <a href='screenshots'>Software Tools: Examples and Screenshots</a> appendix.",
                     file: "screenshots.mp3",
                     notebooklm: "https://notebooklm.google.com/notebook/992dd1f1-3853-489b-9723-73816ce37d31/audio",
-                    spotify: ""
+                    spotify: "https://open.spotify.com/episode/3tND5tAxmykSEfy1qBvcWI?si=a542fae45de54786"
                 },
                 {
                     title: "Building Lightweight Architectural Analytics",
                     subtitle: "A summary of the <a href='data-website'>Building Lightweight Architectural Analytics</a> appendix.",
                     file: "data-website.mp3",
                     notebooklm: "https://notebooklm.google.com/notebook/2e363673-013d-4e37-99b2-eb6c13229907/audio",
-                    spotify: ""
+                    spotify: "https://open.spotify.com/episode/6XNKQ45ofTHJtA3VEzY5n0?si=4d5786a282b64923"
                 },
                 {
                     title: "Cheat Sheet",
                     subtitle: "A summary of the <a href='cheat-sheet'>Cheat Sheet</a> appendix.",
                     file: "cheat-sheet.mp3",
                     notebooklm: "https://notebooklm.google.com/notebook/abc97529-acd7-49a7-8323-0f4053425f39/audio",
-                    spotify: ""
+                    spotify: "https://open.spotify.com/episode/2EYcBZbk0ZeTEHKewrMqdZ?si=e0809dcf6a1549b8"
                 }
             ]
         },
@@ -461,14 +461,14 @@ h3 {
                     subtitle: "A summary of the <a href='gen-ai'>Leveraging Generative AI: First Steps</a> introduction chapter.",
                     file: "gen-ai.mp3",
                     notebooklm: "https://notebooklm.google.com/notebook/8455aecd-bfa6-4c36-b429-51d74de165f5/audio",
-                    spotify: ""
+                    spotify: "https://open.spotify.com/episode/33yE0ngCoL8JVM4uACFPJ5?si=daa89a886b50485f"
                 },
                 {
                     title: "Leveraging The Full Potential of Generative AI for IT Architecture",
                     subtitle: "A summary of the <a href='gen-ai-potential'>Leveraging The Full Potential of Generative AI for IT Architecture</a> introduction chapter.",
                     file: "gen-ai-potential.mp3",
                     notebooklm: "https://notebooklm.google.com/notebook/e9b996bf-05ce-472c-9542-3f1a206d93c7/audio",
-                    spotify: ""
+                    spotify: "https://open.spotify.com/episode/6oOCYLSsbNxwSqzrXA9QPY?si=50eaff6ec4194d27"
                 }
             ]
         }

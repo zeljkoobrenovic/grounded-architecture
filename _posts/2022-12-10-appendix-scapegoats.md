@@ -3,6 +3,8 @@ layout: post
 section: "Appendix 2: Tools for Developing Soft Skills"
 title: "Dealing With Scapegoating at Work"
 position: 12110
+podcast: scapegoating.mp3
+spotify: https://open.spotify.com/episode/7lsDGhQV81PwpcHCEKadRA?si=0eef02a3c3934517
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 icon: scapegoat.png

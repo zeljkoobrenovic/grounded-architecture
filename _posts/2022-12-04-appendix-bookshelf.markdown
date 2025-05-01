@@ -3,6 +3,8 @@ layout: post
 section: "Appendix 1: Inspiration and Further Learning"
 title: "Bookshelf"
 position: 12104
+podcast: bookshelf.mp3
+spotify: https://open.spotify.com/episode/607hsZFa0M6GF9zkk4cGP9?si=5817598b69ab431c
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 permalink: bookshelf

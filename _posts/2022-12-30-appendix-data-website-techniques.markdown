@@ -3,6 +3,8 @@ layout: post
 section: "Appendix 4: Software Tools"
 title: "Building Lightweight Architectural Analytics"
 position: 12130
+podcast: data-website.mp3
+spotify: https://open.spotify.com/episode/6XNKQ45ofTHJtA3VEzY5n0?si=4d5786a282b64923
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 permalink: data-website

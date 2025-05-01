@@ -3,6 +3,8 @@ layout: post
 section: "Grounded Architecture Framework: Generative AI"
 title: "Leveraging The Full Potential of Generative AI for IT Architecture"
 position: 3022
+podcast: gen-ai-potential.mp3
+spotify: https://open.spotify.com/episode/6oOCYLSsbNxwSqzrXA9QPY?si=50eaff6ec4194d27
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 icon: ai.png

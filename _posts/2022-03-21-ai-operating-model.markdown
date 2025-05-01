@@ -3,6 +3,8 @@ layout: post
 section: "Grounded Architecture Framework: Generative AI"
 title: "Leveraging Generative AI: First Steps"
 position: 3021
+podcast: gen-ai.mp3
+spotify: https://open.spotify.com/episode/33yE0ngCoL8JVM4uACFPJ5?si=daa89a886b50485f
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 icon: gen-ai.png

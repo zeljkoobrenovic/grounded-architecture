@@ -3,6 +3,8 @@ layout: post
 section: "Appendix 2: Tools for Developing Soft Skills"
 title: "Working With Toxic Colleagues"
 position: 12109
+podcast: toxic-colleagues.mp3
+spotify: https://open.spotify.com/episode/2MoZuIChz4OxGvs1ykdTh5?si=ca85bc21caeb456c
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 icon: toxic-person.png

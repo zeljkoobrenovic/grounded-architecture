@@ -3,6 +3,8 @@ layout: post
 section: "Summary"
 title: "To Probe Further: Online Appendix Overview"
 position: 12102
+podcast: appendix.mp3
+spotify: https://open.spotify.com/episode/401cuHiQ5c7wa1N24a7m6G?si=b4c7426accad40f2
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 permalink: appendix

@@ -3,6 +3,8 @@ layout: post
 section: "Appendix 4: Software Tools"
 title: "Software Tools: Examples and Screenshots"
 position: 12129
+podcast: screenshots.mp3
+spotify: https://open.spotify.com/episode/3tND5tAxmykSEfy1qBvcWI?si=a542fae45de54786
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 permalink: screenshots

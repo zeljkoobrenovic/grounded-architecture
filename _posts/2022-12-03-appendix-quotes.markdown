@@ -3,6 +3,8 @@ layout: post
 section: "Appendix 1: Inspiration and Further Learning"
 title: "Favorite Quotes"
 position: 12103
+podcast: quotes.mp3
+spotify: https://open.spotify.com/episode/77RnOgJ3BVeHznzFLPwLw0?si=9cf32a54569a44db
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 permalink: quotes

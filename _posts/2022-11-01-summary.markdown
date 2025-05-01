@@ -3,6 +3,8 @@ layout: post
 section: "Summary"
 title: "Summary"
 position: 11000
+podcast: summary.mp3
+spotify: https://open.spotify.com/episode/0x0D6xL5JrDFnrOZbHaaKw?si=a8969b9f2f854ba6
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 permalink: summary

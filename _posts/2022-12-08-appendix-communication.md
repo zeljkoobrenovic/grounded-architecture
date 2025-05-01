@@ -3,6 +3,8 @@ layout: post
 section: "Appendix 2: Tools for Developing Soft Skills"
 title: "Effective Communication"
 position: 12108
+podcast: communication.mp3
+spotify: https://open.spotify.com/episode/0mpZVIDYld1lPPL9vZjN9Y?si=112619d0cc274b48
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 icon: communication.png

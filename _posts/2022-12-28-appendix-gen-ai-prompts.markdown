@@ -3,6 +3,8 @@ layout: post
 section: "Appendix 4: Software Tools"
 title: "Software Tools: Generative AI Prompts"
 position: 12128
+podcast: gen-ai-prompts.mp3
+spotify: https://open.spotify.com/episode/22MPFDRMsAwkvQWPkk26yq?si=24f3b0c2552f4808
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 permalink: gen-ai-prompts
