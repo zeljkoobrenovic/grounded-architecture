@@ -1,8 +1,8 @@
 ---
 layout: post
-section: "Grounded Architecture Framework: Generative AI"
-title: "Leveraging The Full Potential of Generative AI for IT Architecture"
-position: 3022
+section: "Grounded Architecture Framework"
+title: "Operating Model: Leveraging The Full Potential of Generative AI for IT Architecture"
+position: 3010
 podcast: gen-ai-potential.mp3
 spotify: https://open.spotify.com/episode/6oOCYLSsbNxwSqzrXA9QPY?si=50eaff6ec4194d27
 date:   2021-10-21 21:12:01 +0100
@@ -10,7 +10,7 @@ author: by Željko Obrenović (obren.io)
 icon: ai.png
 permalink: gen-ai-potential
 timetoread: 15 min
-excerpt: "You can responsibly leverage Generative AI as a powerful augmentation tool to enhance efficiency, data-driven insights, and collaboration, provided you proactively manage its inherent risks and maintain critical human oversight"
+excerpt: "You can responsibly leverage Generative AI as a powerful augmentation tool to enhance efficiency, data-driven insights, and collaboration, provided you proactively manage its inherent risks and maintain critical human oversight."
 
 ---
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover"
@@ -45,13 +45,13 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Lemon
 </style>
 
 <br>
-In the previous section, I described my first experiences in using Generative AI in my daily work. But technology landscape is rapidly changing. This report examines in-depth how GenAI intersects with IT Architecture and the Grounded Architecture framework.
+In this section I examine in-depth how GenAI intersects with IT Architecture and the Grounded Architecture framework.
 
 Generative AI advanced models can create text, code, images, and complex designs, and they are moving from experimental use to real-world applications, reshaping industries and business operations.<sup>1</sup> In particular, GenAI has the potential to significantly impact IT and Enterprise Architecture (EA).<sup>5</sup> Traditionally, architects have struggled to manage fast-changing businesses with slow, fragmented, and static tools.<sup>5</sup> GenAI offers a chance to enhance architecture work, automate tedious tasks, and support faster, data-driven decisions.
 
-Using GenAI without a clear framework could increase complexity or create new problems. The Grounded Architecture approach is especially well-suited to harness GenAI’s power while managing risks. This report provides IT and Enterprise Architects with a practical guide to integrating GenAI into the Grounded Architecture framework. It covers GenAI capabilities, key integration points, use cases, potential benefits and challenges, best practices for responsible use, and emerging trends. The goal is to help architects use GenAI not just as a tool, but as a strategic advantage within a principled architectural practice.
+Using GenAI without a clear framework could increase complexity or create new problems. The Grounded Architecture approach is especially well-suited to harness GenAI’s power while managing risks. This section provides IT and Enterprise Architects with a practical guide to integrating GenAI into the Grounded Architecture framework. It covers GenAI capabilities, key integration points, use cases, potential benefits and challenges, best practices for responsible use, and emerging trends. The goal is to help architects use GenAI not just as a tool, but as a strategic advantage within a principled architectural practice.
 
-I drafted this report with the support of the Gemini 2.5 Deep Research chatbot.
+I drafted this report with the support of the Gemini Deep Research chatbot, improved it with ChatGPT and Grammarly, and extensively manually edited it.
 
 <br>
 

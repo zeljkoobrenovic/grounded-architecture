@@ -60,10 +60,12 @@ Grounded Architecture framework is an approach to setting organizational structu
 
 *Collaborative Networks* **connect all the people** doing architecture across the organization. Thse networks are crucial to ensure that an architecture practice has any **tangible impact**. The [Collaborative Networks section](people) provides more details.
 
-Lastly, the *Operating Model* defines:
+Lastly, the *Operating Model* introduces:
 * **[General Principles](operating-model)**: I've defined several **general guidelines** on directing architects to do everything an architecture practice typically does, leveraging Lightweight Architectural Analytics and Collaborative Networks to create a data-informed, organization-wide impact.
 
 * **[Cooperation-Based Operating Model: Six Simple Rules](six-simple-rules)**: Grounded Architecture is particularly well-suited for organizations organized based on cooperation. As businesses grow increasingly complex, the importance of cooperation within organizational structures cannot be overstated. The "Six Simple Rules" framework emphasizes that successful organizations leverage their members' collective judgment and cooperation. By fostering a culture of collaboration, organizations can better utilize their capabilities to address and resolve complex problems.
+
+* **[Leveraging The Full Potential of Generative AI for IT Architecture](gen-ai-potential)**: You can responsibly leverage Generative AI as a powerful augmentation tool to enhance efficiency, data-driven insights, and collaboration, provided you proactively manage its inherent risks and maintain critical human oversight
 
 * **[IT Governance: Nudge, Taxation, Mandates](governance)**: Governance in technology is a critical aspect of any operating model. I propose a governance model incorporating three styles: nudging, taxation, and mandates. Nudging involves subtle policy shifts that guide behavior without restricting choices, while taxation uses economic incentives to encourage desired outcomes. Mandates and bans provide direct regulations to ensure compliance and standardization. This multifaceted approach allows for flexible and effective governance, balancing innovation with control and ensuring technological initiatives align with broader organizational goals.
 

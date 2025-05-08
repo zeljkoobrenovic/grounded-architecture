@@ -1,0 +1,13 @@
+End User Monitoring = when you find out about operational issues from your end users
+
+Strategic = over-engineered without any immediate business value
+
+Reusable = designed to be widely used, but isn't
+
+Aligned = everyone has a different view, but stopped arguing
+
+Low-Code/No-Code: Democratizing creation of tech debt faster
+
+Vibe Coding: An order of magnitude faster way to create tech debt
+
+ITSM (IT Service Management) = No one gets any resource without filling out an arduous form

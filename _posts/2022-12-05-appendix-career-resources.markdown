@@ -219,6 +219,75 @@ For senior positions, I typically introduce an additional step of meeting senior
 
 With the described steps, you can get a solid overview of all critical aspects of superglue architects. In particular, the involvement of people outside architecture or engineering is crucial to minimize risk related to a lack of interest and ability to engage with all relevant stakeholders.
 
+Certainly—here’s the revised version of the **"Onboarding Architects"** section, now including the crucial role of the **Chief Architect**, especially for senior hires:
+
+<br>
+## Onboarding Architects: An Overlooked Yet Critical Step
+
+While many organizations invest significant time and effort into hiring IT architects, **onboarding often remains an underdeveloped and vaguely defined process**. This oversight can undermine the entire hiring effort, as newly hired architects are left to figure out the organization’s culture, systems, and expectations largely on their own. In the context of **Grounded Architecture**, this represents a major gap between strategic intent and operational execution.
+
+Too often, onboarding for architects consists of a few orientation meetings, access to documentation, and introductions to stakeholders—without clear guidance on how to operate within the company’s unique architectural ecosystem. As a result, architects may spend weeks—or even months—**working inefficiently, misaligned with key priorities**, and missing critical context. This can lead to frustration, lost momentum, and a delay in realizing their full impact.
+
+### Designing a Strong Onboarding Experience
+
+An effective onboarding process for architects should be deliberate, structured, and aligned with the company’s architectural vision and culture. Here are key elements that can make onboarding more successful:
+
+#### 1. **Assign a Buddy Architect**
+
+Pairing the new hire with an experienced architect who can provide guidance, context, and historical background helps reduce the learning curve. This “buddy” acts as a translator of both technical practices and organizational dynamics.
+
+Here’s the updated **"Create an Architecture Playbook"** section with the added point about direct access to relevant data, including a reference to *Lightweight Architecture Analytics* from the Grounded Architecture initiative:
+
+#### 2. **Create an Architecture Playbook**
+
+Provide a concise document or portal that outlines:
+
+* Architectural principles and decision-making processes
+* Current state and strategic roadmap
+* Key systems and integrations
+* Team roles and responsibilities
+* **Direct access to relevant data** – such as dashboards, metrics, and architecture signals. For example, tools like [*Lightweight Architecture Analytics*](https://grounded-architecture.io/analytics) can offer valuable insights into architectural trends, code dependencies, and decision-making patterns across the organization.
+
+This playbook reduces ambiguity, accelerates alignment, and ensures that new architects can operate based on evidence rather than assumptions.
+
+This reduces ambiguity and accelerates alignment.
+
+#### 3. **Early Immersion in Real Work**
+
+Engage new architects in meaningful work within their first two weeks. Shadowing active projects, participating in architecture reviews, or analyzing an existing solution can provide critical real-world exposure and surface hidden assumptions.
+
+#### 4. **Set 30-60-90 Day Goals**
+
+Help the architect build momentum by defining clear, time-bound objectives:
+
+* **First 30 days**: Understand organizational goals, culture, and architecture frameworks
+* **60 days**: Contribute to small improvements or analyses
+* **90 days**: Lead a design review or produce a proposal with meaningful stakeholder input
+
+#### 5. **Include Cross-Functional Introductions**
+
+Because architects operate across domains, introduce them to engineering, product, infrastructure, security, and business leaders early on. Establishing these relationships is key to long-term influence and effectiveness.
+
+#### 6. **Ensure Active Chief Architect Involvement for Senior Roles**
+
+For senior architect positions, **daily involvement from the Chief Architect is critical during the initial onboarding phase**. These roles often require deep engagement in strategy, alignment with high-level initiatives, and an understanding of organizational nuance. A Chief Architect can:
+
+* Provide direct mentoring and feedback
+* Accelerate integration into decision-making forums
+* Clarify priorities and unspoken norms
+* Help prevent missteps that could impact architecture at scale
+
+This kind of **high-touch onboarding is essential for setting senior architects up for success** and ensuring they can begin to contribute strategically from day one.
+
+#### 7. **Encourage Career Conversations Early**
+
+Following the principles of Radical Candor, initiate career conversations even during onboarding. Understanding the architect’s motivations and aspirations helps tailor the onboarding experience and sets the tone for a long-term growth journey.
+
+<br>
+
+**By formalizing onboarding with the same care and rigor used in hiring**, and ensuring strong support from senior leadership, companies can empower architects to contribute effectively, build trust quickly, and align their work with strategic outcomes. In doing so, organizations uphold the spirit of Grounded Architecture—making decisions based on deep context, collaborative alignment, and purposeful intent.
+
+
 <br>
 ## To Probe Further
 
