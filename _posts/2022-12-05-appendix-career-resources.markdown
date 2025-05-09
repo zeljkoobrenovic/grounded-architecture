@@ -3,11 +3,11 @@ layout: post
 section: "Appendix 2: Tools for Growing Architects"
 title: "Managing & Growing Architects"
 position: 12105
-podcast: career-resources.mp3
+podcast: growing.mp3
 spotify: https://open.spotify.com/episode/1rXU18LjsfUI62n0e365dy?si=9af1d564c5c445ae
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
-permalink: career-resources
+permalink: growing
 icon: career.png
 timetoread: 15 min
 excerpt: "A framework for managing and developing architects by combining honest feedback, personalized growth paths, and strategic alignment to foster high performance and team engagement."

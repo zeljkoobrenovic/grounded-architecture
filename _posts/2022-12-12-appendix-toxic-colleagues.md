@@ -1,6 +1,6 @@
 ---
 layout: post
-section: "Appendix 3: Tools for Developing Soft Skills"
+section: "Appendix 3: Navigating Workplace Dynamics"
 title: "Working With Toxic Colleagues"
 position: 12112
 podcast: toxic-colleagues.mp3

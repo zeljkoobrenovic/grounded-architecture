@@ -353,7 +353,7 @@ transactions, event logs, and much more.
 
 </table>
 
-## Soft Skills
+## Navigating Workplace Dynamics
 
 <table>
 <tr>

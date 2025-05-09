@@ -108,7 +108,7 @@ If all this is not enough, in the online appendix I outline several resources th
 
 * [Favorite Quotes](https://grounded-architecture.io/quotes)
 * [Bookshelf](https://grounded-architecture.io/bookshelf)
-* [Resources for Managing, Growing, and Hiring Architects](https://grounded-architecture.io/career-resources)
+* [Resources for Managing, Growing, and Hiring Architects](https://grounded-architecture.io/growing)
 * [Resources for Effective Communication](https://grounded-architecture.io/communication)
 * [Resources for Working With Toxic Colleagues](https://grounded-architecture.io/toxic-colleagues)
 * [Resources for Dealing With Scapegoating at Work](https://grounded-architecture.io/scapegoating)
@@ -261,7 +261,7 @@ I have organized the book into several main parts. In the introductory part, I d
 
 In the second part, I discuss the Grounded Architecture framework and describe its three elements: Lightweight Architectural Analytics, Collaborative Networks, and the Operating Model. 
 
-In the third part, I discuss the Guiding Principles of Grounded Architecture, grouped into several sub-parts: On Being an Architect, On Soft Skills, On Decision-Making, On Human Complexity, and On Execution and Governance. 
+In the third part, I discuss the Guiding Principles of Grounded Architecture, grouped into several sub-parts: On Being an Architect, On Human Complexity, On Strategy, and Expanding the Architect's Toolkit. 
 
 Finally, I conclude with a summary and encourage you to explore further with the help of the plentiful external resources I've provided.
 

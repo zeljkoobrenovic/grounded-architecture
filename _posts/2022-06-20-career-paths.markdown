@@ -52,7 +52,7 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/RichV
 <br>
 In any job, a **career path** is a sequence of jobs or roles that a person takes on throughout their professional life. It typically involves **progression** from entry-level positions to higher-level roles with increasing responsibilities and compensation. Career paths can be **linear,** with a clear upward trajectory, or **non-linear,** with lateral moves and changes in direction.
 
-In this section, I elaborate on possible career paths of architects. In the Appendix, you can also find additional [resources for managing, developing, and hiring architects](career-resources).
+In this section, I elaborate on possible career paths of architects. In the Appendix, you can also find additional [resources for managing, developing, and hiring architects](growing).
 
 
 <br>
@@ -142,7 +142,7 @@ Lastly, the transition from an architect to a tech leadership role is a natural 
 <br>
 ## To Probe Further
 
-* [Appendix: Resources for Managing, Growing, and Hiring Architects](career-resources)
+* [Appendix: Resources for Managing, Growing, and Hiring Architects](growing)
 * [Appendix: Architect Archetypes](archetypes)
 * [Software Architect Archetypes](https://newsletter.pragmaticengineer.com/p/software-architect-archetypes), by Gergely Orosz, 2023
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-section: "Appendix 3: Tools for Developing Soft Skills"
+section: "Appendix 3: Navigating Workplace Dynamics"
 title: "Dealing With Scapegoating at Work"
 position: 12113
 podcast: scapegoating.mp3

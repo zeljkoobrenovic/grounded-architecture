@@ -1,6 +1,6 @@
 ---
 layout: post
-section: "Appendix 3: Tools for Developing Soft Skills"
+section: "Appendix 3: Navigating Workplace Dynamics"
 title: "Effective Communication"
 position: 12111
 podcast: communication.mp3

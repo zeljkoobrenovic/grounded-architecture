@@ -35,9 +35,20 @@ Inspiration and Further Learning:
 * **[Bookshelf](https://grounded-architecture.io/bookshelf)**: an overview of the background work to probe further, linking several external resources inspiring my work.
 
 
-Tools for Developing Soft Skills:
+Tools for Growing Architects:
 
-* **[Resources for Managing, Growing, and Hiring Architects](https://grounded-architecture.io/career-resources)**: Pointers to resources for managin, growing and hiring architects.When growing and hiring architects, it is crucial to continually raise the bar, ensuring that the team is composed of highly skilled and diverse individuals who can contribute unique perspectives and expertise.
+* **[Managing & Growing Architects](https://grounded-architecture.io/growing)**: A framework for managing and developing architects by combining honest feedback, personalized growth paths, and strategic alignment to foster high performance and team engagement.
+
+* **[Hiring Architects](https://grounded-architecture.io/hiring)**: Hiring architects effectively requires a structured, multi-stage process that evaluates both technical and interpersonal skills while ensuring alignment with organizational culture and leadership expectations.
+
+* **[Onboarding Architects: An Overlooked Yet Critical Step](https://grounded-architecture.io/onboarding)**: A structured, high-touch onboarding process is essential to help architects quickly align with organizational goals, contribute meaningfully, and uphold the principles of Grounded Architecture.
+
+* **[Interview Questions for Hiring IT Architects](https://grounded-architecture.io/interview-questions)**: A structured set of interview questions for IT architects, helping assess both technical competence and soft skills while providing practical guidance for interpreting candidate responses.
+
+* **[Architect Archetypes](https://grounded-architecture.io/archetypes)**: Explores various architectural leadership archetypes and frameworks, including Will Larson’s Staff roles, Gregor Hohpe’s movie-inspired metaphors, Gergely Orosz’s software engineer archetypes, and TOGAF’s structured approach, providing insights to help architects define their roles and responsibilities effectively.
+
+
+Tools for Navigating Workplace Dynamics:
 
 * **[Effective Communication](https://grounded-architecture.io/communication)**: This section synthesizes various resources specifically designed to enhance your ability to communicate effectively, provide constructive feedback, and manage challenging conversations with confidence and clarity. These resources are not just theoretical, but they provide practical strategies and techniques that you can apply in your daily interactions.
 
