@@ -1,6 +1,6 @@
 ---
 layout: post
-section: "Appendix 4: Software Tools"
+section: "Appendix 5: Software Tools"
 title: "Software Tools: Generative AI Prompts"
 position: 12128
 podcast: gen-ai-prompts.mp3

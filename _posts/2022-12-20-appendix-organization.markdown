@@ -1,6 +1,6 @@
 ---
 layout: post
-section: "Appendix 3: Pragmatic Knowledge Resources"
+section: "Appendix 4: Pragmatic Knowledge Resources"
 title: "High Performing Technology Organizations"
 position: 12120
 podcast: high-performing-organizations.mp3

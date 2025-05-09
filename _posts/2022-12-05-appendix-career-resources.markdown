@@ -1,7 +1,7 @@
 ---
 layout: post
-section: "Appendix 2: Tools for Developing Soft Skills"
-title: "Managing, Growing, and Hiring Architects"
+section: "Appendix 2: Tools for Growing Architects"
+title: "Managing & Growing Architects"
 position: 12105
 podcast: career-resources.mp3
 spotify: https://open.spotify.com/episode/1rXU18LjsfUI62n0e365dy?si=9af1d564c5c445ae
@@ -10,7 +10,7 @@ author: by Željko Obrenović (obren.io)
 permalink: career-resources
 icon: career.png
 timetoread: 15 min
-excerpt: "Pointers to resources for managin, growing and hiring architects. When growing and hiring architects, it is crucial to continually raise the bar, ensuring that the team is composed of highly skilled and diverse individuals who can contribute unique perspectives and expertise."
+excerpt: "A framework for managing and developing architects by combining honest feedback, personalized growth paths, and strategic alignment to foster high performance and team engagement."
 
 ---
 
@@ -24,7 +24,11 @@ Image by <a target="_blank" href="https://flic.kr/p/8zKRAU">tableatny</a> from <
 > 
 > **KEY POINTS:**
 >
-> * When growing and hiring architects, it is crucial to continually raise the bar, ensuring that the team is composed of highly skilled and diverse individuals who can contribute unique perspectives and expertise.  
+> * Grow and manage IT architects using the Radical Candor framework, emphasizing both personal care and direct feedback.
+> * Architect can follow two career trajectories—stable (rock stars) and steep (superstars)—each requiring different support and managing.
+> * Performance management should align with organizational strategy, focusing on impact through big-picture thinking, execution, and continuous improvement.
+> * Regular career conversations structured around life story, aspirations, and action plans are essential for personalized development.
+> * Cultivating a culture of feedback, learning, and recognition leads to higher engagement and better performance. 
 <style>
  .quote {
      border-left: 8px solid #d9ead3;
@@ -158,136 +162,6 @@ With an understanding of both the past and future, you can now develop a relevan
 While Career Conversations take time, I integrated them into my usual one-on-one meetings. These discussions often become some of the most enjoyable and productive interactions.
 
 
-
-
-<br>
-## Hiring Architects
-
-
-Developing and hiring architects requires **constantly raising the bar** to ensure a strong and diverse team structure. Having more architects does not necessarily leads to a better team. Having good **alignment and diversity of perspectives** is even more important for an architecture team than for other groups.
-
-<div class="quote">
-It is vital to take more active ownership of hiring architects. Due to the vast diversity of how companies define the architect's role, recruiters may need help understanding the role's requirements. 
-</div>
-
-It is vital to take more **active ownership of hiring architects**. Due to the vast diversity of how different companies define the architect's role, recruiters may need help understanding the role's requirements.
-
-While you will need to design your hiring process, the hiring process should ensure a solid evaluation of the candidates:
-  * **[Technical skills](skills)**: An architect must possess a solid technical background in the relevant areas, such as software development, infrastructure, cloud computing, and security. The process can assess their expertise through technical questions, tests, or case studies.
-  * **[Communication and collaboration skills](skills)**: Architects often work with stakeholders, including business leaders, developers, and project managers. Therefore, the process could evaluate the candidate's ability to communicate effectively, work in a team, and manage stakeholders.
-  * **[Leadership and problem-solving abilities](impact)**: As a senior team member, an architect should have strong leadership skills and the ability to solve complex problems. The process could assess the candidate's experience leading teams, making critical decisions, and resolving technical challenges.
-  * **[Cultural fit](leadership)**: The process could also evaluate the candidate's fit with the company's culture, values, and mission. The cultural fit is vital to ensure the candidate shares the same vision and will likely thrive in the organization.
-
-In terms of steps, I typically work with some version of the following process (after standard recruitment screening):
-
-**Step 1: Initial Screening Interview with Chief Architect**
-
-* Typical duration 60 min
-* In this step, assessing the candidate's overall fit for the role is crucial, determining whether they possess the necessary skills, experience, and qualifications. 
-* Overall, the initial screening aims to identify the most promising candidates who possess the necessary skills, experience, and fit for the role of a senior solutions architect and who should proceed to the next stage of the interview process.
-* Extra focus on:
-  * Cultural fit
-  * Leadership and problem-solving abilities
-    
-**Step 2: In-Depth Interview with Senior/Principle/Enterprise Architects**
-
-* Typical duration 90 min
-* Extra focus on:
-  * Evaluating the candidate's technical skills
-  * Assessing the candidate's communication and collaboration skills
-  * Understanding the candidate's leadership and problem-solving abilities
-
-**Step 3: In-Depth Interview with Architects and Senior Engineers**
-
-* Typical duration 90 min
-* Preparation:
-  * A document describing a recent solution architecture of a candidate, providing the content for discussion and helping estimate the candidate's written skills.
-  * (Optional) open-source code review of a candidate
-* Extra focus on:
-  * Any topics identified during Step 2 as areas that needed to explore further.
-  
-For senior positions, I typically introduce an additional step of meeting senior leadership:
-
-**Step 4: Non-technical stakeholders evaluation**
-
-* Interview with Engineering Leaders
-* Interview with Product and Business Function Leaders (e.g., CPO, CMO, CFO)
-* Interview with a CTO
-* Extra focus on:
-   * Leadership abilities
-   * Communication and collaboration skills
-
-With the described steps, you can get a solid overview of all critical aspects of superglue architects. In particular, the involvement of people outside architecture or engineering is crucial to minimize risk related to a lack of interest and ability to engage with all relevant stakeholders.
-
-Certainly—here’s the revised version of the **"Onboarding Architects"** section, now including the crucial role of the **Chief Architect**, especially for senior hires:
-
-<br>
-## Onboarding Architects: An Overlooked Yet Critical Step
-
-While many organizations invest significant time and effort into hiring IT architects, **onboarding often remains an underdeveloped and vaguely defined process**. This oversight can undermine the entire hiring effort, as newly hired architects are left to figure out the organization’s culture, systems, and expectations largely on their own. In the context of **Grounded Architecture**, this represents a major gap between strategic intent and operational execution.
-
-Too often, onboarding for architects consists of a few orientation meetings, access to documentation, and introductions to stakeholders—without clear guidance on how to operate within the company’s unique architectural ecosystem. As a result, architects may spend weeks—or even months—**working inefficiently, misaligned with key priorities**, and missing critical context. This can lead to frustration, lost momentum, and a delay in realizing their full impact.
-
-### Designing a Strong Onboarding Experience
-
-An effective onboarding process for architects should be deliberate, structured, and aligned with the company’s architectural vision and culture. Here are key elements that can make onboarding more successful:
-
-#### 1. **Assign a Buddy Architect**
-
-Pairing the new hire with an experienced architect who can provide guidance, context, and historical background helps reduce the learning curve. This “buddy” acts as a translator of both technical practices and organizational dynamics.
-
-Here’s the updated **"Create an Architecture Playbook"** section with the added point about direct access to relevant data, including a reference to *Lightweight Architecture Analytics* from the Grounded Architecture initiative:
-
-#### 2. **Create an Architecture Playbook**
-
-Provide a concise document or portal that outlines:
-
-* Architectural principles and decision-making processes
-* Current state and strategic roadmap
-* Key systems and integrations
-* Team roles and responsibilities
-* **Direct access to relevant data** – such as dashboards, metrics, and architecture signals. For example, tools like [*Lightweight Architecture Analytics*](https://grounded-architecture.io/analytics) can offer valuable insights into architectural trends, code dependencies, and decision-making patterns across the organization.
-
-This playbook reduces ambiguity, accelerates alignment, and ensures that new architects can operate based on evidence rather than assumptions.
-
-This reduces ambiguity and accelerates alignment.
-
-#### 3. **Early Immersion in Real Work**
-
-Engage new architects in meaningful work within their first two weeks. Shadowing active projects, participating in architecture reviews, or analyzing an existing solution can provide critical real-world exposure and surface hidden assumptions.
-
-#### 4. **Set 30-60-90 Day Goals**
-
-Help the architect build momentum by defining clear, time-bound objectives:
-
-* **First 30 days**: Understand organizational goals, culture, and architecture frameworks
-* **60 days**: Contribute to small improvements or analyses
-* **90 days**: Lead a design review or produce a proposal with meaningful stakeholder input
-
-#### 5. **Include Cross-Functional Introductions**
-
-Because architects operate across domains, introduce them to engineering, product, infrastructure, security, and business leaders early on. Establishing these relationships is key to long-term influence and effectiveness.
-
-#### 6. **Ensure Active Chief Architect Involvement for Senior Roles**
-
-For senior architect positions, **daily involvement from the Chief Architect is critical during the initial onboarding phase**. These roles often require deep engagement in strategy, alignment with high-level initiatives, and an understanding of organizational nuance. A Chief Architect can:
-
-* Provide direct mentoring and feedback
-* Accelerate integration into decision-making forums
-* Clarify priorities and unspoken norms
-* Help prevent missteps that could impact architecture at scale
-
-This kind of **high-touch onboarding is essential for setting senior architects up for success** and ensuring they can begin to contribute strategically from day one.
-
-#### 7. **Encourage Career Conversations Early**
-
-Following the principles of Radical Candor, initiate career conversations even during onboarding. Understanding the architect’s motivations and aspirations helps tailor the onboarding experience and sets the tone for a long-term growth journey.
-
-<br>
-
-**By formalizing onboarding with the same care and rigor used in hiring**, and ensuring strong support from senior leadership, companies can empower architects to contribute effectively, build trust quickly, and align their work with strategic outcomes. In doing so, organizations uphold the spirit of Grounded Architecture—making decisions based on deep context, collaborative alignment, and purposeful intent.
-
-
 <br>
 ## To Probe Further
 
@@ -313,12 +187,13 @@ Following the principles of Radical Candor, initiate career conversations even d
 <br>
 ## Questions to Consider
 
-* *Reflect on career paths in architecture. How can an engineering background impact effectiveness of an architect?*
-* *Reflect on your career progression in architecture. How can you continuously stay relevant and make an impact in your role?*
-* *If you were involved in the hiring process for architects, how would you assess a candidate’s technical skills, communication and collaboration skills, leadership and problem-solving abilities, and cultural fit?*
-* *What strategies would you implement to ensure you continuously raise the bar in developing and hiring architects in your organization?*
-* *How could you demonstrate your communication and collaboration skills as an architect? Can you share an instance where these skills are crucial?*
-* *How would you describe your leadership and problem-solving abilities? Can you share an example of how you've used these skills in your work?*
-* *Reflect on the cultural fit between you and your organization. How do your values align with those of the company?*
-* *What steps would you include in your hiring process for architects to ensure a solid evaluation of the candidates?*
-* *How would you ensure diversity of perspectives within your architecture team, and is this important?*
+* *How can the Radical Candor framework improve performance and feedback dynamics in your team?*
+* *Are you effectively balancing praise and criticism when managing architectural talent?*
+* *What distinguishes a “rock star” from a “superstar” in your current organization?*
+* *How does your team encourage or support different career trajectories for architects?*
+* *Are your performance reviews fair, consistent, and clearly tied to strategic goals?*
+* *What feedback culture exists within your architecture or engineering team?*
+* *How often do you conduct career conversations, and are they structured around past, dreams, and action plans?*
+* *What mechanisms are in place to ensure continuous learning and development for your architects?*
+* *How does your team align individual architect goals with organizational impact?*
+* *Are you recognizing and rewarding both stability (rock stars) and rapid growth (superstars) equally?*

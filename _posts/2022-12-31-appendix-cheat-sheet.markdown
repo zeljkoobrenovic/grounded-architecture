@@ -1,6 +1,6 @@
 ---
 layout: post
-section: "Appendix 5: Other Things"
+section: "Appendix 6: Other Things"
 title: "Cheat Sheet"
 position: 12131
 podcast: cheat-sheet.mp3
