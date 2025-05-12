@@ -48,8 +48,8 @@ This book introduced Grounded Architecture as an IT architecture practice with t
 * **Guiding Principles**, pieces of advice that can help put the ideas of Grounded Architecture into practice.
 
 The Grounded Architecture framework consists of three elements:
-* [Lightweight Architectural Analytics](analytics),
-* [Collaborative Networks](people),
+* [Lightweight Architectural Analytics (Data)](analytics),
+* [Collaborative Networks (People)](people),
 * [Operating Model](operating-model).
 
 ![](assets/images/model.png)

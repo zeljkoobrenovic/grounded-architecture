@@ -48,8 +48,8 @@ The Grounded Architecture framework is designed to be a **practical solution.** 
 
 Grounded Architecture framework is an approach to setting organizational structures for an architecture practice, and it has three elements:
 
-* Lightweight Architectural Analytics,
-* Collaborative Networks,
+* Lightweight Architectural Analytics (Data),
+* Collaborative Networks (People),
 * The Operating Model.
 
 ![](assets/images/model-framework.png)

@@ -65,8 +65,8 @@ This book breaks down Grounded Architecture into two main parts (Figure 1):
 
 <br>
 Grounded Architecture framework consists of three elements:
-* [Lightweight Architectural Analytics](analytics),
-* [Collaborative Networks](people),
+* [Lightweight Architectural Analytics (Data)](analytics),
+* [Collaborative Networks (People)](people),
 * [Operating Model](operating-model).
 
 *[Lightweight Architectural Analytics](analytics)* keeps your architecture decisions based on up-to-date and complete information about your organization's tech landscape.
