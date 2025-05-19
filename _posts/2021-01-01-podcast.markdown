@@ -161,8 +161,8 @@ h3 {
                     spotify: "https://open.spotify.com/episode/6SKAbxK0KYD9zgX2fofdJT?si=yKJw-V-xQj66FrTmFKm4mw"
                 },
                 {
-                    title: "Thinking Like an Architect: Balancing Curiosity, Doubt, Vision, and Skepticism",
-                    subtitle: "A summary of the <a href='balancing'>Thinking Like an Architect: Balancing Curiosity, Doubt, Vision, and Skepticism</a> chapter.",
+                    title: "Balancing Curiosity, Doubt, Vision, and Skepticism",
+                    subtitle: "A summary of the <a href='balancing'>Balancing Curiosity, Doubt, Vision, and Skepticism</a> chapter.",
                     file: "balancing.mp3",
                     notebooklm: "https://notebooklm.google.com/notebook/a49239a5-2d7f-470a-8501-d9ed66eaab20/audio",
                     spotify: "https://open.spotify.com/episode/1VY8J9LhSPjQvbHCkN2y7I?si=sEFc9RHLSt6ObyxW8CnbgA"

@@ -110,7 +110,7 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Tashu
 > * Architects in IT organizations should develop as “superglue,” people who hold architecture, technical details, business needs, and people together across a large organization or complex projects.
 > * Architects need to be technically strong. But their unique strengths should stem from being able to relate technical issues with business and broader issues.
 
-### Thinking Like an Architect: Balancing Curiosity, Doubt, Vision, and Skepticism
+### Balancing Curiosity, Doubt, Vision, and Skepticism
 > * **Curiosity and wonder** spark exploration, leading to technological breakthroughs. However, without caution, it can result in premature adoption of immature solutions.
 > * **Doubt** forces a critical evaluation of progress, ensuring that innovative ideas are grounded in practical and validated approaches. Over-reliance on doubt can stifle risk-taking and hinder breakthrough innovation.
 > * **Vision and belief** provide a long-term perspective, guiding efforts toward significant, transformative goals. Yet unchecked vision can lead to confirmation bias or misdirected resources.

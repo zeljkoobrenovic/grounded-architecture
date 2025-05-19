@@ -2,7 +2,7 @@
 layout: post
 section: "On Being Architect"
 title: "Architects' Career Paths"
-position: 6002
+position: 6003
 podcast: career-paths.mp3
 spotify: https://open.spotify.com/episode/1zf0ZMvOZoawADSG9E1s0l?si=_G56cvMBRtSPUUQ8uLQ8OA
 date:   2021-10-21 21:12:01 +0100
