@@ -100,7 +100,7 @@ Leadership acknowledges that experienced architects should do more than make arc
 
 I also support Gregor Hohpe's view that **mentoring other architects** is one of the most crucial aspects of senior architects' leadership. Feedback cycles in (software) architecture are inherently slow. Mentoring can save new architects many years of learning by doing and making mistakes.
 
-The section [Leadership](leadership) provides more details.
+The section [Leadership Traits](leadership) and [Leading with Language: Six Plays for Grounded IT Architects](leading-with-language) provides more details.
 
 <br>
 ## Thinking Like an Architect
