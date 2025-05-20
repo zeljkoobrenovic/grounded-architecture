@@ -1,6 +1,6 @@
 
 
-# Thinking Like an Architect: Balancing Curiosity, Doubt, Vision, and Skepticism {#balancing}
+# Balancing Curiosity, Doubt, Vision, and Skepticism {#balancing}
 
 ![](assets/images/istock/iStock-499257719.jpg)
 ^image by vawiley from istock^

@@ -1,0 +1,459 @@
+
+
+# TL;DR Experimental Podcast {#podcast}
+
+![](assets/images/istock/iStock-1409652094.jpg)
+^image by gorodenkoff from istock^
+
+**IN THIS SECTION, YOU WILL:** Get an index of all episodes of the TL;DR experimental podcast, a brief generated dialogs summarizing each book chapter.
+
+{pagebreak}
+
+    const podcasts = [
+        {   
+            title: "Pre-Seasons: Digging Into the Why",
+            episodes:[ 
+                {
+                    title: "Introduction",
+                    subtitle: "A summary of the introduction chapter.",
+                    file: "intro.mp3",
+                    spotify: "https://open.spotify.com/episode/5SSpNetZevRe4h0NCig9cJ?si=03cdce5ef5094958",
+                    notebooklm: "https://notebooklm.google.com/notebook/9f3e8678-91a4-42e3-bcbc-d50b2190132b/audio"
+                },
+                {
+                    title: "Context & Goals",
+                    subtitle: "Summary of the context and goals chapters.",
+                    file: "context-and-goals.mp3",
+                    spotify: "https://open.spotify.com/episode/6zqsjQMnHMU6W06V4o2w9q?si=9e71085abda64e8b",
+                    notebooklm: "https://notebooklm.google.com/notebook/ecdd13d1-bc07-4381-8dc8-2ad4388989a4/audio" 
+                }
+            ]
+        },
+        {   
+            title: "Season 1: The Framework",
+            episodes:[ 
+                {
+                    title: "Grounded Architecture Framework Overview",
+                    subtitle: "A summary of the Grounded Architecture Framework chapter.",
+                    file: "framework.mp3",
+                    notebooklm: "https://notebooklm.google.com/notebook/5465acf5-c410-47bb-bc53-4f7f6ea8153d/audio",
+                    spotify: "https://open.spotify.com/episode/067kXwqPb3DMe4pNYMTDvv?si=5cdfae54d97c42aa"
+                },
+                {
+                    title: "Lightweight Architectural Analytics",
+                    subtitle: "Summary of the Lightweight Architectural Analytics chapter.",
+                    notebooklm: "https://notebooklm.google.com/notebook/0631d3e5-c779-4145-ab20-167150d20415/audio",
+                    file: "analytics.mp3",
+                    spotify: "https://open.spotify.com/episode/00DKKmGoLhditLNCvbHTBW?si=31c33a1d8c4e4fef"
+                },
+                {
+                    title: "Collaborative Networks",
+                    subtitle: "Summary of the Collaborative Networks chapter.",
+                    notebooklm: "https://notebooklm.google.com/notebook/bcbf5980-925d-4f16-97f8-55a9291324e6/audio",
+                    file: "people.mp3",
+                    spotify: "https://open.spotify.com/episode/0CrTzVSl9QNfFSi92QgHpn?si=200873a5ba174bf2"
+                },
+                {
+                    title: "Operating Model: General Principles",
+                    subtitle: "Summary of the Operating Model: General Principles chapter.",
+                    notebooklm: "https://notebooklm.google.com/notebook/4d8e9eed-e5be-4de9-ad8f-b3eb41a8d168/audio",
+                    file: "operating-model.mp3",
+                    spotify: "https://open.spotify.com/episode/5h48h1zmrMHCKIdvKvrWjK?si=96e10bef94c143c7"
+                },
+                {
+                    title: "Cooperation-Based Operating Model: Six Simple Rules",
+                    subtitle: "Summary of the Six Simple Rules chapter.",
+                    notebooklm: "https://notebooklm.google.com/notebook/6600f5da-8ecf-41e3-8e0c-4b603193edfc/audio",
+                    file: "six-simple-rules.mp3",
+                    spotify: "https://open.spotify.com/episode/3w1SxajFCOgJ80oIdubQE7?si=8028da4b439d4fe9"
+                },
+                {
+                    title: "Operating Model: Nudge, Taxation, Mandates",
+                    subtitle: "Summary of the Nudge, Taxation, Mandates chapter.",
+                    notebooklm: "https://notebooklm.google.com/notebook/d0753e7c-53b6-44f2-8a42-88d19bea20e5/audio",
+                    file: "governance.mp3",
+                    spotify: "https://open.spotify.com/episode/2UTAYFVJoWRmvX5CvJsJST?si=83969e560b6c4886"
+                },
+                {
+                    title: "Transforming Organizations with Grounded Architecture",
+                    subtitle: "Summary of the Transforming Organizations with Grounded Architecture chapter.",
+                    notebooklm: "https://notebooklm.google.com/notebook/ac5ec316-146e-4d3f-88ba-c3bb8c6a8cbc/audio",
+                    file: "transforming.mp3",
+                    spotify: "https://open.spotify.com/episode/2Z7tUlCP5BGGQzljXtW6Tf?si=6a9188d95e184d95"
+                }
+            ]
+        },
+        {   
+            title: "Season 2: On Being Architect",
+            episodes:[ 
+                {
+                    title: "On Being Architect",
+                    subtitle: "A summary of the On Being Architect introduction chapter.",
+                    file: "being-architect.mp3",
+                    notebooklm: "https://notebooklm.google.com/notebook/176191ad-c48c-429c-987a-129a4e75a001/audio",
+                    spotify: "https://open.spotify.com/episode/0kS3XyLgOoQgjx4wsyfif1?si=hHV8N6DpS5G10ir7PE9YaQ"
+                },
+                {
+                    title: "Building Skills",
+                    subtitle: "A summary of the Building Skills chapter.",
+                    file: "skills.mp3",
+                    notebooklm: "https://notebooklm.google.com/notebook/b68fd27d-70a7-4bd8-830b-33eeab97c6d6/audio",
+                    spotify: "https://open.spotify.com/episode/4i9GcceqvrbPZ7XwVgpMAO?si=75AssaZXR7CFULaPtWVHWQ"
+                },
+                {
+                    title: "Making Impact",
+                    subtitle: "A summary of the Making Impact chapter.",
+                    file: "impact.mp3",
+                    notebooklm: "https://notebooklm.google.com/notebook/a7053d30-ac48-413c-b0cb-d4f477d0dc71/audio",
+                    spotify: "https://open.spotify.com/episode/3IcKdwPbkfPX0ZqSfREwb4?si=diPB2DuYR0Gb1uaOjB7hmQ"
+                },
+                {
+                    title: "Leadership Traits",
+                    subtitle: "A summary of the Leadership Traits chapter.",
+                    file: "leadership.mp3",
+                    notebooklm: "https://notebooklm.google.com/notebook/5d568d79-411f-48d4-81d0-0b6b5e2ded6d/audio",
+                    spotify: "https://open.spotify.com/episode/2tlTR5giWoHFjG7pRUCD0p?si=HQPhu78zRX2idM9twzfHdw"
+                },
+                {
+                    title: "Thinking Like an Architect: Architects as Superglue",
+                    subtitle: "A summary of the Thinking Like an Architect: Architects as Superglue chapter.",
+                    file: "superglue.mp3",
+                    notebooklm: "https://notebooklm.google.com/notebook/3fc369b1-f059-4948-a014-cbde400bda3b/audio",
+                    spotify: "https://open.spotify.com/episode/6SKAbxK0KYD9zgX2fofdJT?si=yKJw-V-xQj66FrTmFKm4mw"
+                },
+                {
+                    title: "Balancing Curiosity, Doubt, Vision, and Skepticism",
+                    subtitle: "A summary of the Balancing Curiosity, Doubt, Vision, and Skepticism chapter.",
+                    file: "balancing.mp3",
+                    notebooklm: "https://notebooklm.google.com/notebook/a49239a5-2d7f-470a-8501-d9ed66eaab20/audio",
+                    spotify: "https://open.spotify.com/episode/1VY8J9LhSPjQvbHCkN2y7I?si=sEFc9RHLSt6ObyxW8CnbgA"
+                },
+                {
+                    title: "Architects' Career Paths",
+                    subtitle: "A summary of the Architects' Career Paths chapter.",
+                    file: "career-paths.mp3",
+                    notebooklm: "https://notebooklm.google.com/notebook/d9bf380f-9695-4634-b3e0-f5ae3e3f3245/audio",
+                    spotify: "https://open.spotify.com/episode/1zf0ZMvOZoawADSG9E1s0l?si=_G56cvMBRtSPUUQ8uLQ8OA"
+                }
+            ]
+        },
+        {   
+            title: "Season 3: On Human Complexity",
+            episodes:[ 
+                {
+                    title: "On Human Complexity",
+                    subtitle: "A summary of the On Human Complexity introduction chapter.",
+                    file: "human-complexity.mp3",
+                    notebooklm: "https://notebooklm.google.com/notebook/edafeb4c-6e4e-4ebd-a331-91d9b3e57242/audio",
+                    spotify: "https://open.spotify.com/episode/1QGRyF9eHOcOftpbaZm6Wv?si=Zb5dTbDiQLOKpIvvPnao1Q"
+                },
+                {
+                    title: "The Culture Map: Architects' Culture Compass",
+                    subtitle: "A summary of the The Culture Map: Architects' Culture Compass chapter.",
+                    file: "culture-map.mp3",
+                    notebooklm: "https://notebooklm.google.com/notebook/8a6ea5b2-b09b-41d9-b573-14566f918c82/audio",
+                    spotify: "https://open.spotify.com/episode/5DNNUjMolzJz5hvw2o6JH3?si=E63LplSPT8y5GTGVwHKoKw"
+                },
+                {
+                    title: "The Culture Map (Confrontational Style)",
+                    subtitle: "A second take on the The Culture Map: Architects' Culture Compass chapter. This time hosts use a confrontational style to illustrate impact of cultural differences on communication and disagreements.",
+                    file: "culture-map-confrontational.mp3",
+                    notebooklm: "https://notebooklm.google.com/notebook/7b302b1e-d37e-406f-b0b4-7fe484155822/audio",
+                    spotify: "https://open.spotify.com/episode/7AqRd8JM5s2xwzSOCJSuKb?si=cL61lm-mTnOmO4JoudPAXQ"
+                },
+                {
+                    title: "The Human Side of Decision-Making",
+                    subtitle: "A summary of the The Human Side of Decision-Making chapter.",
+                    file: "human-decisions.mp3",
+                    notebooklm: "https://notebooklm.google.com/notebook/cb57768f-64b8-48f1-a307-0d71da992e3d/audio",
+                    spotify: "https://open.spotify.com/episode/0wPe0d2uCDGOwjLdFvfLpG?si=k9P84u3oRtC5tA0WjcvPtQ"
+                },
+                {
+                    title: "Effortless Architecture",
+                    subtitle: "A summary of the Effortless Architecture chapter.",
+                    file: "effortless.mp3",
+                    notebooklm: "https://notebooklm.google.com/notebook/0907e487-9e36-481e-b0a7-7a4ecb972d8e/audio",
+                    spotify: "https://open.spotify.com/episode/1H824sdiV7Ju2ZncaCHzIR?si=CSFjbLLTTryC_-70BymmMw"
+                }
+            ]
+        },
+        {   
+            title: "Season 4: On Strategy",
+            episodes:[ 
+                {
+                    title: "On Strategy",
+                    subtitle: "A summary of the On Strategy introduction chapter.",
+                    file: "strategy.mp3",
+                    notebooklm: "https://notebooklm.google.com/notebook/954b4e3b-11f5-495f-9eab-c4d9bc6956e9/audio",
+                    spotify: "https://open.spotify.com/episode/5ibFMUv68hrYOOnKOSaCv5?si=T4a-D4_qTh2lIPkLBClTnw"
+                },
+                {
+                    title: "Enterprise Architecture as Strategy",
+                    subtitle: "A summary of the Enterprise Architecture as Strategy chapter.",
+                    file: "ea-as-strategy.mp3",
+                    notebooklm: "https://notebooklm.google.com/notebook/40d659d4-ffe0-4176-9cf2-f03aa9f16849/audio",
+                    spotify: "https://open.spotify.com/episode/2vnGmCiZUSR6WRH76hknGv?si=KCcx0PGVQTKtRqIkB-4bGQ"
+                },
+                {
+                    title: "Hunting the Ghost of Business Architecture",
+                    subtitle: "A summary of the Hunting the Ghost of Business Architecture chapter.",
+                    file: "business-architecture.mp3",
+                    notebooklm: "https://notebooklm.google.com/notebook/4fcbcf36-ac9f-4e52-9f01-6bc251769a6c/audio",
+                    spotify: "https://open.spotify.com/episode/4xHNtXiFDjnV8Bosau4Hrm?si=4eyyCNA4SquG90xsOA3lGw"
+                },
+                {
+                    title: "Outsourcing Strategies",
+                    subtitle: "A summary of the Outsourcing Strategies chapter.",
+                    file: "outsourcing.mp3",
+                    notebooklm: "https://notebooklm.google.com/notebook/aadff0ee-f821-4328-bf3b-2691c230a3a8/audio",
+                    spotify: "https://open.spotify.com/episode/32vfl26QpLOVM9bAFrPkQe?si=R8TDIEIBQh2ZjCA67fIqaQ"
+                },
+                {
+                    title: "Achieving Market Leadership",
+                    subtitle: "A summary of the Achieving Market Leadership chapter.",
+                    file: "market-leadership.mp3",
+                    notebooklm: "https://notebooklm.google.com/notebook/e7921f18-00c2-4da3-b537-3073c41cab88/audio",
+                    spotify: "https://open.spotify.com/episode/0S25mDfE35gv3EUHX2oOes?si=HC62zuHQQRGKwR_nXcMbwA"
+                },
+                {
+                    title: "Value-Based Strategy",
+                    subtitle: "A summary of the Value-Based Strategy chapter.",
+                    file: "value-based-strategy.mp3",
+                    notebooklm: "https://notebooklm.google.com/notebook/0c8ccecb-b360-4f4d-8258-81430375f3e6/audio",
+                    spotify: "https://open.spotify.com/episode/055GIpxLymBM9W9eiMNYJs?si=DJheL5zXRRC8kCa8Ddo3UA"
+                },
+                {
+                    title: "Marketplace Strategies: What Digital Marketplaces Sell?",
+                    subtitle: "A summary of the Marketplace Strategies: What Digital Marketplaces Sell? chapter.",
+                    file: "marketplaces.mp3",
+                    notebooklm: "https://notebooklm.google.com/notebook/53080ac8-d11a-4984-916c-ee9cdd3470fe/audio",
+                    spotify: "https://open.spotify.com/episode/2D4qaQuf2FZALvVjEb7XCv?si=dsLkFX1dT86ehpemJWmySg"
+                },
+                {
+                    title: "Connecting Marketing, Sales, and Customer Service Strategies",
+                    subtitle: "A summary of the Connecting Marketing, Sales, and Customer Service Strategies chapter.",
+                    file: "marketing-sales-strategy.mp3",
+                    notebooklm: "https://notebooklm.google.com/notebook/8a9e3ef3-29fb-4782-806d-8945e0008ce7/audio",
+                    spotify: "https://open.spotify.com/episode/3rydyBBckD2BmhvQsgIfDJ?si=HzM9hnNYTgOM377-T9KwGw"
+                },
+                {
+                    title: "Culture As a Strategy (aka Culture Eats Strategy for Breakfast)",
+                    subtitle: "A summary of the Culture As a Strategy (aka Culture Eats Strategy for Breakfast) chapter.",
+                    file: "culture-strategy.mp3",
+                    notebooklm: "https://notebooklm.google.com/notebook/b46eb06c-dccc-4706-9e9f-89a16a548895/audio",
+                    spotify: "https://open.spotify.com/episode/0BiW7lb6EADUvLk6MMRqfG?si=OTA5NzJ9RGWo9cmCSdKn8g"
+                }
+            ]
+        },
+        {   
+            title: "Season 5: Learning From Other Fields",
+            episodes:[ 
+                {
+                    title: "Expanding the Architect's Toolkit: Learning From Other Fields",
+                    subtitle: "A summary of the Expanding the Architect's Toolkit: Learning From Other Fields introduction chapter.",
+                    file: "expanding-toolkit.mp3",
+                    notebooklm: "https://notebooklm.google.com/notebook/8032510c-ec44-4ee3-a979-d57954b2ec03/audio",
+                    spotify: "https://open.spotify.com/episode/5JZ6E0FcillI4mCoK2aymu?si=YWPiwzZGSna6nX7Ppr--Qg"
+                },
+                {
+                    title: "Economic Modeling With ROI and Financial Options: Learning From the Finance Field",
+                    subtitle: "A summary of the Economic Modeling With ROI and Financial Options: Learning From the Finance Field chapter.",
+                    file: "economics.mp3",
+                    notebooklm: "https://notebooklm.google.com/notebook/4bc66888-89cf-4f1f-88c9-c5c26657c87b/audio",
+                    spotify: "https://open.spotify.com/episode/1bUhfia9TkwvVKEBJLdzhp?si=F5aXU59GTImA89dJHeQKqg"
+                },
+                {
+                    title: "Architecture in Product-Led Organizations: Learning From Customer-Centric Fields",
+                    subtitle: "A summary of the Architecture in Product-Led Organizations: Learning From Customer-Centric Fields chapter.",
+                    file: "product.mp3",
+                    notebooklm: "https://notebooklm.google.com/notebook/4d8f7d37-601e-44c3-b8f6-ba2c13091934/audio",
+                    spotify: "https://open.spotify.com/episode/0nMqmouTm1MsDlIgI5Wrxi?si=qJVDkEM8SoGftU_aJkUEaA"
+                },
+                {
+                    title: "Decision Intelligence in IT Architecture: Learning From Data, Social, and Managerial Fields",
+                    subtitle: "A summary of the Decision Intelligence in IT Architecture: Learning From Data, Social, and Managerial Fields chapter.",
+                    file: "decision-intelligence.mp3",
+                    notebooklm: "https://notebooklm.google.com/notebook/22f18a5a-88ea-493e-adae-38e928f6a97c/audio",
+                    spotify: "https://open.spotify.com/episode/5yz8glpHVNYA4qJXH8tFh1?si=968-czNVQiC_lvPIGGaR6w"
+                },
+                {
+                    title: "How Big Transformations Get Done: Learning From Mega-Projects",
+                    subtitle: "A summary of the How Big Transformations Get Done: Learning From Mega-Projects chapter.",
+                    file: "big-transformations.mp3",
+                    notebooklm: "https://notebooklm.google.com/notebook/cb2f84f7-0694-4b0e-9f5c-9dd21b67308a/audio",
+                    spotify: "https://open.spotify.com/episode/4d80CL2AZQGSRCEZKmMcWH?si=84db4691f27445d2"
+                }
+            ]
+        },
+        {   
+            title: "Post-Season 5: Summary of the Book",
+            episodes:[ 
+                {
+                    title: "Summary",
+                    subtitle: "A summary of the Summary chapter.",
+                    file: "summary.mp3",
+                    notebooklm: "https://notebooklm.google.com/notebook/aa3089bc-2777-4d3c-b18a-be7847c7a91e/audio",
+                    spotify: "https://open.spotify.com/episode/0x0D6xL5JrDFnrOZbHaaKw?si=a8969b9f2f854ba6"
+                }
+            ]
+        },
+        {   
+            title: "Season 6: Appendixes",
+            episodes:[ 
+                {
+                    title: "To Probe Further: Online Appendix Overview",
+                    subtitle: "A summary of the To Probe Further: Online Appendix Overview introduction chapter.",
+                    file: "appendix.mp3",
+                    notebooklm: "https://notebooklm.google.com/notebook/c40e3da4-b0ba-4f0b-a05a-5cc135167309/audio",
+                    spotify: "https://open.spotify.com/episode/401cuHiQ5c7wa1N24a7m6G?si=b4c7426accad40f2"
+                },
+                {
+                    title: "Favorite Quotes",
+                    subtitle: "A summary of the Favorite Quotes appendix.",
+                    file: "quotes.mp3",
+                    notebooklm: "https://notebooklm.google.com/notebook/4b001470-ecf2-4d0e-b137-c3552a39d543/audio",
+                    spotify: "https://open.spotify.com/episode/77RnOgJ3BVeHznzFLPwLw0?si=9cf32a54569a44db"
+                },
+                {
+                    title: "Bookshelf",
+                    subtitle: "A summary of the Bookshelf appendix.",
+                    file: "bookshelf.mp3",
+                    notebooklm: "https://notebooklm.google.com/notebook/d964d485-a31b-464c-af45-6757c8f7cb21/audio",
+                    spotify: "https://open.spotify.com/episode/607hsZFa0M6GF9zkk4cGP9?si=5817598b69ab431c"
+                },
+                {
+                    title: "Career Resources",
+                    subtitle: "A summary of the Career Resources appendix.",
+                    file: "growing.mp3",
+                    notebooklm: "https://notebooklm.google.com/notebook/78ffb19a-3188-4938-ad08-8ededf433db6/audio",
+                    spotify: "https://open.spotify.com/episode/1rXU18LjsfUI62n0e365dy?si=9af1d564c5c445ae"
+                },
+                {
+                    title: "Architect Archetypes",
+                    subtitle: "A summary of the Architect Archetypes appendix.",
+                    file: "archetypes.mp3",
+                    notebooklm: "https://notebooklm.google.com/notebook/dfa0a3b1-567f-4b41-82c6-989298c279d9/audio",
+                    spotify: "https://open.spotify.com/episode/1GigfcjM5twnYEYp20GAz0?si=45b4f18ae7864260"
+                },
+                {
+                    title: "Effective Communication",
+                    subtitle: "A summary of the Effective Communication appendix.",
+                    file: "communication.mp3",
+                    notebooklm: "https://notebooklm.google.com/notebook/b4e7492f-3dd4-4860-92de-a8fefad955bd/audio",
+                    spotify: "https://open.spotify.com/episode/0mpZVIDYld1lPPL9vZjN9Y?si=112619d0cc274b48"
+                },
+                {
+                    title: "Working With Toxic Colleagues",
+                    subtitle: "A summary of the Working With Toxic Colleagues appendix.",
+                    file: "toxic-colleagues.mp3",
+                    notebooklm: "https://notebooklm.google.com/notebook/7aa68e15-536a-4bd2-9bd2-1489e4deee05/audio",
+                    spotify: "https://open.spotify.com/episode/2MoZuIChz4OxGvs1ykdTh5?si=ca85bc21caeb456c"
+                },
+                {
+                    title: "Dealing With Scapegoating at Work",
+                    subtitle: "A summary of the Dealing With Scapegoating at Work appendix.",
+                    file: "scapegoating.mp3",
+                    notebooklm: "https://notebooklm.google.com/notebook/933fc023-3a41-4cd9-9983-cb99e6806f7c/audio",
+                    spotify: "https://open.spotify.com/episode/7lsDGhQV81PwpcHCEKadRA?si=0eef02a3c3934517"
+                },
+                {
+                    title: "ISO 25010 Standard",
+                    subtitle: "A summary of the ISO 25010 Standard appendix.",
+                    file: "iso25010.mp3",
+                    notebooklm: "https://notebooklm.google.com/notebook/d2e7c236-fb02-4200-b15e-d7b455aa6813/audio",
+                    spotify: "https://open.spotify.com/episode/1YxB9Mfw9uMHhoVvlWJIqA?si=6774817a2f974168"
+                },
+                {
+                    title: "Cloud Design Patterns",
+                    subtitle: "A summary of the Cloud Design Patterns appendix.",
+                    file: "cloud-design-patterns.mp3",
+                    notebooklm: "https://notebooklm.google.com/notebook/2fcee684-6a87-4ac6-af3c-35b6c9f3b746/audio",
+                    spotify: "https://open.spotify.com/episode/7oEv067ot97RKn6octRks8?si=53b5d55cdd7248ba"
+                },
+                {
+                    title: "High Performing Technology Organizations",
+                    subtitle: "A summary of the High Performing Technology Organizations appendix.",
+                    file: "high-performing-organizations.mp3",
+                    notebooklm: "https://notebooklm.google.com/notebook/cd54def8-6f4d-484c-8c9c-f51fb6b7a888/audio",
+                    spotify: "https://open.spotify.com/episode/33IujE7DIOFxUBgm2s1i0i?si=8acb338a5945499b"
+                },
+                {
+                    title: "Tools",
+                    subtitle: "A summary of the Tools appendix.",
+                    file: "tools.mp3",
+                    notebooklm: "https://notebooklm.google.com/notebook/c5229211-47b4-4495-ba04-35e456176a71/audio",
+                    spotify: "https://open.spotify.com/episode/7aMdcwV5z9Yu6bC78TGQ3v?si=e84208717f8a435c"
+                },
+                {
+                    title: "Software Tools: Generative AI Prompts",
+                    subtitle: "A summary of the Software Tools: Generative AI Prompts appendix.",
+                    file: "gen-ai-prompts.mp3",
+                    notebooklm: "https://notebooklm.google.com/notebook/e6124aaf-a7a4-46b7-b5f3-f3a32d32f038/audio",
+                    spotify: "https://open.spotify.com/episode/22MPFDRMsAwkvQWPkk26yq?si=24f3b0c2552f4808"
+                },
+                {
+                    title: "Software Tools: Examples and Screenshots",
+                    subtitle: "A summary of the Software Tools: Examples and Screenshots appendix.",
+                    file: "screenshots.mp3",
+                    notebooklm: "https://notebooklm.google.com/notebook/992dd1f1-3853-489b-9723-73816ce37d31/audio",
+                    spotify: "https://open.spotify.com/episode/3tND5tAxmykSEfy1qBvcWI?si=a542fae45de54786"
+                },
+                {
+                    title: "Building Lightweight Architectural Analytics",
+                    subtitle: "A summary of the Building Lightweight Architectural Analytics appendix.",
+                    file: "data-website.mp3",
+                    notebooklm: "https://notebooklm.google.com/notebook/2e363673-013d-4e37-99b2-eb6c13229907/audio",
+                    spotify: "https://open.spotify.com/episode/6XNKQ45ofTHJtA3VEzY5n0?si=4d5786a282b64923"
+                },
+                {
+                    title: "Cheat Sheet",
+                    subtitle: "A summary of the Cheat Sheet appendix.",
+                    file: "cheat-sheet.mp3",
+                    notebooklm: "https://notebooklm.google.com/notebook/abc97529-acd7-49a7-8323-0f4053425f39/audio",
+                    spotify: "https://open.spotify.com/episode/2EYcBZbk0ZeTEHKewrMqdZ?si=e0809dcf6a1549b8"
+                }
+            ]
+        },
+        {   
+            title: "Season 7: New Chapters",
+            episodes:[ 
+                {
+                    title: "Operating Model: Leveraging The Full Potential of Generative AI for IT Architecture",
+                    subtitle: "A summary of the Leveraging The Full Potential of Generative AI for IT Architecture introduction chapter.",
+                    file: "gen-ai-potential.mp3",
+                    notebooklm: "https://notebooklm.google.com/notebook/e9b996bf-05ce-472c-9542-3f1a206d93c7/audio",
+                    spotify: "https://open.spotify.com/episode/6oOCYLSsbNxwSqzrXA9QPY?si=50eaff6ec4194d27"
+                }
+            ]
+        }
+    ];
+The episodes are AI-generated by Google NotebookLM.
+
+Listen on Spotify | RSS Feed
+
+    let html = '';
+    podcasts.forEach(podcast => {
+        html += '' + podcast.title + '';
+        html += '';
+        podcast.episodes.forEach(episode => {
+            html += '';
+            html += '';
+            html += '';
+            html += 'TL;DR: ' + episode.title + '';
+            html += '' + episode.subtitle + '';
+            html += '';
+            html += '';
+            html += '';
+            html += '';
+            if (episode.spotify) {
+                html += '';
+                html += '';
+                html += '';
+            }
+            html += '';
+            html += '';
+            html += '';
+        });
+        html += '';
+    });
+    document.getElementById('content').innerHTML = html;
