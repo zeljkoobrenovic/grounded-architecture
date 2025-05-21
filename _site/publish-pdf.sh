@@ -13,7 +13,7 @@ for (( ; ; )); do
 
   if grep -o -e "{}" "status.json"; then
     echo "FOUND"
-    curl -L "https://leanpub.com/s/B36725C24EB34CBD99A3FB1D71011E61.pdf" -o assets/book/groundedarchitecture.pdf
+    curl -L "https://leanpub.com/s/B36725C24EB34CBD99A3FB1D71011E61.pdf" -o assets/book/groundedarchitecture-part-1.pdf
     git add .
     git commit -m "publishing changes"
     git push

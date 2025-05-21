@@ -53,7 +53,7 @@ Generative AI models are sophisticated tools that can create new content like te
 
 However, using GenAI without a clear strategy could create more complexity or new problems. The Grounded Architecture approach provides a solid foundation for harnessing GenAI's power while managing its risks. This section serves as a comprehensive and practical guide for IT and Enterprise Architects looking to integrate GenAI into their Grounded Architecture practices. We will cover GenAI's capabilities, key ways to integrate it, common uses, potential benefits and challenges, best practices for responsible use, and what’s on the horizon. Our aim is to empower architects to use GenAI not just as another tool, but as **a strategic asset within their architectural work**.
 
-In [the appendix](gen-ai-prompts), you’ll find example Generateive AI prompts I used in practice for many of the tasks we will discuss in this section.
+In [the appendix](gen-ai-prompts), you’ll find example Generative AI prompts I used in practice for many of the tasks we will discuss in this section.
 
 *(To "eat my own dog food," I drafted this report with initial research and insights from the Gemini Deep Research chatbot. I then refined the narrative and coherence using ChatGPT, a language generation model, and checked language and grammar with Grammarly. Finally, I manually edited it extensively to ensure accuracy and relevance.)*
 

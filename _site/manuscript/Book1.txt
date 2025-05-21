@@ -1,0 +1,12 @@
+2022-01-01-intro.markdown
+2022-01-02-context.markdown
+2022-01-03-requirements.markdown
+Part1.txt
+2022-03-01-grounded-architecture.markdown
+2022-03-03-data-platform.markdown
+2022-03-04-people.markdown
+2022-03-05-activities.markdown
+2022-03-08-six-simple-rules.md
+2022-03-11-governance.markdown
+2022-03-15-value.markdown
+2022-03-17-ai-operating-model-appendix.markdown

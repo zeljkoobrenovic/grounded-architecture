@@ -14,6 +14,8 @@ A> * My view of architecture leadership is inspired by David Marquet's work and 
 A> * Marquet focused on leadership and organizational management, particularly emphasizing the principles of Intent-Based Leadership.
 A> * Borrowing from Netflix's original values, I see the following behavioral traits as crucial for architects: communication, judgment, impact, inclusion, selflessness, courage, integrity, curiosity, innovation, and passion.
 
+"*A leader is anyone who takes **responsibility** for **recognizing** the **potential in people and ideas**, and has the **courage** to develop that potential.*" --Brené Brown 
+
 My approach to architecture leadership draws inspiration from two standout sources: **[David Marquet's](https://davidmarquet.com/) leadership principles**, articulated in his book "[Turn the Ship Around!](https://davidmarquet.com/turn-the-ship-around-book/)" and "[Leadership Is Language](https://davidmarquet.com/leadership-is-language-book/)," and Netflix's valued behaviors. Marquet's ideas are about empowering team members, providing clarity, decentralizing decision-making, striving for continuous improvement, and practicing servant leadership. Meanwhile, **[Netflix's valued behaviors](https://jobs.netflix.com/culture)** offers a compact masterclass in coaching and developing people's leadership traits. Together, these resources form a robust framework for leading with insight and influence in the IT architecture (Figure 1).
 
 ![](assets/images/arch/architects_leadership.png)

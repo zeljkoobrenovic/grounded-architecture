@@ -30,15 +30,15 @@ This book breaks down Grounded Architecture into two main parts (Figure 1):
 ***Figure 1:**  Grounded Architecture Overview.*
 
 Grounded Architecture framework consists of three elements:
-* [Lightweight Architectural Analytics](#analytics),
-* [Collaborative Networks](#people),
+* [Lightweight Architectural Analytics (Data)](#analytics),
+* [Collaborative Networks (People)](#people),
 * [Operating Model](#operating-model).
 
 *[Lightweight Architectural Analytics](#analytics)* keeps your architecture decisions based on up-to-date and complete information about your organization's tech landscape.
 
 *[Collaborative Networks](#people)* represents a strong network of people working on architecture across your organization, ensuring your efforts make a difference.
 
-Lastly, the sections *[Operating Model: General Principles](#operating-model)*, *[Cooperation-Based Operating Model](#six-simple-rules)*, and *[IT Governance: Nudge, Taxation, Mandates](#governance)* define a collection of processes and agreements that lets architects do their thing, leveraging data and people connections to create a powerful, organization-wide impact.
+Lastly, the sections *[Operating Model: General Principles](#operating-model)*, *[Cooperation-Based Operating Model](#six-simple-rules)*, *[Leveraging The Full Potential of Generative AI for IT Architecture](gen-ai-potential)*, and *[IT Governance: Nudge, Taxation, Mandates](#governance)* define a collection of processes and agreements that lets architects do their thing, leveraging data and people connections to create a powerful, organization-wide impact.
 
 As part of my Grounded Architecture quest, I've devised several guiding principles and tools to help you sprinkle Grounded Architecture magic in your practice. While traditional IT architecture literature often zeros in on technical know-how, this collection dares you to think differently about IT architecture and to dive into the rich insights of social, behavioral, and management sciences. These resources are grouped into several parts and are sure to make your journey both insightful and entertaining:
 
@@ -47,23 +47,32 @@ As part of my Grounded Architecture quest, I've devised several guiding principl
   * [Making Impact](#impact)
   * [Leadership](#leadership)
   * [Thinking Like an Architect: Architects as Superglue](#superglue)
-  * [Thinking Like an Architect: Balancing Curiosity, Doubt, Vision, and Skepticism](#balancing)
+  * [Balancing Curiosity, Doubt, Vision, and Skepticism](#balancing)
   * [Architects' Career Paths](#career-paths)
 * [**On Human Complexity**](#human-complexity):
   * [The Culture Map: Architects' Culture Compass](#culture-map)
   * [The Human Side of Decision-Making](#human-decisions)
   * [Effortless Architecture](#effortless)
+* [**On Strategy**](strategy):
+  * [Enterprise Architecture as Strategy](ea-as-strategy)
+  * [Hunting the Ghost of Business Architecture](business-architecture)
+  * [Outsourcing Strategies](outsourcing)
+  * [Achieving Market Leadership](market-leadership)
+  * [Value-Based Strategy](value-based-strategy)
+  * [Marketplace Strategies: What Digital Marketplaces Sell?](marketplaces)
+  * [Connecting Marketing, Sales, and Customer Service Strategies](marketing-sales-strategy)
+  * [Culture As a Strategy (aka Culture Eats Strategy for Breakfast)](culture-strategy)
 * [**Expanding the Architect's Toolkit: Learning From Other Fields**](#expanding-toolkit):
+  * [Economic Modeling With ROI and Financial Options: Learning From the Finance Field](#economics)
   * [Architecture in Product-Led Organizations: Learning From Customer-Centric Fields](#product) 
   * [Decision Intelligence in IT Architecture: Learning From Data, Social, and Managerial Fields](#decision-intelligence)
-  * [Economic Modeling With ROI and Financial Options: Learning From the Finance Field](#economics)
   * [How Big Transformations Get Done: Learning From Mega-Projects](#big-transformations)
 
 If all this is not enough, in the online appendix I outline several resources that have proven vital in my journey as an IT architect. I routinely refer back to them and carry them in my practitioner "backpack," so I added their summaries in the online [appendix](#appendix), including:
 
 * [Favorite Quotes](https://grounded-architecture.io/quotes)
 * [Bookshelf](https://grounded-architecture.io/bookshelf)
-* [Resources for Managing, Growing, and Hiring Architects](https://grounded-architecture.io/career-resources)
+* [Resources for Managing, Growing, and Hiring Architects](https://grounded-architecture.io/growing)
 * [Resources for Effective Communication](https://grounded-architecture.io/communication)
 * [Resources for Working With Toxic Colleagues](https://grounded-architecture.io/toxic-colleagues)
 * [Resources for Dealing With Scapegoating at Work](https://grounded-architecture.io/scapegoating)
@@ -202,7 +211,7 @@ I have organized the book into several main parts. In the introductory part, I d
 
 In the second part, I discuss the Grounded Architecture framework and describe its three elements: Lightweight Architectural Analytics, Collaborative Networks, and the Operating Model. 
 
-In the third part, I discuss the Guiding Principles of Grounded Architecture, grouped into several sub-parts: On Being an Architect, On Soft Skills, On Decision-Making, On Human Complexity, and On Execution and Governance. 
+In the third part, I discuss the Guiding Principles of Grounded Architecture, grouped into several sub-parts: On Being an Architect, On Human Complexity, On Strategy, and Expanding the Architect's Toolkit. 
 
 Finally, I conclude with a summary and encourage you to explore further with the help of the plentiful external resources I've provided.
 
