@@ -52,24 +52,25 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/CHUNY
 
 <br>
 
-This relationship is dynamic, where business needs shape IT solutions, and technological advancements influence strategic opportunities. New technology also requires changing how it is managed, as traditional management approaches may not suffice for emerging technologies' unique demands. Effective alignment requires integrating processes with systems, adapting workflows to leverage technology, and fostering collaboration between business leaders and IT teams. As both evolve, continuous realignment ensures organizations remain agile and competitive, maximizing the mutual value of business and IT.
+The relationship IT and business is **dynamic**, where **business needs shape IT solutions**, and **technological advancements influence strategic opportunities**. New technology also requires **changing how it is managed**, as traditional management approaches may not suffice for emerging technologies’ unique demands. Effective alignment requires integrating processes with systems, **adapting workflows to leverage technology**, and fostering collaboration between business leaders and IT teams. As both evolve, continuous realignment ensures organizations remain agile and competitive, maximizing the **mutual value of business and IT**.
+
 
 In business strategy and IT architecture, I often draw inspiration **[Enterprise Architecture as Strategy: Creating a Foundation for Business Execution](https://store.hbr.org/product/enterprise-architecture-as-strategy-creating-a-foundation-for-business-execution/8398)** by Jeanne W. Ross, Peter Weill, and David C. Robertson.  
 
 I use several key concepts from these works that shape my understanding of the relationship between business strategy and IT architecture.
 
-**Business Operating Models** define how an organization structures its processes and systems to deliver value. These models include *Diversification*, where business units operate autonomously to address distinct markets; *Coordination*, where units remain independent but share data and resources to enhance collaboration; *Replication*, where units function independently while adhering to standardized systems and processes; and *Unification*, where tightly connected units operate with consistent processes to emphasize efficiency and alignment.
+**Business Operating Models** define how an organization structures its processes and systems to deliver value. These models include ***Diversification***, where business units operate autonomously to address distinct markets; ***Coordination***, where units remain independent but share data and resources to enhance collaboration; ***Replication***, where units function independently while adhering to standardized systems and processes; and ***Unification***, where tightly connected units operate with consistent processes to emphasize efficiency and alignment.
 
-**Global vs. Local Business Flexibility** highlights the balance between enterprise-wide adaptability and the unique responsiveness of individual units. *Global flexibility* focuses on an organization's ability to navigate overarching changes and opportunities, while *local flexibility* enables departments or regions to address specific needs and challenges.
+**Global vs. Local Business Flexibility** highlights the balance between enterprise-wide adaptability and the unique responsiveness of individual units. ***Global flexibility*** focuses on an organization's ability to navigate overarching changes and opportunities, while ***local flexibility*** enables departments or regions to address specific needs and challenges.
 
-**Stages of IT and Strategy Alignment** outline the maturity levels in linking IT and strategy, progressing from fragmented systems to strategic integration. These stages include *business silos*, characterized by minimal integration; *standardized technology*, where common platforms exist despite fragmented processes; *optimized core*, with standardized and integrated processes aligned to the operating model; and *business modularity*, enabling agility and innovation through modular, reusable components.
+**Stages of IT and Strategy Alignment** outline the maturity levels in linking IT and strategy, progressing from fragmented systems to strategic integration. These stages include ***business silos***, characterized by minimal integration; ***standardized technology***, where common platforms exist despite fragmented processes; ***optimized core***, with standardized and integrated processes aligned to the operating model; and ***business modularity***, enabling agility and innovation through modular, reusable components.
 
 These concepts collectively provide a framework for understanding how IT architecture supports and enables strategic business objectives.
 
 <br>
 ## Four Types of Business Operating Models
 
-The **Operating Model** is a core concept in *Enterprise Architecture as Strategy*, representing how an organization structures its business processes and systems to deliver value. It determines the degree of business process standardization (consistency) and integration (information sharing) across business units. The book introduces the concept of the Operating Model, which defines the necessary level of business process standardization and integration. 
+The **Operating Model** is a core concept in *Enterprise Architecture as Strategy*, representing how an organization **structures its business processes and systems to deliver value**. It determines the degree of business process **standardization (consistency)** and **integration (information sharing)** across business units. The book introduces the concept of the Operating Model, which defines the necessary level of business process standardization and integration. 
 
 ![](assets/images/figures/strategy_operating_models.png)
 ***Figure 1:** Four types of operating models: diversification (low integration, low standardization), coordination (high integration, low standardization), replication (low integration, high standardization), and unification (high integration, high standardization).*
@@ -85,18 +86,15 @@ There are four types of operating models (Figure 1):
 <br>
 ### Diversification Model
 
-The **Diversification Model** features low integration and low standardization. Business units operate autonomously, catering to distinct markets or customer bases with little need to share data or processes. 
+The **Diversification Model** features **low integration** and **low standardization**. Business units operate **autonomously**, catering to distinct markets or customer bases with little need to share data or processes. 
 
 
 ![](assets/images/figures/strategy_diversification.png)
 ***Figure 2:** A high-level core diagram of the diversification operating model.*
 
-This model is ideal for conglomerates or holding companies with diverse business interests, such as General Electric or Berkshire Hathaway. 
+While it allows maximum flexibility and localized innovation, it **misses synergies** or cost savings opportunities. Business units operate independently and focus on autonomy to address unique markets or products (Figure 2). This approach is suited for organizations with diverse units serving distinct markets or customer bases, such as **holding companies or conglomerates**, where operational overlap is minimal.
 
-
-While it allows maximum flexibility and localized innovation, it misses synergies or cost savings opportunities. Business units operate independently and focus on autonomy to address unique markets or products (Figure 2). This approach is suited for organizations with diverse units serving distinct markets or customer bases, such as holding companies or conglomerates, where operational overlap is minimal.
-
-The model offers flexibility and innovation at the business unit level, enabling rapid adaptation to local or market-specific conditions. However, it comes with challenges, including missed opportunities for synergies, difficulties in achieving cost efficiencies, and potential complexities if integration becomes necessary.
+The model offers **flexibility and innovation** at the business unit level, enabling rapid adaptation to local or market-specific conditions. However, it comes with challenges and difficulties in achieving cost efficiencies, and potential complexities if integration becomes necessary.
 
 ![](assets/images/istock/iStock-1043605040.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
@@ -104,65 +102,54 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/elena
 </div>
 
 
-
-Typical examples include conglomerates like GE or Berkshire Hathaway, which manage unrelated product lines, and universities, where departments function independently with unique funding, research, and teaching methodologies.
-
 <br>
 ### Coordination Model
 
-The **Coordination Model** emphasizes high integration but low standardization. In this model, business units operate independently while sharing data and resources to ensure collaboration. The focus is on enabling interdependent parts of the organization to work together effectively. This model suits organizations with distinct business units that rely on shared data, such as healthcare systems where hospitals, clinics, and pharmacies collaborate through shared patient records.
+The **Coordination Model** emphasizes **high integration** but **low standardization**. In this model, business units **operate independently while sharing data** and resources to ensure collaboration. The focus is on enabling interdependent parts of the organization to work together effectively. This model suits organizations with distinct business units that rely on shared data, such as **healthcare systems** where hospitals, clinics, and pharmacies collaborate through **shared patient records** and **global supply chains** (where **inventory and demand data** are exchanged across geographically distributed warehouses and suppliers)..
 
 ![](assets/images/figures/strategy_coordination.png)
 ***Figure 3:** A high-level core diagram of the coordination operating model.*
 
-While it fosters informed decision-making and innovation, it demands robust integration technologies and governance mechanisms. The Coordination Operating Model emphasizes independent business units working collaboratively by sharing data and resources to align activities (Figure 3). It prioritizes collaboration and ensures that different parts of the organization can access and exchange critical information efficiently. This model is well-suited for organizations with distinct but interdependent units, such as those serving the same customers or operating within complex value chains where each unit brings specialized expertise while depending on others for overall efficiency.
+While it fosters informed decision-making and innovation, it **demands robust integration technologies and governance** mechanisms. It **prioritizes collaboration** and ensures that different parts of the organization can access and exchange critical information efficiently.
 
-The model supports informed decision-making by enabling access to shared data and fosters innovation at the business unit level without imposing rigid standardization. However, it also introduces challenges, such as managing the complexity of integrating diverse systems and processes and relying on advanced integration technologies and governance structures to maintain cohesion.
+The model **supports informed decision-making** by enabling access to shared data and fosters innovation at the business unit level **without imposing rigid standardization**. However, it also introduces challenges, such as **managing the complexity of integrating diverse systems** and processes and relying on advanced integration technologies and governance structures to maintain cohesion.
 
 ![](assets/images/istock/iStock-1400028174.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/NicoElNino">NicoElNino</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 
-Examples of this model include healthcare systems (where hospitals, clinics, and pharmacies share patient records) and global supply chains (where inventory and demand data are exchanged across geographically distributed warehouses and suppliers).
-
 <br>
 ### Replication Model
 
-The **Replication Model** combines low integration with high standardization. Business units function independently but follow standardized systems and processes. This model focuses on scalability and consistency, making it ideal for franchise-based organizations like McDonald’s or hotel chains. It allows for rapid scaling by replicating proven operations, though it can limit information sharing and create inefficiencies if local units require unique processes.
+The **Replication Model** combines **low integration** with **high standardization**. Business units function independently but follow **standardized systems and processes**. This model focuses on **scalability and consistency**, making it ideal for **franchise operations** like **McDonald’s** or **Starbucks**, where each location operates independently within a framework of standardized procedures, and **hotel chains**, where individual locations follow uniform service and operational guidelines while maintaining some level of independence. It allows for rapid scaling by **replicating proven operations**, though it can limit information sharing and create **inefficiencies if local units require unique processes**.
 
 ![](assets/images/figures/strategy_replication.png)
 ***Figure 4:** A high-level core diagram of the replication operating model.*
 
-The Replication Operating Model combines operational autonomy with standardized processes, systems, or templates (Figure 4). It focuses on scalability and consistency, enabling organizations to replicate successful practices across multiple locations or units. This approach is ideal for decentralized organizations performing similar functions, such as franchises or businesses expanding operations into new geographies.
-
-This model facilitates rapid scaling while maintaining consistency by reusing proven processes and systems. It also allows for local customization to address specific market needs. However, the model can face challenges, such as limited information sharing between units, which may stifle innovation, and potential inefficiencies when standardized processes do not align with local requirements.
+The Replication Operating Model combines operational autonomy with standardized processes, systems, or templates (Figure 4). This model facilitates rapid scaling while maintaining consistency by reusing proven processes and systems. 
 
 ![](assets/images/istock/iStock-1554955512.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Bim">Bim</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 
-Common examples include franchise operations like McDonald’s or Starbucks, where each location operates independently within a framework of standardized procedures, and hotel chains, where individual locations follow uniform service and operational guidelines while maintaining some level of independence.
+
 
 <br>
 ### Unification Model
 
-The **Unification Model** involves both high integration and high standardization. Here, business units are tightly connected and operate with consistent processes, emphasizing efficiency and a unified operating approach. This model suits organizations with centralized structures, such as retail chains or airlines, where a consistent customer experience and streamlined operations are critical. While the model enhances efficiency and consistency, it limits flexibility and requires substantial investment in standardized systems.
+The **Unification Model** involves both **high integration** and **high standardization**. Here, business units are **tightly connected** and operate with **consistent processes**, emphasizing **efficiency** and a **unified operating approach**. This model suits **organizations with centralized structures**, such as **retail chains**, where **point-of-sale** and **inventory systems** are standardized across all locations, or **airlines**, where a **consistent customer experience** and **streamlined operations** are critical. 
 
 ![](assets/images/figures/strategy_unification.png)
 ***Figure 5:** A high-level core diagram of the unification operating model.*
 
-The Unification Operating Model is characterized by tightly integrated business units operating with standardized processes, emphasizing efficiency and a single operating approach across the enterprise (Figure 5). This model is best suited for organizations with centralized structures that require consistent customer experiences or aim to achieve economies of scale, particularly when delivering similar products or services across regions or customer segments.
-
-
-Streamlined operations and standardized systems drive cost efficiencies and ensure consistency, improving quality and customer satisfaction. However, this approach can limit the flexibility of individual units and requires substantial investment in unified systems and processes to function effectively.
+The Unification Operating Model is characterized by tightly integrated business units operating with standardized processes, emphasizing efficiency and a single operating approach across the enterprise (Figure 5). Streamlined operations and standardized systems **drive cost efficiencies** and **ensure consistency**, improving quality and customer satisfaction. However, this approach can **limit the flexibility of individual units** and requires substantial investment in unified systems and processes to function effectively.
 
 ![](assets/images/istock/iStock-469802212.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/ollo">ollo</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
-This model includes retail chains, where point-of-sale and inventory systems are standardized across all locations, and airlines, which rely on uniform booking, pricing, and operational processes across flights and locations to maintain consistency and efficiency.
 
 <br>
 ### Choosing an Operating Model
@@ -178,7 +165,7 @@ Each operating model offers a distinct balance of standardization and integratio
 <br>
 ## Global vs. Local Business Flexibility
 
-Global flexibility refers to the organization's ability to adapt and respond to external changes, opportunities, and challenges that affect the entire enterprise or its overarching strategy. Local flexibility is the ability of individual business units, departments, or regions to respond quickly to their specific needs, opportunities, and challenges (Figure 6). Organizations can (a) focus on local flexibility at the cost of global flexibility,(b) focus on global flexibility at the cost of local flexibility, or (c) implement a standardized modular architecture that enables both high global and high local flexibility.
+**Global flexibility** refers to the organization's ability to adapt and respond to external changes, opportunities, and challenges that **affect the entire enterprise** or its overarching strategy. **Local flexibility** is the ability of **individual business units**, departments, or regions to respond quickly to their **specific needs, opportunities, and challenges** (Figure 6). Organizations can (a) focus on local flexibility at the cost of global flexibility,(b) focus on global flexibility at the cost of local flexibility, or (c) implement a standardized modular architecture that enables both high global and high local flexibility.
 
 ![](assets/images/figures/strategy_global_local_flexibility.png)
 ***Figure 6:** Balancing local and global business flexibility.*
@@ -187,34 +174,34 @@ Global flexibility refers to the organization's ability to adapt and respond to 
 <br>
 ### Global Flexibility
 
-Global flexibility refers to the organization's ability to adapt and respond to external changes, opportunities, and challenges that affect the entire enterprise or its overarching strategy. An example is a global retailer implements a centralized inventory management system that provides real-time stock visibility across all regions. This system enables the company to adapt to global supply chain disruptions or launch new global initiatives efficiently.
+As previously mentioned, **global flexibility** refers to the organization's ability to adapt and respond to external changes, opportunities, and challenges that affect the **entire enterprise** or its overarching strategy. An example is a **global retailer** implements a **centralized inventory management system** that provides real-time stock visibility across all regions. This system enables the company to **adapt to global supply chain disruptions** or **launch new global initiatives** efficiently.
 
 ![](assets/images/istock/iStock-904482308.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/chombosan">metamorworks</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 
-Global flexibility is characterized by an enterprise-wide perspective that emphasizes solutions, processes, and systems designed to enable adaptability across the organization. This approach ensures that shared capabilities, such as common data standards and unified platforms, are structured to support rapid pivots or innovation.
+Global flexibility is characterized by an **enterprise-wide perspective** that emphasizes solutions, processes, and systems designed to enable adaptability across the organization. This approach ensures that **shared capabilities**, such as common data standards and unified platforms, are structured to support rapid pivots or innovation.
 
-Key enablers of global flexibility include standardized platforms and technology stacks, unified governance and decision-making frameworks, and enterprise-wide data models with robust integration. These elements create a cohesive foundation that simplifies large-scale transformations and global initiatives. By standardizing processes and technologies, organizations can reduce redundancy and complexity while improving scalability across different regions or business units.
+**Key enablers** of global flexibility include **standardized platforms** and technology stacks, **unified governance** and decision-making frameworks, and **enterprise-wide data models** with robust integration. These elements create a cohesive foundation that simplifies large-scale transformations and global initiatives. By standardizing processes and technologies, organizations can **reduce redundancy and complexity** while **improving scalability** across different regions or business units.
 
-However, achieving global flexibility is not without its challenges. It can sometimes feel rigid to individual business units or regions that require specialized solutions. Additionally, centralized control may slow down localized innovation, potentially hindering responsiveness to unique regional needs.
+However, achieving global flexibility is not without its challenges. It can sometimes **feel rigid** to individual business units or regions that require specialized solutions. Additionally, centralized control may **slow down localized innovation**, potentially hindering responsiveness to unique regional needs.
 
 <br>
 ### Local Flexibility
 
-Local flexibility is the ability of individual business units, departments, or regions to respond quickly to their specific needs, opportunities, and challenges. An example is a multinational company operating in different countries that allows its regional offices to customize marketing campaigns based on local cultural preferences and consumer behavior.
+**Local flexibility** is the ability of **individual business units**, departments, or regions to respond quickly to their **specific needs, opportunities, and challenges**. An example is a **multinational company** operating in different countries that allows its **regional offices** to **customize marketing campaigns** based on local cultural preferences and consumer behavior.
 
 ![](assets/images/istock/iStock-468616573.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/_marqs">_marqs</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 
-Local flexibility is defined by a unit-specific perspective that prioritizes empowering local teams with tailored processes and solutions to address unique demands. This approach emphasizes decentralization and grants autonomy to individual business units or regions, fostering a focus on localized needs and innovation.
+Local flexibility is defined by a unit-specific perspective that prioritizes **empowering local teams** with **tailored processes and solutions** to address unique demands. This approach emphasizes decentralization and grants autonomy to individual business units or regions, fostering a focus on localized needs and innovation.
 
-The foundation of local flexibility lies in modular systems that support customization, decentralized governance and decision-making frameworks, and well-defined APIs or interfaces that enable seamless integration between local and global systems. These elements allow organizations to adapt quickly to specific market demands or functional requirements.
+The foundation of local flexibility lies in modular systems that **support customization, decentralized governance and decision-making frameworks**, and **well-defined APIs** or interfaces that enable seamless integration between local and global systems. These elements allow organizations to adapt quickly to specific market demands or functional requirements.
 
-This flexibility enhances customer satisfaction by addressing local or niche needs, encourages innovation through experimentation, and enables agility in smaller-scale contexts. However, it also presents challenges, such as the risk of fragmentation or duplication of efforts across the organization. Additionally, localized approaches can result in inefficiencies or integration difficulties when attempting to scale solutions at an enterprise-wide level.
+This **flexibility enhances customer satisfaction** by addressing local or niche needs, encourages **innovation through experimentation**, and enables **agility in smaller-scale contexts**. However, it also presents challenges, such as the risk of **fragmentation or duplication of efforts** across the organization. Additionally, localized approaches can result in **inefficiencies or integration** difficulties when attempting to scale solutions at an enterprise-wide level.
 
 <br>
 ### Balancing Global and Local Flexibility

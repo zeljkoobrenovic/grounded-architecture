@@ -47,20 +47,23 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Minin
 </style>
 
 <br>
-This section explores the intersection of Generative AI (GenAI) with IT Architecture, particularly through the perspective of the Grounded Architecture framework.
 
-From what I've experienced so far, Generative AI models are powerful tools for creating new content like text, code, images, and designs. They're transitioning from experimental uses to practical applications in various industries. The potential for GenAI to significantly benefit IT and Enterprise Architecture (EA) is evident, especially as traditional architects often face challenges in managing rapidly changing business needs with tools that can be slow and unconnected. GenAI is an opportunity to make architectural work more effective, automate repetitive tasks, and support faster, data-informed decision-making.
+This section explores the **intersection of Generative AI (GenAI)** with IT Architecture, particularly through the perspective of the **Grounded Architecture** framework.
 
-However, I've also learned that we might introduce more complexity or new challenges without a clear strategy for using GenAI. The Grounded Architecture approach helped me to leverage GenAI while managing its associated risks. This section is a practical guide for IT and Enterprise Architects looking to integrate GenAI into their IT architecture practices, based on my experiences combining it with Grounded Architectural ideas. I'll discuss GenAI's capabilities, ways to incorporate it, typical applications, potential benefits and challenges, responsible usage practices, and the future. My goal is to empower architects to view GenAI as a tool and a strategic asset in their architectural endeavors.
+From what I've experienced so far, Generative AI models are **powerful tools** for creating new content like text, code, images, and designs. They're transitioning from experimental uses to **practical applications** in various industries. The potential for GenAI to benefit IT and Enterprise Architecture (EA) is evident, especially as traditional architects often face challenges in managing rapidly changing business needs with tools that can be **slow and unconnected**. GenAI is an opportunity to make architectural work more effective, **automate repetitive tasks**, and support faster, data-informed decision-making.
+
+However, I've also learned that we might introduce more complexity or new challenges without a clear strategy for using GenAI. The Grounded Architecture approach helped me **leverage GenAI while managing its risks**. This section is a **practical guide for IT and Enterprise Architects** looking to integrate GenAI into their practices, based on my experiences combining it with Grounded Architectural ideas. I'll discuss GenAI's capabilities, ways to incorporate it, typical applications, potential benefits and challenges, responsible usage practices, and the future. My goal is to empower architects to view GenAI as a **strategic asset** in their architectural work.
 
 In [the appendix](gen-ai-prompts), I've included some Generative AI prompts I've experimented with for various tasks discussed in this section.
+
 
 *(To "eat my own dog food," this report stemmed from initial research and insights from the Gemini Deep Research chatbot. I refined the content using ChatGPT and polished the language with Grammarly, making extensive manual edits to ensure accuracy.)*
 
 <br>
 ## What Generative AI Can Do for Today's Architect
 
-Generative AI, or GenAI, refers to artificial intelligence systems trained on vast amounts of data to create new, realistic content, such as text, code, images, and designs, without simply copying the original data. Unlike traditional AI, which mainly analyzes data and makes predictions, GenAI is specifically **designed for creation.** Users typically interact with these models using plain language commands (prompts), unlocking various capabilities highly relevant to IT and Enterprise Architects.
+Generative AI, or **GenAI**, refers to **artificial intelligence systems** trained on **vast amounts of data** to create new, realistic content, such as **text, code, images, and designs**, without simply copying the original data. Unlike traditional AI, which mainly analyzes data and makes predictions, GenAI is specifically *designed for creation.* Users typically interact with these models using **plain language commands (prompts)**, unlocking various capabilities **highly relevant to IT and Enterprise Architects**.
+
 
 <br>
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover"
@@ -83,9 +86,9 @@ From my first experiences, I could see that GenAI provides architects with power
 * **Offering Recommendations and Suggestions:**
     Propose potential solutions, recommend suitable technologies or architectural patterns, suggest optimizations, and outline transition plans. However, the architects always retain the final validation and decision-making power.
 
-I believe that **Retrieval-Augmented Generation (RAG)** is a crucial technology for implementing GenAI in businesses. While standard GenAI models only generate responses based on their initial training data, RAG takes things a step further. It first searches for and retrieves relevant, up-to-date information from trusted sources within the company—such as internal documents, databases, or Enterprise Architecture repositories—before crafting a response. This approach ensures that the AI's output is grounded in current and reliable company data, making it much more valuable for decision-making.
+**Retrieval-Augmented Generation (RAG)** is a crucial technology for implementing GenAI in businesses. While standard GenAI models only generate responses based on their initial training data, RAG takes things a step further. It first **searches for and retrieves** relevant, up-to-date information from trusted sources within the company—such as **internal documents**, **databases**, or **Enterprise Architecture repositories**—before crafting a response. This approach ensures that the AI's output is **grounded in current and reliable company data**, making it much more valuable for decision-making.
 
-RAG is vital for **making GenAI outputs trustworthy,** accurate, and relevant to the specific business context. It helps reduce AI "hallucinations" (incorrect or nonsensical outputs), ensures decisions are based on verified knowledge, and strengthens the data-driven foundation of Grounded Architecture.
+RAG is vital for making GenAI outputs more **trustworthy**, **accurate**, and **relevant to the specific business context**. It helps **reduce AI "hallucinations"**, ensures decisions are based on **verified knowledge**, and strengthens the **data-driven foundation** of Grounded Architecture.
 
 <br>
 ## Integrating GenAI with Grounded Architecture
@@ -133,7 +136,7 @@ I see GenAI as a way to streamline architecture work by automating analysis, fac
 <br>
 ## Practical Examples: GenAI in Action
 
-I see GenAI as a very helpful tool for architects. By **handling repetitive tasks,** it allows them to focus more on important aspects of their work, like evaluating various options, collaborating with others, interpreting outcomes, and applying their own judgment. These are crucial parts of the Grounded Architecture approach, and it could make their workflow a bit more efficient.
+I see GenAI as a very helpful tool for architects. By **handling repetitive tasks**, it allows them to focus more on important aspects of their work, like **evaluating various options**, collaborating with others, **interpreting outcomes**, and applying their own judgment. These are crucial parts of the Grounded Architecture approach, and GenAI could make their **workflow more efficient**.
 
 <br>
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover"
@@ -200,7 +203,8 @@ However, I also recognize that these benefits come with risks. For instance, gai
 <br>
 ## Responsibly Adopting GenAI
 
-As organizations increasingly incorporate generative AI (GenAI) into their operations, it becomes essential to approach this transformative technology with careful consideration and strategic planning. The implementation of GenAI offers numerous opportunities for innovation and efficiency, yet it also brings forth challenges that must be navigated thoughtfully. To harness the full potential of GenAI while mitigating risks, organizations can benefit from a structured framework that prioritizes clear goals, robust governance, and a culture of responsible use. 
+As organizations increasingly incorporate **generative AI (GenAI)** into their operations, it becomes essential to approach this **transformative technology** with **careful consideration** and **strategic planning**. The implementation of GenAI offers numerous **opportunities for innovation and efficiency**, yet it also brings forth **challenges** that must be navigated thoughtfully. To harness the full potential of GenAI while **mitigating risks**, organizations can benefit from a **structured framework** that prioritizes **clear goals**, **robust governance**, and a **culture of responsible use**.
+
 
 <br>
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover"
@@ -224,7 +228,7 @@ Below are some effective practices I found useful to guide the successful integr
 <br>
 
 
-In conclusion, organizations grounded in data-driven practices, collaboration, and pragmatic operations are well-positioned to adopt GenAI responsibly—but success depends on setting clear goals, ensuring strong governance, maintaining human oversight, and fostering a culture of continuous learning, ethical use, and thoughtful system design.
+In conclusion, organizations grounded in data-driven practices, collaboration, and pragmatic operations are well-positioned to adopt GenAI responsibly—but success depends on setting **clear goals**, ensuring **strong governance**, maintaining **human oversight**, and fostering a culture of **continuous learning**, ethical use, and thoughtful system design.
 
 <br>
 ## The Evolving Landscape
