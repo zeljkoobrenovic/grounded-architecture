@@ -113,7 +113,7 @@ posts = [
     '2022-03-08-six-simple-rules.md',
     '2022-03-11-governance.markdown',
     '2022-03-15-value.markdown',
-    '2022-03-17-ai-operating-model-appendix.markdown',
+    '2022-03-17-ai-operating-model.markdown',
     '2022-06-01-being-architect.markdown',
     '2022-06-02-superglue.markdown',
     '2022-06-03-career-paths.markdown',

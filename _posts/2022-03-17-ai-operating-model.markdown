@@ -88,7 +88,7 @@ I believe that **Retrieval-Augmented Generation (RAG)** is a crucial technology 
 RAG is vital for **making GenAI outputs trustworthy,** accurate, and relevant to the specific business context. It helps reduce AI "hallucinations" (incorrect or nonsensical outputs), ensures decisions are based on verified knowledge, and strengthens the data-driven foundation of Grounded Architecture.
 
 <br>
-## Integrating GenAI with Grounded Architecture: Connecting Capabilities to the Framework
+## Integrating GenAI with Grounded Architecture
 
 I see a great potential of Generative AI has to enhance the architecture practice within the Grounded Architecture framework, particularly in areas like data analysis, knowledge sharing, and operational efficiency (see Figure 1).
 
@@ -288,7 +288,7 @@ These trends enhance the agility, responsiveness, and strategic value of Enterpr
 |                                           | Process Standardization                 | Helps draft standards and governance processes, and can check if proposals meet these standards.                                             |
 |                                           | Strategy Development                    | Summarizes current situations and suggests future strategies for areas like cloud, data, and technology platforms.                         |
 
-### GenAI Checklist
+### GenAI Best Practices Checklist
 
 | Best Practice Area    | Key Action/Consideration                                                      | Relevance to Grounded Architecture                                                     |
 | :-------------------- | :---------------------------------------------------------------------------- | :------------------------------------------------------------------------------------- |
