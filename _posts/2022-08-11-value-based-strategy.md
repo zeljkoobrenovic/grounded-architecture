@@ -55,7 +55,7 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Dilok
 
 <br>
 
-As IT architects, we often focus on designing scalable, secure, and efficient systems. However, true architectural success comes from aligning IT strategy with business value creation. Felix Oberholzer-Gee's article "[Eliminate Strategic Overload](https://hbr.org/2021/05/eliminate-strategic-overload)" introduces a **value-based strategy,** which simplifies strategic decision-making by focusing on initiatives that create substantial value for customers, employees, and suppliers. This concept directly relates to IT architecture, underscoring how technology decisions should support overarching business goals.
+As IT architects, we often focus on designing scalable, secure, and efficient systems. However, true architectural success comes from **aligning IT strategy with business value creation**. Felix Oberholzer-Gee’s article, “[**Eliminate Strategic Overload**](https://hbr.org/2021/05/eliminate-strategic-overload),” introduces a **value-based strategy**, which simplifies strategic decision-making by focusing on initiatives that create substantial **value for customers, employees, and suppliers**. This concept directly relates to IT architecture, underscoring how **technology decisions** should support **overarching business goals**.
 
 
 <br>
@@ -63,32 +63,50 @@ As IT architects, we often focus on designing scalable, secure, and efficient sy
 
 At its core, value-based strategy focuses on three key elements:  
 
-1. Creating value for customers by raising their willingness to pay (WTP).  
-2. Creating value for employees by making work more appealing.  
-3. Creating value for suppliers by reducing their operating costs.  
+1. Creating **value for customers** by raising their willingness to pay (WTP).  
+2. Creating **value for employees** by making work more appealing.  
+3. Creating **value for suppliers** by reducing their operating costs.  
 
 ![](assets/images/figures/value-based-strategy.png)
 ***Figure 1:** Value-based strategy focuses on three key elements.*
 
 <br>
 
-### Creating value for customers by raising willingness to pay (WTP)
+### Creating Value for Customers by Raising Willingness to Pay (WTP)
 
-Businesses succeed by enhancing customer experience and product appeal, making customers willing to pay more. IT architecture supports this by enabling seamless digital experiences, improving personalization, and ensuring high availability.  
+Businesses thrive when they deliver exceptional experiences that make customers value their products more—leading them to pay higher prices. A strong IT architecture enables this by powering digital innovations such as:
 
-### Creating value for employees by making work more appealing
+* **Personalized recommendations** (e.g., Netflix suggesting shows tailored to viewing history),
+* **Frictionless user experiences** (e.g., Amazon’s one-click purchasing),
+* **Reliable digital services** (e.g., mobile banking apps that are available 24/7).
 
-Organizations that improve employee work environments—through automation, better tools, and flexible work arrangements—reduce friction and increase job satisfaction. IT architecture plays a crucial role in providing these improvements.
+These IT-driven capabilities increase customer satisfaction and loyalty, thereby raising their willingness to pay.
 
-### Creating value for suppliers by reducing their operating costs
+### Creating Value for Employees by Making Work More Appealing
 
-Companies that improve supplier efficiency through optimized logistics, data insights, and digital tools create value for both parties. IT architectures that support real-time supply chain analytics and automation contribute to these efficiencies.  
+A productive, engaging work environment helps retain talent and boost performance. Organizations can achieve this by:
+
+* **Automating repetitive tasks** (e.g., using RPA tools to handle invoice processing),
+* **Providing intuitive digital tools** (e.g., Google Workspace for collaboration),
+* **Supporting hybrid work models** (e.g., secure remote access through VPNs and cloud-based apps).
+
+Robust IT architecture ensures these solutions are scalable, secure, and user-friendly—making daily work more enjoyable and efficient.
+
+### Creating Value for Suppliers by Reducing Their Operating Costs
+
+Collaborative partnerships with suppliers flourish when businesses help improve their efficiency. This can be done through:
+
+* **Streamlined logistics systems** (e.g., real-time tracking via IoT sensors),
+* **Data sharing for demand forecasting** (e.g., Walmart sharing POS data with suppliers),
+* **Self-service supplier portals** (e.g., automated invoice submission and status tracking).
+
+These capabilities rely on integrated IT systems that facilitate transparency, speed, and accuracy—reducing costs and strengthening supplier relationships.
 
 
 <br>
 ## Creating Technology Ecosystem For Business Success
 
-By embedding these principles into IT architecture, enterprises can create a technology ecosystem directly contributing to business success.  
+By **embedding these principles into IT architecture**, enterprises can create a technology ecosystem directly contributing to business success.  
 
 ![](assets/images/istock/iStock-2083917031.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
@@ -104,37 +122,54 @@ IT leaders should move beyond technical efficiency and align architectures with 
 5. **Building ecosystems and complements** with flexible, API-driven architectures.  
 6. **Enabling business model shifts** by designing adaptable IT infrastructures.  
 
-By adopting value-based strategy principles, IT architects ensure that technology is not just an operational enabler but a core driver of business value.
 
-### Reducing Complexity: Focusing on Fewer, High-Impact IT Initiatives 
+By adopting **value-based strategy principles**, **IT architects** ensure that technology is not just an **operational enabler** but a **core driver of business value**.
 
-Modern enterprises face strategic overload, where multiple competing initiatives dilute the impact. IT architecture often mirrors this complexity, with organizations maintaining redundant systems, fragmented data strategies, and competing technology stacks. Value-based strategy teaches that organizations should prioritize fewer high-impact initiatives that maximize value. Enterprise architects should streamline technology portfolios, eliminating redundant systems and focusing on platforms that create tangible business value. For instance, instead of maintaining multiple CRMs across different business units, a unified CRM that enhances customer experience and integrates with other business functions increases *willingness to pay (WTP)*.  
+<br>
+### Reducing Complexity: Focusing on Fewer, High-Impact IT Initiatives
 
+Modern enterprises face **strategic overload**, where multiple competing initiatives **dilute impact**. IT architecture often mirrors this complexity, with organizations maintaining **redundant systems**, **fragmented data strategies**, and **competing technology stacks**. Value-based strategy teaches that organizations should prioritize **fewer, high-impact initiatives** that **maximize value**. Enterprise architects should **streamline technology portfolios**, eliminating redundancies and focusing on platforms that create tangible business value.
+
+For instance, instead of maintaining multiple CRMs across business units, a **unified CRM** that enhances **customer experience** and integrates with other functions increases *willingness to pay (WTP)*.
+
+<br>
 ### Creating Value for Customers Through IT
 
-The article emphasizes that companies succeed by increasing customers' *willingness to pay (WTP)* by enhancing product appeal and experience. The IT architecture enables frictionless digital interactions, improves personalization, and ensures high system availability. Cloud-native architectures, AI-driven recommendations, and seamless omnichannel experiences contribute to higher WTP. For instance, Netflix's personalized recommendation engine increases customer retention by continuously improving engagement and perceived value.  
+The article emphasizes that companies succeed by increasing customers’ *willingness to pay (WTP)* through **enhanced product appeal** and **user experience**. IT architecture enables **frictionless digital interactions**, **personalization**, and **high system availability**. **Cloud-native architectures**, **AI-driven recommendations**, and **omnichannel experiences** contribute to higher WTP.
 
+For example, **Netflix’s personalized recommendation engine** boosts customer retention by improving engagement and perceived value.
+
+<br>
 ### Enhancing Employee Experience Through IT
 
-Value-based strategy also emphasizes improving employee work conditions to lower their *willingness to sell (WTS)*—in other words, making jobs more appealing. IT architecture can support this by providing better tools, automating repetitive tasks, and enabling flexible work arrangements. Enterprise systems should prioritize user-friendly interfaces, automation, and collaboration tools to enhance productivity and job satisfaction. For instance, adopting DevOps pipelines and infrastructure-as-code reduces friction in software deployment, making engineers more productive and engaged.  
+Value-based strategy also highlights improving employee conditions to reduce their *willingness to sell (WTS)*—making jobs **more appealing**. IT architecture supports this through **better tools**, **automation**, and **flexible work arrangements**. Enterprise systems should emphasize **user-friendly interfaces**, **automation**, and **collaboration tools** to improve **productivity** and **satisfaction**.
 
+For instance, DevOps pipelines and infrastructure-as-code streamline deployment, making engineers more productive and engaged.
+
+<br>
 ### Optimizing Supplier Relationships with Technology
 
-Companies create value by reducing suppliers' operating costs, which lowers their *willingness to sell (WTS)* and leads to better pricing and partnerships. IT architecture can support this through efficient procurement systems, automated supply chain management, and data-driven decision-making. Supply chain optimization can increase transparency, reduce costs, and improve supplier relationships. Nike's lean manufacturing training for suppliers, supported by data analytics, helped reduce costs and improve margins for Nike and its partners.  
+Companies create value by lowering suppliers’ WTS, reducing their **operating costs** and improving **partnerships**. IT architecture supports this through **efficient procurement**, **automated supply chains**, and **data-driven insights**.
 
+Example: **Nike’s lean manufacturing training**, backed by analytics, cut costs and improved margins for both Nike and its suppliers.
+
+<br>
 ### Leveraging IT to Create Complementary Value
 
-Value-based organizations seek *complements*—services or products that enhance the core offering rather than increasing sales. IT architecture should facilitate the integration of these complements. APIs and platform-based ecosystems enable businesses to offer complementary services seamlessly. For instance, Apple's ecosystem (iPhones, iPads, App Store, iCloud) thrives on integration, ensuring that complementary services increase customer stickiness.  
+Value-based organizations seek **complements**—products or services that **enhance the core offering**. IT architecture should enable this via **APIs** and **platform-based ecosystems**.
 
+For example, Apple’s integrated ecosystem (iPhones, App Store, iCloud) increases **customer stickiness** by delivering seamless complementary services.
+
+<br>
 ### Shifting Profit Pools with IT-Enabled Business Models
 
-As industries evolve, companies must shift their *profit pools*—moving value capture from core products to adjacent services. IT architectures need to be adaptable to support these strategic shifts. Cloud computing, SaaS models, and AI-driven insights allow businesses to pivot revenue models and enter new markets. For instance, Microsoft's shift from selling Windows licenses to a cloud-based subscription model (Azure, Office 365) reflects a profit pool shift that IT architecture enabled.  
+As industries evolve, companies must shift their **profit pools**—redirecting value capture to **adjacent services**. **Adaptive IT architectures** support these strategic pivots. Cloud computing, **SaaS models**, and **AI insights** help businesses transform.
+
+Example: Microsoft’s transition from Windows licenses to a **cloud-based subscription model** (Azure, Office 365) showcases a profit pool shift enabled by IT.
+
 
 <br>
 ## To Probe Further
-* [Enterprise Architecture as Strategy: Creating a Foundation for Business Execution](https://store.hbr.org/product/enterprise-architecture-as-strategy-creating-a-foundation-for-business-execution/8398) by Jeanne W. Ross, Peter Weill, and David C. Robertson, 2006. 
-* [The Discipline of Market Leaders](https://hbr.org/1993/01/customer-intimacy-and-other-value-disciplines) by Michael Treacy and Fred Wiersema, 1993.
-* [A New Way to Think: Your Guide to Superior Management Effectiveness](https://www.amazon.com/New-Way-Think-Management-Effectiveness-ebook/dp/B09KHKWB7B) by Roger L. Martin, 2022.
 * [A New Way to Think: Your Guide to Superior Management Effectiveness](https://www.amazon.com/New-Way-Think-Management-Effectiveness-ebook/dp/B09KHKWB7B) by Roger L. Martin, 2022.
 * [Eliminate Strategic Overload](https://hbr.org/2021/05/eliminate-strategic-overload) by Felix Oberholzer-Gee, 2021.
 

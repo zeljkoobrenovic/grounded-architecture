@@ -53,9 +53,9 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/gorod
 
 <br>
 
-Digital marketplaces facilitate transactions between buyers and sellers but do not act as the sellers or buyers themselves. They primarily sell a reduction in transaction costs across three dimensions: Search and Information Costs, Bargaining and Negotiation Costs, and Policing and Enforcement Costs. Various monetization strategies exist, including paid subscriptions, promoted listings, and additional services that reduce transaction costs.
+Digital marketplaces **facilitate transactions** between buyers and sellers but **do not act as the sellers or buyers themselves**. They primarily sell a **reduction in transaction costs** across three dimensions: **Search and Information** Costs, **Bargaining and Negotiation** Costs, and **Policing and Enforcement** Costs. Various monetization strategies exist, including paid subscriptions, promoted listings, and additional services that reduce transaction costs.
 
-A digital marketplace serves as an intermediary platform that connects buyers and sellers, facilitating transactions without holding inventory or providing the services themselves. Unlike traditional retailers, which manage their stock and directly sell goods or services, digital marketplaces provide infrastructure, trust, and efficiency to enable commerce (Figure 1).
+A digital marketplace serves as **an intermediary platform** that connects buyers and sellers, facilitating transactions without holding inventory or providing the services themselves. Unlike traditional retailers, which manage their stock and directly sell goods or services, digital marketplaces provide **infrastructure, trust, and efficiency** to enable commerce (Figure 1).
 
 ![](assets/images/figures/marketplace.png)
 ***Figure 1:**  The structure of multi-sided marketplaces, where a central platform facilitates interactions among various participants including buyers, sellers, advertisers, support agents, additional service providers (e.g., transport, insurance), and optionally intermediaries. The platform delivers core functions such as search and information, bargaining and negotiation, fulfillment, and policing and enforcement to enable smooth, trusted, and efficient transactions. Each stakeholder interacts with the platform in different ways, contributing to and benefiting from the ecosystem’s value exchange.*
@@ -69,7 +69,7 @@ Some well-known examples include:
 
 ## The Core Value Proposition: Reducing Transaction Costs
 
-Digital marketplaces generate value by reducing the costs associated with transactions.
+Digital marketplaces **generate value** by reducing the costs associated with transactions.
 
 ![](assets/images/figures/marketplace-value.png)
 ***Figure 2:**  Marketplaces sell a reduction in transaction costs: Search and Information Costs, Bargaining and Negotiation Costs, Policing and Enforcement Costs.*
@@ -99,11 +99,11 @@ Since the primary value offered by marketplaces is transaction cost reduction, m
 
 ## Building Digital Marketplaces
 
-Digital marketplaces do not sell physical goods or services directly. Instead, they sell efficiently by reducing transaction costs, making it easier, faster, and safer for buyers and sellers. Their monetization strategies capitalize on further reducing these costs, creating additional value for their users.
+Digital marketplaces do not sell physical goods or services directly. Instead, they sell efficiently by reducing transaction costs, making it **easier, faster, and safer for buyers and sellers**. Their monetization strategies capitalize on further reducing these costs, creating additional value for their users.
 
-By understanding these fundamental dynamics, businesses can effectively leverage digital marketplaces—either by participating as sellers or by developing new marketplace models tailored to specific industries and consumer needs.
+By understanding these fundamental dynamics, businesses can effectively leverage digital marketplaces—either by participating as sellers or by developing new **marketplace models** tailored to specific industries and consumer needs.
 
-The IT architecture of digital marketplaces is distinct from traditional e-commerce platforms due to its focus on scalability, automation, and multi-sided interactions. Unlike single-vendor online stores, digital marketplaces require a robust technology stack that supports seamless interactions between multiple buyers and sellers while ensuring platform reliability and security.
+The IT architecture of digital marketplaces is **distinct from traditional e-commerce platforms** due to its focus on **scalability, automation, and multi-sided interactions**. Unlike single-vendor online stores, digital marketplaces require a robust technology stack that supports seamless interactions between multiple buyers and sellers while ensuring platform reliability and security.
 
 <img style="margin-top: 0px; width: 100%; height: 400px; object-fit: cover" 
      src="assets/images/istock/iStock-2087790196.jpg">
