@@ -122,7 +122,7 @@ However, the model also presents challenges, such as the need for **clear govern
 
 
 <br>
-### Transactional Outsourcing
+## Transactional Outsourcing
 
 Transactional outsourcing is a **tactical approach** aimed at outsourcing **routine, non-strategic tasks** or processes to external providers. The primary objective is to achieve **cost efficiency** by transferring **repetitive** or **easily standardized functions** to these providers.
 
