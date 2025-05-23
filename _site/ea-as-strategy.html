@@ -39,7 +39,7 @@
         </nav><table style="border: none; font-size: 80%; margin: 0; padding: 0;">
     <tr style="border: none; margin: 0; padding: 0">
         <td style="border: none; margin: 0; padding: 0"><div style="font-size: 90%; color: #898989">On Strategy</div><a class="u-url" href="strategy">← On Strategy</a></td>
-        <td style="border: none; text-align: right; margin: 0; padding: 0"><div style="font-size: 90%; color: #898989">On Strategy</div><a class="u-url" href="business-architecture">Hunting the Ghost of Business Architecture →</a></td>
+        <td style="border: none; text-align: right; margin: 0; padding: 0"><div style="font-size: 90%; color: #898989">On Strategy</div><a class="u-url" href="outsourcing">Outsourcing Strategies →</a></td>
     </tr>
 </table>
 </div>
@@ -149,7 +149,7 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/CHUNY
 
 <p>The relationship between IT and business is <strong>inherently dynamic</strong>, where <strong>business needs shape IT solutions</strong>, and <strong>technological advancements influence strategic opportunities</strong>. New technology also demands <strong>a shift in management approaches</strong>, as traditional methods may not meet the <strong>unique demands of emerging technologies</strong>. Effective alignment requires <strong>integrating processes with systems</strong>, <strong>adapting workflows to leverage technology</strong>, and fostering collaboration between business leaders and IT teams. As both domains evolve, <strong>continuous realignment ensures agility</strong>, helping organizations remain competitive and maximize the <strong>mutual value of business and IT</strong>.</p>
 
-<p>In business strategy and IT architecture, I often draw inspiration from <strong><a href="https://store.hbr.org/product/enterprise-architecture-as-strategy-creating-a-foundation-for-business-execution/8398"><em>Enterprise Architecture as Strategy: Creating a Foundation for Business Execution</em></a></strong> by Jeanne W. Ross, Peter Weill, and David C. Robertson.</p>
+<p>In business strategy and IT architecture, I often draw inspiration from <a href="https://store.hbr.org/product/enterprise-architecture-as-strategy-creating-a-foundation-for-business-execution/8398"><em>Enterprise Architecture as Strategy: Creating a Foundation for Business Execution</em></a> by Jeanne W. Ross, Peter Weill, and David C. Robertson.</p>
 
 <p>I apply several <strong>core concepts from these works</strong> to shape my understanding of the <strong>interplay between business strategy and IT architecture</strong>:</p>
 
@@ -187,10 +187,12 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/CHUNY
 <p><br /></p>
 <h3 id="diversification-model">Diversification Model</h3>
 
-<p>The <strong>Diversification Model</strong> features <strong>low integration</strong> and <strong>low standardization</strong>, allowing business units to operate independently. This approach targets <strong>specific markets</strong> or customer segments with <strong>minimal need for sharing data or processes</strong> (Figure 2).</p>
+<p>The <strong>Diversification Model</strong> features <strong>low integration</strong> and <strong>low standardization</strong>, allowing business units to operate independently. This approach targets <strong>specific markets</strong> or customer segments with <strong>minimal need for sharing data or processes</strong>.</p>
 
-<p><img src="assets/images/figures/strategy_diversification.png" alt="" />
-<em><strong>Figure 2:</strong> A high-level core diagram of the diversification operating model.</em></p>
+<p><img src="assets/images/istock/iStock-1043605040.jpg" alt="" /></p>
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/elenabs">elenabs</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
+</div>
 
 <p><strong>Pros:</strong></p>
 <ul>
@@ -208,18 +210,129 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/CHUNY
 
 <p>This model is particularly suitable for <strong>holding companies</strong> or <strong>conglomerates</strong>, where <strong>operational overlap is limited</strong> and strategic focus varies among units.</p>
 
-<p><img src="assets/images/istock/iStock-1043605040.jpg" alt="" /></p>
-<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/elenabs">elenabs</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
-</div>
+<p><img src="assets/images/figures/strategy_diversification.png" alt="" />
+<em><strong>Figure 2:</strong> A high-level core diagram of the diversification operating model.</em></p>
+
+<p>In the <strong>Diversification Operating Model</strong>, where <strong>low integration and low standardization</strong> are key characteristics, the <strong>IT architecture</strong> and the <strong>work of IT architects</strong> must align with the model’s emphasis on autonomy, flexibility, and localized innovation  (Figure 2). Here’s a typical breakdown:</p>
+
+<p><strong>Federated or Decentralized IT Architecture</strong></p>
+
+<ul>
+  <li>Each business unit (BU) maintains its <strong>own IT systems</strong>, infrastructure, and applications.</li>
+  <li>There is <strong>no centralized IT backbone</strong>; instead, units choose solutions that best fit their specific needs.</li>
+  <li>Integration between units is minimal or non-existent.</li>
+</ul>
+
+<p><strong>Independent Technology Stacks</strong></p>
+
+<ul>
+  <li>Different BUs may use different vendors, platforms (e.g., AWS in one BU, Azure in another), and ERP systems.</li>
+  <li>Custom-built or best-of-breed systems tailored to the unit’s industry or market.</li>
+</ul>
+
+<p><strong>Minimal Shared Services</strong></p>
+
+<ul>
+  <li>Little to no shared databases, CRM, or ERP systems.</li>
+  <li>Exceptions might be for corporate-level compliance or financial reporting systems.</li>
+</ul>
+
+<p><strong>Focus on API Gateways or Minimal Interfacing</strong></p>
+
+<ul>
+  <li>If any communication is needed between units or with headquarters, lightweight APIs or integration layers may be used.</li>
+</ul>
+
+<p><strong>High Emphasis on Security and Governance at Unit Level</strong></p>
+
+<ul>
+  <li>Security is managed locally with standards possibly guided but not enforced by corporate IT.</li>
+</ul>
+
+<p><strong>Solution Architecture at the BU Level</strong></p>
+
+<ul>
+  <li>Architects work within individual business units, focusing on <strong>designing localized solutions</strong> that align with BU goals.</li>
+  <li>Heavy involvement in <strong>vendor selection</strong>, customization, and integration within the unit.</li>
+</ul>
+
+<p><strong>Enterprise Architecture (EA) Plays a Loose Governance Role</strong></p>
+
+<ul>
+  <li>EA provides <strong>guiding principles</strong> but does not enforce strict alignment across units.</li>
+  <li>May define <strong>broad security, compliance, and interoperability standards</strong> if needed.</li>
+</ul>
+
+<p><strong>Focus on Enabling Agility and Autonomy</strong></p>
+
+<ul>
+  <li>Architects prioritize fast deployment cycles, agile delivery methods, and flexibility in tech choice.</li>
+  <li>Responsible for <strong>building architecture that supports fast innovation</strong> and rapid response to market needs.</li>
+</ul>
+
+<p><strong>Limited Involvement in Cross-Unit Standardization</strong></p>
+
+<ul>
+  <li>Minimal focus on system consolidation or enterprise-wide standardization.</li>
+  <li>Instead, architects help manage <strong>technical debt</strong> and <strong>complexity</strong> within their own units.</li>
+</ul>
+
+<p><strong>Strategic Evaluation for Integration Opportunities (If Needed)</strong></p>
+
+<ul>
+  <li>Occasionally, architects may evaluate <strong>potential integration points</strong> (e.g., common analytics layer) to balance autonomy with potential synergies.</li>
+</ul>
+
+<p><br /></p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Aspect</th>
+      <th>Characteristic</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>IT Architecture Style</strong></td>
+      <td>Decentralized / Federated</td>
+    </tr>
+    <tr>
+      <td><strong>Technology Choices</strong></td>
+      <td>Independent per BU</td>
+    </tr>
+    <tr>
+      <td><strong>Integration Level</strong></td>
+      <td>Minimal</td>
+    </tr>
+    <tr>
+      <td><strong>Data Sharing</strong></td>
+      <td>Very limited or none</td>
+    </tr>
+    <tr>
+      <td><strong>IT Architect Focus</strong></td>
+      <td>BU-specific solutions, flexibility, innovation</td>
+    </tr>
+    <tr>
+      <td><strong>EA Role</strong></td>
+      <td>Loose oversight, optional guidelines</td>
+    </tr>
+    <tr>
+      <td><strong>Key Challenges</strong></td>
+      <td>Managing complexity, avoiding duplicated efforts, ensuring security compliance</td>
+    </tr>
+  </tbody>
+</table>
 
 <p><br /></p>
 <h3 id="coordination-model">Coordination Model</h3>
 
 <p>The <strong>Coordination Model</strong> is characterized by <strong>high integration</strong> and <strong>low standardization</strong>, allowing business units to operate independently while collaborating through shared data and resources (Figure 3). This approach is particularly effective in organizations with distinct units, such as <strong>healthcare systems</strong>, where hospitals, clinics, and pharmacies work together using <strong>shared patient records</strong>. It is also applicable in <strong>global supply chains</strong>, where <strong>inventory and demand data</strong> are exchanged across geographically dispersed warehouses and suppliers.</p>
 
-<p><img src="assets/images/figures/strategy_coordination.png" alt="" />
-<em><strong>Figure 3:</strong> A high-level core diagram of the coordination operating model.</em></p>
+<p><img src="assets/images/istock/iStock-1400028174.jpg" alt="" /></p>
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/NicoElNino">NicoElNino</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
+</div>
 
 <p><strong>Pros:</strong></p>
 
@@ -254,18 +367,130 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/elena
 
 <p>In summary, while the <strong>Coordination Model</strong> offers significant advantages in enabling collaboration and innovation, it also poses challenges related to system integration and governance that organizations must address to ensure successful implementation.</p>
 
-<p><img src="assets/images/istock/iStock-1400028174.jpg" alt="" /></p>
-<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/NicoElNino">NicoElNino</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
-</div>
+<p><img src="assets/images/figures/strategy_coordination.png" alt="" />
+<em><strong>Figure 3:</strong> A high-level core diagram of the coordination operating model.</em></p>
+
+<p>The <strong>Coordination Operating Model</strong>, which emphasizes <strong>high integration</strong> and <strong>low standardization</strong> across independent business units, leads to several requirements for IT architecture and the work of IT architects:</p>
+
+<p><strong>Federated Architecture with Strong Integration Backbone</strong></p>
+
+<ul>
+  <li>Business units maintain <strong>independent applications and processes</strong> but <strong>share key data</strong> through integration platforms (e.g., patient records, inventory data).</li>
+  <li>While there is <strong>no enforced process standardization</strong>, <strong>data consistency and availability</strong> across units are essential.</li>
+</ul>
+
+<p><strong>Integration-Centric Infrastructure</strong></p>
+
+<ul>
+  <li>Centralized or distributed <strong>integration platforms</strong> (e.g., ESB, API gateways, iPaaS) facilitate secure, real-time data exchange.</li>
+  <li>There is a focus on <strong>middleware and interoperability standards</strong> (e.g., HL7 in healthcare, EDI in supply chains).</li>
+</ul>
+
+<p><strong>Shared Data Repositories</strong></p>
+
+<ul>
+  <li>Shared master data (e.g., customer, patient, product, supplier records) require strong <strong>data governance and access controls</strong>.</li>
+  <li>The use of <strong>data lakes or federated databases</strong> supports analytics and cross-unit insights.</li>
+</ul>
+
+<p><strong>Domain-Oriented Architecture (e.g., Data Mesh Principles)</strong></p>
+
+<ul>
+  <li>Units are responsible for their own data domains but publish data to a shared infrastructure for enterprise-wide use.</li>
+  <li>This approach promotes <strong>decentralized ownership</strong> along with <strong>central coordination</strong>.</li>
+</ul>
+
+<p><strong>Secure, Scalable Network and Identity Management</strong></p>
+
+<ul>
+  <li><strong>Federated identity and access management (IAM)</strong> systems enable secure data access across units.</li>
+  <li>Robust <strong>data encryption, audit trails, and access policies</strong> are essential.</li>
+</ul>
+
+<p><strong>Integration Architecture Leadership</strong></p>
+
+<ul>
+  <li>IT architects design and oversee <strong>data integration strategies</strong>, ensuring consistency, security, and performance across all units.</li>
+  <li>They are responsible for the selection and implementation of <strong>integration technologies</strong>, protocols, and standards (e.g., RESTful APIs, GraphQL, Kafka, HL7).</li>
+</ul>
+
+<p><strong>Data Governance and Architecture</strong></p>
+
+<ul>
+  <li>Architects assist in defining <strong>shared data models</strong>, master data strategies, and governance frameworks.</li>
+  <li>They work closely with data stewards and governance bodies to ensure <strong>data quality and lifecycle management</strong>.</li>
+</ul>
+
+<p><strong>Cross-Domain Collaboration</strong></p>
+
+<ul>
+  <li>Facilitate coordination between independent business units to establish <strong>interoperability requirements</strong> and <strong>data-sharing agreements</strong>.</li>
+  <li>Help balance local autonomy with the need for <strong>enterprise-wide insights</strong>.</li>
+</ul>
+
+<p><strong>Enterprise Architecture as an Enabler</strong></p>
+
+<ul>
+  <li>Enterprise Architecture (EA) functions as a <strong>collaborative enabler</strong> rather than a central authority, setting guidelines for integration and shared platforms.</li>
+  <li>There is a focus on <strong>capability mapping, integration blueprints</strong>, and <strong>reference architectures</strong>.</li>
+</ul>
+
+<p><strong>Strategic Innovation Support</strong></p>
+
+<ul>
+  <li>Enable experimentation and innovation within business units while ensuring alignment with <strong>shared infrastructure and data strategies</strong>.</li>
+  <li>Architect solutions that support <strong>future scalability</strong> and the <strong>evolution of business needs</strong>.
+<br /></li>
+</ul>
+
+<table>
+  <thead>
+    <tr>
+      <th>Aspect</th>
+      <th>Characteristic</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>IT Architecture Style</strong></td>
+      <td>Federated with shared integration and data platforms</td>
+    </tr>
+    <tr>
+      <td><strong>Technology Choices</strong></td>
+      <td>BU-specific systems, but standardized integration</td>
+    </tr>
+    <tr>
+      <td><strong>Integration Level</strong></td>
+      <td>High – focused on data sharing and interoperability</td>
+    </tr>
+    <tr>
+      <td><strong>Data Sharing</strong></td>
+      <td>Extensive across units (e.g., patient records, supply chain data)</td>
+    </tr>
+    <tr>
+      <td><strong>IT Architect Focus</strong></td>
+      <td>Integration, data architecture, governance, enabling autonomy with coordination</td>
+    </tr>
+    <tr>
+      <td><strong>EA Role</strong></td>
+      <td>Collaborative enabler; sets integration/data standards without enforcing process uniformity</td>
+    </tr>
+    <tr>
+      <td><strong>Key Challenges</strong></td>
+      <td>Data consistency, integration complexity, governance at scale</td>
+    </tr>
+  </tbody>
+</table>
 
 <p><br /></p>
 <h3 id="replication-model">Replication Model</h3>
 
 <p>The <strong>Replication Model</strong> is characterized by <strong>low integration</strong> and <strong>high standardization</strong>, enabling business units to operate independently while adhering to <strong>standardized systems and processes</strong> (Figure 4). This model is particularly effective for <strong>franchise operations</strong>, such as <strong>McDonald’s</strong> and <strong>Starbucks</strong>, and for <strong>hotel chains</strong>, where each location maintains <strong>operational autonomy</strong> but follows <strong>uniform guidelines</strong> for service and operations.</p>
 
-<p><img src="assets/images/figures/strategy_replication.png" alt="" />
-<em><strong>Figure 4:</strong> A high-level core diagram of the replication operating model.</em></p>
+<p><img src="assets/images/istock/iStock-1554955512.jpg" alt="" /></p>
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Bim">Bim</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
+</div>
 
 <p><strong>Pros:</strong></p>
 <ul>
@@ -282,18 +507,131 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/NicoE
 
 <p>Overall, the <strong>Replication Operating Model</strong> effectively balances operational autonomy with consistency, enabling businesses to scale swiftly while maintaining their brand’s integrity. However, it is essential to be aware of its limitations to ensure that operational efficiency is not compromised.</p>
 
-<p><img src="assets/images/istock/iStock-1554955512.jpg" alt="" /></p>
-<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Bim">Bim</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
-</div>
+<p><img src="assets/images/figures/strategy_replication.png" alt="" />
+<em><strong>Figure 4:</strong> A high-level core diagram of the replication operating model.</em></p>
+
+<p>Here is a structured overview of the typical <strong>IT architecture</strong> and <strong>IT architect responsibilities</strong> for the <strong>Replication Operating Model</strong>. This model features <strong>low integration</strong> and <strong>high standardization</strong>, making it ideal for franchises and operations that require global consistency:</p>
+
+<p><strong>Centralized Standards, Decentralized Execution</strong></p>
+
+<ul>
+  <li><strong>Standardized applications and infrastructure</strong> are deployed across all business units or locations.</li>
+  <li>Each unit operates its own instance or environment while adhering to <strong>uniform processes, templates, and configurations</strong>.</li>
+</ul>
+
+<p><strong>Uniform IT Stack Across Units</strong></p>
+
+<ul>
+  <li>Common enterprise systems (e.g., POS, CRM, HR, inventory) are utilized globally with an <strong>identical setup</strong>.</li>
+  <li>Cloud or hybrid models often facilitate rapid deployment and centralized updates.</li>
+</ul>
+
+<p><strong>Minimal Real-Time Data Integration</strong></p>
+
+<ul>
+  <li>Units do <strong>not share operational data</strong> in real time with each other.</li>
+  <li>Periodic data aggregation may occur at a central location for reporting, compliance, or corporate oversight.</li>
+</ul>
+
+<p><strong>Standardized Deployment and Support Models</strong></p>
+
+<ul>
+  <li><strong>Infrastructure-as-Code (IaC)</strong> and automation are employed to replicate environments quickly and consistently.</li>
+  <li>Central IT may provide updates, patches, and support through a shared services model.</li>
+</ul>
+
+<p><strong>Controlled Autonomy</strong></p>
+
+<ul>
+  <li>Business units have <strong>limited flexibility</strong> in customizing systems to ensure <strong>global uniformity</strong>.</li>
+  <li>Central governance enforces compliance with established standards.</li>
+</ul>
+
+<p><strong>Platform and Application Standardization</strong></p>
+
+<ul>
+  <li>Architects design <strong>uniform IT solutions</strong> that can be deployed across units with minimal customization.</li>
+  <li>There is an emphasis on <strong>reusability, configuration over customization</strong>, and templated implementations.</li>
+</ul>
+
+<p><strong>Deployment Architecture and Automation</strong></p>
+
+<ul>
+  <li>Develop and maintain automated deployment strategies (e.g., using CI/CD pipelines, containers, cloud images).</li>
+  <li>Ensure consistency of environments across units by applying <strong>DevOps and IaC principles</strong>.</li>
+</ul>
+
+<p><strong>Reference Architecture Development</strong></p>
+
+<ul>
+  <li>Define <strong>blueprint architectures</strong> for infrastructure, security, networking, and applications.</li>
+  <li>Maintain architecture artifacts to facilitate rapid rollout and onboarding of new units.</li>
+</ul>
+
+<p><strong>Governance and Compliance Oversight</strong></p>
+
+<ul>
+  <li>Establish and enforce <strong>IT governance policies</strong> to maintain standardization.</li>
+  <li>Monitor compliance with <strong>corporate security, operational, and data handling standards</strong>.</li>
+</ul>
+
+<p><strong>Support Scalability and Localization (Where Needed)</strong></p>
+
+<ul>
+  <li>Provide mechanisms for <strong>minor localization</strong> (e.g., local taxes, languages) without deviating from the core architecture.</li>
+  <li>Architects must balance <strong>global consistency</strong> with <strong>necessary regional adaptability</strong>.</li>
+</ul>
+
+<p><br /></p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Aspect</th>
+      <th>Characteristic</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>IT Architecture Style</strong></td>
+      <td>Centralized standards with local instances</td>
+    </tr>
+    <tr>
+      <td><strong>Technology Choices</strong></td>
+      <td>Uniform across all business units</td>
+    </tr>
+    <tr>
+      <td><strong>Integration Level</strong></td>
+      <td>Low – limited to central reporting or oversight</td>
+    </tr>
+    <tr>
+      <td><strong>Data Sharing</strong></td>
+      <td>Minimal across units; centralized reporting only</td>
+    </tr>
+    <tr>
+      <td><strong>IT Architect Focus</strong></td>
+      <td>Standardization, repeatability, deployment automation</td>
+    </tr>
+    <tr>
+      <td><strong>EA Role</strong></td>
+      <td>Strong governance, template enforcement, compliance monitoring</td>
+    </tr>
+    <tr>
+      <td><strong>Key Challenges</strong></td>
+      <td>Managing local exceptions, maintaining global uniformity, automating scale</td>
+    </tr>
+  </tbody>
+</table>
 
 <p><br /></p>
 <h3 id="unification-model">Unification Model</h3>
 
 <p>The <strong>Unification Model</strong> is characterized by both <strong>high integration</strong> and <strong>high standardization</strong>, where business units are <strong>tightly connected</strong> and operate with <strong>consistent processes</strong> (Figure 5). This approach emphasizes <strong>efficiency</strong> and a <strong>unified operating framework</strong>, making it particularly suitable for <strong>centralized organizations</strong> like <strong>retail chains</strong> and <strong>airlines</strong>. For instance, retail chains benefit from standardized <strong>point-of-sale</strong> and <strong>inventory systems</strong> across all locations, while airlines rely on a <strong>consistent customer experience</strong> and <strong>streamlined operations</strong>.</p>
 
-<p><img src="assets/images/figures/strategy_unification.png" alt="" />
-<em><strong>Figure 5:</strong> A high-level core diagram of the unification operating model.</em></p>
+<p><img src="assets/images/istock/iStock-469802212.jpg" alt="" /></p>
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/ollo">ollo</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
+</div>
 
 <p><strong>Pros:</strong></p>
 <ul>
@@ -311,10 +649,121 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Bim">
 
 <p>In summary, while the <strong>Unification Model</strong> can enhance efficiency and uniformity across an organization, it may also present challenges in flexibility and require significant investments to implement successfully.</p>
 
-<p><img src="assets/images/istock/iStock-469802212.jpg" alt="" /></p>
-<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/ollo">ollo</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
-</div>
+<p><img src="assets/images/figures/strategy_unification.png" alt="" />
+<em><strong>Figure 5:</strong> A high-level core diagram of the unification operating model.</em></p>
+
+<p>Here is a structured overview of the typical <strong>IT architecture</strong> and <strong>IT architect responsibilities</strong> for the <strong>Unification Operating Model</strong>, which is defined by <strong>high integration</strong> and <strong>high standardization</strong>—optimal for centralized, process-driven organizations like <strong>retail chains</strong> and <strong>airlines</strong>:</p>
+
+<p><strong>Centralized, Monolithic or Modular Core Systems</strong></p>
+
+<ul>
+  <li>Enterprise-wide platforms (e.g., ERP, POS, CRM, HRM) are <strong>standardized and shared across all business units</strong>.</li>
+  <li>Systems are <strong>tightly integrated</strong>, often forming a <strong>single source of truth</strong>.</li>
+</ul>
+
+<p><strong>High Process Standardization</strong></p>
+
+<ul>
+  <li>Uniform processes for finance, HR, inventory, procurement, and customer service are enforced enterprise-wide.</li>
+  <li><strong>Business process management (BPM)</strong> systems or workflows may be used to ensure compliance.</li>
+</ul>
+
+<p><strong>Strong Data Integration and Centralization</strong></p>
+
+<ul>
+  <li>Centralized <strong>data warehouses</strong> or <strong>data lakes</strong> feed enterprise analytics and decision-making.</li>
+  <li>Real-time data synchronization across departments and locations (e.g., inventory availability across all stores).</li>
+</ul>
+
+<p><strong>Unified Security and Governance</strong></p>
+
+<ul>
+  <li>Standardized security policies, identity and access management, and compliance frameworks are applied universally.</li>
+  <li><strong>Central governance bodies</strong> oversee architecture, data, and infrastructure decisions.</li>
+</ul>
+
+<p><strong>Cloud-First or Hybrid Cloud Architecture</strong></p>
+
+<ul>
+  <li>Common use of <strong>enterprise-grade cloud platforms</strong> for scalability, availability, and centralized control.</li>
+  <li>Cloud-based or hybrid architecture enables consistent deployment across global locations.</li>
+</ul>
+
+<p><strong>Enterprise Architecture (EA) Leadership</strong></p>
+
+<ul>
+  <li>Architects define and enforce <strong>standard architectures</strong>, platforms, and design patterns.</li>
+  <li>Ensure systems are <strong>modular and scalable</strong>, but not diverging from enterprise-wide standards.</li>
+</ul>
+
+<p><strong>System Integration Architecture</strong></p>
+
+<ul>
+  <li>Architect and maintain <strong>enterprise integration frameworks</strong> (e.g., ESB, API management platforms, ETL pipelines).</li>
+  <li>Ensure <strong>seamless data flow</strong> between systems (e.g., POS to ERP, CRM to marketing platforms).</li>
+</ul>
+
+<p><strong>Governance and Standardization</strong></p>
+
+<ul>
+  <li>Drive <strong>compliance with architectural standards</strong> and system usage policies.</li>
+  <li>Define <strong>architecture roadmaps</strong>, governance models, and technology adoption plans.</li>
+</ul>
+
+<p><strong>Infrastructure and Deployment Strategy</strong></p>
+
+<ul>
+  <li>Design centralized, secure, and resilient infrastructure supporting <strong>multi-site operations</strong>.</li>
+  <li>Often involves <strong>centralized DevOps</strong>, CI/CD pipelines, and infrastructure automation.</li>
+</ul>
+
+<p><strong>Optimization and Efficiency Engineering</strong></p>
+
+<ul>
+  <li>Continual improvement of IT systems to increase <strong>operational efficiency</strong>, <strong>reduce technical debt</strong>, and <strong>optimize resource use</strong>.</li>
+  <li>Collaborate with operations teams to ensure that IT aligns tightly with business goals.</li>
+</ul>
+
+<p><br /></p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Aspect</th>
+      <th>Characteristic</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>IT Architecture Style</strong></td>
+      <td>Centralized, standardized, and highly integrated</td>
+    </tr>
+    <tr>
+      <td><strong>Technology Choices</strong></td>
+      <td>Uniform enterprise-wide platforms</td>
+    </tr>
+    <tr>
+      <td><strong>Integration Level</strong></td>
+      <td>Very high – all systems and data interconnected</td>
+    </tr>
+    <tr>
+      <td><strong>Data Sharing</strong></td>
+      <td>Seamless, real-time across all units</td>
+    </tr>
+    <tr>
+      <td><strong>IT Architect Focus</strong></td>
+      <td>System unification, standardization, integration, governance</td>
+    </tr>
+    <tr>
+      <td><strong>EA Role</strong></td>
+      <td>Strong leadership role in architectural decisions and enforcement</td>
+    </tr>
+    <tr>
+      <td><strong>Key Challenges</strong></td>
+      <td>Scalability, change management, high upfront investment, limited local flexibility</td>
+    </tr>
+  </tbody>
+</table>
 
 <p><br /></p>
 <h3 id="choosing-an-operating-model">Choosing an Operating Model</h3>
@@ -499,7 +948,7 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/mathi
         <div style="margin-bottom: -32px; margin-top: 28px"><table style="border: none; font-size: 80%; margin: 0; padding: 0;">
     <tr style="border: none; margin: 0; padding: 0">
         <td style="border: none; margin: 0; padding: 0"><div style="font-size: 90%; color: #898989">On Strategy</div><a class="u-url" href="strategy">← On Strategy</a></td>
-        <td style="border: none; text-align: right; margin: 0; padding: 0"><div style="font-size: 90%; color: #898989">On Strategy</div><a class="u-url" href="business-architecture">Hunting the Ghost of Business Architecture →</a></td>
+        <td style="border: none; text-align: right; margin: 0; padding: 0"><div style="font-size: 90%; color: #898989">On Strategy</div><a class="u-url" href="outsourcing">Outsourcing Strategies →</a></td>
     </tr>
 </table>
 </div>

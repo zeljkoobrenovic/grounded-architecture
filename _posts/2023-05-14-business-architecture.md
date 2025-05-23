@@ -1,8 +1,8 @@
 ---
 layout: post
-section: "On Strategy"
+section: "Appendix 5: Notes On Strategy"
 title: "Hunting the Ghost of Business Architecture"
-position: 8004
+position: 17014
 podcast: business-architecture.mp3
 spotify: https://open.spotify.com/episode/4xHNtXiFDjnV8Bosau4Hrm?si=4eyyCNA4SquG90xsOA3lGw
 date:   2021-10-21 21:12:01 +0100

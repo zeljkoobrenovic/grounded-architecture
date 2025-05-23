@@ -1,8 +1,8 @@
 ---
 layout: post
-section: "Appendix 4: Pragmatic Knowledge Resources"
+section: "Appendix 4: Pragmatic Tech Knowledge Resources"
 title: "Cloud Design Patterns"
-position: 12115
+position: 16115
 podcast: cloud-design-patterns.mp3
 spotify: https://open.spotify.com/episode/7oEv067ot97RKn6octRks8?si=53b5d55cdd7248ba
 date:   2021-10-21 21:12:01 +0100

@@ -1,8 +1,8 @@
 ---
 layout: post
-section: "On Strategy"
+section: "Appendix 5: Notes On Strategy"
 title: "Achieving Market Leadership"
-position: 8010
+position: 17010
 podcast: market-leadership.mp3
 spotify: https://open.spotify.com/episode/0S25mDfE35gv3EUHX2oOes?si=HC62zuHQQRGKwR_nXcMbwA
 date:   2021-10-21 21:12:01 +0100

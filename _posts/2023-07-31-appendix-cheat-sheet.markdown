@@ -1,8 +1,8 @@
 ---
 layout: post
-section: "Appendix 6: Other Things"
+section: "Appendix 7: Other Things"
 title: "Cheat Sheet"
-position: 12131
+position: 18131
 podcast: cheat-sheet.mp3
 spotify: https://open.spotify.com/episode/2EYcBZbk0ZeTEHKewrMqdZ?si=e0809dcf6a1549b8
 date:   2021-10-21 21:12:01 +0100

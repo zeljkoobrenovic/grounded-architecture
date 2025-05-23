@@ -1,8 +1,8 @@
 ---
 layout: post
-section: "Appendix 4: Pragmatic Knowledge Resources"
+section: "Appendix 4: Pragmatic Tech Knowledge Resources"
 title: "ISO 25010 Standard"
-position: 12114
+position: 16114
 podcast: iso25010.mp3
 spotify: https://open.spotify.com/episode/1YxB9Mfw9uMHhoVvlWJIqA?si=6774817a2f974168
 date:   2021-10-21 21:12:01 +0100

@@ -56,7 +56,7 @@ Tools for Navigating Workplace Dynamics:
 
 * **[Resources for Dealing With Scapegoating at Work](https://grounded-architecture.io/scapegoating)**: This section summarizes how professionals in high-pressure environments, such as IT and software engineering, can avoid unfair blame for systemic issues through strategies like clear communication, documentation, and fostering shared accountability.
 
-Pragmatic Knowledge Resources:
+Pragmatic Tech Knowledge Resources:
 
 * **[EIC/ISO 25010 Standard](https://grounded-architecture.io/iso25010)** focuses on product quality and system quality models. While imperfect, this standard is a reasonably complete yet compact source for understanding software maintainability, security, reliability, and performance efficiency. 
 

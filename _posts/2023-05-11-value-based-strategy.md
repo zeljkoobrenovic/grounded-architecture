@@ -1,8 +1,8 @@
 ---
 layout: post
-section: "On Strategy"
+section: "Appendix 5: Notes On Strategy"
 title: "Value-Based Strategy"
-position: 8011
+position: 17011
 podcast: value-based-strategy.mp3
 spotify: https://open.spotify.com/episode/055GIpxLymBM9W9eiMNYJs?si=DJheL5zXRRC8kCa8Ddo3UA
 date:   2021-10-21 21:12:01 +0100

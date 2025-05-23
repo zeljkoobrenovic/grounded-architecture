@@ -2,7 +2,7 @@
 layout: post
 section: "Appendix 3: Navigating Workplace Dynamics"
 title: "Dealing With Scapegoating at Work"
-position: 12113
+position: 14113
 podcast: scapegoating.mp3
 spotify: https://open.spotify.com/episode/7lsDGhQV81PwpcHCEKadRA?si=0eef02a3c3934517
 date:   2021-10-21 21:12:01 +0100

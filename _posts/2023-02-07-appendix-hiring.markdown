@@ -2,7 +2,7 @@
 layout: post
 section: "Appendix 2: Tools for Growing Architects"
 title: "Hiring Architects"
-position: 12107
+position: 13107
 podcast: growing.mp3
 spotify: https://open.spotify.com/episode/1rXU18LjsfUI62n0e365dy?si=9af1d564c5c445ae
 date:   2021-10-21 21:12:01 +0100

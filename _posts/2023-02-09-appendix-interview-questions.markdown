@@ -2,7 +2,7 @@
 layout: post
 section: "Appendix 2: Tools for Growing Architects"
 title: "Interview Questions for Hiring IT Architects"
-position: 12109
+position: 13109
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 permalink: interview-questions

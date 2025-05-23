@@ -1,8 +1,8 @@
 ---
 layout: post
-section: "On Strategy"
+section: "Appendix 5: Notes On Strategy"
 title: "Culture As a Strategy (aka Culture Eats Strategy for Breakfast)"
-position: 8015
+position: 17015
 podcast: culture-strategy.mp3
 spotify: https://open.spotify.com/episode/0BiW7lb6EADUvLk6MMRqfG?si=OTA5NzJ9RGWo9cmCSdKn8g
 date:   2021-10-21 21:12:01 +0100
