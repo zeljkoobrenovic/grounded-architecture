@@ -45,7 +45,7 @@ Grounded Architecture emerged as a necessity in response to our [intricate and m
 In following sections I will outline a breakdown of the goals I set for an architecture practice:
 * Goal 1: Executing At Scale,
 * Goal 2: Adaptivity,
-* Goal 3: Increasing Quality of Decisions with Data,
+* Goal 3: Enhancing Decision-Making Quality with Data,
 * Goal 4: Maximizing Organizational Alignment,
 * Goal 5: Maximizing Organizational Learning.
 
@@ -73,7 +73,7 @@ Some of the success criteria for this goal included:
 
 
 <br>
-## Goal 3: Increasing Quality of Decisions with Data
+## Goal 3: Enhancing Decision-Making Quality with Data
 
 Relying on gut feelings or individual opinions is always insufficient and risky when dealing with operations at scale. Decisions need to be based on solid data to **ensure accuracy and reliability.** Grounded Architecture aims to incorporate tools and mechanisms to support data-driven decision-making. By leveraging data and analytics, we can move away from subjective opinions and towards more objective, evidence-based decisions. This approach should enhance the quality of our decisions and facilitate their consistency and alignment with our organizational goals.
 
