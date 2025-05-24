@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-05-24T18:30:20+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: Redefining IT Architecture Practice</title><subtitle></subtitle><entry><title type="html">Cheat Sheet</title><link href="http://localhost:4000/cheat-sheet" rel="alternate" type="text/html" title="Cheat Sheet" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/appendix-cheat-sheet</id><content type="html" xml:base="http://localhost:4000/cheat-sheet"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/istock/iStock-1182643171.jpg" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-05-24T20:17:35+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: Redefining IT Architecture Practice</title><subtitle></subtitle><entry><title type="html">Cheat Sheet</title><link href="http://localhost:4000/cheat-sheet" rel="alternate" type="text/html" title="Cheat Sheet" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/appendix-cheat-sheet</id><content type="html" xml:base="http://localhost:4000/cheat-sheet"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/istock/iStock-1182643171.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Tashulia">Tashulia</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
@@ -281,247 +281,416 @@ h3 {
 </style>
 
 <p><br />
-Have you ever wondered how to operate an IT architecture practice without <strong>feeling isolated in an ivory tower</strong>? Look no further! This book shares an approach to running an IT architecture practice in larger organizations, drawing from my experiences at AVIV Group, eBay Classifieds, and Adevinta. I call this approach “<strong>Grounded Architecture</strong>” because it emphasizes <strong>keeping your feet on the ground</strong> and ensuring your architecture is <strong>firmly rooted in reality</strong>.</p>
+Have you ever wondered how to run an IT architecture practice without <strong>feeling isolated in an ivory tower</strong>, detached from your organization’s people, problems, and realities?</p>
 
-<p>The approach presented in this book connects architecture to every aspect of your organization, ensuring that you are not just a lone wizard in a tower casting spells that no one understands. Grounded Architecture <strong>prioritizes relationships with people and data</strong> over elaborate theories, processes, and tools. This book will provide new insights into IT architecture, redefining it as a <strong>collaborative, adaptable, and outcome-oriented practice</strong>.</p>
+<p>If so, this book is for you.</p>
 
-<p>The term “Grounded Architecture” is <strong>inspired by the Grounded Theory</strong> methodology. Grounded Theory involves developing theories based on real-world data rather than deriving them from abstract concepts. Similarly, Grounded Architecture <strong>evolves from honest feedback and data</strong> rather than outdated books filled with theoretical principles.</p>
+<p>Based on my experiences at AVIV Group, eBay Classifieds, and Adevinta, I introduce an approach I call <strong>Grounded Architecture</strong>. This <strong>practical, human-centered method</strong> emphasizes connecting to real-world challenges, real-time data, and real people.</p>
+
+<p>Grounded Architecture is about <strong>keeping your feet on the ground</strong> rather than floating above the fray. It focuses on <strong>making architecture relevant, collaborative, and responsive</strong> to our fast-paced environments. It redefines architecture not as a set of abstract frameworks but as a living, evolving discipline rooted in relationships, results, and continuous learning.</p>
+
+<p>In too many organizations, architects are viewed as distant wizards casting spells from a tower—producing documents no one reads and models no one uses. Grounded Architecture challenges that perception by <strong>promoting an architecture practice embedded in the organization’s fabric</strong>, which is connected to strategy, delivery, operations, and, most importantly, people.</p>
+
+<p>This approach places data and collaboration at the center rather than relying on heavy-handed processes or over-engineered tools. It <strong>draws inspiration from Grounded Theory</strong>, a research methodology that develops theories from real-world data rather than abstract ideals. In the same spirit, Grounded Architecture evolves through continuous feedback, real usage, and tangible impact—not just best practices from outdated textbooks.</p>
+
+<p>Throughout this book, I will share insights, tools, and stories to help you build an architecture practice that is:</p>
+
+<ul>
+  <li><strong>Collaborative</strong>, not isolated</li>
+  <li><strong>Adaptable</strong>, not rigid</li>
+  <li><strong>Outcome-oriented</strong>, not obsessed with processes</li>
+</ul>
+
+<p>If you’re an architect, engineering leader, or technologist looking to make architecture more effective and human, this book offers a grounded path forward.</p>
 
 <h2 id="grounded-architecture-overview">Grounded Architecture Overview</h2>
 
-<p>This book presents Grounded Architecture in two main parts (see Figure 1):</p>
+<p>This book introduces <strong>Grounded Architecture</strong>, a practical, people-centered approach to managing an IT architecture practice—especially in complex, fast-paced organizations. It is based on my experiences at <strong>AVIV Group</strong>, <strong>eBay Classifieds</strong>, and <strong>Adevinta</strong>, and is designed to help you overcome the stereotype of the <strong>“architect in the ivory tower.”</strong></p>
 
-<ul>
-  <li><strong>Framework:</strong> This section provides the essential elements to establish your Grounded Architecture practice.</li>
-  <li><strong>Guiding Principles:</strong> This part offers useful tips and inspiration to help you effectively implement Grounded Architecture’s elements.</li>
-</ul>
+<p>Instead, this approach reimagines architecture as <strong>deeply embedded</strong>, <strong>collaborative</strong>, and <strong>realistic</strong>—firmly rooted in the needs of teams, data, and outcomes.</p>
 
-<p><img src="assets/images/model.png" alt="" />
-<em><strong>Figure 1:</strong>  Grounded Architecture Overview.</em></p>
+<h3 id="two-main-parts">Two Main Parts</h3>
 
-<p><br />
-The Grounded Architecture framework consists of three key elements:</p>
+<p>The book is divided into two complementary sections (see <em>Figure 1</em>):</p>
 
 <ol>
-  <li>
-    <p><strong>Lightweight Architectural Analytics (Data)</strong>: This element ensures that architectural decisions are based on accurate and comprehensive information about your organization’s technology landscape.</p>
-  </li>
-  <li>
-    <p><strong>Collaborative Networks (People)</strong>: This aspect emphasizes the importance of having a strong network of individuals involved in architecture throughout your organization, ensuring that your efforts are impactful.</p>
-  </li>
-  <li>
-    <p><strong>Operating Model</strong>: The operating model encompasses several sections:</p>
-    <ul>
-      <li><strong><a href="operating-model">General Principles</a></strong>: An effective architecture practice must be tailored to the organization’s unique needs. It should be based on collaboration, clear rules of engagement, and a focus on enabling teams through strategic alignment, distributed decision-making, and supported standards, such as golden paths.</li>
-      <li><strong><a href="six-simple-rules">Cooperation-Based Operating Model</a></strong>: The Grounded Architecture operating model is collaborative. It focuses on establishing organizational structures based on cooperation, allowing architects to work effectively with others and make a meaningful impact. One helpful approach for fostering this collaborative mindset is the Six Simple Rules method, developed by Yves Morieux and Peter Tollman. This framework encourages organizations to adapt to complexity by promoting autonomy and cooperation among their members.</li>
-      <li><strong><a href="governance">IT Governance: Nudge, Taxation, Mandates</a></strong>: A technology governance model is essential for any architecture operating model. I assert that IT governance should be a balanced hybrid of three governance styles: mandates, bans, taxes, and nudging.</li>
-      <li><strong><a href="gen-ai-potential">Leveraging the Potential of Generative AI within the Grounded Architecture Framework</a></strong>: As someone actively involved in architectural practices in complex environments, I have experimented with Generative AI tools to enhance our workflows. Below are initial insights, lessons learned, and practical suggestions for other architects interested in similar enhancements.</li>
-    </ul>
-  </li>
+  <li><strong>Framework</strong> – The essential components that will enable you to build your own Grounded Architecture practice.</li>
+  <li><strong>Guiding Principles</strong> – Practical insights, tips, and inspiration to help you apply the framework effectively and sustainably.</li>
 </ol>
 
-<p>These sections outline a framework of processes and agreements that enable architects to thrive by leveraging data and collaborative connections, ultimately creating a powerful, organization-wide impact.</p>
+<p><br /></p>
 
-<p>As part of my Grounded Architecture quest, I’ve devised several guiding principles and tools to help you sprinkle Grounded Architecture magic in your practice. While traditional IT architecture literature often zeros in on technical know-how, this collection dares you to think differently about IT architecture and to dive into the rich insights of social, behavioral, and management sciences. These resources are grouped into several parts and are sure to make your journey both insightful and entertaining:</p>
+<p><img src="assets/images/model.png" alt="" />
+<em><strong>Figure 1:</strong> Grounded Architecture Overview</em></p>
+
+<h3 id="the-grounded-architecture-framework">The Grounded Architecture Framework</h3>
+
+<p>The framework consists of <strong>three core elements</strong>:</p>
 
 <ul>
-  <li><a href="being-architect"><strong>On Being an Architect</strong></a>:
-    <ul>
-      <li><a href="skills">Building Skills</a></li>
-      <li><a href="impact">Making Impact</a></li>
-      <li><a href="leadership">Leadership</a></li>
-      <li><a href="superglue">Thinking Like an Architect: Architects as Superglue</a></li>
-      <li><a href="balancing">Balancing Curiosity, Doubt, Vision, and Skepticism</a></li>
-      <li><a href="career-paths">Architects’ Career Paths</a></li>
-    </ul>
+  <li>
+    <p><strong><a href="analytics">Lightweight Architectural Analytics (Data)</a></strong>: This element enables data-informed decisions by providing accurate, up-to-date insights into your organization’s technology landscape.</p>
   </li>
-  <li><a href="human-complexity"><strong>On Human Complexity</strong></a>:
-    <ul>
-      <li><a href="culture-map">The Culture Map: Architects’ Culture Compass</a></li>
-      <li><a href="human-decisions">The Human Side of Decision-Making</a></li>
-      <li><a href="effortless">Effortless Architecture</a></li>
-    </ul>
+  <li>
+    <p><strong><a href="people">Collaborative Networks (People)</a></strong>: This emphasizes the power of relationships and peer networks to scale architectural influence and ensure shared ownership of key decisions.</p>
   </li>
-  <li><a href="strategy"><strong>On Strategy</strong></a>:
+  <li>
+    <p><strong>Operating Model</strong>: This offers the governance structures, principles, and practices that shape how architecture functions across the organization. This includes:</p>
+
     <ul>
-      <li><a href="ea-as-strategy">Enterprise Architecture as Strategy</a></li>
-      <li><a href="outsourcing">Outsourcing Strategies</a></li>
-    </ul>
-  </li>
-  <li><a href="expanding-toolkit"><strong>Expanding the Architect’s Toolkit: Learning From Other Fields</strong></a>:
-    <ul>
-      <li><a href="economics">Economic Modeling With ROI and Financial Options: Learning From the Finance Field</a></li>
-      <li><a href="product">Architecture in Product-Led Organizations: Learning From Customer-Centric Fields</a></li>
-      <li><a href="decision-intelligence">Decision Intelligence in IT Architecture: Learning From Data, Social, and Managerial Fields</a></li>
-      <li><a href="big-transformations">How Big Transformations Get Done: Learning From Mega-Projects</a></li>
+      <li><strong><a href="operating-model">General Principles</a>:</strong> Aligning architecture with your organization’s reality by focusing on collaboration, autonomy, and strategic alignment rather than top-down control.</li>
+      <li><strong><a href="six-simple-rules">Cooperation-Based Operating Model</a>:</strong> Inspired by <em>Six Simple Rules</em> (Morieux &amp; Tollman), this model encourages shared accountability and flexible structures to navigate complexity.</li>
+      <li><strong><a href="governance">IT Governance: Nudge, Taxation, Mandates</a>:</strong> Governance should be a <strong>balanced mix</strong> of soft influence (nudging), economic signals (taxes), and clear boundaries (mandates/bans).</li>
+      <li><strong><a href="gen-ai-potential">Generative AI in Grounded Architecture</a>:</strong> Based on my early explorations, this section shares practical ways to integrate GenAI tools into architectural workflows while maintaining integrity and oversight.</li>
     </ul>
   </li>
 </ul>
 
-<p>If all this is not enough, in the online appendix I outline several resources that have proven vital in my journey as an IT architect. I routinely refer back to them and carry them in my practitioner “backpack,” so I added their summaries in the online <a href="appendix">appendix</a>, including:</p>
+<p>These components together form a <strong>pragmatic, adaptive foundation</strong> for modern architectural practice—grounded in <strong>data, people, and results</strong>.</p>
+
+<h3 id="guiding-principles-and-inspiration-books-2-and-3">Guiding Principles and Inspiration (Books 2 and 3)</h3>
+
+<p>Beyond the framework, this book offers a set of <strong>practical tools and reflections</strong> that explore the human, strategic, and behavioral dimensions of architecture. These principles are grouped into thematic areas:</p>
+
+<h4 id="on-being-an-architect"><a href="being-architect"><strong>On Being an Architect</strong></a></h4>
+
+<p>Explore the mindset and meta-skills of effective architects:</p>
+
+<ul>
+  <li><a href="skills">Building Skills</a>, <a href="impact">Making Impact</a>, <a href="leadership">Leadership</a></li>
+  <li><a href="superglue">Thinking Like an Architect: Superglue</a></li>
+  <li><a href="balancing">Balancing Curiosity and Skepticism</a></li>
+  <li><a href="career-paths">Navigating Career Paths</a></li>
+</ul>
+
+<h4 id="on-human-complexity"><a href="human-complexity"><strong>On Human Complexity</strong></a></h4>
+
+<p>Architecture is not just technical—it is deeply social:</p>
+
+<ul>
+  <li><a href="culture-map">The Culture Map</a></li>
+  <li><a href="human-decisions">The Human Side of Decision-Making</a></li>
+  <li><a href="effortless">Effortless Architecture</a></li>
+</ul>
+
+<h4 id="on-strategy"><a href="strategy"><strong>On Strategy</strong></a></h4>
+
+<p>Position architecture as a strategic enabler:</p>
+
+<ul>
+  <li><a href="ea-as-strategy">Enterprise Architecture as Strategy</a></li>
+  <li><a href="outsourcing">Outsourcing Strategies</a></li>
+</ul>
+
+<h4 id="expanding-the-architects-toolkit"><a href="expanding-toolkit"><strong>Expanding the Architect’s Toolkit</strong></a></h4>
+
+<p>Learn from adjacent fields to elevate your practice:</p>
+
+<ul>
+  <li><a href="economics">Economics and ROI Modeling</a></li>
+  <li><a href="product">Customer-Centric Thinking</a></li>
+  <li><a href="decision-intelligence">Decision Intelligence and Systems Thinking</a></li>
+  <li><a href="big-transformations">Lessons from Mega-Projects</a></li>
+</ul>
+
+<h3 id="online-appendix-my-architecture-backpack">Online Appendix: My Architecture Backpack</h3>
+
+<p>Throughout my career, I have relied on a curated set of resources—books, tools, and articles—that continue to shape my thinking. I’ve compiled these for you in the <a href="appendix"><strong>appendix</strong></a>, which includes:</p>
 
 <ul>
   <li><a href="https://grounded-architecture.io/quotes">Favorite Quotes</a></li>
   <li><a href="https://grounded-architecture.io/bookshelf">Bookshelf</a></li>
-  <li><a href="https://grounded-architecture.io/growing">Resources for Managing, Growing, and Hiring Architects</a></li>
-  <li><a href="https://grounded-architecture.io/communication">Resources for Effective Communication</a></li>
-  <li><a href="https://grounded-architecture.io/toxic-colleagues">Resources for Working With Toxic Colleagues</a></li>
-  <li><a href="https://grounded-architecture.io/scapegoating">Resources for Dealing With Scapegoating at Work</a></li>
-  <li><a href="https://grounded-architecture.io/iso25010">EIC/ISO 25010 Standard</a></li>
+  <li><a href="https://grounded-architecture.io/growing">Growing &amp; Hiring Architects</a></li>
+  <li><a href="https://grounded-architecture.io/communication">Effective Communication</a></li>
+  <li><a href="https://grounded-architecture.io/toxic-colleagues">Dealing with Toxic Colleagues</a></li>
+  <li><a href="https://grounded-architecture.io/scapegoating">Scapegoating at Work</a></li>
+  <li><a href="https://grounded-architecture.io/iso25010">ISO 25010 Quality Model</a></li>
   <li><a href="https://grounded-architecture.io/cloud-design-patterns">Cloud Design Patterns</a></li>
-  <li><a href="business-architecture">Hunting the Ghost of Business Architecture</a></li>
-  <li><a href="market-leadership">Achieving Market Leadership</a></li>
+  <li><a href="business-architecture">Business Architecture Insights</a></li>
   <li><a href="value-based-strategy">Value-Based Strategy</a></li>
-  <li><a href="marketplaces">Marketplace Strategies: What Digital Marketplaces Sell?</a></li>
-  <li><a href="marketing-sales-strategy">Connecting Marketing, Sales, and Customer Service Strategies</a></li>
-  <li><a href="culture-strategy">Culture As a Strategy (aka Culture Eats Strategy for Breakfast)</a></li>
+  <li><a href="marketplaces">Digital Marketplace Thinking</a></li>
+  <li><a href="marketing-sales-strategy">Connecting Marketing and Architecture</a></li>
+  <li><a href="culture-strategy">Culture as a Strategy</a></li>
 </ul>
 
-<p>The rest of this book will explain the Grounded Architecture approach in detail. In this section, I want to share a few things about my motivation to write this book.</p>
+<p>Before diving into the full framework, I would like to share some thoughts on <strong>why</strong> I wrote this book.</p>
 
 <h2 id="what-will-you-learn">What Will You Learn?</h2>
 
-<p>This books serves as a guideline to build and <strong>operate a robust IT architecture practice,</strong> ensuring alignment with organizational goals while adapting to the challenges of modern IT environments.</p>
+<p>This book is a <strong>practical guide</strong> to building and managing a <strong>robust, modern IT architecture practice</strong>. It aims to help you align with organizational goals, navigate complexity, and thrive in today’s rapidly evolving IT environments.</p>
+
+<p>Whether you’re a practicing architect, a leader of architects, or someone working closely with them, this book will provide you with <strong>insight, structure, and inspiration</strong>.</p>
 
 <h3 id="key-topics">Key Topics</h3>
 
-<p>The book will provide you with tips and inspirations about work that you need to set up and run a modern IT architecture practice, including:</p>
+<p>You’ll discover useful perspectives and actionable advice on how to:</p>
 
 <ul>
-  <li>Create flexible organizational and technical <strong>structures</strong> to  support IT architecture work,</li>
-  <li>Define IT <strong>architecture roles</strong> and responsibilities, skills, and career paths,</li>
-  <li>Operate an <strong>effective IT architecture practice</strong> in complex multicultural organizations.</li>
+  <li><strong>Create flexible organizational and technical structures</strong> that support and scale IT architecture work.</li>
+  <li><strong>Define architecture roles, skills, and career paths</strong> to help your architects grow and succeed.</li>
+  <li><strong>Operate an architecture practice effectively</strong> in diverse, complex, and multicultural environments.</li>
+  <li>Learn from <strong>real-world lessons and insights</strong> based on my experiences at AVIV Group, eBay Classifieds, and Adevinta.</li>
 </ul>
 
-<p>I also provide a number of other ad-hoc lessons and inspirations from my work.</p>
+<h3 id="format--structure">Format &amp; Structure</h3>
 
-<h3 id="format">Format</h3>
+<p>I’ve organized this book as a <strong>high-level “playbook”</strong> for running an architecture practice or working as an architect. Each section introduces a topic, offers <strong>concrete tips</strong>, and concludes with <strong>reflective questions</strong> to help you apply the ideas in your context.</p>
 
-<p>I have organized my lessons and insights in a form that, if you recognize the problems and are inspired by solutions, could use as a <strong>high-level “playbook”</strong> about how to work as an architect or run an architecture practice. I also provide more concrete tips on each discussed topic, finishing each section with questions you should consider when addressing these topics.</p>
+<p>You can read this book <strong>cover to cover</strong> or dip into it based on your current needs and interests. With rich <strong>illustrations</strong> and conceptual visuals, it also functions as a <strong>“coffee table book”</strong>—perfect for team discussions, sparking conversations, or flipping through for inspiration.</p>
 
-<p>I invite you to read this book from <strong>beginning to end</strong>, following the progression from data and basic structures to management and organizational topics. However, you can <strong>also browse the text</strong> and start reading whatever interests you. I use many <strong>illustrations</strong> to create easy-to-remember pictures that you can associate with discussed topics, making the book usable across your organization as a <strong>coffee table book</strong>, serving as an inspiration, or sparking discussions.</p>
+<h3 id="what-this-book-is-not">What This Book Is <em>Not</em></h3>
 
-<h3 id="content">Content</h3>
+<p>This book is <strong>not a technical manual</strong>. It does not discuss cloud infrastructure, cybersecurity, database sharding, or performance optimization in depth. While these are essential skills, they are well-covered elsewhere.</p>
 
-<p>This book is <strong>not technical</strong>. We will not discuss the details of public cloud design patterns, security, reliability, how to optimize computer loads, or select the proper data storage. As a modern architect, you will need these skills, but there are already many great resources. This book is about <strong>expanding your horizons</strong> to apply your technical skills in complex organizations. You can broaden your horizons as a head or manager of architects and organize and support architects to use their technical skills more effectively as a team.</p>
+<p>Instead, this book broadens your <strong>architectural perspective</strong>, helping you apply your technical knowledge to <strong>complex organizational ecosystems</strong>. It’s written for both <strong>hands-on architects</strong> and those managing or supporting them.</p>
 
-<h3 id="is-this-a-proven-method">Is This A Proven Method?</h3>
+<h3 id="is-this-a-proven-method">Is This a Proven Method?</h3>
 
-<p>Like with many similar books, you may be disappointed if you are looking for a scientifically proven “method” of running a modern an architecture practice. This book is <strong>personal and opinionated</strong>, building on my daily experiences as an architect and head of an architecture practice. While subjective, this book can provide valuable insights for IT architects, their managers, and people working with architects. I have successfully <strong>applied my approach in three different companies</strong>, which gives it some generality and repeatability.</p>
+<p>This book isn’t a prescriptive methodology, nor is it scientifically validated. It is a <strong>personal and opinionated guide</strong>, grounded in day-to-day experience rather than academic theory.</p>
 
-<p>I invite others to share the lessons they have learned similarly. Even if opinionated and limited in scope, such practical reflections based on concrete examples have much more value for practitioners than abstract debates, formal methods, or academic analyses.</p>
+<p>What I present here has been tested across <strong>three major companies</strong>, and while every organization is different, I believe the principles are <strong>general enough to be reusable and practical enough to be valuable</strong>.</p>
+
+<p>In a field filled with frameworks and formal models, <strong>real stories and tested approaches</strong> often provide the most valuable guidance. I also encourage others to share their experiences because our discipline becomes stronger through <strong>practical reflection and honest exchange</strong>, rather than abstract theory.</p>
 
 <h3 id="who-should-read-this-book">Who Should Read This Book?</h3>
 
-<p>When writing this book, I had a broad audience in mind. The articles should be helpful to both technical and non-technical people. The book can help IT architects better understand their value and place in a broader organization. I also hope the articles show the wider audience the benefits of staying close to and well-connected with architects.</p>
+<p>This book is intended for:</p>
 
-<h3 id="applying-ideas-in-practice">Applying Ideas In Practice</h3>
+<ul>
+  <li><strong>IT architects</strong> who want to enhance their impact, influence, and clarity.</li>
+  <li><strong>Engineering leaders</strong> who manage architects and wish to organize their work more effectively.</li>
+  <li><strong>Business and product leaders</strong> looking to understand the value of architecture and how to collaborate better with technical teams.</li>
+</ul>
 
-<p>I approach designing an architecture practice in complex organizations as an <strong>art of cooking.</strong> A modern IT architecture practice is like a master chef’s kitchen. As you will always work with many local ingredients, you can’t just copy a recipe from one restaurant to another and expect it to taste the same.</p>
+<p>I designed it to be <strong>accessible to both technical and non-technical readers</strong>, and useful whether you’re building a practice from scratch or refining an existing one.</p>
 
-<p>This book shares some tasty tips and savory secrets on “cooking” up a thriving an architecture practice. But remember, <strong>every kitchen is different.</strong> Some ingredients and recipes are essential, while others might be left on the shelf. And don’t be surprised if you need to add a pinch of something special from other sources to spice things up.</p>
+<h3 id="applying-ideas-in-practice-architecture-as-cooking">Applying Ideas in Practice: Architecture as Cooking</h3>
+
+<p>I like to think of starting or improving an architecture practice as a form of <strong>culinary art</strong>.</p>
+
+<p>Imagine arriving at a new company like a chef stepping into an unfamiliar kitchen, carrying a suitcase filled with your favorite tools and spices. Your most important work comes next: discovering the <strong>local ingredients</strong>.</p>
 
 <p><img src="assets/images/istock/iStock-1409729992.jpg" alt="" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Hispanolistic">Hispanolistic</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 
-<p>When I start an architecture practice, I see myself as a chef stepping into a new restaurant with a suitcase full of favorite spices. I blend in core preferred elements and foundational frameworks like a chef using their trusty spices and kitchen tools. But the <strong>authentic flavor</strong>—the magic that makes a dish unforgettable—comes from the <strong>local ingredients.</strong> In an organization, these local ingredients are the people: the in-house talent and culture that give the enterprise its unique taste.</p>
+<p>Great cooking depends on what’s fresh and available, but great architecture relies on <strong>your organization’s people, culture, and context</strong>. Your frameworks and experience provide structure, but the authentic flavor comes from your team: their skills, insights, and unique organizational knowledge.</p>
 
-<p>While fundamental structures and practices may be consistent across diverse businesses, the most crucial elements—akin to fresh, <strong>local ingredients</strong> in cooking—you must procure locally. The staff’s skills, experiences, and insights are the secret ingredients that personalize and refine the architecture to align with specific business needs and goals. They are what render the architecture truly unique and effective.</p>
+<p>While I’ll share recipes, methods, and even a few secret sauces, remember: <strong>you’ll always need to adapt to your local ingredients</strong>.</p>
 
-<h2 id="beyond-rigid-frameworks-it-architecture-as-an-adaptable-outcome-oriented-practice">Beyond Rigid Frameworks: IT Architecture As an Adaptable Outcome-Oriented Practice</h2>
+<h2 id="beyond-rigid-frameworks-it-architecture-as-a-collaborative-adaptable-outcome-oriented-practice">Beyond Rigid Frameworks: IT Architecture as a Collaborative, Adaptable, Outcome-Oriented Practice</h2>
 
-<p>In this book, I will use the terms <strong>IT architecture</strong> and <strong>IT architects</strong> in a broad sense. I don’t adhere to strict divisions between enterprise, solution, technical, or software architecture, nor do I narrowly define roles such as enterprise architects, solution architects, or Staff+ technical leaders like principal engineers. Instead, I view IT architecture as a <strong>cohesive function</strong>—a bridge connecting technology, business, product, and organizational strategy. IT architecture is more than a set of duties; it serves as essential connective tissue, aligning these domains to work harmoniously.</p>
+<p>In this book, I use the terms <strong>IT architecture</strong> and <strong>IT architects</strong> broadly and inclusively. I do not draw strict lines between enterprise, solution, technical, or software architecture, nor do I narrowly define titles such as enterprise architect, solution architect, or staff-level technical leaders like principal engineers.</p>
 
 <p><img src="assets/images/istock/iStock-1376008059.jpg" alt="" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/brightstars">brightstars</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 
+<p>Instead, I view IT architecture as a <strong>cohesive function</strong>—a bridge that connects technology, business, product, and organizational strategy. Architecture encompasses more than a set of tasks or responsibilities; it serves as the <strong>connective tissue</strong> that brings coherence to complex ecosystems, enabling various parts of the organization to work in harmony.</p>
+
 <h3 id="grounding-and-empowerment">Grounding and Empowerment</h3>
 
-<p>Rather than advocating for rigid role distinctions, I propose <strong>rethinking and empowering these roles</strong> with an <strong>outcome-oriented, data-informed perspective,</strong> where each role is adaptable and focused on delivering value and impactful outcomes that align with the organization’s broader goals. This book emphasizes <strong>grounding</strong> your architecture in the organization with data, people connections, and pragmatic operating principles. You do not necessarily need to change your architecture team or roles to benefit from this grounding.</p>
+<p>Rather than advocating for rigid distinctions between roles, I propose <strong>empowering architects with a data-informed, outcome-oriented mindset</strong>. In this approach, architectural roles are <strong>adaptable</strong>, evolving to meet the organization’s needs while remaining aligned to deliver meaningful value.</p>
 
-<p>I believe IT architecture <strong>isn’t one-size-fits-all</strong>; it adapts to each company’s context, spanning strategic guidance, system integration, solution design, technical implementation, or hands-on leadership. This <strong>adaptability</strong> makes architecture both <strong>powerful and relevant,</strong> enabling architects to align with business goals while remaining responsive to technological change.</p>
+<p><strong>Grounded Architecture</strong> refers to anchoring architectural work in the organization’s reality:</p>
 
-<p>In some organizations, architecture may emphasize <strong>business alignment,</strong> ensuring technology investments support the mission. In others, it might focus on <strong>technical depth,</strong> where architects closely collaborate with engineering to build robust, scalable systems. Despite these variations, the core function remains: architecture guides coherence in complex ecosystems. For this reason, I consider IT architects anyone performing this bridging work, regardless of their title.</p>
+<ul>
+  <li>Grounded in <strong>data</strong> to inform decisions</li>
+  <li>Grounded in <strong>people</strong> to foster collaboration and shared understanding</li>
+  <li>Grounded in <strong>pragmatic operating models</strong> that guide action</li>
+</ul>
 
-<p>Focusing on architecture as an <strong>integrative and adaptable function</strong> allows us to appreciate the unique contributions of each architectural role. Rather than defining roles rigidly, this approach highlights architecture as a continuous, evolving practice that balances immediate technical needs with <strong>long-term strategic vision.</strong> This perspective empowers architecture to drive sustainable growth, adaptability, and innovation across the business.</p>
+<p>To adopt this approach, you do not need to restructure your teams or redefine every role. What matters most is <strong>how architects operate</strong>—as collaborators, connectors, and enablers of aligned outcomes.</p>
 
-<h3 id="accepting-challenges">Accepting Challenges</h3>
+<h3 id="adaptability-over-rigidity">Adaptability Over Rigidity</h3>
 
-<p>This broader view of IT architecture, while robust and integrative, presents unique challenges. Unlike traditional frameworks with well-defined roles and responsibilities, my perspective <strong>requires constant adaptation</strong> to evolving organizational needs. Traditional frameworks bring clarity and stability, outlining roles and providing structured pathways, making it easier to align efforts across a project’s lifecycle.</p>
+<p>IT architecture is <strong>not one-size-fits-all</strong>. Its form and focus should adapt to the context of each company. In some organizations, the emphasis may be on <strong>business alignment</strong>—ensuring that technology investments directly support the mission. In others, the focus may be on <strong>technical depth</strong>—working closely with engineers to build scalable, secure, high-performing systems.</p>
 
-<p>In contrast, an adaptive, integrative view of architecture is <strong>less rigid</strong> and <strong>more attuned</strong> to a company’s specific, shifting needs. This flexibility allows architects to bridge technology, business, product, and strategy holistically, responsive to change. However, IT architects and technical leaders must continually <strong>evaluate and recalibrate</strong> their approach. This evolution might mean adjusting priorities, balancing high-level strategy with hands-on guidance, and frequently engaging with stakeholders to ensure alignment.</p>
+<p>Regardless of emphasis, the <strong>core function remains the same</strong>: to bring coherence to complexity and alignment to decisions. Therefore, I define “architect” not by job title, but by function—anyone who bridges the gap between <strong>strategic intent and technical execution</strong> is an architect.</p>
 
-<p>I believe deeply in this approach, though I acknowledge its demands. It calls for <strong>insight</strong> into business and technology, a readiness to <strong>embrace ambiguity,</strong> and the ability to make decisions amid shifting priorities. IT architects working within this model need a strong grasp of the company’s vision and an <strong>acute sense of timing</strong>—knowing when to emphasize strategy or technical details. It requires agility, resilience, and the willingness to pivot as needs shift and to challenge assumptions to serve the business.</p>
+<p>This adaptable perspective allows organizations to maximize the benefits of architecture while enabling architects to adjust their contributions based on what is most needed—strategy, integration, governance, or mentorship.</p>
 
-<p>While challenging, this adaptive model of architecture offers rewards that traditional frameworks may lack. By not confining architects to strict roles, it enables solutions genuinely aligned with the organization’s mission, fostering closer collaboration and responsiveness to new opportunities or challenges. This flexibility ultimately allows architecture to drive lasting value and growth—creating a foundation that supports both current goals and future innovation.</p>
+<h3 id="accepting-the-challenges">Accepting the Challenges</h3>
+
+<p>Of course, this broader and more flexible view brings <strong>new challenges</strong>.</p>
+
+<p>Unlike traditional frameworks, which have predefined roles, clear handoffs, and rigid responsibilities, the Grounded Architecture approach <strong>requires architects to adapt continuously</strong>. It values relevance over formality and responsiveness over structure.</p>
+
+<p>This approach <strong>can be demanding</strong>.</p>
+
+<p>It requires architects to:</p>
+
+<ul>
+  <li>Shift fluidly between <strong>strategic thinking and hands-on guidance</strong></li>
+  <li>Engage regularly with <strong>diverse stakeholders</strong></li>
+  <li><strong>Recalibrate their priorities</strong> as business needs evolve</li>
+  <li>Make decisions amid <strong>ambiguity and uncertainty</strong></li>
+</ul>
+
+<p>It also demands sound judgment—knowing <strong>when to lead, when to advise, and when to step back</strong>.</p>
+
+<p>However, with these challenges come significant benefits.</p>
+
+<p>Architects who embrace this approach are better equipped to respond to real-world needs. They help build solutions that are <strong>context-aware</strong>, <strong>collaborative</strong>, and <strong>aligned with long-term goals</strong>. They foster trust, promote innovation, and unlock value—not by controlling systems, but by guiding them with insight, empathy, and adaptability.</p>
+
+<p>This book is a call to <strong>reimagine architecture as a living, collaborative, and responsive practice</strong>. One that moves beyond rigid frameworks and static organizational charts. One that values architectural success not in titles or artifacts, but in <strong>outcomes, alignment, and impact</strong>.</p>
+
+<p>It may not always be the easiest path, but I believe it is the one most capable of delivering lasting value in complex, modern organizations.</p>
 
 <h2 id="key-influences">Key Influences</h2>
 
-<p>The Grounded Architecture approach also builds on many ideas that others have successfully used. Gregor Hohpe’s <a href="https://architectelevator.com/"><strong>Architecture Elevator</strong></a> view of architecture has heavily inspired my work. In many ways, my work reflects the lessons learned from implementing Gregor’s ideas in practice. Gregor described modern architects’ functions as aligning organization and technology, reducing friction, and charting transformation journeys. Such modern architects ride the Architect Elevator from the penthouse, where the business strategy is set, to the engine room, where engineers implement enabling technologies.</p>
+<p>The <strong>Grounded Architecture</strong> approach is shaped not only by my experiences but also by the work and ideas of others who have inspired and informed my thinking.</p>
 
-<p>In my quest to define modern architectural roles, I used Staff+ Engineering jobs as an inspiration for the development of architects. Tanya Reilly’s book <a href="https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/"><strong>The Staff Engineer’s Path</strong></a> and Will Larson’s book <a href="https://staffeng.com/guides/staff-archetypes/"><strong>Staff Engineer: Leadership beyond the management track</strong></a> are helpful guides in defining the responsibilities of modern architects. Overall, the Staff-plus engineering roles provide excellent examples for the development of architects.</p>
+<h3 id="the-architecture-elevator--gregor-hohpe">The Architecture Elevator — Gregor Hohpe</h3>
 
-<p>Many other sources have influenced my work. You can find them in the online <a href="https://grounded-architecture.io/bookshelf">Bookshelf appendix</a>.</p>
+<p>One of the most influential voices behind this work is <strong>Gregor Hohpe</strong> and his concept of the <a href="https://architectelevator.com/"><strong>Architecture Elevator</strong></a>. Gregor provides a vivid illustration of the modern architect as someone who navigates between the <strong>“penthouse,” where strategy is developed</strong>, and the <strong>“engine room,” where technology is built</strong>.</p>
+
+<p>His perspective of architects as enablers of alignment, friction reduction, and transformation strategy has been foundational to my practice of Grounded Architecture. Much of what I share in this book reflects the valuable lessons learned from <strong>applying Gregor’s ideas in real organizational contexts</strong>.</p>
+
+<h3 id="staff-engineering--tanya-reilly--will-larson">Staff+ Engineering — Tanya Reilly &amp; Will Larson</h3>
+
+<p>Another major influence has been the evolution of <strong>Staff+ engineering roles</strong>, which present a contemporary and practical view of technical leadership. Key texts such as:</p>
+
+<ul>
+  <li><a href="https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/"><strong>The Staff Engineer’s Path</strong> by Tanya Reilly</a></li>
+  <li><a href="https://staffeng.com/guides/staff-archetypes/"><strong>Staff Engineer</strong> by Will Larson</a></li>
+</ul>
+
+<p>…offer a clear and relatable framework for understanding <strong>what senior technical leadership entails outside of traditional management tracks</strong>. These models have significantly shaped my thoughts on the responsibilities, mindset, and career development of modern architects.</p>
+
+<p>Staff+ engineers and architects often encounter similar challenges—balancing long-term vision with day-to-day decisions, influencing without authority, and collaborating across boundaries. The overlap between these roles is considerable, and these resources have informed my perspective on <strong>architectural maturity, influence, and impact</strong>.</p>
+
+<h3 id="many-more-sources">Many More Sources</h3>
+
+<p>Grounded Architecture is built on <strong>a broad foundation of books, frameworks, articles, and tools</strong>—too numerous to list in one place. I have collected and curated many of these resources in the online <a href="https://grounded-architecture.io/bookshelf"><strong>Bookshelf appendix</strong></a>, where you can explore what has influenced this work and perhaps find inspiration for your own journey.</p>
 
 <h2 id="why-this-book">Why This Book?</h2>
 
-<p>This book <strong>generalizes my experiences</strong> in written form. I have written these articles for several reasons. Firstly, writing helps me clarify and improve my ideas (Figure 2). As Gregor Hohpe once noted, every sentence you write frees up brain cells to learn new things.</p>
+<p>This book serves as a way to <strong>generalize and share years of experience</strong> as a practicing architect and architecture leader. It originated from a need to <strong>clarify my thinking</strong>, <strong>educate others</strong>, and <strong>create shareable resources</strong> that can help individuals and organizations better understand and apply modern architectural practices.</p>
+
+<p><br /></p>
 
 <p><img src="assets/images/writing.png" alt="" />
-<em><strong>Figure 2:</strong> Writing a book helped me organize ideas, obtain new insights, improve principles and tools, and share the lessons learned.</em></p>
+<em><strong>Figure 2:</strong> Writing helped me refine my thinking, evolve tools and principles, and share lessons learned.</em></p>
 
-<p>I also needed this book for the <strong>education of architects</strong> and to <strong>increase awareness about modern an architecture practices</strong> in organizations I worked in. Having written content can significantly help to spread the message. As nicely described by Hohpe written word has distinct advantages over the spoken word:</p>
+<h3 id="writing-to-think">Writing to Think</h3>
+
+<p>Writing forces clarity. As <strong>Gregor Hohpe</strong> once said, <em>“Every sentence you write frees up brain cells to learn new things.”</em> This was true for me as I began to shape my ideas into written form. Writing this book helped me:</p>
 
 <ul>
-  <li>it scales: you can address a broad audience without gathering them all in one (virtual) room at the same time</li>
-  <li>it’s fast to process: people read 2-3 times faster than they can listen</li>
-  <li>it can be easily searched or versioned.</li>
+  <li><strong>Organize my thoughts</strong></li>
+  <li><strong>Identify gaps</strong> and contradictions in my approach</li>
+  <li><strong>Enhance my frameworks and tools</strong></li>
+  <li>Discover <strong>new insights</strong> through reflection</li>
 </ul>
 
-<p>Lastly, by generalizing and putting my experiences on paper, I aim to create more <strong>usable materials to help others</strong> in similar situations. I also expect helpful feedback from a broader community.</p>
+<h3 id="writing-to-teach">Writing to Teach</h3>
+
+<p>Another motivation was <strong>education</strong>—specifically, educating architects and technical leaders within the organizations I’ve worked for. I found that well-written, accessible material helps:</p>
+
+<ul>
+  <li><strong>Explain the “why” behind architecture</strong></li>
+  <li><strong>Standardize terminology and mindset</strong></li>
+  <li><strong>Create alignment</strong> across teams and levels</li>
+</ul>
+
+<p>As Gregor Hohpe also points out, writing has several distinct advantages over spoken communication:</p>
+
+<ul>
+  <li><strong>It scales</strong> — You don’t need to be present to reach your audience.</li>
+  <li><strong>It’s faster</strong> — People read 2–3 times faster than they can listen.</li>
+  <li><strong>It’s searchable and reusable</strong> — Readers can revisit it, quote it, and reference it.</li>
+</ul>
+
+<p>In short, <strong>written content makes architectural thinking more portable and enduring</strong>—ideal for spreading modern ideas across large, distributed organizations.</p>
+
+<h3 id="writing-to-share-and-learn-more">Writing to Share (and Learn More)</h3>
+
+<p>By documenting and refining my experiences, I hope to make this content <strong>valuable for others</strong>—whether they are facing similar challenges or are simply curious about evolving their architectural practice. I also look forward to:</p>
+
+<ul>
+  <li><strong>Learning from others’ feedback</strong></li>
+  <li><strong>Comparing notes with peers</strong></li>
+  <li>Continuing the conversation about <strong>what modern IT architecture can become</strong></li>
+</ul>
+
+<p>This book is not a final answer; it’s a <strong>living reflection</strong> of one practitioner’s journey. My hope is that it sparks new insights, invites discussion, and helps architects—and those who work with them—develop more grounded, human, and effective practices.</p>
 
 <h2 id="a-part-of-the-bigger-picture-a-trilogy-in-four-parts">A Part of the Bigger Picture: A Trilogy in Four Parts</h2>
 
-<p>This book is a part of the <a href="https://obren.io/"><strong>collection of open-source tools and resources</strong></a> I have built to help me in architectural work (Figure 3).</p>
+<p>This book is just one piece of a broader ecosystem of <strong>open-source tools and resources</strong> I have developed over the past decade to support my work as an architect. Together, they form a <strong>practical toolkit</strong> designed to make architecture more <strong>data-informed, efficient, and impactful</strong>.</p>
+
+<p><br /></p>
 
 <p><img src="assets/images/arch/obren_io_vertical.png" alt="" />
-<em><strong>Figure 3:</strong> Grounded Architecture is a part of the collection of open-source tools and resources I have built in the past ten years to help me in architectural work.</em></p>
+<em><strong>Figure 3:</strong> Grounded Architecture is part of a collection of open-source tools and learning resources developed over the past 10 years.</em></p>
 
-<p>The other resources include:</p>
+<h3 id="other-tools-in-the-collection">Other Tools in the Collection</h3>
 
 <ul>
-  <li><a href="https://sokrates.dev"><strong>Sokrates</strong></a>: an open-source polyglot source code analysis tool. Sokrates provides a pragmatic, inexpensive way to extract rich data from source code repositories. Sokrates can help you understand your code by making the size, complexity, and coupling of software, people interactions, and team topologies visible.</li>
-  <li><a href="https://obren.io/tools"><strong>Productivity Tools</strong></a>: A collection of more than 100 online tools I built to help me in my daily work.</li>
-  <li><a href="https://www.obren359.com/"><strong>359° Overview of Tech Trends</strong></a> is my collection of knowledge resources with podcasts and videos from over 20 authoritative, high-quality sources (IEEE, ACM, GOTO Conf, SE Radio, Martin Fowler’s site, Ph.D. Theses). Architects need to learn fast, and finding good knowledge sources is difficult.</li>
+  <li>
+    <p><a href="https://sokrates.dev"><strong>Sokrates</strong></a><br />
+A polyglot source code analysis tool for extracting actionable insights from codebases.</p>
+
+    <ul>
+      <li>Understand your codebase through visualizations of <strong>size</strong>, <strong>complexity</strong>, <strong>coupling</strong>, and <strong>team topologies</strong>.</li>
+      <li>Sokrates is designed to be <strong>pragmatic, lightweight</strong>, and <strong>accessible</strong>, making it perfect for architects who need fast, clear insights from actual repositories.</li>
+    </ul>
+  </li>
+  <li>
+    <p><a href="https://obren.io/tools"><strong>Productivity Tools</strong></a><br />
+A curated set of over <strong>100 free online tools</strong> I use regularly to support my daily architectural and engineering tasks.</p>
+
+    <ul>
+      <li>This collection includes everything from text parsers and visualization generators to JSON formatters and other architectural aids.</li>
+    </ul>
+  </li>
+  <li>
+    <p><a href="https://www.obren359.com/"><strong>359° Overview of Tech Trends</strong></a><br />
+A hand-picked, constantly updated collection of <strong>podcasts, videos, and talks</strong> from over 20 high-quality sources, including IEEE, ACM, SE Radio, GOTO, and Martin Fowler.</p>
+
+    <ul>
+      <li>This resource is designed to help architects <strong>learn quickly and stay current</strong> in a noisy, fast-changing world.</li>
+      <li>It includes <strong>Ph.D. theses</strong>, conference talks, and trusted expert commentary to support deep, strategic thinking.</li>
+    </ul>
+  </li>
 </ul>
 
-<p>You can find more details about these tools on my homepage <strong><a href="https://obren.io/">obren.io</a></strong>.</p>
+<p>For more about these tools and how I use them in practice, visit my homepage at <a href="https://obren.io/"><strong>obren.io</strong></a>.</p>
+
+<p>Together, these resources support the vision behind <em>Grounded Architecture</em>, helping architects stay connected, curious, and grounded in both <strong>data and real-world needs</strong>.</p>
 
 <h2 id="a-bit-of-personal-history">A Bit of Personal History</h2>
 
-<p>The work presented in this book builds on <strong>several years of my experience</strong>. Most of this work originates from my current work as a <strong>Chief Architect</strong> at AVIV Group and previous works as a Principal Architect for eBay Classifieds and Adevinta.</p>
+<p>The ideas and practices presented in this book are based on <strong>years of hands-on experience</strong> across various roles, organizations, and industries. Each chapter of my career has contributed essential insights that form the foundation of the <strong>Grounded Architecture</strong> approach.</p>
 
-<p>Another vital part of my experience that shaped this book was my earlier experience as a <strong>consultant and analyst</strong> at the <a href="https://www.softwareimprovementgroup.com/">Software Improvement Group</a>, where I’ve learned the value and pragmatics of data-informed decision-making. As a spin-off of this work, I’ve also built a tool called <a href="https://sokrates.dev">Sokrates</a>, which enables efficient and pragmatic extraction of data about technology and organization from source code. This work has directly influenced my view of <a href="analytics">Lightweight Architectural Analytics</a> part of the Grounded Architecture framework.</p>
+<h3 id="aviv-group-ebay-classifieds-and-adevinta">AVIV Group, eBay Classifieds, and Adevinta</h3>
 
-<p>My experience as a <strong>CTO</strong> of <a href="https://incision.care">Incision</a>, a startup, has helped me better understand the challenges of creating and running an IT organization.</p>
+<p>Much of the work in this book stems from my current role as <strong>Chief Architect at AVIV Group</strong>, as well as my earlier positions as <strong>Principal Architect at eBay Classifieds</strong> and <strong>Adevinta</strong>. These experiences have enabled me to lead architectural practices in <strong>large, complex, and rapidly evolving organizations</strong>, skillfully balancing long-term strategy with everyday realities.</p>
 
-<p>My experience as a <strong>researcher</strong> at <a href="https://www.cwi.nl/en/">Dutch Center for Computer Science and Mathematics (CWI)</a> and <a href="https://www.tue.nl/en/">Eindhoven Technical University (TU/e)</a> provided me with a valuable background to do rigorous data analyses and research. From this research period, I want to highlight a collection of essays, <a href="https://design-instability.com/">Design Instability</a>, that I co-authored with Erik Stolterman, where we connected experiences of designing/architecting in three disciplines: classical design, UX design, and software engineering. This work has helped me better relate to and learn from non-technical fields, a vital part of IT architects’ job.</p>
+<h3 id="software-improvement-group-sig">Software Improvement Group (SIG)</h3>
 
-<p>Lastly, my hands-on experience as a <strong>software developer</strong> has proven invaluable for my work as an architect.</p>
+<p>In the earlier stages of my career, I was a <strong>consultant and analyst</strong> at the <a href="https://www.softwareimprovementgroup.com/"><strong>Software Improvement Group (SIG)</strong></a>, where I discovered the power of <strong>data-informed decision-making</strong>. This role taught me how to extract meaningful insights from systems and how invaluable these insights are for guiding architectural choices.</p>
 
-<h2 id="the-structure-of-the-book">The Structure of the Book</h2>
+<p>Building on that experience, I developed <a href="https://sokrates.dev"><strong>Sokrates</strong></a>, an open-source tool designed to extract data from source code repositories to visualize <strong>system complexity, team structures, and organizational dynamics</strong>. This work significantly influenced the <strong><a href="analytics">Lightweight Architectural Analytics</a></strong> pillar of the Grounded Architecture framework.</p>
 
-<p>I have organized the book into several main parts. In the introductory part, I describe the context in which my ideas have developed.</p>
+<h3 id="incision">Incision</h3>
 
-<p>In the second part, I discuss the Grounded Architecture framework and describe its three elements: Lightweight Architectural Analytics, Collaborative Networks, and the Operating Model.</p>
+<p>My tenure as <strong>CTO of <a href="https://incision.care">Incision</a></strong>, a healthcare startup, provided a direct view of the challenges in <strong>building and managing a technology organization</strong> from scratch. It was an intense, insightful, and humbling journey that deepened my understanding of architecture at the intersection of <strong>delivery, constraints, and leadership</strong>.</p>
 
-<p>In the third part, I discuss the Guiding Principles of Grounded Architecture, grouped into several sub-parts: On Being an Architect, On Human Complexity, On Strategy, and Expanding the Architect’s Toolkit.</p>
+<h3 id="research-in-design-and-systems-thinking">Research in Design and Systems Thinking</h3>
 
-<p>Finally, I conclude with a summary and encourage you to explore further with the help of the plentiful external resources I’ve provided.</p>
+<p>Before entering the industry, I worked as a <strong>researcher</strong> at the <a href="https://www.cwi.nl/en/"><strong>Dutch Center for Mathematics and Computer Science (CWI)</strong></a> and <a href="https://www.tue.nl/en/"><strong>Eindhoven University of Technology (TU/e)</strong></a>. This academic background equipped me with skills in <strong>rigorous data analysis, modeling, and research methods</strong>.</p>
+
+<p>One project from that period that significantly shaped my perspective was <a href="https://design-instability.com/"><strong>Design Instability</strong></a>, a series of essays co-authored with <strong>Erik Stolterman</strong>. We explored the commonalities in <strong>architectural practices across disciplines</strong>, including classical design, UX design, and software engineering. This exploration helped me appreciate the <strong>value of cross-disciplinary thinking</strong>, a crucial skill for modern architects working at the intersection of technology, people, and business.</p>
+
+<h3 id="developer-roots">Developer Roots</h3>
+
+<p>Finally, I greatly value my early experience as a <strong>hands-on software developer</strong>. It’s important for architects to remain close to the code and to the developers who write it. This technical grounding has proven essential in all my subsequent roles.</p>
+
+<p>Together, these experiences have shaped a practice that is <strong>data-informed, people-oriented, and grounded in real-world complexity</strong>. This book reflects those lessons—not as a theoretical model, but as a <strong>practitioner’s field guide</strong> for building architecture that truly works: <strong>inside real organizations, with real people, solving real problems</strong>.</p>
 
 <h2 id="stay-connected">Stay Connected</h2>
 
@@ -537,7 +706,11 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/brigh
 
 <h2 id="acknowledgments">Acknowledgments</h2>
 
-<p>I want to thank all AVIV Group’s Architecture Center of Excellence members and eBay Classifieds Virtual Architecture Team (VAT) members, who gave me invaluable feedback and discussions. Lastly, thank Peter Maas and Brent McLean for sponsoring and pushing for the development of data-informed architecture in our organizations.</p>
+<p>I sincerely thank all members of <strong>AVIV Group’s Architecture Center of Excellence</strong> and the <strong>eBay Classifieds Virtual Architecture Team (VAT)</strong>. Your thoughtful feedback, honest conversations, and challenging questions were crucial in shaping the ideas presented in this book. Our discussions were not only insightful but also essential.</p>
+
+<p>I want to thank <strong>Peter Maas</strong> and <strong>Brent McLean</strong> for their leadership and vision. Your commitment to developing a data-informed architecture practice has laid the foundation for much of the work described here. Your support and encouragement have made a real difference.</p>
+
+<p>This book reflects <strong>a shared journey</strong>, and I am grateful for everyone who has walked part of the path with me.</p>
 
 <p>The cover image is <a href="https://commons.wikimedia.org/wiki/File:Nesciobrug_4.jpg">a photo of Nesciobrug</a>. Credit: the botster, CC BY-SA 2.0, via Wikimedia Commons.</p>
 
