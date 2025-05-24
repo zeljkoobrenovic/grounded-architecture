@@ -1,0 +1,29 @@
+🔧 (Re)thinking IT Governance
+
+
+
+In my experience, IT governance models blend three distinct governance styles, each with a unique role in shaping behavior and enabling alignment:
+
+
+
+🎯 Nudging - Utilizing gentle, data-driven prompts such as default options or visual dashboards to guide choices without restricting freedom.
+
+
+
+💸 Taxation - Implementing economic incentives that enhance visibility of resource usage and promote accountability (e.g., charging cloud costs to teams).
+
+
+
+🚫 Mandates & Bans - Establishing clear, collaborative rules for critical areas like security and privacy, applied judiciously and purposefully.
+
+
+
+This diversity is essential to upholding autonomy while ensuring strategic alignment and facilitating better decisions without imposing heavy-handed control.
+
+
+
+To learn more, here is my Grounded Architecture chapter on Governance: https://grounded-architecture.io/governance
+
+
+
+#ITGovernance #TechLeadership #ArchitecturePractice #DigitalTransformation #BehavioralEconomics

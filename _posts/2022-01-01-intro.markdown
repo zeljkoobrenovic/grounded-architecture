@@ -48,11 +48,11 @@ h3 {
 }
 </style>
 <br>
-Have you ever wondered how to run an IT architecture practice without **feeling stuck in an ivory tower?** Look no further! This book will share an approach to running an IT architecture practice in larger organizations based on my experience at AVIV Group, eBay Classifieds, and Adevinta. I call it "Grounded Architecture"—because it's all about having your feet on the ground and your **architecture firmly planted in reality.**
+Have you ever wondered how to operate an IT architecture practice without **feeling isolated in an ivory tower**? Look no further! This book shares an approach to running an IT architecture practice in larger organizations, drawing from my experiences at AVIV Group, eBay Classifieds, and Adevinta. I call this approach "**Grounded Architecture**" because it emphasizes **keeping your feet on the ground** and ensuring your architecture is **firmly rooted in reality**.
 
-The approach presented in this book connects architecture to every nook and cranny of your organization, making sure you're not a lone wizard in a tower casting spells that no one understands. Grounded Architecture prioritizes connections with people and data over fancy theories, processes, and tools. The books will offer you new insight into IT architecture, redefining it as an **adaptable** and **outcome-oriented** practice.
+The approach presented in this book connects architecture to every aspect of your organization, ensuring that you are not just a lone wizard in a tower casting spells that no one understands. Grounded Architecture **prioritizes relationships with people and data** over elaborate theories, processes, and tools. This book will provide new insights into IT architecture, redefining it as a **collaborative, adaptable, and outcome-oriented practice**.
 
-The name "Grounded Architecture" is a hat-tip to the [Grounded Theory](https://en.wikipedia.org/wiki/Grounded_theory) methodology. Grounded Theory is about developing theories from the data you gather from the real world rather than pulling them out of thin air. Likewise, Grounded Architecture evolves from honest feedback and data, not from dusty old books of abstract principles.
+The term "Grounded Architecture" is **inspired by the Grounded Theory** methodology. Grounded Theory involves developing theories based on real-world data rather than deriving them from abstract concepts. Similarly, Grounded Architecture **evolves from honest feedback and data** rather than outdated books filled with theoretical principles.
 
 ## Grounded Architecture Overview
 
@@ -91,13 +91,7 @@ As part of my Grounded Architecture quest, I've devised several guiding principl
   * [Effortless Architecture](effortless)
 * [**On Strategy**](strategy):
   * [Enterprise Architecture as Strategy](ea-as-strategy)
-  * [Hunting the Ghost of Business Architecture](business-architecture)
   * [Outsourcing Strategies](outsourcing)
-  * [Achieving Market Leadership](market-leadership)
-  * [Value-Based Strategy](value-based-strategy)
-  * [Marketplace Strategies: What Digital Marketplaces Sell?](marketplaces)
-  * [Connecting Marketing, Sales, and Customer Service Strategies](marketing-sales-strategy)
-  * [Culture As a Strategy (aka Culture Eats Strategy for Breakfast)](culture-strategy)
 * [**Expanding the Architect's Toolkit: Learning From Other Fields**](expanding-toolkit):
   * [Economic Modeling With ROI and Financial Options: Learning From the Finance Field](economics)
   * [Architecture in Product-Led Organizations: Learning From Customer-Centric Fields](product) 
@@ -114,6 +108,12 @@ If all this is not enough, in the online appendix I outline several resources th
 * [Resources for Dealing With Scapegoating at Work](https://grounded-architecture.io/scapegoating)
 * [EIC/ISO 25010 Standard](https://grounded-architecture.io/iso25010)
 * [Cloud Design Patterns](https://grounded-architecture.io/cloud-design-patterns)
+* [Hunting the Ghost of Business Architecture](business-architecture)
+* [Achieving Market Leadership](market-leadership)
+* [Value-Based Strategy](value-based-strategy)
+* [Marketplace Strategies: What Digital Marketplaces Sell?](marketplaces)
+* [Connecting Marketing, Sales, and Customer Service Strategies](marketing-sales-strategy)
+* [Culture As a Strategy (aka Culture Eats Strategy for Breakfast)](culture-strategy)
 
 The rest of this book will explain the Grounded Architecture approach in detail. In this section, I want to share a few things about my motivation to write this book.
 

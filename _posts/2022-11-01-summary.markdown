@@ -76,13 +76,7 @@ As a part of my work on Grounded Architecture, I also provided several guiding p
   * [Effortless Architecture](effortless)
 * [**On Strategy**](strategy):
   * [Enterprise Architecture as Strategy](ea-as-strategy)
-  * [Hunting the Ghost of Business Architecture](business-architecture)
   * [Outsourcing Strategies](outsourcing)
-  * [Achieving Market Leadership](market-leadership)
-  * [Value-Based Strategy](value-based-strategy)
-  * [Marketplace Strategies: What Digital Marketplaces Sell?](marketplaces)
-  * [Connecting Marketing, Sales, and Customer Service Strategies](marketing-sales-strategy)
-  * [Culture As a Strategy (aka Culture Eats Strategy for Breakfast)](culture-strategy)
 * [**Expanding the Architect's Toolkit: Learning From Other Fields**](expanding-toolkit):
   * [Economic Modeling With ROI and Financial Options: Learning From the Finance Field](economics)
   * [Architecture in Product-Led Organizations: Learning From Customer-Centric Fields](product) 
