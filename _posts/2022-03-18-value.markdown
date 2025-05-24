@@ -2,7 +2,7 @@
 layout: post
 section: "Grounded Architecture Framework"
 title: "Transforming Organizations with Grounded Architecture"
-position: 3015
+position: 3018
 podcast: transforming.mp3
 spotify: https://open.spotify.com/episode/2Z7tUlCP5BGGQzljXtW6Tf?si=6a9188d95e184d95
 date:   2021-10-21 21:12:01 +0100
