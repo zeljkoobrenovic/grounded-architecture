@@ -10,7 +10,7 @@ author: by Željko Obrenović (obren.io)
 permalink: operating-model
 icon: activities.png
 timetoread: 15 min
-excerpt: "Operating Model defines how, by leveraging Lightweight Architectural Analytics and Collaborative Networks, we perform activities that help an organization reach its goals. Examples include supporting teams in their daily work, tracking tech debt, performing technical due diligence, standardizing processes and documentation, and defining cloud, data, and platform strategies."
+excerpt: "Operating Model defines how, by leveraging Lightweight Architectural Analytics and Collaborative Networks, we perform activities that help an organization reach its goals. An effective architecture practice must be tailored to organizational needs, grounded in collaboration and clear rules of engagement, and focused on enabling teams through strategic alignment, distributed decision-making, and supported standards like golden paths."
 
 ---
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
@@ -18,12 +18,15 @@ excerpt: "Operating Model defines how, by leveraging Lightweight Architectural A
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/ma_rish">ma_rish</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
-> **IN THIS SECTION, YOU WILL:**  Understand what activities you can do as a part of an architecture practice and get tips on creating pragmatic operating models for an architecture practice.
+> **IN THIS SECTION, YOU WILL:**  Understand that an effective architecture practice must be tailored to organizational needs, grounded in collaboration and clear rules of engagement, and focused on enabling teams through strategic alignment, distributed decision-making, and supported standards like golden paths.
 >
 > **KEY POINTS:**
 >
-> * The Operating Model is a system of processes and agreements enabling architects to do everything architecture typically does, leveraging Lightweight Architectural Analytics and Collaborative Networks to create a data-informed, organization-wide impact.
-> * Examples of activities include: supporting teams in their daily work; tracking tech debt; performing technical due diligence; standardizing processes and documentation; defining cloud, data, and platform strategies.
+> * No one-size-fits-all architecture practice: Organizations must customize their architecture practices to address specific challenges and contexts, focusing on resolving the organization's most pressing issues.
+> * Successful architectural work depends on collaboration with teams, distributed decision-making, and clearly defined "rules of engagement." Architects should empower teams, get involved early, avoid bureaucratic delays, and facilitate alignment with strategic goals.
+> * "Golden Paths"—clear, opinionated, and supported solutions—are essential for reducing fragmentation, increasing consistency, and guiding teams toward efficient and aligned development practices.
+> * Important architecture activities include designing decision frameworks, supporting projects and legacy modernization, tracking technical debt, conducting platform analyses, and defining strategic technology directions—all while being integrated into team workflows.
+> * Architectural support is most effective when teams meet baseline criteria (e.g., stakeholder awareness, skills, documentation literacy). Establishing expectations and defining boundaries ensures that architectural efforts are scalable and focused on areas with the most significant impact.
 <style>
     .quote {
      border-left: 8px solid #d9ead3;
@@ -245,6 +248,27 @@ While you may need to tailor these rules to fit your organization, I found it he
 Aligning on these rules with the teams helps ensure productive conversations about architectural support. When these conditions are met, an architecture practice can help teams level up. When they’re not, architecture support can’t be as effective. However, that doesn’t mean struggling teams are left in the lurch. Architecture can help teams meet these expectations but can’t compensate for their total lack. Teams need to take the initiative and lead. For instance, it’s impractical to have architects working full-time for months with one team as their senior developer. However, architects can coach and help developers grow which is a more scalable appraoch. Similarly, architects can assist in building relationships with other teams, but the teams themselves need to be active and engaged.
 
 So, set those expectations, establish your rules of engagement, and watch as your an architecture practice goes from a sparkly unicorn to a well-oiled machine!
+
+<br>
+## Final Thoughts
+
+Here are **five key points** to consider when defining an architecture practice and its operating model within your organization:
+
+1. **No One-Size-Fits-All Architecture Practice**:
+   Organizations must customize their architecture practices to address specific challenges and contexts. It's ineffective to place architects in disarray and expect positive results—architecture should focus on resolving the organization's most pressing issues.
+
+2. **Collaborative and Distributed Operating Models**:
+   Successful architectural work depends on collaboration with teams, distributed decision-making, and clearly defined "rules of engagement." Architects should empower teams, get involved early, avoid bureaucratic delays, and ensure alignment with strategic goals.
+
+3. **Golden Paths and Standardization Promote Alignment**:
+   "Golden Paths"—clear, opinionated, and supported solutions—are essential for reducing fragmentation, increasing consistency, and guiding teams toward efficient and aligned development practices.
+
+4. **Architecture Activities Must Be Grounded and Strategic**:
+   Important architecture activities include designing decision frameworks, supporting projects and legacy modernization, tracking technical debt, conducting platform analyses, and defining strategic technology directions—all while being integrated into team workflows.
+
+5. **Set Clear Expectations and Boundaries for Effective Support**:
+   Architectural support is most effective when teams meet baseline criteria (e.g., stakeholder awareness, skills, documentation literacy). Establishing expectations and defining boundaries ensures that architectural efforts are scalable and focused on areas with the most significant impact.
+
 
 <br>
 ## To Probe Further
