@@ -75,7 +75,7 @@ The Grounded Architecture framework consists of three key elements:
    - [General Principles](operating-model)
    - [Cooperation-Based Operating Model](six-simple-rules)
    - [IT Governance: Nudge, Taxation, Mandates](governance), and as a bonus
-   - [Leveraging the Full Potential of Generative AI for IT Architecture](gen-ai-potential)
+   - [Leveraging The Potential of Generative AI within Grounded Architecture Framework](gen-ai-potential)
 
 These sections outline a framework of processes and agreements that enable architects to thrive by leveraging data and collaborative connections, ultimately creating a powerful, organization-wide impact.
 
