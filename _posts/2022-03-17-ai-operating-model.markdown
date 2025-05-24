@@ -1,7 +1,7 @@
 ---
 layout: post
 section: "Grounded Architecture Framework"
-title: "Leveraging The Potential of Generative AI"
+title: "Leveraging The Potential of Generative AI within Grounded Architecture Framework"
 position: 3017
 podcast: gen-ai-potential.mp3
 spotify: https://open.spotify.com/episode/6oOCYLSsbNxwSqzrXA9QPY?si=50eaff6ec4194d27

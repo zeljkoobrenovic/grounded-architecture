@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-05-24T13:40:20+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: Redefining IT Architecture Practice</title><subtitle></subtitle><entry><title type="html">Cheat Sheet</title><link href="http://localhost:4000/cheat-sheet" rel="alternate" type="text/html" title="Cheat Sheet" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/appendix-cheat-sheet</id><content type="html" xml:base="http://localhost:4000/cheat-sheet"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/istock/iStock-1182643171.jpg" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-05-24T15:10:26+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: Redefining IT Architecture Practice</title><subtitle></subtitle><entry><title type="html">Cheat Sheet</title><link href="http://localhost:4000/cheat-sheet" rel="alternate" type="text/html" title="Cheat Sheet" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/appendix-cheat-sheet</id><content type="html" xml:base="http://localhost:4000/cheat-sheet"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/istock/iStock-1182643171.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Tashulia">Tashulia</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
@@ -1723,22 +1723,26 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/NanoS
   <p><strong>KEY POINTS:</strong></p>
 
   <ul>
-    <li>The Six Simple Rules approach emphasizes that in today’s complicated business environment, you must set up organizational structures based on cooperation.</li>
-    <li>To deal with complexity, organizations should depend on the judgment of their people and on these people cooperating.</li>
-    <li>This view is well aligned with the ideas of Grounded Architecture.</li>
+    <li>Grounded Architecture emphasizes collaboration and aligns with the Six Simple Rules framework, which promotes autonomy and cooperation to manage organizational complexity effectively.</li>
+    <li>The Six Simple Rules reject traditional hard and soft management styles, instead advocating for structures that empower people while encouraging mutual accountability and cooperation.</li>
+    <li>Key rules include understanding actual work behaviors, reinforcing integrators, and increasing the total power in the organization to enable decision-making without creating bureaucracy.</li>
+    <li>Cooperation is strengthened through reciprocity, feedback loops (“shadow of the future”), and rewarding collaborative behavior, creating a system where shared success drives performance.</li>
+    <li>Architecture practices play a vital role by using tools like Lightweight Architectural Analytics and Collaborative Networks to support these rules and foster an adaptive, high-impact environment.</li>
   </ul>
 </blockquote>
 
 <p><br />
-The book <a href="https://www.bcg.com/capabilities/organization-strategy/smart-simplicity">Six Simple Rules: How to Manage Complexity without Getting Complicated</a> by Yves Morieux and Peter Tollman offered fresh air for my vision of an architecture practice. Morieux and Tollman introduced the concept of <strong>Smart Simplicity</strong> with six rules or strategies that enable organizations to promote new behaviors and improve performance. The Six Simple Rules approach emphasizes that in today’s business environment, you need to set up <strong>organizational structures based on cooperation</strong>.</p>
+The Grounded Architecture operating model is <strong>fundamentally collaborative</strong>. It focuses on establishing <strong>organizational structures based on cooperation</strong>, allowing architects to work effectively with others and make a meaningful impact. To foster such a collaborative approach, I have found the Six Simple Rules method, developed by Yves Morieux and Peter Tollman, to be particularly useful. This framework encourages organizations to adapt to complexity by promoting autonomy and cooperation among their members.</p>
+
+<p>The book <em>Six Simple Rules: How to Manage Complexity Without Getting Complicated</em> by Yves Morieux and Peter Tollman has greatly influenced my vision of an architectural practice. The authors introduce the concept of <strong>Smart Simplicity</strong>, outlining six rules or strategies that enable organizations to encourage new behaviors and enhance performance. The Six Simple Rules approach emphasizes that in today’s business environment, it is essential to create <strong>organizational structures based on cooperation</strong>.</p>
 
 <div class="quote">
-In today's complicated business environments, you must set up organizational structures based on cooperation.
+In today's complicated business environments, it is crucial to establish organizational structures that prioritize cooperation.
 </div>
 
-<p>The authors developed the Six Simple Rules approach as a practical solution for today’s complex business environment. The rules in the book are based on the premise that the key to managing complexity is the <strong>combination of autonomy and cooperation.</strong> The book advocates for the setup of organizational structures that harmonize, empowering individuals with more autonomy to act. This approach is about trusting the capabilities of the organization’s people to handle complex problems, fostering a cooperative and efficient work environment.</p>
+<p>Morieux and Tollman developed the Six Simple Rules as a practical solution for today’s complex business landscape. The rules in the book rest on the idea that effectively managing complexity requires a <strong>combination of autonomy and cooperation.</strong> They advocate for organizational structures that align with this principle, empowering individuals to act autonomously. This approach is rooted in trusting the skills and capabilities of the organization’s people to tackle complex challenges, thereby fostering a cooperative and efficient work environment.</p>
 
-<p>In this chapter, I explore how Grounded Architecture and Six Simple Rules are best friends. The Six Simple Rules ideas have been a significant source of inspiration for my work. <a href="https://martinfowler.com/bliki/ConwaysLaw.html"><strong>Conway’s Law</strong></a> shows that the link between organizational structures and IT architecture is like peanut butter and jelly—strong and better together. The Six Simple Rules approach and architectural work are all about managing complexity without getting tangled up.</p>
+<p>In this chapter, I will explore how Grounded Architecture and the Six Simple Rules complement each other. The ideas from the Six Simple Rules have been a significant source of inspiration for my work. <a href="https://martinfowler.com/bliki/ConwaysLaw.html"><strong>Conway’s Law</strong></a> illustrates that the relationship between organizational structures and IT architecture is like peanut butter and jelly—stronger and better together. Both the Six Simple Rules approach and architectural practice focus on managing complexity without becoming overwhelmed.</p>
 
 <p><br /></p>
 <h2 id="background-hard-and-soft-management">Background: Hard and Soft Management</h2>
@@ -2009,7 +2013,7 @@ Image by <a href="https://pixabay.com/users/stocksnap-894430/?utm_source=link-at
   <li><em>How are those who cooperate rewarded in your organization? Are there mechanisms in place to increase the payoff for all when they cooperate beneficially?</em></li>
   <li><em>How can architecture practice in your organization support the implementation of the Six Simple Rules?</em></li>
   <li><em>How do your organization’s current systems and structures promote or hinder the cooperation needed to make autonomy effective?</em></li>
-</ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[The Six Simple Rules approach emphasizes that you must set up organizational structures based on cooperation in today's complicated business environment. To deal with complexity, organizations should depend on the judgment of their people, and these people cooperate to utilize the organization's capabilities to cope with complex problems.]]></summary></entry><entry><title type="html">Operating Model: Nudge, Taxation, Mandates</title><link href="http://localhost:4000/governance" rel="alternate" type="text/html" title="Operating Model: Nudge, Taxation, Mandates" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/governance</id><content type="html" xml:base="http://localhost:4000/governance"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/greece-1594689_1920.jpg" /></p>
+</ul>]]></content><author><name>by Željko Obrenović (obren.io)</name></author><summary type="html"><![CDATA[Grounded Architecture applies the Six Simple Rules to manage complexity by balancing autonomy and cooperation. Instead of relying on rigid processes or soft sentiment alone, it fosters structures that empower individuals and promote collaboration. Key principles like reinforcing integrators, increasing power, and rewarding cooperation enable distributed decision-making.]]></summary></entry><entry><title type="html">Operating Model: Nudge, Taxation, Mandates</title><link href="http://localhost:4000/governance" rel="alternate" type="text/html" title="Operating Model: Nudge, Taxation, Mandates" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/governance</id><content type="html" xml:base="http://localhost:4000/governance"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/greece-1594689_1920.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/nl/users/nonbirinonko-3101900/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1594689">nonbirinonko</a> from <a href="https://pixabay.com/nl//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1594689">Pixabay</a>
 </div>
@@ -2040,28 +2044,72 @@ Image by <a href="https://pixabay.com/nl/users/nonbirinonko-3101900/?utm_source=
             display: none;
         }
     }
+     h3 {
+          margin-top: 26px;     
+     }
 </style>
 
-<p><strong>Governance</strong> is the <strong>framework of rules and processes</strong> by which an organization is <strong>directed and controlled</strong>, focusing on <strong>accountability</strong>, <strong>fairness</strong>, and <strong>transparency</strong>. It applies to <strong>corporate</strong>, <strong>IT</strong>, <strong>project</strong>, and <strong>data governance</strong>.</p>
+<p><strong>Governance</strong> refers to the rules, practices, and processes that dictate how an organization is <strong>directed, managed, and held accountable</strong>. It clarifies who makes decisions, how they are made, and how the outcomes are monitored and enforced.</p>
 
-<p><strong>IT architecture serves as a form of governance</strong> by <strong>establishing structured frameworks</strong> for managing <strong>technology resources</strong> and ensuring <strong>alignment with business objectives</strong>. It promotes <strong>standardization</strong>, manages <strong>risks</strong>, <strong>optimizes resources</strong>, and supports <strong>decision-making</strong>, <strong>innovation</strong>, and <strong>performance measurement</strong>.</p>
+<p>Governance extends beyond high-level board meetings; it is relevant across various areas of an organization, including:</p>
 
-<p>Governance faces challenges due to <strong>diverse interests</strong>, <strong>rapidly changing conditions</strong>, and <strong>multifaceted issues</strong>. A successful governance framework requires <strong>adaptability</strong>, <strong>collaboration</strong>, and a <strong>commitment to addressing both immediate and long-term challenges</strong>. Effective governance <strong>balances stakeholder interests</strong> and <strong>evolves to meet organizational objectives</strong>.</p>
-
-<p>Architecture practice should support governance models that are aligned and adaptable to organizations’ complex and diverse needs. Consequently, I see an architecture governance model as a well-balanced hybrid of three different styles of governing:</p>
 <ul>
-  <li><strong>nudging</strong>,</li>
-  <li><strong>taxes</strong> (economic incentives), and</li>
-  <li><strong>mandates and bans</strong>.</li>
+  <li><strong>Corporate governance</strong> – guiding leadership, accountability, and strategic direction.</li>
+  <li><strong>IT governance</strong> – ensuring technology investments align with business goals.</li>
+  <li><strong>Project governance</strong> – managing the execution of projects to align with strategic objectives.</li>
+  <li><strong>Data governance</strong> – ensuring data is accurate, secure, and responsibly used.</li>
 </ul>
 
-<div class="quote">
-Architecture practice should support governance models <b>adaptable to organizations' complex and diverse needs</b>.
-</div>
-<p><br /></p>
-<h2 id="nudging">Nudging</h2>
+<p>Every organization that utilizes technology has an IT architecture, which is the blueprint for how its systems, software, and infrastructure work together. However, <strong>IT architecture is more than technical diagrams; it is a form of governance</strong>.</p>
 
-<p>In behavioral economics and psychology, a <strong>nudge is a subtle or indirect suggestion</strong> influencing someone’s behavior or decision-making <strong>without forcing them or limiting their freedom of choice</strong>. Nudges can be applied in various settings, such as policy-making, marketing, and personal interactions, to encourage people to make better choices, improve their well-being, or achieve specific goals.</p>
+<p>IT architecture helps an organization to:</p>
+
+<ul>
+  <li><strong>Standardize</strong> systems and processes, thereby reducing complexity.</li>
+  <li><strong>Align technology</strong> with business priorities and strategies.</li>
+  <li><strong>Manage risks</strong> related to security, compliance, and organizational change.</li>
+  <li><strong>Utilize resources efficiently</strong>, avoiding waste and redundancy.</li>
+  <li><strong>Support better decision-making</strong> by providing clear structures and insights.</li>
+  <li><strong>Encourage innovation</strong> without sacrificing control.</li>
+  <li><strong>Measure performance</strong> and facilitate continuous improvement.</li>
+</ul>
+
+<p>In essence, IT architecture translates governance principles into <strong>practical, everyday practices</strong> that bolster business success through technology.</p>
+
+<p>Governance is not without its challenges. It often has to address:</p>
+
+<ul>
+  <li><strong>Conflicting priorities</strong> among departments or teams.</li>
+  <li><strong>Rapid changes</strong> in technology, regulations, or customer needs.</li>
+  <li><strong>Complex environments</strong> characterized by multiple systems, vendors, and stakeholders.</li>
+</ul>
+
+<p>For governance to be effective, it must be:</p>
+
+<ul>
+  <li><strong>Adaptable</strong> – able to respond to evolving needs.</li>
+  <li><strong>Collaborative</strong> – engaging diverse voices and perspectives.</li>
+  <li><strong>Strategic</strong> – balancing immediate demands with long-term visions.</li>
+</ul>
+
+<p>The best governance frameworks are <strong>living systems</strong>; they evolve as the organization and its environment change.</p>
+
+<p>Architecture, particularly in IT, should facilitate governance models that <strong>adapt to the complexity and diversity</strong> of the modern organization. One-size-fits-all approaches are rarely successful. Therefore, I advocate for a <strong>hybrid governance model</strong>—a thoughtful blend of different approaches tailored to specific situations.</p>
+
+<p>This model incorporates three styles of influence:</p>
+
+<ol>
+  <li><strong>Nudging</strong> – offering gentle guidance that influences behavior without restricting choice.</li>
+  <li><strong>Taxes</strong> (or economic incentives) – rewarding positive behavior or discouraging harmful practices through resource allocation.</li>
+  <li><strong>Mandates and bans</strong> – establishing clear rules and boundaries as necessary.</li>
+</ol>
+
+<p>Each of these approaches plays a significant role. Together, they form a flexible and effective framework for managing how technology is employed and evolved within the organization.</p>
+
+<p><br /></p>
+<h2 id="nudging-as-a-governance-tool">Nudging as a Governance Tool</h2>
+
+<p>In behavioral economics and psychology, a <strong>nudge</strong> refers to a subtle cue or indirect suggestion that influences how people behave or make decisions—<strong>without coercing them or limiting their choices</strong>. The effectiveness of nudging lies in its gentle influence: it respects individual freedom while encouraging better choices through thoughtful design, context, and feedback.</p>
 
 <p><br />
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/istock/iStock-1390608248.jpg" /></p>
@@ -2069,76 +2117,184 @@ Architecture practice should support governance models <b>adaptable to organizat
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Chernetskaya">Liudmila Chernetska</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 
-<p>A nudge can take many forms, such as a slight change in the environment, a gentle reminder, positive reinforcement, or a default option. For example, placing healthy food options at eye level in a cafeteria can nudge people to choose healthier meals. Setting a default option for organ donation can increase the number of donors.</p>
+<p>Nudges are frequently utilized in areas such as public policy, marketing, and workplace culture to assist individuals in making decisions that lead to better outcomes—both for themselves and for the system as a whole. Common examples include:</p>
 
-<div class="quote">
-A nudge is a subtle or indirect suggestion influencing someone's behavior or decision-making without forcing them or limiting their freedom of choice.
-</div>
-
-<p>The concept of a nudge was popularized by the book <strong>“Nudge: Improving Decisions About Health, Wealth, and Happiness”</strong> by Richard Thaler and Cass Sunstein, which argues that various cognitive biases and heuristics often influence people’s decisions, and that nudges can help people overcome these biases and <strong>make better choices</strong>.</p>
-
-<p>Richard Thaler and Cass Sunstein also introduced the concept of choice architecture as a critical component of nudging. Choice architecture refers to how options are presented to individuals, which can significantly influence their choices. It is the design of the decision-making environment, which includes the layout, structure, and organization of available options.</p>
-
-<p>In IT architecture, examples of nudging include:</p>
 <ul>
-  <li>Architectural <strong>principles</strong> as informal decision guidelines. Such principles do not prescribe a solution but can subtly guide alignment.</li>
-  <li>Recommendations for <strong>best practices</strong> to stimulate introduction and alignment around such practices,</li>
-  <li>Default options for technology choices via 
-<a href="https://engineering.atspotify.com/2020/08/how-we-use-golden-paths-to-solve-fragmentation-in-our-software-ecosystem/"><strong>golden paths</strong></a></li>
-  <li><strong>Highlighting</strong> bad quality software on a <a href="analytics">Lightweight Architectural Analytics</a> dashboard to create subtle pressure for people to improve it,</li>
-  <li>Tracking of <strong>tech debt</strong> to create awareness about its size and lead action to reduce it,</li>
-  <li><strong>Visualizing cost trends</strong> of cloud services per team to stimulate teams to improve the performance efficiency of their software.</li>
+  <li><strong>Placing healthy food at eye level</strong> in cafeterias to encourage healthier eating habits.</li>
+  <li><strong>Setting default options</strong> (e.g., opt-out organ donation) to promote socially beneficial behavior.</li>
+  <li><strong>Sending reminders</strong> or prompts to encourage timely actions, such as saving for retirement or updating software.</li>
 </ul>
 
-<p>Nudges can frequently lead to better alignment and more harmonization without the negative consequences of mandates, bans, or taxation.</p>
+<p>This concept gained global attention through the book <strong><em>Nudge: Improving Decisions About Health, Wealth, and Happiness</em></strong> by <strong>Richard Thaler and Cass Sunstein</strong>. They also introduced the idea of <strong>choice architecture</strong>—how the structure and presentation of choices influence decision-making. By designing the environments in which decisions are made, we can gently guide behavior toward better outcomes, often overcoming common cognitive biases.</p>
 
-<p>Grounded Architecture is well aligned with ideas of nudging. I designed many <a href="analytics">Lightweight Architectural Analytics</a> tools to <strong>highlight areas and issues</strong> we wanted (nudged) people to improve. The <a href="people">Collaborative Networks</a> can create mechanisms for sharing experiences, promoting <strong>positive examples</strong>, and capturing lessons learned to help people make better, more informed decisions. In the <a href="operating-model">Operating Model</a>, I use the operating model that stimulates people to make decisions autonomously but <strong>nudges them to stay well-aligned</strong> and connected to the organizational strategic direction.</p>
+<h3 id="nudging-in-it-architecture">Nudging in IT Architecture</h3>
+
+<p>In the realm of <strong>IT architecture</strong>, nudging serves as a powerful, non-intrusive method to guide teams and individuals toward more consistent, efficient, and aligned behavior—<strong>without enforcing strict compliance</strong>.</p>
+
+<p>Here are some ways nudging manifests in architectural practice:</p>
+
+<ul>
+  <li>
+    <p><strong>Architectural principles</strong>:
+Serve as soft guidelines rather than hard rules, subtly encouraging teams to align with broader strategic goals.</p>
+  </li>
+  <li>
+    <p><strong>Best practice recommendations</strong>:
+Promote reuse, consistency, and improved quality across teams while still allowing for autonomy.</p>
+  </li>
+  <li>
+    <p><strong>Golden paths</strong>:
+Predefined, well-supported solutions or workflows that are the easiest to follow, gently guiding teams toward preferred technology choices. (<a href="https://engineering.atspotify.com/2020/08/how-we-use-golden-paths-to-solve-fragmentation-in-our-software-ecosystem/">Spotify’s golden paths</a> are a strong example.)</p>
+  </li>
+  <li>
+    <p><strong>Dashboards and visualizations</strong>:
+Lightweight analytics platforms can highlight outdated or poor-quality software, applying social and reputational pressure for improvement without direct enforcement.</p>
+  </li>
+  <li>
+    <p><strong>Technical debt tracking</strong>:
+Making technical debt visible raises awareness and nudges teams to address it over time.</p>
+  </li>
+  <li>
+    <p><strong>Cloud cost visualizations</strong>:
+Demonstrating cost trends per team encourages behavior that leads to greater efficiency in cloud usage.</p>
+  </li>
+</ul>
+
+<p>These nudges are most effective when they are <strong>transparent, actionable, and connected to meaningful outcomes</strong>. They constructively influence behavior—helping people and teams make smarter decisions <strong>without the burden of top-down mandates</strong> or punitive enforcement.</p>
+
+<p>The principles of <strong>Grounded Architecture</strong> closely align with the concept of nudging. Instead of imposing rigid control, it creates environments that organically and collaboratively guide behavior. For instance:</p>
+
+<ul>
+  <li><strong><a href="analytics">Lightweight Architectural Analytics</a></strong> tools are designed to highlight areas that need improvement—acting as cues rather than commands.</li>
+  <li><strong><a href="people">Collaborative Networks</a></strong> encourage peer learning and the dissemination of best practices through community influence and storytelling.</li>
+  <li>The <strong><a href="operating-model">Operating Model</a></strong> promotes autonomous decision-making while integrating subtle mechanisms that <strong>nudge alignment</strong> with strategic goals.</li>
+</ul>
+
+<p>Together, these approaches create a governance strategy that is <strong>flexible, respects autonomy</strong>, and is <strong>highly effective</strong> in complex, dynamic organizational settings.</p>
 
 <p><br /></p>
-<h2 id="taxation-economic-incentives">Taxation (Economic Incentives)</h2>
+<h2 id="taxation-economic-incentives-as-a-governance-mechanism">Taxation (Economic Incentives) as a Governance Mechanism</h2>
 
-<p><strong>Governing with taxes</strong> is a strategic approach that allows individuals or departments to make choices and decisions without prohibition. Instead, they must <em>“pay”</em> a <strong>tax on the resources they use</strong>. This system creates a <strong>feedback loop</strong> that encourages <strong>responsible resource consumption</strong> and <strong>optimizes overall system efficiency</strong>. A practical application of this approach can be seen in <strong>managing public cloud costs</strong> within an organization. By <strong>cross-charging</strong> these expenses across various departments or projects, each unit receives a <strong>clear signal regarding its resource consumption</strong>. This practice not only enables <strong>accurate cost allocation</strong> but also raises awareness, motivating efforts to <strong>minimize unnecessary usage</strong>. It effectively prevents the <em>“tragedy of the commons,”</em> where unrestricted access to shared resources leads to overconsumption and depletion.</p>
+<p><strong>Taxation as governance</strong> is an approach that promotes accountability without imposing restrictions. Instead of prohibiting specific actions, it allows teams or departments to make their own decisions—but with <strong>a cost</strong>. This “cost,” or <strong>tax</strong>, is typically linked to the resources they consume. It creates a <strong>feedback loop</strong> that helps regulate behavior by making the consequences of excessive usage visible and tangible.</p>
 
-<div class="quote">
-Governing with taxes is a form of guiding in which people are not forbidden to make some decisions but need to "pay" some form of taxes on used resources.
-</div>
+<p>A common and effective example of this is found in <strong>managing cloud costs</strong>. In many organizations, departments consume public cloud services, such as storage, computation, and bandwidth. When these expenses are <strong>cross-charged</strong>—meaning each department pays for its share of usage—it sends a <strong>clear signal about resource consumption</strong>. Teams become more aware of their costs and are motivated to avoid waste and optimize efficiency.</p>
 
 <p><br />
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/credit-squeeze-g61ddead85_1920.png" /></p>
+
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/stevepb-282134/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=522549">Steve Buissinne</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=522549">Pixabay</a>
 </div>
 
-<p>In contrast to <strong>nudging</strong>, which subtly influences behavior by providing information or setting default choices without imposing direct consequences, <strong>taxes introduce clear and tangible consequences</strong>. For instance, projects that exceed budgeted IT costs due to excessive resource use might be <strong>canceled</strong>. The <strong>architecture practice</strong> plays a crucial role in this governance model, ensuring that taxation policies are grounded in <strong>accurate and comprehensive data</strong>, such as public cloud cost reports. <strong>Transparency is essential</strong>; all stakeholders should understand <strong>how and why taxes are levied</strong>, along with clear reports detailing the basis of taxation and its effect on resource consumption.</p>
+<p>This approach contrasts with <strong>nudging</strong>, which uses subtle design cues and informational guidance. Taxation, on the other hand, introduces <strong>direct, measurable consequences</strong>. For example, if a project consistently exceeds its allocated cloud budget, it may be <strong>delayed, reviewed, or even canceled</strong>. This adds a layer of accountability to resource use while still preserving team autonomy.</p>
 
-<p>Developing <strong>efficient feedback loops</strong> is another critical aspect. These loops provide <strong>timely and actionable feedback</strong> on key metrics related to taxes, allowing for continual refinement and optimization of the taxation system.<a href="analytics"> Lightweight Architectural Analytics</a> is key to this approach, as it aggregates and analyzes all data related to resource consumption and taxation, generating insights from public cloud cost reports that <strong>guide decision-making</strong>. <a href="people">Collaborative Networks</a> foster alignment of organizational processes, goals, and working methods with the taxation system, promoting a <strong>culture of responsible resource usage</strong> and continuous improvement.</p>
+<h3 id="the-role-of-architecture-in-a-taxation-model">The Role of Architecture in a Taxation Model</h3>
 
-<p>In conclusion, governing with taxes is an effective approach to resource management that <strong>balances autonomy with accountability</strong>. By implementing a data-driven and <strong>transparent taxation system</strong>, organizations can optimize resource usage, prevent overconsumption, and <strong>drive meaningful change</strong>. An architecture practice, supported by robust Lightweight Architectural Analytics and Collaborative Networks, is essential for achieving these goals and ensuring the <strong>sustainability of shared resources</strong>.</p>
+<p>The architecture practice plays a <strong>critical role</strong> in supporting this governance approach by ensuring that <strong>taxation mechanisms are fair, transparent, and data-driven</strong>. Key elements include:</p>
+
+<ul>
+  <li>
+    <p><strong>Transparent reporting</strong>:
+All stakeholders must clearly understand how resource consumption is measured, how costs are allocated, and how these factors impact decision-making. This transparency builds trust and supports behavior change.</p>
+  </li>
+  <li>
+    <p><strong>Accurate, comprehensive data</strong>:
+Taxation should be based on actual usage patterns, not estimates. Detailed cost reports—especially from public cloud environments—form the basis of meaningful economic incentives.</p>
+  </li>
+  <li>
+    <p><strong>Timely feedback loops</strong>:
+Teams need <strong>real-time or near-real-time insights</strong> into their resource usage and associated costs. When feedback is delayed or unclear, the effectiveness of the tax diminishes.</p>
+  </li>
+  <li>
+    <p><strong>Lightweight Architectural Analytics</strong>:
+Tools like <a href="analytics">Lightweight Architectural Analytics</a> aggregate cloud cost data, visualize spending patterns, and help identify optimization opportunities. These analytics transform raw data into <strong>actionable insights</strong>.</p>
+  </li>
+  <li>
+    <p><strong>Collaborative Networks</strong>:
+<a href="people">Collaborative Networks</a> align teams around shared goals, support the interpretation of analytics data, and facilitate the exchange of ideas for optimizing usage. They help foster a <strong>culture of responsible resource management</strong>.</p>
+  </li>
+</ul>
+
+<h3 id="driving-sustainable-change">Driving Sustainable Change</h3>
+
+<p>Ultimately, governing with taxes enables organizations to balance <strong>autonomy with accountability</strong>. It allows teams the freedom to make choices while making the <strong>impact of those choices visible</strong> through economic signals. When implemented effectively, this approach:</p>
+
+<ul>
+  <li>Encourages <strong>cost-conscious decision-making</strong>.</li>
+  <li>Discourages <strong>wasteful or unsustainable use</strong> of shared resources.</li>
+  <li>Promotes <strong>optimization and innovation</strong> within constraints.</li>
+  <li>Strengthens alignment between <strong>financial accountability</strong> and <strong>technical architecture</strong>.</li>
+</ul>
+
+<p>With the right tools and structures in place—such as Lightweight Architectural Analytics and Collaborative Networks—<strong>architecture practices become essential enablers</strong> of this governance style. They ensure that economic incentives are used wisely, feedback is timely, and resource consumption aligns with the organization’s long-term goals.</p>
 
 <p><br /></p>
-<h2 id="mandates-and-bans">Mandates and Bans</h2>
+<h2 id="mandates-and-bans-as-governance-tools">Mandates and Bans as Governance Tools</h2>
 
-<p>Governing through mandates and bans involves clearly outlining what people <strong>should or should not do</strong>. In various workplaces, these tools play a <strong>limited yet crucial role</strong> in defining the <strong>broader strategic boundaries</strong> of available choices. For instance, restricting the use of public cloud providers to specific vendors or enforcing strict <strong>privacy and security protocols</strong> must be clearly defined and controlled.</p>
+<p><strong>Mandates and bans</strong> are the most direct forms of governance. They clearly specify what people <strong>must do</strong> (mandates) or <strong>must not do</strong> (bans). These tools are essential for defining <strong>non-negotiable rules and boundaries</strong>, particularly in areas where compliance, ethics, or risk mitigation are crucial.</p>
 
-<p>It is essential to use <strong>bans carefully and as a last resort</strong> to avoid unnecessarily hindering development and innovation. However, mandates and bans can effectively clarify important issues where nudging or taxation alone would be insufficient. For example, establishing clear rules and control mechanisms to prevent violations of <strong>privacy or financial laws</strong> can help avert incidents and damage. Well-defined mandates and bans ensure <strong>compliance with critical regulations</strong> and help <strong>protect the organization’s integrity and reputation</strong>.</p>
+<p>In practice, mandates and bans play a <strong>limited but vital role</strong> in shaping behavior. For example:</p>
 
-<div class="quote">
-By governing with mandates and bans, I mean guiding people by explicitly defining what they should or should not do.
-</div>
-<p><br /></p>
+<ul>
+  <li>A company may <strong>restrict the use of certain cloud providers</strong> to ensure data sovereignty or contractual compliance.</li>
+  <li>Legal and regulatory mandates may <strong>require strong encryption</strong>, privacy protection, or specific financial reporting standards.</li>
+  <li>Specific bans may <strong>prohibit risky technologies or architectural patterns</strong> that have proven unsustainable or insecure.</li>
+</ul>
 
-<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/ethics-g277df4183_1920.jpg" /></p>
+<p><br />
+<img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/arch/ethics-g277df4183_1920.jpg" /></p>
+
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/tumisu-148124/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2991600">Tumisu</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2991600">Pixabay</a>
 </div>
 
-<p>The role of architecture in this form of governance should be to act as <strong>a stakeholder but not the sole owner in defining mandates and bans</strong>. These mandates and bans should often be determined collaboratively with other functions, such as security and legal departments. The an architecture practice can contribute by <strong>creating clarity and providing transparency</strong>.</p>
+<p>While mandates and bans can be powerful, they should be used <strong>sparingly and intentionally</strong>. Overusing them may create unnecessary friction, discourage innovation, or diminish trust. However, in areas like <strong>security, compliance, and ethics</strong>, clear rules are not just helpful—they are essential. These rules help prevent incidents, safeguard the organization’s reputation, and <strong>ensure adherence to laws and regulations</strong>.</p>
 
-<p><a href="analytics">Lightweight Architectural Analytics</a> is crucial for creating <strong>clarity and transparency</strong>. For example, it can provide insights through security reports or maps of areas in the source code or infrastructure that need monitoring and controlling based on privacy or security requirements. This foundation helps in identifying and mitigating risks, ensuring that the organization’s technology landscape aligns with its governance frameworks.</p>
+<h3 id="the-role-of-architecture-in-enforcing-mandates-and-bans">The Role of Architecture in Enforcing Mandates and Bans</h3>
 
-<p>The <a href="people">Collaborative Networks</a> can help propagate the decision and ensure its <strong>positive impact and acceptance</strong>. Mandates and bans should not be issued routinely without sufficient explanation. It is crucial to spend time with all stakeholders to explain the <strong>reasons and motivations</strong> behind introducing certain limitations. A strong Collaborative Networks fosters strong connections with key stakeholders, leveraging these relationships to implement changes smoothly. This foundation ensures that governance measures are understood, accepted, and integrated into the organization’s culture and practices, enhancing overall effectiveness.</p>
+<p>In this governance model, the <strong>architecture practice serves as a contributor—not the sole authority</strong>. Mandates and bans are typically shaped collaboratively with:</p>
 
-<p>In summary, governing with mandates and bans involves setting clear, explicit guidelines for acceptable behavior and practices. It requires a balanced approach to ensure it does not stifle innovation while maintaining necessary controls. Effective implementation relies on collaboration, transparency, and communication to ensure that all stakeholders understand and accept the governance measures.</p>
+<ul>
+  <li><strong>Security and risk teams</strong> to address vulnerabilities and ensure compliance.</li>
+  <li><strong>Legal and regulatory departments</strong> to adhere to external obligations.</li>
+  <li><strong>Operations and finance</strong> to enforce constraints related to costs or performance.</li>
+</ul>
+
+<p>The architecture team’s role is to <strong>clarify, document, and reinforce</strong> these mandates through guidance, tooling, and visibility:</p>
+
+<ul>
+  <li>
+    <p><strong>Lightweight Architectural Analytics</strong>:<br />
+<a href="analytics">Lightweight Architectural Analytics</a> helps identify areas that require monitoring or enforcement. It can surface security vulnerabilities, policy violations, or infrastructure risks through dashboards and reports—creating <strong>transparency and focus</strong>.</p>
+  </li>
+  <li>
+    <p><strong>Collaborative Networks</strong>:<br />
+<a href="people">Collaborative Networks</a> are essential for the <strong>socialization and adoption</strong> of mandates. They help explain the reasoning behind new rules, build consensus, and foster acceptance. These networks ensure that changes are <strong>well-communicated, understood, and internalized</strong>—not just enforced.</p>
+  </li>
+</ul>
+
+<h3 id="when-and-how-to-use-mandates-and-bans">When and How to Use Mandates and Bans</h3>
+
+<p>Mandates and bans are best reserved for:</p>
+
+<ul>
+  <li><strong>Critical compliance needs</strong> (e.g., GDPR, financial regulations)</li>
+  <li><strong>Organizational priorities</strong> (e.g., sustainability, cybersecurity)</li>
+  <li><strong>Strategic constraints</strong> (e.g., vendor lock-in, architectural standards)</li>
+</ul>
+
+<p>They work most effectively when:</p>
+
+<ul>
+  <li>Stakeholders are <strong>engaged early in the process</strong>.</li>
+  <li>There is <strong>clear, data-driven justification</strong>.</li>
+  <li>Communication is <strong>open, empathetic, and thorough</strong>.</li>
+  <li>There are <strong>mechanisms to track adherence and measure impact</strong>.</li>
+</ul>
+
+<p>Governing with mandates and bans involves setting <strong>firm, transparent boundaries</strong>, but this should be done with care. This governance tool is best employed when other methods (like nudging or taxation) are insufficient to ensure compliance, protect the organization, or uphold its values.</p>
+
+<p>When thoughtfully implemented, and supported by clear analytics and strong collaboration, mandates and bans can become <strong>protective measures</strong>, not roadblocks—<strong>enabling safe innovation</strong> within a framework of trust and responsibility.</p>
 
 <p><br /></p>
 <h2 id="questions-to-consider">Questions to Consider</h2>
