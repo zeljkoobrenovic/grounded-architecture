@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-05-24T20:17:35+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: Redefining IT Architecture Practice</title><subtitle></subtitle><entry><title type="html">Cheat Sheet</title><link href="http://localhost:4000/cheat-sheet" rel="alternate" type="text/html" title="Cheat Sheet" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/appendix-cheat-sheet</id><content type="html" xml:base="http://localhost:4000/cheat-sheet"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/istock/iStock-1182643171.jpg" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-05-25T10:36:56+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: Redefining IT Architecture Practice</title><subtitle></subtitle><entry><title type="html">Cheat Sheet</title><link href="http://localhost:4000/cheat-sheet" rel="alternate" type="text/html" title="Cheat Sheet" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/appendix-cheat-sheet</id><content type="html" xml:base="http://localhost:4000/cheat-sheet"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/istock/iStock-1182643171.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Tashulia">Tashulia</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
@@ -1103,6 +1103,12 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/ko_or
             display: none;
         }
     }
+    h3 {
+        margin-top: 30px;
+    }
+    h4 {
+        margin-top: 30px;
+    }
 </style>
 
 <p><br /></p>
@@ -1110,220 +1116,529 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/ko_or
   <p><em>“If we have data, let’s look at data. If all we have are opinions, let’s go with mine.”</em> -— Jim Barksdale</p>
 </blockquote>
 
-<p><br />
-Everywhere I worked on creating an architecture practice, I strongly (aka obsessively) <strong>emphasized data.</strong> Consequently, one of the first steps I make in any an architecture practice is to create an Lightweight Architectural Analytics to get a complete, up-to-date picture of critical elements of an organization’s technology landscapes (Figure 1). Manual documentation does not scale, and relying on data ensures the reliability and scalability of decision-making.</p>
+<p><br /></p>
+
+<p>In every organization where I have built an architecture practice, I have <strong>strongly—some might say obsessively—emphasized the importance of data</strong>. One of the first steps I take is to establish a <strong>Lightweight Architectural Analytics</strong> capability (Figure 1). This step is crucial for obtaining a <strong>comprehensive and up-to-date view of the organization’s technology landscape</strong>.</p>
+
+<p><br /></p>
 
 <p><img src="assets/images/model-data.png" alt="" />
-<em><strong>Figure 1:</strong> The Grounded Architecture framework: Lightweight Architectural Analytics.</em></p>
+<em><strong>Figure 1:</strong> Grounded Architecture Framework — Lightweight Architectural Analytics</em></p>
 
-<p><br />
-The good news is that <strong>big organizations have lots of data</strong> that, if used wisely, can provide an excellent basis for an architectural Lightweight Architectural Analytics. With some <strong>automation</strong> and lots of <strong>curation</strong>, getting a crystal clear overview of the technology landscape may be closer than it initially appears.</p>
+<p><br /></p>
+<h2 id="why-i-start-with-data">Why I Start With Data:</h2>
 
-<p>I call the tools I will discuss in this section <strong>lightweight</strong> to emphasize that, you don’t need to begin with costly or overly complicated software platforms. Plenty of simple and affordable tools—many of them open-source—can help you gain meaningful insights without breaking the bank.</p>
+<p>Manual documentation simply does not scale. It becomes outdated quickly and requires excessive effort to maintain. In contrast, <strong>data is scalable, repeatable, and reliable</strong>. When executed correctly, data serves as the <strong>foundation for effective and consistent architectural decision-making</strong>.</p>
+
+<h3 id="the-good-news-you-already-have-the-data">The Good News: You Already Have the Data</h3>
+
+<p>The good news? <strong>Most large organizations already possess ample data.</strong> It is just scattered across various tools, teams, and formats.</p>
+
+<p>With the right combination of:</p>
+
+<ul>
+  <li><strong>Automation</strong> (to collect and maintain data)</li>
+  <li><strong>Curation</strong> (to clean and contextualize the data),</li>
+</ul>
+
+<p>…you can unlock valuable architectural insights far more easily than you might expect.</p>
+
+<h3 id="why-lightweight">Why “Lightweight”?</h3>
+
+<p>I use the term <strong>lightweight</strong> intentionally. This approach does not involve purchasing expensive software or establishing a massive data warehouse from day one. Instead, it is about:</p>
+
+<ul>
+  <li><strong>Starting small and simple</strong></li>
+  <li>Using <strong>open-source or low-cost tools</strong></li>
+  <li>Focusing on <strong>what’s actionable rather than just what’s impressive</strong></li>
+</ul>
+
+<p>You can derive real value using a handful of smart scripts, well-designed dashboards, and a willingness to experiment. The goal is to <strong>obtain just enough structure and visibility</strong> to facilitate better decisions—without creating a new bureaucracy.</p>
+
+<p>This section will explore how Lightweight Architectural Analytics works in practice:</p>
+
+<ul>
+  <li>What data is useful</li>
+  <li>How to collect it</li>
+  <li>How to visualize and share it</li>
+  <li>And how to use it to drive alignment, reduce waste, and support effective architecture at scale</li>
+</ul>
+
+<p>If architecture involves guiding complex systems through change, then data is the <strong>compass</strong> that helps keep us oriented in the right direction.</p>
 
 <p><br /></p>
 <h2 id="examples-of-lightweight-architectural-analytics-tools">Examples of Lightweight Architectural Analytics Tools</h2>
 
-<p>To illustrate what I mean by Lightweight Architectural Analytics, I will give a few concrete examples from my recent work (Figure 2).</p>
+<p>To clarify what I mean by <strong>Lightweight Architectural Analytics</strong>, I will share some concrete examples from my recent work. These tools are part of a modular dashboard we have developed and extensively used at <strong>AVIV Group</strong>.</p>
 
-<p><img src="assets/images/apps.png" style="padding: 4px; padding-top: 8px; padding-bottom: 8px; box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px; margin-bottom: 6px" />
-<br />
-<strong>Figure 2:</strong> <em>A screenshot of the start page of the architecture data dashboard we’ve built and used at AVIV Group.</em></p>
+<p><br /></p>
 
-<p>I typically implement Lightweight Architectural Analytics as a dashboard with many data apps, typically leveraging the following data sources (Figure 3):</p>
+<p><img src="assets/images/apps.png" style="padding: 4px; padding-top: 8px; padding-bottom: 8px; box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px; margin-bottom: 6px" /><br />
+<strong>Figure 2:</strong> <em>Start page of the architecture analytics dashboard used at AVIV Group.</em></p>
+
+<p>I typically implement <strong>Lightweight Architectural Analytics</strong> as a <strong>collection of focused data applications</strong> aggregated into a simple dashboard. These tools are built on top of <strong>existing organizational data</strong> and provide accessible insights with minimal setup and maintenance.</p>
+
+<p>Each application draws from one or more of the following <strong>data streams</strong>, which are often readily available in large organizations:</p>
+
+<p><br /></p>
+
+<p><img src="assets/images/figures/architecture-dashboard-data-sources.png" style="padding: 4px; padding-top: 8px; padding-bottom: 8px; box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px; margin-bottom: 6px" /><br />
+<strong>Figure 3:</strong> <em>Overview of core data sources powering the architecture dashboard.</em></p>
+
+<p><strong>Source Code Repositories</strong>: Your source code is a valuable source of architectural signals. By analyzing:</p>
+
 <ul>
-  <li><strong>Source code</strong> contains an incredible amount of information about technology, people’s activity, team dependencies, and the quality of software systems. By analyzing commit histories, code complexity, and contributions, you can identify critical areas of improvement, understand team dynamics, and ensure code quality.</li>
-  <li><strong>Public cloud billing reports</strong> provide an overview of trends in used cloud services, regions, and budgets. Monitoring billing reports can help manage budgets, identify cost-saving opportunities, and understand usage patterns across different services and regions.</li>
-  <li><strong>Incident reports</strong> can reveal trends and dependencies among incidents. Analyzing these reports can reveal trends, common issues, and dependencies among incidents, helping manage problems and improving system reliability.</li>
-  <li><strong>Key business metrics</strong>, like vibrancy, can show user activity on our systems. Tracking these metrics can help assess the business’s health, understand user behavior, and guide strategic decisions to enhance user experience.</li>
-  <li><strong>Activity reports from messaging and collaboration platforms (such as Slack)</strong> can help understand discussion topics and team interactions. Analyzing these reports can help understand collaboration patterns, identify key discussion areas, and improve team communication and productivity.</li>
+  <li>Commit histories</li>
+  <li>Complexity trends</li>
+  <li>Contributor patterns</li>
 </ul>
 
-<p><img src="assets/images/figures/architecture-dashboard-data-sources.png" style="padding: 4px; padding-top: 8px; padding-bottom: 8px; box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px; margin-bottom: 6px" />
-<strong>Figure 3:</strong> <em>A overview of data sources for the architecture dahsboard in the AVIV Group.</em></p>
+<p>…you can uncover valuable insights into <strong>technical debt</strong>, <strong>team interactions</strong>, and <strong>system hotspots</strong>.</p>
 
-<p>In the following sections, I detail several of these architectural data-driven tools.</p>
+<p><strong>Public Cloud Billing Reports</strong>: Cloud billing data reveals:</p>
+
+<ul>
+  <li>Which services are being utilized</li>
+  <li>Areas of potential inefficiency</li>
+  <li>Cost trends across <strong>regions, teams, and services</strong></li>
+</ul>
+
+<p>This information supports more accountable cloud usage and budget-conscious design decisions.</p>
+
+<p><strong>Incident Reports</strong>: Incident data highlights:</p>
+
+<ul>
+  <li>Recurring issues</li>
+  <li>Weak points in system design</li>
+  <li>Dependencies between systems and teams</li>
+</ul>
+
+<p>Analyzing these trends can improve <strong>reliability</strong>, <strong>resilience</strong>, and <strong>incident response planning</strong>.</p>
+
+<p><strong>Business &amp; Product Metrics (e.g., User Activity)</strong>: By tracking core usage metrics, such as <strong>user activity</strong> or <strong>system vibrancy</strong>, architects gain visibility into how systems support real-world business outcomes, providing an essential link between technology and products.</p>
+
+<p><strong>Messaging &amp; Collaboration Tools</strong>: Platforms like <strong>Slack</strong> offer insights into:</p>
+
+<ul>
+  <li>Team collaboration patterns</li>
+  <li>Frequent technical discussions</li>
+  <li>Emerging pain points or themes</li>
+</ul>
+
+<p>These insights help architects stay connected to the operational realities without the need for constant meetings.</p>
+
+<p>In the following sections, I will guide you through a selection of these <strong>data-driven architecture tools</strong>, explaining how they were built, the insights they offer, and how they have facilitated architectural decision-making at scale.</p>
 
 <p><br /></p>
 <h3 id="example-1-source-code-and-commit-history-analytics">Example 1: Source Code and Commit History Analytics</h3>
 
-<p>The <strong>source code</strong> and its <strong>commit history</strong> are like a treasure chest for creating data-driven architecture documentation—packed with nuggets of wisdom about <strong>technology</strong>, team <strong>activities,</strong> <strong>dependencies,</strong> and software quality.</p>
+<p>Your <strong>source code</strong> and <strong>commit history</strong> are a valuable source of insights—an often-overlooked asset in architectural work. Within that history lie powerful signals about your <strong>technology stack</strong>, <strong>team dynamics</strong>, <strong>dependencies</strong>, and the <strong>quality and structure of your systems</strong>.</p>
 
-<p>Many tools can help you reveal these insights. In this section, I will focus on a simple tool I built to get these insights. To help you dig up this treasure without getting your hands too dirty, I’ve developed and actively maintained a free, open-source project called <strong><a href="https://sokrates.dev">Sokrates</a>.</strong> Sokrates generates reports with essential source code insights (see Figure 4). Its reports are designed to be user-friendly, making it easy for a broader audience to navigate and understand their source code and its history. Sokrates is designed with an <strong>architect’s x-ray vision,</strong> allowing you to <strong>zoom in and out</strong> of source code landscapes. It provides a <strong>high-level overview</strong> of the IT landscape, summarizing data from various teams and groups while also letting you dive deep into the <strong>code-level details.</strong> This dual functionality makes it the perfect sidekick for <strong>CTO-level</strong> strategy powwows and <strong>developer-level</strong> code critiques.</p>
+<h4 id="meet-sokrates-an-architects-x-ray-vision">Meet Sokrates: An Architect’s X-Ray Vision</h4>
 
-<p><img src="assets/images/sokrates-example-1.png" style="padding: 4px; padding-top: 8px; padding-bottom: 8px; box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px; margin-bottom: 6px" />
-<br />
-<strong>Figure 4:</strong> <em>Screenshot of a Sokrates report.</em></p>
+<p>To help you harness this potential without becoming overwhelmed, I developed and actively maintain an open-source tool called <strong><a href="https://sokrates.dev">Sokrates</a></strong>.</p>
 
-<p>Show me, don’t tell me, you said? All right, for a more entertaining look at what Sokrates can do, check out the Sokrates examples. Here are some blockbusters:</p>
+<p><strong>Sokrates</strong> is a free, lightweight tool that analyzes codebases across multiple repositories and generates intuitive, visual reports that are:</p>
 
 <ul>
-  <li><strong><a href="https://d3axxy9bcycpv7.cloudfront.net/asf/_sokrates_landscape/index.html">Apache Software Foundation Repositories</a></strong>: An epic saga of over 1,000 repositories with more than 180 million lines of code, 22,000 contributors, and 2.4 million commits.</li>
-  <li><strong><a href="https://d3axxy9bcycpv7.cloudfront.net/meta/_sokrates_landscape/index.html">Facebook/Meta OSS Repositories</a></strong>: A thriller with 800 repositories, 120 million lines of code, 20,000 contributors, and over 2 million commits.</li>
-  <li><strong><a href="https://d3axxy9bcycpv7.cloudfront.net/microsoft/_sokrates_landscape/index.html">Microsoft OSS Repositories</a></strong>: A drama featuring over 2,400 repositories with more than 100 million lines of code, 18,000 contributors, and 1.2 million commits.</li>
-  <li><strong><a href="https://d3axxy9bcycpv7.cloudfront.net/google/_sokrates_landscape/index.html">Google OSS Repositories</a></strong>: A blockbuster with over 1,600 repositories, more than 200 million lines of code, 27,000 contributors, and 2.4 million commits.</li>
-  <li><strong><a href="https://d3axxy9bcycpv7.cloudfront.net/asf/_sokrates_landscape/index.html">Linux Source Code</a></strong>: A classic with 178 repository sub-folders, more than 23 million lines of code, 17,000 contributors, and 1.7 million commits.</li>
-  <li><strong><a href="https://d3axxy9bcycpv7.cloudfront.net/amzn/_sokrates_landscape/index.html">Amazon OSS Repositories</a></strong>: A thriller with over 2,700 repositories, more than 130 million lines of code, 13,000 contributors, and 600,000 commits.</li>
+  <li><strong>Easy to explore</strong>, even for non-developers.</li>
+  <li><strong>High-level and strategic</strong>, ideal for CTOs and architecture reviews.</li>
+  <li><strong>Detailed and tactical</strong>, useful for in-depth analyses and code critiques.</li>
 </ul>
 
-<p>In addition to standard source code and commit history analyses, I also have built several special source code analyses to get further details:</p>
+<p>It allows you to <strong>zoom out</strong> for a broad overview of your organization’s code and <strong>zoom in</strong> to inspect specific teams, technologies, or problem areas. Think of it as <strong>an architect’s x-ray vision</strong> into your source code ecosystem.</p>
+
+<p><br /></p>
+
+<p><img src="assets/images/sokrates-example-1.png" style="padding: 4px; padding-top: 8px; padding-bottom: 8px; box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px; margin-bottom: 6px" /><br />
+<strong>Figure 4:</strong> <em>Screenshot from a Sokrates report dashboard.</em></p>
+
+<h4 id="show-me-dont-just-tell-me">Show Me, Don’t Just Tell Me</h4>
+
+<p>Curious what this looks like on a larger scale? Here are a few real examples of <strong>Sokrates in action</strong>, analyzing large open-source landscapes:</p>
+
 <ul>
-  <li><strong>Travis and Jenkins Analyzers</strong>: Perfect for sleuthing how teams build CI/CD pipelines.</li>
-  <li><strong>Dockerfile Scan</strong>: Creates a tech radar of runtime technologies.</li>
-  <li><strong>GitHub API Pull Request Analyses</strong>: To identify deployment frequency.</li>
+  <li><strong><a href="https://d3axxy9bcycpv7.cloudfront.net/asf/_sokrates_landscape/index.html">Apache Software Foundation</a></strong>
+    <ul>
+      <li>1,000+ repos · 180M+ lines of code · 22,000+ contributors</li>
+    </ul>
+  </li>
+  <li><strong><a href="https://d3axxy9bcycpv7.cloudfront.net/meta/_sokrates_landscape/index.html">Facebook / Meta</a></strong>
+    <ul>
+      <li>800+ repos · 120M+ lines of code · 20,000+ contributors</li>
+    </ul>
+  </li>
+  <li><strong><a href="https://d3axxy9bcycpv7.cloudfront.net/microsoft/_sokrates_landscape/index.html">Microsoft OSS</a></strong>
+    <ul>
+      <li>2,400+ repos · 100M+ lines of code · 18,000+ contributors</li>
+    </ul>
+  </li>
+  <li><strong><a href="https://d3axxy9bcycpv7.cloudfront.net/google/_sokrates_landscape/index.html">Google OSS</a></strong>
+    <ul>
+      <li>1,600+ repos · 200M+ lines of code · 27,000+ contributors</li>
+    </ul>
+  </li>
+  <li><strong><a href="https://d3axxy9bcycpv7.cloudfront.net/asf/_sokrates_landscape/index.html">Linux</a></strong>
+    <ul>
+      <li>178 folders · 23M+ lines of code · 17,000+ contributors</li>
+    </ul>
+  </li>
+  <li><strong><a href="https://d3axxy9bcycpv7.cloudfront.net/amzn/_sokrates_landscape/index.html">Amazon OSS</a></strong>
+    <ul>
+      <li>2,700+ repos · 130M+ lines of code · 13,000+ contributors</li>
+    </ul>
+  </li>
 </ul>
 
-<p>Feel free to use these or similar tools, but I encourage you to experiment with your source-code analyses as well.</p>
+<p>These reports illustrate how Sokrates can uncover patterns across thousands of projects—providing valuable insights into code health, ownership, and evolution.</p>
+
+<h4 id="specialized-analyses-for-architecture-insights">Specialized Analyses for Architecture Insights</h4>
+
+<p>In addition to standard commit and repository analysis, I’ve developed several <strong>specialized tools</strong> that extract architecture-relevant signals from code and tooling:</p>
+
+<ul>
+  <li><strong>CI/CD Insights</strong> (via Travis &amp; Jenkins Analyzers): Understand how teams build, test, and deploy.</li>
+  <li><strong>Dockerfile Scanner</strong>: Create a real-time <strong>tech radar</strong> of the runtime technologies used across teams.</li>
+  <li><strong>GitHub PR Activity Monitor</strong>: Measure deployment frequency and identify bottlenecks or silos.</li>
+</ul>
+
+<h4 id="build-your-own">Build Your Own</h4>
+
+<p>Sokrates is open-source and ready to use, but even if you choose to create your own tools or pipelines, I encourage you to:</p>
+
+<ul>
+  <li>Experiment with <strong>what matters most</strong> to your organization.</li>
+  <li>Connect <strong>code signals to business context</strong>.</li>
+  <li>Share insights <strong>visually</strong> to maximize their impact.</li>
+</ul>
+
+<p>Start small, automate early, and let the data guide you to architect smarter solutions.</p>
 
 <p><br /></p>
 <h3 id="example-2-public-cloud-usage-analytics">Example 2: Public Cloud Usage Analytics</h3>
 
-<p>Thanks to <strong>uniform automation and monitoring,</strong> using the public cloud can dramatically increase transparency. The public cloud transparency offers incredibly valuable data out-of-the-box.</p>
+<p>One of the key advantages of using public cloud platforms is the <strong>built-in visibility and standardization</strong> they provide. With <strong>uniform automation and monitoring</strong>, public cloud environments offer a level of <strong>transparency</strong> that is challenging to replicate in traditional infrastructures.</p>
 
-<p><a href="https://aws.amazon.com">Amazon Web Services (AWS)</a>, <a href="https://cloud.google.com/">Google Cloud Platform (GCP)</a>, <a href="https://azure.microsoft.com/">Microsoft Azure</a>, and other public cloud providers give detailed data about which platform uses which services, resource family, and budget. You can also understand which people and teams have access to each service. Getting real-time information about cloud usage and automatically understanding the trends is straightforward.</p>
+<p>Providers like <a href="https://aws.amazon.com"><strong>Amazon Web Services (AWS)</strong></a>, <a href="https://cloud.google.com/"><strong>Google Cloud Platform (GCP)</strong></a>, and <a href="https://azure.microsoft.com/"><strong>Microsoft Azure</strong></a> make <strong>detailed usage data readily available</strong>. This includes insights into:</p>
 
-<p>Figure 5 shows an anonymized screenshot of the Cloud Usage Explorer, a tool I built to visualize automatically collected data from standard Google Cloud Platform (GCP) usage reports.</p>
+<ul>
+  <li><strong>Which services are used</strong> and by whom</li>
+  <li><strong>What resource types</strong> and regions are consuming the most</li>
+  <li><strong>Team or project-level billing and budget trends</strong></li>
+  <li><strong>Access permissions and ownership breakdowns</strong></li>
+</ul>
+
+<p>This data is invaluable for architects looking to <strong>understand usage patterns, manage costs</strong>, and <strong>enhance architectural efficiency</strong> across the organization.</p>
+
+<p>To capitalize on this, I developed several open-source custom tools called <strong>Cloud Usage Explorer</strong>, which visualizes data from standard <strong>cloud usage reports</strong>. It transforms raw billing data into <strong>clear, actionable dashboards</strong> that track consumption, trends, and anomalies in near real-time.</p>
+
+<p><br /></p>
 
 <p><img src="assets/images/archdata/cloud-usage-explorer.png" alt="" />
 <br />
 <em><strong>Figure 5:</strong> An example of a cloud usage explorer.</em></p>
 
+<p>By leveraging this type of cloud usage data through Lightweight Architectural Analytics, you can:</p>
+
+<ul>
+  <li>Identify <strong>underutilized or misconfigured resources</strong></li>
+  <li>Encourage <strong>cost-aware decision-making</strong> among teams</li>
+  <li>Promote <strong>more efficient architectural design patterns</strong></li>
+  <li>Track the evolution of platform usage over time</li>
+  <li>Detect <strong>siloed or duplicated efforts</strong> across teams</li>
+</ul>
+
+<p>Importantly, you can accomplish all of this using <strong>data you already have</strong>, through <strong>simple automation and smart visualization</strong>—there’s no need for enterprise-scale tooling right from the start.</p>
+
 <p><br /></p>
-<h3 id="example-3-financial-and-vibrancy-analytics">Example 3: Financial and Vibrancy Analytics</h3>
+<h3 id="example-3-business--finance-data--a-hidden-gem">Example 3: Business &amp; Finance Data — A Hidden Gem</h3>
 
-<p><strong>Finance departments</strong> are like Sherlock Holmes in the business world—super data-driven and always on the case with high-quality data that could be a goldmine for architects. Beyond the usual suspects of costs, budgets, and other dry financial stuff, I’ve discovered they also track the fun stuff, like vibrancy and usage levels. This data is not just interesting; it’s invaluable for architects’ work.</p>
+<p><strong>Finance departments</strong> are often the unsung heroes of enterprise data. Consider them the <strong>Sherlock Holmes of the business</strong>—relentlessly data-driven, meticulous, and always equipped with high-quality, structured information. While they are primarily known for tracking <strong>costs, budgets, and forecasts</strong>, they often monitor much more than just these “dry” figures.</p>
 
-<p>These finance operatives need this juicy data to, for instance, link the performance of their financial systems with how much they’re being used. This kind of usage data is a secret weapon for architecture discussions. For instance, by connecting systems’ usage levels and vibrancy with their public cloud costs, we can uncover hidden areas of improvement and inefficiencies (Figure 6).</p>
+<p>In my experience, finance teams frequently track <strong>vibrancy</strong>, <strong>usage levels</strong>, and <strong>system engagement metrics</strong>. They do this not out of mere curiosity, but to <strong>connect financial performance with system usage</strong>. This type of data is a <strong>goldmine for architects</strong>.</p>
 
-<p>So, next time you’re knee-deep in architectural plans, don’t forget to call the finance for top-notch data insights!</p>
+<h4 id="why-it-matters">Why It Matters</h4>
+
+<p>By linking <strong>financial data</strong> (such as cloud costs) with <strong>usage and vibrancy metrics</strong>, you can:</p>
+
+<ul>
+  <li>Uncover <strong>underutilized systems</strong> that are still incurring high costs.</li>
+  <li>Identify platforms that have a <strong>high business impact</strong> and warrant further investment.</li>
+  <li>Highlight <strong>inefficiencies</strong> in scaling, infrastructure, or usage patterns.</li>
+  <li>Strengthen business cases for <strong>optimization or redesign</strong>.</li>
+</ul>
 
 <p><img src="assets/images/arch/cross-data.png" alt="" />
 <br />
 <em><strong>Figure 6:</strong> Combining data from different sources (e.g., cloud billing reports and vibrancy or revenue can lead to new insights (e.g., identifying inefficiencies in the application portfolio).</em></p>
 
-<p>Nice — that’s a great addition and feels totally aligned with the whole <strong>“data as a map”</strong> metaphor from the main text. You’re basically saying: <em>once you have that map, you can start asking your digital guide (ChatGPT, Gemini, etc.) for directions, insights, or even a little code to fix potholes.</em></p>
+<p><br /></p>
 
-<p>Here’s a draft for your new subsection under <strong>“Examples of Lightweight Architectural Analytics Tools”</strong>:</p>
+<h4 id="a-real-world-tip">A Real-World Tip</h4>
+
+<p>When you’re deep into architectural planning—whether mapping platforms, defining investment strategies, or discussing redesigns—<strong>don’t forget to consult the finance team</strong>. They likely possess insights that can enhance your strategy and <strong>anchor your architecture in real business value</strong>.</p>
+
+<p>While finance may not be present in architecture meetings, they hold some of the <strong>most actionable data in the organization</strong>. Integrating this data into your architecture discussions will enable you to make decisions that are not only technically sound but also economically and strategically aligned.</p>
 
 <p><br /></p>
 <h3 id="example-4-leveraging-generative-ai">Example 4: Leveraging Generative AI</h3>
 
-<p>Once you’ve built a solid foundation of <strong>curated, up-to-date, and accessible data</strong>, a whole new layer of value becomes available through <strong>generative AI tools</strong> such as ChatGPT, Gemini, or open-source LLMs. These tools can act as intelligent companions for architectural work, transforming your data into <strong>interactive conversations</strong>.</p>
+<p>Once you’ve established a solid foundation of <strong>curated, up-to-date, and accessible data</strong>, you unlock a powerful new layer of value through <strong>Generative AI tools</strong>—such as <strong>ChatGPT</strong>, <strong>Gemini</strong>, or various <strong>open-source LLMs</strong>. These models serve as <strong>intelligent companions</strong> for architectural work, transforming your data into <strong>interactive, dynamic conversations</strong>.</p>
 
-<p>Instead of static dashboards or one-off reports, you can now ask natural-language questions like:</p>
-
-<ul>
-  <li>“What teams are committing most to legacy systems?”</li>
-  <li>“Which services have the highest cost-to-vibrancy ratio?”</li>
-  <li>“Can you cluster microservices based on team ownership and code activity?”</li>
-  <li>“What are some anomalies in our incident frequency over the past 90 days?”</li>
-</ul>
-
-<p>This approach works <em>only</em> when data is already available, curated, and reasonably structured. That’s why <strong>Lightweight Architectural Analytics</strong> is such a critical enabler—it ensures that the <strong>fuel for AI analysis</strong> is already there.</p>
-
-<p>Some practical applications of this integration include:</p>
+<p>Instead of relying solely on static dashboards or one-time reports, you can now ask natural language questions, such as:</p>
 
 <ul>
-  <li>
-    <p><strong>Additional Source Code Insights</strong>: Upload commit logs or Sokrates reports and prompt AI with questions about team dynamics, code complexity, or deployment patterns.</p>
-  </li>
-  <li>
-    <p><strong>Exploring Cloud Usage and Cost Optimization</strong>: Share public cloud billing exports and ask the AI to identify trends, inefficiencies, or underutilized services.</p>
-  </li>
-  <li>
-    <p><strong>Incident Pattern Analysis</strong>: Feed in incident ticket logs and ask for root cause patterns, recurring services, or teams with frequent incident ownership.</p>
-  </li>
-  <li>
-    <p><strong>Business Metrics Exploration</strong>: Ask the AI to find correlations between system vibrancy and cloud costs, or between system uptime and team size.</p>
-  </li>
-  <li>
-    <p><strong>Communication Trends</strong>: Analyze Slack activity logs to find dominant discussion themes or cross-team communication patterns.</p>
-  </li>
+  <li>“Which teams are contributing the most to legacy systems?”</li>
+  <li>“Which services have the worst cost-to-vibrancy ratio?”</li>
+  <li>“Can you cluster microservices by team ownership and code churn?”</li>
+  <li>“What anomalies occurred in our incident patterns over the past quarter?”</li>
 </ul>
 
-<p>In <a href="gen-ai-prompts">the appendix</a>, you’ll find <strong>example prompts</strong> and <strong>sample curated datasets</strong> you can upload or use as inspiration to get started.</p>
+<h4 id="why-it-works">Why It Works</h4>
 
-<p>Generative AI doesn’t replace the need for good architectural judgment—but it <strong>amplifies it</strong>, by giving you fast feedback, exploratory analysis, and sometimes even fresh angles you might not have considered.</p>
+<p>This approach is effective only when your <strong>underlying data is well-structured and readily available</strong>, which is precisely what <strong>Lightweight Architectural Analytics</strong> is designed to provide. Without that foundation, Generative AI lacks meaningful data to work with.</p>
 
-<p>Interestingly, prompts themselves are more than just one-time queries—they can evolve into a <strong>formal, reusable description of typical architectural tasks</strong>. By writing and refining prompts, architects essentially codify their thought process and decision-making patterns.</p>
+<h4 id="practical-use-cases">Practical Use Cases</h4>
 
-<p>Prompts become:</p>
+<p>Here are several ways I’ve utilized Generative AI tools in conjunction with architectural data:</p>
+
+<p><strong>Source Code Insights</strong>: Upload Sokrates reports or raw commit logs and prompt the AI with questions about:</p>
 
 <ul>
-  <li>Lightweight, transparent documentation of analysis goals</li>
-  <li>A repeatable way to “ask the same question” of new data</li>
-  <li>A way to share architectural thinking across teams and roles</li>
-  <li>A medium to teach junior team members how to approach common problems</li>
+  <li>Code complexity hotspots</li>
+  <li>Ownership overlaps or silos</li>
+  <li>Changes in deployment frequency over time</li>
 </ul>
 
-<p>You can think of prompts as <em>scripts for architectural sensemaking.</em></p>
+<p><strong>Cloud Usage &amp; Cost Optimization</strong>: Feed in cloud billing reports and ask the AI to:</p>
+
+<ul>
+  <li>Detect underutilized services</li>
+  <li>Highlight high-cost/low-impact areas</li>
+  <li>Summarize team-specific cloud trends</li>
+</ul>
+
+<p><strong>Incident Pattern Detection</strong>: Analyze incident ticket data to:</p>
+
+<ul>
+  <li>Identify frequent root causes</li>
+  <li>Recognize recurring impacted services</li>
+  <li>Discover trends in team-specific incident ownership</li>
+</ul>
+
+<p><strong>Business Metrics Correlation</strong>: Correlate system <strong>vibrancy</strong>, <strong>uptime</strong>, or <strong>adoption</strong> with:</p>
+
+<ul>
+  <li>Team sizes</li>
+  <li>Architectural changes</li>
+  <li>Operational costs</li>
+</ul>
+
+<p><strong>Communication &amp; Collaboration Trends</strong>: Use logs from tools like Slack to:</p>
+
+<ul>
+  <li>Uncover dominant discussion themes</li>
+  <li>Track inter-team collaboration patterns</li>
+  <li>Identify shifts in focus over time</li>
+</ul>
+
+<p>In each case, Generative AI serves as a <strong>first-pass analyst</strong>, revealing patterns, anomalies, or new ways of framing problems. This enables architects to <strong>move faster, dig deeper, and think broader</strong>.</p>
+
+<h4 id="prompts-as-reusable-thinking-tools">Prompts as Reusable Thinking Tools</h4>
+
+<p>Prompts aren’t merely one-time commands; they are a <strong>reusable, transparent expression of architectural intent</strong>. Over time, prompts can become:</p>
+
+<ul>
+  <li>A form of <strong>lightweight documentation</strong> for common questions and analyses</li>
+  <li>A <strong>repeatable template</strong> for querying new datasets</li>
+  <li>A method to <strong>share architectural reasoning</strong> across teams</li>
+  <li>A <strong>teaching tool</strong> to assist junior team members facing real-world architectural challenges</li>
+</ul>
+
+<p>Consider prompts as <strong>scripts for architectural sensemaking</strong>—fast, flexible, and easy to refine as your practice evolves.</p>
+
+<p>For examples, please refer to the <a href="gen-ai-prompts"><strong>Appendix on Generative AI Prompts</strong></a>, where I’ve included ready-to-use prompt templates and sample datasets to help you get started.</p>
+
+<p>Generative AI doesn’t replace architectural judgment; it <strong>amplifies</strong> it. When paired with good data and clear thinking, it becomes a powerful ally in addressing complexity, accelerating insight, and enhancing your practice.</p>
 
 <p><br /></p>
-<h2 id="requirements-for-a-lightweight-architectural-analytics">Requirements For A Lightweight Architectural Analytics</h2>
+<h2 id="requirements-for-lightweight-architectural-analytics">Requirements for Lightweight Architectural Analytics</h2>
 
-<p>Lightweight Architectural Analytics should be a central place with <strong>authoritative, relevant, and curated data</strong> about the organizational technology landscape. Technically, you can implement Lightweight Architectural Analytics tools like those discussed in the previous section, using simple resources like Google Drive, with documents organized in folders or as an internal website. I recommend investing some effort in creating better infrastructure and user experience, as it can enable more people to access and benefit from data. A solid setup will make it easier for more people to access and benefit from the data, turning it into a real asset rather than a digital junk drawer.</p>
+<p><strong>Lightweight Architectural Analytics</strong> should serve as a central, trusted resource—your organization’s <strong>source of truth</strong> for architectural insights. It’s not merely a storage bin for random metrics; it’s a curated space of <strong>authoritative, relevant, and accessible data</strong> that enables informed decisions and confident actions.</p>
 
-<p>Simply collecting and putting data in one place will not create any value. Regardless of how you implement your Lightweight Architectural Analytics, with papers on the wall, in Google Drive, in Confluence, or with a nicely designed internal website, I have identified the following requirements that Lightweight Architectural Analytics needs to have:</p>
+<p>Technically, you can start small. I’ve seen organizations build early versions using <strong>Google Drive</strong>, <strong>Confluence</strong>, or even <strong>documents pinned to a wall</strong>. However, I strongly recommend investing in a <strong>better user experience and infrastructure</strong>. When executed well, Lightweight Architectural Analytics becomes a <strong>valuable organizational asset</strong>—not a digital junk drawer.</p>
+
+<p>Collecting data isn’t enough. To make your analytics useful, it must meet <strong>several key requirements</strong>.</p>
+
+<h3 id="single-point-of-truth">Single Point of Truth</h3>
+
+<p>People need to know exactly where to go. Your analytics hub should serve as the <strong>central reference</strong> for all relevant architectural data—no guessing, no scattered files, and no contradictory versions. Ask yourself: <em>If someone starts tomorrow, would they be able to find what they need in one place?</em></p>
+
+<h3 id="curated-for-quality">Curated for Quality</h3>
+
+<p>Data without trust is simply noise. You must take ownership of <strong>curation</strong>, ensuring that the data is accurate, meaningful, and transparent. Whenever possible, link back to <strong>original data sources</strong> so others can verify the facts. Think of yourself more as an editor than just a collector.</p>
+
+<h3 id="curated-for-usability">Curated for Usability</h3>
+
+<p>People need focus, not friction. Filter out irrelevant information. Highlight what matters. Design your tools and dashboards with <strong>clarity in mind</strong>—investing in <strong>user experience (UX)</strong> isn’t a luxury; it’s essential for making the data usable. It’s not about having all the data; it’s about having the <strong>right data, clearly presented</strong>.</p>
+
+<h3 id="kept-up-to-date">Kept Up to Date</h3>
+
+<p>Stale data is dangerous. Your system should refresh data <strong>automatically</strong> or through <strong>repeatable, lightweight processes</strong>. When people see that the data is fresh, they’ll be more likely to trust and use it.</p>
+
+<h3 id="accessible-to-the-whole-organization">Accessible to the Whole Organization</h3>
+
+<p>Architectural data shouldn’t be restricted to a select few. When you give teams access to insights that were once reserved for “architects” or “leadership,” you empower them to act more quickly, make better decisions, and reduce dependency. Transparency accelerates performance.</p>
+
+<h3 id="used-in-decision-making">Used in Decision-Making</h3>
+
+<p>Curated data that sits unused is a wasted effort. Your analytics must be incorporated into <strong>actual decision-making processes</strong>—in design reviews, strategy sessions, prioritization meetings, and product planning. Good architecture is informed by data.</p>
+
+<h3 id="built-like-a-map">Built Like a Map</h3>
+
+<p>The best metaphor for this type of analytics is a <strong>map</strong>. A good map provides <strong>orientation</strong> in a complex landscape. It shows where the treasure is and warns you of where dangers lie. Your architectural data should do the same—helping people understand:</p>
 
 <ul>
-  <li><strong>It is the single point of truth</strong> for all relevant architectural data. People should be able to go to one place and get relevant data.</li>
-  <li><strong>It is curated for quality</strong> so people can trust the data. Simply dumping data into one place will not help. You need to own curation to ensure that data are correct. You also should provide links to data sources so people can verify the facts.</li>
-  <li><strong>It is curated for usability</strong> so people stay focused on valuable details. You must filter out useless or less relevant details, focusing on the essence. Investing in the UX design of documents or tools you create helps.</li>
-  <li><strong>It is kept up to date</strong>, ideally in an automated fashion (or semi-automated, repeatable way).</li>
-  <li><strong>It is accessible to the whole organization</strong>. I genuinely believe that when you give employees access to information generally reserved for specialists, architects, or “higher levels,” they get more done independently. They can work faster without stopping to ask for information and approval. And they make better decisions without needing input from architects or the top.</li>
-  <li><strong>It is used in decision-making</strong>. Having nicely curated and valuable data has zero value if you cannot ensure that such data informs vital decisions.</li>
-  <li><strong>It is built like a map.</strong> Maps are some of the most crucial documents in human history—they help us store and exchange knowledge about space and place. One thing all maps do is provide readers with a <strong>sense of orientation.</strong> And that, in a nutshell, is what Lightweight Architectural Analytics should offer people in your organization: a sense of orientation in a waste space of technology, organizational, and business topics. The map metaphor is also helpful, as maps come with <strong>multiple layers.</strong> Similarly, the architecture of Lightweight Architectural Analytics should give readers data layers about systems that describe their sizes, connections, quality, security, or human activity. It’s like having a trusty map that shows you where the treasure is and warns you about the dragons.</li>
+  <li>What exists</li>
+  <li>How things are connected</li>
+  <li>Where things are healthy or broken</li>
+  <li>Who is responsible</li>
+  <li>What is at risk</li>
+  <li>What should be done next</li>
 </ul>
 
-<p><br /></p>
-<h2 id="building-lightweight-architectural-analytics">Building Lightweight Architectural Analytics</h2>
+<p>Like real maps, it should have <strong>layers</strong>—views that reveal <strong>different dimensions</strong> of your systems: performance, quality, dependencies, cost, ownership, activity, and more.</p>
 
-<p>While each organization has its own quirky set of data, here are some tips I’ve found helpful in forming the Lightweight Architectural Analytics:</p>
+<p>By meeting these requirements, <strong>Lightweight Architectural Analytics</strong> becomes more than just a tool; it becomes a <strong>strategic capability</strong>—something that makes your entire organization smarter, faster, and more aligned.</p>
+
+<p><br /></p>
+<h2 id="tips-for-building-lightweight-architectural-analytics">Tips for Building Lightweight Architectural Analytics</h2>
+
+<p>Every organization has its own quirks when it comes to data, but after establishing architectural practices across several companies, I’ve noticed some common patterns and practical strategies. If you’re starting (or rebooting) a <strong>Lightweight Architectural Analytics</strong> initiative, here are some key tips to make your journey smoother—and perhaps even enjoyable:</p>
+
+<h3 id="start-with-the-source-code">Start With the Source Code</h3>
+
+<p>My motto is: <strong><em>“Talk is expensive. Show me the code.”</em></strong></p>
+
+<p>Why? Because <strong>code never lies.</strong> It’s the most honest and up-to-date documentation of what’s really happening in your systems. While people may forget details or creatively reinterpret them, your repositories will tell the truth—messy or not.</p>
+
+<p>Modern IT systems store nearly everything in code: infrastructure, pipelines, configurations, and documentation. This makes source code the <strong>richest and most reliable source of architectural insight</strong>.</p>
+
+<p>I use tools like <a href="https://sokrates.dev"><strong>Sokrates</strong></a> to scan repositories early on. You’d be surprised how often these scans reveal that a “simple legacy service” is, in fact, a <strong>spaghetti monster in disguise</strong>.</p>
+
+<h3 id="connect-with-finance-and-governance">Connect With Finance and Governance</h3>
+
+<p>Another motto: <strong><em>“Follow the money!”</em></strong></p>
+
+<p>Finance and governance teams often collect <strong>high-quality, structured, and underutilized data</strong>—from cloud billing reports to technology cost breakdowns. This data is already being tracked for compliance and budget forecasting, so why not utilize it for architecture?</p>
+
+<p>You don’t need revenue projections or sensitive figures. Just access to usage and cost data can unlock <strong>unexpected insights</strong> about system efficiency, platform sprawl, and ROI blind spots.</p>
+
+<h3 id="maintain-a-culture-of-transparency">Maintain a Culture of Transparency</h3>
+
+<p>Transparency isn’t just a nice-to-have; it’s a <strong>strategic enabler</strong>.</p>
+
+<p>A transparent organization shares information freely, trusts its people with data, and reduces red tape. When you eliminate the need for complex access control mechanisms or bureaucratic workflows, your architecture practice can move faster and remain better aligned with reality.</p>
+
+<p>Transparency also <strong>fosters trust</strong>—people are more likely to use and contribute to your analytics when they see it is open and well-intentioned.</p>
+
+<h3 id="own-the-curation">Own the Curation</h3>
+
+<p>Raw data doesn’t generate value. <strong>Curation does.</strong></p>
+
+<p>You need to thoroughly understand your data sources, filter out the noise, and present the <strong>most relevant and trustworthy insights</strong> in a clear and consistent manner. This isn’t just a backend task; it’s a <strong>UX design problem</strong>.</p>
+
+<p>As the curator of your Lightweight Architectural Analytics, think of yourself as:</p>
 
 <ul>
-  <li><strong>Start with the source code.</strong> My motto is <strong><em>“Talk is expensive. Show me the code.”</em></strong> Because let’s face it, code never lies—people, on the other hand, might forget a detail or two. I scan source code as soon as possible using tools like <a href="https://sokrates.dev">Sokrates</a>. Modern IT enterprises store almost everything as code. It’s the richest and most up-to-date documentation on what’s happening. Quick source code scans can reveal that your “simple” system is actually a digital spaghetti monster.</li>
-  <li><strong>Connect with finance and governance teams.</strong> My second motto is <strong><em>“Follow the money!”</em></strong> You’d be amazed at what you can learn from finance data (minus the sensitive parts, like revenue projections—let’s keep those secrets safe). Cloud billing reports and tech usage trends are collected anyway. Extract and connect these to get new insights without pestering people for more details.</li>
-  <li><strong>Maintain a culture of transparency.</strong> A culture of transparency means having an organizational environment where open communication, honest information sharing, and accountability are actively encouraged and practiced at all levels. Such a culture allows simplicity, as you need less complex authorization mechanisms.</li>
-  <li><strong>Own the curation.</strong> People need to trust your data like they trust their morning coffee to wake them up. Spend time understanding data sets, curate them, and ensure they’re consistently presented. Think of yourself as the master curator and chief UX designer of Lightweight Architectural Analytics.</li>
-  <li><strong>Use simple and easy-to-maintain infrastructures.</strong> For example, I publish the results of Sokrates analyses and other data tools as static resources on our enterprise GitHub pages. Avoid the headache of complex databases and backend software. In the <a href="https://github.com/zeljkoobrenovic/grounded-architecture-dashboard-examples">Architecture Dashboard Examples repository</a>, you’ll find the source code for building the Architecture Data Dashboard. The dashboard is a simple static website generated from JSON files and <a href="https://zeljkoobrenovic.github.io/grounded-architecture-dashboard-examples/">published via GitHub pages</a>.</li>
+  <li>An editor, not just an aggregator</li>
+  <li>A guide, not just a dashboard builder</li>
+  <li>A storyteller, helping teams navigate their complex systems with clarity</li>
 </ul>
 
-<p>These tips might save you from drowning in the sea of data chaos and make your architectural life a bit smoother—or at least give you a few laughs.</p>
+<h3 id="use-simple-maintainable-infrastructure">Use Simple, Maintainable Infrastructure</h3>
+
+<p>Keep it light. Keep it lean.</p>
+
+<p>I publish most of our analytics (like Sokrates reports) as <strong>static resources hosted on GitHub Pages</strong>. This approach eliminates the need for a backend, databases, and maintenance overhead.</p>
+
+<p>Check out the <a href="https://github.com/zeljkoobrenovic/grounded-architecture-dashboard-examples"><strong>Architecture Dashboard Examples repository</strong></a>, which includes:</p>
+
+<ul>
+  <li>The dashboard source code (HTML + JSON)</li>
+  <li>Lightweight visualizations</li>
+  <li>A live demo hosted <a href="https://zeljkoobrenovic.github.io/grounded-architecture-dashboard-examples/">here</a></li>
+</ul>
+
+<p>This design is simple—easy to deploy, easy to share, and easy to trust.</p>
+
+<h3 id="final-thought-dont-drown-in-data">Final Thought: Don’t Drown in Data</h3>
+
+<p>With these tips, you can avoid the pitfalls of data chaos. Lightweight Architectural Analytics doesn’t have to be expensive or overly complex. It just needs to be:</p>
+
+<ul>
+  <li>Honest</li>
+  <li>Relevant</li>
+  <li>Usable</li>
+  <li>And <em>maintained with care</em></li>
+</ul>
+
+<p>If nothing else, these practices may save you from your next “How did this get so bad?” meeting—or at least provide you with a few laughs along the way.</p>
 
 <p><br /></p>
-<h2 id="using-lightweight-architectural-analytics">Using Lightweight Architectural Analytics</h2>
+<h2 id="tips-for-using-lightweight-architectural-analytics">Tips for Using Lightweight Architectural Analytics</h2>
 
-<p>Lightweight Architectural Analytics can churn out data by the bucketful. Think of it like an atlas or a map—it’s great for finding your bearings and understanding the lay of the land. But, with the <strong>right mindset,</strong> you can turn that data into a treasure trove of insights.</p>
+<p>Lightweight Architectural Analytics can generate vast amounts of data. It’s akin to having an <strong>atlas of your entire digital landscape</strong>—great for orienting yourself and identifying opportunities. However, maps alone don’t provide direction; it’s the mindset you adopt while interpreting them that truly matters.</p>
+
+<p><br /></p>
 
 <p><img src="assets/images/istock/iStock-2166193783.jpg" alt="" /></p>
+
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/cofotoisme">cofotoisme</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 
-<p>Interpreting and using data requires a bit of effort—think of it as a <strong>detective game</strong> where the data holds the answers, but you need to come armed with the right questions. Here are some of the questions you should ask when you’ve got a pile of data at your fingertips:</p>
+<p><br />
+Using analytics is like solving a mystery. The data contains answers—but <strong>only if you ask the right questions</strong>. With the right mindset, you can transform <em>information overload</em> into <em>architecture superpowers</em>.</p>
+
+<p>Here are some detective-style questions to help make sense of architectural data:</p>
+
+<h3 id="are-we-all-rowing-in-the-same-direction">Are We All Rowing in the Same Direction?</h3>
+
+<p>Utilize code overviews, cloud usage explorers, or tech radars to identify <strong>misalignments among teams and systems</strong>. Diverging technology stacks, inconsistent platform usage, or duplicated functionality can lead to <strong>productive debates</strong> and drive real improvements.</p>
+
+<h3 id="are-we-making-the-most-of-our-technology">Are We Making the Most of Our Technology?</h3>
+
+<p>By comparing usage trends across teams, you may uncover <strong>hidden virtuosos</strong>—those who innovate with limited resources—and <strong>bottlenecks</strong>, where adoption is low despite high investment. Both reveal valuable insights.</p>
+
+<h3 id="do-our-systems-need-a-little-tlc">Do Our Systems Need a Little TLC?</h3>
+
+<p>Analytics can highlight:</p>
 
 <ul>
-  <li>
-    <p><strong>Are we all rowing in the same direction?</strong> Source code overviews, public cloud usage explorers, or tech radars can highlight when systems and teams are out of sync, sparking heated debates that lead to real action.</p>
-  </li>
-  <li>
-    <p><strong>Are we making the most of our technology?</strong> Comparing usage trends between teams can reveal fascinating outliers—both the virtuosos and those who are… let’s say, still tuning their guitars.</p>
-  </li>
-  <li>
-    <p><strong>Are there signs our systems might need a little TLC (tender, loving care)?</strong> Look out for oversized systems, rampant duplication, and files that go on longer than your Aunt Marge’s vacation slideshows.</p>
-  </li>
-  <li>
-    <p><strong>Productivity trends: is more really more, or is more actually less?</strong> For instance, comparing the number of git merges to the number of developers can reveal if our dev processes are scalable. When scaling up teams, we aim to speed up delivery, but without proper structure, we might end up with a digital mosh pit.</p>
-  </li>
-  <li>
-    <p><strong>Are we collaborating the way we want to?</strong> Repository analysis can reveal team topologies and unwanted dependencies. Sometimes, teams collaborate like a well-oiled machine; other times, it’s more like a group project in high school.</p>
-  </li>
-  <li>
-    <p><strong>Are we working on what we really want to?</strong> We may aspire to innovate, but if we’re spending most of our time wrestling with legacy maintenance, we might need to rethink our priorities.</p>
-  </li>
+  <li><strong>Oversized systems</strong></li>
+  <li><strong>Rampant duplication</strong></li>
+  <li><strong>“God files”</strong> that dominate commit histories</li>
 </ul>
 
-<p>So there you have it. The data’s ready to spill its secrets—you need to know the right questions to ask. So, what is your question?</p>
+<p>These are indicators that part of your architecture may be <strong>due for a health check—or a rewrite</strong>.</p>
+
+<h3 id="is-more-really-more">Is More Really More?</h3>
+
+<p>For example, if the number of Git merges increases proportionally with team size, while delivery speed does not improve—something is amiss. Scaling can lead to better output, but sometimes it just creates <strong>a larger digital mosh pit</strong>.</p>
+
+<h3 id="are-we-collaborating-the-way-we-want-to">Are We Collaborating the Way We Want To?</h3>
+
+<p>Analyzing repository and commit data can reveal <strong>team dynamics</strong> and <strong>coupling patterns</strong>. You’ll discover who is truly collaborating—and who might be unintentionally stepping on each other’s toes.</p>
+
+<h3 id="are-we-working-on-what-we-want-to-work-on">Are We Working on What We <em>Want</em> to Work On?</h3>
+
+<p>We often claim we want to <strong>innovate</strong>, but if the data shows we are bogged down in <strong>legacy maintenance</strong>, it’s a wake-up call. Analytics provides the evidence needed to <strong>challenge strategy with facts</strong>, rather than just opinions.</p>
+
+<h3 id="the-final-question">The Final Question</h3>
+
+<p>The data is available, and the story is waiting to be uncovered.
+<strong>So, what’s your question?</strong></p>
 
 <p><br /></p>
 <h2 id="to-probe-further">To Probe Further</h2>
