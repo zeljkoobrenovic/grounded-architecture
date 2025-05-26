@@ -19,10 +19,12 @@ for (( ; ; )); do
   if grep -o -e "{}" "status.json"; then
     echo "FOUND"
     curl -L "https://leanpub.com/s/B36725C24EB34CBD99A3FB1D71011E61.pdf" -o assets/book/groundedarchitecture-part-$1.pdf
+    curl -L "https://leanpub.com/s/B36725C24EB34CBD99A3FB1D71011E61.epub" -o assets/book/groundedarchitecture-part-$1.epub
     git add .
     git commit -m "publishing changes"
     git push
     open assets/book/groundedarchitecture-part-$1.pdf
+    open assets/book/groundedarchitecture-part-$1.epub
     exit
   else
     echo 'the string does not exist'
