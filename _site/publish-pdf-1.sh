@@ -2,7 +2,7 @@ cd manuscript/scripts
 python3 copy-and-update-posts.py
 cd ../..
 
-cp manuscript/Book1.txt manuscript/Book.txt
+cp manuscript/Book2.txt manuscript/Book.txt
 
 git add .
 git commit -m "publishing changes"
@@ -17,11 +17,11 @@ for (( ; ; )); do
 
   if grep -o -e "{}" "status.json"; then
     echo "FOUND"
-    curl -L "https://leanpub.com/s/B36725C24EB34CBD99A3FB1D71011E61.pdf" -o assets/book/groundedarchitecture-part-1.pdf
+    curl -L "https://leanpub.com/s/B36725C24EB34CBD99A3FB1D71011E61.pdf" -o assets/book/groundedarchitecture-part-2.pdf
     git add .
     git commit -m "publishing changes"
     git push
-    open assets/book/groundedarchitecture-part-1.pdf
+    open assets/book/groundedarchitecture-part-2.pdf
     exit
   else
     echo 'the string does not exist'
