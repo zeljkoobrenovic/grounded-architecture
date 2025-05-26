@@ -36,7 +36,7 @@ The Operating Model comprises four main areas:
   
   This flexible model allows organizations to strike a balance between **innovation and consistency** as well as **autonomy and alignment**.
 
-* **[Transforming with Grounded Architecture](transforming)** (in support of Grounded Architecture [Goals](#goals))
+* **[Transforming with Grounded Architecture](#transforming)** (in support of Grounded Architecture [Goals](#goals))
   An examination of how Grounded Architecture facilitates meaningful organizational transformation, which includes:
 
   * Executing at scale
@@ -44,7 +44,7 @@ The Operating Model comprises four main areas:
   * Maximizing alignment and learning
   * Increasing adaptability
 
-* **[Bonus: Leveraging Generative AI in Architecture](gen-ai)**  
+* **[Bonus: Leveraging Generative AI in Architecture](#gen-ai)**  
   Practical methods for utilizing Generative AI as a tool for enhancement—automating routine tasks, improving collaboration, and accelerating analysis—while acknowledging the necessity of **responsible use, human oversight, and strong governance**.
 
 While the Operating Model offers a wealth of structures and ideas, it is essential to emphasize one key point: **no operating model functions in isolation.**

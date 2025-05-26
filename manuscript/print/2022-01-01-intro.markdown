@@ -62,7 +62,7 @@ The framework consists of **three core elements**:
 
   * **[General Principles](#operating-model):** Aligning architecture with your organization’s reality by focusing on collaboration, autonomy, and strategic alignment rather than top-down control.
   * **[IT Governance: Nudge, Taxation, Mandates](#governance):** Governance should be a **balanced mix** of soft influence (nudging), economic signals (taxes), and clear boundaries (mandates/bans).
-  * **[Leveraging Generative AI within Grounded Architecture Framework](gen-ai):** Based on my early explorations, this section shares practical ways to integrate GenAI tools into architectural workflows while maintaining integrity and oversight.
+  * **[Leveraging Generative AI within Grounded Architecture Framework](#gen-ai):** Based on my early explorations, this section shares practical ways to integrate GenAI tools into architectural workflows while maintaining integrity and oversight.
 
 These components together form a **pragmatic, adaptive foundation** for modern architectural practice—grounded in **data, people, and results**.
 
@@ -88,12 +88,12 @@ Architecture is not just technical—it is deeply social:
 * [Cooperation-Based Organizations](#six-simple-rules)
 * [Effortless Architecture](#effortless)
 
-#### [**On Strategy**](strategy)
+#### [**On Strategy**](#strategy)
 
 Position architecture as a strategic enabler:
 
-* [Enterprise Architecture as Strategy](ea-as-strategy)
-* [Outsourcing Strategies](outsourcing)
+* [Enterprise Architecture as Strategy](#ea-as-strategy)
+* [Outsourcing Strategies](#outsourcing)
 
 #### [**Expanding the Architect’s Toolkit**](#expanding-toolkit)
 
