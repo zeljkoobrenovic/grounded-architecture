@@ -3,6 +3,7 @@ python3 copy-and-update-posts.py
 cd ../..
 
 cp manuscript/Book$1.txt manuscript/Book.txt
+cp manuscript/resources/title_page_$1.png manuscript/resources/title_page.png
 
 git add .
 git commit -m "publishing changes"
