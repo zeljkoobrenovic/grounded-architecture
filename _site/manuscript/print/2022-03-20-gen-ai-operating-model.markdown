@@ -426,8 +426,8 @@ Generative AI is more than just a tool; it is a catalyst for architectural evolu
 
 ## To Probe Further
 
-* [Generative AI References](gen-ai-references)
-* [Generative AI Prompts](gen-ai-prompts)
+* [Generative AI References](https://grounded-architecture.io/gen-ai-references)
+* [Generative AI Prompts](https://grounded-architecture.io/gen-ai-prompts)
 
 ## Questions to Consider
 

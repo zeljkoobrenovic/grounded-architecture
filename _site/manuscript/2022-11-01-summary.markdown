@@ -1,0 +1,70 @@
+
+
+# Summary {#summary}
+
+![](assets/images/istock/iStock-496666941.jpg)
+^image by ruhey from istock^
+
+**IN THIS SECTION, YOU WILL:** Look back at the content in this book.
+
+{pagebreak}
+
+A> **KEY POINTS:**
+A> * This playbook aims to share my approach to running an IT architecture practice in larger organizations based on my experience as Chief Architect at AVIV Group, eBay Classifieds, and Adevinta. 
+A> * I called this approach "Grounded Architecture," highlighting the need for any IT architecture practice to stay well-connected to all levels of an organization and led by data.
+A> * In this section, I summarize the key points from the playbook.
+
+This book shared my approach to running an IT architecture practice in larger organizations based on my experience at AVIV Group, eBay Classifieds, and Adevinta. I called this approach "Grounded Architecture"—architecture with strong foundations and deep roots. Prioritizing people interactions and data over processes and tools, Grounded Architecture aims to connect an architecture practice to all organizational parts and levels, serving as an antidote to the "ivory tower" architecture.
+
+This book introduced Grounded Architecture as an IT architecture practice with two main parts (Figure 1):
+* **Structure**, elements you need to have to run Grounded Architecture practice, and
+* **Guiding Principles**, pieces of advice that can help put the ideas of Grounded Architecture into practice.
+
+The Grounded Architecture framework consists of three elements:
+* [Lightweight Architectural Analytics (Data)](#analytics),
+* [Collaborative Networks (People)](#people),
+* [Operating Model](#operating-model).
+
+![](assets/images/model.png)
+***Figure 1:** Grounded Architecture Overview.*
+
+*[Lightweight Architectural Analytics](#analytics)* ensures that architects can make data-informed decisions based on a real-time and complete overview of the organization's technology landscape.
+
+*[Collaborative Networks](#people)* is another essential element of Grounded Architecture. A strong network of people doing architecture across the organization is crucial to ensure that an architecture practice has any tangible impact.
+
+Lastly, the sections *[Operating Model: General Principles](#operating-model)*, *[Leveraging Generative AI within Grounded Architecture Framework](gen-ai)*, and *[IT Governance: Nudge, Taxation, Mandates](#governance)* define a collection of processes and agreements that lets architects do their thing, leveraging data and people connections to create a powerful, organization-wide impact.
+
+As a part of my work on Grounded Architecture, I also provided several guiding principles and tools that I found helpful to introduce the ideas of Grounded Architecture in practice. I grouped these resources into several parts:
+
+* [**On Being an Architect**](#being-architect):
+  * [Building Skills](#skills)
+  * [Making Impact](#impact)
+  * [Leadership Traits](#leadership)
+  * [Thinking Like an Architect: Architects as Superglue](#superglue)
+  * [Balancing Curiosity, Doubt, Vision, and Skepticism](#balancing)
+  * [Architects' Career Paths](#career-paths)
+* [**On Human Complexity**](#human-complexity):
+  * [The Culture Map: Architects' Culture Compass](#culture-map)
+  * [Cooperation-Based Organizations](#six-simple-rules)
+  * [The Human Side of Decision-Making](#human-decisions)
+  * [Effortless Architecture](#effortless)
+* [**On Strategy**](strategy):
+  * [Enterprise Architecture as Strategy](ea-as-strategy)
+  * [Outsourcing Strategies](outsourcing)
+* [**Expanding the Architect's Toolkit: Learning From Other Fields**](#expanding-toolkit):
+  * [Economic Modeling With ROI and Financial Options: Learning From the Finance Field](#economics)
+  * [Architecture in Product-Led Organizations: Learning From Customer-Centric Fields](#product) 
+  * [Decision Intelligence in IT Architecture: Learning From Data, Social, and Managerial Fields](#decision-intelligence)
+  * [How Big Transformations Get Done: Learning From Mega-Projects](#big-transformations)
+
+When Grounded Architecture is in place, it can have a significant [positive impact](#impact) on the functioning of an organization:
+
+* Enable Execution of Architecture Function At Scale,
+* Increase the Quality of Decision-Making with Data,
+* Maximize Organizational Alignment,
+* Maximize Organizational Learning, and
+* Increase Architecture Function Adaptivity.
+
+While you may borrow ideas from others, every organization is different, and your approach must adapt to your context. When forming an architecture practices, I always advise not to forget these [two pieces of advice from Gregor Hohpe](https://architectelevator.com/architecture/organizing-architecture/):
+ * "*Your architecture team’s job is to solve your biggest problems. The best setup is the one that allows it to accomplish that.*"
+ * "*Your organization has to earn its way to an effective an architecture practice. You can’t just plug some architects into the current mess and expect it to solve all your problems.*"
