@@ -10,4 +10,3 @@ Part1b.txt
 2022-03-08-principles.markdown
 2022-03-11-governance.markdown
 2022-03-18-value.markdown
-2022-03-20-gen-ai-operating-model.markdown
