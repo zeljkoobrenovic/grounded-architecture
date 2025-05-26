@@ -59,22 +59,22 @@ The Grounded Architecture framework consists of three core elements (see Figure 
 * **The Operating Model** *(which will be covered in a later section)*
 
 
-
-### Lightweight Architectural Analytics
+<br>
+**Lightweight Architectural Analytics**:
 
 This part is a **system of tools and resources** that provides architects with a **real-time, curated view** of the organization’s technology landscape. It enables **data-informed decision-making** at every level.
 
 For more information, refer to the [Lightweight Architectural Analytics section](analytics).
 
-
-### Collaborative Networks
+<br>
+**Collaborative Networks**:
 
 These networks **connect everyone involved in architecture throughout the organization**—from central teams to embedded architects and tech leads. They are essential for ensuring that architectural decisions are **relevant, actionable, and aligned** with actual needs.
 
 See the [Collaborative Networks section](people) for more details.
 
-
-### The Operating Model
+<br>
+**The Operating Model**:
 
 The **[Operating Model](operating-model)** ties everything together. It introduces **structures, routines, and roles** that connect people, data, and decisions into a **cohesive, collaborative, and impact-driven practice**. We will explore this in a dedicated section later in the book.
 
