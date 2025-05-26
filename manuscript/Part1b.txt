@@ -1,0 +1,3 @@
+
+{class: part}
+# Grounded Architecture Framework: Operating Model #

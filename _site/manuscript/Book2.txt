@@ -1,0 +1,8 @@
+2022-06-01-being-architect.markdown
+2022-06-02-superglue.markdown
+2022-06-03-career-paths.markdown
+2022-06-07-skills.markdown
+2022-06-10-impact.markdown
+2022-06-12-leadership.markdown
+2022-06-13-leading-with-language.markdown
+2022-06-16-balancing.markdown

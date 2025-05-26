@@ -5,6 +5,7 @@ Part1.txt
 2022-03-01-grounded-architecture.markdown
 2022-03-03-data-platform.markdown
 2022-03-04-people.markdown
+Part1b.txt
 2022-03-05-operating-model.markdown
 2022-03-08-principles.markdown
 2022-03-11-governance.markdown
