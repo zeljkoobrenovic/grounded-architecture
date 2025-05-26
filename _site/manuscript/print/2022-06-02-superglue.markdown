@@ -13,43 +13,47 @@ A> **KEY POINTS:**
 A> * Architects in IT organizations should develop as “superglue,” people who hold architecture, technical details, business needs, and people together across a large organization or complex projects.
 A> * Architects need to be technically strong. But their unique strengths should stem from being able to relate technical issues with business and broader issues.
 
-To succeed as an IT architect, you need the skills and the right **mindset**—a set of attitudes, beliefs, and mental frameworks that shape how you perceive and respond to situations. Regarding their role in organizations, I have found the **"superglue" metaphor** to be an effective way to put architects into the mindset that sets them up for success and making an impact.
+To succeed as an IT architect, you need the right skills and a suitable **mindset**—a collection of attitudes, beliefs, and mental frameworks that shape how you perceive and respond to various situations. I have found the **"superglue" metaphor** to be a particularly effective way to encourage architects to adopt the mindset necessary for success and making a significant impact in organizations.
 
-The concept of "superglue" people in IT organizations emphasizes the critical role of those who act as the **binding force** across various facets of an organization. This idea, championed by [Adam Bar-Niv and Amir Shenhav from Intel](https://saturn2016.sched.com/event/63m9/cant-find-superheroes-to-help-you-out-of-a-crisis-how-about-some-architecture-and-lots-of-superglue), and echoed by [Tanya Reilly](https://noidea.dog/glue), underscores the need for individuals who excel in more than just technical skills. Gregor Hohpe similarly describes modern architects' primary role as gluing different organizational functions by riding the [Architect Elevator](https://architectelevator.com/) from the penthouse, where the business strategy is set, to the engine room, where engineers implement enabling components, services and systems.
+The concept of "superglue" in IT organizations highlights the critical role of individuals who serve as the **binding force** across various aspects of the organization. This idea, championed by [Adam Bar-Niv and Amir Shenhav from Intel](https://saturn2016.sched.com/event/63m9/cant-find-superheroes-to-help-you-out-of-a-crisis-how-about-some-architecture-and-lots-of-superglue) and echoed by [Tanya Reilly](https://noidea.dog/glue), emphasizes the importance of individuals who excel beyond just technical skills. Gregor Hohpe similarly describes the primary role of modern architects as those who connect different organizational functions by navigating the [Architect Elevator](https://architectelevator.com/) from the penthouse, where business strategies are established, to the engine room, where engineers implement essential components, services, and systems.
 
-Architects acting as "superglue" should aim to hold together architecture, technical details, business needs, and people within large organizations or complex projects. They should function as the **"organizational connective tissue,"** with their primary strength being the ability to relate technical issues to broader organizational and business contexts.
+Architects who act as "superglue" should strive to integrate architecture, technical details, business needs, and people within large organizations or complex projects. They should serve as the **"organizational connective tissue,"** with their main strength lying in their ability to relate technical issues to broader organizational and business contexts.
 
 ## Superglue Architects
 
-While technical expertise is indispensable, what should set superglue architects apart from technical specialists is their exceptional **relational skills.** They must communicate effectively, negotiate, and influence various stakeholders to achieve alignment and drive projects forward. This unique blend of technical and interpersonal skills is the reason for having architects and makes them invaluable in maintaining the organization's coherence and efficiency.
+While technical expertise is essential, what distinguishes superglue architects from technical specialists is their exceptional **relational skills.** They must communicate effectively, negotiate, and influence various stakeholders to achieve alignment and drive projects forward. This unique combination of technical knowledge and interpersonal skills is what makes architects invaluable for maintaining the organization's coherence and efficiency.
 
 ![](assets/images/superglue/architect-as-superglue.png)
 ***Figure 1:** Architects serve as superglue, connecting development teams with business stakeholders and linking their teams with internal and external communities.*
 
-**Figure 1** captures the **superglue metaphor** for architects, showing how they, like superglue, can bond various parts of the organization:
+Figure 1 illustrates the **superglue metaphor** for architects, demonstrating how they, like superglue, bond various parts of the organization:
 
-- **Developer Whisperers:** Architects should work closely with developers, understanding their challenges and ensuring architectural decisions enhance development efficiency and effectiveness.
-- **Tech-to-Business Translators:** They should decode technical jargon into business terms, helping stakeholders grasp the value and implications of technical decisions.
-- **Cross-Functional Diplomats:** By engaging with operations, marketing, and finance, architects can ensure technical solutions are practical, viable, and aligned with organizational strategies.
+- **Developer Whisperers:** Architects should work closely with developers to understand their challenges and ensure that architectural decisions enhance development efficiency and effectiveness.
+
+- **Tech-to-Business Translators:** They should translate technical jargon into business terms, helping stakeholders understand the value and implications of technical decisions.
+
+- **Cross-Functional Diplomats:** By engaging with operations, marketing, and finance, architects can ensure that technical solutions are practical, viable, and aligned with organizational strategies.
+
 - **Community Connectors:** Active engagement within internal communities keeps architects informed and contributes to the collective knowledge pool.
+
 - **Industry Influencers:** By being visible externally, architects can learn from and influence the broader industry, bringing in fresh perspectives and establishing their organization as a thought leader.
 
-Superglue architects can play a unique and essential role in the smooth operation of large and complex IT organizations. Unlike superheroes who save the day with dramatic rescues, superglue architects ensure continuous, smooth operation by connecting the dots across various organizational aspects.
+Superglue architects play a unique and critical role in the smooth operation of large and complex IT organizations. Unlike superheroes who save the day with dramatic rescues, superglue architects ensure continuous and seamless operations by connecting various aspects of the organization.
 
-IT architects should focus on holding everything together, ensuring their organizations' stability, coherence, and progress. Think of them as the organizational equivalent of duct tape—versatile, indispensable, and always ready to fix the seemingly unfixable.
+IT architects should focus on holding everything together, ensuring their organization's stability, coherence, and progress. Think of them as the organizational equivalent of duct tape—versatile, indispensable, and always ready to fix the seemingly unfixable.
 
-## Superglueing in Action #1: Aligning Organization
+## Superglueing in Action #1: Aligning Organizational Goals
 
-Tensions among technology, product, organization, and business functions can slow down progress, lead to poor decisions, introduce complexity, and cause missed opportunities. Acting as superglue, architects can mitigate these issues by fostering better communication and alignment among these elements. The goal is **not to create new barriers** but to bring these functions closer together, ensuring a cohesive and efficient operation.
+**Tensions** among **technology**, **product**, **organizational**, and **business functions** can slow down progress, lead to poor decisions, introduce complexity, and result in missed opportunities. Architects can act as the "superglue" that mitigates these issues by **fostering better communication and alignment** among these elements. The aim is **not to create new barriers** but to bring these functions closer together, ensuring a cohesive and efficient operation.
 
 ![](assets/images/istock/iStock-881068124.jpg)
 ^image by flamingoimages from istock^
 
-The primary value of superglue architects in complex organizations lies in their uncanny ability to align business, product, technology, and organizational functions. 
+The primary value of "superglue" architects in complex organizations lies in their unique ability to align business, product, technology, and organizational functions.
 
 ### Tensions
 
-Technology, product, organization, and business functions face specific challenges and change at different rates. Ideally, these structures should **evolve simultaneously,** staying in perfect sync like a well-rehearsed dance troupe. However, reality often resembles a **poorly synchronized** flash mob, full of tension and missteps, as illustrated in Figure 2.
+Technology, product, organizational, and business functions face specific challenges and change at different rates. Ideally, these structures should **evolve simultaneously**, staying in perfect sync, much like a well-rehearsed dance troupe. However, in reality, they often resemble a **poorly synchronized** flash mob, full of tension and missteps, as illustrated in Figure 2.
 
 ![](assets/images/tension.png)
 ***Figure 2:** The tensions between technology, product, organization, and business functions.*
@@ -57,30 +61,22 @@ Technology, product, organization, and business functions face specific challeng
 Tension between technology, product, organization, and business functions can significantly impede progress. Miscommunication or misalignments can turn simple tasks into bureaucratic nightmares. Furthermore, these issues can introduce overwhelming and unnecessary complexity, causing missed opportunities. Here are specific examples of these tensions:
 
 **Technology vs. Organization:**  
-
-* **Example:** An organization adopts a monolithic IT system that centralizes all operations, making management efficient. However, development teams are forced to navigate bottlenecks when making changes because all teams are intertwined with a single codebase. This centralization results in a traffic jam of dependencies, slowing down deployments and requiring teams to coordinate their work in overly complex ways.  
-
-* **Impact:** This structure hinders team autonomy, making rapid iteration and innovation impossible. The teams can't work in isolation, and a slight change in one area can inadvertently affect another, leading to downtime and delays.
+* **Example:** An organization adopts a monolithic IT system that centralizes all operations for efficient management. However, development teams face bottlenecks when making changes because all teams are interconnected through a single codebase. This centralization creates a traffic jam of dependencies, slowing down deployments and requiring teams to coordinate their work in unnecessarily complex ways.  
+* **Impact:** This structure hinders team autonomy, making rapid iteration and innovation impossible. Teams cannot work in isolation, and even a slight change in one area can inadvertently affect another, resulting in downtime and delays.
 
 **Product vs. Technology:**  
-
-* **Example:** An organization has adopted microservices architecture, where each team owns a service domain, allowing for independent development and deployment. However, the product's feature requirements are organized differently—for example, by user experience across multiple domains. As a result, a seemingly simple product change—like a new user interface—requires touching various microservices.  
-
-* **Impact:** This creates a situation where cross-team coordination is mandatory for small product changes, akin to playing "Whac-A-Mole." Every minor modification may ripple across several teams, increasing complexity and slowing progress.
+* **Example:** An organization implements a microservices architecture, allowing each team to own a service domain and enabling independent development and deployment. However, the product's feature requirements are organized differently—by user experience across multiple domains. Consequently, a seemingly simple product change, such as a new user interface, necessitates modifications across various microservices.  
+* **Impact:** This situation forces cross-team coordination for minor product changes, akin to playing "Whac-A-Mole." Each small adjustment can ripple across several teams, increasing complexity and slowing progress.
 
 **Business vs. Product:**  
-
-* **Example:** A company's business strategy frequently shifts between cost-cutting and innovation. At one point, the priority is to reduce operational expenses and hold off on new features. A few months later, the focus shifted toward rapid product innovation and cloud migration to stay competitive. The product teams, meanwhile, are struggling to align their development roadmaps with these conflicting objectives.  
-
-* **Impact:** This results in conflicting priorities across teams. While the business insists on reducing costs, the product teams are asked to deliver new features and pivot technology platforms, leading to overworked teams and unsustainable project timelines.
+* **Example:** A company's business strategy frequently shifts between cost-cutting and innovation. At one point, the priority is to reduce operational expenses and postpone new features. A few months later, the focus shifts toward rapid product innovation and cloud migration to remain competitive. Meanwhile, product teams struggle to align their development roadmaps with these conflicting objectives.  
+* **Impact:** These conflicting priorities result in confusion across teams. While the business insists on cost reduction, product teams are tasked with delivering new features and pivoting technology platforms, leading to overwhelmed teams and unsustainable project timelines.
 
 **Organization vs. Business Functions:**  
+* **Example:** The organizational structure is designed around siloed departments such as IT, marketing, and finance, each with distinct goals and KPIs. However, the business function requires cross-department collaboration to achieve strategic objectives, such as launching a new product or migrating to the cloud. The departments, with conflicting processes and isolated goals, often miscommunicate and delay delivery.  
+* **Impact:** This tension causes project bottlenecks, unclear decision-making, and slow response times, as each department operates independently instead of moving toward a shared business objective. The lack of collaboration increases friction and raises the risk of missed market opportunities.
 
-* **Example:** The organizational structure is designed around siloed departments, such as IT, marketing, and finance, each with different goals and KPIs. However, the business function requires cross-department collaboration to achieve strategic objectives, such as launching a new product or migrating to the cloud. The departments, with conflicting processes and isolated goals, end up miscommunicating and delaying delivery.  
-
-* **Impact:** This tension results in project bottlenecks, unclear decision-making, and slow response times as each department operates independently instead of moving toward a shared business objective. The lack of collaboration increases friction and risks missed market opportunities.
-
-When not addressed, these tensions can severely limit an organization's ability to stay competitive, agile, and responsive to market and technological changes.
+When not addressed, these tensions can severely limit an organization's ability to remain competitive, agile, and responsive to market and technological changes.
 
 ### Superglue Role in Reducing Tensions
 

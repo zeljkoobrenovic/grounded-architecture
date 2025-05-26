@@ -32,7 +32,7 @@ The Grounded Architecture framework consists of three elements:
 
 *[Collaborative Networks](#people)* is another essential element of Grounded Architecture. A strong network of people doing architecture across the organization is crucial to ensure that an architecture practice has any tangible impact.
 
-Lastly, the sections *[Operating Model: General Principles](#operating-model)*, *[Cooperation-Based Operating Model](#six-simple-rules)*, *[Leveraging The Full Potential of Generative AI for IT Architecture](gen-ai-potential)*, and *[IT Governance: Nudge, Taxation, Mandates](#governance)* define a collection of processes and agreements that lets architects do their thing, leveraging data and people connections to create a powerful, organization-wide impact.
+Lastly, the sections *[Operating Model: General Principles](#operating-model)*, *[Leveraging Generative AI within Grounded Architecture Framework](gen-ai)*, and *[IT Governance: Nudge, Taxation, Mandates](#governance)* define a collection of processes and agreements that lets architects do their thing, leveraging data and people connections to create a powerful, organization-wide impact.
 
 As a part of my work on Grounded Architecture, I also provided several guiding principles and tools that I found helpful to introduce the ideas of Grounded Architecture in practice. I grouped these resources into several parts:
 
@@ -45,17 +45,12 @@ As a part of my work on Grounded Architecture, I also provided several guiding p
   * [Architects' Career Paths](#career-paths)
 * [**On Human Complexity**](#human-complexity):
   * [The Culture Map: Architects' Culture Compass](#culture-map)
+  * [Cooperation-Based Organizations](#six-simple-rules)
   * [The Human Side of Decision-Making](#human-decisions)
   * [Effortless Architecture](#effortless)
 * [**On Strategy**](strategy):
   * [Enterprise Architecture as Strategy](ea-as-strategy)
-  * [Hunting the Ghost of Business Architecture](business-architecture)
   * [Outsourcing Strategies](outsourcing)
-  * [Achieving Market Leadership](market-leadership)
-  * [Value-Based Strategy](value-based-strategy)
-  * [Marketplace Strategies: What Digital Marketplaces Sell?](marketplaces)
-  * [Connecting Marketing, Sales, and Customer Service Strategies](marketing-sales-strategy)
-  * [Culture As a Strategy (aka Culture Eats Strategy for Breakfast)](culture-strategy)
 * [**Expanding the Architect's Toolkit: Learning From Other Fields**](#expanding-toolkit):
   * [Economic Modeling With ROI and Financial Options: Learning From the Finance Field](#economics)
   * [Architecture in Product-Led Organizations: Learning From Customer-Centric Fields](#product) 
