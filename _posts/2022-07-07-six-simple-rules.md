@@ -1,8 +1,8 @@
 ---
 layout: post
-section: "Grounded Architecture Framework"
-title: "Cooperation-Based Operating Model: Six Simple Rules"
-position: 3008
+section: "On Human Complexity"
+title: "Cooperation-Based Organizations: Six Simple Rules"
+position: 7007
 podcast: six-simple-rules.mp3
 spotify: https://open.spotify.com/episode/3w1SxajFCOgJ80oIdubQE7?si=8028da4b439d4fe9
 date:   2021-10-21 21:12:01 +0100

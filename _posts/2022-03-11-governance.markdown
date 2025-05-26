@@ -1,7 +1,7 @@
 ---
 layout: post
-section: "Grounded Architecture Framework"
-title: "Operating Model: Nudge, Taxation, Mandates"
+section: "Grounded Architecture Framework: Operating Model"
+title: "Governance: Nudge, Taxation, Mandates"
 position: 3011
 podcast: governance.mp3
 spotify: https://open.spotify.com/episode/2UTAYFVJoWRmvX5CvJsJST?si=83969e560b6c4886
@@ -105,6 +105,8 @@ In behavioral economics and psychology, a **nudge** refers to a subtle cue or in
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Chernetskaya">Liudmila Chernetska</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
+
+### What are Nudges?
 
 Nudges are frequently utilized in areas such as public policy, marketing, and workplace culture to assist individuals in making decisions that lead to better outcomes—both for themselves and for the system as a whole. Common examples include:
 

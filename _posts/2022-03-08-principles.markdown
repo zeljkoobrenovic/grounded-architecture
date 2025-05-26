@@ -1,22 +1,22 @@
 ---
 layout: post
-section: "Grounded Architecture Framework"
+section: "Grounded Architecture Framework: Operating Model"
 title: "Operating Model: General Principles"
-position: 3006
+position: 3008
 podcast: operating-model.mp3
 spotify: https://open.spotify.com/episode/5h48h1zmrMHCKIdvKvrWjK?si=96e10bef94c143c7
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
-permalink: operating-model
-icon: activities.png
+permalink: operating-model-principles
+icon: guiding-principles.png
 timetoread: 15 min
 excerpt: "Operating Model defines how, by leveraging Lightweight Architectural Analytics and Collaborative Networks, we perform activities that help an organization reach its goals. An effective architecture practice must be tailored to organizational needs, grounded in collaboration and clear rules of engagement, and focused on enabling teams through strategic alignment, distributed decision-making, and supported standards like golden paths."
 
 ---
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
-     src="assets/images/istock/iStock-1126482102.jpg">
+     src="assets/images/istock/iStock-2149699571.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/ma_rish">ma_rish</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Maria_Castellanos">Maria_Castellanos</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 > **IN THIS SECTION, YOU WILL:**  Understand that an effective architecture practice must be tailored to organizational needs, grounded in collaboration and clear rules of engagement, and focused on enabling teams through strategic alignment, distributed decision-making, and supported standards like golden paths.
 >
@@ -61,10 +61,7 @@ There is no one-size-fits-all approach: each organization must find activities a
 
 No matter which operating models you select, it's crucial to develop **explicit agreements** and "rules of engagement" with key stakeholders. This collaborative approach is essential to create a sustainable and practical an architecture practice.
 
-![](assets/images/model-operating-model.png)
-***Figure 1:** The Grounded Architecture framework: Operating Model.*
-
-This section outlines some lessons I learned when defining IT architecture operating models. The Operating Model (Figure 1) is a part of the Grounded Architecture framework that defines a set of **processes and agreements** that allow architects to do everything an architecture practice typically does. The model should leverage Lightweight Architectural Analytics and Collaborative Networks to develop a data-informed, organization-wide impact. Lightweight Architectural Analytics and Collaborative Networks provide a basis for data-informed decision-making that is well-embedded in the organization.
+This section outlines some lessons I learned when defining IT architecture operating models. The Operating Model is a part of the Grounded Architecture framework that defines a set of **processes and agreements** that allow architects to do everything an architecture practice typically does. The model should leverage Lightweight Architectural Analytics and Collaborative Networks to develop a data-informed, organization-wide impact. Lightweight Architectural Analytics and Collaborative Networks provide a basis for data-informed decision-making that is well-embedded in the organization.
 
 
 <br>
@@ -111,14 +108,14 @@ In this section, I address different guiding principles of architectural work:
 
 ### High-Level Operating Framework
 
-While exact activities and their scope will depend on an organization setting and will change over time, I usually followed a common operational framework in daily work inspired by Gregor Hohpe's strategy-principles-decisions model (Figure 2). 
+While exact activities and their scope will depend on an organization setting and will change over time, I usually followed a common operational framework in daily work inspired by Gregor Hohpe's strategy-principles-decisions model (Figure 1). 
 
 <div>
 <a href="assets/images/arch/architecture-system.png" target="_blank">
     <img src="assets/images/arch/architecture-system.png">
 </a>
 </div>
-**Figure 2:** *A common operating framework I typically use for Grounded Architecture activities.*
+**Figure 1:** *A common operating framework I typically use for Grounded Architecture activities.*
 
 <br>
 
@@ -153,12 +150,12 @@ Grounded Architecture aims to make relevant information more readily available t
 
 While I aim to create a mechanism to give teams autonomy, autonomy does not mean that teams are alone, do not align with anyone, do not get feedback from anyone, and do whatever they want. Teams must complement **autonomy** with high **transparency** and **proactivity** in alignment with other groups. 
 
-I have sometimes implemented the concept of a **decision pyramid** (Figure 3) to give the teams **maximal autonomy** while maintaining a **minimal** level of **global alignment** and compatibility.
+I have sometimes implemented the concept of a **decision pyramid** (Figure 2) to give the teams **maximal autonomy** while maintaining a **minimal** level of **global alignment** and compatibility.
 
 The **decision pyramid** highlights that development teams should make most decisions. However, several strategic and area-level choices may provide team decision boundaries. For example, selecting the public cloud provider is typically a CTO-level strategic decision. Similarly, engineering leaders in some areas may want to limit some choices, such as the number of programming languages, to more easily train new people, maintain code, and support moves between teams.
 
 ![](assets/images/arch/decision-pyramid.png)
-***Figure 3:** A decision pyramid. The development teams should make most decisions. However, several strategic and area-level decisions may provide decision boundaries for teams (e.g., golden paths or tech stack constraints).*
+***Figure 2:** A decision pyramid. The development teams should make most decisions. However, several strategic and area-level decisions may provide decision boundaries for teams (e.g., golden paths or tech stack constraints).*
 
 <br>
 ### General Architecture Decision Policy

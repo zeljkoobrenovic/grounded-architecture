@@ -98,9 +98,8 @@ The framework consists of **three core elements**:
 * **Operating Model**: This offers the governance structures, principles, and practices that shape how architecture functions across the organization. This includes:
 
   * **[General Principles](operating-model):** Aligning architecture with your organization’s reality by focusing on collaboration, autonomy, and strategic alignment rather than top-down control.
-  * **[Cooperation-Based Operating Model](six-simple-rules):** Inspired by *Six Simple Rules* (Morieux & Tollman), this model encourages shared accountability and flexible structures to navigate complexity.
   * **[IT Governance: Nudge, Taxation, Mandates](governance):** Governance should be a **balanced mix** of soft influence (nudging), economic signals (taxes), and clear boundaries (mandates/bans).
-  * **[Generative AI in Grounded Architecture](gen-ai-potential):** Based on my early explorations, this section shares practical ways to integrate GenAI tools into architectural workflows while maintaining integrity and oversight.
+  * **[Leveraging Generative AI within Grounded Architecture Framework](gen-ai):** Based on my early explorations, this section shares practical ways to integrate GenAI tools into architectural workflows while maintaining integrity and oversight.
 
 These components together form a **pragmatic, adaptive foundation** for modern architectural practice—grounded in **data, people, and results**.
 
@@ -123,6 +122,7 @@ Architecture is not just technical—it is deeply social:
 
 * [The Culture Map](culture-map)
 * [The Human Side of Decision-Making](human-decisions)
+* [Cooperation-Based Organizations](six-simple-rules)
 * [Effortless Architecture](effortless)
 
 #### [**On Strategy**](strategy)

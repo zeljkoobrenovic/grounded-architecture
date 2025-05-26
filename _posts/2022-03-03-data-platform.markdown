@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lightweight Architectural Analytics"
-section: "Grounded Architecture Framework"
+section: "Grounded Architecture Framework: Foundations"
 position: 3004
 podcast: analytics.mp3
 spotify: https://open.spotify.com/episode/00DKKmGoLhditLNCvbHTBW?si=31c33a1d8c4e4fef

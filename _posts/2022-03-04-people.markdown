@@ -1,6 +1,6 @@
 ---
 layout: post
-section: "Grounded Architecture Framework"
+section: "Grounded Architecture Framework: Foundations"
 title: "Collaborative Networks"
 position: 3005
 podcast: people.mp3
