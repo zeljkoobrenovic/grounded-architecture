@@ -87,7 +87,7 @@ The book is divided into two complementary sections (see *Figure 1*):
 ![](assets/images/model.png)
 ***Figure 1:** Grounded Architecture Overview*
 
-### The Grounded Architecture Framework
+### The Grounded Architecture Framework (Book 1)
 
 The framework consists of **three core elements**:
 
@@ -95,7 +95,7 @@ The framework consists of **three core elements**:
 
 *  **[Collaborative Networks (People)](people)**: This emphasizes the power of relationships and peer networks to scale architectural influence and ensure shared ownership of key decisions.
 
-* **Operating Model**: This offers the governance structures, principles, and practices that shape how architecture functions across the organization. This includes:
+* **[Operating Model](operating-model)**: This offers the governance structures, principles, and practices that shape how architecture functions across the organization. This includes:
 
   * **[General Principles](operating-model):** Aligning architecture with your organization’s reality by focusing on collaboration, autonomy, and strategic alignment rather than top-down control.
   * **[IT Governance: Nudge, Taxation, Mandates](governance):** Governance should be a **balanced mix** of soft influence (nudging), economic signals (taxes), and clear boundaries (mandates/bans).
@@ -107,7 +107,7 @@ These components together form a **pragmatic, adaptive foundation** for modern a
 
 Beyond the framework, this book offers a set of **practical tools and reflections** that explore the human, strategic, and behavioral dimensions of architecture. These principles are grouped into thematic areas:
 
-#### [**On Being an Architect**](being-architect)
+#### [**On Being an Architect**](being-architect) (Book 2)
 
 Explore the mindset and meta-skills of effective architects:
 
@@ -116,7 +116,7 @@ Explore the mindset and meta-skills of effective architects:
 * [Balancing Curiosity and Skepticism](balancing)
 * [Navigating Career Paths](career-paths)
 
-#### [**On Human Complexity**](human-complexity)
+#### [**On Human Complexity**](human-complexity) (Book 3)
 
 Architecture is not just technical—it is deeply social:
 
@@ -125,14 +125,14 @@ Architecture is not just technical—it is deeply social:
 * [Cooperation-Based Organizations](six-simple-rules)
 * [Effortless Architecture](effortless)
 
-#### [**On Strategy**](strategy)
+#### [**On Strategy**](strategy) (Book 3)
 
 Position architecture as a strategic enabler:
 
 * [Enterprise Architecture as Strategy](ea-as-strategy)
 * [Outsourcing Strategies](outsourcing)
 
-#### [**Expanding the Architect’s Toolkit**](expanding-toolkit)
+#### [**Expanding the Architect’s Toolkit**](expanding-toolkit) (Book 3)
 
 Learn from adjacent fields to elevate your practice:
 
@@ -239,7 +239,7 @@ Instead, I view IT architecture as a **cohesive function**—a bridge that conne
 
 ### Grounding and Empowerment
 
-Rather than advocating for rigid distinctions between roles, I propose **empowering architects with a data-informed, outcome-oriented mindset**. In this approach, architectural roles are **adaptable**, evolving to meet the organization’s needs while remaining aligned to deliver meaningful value.
+Rather than advocating for rigid distinctions between roles, I propose **empowering architects with a data-informed, collaborative, outcome-oriented mindset**. In this approach, architectural roles are **adaptable**, evolving to meet the organization’s needs while remaining aligned to deliver meaningful value.
 
 **Grounded Architecture** refers to anchoring architectural work in the organization’s reality:
 
@@ -359,13 +359,13 @@ This book is not a final answer; it’s a **living reflection** of one practitio
 
 This book is just one piece of a broader ecosystem of **open-source tools and resources** I have developed over the past decade to support my work as an architect. Together, they form a **practical toolkit** designed to make architecture more **data-informed, efficient, and impactful**.
 
-<br>
-
 ![](assets/images/arch/obren_io_vertical.png)
 ***Figure 3:** Grounded Architecture is part of a collection of open-source tools and learning resources developed over the past 10 years.*
 
 
 ### Other Tools in the Collection
+
+Below are a few key resources I’ve created or curated to support modern software architects in making informed, grounded decisions.
 
 * [**Sokrates**](https://sokrates.dev)  
   A polyglot source code analysis tool for extracting actionable insights from codebases.
