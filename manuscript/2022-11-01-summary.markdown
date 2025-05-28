@@ -32,7 +32,7 @@ The Grounded Architecture framework consists of three elements:
 
 *[Collaborative Networks](#people)* is another essential element of Grounded Architecture. A strong network of people doing architecture across the organization is crucial to ensure that an architecture practice has any tangible impact.
 
-Lastly, the sections *[Operating Model: General Principles](#operating-model)*, *[Leveraging Generative AI within Grounded Architecture Framework](#gen-ai)*, and *[IT Governance: Nudge, Taxation, Mandates](#governance)* define a collection of processes and agreements that lets architects do their thing, leveraging data and people connections to create a powerful, organization-wide impact.
+Lastly, the sections *[Operating Model: General Principles](#operating-model)*, and *[Governance Principles: Nudges, Taxation, Mandates](#governance)*, and *[Bonus: Leveraging Generative AI within Grounded Architecture Framework](#gen-ai)* define a collection of processes and agreements that lets architects do their thing, leveraging data and people connections to create a powerful, organization-wide impact.
 
 As a part of my work on Grounded Architecture, I also provided several guiding principles and tools that I found helpful to introduce the ideas of Grounded Architecture in practice. I grouped these resources into several parts:
 

@@ -43,9 +43,9 @@ Image by <a href="https://pixabay.com/users/paulbr75-2938186/?utm_source=link-at
 </style>
 
 <br>
-My experience in establishing and managing an architecture practice is rooted in practical, real-world applications. The concepts presented in this book are the result of my hands-on leadership as the Chief Architect at AVIV Group and previously as the Principal Architect at eBay Classifieds and Adevinta.
+To fully understand the solutions and ideas discussed in this book, it’s essential to recognize the challenges we aimed to address and the environment in which these challenges existed. My experience in establishing and managing an architecture practice is **rooted in practical, real-world applications**. The concepts presented in this book are the result of my hands-on leadership as the Chief Architect at AVIV Group and previously as the Principal Architect at eBay Classifieds and Adevinta.
 
-To fully understand the solutions and ideas discussed in this book, it’s essential to recognize the challenges we aimed to address and the environment in which these challenges existed. Here’s a brief overview of the context that influenced the **Grounded Architecture** approach:
+Here’s a brief overview of the context that influenced the **Grounded Architecture** approach:
 
 * **Global Scale**  
   The organizations I worked with operated across multiple countries and continents, supporting platforms with millions of users.
@@ -111,9 +111,9 @@ However, scale comes with its challenges—**and the complexity is real**:
 
 Balancing these opportunities and challenges at scale has been one of the most **demanding and rewarding aspects** of my architectural work.
 
-The sheer magnitude of complexity and interdependence compelled us to **datafy our architecture practice**—transforming architecture from a collection of discussions and documents into a system of connected insights. We developed **Lightweight Architectural Analytics** to maintain a real-time, reliable picture of our systems. Additionally, we relied on **decentralized, cross-functional Collaborative Networks** to ensure that local autonomy was balanced with global alignment.
+The sheer magnitude of complexity and interdependence compelled us to **datafy our architecture practice**—transforming architecture from a collection of discussions and documents into a system of connected insights. We developed **[Lightweight Architectural Analytics](analytics)** to maintain a real-time, reliable picture of our systems. Additionally, we relied on **decentralized, cross-functional [Collaborative Networks](people)** to ensure that local autonomy was balanced with global alignment.
 
-Ultimately, **scale didn’t just influence our architecture—it transformed how we practiced it**.
+Ultimately, scale didn’t just influence our architecture—it **transformed how we practiced** it.
 
 <br>
 ## Multi-Dimensional Diversity
@@ -320,8 +320,8 @@ To navigate this balance, we adopted a model of **"hands-off, eyes-on."**
 
 * Teams retained **full autonomy** in their work and decision-making.
 * We built systems to provide **complete visibility** into the technology and organizational landscape.
-* Our **Lightweight Architectural Analytics** platform helped track divergence and overlap.
-* Our **Operating Model** emphasized **decentralized decision-making** while enabling cross-unit collaboration and strategic alignment.
+* Our **[Lightweight Architectural Analytics](analytics)** platform helped track divergence and overlap.
+* Our **[Operating Model](operating-model)** emphasized **decentralized decision-making** while enabling cross-unit collaboration and strategic alignment.
 * We avoided rigid standardization and instead used **nudges, incentives, and transparency** to promote alignment.
 
 This approach enabled us to scale architectural efforts without central bottlenecks, giving teams the freedom to innovate while keeping leadership informed and connected.

@@ -1,7 +1,7 @@
 ---
 layout: post
 section: "Grounded Architecture Framework: Operating Model"
-title: "Governance: Nudge, Taxation, Mandates"
+title: "Governance Principles: Nudges, Taxation, Mandates"
 position: 3011
 podcast: governance.mp3
 spotify: https://open.spotify.com/episode/2UTAYFVJoWRmvX5CvJsJST?si=83969e560b6c4886

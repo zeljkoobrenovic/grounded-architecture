@@ -1,6 +1,6 @@
 
 
-# Governance: Nudge, Taxation, Mandates {#governance}
+# Governance Principles: Nudges, Taxation, Mandates {#governance}
 
 ![](assets/images/arch/greece-1594689_1920.jpg)
 ^image by nonbirinonko from pixabay^
