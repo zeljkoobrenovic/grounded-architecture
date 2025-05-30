@@ -2,6 +2,7 @@ Part3.txt
 2022-07-01-human-complexity.md
 2022-07-03-culture-map.md
 2022-07-07-six-simple-rules.md
+2022-06-13-leading-with-language.markdown
 2022-07-13-human-decisions.md
 2022-07-19-effortless.md
 Part3b.txt

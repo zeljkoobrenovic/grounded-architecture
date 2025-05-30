@@ -107,7 +107,7 @@ Key leadership traits include:
 * Fostering a culture of **continuous learning and improvement**.
 * **Mentoring** future architects, aiding them in avoiding common pitfalls and accelerating their growth.
 
-For experienced architects, leadership isn’t optional—it’s essential. For more insights, see [Leadership Traits](leadership) and [Leading with Language](leading-with-language).
+For experienced architects, leadership isn’t optional—it’s essential. For more insights, see [Leadership Traits](leadership).
 
 <br>
 ## Thinking Like an Architect

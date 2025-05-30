@@ -1,8 +1,8 @@
 ---
 layout: post
-section: "On Being Architect"
+section: "On Human Complexity"
 title: "Leading with Language: Six Plays for Grounded IT Architects"
-position: 6013
+position: 7009
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 permalink: leading-with-language

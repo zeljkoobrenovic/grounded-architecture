@@ -441,35 +441,3 @@ Generative AI is more than just a tool; it is a catalyst for architectural evolu
 * *How does the Grounded Architecture principle of "Data-Driven Decisions" connect with the need for high-quality data to effectively train and ground GenAI models in your organization?*
 * *Looking at future trends like Agentic AI and Digital Twins of Organizations (DTOs), how should you start preparing your skills and your organization's architecture practice for these advancements?*
 * *What ethical guidelines and governance principles are most important for your organization to establish before widely adopting GenAI within your architecture practice?*
-
-## Tables
-
-### Grounded Architecture Element vs. GenAI Capability
-
-| **Grounded Architecture Element** | **GenAI Capability** | **Description**                                                                                                                               |
-| :---------------------------------------- | :-------------------------------------- |:----------------------------------------------------------------------------------------------------------------------------------------------|
-| **Lightweight Architectural Analytics** | Data Gathering & Processing             | Automates collecting, understanding, and summarizing information from diverse sources like code, cloud costs, support tickets, and documents. |
-|                                           | Pattern Recognition & Anomaly Detection | More quickly identifies architectural issues, technical debt, security risks, and old technologies using AI analysis.                         |
-|                                           | Report and Dashboard Generation         | Automatically creates reports and dashboards from analyzed data to speed up decision-making.                                                  |
-| **Collaborative Networks** | Knowledge Management & Sharing          | Turns static knowledge (like documents and ADRs) into dynamic, searchable resources using RAG.                                                |
-|                                           | Communication Assistance                | Helps draft communications tailored for different audiences, both technical and non-technical.                                                |
-|                                           | Meeting Summarization                   | Summarizes discussions, decisions, and action items from meeting recordings or notes.                                                         |
-| **Operating Model** | Coding and Documentation Support        | Offers AI help for daily work, like writing code, technical documents, and analyzing requirements.                                            |
-|                                           | Artifact Generation                     | Helps create architecture diagrams, ADRs, compliance documents, and reports.                                                                  |
-|                                           | Technical Debt Tracking                 | Summarizes technical debt issues, flags aging technologies, and helps prioritize fixes based on their impact.                                 |
-|                                           | Due Diligence Acceleration              | Speeds up the review of technical documents for mergers, acquisitions, or technology choices.                                                 |
-|                                           | Process Standardization                 | Helps draft standards and governance processes, and can check if proposals meet these standards.                                              |
-|                                           | Strategy Development                    | Summarizes current situations and suggests future strategies for areas like cloud, data, and technology platforms.                            |
-
-### GenAI Best Practices Checklist
-
-| Best Practice Area    | Key Action/Consideration                                                      | Relevance to Grounded Architecture                                                     |
-| :-------------------- | :---------------------------------------------------------------------------- | :------------------------------------------------------------------------------------- |
-| Data Governance       | Ensure high-quality, secure, private, managed data. Implement access controls. | Fundamental for reliable Lightweight Analytics & RAG. Supports Data-Driven principle.    |
-| Human Oversight       | Use Human-in-the-Loop for validation. Architects review AI output. Avoid automation bias. | Reinforces the architect's role in Networks & Operating Model. Upholds Pragmatism.      |
-| Model Management      | Choose suitable models. Prioritize RAG. Monitor performance, cost. Iterate.    | Ensures AI tools effectively support the Operating Model & Analytics. Supports Adaptability.|
-| Security              | Design secure applications (e.g., using user identity). Encrypt data. Conduct security reviews. | Protects sensitive data used in Analytics and shared in Collaborative Networks.        |
-| Ethics & Fairness     | Assess and reduce bias. Ensure transparency and explainability of AI actions.    | Ensures fairness in Analytics insights & Operating Model decisions. Builds trust in Collaboration. |
-| Governance & Process  | Define use cases and objectives. Implement principle-based governance. Document everything. | Structures GenAI within the Operating Model. Aligns AI to goals. Supports Continuous Realignment. |
-| Culture & Literacy    | Train users on responsible AI. Foster critical thinking and collaboration.      | Enhances how effectively Collaborative Networks use AI. Builds trust.                   |
-

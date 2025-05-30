@@ -13,236 +13,426 @@ A> **KEY POINTS:**
 A> * Architects in IT organizations should develop as “superglue,” people who hold architecture, technical details, business needs, and people together across a large organization or complex projects.
 A> * Architects need to be technically strong. But their unique strengths should stem from being able to relate technical issues with business and broader issues.
 
-To succeed as an IT architect, you need the right skills and a suitable **mindset**—a collection of attitudes, beliefs, and mental frameworks that shape how you perceive and respond to various situations. I have found the **"superglue" metaphor** to be a particularly effective way to encourage architects to adopt the mindset necessary for success and making a significant impact in organizations.
+To succeed as an IT architect, it’s not enough to simply master tools, frameworks, or technologies. Achieving success requires developing the **right mindset**—a blend of beliefs, attitudes, and mental models that influence how you perceive challenges and approach your work.
 
-The concept of "superglue" in IT organizations highlights the critical role of individuals who serve as the **binding force** across various aspects of the organization. This idea, championed by [Adam Bar-Niv and Amir Shenhav from Intel](https://saturn2016.sched.com/event/63m9/cant-find-superheroes-to-help-you-out-of-a-crisis-how-about-some-architecture-and-lots-of-superglue) and echoed by [Tanya Reilly](https://noidea.dog/glue), emphasizes the importance of individuals who excel beyond just technical skills. Gregor Hohpe similarly describes the primary role of modern architects as those who connect different organizational functions by navigating the [Architect Elevator](https://architectelevator.com/) from the penthouse, where business strategies are established, to the engine room, where engineers implement essential components, services, and systems.
+## The Superglue Mindset: What It Takes to Be an Effective IT Architect
 
-Architects who act as "superglue" should strive to integrate architecture, technical details, business needs, and people within large organizations or complex projects. They should serve as the **"organizational connective tissue,"** with their main strength lying in their ability to relate technical issues to broader organizational and business contexts.
+One of the most powerful metaphors for cultivating this mindset is that of the **“superglue” architect**. This concept captures the essence of what great architects do, particularly in complex, dynamic organizations where collaboration and alignment can be more challenging than coding itself.
 
-## Superglue Architects
+### What Does It Mean to Be “Superglue”?
 
-While technical expertise is essential, what distinguishes superglue architects from technical specialists is their exceptional **relational skills.** They must communicate effectively, negotiate, and influence various stakeholders to achieve alignment and drive projects forward. This unique combination of technical knowledge and interpersonal skills is what makes architects invaluable for maintaining the organization's coherence and efficiency.
+The **superglue metaphor** emphasizes the role of architects as the **binding force** connecting various components of an organization—people, teams, systems, strategies, and goals. This idea was popularized by [Adam Bar-Niv and Amir Shenhav from Intel](https://saturn2016.sched.com/event/63m9/cant-find-superheroes-to-help-you-out-of-a-crisis-how-about-some-architecture-and-lots-of-superglue), who observed that, while not everyone can be a superhero in a crisis, organizations greatly benefit from individuals who quietly and consistently hold everything together.
 
-![](assets/images/superglue/architect-as-superglue.png)
+[Tanya Reilly](https://noidea.dog/glue) builds on this concept in her discussions about "glue work"—the invisible but vital contributions that ensure collaboration, coherence, and continuity. Similarly, [Gregor Hohpe](https://architectelevator.com/) describes modern architects as those who navigate the **"Architect Elevator,"** seamlessly moving between the **penthouse** (where business strategy is defined) and the **engine room** (where technical implementation occurs). Superglue architects thrive in this in-between space, adding value by ensuring alignment across different organizational levels.
+
+### The Role of a Superglue Architect
+
+Superglue architects take on more than just writing technical specifications or selecting the right cloud solutions. They play a **connective role** across four key areas:
+
+1. **Architecture** – Defining technical direction, ensuring consistency, and promoting scalable design choices.
+2. **Technology** – Having a deep understanding of tools, systems, and platforms so that they can engage engineers meaningfully.
+3. **Business Needs** – Translating between strategic goals and technical feasibility, ensuring that solutions align with the organization’s actual requirements.
+4. **People and Teams** – Facilitating communication, resolving conflicts, mentoring team members, and ensuring that everyone is working towards the same objectives.
+
+In essence, these architects serve as the **organizational connective tissue**. Their value lies not only in their problem-solving abilities but also in their capacity to **link problems to the right solutions**—and to the right people.
+
+### The Superglue Mindset in Action
+
+Cultivating a superglue mindset involves adopting a set of perspectives and habits that go beyond technical skills. It includes:
+
+* **Curiosity**: Always seeking to understand how things work, from legacy systems to new business initiatives.
+* **Empathy**: Understanding the pressures and concerns of developers, product managers, and executives alike.
+* **Adaptability**: Thriving in ambiguity and helping to clarify direction when others are still forming opinions.
+* **Strategic Thinking**: Seeing the big picture and helping others connect their work to broader objectives.
+* **Humility**: Recognizing that your most significant contributions might not be a brilliant design, but rather a well-facilitated conversation.
+
+### Why This Matters
+
+In complex organizations, architecture is not only about systems; it’s also about **relationships, priorities, and timing**. An architect with a "superglue" mindset acts as a **force multiplier**, enhancing the efforts of teams, bridging gaps between silos, and fostering cohesion in environments that might otherwise fragment under pressure.
+
+This mindset is especially crucial when managing change. Whether adopting a new platform, rethinking system architecture, or aligning business and IT strategies, the work of change takes place in the **gaps**—and that’s where superglue architects excel.
+
+If you're building your architecture practice or mentoring future architects, instilling the **superglue mindset** is one of the most effective ways to ensure long-term, sustainable success—not just for individuals, but for the entire organization.
+
+## Superglue Architects: Keeping the Organization United
+
+In IT organizations, deep technical knowledge is essential, but it is not what truly distinguishes great architects. What sets **superglue architects** apart from other technical specialists is their ability to **connect people, priorities, and systems** through exceptional **relational skills**.
+
+Superglue architects are more than just problem solvers—they are **connectors**. They communicate clearly, negotiate thoughtfully, and influence strategically. These soft skills, combined with their technical credibility, make them **invaluable for ensuring coherence, alignment, and momentum** throughout the organization.
+
+![Architects as Superglue](assets/images/superglue/architect-as-superglue.png)
 ***Figure 1:** Architects serve as superglue, connecting development teams with business stakeholders and linking their teams with internal and external communities.*
 
-Figure 1 illustrates the **superglue metaphor** for architects, demonstrating how they, like superglue, bond various parts of the organization:
+Figure 1 illustrates the **superglue metaphor**: architects act as the **binding agent** between the often-disconnected parts of a modern organization. Here's how that role plays out in practice:
 
-- **Developer Whisperers:** Architects should work closely with developers to understand their challenges and ensure that architectural decisions enhance development efficiency and effectiveness.
+### Developer Whisperers
 
-- **Tech-to-Business Translators:** They should translate technical jargon into business terms, helping stakeholders understand the value and implications of technical decisions.
+Superglue architects maintain a **close relationship with development teams**, deeply understanding their needs, roadblocks, and priorities. They don’t just impose architectural decisions—they collaborate, explain, and ensure that solutions are not only sound but also **practical and empowering** for developers.
 
-- **Cross-Functional Diplomats:** By engaging with operations, marketing, and finance, architects can ensure that technical solutions are practical, viable, and aligned with organizational strategies.
+### Tech-to-Business Translators
 
-- **Community Connectors:** Active engagement within internal communities keeps architects informed and contributes to the collective knowledge pool.
+Architects must be fluent in both technical and business languages. They help stakeholders understand how a technical decision will impact timelines, revenue, or customer experience. In doing so, they bridge the gap between **technology potential and business value**.
 
-- **Industry Influencers:** By being visible externally, architects can learn from and influence the broader industry, bringing in fresh perspectives and establishing their organization as a thought leader.
+### Cross-Functional Diplomats
 
-Superglue architects play a unique and critical role in the smooth operation of large and complex IT organizations. Unlike superheroes who save the day with dramatic rescues, superglue architects ensure continuous and seamless operations by connecting various aspects of the organization.
+Superglue architects work across various departments—operations, finance, marketing, HR—not just within IT. They ensure that technical strategies align with broader organizational goals and constraints. This cross-functional engagement enables them to champion **solutions that are viable, sustainable, and strategically sound**.
 
-IT architects should focus on holding everything together, ensuring their organization's stability, coherence, and progress. Think of them as the organizational equivalent of duct tape—versatile, indispensable, and always ready to fix the seemingly unfixable.
+### Community Connectors
 
-## Superglueing in Action #1: Aligning Organizational Goals
+Internally, architects are **active contributors to knowledge-sharing communities**, facilitating learning, promoting best practices, and staying attuned to emerging challenges. They help **enhance the capabilities of the entire organization** by engaging with others and fostering collaboration.
 
-**Tensions** among **technology**, **product**, **organizational**, and **business functions** can slow down progress, lead to poor decisions, introduce complexity, and result in missed opportunities. Architects can act as the "superglue" that mitigates these issues by **fostering better communication and alignment** among these elements. The aim is **not to create new barriers** but to bring these functions closer together, ensuring a cohesive and efficient operation.
+### Industry Influencers
 
-![](assets/images/istock/iStock-881068124.jpg)
+Outstanding architects also look outward. By participating in external forums, publishing articles, speaking at conferences, or contributing to open-source projects, they bring **outside perspectives** to their organizations. This external visibility positions the organization as a **leader in the industry**.
+
+### Why Superglue Architects Matter
+
+While superheroes might swoop in for a dramatic rescue, **superglue architects quietly prevent crises from occurring in the first place**. They anticipate friction points, foster alignment, and ensure that systems, strategies, and people are working in unison.
+
+Their presence ensures:
+
+* **Stability** across fast-moving teams and initiatives,
+* **Clarity** amidst conflicting priorities,
+* **Continuity** in a rapidly evolving technical landscape.
+
+Think of them as the **organizational equivalent of duct tape**—invisible when effective, indispensable during challenges, and always ready to hold things together when complexity threatens to unravel them.
+
+Superglue architects don’t just connect systems—they **connect vision with execution**, people with purpose, and complexity with clarity. This mindset elevates them from good architects to great ones.
+
+## Superglueing in Action #1: Aligning Conflicting Organizational Goals
+
+In many IT organizations, tensions often arise between key areas: **technology, product, organizational structure, and business strategy**. These areas tend to evolve at different speeds and often have conflicting priorities. Without proper alignment, the result can be poor decisions, increased complexity, stalled initiatives, and missed opportunities.
+
+This is where **superglue architects** come in. They don’t create more bureaucracy or control; instead, they **foster alignment and build bridges** across functions. Their goal is to bring these areas closer together, creating a more cohesive, responsive, and adaptive organization.
+
+![Architect alignment](assets/images/istock/iStock-881068124.jpg)
 ^image by flamingoimages from istock^
 
-The primary value of "superglue" architects in complex organizations lies in their unique ability to align business, product, technology, and organizational functions.
+The core value of superglue architects lies in their ability to **align product, business, technology, and organizational goals**, helping each function move in sync like a well-coordinated team rather than a fragmented crowd.
 
-### Tensions
+### Understanding the Tensions
 
-Technology, product, organizational, and business functions face specific challenges and change at different rates. Ideally, these structures should **evolve simultaneously**, staying in perfect sync, much like a well-rehearsed dance troupe. However, in reality, they often resemble a **poorly synchronized** flash mob, full of tension and missteps, as illustrated in Figure 2.
+While it’s ideal for business, technology, product, and organizational functions to evolve together, the reality is often more chaotic. These domains can act like separate dancers moving to different music. When misaligned, even small efforts can become tangled, leading to delays, inefficiencies, and friction.
 
-![](assets/images/tension.png)
-***Figure 2:** The tensions between technology, product, organization, and business functions.*
+![Tensions diagram](assets/images/tension.png)
+***Figure 2:** Common misalignments across business, product, technology, and organizational domains.*
 
-Tension between technology, product, organization, and business functions can significantly impede progress. Miscommunication or misalignments can turn simple tasks into bureaucratic nightmares. Furthermore, these issues can introduce overwhelming and unnecessary complexity, causing missed opportunities. Here are specific examples of these tensions:
+Let’s examine a few real-world examples of these tensions:
 
-**Technology vs. Organization:**  
-* **Example:** An organization adopts a monolithic IT system that centralizes all operations for efficient management. However, development teams face bottlenecks when making changes because all teams are interconnected through a single codebase. This centralization creates a traffic jam of dependencies, slowing down deployments and requiring teams to coordinate their work in unnecessarily complex ways.  
-* **Impact:** This structure hinders team autonomy, making rapid iteration and innovation impossible. Teams cannot work in isolation, and even a slight change in one area can inadvertently affect another, resulting in downtime and delays.
+#### **Technology vs. Organization**
 
-**Product vs. Technology:**  
-* **Example:** An organization implements a microservices architecture, allowing each team to own a service domain and enabling independent development and deployment. However, the product's feature requirements are organized differently—by user experience across multiple domains. Consequently, a seemingly simple product change, such as a new user interface, necessitates modifications across various microservices.  
-* **Impact:** This situation forces cross-team coordination for minor product changes, akin to playing "Whac-A-Mole." Each small adjustment can ripple across several teams, increasing complexity and slowing progress.
+* **Scenario:** A company employs a monolithic architecture to centralize operations, aiming for control and consistency. However, the development teams struggle to move quickly, as every change requires coordination across multiple groups.
 
-**Business vs. Product:**  
-* **Example:** A company's business strategy frequently shifts between cost-cutting and innovation. At one point, the priority is to reduce operational expenses and postpone new features. A few months later, the focus shifts toward rapid product innovation and cloud migration to remain competitive. Meanwhile, product teams struggle to align their development roadmaps with these conflicting objectives.  
-* **Impact:** These conflicting priorities result in confusion across teams. While the business insists on cost reduction, product teams are tasked with delivering new features and pivoting technology platforms, leading to overwhelmed teams and unsustainable project timelines.
+* **Impact:** Innovation stalls, bottlenecks grow, and autonomy disappears. A single bug fix can trigger delays across unrelated teams.
 
-**Organization vs. Business Functions:**  
-* **Example:** The organizational structure is designed around siloed departments such as IT, marketing, and finance, each with distinct goals and KPIs. However, the business function requires cross-department collaboration to achieve strategic objectives, such as launching a new product or migrating to the cloud. The departments, with conflicting processes and isolated goals, often miscommunicate and delay delivery.  
-* **Impact:** This tension causes project bottlenecks, unclear decision-making, and slow response times, as each department operates independently instead of moving toward a shared business objective. The lack of collaboration increases friction and raises the risk of missed market opportunities.
+#### **Product vs. Technology**
 
-When not addressed, these tensions can severely limit an organization's ability to remain competitive, agile, and responsive to market and technological changes.
+* **Scenario:** The product teams focus on user experience across systems, but engineering has adopted microservices organized by internal domains. A seemingly simple UI feature may require coordination across several backend services.
 
-### Superglue Role in Reducing Tensions
+* **Impact:** What should be a minor enhancement turns into a game of “Whac-A-Mole,” slowing delivery and frustrating teams.
 
-Superglue architects should be able to navigate the wild complexities of modern organizations. They should facilitate that the various architectures—business, product, technology, or organizational design—don't just coexist but thrive together. Architects' **holistic approach** not only reduces tension and misalignment but reassures the organization's smooth operation, like butter on hot toast.
+#### **Business vs. Product**
 
-![](assets/images/tension-architecture.png)
-***Figure 3:** Architects should be in the middle of reducing tensions between technology, product, organization, and business functions.*
+* **Scenario:** The business alternates between cost-saving initiatives and pushes for innovation. One month, the focus is on reducing expenses; the next, it’s on aggressive feature delivery and platform overhauls.
 
-Acting as superglue, the architects can effectively **reduce tensions** among technology, product, organization, and business functions. This act includes facilitating **critical conversations** between these units and ensuring alignment and cohesion. As depicted in Figure 3, the goal of architecture is not to add new constructs between these four elements, but to **bring them closer together.** By fostering closer relationships and better communication, architects can help these elements work in unison rather than at cross purposes. Here are examples of how architects reduce tensions and ensure these different domains work cohesively:
+* **Impact:** Product teams struggle to plan, resources shift unexpectedly, and confusion and burnout increase.
 
-**Aligning Technology with Business Goals:**
+#### **Organization vs. Business**
 
-* **Example:** An organization is undergoing a digital transformation, adopting cloud infrastructure to reduce costs and increase scalability. The business wants to shift to cloud services to improve profitability quickly. The architect's role here is to assess the current technology stack and highlight the potential trade-offs between speed, cost savings, and technical debt.
+* **Scenario:** Business goals necessitate seamless collaboration—such as launching a product—but the organization is siloed into departments like IT, marketing, and finance, each with isolated goals.
 
-* **Architect's Role:** The architect ensures that the cloud migration strategy aligns with both business cost-cutting goals and the long-term sustainability of the technology stack. By communicating how aggressive cloud migration might lead to technical debt and future maintenance costs, the architect keeps both business and technology stakeholders aligned, avoiding unrealistic expectations or missed deadlines.
+* **Impact:** Strategic initiatives stall, teams miscommunicate, and projects slip due to handoffs and misaligned incentives.
 
-**Balancing Product Roadmaps with Organizational Capabilities:**
+### How Superglue Architects Reduce Tension
 
-* **Example:** A product team wants to roll out new features based on customer feedback. However, the development teams are already stretched thin with existing workloads, and the current organizational design doesn't support the speed required for this new product push.
+Superglue architects are uniquely positioned to **identify, mediate, and resolve these tensions**. They understand the entire system—including its people, processes, and priorities—and help align them into a cohesive whole.
 
-* **Architect's Role:** The architect engages the product team and the organizational leadership to ensure the product roadmap is realistic, given the current team structure and workload. They suggest restructuring teams or adopting different DevOps practices to improve delivery speed. By facilitating these conversations, the architect helps product teams avoid bottlenecks and missed deadlines while aligning with the organization's resource capabilities.
+![Reducing tension diagram](assets/images/tension-architecture.png)
+***Figure 3:** Architects sit at the intersection of business, product, technology, and organizational functions to reduce misalignment.*
 
-**Translating Technical Jargon for Business Stakeholders:**
+Here’s how they achieve this:
 
-* **Example:** The business unit is planning an aggressive cost-cutting strategy to reduce IT expenditures by slashing infrastructure budgets. At the same time, the tech team is preparing for a major system upgrade to improve long-term scalability and security. 
+#### **1. Aligning Technology with Business Goals**
 
-* **Architect's Role:** The architect steps in to explain the technical ramifications of cost-cutting to business leaders in non-technical language, such as the risks of underfunding system upgrades or deferring maintenance. They can frame technical debt and potential security vulnerabilities in terms of business risk, making it easier for business leaders to see the bigger picture. This understanding can ensure that critical upgrades are not sacrificed for short-term savings.
+* **Scenario:** Business leaders want to cut costs quickly by moving to the cloud, but the tech team knows that rushing could create technical debt.
 
-**Ensuring Product and Technology Co-Evolution:**
+* **Architect’s Role:** Facilitate a migration strategy that balances speed and sustainability. Translate technical risks into business terms, helping executives make informed, long-term decisions.
 
-* **Example:** The technology team wants to adopt a new containerized microservices architecture to improve scalability, while the product team is still focused on rolling out features built on an outdated monolithic system. The mismatch creates tension between rapid product releases and long-term technology goals.  
+#### **2. Balancing Product Ambition with Organizational Capacity**
 
-* **Architect's Role:** The architect can ensure that both teams' goals are aligned by creating a phased migration plan. They can propose that the product team start developing new microservices architecture features while maintaining the monolithic system until a complete transition is feasible. This dual track can enable continuous feature delivery without sacrificing long-term technical goals.
+* **Scenario:** Product teams want to launch features based on customer feedback, but delivery teams are overloaded.
 
-**Facilitating Critical Conversations Across Teams:**
+* **Architect’s Role:** Bring stakeholders together to adjust priorities or restructure teams. Suggest DevOps practices or platform changes that can support faster delivery.
 
-* **Example:** An organization's technology team pushes for agile methodologies to enable rapid development and deployment. At the same time, the business unit still operates on annual planning cycles, making it challenging to sync timelines.  
+#### **3. Translating Technical Jargon for Business Leaders**
 
-* **Architect's Role:** The architect can organize cross-team workshops to help both sides understand each other's processes and goals. By explaining how agile practices can enhance product delivery speed and adjust to market needs faster, they can help the business side adjust its planning cycles. This explanation can reduce the friction between long-term planning and agile execution, fostering better alignment between business and technology functions.
+* **Scenario:** The business wants to reduce infrastructure costs, but engineers are planning major upgrades for security and scalability.
 
-**Mitigating Conflicting Business Objectives:**
+* **Architect’s Role:** Explain why short-term savings could lead to long-term risks. Reframe technical needs as business continuity concerns to ensure critical work stays funded.
 
-* **Example:** The business leadership wants to reduce costs and increase product innovation simultaneously, which may place contradictory demands on the IT department. Innovation requires investment in new technologies and R&D, while cost-cutting restricts resources. 
+#### **4. Coordinating Product and Technology Evolution**
 
-* **Architect's Role:** The architect can propose solutions that balance both goals, such as adopting cloud services that can reduce operational costs while offering flexibility for innovation. By integrating the right cloud-native solutions, the architect can ensure the company can innovate without sacrificing budget constraints, thus harmonizing conflicting business objectives.
+* **Scenario:** Engineering wants to transition to a new architecture, while Product is still working with the old one.
 
-The "superglue architect" helps navigate these tensions by being deeply involved in the organizational, technical, and product conversations. They bridge the gap between different stakeholders, ensuring smooth collaboration. Their success is measured by the seamless operation of business, product, and technical goals, even when their role becomes less visible over time.
+* **Architect’s Role:** Propose a clear transition strategy that allows for gradual evolution, ensuring that both teams are aligned on goals and timelines.
 
-## Supergluing In Action #2: Aligning Discussions About Problems, Solutions and Implementations
+## Supergluing in Action #2: Aligning Discussions Around Problems, Solutions, and Implementation
 
-The [Theory of Constraints (TOC)](https://en.wikipedia.org/wiki/Thinking_processes_(theory_of_constraints)), developed by Eliyahu M. Goldratt, is another source of inspiration I used to work as a superglue architect. TOC is a management philosophy focusing on identifying and addressing the most critical bottleneck (constraint) to improve overall performance. 
+In complex technical environments, disagreements are inevitable. However, many of these conflicts arise not because people can't find common ground, but because they are **talking past each other**.
 
-![](assets/images/istock/iStock-1350217421.jpg)
+One powerful mental model for resolving these conflicts is derived from the [Theory of Constraints (TOC)](https://en.wikipedia.org/wiki/Thinking_processes_%28theory_of_constraints%29), developed by Eliyahu M. Goldratt. TOC is a management philosophy focused on improving performance by identifying and addressing the most critical constraint in a system.
+
+![TOC image](assets/images/istock/iStock-1350217421.jpg)
 ^image by peopleimages from istock^
 
-While Goldratt's work is much broader, the part I find inspiring is his view on resistance to change, which he sees as manifesting in three forms: disagreement about the problem, disagreement on the solution, and disagreement on the implementation (Figure 4). This model is a useful guide to help people resolve disagreements. This model can also be useful in showing that many disagreements stem from people not realizing they are talking about different topics (e.g., trying to decide on low-level technology choices while there is no agreement on which problem they are solving). 
+One important aspect of Goldratt’s thinking that is particularly beneficial for **superglue architects** is his model for **resistance to change**. It identifies three key areas where disagreement typically arises:
 
-![](assets/images/toc_disagreements.png)
-***Figure 4:** Goldratt's view on resistance to change: disagreement about the problem, disagreement on the solution, and disagreement on the implementation.*
+1. What is the **problem**?
+2. What is the **solution**?
+3. How should we **implement** it?
 
-### Disagreement about the Problem (What to change?)
+![Disagreements diagram](assets/images/toc_disagreements.png)
+***Figure 4:** Goldratt’s model of resistance: disagreement about the problem, the solution, and the implementation.*
 
-Disagreement about the problem occurs when stakeholders or team members perceive the issue differently. In IT architecture and software engineering, this can lead to significant delays and inefficiencies because you might direct resources toward solving a problem that isn't the root cause of the constraint.
+Misalignment at any of these levels can derail collaboration. The **real danger** occurs when people are unaware of *which level* they are actually disagreeing about. Superglue architects can play a pivotal role in diagnosing and resolving these mismatches.
 
-For example, consider an IT team responsible for maintaining an e-commerce platform. The platform is experiencing slow response times, as users have reported. The database team believes the issue lies in inefficient database queries, while the network team thinks the problem is due to network latency. Meanwhile, the backend application developers suspect poorly optimized code. UX designers think that reported slowness is happening on the front end and is a consequence of the poor implementation of the user interface. These teams cannot agree on the primary problem. They may waste time optimizing areas that aren't the real bottleneck, leading to a patchwork of partial solutions that don't fully resolve the performance issue.
+### 1. Disagreement About the Problem
 
-### Disagreement on the Solution (What to change into?)
+**“What should we change?”**
 
-Once you identify a problem, the next challenge is agreeing on the best solution. This disagreement can stem from different experiences, knowledge, or biases toward particular technologies or methodologies.
+Different stakeholders often define the same issue in various ways, especially in large organizations. This divergence leads teams to waste time fixing **symptoms** rather than addressing root causes.
 
-In the same e-commerce platform example, the team might disagree on the solution after identifying the database as the root cause of the problem. The database administrators might suggest migrating to a more powerful database server, while the developers propose rewriting the queries more efficiently. UI developers think they should significantly refactor frontend code to a new version of the UI library they wanted to use before but did not have time for the work. The operations team might push for a backend redesign and to scale the entire system horizontally by adding more servers. These conflicting solutions can cause delays as the team debates the best approach, potentially leading to a suboptimal compromise or a solution that introduces new problems.
+**Example:**
+An e-commerce platform is experiencing slow response times.
 
-### Disagreement on the Implementation Approach (How to cause the change?)
+* The **database team** blames inefficient queries.
+* The **network team** blames latency.
+* The **backend team** suspects code issues.
+* The **UX team** thinks the slowness is caused by frontend problems.
 
-The implementation can still be contentious even when you agree upon a solution. The implementation phase is critical, as poor execution can negate the benefits of the chosen solution.
+Each group starts optimizing their own area without a shared understanding of what the core problem is. The result? Disconnected fixes, wasted efforts, and ongoing performance issues.
 
-Continuing with the e-commerce platform scenario, suppose the team agrees to optimize the database queries as the solution. Disagreements might arise regarding how to implement these changes. The development team might want to rewrite all queries in one go, while the operations team might prefer a phased approach to minimize downtime. Additionally, there might be disagreements about the testing environment, deployment strategies, or even the timeline. If you do not resolve these disagreements, the implementation could be delayed or poorly implemented, leading to new issues such as data integrity problems or complete system outages.
+### 2. Disagreement About the Solution
 
-### Confusion about the Level of Disagreement
+**“What should we change to?”**
 
-A more difficult-to-spot type of confusion can arise when people are unclear about the level of disagreement they are addressing. This misalignment can be particularly problematic in IT architecture and software engineering, where project complexity often involves multiple layers of decision-making. 
+Even when teams agree on the problem, they may have differing opinions on the best way to resolve it due to varying experiences, biases, or risk tolerances.
 
-People may think they are discussing and disagreeing on one aspect of a project—such as the implementation—when their disagreement stems from a deeper issue, such as not being aligned on the problem itself. This understanding can lead to more productive discussions, efficient use of effort, and decisions that effectively address the core issues.
+**Example:**
+After agreeing that the database is the bottleneck:
 
-#### Example 1: Misalignment on the Problem vs. Implementation
+* DBAs want a **server upgrade**.
+* Developers suggest **query optimization**.
+* Frontend developers see this as an opportunity to **rebuild the UI layer**.
+* Operations propose **horizontal scaling**.
 
-Imagine a software development team optimizing a web application's performance. The team starts debating how to implement changes—whether to refactor code, adjust server configurations, or optimize the database. However, underlying this discussion is a fundamental misalignment: they disagree on the problem. Some team members believe the issue is with the application code, while others think it's the database or the server infrastructure, and third think the problem is poor UX design.
+These competing solutions often vie for attention (and budget), delaying progress and sometimes introducing **new issues**.
 
-As they discuss implementation strategies, they may argue whether to prioritize refactoring code or upgrading hardware, going into a heated debate about low-level technology choices and versions of the libraries they plan to use. But this debate is fruitless because they haven't first aligned on the problem. The result is that they might implement a solution that doesn't effectively address the real issue, or they might go in circles without reaching a consensus, leading to delays and frustration.
+### 3. Disagreement About the Implementation
 
-#### Example 2: Misalignment on the Solution vs. Problem
+**“How do we make the change happen?”**
 
-Consider a scenario where an IT department is trying to improve the security of its systems. The team is debating whether to implement a new firewall or upgrade its encryption protocols. They might think they disagree on the solution—firewall vs. encryption—but the real issue is that they haven't agreed on the specific security problem they are trying to solve. 
+Even with consensus on the problem and solution, the “how” can be just as contentious—especially across departments with different timelines, KPIs, or constraints.
 
-Some team members might be focused on external threats, while others are more concerned about internal data breaches. Because they are not aligned on the problem, their discussion about the solution is confused. One group pushes for a solution that addresses external threats, while another advocates for measures that protect against internal risks. Without recognizing this misalignment, the team risks implementing a solution that only partially addresses the organization's security needs.
+**Example:**
+Everyone agrees to optimize database queries.
 
-### Superglue Role in Resolving Disagreements
+* Developers want to **rewrite everything in one sprint**.
+* Operations prefers a **phased rollout**.
+* QA raises concerns about **test coverage**.
+* Leadership wants to see results within **two weeks**.
 
-As connective tissue, the superglue architect can help resolve disagreements with effective communication, clear documentation, and a collaborative approach to the problem:
+If unresolved, these differences can **stall delivery**, introduce risk, or create friction that undermines the initiative.
 
-1. **Clearly Identify and Agree on the Problem**: Before discussing solutions or implementation, ensure that everyone has a shared understanding of the problem.
+### The Most Dangerous Misalignment: **Talking at the Wrong Level**
 
-2. **Differentiate Between Problem, Solution, and Implementation**: Facilitate team members to recognize and articulate their discussion level. This differentiation helps prevent confusion and keeps discussions productive.
+Often, people believe they’re disagreeing about a solution, but they may not even be aligned on the problem.
 
-3. **Facilitate Clear Communication**: Use structured methods like root cause analysis or problem statements to align everyone on the problem before discussing potential solutions and implementations.
+This miscommunication leads to endless debates, with teams discussing different issues under the same heading.
 
-4. **Seeing Multiple Dimensions:** As [Gregor Hophe elaborated nicely](https://architectelevator.com/architecture/multiple-dimensions/), when architects encounter stalemate situations, they may try to find a new model to demonstrate that everyone is simply looking at the same thing from different perspectives.
+#### **Example 1: Mistaking a Problem for an Implementation Debate**
 
-By being aware of the potential for confusion and actively working to clarify the level of disagreement, teams ican make more informed decisions, implement effective solutions, and, ultimately, improve project outcomes.
+A development team argues over how to fix slow performance:
+
+* One side wants code refactoring.
+* Another wants new servers.
+* A third suggests frontend optimization.
+
+However, no one agrees on *what’s actually causing* the slowness. They're **debating implementation without a shared understanding of the root issue**—similar to arguing over medication before diagnosing the disease.
+
+#### **Example 2: Debating Solutions Without Clarifying the Problem**
+
+A security team is divided:
+
+* One group wants a new firewall.
+* Another prefers better encryption.
+
+The conflict appears to be solution-based. However, one group is focused on **external threats**, while the other is concerned about **internal breaches**. They aren’t aligned on **what risk they’re trying to mitigate**, so the solution conversation goes nowhere.
+
+### The Role of a Superglue Architect
+
+Superglue architects play a vital role in helping teams navigate discussions, ensuring clarity and alignment. Here’s how they do it:
+
+#### 1. **Clarify the Problem First**
+
+Architects begin by ensuring that the team explicitly states and agrees on the problem at hand. Tools such as root cause analysis, problem statements, or system maps can be useful in this process.
+
+#### 2. **Separate Problem, Solution, and Implementation**
+
+Architects assist teams by identifying the level of discussion they are engaged in. Are they discussing what’s wrong, what should be done, or how to implement it? Recognizing this distinction often helps to reduce conflict.
+
+#### 3. **Facilitate Neutral Communication**
+
+To foster understanding, architects utilize visuals, models, and structured dialogue. They also help translate jargon or technical nuances across different team members.
+
+#### 4. **Introduce Multiple Perspectives**
+
+As Gregor Hohpe points out, effective architects help others understand that what may seem like disagreement is often just **different perspectives on the same system**. Sometimes, introducing a new perspective or model can transform conflict into valuable insight.
+
+By keeping conversations focused and grounded, architects prevent teams from becoming stagnant. They promote alignment, highlight the real issues, and ensure that the team's energy is directed toward **addressing the right problems in the right way**.
 
 ## Superglueing in Action #3: Navigating Organizational Conflicts
 
-Conflicts in organizations are inevitable, particularly in complex environments where different teams, priorities, and personalities intersect. IT architects often find themselves in the middle of these tensions, acting as facilitators who help bridge gaps between stakeholders. 
+In complex organizations, **conflict is not a sign of failure—it’s a sign of interdependence**. When multiple teams, priorities, and personalities come together, disagreements are inevitable. What truly matters is how these conflicts are **understood, navigated, and resolved**.
 
-![](assets/images/figures/conflict-sources.png)
-***Figure 5:** Three common sources of workplace conflict: different agendas, different perceptions, and different personal styles.*
+IT architects, positioned at the intersection of business and technology, often find themselves in the midst of such tensions. However, rather than acting as referees, great architects serve as **facilitators—guiding teams toward clarity, collaboration, and shared purpose**.
 
-Jeff Weiss, a conflict management expert, identifies three common sources of workplace conflict (Figure 5): different agendas, different perceptions, and different personal styles. Understanding these sources can help architects navigate disagreements more effectively.
+![Sources of Conflict](assets/images/figures/conflict-sources.png)
+***Figure 5:** Common sources of workplace conflict include different agendas, diverse perceptions, and contrasting personal styles.*
 
-### Managing Conflicts Arising from Different Agendas  
-Teams within an organization often pursue different yet valid goals. For example, a product team may prioritize new features to gain market advantage, while an engineering team may push for reducing technical debt to improve long-term stability. These conflicting priorities can lead to friction, especially if discussions become a zero-sum game where one team’s success is perceived as another’s loss.  
+According to conflict management expert **Jeff Weiss**, workplace conflict often arises from three key sources:
 
-Architects can facilitate discussions that uncover the underlying motivations behind each agenda. For instance, rather than debating whether to prioritize feature delivery or technical refactoring, an architect might propose a phased approach—introducing foundational improvements alongside incremental feature releases. By framing decisions regarding business outcomes, architects can help teams find common ground rather than focusing on competing interests.  
+1. **Conflicting agendas**
+2. **Divergent perceptions**
+3. **Contrasting personal styles**
 
-### Addressing Conflicts Driven by Different Perceptions
-Sometimes, conflicts emerge not from fundamental disagreements but from different interpretations of the same situation. A classic example is when a business leader walks away from a meeting, assuming a project will be delivered in three months, while engineers believe they agreed only to an exploratory phase.  
+Understanding these root causes enables architects to reduce friction, build trust, and maintain alignment across diverse groups.
 
-To reduce such misunderstandings, architects can improve clarity and alignment. This improvement might involve summarizing key decisions and next steps in a shared document, using structured frameworks like architecture decision records (ADRs) or visual roadmaps. Additionally, they can encourage discussions where each party explains their perspective, helping to surface implicit assumptions before they lead to misalignment. [Architecture analytics](#analytics) can further help understand the different perspectives and align them by providing data.
+### 1. Managing Conflicts from **Conflicting Agendas**
 
-### Navigating Conflicts Stemming from Different Personal Styles
-Organizational conflicts are not always about goals or facts—sometimes, they stem from differences in how individuals prefer to work. Some professionals thrive in structured environments with strict deadlines, while others prefer flexibility and iterative decision-making. These different styles can lead to friction, particularly in cross-functional teams.  
+Every team has its own set of priorities—and they are often all valid:
 
-Architects can help by recognizing and adapting to these differences. For example, suppose a detail-oriented technical leader struggles to align with a high-level strategist. In that case, an architect might act as a bridge—translating broad strategic goals into actionable technical plans. Architects can foster understanding when team members have clashing communication styles by facilitating discussions that help each side appreciate the other’s approach.  
+* **Product** wants new features to stay competitive.
+* **Engineering** aims to reduce technical debt for long-term stability.
+* **Operations** focuses on reliability and cost-efficiency.
 
-### Superglue Architects as Conflict Resolvers Catalysts
+These goals aren’t inherently in conflict, but without coordination, they can create a tug-of-war.
 
-IT architects are not necessarily conflict resolvers, but they often find themselves uniquely positioned to help navigate organizational tensions. Understanding the common sources of conflict—different agendas, perceptions, and styles—can facilitate productive conversations, improve clarity, and help teams work together more effectively. Whether through structured decision-making, improved documentation, or adaptive communication, architects have many ways to resolve conflicts while ensuring alignment between technology and business objectives. Tools such as the [culture map](#culture-map) can provide useful insights into the different personal styles and preferences within a team, helping architects tailor their approach to each individual.
+**Architect’s Role:**
+Architects help **reframe the discussion from "either/or" to "yes/and."** For example, they might propose a **phased roadmap** that delivers incremental features while also addressing critical technical debt. By focusing conversations on **shared business outcomes** rather than territorial disputes, architects uncover compromises that advance multiple priorities simultaneously.
 
-## Superglue Impact: Keeping Everyone in the Same Boat, Upon a Stormy Sea
+### 2. Addressing Conflicts from **Divergent Perceptions**
 
-While architects stay close to the technology, they must ensure it works for the business and customers, not the other way around. By keeping everyone **in the loop** and **aligned,** architects help clear the many **pitfalls of misalignment** and keep the organizational machine running smoothly. Their role is to facilitate communication, ensure alignment, and guide the organization toward cohesive and practical solutions, preventing the myriad risks associated with misalignment.
+Misalignment often arises not from opposing goals, but from **different interpretations** of the same conversation.
 
-![](assets/images/istock/iStock-483590421.jpg)
+**Example:**
+A business leader leaves a meeting thinking the team committed to delivering a product in three months, while the engineers believe they only agreed to an exploratory phase.
+
+**Architect’s Role:**
+Architects act as **alignment facilitators**, ensuring that expectations are clearly articulated and agreed upon. They might:
+
+* Create **shared documentation** (e.g., Architecture Decision Records, meeting summaries)
+* Use **visual artifacts** like roadmaps or architecture diagrams
+* Confirm understanding by **summarizing key decisions** at the end of meetings
+
+They also encourage teams to **surface and test assumptions early**, preventing costly misinterpretations later on. Tools like [architecture analytics](#analytics) can help reveal different views and help unify them through data.
+
+### 3. Navigating Conflicts from **Contrasting Personal Styles**
+
+Not all conflict is about content; sometimes it’s about **how** people prefer to work.
+
+* One person thrives in a **structured, deadline-driven** environment.
+* Another prefers **flexibility and emergent decision-making**.
+* A strategist may speak in broad visions, while an engineer focuses on details.
+
+These mismatches can create friction even when the goals are aligned.
+
+**Architect’s Role:**
+Architects often serve as **translators between styles**. They might:
+
+* Translate **high-level strategy** into **concrete technical plans**
+* Facilitate communication between **big-picture thinkers** and **detail-oriented implementers**
+* Moderate meetings to ensure all voices are heard, including those with differing communication preferences
+
+Tools like the [culture map](#culture-map) can help architects understand and adapt to individual and team working styles.
+
+## Superglue Architects as Catalysts for Constructive Conflict
+
+Architects don’t need to act as conflict mediators, but they are uniquely positioned to:
+
+* **Recognize when tensions are emerging**
+* **Diagnose their underlying causes**
+* **Create space for resolution that benefits the broader organization**
+
+By applying structured decision-making, clarifying communication, and honoring diverse work styles, superglue architects transform conflict from a source of friction into a **catalyst for alignment and progress**.
+
+Their ability to work across agendas, perceptions, and personalities helps teams **navigate disagreement without losing direction**—and builds trust in the architect’s quiet but powerful role as the organization’s connective tissue.## Superglueing in Action #3: Navigating Organizational Conflicts
+
+In complex organizations, **conflict is not a sign of failure—it’s a sign of interdependence**. When multiple teams, priorities, and personalities converge, disagreements are inevitable. What matters is how these conflicts are **understood, navigated, and resolved**.
+
+IT architects, sitting at the intersection of business and technology, often find themselves in the middle of such tensions. But rather than acting as referees, great architects serve as **facilitators—guiding teams toward clarity, collaboration, and shared purpose**.
+
+## Final Thoughts on Superglue Impact: Keeping Everyone on the Same Page in a Stormy Sea
+
+In fast-paced and turbulent organizations, **misalignment is not just a communication issue—it’s a business risk**. Architects, especially those who adopt a “superglue” mindset, play a critical role in guiding organizations through complexity. They help teams stay **in sync**, ensure that **technology is aligned with real business needs**, and maintain **strategic cohesion among diverse stakeholders**.
+
+Architects must remain closely connected to technology—not for its own sake, but to ensure it serves the **business, customers, and product vision**. They act as interpreters, facilitators, and connectors, **keeping everyone on the same page** and rowing in the same direction, even during organizational storms.
+
+![Stormy Sea](assets/images/istock/iStock-483590421.jpg)
 ^image by mbbirdy from istock^
 
-Misalignment between these elements can introduce several **key risks,** which superglue architects need to be aware of and can mitigate:
+When alignment breaks down, serious risks emerge. Here are some pitfalls that superglue architects are uniquely positioned to **prevent or correct**:
 
-- **Building the Wrong Products:** If technology implementation is based on incorrect assumptions, you might create a product that doesn't meet the actual people needs. Misalignment can lead to producing irrelevant solutions, like trying to sell snow boots in the Sahara.
+### **Building the Wrong Products**
 
-- **Wrong Prioritization of Activities:** Without clear business and product metrics, resources might be directed towards developing "interesting" but non-valuable products. Proper alignment ensures development efforts are focused on initiatives that add real value, not on quirky side projects.
+When technical teams operate on **false assumptions**, they may end up creating products that nobody needs—like making snow boots for the Sahara. Architects ensure that teams stay focused on **real user needs and business priorities**, rather than getting lost in internal enthusiasm.
 
-- **Unexpected Delivery Delays:** Misalignment can lead to underestimating projects' complexity, effort, and dependencies, causing significant delays. This misalignment can make a project feel perpetually stuck, like being in a time loop where unforeseen obstacles continuously hinder progress.
+### **Misaligned Prioritization**
 
-- **Duplication of Effort:** Without harmonization across business and product strategies, efforts may be duplicated, leading to inefficiencies. This duplication is akin to repeatedly reinventing the wheel, which is wasteful and counterproductive.
+Without shared metrics and clear direction, teams may waste time on interesting but low-value projects. Architects help by linking initiatives to **measurable outcomes**, allowing teams to prioritize efforts that genuinely drive results.
 
-- **Building Too Complex Products:** Overly complex and configurable systems can be developed to address all possible scenarios, resulting in cumbersome solutions where simpler, more harmonized approaches would suffice. This complexity is like using a Swiss Army knife when only a spoon is needed—overkill and overly complicated.
+### **Unexpected Delivery Delays**
 
-- **Overengineering:** Without pushback to simplify products and a lack of understanding of the technology, overengineering can occur. Imagine using a monster truck for a grocery run—impressive, but entirely unnecessary. 
+Misunderstood complexities and hidden dependencies can cause projects to stall. Architects help identify **unknowns early**, align stakeholders on realistic timelines, and minimize costly surprises.
 
-- **Building Too Simple, Unscalable Products:** Assuming processes will be simple when, in reality, essential complexity needs to be supported, can lead to fragile and rigid systems. 
+### **Duplication of Effort**
 
-- **Building Low-Quality Products:** Unnecessary complexity and lack of critical knowledge and expertise can lead to low-quality products that fail under pressure, like a dollar-store umbrella in a hurricane. Ensuring quality requires aligning expertise and simplifying designs where possible.
+In uncoordinated environments, teams often end up replicating the same functionality across different silos. Architects mitigate this by fostering **shared architectural awareness and system reuse**, which increases efficiency and reduces waste.
 
-- **Complicated Dependencies Between Teams:** Suboptimal organizational design and lack of awareness of system and team dependencies can slow down coordination, creating a bureaucratic nightmare. Efficient team structures and clear communication channels are crucial to maintaining momentum.
+### **Unnecessary Complexity**
 
-- **Creating Fragile, Unsustainable Team Structures:** Relying on a small number of developers for critical technologies can make teams extremely vulnerable. Building resilient team structures with adequate support and redundancy is essential.
+Sometimes systems are overengineered to accommodate every possible use case—like using a Swiss Army knife when a simple spoon would suffice. Architects guide teams to **focus on what is essential**, creating solutions that are appropriately sized and sustainable.
+
+### **Overengineering**
+
+Without proper oversight, teams may develop technically impressive yet overly elaborate systems. Imagine using a monster truck for grocery shopping—flashy, but excessive. Architects advocate for **simplicity that maintains purpose**.
+
+### **Underengineering for Reality**
+
+Conversely, underestimating complexity can lead to fragile and unscalable systems. Architects recognize when **essential complexity must be embraced** and guide teams to build resilience without unnecessary complications.
+
+### **Low-Quality Products**
+
+When complexity is mishandled or expertise is lacking, the result is brittle and unreliable systems. Like a dollar-store umbrella in a hurricane, these solutions fail under pressure. Architects emphasize quality by **promoting simplicity, clarity, and technical robustness**.
+
+### **Complicated Dependencies Between Teams**
+
+Poor design of teams and systems can lead to tangled coordination and bureaucratic bottlenecks. Architects assist in creating **modular architectures and organizational structures** that promote autonomy and speed.
+
+### **Fragile, Unsustainable Team Structures**
+
+Relying on a few specialists for critical systems poses significant risks. If key personnel leave, progress can grind to a halt. Architects encourage **resilience through redundancy**, mentorship, and strategic team design.
+
+### The Real Impact of Superglue Architects
+
+Architects don’t need to be vocal to make a significant impact. Their effectiveness is often reflected in what *doesn’t* happen:
+
+* No more “surprise” delays
+* Fewer reworks or redundant systems
+* Less friction between departments
+* Greater confidence in delivery
+
+They are the quiet force that keeps strategy, technology, and execution **interconnected through strong communication and shared purpose**. Amid shifting priorities and organizational change, **they keep the boat afloat and everyone heading in the same direction**.
 
 ## To Probe Further
 
