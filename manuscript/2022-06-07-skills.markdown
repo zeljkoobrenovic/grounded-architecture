@@ -13,8 +13,8 @@ A> **KEY POINTS:**
 A> * An architect's typical skillset includes hard (technical) skills, soft (people & social) skills, product development, business skills, and decision-making skills.
 A> * Hard (technical) skills are essential for designing, implementing, and maintaining an organization's technology landscape.
 A> * Soft skills are integral to social architecture, enabling individuals to navigate and contribute to these social systems effectively.
-* Product development knowledge is the bridge that helps architects align technical solutions with customer needs and business objectives.
-* Business domain knowledge is not just useful but essential for architects to create solutions that deliver real value.
+A> * Product development knowledge is the bridge that helps architects align technical solutions with customer needs and business objectives.
+A> * Business domain knowledge is not just useful but essential for architects to create solutions that deliver real value.
 A> * Decision-making skills ensure that architectural decisions are sound, sustainable, and aligned with long-term strategic objectives.
 
 Simply knowing things isn't enough. With just an internet connection, you can find information easily. What really counts is knowing **how to apply that knowledge** when faced with challenges—when requirements conflict, teams disagree, and ambitions clash with constraints. This is where architects step in (Figure 1). 
