@@ -12,7 +12,7 @@
 A> **KEY POINTS:**
 A> * The Operating Model is a core part of the Grounded Architecture framework, guiding how architecture functions within an organization through principles, governance, and practices.
 A> * It is designed to evolve with the organization while ensuring architectural activities remain aligned with business objectives.
-A> * We introduce four main areas of the operating model: General Principles, Governance (Nudge, Taxation, Mandates), Transformation Support (in support of Grounded Architecture Goals), and Generative AI.
+A> * We introduce four main areas of the operating model: General Principles, Governance (Nudges, Taxation, Mandates), Transformation Support (in support of Grounded Architecture Goals), and Generative AI.
 A> * The model’s success depends on robust data (Lightweight Architectural Analytics) and strong collaboration (Collaborative Networks), not just processes and structure.
 
 In this section, we will explore the **Operating Model**, a crucial element of the Grounded Architecture framework (see Figure 1). The Operating Model offers a **structured approach** to how an architecture practice operates within an organization. It outlines the **principles, governance structures, and operational practices** that guide architects in their daily tasks.
@@ -27,7 +27,7 @@ The Operating Model comprises four main areas:
 * **[General Principles](#operating-model)**  
   A set of guiding values and actionable principles to help architects operate effectively. These principles highlight the importance of utilizing data and networks to create meaningful, measurable impact across the organization.
 
-* **[Nudge, Taxation, Mandates – Governance](#governance)**  
+* **[Governance Principles: Nudges, Taxation, Mandates](#governance)**  
   A balanced approach to IT governance, blending three styles:
 
   * **Nudging**: Subtle guidance through defaults and visibility

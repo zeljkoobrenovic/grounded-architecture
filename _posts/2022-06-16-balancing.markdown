@@ -1,7 +1,7 @@
 ---
 layout: post
 section: "On Being Architect"
-title: "Balancing Curiosity, Doubt, Vision, and Skepticism"
+title: "Balancing Curiosity, Doubt, Vision, and Skepticism in IT Architecture"
 position: 6016
 podcast: balancing.mp3
 spotify: https://open.spotify.com/episode/1VY8J9LhSPjQvbHCkN2y7I?si=sEFc9RHLSt6ObyxW8CnbgA
