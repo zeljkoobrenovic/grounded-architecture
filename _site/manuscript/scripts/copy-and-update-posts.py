@@ -103,7 +103,6 @@ def copy_post(post, counter):
 
 
 posts = [
-    '2021-01-01-podcast.markdown',
     '2022-01-01-intro.markdown',
     '2022-01-02-context.markdown',
     '2022-01-03-requirements.markdown',
@@ -121,11 +120,11 @@ posts = [
     '2022-06-07-skills.markdown',
     '2022-06-10-impact.markdown',
     '2022-06-12-leadership.markdown',
-    '2022-06-13-leading-with-language.markdown',
     '2022-06-16-balancing.markdown',
     '2022-07-01-human-complexity.md',
     '2022-07-03-culture-map.md',
     '2022-07-07-six-simple-rules.md',
+    '2022-07-09-leading-with-language.markdown',
     '2022-07-13-human-decisions.md',
     '2022-07-19-effortless.md',
     '2022-08-01-strategy.markdown',
