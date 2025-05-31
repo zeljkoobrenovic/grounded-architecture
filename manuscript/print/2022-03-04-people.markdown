@@ -32,44 +32,7 @@ And strong architects don’t work alone.
 
 Architecture isn’t just a function—it’s a **networked capability**. That’s why the second pillar of Grounded Architecture focuses on people: **Collaborative Networks**. 
 
-In my recent experiences, I worked with two interconnected layers of architectural talent:
-
-### Central Architecture Team
-
-Think of this team as the **guides and stewards** of the overall practice. This small group provides:
-
-* Strategic direction
-* Methodological support
-* Curated data and tools
-* Mentorship for others in architecture-related roles
-
-They maintain the big-picture view, uphold architectural quality, and **support—not control—the rest of the organization**.
-
-### Distributed Virtual Architecture Team
-
-This is the **real engine of change**.
-
-These are tech leads, senior engineers, and domain experts embedded within teams across the organization. They're **on the ground**, addressing local problems while remaining connected across various domains. They:
-
-* Raise transparency
-* Connect across silos
-* Act as change agents
-* Scale architectural thinking through influence rather than hierarchy
-
-### Why You Need Both
-
-By combining the clarity and support of a central team with the scale and diversity of a distributed team, you cultivate an architectural capability that is:
-
-* **Resilient** (not dependent on one team or person)
-* **Scalable** (capable of reaching hundreds of teams)
-* **Grounded** in everyday realities
-* **Connected** across strategic and technical layers
-
-This is what I mean by a **Collaborative Network**—a structure that empowers architects to be both local and global, strategic and hands-on, leaders and listeners.
-
-It transforms individual expertise into **organizational capability**.
-
-## Background: Centralized vs. Federated Architecture Practice
+## Centralized vs. Federated Architecture Practice
 
 Most IT architecture practices follow one of two foundational models: **centralized** or **federated**. These models define how architectural responsibilities are distributed, how decisions are made, and how architects collaborate with delivery teams (see Figure 2, adapted from [McKinsey, 2022]).
 
