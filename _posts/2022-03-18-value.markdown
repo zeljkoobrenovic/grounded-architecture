@@ -42,7 +42,7 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/greml
 </style>
 
 <br>
-When a **Grounded Architecture** framework is effectively implemented, it can transform an organization's operations, especially in complex and fast-paced environments. The positive impact of this framework aligns closely with our defined goals, which include:
+When a **Grounded Architecture** framework is effectively implemented, it can transform an organization's operations, especially in complex and fast-paced environments. The positive impact of this framework aligns closely with our [defined goals](goals), which include:
 
 * Enabling the execution of architecture practices at scale
 * Increasing the adaptability of architecture practices
