@@ -14,7 +14,11 @@ A> * Decision-making is a human activity subject to human biases and limitations
 A> * Fundamental biases influencing decision-making include outcome, hindsight, and confirmation biases.
 A> * Human intuition plays a vital role in decision-making.
 
-[Cassie Kozyrkov](https://en.wikipedia.org/wiki/Cassie_Kozyrkov), in her [posts](https://www.linkedin.com/pulse/introduction-decision-intelligence-cassie-kozyrkov/) and [online lessons](https://www.linkedin.com/learning/decision-intelligence/) about design intelligence, often reminds us that decision-making is a uniquely human sport. It's a wild mix of brilliance, bias, and blunders. IT architects need to remember that every decision is flavored by the quirks and quibbles of the human mind.
+[Cassie Kozyrkov](https://en.wikipedia.org/wiki/Cassie_Kozyrkov), in her [LinkedIn posts](https://www.linkedin.com/pulse/introduction-decision-intelligence-cassie-kozyrkov/) and [online courses](https://www.linkedin.com/learning/decision-intelligence/), emphasizes that **decision-making** is a uniquely human endeavor—a complex blend of brilliance, bias, and occasional mistakes. This insight is particularly important for IT architects to remember. Regardless of how structured our frameworks are or how robust our data may be, **every architectural decision is ultimately shaped by human judgment**, which carries both strengths and imperfections.
+
+We make decisions every day, from choosing what to have for breakfast to selecting the best technology stack for a new project. Despite our best intentions, even the most thoughtful individuals and experienced teams are susceptible to **biases and human limitations** that can unintentionally lead to poor decisions. Biases such as **outcome bias**, **hindsight bias**, and **confirmation bias** can mislead us into thinking we are making rational choices when we are not. Additionally, factors like **indecisiveness**, **emotional influences**, and **intuition**—both helpful and harmful—play significant roles in our decision-making processes. In the fast-paced world of IT, it is crucial to understand these biases and limitations, how they manifest, and how we can manage them. This chapter examines common biases and human limitations in IT decision-making, offers real-world scenarios, and provides practical advice to enhance decision-making effectiveness.
+
+Architects must navigate not only technical trade-offs but also the **psychological quirks**, **cognitive biases**, and **organizational politics** that influence decision-making. Designing effective systems means considering human nature in both the design process and the end user experience.
 
 ## Understanding Human Biases and Limitations
 
@@ -397,6 +401,12 @@ Group decision-making dynamics in IT can take various forms, including consensus
 **Influence**: Structured conflict resolution ensures that all voices are heard and helps the team make a well-considered decision. Combining the strengths of different viewpoints can enhance mutual understanding and lead to better decisions.
 
 Each method has its advantages and can be suitable for different decisions. Understanding these group dynamics can help teams navigate complex choices more effectively, leading to better outcomes and stronger team cohesion. 
+
+## Final Thoughts
+
+Navigating the complex landscape of human biases and decision-making limitations is an ongoing journey rather than a one-time task. Outcome bias can lead us to mistakenly **attribute success to skill instead of luck**, while hindsight bias may convince us that past decisions were obviously flawed. Additionally, confirmation bias can **blind us to important evidence**. Indecision and excessive reliance on intuition can stall our progress or lead us down the wrong path.
+
+To reduce the negative impact of these biases, it is helpful to **actively document our decision-making processes**, encourage open discussions, and welcome diverse perspectives. Group decision-making can help mitigate individual biases, but it requires **intentional structure** to be effective. By adopting a balanced approach—one that values intuition informed by experience while rigorously checking against objective data and alternative viewpoints—we can empower teams to make consistently better decisions. Ultimately, this appraoch leads to more successful outcomes and sustainable growth.
 
 ## Questions to Consider
 
