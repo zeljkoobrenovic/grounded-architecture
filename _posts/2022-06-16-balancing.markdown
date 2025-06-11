@@ -105,7 +105,7 @@ According to insights from [ThoughtWorks](https://www.thoughtworks.com/en-ec/ins
 
 ### The Double-Edged Nature of Curiosity
 
-Now, while curiosity is a fantastic driver of progress, it can also lead teams astray if it’s not kept in check. If we dive headfirst into emerging technologies without a critical eye, we might end up with **naive solutions**, **overcomplicated systems**, or **unnecessary technical debt**. 
+While curiosity is a fantastic driver of progress, it can also lead teams astray if it’s not kept in check. If we dive headfirst into emerging technologies without a critical eye, we might end up with **naive solutions**, **overcomplicated systems**, or **unnecessary technical debt**. 
 
 To strike the right balance, curiosity needs a counterweight—like doubt, skepticism, and a long-term vision—so we don’t end up chasing novelty for the sake of novelty.
 
@@ -351,7 +351,7 @@ In high-performing teams, these motivators work hand in hand:
 * **Vision** keeps us focused on a clear direction and purpose.
 * **Skepticism** makes sure we stay grounded in reality.
 
-Now, if we lean too heavily on any one of these forces, we might find ourselves off-balance. For example, too much curiosity can lead to uncritical innovation, while too much skepticism might result in stagnation. The key? When we use all four motivators together, we make decisions that are **bold yet cautious, strategic yet adaptable, and ambitious yet realistic.**
+If we lean too heavily on any one of these forces, we might find ourselves off-balance. For example, too much curiosity can lead to uncritical innovation, while too much skepticism might result in stagnation. The key? When we use all four motivators together, we make decisions that are **bold yet cautious, strategic yet adaptable, and ambitious yet realistic.**
 
 ### Cultivating Balance Through Questions
 

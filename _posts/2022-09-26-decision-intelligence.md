@@ -63,7 +63,7 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/sasun
 "Excessive complexity is nature's punishment for organizations that are unable to make decisions." -Gregor Hohpe
 </div>
 
-Now, in this chapter, I want to share some golden nuggets I've gleaned from her teachings and how I've used
+In this chapter, I want to share some golden nuggets I've gleaned from her teachings and how I've used
 them in the wild world of IT. IT architects, like decision-making ninjas, face critical choices every day. Here's how
 they flex their decision intelligence:
 
