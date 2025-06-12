@@ -62,6 +62,12 @@ The **superglue metaphor** emphasizes the role of architects as the **binding fo
 
 [Tanya Reilly](https://noidea.dog/glue) builds on this concept in her discussions about "glue work"—the invisible but vital contributions that ensure collaboration, coherence, and continuity. Similarly, [Gregor Hohpe](https://architectelevator.com/) describes modern architects as those who navigate the **"Architect Elevator,"** seamlessly moving between the **penthouse** (where business strategy is defined) and the **engine room** (where technical implementation occurs). Superglue architects thrive in this in-between space, adding value by ensuring alignment across different organizational levels.
 
+<img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
+     src="assets/images/istock/iStock-170619127.jpg">
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/kate_sept2004">Weekend Images Inc.</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
+</div>
+
 ### The Role of a Superglue Architect
 
 Superglue architects take on more than just writing technical specifications or selecting the right cloud solutions. They play a **connective role** across four key areas:
@@ -145,6 +151,7 @@ Superglue architects don’t just connect systems—they **connect vision with e
 In many IT organizations, tensions often arise between key areas: **technology, product, organizational structure, and business strategy**. These areas tend to evolve at different speeds and often have conflicting priorities. Without proper alignment, the result can be poor decisions, increased complexity, stalled initiatives, and missed opportunities.
 
 This is where **superglue architects** come in. They don’t create more bureaucracy or control; instead, they **foster alignment and build bridges** across functions. Their goal is to bring these areas closer together, creating a more cohesive, responsive, and adaptive organization.
+
 
 ![Architect alignment](assets/images/istock/iStock-881068124.jpg)
 

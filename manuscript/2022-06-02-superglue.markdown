@@ -25,6 +25,9 @@ The **superglue metaphor** emphasizes the role of architects as the **binding fo
 
 [Tanya Reilly](https://noidea.dog/glue) builds on this concept in her discussions about "glue work"—the invisible but vital contributions that ensure collaboration, coherence, and continuity. Similarly, [Gregor Hohpe](https://architectelevator.com/) describes modern architects as those who navigate the **"Architect Elevator,"** seamlessly moving between the **penthouse** (where business strategy is defined) and the **engine room** (where technical implementation occurs). Superglue architects thrive in this in-between space, adding value by ensuring alignment across different organizational levels.
 
+![](assets/images/istock/iStock-170619127.jpg)
+^image by weekend images inc. from istock^
+
 ### The Role of a Superglue Architect
 
 Superglue architects take on more than just writing technical specifications or selecting the right cloud solutions. They play a **connective role** across four key areas:
