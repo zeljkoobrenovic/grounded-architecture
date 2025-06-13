@@ -16,7 +16,7 @@ A> * Greg McKeown's book offers invaluable insights that are particularly releva
 
 In his book *[Effortless: Make It Easier to Do What Matters Most](https://gregmckeown.com/books/effortless/)*, Greg McKeown shakes up the idea that hard work has to be grueling to be worthwhile. He suggests that instead of pushing ourselves to the limit, we should embrace a more laid-back approach—he calls it **thoughtful ease**—by eliminating the needless obstacles in our day-to-day work. He promotes this "effortless state" where we can enjoy clarity, focus, and sustainability in what we do.
 
-This perspective is super relevant for folks in IT, like architects and software engineers. In the tech world, we often deal with complexity, and McKeown's focus on making things easier can help cut through that.
+This perspective is relevant for folks in IT, like architects and software engineers. In the tech world, we often deal with complexity, and McKeown's focus on making things easier can help cut through that.
 
 Here are some key takeaways:
 
@@ -37,9 +37,9 @@ By figuring out what's **essential** and what's just **extra noise**, IT archite
 
 One of the key roles of architects in tech is to remind us that **our designs, products, and organizational structures don't always have to be overly complex**. A great example of this comes from Pragmatic Dave Thomas. I heard him share this story on the [SE-Radio podcast with Neal Ford](URL_1) around the 32-minute mark. A company was struggling with its mail system, as posts were not reaching the intended departments. Instead of diving into a complex optical character recognition (OCR) system for routing, Dave suggested something much simpler: use colored envelopes! This straightforward solution saved the company a significant amount of money and time without requiring a substantial investment in complex software.
 
-This idea of simplicity resonates with the insights from Greg McKeown's book, where he lays out well-known practices within a framework focused on effortlessness. Here's why I think this approach can help change the game for IT architects and software engineers:
+This idea of simplicity resonates with the insights from Greg McKeown's book, where he lays out well-known practices within a framework focused on effortlessness. Here's why I think this approach can help IT architects and software engineers:
 
-* **Simplifying tasks** and processes is essential in our tech-driven world, which often leans towards complexity. By adopting effortless principles that align with solid system design practices—such as modular design and clean code—we can break down complex systems into more manageable components. This measure not only enhances efficiency but also keeps our code maintainable and focused on what truly matters.
+* **Simplifying tasks** and processes is essential in our tech-driven world, which often leans towards complexity. By adopting the mindset of effortless principles that align with solid system design practices—such as modular design and clean code—we can break down complex systems into more manageable components. This measure not only enhances efficiency but also keeps our code maintainable and focused on what truly matters.
 
 * Another big takeaway from McKeown's book is the importance of **prioritization**. In the fast-paced world of IT, being able to prioritize tasks effectively can make a world of difference. It helps us focus on what's truly important, leading to better project outcomes and more effective resource management. It's all about aligning our development efforts with the bigger business goals.
 
@@ -388,7 +388,7 @@ Automating essential tasks can really help **clear up some mental space**, allow
 
 For IT and software engineering professionals, automating routine tasks and using checklists can streamline workflows, reduce errors, and free up mental capacity for more important activities. This approach can lead to enhanced efficiency, consistency, and overall productivity.
 
-Here are some examples that IT architects can draw inspiration from to help their organizations automate processes:
+Software engineering practices have advanced the level of automation, but it's always useful to remind ourselves of the basics and the value of automation. Here are some examples that IT architects can draw inspiration from to help their organizations automate processes:
 
 * **Automating Code Quality Checks:**  
 Checking code quality through manual reviews can take up a lot of time and might not always be reliable. A better way is to incorporate high-tech automation by integrating tools like SonarQube or ESLint into your CI/CD pipeline. You can set these tools to run automated checks with every commit, giving you immediate feedback on any code quality issues. This results in consistent code quality checks that help elevate overall standards and minimize the necessity for manual reviews.

@@ -22,7 +22,7 @@ A> * Group decision-making offers significant advantages but increases complexit
 
 **Decision intelligence** is a discipline concerned with selecting between options. It combines the best of **applied data science**, **social science**, and **managerial science** into a unified field that helps people use data to improve their lives, businesses, and the world around them. **[Cassie Kozyrkov](https://en.wikipedia.org/wiki/Cassie_Kozyrkov)** has popularized the field of decision intelligence and created several valuable resources to understand the decision-making process. I recommended her [posts](https://www.linkedin.com/pulse/introduction-decision-intelligence-cassie-kozyrkov/) and [online lessons](https://www.linkedin.com/learning/decision-intelligence/) to all architects because decision-making is an essential part of IT architects' job. 
 
-Now, in this chapter, I want to share some golden nuggets I've gleaned from her teachings and how I've used
+In this chapter, I want to share some golden nuggets I've gleaned from her teachings and how I've used
 them in the wild world of IT. IT architects, like decision-making ninjas, face critical choices every day. Here's how
 they flex their decision intelligence:
 
