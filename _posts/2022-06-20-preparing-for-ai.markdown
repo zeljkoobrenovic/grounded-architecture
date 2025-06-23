@@ -6,10 +6,10 @@ position: 6020
 spotify: https://open.spotify.com/episode/1VY8J9LhSPjQvbHCkN2y7I?si=sEFc9RHLSt6ObyxW8CnbgA
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
-permalink: prpearing-for-ai-future
+permalink: ai-future
 icon: ai-future.png
 timetoread: 15 min
-excerpt: "I will do the heavy lifting. You need to lead. Cultivate agency, sharpen judgment, and practice persuasion. Don't just adapt—initiate. Architects who wait get left behind."
+excerpt: "AI will do the heavy lifting. You need to lead. Cultivate agency, sharpen judgment, and practice persuasion. Don't just adapt—initiate. Architects who wait get left behind."
 
 ---
 <style>

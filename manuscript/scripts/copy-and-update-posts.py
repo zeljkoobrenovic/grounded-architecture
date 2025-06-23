@@ -66,7 +66,7 @@ def copy_post(post, counter):
                                 'human-complexity', 'culture-map', 'six-simple-rules', 'human-decisions', 'effortless',
                                 'strategy', 'ea-as-strategy', 'outsourcing',
                                 'expanding-toolkit', 'economics', 'product', 'decision-intelligence', 'big-transformations',
-                                'summary', 'appendix']
+                                'summary', 'appendix', 'ai-future']
 
                     for section in sections:
                         fragment = '](' + section + ')'

@@ -121,7 +121,7 @@ However, being the glue doesn’t mean being invisible. It involves being intent
 * **Vision**: striving towards a desired future,
 * **Skepticism**: ensuring that ideas are grounded in reality.
 
-This mindset enables architects to lead **sustainable change**, rather than merely pursuing exciting innovation. For more insights, see [Superglue](superglue) and [Balancing Forces](balancing).
+This mindset enables architects to lead **sustainable change**, rather than merely pursuing exciting innovation. For more insights, see [Superglue](superglue) and [Balancing Forces](balancing), and [Bonus: Preparing for The  AI Future](ai-future).
 
 <br>
 ## Career Growth for Architects
