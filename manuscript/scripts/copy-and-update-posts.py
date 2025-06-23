@@ -122,6 +122,7 @@ posts = [
     '2022-06-12-leadership.markdown',
     '2022-06-14-leading-with-language.markdown',
     '2022-06-16-balancing.markdown',
+    '2022-06-20-preparing-for-ai.markdown',
     '2022-07-01-human-complexity.md',
     '2022-07-03-culture-map.md',
     '2022-07-07-six-simple-rules.md',
