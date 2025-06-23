@@ -1,6 +1,6 @@
 
 
-# Bonus: Preparing for The  AI Future {#prpearing-for-ai-future}
+# Bonus: Preparing for The  AI Future {#ai-future}
 
 ![](assets/images/istock/iStock-2149530993.jpg)
 ^image by imaginima from istock^
