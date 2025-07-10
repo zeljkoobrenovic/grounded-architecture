@@ -53,7 +53,7 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/imagi
 <br>
 What if the next architecture diagram you design is created in seconds—by a machine smarter and faster than you? AI is changing the landscape for everyone. If you're an IT architect, you're not in an untouched zone. In fact, you're standing at a crossroads.
 
-Jakob Nielsen [recently made a compelling case](https://jakobnielsenphd.substack.com/p/ai-transition-career-transition) that, in the age of AI, the job skills that matter most are agency, judgment, and persuasion. He was speaking to UX professionals, but his message couldn't be more relevant for architects.
+Jakob Nielsen [recently made a compelling case](https://jakobnielsenphd.substack.com/p/ai-transition-career-transition) that, in the age of AI, the job skills that matter most are **agency**, **judgment**, and **persuasion**. He was speaking to UX professionals, but his message couldn't be more relevant for architects.
 
 Why? Because when AI can generate ten architecture diagrams faster than you can open Lucidchart, your value isn't in producing diagrams anymore. It's in what you do with them. It's in guiding teams through ambiguity, trade-offs, and implementation in the real world.
 

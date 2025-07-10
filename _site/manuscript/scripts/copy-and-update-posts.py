@@ -66,7 +66,7 @@ def copy_post(post, counter):
                                 'human-complexity', 'culture-map', 'six-simple-rules', 'human-decisions', 'effortless',
                                 'strategy', 'ea-as-strategy', 'outsourcing',
                                 'expanding-toolkit', 'economics', 'product', 'decision-intelligence', 'big-transformations',
-                                'summary', 'appendix']
+                                'summary', 'appendix', 'ai-future']
 
                     for section in sections:
                         fragment = '](' + section + ')'
@@ -122,6 +122,7 @@ posts = [
     '2022-06-12-leadership.markdown',
     '2022-06-14-leading-with-language.markdown',
     '2022-06-16-balancing.markdown',
+    '2022-06-20-preparing-for-ai.markdown',
     '2022-07-01-human-complexity.md',
     '2022-07-03-culture-map.md',
     '2022-07-07-six-simple-rules.md',
