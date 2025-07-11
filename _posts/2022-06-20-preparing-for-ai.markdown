@@ -53,6 +53,9 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/imagi
 <br>
 What if the next IT architecture diagram you design is created in seconds—by a machine smarter and faster than you? AI is changing the landscape for everyone. If you're an IT architect, you're not in an untouched zone. In fact, you're standing at a crossroads.
 
+
+## Reskilling: Agency + Judgment + Persuasion
+
 Jakob Nielsen [recently made a compelling case](https://jakobnielsenphd.substack.com/p/ai-transition-career-transition) that, in the age of AI, the job skills that matter most are **agency**, **judgment**, and **persuasion**. He was speaking to UX professionals, but his message couldn't be more relevant for IT architects.
 
 Why? Because when AI can generate ten IT architecture diagrams faster than you can open Lucidchart, your value isn't in producing diagrams anymore. It's in what you do with them. It's in guiding teams through ambiguity, trade-offs, and implementation in the real world.
@@ -66,7 +69,7 @@ Those who possess all three become **AI savvy experts**, capable of leading, inf
 Inspired by Jakob Nielsen's article, let's explore what this AI transition means for your role as an IT architect—and what to do before a large language model takes your chair.
 
 <br>
-## Agency: The Era of Waiting is Over
+### Agency: The Era of Waiting is Over
 
 There was a time when IT architects could wait for requirements to roll in, produce a reference model, and move on. That time has passed. AI doesn't wait. Neither do modern product teams.
 
@@ -87,7 +90,7 @@ To assess your agency, ask yourself:
 Having agency means moving from "solution provider" to strategic instigator. AI will handle grunt work. You bring the leadership.
 
 <br>
-## Judgment: When AI Gives You 10 Options, Can You Choose the Right One?
+### Judgment: When AI Gives You 10 Options, Can You Choose the Right One?
 
 AI is prolific. It will hand you ten plausible designs, complete with pros, cons, and performance metrics. But which one works here, now, with your people? There is lots of sensitivity, history, irrationality in organizations. AI doesn't know the nuance. You do.
 
@@ -108,7 +111,7 @@ To assess your judgment skills, ask yourself:
 Judgment turns outputs into outcomes. Without it, all you have is... more diagrams.
 
 <br>
-## Persuasion: Influence Is the New Essential Skill
+### Persuasion: Influence Is the New Essential Skill
 
 Being right isn't enough. We've all seen smart, solid IT architecture proposals collapse in a meeting because nobody bought in.
 
@@ -134,7 +137,7 @@ Tools change—your ability to influence does not.
 
 
 <br>
-## What Should You Do Right Now?
+### What Should You Do Right Now?
 
 Jakob Nielsen suggests we have five years—at most—before current skills start to resemble blacksmithing in a world of self-driving cars. So what can you do today to get ahead? Here are some ideas.
 
@@ -156,7 +159,7 @@ Try explaining your architecture choices to someone in sales. Or your CFO. Can y
 Keep your fundamentals sharp (cloud, security, scalability), but widen your lens. Read about AI governance, ethics, and team dynamics. The best architects of tomorrow will be technical enough to build trust and broad enough to guide business impact.
 
 <br>
-## Bonus Lessons from the AI Transition Era
+### Bonus Lessons from the AI Transition Era
 
 Jakob’s article goes beyond skills. It’s a roadmap for changing your whole mindset. Here are five more shifts that matter deeply for IT architects:
 
@@ -181,21 +184,56 @@ Mastering legacy frameworks or clinging to outdated governance models won’t he
 Teams are flattening. The future IT architect is not a gatekeeper, but a guide. Your ability to influence across flat, autonomous teams will define your impact.
 
 <br>
-## Final Thought: You're Not Being Replaced—Unless You Refuse to Evolve
+### Final Thought: You're Not Being Replaced—Unless You Refuse to Evolve
 
 Nielsen closes with this thought: "*Around 2030, your old skills will be like being an experienced mammoth hunter.*"
-
-![](assets/images/istock/iStock-1133041270.jpg)
-<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
-Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/DanielEskridge">Daniel Eskridge</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
-</div>
-
 
 That might sound dramatic—but think about it. AI will likely write cleaner code, compare architectures, even predict system bottlenecks. But it won't know that your customer ops team is burned out, or that your sales lead wants a new feature by next quarter, or that your team is already quietly resisting the platform shift.
 
 That's where you come in. Your value is no longer in drawing boxes—it's in drawing people together.
 
 Architecture should always connect technology with people, outcomes, and change. AI is a powerful tool. But leadership is still a human job.
+
+
+<br>
+## Leading into the AI Future: Applying the Leader-Leader Model
+
+As we move deeper into the era of agentic AI, it's not just our tools that must evolve—our leadership models must adapt as well. One powerful framework for navigating this transformation is David Marquet's **Leader-Leader model**, which we’ve explored in [our leadership section](https://grounded-architecture.io/leadership).
+
+![](assets/images/figures/ai-leadership-ladder.png)
+**Figure 2:** *To thrive in the AI era, experts must combine agency, judgment, and persuasion—without all three, they risk becoming marginalized, sidelined, or lost in hype.*
+
+The core idea is simple but profound (Figure 2): shift from a **Leader-Follower** dynamic to one where **everyone is empowered to lead** within their scope. When applied to AI, this model offers a fresh lens on how we can shape and collaborate with intelligent systems—not just as tools, but as partners.
+
+### From Programming to Prompting to Partnership
+
+The diagram below (adapted from Marquet’s work) maps how we interact with AI today and how those interactions evolve as AI capabilities increase:
+
+* **Level 1: Programming**
+  At the base, AI is treated like a tool to be programmed with clear, rigid instructions—“Tell me what to do” or “I’ll tell you what to do.” This mirrors traditional software and command-and-control leadership styles.
+
+* **Level 2–4: Prompting/Chatting**
+  Here, interaction becomes conversational. The human expresses observations or suggestions—“I think…,” “I would like to…”—and the AI responds accordingly.
+  Importantly, this stage can be **bi-directional**: not only do humans provide input or intention, but AI can also **ask clarifying questions**, offer **reflective feedback**, or **probe for intent** (“What do you think?” or “What would you like to do?”). This creates a richer, more interactive collaboration loop that deepens mutual understanding—even when autonomy is still limited.
+
+* **Level 5–7: Agentic AI**
+  At this stage, we move into **intent-based collaboration**. Humans and AI articulate intent—“I intend to…” or “What do you intend?”—marking a shift toward mutual trust, alignment, and partial or full autonomy. This is where **agentic AI systems**, capable of initiating, adapting, and learning, truly come into play.
+
+### Why Intent-Based Leadership Matters for AI
+
+Just as Marquet’s Leader-Leader model fosters initiative, ownership, and resilience among people, it can be a blueprint for interacting with increasingly autonomous AI:
+
+* It encourages **transparency of intent**, which is essential for trust between human and AI.
+* It supports **adaptive delegation**: humans and AI take initiative based on mutual clarity of goals and responsibilities.
+* It prepares organizations to move from controlling AI to **collaborating with AI**—a key shift in grounded architectural thinking.
+
+### Practical Takeaway
+
+As AI grows from tool to teammate, our leadership models must evolve in parallel. Adopting the **Leader-Leader mindset** prepares us not only to lead people better, but also to **lead with AI**—fostering partnerships built on shared intent rather than rigid commands.
+
+Future-ready architecture is not just about technology—it's about how we think, lead, and collaborate.
+
+
 
 <br>
 ## To Probe Further
