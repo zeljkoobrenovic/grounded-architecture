@@ -184,7 +184,7 @@ Mastering legacy frameworks or clinging to outdated governance models won’t he
 Teams are flattening. The future IT architect is not a gatekeeper, but a guide. Your ability to influence across flat, autonomous teams will define your impact.
 
 <br>
-### Final Thought: You're Not Being Replaced—Unless You Refuse to Evolve
+### You're Not Being Replaced—Unless You Refuse to Evolve
 
 Nielsen closes with this thought: "*Around 2030, your old skills will be like being an experienced mammoth hunter.*"
 
@@ -225,7 +225,7 @@ Just as Marquet’s Leader-Leader model fosters initiative, ownership, and resil
 
 * It encourages **transparency of intent**, which is essential for trust between human and AI.
 * It supports **adaptive delegation**: humans and AI take initiative based on mutual clarity of goals and responsibilities.
-* It prepares organizations to move from controlling AI to **collaborating with AI**—a key shift in grounded architectural thinking.
+* It prepares organizations to move from controlling AI to **collaborating with AI**.
 
 ### Practical Takeaway
 
@@ -233,6 +233,14 @@ As AI grows from tool to teammate, our leadership models must evolve in parallel
 
 Future-ready architecture is not just about technology—it's about how we think, lead, and collaborate.
 
+<br>
+## Final Thoughts
+
+“The role of architects has evolved from trying to be the smartest person in the room to making everyone around them smarter.” – Gregor Hohpe
+
+I find this insight also relevant in today’s AI-driven world. In a world influenced by intelligent systems, effective leadership is not about knowing everything; instead, it focuses on empowering others to thrive through the right tools, guidance, and context. 
+
+The future will likely favor those who work to enhance collective intelligence, whether human or artificial.
 
 
 <br>
