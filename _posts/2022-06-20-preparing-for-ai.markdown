@@ -198,10 +198,10 @@ Architecture should always connect technology with people, outcomes, and change.
 <br>
 ## Leading into the AI Future: Applying the Leader-Leader Model
 
-As we move deeper into the era of agentic AI, it's not just our tools that must evolve—our leadership models must adapt as well. One powerful framework for navigating this transformation is David Marquet's **Leader-Leader model**, which we’ve explored in [our leadership section](https://grounded-architecture.io/leadership).
+As we move deeper into the era of agentic AI, it's not just our tools that must evolve—our leadership models must adapt as well. One powerful framework for navigating this transformation is David Marquet's **Leader-Leader model**, which we’ve explored in [our leadership section](leadership).
 
 ![](assets/images/figures/ai-leadership-ladder.png)
-**Figure 2:** *To thrive in the AI era, experts must combine agency, judgment, and persuasion—without all three, they risk becoming marginalized, sidelined, or lost in hype.*
+**Figure 2:** *Shift from a **Leader-Follower** dynamic to one where **everyone is empowered to lead** within their scope.*
 
 The core idea is simple but profound (Figure 2): shift from a **Leader-Follower** dynamic to one where **everyone is empowered to lead** within their scope. When applied to AI, this model offers a fresh lens on how we can shape and collaborate with intelligent systems—not just as tools, but as partners.
 
