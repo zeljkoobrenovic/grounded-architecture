@@ -43,7 +43,7 @@ Tools for Growing Architects:
 
 * **[Onboarding Architects: An Overlooked Yet Critical Step](https://grounded-architecture.io/onboarding)**: A structured, high-touch onboarding process is essential to help architects quickly align with organizational goals, contribute meaningfully, and uphold the principles of Grounded Architecture.
 
-* **[Interview Questions for Hiring IT Architects](https://grounded-architecture.io/interview-questions)**: A structured set of interview questions for IT architects, helping assess both technical competence and soft skills while providing practical guidance for interpreting candidate responses.
+* **[Interview Questions for Hiring IT Architects](https://grounded-architecture.io/interview-questions)**: A structured set of interview questions for IT architects, helping assess both technical competence and people skills while providing practical guidance for interpreting candidate responses.
 
 * **[Architect Archetypes](https://grounded-architecture.io/archetypes)**: Explores various architectural leadership archetypes and frameworks, including Will Larson’s Staff roles, Gregor Hohpe’s movie-inspired metaphors, Gergely Orosz’s software engineer archetypes, and TOGAF’s structured approach, providing insights to help architects define their roles and responsibilities effectively.
 

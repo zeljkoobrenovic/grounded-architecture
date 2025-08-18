@@ -141,7 +141,7 @@ Perhaps the most significant change is the increased emphasis on **communication
 * Communicate clearly with both technical and non-technical stakeholders,
 * Build trust, **facilitate decision-making**, and align teams around a shared vision.
 
-Soft skills—such as empathy, negotiation, and storytelling—become as crucial as technical expertise. Without these skills, even the best technical solutions may struggle to gain traction or deliver value.
+People skills—such as empathy, negotiation, and storytelling—become as crucial as technical expertise. Without these skills, even the best technical solutions may struggle to gain traction or deliver value.
 
 
 ### The Role in Context
@@ -237,7 +237,7 @@ Architects frequently collaborate with **product managers, executives, operation
 
 #### 3. Leadership and Mentorship
 
-As architects advance in their careers, they often take on informal leadership roles—**mentoring engineers**, shaping engineering culture, and guiding project direction. These soft leadership skills—earned through influence rather than authority—translate seamlessly into formal leadership roles that require **team-building, communication, and motivation**.
+As architects advance in their careers, they often take on informal leadership roles—**mentoring engineers**, shaping engineering culture, and guiding project direction. These people leadership skills—earned through influence rather than authority—translate seamlessly into formal leadership roles that require **team-building, communication, and motivation**.
 
 #### 4. Deep Technical Expertise
 

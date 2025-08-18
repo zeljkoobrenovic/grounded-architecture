@@ -158,7 +158,7 @@ The **decision pyramid** highlights that development teams should make most deci
 ***Figure 2:** A decision pyramid. The development teams should make most decisions. However, several strategic and area-level decisions may provide decision boundaries for teams (e.g., golden paths or tech stack constraints).*
 
 <br>
-### General Architecture Decision Policy
+### General Architecture Decision Policy and Privileged Autonomy
 
 Distributed decision-making scales well, but it can lead to chaos if entirely uncoordinated. Some decision policies are needed. Inspired by the famous **[Netflix expense policy](https://hbr.org/2014/01/how-netflix-reinvented-hr)**, *"Act in Netflix’s best interests”*, I frequently argued that architecture decision policy could similarly be summarized in six words: *"Decide in the Organization's Best Interests."*
 
@@ -166,6 +166,7 @@ Distributed decision-making scales well, but it can lead to chaos if entirely un
 
 What I mean by that is that **anyone can make architecture decisions**, provided that, in addition to their specific requirements, they also think about the **impact of their choices** on:
 
+* **Alignment with company goals**: Trace the decision to current strategy/OKRs, KPIs, and risk appetite. Improves one or more: time-to-value, reliability/SLOs, cost efficiency, security & compliance, sustainability. Avoids local optimizations that conflict with portfolio priorities or product roadmap.
 * **Overall organizational complexity**: Technology is more manageable by limiting tech diversity, size, and dependencies. Limiting technology choices reduces the attack surface with fewer third-party dependencies and tool ecosystems (build, testing, etc.).
 * **Ease of moving people** between teams (both to get help and help others): Do not unnecessarily create exotic islands with few experts in technologies not supported or widely used in the organization. People cannot get help or move across the organization as their expertise may be useless outside the team.
 * **Ease of training and onboarding** of internal and external developers: Using conventional technologies supported by external learning resources (e.g., books, tutorials) significantly helps find and grow experts.
@@ -175,6 +176,9 @@ What I mean by that is that **anyone can make architecture decisions**, provided
 
 While it may not always be enough, this simple policy can resonate well with many people and can encourage them to be more thoughtful when making decisions.
 
+This simple policy also facilitates team autonomy, specifically what we call **Privileged Autonomy** (the term I first came across in a Product Thinking podcast with [Georgie Smallwood](https://www.produxlabs.com/product-thinking-blog/2021/2/17/how-to-succeed-as-a-senior-product-leader-with-georgie-smallwood)). Privileged Autonomy refers to how the General Architecture Decision Policy—"Decide in the Organization's Best Interests"—scales with less mature teams. When you have demonstrated, e.g., through your last 5 to 10 Architecture Decision Records (ADRs), that you consistently apply the Decision Criteria—particularly in terms of explicit alignment with company goals and OKRs—make clear trade-offs, deliver positive outcomes (such as improved SLOs, reduced costs and lead times, and enhanced security), and adhere to our standards while justifying any exceptions, you are empowered to make medium to high-impact decisions without needing prior approval.
+
+While exercising this privilege, you must still operate within the policy: cite the criteria and goal alignment, prefer options listed in Golden Paths, publish your decision records promptly, and notify any affected teams.
 
 <br>
 ### Golden Paths
@@ -213,7 +217,7 @@ There is no one-size-fits-all solution for assigning architecture responsibiliti
 Remember, there is no magic bullet. Different structures work for various organizations; sometimes, the best solution is a mix of these approaches.
 
 <br>
-## Setting Boundaries
+## Setting Boundaries: Clear Boundaries + Strong Relationships = Effective Architecture Practice
 
 One of the amusing challenges with setting up an architecture practice in an organization is that everyone seems to have a different idea of what "architecture" should entail. It's like asking people to describe a unicorn: some imagine a mythical, majestic creature, while others picture a sparkly horse with a horn that grants wishes. Good architects can do many things, but this versatility might not always be the most effective way to support the organization. We need to **set boundaries** so that we can focus on what's important rather than becoming frazzled by what's not.
 

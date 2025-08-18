@@ -10,7 +10,7 @@ author: by Željko Obrenović (obren.io)
 permalink: skills
 icon: skills.png
 timetoread: 15 min
-excerpt: "A typical architect's skillset includes hard (technical) skills, soft (people & social) skills, product skills, business skills, and decision-making skills."
+excerpt: "A typical architect's skillset includes hard (technical) skills, people skills, product skills, business skills, and decision-making skills."
 
 ---
 <style>
@@ -31,9 +31,9 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/MuchM
 >
 > **KEY POINTS:**
 >
-> * An architect's typical skillset includes hard (technical) skills, soft (people & social) skills, product development, business skills, and decision-making skills.
+> * An architect's typical skillset includes hard (technical) skills, people skills, product development, business skills, and decision-making skills.
 > * Hard (technical) skills are essential for designing, implementing, and maintaining an organization's technology landscape.
-> * Soft skills are integral to social architecture, enabling individuals to navigate and contribute to these social systems effectively.
+> * People skills are integral to social architecture, enabling individuals to navigate and contribute to these social systems effectively.
 > * Product development knowledge is the bridge that helps architects align technical solutions with customer needs and business objectives.
 > * Business domain knowledge is not just useful but essential for architects to create solutions that deliver real value.
 > * Decision-making skills ensure that architectural decisions are sound, sustainable, and aligned with long-term strategic objectives.
@@ -243,14 +243,14 @@ Technology evolves rapidly, and architects must evolve with it. Ongoing learning
 For further reading and recommended tools to build these skills, please refer to the [Appendix](appendix).
 
 <br>
-## Developing Soft Skills
+## Developing People Skills
 
 > *“To change the architecture of a software-intensive system embedded in a large organization, you often have to change the architecture of the organization itself. Ultimately, that is a political problem, not just a technical one.”*  
 > — Grady Booch
 
-Soft skills—often referred to as **interpersonal, emotional, or behavioral skills**—are essential to effective architectural practice. They are a core component of what we call **social architecture**: the art of shaping relationships, influencing others, and fostering organizational alignment. Technical systems exist within social systems, and to design and evolve one, you often need to navigate and reshape the other.
+People skills—often referred to as **interpersonal, emotional, or behavioral skills**—are essential to effective architectural practice. They are a core component of what we call **social architecture**: the art of shaping relationships, influencing others, and fostering organizational alignment. Technical systems exist within social systems, and to design and evolve one, you often need to navigate and reshape the other.
 
-![Soft Skills](assets/images/istock/iStock-1465173464.jpg)
+![People Skills](assets/images/istock/iStock-1465173464.jpg)
 
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/PeopleImages">PeopleImages</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
@@ -299,9 +299,9 @@ Architects operate in complex environments. Their decisions must be [informed, s
 
 Great architects combine **analytical rigor with creative problem-solving**, spotting patterns that others miss and shaping paths that others haven't yet imagined.
 
-### The Value of Soft Skills in Architecture
+### The Value of People Skills in Architecture
 
-Soft skills are what **transform knowledge into meaningful impact**. They enable architects to:
+People skills are what **transform knowledge into meaningful impact**. They enable architects to:
 
 * Influence without authority,
 * Facilitate alignment between teams and departments,
@@ -629,7 +629,7 @@ By weaving these capabilities together, architects become **strategic connectors
 * *Can you identify an instance where your problem-solving skills and strategic thinking have significantly influenced your work as an architect?*
 * *Looking at business skills, how well do you understand general business concepts, and how familiar are you with the specific business domain of your organization?*
 * *How competent are you in business analysis and requirements gathering? Can you share an example where you effectively translated business objectives into functional and technical specifications?*
-* *Are there any soft or business skills you need to develop or improve to succeed in your role as an architect?*
-* *Reflect on how you have used your soft skills to effect organizational change. Are there areas or situations where you could have applied these skills more effectively?*
-* *How do you balance developing and maintaining your hard, soft, and business skills? Is there a particular area you tend to focus on more, and why?*
+* *Are there any people or business skills you need to develop or improve to succeed in your role as an architect?*
+* *Reflect on how you have used your people skills to effect organizational change. Are there areas or situations where you could have applied these skills more effectively?*
+* *How do you balance developing and maintaining your hard, people, and business skills? Is there a particular area you tend to focus on more, and why?*
 

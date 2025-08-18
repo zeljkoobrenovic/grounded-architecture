@@ -93,9 +93,9 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Tashu
 ## On Being Architect
 
 ### Building Skills
-> * An architect's typical skillset includes hard (technical) skills, soft (people & social) skills, product development, business skills, and decision-making skills.
+> * An architect's typical skillset includes hard (technical) skills, people skills, product development, business skills, and decision-making skills.
 > * Hard (technical) skills are essential for designing, implementing, and maintaining an organization's technology landscape.
-> * Soft skills are integral to social architecture, enabling individuals to navigate and contribute to these social systems effectively.
+> * People skills are integral to social architecture, enabling individuals to navigate and contribute to these social systems effectively.
 
 ### Making Impact
 > * Architects' work is evaluated based on their impact on the organization. 

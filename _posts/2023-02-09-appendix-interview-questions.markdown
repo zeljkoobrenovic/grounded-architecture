@@ -8,7 +8,7 @@ author: by Željko Obrenović (obren.io)
 permalink: interview-questions
 icon: interview-questions.png
 timetoread: 15 min
-excerpt: "A structured set of interview questions for IT architects, helping assess both technical competence and soft skills while providing practical guidance for interpreting candidate responses."
+excerpt: "A structured set of interview questions for IT architects, helping assess both technical competence and people skills while providing practical guidance for interpreting candidate responses."
 
 ---
 
@@ -18,7 +18,7 @@ src="assets/images/istock/iStock-1437820717.jpg">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/skynesher">skynesher</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 
-> **IN THIS SECTION, YOU WILL:**  Get a structured set of interview questions for IT architects, helping assess both technical competence and soft skills while providing practical guidance for interpreting candidate responses.
+> **IN THIS SECTION, YOU WILL:**  Get a structured set of interview questions for IT architects, helping assess both technical competence and people skills while providing practical guidance for interpreting candidate responses.
 > 
 > **KEY POINTS:**
 >

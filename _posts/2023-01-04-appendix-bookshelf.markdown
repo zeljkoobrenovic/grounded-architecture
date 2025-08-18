@@ -24,7 +24,7 @@ Image by <a href="https://pixabay.com/users/olivergotting-18505948/?utm_source=l
 > **KEY POINTS:**
 >
 > * I provide an overview of the background work to probe further, linking several external resources inspiring my work.
-> * I grouped the resources in the following sections: Introductions, Soft Skills, Business & Strategy, and Hard Skills.
+> * I grouped the resources in the following sections: Introductions, People Skills, Business & Strategy, and Hard Skills.
 
 <style>
     .book {
@@ -232,7 +232,7 @@ distributed system design.
 </td>
 <td>
 
-<b>Fundamentals of Software Architecture</b> by Neal and Mark covers soft skills, modularity, component-based thinking,
+<b>Fundamentals of Software Architecture</b> by Neal and Mark covers people skills, modularity, component-based thinking,
 and architectural styles.
 </td>
 <td style="font-size: 50%; line-height: 12px; text-align: center">
