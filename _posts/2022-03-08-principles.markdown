@@ -158,7 +158,7 @@ The **decision pyramid** highlights that development teams should make most deci
 ***Figure 2:** A decision pyramid. The development teams should make most decisions. However, several strategic and area-level decisions may provide decision boundaries for teams (e.g., golden paths or tech stack constraints).*
 
 <br>
-### General Architecture Decision Policy and Privileged Autonomy
+### General Architecture Decision Policy
 
 Distributed decision-making scales well, but it can lead to chaos if entirely uncoordinated. Some decision policies are needed. Inspired by the famous **[Netflix expense policy](https://hbr.org/2014/01/how-netflix-reinvented-hr)**, *"Act in Netflix’s best interests”*, I frequently argued that architecture decision policy could similarly be summarized in six words: *"Decide in the Organization's Best Interests."*
 
@@ -176,10 +176,6 @@ What I mean by that is that **anyone can make architecture decisions**, provided
 
 While it may not always be enough, this simple policy can resonate well with many people and can encourage them to be more thoughtful when making decisions.
 
-This simple policy also facilitates team autonomy, specifically what we call **Privileged Autonomy** (the term I first came across in a Product Thinking podcast with [Georgie Smallwood](https://www.produxlabs.com/product-thinking-blog/2021/2/17/how-to-succeed-as-a-senior-product-leader-with-georgie-smallwood)). Privileged Autonomy refers to how the General Architecture Decision Policy—"Decide in the Organization's Best Interests"—scales with less mature teams. When you have demonstrated, e.g., through your last 5 to 10 Architecture Decision Records (ADRs), that you consistently apply the Decision Criteria—particularly in terms of explicit alignment with company goals and OKRs—make clear trade-offs, deliver positive outcomes (such as improved SLOs, reduced costs and lead times, and enhanced security), and adhere to our standards while justifying any exceptions, you are empowered to make medium to high-impact decisions without needing prior approval.
-
-While exercising this privilege, you must still operate within the policy: cite the criteria and goal alignment, prefer options listed in Golden Paths, publish your decision records promptly, and notify any affected teams.
-
 <br>
 ### Golden Paths
 
@@ -194,6 +190,16 @@ Image by engineering.atspotify.com
 Golden paths provide a solid **foundation for aligning** architecture activities, serving as a common target of work for Guilds and central architectural teams. Rather than being solely knowledge-sharing entities, **guilds** can be empowered to **develop golden paths,** serving as an excellent catalyst for more effective community engagement. This approach not only enhances the role of guilds but also increases the adoption of golden paths as they are created collaboratively.
 
 Golden Paths can be crucial to an organization's IT development landscape as a deliberate and strategic effort to promote **uniformity,** **efficiency,** and **reliability.** By advocating for a set of preferred technologies and practices that are **well-supported,** **secure,** and aligned with the organization's broader objectives, Golden Paths can guide developers to build less fragmented, and faster-to-develop software. Ultimately, this leads to higher-quality and more maintainable IT systems.
+
+## Guided Autonomy and Privileged Autonomy
+
+I believe in team autonomy, but autonomy will not work without proper support. That's why I use two modes: **Guided Autonomy** and **Privileged Autonomy**.
+
+In **Guided Autonomy**, the team still owns decisions, and I stack the deck so they can win. For less-mature teams—or teams operating in a brand-new domain—I'll embed an architect for a time-boxed stretch (think 4–12 weeks), design clinics and office hours, pair on ADRs, and narrow the choice set to our Golden Paths and pre-approved building blocks. The guardrails are clear: use the Golden Path by default, document decisions, consult early on cross-team impacts, and get steward sign-off for one-way doors. Graduation isn't based on seniority; it's earned with a short streak of solid ADRs (e.g., 5–10) that show explicit alignment to company goals/OKRs, sensible trade-offs, and production outcomes that hold (better SLOs, lower cost/lead time, stronger security), plus good feedback from adjacent teams.
+
+**Privileged Autonomy**—a term I first heard on the [Product Thinking podcast with Georgie Smallwood](https://www.produxlabs.com/product-thinking-blog/2021/2/17/how-to-succeed-as-a-senior-product-leader-with-georgie-smallwood)—is the earned fast lane. If you consistently apply the Decision Criteria, deliver outcomes, and stick to standards (or justify exceptions with an exit plan), you can make medium- to high-impact calls without pre-approval. You still work within the policy: tie decisions to goals, prefer Golden Path options, publish ADRs within 48 hours, and notify affected teams. One-way doors (irreversible choices, significant spend, complex data contracts) still need a different process.
+
+Teams move between these modes based on signals, not titles. A strong streak and stable outcomes move you from Guided to Privileged. Repeated misalignment or avoidable churn pauses Privileged and puts us back in Guided until a fresh 3–5 ADR run restores confidence. Example: a team new to event streaming starts in Guided with an embedded architect, ships on the managed messaging Golden Path, and after five solid ADRs graduates to Privileged. A seasoned team choosing a Radar/Golden Path service proceeds under Privileged; proposing a niche database for a core platform triggers an exception review.
 
 
 <br>
