@@ -1,0 +1,162 @@
+---
+layout: post
+section: "Grounded Architecture Framework: Operating Model"
+title: "Adapting Operating Model to Different Organizations"
+position: 3019
+date:   2021-10-21 21:12:01 +0100
+author: by Željko Obrenović (obren.io)
+permalink: adapting
+icon: adapting.png
+timetoread: 15 min
+excerpt: ""
+
+---
+<img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" 
+     src="assets/images/istock/iStock-1893527682.jpg">
+<div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
+Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/gremlin">gremlin</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
+</div>
+> **IN THIS SECTION, YOU WILL:**  Understand the value that an architecture practice based on the ideas of Grounded Architecture can create for an organization.
+> 
+> **KEY POINTS:**
+>
+> * 
+<style>
+ .quote {
+     border-left: 8px solid #d9ead3;
+     padding-left: 36px;
+     margin-top: 30px;
+     margin-bottom: 40px;
+     font-size: 140%;
+     font-style: normal;
+     color:#888;
+ }
+    @media only screen and (max-width: 768px) {
+        [class="quote"] {
+            display: none;
+        }
+    }
+</style>
+
+<br>
+In the world of IT architecture, companies differ not just in size or maturity, but in how architects can add value across structures, data dynamics, collaboration networks, decision-making, and adaptability. The **Grounded Architecture framework** can provide a cohesive lens for evaluating and contributing to architectural practice in each context.
+
+Inspired by comanies taxonomy from Gergely Orosz's The Software Engineer's Guidebook, I will explore how the **Grounded Architecture framework** could adapt to various organizational types, from Big Tech to startups, and how it can help architects create value in each context. 
+
+<br>
+## **Big Tech (e.g., Apple, Google, Amazon, Microsoft)**
+
+*These are the technology giants: massive, global companies with tens of thousands of engineers and billions of users.*
+
+* **Data Pillar**: Big Tech has unparalleled access to real-time data. They run sophisticated analytics pipelines across code, infrastructure, incidents, and customer usage. For architects (in a broader sense, covering staff+ engineering roles), this is a playground for data-driven architecture. Lightweight analytics at scale allows for deep insights into technical debt, adoption of golden paths, and alignment across thousands of teams.
+* **People Pillar**: The architecture function is typically distributed. Central architecture groups could set standards, but federated embedded architects in product teams execute within context. Collaboration networks are essential to connect these architects and avoid silos.
+* **Operating Model & Governance**: Governance is multi-layered: mandates are used for critical security and compliance, nudges encourage adoption of best practices, and golden paths ensure consistency at scale. Principles drive autonomy but are enforced with data.
+* **Architectural Impact**: Immense. Architects can shape industry-wide patterns. The challenge is less about “what architecture to do” and more about “how to scale architecture consistently without stifling innovation.”
+
+<br>
+## **Medium–Large Tech (e.g., Atlassian, Shopify, Uber)**
+
+*Tech-first companies smaller than Big Tech but still global in reach, with hundreds or thousands of engineers.*
+
+* **Data Pillar**: These companies can excel at using lightweight analytics in architecture. They don’t have Big Tech’s scale, but they can move faster, using data to continuously improve system quality, developer productivity, and customer experiences.
+* **People Pillar**: Architecture communities can be close-knit. Architects are often embedded in teams, with some central guidance. Collaborative networks—guilds, architecture forums—are key to balancing autonomy and alignment.
+* **Operating Model & Governance**: Golden paths are commonly adopted as the governance tool, supported by nudges. Mandates exist only for security or compliance. This flexibility enables rapid adaptation.
+* **Architectural Impact**: High. Architects in these companies can influence both technology direction and developer experience. The sweet spot is balancing agility with structure.
+
+<br>
+## **Scaleups (e.g., Klarna, Notion, Airtable)**
+
+*Fast-growing companies that have achieved product-market fit and are scaling quickly, often with venture capital funding.*
+
+* **Data Pillar**: Analytics are typically lightweight, experimental, and often immature. Data is valuable but scattered. Architects can bring structure by defining metrics that align growth with system health (e.g., cost efficiency, service reliability).
+* **People Pillar**: Architecture roles may not yet be formalized. Often a few senior engineers act as de facto architects. Collaborative networks are informal, but vital as the company grows.
+* **Operating Model & Governance**: Governance is emergent. Nudges are most effective, since mandates can stifle agility. Architects may define early golden paths (e.g., standard CI/CD pipelines) to prevent chaos later.
+* **Architectural Impact**: Transformative. Architects help companies avoid “scaling pains” by embedding architecture practices early, ensuring growth doesn’t lead to unmaintainable systems.
+
+
+<br>
+## **Startups (early-stage)**
+
+*Small, young companies still experimenting toward product-market fit. Often fewer than 50 employees, high risk, and reliant on new funding.*
+
+* **Data Pillar**: Minimal. Metrics are ad-hoc (e.g., “Does the app stay online?”). Architectural analytics is virtually non-existent but can be introduced in lightweight form (e.g., simle source code scanes, cloud billing reports) to prevent bad habits.
+* **People Pillar**: The architect is often the founder or senior engineer, juggling coding, design, and firefighting. Collaboration is direct, and decisions are made quickly without process.
+* **Operating Model & Governance**: Governance is cultural. There are no formal mandates, and golden paths rarely exist. Practices evolve through team habits rather than explicit architecture.
+* **Architectural Impact**: Highest leverage. A single architect can define the technical DNA of the company—choosing tech stacks, establishing early design principles, and planting seeds for scale.
+
+<br>
+## **Traditional Non-Tech with Tech Divisions (e.g., IKEA, JPMorgan, Toyota)**
+
+*Established companies where technology supports the main business, but isn’t the core product.*
+
+* **Data Pillar**: Often fragmented, legacy-heavy, with data trapped in silos (e.g., it may be difficult to get source code access from another unit). Architects can introduce architectural analytics to provide visibility across decades-old systems.
+* **People Pillar**: Architects are typically centralized in enterprise IT divisions, far removed from product teams. Collaboration networks are weak and need deliberate cultivation.
+* **Operating Model & Governance**: Heavily mandate-driven. Architecture reviews and compliance checklists dominate, slowing innovation. Nudges and golden paths are underused.
+* **Architectural Impact**: Moderate but critical. Architects play a modernization role—bridging old and new worlds, advocating for cloud adoption, and embedding more agile operating models.
+
+<br>
+## **Technology-Heavy Traditional (e.g., Intel, Cisco, Ericsson)**
+
+*Older companies where technology is central (hardware, networks, software), but operating at mature and slower cycles.*
+
+* **Data Pillar**: Extensive data frequently exists (hardware performance, supply chain, R\&D) but is locked in rigid processes. Architects can help turn this into actionable architectural insights.
+* **People Pillar**: Architect communities are mature but hierarchical. Collaboration networks exist but operate slowly due to organizational layers.
+* **Operating Model & Governance**: Governance is strong, with mandates and formal reviews. Golden paths may exist but lack the agility of younger companies.
+* **Architectural Impact**: High. These companies benefit when architects inject agility, lean operating models, and modern governance while respecting the stability of legacy systems.
+
+<br>
+## **Small, Non-Venture Funded (bootstrapped, family-run)**
+
+*Stable, privately owned businesses where profitability is essential and growth is modest.*
+
+* **Data Pillar**: Data collection is typically minimal, often manual. Introducing lightweight analytics can create outsized impact, improving system reliability and cost awareness.
+* **People Pillar**: Architecture is rarely formalized. A senior engineer doubles as an architect. Collaboration is direct, informal, and stable.
+* **Operating Model & Governance**: Governance is pragmatic and need-driven. Nudges can help establish good practices without overloading lean teams.
+* **Architectural Impact**: Significant. Introducing even a small amount of architectural structure (monitoring, design principles, golden paths) can dramatically improve sustainability.
+
+<br>
+## **Public Sector**
+
+*Government agencies and public organizations delivering citizen services, often with strict compliance needs.*
+
+* **Data Pillar**: Systems are often legacy-bound, with limited or outdated analytics. Architects can transform this by introducing real-time, actionable insights.
+* **People Pillar**: Architects are centralized, with slow federated adoption across departments. Collaboration networks are rare but necessary for cross-agency alignment.
+* **Operating Model & Governance**: Compliance-heavy mandates dominate. Nudges and golden paths are rare but represent major opportunities for change.
+* **Architectural Impact**: High. Architects can modernize legacy systems, enable digital services, and shift governance toward balance between compliance and innovation.
+
+<br>
+## **Nonprofits (e.g., Khan Academy, Wikimedia)**
+
+*Mission-driven organizations using technology to deliver social impact instead of profit.*
+
+* **Data Pillar**: Analytics are limited by funding, but architects can ensure critical metrics (uptime, donations, engagement) are prioritized.
+* **People Pillar**: Teams are motivated by mission, not money. Architects can serve as connectors—aligning volunteers, contributors, and small core teams.
+* **Operating Model & Governance**: Governance is lightweight and resource-driven. Mandates are rare. Nudges and principles aligned to mission work best.
+* **Architectural Impact**: Very high, since architects can amplify mission effectiveness by focusing on efficiency and sustainability.
+
+<br>
+## **Consultancies, Outsourcing Companies, and Developer Agencies (e.g., Accenture, EPAM, Wipro)**
+
+*Companies that provide engineering services to clients, often project-based or staff augmentation.*
+
+* **Data Pillar**: Analytics are project-specific and not shared across clients, limiting organizational learning. Architects can push for reusable insights across engagements.
+* **People Pillar**: Architects are distributed across projects. Collaboration networks are weak beyond client engagements.
+* **Operating Model & Governance**: Project-governed. Mandates depend on client contracts. Internally, little long-term architectural governance exists.
+* **Architectural Impact**: Moderate. Architects can increase value by embedding grounded practices—standardizing approaches, improving maintainability, and connecting learning across projects.
+
+<br>
+## **Academia & Research Labs**
+
+*Universities and institutions working on long-term, exploratory research in computing and engineering.*
+
+* **Data Pillar**: Rich experimental data, but not always connected to operational systems. Architects can translate research into applied insights.
+* **People Pillar**: Collaboration is strong within labs, but weaker with industry. Architects can bridge academia-industry divides.
+* **Operating Model & Governance**: Minimal governance; focus is on freedom and discovery.
+* **Architectural Impact**: High in innovation. Architects can embed grounded frameworks to make research outputs practical and scalable.
+
+
+<br>
+## Questions to Consider
+
+
+
