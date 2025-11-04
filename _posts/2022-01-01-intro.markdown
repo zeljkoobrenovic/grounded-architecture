@@ -116,7 +116,7 @@ Explore the mindset and meta-skills of effective architects:
 * [Balancing Curiosity and Skepticism](balancing)
 * [Navigating Career Paths](career-paths)
 
-#### [**On Human Complexity**](human-complexity) (Book 3)
+#### [**Notes On Human Complexity**](human-complexity) (Book 3)
 
 Architecture is not just technical—it is deeply social:
 

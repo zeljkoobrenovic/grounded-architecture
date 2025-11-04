@@ -70,7 +70,7 @@ As a part of my work on Grounded Architecture, I also provided several guiding p
   * [Thinking Like an Architect: Architects as Superglue](superglue)
   * [Balancing Curiosity, Doubt, Vision, and Skepticism](balancing)
   * [Architects' Career Paths](career-paths)
-* [**On Human Complexity**](human-complexity):
+* [**Notes On Human Complexity**](human-complexity):
   * [The Culture Map: Architects' Culture Compass](culture-map)
   * [Cooperation-Based Organizations](six-simple-rules)
   * [The Human Side of Decision-Making](human-decisions)

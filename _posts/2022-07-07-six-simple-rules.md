@@ -1,6 +1,6 @@
 ---
 layout: post
-section: "On Human Complexity"
+section: "Notes On Human Complexity"
 title: "Cooperation-Based Organizations: Six Simple Rules"
 position: 7007
 podcast: six-simple-rules.mp3

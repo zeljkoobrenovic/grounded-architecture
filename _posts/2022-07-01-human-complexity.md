@@ -1,7 +1,7 @@
 ---
 layout: post
-section: "On Human Complexity"
-title: "On Human Complexity: Introduction"
+section: "Notes On Human Complexity"
+title: "Notes On Human Complexity: Introduction"
 position: 7001
 podcast: culture-map.mp3
 spotify: https://open.spotify.com/episode/1QGRyF9eHOcOftpbaZm6Wv?si=Zb5dTbDiQLOKpIvvPnao1Q

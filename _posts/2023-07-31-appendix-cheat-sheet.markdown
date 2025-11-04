@@ -122,7 +122,7 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Tashu
 > * Career tracks can include Senior Architects (broader responsibilities), Principal Architects (specialized focus), and Enterprise Architects (aligning technical strategy with business objectives).
 > * Architecture roles can lead to tech leadership positions such as Engineering Director or Chief Technology Officer (CTO), leveraging strategic vision, decision-making, and leadership skills.
 
-## On Human Complexity
+## Notes On Human Complexity
 
 ### The Culture Map: Architects' Culture Compass
 > * I have found the work of Erin Meyer, The Culture Map, to be a beneficial tool for architects to work harmoniously with people from various cultures and backgrounds.

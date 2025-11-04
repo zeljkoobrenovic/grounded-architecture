@@ -1,6 +1,6 @@
 ---
 layout: post
-section: "On Strategy"
+section: "Notes On Strategy"
 title: "Enterprise Architecture as Strategy"
 position: 8002
 podcast: ea-as-strategy.mp3

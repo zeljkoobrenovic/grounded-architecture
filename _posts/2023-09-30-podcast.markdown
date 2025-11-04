@@ -2,7 +2,7 @@
 layout: post
 section: ""
 title: "TL;DR Experimental Podcast"
-position: 900
+position: 19001
 date:   2021-10-21 21:12:01 +0100
 author: by Željko Obrenović (obren.io)
 permalink: podcast
@@ -177,11 +177,11 @@ h3 {
             ]
         },
         {   
-            title: "Season 3: On Human Complexity",
+            title: "Season 3: Notes On Human Complexity",
             episodes:[ 
                 {
-                    title: "On Human Complexity",
-                    subtitle: "A summary of the <a href='human-complexity'>On Human Complexity</a> introduction chapter.",
+                    title: "Notes On Human Complexity",
+                    subtitle: "A summary of the <a href='human-complexity'>Notes On Human Complexity</a> introduction chapter.",
                     file: "human-complexity.mp3",
                     notebooklm: "https://notebooklm.google.com/notebook/edafeb4c-6e4e-4ebd-a331-91d9b3e57242/audio",
                     spotify: "https://open.spotify.com/episode/1QGRyF9eHOcOftpbaZm6Wv?si=Zb5dTbDiQLOKpIvvPnao1Q"
