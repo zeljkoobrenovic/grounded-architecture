@@ -1,6 +1,6 @@
 
 
-# On Human Complexity: Introduction {#human-complexity}
+# Notes On Human Complexity: Introduction {#human-complexity}
 
 ![](assets/images/istock/iStock-1473231525.jpg)
 ^image by cerro_photography from istock^

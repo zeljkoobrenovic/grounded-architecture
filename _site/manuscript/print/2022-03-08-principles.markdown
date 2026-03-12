@@ -111,6 +111,7 @@ Distributed decision-making scales well, but it can lead to chaos if entirely un
 
 What I mean by that is that **anyone can make architecture decisions**, provided that, in addition to their specific requirements, they also think about the **impact of their choices** on:
 
+* **Alignment with company goals**: Trace the decision to current strategy/OKRs, KPIs, and risk appetite. Improves one or more: time-to-value, reliability/SLOs, cost efficiency, security & compliance, sustainability. Avoids local optimizations that conflict with portfolio priorities or product roadmap.
 * **Overall organizational complexity**: Technology is more manageable by limiting tech diversity, size, and dependencies. Limiting technology choices reduces the attack surface with fewer third-party dependencies and tool ecosystems (build, testing, etc.).
 * **Ease of moving people** between teams (both to get help and help others): Do not unnecessarily create exotic islands with few experts in technologies not supported or widely used in the organization. People cannot get help or move across the organization as their expertise may be useless outside the team.
 * **Ease of training and onboarding** of internal and external developers: Using conventional technologies supported by external learning resources (e.g., books, tutorials) significantly helps find and grow experts.
@@ -131,6 +132,16 @@ Golden paths provide a solid **foundation for aligning** architecture activities
 
 Golden Paths can be crucial to an organization's IT development landscape as a deliberate and strategic effort to promote **uniformity,** **efficiency,** and **reliability.** By advocating for a set of preferred technologies and practices that are **well-supported,** **secure,** and aligned with the organization's broader objectives, Golden Paths can guide developers to build less fragmented, and faster-to-develop software. Ultimately, this leads to higher-quality and more maintainable IT systems.
 
+## Guided Autonomy and Privileged Autonomy
+
+I believe in team autonomy, but autonomy will not work without proper support. That's why I use two modes: **Guided Autonomy** and **Privileged Autonomy**.
+
+In **Guided Autonomy**, the team still owns decisions, and I stack the deck so they can win. For less-mature teams—or teams operating in a brand-new domain—I'll embed an architect for a time-boxed stretch (think 4–12 weeks), design clinics and office hours, pair on ADRs, and narrow the choice set to our Golden Paths and pre-approved building blocks. The guardrails are clear: use the Golden Path by default, document decisions, consult early on cross-team impacts, and get steward sign-off for one-way doors. Graduation isn't based on seniority; it's earned with a short streak of solid ADRs (e.g., 5–10) that show explicit alignment to company goals/OKRs, sensible trade-offs, and production outcomes that hold (better SLOs, lower cost/lead time, stronger security), plus good feedback from adjacent teams.
+
+**Privileged Autonomy**—a term I first heard on the [Product Thinking podcast with Georgie Smallwood](https://www.produxlabs.com/product-thinking-blog/2021/2/17/how-to-succeed-as-a-senior-product-leader-with-georgie-smallwood)—is the earned fast lane. If you consistently apply the Decision Criteria, deliver outcomes, and stick to standards (or justify exceptions with an exit plan), you can make medium- to high-impact calls without pre-approval. You still work within the policy: tie decisions to goals, prefer Golden Path options, publish ADRs within 48 hours, and notify affected teams. One-way doors (irreversible choices, significant spend, complex data contracts) still need a different process.
+
+Teams move between these modes based on signals, not titles. A strong streak and stable outcomes move you from Guided to Privileged. Repeated misalignment or avoidable churn pauses Privileged and puts us back in Guided until a fresh 3–5 ADR run restores confidence. Example: a team new to event streaming starts in Guided with an embedded architect, ships on the managed messaging Golden Path, and after five solid ADRs graduates to Privileged. A seasoned team choosing a Radar/Golden Path service proceeds under Privileged; proposing a niche database for a core platform triggers an exception review.
+
 ## Embracing Diversity
 
 When building architecture guilds and virtual architecture teams, it's crucial to acknowledge that organizational units have diverse structures and sizes. In big organizations, **embracing diversity** is a prerequisite to having a broad impact.
@@ -148,7 +159,7 @@ There is no one-size-fits-all solution for assigning architecture responsibiliti
     
 Remember, there is no magic bullet. Different structures work for various organizations; sometimes, the best solution is a mix of these approaches.
 
-## Setting Boundaries
+## Setting Boundaries: Clear Boundaries + Strong Relationships = Effective Architecture Practice
 
 One of the amusing challenges with setting up an architecture practice in an organization is that everyone seems to have a different idea of what "architecture" should entail. It's like asking people to describe a unicorn: some imagine a mythical, majestic creature, while others picture a sparkly horse with a horn that grants wishes. Good architects can do many things, but this versatility might not always be the most effective way to support the organization. We need to **set boundaries** so that we can focus on what's important rather than becoming frazzled by what's not.
 

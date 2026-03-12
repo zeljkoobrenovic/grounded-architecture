@@ -442,6 +442,8 @@ The data is available, and the story is waiting to be uncovered.
 * Online Appendix [Building Lightweight Architectural Analytics](https://grounded-architecture.io/data-website) a few practical tips on building lean architecture dashboards and documents using simple, widely available tools.
 * Open-source [architecture dashboard examples](https://zeljkoobrenovic.github.io/grounded-architecture-dashboard-examples/)
 * [Sokrates](https://sokrates.dev), an open-source polyglot source code examination tool
+* [Grounded Architecture: Turning Everyday Data into Strategic Insights](https://docs.google.com/presentation/d/1P4-gUqgZZY_kzimcDnvULS-TVdY3VCyl/edit?usp=sharing&ouid=106420046363714651268&rtpof=true&sd=true), Chief Architect Network (CAN) London 2025 presentation
+* [Beyond the Cloud Bill: Leveraging AWS FinOps Data and Metrics for Smarter Architecture](https://docs.google.com/presentation/d/15BtMU99zfqnMXFoeWnQBlxd339BSimu0/edit?usp=sharing&ouid=106420046363714651268&rtpof=true&sd=true), AWS Community Day Adria 2025 presentation
 
 ## Questions to Consider
 

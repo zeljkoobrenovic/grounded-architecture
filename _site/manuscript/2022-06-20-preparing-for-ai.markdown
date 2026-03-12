@@ -10,28 +10,35 @@
 {pagebreak}
 
 A> **KEY POINTS:**
-A> * Architects must evolve from diagram-makers to decision-makers.
+A> * IT architects must evolve from diagram-makers to decision-makers.
 A> * AI amplifies productivity but demands more human leadership.
 A> * Agency, judgment, and persuasion will define architectural impact.
 
-What if the next architecture diagram you design is created in seconds—by a machine smarter and faster than you? AI is changing the landscape for everyone. If you're an IT architect, you're not in an untouched zone. In fact, you're standing at a crossroads.
+What if the next IT architecture diagram you design is created in seconds—by a machine smarter and faster than you? AI is changing the landscape for everyone. If you're an IT architect, you're not in an untouched zone. In fact, you're standing at a crossroads.
 
-Jakob Nielsen [recently made a compelling case](https://jakobnielsenphd.substack.com/p/ai-transition-career-transition) that, in the age of AI, the job skills that matter most are agency, judgment, and persuasion. He was speaking to UX professionals, but his message couldn't be more relevant for architects.
+## Reskilling: Agency + Judgment + Persuasion
 
-Why? Because when AI can generate ten architecture diagrams faster than you can open Lucidchart, your value isn't in producing diagrams anymore. It's in what you do with them. It's in guiding teams through ambiguity, trade-offs, and implementation in the real world.
+Jakob Nielsen [recently made a compelling case](https://jakobnielsenphd.substack.com/p/ai-transition-career-transition) that, in the age of AI, the job skills that matter most are **agency**, **judgment**, and **persuasion**. He was speaking to UX professionals, but his message couldn't be more relevant for IT architects.
 
-Inspired by Jakob Nielsen's article, let's explore what this AI transition means for your role as an architect—and what to do before a large language model takes your chair.
+Why? Because when AI can generate ten IT architecture diagrams faster than you can open Lucidchart, your value isn't in producing diagrams anymore. It's in what you do with them. It's in guiding teams through ambiguity, trade-offs, and implementation in the real world.
 
-## Agency: The Era of Waiting is Over
+Those who possess all three become **AI savvy experts**, capable of leading, influencing, and navigating complexity. In contrast, experts who lack one dimension often find themselves **marginalized, sidelined, or trapped in hype**. Cultivating all three qualities is essential to thrive in the AI era—not just being smart or vocal, but also being strategic and action-oriented.
 
-There was a time when architects could wait for requirements to roll in, produce a reference model, and move on. That time has passed. AI doesn't wait. Neither do modern product teams.
+![](assets/images/figures/ai-future.png)
+**Figure 1:** *To thrive in the AI era, experts must combine agency, judgment, and persuasion—without all three, they risk becoming marginalized, sidelined, or lost in hype.*
+
+Inspired by Jakob Nielsen's article, let's explore what this AI transition means for your role as an IT architect—and what to do before a large language model takes your chair.
+
+### Agency: The Era of Waiting is Over
+
+There was a time when IT architects could wait for requirements to roll in, produce a reference model, and move on. That time has passed. AI doesn't wait. Neither do modern product teams.
 
 ![](assets/images/istock/iStock-2207807872.jpg)
 ^image by baona from istock^
 
-The architects who are likely to thrive wit AI are those who take initiative. They create momentum, not wait for it. They don't need permission to lead change.
+The IT architects who are likely to thrive wit AI are those who take initiative. They create momentum, not wait for it. They don't need permission to lead change.
 
-**Example:** A mid-size logistics company was seeing inefficiencies across its microservices—latency, duplication, poor observability. The architect didn't wait for a formal initiative. She used AI tools to scan their system design, identified patterns of redundancy, and built a prototype using an event-driven model with out-of-the-box observability. She didn't ask if it was her job—she made it her job. That's agency.
+**Example:** A mid-size logistics company was seeing inefficiencies across its microservices—latency, duplication, poor observability. The IT architect didn't wait for a formal initiative. She used AI tools to scan their system design, identified patterns of redundancy, and built a prototype using an event-driven model with out-of-the-box observability. She didn't ask if it was her job—she made it her job. That's agency.
 
 To assess your agency, ask yourself:
 * Are you sparking conversations about how AI will reshape your tech stack or delivery model?
@@ -40,14 +47,14 @@ To assess your agency, ask yourself:
 
 Having agency means moving from "solution provider" to strategic instigator. AI will handle grunt work. You bring the leadership.
 
-## Judgment: When AI Gives You 10 Options, Can You Choose the Right One?
+### Judgment: When AI Gives You 10 Options, Can You Choose the Right One?
 
 AI is prolific. It will hand you ten plausible designs, complete with pros, cons, and performance metrics. But which one works here, now, with your people? There is lots of sensitivity, history, irrationality in organizations. AI doesn't know the nuance. You do.
 
 ![](assets/images/istock/iStock-613543010.jpg)
 ^image by marrio31 from istock^
 
-**Example:** A retail platform team used AI to generate three valid architecture proposals for integrating a new loyalty engine. One used a pub-sub model with Kafka, another proposed embedding logic into their existing CMS layer, and a third used API gateway orchestration. On paper, all three could work. But the architect knew the operations team lacked Kafka experience and the CMS team was overloaded. He chose the API-based design, minimizing risk and change management friction.
+**Example:** A retail platform team used AI to generate three valid IT architecture proposals for integrating a new loyalty engine. One used a pub-sub model with Kafka, another proposed embedding logic into their existing CMS layer, and a third used API gateway orchestration. On paper, all three could work. But the IT architect knew the operations team lacked Kafka experience and the CMS team was overloaded. He chose the API-based design, minimizing risk and change management friction.
 
 This is judgment: technical analysis grounded in organizational reality.
 
@@ -58,16 +65,16 @@ To assess your judgment skills, ask yourself:
 
 Judgment turns outputs into outcomes. Without it, all you have is... more diagrams.
 
-## Persuasion: Influence Is the New Essential Skill
+### Persuasion: Influence Is the New Essential Skill
 
-Being right isn't enough. We've all seen smart, solid architecture proposals collapse in a meeting because nobody bought in.
+Being right isn't enough. We've all seen smart, solid IT architecture proposals collapse in a meeting because nobody bought in.
 
 ![](assets/images/istock/iStock-924368526.jpg)
 ^image by martin-dm from istock^
 
-In flatter, faster-moving organizations, architects don't get to "hand off" decisions anymore. You need to persuade. Influence. Evangelize. And not just to engineering leads, but to legal, finance, operations, even marketing.
+In flatter, faster-moving organizations, IT architects don't get to "hand off" decisions anymore. You need to persuade. Influence. Evangelize. And not just to engineering leads, but to legal, finance, operations, even marketing.
 
-**Example:** An architect at a SaaS company proposed migrating key services to a modular platform model using containers and service meshes. Engineering was sold. Leadership wasn't. So he reframed the proposal—not as a technical upgrade, but as a way to reduce time-to-market by 30%, improve SLAs for premium customers, and simplify compliance reporting. Suddenly, everyone was listening.
+**Example:** An IT architect at a SaaS company proposed migrating key services to a modular platform model using containers and service meshes. Engineering was sold. Leadership wasn't. So he reframed the proposal—not as a technical upgrade, but as a way to reduce time-to-market by 30%, improve SLAs for premium customers, and simplify compliance reporting. Suddenly, everyone was listening.
 
 This is persuasion: making the right decision make sense to others.
 
@@ -80,7 +87,7 @@ So, to practice your persuasion skills, try this:
 
 Tools change—your ability to influence does not.
 
-## What Should You Do Right Now?
+### What Should You Do Right Now?
 
 Jakob Nielsen suggests we have five years—at most—before current skills start to resemble blacksmithing in a world of self-driving cars. So what can you do today to get ahead? Here are some ideas.
 
@@ -88,7 +95,7 @@ Jakob Nielsen suggests we have five years—at most—before current skills star
 ^image by blackjack3d from istock^
 
 **Continuously Automate Yourself First**  
-Stop manually drawing cloud diagrams or documenting dependencies line by line. Use AI to generate templates, compare patterns, or write governance policies. Use tools like ChatGPT or GitHub Copilot to draft RFCs or produce reference architectures from a prompt. Partner with AI—it's your new intern.
+Stop manually drawing cloud diagrams or documenting dependencies line by line. Use AI to generate templates, compare patterns, or write governance policies. Use tools like ChatGPT or GitHub Copilot to draft RFCs or produce reference IT architectures from a prompt. Partner with AI—it's your new intern.
 
 **Develop Judgment Intentionally**  
 Start collecting real examples of AI-generated designs and review them critically. What's missing? What's unscalable? Build decision trees. Run architecture "tabletop exercises" with peers to hone your instincts.
@@ -99,7 +106,7 @@ Try explaining your architecture choices to someone in sales. Or your CFO. Can y
 **Stay Grounded—But Look Up**  
 Keep your fundamentals sharp (cloud, security, scalability), but widen your lens. Read about AI governance, ethics, and team dynamics. The best architects of tomorrow will be technical enough to build trust and broad enough to guide business impact.
 
-## Bonus Lessons from the AI Transition Era
+### Bonus Lessons from the AI Transition Era
 
 Jakob’s article goes beyond skills. It’s a roadmap for changing your whole mindset. Here are five more shifts that matter deeply for IT architects:
 
@@ -119,20 +126,62 @@ Working at an AI-native or AI-first organization will accelerate your learning. 
 Mastering legacy frameworks or clinging to outdated governance models won’t help. Be willing to trade technical prestige for future-proof relevance.
 
 **Prepare for “pancaking.”**  
-Teams are flattening. The future architect is not a gatekeeper, but a guide. Your ability to influence across flat, autonomous teams will define your impact.
+Teams are flattening. The future IT architect is not a gatekeeper, but a guide. Your ability to influence across flat, autonomous teams will define your impact.
 
-## Final Thought: You're Not Being Replaced—Unless You Refuse to Evolve
+### You're Not Being Replaced—Unless You Refuse to Evolve
 
 Nielsen closes with this thought: "*Around 2030, your old skills will be like being an experienced mammoth hunter.*"
-
-![](assets/images/istock/iStock-1133041270.jpg)
-^image by daniel eskridge from istock^
 
 That might sound dramatic—but think about it. AI will likely write cleaner code, compare architectures, even predict system bottlenecks. But it won't know that your customer ops team is burned out, or that your sales lead wants a new feature by next quarter, or that your team is already quietly resisting the platform shift.
 
 That's where you come in. Your value is no longer in drawing boxes—it's in drawing people together.
 
 Architecture should always connect technology with people, outcomes, and change. AI is a powerful tool. But leadership is still a human job.
+
+## Leading into the AI Future: Applying the Leader-Leader Model
+
+As we move deeper into the era of agentic AI, it's not just our tools that must evolve—our leadership models must adapt as well. One powerful framework for navigating this transformation is David Marquet's **Leader-Leader model**, which we’ve explored in [our leadership section](#leadership).
+
+![](assets/images/figures/ai-leadership-ladder.png)
+**Figure 2:** *Shift from a **Leader-Follower** dynamic to one where **everyone is empowered to lead** within their scope.*
+
+The core idea is simple but profound (Figure 2): shift from a **Leader-Follower** dynamic to one where **everyone is empowered to lead** within their scope. When applied to AI, this model offers a fresh lens on how we can shape and collaborate with intelligent systems—not just as tools, but as partners.
+
+### From Programming to Prompting to Partnership
+
+The diagram below (adapted from Marquet’s work) maps how we interact with AI today and how those interactions evolve as AI capabilities increase:
+
+* **Level 1: Programming**
+  At the base, AI is treated like a tool to be programmed with clear, rigid instructions—“Tell me what to do” or “I’ll tell you what to do.” This mirrors traditional software and command-and-control leadership styles.
+
+* **Level 2–4: Prompting/Chatting**
+  Here, interaction becomes conversational. The human expresses observations or suggestions—“I think…,” “I would like to…”—and the AI responds accordingly.
+  Importantly, this stage can be **bi-directional**: not only do humans provide input or intention, but AI can also **ask clarifying questions**, offer **reflective feedback**, or **probe for intent** (“What do you think?” or “What would you like to do?”). This creates a richer, more interactive collaboration loop that deepens mutual understanding—even when autonomy is still limited.
+
+* **Level 5–7: Agentic AI**
+  At this stage, we move into **intent-based collaboration**. Humans and AI articulate intent—“I intend to…” or “What do you intend?”—marking a shift toward mutual trust, alignment, and partial or full autonomy. This is where **agentic AI systems**, capable of initiating, adapting, and learning, truly come into play.
+
+### Why Intent-Based Leadership Matters for AI
+
+Just as Marquet’s Leader-Leader model fosters initiative, ownership, and resilience among people, it can be a blueprint for interacting with increasingly autonomous AI:
+
+* It encourages **transparency of intent**, which is essential for trust between human and AI.
+* It supports **adaptive delegation**: humans and AI take initiative based on mutual clarity of goals and responsibilities.
+* It prepares organizations to move from controlling AI to **collaborating with AI**.
+
+### Practical Takeaway
+
+As AI grows from tool to teammate, our leadership models must evolve in parallel. Adopting the **Leader-Leader mindset** prepares us not only to lead people better, but also to **lead with AI**—fostering partnerships built on shared intent rather than rigid commands.
+
+Future-ready architecture is not just about technology—it's about how we think, lead, and collaborate.
+
+## Final Thoughts
+
+“The role of architects has evolved from trying to be the smartest person in the room to making everyone around them smarter.” – Gregor Hohpe
+
+I find this insight also relevant in today’s AI-driven world. In a world influenced by intelligent systems, effective leadership is not about knowing everything; instead, it focuses on empowering others to thrive through the right tools, guidance, and context. 
+
+The future will likely favor those who work to enhance collective intelligence, whether human or artificial.
 
 ## To Probe Further
 * [Use the AI Transition Period to Transition Your Career](https://jakobnielsenphd.substack.com/p/ai-transition-career-transition), by Jakob Nielsen, 2025

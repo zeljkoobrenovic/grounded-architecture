@@ -61,7 +61,7 @@ If you're building your architecture practice or mentoring future architects, in
 
 In IT organizations, deep technical knowledge is essential, but it is not what truly distinguishes great architects. What sets **superglue architects** apart from other technical specialists is their ability to **connect people, priorities, and systems** through exceptional **relational skills**.
 
-Superglue architects are more than just problem solvers—they are **connectors**. They communicate clearly, negotiate thoughtfully, and influence strategically. These soft skills, combined with their technical credibility, make them **invaluable for ensuring coherence, alignment, and momentum** throughout the organization.
+Superglue architects are more than just problem solvers—they are **connectors**. They communicate clearly, negotiate thoughtfully, and influence strategically. These people skills, combined with their technical credibility, make them **invaluable for ensuring coherence, alignment, and momentum** throughout the organization.
 
 ![Architects as Superglue](assets/images/superglue/architect-as-superglue.png)
 ***Figure 1:** Architects serve as superglue, connecting development teams with business stakeholders and linking their teams with internal and external communities.*
@@ -327,6 +327,19 @@ Architects help **reframe the discussion from "either/or" to "yes/and."** For ex
 ### 2. Addressing Conflicts from **Divergent Perceptions**
 
 Misalignment often arises not from opposing goals, but from **different interpretations** of the same conversation.
+
+![Three Perspectives in Conflict](assets/images/figures/conflict-perspectives.png)
+***Figure 6:** Understanding different perspectives in conflict management.*
+
+Figure 6 illustrates three essential perspectives architects should consider when addressing conflicts arising from divergent perceptions:
+
+* **"I" Perspective (personal knowledge and values)**: Represents individual beliefs, interpretations, and subjective viewpoints that shape how each person understands conversations and decisions.
+
+* **"It" Perspective (external, objective, data-informed)**: Represents factual, measurable information and evidence-based reasoning, emphasizing a data-driven and objective view of the situation.
+
+* **"We" Perspective (shared cultural and organizational values)**: Represents collective agreements, organizational culture, shared norms, and values guiding group behaviors and decisions.
+
+Architects effectively resolve perception-driven conflicts by integrating these three perspectives, balancing individual views, objective data, and collective organizational values to facilitate mutual understanding and cohesive decision-making.
 
 **Example:**
 A business leader leaves a meeting thinking the team committed to delivering a product in three months, while the engineers believe they only agreed to an exploratory phase.
