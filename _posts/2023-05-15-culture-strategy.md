@@ -39,11 +39,11 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/jacob
 > **IN THIS SECTION, YOU WILL:** Learn that organizational culture profoundly influences IT architecture by shaping how architects approach collaboration, decision-making, innovation, and technical priorities, requiring alignment between cultural values and architectural strategies for long-term success.
 > 
 > **KEY POINTS:**
-> * Culture Defines Organizational Behavior & Decision-Making – Shared values, behaviors, and norms shape how strategies are executed and influence IT initiatives.
-> * Cultural Styles Impact IT Architecture – Different cultures (e.g., results-driven, caring, learning-focused) dictate whether IT prioritizes performance, collaboration, security, or innovation.
-> * Alignment Between IT Architecture & Culture – IT architects must tailor system designs, governance, and workflows to fit their organization's cultural environment.
-> * Balancing Cultural Trade-Offs – Blended cultures (e.g., safety & learning, results & caring) require careful navigation to balance efficiency, risk-taking, and collaboration.
-> * IT Architects as Cultural Influencers – Architects shape and adapt to organizational culture, ensuring technology strategy aligns with both business goals and cultural dynamics.
+> * **Culture defines organizational behavior and decision-making** through shared values, behaviors, and norms.
+> * **Cultural styles impact IT architecture**, influencing whether IT prioritizes performance, collaboration, security, or innovation.
+> * **Alignment between IT architecture and culture** requires tailoring system design, governance, and workflows to the organization.
+> * **Balancing cultural trade-offs** means navigating blended cultures across efficiency, risk-taking, and collaboration.
+> * **IT architects as cultural influencers** help align technology strategy with **business goals and cultural dynamics**.
 <style>
     h2 {
         margin-top: 42px;    

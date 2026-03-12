@@ -29,9 +29,9 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/imagi
 >
 > **KEY POINTS:**
 >
-> * IT architects must evolve from diagram-makers to decision-makers.
-> * AI amplifies productivity but demands more human leadership.
-> * Agency, judgment, and persuasion will define architectural impact.
+> * IT architects must evolve from **diagram-makers to decision-makers**.
+> * **AI amplifies productivity** but demands **more human leadership**.
+> * **Agency, judgment, and persuasion** will define architectural impact.
 
 <style>
  .quote {

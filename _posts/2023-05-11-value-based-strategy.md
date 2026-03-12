@@ -39,13 +39,13 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Dilok
 > **IN THIS SECTION, YOU WILL:** Learn that an IT architecture can align technology decisions with value-based business strategy by simplifying IT initiatives, enhancing customer experience, improving employee work conditions, optimizing supplier relationships, and enabling business model shifts to maximize overall value creation.
 > 
 > **KEY POINTS:**
-> * Value-Based Strategy prioritizes initiatives that create value for customers (raising WTP), employees (improving work conditions), and suppliers (reducing costs).
-> * Reducing Complexity: Eliminating redundant systems and focusing on fewer, high-impact IT initiatives increases efficiency and strategic alignment.
-> * Enhancing Customer Experience: Seamless digital interactions, personalization, and high availability improve customer satisfaction and increase their willingness to pay (WTP).
-> * Improving Employee Productivity: Automation, better tools, and flexible work arrangements enhance job satisfaction and reduce friction.
-> * Optimizing Supplier Relationships: IT-driven supply chain efficiencies reduce suppliers' costs and improve business partnerships.
-> * Leveraging IT for Ecosystems & Complementary Value: API-driven platforms and integrated digital services enhance core business offerings.
-> * Supporting Business Model Shifts: Adaptable IT architectures enable companies to pivot to new revenue streams (e.g., SaaS, cloud computing, AI-driven services).
+> * **Value-based strategy** prioritizes initiatives that create value for **customers, employees, and suppliers**.
+> * **Reducing complexity** means eliminating redundant systems and focusing on **fewer, high-impact initiatives**.
+> * **Enhancing customer experience** through seamless interactions, personalization, and availability increases satisfaction and WTP.
+> * **Improving employee productivity** depends on **automation, better tools, and flexible work arrangements**.
+> * **Optimizing supplier relationships** uses IT-driven efficiency to reduce costs and improve partnerships.
+> * **Leveraging IT for ecosystems** means using **API-driven platforms and integrated digital services**.
+> * **Supporting business model shifts** requires **adaptable IT architectures**.
 
 <style>
     h2 {

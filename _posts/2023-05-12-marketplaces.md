@@ -39,11 +39,11 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/gorod
 > **IN THIS SECTION, YOU WILL:** Learn how digital marketplaces create value by reducing transaction costs and monetizing trust, efficiency, and infrastructure.
 > 
 > **KEY POINTS:**
-> * Digital marketplaces act as intermediaries, not direct sellers, providing trust, efficiency, and infrastructure.
-> * Their core value proposition is reducing transaction costs across search, negotiation, and enforcement.
-> * Different monetization models include commission fees, paid subscriptions, promoted listings, and value-added services.
-> * The IT architecture of marketplaces focuses on scalability, automation, security, and seamless multi-sided interactions.
-> * Technologies like AI, cloud computing, and API-driven ecosystems enhance marketplace efficiency and reliability.
+> * **Digital marketplaces** act as intermediaries, providing **trust, efficiency, and infrastructure**.
+> * Their core value proposition is **reducing transaction costs** across search, negotiation, and enforcement.
+> * Monetization models include **commission fees, subscriptions, promoted listings, and value-added services**.
+> * Marketplace IT architecture focuses on **scalability, automation, security, and seamless multi-sided interactions**.
+> * **AI, cloud computing, and API-driven ecosystems** enhance marketplace efficiency and reliability.
 
 <style>
     h2 {

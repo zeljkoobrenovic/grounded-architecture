@@ -22,10 +22,10 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/elxen
 >
 > **KEY POINTS:**
 >
-> * IT transformation projects are large-scale, multi-year endeavors that often aim for significant organizational changes, such as creating unified IT platforms after mergers, and they frequently face challenges similar to other mega-projects.
-> * Common cognitive biases and decision-making fallacies like overconfidence, strategic misrepresentation, and the sunk cost fallacy often derail these projects, leading to cost overruns, delays, and underperformance.
-> * Flyvbjerg and Gardner’s book "How Big Things Get Done" highlights lessons from successful and failed mega-projects across various industries, offering 11 practical heuristics for improving project leadership, including hiring the right experts, building modular systems, and focusing on risk mitigation.
-> * Key strategies for IT success include taking the outside view to learn from similar projects, fostering strong stakeholder relationships, and avoiding unnecessary complexity or scope creep by staying focused on core objectives.
+> * **IT transformation projects** are **large-scale, multi-year endeavors** that face challenges similar to other mega-projects.
+> * **Overconfidence, strategic misrepresentation, and the sunk cost fallacy** often derail these projects.
+> * *How Big Things Get Done* highlights **practical heuristics** such as **hiring the right experts, building modular systems, and focusing on risk mitigation**.
+> * Key strategies include **taking the outside view**, **fostering stakeholder relationships**, and **avoiding unnecessary complexity**.
 <style>
  .quote {
      border-left: 8px solid #d9ead3;

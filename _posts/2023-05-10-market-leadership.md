@@ -39,11 +39,11 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Just_
 > **IN THIS SECTION, YOU WILL:** Learn about the Discipline of Market Leaders framework and its three strategic paths: operational excellence, product leadership, and customer intimacy.
 > 
 > **KEY POINTS:**
-> * Market Leadership Strategies: Companies must choose between operational excellence, product leadership, or customer intimacy as their primary focus, while maintaining baseline competence in the other areas.
-> * Operational Excellence & IT Architecture: Requires automation, process optimization, and cost-efficient technology solutions such as ERP and supply chain management.
-> * Product Leadership & IT Architecture: Emphasizes agility, rapid innovation, and integration of research, analytics, and collaboration tools.
-> * Customer Intimacy & IT Architecture: Focuses on personalized customer experiences, requiring robust CRM systems, data analytics, and seamless omnichannel integration.
-> * Strategic IT Alignment: IT architecture must be designed to support and reinforce the company's strategic choice while remaining adaptable to market changes.
+> * **Market leadership strategies** require choosing **operational excellence, product leadership, or customer intimacy** as the primary focus.
+> * **Operational excellence** requires **automation, process optimization, and cost-efficient technology**.
+> * **Product leadership** emphasizes **agility, rapid innovation, and integrated research and analytics**.
+> * **Customer intimacy** focuses on **personalized experiences**, supported by CRM, analytics, and omnichannel integration.
+> * **Strategic IT alignment** means architecture must reinforce the company's strategic choice while remaining adaptable.
 
 <style>
     h2 {

@@ -38,9 +38,9 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Eoner
 > **IN THIS SECTION, YOU WILL:**  Get a summary of several resources on strategy that I use as inspiration for running the Grounded Architecture practice in complex organizations.
 
 <br>
-There are many definitions of business strategy, but I have found the view of [Roger L. Martin](https://rogerlmartin.com/thought-pillars/strategy) the most practical. Martin describes strategy as an integrated set of choices designed to achieve a specific objective. In that view, strategy is not just a plan; it is a decision-making framework that helps an organization move toward a chosen outcome.
+There are many definitions of business strategy, but I have found [Roger L. Martin](https://rogerlmartin.com/thought-pillars/strategy) the most practical. Martin describes strategy as **an integrated set of choices** designed to achieve a specific objective. In that view, strategy is not just a plan; it is **a decision-making framework** that helps an organization move toward a chosen outcome.
 
-For architects, this matters because architecture is most useful when it helps an organization make and execute those choices. This section therefore shifts the book from internal architecture mechanics toward external business direction. It asks how architecture contributes when the organization is deciding where to play, how to win, and what capabilities it must build.
+For architects, this matters because architecture is most useful when it helps an organization **make and execute those choices**. This section shifts the book from internal architecture mechanics toward **external business direction**: where to play, how to win, and what capabilities to build.
 
 In his work, Martin introduces the "Strategy Choice Cascade," which outlines five critical questions that form the foundation of a robust strategy:
 

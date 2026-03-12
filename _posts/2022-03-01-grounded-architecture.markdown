@@ -22,8 +22,8 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Dario
 >
 > **KEY POINTS:**
 >
-> * I introduce three elements of Grounded Architecture Framework: Lightweight Architectural Analytics, Collaborative Networks, and The Operating Model as an approach to setting organizational structures for a modern IT architecture practice.
-> * Prioritizing people interactions and data over processes and tools, Grounded Architecture aims to connect an architecture practice to all organizational levels as an antidote to the "ivory tower" architecture.
+> * I introduce **three elements of the Grounded Architecture framework**: **Lightweight Architectural Analytics, Collaborative Networks, and the Operating Model**.
+> * **Grounded Architecture** prioritizes **people interactions and data** over processes and tools, connecting architecture to all organizational levels as an antidote to the "ivory tower" approach.
 <style>
  .quote {
      border-left: 8px solid #d9ead3;

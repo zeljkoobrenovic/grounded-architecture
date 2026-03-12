@@ -22,8 +22,8 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/greml
 > 
 > **KEY POINTS:**
 >
-> * When a Grounded Architecture framework is in place, it can positively transform an organization's functioning.
-> * These impact categories are Executing At Scale, Improving the Quality of Decision-Making with Data, Maximizing Organizational Alignment & Learning, and Higher Adaptivity.
+> * When **Grounded Architecture** is in place, it can **positively transform** how an organization functions.
+> * The main impact categories are **Executing At Scale**, **Improving Decision-Making with Data**, **Maximizing Organizational Alignment & Learning**, and **Higher Adaptivity**.
 <style>
  .quote {
      border-left: 8px solid #d9ead3;

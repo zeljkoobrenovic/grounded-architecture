@@ -22,8 +22,8 @@ Image by <a href="https://pixabay.com/users/mostafa_meraji-13551092/?utm_source=
 >
 > **KEY POINTS:**
 >
-> * Developing an architecture practice requires having competent, empowered, and motivated architects. An architecture practice must carefully organize, empower, and leverage scarce talent.
-> * In my work in the past few years, I combined two teams of architects: a small central architecture team and a cross-organizational distributed virtual team.
+> * Developing an architecture practice requires **competent, empowered, and motivated architects**. An architecture practice must carefully organize and leverage **scarce talent**.
+> * In recent years, I combined **a small central architecture team** with **a cross-organizational distributed virtual team**.
 
  
 <style>

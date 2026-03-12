@@ -39,11 +39,11 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Nes">
 > **IN THIS SECTION, YOU WILL:** Learn about outsourcing strategies—strategic outsourcing, co-sourcing, and transactional outsourcing—help.
 > 
 > **KEY POINTS:**
-> * Strategic Outsourcing: Long-term partnerships that drive innovation and align with business goals, requiring strong governance and integration with IT architecture.
-> * Co-Sourcing: A collaborative model where internal and external expertise is blended for shared responsibility, requiring well-defined roles, governance structures, and architectural oversight.
-> * Transactional Outsourcing: A cost-driven approach focused on routine, non-strategic tasks, emphasizing efficiency, automation, and seamless integration with enterprise systems.
-> * IT Architecture’s Role: Ensures strategic alignment, interoperability, governance, risk management, and smooth integration of outsourced capabilities.
-> * Strategy Selection: Organizations should choose an outsourcing model based on their operational maturity, business objectives, and the criticality of the outsourced function.
+> * **Strategic outsourcing** means long-term partnerships that drive innovation and align with business goals.
+> * **Co-sourcing** blends internal and external expertise with **shared responsibility** and clear governance.
+> * **Transactional outsourcing** is a cost-driven approach for routine, non-strategic tasks.
+> * **IT architecture's role** is to ensure **alignment, interoperability, governance, risk management, and integration**.
+> * **Strategy selection** should reflect **operational maturity, business objectives, and criticality**.
 
 <style>
     h2 {

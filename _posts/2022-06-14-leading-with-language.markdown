@@ -20,11 +20,11 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/jacob
 > **IN THIS SECTION, YOU WILL:**  Understand how IT Architects can transform their effectiveness and foster a more collaborative, innovative, and grounded practice by consciously applying David Marquet's six linguistic leadership plays to better navigate the complexities of modern technology environments.
 > 
 > **KEY POINTS:**
-> * IT Architects can significantly enhance their leadership and influence by adopting six key communication "plays" from David Marquet's "Leadership is Language," moving beyond outdated Industrial Age command-and-control styles.
-> * These plays—Control the Clock, Collaborate, Commit, Complete, Improve, and Connect—provide practical linguistic tools to foster better thinking (Bluework), more effective execution (Redwork), and stronger team engagement.
-> * Applying these plays helps architects build trust, flatten power gradients, encourage psychological safety, and unlock discretionary effort, leading to more robust architectural solutions and greater buy-in.
-> * The principles align directly with a "Grounded Architecture" approach by promoting data-driven decisions, collaborative networks, adaptability, and strategic impact within organizations.
-> * By consciously changing their language, architects can cultivate a more innovative, resilient, and effective engineering culture.
+> * IT architects can enhance their leadership and influence by adopting **six communication plays** from David Marquet's *Leadership is Language*.
+> * These plays, **Control the Clock, Collaborate, Commit, Complete, Improve, and Connect**, foster better thinking, execution, and team engagement.
+> * Applying these plays helps architects build **trust**, encourage **psychological safety**, and unlock stronger **buy-in**.
+> * The principles align directly with **Grounded Architecture** by promoting **data-driven decisions, collaborative networks, adaptability, and strategic impact**.
+> * By consciously changing their language, architects can cultivate **a more innovative, resilient, and effective engineering culture**.
 <style>
  .quote {
      border-left: 8px solid #d9ead3;

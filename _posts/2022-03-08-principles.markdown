@@ -22,11 +22,11 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Maria
 >
 > **KEY POINTS:**
 >
-> * No one-size-fits-all architecture practice: Organizations must customize their architecture practices to address specific challenges and contexts, focusing on resolving the organization's most pressing issues.
-> * Successful architectural work depends on collaboration with teams, distributed decision-making, and clearly defined "rules of engagement." Architects should empower teams, get involved early, avoid bureaucratic delays, and facilitate alignment with strategic goals.
-> * "Golden Paths"—clear, opinionated, and supported solutions—are essential for reducing fragmentation, increasing consistency, and guiding teams toward efficient and aligned development practices.
-> * Important architecture activities include designing decision frameworks, supporting projects and legacy modernization, tracking technical debt, conducting platform analyses, and defining strategic technology directions—all while being integrated into team workflows.
-> * Architectural support is most effective when teams meet baseline criteria (e.g., stakeholder awareness, skills, documentation literacy). Establishing expectations and defining boundaries ensures that architectural efforts are scalable and focused on areas with the most significant impact.
+> * **No one-size-fits-all architecture practice**: organizations must customize architecture to their specific challenges and most pressing issues.
+> * Successful architectural work depends on **collaboration with teams**, **distributed decision-making**, and clear **rules of engagement**.
+> * **Golden Paths** are essential for **reducing fragmentation** and guiding teams toward efficient, aligned development practices.
+> * Important architecture activities include **decision frameworks**, **legacy modernization**, **technical debt tracking**, and **strategic technology direction**.
+> * Architectural support is most effective when teams meet **baseline criteria**. Clear expectations and boundaries keep architectural work **scalable and high-impact**.
 <style>
     .quote {
      border-left: 8px solid #d9ead3;

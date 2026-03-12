@@ -26,7 +26,7 @@ excerpt: "Balancing curiosity, doubt, vision, and skepticism is essential for dr
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/vernonwiley">VAWiley</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
-> **IN THIS SECTION, YOU WILL:**  Understand that balancing curiosity, doubt, vision, and skepticism is essential for driving sustainable innovation and change in organizations.
+> **IN THIS SECTION, YOU WILL:**  Understand that balancing **curiosity, doubt, vision, and skepticism** is essential for driving sustainable innovation and change in organizations.
 >
 > **KEY POINTS:**
 >

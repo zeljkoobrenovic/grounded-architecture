@@ -37,9 +37,9 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Woraw
 
 > **IN THIS SECTION, YOU WILL:**  Get a summary of several resources that I use as inspiration for running the Grounded Architecture practice in complex organizations.
 
-A holistic approach is essential in the fast-moving and complex world of IT architecture. Traditional architecture literature often does not fully address the range of challenges architects face in practice. To broaden that perspective, I have curated a set of resources from fields such as social science, behavioral science, product management, and political science. Together, they offer useful ideas for running a Grounded Architecture practice in complex organizations.
+A **holistic approach** is essential in the fast-moving and complex world of IT architecture. Traditional architecture literature often does not fully address the range of challenges architects face in practice. To broaden that perspective, I have curated resources from **social science, behavioral science, product management, and political science**.
 
-This section extends one of the book's core claims: architects improve faster when they learn beyond architecture. Many of the hardest problems in practice are not purely technical. They involve economics, product tradeoffs, organizational behavior, and decision-making under uncertainty. To stay grounded, architects need a broader intellectual toolkit.
+This section extends one of the book's core claims: **architects improve faster when they learn beyond architecture**. Many of the hardest problems in practice involve **economics, product tradeoffs, organizational behavior, and decision-making under uncertainty**.
 
 * [**Economic Modeling With ROI and Financial Options**](economics): I sketch two methods of determining the economic value of technology investments and architecture: the return on investment metaphor and the financial options metaphor.
 

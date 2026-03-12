@@ -22,9 +22,9 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Chinn
 >
 > **KEY POINTS:**
 >
-> * Greg McKeown's "Effortless: Make It Easier to Do What Matters Most" advocates for a paradigm shift from hard work to smart, effective work by simplifying tasks and processes. 
-> * Key principles include prioritizing important tasks, leveraging automation, and embracing a mindset that values ease and enjoyment in work.
-> * Greg McKeown's book offers invaluable insights that are particularly relevant for IT architects and software engineers. McKeown's emphasis on simplifying tasks and processes is crucial in the tech industry, where complexity often dominates. 
+> * Greg McKeown's *Effortless* advocates **a shift from hard work to smart, effective work** by simplifying tasks and processes. 
+> * Key principles include **prioritizing important tasks**, **leveraging automation**, and valuing **ease and enjoyment in work**.
+> * McKeown's book offers valuable lessons for **IT architects and software engineers**, especially where **complexity often dominates**. 
 
 <style>
  .quote {

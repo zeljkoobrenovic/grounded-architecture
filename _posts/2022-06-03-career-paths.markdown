@@ -24,10 +24,10 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/RichV
 > 
 > **KEY POINTS:**
 >
-> * A strong engineering background is essential for architects to make informed technology decisions and build effective relationships with developer teams.
-> * Moving from an engineering role to an architecture role involves broadening scope, increasing diversity, and developing strong communication and influencer skills.
-> * Career tracks can include Senior Architects (broader responsibilities), Principal Architects (specialized focus), and Enterprise Architects (aligning technical strategy with business objectives).
-> * Architecture roles can lead to tech leadership positions such as Engineering Director or Chief Technology Officer (CTO), leveraging strategic vision, decision-making, and leadership skills.
+> * A **strong engineering background** is essential for architects to make informed technology decisions and build effective relationships with developer teams.
+> * Moving into architecture means **broadening scope**, increasing diversity, and developing **communication and influencer skills**.
+> * Career tracks can include **Senior Architects**, **Principal Architects**, and **Enterprise Architects**.
+> * Architecture roles can lead to **tech leadership positions** such as Engineering Director or CTO.
 <style>
  .quote {
      border-left: 8px solid #d9ead3;

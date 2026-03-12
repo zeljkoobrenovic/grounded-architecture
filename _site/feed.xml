@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-03-12T22:10:03+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: Redefining IT Architecture Practice</title><subtitle></subtitle><entry><title type="html">TL;DR Experimental Podcast</title><link href="http://localhost:4000/podcast" rel="alternate" type="text/html" title="TL;DR Experimental Podcast" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/podcast</id><content type="html" xml:base="http://localhost:4000/podcast"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/istock/iStock-1409652094.jpg" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-03-12T22:20:22+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: Redefining IT Architecture Practice</title><subtitle></subtitle><entry><title type="html">TL;DR Experimental Podcast</title><link href="http://localhost:4000/podcast" rel="alternate" type="text/html" title="TL;DR Experimental Podcast" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/podcast</id><content type="html" xml:base="http://localhost:4000/podcast"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/istock/iStock-1409652094.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/gorodenkoff">gorodenkoff</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 <blockquote>
-  <p><strong>IN THIS SECTION, YOU WILL:</strong> Get an index of all episodes of the TL;DR experimental podcast, a set of brief generated dialogues summarizing each book chapter.</p>
+  <p><strong>IN THIS SECTION, YOU WILL:</strong> Get an index of all episodes of the <strong>TL;DR experimental podcast</strong>, a set of <strong>brief generated dialogues</strong> summarizing each book chapter.</p>
 
 </blockquote>
 
@@ -507,8 +507,8 @@ Image by <a href="https://pixabay.com/users/paulbr75-2938186/?utm_source=link-at
   <p><strong>KEY POINTS:</strong></p>
 
   <ul>
-    <li>To better understand any idea or solution, it is crucial to understand the context in which this idea developed.</li>
-    <li>The Grounded Architecture approach has evolved in the context of global, loosely coupled organizations that are diverse, with nonlinear growth dynamics, and under transformation pressures.</li>
+    <li>To better understand any idea or solution, it is crucial to understand <strong>the context in which it developed</strong>.</li>
+    <li>The <strong>Grounded Architecture approach</strong> evolved in <strong>global, loosely coupled organizations</strong> that are diverse, nonlinear, and under transformation pressure.</li>
   </ul>
 </blockquote>
 <style>
@@ -884,7 +884,7 @@ Image by <a href="https://pixabay.com/users/bluehouseskis-14931490/?utm_source=l
   <p><strong>KEY POINTS:</strong></p>
 
   <ul>
-    <li>I identified the following needs that an architecture practice should support: Executing At Scale, Adaptivity, Improving the Quality of Decision-Making with Data, and Maximizing Organizational Alignment &amp; Learning.</li>
+    <li>I identified four needs an architecture practice should support: <strong>Executing At Scale, Adaptivity, Improving Decision-Making with Data, and Maximizing Organizational Alignment &amp; Learning</strong>.</li>
   </ul>
 </blockquote>
 <style>
@@ -1222,8 +1222,8 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Dario
   <p><strong>KEY POINTS:</strong></p>
 
   <ul>
-    <li>I introduce three elements of Grounded Architecture Framework: Lightweight Architectural Analytics, Collaborative Networks, and The Operating Model as an approach to setting organizational structures for a modern IT architecture practice.</li>
-    <li>Prioritizing people interactions and data over processes and tools, Grounded Architecture aims to connect an architecture practice to all organizational levels as an antidote to the “ivory tower” architecture.</li>
+    <li>I introduce <strong>three elements of the Grounded Architecture framework</strong>: <strong>Lightweight Architectural Analytics, Collaborative Networks, and the Operating Model</strong>.</li>
+    <li><strong>Grounded Architecture</strong> prioritizes <strong>people interactions and data</strong> over processes and tools, connecting architecture to all organizational levels as an antidote to the “ivory tower” approach.</li>
   </ul>
 </blockquote>
 <style>
@@ -1293,9 +1293,9 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/ko_or
   <p><strong>KEY POINTS:</strong></p>
 
   <ul>
-    <li>Lightweight Architectural Analytics serves as a medium to create a complete, up-to-date picture of critical elements of the organization’s technology landscapes.</li>
-    <li>Such analytics provides an architecture-centric view of data about a technology landscape based on source code analyses, public cloud billing reports, vibrancy reports, or incident tickets.</li>
-    <li>To facilitate the creation of Lightweight Architectural Analytics, I have been creating open-source tools that can help you obtain valuable architectural insights from data sources, such as source code repositories. Check out open-source <a href="https://zeljkoobrenovic.github.io/grounded-architecture-dashboard-examples/">architecture dashboard examples</a> and <a href="https://sokrates.dev">Sokrates</a>.</li>
+    <li><strong>Lightweight Architectural Analytics</strong> creates <strong>a complete, up-to-date picture</strong> of critical elements of the organization’s technology landscape.</li>
+    <li>Such analytics provides <strong>an architecture-centric view of data</strong> based on source code analyses, cloud billing reports, vibrancy reports, and incident tickets.</li>
+    <li>To facilitate <strong>Lightweight Architectural Analytics</strong>, I have been creating <strong>open-source tools</strong> that help derive architectural insights from data sources such as source code repositories. Check out <a href="https://zeljkoobrenovic.github.io/grounded-architecture-dashboard-examples/">architecture dashboard examples</a> and <a href="https://sokrates.dev">Sokrates</a>.</li>
   </ul>
 </blockquote>
 <style>
@@ -1886,8 +1886,8 @@ Image by <a href="https://pixabay.com/users/mostafa_meraji-13551092/?utm_source=
   <p><strong>KEY POINTS:</strong></p>
 
   <ul>
-    <li>Developing an architecture practice requires having competent, empowered, and motivated architects. An architecture practice must carefully organize, empower, and leverage scarce talent.</li>
-    <li>In my work in the past few years, I combined two teams of architects: a small central architecture team and a cross-organizational distributed virtual team.</li>
+    <li>Developing an architecture practice requires <strong>competent, empowered, and motivated architects</strong>. An architecture practice must carefully organize and leverage <strong>scarce talent</strong>.</li>
+    <li>In recent years, I combined <strong>a small central architecture team</strong> with <strong>a cross-organizational distributed virtual team</strong>.</li>
   </ul>
 </blockquote>
 
@@ -2165,10 +2165,10 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/ma_ri
   <p><strong>KEY POINTS:</strong></p>
 
   <ul>
-    <li>The Operating Model is a core part of the Grounded Architecture framework, guiding how architecture functions within an organization through principles, governance, and practices.</li>
-    <li>It is designed to evolve with the organization while ensuring architectural activities remain aligned with business objectives.</li>
-    <li>We introduce four main areas of the operating model: General Principles, Governance (Nudges, Taxation, Mandates), Transformation Support (in support of Grounded Architecture Goals), and Generative AI.</li>
-    <li>The model’s success depends on robust data (Lightweight Architectural Analytics) and strong collaboration (Collaborative Networks), not just processes and structure.</li>
+    <li><strong>The Operating Model</strong> is a core part of the Grounded Architecture framework, guiding how architecture functions through <strong>principles, governance, and practices</strong>.</li>
+    <li>It is designed to <strong>evolve with the organization</strong> while keeping architectural activities <strong>aligned with business objectives</strong>.</li>
+    <li>We introduce <strong>four main areas of the operating model</strong>: <strong>General Principles, Governance, Transformation Support, and Generative AI</strong>.</li>
+    <li>The model’s success depends on <strong>robust data</strong> and <strong>strong collaboration</strong>, not just processes and structure.</li>
   </ul>
 </blockquote>
 <style>
@@ -2254,11 +2254,11 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Maria
   <p><strong>KEY POINTS:</strong></p>
 
   <ul>
-    <li>No one-size-fits-all architecture practice: Organizations must customize their architecture practices to address specific challenges and contexts, focusing on resolving the organization’s most pressing issues.</li>
-    <li>Successful architectural work depends on collaboration with teams, distributed decision-making, and clearly defined “rules of engagement.” Architects should empower teams, get involved early, avoid bureaucratic delays, and facilitate alignment with strategic goals.</li>
-    <li>“Golden Paths”—clear, opinionated, and supported solutions—are essential for reducing fragmentation, increasing consistency, and guiding teams toward efficient and aligned development practices.</li>
-    <li>Important architecture activities include designing decision frameworks, supporting projects and legacy modernization, tracking technical debt, conducting platform analyses, and defining strategic technology directions—all while being integrated into team workflows.</li>
-    <li>Architectural support is most effective when teams meet baseline criteria (e.g., stakeholder awareness, skills, documentation literacy). Establishing expectations and defining boundaries ensures that architectural efforts are scalable and focused on areas with the most significant impact.</li>
+    <li><strong>No one-size-fits-all architecture practice</strong>: organizations must customize architecture to their specific challenges and most pressing issues.</li>
+    <li>Successful architectural work depends on <strong>collaboration with teams</strong>, <strong>distributed decision-making</strong>, and clear <strong>rules of engagement</strong>.</li>
+    <li><strong>Golden Paths</strong> are essential for <strong>reducing fragmentation</strong> and guiding teams toward efficient, aligned development practices.</li>
+    <li>Important architecture activities include <strong>decision frameworks</strong>, <strong>legacy modernization</strong>, <strong>technical debt tracking</strong>, and <strong>strategic technology direction</strong>.</li>
+    <li>Architectural support is most effective when teams meet <strong>baseline criteria</strong>. Clear expectations and boundaries keep architectural work <strong>scalable and high-impact</strong>.</li>
   </ul>
 </blockquote>
 <style>
@@ -2599,10 +2599,10 @@ Image by <a href="https://pixabay.com/nl/users/nonbirinonko-3101900/?utm_source=
   <p><strong>KEY POINTS:</strong></p>
 
   <ul>
-    <li>Architecture practice should support governance models adaptable to organizations’ complex and diverse needs. A technology governance model should be a well-balanced hybrid of three different styles of governing: mandates and bans, taxes, and nudging.</li>
-    <li>Nudging is a form of governing where you create subtle or indirect suggestions influencing someone’s behavior or decision-making without forcing them or limiting their freedom of choice.</li>
-    <li>Governing with taxes (economic incentives) is a form of guiding in which people are not forbidden to make some decisions but need to “pay” some form of taxes on used resources.</li>
-    <li>With mandates and bans, you guide people by explicitly defining what they should or should not do.</li>
+    <li>Architecture practice should support <strong>adaptable governance models</strong>. A strong technology governance model is a balanced hybrid of <strong>mandates and bans, taxes, and nudging</strong>.</li>
+    <li><strong>Nudging</strong> influences behavior through <strong>subtle suggestions</strong> without removing freedom of choice.</li>
+    <li><strong>Taxes and economic incentives</strong> guide choices by attaching a cost to using certain resources.</li>
+    <li><strong>Mandates and bans</strong> guide people by explicitly defining <strong>what they should or should not do</strong>.</li>
   </ul>
 </blockquote>
 <style>
@@ -2895,8 +2895,8 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/greml
   <p><strong>KEY POINTS:</strong></p>
 
   <ul>
-    <li>When a Grounded Architecture framework is in place, it can positively transform an organization’s functioning.</li>
-    <li>These impact categories are Executing At Scale, Improving the Quality of Decision-Making with Data, Maximizing Organizational Alignment &amp; Learning, and Higher Adaptivity.</li>
+    <li>When <strong>Grounded Architecture</strong> is in place, it can <strong>positively transform</strong> how an organization functions.</li>
+    <li>The main impact categories are <strong>Executing At Scale</strong>, <strong>Improving Decision-Making with Data</strong>, <strong>Maximizing Organizational Alignment &amp; Learning</strong>, and <strong>Higher Adaptivity</strong>.</li>
   </ul>
 </blockquote>
 <style>

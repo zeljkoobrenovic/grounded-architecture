@@ -38,7 +38,7 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/cerro
 > **IN THIS SECTION, YOU WILL:**  Get a summary of several resources that I use as inspiration for developing awareness of human complexities.
 
 <br>
-Architecture is never only technical. To be effective, architects must understand **organizational dynamics**, **cultural diversity**, and the ways **human judgment** shapes decisions. This section broadens the book's argument beyond structures and operating models. A grounded architecture practice does not succeed only because it has the right framework; it succeeds because architects can work through the human complexity that surrounds every important decision.
+Architecture is never only technical. To be effective, architects must understand **organizational dynamics**, **cultural diversity**, and the ways **human judgment** shapes decisions. This section broadens the book's argument beyond **structures and operating models**. A grounded architecture practice succeeds because architects can work through **the human complexity** that surrounds every important decision.
 
 The following resources have been especially useful to me when thinking about the human side of architecture:
 

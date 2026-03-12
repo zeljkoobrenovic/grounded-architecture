@@ -24,8 +24,8 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/TuiPh
 > 
 > **KEY POINTS:**
 >
-> * Architects' work is evaluated based on their impact on the organization. 
-> * Architects can make an impact via three pillars: Big-Picture Thinking, Execution, and Leveling-Up.
+> * Architects' work is evaluated based on **their impact on the organization**. 
+> * Architects can make an impact through **three pillars**: **Big-Picture Thinking, Execution, and Leveling-Up**.
 <style>
  .quote {
      border-left: 8px solid #d9ead3;

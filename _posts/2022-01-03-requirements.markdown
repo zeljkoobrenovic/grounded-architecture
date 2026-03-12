@@ -20,7 +20,7 @@ Image by <a href="https://pixabay.com/users/bluehouseskis-14931490/?utm_source=l
 >
 > **KEY POINTS:**
 >
-> * I identified the following needs that an architecture practice should support: Executing At Scale, Adaptivity, Improving the Quality of Decision-Making with Data, and Maximizing Organizational Alignment & Learning.
+> * I identified four needs an architecture practice should support: **Executing At Scale, Adaptivity, Improving Decision-Making with Data, and Maximizing Organizational Alignment & Learning**.
 <style>
  .quote {
      border-left: 8px solid #d9ead3;

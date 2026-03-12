@@ -22,10 +22,10 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/ma_ri
 >
 > **KEY POINTS:**
 >
-> * The Operating Model is a core part of the Grounded Architecture framework, guiding how architecture functions within an organization through principles, governance, and practices.
-> * It is designed to evolve with the organization while ensuring architectural activities remain aligned with business objectives.
-> * We introduce four main areas of the operating model: General Principles, Governance (Nudges, Taxation, Mandates), Transformation Support (in support of Grounded Architecture Goals), and Generative AI.
-> * The model’s success depends on robust data (Lightweight Architectural Analytics) and strong collaboration (Collaborative Networks), not just processes and structure.
+> * **The Operating Model** is a core part of the Grounded Architecture framework, guiding how architecture functions through **principles, governance, and practices**.
+> * It is designed to **evolve with the organization** while keeping architectural activities **aligned with business objectives**.
+> * We introduce **four main areas of the operating model**: **General Principles, Governance, Transformation Support, and Generative AI**.
+> * The model’s success depends on **robust data** and **strong collaboration**, not just processes and structure.
 <style>
  .quote {
      border-left: 8px solid #d9ead3;

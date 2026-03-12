@@ -40,11 +40,11 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/NanoS
 >
 > **KEY POINTS:**
 >
-> * Grounded Architecture emphasizes collaboration and aligns with the Six Simple Rules framework, which promotes autonomy and cooperation to manage organizational complexity effectively.
-> * The Six Simple Rules reject traditional hard and soft management styles, instead advocating for structures that empower people while encouraging mutual accountability and cooperation.
-> * Key rules include understanding actual work behaviors, reinforcing integrators, and increasing the total power in the organization to enable decision-making without creating bureaucracy.
-> * Cooperation is strengthened through reciprocity, feedback loops ("shadow of the future"), and rewarding collaborative behavior, creating a system where shared success drives performance.
-> * Architecture practices play a vital role by using tools like Lightweight Architectural Analytics and Collaborative Networks to support these rules and foster an adaptive, high-impact environment.
+> * **Grounded Architecture** aligns with **Six Simple Rules**, promoting autonomy and cooperation to manage organizational complexity.
+> * **Six Simple Rules** rejects traditional management styles in favor of structures that empower people and encourage **mutual accountability and cooperation**.
+> * Key rules include **understanding actual work**, **reinforcing integrators**, and **increasing total power** without creating bureaucracy.
+> * Cooperation is strengthened through **reciprocity**, **feedback loops**, and **rewarding collaborative behavior**.
+> * Architecture practices support these rules through **Lightweight Architectural Analytics** and **Collaborative Networks**.
 
 
 <br>

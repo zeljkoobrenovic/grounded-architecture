@@ -24,11 +24,11 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Minin
 >
 > **KEY POINTS:**
 >
-> * Generative AI (GenAI) offers significant potential to augment your work as an IT architect by enhancing data analysis (Lightweight Analytics), improving knowledge sharing (Collaborative Networks), and streamlining tasks (Operating Model).
-> * Practical applications include accelerating analytics, generating ADRs and diagrams, augmenting requirements analysis, assisting solution design, improving code reviews, and drafting communications, ultimately freeing you up for higher-value strategic thinking.
-> * While GenAI promises increased efficiency, consistency, and better data-driven decisions, you must navigate challenges like accuracy issues (hallucinations), security risks, ethical considerations (bias), and the need for continuous human oversight and judgment.
-> * Responsible adoption requires a principled approach focusing on clear objectives, strong data governance, human-in-the-loop validation, grounding AI with RAG, and fostering an AI-literate culture within your organization.
-> * The future points towards real-time, augmented EA, agentic AI, and DTOs, further emphasizing the need for adaptability and evolving your role towards governing AI and focusing on strategic, collaborative, and ethical considerations.
+> * **Generative AI (GenAI)** can augment architecture work by enhancing **data analysis**, **knowledge sharing**, and **task execution**.
+> * Practical applications include **accelerating analytics**, **generating ADRs and diagrams**, and improving reviews and communication to free time for **higher-value strategic thinking**.
+> * While GenAI promises efficiency and consistency, it also brings **hallucinations, security risks, bias, and the need for human oversight**.
+> * Responsible adoption requires **clear objectives**, **strong data governance**, **human-in-the-loop validation**, and an **AI-literate culture**.
+> * The future points toward **real-time augmented EA**, **agentic AI**, and **digital twins**, raising the need for adaptability and stronger **AI governance**.
 <style>
  .quote {
      border-left: 8px solid #d9ead3;

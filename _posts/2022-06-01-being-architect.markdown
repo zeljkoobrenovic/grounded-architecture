@@ -38,9 +38,9 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Azman
 
 <br>
 
-This section begins the part of the book where the framework turns into lived practice. Up to this point, I have focused on structure: data, people, and operating model. Here the focus shifts to the role itself and to the habits that make architecture effective inside real organizations.
+This section begins the part of the book where **the framework turns into lived practice**. Up to this point, I have focused on structure: data, people, and operating model. Here the focus shifts to **the role itself** and the habits that make architecture effective inside real organizations.
 
-That shift matters because architecture is not performed by frameworks. It is performed by people making judgments under constraint, influencing without full authority, and moving constantly between technology, strategy, and human dynamics.
+That shift matters because **architecture is not performed by frameworks**. It is performed by people making judgments under constraint, influencing without full authority, and moving constantly between **technology, strategy, and human dynamics**.
 
 So the opening question is straightforward: **what does it actually mean to be an architect in IT?** Not in a job-description sense, but in practice. What kinds of skills matter? What kind of impact counts? What sort of leadership is required? And how does the role evolve over time?
 

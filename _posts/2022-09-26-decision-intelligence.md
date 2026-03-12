@@ -47,12 +47,10 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/sasun
 > better actions, and its relevance for an IT architecture practice.
 >
 > **KEY POINTS:**
-> * Decision intelligence is the discipline of turning information into better actions.
-> * A decision involves more than just selecting from available options; it represents a commitment of resources you
-    cannot take back.
-> * Many factors make the decision-making process more or less complex, such as the number of options, costs, cognitive
-    load, emotions, and access to information.
-> * Data can significantly improve decision-making, but data do not guarantee objectivity and can even lead to more
+> * **Decision intelligence** is the discipline of turning **information into better actions**.
+> * A decision is more than selecting an option; it is **a commitment of resources** you cannot take back.
+> * Decision complexity is shaped by **options, costs, cognitive load, emotions, and access to information**.
+> * **Data can improve decision-making**, but they do not guarantee **objectivity** and can even lead to more
     subjectivity.
 > * Group decision-making offers significant advantages but increases complexity as it requires higher decision-making skills from each member.
 

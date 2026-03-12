@@ -38,11 +38,11 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/CHUNY
 > **IN THIS SECTION, YOU WILL:** Learn that the relationship between business strategy and IT architecture is dynamic and requires continuous realignment, leveraging different operating models, flexibility strategies, and IT maturity stages to maximize efficiency, agility, and strategic value.
 > 
 > **KEY POINTS:**
-> * Business Operating Models: Organizations can structure their IT and business processes around four models—Diversification, Coordination, Replication, and Unification—depending on their need for standardization and integration.
-> * Global vs. Local Flexibility: Companies must balance global efficiency with local adaptability by implementing modular architectures and governance structures that support both.
-> * Stages of IT and Strategy Alignment: Organizations evolve from business silos (fragmented systems) to business modularity (strategic agility), with increasing levels of IT-business integration.
-> * IT’s Strategic Role: IT architecture serves as a key enabler for business execution, operational efficiency, and innovation, requiring alignment with the company's operating model and strategic goals.
-> * Evolving IT Maturity: Progressing through IT maturity stages demands investment in technology, governance, and cultural shifts, ensuring seamless integration between business and IT functions.
+> * **Business operating models** include **Diversification, Coordination, Replication, and Unification**.
+> * **Global vs. local flexibility** requires balancing **efficiency with adaptability** through modular architecture and governance.
+> * **IT and strategy alignment** evolves from **business silos** toward **business modularity**.
+> * **IT architecture** is a key enabler of **business execution, operational efficiency, and innovation**.
+> * **Evolving IT maturity** demands investment in **technology, governance, and cultural shifts**.
 
 <style>
     h2 {

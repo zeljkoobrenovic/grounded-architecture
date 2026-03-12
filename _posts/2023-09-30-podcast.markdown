@@ -15,7 +15,7 @@ excerpt: "Experimental podcast with brief generated dialogues summarizing each b
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/gorodenkoff">gorodenkoff</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
-> **IN THIS SECTION, YOU WILL:** Get an index of all episodes of the TL;DR experimental podcast, a set of brief generated dialogues summarizing each book chapter.
+> **IN THIS SECTION, YOU WILL:** Get an index of all episodes of the **TL;DR experimental podcast**, a set of **brief generated dialogues** summarizing each book chapter.
 >
 
 <style>

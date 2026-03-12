@@ -45,9 +45,9 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/metam
 > **IN THIS SECTION, YOU WILL:**  Learn the basic human factors influencing decision-making.
 >
 > **KEY POINTS:**
-> * Decision-making is a human activity subject to human biases and limitations. 
-> * Fundamental biases influencing decision-making include outcome, hindsight, and confirmation biases.
-> * Human intuition plays a vital role in decision-making.
+> * **Decision-making is a human activity** subject to **biases and limitations**. 
+> * Fundamental biases include **outcome bias, hindsight bias, and confirmation bias**.
+> * **Human intuition** plays a vital role in decision-making.
 
 <br>
 [Cassie Kozyrkov](https://en.wikipedia.org/wiki/Cassie_Kozyrkov), in her [LinkedIn posts](https://www.linkedin.com/pulse/introduction-decision-intelligence-cassie-kozyrkov/) and [online courses](https://www.linkedin.com/learning/decision-intelligence/), emphasizes that **decision-making** is a human activity. That matters for architects because, regardless of how structured our frameworks are or how much data we collect, **architectural decisions are still shaped by human judgment**, with all of its strengths and limitations.

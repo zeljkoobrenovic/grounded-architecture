@@ -23,8 +23,8 @@ Image by <a href="https://pixabay.com/users/mailanmaik-4340251/?utm_source=link-
 >
 > **KEY POINTS:**
 >
-> * I have found the work of Erin Meyer, The Culture Map, to be a beneficial tool for architects to work harmoniously with people from various cultures and backgrounds.
-> * Meyer’s model contains eight scales, each representing a key area, showing how cultures vary from extreme to extreme: Communicating, Evaluating, Persuading, Leading, Deciding, Trusting, Disagreeing, and Scheduling.
+> * I have found **Erin Meyer's The Culture Map** to be a valuable tool for architects working across **different cultures and backgrounds**.
+> * Meyer's model contains **eight cultural scales**: Communicating, Evaluating, Persuading, Leading, Deciding, Trusting, Disagreeing, and Scheduling.
 <style>
  .quote {
      border-left: 8px solid #d9ead3;

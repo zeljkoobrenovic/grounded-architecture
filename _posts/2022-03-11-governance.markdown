@@ -22,10 +22,10 @@ Image by <a href="https://pixabay.com/nl/users/nonbirinonko-3101900/?utm_source=
 >
 > **KEY POINTS:**
 >
-> * Architecture practice should support governance models adaptable to organizations' complex and diverse needs. A technology governance model should be a well-balanced hybrid of three different styles of governing: mandates and bans, taxes, and nudging.
-> * Nudging is a form of governing where you create subtle or indirect suggestions influencing someone's behavior or decision-making without forcing them or limiting their freedom of choice.
-> * Governing with taxes (economic incentives) is a form of guiding in which people are not forbidden to make some decisions but need to "pay" some form of taxes on used resources.
-> * With mandates and bans, you guide people by explicitly defining what they should or should not do.
+> * Architecture practice should support **adaptable governance models**. A strong technology governance model is a balanced hybrid of **mandates and bans, taxes, and nudging**.
+> * **Nudging** influences behavior through **subtle suggestions** without removing freedom of choice.
+> * **Taxes and economic incentives** guide choices by attaching a cost to using certain resources.
+> * **Mandates and bans** guide people by explicitly defining **what they should or should not do**.
 <style>
  .quote {
      border-left: 8px solid #d9ead3;

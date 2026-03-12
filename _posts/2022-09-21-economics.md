@@ -22,9 +22,9 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Micro
 >
 > **KEY POINTS:**
 >
-> * Architects are frequently asked about the (economic) value of architecture or technology investments.
-> * Answering this question is a crucial skill for any senior architect. However, answering it concisely and convincingly to a non-technical audience may be difficult.
-> * Borrowing from existing literature, I sketch two answers to the question of the economic value of architecture: the return on investment metaphor and the selling options metaphor.
+> * Architects are frequently asked about **the economic value of architecture** or technology investments.
+> * Answering this question is **a crucial skill for any senior architect**, especially with a **non-technical audience**.
+> * I sketch **two answers** to this question: **the return on investment metaphor** and **the selling options metaphor**.
 <style>
  .quote {
      border-left: 8px solid #d9ead3;

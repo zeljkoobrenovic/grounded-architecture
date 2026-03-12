@@ -30,8 +30,8 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/pagad
 >
 > **KEY POINTS:**
 >
-> * Architects in IT organizations should develop as “superglue,” people who hold architecture, technical details, business needs, and people together across a large organization or complex projects.
-> * Architects need to be technically strong. But their unique strengths should stem from being able to relate technical issues with business and broader issues.
+> * Architects in IT organizations should develop as **“superglue”**: people who hold **architecture, technical details, business needs, and people together** across a large organization or complex projects.
+> * Architects need to be **technically strong**, but their unique value comes from connecting **technical issues with business and broader concerns**.
 <style>
  .quote {
      border-left: 8px solid #d9ead3;
@@ -50,9 +50,11 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/pagad
 </style>
 
 <br>
-To succeed as an IT architect, it is not enough to master tools, frameworks, or technologies. Success also requires the **right mindset**: a set of beliefs and habits that shape how you interpret problems and how you work with people.
+Technical strength is necessary for architects, but it is rarely sufficient. In real organizations, architecture succeeds or fails based on whether someone can connect decisions across teams, bridge business and engineering concerns, and keep important work moving despite complexity and ambiguity.
 
-This chapter develops one of the book's central claims about the architect's role. Grounded Architecture depends on people who can connect strategy, systems, teams, and decisions in daily practice. The "superglue" metaphor captures that connective work.
+That is why I find the **superglue metaphor** useful. Strong architects do more than design systems or review diagrams. They create coherence. They connect **strategy and execution**, **technical detail and business intent**, and **people who would otherwise drift apart**.
+
+This chapter is about that connective role. It explains why architects need to be more than technical experts and why some of their most valuable contributions come from translation, alignment, and judgment rather than from formal authority or isolated design work.
 
 ## The Superglue Mindset: What It Takes to Be an Effective IT Architect
 

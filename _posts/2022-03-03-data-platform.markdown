@@ -22,9 +22,9 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/ko_or
 >
 > **KEY POINTS:**
 >
-> * Lightweight Architectural Analytics serves as a medium to create a complete, up-to-date picture of critical elements of the organization's technology landscapes. 
-> * Such analytics provides an architecture-centric view of data about a technology landscape based on source code analyses, public cloud billing reports, vibrancy reports, or incident tickets.
-> * To facilitate the creation of Lightweight Architectural Analytics, I have been creating open-source tools that can help you obtain valuable architectural insights from data sources, such as source code repositories. Check out open-source [architecture dashboard examples](https://zeljkoobrenovic.github.io/grounded-architecture-dashboard-examples/) and [Sokrates](https://sokrates.dev).
+> * **Lightweight Architectural Analytics** creates **a complete, up-to-date picture** of critical elements of the organization's technology landscape. 
+> * Such analytics provides **an architecture-centric view of data** based on source code analyses, cloud billing reports, vibrancy reports, and incident tickets.
+> * To facilitate **Lightweight Architectural Analytics**, I have been creating **open-source tools** that help derive architectural insights from data sources such as source code repositories. Check out [architecture dashboard examples](https://zeljkoobrenovic.github.io/grounded-architecture-dashboard-examples/) and [Sokrates](https://sokrates.dev).
 <style>
  .quote {
      border-left: 8px solid #d9ead3;

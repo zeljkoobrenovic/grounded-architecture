@@ -39,11 +39,11 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/ismag
 > **IN THIS SECTION, YOU WILL:** Understand that business architecture is a shared, often invisible practice that helps organizations understand how they create value — even if no one formally owns or names it.
 > 
 > **KEY POINTS:**
-> * Business architecture is a loosely defined, often invisible discipline that spans strategy, operations, design, and technology — making it hard to pin down or assign to a single owner.
-> * There is ongoing debate about whether it exists as a standalone function or whether it is better understood as a set of shared perspectives and practices spread across roles.
-> * Different roles shape business architecture in different ways — from enterprise architects and COOs to service designers and heads of strategy — often without using the term.
-> * Rather than centralizing ownership, the most effective approach could be shared stewardship, where multiple teams contribute to a common understanding of how the business works and changes.
-> * Ultimately, business architecture may be less about definitions and more about creating clarity — helping organizations see the whole, make better decisions, and connect intent with execution.
+> * **Business architecture** is a loosely defined, often invisible discipline spanning **strategy, operations, design, and technology**.
+> * There is ongoing debate about whether it is **a standalone function** or **a shared set of practices** across roles.
+> * **Enterprise architects, COOs, service designers, and heads of strategy** all shape business architecture, often without naming it.
+> * Rather than centralizing ownership, the most effective approach may be **shared stewardship**.
+> * Ultimately, business architecture is less about definitions and more about **creating clarity**: helping organizations see the whole, make better decisions, and connect intent with execution.
 
 <style>
     h2 {
