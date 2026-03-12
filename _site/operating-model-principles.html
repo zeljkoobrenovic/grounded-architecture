@@ -159,18 +159,20 @@ Each organization will have different architectural needs and contexts. When for
 
 <ul>
   <li><em>“Your architecture team’s job is to <strong>solve your biggest problems</strong>. The best setup is the one that allows it to accomplish that.”</em></li>
-  <li><em>“Your organization has to earn its way to an effective an architecture practice. <strong>You can’t just plug some architects into the current mess</strong> and expect it to solve all your problems.”</em></li>
+  <li><em>“Your organization has to earn its way to an effective architecture practice. <strong>You can’t just plug some architects into the current mess</strong> and expect it to solve all your problems.”</em></li>
 </ul>
 
-<p>Considering Gregor Hohpe’s previous two points, I approach defining an architecture practice with the mindset that there is no one-size-fits-all method. You must find your own activities and operating models to enable architecture to solve the most critical problems.</p>
+<p>Taking Gregor Hohpe’s points seriously means accepting that there is no universal operating model for architecture. You need to define the activities and working model that allow architecture to address your organization’s most important problems.</p>
+
+<p>In the broader flow of the manuscript, this chapter turns the Operating Model from a high-level concept into day-to-day practice. If the earlier chapters define the three pillars of the framework, this one explains the behavioral rules that make those pillars usable: how architects engage, how decisions are distributed, and how alignment is maintained without excessive control.</p>
 
 <div class="quote">
 There is no one-size-fits-all approach: each organization must find activities and operating models that enable architecture to solve the most critical problems.
 </div>
 
-<p>No matter which operating models you select, it’s crucial to develop <strong>explicit agreements</strong> and “rules of engagement” with key stakeholders. This collaborative approach is essential to create a sustainable and practical an architecture practice.</p>
+<p>Whatever operating model you choose, it is crucial to establish <strong>explicit agreements</strong> and rules of engagement with key stakeholders. Without them, architecture work becomes inconsistent, difficult to scale, and easy to misunderstand.</p>
 
-<p>This section outlines some lessons I learned when defining IT architecture operating models. The Operating Model is a part of the Grounded Architecture framework that defines a set of <strong>processes and agreements</strong> that allow architects to do everything an architecture practice typically does. The model should leverage Lightweight Architectural Analytics and Collaborative Networks to develop a data-informed, organization-wide impact. Lightweight Architectural Analytics and Collaborative Networks provide a basis for data-informed decision-making that is well-embedded in the organization.</p>
+<p>This section outlines lessons I learned while defining IT architecture operating models. In the Grounded Architecture framework, the Operating Model is the set of <strong>processes and agreements</strong> that enables architects to do the work expected of an architecture practice. It should draw on Lightweight Architectural Analytics and Collaborative Networks to create data-informed impact across the organization.</p>
 
 <p><br /></p>
 <h2 id="examples-of-architecture-activities">Examples of Architecture Activities</h2>
@@ -220,16 +222,21 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Stock
 <p><br /></p>
 <h2 id="guiding-principles-for-architectural-excellence-policies-autonomy-and-engagement">Guiding Principles for Architectural Excellence: Policies, Autonomy, and Engagement</h2>
 
-<p>In this section, I address different guiding principles of architectural work:</p>
+<p>An operating model becomes real only when it shapes daily behavior. In practice, that means deciding how architects engage with teams, where decisions are made, how much autonomy teams have, and what forms of alignment are non-negotiable.</p>
+
+<p>My default stance is that architecture should be <strong>collaborative, supportive, and early</strong>. Architects should help teams make better decisions, not create approval queues. They should move constantly between daily support and long-range direction, using data to ground discussions and lightweight guardrails to prevent fragmentation.</p>
+
+<p>The sections that follow describe the three ideas that matter most in this model:</p>
+
 <ul>
-  <li>Our <strong>operating framework</strong> always emphasizes a <strong>collaborative</strong> and <strong>supportive</strong> approach. Architects should empower development teams to make most decisions while ensuring strategic alignment and minimal compatibility. Architects should engage early in processes to <strong>avoid bureaucratic delays,</strong> focus on constant motion between daily support and strategic tasks, and use data to inform decisions.</li>
-  <li>The <strong>distributed decision-making</strong> model promotes team autonomy complemented by high transparency and alignment, guided by principles that balance autonomy with global consistency.</li>
-  <li>The “Golden Paths” concept enhances uniformity and efficiency.</li>
+  <li>A high-level operating framework for how architects engage</li>
+  <li>A distributed decision model that combines autonomy with transparency</li>
+  <li>Golden Paths as the practical expression of alignment</li>
 </ul>
 
 <h3 id="high-level-operating-framework">High-Level Operating Framework</h3>
 
-<p>While exact activities and their scope will depend on an organization setting and will change over time, I usually followed a common operational framework in daily work inspired by Gregor Hohpe’s strategy-principles-decisions model (Figure 1).</p>
+<p>The exact list of activities will vary by organization and will change over time. What should remain stable is the way the practice behaves. In my own work, I have usually relied on a common operational framework inspired by Gregor Hohpe’s strategy-principles-decisions model (Figure 1).</p>
 
 <div>
 <a href="assets/images/arch/architecture-system.png" target="_blank">
@@ -240,12 +247,12 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Stock
 
 <p><br /></p>
 
-<p>Here are the key characteristics of this operating framework:</p>
+<p>The framework has four defining characteristics:</p>
 
 <p><strong>Engagement mindset</strong>:</p>
 <ul>
-  <li>Architects engage with stakeholders and teams in a <strong>collaborative and supportive manner</strong>.</li>
-  <li>Architects aim to <strong>empower the teams</strong> so that they make most of the decisions.</li>
+  <li>Architects work with teams in a <strong>collaborative and supportive manner</strong>.</li>
+  <li>The aim is to <strong>strengthen team judgment</strong>, not replace it.</li>
 </ul>
 
 <p><strong>Contributions of architects</strong>:</p>
@@ -258,29 +265,29 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Stock
 
 <p><strong>Social dynamics of architects</strong>:</p>
 <ul>
-  <li>Architects spend their time in <strong>constant motion</strong> between supporting teams’ <strong>daily work</strong> and working on <strong>strategic topics</strong>, helping the organization achieve alignment between strategy and implementation.</li>
+  <li>Architects spend their time in <strong>constant motion</strong> between team-level support and strategic work, helping the organization stay aligned between strategy and implementation.</li>
 </ul>
 
 <p><strong>Shift left</strong>:</p>
 <ul>
-  <li>Avoid <strong>formal bureaucratic approval</strong> processes, where architects appear too late and are frequently busy approving trivial decisions.</li>
-  <li>Have architects <strong>involved early</strong> in any of the processes, such as during the planning and preparation stages, where it is possible to make more significant changes. Think of it as having the architects as early birds catching the architectural worms, making big changes before the day officially starts.</li>
+  <li>Avoid <strong>late-stage approval processes</strong> in which architects mostly review decisions that are already difficult to change.</li>
+  <li>Bring architects in <strong>early</strong>, during planning and framing, when they can still influence the shape of the solution rather than react to it.</li>
 </ul>
 
 <p><br /></p>
 <h3 id="distributing-decisions-autonomy-and-alignment">Distributing Decisions, Autonomy, and Alignment</h3>
 
-<p>With any operating model, I aim to keep architectural decision-making distributed across the organization and embedded in the development teams. Development <strong>teams traditionally have the best insights and most information</strong> relevant for making decisions. As noted by Gregor Hohpe, the worst case of organizational decision-making happens when people with relevant information are not allowed to make decisions, while people who lack sufficient information make all decisions. Grounded Architecture aims to make relevant information more readily available to a broader audience and better connect people when making decisions.</p>
+<p>With any operating model, I try to keep architectural decision-making distributed and embedded in development teams. In most cases, those teams hold the richest local information. As Gregor Hohpe has pointed out, the worst decision systems are those in which the people with the relevant information cannot decide, while the people making the decisions lack context. Grounded Architecture tries to correct that imbalance by making information more visible and by connecting the right people at the right time.</p>
 
 <div class="quote">
 Grounded Architecture aims to make relevant information more readily available to a broader audience and better connect people when making decisions.
 </div>
 
-<p>While I aim to create a mechanism to give teams autonomy, autonomy does not mean that teams are alone, do not align with anyone, do not get feedback from anyone, and do whatever they want. Teams must complement <strong>autonomy</strong> with high <strong>transparency</strong> and <strong>proactivity</strong> in alignment with other groups.</p>
+<p>But autonomy is not isolation. It does not mean teams can ignore shared constraints, avoid feedback, or optimize purely for themselves. Teams need to pair <strong>autonomy</strong> with <strong>transparency</strong>, <strong>proactive alignment</strong>, and a willingness to expose decisions early enough for others to react.</p>
 
 <p>I have sometimes implemented the concept of a <strong>decision pyramid</strong> (Figure 2) to give the teams <strong>maximal autonomy</strong> while maintaining a <strong>minimal</strong> level of <strong>global alignment</strong> and compatibility.</p>
 
-<p>The <strong>decision pyramid</strong> highlights that development teams should make most decisions. However, several strategic and area-level choices may provide team decision boundaries. For example, selecting the public cloud provider is typically a CTO-level strategic decision. Similarly, engineering leaders in some areas may want to limit some choices, such as the number of programming languages, to more easily train new people, maintain code, and support moves between teams.</p>
+<p>The <strong>decision pyramid</strong> expresses this balance. Teams should make most decisions, but they do so inside a set of boundaries created by broader strategic and area-level choices. Selecting a public cloud provider, for example, is often a CTO-level decision. Limiting the number of programming languages in a domain may be an engineering leadership decision. Those constraints reduce fragmentation and make hiring, onboarding, maintenance, and cross-team mobility easier.</p>
 
 <p><img src="assets/images/arch/decision-pyramid.png" alt="" />
 <em><strong>Figure 2:</strong> A decision pyramid. The development teams should make most decisions. However, several strategic and area-level decisions may provide decision boundaries for teams (e.g., golden paths or tech stack constraints).</em></p>
@@ -309,16 +316,16 @@ Grounded Architecture aims to make relevant information more readily available t
 <p><br /></p>
 <h3 id="golden-paths">Golden Paths</h3>
 
-<p>I have found that the concept of Golden Paths provides an excellent ground to <strong>drive alignment and collaboration</strong> in architecture activities. Golden Paths is an approach utilized to streamline and unify the development process within a software ecosystem, aiming to tackle fragmentation and foster consistency, inspired by <a href="https://engineering.atspotify.com/2020/08/how-we-use-golden-paths-to-solve-fragmentation-in-our-software-ecosystem/">Spotify’s implementation</a>. Golden Paths can be described as “<strong>opinionated and supported</strong>” routes developers can follow to build systems efficiently and effectively.</p>
+<p>I have found Golden Paths to be one of the most effective mechanisms for turning abstract alignment into concrete practice. Inspired in part by <a href="https://engineering.atspotify.com/2020/08/how-we-use-golden-paths-to-solve-fragmentation-in-our-software-ecosystem/">Spotify’s implementation</a>, Golden Paths are <strong>opinionated and supported</strong> ways of building common classes of systems.</p>
 
 <p><img style="" src="assets/images/spotify-golden-paths_infrastructure-and-tooling-700x327.png" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by engineering.atspotify.com
 </div>
 
-<p>Golden paths provide a solid <strong>foundation for aligning</strong> architecture activities, serving as a common target of work for Guilds and central architectural teams. Rather than being solely knowledge-sharing entities, <strong>guilds</strong> can be empowered to <strong>develop golden paths,</strong> serving as an excellent catalyst for more effective community engagement. This approach not only enhances the role of guilds but also increases the adoption of golden paths as they are created collaboratively.</p>
+<p>Golden Paths matter because they connect architecture, platform work, and community practice. They give guilds and central teams something practical to build, improve, and support together. Instead of merely discussing best practices, teams can turn those practices into reusable defaults that are easier to adopt than to ignore.</p>
 
-<p>Golden Paths can be crucial to an organization’s IT development landscape as a deliberate and strategic effort to promote <strong>uniformity,</strong> <strong>efficiency,</strong> and <strong>reliability.</strong> By advocating for a set of preferred technologies and practices that are <strong>well-supported,</strong> <strong>secure,</strong> and aligned with the organization’s broader objectives, Golden Paths can guide developers to build less fragmented, and faster-to-develop software. Ultimately, this leads to higher-quality and more maintainable IT systems.</p>
+<p>When done well, Golden Paths reduce fragmentation without creating rigidity. They improve <strong>uniformity, efficiency, and reliability</strong> by making the preferred route well-supported, secure, and easy to use. They do not remove choice entirely, but they make the default choice good enough that most teams will take it voluntarily.</p>
 
 <h2 id="guided-autonomy-and-privileged-autonomy">Guided Autonomy and Privileged Autonomy</h2>
 
@@ -359,7 +366,7 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Annas
 <p><br /></p>
 <h2 id="setting-boundaries-clear-boundaries--strong-relationships--effective-architecture-practice">Setting Boundaries: Clear Boundaries + Strong Relationships = Effective Architecture Practice</h2>
 
-<p>One of the amusing challenges with setting up an architecture practice in an organization is that everyone seems to have a different idea of what “architecture” should entail. It’s like asking people to describe a unicorn: some imagine a mythical, majestic creature, while others picture a sparkly horse with a horn that grants wishes. Good architects can do many things, but this versatility might not always be the most effective way to support the organization. We need to <strong>set boundaries</strong> so that we can focus on what’s important rather than becoming frazzled by what’s not.</p>
+<p>One of the persistent challenges in setting up an architecture practice is that everyone has a different idea of what “architecture” should cover. Good architects can do many things, but that does not mean they should do everything. We need to <strong>set boundaries</strong> so the practice stays focused on the work that matters most.</p>
 
 <p><br />
 <img src="assets/images/istock/iStock-92285726.jpg" alt="" /></p>
@@ -368,7 +375,7 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Ingen
 </div>
 <p><br /></p>
 
-<p>To be effective, I’ve found it crucial to establish and clearly communicate some “<strong>rules of engagement</strong>” (ROE). Think of ROE as the office playbook for how architects should operate. In a corporate setting, ROE are the principles that guide how employees and departments interact with each other, clients, and stakeholders. This includes communication protocols, decision-making processes, and conflict-resolution mechanisms. Essentially, ROE sets the stage for what’s expected and what’s not, ensuring everyone plays nicely and fairly.</p>
+<p>To be effective, I have found it essential to define and communicate clear “<strong>rules of engagement</strong>” (ROE). In practice, ROE clarify how architects work with teams and stakeholders: how decisions are made, how disagreements are resolved, and what support architecture can reasonably provide.</p>
 
 <p>While you may need to tailor these rules to fit your organization, I found it helpful to set expectations for what the team should be able to do to qualify for the architecture support. Here’s a handy list of expectations for teams seeking architecture support. This also helps clarify what an architecture practice isn’t supposed to do:</p>
 
@@ -396,9 +403,9 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Ingen
   </li>
 </ol>
 
-<p>Aligning on these rules with the teams helps ensure productive conversations about architectural support. When these conditions are met, an architecture practice can help teams level up. When they’re not, architecture support can’t be as effective. However, that doesn’t mean struggling teams are left in the lurch. Architecture can help teams meet these expectations but can’t compensate for their total lack. Teams need to take the initiative and lead. For instance, it’s impractical to have architects working full-time for months with one team as their senior developer. However, architects can coach and help developers grow which is a more scalable appraoch. Similarly, architects can assist in building relationships with other teams, but the teams themselves need to be active and engaged.</p>
+<p>Aligning on these rules with teams helps create productive conversations about architectural support. When these conditions are met, an architecture practice can help teams level up. When they are not, architecture support is naturally less effective. That does not mean struggling teams should be ignored. Architecture can help teams meet these expectations, but it cannot fully compensate for their absence. Teams still need to take ownership. For example, it is not scalable to use architects as long-term substitute senior developers for a single team. Architects can coach, unblock, and help people grow, but the teams themselves need to engage and improve.</p>
 
-<p>So, set those expectations, establish your rules of engagement, and watch as your an architecture practice goes from a sparkly unicorn to a well-oiled machine!</p>
+<p>Clear expectations and clear rules of engagement make the architecture practice more focused, scalable, and effective.</p>
 
 <p><br /></p>
 <h2 id="final-thoughts">Final Thoughts</h2>
@@ -428,6 +435,8 @@ Architectural support is most effective when teams meet baseline criteria (e.g.,
   </li>
 </ol>
 
+<p>These principles also reinforce one of the book’s core arguments: architecture becomes effective when it helps teams make better decisions in context, not when it tries to centralize every important choice. The Operating Model works best when it creates clarity, support, and practical defaults rather than bureaucracy.</p>
+
 <p><br /></p>
 <h2 id="to-probe-further">To Probe Further</h2>
 
@@ -440,8 +449,7 @@ Architectural support is most effective when teams meet baseline criteria (e.g.,
 
 <p><br /></p>
 <h2 id="questions-to-consider">Questions to Consider</h2>
-
-<p>Your an architecture practice job is to solve the biggest problems in your organization. Ask yourself the following questions:</p>
+<p>Use the following questions to examine whether your principles are clear, usable, and strong enough to guide everyday choices.</p>
 
 <ul>
   <li><em>How can you identify the most critical problems that your architects need to solve in your organization?</em></li>
@@ -455,7 +463,6 @@ Architectural support is most effective when teams meet baseline criteria (e.g.,
   <li><em>How does the concept of a decision pyramid resonate with you?</em></li>
   <li><em>Which strategic and area-level decisions provide team decision boundaries in your organization? Are there areas where you need more or less limitations to optimize performance?</em></li>
 </ul>
-
 
         <div style="margin-bottom: -32px; margin-top: 28px"><table style="border: none; font-size: 80%; margin: 0; padding: 0;">
     <tr style="border: none; margin: 0; padding: 0">

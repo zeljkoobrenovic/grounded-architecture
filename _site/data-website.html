@@ -128,48 +128,46 @@ Image by <a href="https://pixabay.com/users/jozefm84-10215106/?utm_source=link-a
 </style>
 
 <blockquote>
-  <p><strong>IN THIS SECTION, YOU WILL:</strong>Get a few practical tips on building lean architecture dashboards and documents (e.g., to create Lightweight Architectural Analytics) using simple, widely available tools.</p>
+  <p><strong>IN THIS SECTION, YOU WILL:</strong> Get practical tips on building lean architecture dashboards and documents using simple, widely available tools.</p>
 </blockquote>
 
 <p><br />
-While the lessons in this book are not limited to specific technologies and tools, I will share a few of my secrets for easily and affordably creating dashboards and documents that are crucial for data-informed decision-making.</p>
+The ideas in this book are not tied to any specific tool stack, but implementation choices still matter. Over time, I have become increasingly skeptical of heavyweight tooling for architecture dashboards and documentation. In many organizations, those solutions create more maintenance burden than insight.</p>
 
-<p>Have you ever felt overwhelmed by the many specialized tools for creating architectural artifacts? Fear not! I’m here to show you that simplicity is often the key to brilliance. Imagine crafting high-quality documentation and stunning visualizations without complex software or extensive training. Not only is it possible, but it’s also incredibly efficient.</p>
+<p>My preference is to start with the lightest possible implementation that still delivers useful visibility. For <a href="analytics">Lightweight Architectural Analytics</a>, that often means static HTML, structured JSON, version control, and a few carefully chosen generation scripts rather than a complex application platform.</p>
 
-<p>In this guide, I’ll explore the power of leveraging simple, lean tools that are widely available and easy to use. You don’t need to be a tech wizard to create impressive <a href="analytics">Lightweight Architectural Analytics</a> dashboards and architectural documents. I hope you will find these techniques refreshingly straightforward and efficient.</p>
+<p>This section explains why that approach works and which techniques have proven most practical.</p>
 
-<p>Here are two examples to illustrate the power of simplicity:</p>
+<p>Two examples illustrate the point:</p>
 
 <ul>
   <li>I’ve developed several plain <a href="https://zeljkoobrenovic.github.io/grounded-architecture-dashboard-examples/apps/docs/index.html">HTML/CSS/DOM templates</a> (with <a href="https://github.com/zeljkoobrenovic/grounded-architecture-dashboard-examples">open-source code</a>) that I leverage in my daily work, and you can use for free yourself.</li>
   <li><a href="https://sokrates.dev">Sokrates.dev</a>, a tool I developed, generates all reports in plain old HTML without any special libraries. Check out the example of the Apache Foundation <a href="https://d3axxy9bcycpv7.cloudfront.net/asf/_sokrates_landscape/index.html">source code landscape</a>.</li>
 </ul>
 
-<p>These documents work on any browser, can be hosted on any simple HTTP server, and can be opened directly on any laptop or PC. They are also easy to maintain since no complex frameworks are used.</p>
-
-<p>So, grab your digital toolkit and join us on this exciting journey. We’ll harness the power of everyday tools to create extraordinary results. Get ready to transform your architectural documentation process and discover the magic of simplicity!</p>
+<p>These documents work in any browser, can be hosted on any simple HTTP server, and can be opened directly on a laptop without additional runtime dependencies. Just as importantly, they remain easy to maintain because the implementation stays small.</p>
 
 <p><br /></p>
 <h2 id="implementation-principles">Implementation Principles</h2>
 
-<p>When setting out on any journey, it’s having a clear set of principles is vital to guide you. These principles are your trusty map and compass, ensuring you navigate the architectural landscape efficiently and effectively. Here are the fundamental principles that will keep you on track:</p>
+<p>When building these systems, it helps to start with a clear set of principles. Here are the ones I rely on most:</p>
 
 <ul>
-  <li><strong>Leverage Existing Infrastructure</strong>: Why reinvent the wheel when you can turbocharge what you already have? Utilizing existing infrastructure saves time and resources.</li>
-  <li><strong>Maintainable by a Small Architecture Team</strong>: Keep it simple! The architecture team normally does not have much time to polish self-created tools.</li>
-  <li><strong>Broad Access Inside Organization</strong>: Everyone should have a ticket to the show. Broad access ensures that all stakeholders can engage and contribute.</li>
+  <li><strong>Leverage Existing Infrastructure</strong>: Use what already exists whenever possible. It saves both time and effort.</li>
+  <li><strong>Maintainable by a Small Architecture Team</strong>: The architecture team rarely has spare capacity to maintain an internal product with heavy technical complexity.</li>
+  <li><strong>Broad Access Inside Organization</strong>: The documents should be easy for anyone in the organization to open, share, and understand.</li>
 </ul>
 
 <p><br /></p>
 <h2 id="lean-implementation-techniques">Lean Implementation Techniques</h2>
 
-<p>Here are a few techniques I leverage in my work.</p>
+<p>The techniques below are the ones I use most often.</p>
 
 <h3 id="visualization-with-plain-old-htmlcssdom">Visualization With Plain Old HTML/CSS/DOM</h3>
 
-<p>Who says you need a high-tech toolbox to create dazzling visuals? Sometimes, sticking with the basics can yield the most elegant and practical results. Embrace the simplicity and power of plain old HTML, CSS, and the DOM.</p>
+<p>Sometimes the simplest tools are the most practical. Plain HTML, CSS, and the DOM are often enough to build effective visualizations and interactive documents.</p>
 
-<p>Earlier, I always used heavyweight visualization and UI frameworks to build interactive tools. But nowadays, I leave the heavy frameworks at the door. You can create beautiful, functional interfaces with just the basics—no React, Angular, or Vue here – just pure, unadulterated HTML and CSS magic.</p>
+<p>I used to rely on heavyweight visualization and UI frameworks for this kind of work. Over time, I found that many useful tools can be built with just the basics, without introducing unnecessary framework complexity.</p>
 
 <p><img src="assets/images/data_site_simple_html.png" alt="" />
 <em><strong>Figure 1:</strong> Simple generated HTML visual of source code analysis results.</em></p>
@@ -177,11 +175,11 @@ While the lessons in this book are not limited to specific technologies and tool
 <p><br /></p>
 <h3 id="embedding-json-in-html-documents">Embedding JSON in HTML Documents</h3>
 
-<p>Most of the documents I create are data-driven. This approach means that I generate visuals using templates based on structured data. For my tools, I primarily export data in JSON format and embed it into a copy of an HTML template. JSON is the lifeblood of these data-driven applications. I can dynamically display data by insode HTML documents. This method makes the documents more portable and ensures you can open and view them on various devices.</p>
+<p>Most of the documents I create are data-driven. I generate visuals from templates backed by structured data, usually exported as JSON and embedded into an HTML template. That keeps the documents portable and easy to open with minimal setup.</p>
 
 <h3 id="simple-proven-html-based-2d--3d-visuals">Simple Proven HTML-Based 2D &amp; 3D Visuals</h3>
 
-<p>Let’s talk visuals. Here are some simple, proven methods I always use (you can find HTML templates of these visuals <a href="https://github.com/zeljkoobrenovic/grounded-architecture-dashboard-examples/tree/main/template/templates/visuals">here</a>):</p>
+<p>Some simple, proven visual techniques I use regularly are listed below. You can find HTML templates for them <a href="https://github.com/zeljkoobrenovic/grounded-architecture-dashboard-examples/tree/main/template/templates/visuals">here</a>:</p>
 
 <ul>
   <li><strong><a href="https://d3axxy9bcycpv7.cloudfront.net/asf/activemq/_sokrates_landscape/index.html">Bar Charts</a></strong>: Classic and practical, perfect for showing comparisons.</li>
@@ -194,7 +192,7 @@ While the lessons in this book are not limited to specific technologies and tool
 
 <h3 id="icon-libraries">Icon Libraries</h3>
 
-<p>Icons are the unsung heroes of data visualization. They add clarity and visual appeal and help communicate concepts quickly. Explore websites like thenounproject.com (my favorite) for a treasure trove of icons to enhance your visualizations.</p>
+<p>Icons can add clarity and visual emphasis. Resources such as thenounproject.com are useful for finding consistent visual symbols.</p>
 
 <p><img src="assets/images/data_site_icons.png" alt="" />
 <em><strong>Figure 2:</strong> A screenshot from thenounproject.com.</em></p>
@@ -214,7 +212,7 @@ While the lessons in this book are not limited to specific technologies and tool
 
 <h3 id="together-with-data">Together with Data</h3>
 
-<p>I also store data used to generate the documents alongside the documents. This approach ensures that the documents and data are always in sync. The approach allows for reproducing any document version precisely as it was at any point in time, maintaining integrity and reliability.</p>
+<p>I also store the data used to generate the documents alongside the documents themselves. This keeps context and output in sync and makes it possible to reproduce any version precisely as it existed at a given moment.</p>
 
 <h3 id="lean-hosting-techniques">Lean Hosting Techniques</h3>
 
@@ -253,22 +251,22 @@ While the lessons in this book are not limited to specific technologies and tool
 <p><br /></p>
 <h2 id="two-examples-deployments">Two Examples Deployments</h2>
 
-<p>In my recent experiences, I have utilized the following two examples to create a dynamic ecosystem of collaborative, data-driven dashboards.</p>
+<p>In recent work, I have used the following two setups to create collaborative, data-driven dashboards.</p>
 
-<p><strong>Simple Setup with GitHub Pages and Google Sheets:</strong> Start with a straightforward setup using GitHub Pages for hosting and Google Sheets for data management. This combination is powerful, easy to maintain, and highly accessible. The open-source example is available at <a href="https://zeljkoobrenovic.github.io/grounded-architecture-dashboard-examples/apps/docs/index.html">the Grounded Architecture resources site</a></p>
+<p><strong>Simple Setup with GitHub Pages and Google Sheets:</strong> Start with a straightforward setup using GitHub Pages for hosting and Google Sheets for data management. This combination is simple, easy to maintain, and broadly accessible. The open-source example is available at <a href="https://zeljkoobrenovic.github.io/grounded-architecture-dashboard-examples/apps/docs/index.html">the Grounded Architecture resources site</a>.</p>
 
 <p><img src="assets/images/data_site_simple_arch_1.png" alt="A simple runtime architecture leveraging GitHub pages and Google Sheets." />
 <em><strong>Figure 5:</strong> A simple runtime architecture leveraging GitHub pages and Google Sheets.</em></p>
 
-<p><strong>Simple Setup with GitHub Pages and Google Sheets:</strong> Start with a straightforward setup using GitHub Pages for hosting and Google Sheets for data management. This combination is powerful, easy to maintain, and highly accessible. The open-source example is available at</p>
+<p><strong>More Flexible Setup with CDNs, Internal IAM, and Google Sheets:</strong> A slightly more advanced setup can add CDNs and internal identity management while preserving the same lightweight principles.</p>
 
 <p><img src="assets/images/data_site_simple_arch_2.png" alt="Slightly more flexible runtime architecture leveraging CDNs, internal IAM, and Google Sheets." />
 <em><strong>Figure 6:</strong> Slightly more flexible runtime architecture leveraging CDNs, internal IAM, and Google Sheets.</em></p>
 
 <p><br /></p>
-<h2 id="its-your-turn-now">It’s Your Turn Now!</h2>
+<h2 id="final-note">Final Note</h2>
 
-<p>By adhering to the principles and techniques described, you’ll be well-equipped to create stunning, maintainable architectural documentation and visualizations that everyone in your organization can appreciate and utilize. Happy architecting!</p>
+<p>Using the principles and techniques described here, you can create maintainable dashboards and documents that remain easy to build, share, and evolve over time.</p>
 
         <div style="margin-bottom: -32px; margin-top: 28px"><table style="border: none; font-size: 80%; margin: 0; padding: 0;">
     <tr style="border: none; margin: 0; padding: 0">
