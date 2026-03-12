@@ -56,7 +56,7 @@ Designed to be **flexible and adaptive**, the Operating Model evolves alongside 
 <br>
 The Operating Model comprises four main areas:
 
-* **[General Principles](operating-model)**  
+* **[General Principles](operating-model-principles)**  
   A set of guiding values and actionable principles to help architects operate effectively. These principles highlight the importance of utilizing data and networks to create meaningful, measurable impact across the organization.
 
 * **[Governance Principles: Nudges, Taxation, Mandates](governance)**  
