@@ -25,13 +25,15 @@ Image by <a href="https://pixabay.com/users/pexels-2286921/?utm_source=link-attr
     }
 </style>
 
-> **IN THIS SECTION, YOU WILL:** Get an overview of ISO/IEC 25010 standard that provides guidelines and recommendations for evaluating software product quality.
+> **IN THIS SECTION, YOU WILL:** Get an overview of the ISO/IEC 25010 standard and how it can be used to evaluate software quality in practice.
+
+Standards can easily become abstract checklists, but ISO/IEC 25010 is useful when treated more pragmatically. It offers a compact vocabulary for discussing software quality in a way that is more disciplined than personal preference and more practical than vague statements about “good architecture.”
 
 ## Overview
 
-ISO/IEC 25010 is a standard that provides guidelines and recommendations for evaluating software product quality. It is a part of the ISO/IEC 25000 series, which encompasses a set of international standards for software engineering.
+ISO/IEC 25010 is a standard for evaluating software product quality. It is part of the ISO/IEC 25000 series, a broader family of international standards for software quality and systems engineering.
 
-The standard identifies several quality characteristics that should be considered during evaluation. I have used four of them in practice and can recommend them as a pragmatic way to assess and discuss the quality of software systems:
+The standard identifies several quality characteristics that should be considered during evaluation. In practice, I have found four of them especially useful as a pragmatic way to assess and discuss software quality:
 
 * **Maintainability:** The ease with which the software can be modified, corrected, adapted, or enhanced.
 * **Security:** The software's ability to protect information and data from unauthorized access, disclosure, alteration, destruction, or disruption.

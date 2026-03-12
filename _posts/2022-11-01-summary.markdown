@@ -41,11 +41,13 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Ruhey
     }
 </style>
 
-This book shared my approach to running an IT architecture practice in larger organizations based on my experience at AVIV Group, eBay Classifieds, and Adevinta. I called this approach "Grounded Architecture"—architecture with strong foundations and deep roots. Prioritizing people interactions and data over processes and tools, Grounded Architecture aims to connect an architecture practice to all organizational parts and levels, serving as an antidote to the "ivory tower" architecture.
+This book has argued for a simple idea: architecture becomes useful when it stays connected to the organization instead of drifting above it. That is what I mean by **Grounded Architecture**. It is an approach shaped by my work at AVIV Group, eBay Classifieds, and Adevinta, and built around people, data, and practical engagement rather than distance and abstraction.
 
-This book introduced Grounded Architecture as an IT architecture practice with two main parts (Figure 1):
-* **Structure**, elements you need to have to run Grounded Architecture practice, and
-* **Guiding Principles**, pieces of advice that can help put the ideas of Grounded Architecture into practice.
+The goal was not to present architecture as a fixed organizational template. The goal was to show how an architecture practice can become more effective when it is grounded in evidence, embedded in human networks, and organized to influence real decisions.
+
+The book is organized around two main concerns (Figure 1):
+* **Structure**: the elements needed to run a Grounded Architecture practice
+* **Guiding Principles**: the practical habits and ideas that make those elements work in daily practice
 
 The Grounded Architecture framework consists of three elements:
 * [Lightweight Architectural Analytics (Data)](analytics),
@@ -61,7 +63,7 @@ The Grounded Architecture framework consists of three elements:
 
 Lastly, the sections *[Operating Model: General Principles](operating-model)*, and *[Governance Principles: Nudges, Taxation, Mandates](governance)*, and *[Bonus: Leveraging Generative AI within Grounded Architecture Framework](gen-ai)* define a collection of processes and agreements that lets architects do their thing, leveraging data and people connections to create a powerful, organization-wide impact.
 
-As a part of my work on Grounded Architecture, I also provided several guiding principles and tools that I found helpful to introduce the ideas of Grounded Architecture in practice. I grouped these resources into several parts:
+Beyond the framework itself, I included a set of principles and tools that I have found useful in practice. These sections widen the argument from structure into behavior, judgment, and execution:
 
 * [**On Being an Architect**](being-architect):
   * [Building Skills](skills)
@@ -84,7 +86,7 @@ As a part of my work on Grounded Architecture, I also provided several guiding p
   * [Decision Intelligence in IT Architecture: Learning From Data, Social, and Managerial Fields](decision-intelligence)
   * [How Big Transformations Get Done: Learning From Mega-Projects](big-transformations)
 
-When Grounded Architecture is in place, it can have a significant [positive impact](impact) on the functioning of an organization:
+When Grounded Architecture is in place, it can have a significant [positive impact](impact) on an organization:
 
 * Enable Execution of Architecture Function At Scale,
 * Increase the Quality of Decision-Making with Data,
@@ -92,10 +94,14 @@ When Grounded Architecture is in place, it can have a significant [positive impa
 * Maximize Organizational Learning, and
 * Increase Architecture Function Adaptivity.
 
+Across these chapters, the recurring theme is that architecture works best when it helps an organization learn faster, align better, and change with less friction. The framework chapters describe the structural foundations. The later chapters show how those foundations hold up when they meet leadership, culture, strategy, economics, product thinking, and transformation work.
+
 <div class="quote">
 While you may borrow ideas from others, every organization is different, and your approach must adapt to your context.
 </div>
 
-While you may borrow ideas from others, every organization is different, and your approach must adapt to your context. When forming an architecture practices, I always advise not to forget these [two pieces of advice from Gregor Hohpe](https://architectelevator.com/architecture/organizing-architecture/):
+The final caution is the same one that appears throughout the book: every organization is different, and the practice has to fit the context. When forming an architecture practice, I keep returning to these [two pieces of advice from Gregor Hohpe](https://architectelevator.com/architecture/organizing-architecture/):
  * "*Your architecture team’s job is to solve your biggest problems. The best setup is the one that allows it to accomplish that.*"
- * "*Your organization has to earn its way to an effective an architecture practice. You can’t just plug some architects into the current mess and expect it to solve all your problems.*"
+ * "*Your organization has to earn its way to an effective architecture practice. You can’t just plug some architects into the current mess and expect it to solve all your problems.*"
+
+That is also the right way to end this book. Grounded Architecture is not a formula to copy. It is a way to think about how architecture can become more useful, more credible, and more adaptive by staying close to the realities of the organization it serves.

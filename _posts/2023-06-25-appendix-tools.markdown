@@ -20,7 +20,7 @@ src="assets/images/arch/adult-gfd09399f9_1920.jpg">
 Image by <a href="https://pixabay.com/users/pexels-2286921/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1866533">Pexels</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1866533">Pixabay</a>
 </div>
 
-> **IN THIS SECTION, YOU WILL:** Get an overview of several tools I've built and use in daily architectural work.
+> **IN THIS SECTION, YOU WILL:** Get an overview of several tools I have built and use in daily architectural work.
 
 <style>
     .book {
@@ -43,6 +43,8 @@ Image by <a href="https://pixabay.com/users/pexels-2286921/?utm_source=link-attr
     }
 </style>
 
+This appendix collects the tools I rely on most often in day-to-day architectural work. They are not presented as a mandatory stack, but as concrete examples of the kind of lightweight, practical tooling that supports Grounded Architecture without creating unnecessary overhead.
+
 ## Tools
 
 <table>
@@ -51,7 +53,7 @@ Image by <a href="https://pixabay.com/users/pexels-2286921/?utm_source=link-attr
 <img src="assets/icons/architecture.png" class="book">
 </td>
 <td>
-<b>Architecture Dashboard Examples</b>: source code of examples of how to build an Architecture Data Dashboard as a part of the Lightweight Architectural Analytics. The dashboard is a simple static website generated from JSON files and published via GitHub pages.
+<b>Architecture Dashboard Examples</b>: source code showing how to build an architecture data dashboard as part of Lightweight Architectural Analytics. The dashboard is a simple static website generated from JSON files and published via GitHub Pages.
 </td>
 <td style="font-size: 50%; line-height: 12px; text-align: center">
 <div>
@@ -88,7 +90,7 @@ Sokrates can help you understand your code by making visible the size, complexit
 <img src="assets/images/books/productivity_tools.png" class="book">
 </td>
 <td>
-<b>Productivity Tools</b>: a collection of more than 100 online tools I built to help me in my daily work as an architect. I reuse these tools and lessons learned in building these tools when designing Lightweight Architectural Analytics parts of the Grounded Architecture.
+<b>Productivity Tools</b>: a collection of more than 100 online tools I built to support my daily work as an architect. I also reuse the lessons learned from building these tools when designing Lightweight Architectural Analytics as part of Grounded Architecture.
 </td>
 <td style="font-size: 50%; line-height: 12px; text-align: center">
 <div>
@@ -103,7 +105,7 @@ Sokrates can help you understand your code by making visible the size, complexit
 <img src="assets/images/arch/obren359.jpeg" class="book">
 </td>
 <td>
-<b>obren359.com</b>: I've created a curated collections and high-quality IT knowledge resources (articles, videos, podcasts).
+<b>obren359.com</b>: a curated collection of high-quality IT knowledge resources, including articles, videos, and podcasts.
 </td>
 <td style="font-size: 50%; line-height: 12px; text-align: center">
 <div>
@@ -114,6 +116,4 @@ Sokrates can help you understand your code by making visible the size, complexit
 </td>
 </tr>
 </table>
-
-
 

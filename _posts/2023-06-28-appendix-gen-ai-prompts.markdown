@@ -10,7 +10,7 @@ author: by Željko Obrenović (obren.io)
 permalink: gen-ai-prompts
 icon: llm.png
 timetoread: 15 min
-excerpt: Get examples of prompts you can use to explore the capabilities of generative AI tools like ChatGPT, Gemini, and others with data curated in Lightweight Architecture Analytics.
+excerpt: Examples of prompts you can use to explore generative AI tools such as ChatGPT and Gemini with data curated in Lightweight Architectural Analytics.
 
 ---
 <img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover"
@@ -19,7 +19,7 @@ src="assets/images/istock/iStock-1481084506.jpg">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/insjoy">insjoy</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 
-> **IN THIS SECTION, YOU WILL:** Get examples of prompts you can use to explore the capabilities of generative AI tools like ChatGPT, Gemini, and others with data curated in Lightweight Architecture Analytics. These prompts are designed to help you understand how to leverage these tools for various architecture tasks. Check out these propmpt via the open-source [architecture dashboard examples](https://zeljkoobrenovic.github.io/grounded-architecture-dashboard-examples/).
+> **IN THIS SECTION, YOU WILL:** Get example prompts you can use to explore generative AI tools such as ChatGPT and Gemini with data curated in Lightweight Architectural Analytics. These prompts are intended to show how such tools can support a range of architecture tasks. See these prompts via the open-source [architecture dashboard examples](https://zeljkoobrenovic.github.io/grounded-architecture-dashboard-examples/).
 
 <style>
     .book {
@@ -43,6 +43,8 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/insjo
 </style>
 
 <br>
+These prompts are meant to make the GenAI discussion more concrete. Instead of talking abstractly about possible use cases, they show how generative AI can be applied to recurring architecture tasks when it is grounded in real organizational data.
+
 ## Cloud Cost Optimization Analyst
 
 
@@ -475,7 +477,4 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/insjo
 <br>**Example files to provide as input**:
 
 - [incidents/data/incidents.json](https://github.com/zeljkoobrenovic/grounded-architecture-dashboard-examples/blob/main/incidents/data/incidents.json)
-
-
-
 

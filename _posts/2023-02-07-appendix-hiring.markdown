@@ -18,7 +18,7 @@ excerpt: "Hiring architects effectively requires a structured, multi-stage proce
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/insta_photos">insta_photos</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
-> **IN THIS SECTION, YOU WILL:**  Get ideas and tips about developing architects' career paths.
+> **IN THIS SECTION, YOU WILL:** Get practical guidance on hiring architects effectively.
 > 
 > **KEY POINTS:**
 >
@@ -51,7 +51,7 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/insta
 <br>
 ## Hiring Process
 
-Developing and hiring architects requires **constantly raising the bar** to ensure a strong and diverse team structure. Having more architects does not necessarily leads to a better team. Having good **alignment and diversity of perspectives** is even more important for an architecture team than for other groups.
+Developing and hiring architects requires **consistently raising the bar** to build a strong and diverse team. Simply adding more architects does not automatically create a better architecture function. What matters more is **alignment, judgment, and diversity of perspective**.
 
 <div class="quote">
 It is vital to take more active ownership of hiring architects. Due to the vast diversity of how companies define the architect's role, recruiters may need help understanding the role's requirements. 
@@ -59,7 +59,7 @@ It is vital to take more active ownership of hiring architects. Due to the vast 
 
 It is vital to take more **active ownership of hiring architects**. Due to the vast diversity of how different companies define the architect's role, recruiters may need help understanding the role's requirements.
 
-While you will need to design your hiring process, the hiring process should ensure a solid evaluation of the candidates:
+Whatever hiring process you choose, it should ensure a strong evaluation of candidates across the following dimensions:
   * **[Technical skills](skills)**: An architect must possess a solid technical background in the relevant areas, such as software development, infrastructure, cloud computing, and security. The process can assess their expertise through technical questions, tests, or case studies.
   * **[Communication and collaboration skills](skills)**: Architects often work with stakeholders, including business leaders, developers, and project managers. Therefore, the process could evaluate the candidate's ability to communicate effectively, work in a team, and manage stakeholders.
   * **[Leadership and problem-solving abilities](impact)**: As a senior team member, an architect should have strong leadership skills and the ability to solve complex problems. The process could assess the candidate's experience leading teams, making critical decisions, and resolving technical challenges.
@@ -76,7 +76,7 @@ In terms of steps, I typically work with some version of the following process (
   * Cultural fit
   * Leadership and problem-solving abilities
     
-**Step 2: In-Depth Interview with Senior/Principle/Enterprise Architects**
+**Step 2: In-Depth Interview with Senior/Principal/Enterprise Architects**
 
 * Typical duration 90 min
 * Extra focus on:
@@ -104,11 +104,12 @@ For senior positions, I typically introduce an additional step of meeting senior
    * Leadership abilities
    * Communication and collaboration skills
 
-With the described steps, you can get a solid overview of all critical aspects of superglue architects. In particular, the involvement of people outside architecture or engineering is crucial to minimize risk related to a lack of interest and ability to engage with all relevant stakeholders.
+With these steps, you can build a reasonably complete view of the qualities that matter in strong architects. In particular, involving people outside architecture or engineering helps reduce the risk of hiring someone who lacks the interest or ability to engage effectively with a broader stakeholder group.
 
 
 <br>
 ## Questions to Consider
+Use the following questions to reflect on how you hire for judgment, capability, and long-term fit.
 
 * *Do you actively own the hiring process for architects in your organization, or rely heavily on recruiters?*
 * *How well does your current hiring process assess both technical expertise and cultural fit?*

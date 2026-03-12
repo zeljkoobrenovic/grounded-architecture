@@ -44,7 +44,9 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Tashu
  }
 </style>
 
-> **IN THIS SECTION, YOU WILL:** Get a cheatsheet with all key points from in all sections.
+> **IN THIS SECTION, YOU WILL:** Get a cheat sheet with key points collected from all sections.
+
+This cheat sheet is meant as a compact refresher rather than a substitute for the chapters themselves. Use it to revisit the main ideas quickly, reconnect the different parts of the manuscript, and recall the points that matter most in practice.
 
 ## Introductions
 
@@ -90,7 +92,7 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Tashu
 > * When a Grounded Architecture framework is in place, it can positively transform an organization's functioning.
 > * These impact categories are Executing At Scale, Improving the Quality of Decision-Making with Data, Maximizing Organizational Alignment & Learning, and Higher Adaptivity.
 
-## On Being Architect
+## On Being an Architect
 
 ### Building Skills
 > * An architect's typical skillset includes hard (technical) skills, people skills, product development, business skills, and decision-making skills.
@@ -164,4 +166,3 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Tashu
 > * Common cognitive biases and decision-making fallacies like overconfidence, strategic misrepresentation, and the sunk cost fallacy often derail these projects, leading to cost overruns, delays, and underperformance.
 > * Flyvbjerg and Gardner’s book "How Big Things Get Done" highlights lessons from successful and failed mega-projects across various industries, offering 11 practical heuristics for improving project leadership, including hiring the right experts, building modular systems, and focusing on risk mitigation.
 > * Key strategies for IT success include taking the outside view to learn from similar projects, fostering strong stakeholder relationships, and avoiding unnecessary complexity or scope creep by staying focused on core objectives.
-

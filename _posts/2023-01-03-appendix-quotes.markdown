@@ -86,7 +86,7 @@ Your architecture team’s job is to <b>solve your biggest problems</b>. The bes
 </div>
 
 <div class="favorite-quote">
-Your organization has to <b>earn its way to an effective an architecture practice</b>. You can’t just plug some architects into the current mess and expect it to solve all your problems.
+Your organization has to <b>earn its way to an effective architecture practice</b>. You can’t just plug some architects into the current mess and expect it to solve all your problems.
 <div class="author">-Gregor Hophe</div>
 </div>
 
@@ -141,4 +141,3 @@ Architecture is just a collective hunch, a <b>shared hallucination</b>, an asser
 Architectural decisions are design decisions that are <b>hard to make</b> or <b>costly to change</b>.
 <div class="author">-Olaf Zimmermann</div>
 </div>
-

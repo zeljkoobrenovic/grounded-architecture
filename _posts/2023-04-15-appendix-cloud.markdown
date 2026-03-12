@@ -27,9 +27,11 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Marje
 
 > **IN THIS SECTION, YOU WILL:** Get a mix of key distributed and messaging system topics combined with modern public cloud engineering themes.
 
+Cloud design patterns are useful because they turn recurring distributed-systems problems into recognizable design choices. For architects, they provide a practical vocabulary for discussing trade-offs in scalability, resilience, messaging, and operational control.
+
 ## Overview
 
-Cloud Design Patterns offer a mix of key distributed and messaging system topics and modern public cloud engineering themes.
+Cloud Design Patterns combine key ideas from distributed systems and messaging with modern public cloud engineering themes.
 
 I grouped these patterns into the following categories:
 * Performance and Scalability,

@@ -20,7 +20,7 @@ src="assets/images/istock/iStock-2157103268.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/MininyxDoodle">Mininyx Doodle</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
-> **IN THIS SECTION, YOU WILL:** An overview of external resources related to Generative AI, including general concepts, trends, enterprise impact, RAG, Agentic AI, responsible AI, governance, best practices, security, and specific use cases and tools.
+> **IN THIS SECTION, YOU WILL:** Get an overview of external resources on Generative AI, including concepts, trends, enterprise impact, RAG, agentic AI, governance, security, and practical use cases.
 >
 
 <style>
@@ -39,6 +39,8 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Minin
         }
     }
 </style>
+
+Generative AI is moving too quickly for any single chapter to stay complete for long. This appendix is therefore a working reference list: a curated set of resources that can help architects track the field, understand the major themes, and go deeper into the parts most relevant to their work.
 
 
 ### Generative AI - General Concepts, Trends & Enterprise Impact

@@ -55,7 +55,7 @@ Image by <a target="_blank" href="https://www.istockphoto.com/nl/portfolio/eames
 </style>
 
 <br>
-In any workplace, particularly in high-pressure environments, it's not uncommon to encounter **challenging personalities.** While some colleagues contribute positively to team dynamics, others can **create friction,** **lower morale**, or **undermine the team's collective success.** These individuals often exhibit **toxic behaviors** that can be detrimental to both personal well-being and project outcomes. Based on the HBR article by Tessa West, "[5 Jerks at Work and How to Deal with Them](https://hbr.org/2022/09/5-jerks-at-work-and-how-to-deal-with-them)," here I discuss several types of toxic colleagues:
+In any workplace, especially high-pressure environments, you will occasionally encounter **challenging personalities**. Some colleagues strengthen team dynamics; others create friction, lower morale, or undermine collective success. Based on Tessa West’s HBR article, "[5 Jerks at Work and How to Deal with Them](https://hbr.org/2022/09/5-jerks-at-work-and-how-to-deal-with-them)," this section outlines several recurring types of toxic colleague:
 
 * The Kiss-Up / Kick-Down
 * The Credit Stealer
@@ -63,9 +63,9 @@ In any workplace, particularly in high-pressure environments, it's not uncommon 
 * The Gaslighter
 * The Micromanager
 
-Recognizing these types of colleagues is crucial for addressing their behaviors and maintaining a healthy work environment. **IT architects are particularly vulnerable** to toxic colleagues' negative impact due to their roles' unique nature. As key players in designing and implementing complex systems, IT architects **must collaborate with diverse groups,** including software developers, operations teams, executives, and external stakeholders. These interactions often occur in **high-stakes environments** during strategic decision-making, system architecture reviews, or technology roadmap presentations. Their work's wide-ranging and cross-functional nature means they are **regularly exposed to different personalities** and work styles.
+Recognizing these patterns matters because it makes the behavior easier to address without becoming trapped in it. **IT architects are particularly exposed** to the negative impact of toxic colleagues because their roles are highly cross-functional. Architects work with software developers, operations teams, executives, and external stakeholders, often in **high-stakes settings** such as strategic decisions, architecture reviews, or roadmap discussions.
 
-Because IT architects are responsible for making decisions that affect the long-term direction of a company's technology infrastructure, their work is **highly visible and influential.** This exposure makes them **more susceptible to the disruptive behavior** of toxic colleagues, such as credit stealers, bulldozers, or those who undermine their efforts in front of leadership. Toxic behaviors in these critical settings can lead to misaligned strategies, eroded team trust, and even project failure. These risks underscore the urgency for IT architects to recognize and mitigate these challenges early on.
+Because architectural work influences the long-term direction of a company’s technology landscape, it is **highly visible and influential**. That visibility makes architects more vulnerable to colleagues who steal credit, undermine decisions, or create political friction in front of leadership. Left unchecked, these behaviors can distort strategy, erode trust, and damage execution.
 
 <br>
 ## The Kiss-Up / Kick-Down
@@ -306,6 +306,7 @@ In all these examples, **The Micromanager** creates inefficiencies and disrupts 
 
 <br>
 ## Questions to Consider
+Use the following questions to reflect on how you recognize, respond to, and contain toxic behavior at work.
 
 * *Have you encountered colleagues who exhibit any of the challenging behaviors described, such as the Kiss-Up/Kick-Down or the Credit Stealer? How did you handle the situation?*
 * *How does the behavior of these difficult personalities affect team morale and project outcomes in your experience?*

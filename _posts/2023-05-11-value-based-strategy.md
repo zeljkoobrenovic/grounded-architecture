@@ -1,6 +1,6 @@
 ---
 layout: post
-section: "Appendix 5: Notes On Strategy"
+section: "Appendix 5: Random Notes On Strategy"
 title: "Value-Based Strategy"
 position: 17011
 podcast: value-based-strategy.mp3
@@ -55,7 +55,9 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Dilok
 
 <br>
 
-As IT architects, we often focus on designing scalable, secure, and efficient systems. However, true architectural success comes from **aligning IT strategy with business value creation**. Felix Oberholzer-Gee’s article, “[**Eliminate Strategic Overload**](https://hbr.org/2021/05/eliminate-strategic-overload),” introduces a **value-based strategy**, which simplifies strategic decision-making by focusing on initiatives that create substantial **value for customers, employees, and suppliers**. This concept directly relates to IT architecture, underscoring how **technology decisions** should support **overarching business goals**.
+Architects often talk about scalability, security, resilience, and efficiency. All of those matter. But by themselves they do not answer the most important question: **what kind of value is the organization actually trying to create?** Felix Oberholzer-Gee’s article, “[**Eliminate Strategic Overload**](https://hbr.org/2021/05/eliminate-strategic-overload),” is useful because it pushes strategy back toward value creation. Instead of spreading attention across too many initiatives, it asks leaders to focus on the kinds of moves that create meaningful value for **customers**, **employees**, and **suppliers**.
+
+For architects, that is a powerful reframing. It means technology should not be justified only in technical terms or even only in efficiency terms. It should be justified by the value it enables and protects.
 
 
 <br>
@@ -106,14 +108,14 @@ These capabilities rely on integrated IT systems that facilitate transparency, s
 <br>
 ## Creating Technology Ecosystem For Business Success
 
-By **embedding these principles into IT architecture**, enterprises can create a technology ecosystem directly contributing to business success.  
+By **embedding these principles into IT architecture**, enterprises can create a technology ecosystem that contributes directly to business success.  
 
 ![](assets/images/istock/iStock-2083917031.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/FasaiBudkaew">Fasai Budkaew</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 
-IT leaders should move beyond technical efficiency and align architectures with strategic value creation by:  
+IT leaders should therefore move beyond technical efficiency alone and align architecture with value creation by:  
 
 1. **Simplifying technology stacks** to focus on fewer impactful systems.  
 2. **Enhancing customer experiences** through well-architected digital platforms.  
@@ -123,7 +125,7 @@ IT leaders should move beyond technical efficiency and align architectures with 
 6. **Enabling business model shifts** by designing adaptable IT infrastructures.  
 
 
-By adopting **value-based strategy principles**, **IT architects** ensure that technology is not just an **operational enabler** but a **core driver of business value**.
+Seen this way, architecture is not just an operational support function. It becomes one of the mechanisms through which the business creates and preserves value.
 
 <br>
 ### Reducing Complexity: Focusing on Fewer, High-Impact IT Initiatives
@@ -177,6 +179,7 @@ Example: Microsoft’s transition from Windows licenses to a **cloud-based subsc
 
 <br>
 ## Questions to Consider
+Use the following questions to examine whether your strategy is truly anchored in value creation or only in activity and ambition.
 
 * *How does your organization’s IT architecture currently contribute to customer value creation? Are there areas for improvement?*
 * *In what ways does your company use IT to enhance employee experience and productivity?*

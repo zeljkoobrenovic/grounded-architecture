@@ -53,7 +53,7 @@ Image by <a target="_blank" href="https://flic.kr/p/8zKRAU">tableatny</a> from <
 <br>
 ## Performance & Growth Management
 
-I have frequently used the Radical Candor framework (a management philosophy developed by Kim Scott) to manage the performance and growth of IT architects, focusing on fostering an environment of honest communication and personal development. Here's how we apply the fundamental principles that you could use as an inspiration for your processes.
+I have often used the Radical Candor framework, developed by Kim Scott, to manage the performance and growth of IT architects. It provides a practical way to combine honest communication with personal development. Here is how I have applied its core principles and how they may inform your own approach.
 
 <br>
 ### Key Principles
@@ -101,13 +101,13 @@ Performance targets need to be closely aligned with the organization's strategic
 <br>
 ### Growth Management
 
-Another idea I borrow from Radical Candor is the recognition that employees have different career trajectories and aspirations in growth and performance. It divides these into two main categories: the steep growth trajectory (superstars) and the stable growth trajectory (rock stars, solid as a rock). People of both growth trajectories could have poor or exceptional performance (Figure 3).
+Another idea I borrow from Radical Candor is that people have different growth trajectories and ambitions. The framework distinguishes between a steep growth trajectory (superstars) and a stable growth trajectory (rock stars). People in either trajectory can perform poorly or exceptionally (Figure 3).
 
 ![](assets/images/performance-growth.png)
 ***Figure 3:** An example framework for measuring the performance of architects of different growth trajectories.*
 
 
-Here's an overview of how views growth and performance for rock stars and superstar:
+Here is an overview of how the framework views growth and performance for rock stars and superstars:
 
 #### Stable Growth Trajectory (Rock Stars)
 
@@ -143,7 +143,7 @@ By applying these principles, we aimed to create an environment where employees 
 <br>
 ### Career Conversations
 
-Whenever I can, I incorporate [Radical Candor](https://www.radicalcandor.com/blog/how-to-have-career-conversations/) career conversations with architects. While you need to find a way for your team and organization, for me, it helped organize architects' careers. The Radical Candor framework proposes three career conversations: Life Story, Dreams, and Career Action Plan.
+Whenever possible, I incorporate [Radical Candor](https://www.radicalcandor.com/blog/how-to-have-career-conversations/) career conversations into my work with architects. You will need to adapt the approach to your team and organization, but I have found it useful for structuring career development. The framework proposes three conversations: Life Story, Dreams, and Career Action Plan.
 
 **Understanding Motivations and Values - Life Story**
 
@@ -151,15 +151,15 @@ The first step in the Radical Candor career conversations approach is understand
 
 **Exploring Aspirations - Dreams**
 
-The second step is to understand where people aim to be at the peak of their careers. While some managers might doubt that younger workers know what they want to be when they grow up, everyone has dreams. It's essential to help individuals make these dreams more tangible. Some managers might worry about asking employees to focus on a single vision too early in their careers.
+The second step is to understand where people hope to be at the height of their careers. Some managers may doubt that younger employees know this clearly, but most people have ambitions worth exploring. The goal is to make those ambitions more tangible without forcing premature certainty.
 
-However, these concerns should not prevent you from having Career Conversations. People and their dreams evolve, so regular Career Conversations are crucial. Just like seeking feedback from your team, these discussions are an ongoing practice.
+These concerns should not prevent you from having career conversations. People evolve, and so do their ambitions, which is why these discussions need to happen regularly. Like feedback, they work best as an ongoing practice rather than a one-off exercise.
 
 **Creating an Action Plan - Career Action Plan**
 
 With an understanding of both the past and future, you can now develop a relevant and thoughtful action plan with clear responsibilities and timelines.
 
-While Career Conversations take time, I integrated them into my usual one-on-one meetings. These discussions often become some of the most enjoyable and productive interactions.
+Career conversations take time, but I found it effective to integrate them into regular one-on-one meetings. They often become some of the most useful and productive discussions.
 
 
 <br>
@@ -186,6 +186,7 @@ While Career Conversations take time, I integrated them into my usual one-on-one
 
 <br>
 ## Questions to Consider
+Use the following questions to think more deliberately about how you are building your career as an architect.
 
 * *How can the Radical Candor framework improve performance and feedback dynamics in your team?*
 * *Are you effectively balancing praise and criticism when managing architectural talent?*

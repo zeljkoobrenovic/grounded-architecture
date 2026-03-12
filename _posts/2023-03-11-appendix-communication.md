@@ -58,11 +58,11 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/RichV
 
 
 <br>
-This text presents three practical and influential resources I've found beneficial for IT and software architects to enhance their communication skills.
+This section presents several practical resources that I have found useful for IT and software architects who want to strengthen their communication skills.
 
 * **"So What! How to Communicate What Really Matters to Your Audience" by Mark Magnacca** focuses on communication techniques emphasizing clarity, audience understanding, and relevance. It teaches how to convey ideas effectively by understanding the audience's needs, utilizing clear messaging, and engaging through stories and interactive dialogue. The book provides specific storylines and scenarios to apply these techniques.
 
-* **"Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity" by Kim Scott** - This guide is essential for anyone who aims to build strong teams and foster open communication. Scott introduces the concept of Radical Candor, which combines personal care with direct challenges, helping leaders provide honest feedback while building genuine relationships. The book outlines various quadrants of interaction styles, including Ruinous Empathy and Obnoxious Aggression, providing a framework for understanding the effects of different communication approaches.
+* **"Radical Candor: Be a Better Boss Without Losing Your Humanity" by Kim Scott** - This guide is essential for anyone who aims to build strong teams and foster open communication. Scott introduces the concept of Radical Candor, which combines personal care with direct challenges, helping leaders provide honest feedback while building genuine relationships. The book outlines various quadrants of interaction styles, including Ruinous Empathy and Obnoxious Aggression, providing a framework for understanding the effects of different communication approaches.
 
 * **"Never Split the Difference: Negotiating As If Your Life Depended On It" by Chris Voss** - Drawing from his experience as an FBI negotiator, Voss offers strategies for high-stakes negotiations. Techniques such as Tactical Empathy, Mirroring, and Calibrated Questions can help navigate difficult discussions and reach effective agreements without compromising goals.
 
@@ -71,7 +71,7 @@ This text presents three practical and influential resources I've found benefici
 * Goulston, a psychologist, consultant, author, and frequent TV contributor, has written an insightful book that delves into effective communication, not just listening. His book **"Just Listen: Discover the Secret to Getting Through to Absolutely Anyone"** outlines nine core rules for connecting with people. It provides twelve quick and easy techniques to achieve buy-in and effective communication.
 
 
-Each resource can equip IT architects with the tools to improve their communication and leadership skills, which are crucial for influencing stakeholders, driving successful project outcomes,  and managing teams in the fast-paced technology field.
+Each of these resources can help architects improve the communication and leadership skills needed to influence stakeholders, support successful projects, and work effectively across teams.
 
 <br>
 <hr>
@@ -185,7 +185,7 @@ Here are a few examples of how you could use "So What!" techniques in IT practic
 <hr>
 ## Radical Candor
 
-**"Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity"** by Kim Scott is a resource that can inspire IT architects who engage in critical conversations. The book provides a framework for giving and receiving feedback, building solid relationships, and fostering a culture of open communication. These principles can enhance team dynamics, project efficiency, and job satisfaction.
+**"Radical Candor: Be a Better Boss Without Losing Your Humanity"** by Kim Scott is a resource that can inspire IT architects who engage in critical conversations. The book provides a framework for giving and receiving feedback, building solid relationships, and fostering a culture of open communication. These principles can enhance team dynamics, project efficiency, and job satisfaction.
 
 <br>
 <img style="margin-top: -20px; width: 100%; " 
@@ -527,6 +527,7 @@ Additionally, vulnerability, seeking feedback, and avoiding toxic influences hel
 
 <br>
 ## Questions to Consider
+Use the following questions to reflect on how you communicate ideas, influence others, and make your work easier to understand.
 
 * *In what ways can understanding your audience's needs and motivations enhance your presentations or meetings?*
 * *What challenges do you face when delivering messages that contain bad news or require a significant change? How can the "Houston, We Have a Problem" storyline help in these situations?*

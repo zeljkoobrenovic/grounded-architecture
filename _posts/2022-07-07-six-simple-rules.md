@@ -48,17 +48,19 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/NanoS
 
 
 <br>
-The Grounded Architecture operating model is **fundamentally collaborative**. It focuses on establishing **organizational structures based on cooperation**, allowing architects to work effectively with others and make a meaningful impact. To foster such a collaborative approach, I have found the Six Simple Rules method, developed by Yves Morieux and Peter Tollman, to be particularly useful. This framework encourages organizations to adapt to complexity by promoting autonomy and cooperation among their members.
+The Grounded Architecture operating model is **fundamentally collaborative**. It aims to establish **organizational structures built on cooperation**, enabling architects to work effectively with others and create meaningful impact. To support that approach, I have found the Six Simple Rules method, developed by Yves Morieux and Peter Tollman, especially useful. It offers a practical way to adapt to complexity by combining autonomy with cooperation.
 
-The book *Six Simple Rules: How to Manage Complexity Without Getting Complicated* by Yves Morieux and Peter Tollman has greatly influenced my vision of an architectural practice. The authors introduce the concept of **Smart Simplicity**, outlining six rules or strategies that enable organizations to encourage new behaviors and enhance performance. The Six Simple Rules approach emphasizes that in today's business environment, it is essential to create **organizational structures based on cooperation**.
+This chapter matters to the manuscript because it gives one of the clearest organizational explanations for why Grounded Architecture emphasizes networks, distributed decisions, and practical integrators instead of heavy control structures. It shows how cooperation can be designed into the system rather than left to goodwill alone.
+
+The book *Six Simple Rules: How to Manage Complexity Without Getting Complicated* has strongly influenced my view of an architecture practice. The authors introduce the concept of **Smart Simplicity**, a set of six rules for encouraging new behaviors and improving performance. At its core, the approach argues that modern organizations need **structures that make cooperation easier and more natural**.
 
 <div class="quote">
 In today's complicated business environments, it is crucial to establish organizational structures that prioritize cooperation.
 </div>
 
-Morieux and Tollman developed the Six Simple Rules as a practical solution for today’s complex business landscape. The rules in the book rest on the idea that effectively managing complexity requires a **combination of autonomy and cooperation.** They advocate for organizational structures that align with this principle, empowering individuals to act autonomously. This approach is rooted in trusting the skills and capabilities of the organization's people to tackle complex challenges, thereby fostering a cooperative and efficient work environment.
+Morieux and Tollman developed the Six Simple Rules as a practical response to organizational complexity. The core idea is that complexity is best managed through a **combination of autonomy and cooperation**. That requires structures that trust people to use judgment while making it easier for them to work effectively with one another.
 
-In this chapter, I will explore how Grounded Architecture and the Six Simple Rules complement each other. The ideas from the Six Simple Rules have been a significant source of inspiration for my work. [**Conway's Law**](https://martinfowler.com/bliki/ConwaysLaw.html) illustrates that the relationship between organizational structures and IT architecture is like peanut butter and jelly—stronger and better together. Both the Six Simple Rules approach and architectural practice focus on managing complexity without becoming overwhelmed.
+In this chapter, I explore how Grounded Architecture and the Six Simple Rules complement each other. [**Conway's Law**](https://martinfowler.com/bliki/ConwaysLaw.html) makes the connection clear: organizational structures and IT architecture shape one another. Both the Six Simple Rules and architectural practice are concerned with managing complexity without creating unnecessary complication.
 
 <br>
 ## Background: Hard and Soft Management
@@ -283,6 +285,8 @@ Architecture practice can facilitate rewarding cooperation by making it easier f
 * A strong **[Collaborative Networks](people)** can provide the context and networks necessary for easier collaboration.
 * Adding diverse data sources to **[Lightweight Architectural Analytics](analytics)** can create transparency about cooperation opportunities and challenges, supporting a more collaborative environment.
 
+Taken together, the Six Simple Rules reinforce one of the book's main arguments: effective architecture depends as much on organizational design as on technical design. The more an organization rewards reciprocity, strengthens integrators, and makes consequences visible, the easier it becomes for architecture to scale through cooperation instead of bureaucracy.
+
 <br>
 ## To Probe Further
 * [Six Simple Rules: How to Manage Complexity without Getting Complicated](https://www.bcg.com/capabilities/organization-strategy/smart-simplicity)
@@ -290,6 +294,7 @@ Architecture practice can facilitate rewarding cooperation by making it easier f
 
 <br>
 ## Questions to Consider
+Use the following questions to reflect on how cooperation, integrators, and organizational design work in your environment.
 
 * *How can the concept of Smart Simplicity apply to your current role or position within your organization?*
 * *Do you feel the structures, processes, and systems directly and predictably affect performance in your organization?*

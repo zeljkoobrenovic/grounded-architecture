@@ -1,6 +1,6 @@
 ---
 layout: post
-section: "Appendix 5: Notes On Strategy"
+section: "Appendix 5: Random Notes On Strategy"
 title: "Achieving Market Leadership"
 position: 17010
 podcast: market-leadership.mp3
@@ -10,7 +10,7 @@ author: by Željko Obrenović (obren.io)
 icon: market-leader.png
 permalink: market-leadership
 timetoread: 11 min
-excerpt: "The Discipline of Market Leader framework highlights three distinct strategies for market leadership—operational excellence, product leadership, and customer intimacy—each requiring a tailored IT architecture to align technology with business goals, optimize processes, and sustain a competitive edge."
+excerpt: "The Discipline of Market Leaders framework highlights three distinct strategies for market leadership—operational excellence, product leadership, and customer intimacy—each requiring a tailored IT architecture to align technology with business goals, optimize processes, and sustain a competitive edge."
 
 ---
 
@@ -36,7 +36,7 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Just_
     }
 </style>
 
-> **IN THIS SECTION, YOU WILL:** Learn about the Discipline of Market Leader framework taht highlights three distinct strategies for market leadership—operational excellence, product leadership, and customer intimacy.
+> **IN THIS SECTION, YOU WILL:** Learn about the Discipline of Market Leaders framework and its three strategic paths: operational excellence, product leadership, and customer intimacy.
 > 
 > **KEY POINTS:**
 > * Market Leadership Strategies: Companies must choose between operational excellence, product leadership, or customer intimacy as their primary focus, while maintaining baseline competence in the other areas.
@@ -52,7 +52,9 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Just_
 </style>
 
 <br>
-Achieving market leadership requires more than just a great product or efficient operations—it demands a strategic focus on how a company creates value for its customers. **[The Discipline of Market Leader](https://hbr.org/1993/01/customer-intimacy-and-other-value-disciplines)** by Michael Treacy and Fred Wiersema outlines three distinct paths to success: operational excellence, product leadership, and customer intimacy. While all businesses must maintain a baseline level of competence in each area, true market leaders excel by committing to one as their core differentiator. Here I briefly explore how these strategic choices impact IT architecture, emphasizing how technology must align with an organization’s chosen path to drive efficiency, innovation, or customer engagement. Understanding these relationships is essential for IT leaders and architects designing systems that support long-term competitive advantage.
+Achieving market leadership requires a company to be explicit about the kind of value it is trying to win on. **[The Discipline of Market Leaders](https://hbr.org/1993/01/customer-intimacy-and-other-value-disciplines)** by Michael Treacy and Fred Wiersema remains useful because it forces that choice into the open. A company can try to compete through **operational excellence**, **product leadership**, or **customer intimacy**. It still needs to be competent in all three, but it rarely becomes exceptional by treating all three as equal priorities.
+
+For architects, that is more than a strategy lesson. It is a design constraint. The systems, platforms, processes, and governance models that support operational excellence are not the same as those that support product leadership or customer intimacy. When architecture ignores that, it often ends up optimizing for everything and truly serving nothing.
 
 
 
@@ -65,7 +67,7 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Yello
 
 ## Strategic Paths to Market Leadership
 
-The Discipline of Market Leader highlights a company's three strategic paths to achieve market leadership: **operational excellence**, **product leadership**, and **customer intimacy** (Figure 8):
+The Discipline of Market Leaders highlights a company's three strategic paths to achieve market leadership: **operational excellence**, **product leadership**, and **customer intimacy** (Figure 8):
 
 * **Product Leadership** companies provide **leading-edge products** or practical new applications of existing products or services. Their core process includes invention, commercialization, market exploitation, and disjoint work procedures. Exemplars are Apple, Tesla, Nike, Rolex, and Harley-Davidson.
 
@@ -75,18 +77,18 @@ Which also includes time spent to purchase, future product maintenance, and ease
 * **Customer Intimacy** companies do not deliver what the market wants but **what a specific customer wants**. Creating results for carefully selected and nurtured clients. Continually tailors products/services to customers to offer the '**best total solution**.' Exemplars are Salesforce, LMS Providers, HomeDepot.
 
 ![](assets/images/arch/discipline-market-leader.png)
-***Figure 8:** The Discipline of Market Leader model postulates that any successful business needs to maintain at least "acceptable" levels of performance in each of the three dimensions (operational excellence, product leadership, and customer intimacy) but would need to choose one of them to become a market leader in its field.*
+***Figure 8:** The Discipline of Market Leaders model postulates that any successful business needs to maintain at least "acceptable" levels of performance in each of the three dimensions (operational excellence, product leadership, and customer intimacy) but would need to choose one of them to become a market leader in its field.*
 
 <br>
 
-The model postulates that any successful business needs to maintain at least "acceptable" performance levels in each of the three dimensions but would need to **choose one of them to become a market leader** in its field. The model suggests that if you genuinely want to excel in any of the three disciplines, you must make **sacrifices in the other two** as these become mutually exclusive. By focusing on one (and one only) value to excel at, they beat competitors by dividing their attention and resources among more than one discipline. Each value discipline demands **a different operating model to capture the value best**. Customers know that expecting superior value in every dimension is unreasonable. You don't go to Walmart for the best-personalized service or buy Nike sneakers because of low prices.
+The model argues that every successful business needs at least acceptable performance in all three dimensions, but a market leader usually **chooses one discipline as its primary differentiator**. That choice has consequences. To become exceptional in one dimension, the company has to accept trade-offs in the others. Each value discipline therefore implies a different operating model, a different investment profile, and a different set of architectural priorities.
 
 ## IT Architecture Role
 
-I found the model helpful in two ways: 
+I have found the model useful in two ways:
 
-* To challenge **plans and strategies that are too ambitious**, e.g., wanting to excel in all three directions: operational excellence, product leadership, and customer intimacy. It is very complex and expensive to try to build a scalable solution accessible by many users and from many countries while addressing the particular needs of one local customer while doing significant work to innovate around the latest technology hype. 
-* To prepare for **architecting the company's IT landscape**, as different directions require different approaches. 
+* It helps challenge **strategies that are too ambitious or internally contradictory**.
+* It helps shape **the architecture of the company’s IT landscape** in a way that fits the actual strategy.
 
 Each direction represents a unique value proposition and requires specific architectural considerations to support it effectively.
 
@@ -94,10 +96,9 @@ Each direction represents a unique value proposition and requires specific archi
 * **Product Leadership:** This path involves developing and delivering innovative and superior products or services that differentiate an organization from its competitors. The IT architecture should prioritize **flexibility, agility, and the ability to support rapid innovation**. Architecture typically emphasizes integrating product development and research systems, **data analytics** capabilities, and **collaboration tools** to facilitate idea generation, prototyping, and testing. Ensure that the architecture enables seamless integration with external partners and suppliers to foster a culture of innovation and continuous improvement.
 * **Customer Intimacy:** This path focuses on building **strong customer relationships** and delivering **personalized experiences**. The IT architecture should enable customer data collection, analysis, and utilization to gain insights and provide customized solutions. Architectural considerations frequently include complex customer relationship management (CRM) systems, data analytics platforms, and customer engagement tools. Integration with various touchpoints, such as web portals, mobile applications, and social media channels, is essential to deliver a seamless and personalized customer experience.
 
-Incorporating the Discipline of Market Leader into IT architecture design requires **aligning technology choices and design decisions with the chosen strategic path**. Additionally, the architecture should be flexible enough to adapt to evolving market dynamics and business needs, allowing the organization to switch or combine strategic routes if required.
+Using the Discipline of Market Leaders in architecture work means treating strategy as a practical design input. Technology choices, delivery models, governance, and platform investments should reinforce the chosen path rather than dilute it.
 
-
-It is important to remember that the Discipline of Market Leader is **not a one-size-fits-all** approach, and organizations may need to balance elements from multiple paths based on their specific business context and market conditions.
+This does not mean organizations must follow the model mechanically. Most companies contain elements of multiple disciplines. But the model is still useful because it forces architectural choices to answer a harder question: **what are we actually trying to be best at?**
 
 
 
@@ -111,6 +112,7 @@ It is important to remember that the Discipline of Market Leader is **not a one-
 
 <br>
 ## Questions to Consider
+Use the following questions to test how clearly your organization understands market leadership and what it would take to achieve it.
 
 * *Which of the three strategic paths—operational excellence, product leadership, or customer intimacy—best describes your organization’s current market approach?*
 * *How does your company’s IT architecture support its chosen market leadership strategy? Are there areas where alignment could be improved?*

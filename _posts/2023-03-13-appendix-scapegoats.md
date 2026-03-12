@@ -53,12 +53,14 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/erhui
     }
 </style>
 
-In the fast-paced, high-pressure world of IT projects, mistakes or failures in systems, designs, or code can significantly impact projects, organizations, and users. *"Scapegoats at Work: Taking the Bull's-Eye Off Your Back,"* by Katherine Crowley and Kathi Elster, offers valuable insights into the **toxic scapegoating dynamic** that can arise in such environments. The book is a practical guide for professionals who blame themselves unfairly when things go wrong. Crowley and Elster explore the **psychology and organizational behaviors** that lead to scapegoating while providing people with strategies to protect their professional reputations and thrive despite these challenges. Scapegoating can occur at any level in tech projects, whether you're a junior developer being blamed for a bug, an architect blamed for system failures, or a team lead dealing with a significant release gone wrong. 
+Scapegoating is one of the clearest signs that an organization is handling stress badly. Instead of addressing systemic problems, it personalizes them and assigns blame to someone visible, exposed, or politically weak. In technology organizations, that pattern can do lasting damage because complex failures rarely belong to one individual in the first place.
+
+*"Scapegoats at Work: Taking the Bull's-Eye Off Your Back,"* by Katherine Crowley and Kathi Elster, offers useful insight into the **toxic dynamic of scapegoating** that can emerge in those environments. The book explains the **psychology and organizational behavior** behind scapegoating while offering practical strategies for protecting professional credibility when blame is being assigned unfairly. Scapegoating can happen at any level of a tech organization, whether the target is a junior developer, an architect, or a team lead.
 
 **IT architects** are **especially prone** to being scapegoated because of the distinct nature of their roles, which positions them in evident and intricate parts of an organization. Their duties frequently involve coordinating across various teams, technologies, and business areas, making them **key to a project's success** and **crucial in identifying issues** when they arise. For instance, a case study by Maija Ylinen and Samuli Pekkola entitled "[Enterprise Architecture as a Scapegoat for Difficulties in Public Sector Organizational Transformation](https://aisel.aisnet.org/icis2018/governance/Presentations/7/)" suggests that problems often associated with Enterprise Architecture (EA) do not originate from EA. Instead, they are **manifestations of underlying organizational tensions** arising from the ambiguous and changing role of the IT department. Rather than causing these tensions, the **IT architecture makes them visible,** but this visibility can make IT architecture and IT architects target for scapegoating.
 
 <br>
-## What Is Skapegoating?
+## What Is Scapegoating?
 
 Scapegoating is the identification―then blaming and punishing―of **individuals for problems that rightly belong to the larger organization**. Scapegoating involves projecting the unacknowledged or disowned aspects of the group onto the individual and then attacking them. This way, the unnamed can be named, blame "transferred," and the unacceptable attacked or banished. 
 
@@ -362,6 +364,7 @@ Scapegoating in IT organizations can arise from systemic issues like poor planni
 
 <br>
 ## Questions to Consider
+Use the following questions to examine how blame, power, and organizational pressure show up in your environment.
 
 * *Have you ever experienced or witnessed scapegoating in your workplace? What were the circumstances, and how was the blame assigned?*
 * *How do you currently document your work and decisions to protect yourself from unfair blame? What improvements could you make?*

@@ -52,11 +52,13 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/CHUNY
 
 <br>
 
-The relationship between IT and business is **inherently dynamic**, where **business needs shape IT solutions**, and **technological advancements influence strategic opportunities**. New technology also demands **a shift in management approaches**, as traditional methods may not meet the **unique demands of emerging technologies**. Effective alignment requires **integrating processes with systems**, **adapting workflows to leverage technology**, and fostering collaboration between business leaders and IT teams. As both domains evolve, **continuous realignment ensures agility**, helping organizations remain competitive and maximize the **mutual value of business and IT**.
+The relationship between IT and business is **inherently dynamic**. Business needs shape technology choices, while technological change creates new strategic possibilities. Effective alignment therefore requires integrating processes with systems, adapting ways of working, and keeping business leaders and IT teams closely connected. As both evolve, they need continuous realignment.
 
-In business strategy and IT architecture, I often draw inspiration from [*Enterprise Architecture as Strategy: Creating a Foundation for Business Execution*](https://store.hbr.org/product/enterprise-architecture-as-strategy-creating-a-foundation-for-business-execution/8398) by Jeanne W. Ross, Peter Weill, and David C. Robertson.
+For this book, that idea matters because Grounded Architecture is not only about running architecture well internally. It is also about making architecture useful at the level of business execution. This chapter looks at the structural choices that connect architecture to strategy: operating models, flexibility, and the maturity of the relationship between business and IT.
 
-I apply several **core concepts from these works** to shape my understanding of the **interplay between business strategy and IT architecture**:
+In thinking about strategy and architecture, I often draw on [*Enterprise Architecture as Strategy: Creating a Foundation for Business Execution*](https://store.hbr.org/product/enterprise-architecture-as-strategy-creating-a-foundation-for-business-execution/8398) by Jeanne W. Ross, Peter Weill, and David C. Robertson.
+
+Several **core concepts from that work** are especially useful for understanding the relationship between business strategy and IT architecture:
 
 * **Business Operating Models** define how an organization structures its processes and systems to deliver value. These models include ***Diversification***, where units operate autonomously in distinct markets; ***Coordination***, where units share data and resources to enhance collaboration; ***Replication***, with independent units using standardized systems; and ***Unification***, where **tightly integrated processes** ensure **efficiency and strategic alignment**.
 
@@ -64,13 +66,13 @@ I apply several **core concepts from these works** to shape my understanding of 
 
 * **Stages of IT and Strategy Alignment** describe the **evolution of IT’s role in strategic execution**, moving from isolated systems to **fully integrated, strategic platforms**. These stages include ***business silos*** (low integration), ***standardized technology*** (shared platforms, fragmented processes), ***optimized core*** (aligned and standardized systems), and ***business modularity***, which promotes **innovation through reusable, flexible components**.
 
-Together, these concepts form a **comprehensive framework** for understanding how **IT architecture enables strategic business execution** and drives **enterprise-level transformation**.
+Together, these concepts form a practical framework for understanding how **IT architecture enables business execution** and supports **enterprise-level transformation**.
 
 
 <br>
 ## Four Types of Business Operating Models
 
-The **Operating Model** is a core concept in *Enterprise Architecture as Strategy*, representing how an organization **structures its business processes and systems to deliver value**. It determines the degree of business process **standardization (consistency)** and **integration (information sharing)** across business units. The book introduces the concept of the Operating Model, which defines the necessary level of business process standardization and integration. 
+The **Operating Model** is a core concept in *Enterprise Architecture as Strategy*. It describes how an organization **structures its business processes and systems to deliver value**, specifically through the degree of **standardization** and **integration** across business units. 
 
 ![](assets/images/figures/strategy_operating_models.png)
 ***Figure 1:** Four types of operating models: diversification (low integration, low standardization), coordination (high integration, low standardization), replication (low integration, high standardization), and unification (high integration, high standardization).*
@@ -610,6 +612,10 @@ The maturity stages illustrate the progression of enterprise architecture (EA) f
 
 By progressing through these stages, organizations can achieve operational excellence and strategic agility, enabling them to thrive in a rapidly changing business environment.
 
+For architects, the practical takeaway is clear: strategy becomes real through operating choices, process design, and technology structure. A grounded architecture practice helps leaders make those choices consciously rather than inheriting them by accident. That is what turns architecture from a support activity into a strategic capability.
+
+That framing also prepares the next strategic discussions in the book, such as outsourcing and adjacent business models, where the same question returns in a different form: how should technology structure and governance reflect the strategic choices the organization is making?
+
 
 <br>
 ## To Probe Further
@@ -620,6 +626,7 @@ By progressing through these stages, organizations can achieve operational excel
 
 <br>
 ## Questions to Consider
+Use the following questions to reflect on whether architecture in your organization is influencing strategy or only reacting to it.
 
 * *Which business operating model (Diversification, Coordination, Replication, or Unification) best describes your organization’s current approach? Is it the right fit for your strategy?*
 * *How does your organization balance global and local flexibility in its IT and business operations? Where are the biggest challenges?*
@@ -631,4 +638,3 @@ By progressing through these stages, organizations can achieve operational excel
 * *How does your company ensure that its technology investments support both immediate business needs and long-term strategic goals?*
 * *What role does modular architecture play in improving your organization’s agility and ability to innovate?*
 * *How can IT leaders and business executives better collaborate to ensure continuous realignment between technology and strategy?*
-

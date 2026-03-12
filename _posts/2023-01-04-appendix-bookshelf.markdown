@@ -19,11 +19,11 @@ src="assets/images/arch/library-5641389_1920.jpg">
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a href="https://pixabay.com/users/olivergotting-18505948/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5641389">Oli Gotting</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5641389">Pixabay</a>
 </div>
-> **IN THIS SECTION, YOU WILL:** Get an overview of the background work to probe further, linking several external resources inspiring my work.
+> **IN THIS SECTION, YOU WILL:** Get an overview of the background material and external resources that have shaped my work.
 >
 > **KEY POINTS:**
 >
-> * I provide an overview of the background work to probe further, linking several external resources inspiring my work.
+> * I provide an overview of background material and external resources that have shaped my work.
 > * I grouped the resources in the following sections: Introductions, People Skills, Business & Strategy, and Hard Skills.
 
 <style>
@@ -47,6 +47,8 @@ Image by <a href="https://pixabay.com/users/olivergotting-18505948/?utm_source=l
 </style>
 
 <br>
+This appendix collects a few of the external resources that have most shaped how I think about architecture, leadership, strategy, and organizational design. It is not meant to be exhaustive. It is meant to point you toward material that has proved consistently useful in practice.
+
 ## Introductions
 
 <table>
@@ -168,7 +170,7 @@ effective architectures for information systems.
 ## Hard Skills
 
 This section is heavily influenced by Gregor Hohpe's
-article [The Architect’s Path (Part 2 - Bookshelf)](https://architectelevator.com/architecture/architect-bookshelf/)
+article [The Architect’s Path (Part 2 - Bookshelf)](https://architectelevator.com/architecture/architect-bookshelf/).
 
 <table>
 <tr>
@@ -659,5 +661,3 @@ patterns and templates—to produce great technology strategies.
 </td>
 </tr>
 </table>
-
-

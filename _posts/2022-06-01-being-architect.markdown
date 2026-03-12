@@ -1,7 +1,7 @@
 ---
 layout: post
-section: "On Being Architect"
-title: "On Being Architect: Introduction"
+section: "On Being an Architect"
+title: "On Being an Architect: Introduction"
 position: 6000
 podcast: being-architect.mp3
 spotify: https://open.spotify.com/episode/0kS3XyLgOoQgjx4wsyfif1?si=hHV8N6DpS5G10ir7PE9YaQ
@@ -38,13 +38,13 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Azman
 
 <br>
 
-In this section, we begin the **second part of this book**, where theory meets practice. The first part introduced the Grounded Architecture framework, including its principles, goals, and underlying philosophy. Now, we will focus on **real-world guidance**, providing **practical tools, ideas, and inspiration** to help you apply the framework within your organization.
+This section begins the part of the book where the framework turns into lived practice. Up to this point, I have focused on structure: data, people, and operating model. Here the focus shifts to the role itself and to the habits that make architecture effective inside real organizations.
 
-This part is aimed at **IT professionals** who are looking to build or improve their architecture practice, especially in complex environments where one-size-fits-all models often fall short. Instead of prescribing a rigid method, we offer a **flexible toolbox** of strategies, examples, and insights that can be adapted to your unique context. Our goal is to help you **develop a resilient and effective architectural practice** that truly fits your organization.
+That shift matters because architecture is not performed by frameworks. It is performed by people making judgments under constraint, influencing without full authority, and moving constantly between technology, strategy, and human dynamics.
 
-We will start by exploring a fundamental question: **What does it mean to be an architect in IT?** The role is **multidimensional**, requiring not only technical expertise but also strategic vision, communication skills, and leadership. Like a **Swiss Army knife**, an effective architect must be versatile, capable of shifting between coding, business discussions, and mentoring. This chapter will provide a deeper understanding of the role, highlighting what architects do, what contributes to their success, and how to grow within the profession.
+So the opening question is straightforward: **what does it actually mean to be an architect in IT?** Not in a job-description sense, but in practice. What kinds of skills matter? What kind of impact counts? What sort of leadership is required? And how does the role evolve over time?
 
-Whether you are just starting your journey or you are already deep into your architectural career, the upcoming chapters are designed to offer **actionable insights and meaningful reflections**. This is not about buzzwords or stereotypes; it is about what it **actually takes** to succeed in a role that is becoming increasingly crucial every day.
+The chapters that follow are meant to answer those questions concretely. They are not about maintaining the mystique of the role. They are about describing what the job demands when done well.
 
 <br>
 
@@ -137,3 +137,5 @@ Over time, architects may transition into roles such as:
 Career growth involves more than just acquiring knowledge—it also means **broadening your perspective**, deepening professional relationships, and learning to communicate effectively in both technical and business contexts.
 
 For more information on how architects evolve in their careers, see [Architects’ Career Paths](career-paths).
+
+Taken together, these themes define the human side of Grounded Architecture. The framework may provide structure, but its effectiveness depends on architects who can combine judgment, influence, practical skill, and credibility. The chapters that follow explore those demands in more detail, from capability building and impact to leadership, collaboration, and long-term growth.

@@ -44,32 +44,33 @@ A screenshot of a Sokrates report
 </style>
 
 <br>
+This appendix shows what Lightweight Architectural Analytics looks like in practice. The screenshots are not included as decoration; they are meant to make the earlier discussion of dashboards, source-code analysis, and architectural visibility more tangible.
+
 <br>
 ## Dashboards
 
-Here are the screenshots from Lightweight Architectural Analytics websites I built in AVIV Group (Figure 1) and eBay Classifieds (Figure 2):
+Here are screenshots from Lightweight Architectural Analytics websites I built at AVIV Group (Figure 1) and eBay Classifieds (Figure 2):
 
 <br>
 <img src="assets/images/apps.png" style="padding: 4px; padding-top: 8px; padding-bottom: 8px; box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px; margin-bottom: 6px">
 <br>
  
-**Figure 1:** *A screenshot of the start page of the architecture data dashboard we've built and used at AVIV Group.*
+**Figure 1:** *A screenshot of the start page of the architecture data dashboard we built and used at AVIV Group.*
 
 
 <br>
 <img src="assets/images/apps-ebay.png" style="padding: 4px; padding-top: 8px; padding-bottom: 8px; box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px; margin-bottom: 6px">
 <br>
  
-**Figure 2:** *A screenshot of the start page of the architecture data dashboard we've built and used at eBay Classifieds.*
-`
+**Figure 2:** *A screenshot of the start page of the architecture data dashboard we built and used at eBay Classifieds.*
 <br>
 <br>
 <br>
 ## Examples of Insights From Source Code Analyses
 
-The source code and its commit history are like a treasure chest for creating data-driven architecture documentation—packed with nuggets of wisdom about technology, team activities, dependencies, and software quality. To help dig up this treasure without getting your hands too dirty, I've developed and actively maintain a project called [Sokrates](https://sokrates.dev).
+Source code and commit history are rich sources for data-driven architecture documentation. They reveal information about technologies, team activity, dependencies, and software quality. To help extract these insights, I developed and actively maintain [Sokrates](https://sokrates.dev).
 
-Sokrates is designed with an architect's x-ray vision, allowing you to zoom in and out of source code landscapes. It provides a high-level overview of the IT landscape, summarizing data from various teams and groups, while also letting you dive deep into the code-level details. This dual functionality makes it the perfect sidekick for both CTO-level strategy powwows and developer-level code critiques.
+Sokrates is designed to let you zoom in and out of source code landscapes. It provides a high-level overview of the IT landscape while also allowing detailed inspection down to repository and code level. That makes it useful for both strategic discussions and technical reviews.
 
 Figures 3 to 7 show some insights from source code analyses with Sokrates. 
 
@@ -116,6 +117,6 @@ Figures 3 to 7 show some insights from source code analyses with Sokrates.
 <br>
 ![](assets/images/figures/kpis.png)
 
-**Figure 8**: *Example Architecture Practice keyt performance indicators (KPIs) dashboard (generated from a JSON configuration file).*
+**Figure 8**: *Example architecture practice key performance indicators (KPIs) dashboard, generated from a JSON configuration file.*
 <br>
 <br>

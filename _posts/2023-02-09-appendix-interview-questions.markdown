@@ -194,6 +194,7 @@ Well-designed questions can reveal not just what candidates *know*, but how they
 
 <br>
 ## Questions to Consider
+Use the following questions to sharpen how you evaluate architecture candidates and how you present yourself in interviews.
 
 * *What qualities do you value most in an architect—technical depth, communication, or influence?*
 * *How would you adapt these interview questions for junior vs. senior architect roles?*

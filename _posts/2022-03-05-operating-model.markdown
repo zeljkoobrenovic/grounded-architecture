@@ -44,9 +44,11 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/ma_ri
 </style>
 
 <br>
-In this section, we will explore the **Operating Model**, a crucial element of the Grounded Architecture framework (see Figure 1). The Operating Model offers a **structured approach** to how an architecture practice operates within an organization. It outlines the **principles, governance structures, and operational practices** that guide architects in their daily tasks.
+Data and people are necessary, but they are not sufficient. Even with a strong grip on reality and a healthy collaborative network, an architecture practice still needs a way to turn insight and relationships into repeatable decisions, coordinated action, and visible impact.
 
-Designed to be **flexible and adaptive**, the Operating Model evolves alongside the organization while consistently focusing on **delivering value** through architecture. It ensures that architectural efforts align with business goals and are effectively coordinated across teams and domains.
+That is the role of the **Operating Model** in Grounded Architecture (see Figure 1). It provides the **principles, governance structures, and working practices** that help architecture function as an organizational capability rather than as a collection of isolated efforts.
+
+The challenge is to create enough structure for architecture to matter without creating so much process that it slows the organization down. For that reason, the operating model should be **flexible and adaptive**. As the organization evolves, the model should evolve with it while keeping architecture aligned with business goals and coordinated across teams and domains.
 
 <br>
 
@@ -54,7 +56,7 @@ Designed to be **flexible and adaptive**, the Operating Model evolves alongside 
 **Figure 1:** *The Grounded Architecture framework – Operating Model.*
 
 <br>
-The Operating Model comprises four main areas:
+The Operating Model comprises four main areas. Together, they describe how architectural work is guided, coordinated, and translated into organizational outcomes:
 
 * **[General Principles](operating-model-principles)**  
   A set of guiding values and actionable principles to help architects operate effectively. These principles highlight the importance of utilizing data and networks to create meaningful, measurable impact across the organization.
@@ -82,8 +84,8 @@ The Operating Model comprises four main areas:
 <br>
 <br>
 
-While the Operating Model offers a wealth of structures and ideas, it is essential to emphasize one key point: **no operating model functions in isolation.**
+While the Operating Model offers useful structures and ideas, one point matters above all: **no operating model functions in isolation.**
 
 Without **healthy Lightweight Architectural Analytics** (data) and **strong Collaborative Networks** (people), any operating model risks becoming an **ivory tower**—a set of well-meaning policies and opinions that are disconnected from the realities of daily work.
 
-In summary: **people and data come first—process comes second.**
+In summary: **people and data come first; process comes second.** The chapters that follow show what that looks like in practice: the principles that guide behavior, the governance mechanisms that shape choices, and the transformation practices that help architecture contribute to real organizational change.

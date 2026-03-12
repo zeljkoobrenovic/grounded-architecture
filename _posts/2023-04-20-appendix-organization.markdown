@@ -26,11 +26,13 @@ Image by <a href="https://pixabay.com/users/paulbr75-2938186/?utm_source=link-at
 
 > **IN THIS SECTION, YOU WILL:** Get a summary of the characteristics of high-performing technology organizations.
 
+Architecture does not operate in a vacuum. The quality of architectural work depends heavily on the wider technology organization: how teams are structured, how software is delivered, how feedback is used, and whether the culture supports learning and collaboration.
+
 ## Overview 
 
-Characteristics of High Performing Organizations from the [Accelerate book](https://www.oreilly.com/library/view/accelerate/9781457191435/) by Nicole Forsgren, Jez Humble, and Gene Kim is an excellent source of empirical knowledge about high-performing IT organizations.
+The [Accelerate book](https://www.oreilly.com/library/view/accelerate/9781457191435/) by Nicole Forsgren, Jez Humble, and Gene Kim is an excellent source of empirical knowledge about high-performing IT organizations.
 
-I summarized several critical insights from this book:
+I summarize several key insights from the book:
 
 * Overview of **four key metrics**, describing metrics that provide suitable measures of organization performance. 
 * Overview of critical **practices of high-performing technology organizations** grouped into the following categories: Continuous Delivery, Architecture, Product and Process,  Lean Management and Monitoring Capabilities, Culture

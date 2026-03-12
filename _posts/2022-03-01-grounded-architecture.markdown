@@ -42,11 +42,13 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/Dario
 </style>
 
 <br>
-In this section of the book, I will introduce the **Grounded Architecture** framework—my practical approach to establishing an effective and scalable architecture practice within complex organizations.
+Architecture becomes weak when it is disconnected from the people, systems, and decisions it is supposed to help. In complex organizations, that disconnection is not a small flaw. It is often the reason architecture turns into process theater, document production, or central bottlenecking.
 
-I chose the name *Grounded Architecture* intentionally. It highlights the need to **avoid creating an "ivory tower" architecture practice**—one that is disconnected from the daily realities of the business. In a [fast-moving, global, and diverse environment](context), such disconnection is not only inefficient but also dangerous.
+The **Grounded Architecture** framework is my answer to that problem. It is a practical approach to building an architecture practice that stays embedded in the organization and can still operate effectively at scale. This is the structural core of the book. The later chapters on skills, human complexity, strategy, and adjacent disciplines all build on these foundations.
 
-The Grounded Architecture framework is designed as a **pragmatic and adaptive solution**. Its aim is to keep architecture deeply **rooted in the organization**, prioritizing **people's interactions** and **real-time data** over rigid processes and cumbersome tools. The goal is to **embed architecture across all levels and parts of the organization**, serving as an antidote to traditional, top-down approaches that often fail to make a meaningful impact.
+I chose the name *Grounded Architecture* deliberately. It reflects the need to avoid an **"ivory tower" architecture practice** that is disconnected from the realities of the business. In a [fast-moving, global, and diverse environment](context), that kind of detachment is not just inefficient; it is risky.
+
+The framework is designed to be **pragmatic and adaptive**. Its purpose is to keep architecture **embedded in the organization**, prioritizing **human interaction** and **real-time data** over rigid processes and heavy tooling. The goal is to make architecture relevant across all levels of the organization rather than confining it to a central function. In other words, this section explains what must be in place before architecture can reliably influence decisions at scale.
 
 ![](assets/images/grounded-architecture-foundations.png)
 **Figure 1:** *The Grounded Architecture framework: the foundations.*
@@ -79,4 +81,4 @@ See the [Collaborative Networks section](people) for more details.
 The **[Operating Model](operating-model)** ties everything together. It introduces **structures, routines, and roles** that connect people, data, and decisions into a **cohesive, collaborative, and impact-driven practice**. We will explore this in a dedicated section later in the book.
 
 
-Now that we have completed a high-level overview of the Grounded Architecture framework, let’s dive deeper into each of its elements and see how they come to life in practice.
+With that high-level overview in place, we can now look at each element in more detail and examine how it works in practice. The next chapters unpack the mechanics behind this model: how to create usable data, how to build the right collaborative networks, and how to establish an operating model that reinforces both.

@@ -1,6 +1,6 @@
 ---
 layout: post
-section: "Appendix 5: Notes On Strategy"
+section: "Appendix 5: Random Notes On Strategy"
 title: "Culture As a Strategy (aka Culture Eats Strategy for Breakfast)"
 position: 17015
 podcast: culture-strategy.mp3
@@ -52,9 +52,9 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/jacob
 
 <br>
 
-[The Leader’s Guide to Corporate Culture](https://hbr.org/2018/01/the-leaders-guide-to-corporate-culture) by Boris Groysberg, Jeremiah Lee, Jesse Price, and J. Yo-Jud Cheng highlights the critical interplay between strategy and culture in driving organizational success. Strategy provides a structured framework for achieving goals, while culture operates through shared values and assumptions, influencing behaviors and norms. Leaders often grasp the mechanics of strategy but underestimate the subtleties of culture, which can lead to execution challenges when cultural dynamics are ignored or mismanaged.
+[The Leader’s Guide to Corporate Culture](https://hbr.org/2018/01/the-leaders-guide-to-corporate-culture) by Boris Groysberg, Jeremiah Lee, Jesse Price, and J. Yo-Jud Cheng highlights the interplay between strategy and culture in organizational success. Strategy provides a structured framework for achieving goals, while culture shapes behavior through shared values and assumptions. Leaders often understand the mechanics of strategy more easily than the subtleties of culture, and that gap can create execution problems.
 
-From the perspective of IT architecture, this insight underscores the importance of aligning architectural operating models with an organization’s culture. Just as strategy requires cultural alignment for successful execution, IT architecture practice must integrate cultural considerations to ensure its effectiveness. For example, a collaborative culture would necessitate architectural designs that foster open communication and shared ownership, while a results-oriented culture would focus on performance metrics and scalability. By understanding the nuances of organizational culture, IT architects can not only meet technical goals but also work in a way that resonates with the organization's values and practices, enabling both technological and cultural transformation.
+From the perspective of IT architecture, this underscores the importance of aligning architectural operating models with organizational culture. Just as strategy requires cultural alignment for successful execution, architecture practices also need to reflect cultural realities. A collaborative culture may require designs that support open communication and shared ownership, while a results-oriented culture may prioritize metrics, speed, and scalability. Understanding these dynamics helps architects work in ways that fit the organization while still improving it.
 
 
 <br>
@@ -134,6 +134,7 @@ The described cultural styles have significant implications for IT architects, a
 
 <br>
 ## Questions to Consider
+Use the following questions to examine how culture supports or undermines the strategy your organization is trying to execute.
 
 * *How would you describe your organization’s dominant cultural style, and how does it influence IT decision-making?*
 * *Does your IT architecture align with your company’s culture, or are there mismatches that create friction?*
@@ -145,5 +146,3 @@ The described cultural styles have significant implications for IT architects, a
 * *How can IT architecture enable a learning culture without introducing instability or excessive technical debt?*
 * *What strategies can IT architects use to foster alignment between culture, business goals, and technology investments?*
 * *How can IT leaders build cultural awareness to ensure architecture decisions support long-term business success?*
-
-

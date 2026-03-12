@@ -1,6 +1,6 @@
 ---
 layout: post
-section: "On Being Architect"
+section: "On Being an Architect"
 title: "Architecting Influence: Six Plays for Grounded IT Architects"
 position: 6014
 date:   2021-10-21 21:12:01 +0100
@@ -52,42 +52,44 @@ h3 {
 </style>
 <br>
 
-In today's fast-paced world, architects have evolved beyond just technical designers. They've become **strategic leaders** and **collaborators**, which are essential for tackling the complexities we face and driving real business value. This shift calls for a **sophisticated approach to leadership**—one that moves away from the old **"command and control "** mentality. Those outdated methods, which worked well in the Industrial Age, don't fit in our modern, knowledge-driven environments, especially within IT. Here, architects often need to **lead by influence rather than authority**. So, I'd say communication isn't just a nice-to-have skill; it's the cornerstone of effective leadership.
+Architects are no longer only technical designers. In modern organizations, they also act as **strategic leaders** and **collaborators**. That shift requires a different leadership style, one that moves beyond old **command-and-control** habits. In knowledge work, and especially in IT, architects usually lead through **influence rather than authority**. Communication is therefore not a secondary skill; it is central to architectural effectiveness.
 
-A great resource that connects with my experiences is L. David Marquet's **"Leadership is Language."** As a former U.S. Navy Captain, Marquet shows how the **words leaders choose** can dramatically shape their **team culture**, **effectiveness**, and ultimately, success. He makes a compelling case that even **small shifts in language** can lead to **big impacts** on team performance and morale. This view challenges the traditional views of leadership and offers a **"New Playbook"** for the challenges we face today.
+Within the logic of this book, language is one of the practical mechanisms through which Grounded Architecture works. Architects shape decisions, trust, and collaboration largely through conversation. The way they ask questions, frame trade-offs, and invite participation has direct effects on whether architecture becomes a living practice or just a set of documents and opinions.
 
-At the heart of this new playbook is the understanding that the nature of work has fundamentally shifted. Leadership in the Industrial Age was all about **maximizing efficiency** and ensuring **compliance** with tasks that were often physical and repetitive. In contrast, IT architecture demands a kind of work that is **complex, cognitive, and collaborative**. This kind of teamwork thrives on **commitment** rather than just **compliance**; it's about unlocking that extra effort and innovation rather than just meeting the bare minimum. I've seen how adhering to outdated language in our leadership practices can hinder creativity and engagement. Organizations that fail to evolve their leadership language within architectural teams may struggle to innovate, adapt, and attract top talent.
+One resource that aligns strongly with my own experience is L. David Marquet’s **"Leadership is Language."** Marquet shows how the **words leaders choose** shape team culture, effectiveness, and ultimately results. His main point is practical: relatively small shifts in language can create large differences in behavior and team performance.
 
-The principles outlined in **"Leadership is Language"** resonate with my vision of Grounded Architecture. Marquet's six leadership **"plays"** give us **practical tools** to enhance communication, encourage deeper thinking, and build more committed teams—all of which help us become more truly **"grounded."** One crucial, yet often unspoken, challenge for IT architects is dealing with the **"power gradient,"** or the perceived **hierarchical distance** between people. I've noticed that steep power gradients can stifle creativity, suppress valuable insights, and block open communication, all of which are detrimental to effective architectural practices. 
+At the heart of this argument is a simple observation: the nature of work has changed. Industrial-age leadership optimized for **efficiency** and **compliance** in repetitive work. IT architecture, by contrast, depends on work that is **complex, cognitive, and collaborative**. This kind of work depends far more on **commitment** than on compliance. When leaders keep using outdated language patterns, they reduce creativity, ownership, and engagement.
 
-Navigating these dynamics is part of the job, especially in complex organizational structures. If we don't make an effort to address these challenges through thoughtful language and communication, genuine collaboration—one of the key elements of Grounded Architecture—won't thrive. Marquet's strategies can help flatten those gradients and encourage more inclusive and effective interactions, which I believe are vital for our success.
+The principles in **"Leadership is Language"** fit closely with Grounded Architecture. Marquet’s six leadership **plays** offer practical tools for improving communication, encouraging deeper thinking, and building stronger commitment. They are especially useful for addressing the **power gradient**, the perceived hierarchical distance between people. Steep power gradients suppress creativity, hide useful information, and weaken collaboration.
+
+Navigating these dynamics is part of the job. If architects do not address them through deliberate language and communication, genuine collaboration will remain fragile. Marquet’s strategies help flatten those gradients and make interaction more inclusive and effective.
 
 
 ## Setting the Stage: From "Redwork/Bluework" to Effective Action
 
-Before diving into specific plays, let's take a moment to understand a key concept from Marquet's framework: the difference between **"Redwork"** and **"Bluework."** This distinction is crucial because it helps us recognize the various operational modes within a team and underscores the need for a balance between them to achieve top performance.
+Before looking at the six plays, it helps to understand one of Marquet’s core distinctions: **"Redwork"** versus **"Bluework."** This distinction matters because it highlights two different operating modes that teams need to balance.
 
-**Redwork** is all about the **"doing" or "execution."** It's the phase where we focus on performance, efficiency, and reducing variability to achieve our goals. In the world of IT architecture, this could mean coding a proof-of-concept based on a solid specification, finalizing and documenting an architectural design, or implementing a system according to a detailed plan. During Redwork, the spotlight is on execution and meeting those predetermined objectives.
+**Redwork** is the mode of **doing and execution**. It emphasizes performance, efficiency, and low variability. In IT architecture, that might mean building a proof of concept, finalizing a design, or implementing a plan.
 
-On the other hand, we have **Bluework**. This work represents the **"thinking" or "decision-making"** phase. Here, we embrace variability and dive into reflection, planning, strategic problem-solving, and collaboration. For IT architects, this is where we shine. Think of strategic design sessions, weighing different technological options, evaluating new tech trends, and holding workshops to tackle complex architectural issues.
+**Bluework** is the mode of **thinking and decision-making**. It includes reflection, planning, strategic problem-solving, and collaboration. In architecture, this is the space where teams compare options, evaluate trade-offs, and reason about long-term consequences.
 
-Marquet emphasizes the importance of **oscillation** between these two modes. Successful teams and their leaders need to be intentional about shifting between periods of Redwork and Bluework. Getting stuck in one mode while ignoring the other can lead to problems. For instance, excessive Bluework can lead to "analysis paralysis," where we overthink everything, while an overload of Redwork without sufficient Bluework can result in **hasty, poorly thought-out solutions**.
+Marquet emphasizes the need to **oscillate** between these two modes. Teams that stay too long in Bluework risk analysis paralysis. Teams that stay too long in Redwork risk fast but poorly reasoned execution.
 
 ![](assets/images/figures/redwork-bluework.png)
 ***Figure 1:** This diagram illustrates the dynamic relationship between "Blue Work" (thinking/deciding) and "Red Work" (doing/executing). It highlights the necessity of consciously moving back and forth between these modes to lead more effectively. By creating a rhythmic cycle of thinking and doing, teams can pause to reflect, adjust, and act with intention—breaking the habit of defaulting to either execution or analysis.*
 
-For IT architects, this Redwork/Bluework framework is incredibly relevant. Our roles often require significant time spent in Bluework—strategic thinking, careful design, and thorough problem analysis are foundational to sound architecture. Yet, the **constant push for quick delivery** in many IT settings can inadvertently trap teams, including architects, in a relentless cycle of Redwork, leaving little room for essential thinking time. By identifying the team's current "work mode," architects can tailor their approach and language to either foster deeper thinking or drive effective execution.
+This framework is highly relevant for architects. Sound architecture requires substantial Bluework, but the pressure for rapid delivery can trap teams in Redwork. Once architects recognize the current mode, they can use language more deliberately to create either better thinking or better execution.
 
-When we fail to manage the balance between Redwork and Bluework, we can easily fall into common traps. Symptoms like "analysis paralysis," where teams get bogged down in endless discussions due to excessive Bluework, or "rushed, flawed implementations," which occur from insufficient thinking before jumping into Redwork, are all too familiar. Marquet's strategies, like "Control the Clock" to encourage Bluework or "Commit" to shift into Redwork, provide practical tools for navigating these modes effectively.
+If that balance is mismanaged, familiar failure modes appear: endless discussion on one side, rushed implementation on the other. Marquet’s plays provide practical ways to navigate between these modes.
 
-Additionally, Marquet advocates for a **democratization of Bluework.** It shouldn't just be the domain of architects or senior leaders; everyone should have a seat at the table. This perspective challenges the traditional view that sees architects as the lone "thinkers." For a "Grounded Architecture" approach, which champions collaborative networks, architects should actively engage all team members in Bluework activities—be it design sessions or problem-solving workshops. This **inclusivity enhances the decision-making process** by bringing in diverse perspectives and fostering a shared sense of ownership among the entire team. 
+Marquet also argues for a **democratization of Bluework**. Thinking should not be reserved for architects or senior leaders. In a Grounded Architecture approach, teams should be brought into design discussions and problem-solving work, because broader participation improves both decision quality and ownership.
 
-By adopting this **balanced approach**, we can foster stronger teams and achieve better outcomes. So, let's keep the conversation going about how we can implement these ideas in our work environments!
+Used well, this balance produces stronger teams and better outcomes.
 
 <br>
 ## The Six Leadership Plays in the Architect's Arena
 
-David Marquet introduces six powerful "plays" that can help leaders transform their communication and boost their team's performance. These strategies represent a fresh approach to leadership, stepping away from the outdated methods of the Industrial Age. In Figure 1, you'll see a circular framework that shows how IT Architects can increase their effectiveness. By intentionally applying Marquet's six linguistic leadership plays—Control the Clock, Collaborate, Commit, Complete, Improve, and Connect—they can create a more collaborative, innovative, and grounded work environment.
+David Marquet introduces six leadership plays that help leaders improve communication and team performance. By applying them intentionally, IT architects can create a more collaborative, adaptive, and grounded working environment.
 
 ![](assets/images/figures/leadership-six-moves.png)
 ***Figure 2:** David Marquet’s six linguistic leadership plays and their key interdependencies.*
@@ -106,16 +108,16 @@ The following table provides a concise overview of these plays and their relevan
 
 ### Play 1: Control the Clock, Don't Obey the Clock
 
-Let's talk about the "Control the Clock" play. This approach is all about knowing when to hit the pause button. Think of it as a way to carve out some space for **thinking, reflection, and decision-making** instead of just rushing from one task to another. It's a response to that constant pressure we all feel to "do" and push through.
+The "Control the Clock" play is about creating room for **thinking, reflection, and decision-making** instead of moving continuously from task to task.
 
-As leaders, it's our job to ensure we allow for these pauses. It's not just about creating that space; it's about actively encouraging it, especially when teams are deep in their work and might not even realize they need to take a break. For example, a statement like, "**We have time to do this right, not twice**," conveys a clear message that taking a moment to think things through is not only acceptable but also encouraged.
+Leaders do not only permit these pauses; they actively create and protect them. A statement such as, "**We have time to do this right, not twice**," makes that expectation explicit.
 
 ![Image](assets/images/istock/iStock-1444398437.jpg)
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/PeopleImages">PeopleImages</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
 
-IT architects often work under intense pressure to deliver solutions at lightning speed. The "Control the Clock" technique empowers us to squeeze in some essential moments for those strategic architectural reviews. This technique not only ensures we stay aligned with the bigger picture but also helps us dodge expensive mistakes that often come from hasty decisions. It's a great shield against the trap of **"solutioneering,"** which occurs when we jump to conclusions without fully understanding the problem or considering different approaches—something that's all too common in the fast-paced IT world.
+Architects often work under strong delivery pressure. "Control the Clock" makes space for architectural review and reduces the risk of expensive, rushed decisions. It is also a guard against **solutioneering**: jumping to solutions before the problem is clear.
 
 **Here are a few examples:**
 - **Scenario 1 (Design Phase):** Imagine an architect leading the design of an important new system. They notice the team is jumping too quickly onto a specific technology choice. This architect might step in and say, "Hold on, let's put the 'how' on pause for a second. Are we all clear on the 'what' and 'why'? What are the two or three core problems this component needs to address?" This wording nudges the team from Redwork (choosing a tool) back to Bluework (clarifying what needs to be solved).
@@ -124,7 +126,7 @@ IT architects often work under intense pressure to deliver solutions at lightnin
 
 - **Scenario 3 (Agile Context):** An architect might even proactively slot in "architectural reflection" sessions during sprint planning or review meetings. This reflection ensures the team dedicates time to think through upcoming tasks and address any technical debt. For example: "Before we dive into these user stories for the next sprint, let's take 30 minutes to discuss the architectural implications of Feature X and any possible long-term impacts."
 
-Mastering the art of "Controlling the Clock" is not just vital for strategic thinking but also sets the stage for genuine **collaboration** (which is Play 2) and meaningful **improvement** (Play 5). Without those intentional pauses, there isn't enough room for diverse opinions, thorough discussions, or valuable insights to emerge. If architects don't create these moments for reflection, conversations will likely feel rushed, dominant voices might take over, and true collaboration will slip through our fingers. Remember, improvement hinges on reflection, and that's only possible when we take a moment to pause.
+Mastering "Control the Clock" matters not only for strategic thinking, but also for **collaboration** (Play 2) and **improvement** (Play 5). Without deliberate pauses, there is not enough room for diverse views, careful discussion, or useful reflection. Improvement depends on having time to think.
 
 For architects, this play is a crucial tool for keeping our work tightly aligned with **strategic objectives** and **data-driven insights** rather than getting swept up in the whirlwind of short-term project demands. Rushing to meet deadlines can often lead to cutting corners in vital areas, such as data gathering or strategic thinking. By "controlling the clock," architects make room to review data, consult with stakeholders, and ensure that our architectural decisions align with the broader goals of the organization. This practice also helps us avoid the dreaded **"Ivory Tower" architect syndrome**, keeping us connected to the practical realities and needs of the organization we serve.
 
@@ -264,9 +266,12 @@ Architects should start by **observing their own language** and the **prevailing
 
 Embracing these leadership principles aligns directly with the core tenets of Grounded Architecture. By mastering this new language, architects can **build stronger and more effective collaborative networks**, make **more robust and data-informed decisions** by creating the necessary space for **diverse input** and thorough analysis, enhance the **adaptability** of their architectures and practices, and deliver greater strategic value to their organizations. The journey to becoming a truly *Grounded Architect* is, in many ways, a journey of mastering the language of modern leadership. This transformation is not a one-time event but a **continuous path of improvement**, similar to mastering any complex technology or methodology. It requires ongoing practice, conscious reflection, and a **willingness to adapt and refine** one's approach over time. This **commitment to evolving one’s language** is a hallmark of an architect dedicated to not only technical excellence but also to **impactful and empowering leadership**.
 
+For the manuscript as a whole, the deeper point is simple: architecture scales through language as much as through structure. The words architects choose help determine whether teams comply, commit, learn, and connect. That makes language one of the most practical tools in the Grounded Architecture toolkit.
+
 
 <br>
 ## Questions to Consider
+Use the following questions to reflect on how language shapes alignment, trust, and influence in your architecture work.
 
 * *Which of the six leadership plays (Control the Clock, Collaborate, Commit, Complete, Improve, Connect) do you feel is most lacking in your current team interactions, and what's one small linguistic change you could make this week to start addressing it?*
 * *Think about a recent architectural decision or discussion. How could applying the "Control the Clock" play (e.g., calling a deliberate pause for Bluework) have potentially improved the outcome or the process?*

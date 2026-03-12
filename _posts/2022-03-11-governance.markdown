@@ -47,9 +47,11 @@ Image by <a href="https://pixabay.com/nl/users/nonbirinonko-3101900/?utm_source=
 </style>
 
 <br>
-Governance is all about the **rules, practices, and processes** that guide how an organization is run, managed, and held accountable. It helps clarify who makes decisions, how those decisions are made, and how we monitor and enforce the outcomes.
+Governance is the set of **rules, practices, and processes** that shape how an organization makes decisions, allocates responsibility, and enforces outcomes.
 
-But governance isn't just about the big meetings at the top; it's essential throughout the organization and touches on various areas like:
+In the broader structure of this book, governance is where Grounded Architecture becomes operational. It is the point at which principles stop being aspirations and start influencing real choices, trade-offs, and constraints across the organization. The challenge is to do that without collapsing into rigid control or ivory-tower process.
+
+It is not limited to executive meetings. Governance operates throughout the organization and appears in areas such as:
 
 - **Corporate governance**, which helps steer leadership and accountability.
 - **IT governance**, ensuring that tech investments align with business goals.
@@ -59,7 +61,7 @@ But governance isn't just about the big meetings at the top; it's essential thro
 <br>
 ## IT Governance
 
-IT architecture is also about governance. Think about what IT architecture does for an organization:
+IT architecture is deeply connected to governance. In practice, architecture helps an organization:
 
 - It **reduces complexity** by helping **standardize** systems and processes.
 - It ensures that technology is **aligned with business priorities**.
@@ -71,13 +73,13 @@ IT architecture is also about governance. Think about what IT architecture does 
 
 IT architecture plays a vital role in bringing governance principles to life through practical, everyday practices that drive business success with technology.
 
-The best governance frameworks are like **living systems**; they evolve as the organization grows and its environment changes. For governance to work, it needs to be:
+The best governance frameworks behave like **living systems**. They evolve as the organization grows and as its environment changes. For governance to work, it needs to be:
 
 - **Adaptable**—able to adjust as needs evolve.
 - **Collaborative**—bringing together different voices and perspectives.
 - **Strategic**—finding the right balance between immediate needs and long-term goals.
 
-When it comes to IT architecture, it should support governance models that can deal with the complexity and diversity of today's organizations. A one-size-fits-all approach typically doesn't cut it. That's why I'm a fan of a **hybrid governance model**—a mix of different strategies tailored to specific situations.
+In modern organizations, a one-size-fits-all model is rarely effective. That is why I prefer a **hybrid governance model**: different governance styles applied to different situations.
 
 This model uses three types of influence:
 
@@ -85,9 +87,9 @@ This model uses three types of influence:
 2. **Taxes** (or economic incentives)—rewarding good behavior or discouraging bad practices through resource management.
 3. **Mandates and bans**—setting clear rules and boundaries when necessary.
 
-All these approaches work together to create a flexible and practical framework that helps manage the use and development of technology within the organization.
+Together, these approaches create a flexible framework for guiding how technology is used and evolved.
 
-Let's explore each of these governance styles in more detail, starting with **nudging**. 
+The rest of this chapter looks at each of these styles in turn, starting with **nudging**.
 
 <br>
 ## Nudging as a Governance Tool
@@ -253,8 +255,11 @@ Governing with mandates and bans involves setting **firm, transparent boundaries
 
 When thoughtfully implemented, and supported by clear analytics and strong collaboration, mandates and bans can become **protective measures**, not roadblocks—**enabling safe innovation** within a framework of trust and responsibility.
 
+Taken together, nudges, taxes, and mandates describe governance as a portfolio of influences rather than a single enforcement style. That is the larger connection to this manuscript: a grounded architecture practice guides behavior by combining data, networks, and clear boundaries in proportion to the problem at hand.
+
 <br>
 ## Questions to Consider
+Use the following questions to examine how governance works in your organization and where it helps or hinders better decisions.
 
 * *What are the key components of the governance model in your organization, and how do mandates, taxes, and nudging influence them?*
 * *How does your organization currently handle mandates and bans? Are they explicit and aligned with the overall technology strategy?*

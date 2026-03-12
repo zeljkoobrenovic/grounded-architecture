@@ -18,11 +18,11 @@ excerpt: "A structured, high-touch onboarding process is essential to help archi
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/gorodenkoff">gorodenkoff</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
-> **IN THIS SECTION, YOU WILL:**  Get ideas and tips about developing architects' career paths.
+> **IN THIS SECTION, YOU WILL:** Get practical guidance on onboarding architects effectively.
 > 
 > **KEY POINTS:**
 >
-> * When growing and hiring architects, it is crucial to continually raise the bar, ensuring that the team is composed of highly skilled and diverse individuals who can contribute unique perspectives and expertise.  
+> * A structured, deliberate onboarding process helps new architects align quickly, build trust, and contribute meaningfully in the context of Grounded Architecture.  
 <style>
  .quote {
      border-left: 8px solid #d9ead3;
@@ -46,7 +46,7 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/gorod
 
 <br>
 
-While many organizations invest significant time and effort into hiring IT architects, **onboarding often remains an underdeveloped and vaguely defined process**. This oversight can undermine the entire hiring effort, as newly hired architects are left to figure out the organization’s culture, systems, and expectations largely on their own. In the context of **Grounded Architecture**, this represents a major gap between strategic intent and operational execution.
+While many organizations invest significant effort in hiring IT architects, **onboarding often remains underdeveloped and poorly defined**. That weakens the entire hiring effort, because newly hired architects are left to work out the organization’s culture, systems, and expectations on their own. In the context of **Grounded Architecture**, this creates a clear gap between strategic intent and operational execution.
 
 Too often, onboarding for architects consists of a few orientation meetings, access to documentation, and introductions to stakeholders—without clear guidance on how to operate within the company’s unique architectural ecosystem. As a result, architects may spend weeks—or even months—**working inefficiently, misaligned with key priorities**, and missing critical context. This can lead to frustration, lost momentum, and a delay in realizing their full impact.
 
@@ -59,8 +59,6 @@ An effective onboarding process for architects should be deliberate, structured,
 
 Pairing the new hire with an experienced architect who can provide guidance, context, and historical background helps reduce the learning curve. This “buddy” acts as a translator of both technical practices and organizational dynamics.
 
-Here’s the updated **"Create an Architecture Playbook"** section with the added point about direct access to relevant data, including a reference to *Lightweight Architecture Analytics* from the Grounded Architecture initiative:
-
 <br>
 ## 2. Create an Architecture Playbook
 
@@ -70,11 +68,9 @@ Provide a concise document or portal that outlines:
 * Current state and strategic roadmap
 * Key systems and integrations
 * Team roles and responsibilities
-* **Direct access to relevant data** – such as dashboards, metrics, and architecture signals. For example, tools like [*Lightweight Architecture Analytics*](https://grounded-architecture.io/analytics) can offer valuable insights into architectural trends, code dependencies, and decision-making patterns across the organization.
+* **Direct access to relevant data** – such as dashboards, metrics, and architecture signals. For example, tools like [*Lightweight Architectural Analytics*](https://grounded-architecture.io/analytics) can offer valuable insights into architectural trends, code dependencies, and decision-making patterns across the organization.
 
-This playbook reduces ambiguity, accelerates alignment, and ensures that new architects can operate based on evidence rather than assumptions.
-
-This reduces ambiguity and accelerates alignment.
+This playbook reduces ambiguity, accelerates alignment, and helps new architects operate on the basis of evidence rather than assumptions.
 
 <br>
 ## 3. Early Immersion in Real Work
@@ -119,6 +115,7 @@ Following the principles of Radical Candor, initiate career conversations even d
 
 <br>
 ## Questions to Consider
+Use the following questions to think about how effectively your organization brings new people into the work.
 
 * *How intentional and structured is your current onboarding process for IT architects?*
 * *Do new architects have clear guidance on your organization’s architectural vision and decision-making frameworks?*
