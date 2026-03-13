@@ -10,16 +10,18 @@
 {pagebreak}
 
 A> **KEY POINTS:**
-A> * A strong engineering background is essential for architects to make informed technology decisions and build effective relationships with developer teams.
-A> * Moving from an engineering role to an architecture role involves broadening scope, increasing diversity, and developing strong communication and influencer skills.
-A> * Career tracks can include Senior Architects (broader responsibilities), Principal Architects (specialized focus), and Enterprise Architects (aligning technical strategy with business objectives).
-A> * Architecture roles can lead to tech leadership positions such as Engineering Director or Chief Technology Officer (CTO), leveraging strategic vision, decision-making, and leadership skills.
+A> * A **strong engineering background** is essential for architects to make informed technology decisions and build effective relationships with developer teams.
+A> * Moving into architecture means **broadening scope**, increasing diversity, and developing **communication and influencer skills**.
+A> * Career tracks can include **Senior Architects**, **Principal Architects**, and **Enterprise Architects**.
+A> * Architecture roles can lead to **tech leadership positions** such as Engineering Director or CTO.
 
-A **career path** is all about the journey you take in your professional life, reflecting the roles and responsibilities you take on along the way. In any field, you might find this path to be **linear**, with a straightforward climb through positions, or **non-linear**, where you make lateral moves, dive deeper into a specialization, or even switch to different areas altogether. Both approaches offer valuable growth opportunities—what matters most is aligning your career path with your personal goals, skills, and the environment you're in.
+A **career path** is the sequence of roles, responsibilities, and choices that shape your professional development. In architecture, that path can be **linear** or **non-linear**: some people broaden steadily through larger scopes, while others move sideways, specialize deeply, or transition into adjacent disciplines. What matters is that the path fits your strengths, ambitions, and context.
 
-In this section, let's chat about the **various career trajectories** available to IT architects. Whether you're keen on becoming a technical expert or aiming for a strategic leadership role, there are plenty of avenues to explore. I'll discuss how architects can grow within their current roles, move up to leadership positions, or even pivot into related fields like product management, operations, or executive management.
+In the broader structure of this book, this chapter answers a practical question that follows naturally from the previous ones: if this is what strong architectural work looks like, how do people grow into it over time? Grounded Architecture depends on developing architects who can increase their range and influence without losing touch with engineering reality.
 
-If you're looking for practical tools and tips on managing, developing, or hiring architects, be sure to check out the **Appendix**—it's packed with helpful resources.
+This section looks at the main **career trajectories** available to IT architects. Some architects grow as technical experts, others move toward broader strategic leadership, and many combine both over time. I will discuss how architects expand their scope, move into senior roles, and sometimes transition into related areas such as product, operations, or executive leadership.
+
+For practical resources on managing, developing, or hiring architects, see the **Appendix**.
 
 ## Solid Engineering Background
 
@@ -198,6 +200,8 @@ Many successful CTOs and Engineering Directors began their journeys as architect
 
 Whether you aspire to lead technology teams, drive enterprise strategy, or shape company-wide innovation, a career in IT architecture can offer a **powerful and purposeful path forward**.
 
+That is also the larger connection to the manuscript. Architecture is not only a role to fill; it is a capability to cultivate. The stronger the career paths, growth systems, and expectations around the role, the more likely an organization is to build the kind of grounded, high-impact practice this book argues for.
+
 ## To Probe Further
 
 * [Appendix: Resources for Managing, Growing, and Hiring Architects](growing)
@@ -205,6 +209,7 @@ Whether you aspire to lead technology teams, drive enterprise strategy, or shape
 * [Software Architect Archetypes](https://newsletter.pragmaticengineer.com/p/software-architect-archetypes), by Gergely Orosz, 2023
 
 ## Questions to Consider
+Use the following questions to think about how architects grow and how your own path is taking shape.
 
 * *Reflect on career paths in architecture. How can an engineering background impact effectiveness of an architect?*
 * *Reflect on your career progression in architecture. How can you continuously stay relevant and make an impact in your role?*

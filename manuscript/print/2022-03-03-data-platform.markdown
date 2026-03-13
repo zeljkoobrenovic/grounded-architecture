@@ -1,6 +1,6 @@
 
 
-# Lightweight Architectural Analytics {#analytics}
+# Data Foundations: Lightweight Architectural Analytics {#analytics}
 
 ![](assets/images/istock/iStock-1414981473.jpg)
 ^image by ko_orn from istock^
@@ -10,60 +10,61 @@
 {pagebreak}
 
 A> **KEY POINTS:**
-A> * Lightweight Architectural Analytics serves as a medium to create a complete, up-to-date picture of critical elements of the organization's technology landscapes. 
-A> * Such analytics provides an architecture-centric view of data about a technology landscape based on source code analyses, public cloud billing reports, vibrancy reports, or incident tickets.
-A> * To facilitate the creation of Lightweight Architectural Analytics, I have been creating open-source tools that can help you obtain valuable architectural insights from data sources, such as source code repositories. Check out open-source [architecture dashboard examples](https://zeljkoobrenovic.github.io/grounded-architecture-dashboard-examples/) and [Sokrates](https://sokrates.dev).
+A> * **Lightweight Architectural Analytics** creates **a complete, up-to-date picture** of critical elements of the organization's technology landscape. 
+A> * Such analytics provides **an architecture-centric view of data** based on source code analyses, cloud billing reports, vibrancy reports, and incident tickets.
+A> * To facilitate **Lightweight Architectural Analytics**, I have been creating **open-source tools** that help derive architectural insights from data sources such as source code repositories. Check out [architecture dashboard examples](https://zeljkoobrenovic.github.io/grounded-architecture-dashboard-examples/) and [Sokrates](https://sokrates.dev).
 
 A> *"If we have data, let's look at data. If all we have are opinions, let's go with mine."* -— Jim Barksdale
 
-In every organization where I have built an architecture practice, I have **strongly—some might say obsessively—emphasized the importance of data**. One of the first steps I take is to establish a **Lightweight Architectural Analytics** capability (Figure 1). This step is crucial for obtaining a **comprehensive and up-to-date view of the organization’s technology landscape**.
+In large organizations, architecture often suffers from a simple problem: people make important decisions with only a partial view of reality. They rely on memory, anecdotes, local spreadsheets, outdated documentation, or whichever team happens to speak the loudest. That is a weak foundation for guiding complex technology landscapes.
+
+That is why one of my first steps in building an architecture practice is to establish **Lightweight Architectural Analytics** (Figure 1). In practice, this means I prioritize getting a good grip on reality before I try to accelerate other aspects of the architecture practice. If architects want to influence decisions at scale, they first need a current, shared, and credible picture of the technology landscape. They need to see where complexity is growing, where costs are rising, where risks are accumulating, and where teams are struggling.
+
+Only after that foundation is in place does it make sense to scale broader architectural work more aggressively. Without a reliable view of reality, activities such as governance, strategic planning, standards setting, or transformation support can become detached from the actual system and the actual organization. Data does not solve those problems on its own, but it helps ensure that the rest of the practice is anchored in something real.
+
+The point is not to replace judgment with dashboards. The point is to give judgment something stronger to stand on. Grounded Architecture starts with data because architecture becomes fragile when it depends only on opinion, heroic memory, and manual reporting.
 
 ![](assets/images/model-data.png)
 ***Figure 1:** Grounded Architecture Framework — Lightweight Architectural Analytics*
 
-## Why I Start With Data:
+## Why I Start with Data
 
-Manual documentation simply does not scale. It becomes outdated quickly and requires excessive effort to maintain. In contrast, **data is scalable, repeatable, and reliable**. When executed correctly, data serves as the **foundation for effective and consistent architectural decision-making**.
+Manual documentation does not scale well. It goes stale quickly, depends heavily on discipline, and consumes time that most teams do not have. Data is not automatically better, but it is far easier to refresh, compare, and reuse. When it is curated properly, it becomes a much stronger basis for architectural judgment.
 
 ### The Good News: You Already Have the Data
 
-The good news? **Most large organizations already possess ample data.** It is just scattered across various tools, teams, and formats.
+Most large organizations already have a large amount of useful data. The real problem is not absence but fragmentation across tools, teams, and formats.
 
 With the right combination of:
 
-* **Automation** (to collect and maintain data)  
-* **Curation** (to clean and contextualize the data),  
+* **Automation** to collect and refresh data
+* **Curation** to clean, interpret, and contextualize it
 
-...you can unlock valuable architectural insights far more easily than you might expect.
+...you can unlock architectural insight far faster than most teams expect.
 
 ### Why "Lightweight"?
 
-I use the term **lightweight** intentionally. This approach does not involve purchasing expensive software or establishing a massive data warehouse from day one. Instead, it is about:
+I use the term **lightweight** deliberately. This approach does not begin with an expensive platform program. It begins with:
 
 * **Starting small and simple**
 * Using **open-source or low-cost tools**
-* Focusing on **what’s actionable rather than just what’s impressive**
+* Focusing on **what is actionable rather than what is merely impressive**
 
-You can derive real value using a handful of smart scripts, well-designed dashboards, and a willingness to experiment. The goal is to **obtain just enough structure and visibility** to facilitate better decisions—without creating a new bureaucracy.
+A handful of scripts, clear dashboards, and a willingness to experiment can already create meaningful value. The goal is to **introduce just enough structure and visibility** to support better decisions without creating a new bureaucracy.
 
-This section will explore how Lightweight Architectural Analytics works in practice:
+This section looks at what data is useful, how to collect it, how to share it, and how to use it to reduce waste and improve alignment at scale.
 
-* What data is useful
-* How to collect it
-* How to visualize and share it
-* And how to use it to drive alignment, reduce waste, and support effective architecture at scale
-
-If architecture involves guiding complex systems through change, then data is the **compass** that helps keep us oriented in the right direction.
+If architecture is about guiding complex systems through change, then good data is one of the most practical orientation tools available.
 
 ## Examples of Lightweight Architectural Analytics Tools
 
-To clarify what I mean by **Lightweight Architectural Analytics**, I will share some concrete examples from my recent work. These tools are part of a modular dashboard we have developed and extensively used at **AVIV Group**.
+To make the idea concrete, I will share examples from recent work. These tools were part of a modular dashboard we developed and used extensively at **AVIV Group**.
 
 ![](assets/images/apps.png)**Figure 2:** *Start page of the architecture analytics dashboard used at AVIV Group.*
 
-I typically implement **Lightweight Architectural Analytics** as a **collection of focused data applications** aggregated into a simple dashboard. These tools are built on top of **existing organizational data** and provide accessible insights with minimal setup and maintenance.
+I usually implement **Lightweight Architectural Analytics** as a **collection of focused data applications** gathered into a simple dashboard. These tools sit on top of **existing organizational data** and provide accessible insight with limited setup and maintenance.
 
-Each application draws from one or more of the following **data streams**, which are often readily available in large organizations:
+Each application typically draws from one or more of the following **data streams**, which are often already available in large organizations:
 
 ![](assets/images/figures/architecture-dashboard-data-sources.png)**Figure 3:** *Overview of core data sources powering the architecture dashboard.*
 
@@ -105,11 +106,11 @@ In the following sections, I will guide you through a selection of these **data-
 
 ### Example 1: Source Code and Commit History Analytics
 
-Your **source code** and **commit history** are a valuable source of insights—an often-overlooked asset in architectural work. Within that history lie powerful signals about your **technology stack**, **team dynamics**, **dependencies**, and the **quality and structure of your systems**.
+Your **source code** and **commit history** are one of the richest and most overlooked sources of architectural insight. They contain signals about your **technology stack**, **team dynamics**, **dependencies**, and the **quality and structure of systems**.
 
 #### Meet Sokrates: An Architect’s X-Ray Vision
 
-To help you harness this potential without becoming overwhelmed, I developed and actively maintain an open-source tool called **[Sokrates](https://sokrates.dev)**.
+To make this practical, I developed and maintain an open-source tool called **[Sokrates](https://sokrates.dev)**.
 
 **Sokrates** is a free, lightweight tool that analyzes codebases across multiple repositories and generates intuitive, visual reports that are:
 
@@ -117,13 +118,13 @@ To help you harness this potential without becoming overwhelmed, I developed and
 * **High-level and strategic**, ideal for CTOs and architecture reviews.
 * **Detailed and tactical**, useful for in-depth analyses and code critiques.
 
-It allows you to **zoom out** for a broad overview of your organization's code and **zoom in** to inspect specific teams, technologies, or problem areas. Think of it as **an architect’s x-ray vision** into your source code ecosystem.
+It lets you **zoom out** for a broad overview of the code landscape and **zoom in** on specific teams, technologies, or problem areas. It is effectively **an architectural x-ray** into the source code ecosystem.
 
 ![](assets/images/sokrates-example-1.png)**Figure 4:** *Screenshot from a Sokrates report dashboard.*
 
 #### Show Me, Don’t Just Tell Me
 
-Curious what this looks like on a larger scale? Here are a few real examples of **Sokrates in action**, analyzing large open-source landscapes:
+Here are a few examples of **Sokrates in action** across large open-source landscapes:
 
 * **[Apache Software Foundation](https://d3axxy9bcycpv7.cloudfront.net/asf/_sokrates_landscape/index.html)**
   - 1,000+ repos · 180M+ lines of code · 22,000+ contributors
@@ -138,7 +139,7 @@ Curious what this looks like on a larger scale? Here are a few real examples of 
 * **[Amazon OSS](https://d3axxy9bcycpv7.cloudfront.net/amzn/_sokrates_landscape/index.html)**
   - 2,700+ repos · 130M+ lines of code · 13,000+ contributors
 
-These reports illustrate how Sokrates can uncover patterns across thousands of projects—providing valuable insights into code health, ownership, and evolution.
+These reports show how code analytics can reveal patterns across thousands of projects and provide insight into code health, ownership, and evolution.
 
 #### Specialized Analyses for Architecture Insights
 
@@ -150,13 +151,13 @@ In addition to standard commit and repository analysis, I’ve developed several
 
 #### Build Your Own
 
-Sokrates is open-source and ready to use, but even if you choose to create your own tools or pipelines, I encourage you to:
+Sokrates is open-source and ready to use, but even if you choose to build your own tools or pipelines, I would still recommend the same basic approach:
 
 * Experiment with **what matters most** to your organization.
 * Connect **code signals to business context**.
 * Share insights **visually** to maximize their impact.
 
-Start small, automate early, and let the data guide you to architect smarter solutions.
+Start small, automate early, and let the data shape better architectural decisions.
 
 ### Example 2: Public Cloud Usage Analytics
 
@@ -188,9 +189,9 @@ Importantly, you can accomplish all of this using **data you already have**, thr
 
 ### Example 3: Business & Finance Data — A Hidden Gem
 
-**Finance departments** are often the unsung heroes of enterprise data. Consider them the **Sherlock Holmes of the business**—relentlessly data-driven, meticulous, and always equipped with high-quality, structured information. While they are primarily known for tracking **costs, budgets, and forecasts**, they often monitor much more than just these “dry” figures.
+**Finance departments** are often underrated sources of enterprise data. They are usually disciplined, structured, and highly data-driven. While they are best known for tracking **costs, budgets, and forecasts**, they often monitor much more than these core financial figures.
 
-In my experience, finance teams frequently track **vibrancy**, **usage levels**, and **system engagement metrics**. They do this not out of mere curiosity, but to **connect financial performance with system usage**. This type of data is a **goldmine for architects**.
+In my experience, finance teams often track **vibrancy**, **usage levels**, and **system engagement metrics** as a way to connect financial performance with system usage. This data can be extremely valuable for architects.
 
 #### Why It Matters
 
@@ -290,7 +291,7 @@ People need to know exactly where to go. Your analytics hub should serve as the 
 
 ### Curated for Quality
 
-Data without trust is simply noise. You must take ownership of **curation**, ensuring that the data is accurate, meaningful, and transparent. Whenever possible, link back to **original data sources** so others can verify the facts. Think of yourself more as an editor than just a collector.
+Data without trust is simply noise. You must take ownership of **curation**, ensuring that the data is accurate, meaningful, and transparent. Whenever possible, link back to **original data sources** so others can verify the facts.
 
 ### Curated for Usability
 
@@ -331,7 +332,7 @@ Every organization has its own quirks when it comes to data, but after establish
 
 My motto is: ***"Talk is expensive. Show me the code."***
 
-Why? Because **code never lies.** It’s the most honest and up-to-date documentation of what’s really happening in your systems. While people may forget details or creatively reinterpret them, your repositories will tell the truth—messy or not.
+Why? Because **code is usually the most current and most honest description of what a system actually does**. People forget details and reinterpret history, but repositories preserve what changed and where.
 
 Modern IT systems store nearly everything in code: infrastructure, pipelines, configurations, and documentation. This makes source code the **richest and most reliable source of architectural insight**.
 
@@ -369,7 +370,7 @@ As the curator of your Lightweight Architectural Analytics, think of yourself as
 
 Keep it light. Keep it lean.
 
-I publish most of our analytics (like Sokrates reports) as **static resources hosted on GitHub Pages**. This approach eliminates the need for a backend, databases, and maintenance overhead.
+I publish most analytics, such as Sokrates reports, as **static resources hosted on GitHub Pages**. This removes the need for a backend, databases, and most maintenance overhead.
 
 Check out the [**Architecture Dashboard Examples repository**](https://github.com/zeljkoobrenovic/grounded-architecture-dashboard-examples), which includes:
 
@@ -436,6 +437,8 @@ We often claim we want to **innovate**, but if the data shows we are bogged down
 The data is available, and the story is waiting to be uncovered.
 **So, what’s your question?**
 
+For the broader argument of the book, Lightweight Architectural Analytics is not simply a tooling idea. It is one of the main ways architecture stays grounded in reality. It gives teams and leaders a shared factual base from which the later elements of the framework, collaborative networks and the operating model, can work more effectively.
+
 ## To Probe Further
 
 * Online Appendix [Software Tools: Examples and Screenshots](https://grounded-architecture.io/screenshots) screenshots of concrete tools I built as a part of Lightweight Architectural Analytics websites.
@@ -446,8 +449,7 @@ The data is available, and the story is waiting to be uncovered.
 * [Beyond the Cloud Bill: Leveraging AWS FinOps Data and Metrics for Smarter Architecture](https://docs.google.com/presentation/d/15BtMU99zfqnMXFoeWnQBlxd339BSimu0/edit?usp=sharing&ouid=106420046363714651268&rtpof=true&sd=true), AWS Community Day Adria 2025 presentation
 
 ## Questions to Consider
-
-Using data can significantly improve the efficiency and impact of an architecture practice. Ask yourself the following questions: 
+Use the following questions to reflect on how well your architecture practice is grounded in shared, credible data.
 
 * *What steps would you take to create an Lightweight Architectural Analytics in your organization?*
 * *Are there untapped data sources within your organization that could inform your architectural decisions?*
@@ -457,4 +459,3 @@ Using data can significantly improve the efficiency and impact of an architectur
 * *How can you ensure your data is reliable and up-to-date?*
 * *Do you collaborate with finance and governance teams to incorporate financial and vibrancy data into your data analysis?*
 * *Is there a culture of transparency in your organization?*
-

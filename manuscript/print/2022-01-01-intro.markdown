@@ -10,21 +10,21 @@
 {pagebreak}
 
 A> ***KEY POINTS:***
-A> * This book will share my approach to running an IT architecture practice in larger organizations based on my experience at AVIV Group, eBay Classifieds, and Adevinta. I call this approach "Grounded Architecture"—architecture with strong foundations and deep roots.
-A> * Prioritizing people interactions and data over processes and tools, Grounded Architecture aims to connect an architecture practice to all organizational levels as an antidote to the "ivory tower" architecture.
-A> * I also explain my motivation to write this book.
+A> * This book shares **my approach to running an IT architecture practice** in larger organizations, based on my experience at AVIV Group, eBay Classifieds, and Adevinta. I call this approach **"Grounded Architecture"**: architecture with strong foundations and deep roots.
+A> * **Grounded Architecture** prioritizes **people interactions and data** over processes and tools, connecting an architecture practice to all organizational levels as an antidote to the "ivory tower" architecture.
+A> * I also explain **my motivation for writing this book**.
 
-Have you ever wondered how to run an IT architecture practice without **feeling isolated in an ivory tower**, detached from your organization's people, problems, and realities?
+How do you run an IT architecture practice without becoming detached from the people, problems, and decisions that shape the organization?
 
-If so, this book is for you.
+This book is my answer to that question. More specifically, it is an argument that architecture becomes effective only when it stays close to the organization it is trying to help: close to teams, close to decisions, close to evidence, and close to outcomes.
 
-Based on my experiences at AVIV Group, eBay Classifieds, and Adevinta, I introduce an approach I call **Grounded Architecture**. This **practical, human-centered method** emphasizes connecting to real-world challenges, real-time data, and real people.
+Based on my experiences at AVIV Group, eBay Classifieds, and Adevinta, I introduce an approach I call **Grounded Architecture**. It is a **practical, human-centered approach** built around real-world constraints, timely data, and close collaboration with the people doing the work.
 
-Grounded Architecture is about **keeping your feet on the ground** rather than floating above the fray. It focuses on **making architecture relevant, collaborative, and responsive** to our fast-paced environments. It redefines architecture not as a set of abstract frameworks but as a living, evolving discipline rooted in relationships, results, and continuous learning.
+Grounded Architecture keeps architecture **connected to reality**. Its aim is to make architecture relevant, collaborative, and responsive in fast-moving environments. Rather than treating architecture as a collection of abstract frameworks, it treats it as a living discipline rooted in relationships, outcomes, and continuous learning.
 
-In too many organizations, architects are viewed as distant wizards casting spells from a tower—producing documents no one reads and models no one uses. Grounded Architecture challenges that perception by **promoting an architecture practice embedded in the organization's fabric**, which is connected to strategy, delivery, operations, and, most importantly, people.
+In many organizations, architects are still seen as remote specialists who produce documents no one reads and models no one uses. Grounded Architecture is an alternative: **an architecture practice embedded in the organization itself**, connected to strategy, delivery, operations, and the teams building the systems.
 
-This approach places data and collaboration at the center rather than relying on heavy-handed processes or over-engineered tools. It **draws inspiration from Grounded Theory**, a research methodology that develops theories from real-world data rather than abstract ideals. In the same spirit, Grounded Architecture evolves through continuous feedback, real usage, and tangible impact—not just best practices from outdated textbooks.
+This approach places data and collaboration at the center instead of relying on heavyweight processes or elaborate tooling. It **draws inspiration from Grounded Theory**, a research methodology that develops theories from observed reality rather than abstract assumptions. In the same spirit, Grounded Architecture evolves through feedback, usage, and measurable impact.
 
 Throughout this book, I will share insights, tools, and stories to help you build an architecture practice that is:
 
@@ -68,7 +68,7 @@ These components together form a **pragmatic, adaptive foundation** for modern a
 
 ### Guiding Principles and Inspiration (Books 2 and 3)
 
-Beyond the framework, this book offers a set of **practical tools and reflections** that explore the human, strategic, and behavioral dimensions of architecture. These principles are grouped into thematic areas:
+Beyond the framework, this book offers a set of **practical tools and reflections** that explore the human, strategic, and behavioral dimensions of architecture. These sections are not side topics. They explain how architects turn the framework into daily practice: by building judgment, understanding people, and connecting technology choices to business direction. These principles are grouped into thematic areas:
 
 #### [**On Being an Architect**](#being-architect) (Book 2)
 
@@ -122,7 +122,7 @@ Throughout my career, I have relied on a curated set of resources—books, tools
 * [Connecting Marketing and Architecture](marketing-sales-strategy)
 * [Culture as a Strategy](culture-strategy)
 
-Before diving into the full framework, I would like to share some thoughts on **why** I wrote this book. 
+Before diving into the full framework, I want to explain **why** I wrote this book and what kind of architecture practice this book is trying to help build.
 
 ## What Will You Learn?
 
@@ -171,16 +171,16 @@ I designed it to be **accessible to both technical and non-technical readers**, 
 
 ### Applying Ideas in Practice: Architecture as Cooking
 
-I like to think of starting or improving an architecture practice as a form of **culinary art**.
+I like to think of starting or improving an architecture practice as a form of **culinary craft**.
 
-Imagine arriving at a new company like a chef stepping into an unfamiliar kitchen, carrying a suitcase filled with your favorite tools and spices. Your most important work comes next: discovering the **local ingredients**.
+Imagine arriving at a new company like a chef entering an unfamiliar kitchen with a well-used set of tools and techniques. The first task is not to impose a menu, but to understand the **local ingredients**.
 
 ![](assets/images/istock/iStock-1409729992.jpg)
 ^image by hispanolistic from istock^
 
 Great cooking depends on what's fresh and available, but great architecture relies on **your organization's people, culture, and context**. Your frameworks and experience provide structure, but the authentic flavor comes from your team: their skills, insights, and unique organizational knowledge.
 
-While I'll share recipes, methods, and even a few secret sauces, remember: **you'll always need to adapt to your local ingredients**.
+I will share recipes and methods, but the central lesson remains the same: **you will always need to adapt to your local ingredients**.
 
 ## Beyond Rigid Frameworks: IT Architecture as a Collaborative, Adaptable, Outcome-Oriented Practice
 
@@ -341,7 +341,7 @@ The ideas and practices presented in this book are based on **years of hands-on 
 
 ### AVIV Group, eBay Classifieds, and Adevinta
 
-Much of the work in this book stems from my current role as **Chief Architect at AVIV Group**, as well as my earlier positions as **Principal Architect at eBay Classifieds** and **Adevinta**. These experiences have enabled me to lead architectural practices in **large, complex, and rapidly evolving organizations**, skillfully balancing long-term strategy with everyday realities.
+Much of the work in this book stems from my current role as **Chief Architect at AVIV Group**, **eBay Classifieds** and **Adevinta**. These experiences have enabled me to lead architectural practices in **large, complex, and rapidly evolving organizations**, skillfully balancing long-term strategy with ever yday realities.
 
 ### Software Improvement Group (SIG)
 
@@ -363,7 +363,9 @@ One project from that period that significantly shaped my perspective was [**Des
 
 Finally, I greatly value my early experience as a **hands-on software developer**. It's important for architects to remain close to the code and to the developers who write it. This technical grounding has proven essential in all my subsequent roles.
 
-Together, these experiences have shaped a practice that is **data-informed, people-oriented, and grounded in real-world complexity**. This book reflects those lessons—not as a theoretical model, but as a **practitioner's field guide** for building architecture that truly works: **inside real organizations, with real people, solving real problems**.
+Together, these experiences have shaped a practice that is **data-informed, people-oriented, and grounded in real-world complexity**. This book reflects those lessons not as a theoretical model, but as a **practitioner's field guide** for building architecture that truly works: **inside real organizations, with real people, solving real problems**.
+
+That is the thread running through the chapters that follow. First, I define the framework itself: the data, networks, and operating model that make architecture scalable. Then I move outward into the human and strategic disciplines that determine whether that framework becomes useful in practice. If the book works as intended, each section should help you connect architecture more firmly to execution, learning, and organizational change.
 
 ## Stay Connected
 

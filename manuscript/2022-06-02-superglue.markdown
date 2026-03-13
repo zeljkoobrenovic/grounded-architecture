@@ -10,18 +10,22 @@
 {pagebreak}
 
 A> **KEY POINTS:**
-A> * Architects in IT organizations should develop as “superglue,” people who hold architecture, technical details, business needs, and people together across a large organization or complex projects.
-A> * Architects need to be technically strong. But their unique strengths should stem from being able to relate technical issues with business and broader issues.
+A> * Architects in IT organizations should develop as **“superglue”**: people who hold **architecture, technical details, business needs, and people together** across a large organization or complex projects.
+A> * Architects need to be **technically strong**, but their unique value comes from connecting **technical issues with business and broader concerns**.
 
-To succeed as an IT architect, it’s not enough to simply master tools, frameworks, or technologies. Achieving success requires developing the **right mindset**—a blend of beliefs, attitudes, and mental models that influence how you perceive challenges and approach your work.
+Technical strength is necessary for architects, but it is rarely sufficient. In real organizations, architecture succeeds or fails based on whether someone can connect decisions across teams, bridge business and engineering concerns, and keep important work moving despite complexity and ambiguity.
+
+That is why I find the **superglue metaphor** useful. Strong architects do more than design systems or review diagrams. They create coherence. They connect **strategy and execution**, **technical detail and business intent**, and **people who would otherwise drift apart**.
+
+This chapter is about that connective role. It explains why architects need to be more than technical experts and why some of their most valuable contributions come from translation, alignment, and judgment rather than from formal authority or isolated design work.
 
 ## The Superglue Mindset: What It Takes to Be an Effective IT Architect
 
-One of the most powerful metaphors for cultivating this mindset is that of the **“superglue” architect**. This concept captures the essence of what great architects do, particularly in complex, dynamic organizations where collaboration and alignment can be more challenging than coding itself.
+One of the most useful metaphors for this mindset is the **“superglue” architect**. It captures what strong architects do in complex organizations: they hold together the people, decisions, and structures that would otherwise drift apart.
 
 ### What Does It Mean to Be “Superglue”?
 
-The **superglue metaphor** emphasizes the role of architects as the **binding force** connecting various components of an organization—people, teams, systems, strategies, and goals. This idea was popularized by [Adam Bar-Niv and Amir Shenhav from Intel](https://saturn2016.sched.com/event/63m9/cant-find-superheroes-to-help-you-out-of-a-crisis-how-about-some-architecture-and-lots-of-superglue), who observed that, while not everyone can be a superhero in a crisis, organizations greatly benefit from individuals who quietly and consistently hold everything together.
+The **superglue metaphor** emphasizes the role of architects as the **binding force** between people, teams, systems, strategies, and goals. The idea was popularized by [Adam Bar-Niv and Amir Shenhav from Intel](https://saturn2016.sched.com/event/63m9/cant-find-superheroes-to-help-you-out-of-a-crisis-how-about-some-architecture-and-lots-of-superglue), who observed that organizations need people who quietly and consistently hold things together.
 
 [Tanya Reilly](https://noidea.dog/glue) builds on this concept in her discussions about "glue work"—the invisible but vital contributions that ensure collaboration, coherence, and continuity. Similarly, [Gregor Hohpe](https://architectelevator.com/) describes modern architects as those who navigate the **"Architect Elevator,"** seamlessly moving between the **penthouse** (where business strategy is defined) and the **engine room** (where technical implementation occurs). Superglue architects thrive in this in-between space, adding value by ensuring alignment across different organizational levels.
 
@@ -37,7 +41,7 @@ Superglue architects take on more than just writing technical specifications or 
 3. **Business Needs** – Translating between strategic goals and technical feasibility, ensuring that solutions align with the organization’s actual requirements.
 4. **People and Teams** – Facilitating communication, resolving conflicts, mentoring team members, and ensuring that everyone is working towards the same objectives.
 
-In essence, these architects serve as the **organizational connective tissue**. Their value lies not only in their problem-solving abilities but also in their capacity to **link problems to the right solutions**—and to the right people.
+These architects act as **organizational connective tissue**. Their value lies not only in solving problems, but in connecting problems to the right solutions and the right people.
 
 ### The Superglue Mindset in Action
 
@@ -51,17 +55,17 @@ Cultivating a superglue mindset involves adopting a set of perspectives and habi
 
 ### Why This Matters
 
-In complex organizations, architecture is not only about systems; it’s also about **relationships, priorities, and timing**. An architect with a "superglue" mindset acts as a **force multiplier**, enhancing the efforts of teams, bridging gaps between silos, and fostering cohesion in environments that might otherwise fragment under pressure.
+In complex organizations, architecture is not only about systems. It is also about **relationships, priorities, and timing**. A superglue architect acts as a **force multiplier**, bridging gaps between silos and creating cohesion where fragmentation would otherwise take over.
 
 This mindset is especially crucial when managing change. Whether adopting a new platform, rethinking system architecture, or aligning business and IT strategies, the work of change takes place in the **gaps**—and that’s where superglue architects excel.
 
-If you're building your architecture practice or mentoring future architects, instilling the **superglue mindset** is one of the most effective ways to ensure long-term, sustainable success—not just for individuals, but for the entire organization.
+If you are building an architecture practice or mentoring future architects, the **superglue mindset** is one of the most valuable things to develop.
 
 ## Superglue Architects: Keeping the Organization United
 
-In IT organizations, deep technical knowledge is essential, but it is not what truly distinguishes great architects. What sets **superglue architects** apart from other technical specialists is their ability to **connect people, priorities, and systems** through exceptional **relational skills**.
+In IT organizations, deep technical knowledge is essential, but it is not what most distinguishes great architects. What sets **superglue architects** apart is their ability to **connect people, priorities, and systems**.
 
-Superglue architects are more than just problem solvers—they are **connectors**. They communicate clearly, negotiate thoughtfully, and influence strategically. These people skills, combined with their technical credibility, make them **invaluable for ensuring coherence, alignment, and momentum** throughout the organization.
+Superglue architects are more than problem solvers. They are **connectors** who communicate clearly, negotiate thoughtfully, and influence strategically. Combined with technical credibility, these skills make them essential for organizational coherence and momentum.
 
 ![Architects as Superglue](assets/images/superglue/architect-as-superglue.png)
 ***Figure 1:** Architects serve as superglue, connecting development teams with business stakeholders and linking their teams with internal and external communities.*
@@ -90,7 +94,7 @@ Outstanding architects also look outward. By participating in external forums, p
 
 ### Why Superglue Architects Matter
 
-While superheroes might swoop in for a dramatic rescue, **superglue architects quietly prevent crises from occurring in the first place**. They anticipate friction points, foster alignment, and ensure that systems, strategies, and people are working in unison.
+While superheroes are imagined as rescuers, **superglue architects prevent many crises before they happen**. They anticipate friction, foster alignment, and keep systems, strategies, and people moving together.
 
 Their presence ensures:
 
@@ -98,11 +102,11 @@ Their presence ensures:
 * **Clarity** amidst conflicting priorities,
 * **Continuity** in a rapidly evolving technical landscape.
 
-Think of them as the **organizational equivalent of duct tape**—invisible when effective, indispensable during challenges, and always ready to hold things together when complexity threatens to unravel them.
+Think of them as the **organizational equivalent of duct tape**: easy to overlook when things are working, indispensable when complexity starts pulling things apart.
 
-Superglue architects don’t just connect systems—they **connect vision with execution**, people with purpose, and complexity with clarity. This mindset elevates them from good architects to great ones.
+Superglue architects do not just connect systems. They **connect vision with execution**, people with purpose, and complexity with clarity.
 
-## Superglueing in Action #1: Aligning Conflicting Organizational Goals
+## Supergluing in Action #1: Aligning Conflicting Organizational Goals
 
 In many IT organizations, tensions often arise between key areas: **technology, product, organizational structure, and business strategy**. These areas tend to evolve at different speeds and often have conflicting priorities. Without proper alignment, the result can be poor decisions, increased complexity, stalled initiatives, and missed opportunities.
 
@@ -120,7 +124,7 @@ While it’s ideal for business, technology, product, and organizational functio
 ![Tensions diagram](assets/images/tension.png)
 ***Figure 2:** Common misalignments across business, product, technology, and organizational domains.*
 
-Let’s examine a few real-world examples of these tensions:
+Here are a few concrete examples of these tensions:
 
 #### **Technology vs. Organization**
 
@@ -153,7 +157,7 @@ Superglue architects are uniquely positioned to **identify, mediate, and resolve
 ![Reducing tension diagram](assets/images/tension-architecture.png)
 ***Figure 3:** Architects sit at the intersection of business, product, technology, and organizational functions to reduce misalignment.*
 
-Here’s how they achieve this:
+They usually do this in a few practical ways:
 
 #### **1. Aligning Technology with Business Goals**
 
@@ -274,7 +278,7 @@ The conflict appears to be solution-based. However, one group is focused on **ex
 
 ### The Role of a Superglue Architect
 
-Superglue architects play a vital role in helping teams navigate discussions, ensuring clarity and alignment. Here’s how they do it:
+Superglue architects play a vital role in helping teams navigate discussions, ensuring clarity and alignment. In practice, they do this by:
 
 #### 1. **Clarify the Problem First**
 
@@ -294,7 +298,7 @@ As Gregor Hohpe points out, effective architects help others understand that wha
 
 By keeping conversations focused and grounded, architects prevent teams from becoming stagnant. They promote alignment, highlight the real issues, and ensure that the team's energy is directed toward **addressing the right problems in the right way**.
 
-## Superglueing in Action #3: Navigating Organizational Conflicts
+## Supergluing in Action #3: Navigating Organizational Conflicts
 
 In complex organizations, **conflict is not a sign of failure—it’s a sign of interdependence**. When multiple teams, priorities, and personalities come together, disagreements are inevitable. What truly matters is how these conflicts are **understood, navigated, and resolved**.
 
@@ -382,11 +386,7 @@ Architects don’t need to act as conflict mediators, but they are uniquely posi
 
 By applying structured decision-making, clarifying communication, and honoring diverse work styles, superglue architects transform conflict from a source of friction into a **catalyst for alignment and progress**.
 
-Their ability to work across agendas, perceptions, and personalities helps teams **navigate disagreement without losing direction**—and builds trust in the architect’s quiet but powerful role as the organization’s connective tissue.## Superglueing in Action #3: Navigating Organizational Conflicts
-
-In complex organizations, **conflict is not a sign of failure—it’s a sign of interdependence**. When multiple teams, priorities, and personalities converge, disagreements are inevitable. What matters is how these conflicts are **understood, navigated, and resolved**.
-
-IT architects, sitting at the intersection of business and technology, often find themselves in the middle of such tensions. But rather than acting as referees, great architects serve as **facilitators—guiding teams toward clarity, collaboration, and shared purpose**.
+Their ability to work across agendas, perceptions, and personalities helps teams **navigate disagreement without losing direction**—and builds trust in the architect’s quiet but powerful role as the organization’s connective tissue.
 
 ## Final Thoughts on Superglue Impact: Keeping Everyone on the Same Page in a Stormy Sea
 
@@ -417,7 +417,7 @@ In uncoordinated environments, teams often end up replicating the same functiona
 
 ### **Unnecessary Complexity**
 
-Sometimes systems are overengineered to accommodate every possible use case—like using a Swiss Army knife when a simple spoon would suffice. Architects guide teams to **focus on what is essential**, creating solutions that are appropriately sized and sustainable.
+Sometimes systems are overengineered to accommodate every possible use case. Architects guide teams to **focus on what is essential**, creating solutions that are appropriately sized and sustainable.
 
 ### **Overengineering**
 
@@ -450,6 +450,8 @@ Architects don’t need to be vocal to make a significant impact. Their effectiv
 
 They are the quiet force that keeps strategy, technology, and execution **interconnected through strong communication and shared purpose**. Amid shifting priorities and organizational change, **they keep the boat afloat and everyone heading in the same direction**.
 
+This is also why the superglue idea matters so much to the rest of the manuscript. Data, governance, and strategy are all necessary, but they do not connect themselves. Architects create value when they turn those ingredients into working alignment across the organization.
+
 ## To Probe Further
 
 * [Thinking Like an Architect](https://www.infoq.com/articles/thinking-like-architect/), by Gregor Hohpe, 2024
@@ -460,8 +462,7 @@ They are the quiet force that keeps strategy, technology, and execution **interc
 * [Here’s why enterprise IT is so complex](https://architectelevator.com/architecture/it-complexity/), by Gregor Hohpe, 2018
 
 ## Questions to Consider
-
-Being a superglue architect means constantly developing and redefining your role to benefit a changing organization. Ask yourself the following questions:
+Use the following questions to examine how much of your work consists of connecting people, decisions, and moving parts across the organization.
 
 * *How well do you think you currently embody the characteristics of a "superglue" architect? Which areas could you improve on to become more effective in this role?*
 * *Reflect on your ability to connect the "business wheelhouse" and the "engine room" within your organization. How effectively do you bridge the gap between technical issues and business needs?*
@@ -472,4 +473,3 @@ Being a superglue architect means constantly developing and redefining your role
 * *Have you witnessed the architecture sitting on the side, being ignored? If so, what steps can you take to actively involve architecture in decision-making processes?*
 * *Are conversations between the technical, product, organizational, and business functions encouraged and facilitated within your organization? If not, how might they be initiated and supported?*
 * *Considering the three legs of a successful architect (skills, impact, leadership), which are your strongest? Which might need more development?*
-

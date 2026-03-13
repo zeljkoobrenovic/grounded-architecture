@@ -10,60 +10,62 @@
 {pagebreak}
 
 A> **KEY POINTS:**
-A> * My view of architecture leadership is inspired by David Marquet's work and Netflix's valued behaviors.
-A> * Marquet focused on leadership and organizational management, particularly emphasizing the principles of Intent-Based Leadership.
-A> * Borrowing from Netflix's original values, I see the following behavioral traits as crucial for architects: communication, judgment, impact, inclusion, selflessness, courage, integrity, curiosity, innovation, and passion.
+A> * My view of architecture leadership is inspired by **David Marquet's work** and **Netflix's valued behaviors**.
+A> * Marquet emphasized the principles of **Intent-Based Leadership**.
+A> * Borrowing from Netflix's original values, I see **communication, judgment, impact, inclusion, selflessness, courage, integrity, curiosity, innovation, and passion** as crucial for architects.
 
 "*A leader is anyone who takes **responsibility** for **recognizing** the **potential in people and ideas**, and has the **courage** to develop that potential.*" --Brené Brown 
 
-When I think about architecture leadership, two key influences really stand out for me: David Marquet’s leadership principles and the Netflix Culture Memo. Marquet’s insights from his books, *Turn the Ship Around!* and *Leadership Is Language*, really hit home. 
+My view of architecture leadership is shaped by two strong influences: David Marquet’s leadership principles and the Netflix Culture Memo.
 
-He emphasizes some key ideas:
+In the structure of this book, leadership is what allows architectural skill and impact to scale beyond the individual. Grounded Architecture depends on influence without constant central control, so leadership here is less about authority and more about creating clarity, ownership, and better decisions in others.
+
+Marquet emphasizes several ideas that are especially relevant for architects:
 
 * **Empowering everyone**: It’s about giving people at every level the authority to make decisions.
-* **Clarity of intent**: Clearly communicating what’s expected can really help everyone stay aligned.
+* **Clarity of intent**: Clearly communicating intent helps everyone stay aligned.
 * **Decentralized decision-making**: Letting teams make their own calls fosters ownership and accountability.
 * **Servant leadership**: Supporting others in their growth is crucial.
 * **Continuous improvement**: Always looking for ways to get better keeps innovation alive.
 
-On the flip side, Netflix brings a fresh perspective with its **Culture Memo**. It lays out practical ways to nurture leadership traits across the board, not just for those in management roles. They promote values like curiosity, good judgment, courage, and the importance of speaking up to help each other grow.
+Netflix complements this with a **behavioral model** for leadership that extends well beyond formal management. Its emphasis on judgment, curiosity, courage, and candid feedback maps naturally to architectural work.
 
-Combining Marquet’s and Netflix’s approaches gives us a solid, modern framework for leadership that really fits the needs of today’s IT architecture. It’s all about **cross-functional influence**, finding **clarity in complex situations**, and leading effectively **without relying solely on a hierarchy**.
+Together, these perspectives form a practical framework for modern architecture leadership: **cross-functional influence, clarity in complexity, and leadership without dependence on hierarchy**.
 
 ![Architecture Leadership](assets/images/arch/architects_leadership.png)
 ***Figure 1:** Architecture rests on three key pillars: skills, impact, and leadership. Without that leadership element, even the most skilled architects can feel stuck, struggling to scale their influence or drive meaningful change within their organizations.*
 
 ## David Marquet’s Work: The Leader-Leader Model
 
-One of the most impactful leadership concepts I've come across is **David Marquet’s Leader-Leader approach**. He dives deep into this idea in his books, *Turn the Ship Around!* and *Leadership Is Language*. What really sets this model apart is how it flips traditional leadership on its head. Instead of authority resting solely at the top, the Leader-Leader model encourages a **shared sense of responsibility** and **invites initiative** from everyone on the team.
+One of the most useful leadership concepts for architects is **David Marquet’s Leader-Leader approach**. Rather than concentrating authority at the top, it distributes responsibility and invites initiative across the team.
 
-At its essence, Marquet’s model is built on a powerful belief: **everyone has the potential to be a leader**. Rather than relying on a single person to call all the shots, the team collaborates and shares authority to reach common goals. This creates a culture where individuals feel empowered to take ownership of their work, speak up, and act with confidence.
+At its core, the model assumes that **everyone can lead**. The point is not to remove accountability, but to build a culture in which people take ownership, speak up, and act with intent.
 
 ![](assets/images/istock/iStock-513438213.jpg)
 ^image by caiaimage/martin barraud from istock^
 
-For architects, this means stepping away from the habit of being the “go-to person” for every decision. Instead, they can become **facilitators, coaches, and mentors**—empowering their teams while still guiding overall architectural direction. This shift not only builds the team’s capacity but also fosters trust and strengthens execution.
+For architects, this means stepping away from being the default answer to every question. The role shifts toward **facilitating, coaching, and mentoring** while still guiding architectural direction.
 
 ### Building a Collaborative Culture
 
-One of the standout features of the Leader-Leader model is how it nurtures **inclusion, accountability, and creativity**. When everyone is encouraged to contribute their unique perspectives and skills, teams become more collaborative and resilient. Ownership is shared, and success is celebrated as a collective achievement.
+The Leader-Leader model supports **inclusion, accountability, and creativity**. When people are expected to contribute rather than wait for permission, teams become more resilient and more capable.
 
 ### “I Intend To”: A Small Phrase with Big Impact
 
-In *Leadership Is Language*, Marquet emphasizes that the language we use matters a lot in leadership. He introduces the phrase **“I intend to”** as a replacement for passive, permission-seeking language. Instead of saying, *“Can I do this?”*, team members can confidently assert, *“I intend to do this.”* This shift helps clarify intent and empowers individuals to take initiative.
+In *Leadership Is Language*, Marquet stresses that language shapes behavior. His phrase **“I intend to”** replaces passive, permission-seeking language with explicit ownership.
 
-This simple phrase can transform team dynamics in a big way.
+It is a small linguistic shift with large practical consequences.
 
 A> **“I have found the phrase ‘I intend to’ to be a powerful catalyst for positioning architecture work.”**
 
 ![](assets/images/arch/leader-leader.jpg)
 ***Figure 2:** Leadership language, based on Intent-Based Leadership by David Marquet.*
 
-When architects adopt this language themselves and encourage their teams to do the same, they help cultivate a culture rich in **clarity, action, and mutual accountability**. It sets the expectation that everyone is expected to lead, while architects are there to guide, support, and elevate the team's efforts.
+When architects use this language consistently, they reinforce a culture of **clarity, initiative, and mutual accountability**.
 
 ### Applying Leader-Leader Thinking in Architecture and Engineering
 
-The Leader-Leader model isn’t just a theoretical framework—it works wonders in real-world engineering settings. Here are some concrete examples where this approach shines:
+The Leader-Leader model is practical, especially in engineering environments:
 
 * **Empowering Teams in Agile Environments**  
   In Agile teams, everyone has a seat at the table when it comes to decision-making. Developers, testers, and product owners collaborate to contribute meaningfully, rather than simply following orders.
@@ -88,20 +90,20 @@ The Leader-Leader model isn’t just a theoretical framework—it works wonders 
 
 ### Leader-Leader Model: Final Thoughts
 
-The **Leader-Leader model offers a compelling framework** for architects who want to lead not by dictating but through clarity, coaching, and empowerment. It transforms the architect's role into one of **amplifying others' capabilities**, enabling the organization to move faster, innovate more, and grow stronger together.
+The **Leader-Leader model gives architects a practical way to lead through clarity, coaching, and empowerment rather than control**. It turns architecture leadership into the work of amplifying other people’s capability.
 
-In this vibrant environment, architects aren't just decision-makers—they're leaders nurturing their teams to take initiative and thrive.
+In that environment, architects are not just decision-makers. They are multipliers.
 
 ## Netflix's Valued Behaviors: A Guide for Architecture Leadership
 
-The [Netflix Culture Memo](https://jobs.netflix.com/culture) is a huge influence on how I coach and develop architects. While David Marquet offers the mindset of empowering leadership, Netflix provides a behavioral blueprint that's like a practical guide for shaping strong, trusted leaders at all levels of an organization.
+The [Netflix Culture Memo](https://jobs.netflix.com/culture) strongly influences how I coach and develop architects. If Marquet provides the leadership mindset, Netflix provides a useful behavioral model.
 
-Their core values—**judgment**, **curiosity**, **courage**, and **selflessness**—help architects not just exemplify leadership but also nurture it in others. This is especially crucial in the field of architecture, where collaboration often trumps authority, and having a good influence is key to making progress.
+Its values, especially **judgment**, **curiosity**, **courage**, and **selflessness**, are highly relevant in architecture, where influence matters more than positional authority.
 
 ![](assets/images/istock/iStock-480185329.jpg)
 ^image by chaiyon021/martin barraud from istock^
 
-Here’s a rundown of these leadership behaviors inspired by Netflix’s values, reordered for how they most directly relate to the work of IT architects.
+Below is a concise version of these behaviors, reordered for architectural work.
 
 ### Communication
 
@@ -117,14 +119,14 @@ At the heart of effective architecture is clear and thoughtful communication. Ar
 Architects often step in when things get tricky or decisions are hard to make. Having sound judgment is absolutely essential.
 
 - Use **data** to back up your intuition, blending analysis with your experience.
-- Make wise decisions even when the situation is a bit fuzzy.
+- Make wise decisions even when the situation is ambiguous.
 - Dig deep to identify **root causes** instead of just scratching the surface.
 - Think about the **long-term impact** rather than chasing short-term gains.
 - Be **strategic** in your thinking and communicate your priorities clearly.
 
 ### Impact
 
-As I often say, architecture needs to deliver real business value—not just pretty designs.
+Architecture must deliver real business value, not just elegant designs.
 
 - Focus on delivering **substantial, high-value work**.
 - Raise the performance of those around you consistently.
@@ -142,7 +144,7 @@ Good architects lead across various teams, disciplines, and cultures. Making eve
 
 ### Selflessness
 
-Being a leader in architecture often means putting aside your ego and prioritizing what’s best for the organization.
+Leadership in architecture often requires putting ego aside and choosing what is best for the organization.
 
 - Always put the **company’s success** ahead of personal accolades.
 - Be open and **share knowledge and information** freely.
@@ -151,7 +153,7 @@ Being a leader in architecture often means putting aside your ego and prioritizi
 
 ### Courage
 
-Sometimes, architects have to make tough calls, even if they aren’t popular. Having courage is crucial for acting when it truly matters.
+Architects sometimes need to make difficult and unpopular calls. Courage matters because influence is meaningless if it disappears under pressure.
 
 - **Speak up** when it's for the greater good, even if it feels uncomfortable.
 - Don’t shy away from **challenging the status quo** when it’s necessary.
@@ -171,7 +173,7 @@ Trust is everything. Your influence as an architect hinges on your credibility, 
 
 ### Curiosity
 
-Given how fast technology evolves, architects must stay curious to ensure their guidance remains relevant and strategic.
+Because technology changes quickly, architects need sustained curiosity to keep their guidance relevant.
 
 - **Learn quickly and proactively**.
 - Look for connections across systems, domains, and ideas.
@@ -180,7 +182,7 @@ Given how fast technology evolves, architects must stay curious to ensure their 
 
 ### Innovation
 
-While curiosity fuels learning, innovation is what drives impact. Architects should be champions of smart, pragmatic innovation.
+Curiosity fuels learning; innovation turns learning into impact. Architects should champion pragmatic innovation rather than novelty for its own sake.
 
 - Generate **new ideas** that tackle real problems.
 - Strive for elegance by minimizing complexity.
@@ -190,14 +192,17 @@ While curiosity fuels learning, innovation is what drives impact. Architects sho
 
 ### Passion
 
-Finally, architects often serve as cultural role models. Passion is what drives excellence, resilience, and inspires those around you.
+Architects often serve as cultural role models. Passion helps sustain excellence, resilience, and momentum.
 
 - **Inspire others** through your commitment and enthusiasm.
 
-This approach not only enhances your journey as an architect but also helps cultivate an environment that values and nurtures leadership in all forms. Let’s keep pushing the envelope together!
+Together, these behaviors create a practical leadership standard for architects who want to build trust, increase influence, and raise the bar around them.
+
+This is the larger point for the manuscript as well. Architecture becomes durable when leadership is distributed, judgment is strengthened across teams, and people are empowered to act with shared intent. That is how an architecture practice grows beyond a few central experts and becomes part of how the organization works.
  
 
 ## Questions to Consider
+Use the following questions to reflect on how you lead, where your influence comes from, and how far it actually extends.
 
 * *Reflect on the Leader-Leader model of leadership model in your work. How can you empower your team members and encourage them to take ownership of their work?*
 * *Have you acted as a facilitator, coach, or mentor as an architect? Can you share an example of when you gave team members guidance, support, or resources to achieve their goals?*

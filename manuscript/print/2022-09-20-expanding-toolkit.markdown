@@ -9,7 +9,9 @@
 
 {pagebreak}
 
-A holistic approach is essential for achieving success in the intricate and fast-paced world of IT architecture, especially within complex organizations. Traditional IT architecture literature often fails to address the multifaceted challenges architects face today. To bridge this gap, I have curated a selection of resources that provide a broader perspective, drawing inspiration from social sciences, behavioral sciences, product management, and political sciences. These resources offer valuable insights and practical strategies for running the Grounded Architecture practice in complex organizational environments.
+A **holistic approach** is essential in the fast-moving and complex world of IT architecture. Traditional architecture literature often does not fully address the range of challenges architects face in practice. To broaden that perspective, I have curated resources from **social science, behavioral science, product management, and political science**.
+
+This section extends one of the book's core claims: **architects improve faster when they learn beyond architecture**. Many of the hardest problems in practice involve **economics, product tradeoffs, organizational behavior, and decision-making under uncertainty**.
 
 * [**Economic Modeling With ROI and Financial Options**](#economics): I sketch two methods of determining the economic value of technology investments and architecture: the return on investment metaphor and the financial options metaphor.
 
@@ -19,4 +21,6 @@ A holistic approach is essential for achieving success in the intricate and fast
 
 * **[How Big Transformations Get Done: Learning From Mega-Projects](big-projects)**: IT transformation projects face similar challenges as other mega-projects, often failing due to cognitive biases and poor planning. However, applying key lessons from successful projects—such as risk mitigation, modular design, and stakeholder engagement—can significantly improve their outcomes.
 
-By exploring these diverse resources, IT architects can significantly enhance their ability to drive strategic initiatives within their organizations. These insights provide a robust framework for developing a grounded and effective an architecture practice, enabling architects to address the unique challenges of their roles with confidence and precision. Whether you are an aspiring architect or a seasoned professional, these perspectives will offer valuable guidance on navigating and excelling in the dynamic field of IT architecture.
+By drawing on these diverse resources, architects can expand their ability to support strategy, execution, and organizational change. The aim is not to borrow other disciplines wholesale, but to use them to strengthen judgment, broaden perspective, and build a more effective architecture practice.
+
+In the overall manuscript, these chapters serve as a final expansion of scope. After establishing the framework, the people dimension, and the strategic dimension, this section shows how architects can keep maturing their practice by importing useful ideas from neighboring fields.
