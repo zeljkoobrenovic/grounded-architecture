@@ -1,7 +1,7 @@
 ---
 layout: post
 section: "Appendix 7: Other Things"
-title: "Cheat Sheet"
+title: "Grounded Architecture Cheat Sheet"
 position: 18131
 podcast: cheat-sheet.mp3
 spotify: https://open.spotify.com/episode/2EYcBZbk0ZeTEHKewrMqdZ?si=e0809dcf6a1549b8
@@ -124,7 +124,7 @@ This cheat sheet is meant as a compact refresher rather than a substitute for th
 > * Career tracks can include Senior Architects (broader responsibilities), Principal Architects (specialized focus), and Enterprise Architects (aligning technical strategy with business objectives).
 > * Architecture roles can lead to tech leadership positions such as Engineering Director or Chief Technology Officer (CTO), leveraging strategic vision, decision-making, and leadership skills.
 
-## Notes On Human Complexity
+## Notes on Human Complexity
 
 ### The Culture Map: Architects' Culture Compass
 > * I have found the work of Erin Meyer, The Culture Map, to be a beneficial tool for architects to work harmoniously with people from various cultures and backgrounds.

@@ -1,7 +1,7 @@
 ---
 layout: post
-section: "Appendix 5: Random Notes On Strategy"
-title: "Culture As a Strategy (aka Culture Eats Strategy for Breakfast)"
+section: "Appendix 5: Strategy Notes"
+title: "Culture as Strategy"
 position: 17015
 podcast: culture-strategy.mp3
 spotify: https://open.spotify.com/episode/0BiW7lb6EADUvLk6MMRqfG?si=OTA5NzJ9RGWo9cmCSdKn8g
@@ -94,7 +94,7 @@ Each style has benefits and trade-offs. For example, **caring** fosters loyalty 
 The framework can diagnose organizational cultures, evaluate consistency in employees' views, identify subcultures, and guide mergers, leadership alignment, and aspirational culture design. Combining styles, like **results** and **caring**, may create tensions, requiring nuanced leadership to balance values effectively.
 
 <br>
-## Influence of Organizational Culture on IT Architecture 
+## Influence of Organizational Culture on IT Architecture
 
 The described cultural styles deeply influence the work of IT architects, shaping how they approach problem-solving, collaboration, and innovation within an organization. Each style aligns with different aspects of an IT architect's role, emphasizing certain values and priorities.
 

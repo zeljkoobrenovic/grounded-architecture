@@ -1,6 +1,6 @@
 ---
 layout: post
-section: "Appendix 5: Random Notes On Strategy"
+section: "Appendix 5: Strategy Notes"
 title: "Connecting Marketing, Sales, and Customer Service Strategies"
 position: 17013
 podcast: marketing-sales-strategy.mp3
@@ -149,7 +149,7 @@ Automation and AI-powered solutions enhance efficiency and effectiveness in mark
 - Automate lead generation and nurturing processes through AI-driven recommendation engines.
 - Leverage predictive analytics to forecast customer behavior and optimize sales strategies.
 
-## Summary
+## Final Thoughts
 
 IT architects are critical in optimizing marketing, sales, and customer care strategies by applying architectural thinking to data, integration, automation, and security. By aligning technology with business objectives, IT architects can drive digital transformation in these functions, leading to increased efficiency, better customer experiences, and improved revenue growth.
 

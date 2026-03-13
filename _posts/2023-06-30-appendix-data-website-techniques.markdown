@@ -135,7 +135,7 @@ I embedded a JavaScript script within the Google Sheet to further streamline thi
 ***Figure 4:** Exporting Google Sheet data to JSON for document generation.*
 
 <br>
-## Two Examples Deployments
+## Two Example Deployments
 
 In recent work, I have used the following two setups to create collaborative, data-driven dashboards.
 

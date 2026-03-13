@@ -1,6 +1,6 @@
 ---
 layout: post
-section: "Notes On Human Complexity"
+section: "Notes on Human Complexity"
 title: "Effortless Architecture"
 position: 7019
 podcast: effortless.mp3

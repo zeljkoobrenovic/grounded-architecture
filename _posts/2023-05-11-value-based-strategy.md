@@ -1,6 +1,6 @@
 ---
 layout: post
-section: "Appendix 5: Random Notes On Strategy"
+section: "Appendix 5: Strategy Notes"
 title: "Value-Based Strategy"
 position: 17011
 podcast: value-based-strategy.mp3
@@ -106,7 +106,7 @@ These capabilities rely on integrated IT systems that facilitate transparency, s
 
 
 <br>
-## Creating Technology Ecosystem For Business Success
+## Creating a Technology Ecosystem for Business Success
 
 By **embedding these principles into IT architecture**, enterprises can create a technology ecosystem that contributes directly to business success.  
 

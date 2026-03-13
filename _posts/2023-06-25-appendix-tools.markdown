@@ -1,7 +1,7 @@
 ---
 layout: post
 section: "Appendix 6: Software Tools"
-title: "Tools"
+title: "Software Tools Overview"
 position: 17125
 podcast: tools.mp3
 spotify: https://open.spotify.com/episode/7aMdcwV5z9Yu6bC78TGQ3v?si=e84208717f8a435c
@@ -45,7 +45,7 @@ Image by <a href="https://pixabay.com/users/pexels-2286921/?utm_source=link-attr
 
 This appendix collects the tools I rely on most often in day-to-day architectural work. They are not presented as a mandatory stack, but as concrete examples of the kind of lightweight, practical tooling that supports Grounded Architecture without creating unnecessary overhead.
 
-## Tools
+## Software Tools
 
 <table>
 <tr class="icon-container">
@@ -116,4 +116,3 @@ Sokrates can help you understand your code by making visible the size, complexit
 </td>
 </tr>
 </table>
-

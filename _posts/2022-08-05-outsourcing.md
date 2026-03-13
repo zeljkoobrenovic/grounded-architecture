@@ -1,6 +1,6 @@
 ---
 layout: post
-section: "Notes On Strategy"
+section: "Notes on Strategy"
 title: "Outsourcing Strategies"
 position: 8005
 podcast: outsourcing.mp3

@@ -1,7 +1,7 @@
 ---
 layout: post
 section: "Appendix 3: Navigating Workplace Dynamics"
-title: "Effective Communication"
+title: "Communication for Architects"
 position: 14111
 podcast: communication.mp3
 spotify: https://open.spotify.com/episode/0mpZVIDYld1lPPL9vZjN9Y?si=112619d0cc274b48
@@ -75,7 +75,7 @@ Each of these resources can help architects improve the communication and leader
 
 <br>
 <hr>
-## So What!
+## So What?: Communicating What Matters
 
 **"So What? How to Communicate What Really Matters to Your Audience"** by Mark Magnacca is a guide for effectively communicating your ideas and solutions to stakeholders, team members, or clients. This book emphasizes the importance of delivering clear, concise, and relevant messages that resonate with the audience's needs and concerns. The principles outlined in "So What!" can serve as an inspiration for IT architects to enhance their communication skills, ensuring their technical insights are understood and valued.
 

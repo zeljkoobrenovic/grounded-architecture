@@ -1,6 +1,6 @@
 ---
 layout: post
-section: "Notes On Human Complexity"
+section: "Notes on Human Complexity"
 title: "The Culture Map: Architects' Culture Compass"
 position: 7003
 podcast: culture-map-confrontational.mp3

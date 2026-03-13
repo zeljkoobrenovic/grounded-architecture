@@ -258,7 +258,7 @@ IT architects often find themselves in roles where they need to influence outcom
 Connection builds the **psychological safety and trust** that are essential for **positive team interactions**. It forms the **relational foundation** upon which effective architectural leadership is built. This play is crucial for nurturing **collaborative networks** and fostering an understanding of **human factors**, which are central pillars of the Grounded Architecture philosophy. Grounded Architecture emphasizes the importance of *Collaborative Networks* and dedicates attention to *Human Complexity*, which includes understanding cultural differences and cognitive biases. The act of **connecting** is precisely how architects build these vital relationships.
 
 
-## IV. Conclusion: Integrating Leadership Principles into Your Architectural Practice
+## Conclusion: Integrating Leadership Principles into Your Architectural Practice
 
 The six leadership principles outlined in David Marquet's *Leadership is Language*—*Control the Clock*, *Collaborate*, *Commit*, *Complete*, *Improve*, and *Connect*—provide a **valuable toolkit for IT Architects** looking to enhance their **leadership effectiveness**. By adopting these linguistic shifts, architects can transform their leadership style from a traditional, potentially less impactful approach to one that is more **empowering**, **collaborative**, and **results-oriented**. These concepts are not just abstract theories; they are **practical, actionable tools** that can be implemented immediately through a **conscious change in the language** we use in our daily interactions.
 

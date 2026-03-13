@@ -1,7 +1,7 @@
 ---
 layout: post
 section: "On Being an Architect"
-title: "Bonus: Preparing for The  AI Future"
+title: "Bonus: Preparing for the AI Future"
 position: 6020
 spotify: https://open.spotify.com/episode/1VY8J9LhSPjQvbHCkN2y7I?si=sEFc9RHLSt6ObyxW8CnbgA
 date:   2021-10-21 21:12:01 +0100

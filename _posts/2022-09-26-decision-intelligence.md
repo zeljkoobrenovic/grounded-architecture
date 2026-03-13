@@ -346,7 +346,7 @@ and want to consolidate on one stack, you may end up in competition and oppositi
 a consolidated stack to be as close as possible to their previous one.
 
 <br>
-## Decision is a Step in the Process
+## Decision-Making as Part of a Larger Process
 
 The Radical Candor book introduces a [productivity-focused strategy](https://www.radicalcandor.com/wp-content/uploads/2022/09/How-To-Get-Shit-Done-With-Radical-Candor.pdf) to improve decision-making processes, reduce time
 spent in unproductive meetings, and enhance overall efficiency. The central premise of this methodology is that you

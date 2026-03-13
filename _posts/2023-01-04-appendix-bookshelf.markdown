@@ -1,7 +1,7 @@
 ---
 layout: post
 section: "Appendix 1: Inspiration and Further Learning"
-title: "Bookshelf"
+title: "Recommended Bookshelf"
 position: 12104
 podcast: bookshelf.mp3
 spotify: https://open.spotify.com/episode/607hsZFa0M6GF9zkk4cGP9?si=5817598b69ab431c

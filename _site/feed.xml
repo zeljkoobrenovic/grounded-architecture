@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-03-12T22:20:22+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: Redefining IT Architecture Practice</title><subtitle></subtitle><entry><title type="html">TL;DR Experimental Podcast</title><link href="http://localhost:4000/podcast" rel="alternate" type="text/html" title="TL;DR Experimental Podcast" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/podcast</id><content type="html" xml:base="http://localhost:4000/podcast"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/istock/iStock-1409652094.jpg" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-03-13T09:34:49+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Grounded Architecture: Redefining IT Architecture Practice</title><subtitle></subtitle><entry><title type="html">TL;DR Experimental Podcast</title><link href="http://localhost:4000/podcast" rel="alternate" type="text/html" title="TL;DR Experimental Podcast" /><published>2021-10-21T22:12:01+02:00</published><updated>2021-10-21T22:12:01+02:00</updated><id>http://localhost:4000/podcast</id><content type="html" xml:base="http://localhost:4000/podcast"><![CDATA[<p><img style="margin-top: -20px; width: 100%; height: 400px; object-fit: cover" src="assets/images/istock/iStock-1409652094.jpg" /></p>
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/gorodenkoff">gorodenkoff</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
@@ -1342,7 +1342,7 @@ Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/ko_or
 <em><strong>Figure 1:</strong> Grounded Architecture Framework — Lightweight Architectural Analytics</em></p>
 
 <p><br /></p>
-<h2 id="why-i-start-with-data">Why I Start With Data:</h2>
+<h2 id="why-i-start-with-data">Why I Start with Data</h2>
 
 <p>Manual documentation does not scale well. It goes stale quickly, depends heavily on discipline, and consumes time that most teams do not have. Data is not automatically better, but it is far easier to refresh, compare, and reuse. When it is curated properly, it becomes a much stronger basis for architectural judgment.</p>
 

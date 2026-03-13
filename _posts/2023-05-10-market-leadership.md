@@ -1,6 +1,6 @@
 ---
 layout: post
-section: "Appendix 5: Random Notes On Strategy"
+section: "Appendix 5: Strategy Notes"
 title: "Achieving Market Leadership"
 position: 17010
 podcast: market-leadership.mp3

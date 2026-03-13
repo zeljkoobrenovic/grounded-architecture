@@ -66,7 +66,7 @@ The point is not to replace judgment with dashboards. The point is to give judgm
 ***Figure 1:** Grounded Architecture Framework — Lightweight Architectural Analytics*
 
 <br>
-## Why I Start With Data:
+## Why I Start with Data
 
 
 Manual documentation does not scale well. It goes stale quickly, depends heavily on discipline, and consumes time that most teams do not have. Data is not automatically better, but it is far easier to refresh, compare, and reuse. When it is curated properly, it becomes a much stronger basis for architectural judgment.

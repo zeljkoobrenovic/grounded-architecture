@@ -1,6 +1,6 @@
 ---
 layout: post
-section: "Appendix 5: Random Notes On Strategy"
+section: "Appendix 5: Strategy Notes"
 title: "Hunting the Ghost of Business Architecture"
 position: 17014
 podcast: business-architecture.mp3
@@ -154,7 +154,7 @@ Each **business unit** possesses its own **mini-architecture**—formalized or n
 
 
 <br>
-## **Business Architecture as a Shared Space**
+## Business Architecture as a Shared Space
 
 Perhaps the best way to understand business architecture is not as a fixed function or framework, but as a **shared space**—one that welcomes **multiple perspectives** and requires **active coordination**.
 
@@ -174,7 +174,7 @@ It’s less about **who owns the models** and more about:
 When this shared space is nurtured—with the right **conversations**, **models**, and **governance**—business architecture can become a **powerful enabler** of **strategy**, **agility**, and **clarity**.
 
 <br>
-## **Final Thought**
+## Final Thought
 
 If you’re an **IT or enterprise architect**, you may already be **contributing to business architecture**—whether you realize it or not. You are **modeling capabilities**, **aligning systems with business needs**, and **helping teams navigate complexity**.
 

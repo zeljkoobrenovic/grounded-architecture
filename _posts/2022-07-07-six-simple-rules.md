@@ -1,6 +1,6 @@
 ---
 layout: post
-section: "Notes On Human Complexity"
+section: "Notes on Human Complexity"
 title: "Cooperation-Based Organizations: Six Simple Rules"
 position: 7007
 podcast: six-simple-rules.mp3
@@ -105,7 +105,7 @@ In my experience, IT architecture support in organizations following a soft mana
 
 
 <br>
-## Collaboration Approach 
+## Collaboration Approach
 
 Hard and soft management approaches are limited in today's world and are harmful to cooperation. A **hard approach** introduces **complicated mechanisms**, compliance, and "checking the box" behaviors instead of the engagement and initiative to make things work. The **soft approach's** emphasis on **good interpersonal feelings** creates **cooperation obstacles** as people want to maintain good feelings.
 

@@ -72,7 +72,7 @@ Beyond the framework itself, I included a set of principles and tools that I hav
   * [Thinking Like an Architect: Architects as Superglue](superglue)
   * [Balancing Curiosity, Doubt, Vision, and Skepticism](balancing)
   * [Architects' Career Paths](career-paths)
-* [**Notes On Human Complexity**](human-complexity):
+* [**Notes on Human Complexity**](human-complexity):
   * [The Culture Map: Architects' Culture Compass](culture-map)
   * [Cooperation-Based Organizations](six-simple-rules)
   * [The Human Side of Decision-Making](human-decisions)

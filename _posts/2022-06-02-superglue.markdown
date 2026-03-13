@@ -150,7 +150,7 @@ Superglue architects do not just connect systems. They **connect vision with exe
 
 
 <br>
-## Superglueing in Action #1: Aligning Conflicting Organizational Goals
+## Supergluing in Action #1: Aligning Conflicting Organizational Goals
 
 In many IT organizations, tensions often arise between key areas: **technology, product, organizational structure, and business strategy**. These areas tend to evolve at different speeds and often have conflicting priorities. Without proper alignment, the result can be poor decisions, increased complexity, stalled initiatives, and missed opportunities.
 
@@ -353,7 +353,7 @@ By keeping conversations focused and grounded, architects prevent teams from bec
 
 
 <br>
-## Superglueing in Action #3: Navigating Organizational Conflicts
+## Supergluing in Action #3: Navigating Organizational Conflicts
 
 In complex organizations, **conflict is not a sign of failure—it’s a sign of interdependence**. When multiple teams, priorities, and personalities come together, disagreements are inevitable. What truly matters is how these conflicts are **understood, navigated, and resolved**.
 
@@ -444,14 +444,6 @@ Architects don’t need to act as conflict mediators, but they are uniquely posi
 By applying structured decision-making, clarifying communication, and honoring diverse work styles, superglue architects transform conflict from a source of friction into a **catalyst for alignment and progress**.
 
 Their ability to work across agendas, perceptions, and personalities helps teams **navigate disagreement without losing direction**—and builds trust in the architect’s quiet but powerful role as the organization’s connective tissue.
-
-## Superglueing in Action #3: Navigating Organizational Conflicts
-
-In complex organizations, **conflict is not a sign of failure—it’s a sign of interdependence**. When multiple teams, priorities, and personalities converge, disagreements are inevitable. What matters is how these conflicts are **understood, navigated, and resolved**.
-
-IT architects, sitting at the intersection of business and technology, often find themselves in the middle of such tensions. But rather than acting as referees, great architects serve as **facilitators—guiding teams toward clarity, collaboration, and shared purpose**.
-
-
 
 <br>
 ## Final Thoughts on Superglue Impact: Keeping Everyone on the Same Page in a Stormy Sea

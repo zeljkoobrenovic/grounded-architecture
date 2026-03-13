@@ -1,7 +1,7 @@
 ---
 layout: post
 section: "Appendix 4: Pragmatic Tech Knowledge Resources"
-title: "High Performing Technology Organizations"
+title: "High-Performing Technology Organizations"
 position: 16120
 podcast: high-performing-organizations.mp3
 spotify: https://open.spotify.com/episode/33IujE7DIOFxUBgm2s1i0i?si=8acb338a5945499b
@@ -28,7 +28,7 @@ Image by <a href="https://pixabay.com/users/paulbr75-2938186/?utm_source=link-at
 
 Architecture does not operate in a vacuum. The quality of architectural work depends heavily on the wider technology organization: how teams are structured, how software is delivered, how feedback is used, and whether the culture supports learning and collaboration.
 
-## Overview 
+## Overview
 
 The [Accelerate book](https://www.oreilly.com/library/view/accelerate/9781457191435/) by Nicole Forsgren, Jez Humble, and Gene Kim is an excellent source of empirical knowledge about high-performing IT organizations.
 

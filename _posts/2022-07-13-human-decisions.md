@@ -1,6 +1,6 @@
 ---
 layout: post
-section: "Notes On Human Complexity"
+section: "Notes on Human Complexity"
 title: "The Human Side of Decision-Making"
 position: 7013
 podcast: human-decisions.mp3
