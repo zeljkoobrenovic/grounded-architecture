@@ -25,7 +25,7 @@ excerpt: "AI will do the heavy lifting. You need to lead. Cultivate agency, shar
 <div style="font-size: 70%; margin-top: -16px; color: grey; margin-bottom: 12px">
 Image by <a target="_blank" href="https://www.istockphoto.com/en/portfolio/imaginima">imaginima</a> from <a target="_blank" href="https://www.istockphoto.com/">iStock</a>
 </div>
-> **IN THIS SECTION, YOU WILL:**  Understand that balancing curiosity, doubt, vision, and skepticism is essential for driving sustainable innovation and change in organizations.
+> **IN THIS SECTION, YOU WILL:**  Understand how AI is reshaping the IT architecture landscape and what skills architects need to thrive in this new era.
 >
 > **KEY POINTS:**
 >

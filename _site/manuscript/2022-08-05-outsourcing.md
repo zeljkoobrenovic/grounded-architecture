@@ -10,21 +10,23 @@
 {pagebreak}
 
 A> **KEY POINTS:**
-A> * Strategic Outsourcing: Long-term partnerships that drive innovation and align with business goals, requiring strong governance and integration with IT architecture.
-A> * Co-Sourcing: A collaborative model where internal and external expertise is blended for shared responsibility, requiring well-defined roles, governance structures, and architectural oversight.
-A> * Transactional Outsourcing: A cost-driven approach focused on routine, non-strategic tasks, emphasizing efficiency, automation, and seamless integration with enterprise systems.
-A> * IT Architecture’s Role: Ensures strategic alignment, interoperability, governance, risk management, and smooth integration of outsourced capabilities.
-A> * Strategy Selection: Organizations should choose an outsourcing model based on their operational maturity, business objectives, and the criticality of the outsourced function.
+A> * **Strategic outsourcing** means long-term partnerships that drive innovation and align with business goals.
+A> * **Co-sourcing** blends internal and external expertise with **shared responsibility** and clear governance.
+A> * **Transactional outsourcing** is a cost-driven approach for routine, non-strategic tasks.
+A> * **IT architecture's role** is to ensure **alignment, interoperability, governance, risk management, and integration**.
+A> * **Strategy selection** should reflect **operational maturity, business objectives, and criticality**.
 
-**Outsourcing Strategies** examine various approaches to utilizing **external providers**, guided by **business goals**, **operational needs**, and the desired level of **control**. In *Enterprise Architecture as Strategy*, the authors identify three key outsourcing strategies: **strategic outsourcing**, **transactional outsourcing**, and **co-sourcing**. Each strategy represents a different method for organizations to **leverage external providers**, depending on their **business objectives**, **operational requirements**, and **desired control levels**.
+**Outsourcing strategies** describe different ways of working with **external providers**, shaped by **business goals**, **operational needs**, and the desired level of **control**. In *Enterprise Architecture as Strategy*, the authors distinguish three main models: **strategic outsourcing**, **transactional outsourcing**, and **co-sourcing**. Each reflects a different kind of relationship with external partners.
 
 * **Strategic outsourcing** aligns closely with an organization’s **long-term goals** and drives **innovation** by integrating with the overall **business strategy**. 
 * In contrast, **transactional outsourcing** emphasizes **cost reduction** and **operational efficiency** for **routine, non-strategic tasks**. 
 * **Co-sourcing** offers a **balanced approach**, encouraging **collaboration** and **shared responsibility** for **critical or complex processes**, while combining the strengths of both **internal teams** and **external providers**.
 
-Each strategy serves **distinct purposes** and should be selected based on the organization’s **needs**, **priorities**, and the specific **function being outsourced**. These strategies also reflect the organization’s **maturity in enterprise architecture** and its **capability to manage relationships** with external providers.
+Each strategy serves a different purpose and should be selected based on the organization’s **needs**, **priorities**, and the specific **function being outsourced**. These choices also reflect the maturity of the organization’s enterprise architecture and its ability to manage external relationships well.
 
-An **IT architecture practice** plays a crucial role in shaping outsourcing strategies by ensuring **alignment with enterprise goals**, maintaining **governance**, and facilitating **seamless integration**. Whether through long-term strategic outsourcing, collaborative co-sourcing, or cost-driven transactional outsourcing, IT architects provide the necessary **frameworks**, **standards**, and **oversight** to **maximize the value** of external partnerships.
+Within the broader arc of this book, outsourcing matters because it exposes whether architecture can preserve coherence beyond organizational boundaries. Grounded Architecture is not only about aligning internal teams. It is also about making sure external partners, contracts, and delivery models fit the organization’s strategy, constraints, and operating reality.
+
+An **IT architecture practice** has an important role in shaping outsourcing decisions. It helps ensure **alignment with enterprise goals**, maintains **governance**, and supports **integration** across internal and external systems. Whether the model is strategic, collaborative, or cost-driven, architects provide the standards and oversight needed to make the partnership effective.
 
 ## Strategic Outsourcing
 
@@ -93,10 +95,13 @@ In **transactional outsourcing**, the focus is on **cost reduction** through the
 * **Performance Monitoring & Optimization:** Define **metrics** and **monitoring frameworks** to ensure outsourced services meet **service-level agreements (SLAs)**, such as uptime, response time, and data accuracy.
 * **Risk Mitigation & Exit Strategy:** Create **architectures** that enable **smooth transitions** if the organization needs to **switch vendors** or **bring outsourced functions back in-house**.
 
+The practical takeaway is that outsourcing is never just a procurement choice. It is a structural and architectural choice about control, integration, learning, and long-term flexibility. The stronger the architecture practice, the more likely these partnerships are to create leverage rather than fragmentation.
+
 ## To Probe Further
 * [Enterprise Architecture as Strategy: Creating a Foundation for Business Execution](https://store.hbr.org/product/enterprise-architecture-as-strategy-creating-a-foundation-for-business-execution/8398) by Jeanne W. Ross, Peter Weill, and David C. Robertson, 2006. 
 
 ## Questions to Consider
+Use the following questions to examine how your outsourcing choices affect architectural coherence, capability, and control.
 
 * *Which outsourcing strategy—strategic outsourcing, co-sourcing, or transactional outsourcing—best aligns with your organization’s current business goals and operational needs? Why?*  
 * *How does your organization currently balance control, collaboration, and cost efficiency in outsourcing decisions? Could this balance be improved?*  
